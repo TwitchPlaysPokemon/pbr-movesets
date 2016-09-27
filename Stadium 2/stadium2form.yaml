@@ -1,0 +1,28 @@
+ingamename: SEEL-S2
+species: Seel
+setname: Physical
+moves:
+    - Surf
+    - Ice Beam
+    - Headbutt
+    - Safeguard
+gender: [m, f]
+happiness: 255
+rarity: 0.0
+nature: Adamant
+ivs: 31 (See stadiumspread.txt in folder)
+evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8} (See stadiumspread.txt in folder)
+
+species: 
+setname: 
+moves:
+    - []
+    - []
+    - []
+    - []
+gender: [m, f]
+happiness: 255
+rarity: 0.0
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

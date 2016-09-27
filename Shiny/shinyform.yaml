@@ -1,0 +1,39 @@
+ingamename: SEEL
+species: Seel
+setname: Shiny
+item: [Rawst Berry, Toxic Orb, Light Ball, NeverMelt-Ice]
+ability: [Thick Fat, Hydration]
+moves:
+    - Fake Out
+    - Aqua Tail
+    - Double-Edge
+    - Horn Drill
+gender: [f]
+form: 0
+happiness: 255
+shiny: True
+biddable: True
+rarity: 0.1
+ball: [Poké, Master]
+level: 100
+nature: Adamant
+ivs: 31
+evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
+
+species: 
+setname: 
+item: []
+ability: []
+moves:
+    - []
+    - []
+    - []
+    - []
+gender: [m, f]
+happiness: 255
+shiny: True
+rarity: 0.0
+ball: []
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

@@ -1,0 +1,39 @@
+ingamename: ACCCIOOWWW
+species: Vaporeon
+setname: Moemon
+item: [Awakening]
+ability: [Water Absorb]
+nature: Quiet
+ivs: 31
+evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
+moves:
+    - Surf
+    - Water Pulse
+    - Blizzard
+    - Aurora Beam
+gender: [f]
+form: 0
+happiness: 255
+shiny: True
+biddable: True
+rarity: 0.0
+ball: [Poké]
+level: 100
+
+species: 
+setname: 
+item: []
+ability: []
+moves:
+    - []
+    - []
+    - []
+    - []
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: []
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
