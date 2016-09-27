@@ -1,0 +1,52 @@
+species: Blastoise
+setname: Cannon
+item: [Leppa Berry]
+ability: [Torrent]
+nature: Calm
+ivs: 4
+evs: {hp: 84, atk: 0, def: 128, spA: 84, spD: 128, spe: 84}
+moves:
+    - [Hydro Cannon]
+    - [Zap Cannon]
+    - [Flash Cannon]
+    - [Withdraw, Roar, Refresh, Mud Sport, Haze]
+gender: [m, f]
+rarity: 1.0
+ball: [Ultra]
+
+species: Blastoise
+setname: Physical
+item: [Iron Ball]
+ability: [Torrent]
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+moves:
+    - [Aqua Jet, Aqua Tail]
+    - [Outrage, Earthquake]
+    - [Gyro Ball, Fling]
+    - [Curse, Counter]
+combinations:
+    - [Aqua Jet, Curse]
+separations:
+    - [Gyro Ball, Counter]
+gender: [m, f]
+rarity: 1.0
+ball: [Ultra]
+
+species: Blastoise
+setname: Stall
+item: [Damp Rock]
+ability: [Rain Dish]
+nature: Adamant
+ivs: 0
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+moves:
+    - [Hydro Pump, Surf]
+    - [Hyper Beam, Focus Blast]
+    - [Aqua Ring]
+    - [Rain Dance]
+gender: [m, f]
+biddable: False
+rarity: 0.5
+ball: [Ultra]

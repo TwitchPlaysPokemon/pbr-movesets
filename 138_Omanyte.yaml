@@ -1,0 +1,48 @@
+species: Omanyte
+setname: Special
+item: [Helix Fossil, Splash Plate, Scope Lens]
+ability: [Shell Armor, Swift Swim]
+moves:
+    - [Surf, Hydro Pump, Muddy Water, Brine, Bubble Beam]
+    - [Ancientpower, Hidden Power]
+    - [Ice Beam, Earth Power]
+    - [Rock Polish, Swift Swim]
+combinations:
+    - [Swift Swim, Rain Dance]
+    - [Wide Lens, Muddy Water]
+    - [Splash Plate, Bubblebeam]
+separations:
+    - [Swift Swim, Hydro Pump]
+    - [Swift Swim, Surf]
+    - [Battle Armor, Bubble Beam]
+gender: [m, f]
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 3, def: 30, spA: 31, spD: 30, spe: 30}
+evs: {hp: 100, atk: 0, def: 60, spA: 108, spD: 140, spe: 100}
+
+species: Omanyte
+setname: Physical
+item: [Helix Fossil, Splash Plate, Dread Plate, Smooth Rock, Micle Berry]
+ability: [Shell Armor, Swift Swim]
+moves:
+    - [Stone Edge, Dive]
+    - [Waterfall, Rock Slide]
+    - [Bite, Tickle, Sandstorm, Toxic, Iron Defense]
+    - [Rock Polish, Ran Daince]
+combinations:
+    - [Swift Swim, Rain Dance]
+    - [Dread Plate, Bite]
+    - [Smooth Rock, Sandstorm]
+separations:
+    - [Sandstorm, Rain Dance]
+    - [Splash Plate, Swift Swim]
+    - [Micle Berry, Dive]
+    - [Dive, Waterfall]
+    - [Stone Edge, Toxic]
+    - [Stone Edge, Rock Slide]
+gender: [m, f]
+ball: [Dive]
+nature: Adamant
+ivs: 31
+evs: {hp: 168, atk: 200, def: 0, spA: 0, spD: 100, spe: 40}

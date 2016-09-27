@@ -1,0 +1,43 @@
+species: Mewtwo
+setname: Me First
+ability: [Pressure]
+nature: Hardy
+ivs: 0
+evs: {hp: 49, atk: 49, def: 49, spA: 49, spD: 49, spe: 49}
+moves:
+    - [Psycho Cut]
+    - [Me First]
+    - [Disable]
+    - [Miracle Eye]
+rarity: 0.5
+ball: [Master]
+
+species: Mewtwo
+setname: Fling
+item: [Iron Ball, Poison Barb]
+ability: [Pressure]
+nature: Mild
+ivs: 0
+evs: {hp: 12, atk: 12, def: 12, spA: 12, spD: 12, spe: 12}
+moves:
+    - [Fling]
+    - [Bulk Up]
+    - [Recover]
+    - [Recycle]
+rarity: 0.1
+ball: [Premier]
+
+species: Mewtwo
+setname: Overpowered
+item: [Iron Ball]
+ability: [Pressure]
+nature: Jolly
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Psychic]
+    - [Blizzard, Ice Beam, Thunder, Thunderbolt, Fire Blast, Flamethrower, Aura Sphere]
+    - [Shadow Ball, Energy Ball, Water Pulse, Signal Beam, Grass Knot]
+    - [Embargo, Gravity, Magic Coat, Mist, Role Play]
+rarity: 0.1
+ball: [Master]

@@ -1,0 +1,31 @@
+species: Sunkern
+setname: Staller
+item: [Meadow Plate]
+ability: [Early Bird]
+moves:
+    - [Judgment]
+    - [Leech Seed]
+    - [Spore]
+    - [Substitute]
+gender: [m, f]
+rarity: 1.0
+ball: [Safari]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 128, spA: 0, spD: 128, spe: 252}
+
+species: Sunkern
+setname: Endeavor
+item: [Focus Sash]
+ability: [Chlorophyll]
+moves:
+    - [Seed Bomb]
+    - [Vacuum Wave]
+    - [Endeavor]
+    - [Spore]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

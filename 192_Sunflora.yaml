@@ -1,0 +1,35 @@
+species: Sunflora
+setname: Physical
+item: [Scope Lens, Watmel Berry]
+ability: [Early Bird, Chlorophyll]
+moves:
+    - [Razor Leaf]
+    - [Secret Power, Frustration]
+    - [Nature Power, Natural Gift]
+    - [Swords Dance, Curse, Sunny Day]
+combinations:
+    - [Chlorophyll, Sunny Day]
+    - [Watmel Berry, Natural Gift]
+gender: [m, f]
+happiness: 68
+rarity: 1.0
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 0, spe: 128}
+
+species: Sunflora
+setname: Special
+item: [Zoom Lens]
+ability: [Solar Power]
+moves:
+    - [Giga Drain]
+    - [Earth Power]
+    - [Grass Whistle]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 0.5
+ball: [Safari]
+nature: Brave
+ivs: 0
+evs: {hp: 40, atk: 0, def: 180, spA: 180, spD: 180, spe: 8}

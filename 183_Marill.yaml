@@ -1,0 +1,57 @@
+species: Marill
+setname: Physical
+item: [Zoom Lens, Muscle Band, Oran Berry, Berry Juice]
+ability: [Huge Power]
+moves:
+    - [Aqua Tail, Waterfall, Dive]
+    - [Superpower]
+    - [Mega Kick, Body Slam, Return, Toxic]
+    - [Tail Whip, Encore, Amnesia, Protect]
+combinations:
+    - [Oran Berry, Waterfall, Body Slam]
+    - [Berry Juice, Dive, Toxic, Protect]
+    - [Zoom Lens, Mega Kick]
+    - [Muscle Band, Return]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+
+species: Marill
+setname: Special
+item: [Wide Lens]
+ability: [Thick Fat]
+moves:
+    - [Hydro Pump, Surf]
+    - [Ice Beam, Blizzard]
+    - [Grass Knot]
+    - [Fake Tears, Sing, Swagger]
+separations:
+    - [Hydro Pump, Blizzard]
+    - [Surf, Ice Beam]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+nature: Modest
+ivs: 31
+evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
+
+species: Marill
+setname: Belly Drum
+item: [Sitrus Berry]
+ability: [Huge Power]
+moves:
+    - [Aqua Jet]
+    - [Superpower, Focus Punch]
+    - [Copycat, Substitute]
+    - [Belly Drum]
+combinations:
+    - [Focus Punch, Substitute]
+gender: [m, f]
+rarity: 1.0
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 124, atk: 252, def: 64, spA: 0, spD: 64, spe: 0}

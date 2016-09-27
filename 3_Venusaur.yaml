@@ -1,0 +1,45 @@
+species: Venusaur
+setname: Physical
+item: [Qualot Berry]
+ability: [Overgrow]
+nature: Hasty
+ivs: 21
+evs: {hp: 160, atk: 48, def: 120, spA: 0, spD: 120, spe: 60}
+moves:
+    - [Razor Leaf]
+    - [Natural Gift]
+    - [Rock Smash, Rock Climb, Headbutt]
+    - [Charm, Knock Off, Rage, Defense Curl]
+gender: [m, f]
+ball: [Ultra]
+
+species: Venusaur
+setname: Special
+item: [Miracle Seed]
+ability: [Overgrow]
+nature: Rash
+ivs: {hp: 5, atk: 5, def: 5, spA: 31, spD: 5, spe: 31}
+evs: {hp: 84, atk: 72, def: 44, spA: 168, spD: 44, spe: 96}
+moves:
+    - [Sludge]
+    - [Mega Drain, Magical Leaf]
+    - [Nature Power]
+    - [Growth, Curse, Amnesia, Safeguard, String Shot, Roar]
+gender: [m, f]
+ball: [Ultra]
+
+species: Venusaur
+setname: Token
+item: [Salac Berry]
+ability: [Overgrow]
+nature: Sassy
+ivs: 31
+evs: {hp: 232, atk: 0, def: 0, spA: 0, spD: 252, spe: 24}
+moves:
+    - [Sludge]
+    - [Nature Power]
+    - [Grass Whistle]
+    - [Substitute]
+gender: [m, f]
+rarity: 0
+ball: [Ultra]

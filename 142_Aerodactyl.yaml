@@ -1,0 +1,72 @@
+species: Aerodactyl
+setname: Standard
+item: [Old Amber]
+ability: [Pressure]
+moves:
+    - [Sky Attack, Rock Slide]
+    - [Rock Tomb, Wing Attack]
+    - [Taunt, Curse, Supersonic]
+    - [Stealth Rock, Sandstorm, Torment, Whirlwind]
+separations:
+    - [Sky Attack, Wing Attack]
+    - [Rock Slide, Rock Tomb]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Docile
+ivs: 6
+evs: {hp: 100, atk: 24, def: 108, spA: 84, spD: 84, spe: 108}
+
+species: Aerodactyl
+setname: Physical
+item: [Old Amber, Sharp Beak, Magnet, NeverMelt-Ice, Charcoal]
+ability: [Pressure, Rock Head]
+moves:
+    - [Stone Edge]
+    - [Earthquake, Aerial Ace, Iron Head]
+    - [Dragon Claw, Thunder Fang, Ice Fang, Fire Fang, Take Down]
+    - [Tailwind, Defog, Scary Face]
+combinations:
+    - [Sharp Beak, Aerial Ace]
+    - [Magnet, Thunder Fang]
+    - [Charcoal, Fire Fang]
+    - [NeverMelt-Ice, Ice Fang]
+    - [Rock Head, Take Down]
+gender: [m, f]
+rarity: 1.0
+ball: [Timer]
+nature: Relaxed
+ivs: 0
+evs: {hp: 40, atk: 0, def: 116, spA: 0, spD: 120, spe: 0}
+
+species: Aerodactyl
+setname: Special
+item: [Old Amber]
+ability: [Pressure]
+moves:
+    - [Ancientpower]
+    - [Air Cutter]
+    - [Flamethrower, Earth Power, Dragon Pulse, Aqua Tail, Crunch]
+    - [Stealth Rock, Tailwind, Taunt, Sandstorm, Defog]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Quiet
+ivs: 15
+evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
+
+species: Aerodactyl
+setname: Stall
+item: [Smooth Rock]
+ability: [Pressure]
+moves:
+    - [Fly]
+    - [Dragon Rage]
+    - [Toxic]
+    - [Sandstorm]
+gender: [m, f]
+rarity: 1.0
+ball: [Timer]
+nature: Bold
+ivs: {hp: 31, atk: 3, def: 31, spA: 3, spD: 3, spe: 3}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

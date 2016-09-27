@@ -1,0 +1,54 @@
+species: Togetic
+setname: Serene Grace
+item: [Lucky Egg]
+ability: [Serene Grace]
+moves:
+    - [Fire Blast, Flamethrower, Heat Wave]
+    - [Psychic, Extrasensory]
+    - [Shadow Ball, Signal Beam, Water Pulse]
+    - [Heal Bell, Encore, Rain Dance, Defog, Thunder Wave]
+combinations:
+    - [Fire Blast, Defog]
+    - [Extrasensory, Thunder Wave]
+    - [Water Pulse, Rain Dance]
+gender: [m, f]
+rarity: 1.0
+ball: [Premier]
+nature: Modest
+ivs: 18
+evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+
+species: Togetic
+setname: Hustle
+item: [Air Mail, Black Belt, Hard Stone]
+ability: [Hustle]
+moves:
+    - [Body Slam, Frustration]
+    - [Aerial Ace]
+    - [Zen Headbutt, Steel Wing, Drain Punch, Rollout]
+    - [Captivate, Charm, Psycho Shift, Tailwind, Defense Curl]
+combinations:
+    - [Black Belt, Drain Punch]
+    - [Hard Stone, Rollout, Defense Curl]
+gender: [m, f]
+happiness: 225
+rarity: 1.0
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 124, atk: 128, def: 64, spA: 0, spD: 64, spe: 128}
+
+species: Togetic
+setname: Baton Pass
+ability: [Serene Grace]
+moves:
+    - [Tri Attack]
+    - [Ominous Wind, Ancientpower, Silver Wind]
+    - [Nasty Plot]
+    - [Baton Pass]
+gender: [m, f]
+rarity: 1.0
+ball: [Luxury]
+nature: Relaxed
+ivs: 15
+evs: {hp: 172, atk: 0, def: 92, spA: 72, spD: 58, spe: 0}

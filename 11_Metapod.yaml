@@ -1,0 +1,14 @@
+species: Metapod
+setname: Standard
+item: [Insect Plate]
+ability: [Adaptability]
+nature: Timid
+ivs: 31
+evs: {hp: 88, atk: 0, def: 0, spA: 252, spD: 88, spe: 80}
+moves:
+    - [Judgment]
+    - [Tail Glow]
+    - [Rock Polish]
+    - [Heal Order]
+gender: [m, f]
+ball: [Net]

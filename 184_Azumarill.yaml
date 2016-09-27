@@ -1,0 +1,57 @@
+species: Azumarill
+setname: Huge Power
+item: [Expert Belt, Choice Band]
+ability: [Huge Power]
+moves:
+    - [Aqua Tail, Waterfall, Aqua Jet]
+    - [Dig, Brick Break, Body Slam, Ice Punch]
+    - [Rock Smash, Slam, Rollout, Grass Knot]
+    - [Refresh, Tail Whip, Defense Curl, Present]
+combinations:
+    - [Waterfall, Body Slam]
+    - [Choice Band, Aqua Jet, Present]
+    - [Rollout, Defense Curl]
+separations:
+    - [Brick Break, Rock Smash]
+    - [Slam, Present]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Docile
+ivs: {hp: 15, atk: 0, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 60, atk: 40, def: 52, spA: 252, spD: 52, spe: 52}
+
+species: Azumarill
+setname: Thick Fat
+ability: [Thick Fat]
+moves:
+    - [Hydro Pump, Surf]
+    - [Focus Blast, Ice Beam, Seismic Toss]
+    - [Whirlpool, Toxic, Fake Tears]
+    - [Substitute, Perish Song, Protect, Amnesia]
+combinations:
+    - [Perish Song, Whirlpool]
+separations:
+    - [Fake Tears, Protect]
+gender: [m, f]
+rarity: 1.0
+ball: [Safari]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+
+species: Azumarill
+setname: Stall
+item: [Poison Barb]
+ability: [Huge Power]
+moves:
+    - [Dive]
+    - [Future Sight]
+    - [Fling]
+    - [Protect]
+gender: [m, f]
+rarity: 0.4
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}

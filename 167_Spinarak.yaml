@@ -1,0 +1,49 @@
+species: Spinarak
+setname: Swarm
+item: [Liechi Berry]
+ability: [Swarm]
+moves:
+    - [Megahorn]
+    - [Sucker Punch]
+    - [Night Shade]
+    - [Endure]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 64, def: 92, spA: 0, spD: 92, spe: 0}
+
+species: Spinarak
+setname: Sniper
+item: [Lansat Berry]
+ability: [Sniper]
+moves:
+    - [Cross Poison]
+    - [Night Slash]
+    - [Dig, Agility]
+    - [Substitute, Endure]
+combinations:
+    - [Dig, Substitute]
+gender: [m, f]
+rarity: 1.0
+ball: [Repeat]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+
+species: Spinarak
+setname: Insomnia
+item: [Choice Specs]
+ability: [Insomnia]
+moves:
+    - [Sludge Bomb]
+    - [Psychic]
+    - [Hidden Power]
+    - [Giga Drain]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 84, spe: 4}

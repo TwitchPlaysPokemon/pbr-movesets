@@ -1,0 +1,38 @@
+species: Wooper
+setname: Physical
+item: [Leftovers]
+ability: [Unaware]
+moves:
+    - [Earthquake]
+    - [Aqua Tail, Waterfall]
+    - [Yawn, Curse]
+    - [Protect, Recover]
+combinations:
+    - [Yawn, Protect]
+    - [Curse, Recover]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 44, spA: 0, spD: 128, spe: 0}
+
+species: Wooper
+setname: Special
+item: [Salac Berry, Zoom Lens, Soft Sand]
+ability: [Damp, Water Absorb]
+moves:
+    - [Surf, Muddy Water]
+    - [Earth Power, Mud Shot]
+    - [Blizzard, Ice Beam]
+    - [Endure, Sludge Bomb]
+combinations:
+    - [Salac Berry, Surf, Endure]
+    - [Zoom Lens, Muddy Water]
+    - [Soft Sand, Mud Shot]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

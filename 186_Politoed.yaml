@@ -1,0 +1,50 @@
+species: Politoed
+setname: Special
+item: [Blue Shard, Wave Incense, Sea Incense, Soft Sand]
+ability: [Damp, Water Absorb]
+moves:
+    - [Surf, Bubblebeam, Water Pulse]
+    - [Focus Blast, Blizzard]
+    - [Ice Beam, Psychic, Mud Bomb]
+    - [Sweet Kiss, Attract, Captivate, Haze, Mind Reader, Splash]
+combinations:
+    - [Wave Incense, Bubblebeam]
+    - [Sea Incense, Water Pulse]
+    - [Soft Sand, Mud Shot]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Naughty
+ivs: 0
+evs: {hp: 100, atk: 8, def: 100, spA: 100, spD: 100, spe: 100}
+
+species: Politoed
+setname: Physical
+ability: [Damp, Water Absorb]
+moves:
+    - [Waterfall]
+    - [Earthquake, Body Slam, Wake-Up Slap, Ice Ball]
+    - [Hypnosis]
+    - [Belly Drum]
+gender: [m, f]
+rarity: 0.6
+ball: [Dive]
+nature: Adamant
+ivs: 0
+evs: {hp: 100, atk: 108, def: 100, spA: 16, spD: 100, spe: 20}
+
+species: Politoed
+setname: Trapper
+item: [Grip Claw]
+ability: [Drizzle]
+moves:
+    - [Whirlpool]
+    - [Mud Shot]
+    - [Perish Song]
+    - [Protect]
+gender: [m, f]
+rarity: 0.4
+ball: [Timer]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 40, spA: 216, spD: 0, spe: 0}

@@ -1,0 +1,35 @@
+species: Chikorita
+setname: Physical
+item: [Big Root, Occa Berry, Yache Berry, Coba Berry]
+ability: [Overgrow]
+moves:
+    - [Seed Bomb]
+    - [Leech Seed, Iron Tail]
+    - [Counter]
+    - [Light Screen, Swords Dance, Swagger, Protect]
+combinations:
+    - [Big Root, Leech Seed]
+separations:
+    - [Iron Tail, Protect]
+gender: [m, f]
+rarity: 1.0
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+
+species: Chikorita
+setname: Special
+item: [Custap Berry, Occa Berry, Yache Berry, Coba Berry]
+ability: [Overgrow]
+moves:
+    - [Energy Ball, Grass Knot]
+    - [Frenzy Plant]
+    - [Wring Out, Ancientpower]
+    - [Endure, Substitute, Mud-Slap]
+combinations:
+    - [Custap Berry, Endure]
+gender: [m, f]
+rarity: 1.0
+nature: Modest
+ivs: 31
+evs: {hp: 112, atk: 0, def: 54, spA: 228, spD: 54, spe: 60}

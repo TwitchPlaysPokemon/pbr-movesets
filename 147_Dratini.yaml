@@ -1,0 +1,30 @@
+species: Dratini
+setname: Physical
+item: [Wide Lens, null]
+ability: [Shed Skin]
+moves:
+    - [Outrage, Dragon Rush]
+    - [Extremespeed]
+    - [Waterfall]
+    - [Dragon Dance]
+combinations:
+    - [Wide Lens, Dragon Rush]
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 172, atk: 84, def: 84, spA: 0, spD: 84, spe: 84}
+
+species: Dratini
+setname: Special
+item: [Haban Berry, Yache Berry]
+ability: [Shed Skin]
+moves:
+    - [Draco Meteor]
+    - [Hydro Pump]
+    - [Fire Blast]
+    - [Agility, Thunder Wave, Icy Wind]
+rarity: 1.0
+nature: Modest
+ivs: 31
+evs: {hp: 168, atk: 0, def: 64, spA: 252, spD: 24, spe: 0}

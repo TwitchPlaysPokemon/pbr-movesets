@@ -1,0 +1,54 @@
+species: Eevee
+setname: Physical
+item: [Muscle Band, Salac Berry, Power Herb, Toxic Orb]
+ability: [Adaptability]
+moves:
+    - [Return, Body Slam, Facade, Headbutt, Take Down]
+    - [Iron Tail, Bite, Dig]
+    - [Quick Attack, Baton Pass]
+    - [Curse, Endure]
+combinations:
+    - [Power Herb, Dig]
+    - [Salac Berry, Endure]
+    - [Toxic Orb, Facade]
+separations:
+    - [Headbutt, Curse]
+    - [Toxic Orb, Endure]
+gender: [m, f]
+rarity: 1.0
+ball: [Premier]
+nature: Impish
+ivs: 31
+evs: {hp: 100, atk: 100, def: 108, spA: 0, spD: 100, spe: 100}
+
+species: Eevee
+setname: Special
+item: [Silk Scarf, Wise Glasses, Sitrus Berry]
+ability: [Adaptability]
+moves:
+    - [Trump Card]
+    - [Shadow Ball, Hidden Power]
+    - [Wish, Yawn, Mud-Slap]
+    - [Fake Tears, Protect]
+combinations:
+    - [Sitrus Berry, Mud-Slap, Fake Tears]
+gender: [m, f]
+rarity: 1.0
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 80, atk: 0, def: 24, spA: 252, spD: 24, spe: 128}	
+
+species: Eevee
+setname: Last Resort
+item: [Silk Scarf]
+ability: [Adaptability]
+moves:
+    - [Last Resort]
+    - [Bite]
+gender: [m, f]
+rarity: 0.5
+ball: [Timer]
+nature: Jolly
+ivs: 31
+evs: {hp: 120, atk: 108, def: 120, spA: 0, spD: 80, spe: 80}

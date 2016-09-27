@@ -1,0 +1,54 @@
+species: Aipom
+setname: Physical
+item: [Rawst Berry, Miracle Seed, Black Belt, Magnet]
+ability: [Run Away, Pickup]
+moves:
+    - [Fake Out]
+    - [Body Slam, Mega Kick, Last Resort]
+    - [Gunk Shot, Seed Bomb, Brick Break, Thunder Punch]
+    - [Sand-Attack, Role Play, Taunt, Tail Whip, Protect]
+combinations:
+    - [Miracle Seed, Seed Bomb]
+    - [Black Belt, Brick Break]
+    - [Magnet, Thunder Punch]
+    - [Last Resort, Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+
+species: Aipom
+setname: Special
+item: [Silk Scarf]
+ability: [Run Away, Pickup]
+moves:
+    - [Swift]
+    - [Shadow Ball, Thunderbolt, Water Pulse, Grass Knot]
+    - [Nasty Plot]
+    - [Baton Pass]
+gender: [m, f]
+rarity: 0.5
+ball: [Net]
+nature: Timid
+ivs: 31
+evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
+
+species: Aipom
+setname: Skill Link
+item: [Muscle Band]
+ability: [Skill Link]
+moves:
+    - [DoubleSlap]
+    - [Brick Break]
+    - [Shadow Claw]
+    - [Tickle]
+gender: [m, f]
+rarity: 0.5
+ball: [Repeat]
+nature: Impish
+ivs: 31
+evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 84, spe: 84}

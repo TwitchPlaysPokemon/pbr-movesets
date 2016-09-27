@@ -1,0 +1,32 @@
+species: Hoppip
+setname: Physical
+item: [Kebia Berry]
+ability: [Chlorophyll]
+moves:
+    - [Aerial Ace, Bounce, Seed Bomb]
+    - [U-turn, Memento]
+    - [Leech Seed]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+
+species: Hoppip
+setname: Special
+item: [Sitrus Berry]
+ability: [Chlorophyll]
+moves:
+    - [Solarbeam]
+    - [Toxic]
+    - [Synthesis]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Modest
+ivs: 31
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}

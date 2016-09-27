@@ -1,0 +1,31 @@
+species: Pichu
+setname: Physical
+item: [Liechi Berry]
+ability: [Static]
+moves:
+    - [Volt Tackle]
+    - [Reversal]
+    - [Teeter Dance]
+    - [Substitute]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+
+species: Pichu
+setname: Special
+item: [Focus Sash]
+ability: [Static, Lightning Rod]
+moves:
+    - [Thunderbolt, Thunder]
+    - [Surf]
+    - [Grass Knot]
+    - [Nasty Plot]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

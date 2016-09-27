@@ -1,0 +1,40 @@
+species: Jolteon
+setname: Standard
+item: [Aspear Berry, King's Rock, Micle Berry, Toxic Orb]
+ability: [Volt Absorb, Quick Feet]
+moves:
+    - [Thunderbolt, Thunder Fang, Discharge]
+    - [Iron Tail, Signal Beam]
+    - [Pin Missile, Double Kick, Facade, Flail, Bite]
+    - [Sand-Attack, Curse, Heal Bell, Helping Hand, Tail Whip, Endure]
+combinations:
+    - [Razor Claw, Pin Missile]
+    - [King's Rock, Double Kick]
+    - [Flail, Endure]
+    - [Micle Berry, Iron Tail]
+    - [Toxic Orb, Facade]
+separations:
+    - [Signal Beam, Pin Missile]
+    - [Volt Absorb, Facade]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 0, spe: 0}
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+
+species: Jolteon
+setname: Baton Pass
+item: [Power Herb]
+ability: [Volt Absorb]
+moves:
+    - [Charge Beam]
+    - [Shadow Ball]
+    - [Skull Bash]
+    - [Baton Pass]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 5
+evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}

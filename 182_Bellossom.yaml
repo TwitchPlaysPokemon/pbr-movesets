@@ -1,0 +1,19 @@
+species: Bellossom
+setname: Standard
+item: [null, Persim Berry, Rose Incense, Hard Stone]
+ability: [Chlorophyll]
+moves:
+    - [Solarbeam, Petal Dance, Leaf Blade]
+    - [Secret Power, Sludge Bomb, Fling]
+    - [Drain Punch, Hidden Power]
+    - [Sunny Day]
+combinations:
+    - [Persim Berry, Petal Dance]
+    - [Rose Incense, Leaf Blade]
+    - [Hard Stone, Fling]
+gender: [m, f]
+rarity: 1.0
+ball: [Cherish]
+nature: Relaxed
+ivs: {hp: 25, atk: 25, def: 25, spA: 26, spD: 26, spe: 23}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}

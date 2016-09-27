@@ -1,0 +1,65 @@
+species: Snorlax
+setname: Physical
+ability: [Immunity]
+moves:
+    - [Mega Punch, Strength, Rock Climb]
+    - [Gunk Shot, Outrage]
+    - [Fire Punch, Brick Break, Seed Bomb]
+    - [Captivate, Metronome, Odor Sleuth, Refresh, Whirlwind]
+separations:
+    - [Outrage, Odor Sleuth]
+    - [Brick Break, Odor Sleuth]
+    - [Seed Bomb, Odor Sleuth]
+gender: [m, f]
+rarity: 1.0
+ball: [Timer]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 30, spD: 0, spe: 0}
+evs: {hp: 0, atk: 20, def: 100, spA: 252, spD: 20, spe: 8}
+
+species: Snorlax
+setname: Bling
+item: [Amulet Coin]
+ability: [Thick Fat]
+moves:
+    - [Pay Day]
+    - [Pursuit]
+    - [Yawn, Rock Smash]
+    - [Curse]
+gender: [m, f]
+rarity: 1.0
+ball: [Luxury]
+nature: Sassy
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 252, spe: 4}
+
+species: Snorlax
+setname: Special
+ability: [Immunity]
+moves:
+    - [Hyper Beam, Hyper Voice]
+    - [Surf, Flamethrower, Thunderbolt, Ice Beam]
+    - [Psychic, Shadow Ball, Psywave]
+    - [Counter, Lovely Kiss, Snore]
+gender: [m, f]
+rarity: 1.0
+ball: [Timer]
+nature: Rash
+ivs: {hp: 31, atk: 17, def: 17, spA: 17, spD: 17, spe: 17}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+
+species: Snorlax
+setname: Gluttony
+item: [Starf Berry]
+ability: [Gluttony]
+moves:
+    - [Tackle]
+    - [Zap Cannon, Thunder]
+    - [Substitute]
+    - [Recycle]
+gender: [m, f]
+rarity: 1.0
+ball: [Luxury]
+nature: Impish
+ivs: 31
+evs: {hp: 76, atk: 0, def: 252, spA: 0, spD: 180, spe: 0}

@@ -1,0 +1,70 @@
+species: Zapdos
+setname: Standard 
+item: [Lucky Egg]
+ability: [Pressure]
+moves:
+    - [Pluck]
+    - [Thundershock]
+    - [Rock Smash]
+    - [Detect]
+rarity: 1.0
+ball: [Repeat]
+nature: Rash
+ivs: 27
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+
+species: Zapdos
+setname: Special
+item: [Macho Brace]
+ability: [Pressure]
+moves:
+    - [Thunderbolt, Thunder, Discharge]
+    - [Hidden Power, Heat Wave]
+    - [Ancientpower, Extrasensory, Signal Beam, Ominous Wind]
+    - [Twister, Defog, Tailwind, Rain Dance, Roar, Metal Sound]
+separations:
+    - [Thunderbolt, Rain Dance]
+    - [Discharge, Rain Dance]
+    - [Thunderbolt, Defog]
+    - [Discharge, Defog]
+    - [Thunder, Twister]
+    - [Thunder, Roar]
+    - [Thunder, Metal Sound]
+rarity: 1.0
+ball: [Timer]
+nature: Jolly
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 40, spA: 4, spD: 40, spe: 252}
+
+species: Zapdos
+setname: Baton Pass
+item: [Apicot Berry]
+ability: [Pressure, Static]
+moves:
+    - [Charge Beam]
+    - [Ominous Wind, AncientPower, Steel Wing]
+    - [Agility, Curse]
+    - [Baton Pass]
+separations:
+    - [Ominous Wind, Curse]
+    - [AncientPower, Curse]
+rarity: 1.0
+ball: [Ultra]
+nature: Naughty
+ivs: 31
+evs: {hp: 16, atk: 124, def: 16, spA: 16, spD: 16, spe: 16}
+
+species: Zapdos
+setname: Overpowered
+item: [Air Mail]
+ability: [Pressure]
+moves:
+    - [Thunder]
+    - [Drill Peck, Sky Attack]
+    - [Heat Wave, Extrasensory, U-turn]
+    - [Rain Dance]
+rarity: 0.1
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}

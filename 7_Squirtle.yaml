@@ -1,0 +1,38 @@
+species: Squirtle
+setname: Special
+item: [Black Glasses, Blackbelt]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Hydro Pump, Hydro Cannon, Surf]
+    - [Dark Pulse, Aura Sphere]
+    - [Ice Beam, Dragon Pulse, Icy Wind, Yawn]
+    - [Mirror Coat, Counter, Protect]
+combinations:
+    - [Black Glasses, Dark Pulse]
+    - [Blackbelt, Aura Sphere]
+    - [Yawn, Protect]
+gender: [m, f]
+
+species: Squirtle
+setname: Physical
+item: [Muscle Band, Liechi Berry, Light Ball, Damp Rock]
+ability: [Torrent, Rain Dish]
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+moves:
+    - [Waterfall, Dive, Aqua Tail]
+    - [Body Slam, Zen Headbutt, Ice Punch, Focus Punch]
+    - [Aqua Jet, Fling, Toxic]
+    - [Iron Defense, Rain Dance, Substitute, Yawn, Swagger]
+combinations:
+    - [Liechi Berry, Iron Defense]
+    - [Light Ball, Waterfall, Fling]
+    - [Damp Rock, Rain Dish, Dive, Toxic, Rain Dance]
+    - [Focus Punch, Substitute]
+separations:
+    - [Body Slam, Fling]
+gender: [m, f]

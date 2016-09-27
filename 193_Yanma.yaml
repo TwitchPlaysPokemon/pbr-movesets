@@ -1,0 +1,42 @@
+species: Yanma
+setname: Special
+item: [Stable Mulch, Silverpowder, Miracle Seed, Hard Stone, Power Herb]
+ability: [Speed Boost]
+moves:
+    - [Bug Buzz, Signal Beam]
+    - [Air Slash]
+    - [Psychic, Ancientpower, Giga Drain, Solarbeam]
+    - [Detect, Uproar, Roost]
+combinations:
+    - [Silverpowder, Signal Beam]
+    - [Miracle Seed, Giga Drain]
+    - [Hard Stone, Ancientpower]
+    - [Power Herb, Solarbeam]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+nature: Modest
+ivs: 23
+evs: {hp: 88, atk: 0, def: 168, spA: 84, spD: 168, spe: 0}
+
+species: Yanma
+setname: Physical
+item: [Blackglasses, Silverpowder, Sky Plate, Sharp Beak]
+ability: [Compound Eyes]
+moves:
+    - [U-turn, Bug Bite, Aerial Ace, Wing Attack]
+    - [Feint Attack, Headbutt, Steel Wing, Reversal]
+    - [Hypnosis]
+    - [String Shot, Flash, Whirlwind, Screech, Endure]
+combinations:
+    - [Silverpowder, Bug Bite]
+    - [Sky Plate, Aerial Ace]
+    - [Sharp Beak, Wing Attack]
+    - [Blackglasses, Feint Attack]
+    - [Reversal, Endure]
+gender: [m, f]
+rarity: 1.0
+ball: [Safari]
+nature: Adamant
+ivs: 23
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}

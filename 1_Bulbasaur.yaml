@@ -1,0 +1,49 @@
+species: Bulbasaur
+setname: Special
+item: [Miracle Seed, Chesto Berry, Poison Barb]
+ability: [Overgrow]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 100, atk: 0, def: 100, spA: 80, spD: 100, spe: 128}
+moves:
+    - [Sludge Bomb]
+    - [Energy Ball, Giga Drain, Petal Dance]
+    - [Leech Seed, Hidden Power Psychic 70, Sleep Powder]
+    - [Protect, Bind, Rest, Light Screen]
+combinations:
+    - [Leech Seed, Protect]
+    - [Chesto Berry, Rest]
+    - [Petal Dance, Poison Barb]
+gender: [m, f]
+
+species: Bulbasaur
+setname: Physical 
+item: [Salac Berry, Power Herb]
+ability: [Overgrow]
+nature: Adamant
+ivs: 31
+evs: {hp: 168, atk: 252, def: 44, spA: 0, spD: 44, spe: 0}
+moves:
+    - [Power Whip]
+    - [Double-Edge, Skull Bash]
+    - [Natural Gift, Rock Smash]
+    - [Swords Dance, Synthesis]
+combinations:
+    - [Salac Berry, Double-Edge, Natural Gift, Swords Dance]
+    - [Power Herb, Skull Bash, Rock Smash, Synthesis]
+gender: [m, f]
+
+species: Bulbasaur
+setname: Token
+item: [Occa Berry]
+ability: [Chlorophyll]
+nature: Relaxed
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 100, atk: 100, def: 108, spA: 100, spD: 100, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Body Slam]
+    - [Hidden Power]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 0

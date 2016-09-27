@@ -1,0 +1,31 @@
+species: Cleffa
+setname: Special
+item: [Life Orb]
+ability: [Magic Guard]
+moves:
+    - [Hyper Voice]
+    - [Flamethrower, Fire Blast]
+    - [Magical Leaf, Water Pulse, Psychic, Shadow Ball]
+    - [Thunder Wave]
+gender: [m, f]
+rarity: 1.0
+ball: [Premier]
+nature: Modest
+ivs: 31
+evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}
+
+species: Cleffa
+setname: Physical
+item: [Zoom Lens]
+ability: [Magic Guard]
+moves:
+    - [Mega Kick]
+    - [Dig, Iron Tail]
+    - [Sing]
+    - [Belly Drum]
+gender: [m, f]
+rarity: 1.0
+ball: [Timer]
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 128, def: 128, spA: 0, spD: 0, spe: 0}

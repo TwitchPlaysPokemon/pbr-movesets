@@ -1,0 +1,34 @@
+species: Ivysaur
+setname: Standard
+item: [Yache Berry, Occa Berry, Miracle Seed]
+ability: [Chlorophyll]
+nature: Brave
+ivs: 23
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+moves:
+    - [Power Whip, Seed Bomb, Energy Ball]
+    - [Weather Ball, Sludge Bomb]
+    - [Swords Dance, Growth]
+    - [Sunny Day]
+combinations:
+    - [Occa Berry, Sludge Bomb]
+    - [Miracle Seed, Seed Bomb]
+    - [Energy Ball, Growth]
+gender: [m, f]
+ball: [Great]
+
+species: Ivysaur
+setname: Token
+item: [Coba Berry]
+ability: [Chlorophyll]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 2}
+evs: {hp: 80, atk: 208, def: 80, spA: 60, spD: 80, spe: 0}
+moves:
+    - [Sludge Bomb]
+    - [Hidden Power]
+    - [Knock Off]
+    - [Protect]
+gender: [m, f]
+rarity: 0
+ball: [Great]

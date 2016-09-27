@@ -1,0 +1,37 @@
+species: Croconaw
+setname: Physical
+item: [Muscle Band]
+ability: [Torrent]
+moves:
+    - [Aqua Tail, Waterfall]
+    - [Shadow Claw, Crunch, Dragon Claw, Body Slam, Rock Slide, Superpower]
+    - [Aqua Jet, Aerial Ace, Bite]
+    - [Swords Dance, Dragon Dance]
+combinations:
+    - [Aqua Tail, Aqua Jet, Swords Dance]
+separations:
+    - [Crunch, Bite]
+    - [Body Slam, Dragon Dance]
+    - [Rock Slide, Swords Dance]
+gender: [m, f]
+rarity: 1.0
+ball: [Great]
+nature: Quiet
+ivs: 31
+evs: {hp: 148, atk: 80, def: 100, spA: 0, spD: 100, spe: 80}
+
+species: Croconaw
+setname: Special
+item: [King's Rock]
+ability: [Torrent]
+moves:
+    - [Surf, Hydro Pump]
+    - [Ice Beam, Blizzard]
+    - [Ancientpower, Hidden Power]
+    - [Scary Face]
+gender: [m, f]
+rarity: 1.0
+ball: [Great]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}

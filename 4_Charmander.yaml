@@ -1,0 +1,49 @@
+species: Charmander
+setname: Physical
+item: [Zoom Lens, Apicot Berry, Hard Stone, Persim Berry]
+ability: [Blaze, Solar Power]
+nature: Jolly
+ivs: 31
+evs: {hp: 44, atk: 252, def: 0, spA: 0, spD: 0, spe: 212}
+moves:
+    - [Flare Blitz]
+    - [Outrage, Mega Kick, Rock Slide, Iron Tail, Natural Gift]
+    - [Will-O-Wisp, Swagger, Counter]
+    - [Swords Dance, Dragon Dance, Sunny Day]
+combinations:
+    - [Apicot Berry, Natural Gift]
+    - [Persim Berry, Outrage]
+    - [Hard Stone, Rock Slide]
+    - [Solar Power, Sunny Day]
+gender: [m, f]
+
+species: Charmander
+setname: Special
+item: [Chesto Berry, Petaya Berry, Salac Berry]
+ability: [Blaze]
+nature: Modest
+ivs: 31
+evs: {hp: 76, atk: 0, def: 0, spA: 180, spD: 0, spe: 252}
+moves:
+    - [Fire Blast, Flamethrower, Heat Wave]
+    - [Ancientpower, Dragon Pulse]
+    - [Will-O-Wisp, Double Team]
+    - [Rest, Endure]
+combinations:
+    - [Chesto Berry + Rest]
+gender: [m, f]
+
+species: Charmander
+setname: Token
+item: [Charcoal, Cheri Berry]
+ability: [Blaze]
+nature: Adamant
+ivs: 31
+evs: {hp: 20, atk: 252, def: 0, spA: 0, spD: 0, spe: 236}
+moves:
+    - [Flare Blitz]
+    - [Rock Slide]
+    - [Aerial Ace]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 0

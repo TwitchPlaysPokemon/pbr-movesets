@@ -1,0 +1,58 @@
+species: Noctowl
+setname: Standard
+item: [Air Mail]
+ability: [Keen Eye, Insomnia]
+moves:
+    - [Hyper Beam, Sky Attack]
+    - [Night Shade, Nightmare]
+    - [Mirror Move, Hypnosis]
+    - [Protect, Block]
+combinations:
+    - [Night Shade, Mirror Move, Protect]
+    - [Nightmare, Hypnosis, Protect]
+gender: [m, f]
+rarity: 1.0
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 84, spe: 84}
+
+species: Noctowl
+setname: Special
+item: [White Flute, Silk Scarf, Draco Plate, Lum Berry]
+ability: [Tinted Lens, Insomnia]
+moves:
+    - [Air Slash, Swift]
+    - [Psychic, Extrasensory, Heat Wave]
+    - [Shadow Ball, Signal Beam, Twister]
+    - [Tailwind, Whirlwind, Defog, Recycle]
+combinations:
+    - [Silk Scarf, Swift]
+    - [Draco Plate, Twister]
+    - [Chesto Berry, Recycle]
+    - [Insomnia, Heat Wave]
+gender: [m, f]
+rarity: 1.0
+ball: [Luxury]
+nature: Bold
+ivs: {hp: 0, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 0, atk: 0, def: 208, spA: 100, spD: 100, spe: 100}
+
+species: Noctowl
+setname: Physical
+item: [Rare Candy, Sharp Beak, Metal Coat]
+ability: [Tinted Lens]
+moves:
+    - [Giga Impact, Double-Edge]
+    - [Fly, Wing Attack]
+    - [Zen Headbutt, Feint Attack, Steel Wing]
+    - [Captivate, Double Team, Magic Coat, Growl, Reflect]
+combinations:
+    - [Sharp Beak, Wing Attack]
+    - [Metal Coat, Steel Wing]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Adamant
+ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 0, atk: 252, def: 88, spA: 0, spD: 84, spe: 84}

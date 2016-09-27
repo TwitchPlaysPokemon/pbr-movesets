@@ -1,0 +1,35 @@
+species: Mareep
+setname: Special
+item: [Hard Stone, Silverpowder]
+ability: [Static]
+moves:
+    - [Thunderbolt, Discharge]
+    - [Power Gem, Signal Beam]
+    - [Charge Beam, Sand-Attack]
+    - [Thunder Wave, Cotton Spore, Charge]
+combinations:
+    - [Hard Stone, Power Gem]
+    - [Silverpowder, Signal Beam]
+    - [Discharge, Charge]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Modest
+ivs: 31
+evs: {hp: 116, atk: 0, def: 68, spA: 252, spD: 72, spe: 0}
+
+species: Mareep
+setname: Physical
+item: [Salac Berry]
+ability: [Static]
+moves:
+    - [Return]
+    - [Iron Tail]
+    - [Light Screen, Reflect]
+    - [Endure]
+gender: [m, f]
+rarity: 0.1
+ball: [Timer]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

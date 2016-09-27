@@ -1,0 +1,53 @@
+species: Lanturn
+setname: Special
+item: [Blue Flute, Magnet, Twistedspoon, NeverMelt-Ice]
+ability: [Volt Absorb, Water Absorb]
+moves:
+    - [Thunderbolt, Surf]
+    - [Bubblebeam, Water Pulse, Shock Wave, Charge Beam]
+    - [Signal Beam, Icy Wind, Psybeam]
+    - [Flash, Heal Bell, Mist, Charge]
+combinations:
+    - [Magnet, Shock Wave]
+    - [Twistedspoon, Psybeam]
+    - [NeverMelt-Ice, Icy Wind]
+separations:
+    - [Thunderbolt, Charge]
+    - [Thunderbolt, Shock Wave]
+    - [Thunderbolt, Charge Beam]
+    - [Surf, Bubblebeam]
+    - [Surf, Water Pulse]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Bold
+ivs: 0
+evs: {hp: 0, atk: 0, def: 128, spA: 128, spD: 128, spe: 124}
+
+species: Lanturn
+setname: Physical
+item: [Magnet, Belue Berry]
+ability: [Volt Absorb, Water Absorb]
+moves:
+    - [Aqua Tail, Waterfall, Dive]
+    - [Spark, Natural Gift]
+    - [Bounce, Giga Impact, Sucker Punch, Flail]
+    - [Screech, Thunder Wave, Toxic, Charge, Endure]
+combinations:
+    - [Magnet, Spark]
+    - [Belue Berry, Natural Gift]
+    - [Flail, Endure]
+separations:
+    - [Aqua Tail, Toxic]
+    - [Waterfall, Toxic]
+    - [Spark, Charge]
+    - [Spark, Thunder Wave]
+    - [Natural Gift, Screech]
+    - [Natural Gift, Toxic]
+    - [Natural Gift, Endure]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+nature: Brave
+ivs: 8
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}

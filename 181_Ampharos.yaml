@@ -1,0 +1,18 @@
+species: Ampharos
+setname: Standard
+item: [Fluffy Tail, Silk Scarf]
+ability: [Static]
+moves:
+    - [Thunder Punch, Spark, Shock Wave]
+    - [Dragon Pulse, Outrage, Hyper Beam, Focus Blast]
+    - [Brick Break, Power Gem, Counter]
+    - [Magnet Rise, Curse, Heal Bell, Charge, Defense Curl]
+combinations:
+    - [Silk Scarf, Hyper Beam]
+    - [Focus Blast, Power Gem]
+gender: [m, f]
+rarity: 1.0
+ball: [Ultra]
+nature: Adamant
+ivs: 3
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
