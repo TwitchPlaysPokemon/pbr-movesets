@@ -1,0 +1,15 @@
+species: Charizard
+setname: Token
+item: [Liechi Berry]
+ability: [Solar Power]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 64, spe: 176}
+moves:
+    - [Heat Wave]
+    - [Wing Attack]
+    - [Belly Drum]
+    - [Endure]
+gender: [m, f]
+rarity: 0
+ball: [Ultra]

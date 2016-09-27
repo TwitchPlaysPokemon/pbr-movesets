@@ -1,0 +1,14 @@
+species: Bulbasaur
+setname: Token
+item: [Occa Berry]
+ability: [Chlorophyll]
+nature: Relaxed
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 100, atk: 100, def: 108, spA: 100, spD: 100, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Body Slam]
+    - [Hidden Power]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 0

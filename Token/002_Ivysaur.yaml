@@ -1,0 +1,15 @@
+species: Ivysaur
+setname: Token
+item: [Coba Berry]
+ability: [Chlorophyll]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 2}
+evs: {hp: 80, atk: 208, def: 80, spA: 60, spD: 80, spe: 0}
+moves:
+    - [Sludge Bomb]
+    - [Hidden Power]
+    - [Knock Off]
+    - [Protect]
+gender: [m, f]
+rarity: 0
+ball: [Great]

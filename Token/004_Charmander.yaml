@@ -1,0 +1,14 @@
+species: Charmander
+setname: Token
+item: [Charcoal, Cheri Berry]
+ability: [Blaze]
+nature: Adamant
+ivs: 31
+evs: {hp: 20, atk: 252, def: 0, spA: 0, spD: 0, spe: 236}
+moves:
+    - [Flare Blitz]
+    - [Rock Slide]
+    - [Aerial Ace]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 0
