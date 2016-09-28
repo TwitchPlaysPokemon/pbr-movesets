@@ -1,0 +1,12 @@
+species: Venusaur
+setname: Stadium 2
+moves:
+    - Giga Drain
+    - Tackle
+    - Poisonpowder
+    - Growl
+gender: [m]
+rarity: 0.0
+nature: Hardy
+ivs: 31
+evs: {hp: 48, atk: 48, def: 48, spA: 156, spD: 156, spe: 40}

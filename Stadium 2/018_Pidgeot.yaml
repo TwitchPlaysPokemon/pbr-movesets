@@ -1,0 +1,12 @@
+species: Pidgeot
+setname: Stadium 2
+moves:
+    - Fly
+    - Swift
+    - Steel Wing
+    - Whirlwind
+gender: [f]
+rarity: 0.0
+nature: Serious
+ivs: 31
+evs: {hp: 72, atk: 80, def: 80, spA: 72, spD: 72, spe: 72}

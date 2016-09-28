@@ -1,0 +1,13 @@
+species: Pidgeotto
+setname: Stadium 2
+moves:
+    - Fly
+    - Frustration
+    - Steel Wing
+    - Mirror Move
+gender: [m]
+happiness: 75
+rarity: 0.0
+nature: Bashful
+ivs: 31
+evs: {hp: 160, atk: 160, def: 160, spA: 160, spD: 160, spe: 168}

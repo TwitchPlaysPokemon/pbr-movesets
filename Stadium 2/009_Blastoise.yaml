@@ -1,0 +1,12 @@
+species: Blastoise
+setname: Stadium 2
+moves:
+    - Hydro Pump
+    - Rapid Spin
+    - Mud-Slap
+    - Withdraw
+gender: [m]
+rarity: 0.0
+nature: Docile
+ivs: 31
+evs: {hp: 48, atk: 48, def: 48, spA: 156, spD: 156, spe: 40}

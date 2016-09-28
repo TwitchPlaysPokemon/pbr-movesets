@@ -1,0 +1,12 @@
+species: Charizard
+setname: Stadium 2
+moves:
+    - Fire Punch
+    - Wing Attack
+    - Scary Face
+    - Growl
+gender: [m]
+rarity: 0.0
+nature: Serious
+ivs: 31
+evs: {hp: 48, atk: 48, def: 48, spA: 156, spD: 156, spe: 40}

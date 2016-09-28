@@ -1,0 +1,12 @@
+species: Butterfree
+setname: Stadium 2
+moves:
+    - Gust
+    - Psychic
+    - Hyper Beam
+    - Stun Spore
+gender: [m]
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 132, atk: 140, def: 132, spA: 132, spD: 132, spe: 132}

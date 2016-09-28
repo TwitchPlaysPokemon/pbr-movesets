@@ -1,0 +1,12 @@
+species: Wartortle
+setname: Stadium 2
+moves:
+    - Waterfall
+    - Icy Wind
+    - Dig
+    - Rapid Spin
+gender: [m]
+rarity: 0.0
+nature: Bashful
+ivs: 31
+evs: {hp: 104, atk: 112, def: 104, spA: 104, spD: 104, spe: 112}

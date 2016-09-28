@@ -1,0 +1,10 @@
+species: Weedle
+setname: Stadium 2
+moves:
+    - Poison Sting
+    - String Shot
+gender: [m]
+rarity: 0.0
+nature: Docile
+ivs: 31
+evs: {hp: 212, atk: 212, def: 212, spA: 228, spD: 228, spe: 220}

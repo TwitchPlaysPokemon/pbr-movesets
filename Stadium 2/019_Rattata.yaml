@@ -1,0 +1,12 @@
+species: Rattata
+setname: Stadium 2
+moves:
+    - Super Fang
+    - Headbutt
+    - Shadow Ball
+    - Focus Energy
+gender: [m]
+rarity: 0.0
+nature: Hardy
+ivs: 31
+evs: {hp: 188, atk: 188, def: 196, spA: 188, spD: 188, spe: 188}
