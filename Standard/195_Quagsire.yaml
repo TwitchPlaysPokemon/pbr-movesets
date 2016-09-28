@@ -1,0 +1,56 @@
+species: Quagsire
+setname: Standard
+ability: [Damp, Unaware, Water Absorb]
+moves:
+    - [Muddy Water, Surf, Dive]
+    - [Dig, Earth Power]
+    - [Ice Beam, Focus Blast]
+    - [Amnesia]
+separations:
+    - [Water Absorb, Ice Beam]
+gender: [m, f]
+rarity: 1.0
+ball: [Great]
+nature: Quirky
+ivs: 14
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Quagsire
+setname: Physical
+ability: [Damp]
+moves:
+    - [Waterfall, Aqua Tail, Earthquake]
+    - [Ice Punch, Body Slam, Brick Break]
+    - [Rock Tomb, Rollout, Counter, Toxic]
+    - [Stockpile, Tail Whip, Defense Curl]
+combinations:
+    - [Defense Curl, Rollout]
+    - [Waterfall, Rock Tomb]
+    - [Toxic, Stockpile]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+nature: Serious
+ivs: 31
+evs: {hp: 16, atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
+
+species: Quagsire
+setname: Special
+item: [Mystic Water, Soft Sand]
+ability: [Damp, Unaware, Water Absorb]
+moves:
+    - [Mud Bomb, Water Pulse]
+    - [Water Gun, Mud Shot]
+    - [Sludge Bomb, Spit Up]
+    - [Haze, Safeguard, Encore, Stockpile]
+combinations:
+    - [Spit Up, Stockpile]
+separations:
+    - [Mud Bomb, Mud Shot]
+    - [Water Pulse, Water Gun]
+gender: [m, f]
+rarity: 1.0
+ball: [Repeat]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 100, spe: 156}
