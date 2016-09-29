@@ -16,11 +16,11 @@ combinations:
 separations:
     - [Mach Punch, Bullet Punch]
     - [Mach Punch, Agility]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Premier]
 
 species: Hitmonchan
 setname: Mixed
@@ -36,11 +36,11 @@ moves:
     - [Detect, Foresight, Agility, Role Play, Metronome]
 combinations:
     - [Mega Kick, Foresight]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Heal]
 
 species: Hitmonchan
 setname: Comet
@@ -51,11 +51,11 @@ ivs: 31
 evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
 moves:
     - [Low Kick, Seismic Toss]
-    - [Comet Punch, Agility ]
+    - [Comet Punch]
     - [Agility]
     - [Foresight, Bulk Up]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Quick]
