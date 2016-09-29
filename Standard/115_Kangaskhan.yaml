@@ -10,11 +10,11 @@ moves:
     - [Outrage, Hammer Arm, Aqua Tail, Earthquake, Reversal]
     - [Fling]
     - [Tail Whip, Roar, Spite, Double Team, Substitute]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Luxury]
 
 species: Kangaskhan
 setname: Toxic Orb
@@ -28,7 +28,7 @@ moves:
     - [Facade]
     - [Surf, Fire Blast, Shadow Ball]
     - [Rest]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.5
@@ -46,8 +46,8 @@ moves:
     - [Comet Punch]
     - [Drain Punch]
     - [Focus Punch]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Timer]
