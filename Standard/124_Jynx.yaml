@@ -13,11 +13,11 @@ moves:
 combinations:
     - [Miracle Seed, Energy Ball]
     - [Spell Tag, Shadow Ball]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Dusk]
 
 species: Jynx
 setname: Mixed
@@ -31,8 +31,8 @@ moves:
     - [Powder Snow, Confusion]
     - [Brick Break, Drain Punch, Wring Out, Water Pulse]
     - [Fake Tears, Copycat, Metronome, Meditate]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Heal]
