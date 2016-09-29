@@ -10,11 +10,11 @@ moves:
     - [Zen Headbutt, Rock Slide]
     - [Blizzard]
     - [Endure]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Quick]
 
 species: Tauros
 setname: Intimidate
@@ -33,8 +33,8 @@ separations:
     - [Solarbeam, Rain Dance]
     - [Thunder, Sunny Day]
     - [Surf, Sunny Day]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Safari]
