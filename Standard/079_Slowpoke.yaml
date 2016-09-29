@@ -17,7 +17,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Dive]
 
 species: Slowpoke
 setname: Special
@@ -35,5 +35,5 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Heal]
 
