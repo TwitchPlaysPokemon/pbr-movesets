@@ -1,0 +1,31 @@
+species: Swinub
+setname: Physical
+item: [Focus Band]
+ability: [Thick Fat]
+moves:
+    - [Earthquake]
+    - [Avalanche]
+    - [Ice Shard]
+    - [Endeavor, Fissure]
+gender: [m, f]
+rarity: 1.0
+ball: [Timer]
+nature: Adamant
+ivs: 31
+evs: {hp: 164, atk: 88, def: 128, spA: 0, spD: 128, spe: 0}
+
+species: Swinub
+setname: Special
+item: [Salac Berry]
+ability: [Snow Cloak]
+moves:
+    - [Blizzard]
+    - [Earth Power]
+    - [Hail]
+    - [Endure]
+gender: [m, f]
+rarity: 1.0
+ball: [Premier]
+nature: Modest
+ivs: 31
+evs: {hp: 60, atk: 0, def: 0, spA: 252, spD: 0, spe: 196}

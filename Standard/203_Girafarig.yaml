@@ -1,0 +1,48 @@
+species: Girafarig
+setname: Physical
+ability: [Inner Focus]
+moves:
+    - [Body Slam, Double-Edge, Return]
+    - [Zen Headbutt]
+    - [Crunch, Sucker Punch, Earthquake]
+    - [Magic Coat, Reflect, Light Screen]
+gender: [m, f]
+rarity: 1.0
+ball: [Premier]
+nature: Quiet
+ivs: 29
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+
+species: Girafarig
+setname: Flinch
+item: [Silk Scarf, King's Rock]
+ability: [Inner Focus, Early Bird]
+moves:
+    - [Stomp, Headbutt, Strength]
+    - [Zen Headbutt, Psychic]
+    - [Rock Smash, Beat Up, Energy Ball, Thunderbolt]
+    - [Thunder Wave]
+combinations:
+    - [King's Rock, Strength, Psychic, Beat Up]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Brave
+ivs: 21
+evs: {hp: 60, atk: 128, def: 100, spA: 40, spD: 100, spe: 0}
+
+species: Girafarig
+setname: Trapper
+item: [Liechi Berry, Apicot Berry, Ganlon Berry]
+ability: [Inner Focus, Early Bird]
+moves:
+    - [Hyper Voice]
+    - [Charge Beam]
+    - [Mean Look]
+    - [Baton Pass]
+gender: [m, f]
+rarity: 0.5
+ball: [Dusk]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 172, spA: 0, spD: 172, spe: 164}

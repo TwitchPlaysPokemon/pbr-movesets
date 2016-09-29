@@ -1,0 +1,43 @@
+species: Slugma
+setname: Special
+item: [Shuca Berry, Silk Scarf]
+ability: [Flame Body, Magma Armor]
+moves:
+    - [Fire Blast]
+    - [Earth Power, Spit Up]
+    - [Yawn, Recover, Trick Room]
+    - [Protect, Stockpile, Memento]
+combinations:
+    - [Magma Armor, Yawn, Protect]
+    - [Silk Scarf, Spit Up, Recover, Stockpile]
+    - [Trick Room, Memento]
+gender: [m, f]
+rarity: 0.8
+ball: [Cherish]
+nature: Quiet
+ivs: 31
+evs: {hp: 108, atk: 120, def: 80, spA: 120, spD: 80, spe: 0}
+
+species: Slugma
+setname: Physical
+item: [Shuca Berry, Charti Berry, Passho Berry]
+ability: [Flame Body, Magma Armor]
+moves:
+    - [Double-Edge, Frustration]
+    - [Rock Slide, Rock Tomb, Rollout]
+    - [Will-O-Wisp, Smokescreen, Toxic, Yawn]
+    - [Self-destruct, Protect]
+combinations:
+    - [Rollout, Yawn, Protect]
+separations:
+    - [Flame Body, Toxic]
+    - [Flame Body, Yawn]
+    - [Magma Armor, Will-O-Wisp]
+    - [Magma Armor, Smokescreen]
+gender: [m, f]
+happiness: 0
+rarity: 0.2
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 64, spA: 0, spD: 64, spe: 0}

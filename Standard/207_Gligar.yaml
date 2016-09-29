@@ -1,0 +1,55 @@
+species: Gligar
+setname: Physical
+item: [Sky Plate]
+ability: [Hyper Cutter]
+moves:
+    - [Earthquake]
+    - [Aerial Ace, Wing Attack]
+    - [Aqua Tail, Cross Poison, Night Slash, Guillotine]
+    - [Sand-Attack, Harden, Captivate, Defog, Stealth Rock]
+separations:
+    - [Cross Poison, Defog]
+    - [Night Slash, Defog]
+    - [Guillotine, Defog]
+gender: [m, f]
+rarity: 1.0
+ball: [Dusk]
+nature: Jolly
+ivs: 9
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+
+species: Gligar
+setname: Special
+item: [Brightpowder, Smooth Rock]
+ability: [Sand Veil]
+moves:
+    - [Earth Power]
+    - [Dark Pulse, Sludge Bomb]
+    - [Sandstorm]
+    - [Rock Polish, Agility, Protect]
+combinations:
+    - [Smooth Rock, Sludge Bomb, Protect]
+gender: [m, f]
+rarity: 0.5
+ball: [Net]
+nature: Modest
+ivs: 31
+evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 128, spe: 0}
+
+species: Gligar
+setname: Stall
+item: [Silk Scarf, Hard Stone, Wide Lens]
+ability: [Hyper Cutter, Immunity]
+moves:
+    - [Dig]
+    - [Headbutt, Rock Slide]
+    - [Toxic]
+    - [Torment]
+combinations:
+    - [Silk Scarf, Headbutt]
+gender: [m, f]
+rarity: 0.5
+ball: [Timer]
+nature: Serious
+ivs: 31
+evs: {hp: 160, atk: 0, def: 112, spA: 0, spD: 112, spe: 124}

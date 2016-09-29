@@ -1,0 +1,68 @@
+species: Octillery
+setname: Wring Out
+ability: [Suction Cups]
+moves:
+    - [Octazooka]
+    - [Rock Blast]
+    - [Wring Out]
+    - [Thunder Wave]
+gender: [m, f]
+rarity: 0.6
+ball: [Dive]
+nature: Sassy
+ivs: 31
+evs: {hp: 92, atk: 116, def: 92, spA: 116, spD: 92, spe: 0}
+
+species: Octillery
+setname: Sniper
+item: [Scope Lens]
+ability: [Sniper]
+moves:
+    - [Octazooka, Water Pulse, Waterfall]
+    - [Gunk Shot, Seed Bomb, Flamethrower, Ice Beam]
+    - [String Shot, Thunder Wave]
+    - [Focus Energy]
+combinations:
+    - [Waterfall, Thunder Wave]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Quirky
+ivs: 31
+evs: {hp: 16, atk: 60, def: 16, spA: 0, spD: 16, spe: 140}
+
+species: Octillery
+setname: Beam
+item: [Lansat Berry, Insect Plate, Icicle Plate]
+ability: [Sniper]
+moves:
+    - [Bubble Beam]
+    - [Hyper Beam, Signal Beam]
+    - [Ice Beam, Aurora Beam]
+    - [Charge Beam]
+combinations:
+    - [Insect Plate, Signal Beam]
+    - [Icicle Plate, Aurora Beam]
+gender: [m, f]
+rarity: 0.8
+ball: [Luxury]
+nature: Quiet
+ivs: 0
+evs: {hp: 100, atk: 0, def: 100, spA: 88, spD: 100, spe: 0}
+
+species: Octillery
+setname: Setup
+item: [Ganlon Berry, Apicot Berry]
+ability: [Suction Cups]
+moves:
+    - [Water Spout]
+    - [Charge Beam]
+    - [Sleep Talk]
+    - [Rest]
+gender: [m, f]
+biddable: False
+rarity: 0.6
+ball: [Heal]
+nature: Quiet
+ivs: 0
+evs: {hp: 0, atk: 0, def: 180, spA: 16, spD: 180, spe: 0}

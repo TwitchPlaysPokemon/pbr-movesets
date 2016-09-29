@@ -1,6 +1,6 @@
 ingamename: SEEL-S2
 species: Seel
-setname: Physical
+setname: Stadium 2
 moves:
     - Surf
     - Ice Beam
@@ -14,15 +14,15 @@ ivs: 31 (See stadiumspread.txt in folder)
 evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8} (See stadiumspread.txt in folder)
 
 species: 
-setname: 
+setname: Stadium 2
 moves:
-    - []
-    - []
-    - []
-    - []
+    - 
+    - 
+    - 
+    - 
 gender: [m, f]
 happiness: 255
 rarity: 0.0
 nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 31
 evs: {hp: , atk: , def: , spA: , spD: , spe: }

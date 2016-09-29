@@ -1,0 +1,65 @@
+species: Shuckle
+setname: Physical
+ability: [Sturdy]
+moves:
+    - [Stone Edge]
+    - [Gyro Ball]
+    - [Bide]
+    - [Power Trick]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+
+species: Shuckle
+setname: Special
+item: [Petaya Berry]
+ability: [Gluttony]
+moves:
+    - [Hidden Power]
+    - [Ancientpower]
+    - [Earth Power, Sludge Bomb]
+    - [Gastro Acid, Protect]
+combinations:
+    - [Earth Power, Gastro Acid]
+    - [Sludge Bomb, Protect]
+gender: [m, f]
+rarity: 1.0
+ball: [Timer]
+nature: Modest
+ivs: 31
+evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
+
+species: Shuckle
+setname: Sweeper
+item: [Liechi Berry]
+ability: [Gluttony]
+moves:
+    - [Rock Slide]
+    - [Earthquake]
+    - [Acupressure]
+    - [Rock Polish]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+
+species: Shuckle
+setname: Mixed
+item: [Starf Berry]
+ability: [Gluttony]
+moves:
+    - [Bug Bite]
+    - [Ancientpower]
+    - [Acupressure]
+    - [Sandstorm, Mimic, Safeguard, Encore]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+nature: Brave
+ivs: 31
+evs: {hp: 192, atk: 140, def: 0, spA: 176, spD: 0, spe: 0}

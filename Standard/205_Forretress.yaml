@@ -1,0 +1,54 @@
+species: Forretress
+setname: Physical
+item: [Silverpowder]
+ability: [Sturdy]
+moves:
+    - [Pin Missile]
+    - [Gyro Ball]
+    - [Payback, Revenge]
+    - [Power Trick]
+gender: [m, f]
+rarity: 0.7
+ball: [Timer]
+nature: Calm
+ivs: 14
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
+
+species: Forretress
+setname: Special
+item: [Steel Mail, Metal Coat, Miracle Seed, Light Clay]
+ability: [Sturdy]
+moves:
+    - [Flash Cannon, Mirror Shot]
+    - [Signal Beam]
+    - [Zap Cannon, Giga Drain, Hyper Beam]
+    - [Gravity, Magnet Rise, Rock Polish, Light Screen]
+combinations:
+    - [Metal Coat, Mirror Shot]
+    - [Miracle Seed, Giga Drain]
+    - [Light Clay, Light Screen]
+    - [Zap Cannon, Gravity]
+gender: [m, f]
+rarity: 1.3
+ball: [Net]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 10, spD: 10, spe: 10}
+evs: {hp: 124, atk: 0, def: 0, spA: 128, spD: 128, spe: 128}
+
+species: Forretress
+setname: Hazards
+item: [Revival Herb, Pamtre Berry]
+ability: [Sturdy]
+moves:
+    - [Bug Bite, Natural Gift]
+    - [HP Fire 70]
+    - [Stealth Rock]
+    - [Spikes]
+combinations:
+    - [Pamtre Berry, Natural Gift]
+gender: [m, f]
+rarity: 0.5
+ball: [Repeat]
+nature: Sassy
+ivs: {hp: 23, atk: 22, def: 23, spA: 22, spD: 23, spe: 22}
+evs: {hp: 68, atk: 68, def: 68, spA: 204, spD: 100, spe: 0}

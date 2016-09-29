@@ -1,0 +1,47 @@
+species: Steelix
+setname: Physical
+item: [Wide Lens, Silk Scarf, Magnet, NeverMelt-Ice, Steel Plate]
+ability: [Sturdy, Rock Head]
+moves:
+    - [Iron Tail, Earthquake]
+    - [Dig, Iron Head, Double-Edge]
+    - [Aqua Tail, Crunch, Slam, Thunder Fang, Ice Fang]
+    - [Sharpen, Screech, Rock Polish]
+combinations:
+    - [Wide Lens, Iron Tail]
+    - [Silk Scarf, Slam]
+    - [Magnet, Thunder Fang]
+    - [NeverMelt-Ice, Ice Fang]
+    - [Rock Head, Double-Edge]
+separations:
+    - [Iron Tail, Iron Head]
+    - [Earthquake, Dig]
+    - [Earthquake, Slam]
+    - [Dig, Rock Polish]
+    - [Double-Edge, Slam]
+    - [Double-Edge, Rock Polish]
+gender: [m, f]
+rarity: 1.2
+ball: [Premier]
+nature: Hasty
+ivs: 0
+evs: {hp: 85, atk: 40, def: 0, spA: 85, spD: 85, spe: 215}
+
+species: Steelix
+setname: Special
+item: [Pink Scarf, Silk Scarf]
+ability: [Sturdy]
+moves:
+    - [Earth Power]
+    - [Flash Cannon]
+    - [Dragon Pulse, Dark Pulse, DragonBreath, Hyper Beam]
+    - [AncientPower, Mud-Slap, Bide, Torment, Nature Power]
+separations:
+    - [Pink Scarf, Hyper Beam]
+    - [Pink Scarf, Nature Power]
+gender: [m, f]
+rarity: 0.3
+ball: [Quick]
+nature: Mild
+ivs: 31
+evs: {hp: 0, atk: 156, def: 0, spA: 176, spD: 0, spe: 176}
