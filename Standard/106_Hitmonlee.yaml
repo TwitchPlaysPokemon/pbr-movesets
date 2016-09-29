@@ -12,11 +12,11 @@ moves:
     - [Bullet Punch, Mind Reader, Role Play, Foresight]
 combinations:
     - [Black Belt, Jump Kick]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Premier]
 
 species: Hitmonlee
 setname: Unburden
@@ -30,11 +30,11 @@ moves:
     - [Bounce, Poison Jab]
     - [Fling]
     - [Focus Energy, Refresh, Meditate, Attract]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Quick]
 
 species: Hitmonlee
 setname: Mixed
@@ -48,8 +48,8 @@ moves:
     - [Focus Blast]
     - [Stone Edge, Bounce, Poison Jab]
     - [Vacuum Wave, Mind Reader, Metronome, Foresight]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Heal]
