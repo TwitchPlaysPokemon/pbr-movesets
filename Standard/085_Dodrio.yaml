@@ -1,0 +1,67 @@
+species: Dodrio
+setname: Tangled Feet
+item: [null]
+ability: [Tangled Feet]
+nature: Impish
+ivs: 7
+evs: {hp: 76, atk: 76, def: 60, spA: 0, spD: 88, spe: 76}
+moves:
+    - [Trash]
+    - [Pluck, Aerial Ace]
+    - [Taunt, Agility, Torment]
+    - [Roost, Baton Pass, Protect]
+combinations:
+    - [Taunt, Roost]
+	- [Agility, Baton Pass]
+	- [Torment, Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Dodrio
+setname: Run Away
+item: [Rawst Berry, Power Herb, Durin Berry, Starf Berry]
+ability: [Run Away]
+nature: Careful
+ivs: 0
+evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
+moves:
+    - [Double-Edge, Sky Attack]
+    - [Drill Peck, Fly, Body Slam, Secret Power]
+    - [Low Kick, Steel Wing, Natural Gift]
+    - [Growl, Captivate, Double Team, Toxic, Endure]
+combinations:
+    - [Power Herb, Sky Attack]
+	- [Durin Berry, Natural Gift]
+	- [Starf Berry, Endure]
+	- [Fly, Toxic]
+separations:
+    - [Sky Attack, Drill Peck]
+	- [Sky Attack, Fly]
+	- [Double-Edge, Body Slam]
+	- [Double-Edge, Secret Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Dodrio
+setname: Special
+item: [Sharp Beak]
+ability: [Early Bird]
+nature: Mild
+ivs: 0
+evs: {hp: 80, atk: 96, def: 40, spA: 252, spD: 40, spe: 0}
+moves:
+    - [Tri Attack]
+    - [Air Cutter]
+    - [Hidden Power]
+    - [Mirror Move, Uproar, Haze, Agility, Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

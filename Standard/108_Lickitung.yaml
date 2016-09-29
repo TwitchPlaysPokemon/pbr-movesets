@@ -1,0 +1,64 @@
+species: Lickitung
+setname: Standard
+item: [Null, Spooky Plate]
+ability: [Cloud Nine]
+nature: Brave
+ivs: {hp: 18, atk: 31, def: 18, spA: 18, spD: 18, spe: 31}
+evs: {hp: 86, atk: 252, def: 0, spA: 0, spD: 0, spe: 170}
+moves:
+    - [Mega Kick]
+    - [Power Whip]
+    - [Hammer Arm, Earthquake, Aqua tail, Iron Tail]
+    - [Heal Bell, Refresh, Psych Up, Lick]
+combinations:
+    - [Spooky Plate, Lick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Lickitung
+setname: Physical
+item: [Null]
+ability: [Cloud Nine, Own Tempo]
+nature: Adamant
+ivs: 31
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+moves:
+    - [Body Slam, Rock Climb]
+    - [Zen Headbutt, Rock Slide, Magnitude]
+    - [Fire Punch, Ice Punch, Thunder Punch]
+    - [Swords Dance, Screech, Curse]
+combinations:
+    - [Rock Climb, Magnitude, Curse]
+separations:
+    - [Magnitude, Fire Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Lickitung
+setname: Special
+item: [Null]
+ability: [Oblivious, Own Tempo]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 64, spA: 128, spD: 64, spe: 252}
+moves:
+    - [Hyper Beam]
+    - [Fire Blast, Solar Beam, Thunder, Surf]
+    - [Shadow Ball, Icy Wind, Wring Out]
+    - [Disable, Amnesia, Sunny Day, Rain Dance]
+separations:
+    - [Fire Blast, Rain Dance]
+	- [Rain Dance, Solar Beam]
+	- [Surf, Sunny Day]
+	- [Thunder, Sunny]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

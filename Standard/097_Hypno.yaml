@@ -1,0 +1,75 @@
+species: Hypno
+setname: Special
+item: [Oran berry, Odd Incense, Rose Incense, Zoom Lens]
+ability: [Forewarn]
+nature: Lax 
+ivs: 12
+evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
+moves:
+    - [Psychic, Psybeam]
+    - [Focus Blast]
+    - [Shadow ball, Signal Beam, Grass Knot]
+    - [Disable, Flash, Guard Swap, Poison Gas, Role Play]
+combinations:
+    - [Odd Incense, Psybeam]
+	- [Rose Incense, Grass Knot]
+	- [Zoom Lens, Poison Gas]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Hypno
+setname: Physical
+item: [Old Amber, Hard Stone, Rare Bone]
+ability: [Insomnia, Inner Focus]
+nature: Naughty
+ivs: 10
+evs: {hp: 100, atk: 100, def: 180, spA: 0, spD: 80, spe: 48}
+moves:
+    - [Psycho Cut, Zen Headbutt]
+    - [Fling, Double-Edge, Body Slam, Return]
+    - [Drain Punch, Low Kick, Fire Punch, Ice Punch, Thunder Punch]
+    - [Belly Drum, Meditate, Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Hypno
+setname: Hypnosis
+item: [Zoom Lens]
+ability: [Insomnia, Inner Focus]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 168, atk: 84, def: 152, spA: 104, spD: 0, spe: 0}
+moves:
+    - [Psywave]
+    - [Counter, Seismic Toss, Bide]
+    - [Assist, Nightmare, Toxic]
+    - [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Hypno 
+setname: Passer
+item: [Heal ball]
+ability: [Insomnia, Inner Focus]
+nature: Naive
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Seismic Toss]
+    - [Wish]
+    - [Baton Pass]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

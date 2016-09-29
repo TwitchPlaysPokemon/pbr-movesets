@@ -1,0 +1,42 @@
+species: Shellder
+setname: Physical
+item: [Rindo Berry, Wacan Berry]
+ability: [Skill Link]
+nature:Careful
+ivs: 31
+evs: {hp: 252, atk: 128, def: 0, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Dive]
+    - [Rock Blast, Spike Cannon]
+    - [Payback, Icicle Spear]
+    - [Ice Shard, Screech, Swagger, Explosion]
+separations:
+    - [Icicle Spear, Ice Shard]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Shellder
+setname: Special
+item: [Wide Lens, Expert Belt]
+ability: [Shell Armor]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 136, atk: 0, def: 0, spA: 136, spD: 136, spe: 100}
+moves:
+    - [Hydro Pump, Surf]
+    - [Blizzard, Ice Beam, Hidden Power]
+    - [Mud Shot, Icy Wind]
+    - [Explosion]
+combinations:
+    - [Wide Lens, Hydro Pump, Blizzard]
+separations:
+    - [Blizzard, Icy Wind]
+	- [Ice Beam, Icy Wind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]

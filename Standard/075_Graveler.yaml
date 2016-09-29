@@ -1,0 +1,38 @@
+species: Graveler
+setname: Punch
+item: [Sitrus Berry, Bright Powder]
+ability: [Rock Head, Sturdy, Sand Veil]
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 16, def: 0, spA: 252, spD: 240, spe: 0}
+moves:
+    - [Double-Edge, Earth Power, Rock Blast]
+    - [Focus Punch]
+    - [Sucker Punch]
+    - [Substitute, Sandstorm]
+combinations:
+    - [Bright Powder, Sand Veil, Sandstorm]
+	- [Rock Head, Double Edge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+
+species: Graveler
+setname: special
+item: [Expert Belt, Sitrus Berry]
+ability: [Sturdy]
+nature: Quiet
+ivs: 31
+evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 128, spe: 0}}
+moves:
+    - [Earth Power]
+    - [Ancient Power]
+    - [Flamethrower]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

@@ -1,0 +1,39 @@
+species: Slowpoke
+setname: Physical
+item: [Muscle Band, Leftovers, Sitrus Berry]
+ability: [oblivious, own tempo]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 12, spe: 100}
+moves:
+    - [Aqua Tail, Dive]
+    - [Zen Headbutt]
+    - [Thunder Wave]
+    - [Amnesia, Skill Swap, Disable, Belly Drum]
+combinations:
+    - [Leftovers + Dive]
+	- [Sitrus Berry + Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Slowpoke
+setname: Special
+item: [Life Orb]
+ability: [Oblivious, Own Tempo]
+nature: Modest
+ivs: 31
+evs: {hp: 112, atk: 0, def: 88, spA: 252, spD: 56, spe: 0}
+moves:
+    - [Surf, Psychic]
+    - [Fire Blast, Flamethrower]
+    - [Ice Beam, Fissure, Shadow Ball, Gras Knot, Signal Beam]
+    - [Slack Off, Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+

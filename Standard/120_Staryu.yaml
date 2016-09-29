@@ -1,0 +1,42 @@
+species: Staryu
+setname: Standard
+item: [Micle Berry, Berry Juice, Wacan Berry, Rindo Berry]
+ability: [Natural Cure]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+moves:
+    - [Hydro Pump, Surf, Brine]
+    - [Blizzard, Ice Beam, Psychic]
+    - [Thunder, Thunderbolt, Power Gem]
+    - [Swift, Swagger, Minimize, Gravity, Reflect, Light Screen, Endure]
+separations:
+    - [Wacan Berry, Endure]
+	- [Rindo Berry, Endure]
+	- [Berry Juice, Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Staryu
+setname: Physical
+item: [Muscle Band, Liechi Berry, Sitrus Berry]
+ability: [Natural Cure]
+nature: Adamant
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: 128, atk: 252, def: 0, spA: 0, spD: 0, spe: 128}
+moves:
+    - [Waterfall]
+    - [Double-Edge, Frustration]
+    - [Natural Gift, Rollout]
+    - [Camouflage, Endure, Thunder Wave, Defense Curl]
+combinations:
+    - [Liechi Berry, Natural Gift]
+	- [Sitrus Berry, Rollout, Defense Curl]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: []

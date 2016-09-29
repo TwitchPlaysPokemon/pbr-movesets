@@ -1,0 +1,61 @@
+species: Krabby
+setname: Hyper Cutter
+item: [Berry Juice, Silverpowder, White Herb]
+ability: [Hyper Cutter]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 72, def: 72, spA: 0, spD: 72, spe: 40}
+moves:
+    - [Crabhammer]
+    - [Superpower, Double-Edge, X-scissor]
+    - [Dig, Brick Break, Body Slam]
+    - [Agility, Swords Dance, Tickle, Toxic]
+combinations:
+    - [Silverpowder, X-scissor]
+	- [White Herb, Superpower]
+separations:
+    - [Superpower, Brick Break]
+	- [Double-Edge, Body Slam]
+	- [Brick Break, Toxic]
+	- [Body Slam, Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Krabby
+setname: Shell Armor
+item: [Lansat Berry]
+ability: [Shell Armor]
+nature: Careful
+ivs: 24
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 4}
+moves:
+    - [Crabhammer]
+    - [Guillotine]
+    - [Amnesia]
+    - [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Krabby
+setname: Special
+item: [Choice Specs]
+ability: [Shell Armor]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp:4 , atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Surf]
+    - [Blizzard, Ice Beam]
+    - [Ancient Power]
+    - [Mud Shot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: []

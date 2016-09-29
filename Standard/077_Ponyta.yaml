@@ -1,0 +1,24 @@
+species: Ponyta
+setname: Standard
+item: [Life Orb]
+ability: [Flash Fire, Flame Body]
+nature: Quirky
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 44, def: 128, spA: 36, spD: 128, spe: 44}
+moves:
+    - [Flare Blitz, Fire Blast, Flamethrower]
+    - [Low Kick, Bounce, Iron Tail, Solarbeam]
+    - [Morning Sun, Horn Drill, Body Slam, Toxic, Sleep Talk]
+    - [Sunny Day, Hypnosis, Protect, Agility, Rest]
+combinations:
+    - [Morning Sun, Sunny Day, Solarbeam]
+	- [Bounce, Toxic, Protect]
+	- [Sleep Talk, Rest]
+separations:
+    - [Flame Body, Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+

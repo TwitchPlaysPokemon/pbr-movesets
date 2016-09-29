@@ -1,0 +1,55 @@
+species: Cubone
+setname: Standard
+item: [Thick Club]
+ability: [Battle Armor, Rock Head]
+nature: Impish
+ivs: 31
+evs: {hp: 216, atk: 120, def: 0, spA: 0, spD: 76, spe: 96}
+moves:
+    - [Bone Rush, Bone Club]
+    - [Thunder Punch, Ice Punch, Take Down]
+    - [Aerial Ace, Low Kick]
+    - [Focus Energy, leer, Growl, Belly Drum, Perish Song]
+combinations:
+    - [Rock Head, Take Down]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Cubone
+setname: Boomerang
+item: [Thick Club]
+ability: [Battle Armor]
+nature: Careful
+ivs: 31
+evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
+moves:
+    - [Boomerang]
+    - [Iron Tail]
+    - [Body Slam, Fire Punch, Rock Slide]
+    - [Iron Defense, Tail Whip, Captivate, Attract, Steath Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Cubone
+setname: Special
+item: [Sitrus Berry]
+ability: [Battle Armor]
+nature: Modest
+ivs: 31
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
+moves:
+    - [Earth Power]
+    - [Fire Blast, Blizzard]
+    - [Toxic]
+    - [Detect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: []

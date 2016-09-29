@@ -1,0 +1,78 @@
+species: Pinsir
+setname: Bug Bite
+item: [Aspear Berry, Black Glasses, Damp Rock, Salac Berry, Power Herb]
+ability: [Hyper Cutter, Mold Breaker]
+nature: Mild
+ivs: 5
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Bug Bite]
+    - [Body Slam, Rock Climb, Rock Slide, Feint Attack]
+    - [Revenge, Submission, Dig]
+    - [Captivate, Bind, Harden, Rain Dance, Endure]
+combinations:
+    - [Black Glasses, Feint Attack]
+	- [Damp Rock, Rain Dance]
+	- [Power Herb, Dig]
+	- [Salac Berry, Endure]
+separations:
+    - [Rock Slide, Submission]
+	- [Rock Slide, Dig]
+	- [Body Slam, Bind]
+	- [Rock Climb, Bind]
+	- [Mold Breaker, Revenge]
+	- [Mold Breaker, Submission]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Pinsir
+setname: X-Scissor
+item: [Null]
+ability: [Hyper Cutter, Mold Breaker]
+nature: Calm
+ivs: 0
+evs: {hp: 112, atk: 0, def: 108, spA: 0, spD: 100, spe: 60}
+moves:
+    - [X-Scissor]
+    - [Earthquake, Close Combat]
+    - [Stone Edge, Double-Edge]
+    - [Harden, String Shot, Stealth Rock]
+separations:
+    - [Mold Breaker, Close Combat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Pinsir
+setname: Mixed
+item: [Silverpowder, Metronome, King's Rock]
+ability: [Mold Breaker, Hyper Cutter]
+nature: Lonely
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+moves:
+    - [Hidden Power, Fury Cutter]
+    - [Vice Grap, Fury Attack, Rock Throw]
+    - [Guillotine, Focus Blast, Me First]
+    - [Iron Defense, Double Team, Swords Dance, Bulk Up, Quick Attack, Foresight]
+combinations:
+    - [Metronome, Fury Cutter]
+	- [King's Rock, Fury Attach]
+separations:
+    - [Vice Grip, Quick Attack]
+	- [Fury Attack, Quick Attack]
+	- [Fury Cutter, Guillotine]
+	- [Hidden Power, Swords Dance]
+	- [Hidden Power, Iron Defense]
+	- [Guillotine, Foresight]
+	- [Me First, Foresight]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

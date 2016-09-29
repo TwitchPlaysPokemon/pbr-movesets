@@ -1,0 +1,44 @@
+species: Electabuzz
+setname: Physical
+item: [Yellow Shard, Charcoal, NeverMelt-Ice, Black Belt]
+ability: [Static, Vital Spirit]
+nature: Naughty
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Thunder Punch]
+    - [Cross Chop, Iron Tail, Fire Punch, Ice Punch, Roling Kick]
+    - [Body Slam, Facade, Headbutt]
+    - [Screech, Barrier, Meditate, Thunder Wave]
+combinations:
+    - [Charcoal, Fire Punch]
+	- [NeverMelt-Ice, Ice Punch]
+	- [Black Belt, Roling Kick, Thunder Wave]
+separations:
+    - [Roling Kick, Body Slam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+
+species: Electabuzz
+setname: Special
+item: [Yellow Scarf, SilverPowder, Poison Barb]
+ability: [Static, Vital Spirit]
+nature: Impish
+ivs: 0
+evs: {hp: 128, atk: 0, def: 128, spA: 60, spD: 128, spe: 64}
+moves:
+    - [Thunderbolt, Thunder, Discharge]
+    - [Focus Blast]
+    - [Psychic, Signal Beam, Hidden Power]
+    - [Charge Beam, Counter, Double Team, Light Screen]
+combinations:
+    - [SilverPowder, Signal Beam]
+	- [Poison Barb, Hidden Poison]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]

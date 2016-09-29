@@ -1,0 +1,58 @@
+species: Electrode
+setname: Special
+item: [Space Mail, Magnet]
+ability: [Soundproof, Static, Aftermath]
+nature: Timid
+ivs: 9
+evs: {hp: 88, atk: 168, def: 84, spA: 84, spD: 84, spe: 0}
+moves:
+    - [Thunderbolt, Charge Beam]
+    - [Signal Beam, Hyper Beam, Hidden Power]
+    - [Charge, Mirror Coat]
+    - [Self-Destruct, Magnet Rise, Taunt, Flash]
+combinations:
+    - [Magnet, Charge Beam]
+	- [Hidden Power, Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Electrode
+setname: Physical
+item: [White Herb, Flame Orb]
+ability: [Soundproof]
+nature: Adamant
+ivs: 31
+evs: {hp: 184, atk: 184, def: 0, spA: 0, spD: 140, spe: 0}
+moves:
+    - [Spark]
+    - [Return, Facade]
+    - [Sucker Punch]
+    - [Curse, Explosion]
+combinations:
+    - [Facade, Flame Orb, Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+
+species: Electrode
+setname: Sonic Boom
+item: [Durin Berry]
+ability: [Soundproof]
+nature: Serious
+ivs: 31
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+moves:
+    - [Thunderbolt]
+    - [Natural Gift]
+    - [Sonic Boom]
+    - [Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: []

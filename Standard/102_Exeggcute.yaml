@@ -1,0 +1,59 @@
+species: Exeggcute
+setname: Standard
+item: [Enigma Berry]
+ability: [Chlorophyll]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 10, spA: 108, spD: 100, spe: 100}
+moves:
+    - [Solarbeam]
+    - [Hidden Power]
+    - [Sunny Day]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Exeggcute
+setname: Special
+item: [Tanga Berry, Coba Berry]
+ability: [Chlorophyll]
+nature: Modest
+ivs: 31
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
+moves:
+    - [Psychic, Leaf Storm]
+    - [Energy Ball, Dream Eater]
+    - [Sludge Bomb, Ancient Power]
+    - [Sleep Powder, Hypnosis]
+combinations:
+    - [Coba Berry, Ancient Power]
+	- [Dream Eater, Hypnosis]
+separations:
+    - [Psycic, Dream Eater]
+	- [Leaf Storm, Energy Ball]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Exeggcute
+setname: Physical
+item: [Sitrus Berry]
+ability: [Chlorophyll]
+nature: Brave
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Frustration]
+    - [Trick Room, Stun Spore]
+    - [Self-Destruct]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.5
+ball: []

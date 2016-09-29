@@ -1,0 +1,59 @@
+species:Dewgong 
+setname: Thick Fat
+item: [Mystic Water, NeverMelt-Ice]
+ability: [Thick Fat]
+nature: Brave
+ivs: 31
+evs: {hp: 56, atk: 56, def: 56, spA: 56, spD: 56, spe: 56}
+moves:
+    - [Avalance, Aqua Tail]
+    - [Aqua Jet, Ice Shard]
+    - [Hidden Power]
+    - [Safeguard, Disable, Growl, Encore]
+combinations:
+    - [Mystic Water, Avalance, Aqua]
+	- [NeverMelt-Ice, Aqua Tail, Ice Shard]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Dewgong
+setname: Hydration
+item: [Big Root]
+ability: [Hydration]
+nature: Jolly
+ivs: {hp: 0, atk: 31, def: 20, spA: 31, spD: 20, spe: 31}
+evs: {hp: 84, atk: 128, def: 84, spA: 0, spD: 84, spe: 128}
+moves:
+    - [Dive]
+    - [Body Slam, Take Down, Headbutt]
+    - [Aqua Ring]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Dewgong
+setname: Ice Body
+item: [Icy Rock]
+ability: [Ice Body]
+nature: Bold 
+ivs: 12
+evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
+moves:
+    - [Ice Beam, Surf]
+    - [Bubblebeam, Aurora beam]
+    - [Hyper Beam]
+    - [Hail]
+combinations:
+    - [Ice Beam, Bubblebeam]
+	- [Surf, Aurora Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

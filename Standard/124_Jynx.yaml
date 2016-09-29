@@ -1,0 +1,38 @@
+species: Jynx
+setname: Special
+item: [Snow Mail, Miracle Seed, Spell Tag]
+ability: [Oblivious, Forewarn]
+nature: Adamant
+ivs: {hp: 14, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+moves:
+    - [Blizzard, Ice Beam]
+    - [Psychic]
+    - [Focus Blast, Energy Ball, Shadow Ball]
+    - [Skill Swap, Copycat, Metronome, Flash, Magic Coat, Perish Song]
+combinations:
+    - [Miracle Seed, Energy Ball]
+	- [Spell Tag, Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Jynx
+setname: Mixed
+item: [Null]
+ability: [Oblivious, Forewarn, Dry Skin]
+nature: Rash
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Zen Headbutt, Ice Punch]
+    - [Powder Snow, Confusion]
+    - [Brick Break, Drain Punch, Wring Out, Water Pulse]
+    - [Fake Tears, Copycat, Metronome, Meditate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

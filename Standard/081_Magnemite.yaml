@@ -1,0 +1,39 @@
+species: Magnemite
+setname: Special
+item: [Occa Berry, Wide Lense]
+ability: [Magnet Pull]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+moves:
+    - [Zap Cannon]
+    - [Flash Cannon]
+    - [Lock-On, Gravity]
+    - [Magic Coat, Metal Sound, Supersonic]
+combinations:
+    - [Wide Lens, Gravity]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Magnemite
+setname: Physical
+item: [Iron Ball, Metal Coat]
+ability: [Magnet Pull, Sturdy]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Gyro Ball, Magnet Bomb]
+    - [Spark]
+    - [Screech, Reflect, Light Screen]
+    - [Explosion]
+combinations:
+    - [Metal Coat, Magnet Bomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

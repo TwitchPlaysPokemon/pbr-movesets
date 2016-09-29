@@ -1,0 +1,38 @@
+species: Seaking
+setname: Standard
+item: [Null]
+ability: [Water Veil]
+nature: Quiet
+ivs: 12
+evs: {hp: 85, atk: 85, def: 85, spA: 124, spD: 85, spe: 44}
+moves:
+    - [Hydro Pump]
+    - [Megahorn]
+    - [Blizzard]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Seaking
+setname: Powerhouse
+item: [Durin Berry]
+ability: [Water Veil, Swift Swim]
+nature: Adamant
+ivs: {hp: 21, atk: 31, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+moves:
+    - [Natural Gift]
+    - [Poison Jab, Bounce]
+    - [Horn Attack, Secret Power, Flail]
+    - [Tail Whip, Rain Dance, Endure]
+combinations:
+    - [Swift Swim, Rain Dance]
+	- [Flail, Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

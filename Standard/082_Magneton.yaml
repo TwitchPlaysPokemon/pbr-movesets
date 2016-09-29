@@ -1,0 +1,69 @@
+species: Magneton 
+setname: Special
+item: [Shed Shell, Metal Coat, Magnet]
+ability: [Magnet Pull]
+nature: 
+ivs: 11
+evs: {hp: 172, atk: 84, def: 84, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Discharge, Flash Cannon]
+    - [Mirror Shot, Shock Wave]
+    - [Signal Beam, Tri Attack, Metal Sound]
+    - [Super Sonic, Refresh, Double Team, Magic Coat]
+combinations:
+    - []
+separations:
+    - [Discharge, Shock Wave]
+	- [Flash Cannon, Mirror Shot]
+	- [Metal Coat, Flash Cannon]
+	- [Metal Coat, Shock Wave]
+	- [Magnet, Discharge]
+	- [Magnet, Mirror Shot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Magneton
+setname: ResTalk
+item: [Chesto Berry, Lum Berry]
+ability: [Sturdy]
+nature: Naive
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Flash Cannon]
+    - [Sleep Talk]
+    - [Rest]
+    - [Recycle]
+combinations:
+    - []
+separations:
+    - []
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+
+species: Magneton
+setname: PhyStab
+item: [Shuca Berry, Occa Berry]
+ability: [Magnet Pull]
+nature: Adamant
+ivs: {hp: 31, atk: 30, def: 30, spA: 22, spD: 31, spe: 31}
+evs: {hp: 92, atk: 180, def: 16, spA: 0, spD: 16, spe: 40}
+moves:
+    - [Iron Head]
+    - [Spark]
+    - [Hidden Power]
+    - [Rain Dance, Magnet Rise]
+combinations:
+    - [Shuca Berry, Rain Dance]
+    - [Occa Berry, Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive Ball]

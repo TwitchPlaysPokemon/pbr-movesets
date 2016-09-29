@@ -1,0 +1,58 @@
+species: Golem
+setname: Sand Veil
+item: []
+ability: [Sand Veil]
+nature: Calm
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: , spD: 100, spe: 108}
+moves:
+    - [Magnitude]
+    - [Rollout]
+    - [Defense Curl]
+    - [Sand Storm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Golem
+setname: High Attack
+item: [Persim Berry, Shuca Berry]
+ability: [Sturdy]
+nature: Adamant
+ivs: 31
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+moves:
+    - [Rock Throw, Rock Tomb, Rock Blast]
+    - [Natural Gift]
+    - [Rock Smash, Rage, Flail, Gyro Ballall, Toxic]
+    - [Curse, Block, Rock Polish, Stealth Rock, Attract, Harden]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Golem
+setname: Golem-Special
+item: [Rindo Berry, Smooth Rock, Passho Berry]
+ability: [Sturdy, Sand Veil]
+nature: 
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 30, spe: 30}
+evs: {hp: 60, atk: 96, def: 0, spA: 252, spD: 100, spe: 0}
+moves:
+    - [Earth Power]
+    - [Ancient Power, Hidden Power]
+    - [Focus Blast, Fire Blast]
+    - [Rock Polish, Sandstorm, Metronome, Sunny Day, Stealth Rock, Roar]
+combinations:
+    - [Smooth Rock, Sandstorm, Sandveil]
+	- [Passho Berry, Sunny Day]
+separations:
+    - []
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

@@ -1,0 +1,49 @@
+species: Kingler
+setname: Physical
+item: [Null, Grip Claw]
+ability: [Hyper Cutter, Shell Armor]
+nature: Modest
+ivs: {hp: 31, atk: 15, def: 15, spA: 31, spD: 21, spe: 25}
+evs: {hp: 24, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Crabhammer]
+    - [Superpower, Giga Impact, Take Down, X-Scissor]
+    - [Rock Slide, Flail, Fling, Bide]
+    - [Endure, Leer, Amnesia, Harden, Haze, Whirlpool]
+combinations:
+    - [Grip Claw, Fling, Whirlpool]
+	- [Flail, Endure]
+separations:
+    - [Take Down, Flail]
+	- [Giga Impact, Flail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Kingler
+setname: Mixed
+item: [Null, Silk Scarf, Iron Plate, Insect Plate]
+ability: [Hyper Cutter, Shell Armor]
+nature: Sassy
+ivs: 31
+evs: {hp: 128, atk: 64, def: 0, spA: 252, spD: 64, spe: 0}
+moves:
+    - [Surf]
+    - [Slam, Stomp, Vice Grip, Metal Claw]
+    - [Thief, Fury Cutter, Ice Beam, Rock Tomb]
+    - [Curse, Agility, Mimic, Rage]
+combinations:
+	- [Null, Thief]
+    - [Silk Scarf, Vice Grip]
+	- [Iron Plate, Metal Claw]
+	- [Insect Plate, Fury Cutter]
+separations:
+	- [Stomp, Curse]
+	- [Rock Tomb, Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]

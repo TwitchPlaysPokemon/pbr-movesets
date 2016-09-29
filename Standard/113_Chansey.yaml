@@ -1,0 +1,35 @@
+species: Chansey
+setname: Serene Grace
+item: [Lucky Punch]
+ability: [Serene Grace]
+nature: Lax
+ivs: {hp: 0, atk: 0, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 160, spA: 128, spD: 0, spe: 80}
+moves:
+    - [Ice Beam, Thunderbolt]
+    - [Mud Bomb, Shadow Ball, Water Pulse, Psychic]
+    - [Charge Beam]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Chansey
+setname: Natural Cure
+item: [Lucky Punch]
+ability: [Natural Cure]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 252, spA: 0, spD: 0, spe: 4}
+moves:
+    - [Egg Bomb]
+    - [Earthquake, Iron Tail]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: []

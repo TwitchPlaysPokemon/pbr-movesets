@@ -1,0 +1,35 @@
+species:  Geodude
+setname: Physical
+item: [Custab Berry]
+ability: [Sturdy]
+nature: Brave 
+ivs: 31
+evs: {hp: 252, atk: 128, def: 0, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Endure]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Geodude
+setname: Special
+item: [Choice Specs]
+ability: [Sturdy]
+nature: 
+ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Earth Power]
+    - [Ancient Power]
+    - [Fire Blast]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: []

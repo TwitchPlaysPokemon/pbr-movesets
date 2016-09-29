@@ -1,0 +1,61 @@
+species: Hitmonchan
+setname: Punch
+item: [Silk Scarf]
+ability: [Iron Fist]
+nature: Quiet
+ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 136, atk: 60, def: 128, spA: 0, spD: 100, spe: 84}
+moves:
+    - [Mach punch, Drain Punch, Dynamic Punch, Focus Punch, Sky Uppercut]
+    - [Mega Punch]
+    - [Fire Punch, Thunder Punch, Ice Punch]
+    - [Counter, Bullet Punch, Mind Reader, Substitute, Foresight, Double Team, Attract, Agility]
+combinations:
+    - [Dynamic Punch, Mind Reader]
+	- [Focus Punch, Substitute]
+separations:
+    - [Mach Punch, Bullet Punch]
+	- [Mach Punch, Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Hitmonchan
+setname: Mixed
+item: [Null]
+ability: [Keen Eye, Inner Focus]
+nature: Modest
+ivs: 31
+evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
+moves:
+    - [Focus Blast]
+    - [Mega Kick, Earthquake, Stone Edge]
+    - [Mind Reader]
+    - [Detect, Foresight, Agility, Role Play, Metronome]
+combinations:
+    - [Mega Kick, Foresight]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: []
+
+species: Hitmonchan
+setname: Comet
+item: [King's Rock]
+ability: [Iron Fist]
+nature: Adamant
+ivs: 31
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+moves:
+    - [Low Kick, Seismic Toss]
+    - [Comet Punch, Agility ]
+    - [Agility]
+    - [Foresight, Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: []

@@ -1,0 +1,59 @@
+species: Magmar
+setname: Physical
+item: [Red Scarf, Black Glasses, Passho Berry, Salec Berry]
+ability: [Flame Body, Vital Spirit]
+nature: Impish
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Fire Punch]
+    - [Strength, Brick Break]
+    - [Feint Attack, Thunder Punch, Natural Gift]
+    - [Screech, Will-O-Wisp, Belly Drum, Meditate]
+combinations:
+    - [Black Glasses, Feint]
+	- [Passho Berry, Natural Gift, Meditate]
+	- [Salec Berry, Belly Drum]
+separations:
+    - [Flame Body, Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+
+species: Magmar
+setname: Special
+item: [Red Shard]
+ability: [Vital Spirit]
+nature: Naughty
+ivs: 4
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Fire Blast, Flamethrower, Heat Wave, Overheat]
+    - [Mega Kick, Double-Edge, Iron Tail]
+    - [Psychic]
+    - [Confuse Ray, Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+
+species: Magmar
+setname: Stall
+item: [Flame Plate]
+ability: [Flame Body]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Lave Plume]
+    - [Focus Blast]
+    - [Barrier]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]

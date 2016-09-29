@@ -1,0 +1,38 @@
+species: Onix
+setname: Physical
+item: [Liechi Berry, White Herb]
+ability: [Sturdy]
+nature: Adamant
+ivs: 31
+evs: {hp: 60, atk: 220, def: 4, spA: 0, spD: 48, spe: 176}
+moves:
+    - [Earthquake]
+    - [Stone Edge, Rock Slide]
+    - [Flail, Curse]
+    - [Substitute, Endure, Screech]
+combinations:
+    - [White Herb + Curse + Screech]
+	- [Liechi Berry + Flail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Onix
+setname: Special
+item: [Choice Specs]
+ability: [Sturdy]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 30, spA: 30, spD: 39, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Earth Power]
+    - [Ancient Power]
+    - [Dragon Pulse]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: []

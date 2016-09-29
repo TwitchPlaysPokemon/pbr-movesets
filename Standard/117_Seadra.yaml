@@ -1,0 +1,58 @@
+species: Seadra
+setname: Special
+item: [Null, Sea Incense, Wave Incense, Dragon Fang]
+ability: [Sniper]
+nature: Hasty
+ivs: 13
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Muddy Water, Bubblebeam, Octazooka]
+    - [Dragon Pulse, Dragon Breath]
+    - [Hyper Beam, Disable, Attract, Captivate]
+    - [Agility, Rain Dance, Substitute, Focus Energy]
+combinations:
+    - [Bubblebeam, Sea Incense]
+	- [Octazooka, Wave Incense]
+	- [Dragon Fang, Dragon Breath]
+	- [Disable, Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Seadra
+setname: Physical
+item: [Petaya Berry]
+ability: [Poison Point]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 124, atk: 8, def: 124, spA: 128, spD: 124, spe: 0}
+moves:
+    - [Waterfall]
+    - [Natural Gift]
+    - [Flash Cannon, Signal Beam]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+
+species: Seadra
+setname: Stall
+item: [Null]
+ability: [Damp]
+nature: Careful,
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
+moves:
+    - [Dive]
+    - [Bounce]
+    - [Toxic]
+    - [Smokescreen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
