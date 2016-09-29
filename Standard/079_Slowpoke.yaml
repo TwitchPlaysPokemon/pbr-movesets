@@ -12,12 +12,12 @@ moves:
     - [Amnesia, Skill Swap, Disable, Belly Drum]
 combinations:
     - [Leftovers + Dive]
-	- [Sitrus Berry + Belly Drum]
+    - [Sitrus Berry + Belly Drum]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Dive]
+ball: []
 
 species: Slowpoke
 setname: Special
@@ -35,5 +35,5 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Heal]
+ball: []
 

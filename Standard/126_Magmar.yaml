@@ -12,8 +12,8 @@ moves:
     - [Screech, Will-O-Wisp, Belly Drum, Meditate]
 combinations:
     - [Black Glasses, Feint]
-	- [Passho Berry, Natural Gift, Meditate]
-	- [Salec Berry, Belly Drum]
+    - [Passho Berry, Natural Gift, Meditate]
+    - [Salec Berry, Belly Drum]
 separations:
     - [Flame Body, Will-O-Wisp]
 gender: [m, f]

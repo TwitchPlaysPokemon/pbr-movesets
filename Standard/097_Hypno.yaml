@@ -12,8 +12,8 @@ moves:
     - [Disable, Flash, Guard Swap, Poison Gas, Role Play]
 combinations:
     - [Odd Incense, Psybeam]
-	- [Rose Incense, Grass Knot]
-	- [Zoom Lens, Poison Gas]
+    - [Rose Incense, Grass Knot]
+    - [Zoom Lens, Poison Gas]
 gender: [m, f]
 happiness: 255
 biddable: True

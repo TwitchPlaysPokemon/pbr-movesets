@@ -12,12 +12,12 @@ moves:
     - [Sunny Day]
 combinations:
     - [Silk Scarf, Wring Out]
-	- [Chlorophyll, Energy Ball]
-	- [Leaf Guard, Solarbeam]
+    - [Chlorophyll, Energy Ball]
+    - [Leaf Guard, Solarbeam]
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.8
 ball: []
 
 species: Tangela
@@ -36,7 +36,7 @@ combinations:
     - [Chlorophyll, Flail, Endure, Sunny Day]
 separations:
     - [Body Slam, Stun Spore]
-	- [Body Slam, Sleep Powder]
+    - [Body Slam, Sleep Powder]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -58,5 +58,5 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.7
 ball: []

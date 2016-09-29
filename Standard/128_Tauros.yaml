@@ -18,7 +18,7 @@ ball: []
 
 species: Tauros
 setname: Intimidate
-item: [Null]
+item: [null]
 ability: [Intimidate]
 nature: Mild
 ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
@@ -30,9 +30,9 @@ moves:
     - [Tail Whip, Rain Dance, Sunny Day, Role Play, Scary Face]
 separations:
     - [Fire Blast, Rain Dance]
-	- [Solarbeam, Rain Dance]
-	- [Thunder, Sunny Day]
-	- [Surf, Sunny Day]
+    - [Solarbeam, Rain Dance]
+    - [Thunder, Sunny Day]
+    - [Surf, Sunny Day]
 gender: [m, f]
 happiness: 255
 biddable: True

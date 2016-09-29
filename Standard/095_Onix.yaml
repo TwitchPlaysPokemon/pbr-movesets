@@ -12,7 +12,7 @@ moves:
     - [Substitute, Endure, Screech]
 combinations:
     - [White Herb + Curse + Screech]
-	- [Liechi Berry + Flail]
+    - [Liechi Berry + Flail]
 gender: [m, f]
 happiness: 255
 biddable: True

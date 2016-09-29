@@ -30,9 +30,9 @@ moves:
     - [Curse, Swords Dance, Trick Room, Leech Seed, Hypnosis]
 combinations:
     - [Black Belt, Low Kick]
-	- [Hard Stone, Rollout]
-	- [Stomp, Trick Room]
-	- [Rollout, Hypnosis]
+    - [Hard Stone, Rollout]
+    - [Stomp, Trick Room]
+    - [Rollout, Hypnosis]
 separations:
     - [Ancient Power, Rollout]
 gender: [m, f]
@@ -55,7 +55,7 @@ moves:
     - [Stun Spore, Gravity, Nature Power]
 combinations:
     - [Scope Lens, Razor Leaf, Zen Headbutt, Stun Spore]
-	- [Sitrus Berry, Seed Bomb, Natural Gift]
+    - [Sitrus Berry, Seed Bomb, Natural Gift]
 gender: [m, f]
 happiness: 255
 biddable: True

@@ -12,8 +12,8 @@ moves:
     - [Roost, Baton Pass, Protect]
 combinations:
     - [Taunt, Roost]
-	- [Agility, Baton Pass]
-	- [Torment, Protect]
+    - [Agility, Baton Pass]
+    - [Torment, Protect]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -34,14 +34,14 @@ moves:
     - [Growl, Captivate, Double Team, Toxic, Endure]
 combinations:
     - [Power Herb, Sky Attack]
-	- [Durin Berry, Natural Gift]
-	- [Starf Berry, Endure]
-	- [Fly, Toxic]
+    - [Durin Berry, Natural Gift]
+    - [Starf Berry, Endure]
+    - [Fly, Toxic]
 separations:
     - [Sky Attack, Drill Peck]
-	- [Sky Attack, Fly]
-	- [Double-Edge, Body Slam]
-	- [Double-Edge, Secret Power]
+    - [Sky Attack, Fly]
+    - [Double-Edge, Body Slam]
+    - [Double-Edge, Secret Power]
 gender: [m, f]
 happiness: 255
 biddable: True

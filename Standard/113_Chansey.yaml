@@ -10,7 +10,7 @@ moves:
     - [Mud Bomb, Shadow Ball, Water Pulse, Psychic]
     - [Charge Beam]
     - [Substitute]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -28,7 +28,7 @@ moves:
     - [Earthquake, Iron Tail]
     - [Toxic]
     - [Protect]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.5

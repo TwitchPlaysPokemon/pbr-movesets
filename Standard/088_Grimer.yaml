@@ -30,12 +30,12 @@ moves:
     - [Disable, Rest, Rain Dance]
 combinations:
     - [Sitrus Berry, Disable]
-	- [Chesto Berry, Rest]
-	- [Quick Claw, Thunder, Rain Dance]
+    - [Chesto Berry, Rest]
+    - [Quick Claw, Thunder, Rain Dance]
 separations:
     - [Fire Blast, Flamethrower]
-	- [Thunder, Thunderbolt]
-	- [Flamethrower, Rain Dance]
+    - [Thunder, Thunderbolt]
+    - [Flamethrower, Rain Dance]
 gender: [m, f]
 happiness: 255
 biddable: True

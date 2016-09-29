@@ -30,10 +30,10 @@ moves:
     - [Sleep Powder, Hypnosis]
 combinations:
     - [Coba Berry, Ancient Power]
-	- [Dream Eater, Hypnosis]
+    - [Dream Eater, Hypnosis]
 separations:
     - [Psycic, Dream Eater]
-	- [Leaf Storm, Energy Ball]
+    - [Leaf Storm, Energy Ball]
 gender: [m, f]
 happiness: 255
 biddable: True

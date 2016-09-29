@@ -12,12 +12,12 @@ moves:
     - [Agility, Swords Dance, Tickle, Toxic]
 combinations:
     - [Silverpowder, X-scissor]
-	- [White Herb, Superpower]
+    - [White Herb, Superpower]
 separations:
     - [Superpower, Brick Break]
-	- [Double-Edge, Body Slam]
-	- [Brick Break, Toxic]
-	- [Body Slam, Toxic]
+    - [Double-Edge, Body Slam]
+    - [Brick Break, Toxic]
+    - [Body Slam, Toxic]
 gender: [m, f]
 happiness: 255
 biddable: True

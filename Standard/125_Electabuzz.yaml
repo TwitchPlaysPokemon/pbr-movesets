@@ -12,8 +12,8 @@ moves:
     - [Screech, Barrier, Meditate, Thunder Wave]
 combinations:
     - [Charcoal, Fire Punch]
-	- [NeverMelt-Ice, Ice Punch]
-	- [Black Belt, Roling Kick, Thunder Wave]
+    - [NeverMelt-Ice, Ice Punch]
+    - [Black Belt, Roling Kick, Thunder Wave]
 separations:
     - [Roling Kick, Body Slam]
 gender: [m, f]
@@ -36,7 +36,7 @@ moves:
     - [Charge Beam, Counter, Double Team, Light Screen]
 combinations:
     - [SilverPowder, Signal Beam]
-	- [Poison Barb, Hidden Poison]
+    - [Poison Barb, Hidden Poison]
 gender: [m, f]
 happiness: 255
 biddable: True

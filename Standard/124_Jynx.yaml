@@ -12,7 +12,7 @@ moves:
     - [Skill Swap, Copycat, Metronome, Flash, Magic Coat, Perish Song]
 combinations:
     - [Miracle Seed, Energy Ball]
-	- [Spell Tag, Shadow Ball]
+    - [Spell Tag, Shadow Ball]
 gender: [m, f]
 happiness: 255
 biddable: True

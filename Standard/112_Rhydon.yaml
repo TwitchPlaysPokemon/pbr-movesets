@@ -32,13 +32,13 @@ moves:
     - [Rain Dance, Sunny Day, Sandstorm]
 combinations:
     - [Thunder, Rain Dance]
-	- [Fire Blast, Sunny Day]
+    - [Fire Blast, Sunny Day]
 separations:
     - [Fire Blast, Flamethrower]
-	- [Thunder, Thunderbolt]
-	- [Blizzard, Ice Beam]
-	- [Surf, Sunny]
-	- [Flamethrower, Rain]
+    - [Thunder, Thunderbolt]
+    - [Blizzard, Ice Beam]
+    - [Surf, Sunny Day]
+    - [Flamethrower, Rain Rance]
 gender: [m, f]
 happiness: 255
 biddable: True

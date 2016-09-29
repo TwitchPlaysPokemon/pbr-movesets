@@ -29,8 +29,8 @@ moves:
     - [Low Kick]
     - [Endure]
 separations:
-    - [Cherri Berry, Aerial Ace]
-	- [Cherri Berry, Pluck]
+    - [Cheri Berry, Aerial Ace]
+    - [Cheri Berry, Pluck]
 gender: [m, f]
 happiness: 255
 biddable: True

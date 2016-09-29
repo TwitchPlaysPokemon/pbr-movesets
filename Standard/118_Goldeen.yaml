@@ -12,16 +12,16 @@ moves:
     - [Rain Dance, Agility, Swords Dance]
 combinations:
     - [Power Herb, Skull Bash]
-	- [Sitrus Berry, Double-Edge]
-	- [Swift Swim, Rain Dance]
+    - [Sitrus Berry, Double-Edge]
+    - [Swift Swim, Rain Dance]
 separations:
     - [Watmel Berry, Swift Swim]
-	- [Watmel Berry, Poison Jab]
-	- [Watmel Berry, Horn Drill]
-	- [Belue Berry, Poison Jab]
-	- [Belue Berry, Horn Drill]
-	- [Megahorn, Poison Jab]
-	- [Horn Drill, Swords Dance]
+    - [Watmel Berry, Poison Jab]
+    - [Watmel Berry, Horn Drill]
+    - [Belue Berry, Poison Jab]
+    - [Belue Berry, Horn Drill]
+    - [Megahorn, Poison Jab]
+    - [Horn Drill, Swords Dance]
 gender: [m, f]
 happiness: 255
 biddable: True

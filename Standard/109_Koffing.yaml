@@ -12,8 +12,8 @@ moves:
     - [Will-O-Wisp, Toxic]
 combinations:
     - [Black Sludge, Protect]
-	- [Lum Berry, Rest]
-	gender: [m, f]
+    - [Lum Berry, Rest]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

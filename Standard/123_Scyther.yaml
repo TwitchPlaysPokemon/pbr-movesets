@@ -36,7 +36,7 @@ ball: []
 
 species: Scyther
 setname: Special
-item: [Null, Silk Scarf]
+item: [null, Silk Scarf]
 ability: [Swarm, Technician]
 nature: Brave
 ivs: 31
@@ -47,7 +47,7 @@ moves:
     - [Headbutt, Cut, False Swipe]
     - [Morning Sun, Vacuum Wave, Swords Dance, Roost]
 combinations:
-    - [Swarm, Bug Buzz, Headbutt, Null]
+    - [Swarm, Bug Buzz, Headbutt, null]
     - [Technician, Silver Wind]
 separations:
     - [Swarm, Vacuum Wave]

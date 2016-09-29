@@ -30,7 +30,7 @@ moves:
     - [Tail Whip, Rain Dance, Endure]
 combinations:
     - [Swift Swim, Rain Dance]
-	- [Flail, Endure]
+    - [Flail, Endure]
 gender: [m, f]
 happiness: 255
 biddable: True

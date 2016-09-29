@@ -12,9 +12,8 @@ moves:
     - [Swift, Swagger, Minimize, Gravity, Reflect, Light Screen, Endure]
 separations:
     - [Wacan Berry, Endure]
-	- [Rindo Berry, Endure]
-	- [Berry Juice, Endure]
-gender: [m, f]
+    - [Rindo Berry, Endure]
+    - [Berry Juice, Endure]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -34,8 +33,7 @@ moves:
     - [Camouflage, Endure, Thunder Wave, Defense Curl]
 combinations:
     - [Liechi Berry, Natural Gift]
-	- [Sitrus Berry, Rollout, Defense Curl]
-gender: [m, f]
+    - [Sitrus Berry, Rollout, Defense Curl]
 happiness: 0
 biddable: True
 rarity: 1.0

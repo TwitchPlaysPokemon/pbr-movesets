@@ -1,6 +1,6 @@
 species: Starmie
 setname: Standard
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 nature: Adamant
 ivs: 31
@@ -12,10 +12,9 @@ moves:
     - [Rage, Rapid Spin, Harden, Pain Split]
 separations:
     - [Surf, Rage]
-	- [Flash Cannon, Rage]
-	- [Signal Beam, Rage]
-	- [Zap Cannon, Rage]
-gender: [m, f]
+    - [Flash Cannon, Rage]
+    - [Signal Beam, Rage]
+    - [Zap Cannon, Rage]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -37,7 +36,6 @@ combinations:
     - [Gyro Ball, Trick Room]
 separations:
     - [Waterfall, Toxic]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -45,7 +43,7 @@ ball: []
 
 species: Starmie
 setname: Camouflage
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 nature: Modest
 ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}

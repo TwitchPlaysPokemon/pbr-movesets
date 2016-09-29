@@ -1,6 +1,6 @@
 species: Mr. Mime
 setname: Special
-item: [Null]
+item: [null]
 ability: [Sound Proof]
 nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
@@ -18,7 +18,7 @@ ball: []
 
 species: Mr. Mime
 setname: Physical
-item: [Null]
+item: [null]
 ability: [Filter]
 nature: Naughty
 ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}

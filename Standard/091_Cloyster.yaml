@@ -29,14 +29,14 @@ moves:
     - [Screech, Poison Jab, Toxic]
     - [Withdraw, Hail, Protect]
 combinations:
-	- [Grip Claw, Clamp]
-	- [Icicle Plate, Ice Shard]
+    - [Grip Claw, Clamp]
+    - [Icicle Plate, Ice Shard]
 separations:
     - [Avalanche, Ice Shard]
-	- [Dive, Clamp]
-	- [Avalance, Toxic]
-	- [Dive, Poison Jab]
-	- [Avalance, Hail]
+    - [Dive, Clamp]
+    - [Avalance, Toxic]
+    - [Dive, Poison Jab]
+    - [Avalance, Hail]
 gender: [m, f]
 happiness: 255
 biddable: True

@@ -48,9 +48,9 @@ moves:
     - [Haze, Block, Harden, Imprison, Stock Pile]
 combinations:
     - [Rose Incense, Giga Drain]
-	- [Earth Plate, Mud Bomb, Imprison]
-	- [Zap Plate, Shock Wave]
-	- [Silk Scarf, Spit Up, Stock Pile]
+    - [Earth Plate, Mud Bomb, Imprison]
+    - [Zap Plate, Shock Wave]
+    - [Silk Scarf, Spit Up, Stock Pile]
 separations:
     - [Thunderbolt, Shock Wave]
 gender: [m, f]

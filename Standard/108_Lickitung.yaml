@@ -54,9 +54,9 @@ moves:
     - [Disable, Amnesia, Sunny Day, Rain Dance]
 separations:
     - [Fire Blast, Rain Dance]
-	- [Rain Dance, Solar Beam]
-	- [Surf, Sunny Day]
-	- [Thunder, Sunny]
+    - [Rain Dance, Solar Beam]
+    - [Surf, Sunny Day]
+    - [Thunder, Sunny]
 gender: [m, f]
 happiness: 255
 biddable: True

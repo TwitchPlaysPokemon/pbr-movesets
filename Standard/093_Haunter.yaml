@@ -46,10 +46,6 @@ moves:
     - [Dream Eater]
     - [Hypnosis]
     - [Curse, Perish Song, Destiny Bond, Self-destruct]
-combinations:
-    - []
-separations:
-    - []
 gender: [m, f]
 happiness: 255
 biddable: True

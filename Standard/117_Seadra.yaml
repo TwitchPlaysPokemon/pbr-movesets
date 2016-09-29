@@ -12,9 +12,9 @@ moves:
     - [Agility, Rain Dance, Substitute, Focus Energy]
 combinations:
     - [Bubblebeam, Sea Incense]
-	- [Octazooka, Wave Incense]
-	- [Dragon Fang, Dragon Breath]
-	- [Disable, Substitute]
+    - [Octazooka, Wave Incense]
+    - [Dragon Fang, Dragon Breath]
+    - [Disable, Substitute]
 gender: [m, f]
 happiness: 255
 biddable: True

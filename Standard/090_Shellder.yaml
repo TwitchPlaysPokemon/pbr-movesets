@@ -34,7 +34,7 @@ combinations:
     - [Wide Lens, Hydro Pump, Blizzard]
 separations:
     - [Blizzard, Icy Wind]
-	- [Ice Beam, Icy Wind]
+    - [Ice Beam, Icy Wind]
 gender: [m, f]
 happiness: 255
 biddable: True

@@ -31,7 +31,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [Safari]
 
 species: Kangaskhan
@@ -49,5 +49,5 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: []

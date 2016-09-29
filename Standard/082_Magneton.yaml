@@ -14,12 +14,11 @@ combinations:
     - []
 separations:
     - [Discharge, Shock Wave]
-	- [Flash Cannon, Mirror Shot]
-	- [Metal Coat, Flash Cannon]
-	- [Metal Coat, Shock Wave]
-	- [Magnet, Discharge]
-	- [Magnet, Mirror Shot]
-gender: [m, f]
+    - [Flash Cannon, Mirror Shot]
+    - [Metal Coat, Flash Cannon]
+    - [Metal Coat, Shock Wave]
+    - [Magnet, Discharge]
+    - [Magnet, Mirror Shot]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -37,11 +36,6 @@ moves:
     - [Sleep Talk]
     - [Rest]
     - [Recycle]
-combinations:
-    - []
-separations:
-    - []
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
@@ -62,7 +56,6 @@ moves:
 combinations:
     - [Shuca Berry, Rain Dance]
     - [Occa Berry, Magnet Rise]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

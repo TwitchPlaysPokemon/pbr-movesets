@@ -12,8 +12,8 @@ moves:
     - [Growl, Leer, Captivate, Sandstorm]
 combinations:
     - [Soft Sand, Bone Club, Body Slam]
-	- [Rare Bone, Fling]
-	- [Rock Head, Take Down]
+    - [Rare Bone, Fling]
+    - [Rock Head, Take Down]
 gender: [m, f]
 happiness: 255
 biddable: True

@@ -12,7 +12,6 @@ moves:
     - [Magic Coat, Metal Sound, Supersonic]
 combinations:
     - [Wide Lens, Gravity]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -32,7 +31,6 @@ moves:
     - [Explosion]
 combinations:
     - [Metal Coat, Magnet Bomb]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

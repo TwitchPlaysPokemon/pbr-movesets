@@ -12,16 +12,16 @@ moves:
     - [Captivate, Bind, Harden, Rain Dance, Endure]
 combinations:
     - [Black Glasses, Feint Attack]
-	- [Damp Rock, Rain Dance]
-	- [Power Herb, Dig]
-	- [Salac Berry, Endure]
+    - [Damp Rock, Rain Dance]
+    - [Power Herb, Dig]
+    - [Salac Berry, Endure]
 separations:
     - [Rock Slide, Submission]
-	- [Rock Slide, Dig]
-	- [Body Slam, Bind]
-	- [Rock Climb, Bind]
-	- [Mold Breaker, Revenge]
-	- [Mold Breaker, Submission]
+    - [Rock Slide, Dig]
+    - [Body Slam, Bind]
+    - [Rock Climb, Bind]
+    - [Mold Breaker, Revenge]
+    - [Mold Breaker, Submission]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -30,7 +30,7 @@ ball: []
 
 species: Pinsir
 setname: X-Scissor
-item: [Null]
+item: [null]
 ability: [Hyper Cutter, Mold Breaker]
 nature: Calm
 ivs: 0
@@ -62,15 +62,15 @@ moves:
     - [Iron Defense, Double Team, Swords Dance, Bulk Up, Quick Attack, Foresight]
 combinations:
     - [Metronome, Fury Cutter]
-	- [King's Rock, Fury Attach]
+    - [King's Rock, Fury Attack]
 separations:
     - [Vice Grip, Quick Attack]
-	- [Fury Attack, Quick Attack]
-	- [Fury Cutter, Guillotine]
-	- [Hidden Power, Swords Dance]
-	- [Hidden Power, Iron Defense]
-	- [Guillotine, Foresight]
-	- [Me First, Foresight]
+    - [Fury Attack, Quick Attack]
+    - [Fury Cutter, Guillotine]
+    - [Hidden Power, Swords Dance]
+    - [Hidden Power, Iron Defense]
+    - [Guillotine, Foresight]
+    - [Me First, Foresight]
 gender: [m, f]
 happiness: 255
 biddable: True

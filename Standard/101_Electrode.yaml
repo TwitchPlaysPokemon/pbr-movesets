@@ -12,8 +12,7 @@ moves:
     - [Self-Destruct, Magnet Rise, Taunt, Flash]
 combinations:
     - [Magnet, Charge Beam]
-	- [Hidden Power, Magnet Rise]
-gender: [m, f]
+    - [Hidden Power, Magnet Rise]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -33,7 +32,6 @@ moves:
     - [Curse, Explosion]
 combinations:
     - [Facade, Flame Orb, Explosion]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -51,7 +49,6 @@ moves:
     - [Natural Gift]
     - [Sonic Boom]
     - [Magnet Rise]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.1

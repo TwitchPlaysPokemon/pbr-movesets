@@ -12,8 +12,8 @@ moves:
     - [Sunny Day, Hypnosis, Protect, Agility, Rest]
 combinations:
     - [Morning Sun, Sunny Day, Solarbeam]
-	- [Bounce, Toxic, Protect]
-	- [Sleep Talk, Rest]
+    - [Bounce, Toxic, Protect]
+    - [Sleep Talk, Rest]
 separations:
     - [Flame Body, Hypnosis]
 gender: [m, f]

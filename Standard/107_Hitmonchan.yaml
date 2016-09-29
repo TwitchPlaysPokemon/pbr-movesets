@@ -12,10 +12,10 @@ moves:
     - [Counter, Bullet Punch, Mind Reader, Substitute, Foresight, Double Team, Attract, Agility]
 combinations:
     - [Dynamic Punch, Mind Reader]
-	- [Focus Punch, Substitute]
+    - [Focus Punch, Substitute]
 separations:
     - [Mach Punch, Bullet Punch]
-	- [Mach Punch, Agility]
+    - [Mach Punch, Agility]
 gender: [m, f]
 happiness: 255
 biddable: True

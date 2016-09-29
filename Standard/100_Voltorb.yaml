@@ -10,7 +10,6 @@ moves:
     - [Hidden Power]
     - [Rain Dance]
     - [Explosion]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -28,7 +27,6 @@ moves:
     - [Headbutt]
     - [Charge, Rage]
     - [Explosion]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
