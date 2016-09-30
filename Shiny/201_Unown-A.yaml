@@ -1,0 +1,27 @@
+species: Unown
+setname: Shiny
+item: [Adamant Orb, Aguav Berry, Air Mail, Amulet Coin, Antidote, Apricorn Berry, Armor Fossil, Aspear Berry, Awakening, ]
+ability: [Adaptability, Aftermath, Air Lock, Anger Point, Anticipation, Arena Trap]
+moves:
+    - [Aeroblast, Air Slash, Ancientpower, Aura Sphere, Aurora Beam]
+    - [Aerial Ace, Aqua Tail, Assurance, Attack Order, Avalanche]
+    - [Absorb, Acid, Air Cutter, Aqua Jet, Arm Thrust, Assist, Astonish]
+    - [Acid Armor, Acupressure, Agility, Amnesia, Aqua Ring, Aromatherapy, Attract]
+combinations:
+    - []
+separations:
+    - [Aeroblast, Aerial Ace]
+    - [Aeroblast, Air Cutter]
+    - [Air Slash, Aerial Ace]
+    - [Air Slash, Air Cutter]
+    - [Aerial Ace, Air Cutter]
+    - [Aqua Tal, Aqua Jet]
+    - [Assurance, Astonish]
+form: 0
+happiness: 255
+shiny: True
+rarity: 1.0
+ball: []
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

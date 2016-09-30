@@ -1,0 +1,17 @@
+species: Blissey
+setname: Standard
+item: [Charcoal]
+ability: [Serene Grace]
+moves:
+    - [Secret Power, Giga Impact, Egg Bomb]
+    - [Blizzard, Thunder, Focus Blast]
+    - [Fire Punch]
+    - [Gravity]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Naughty
+ivs: 31
+evs: {hp: 40, atk: 252, def: 40, spA: 40, spD: 0, spe: 136}

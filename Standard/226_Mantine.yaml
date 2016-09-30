@@ -1,0 +1,70 @@
+species: Mantine
+setname: Standard
+item: [Jaboca Berry]
+ability: [Water Veil]
+moves:
+    - [Hydro Pump, Surf]
+    - [Bounce]
+    - [Mirror Coat, Iron Head]
+    - [Tailwind, Supersonic, Haze, Defog]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 100, atk: 200, def: 80, spA: 68, spD: 0, spe: 60}
+
+species: Mantine
+setname: Special
+item: [Wacan Berry, Mind Plate, Micle Berry]
+ability: [Swift Swim, Water Absorb]
+moves:
+    - [Bubblebeam, Water Pulse, Brine]
+    - [Hidden Power, Air Cutter]
+    - [Ice Beam, Psybeam, Signal Beam, Hyper Beam]
+    - [Rain Dance, Agility]
+combinations:
+    - [Mind Plate, Psybeam]
+    - [Swift Swim, Rain Dance]
+separations:
+    - [Hidden Power, Micle Berry]
+    - [Water Absorb, Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Brave
+ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 1}
+evs: {hp: 100, atk: 0, def: 152, spA: 72, spD: 0, spe: 4}
+
+species: Mantine
+setname: Physical
+item: [Sky Plate, Wacan Berry, Charti Berry]
+ability: [Water Veil]
+moves:
+    - [Aqua Tail, Dive, Waterfall]
+    - [Bounce, Aerial Ace, Wing Attack]
+    - [Gunk Shot, Earthquake, Seed Bomb]
+    - [Supersonic, Mud Sport, String Shot, Aqua Ring, Haze]
+combinations:
+    - [Watmel Berry, Earthquake, Mud Sport]
+separations:
+    - [Waterfall, Bounce]
+    - [Dive, Bounce]
+    - [Sky Plate, Bounce]
+    - [Aqua Tail, String Shot]
+    - [Dive, String Shot]
+    - [Bounce, String Shot]
+    - [Aerial Ace, Aqua Ring]
+    - [Wing Attack, Aqua Ring]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Adamant
+ivs: {hp: 11, atk: 31, def: 11, spA: 0, spD: 0, spe: 11}
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 0, spe: 84}

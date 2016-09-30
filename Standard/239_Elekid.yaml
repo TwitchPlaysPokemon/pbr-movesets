@@ -1,0 +1,35 @@
+species: Elekid
+setname: Special
+item: [Icicle Plate]
+ability: [Static, Vital Spirit]
+moves:
+    - [Thunderbolt]
+    - [Psychic]
+    - [Hidden Power]
+    - [Charge Beam, Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Modest
+ivs: 31
+evs: {hp: 128, atk: 0, def: 36, spA: 128, spD: 128, spe: 88}
+
+species: Elekid
+setname: Physical
+item: [Flame Orb]
+ability: [Static, Vital Spirit]
+moves:
+    - [Thunder Punch]
+    - [Cross Chop]
+    - [Fire Punch, Ice Punch]
+    - [Fling]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 140, def: 84, spA: 0, spD: 84, spe: 100}

@@ -1,0 +1,35 @@
+species: Houndour
+setname: Physical
+item: [Focus Sash]
+ability: [Early Bird]
+moves:
+    - [Crunch, Sucker Punch]
+    - [Fire Fang]
+    - [Reversal]
+    - [Rage, Counter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+
+species: Houndour
+setname: Special
+item: [null]
+ability: [Early Bird, Flash Fire]
+moves:
+    - [Overheat, Fire Blast]
+    - [Dark Pulse]
+    - [Solarbeam]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Timid
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 168, spD: 0, spe: 168}

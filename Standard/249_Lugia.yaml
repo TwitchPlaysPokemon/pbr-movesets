@@ -1,0 +1,54 @@
+species: Lugia
+setname: Special
+item: [Iron Ball]
+ability: [Pressure]
+moves:
+    - [Aeroblast]
+    - [Future Sight, Hidden Power]
+    - [Defog, Safeguard, Whirlwind, Protect]
+    - [Trick]
+separations:
+    - [Hidden Power, Protect]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Luxury]
+nature: Naughty
+ivs: {hp: 0, atk: 0, def: 1, spA: 1, spD: 3, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+
+species: Lugia
+setname: Physical
+item: [Iron Ball]
+ability: [Pressure]
+moves:
+    - [Zen Headbutt]
+    - [Waterfall]
+    - [Mimic]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Dive]
+nature: Rash
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+
+species: Lugia
+setname: Overpowered
+item: [Iron Ball]
+ability: [Pressure]
+moves:
+    - [Psycho Boost]
+    - [Aeroblast]
+    - [Dragon Pulse, Ice Beam, Thunderbolt, Surf, Weather Ball]
+    - [Defog, Sandstorm]
+combinations:
+    - [Weather Ball, Sandstorm]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Naughty
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

@@ -1,0 +1,55 @@
+species: Entei
+setname: Standard
+item: [Flame Mail, Silk Scarf, Blackglasses]
+ability: [Pressure]
+moves:
+    - [Fire Fang]
+    - [Iron Head, Stomp, Bite]
+    - [Rock Smash]
+    - [Roar]
+combinations:
+    - [Silk Scarf, Stomp]
+    - [Blackglasses, Bite]
+happiness: 255
+biddable: True
+rarity: 1.4
+ball: [Cherish]
+nature: Bashful
+ivs: 0
+evs: {hp: 0, atk: 60, def: 60, spA: 60, spD: 60, spe: 60}
+
+species: Entei
+setname: Overheat
+item: [Wide Lens]
+ability: [Pressure]
+moves:
+    - [Overheat]
+    - [Giga Impact]
+    - [Iron Tail]
+    - [Roar]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Careful
+ivs: 0.5
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+
+species: Entei
+setname: Overpowered
+item: [null, Power Herb]
+ability: [Pressure]
+moves:
+    - [Sacred Fire, Flare Blitz, Fire Blast, Eruption]
+    - [Stone Edge, Iron Tail, Solarbeam]
+    - [Shadow Ball, Extrasensory, Crush Claw]
+    - [Roar, Leer, Flash]
+combinations:
+    - [Power Herb, Solarbeam]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

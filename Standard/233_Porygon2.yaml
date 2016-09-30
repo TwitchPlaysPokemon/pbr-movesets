@@ -1,0 +1,39 @@
+species: Porygon2
+setname: Trace
+item: [null]
+ability: [Trace]
+moves:
+    - [Tri Attack]
+    - [Discharge, Psychic, Ice Beam]
+    - [Toxic]
+    - [Magic Coat, Trick Room, Flash, Agility]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Hasty
+ivs: 11
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Porygon2
+setname: Download
+item: [Spooky Plate, Mind Plate]
+ability: [Download]
+moves:
+    - [Tri Attack]
+    - [Secret Power, Facade, Return]
+    - [Iron Tail, Thunderbolt]
+    - [Shadow Ball, Zen Headbutt]
+combinations:
+    - [Spooky Plate, Shadow Ball]
+    - [Mind Plate, Zen Headbutt]
+separations:
+    - [Iron Tail, Zen Headbutt]
+    - [Thunderbolt, Shadow Ball]
+happiness: 213
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Adamant
+ivs: {hp: 3, atk: 31, def: 3, spA: 31, spD: 3, spe: 3}
+evs: {hp: 148, atk: 36, def: 88, spA: 20, spD: 88, spe: 128}

@@ -1,0 +1,65 @@
+species: Tyranitar
+setname: Physical
+item: [Sacred Ash, Quick Claw]
+ability: [Sand Stream]
+moves:
+    - [Rock Tomb]
+    - [Pursuit, Fling]
+    - [Flamethrower, Thunderbolt]
+    - [Stealth Rock, Taunt, Leer]
+combinations:
+    - [Quick Claw, Fling, Leer]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Dusk]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 52}
+
+species: Tyranitar
+setname: Special
+item: [Chople Berry, Passho Berry, Shuca Berry, Hard Stone]
+ability: [Sand Stream]
+moves:
+    - [Dark Pulse, Ancientpower]
+    - [Surf, Thunder, Fire Blast]
+    - [Earth Power, Dragon Pulse, Hidden Power]
+    - [Rain Dance, Sunny Day]
+combinations:
+    - [Hard Stone, Ancientpower]
+    - [Fire Blast, Sunny Day]
+separations:
+    - [Passho Berry, Rain Dance]
+    - [Shuca Berry, Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 20, spA: 4, spD: 20, spe: 52}
+
+species: Tyranitar
+setname: Overpowered
+item: [Tunnel Mail, Hard Stone]
+ability: [Sand Stream]
+moves:
+    - [Stone Edge, Rock Slide]
+    - [Crunch, Payback]
+    - [Outrage, Aqua Tail, Superpower, Iron Tail]
+    - [Leer, Block, Focus Energy, Scary Face]
+combinations:
+    - [Rock Slide, Hard Stone]
+separations:
+    - [Stone Edge, Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

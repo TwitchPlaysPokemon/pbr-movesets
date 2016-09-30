@@ -1,0 +1,48 @@
+species: Raikou
+setname: Standard
+item: [Aspear Berry, Petaya Berry, Leftovers]
+ability: [Pressure, Volt Absorb]
+moves:
+    - [Thunder Fang, Spark, Shock Wave]
+    - [Aura Sphere, Iron Tail, Double-Edge, Crunch, Weather Ball]
+    - [Extremespeed, Iron Head, Natural Gift]
+    - [Leer, Magnet Rise, Sunny Day, Sandstorm]
+combinations:
+    - [Leftovers, Sandstorm]
+separations:
+    - [Petaya Berry, Shock Wave]
+    - [Petaya Berry, Aura Sphere]
+    - [Petaya Berry, Weather Ball]
+    - [Petaya Berry, Sunny Day]
+    - [Iron Tail, Iron Head]
+    - [Double-Edge, Extremespeed]
+    - [Shock Wave, Leer]
+    - [Aura Sphere, Leer]
+    - [Weather Ball, Leer]
+    - [Weather Ball, Magnet Rise]
+happiness: 255
+biddable: True
+rarity: 1.9
+ball: [Cherish]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 100, def: 20, spA: 0, spD: 0, spe: 20}
+
+species: Raikou
+setname: Overpowered
+item: [null]
+ability: [Pressure]
+moves:
+    - [Thunderbolt, Discharge, Thunder]
+    - [Aura Sphere, Weather Ball]
+    - [Extrasensory, Shadow Ball]
+    - [Calm Mind, Rain Dance]
+combinations:
+    - [Thunder, Weather Ball, Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

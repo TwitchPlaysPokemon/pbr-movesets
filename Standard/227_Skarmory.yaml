@@ -1,0 +1,61 @@
+species: Skarmory
+setname: Standard
+item: [Life Orb]
+ability: [Keen Eye, Sturdy]
+moves:
+    - [Brave Bird, Drill Peck]
+    - [Toxic]
+    - [Spikes]
+    - [Whirlwind, Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Hasty
+ivs: 0
+evs: {hp: 116, atk: 36, def: 56, spA: 60, spD: 120, spe: 120}
+
+species: Skarmory
+setname: Physical
+item: [Life Orb, Sharp Beak, Watmel Berry]
+ability: [Keen Eye, Sturdy]
+moves:
+    - [Steel Wing]
+    - [Aerial Ace, Pluck, Peck]
+    - [Payback, X-Scissor, Rock Slide, Natural Gift]
+    - [Leer, Agility, Guard Swap, Stealth Rock]
+combinations:
+    - [Sharp Beak, Peck]
+    - [Watmel Berry, Natural Gift]
+separations:
+    - [Payback, Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Mild
+ivs: 0
+evs: {hp: 128, atk: 124, def: 0, spA: 0, spD: 128, spe: 128}
+
+species: Skarmory
+setname: Special
+item: [null, Scope Lens]
+ability: [Keen Eye, Sturdy]
+moves:
+    - [Flash Cannon]
+    - [Air Slash, Air Cutter]
+    - [Dark Pulse]
+    - [Agility, Metal Sound]
+combinations:
+    - [Air Slash, Agility]
+    - [Scope Lens, Air Cutter, Metal Sound]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Modest
+ivs: {hp: 5, atk: 0, def: 5, spA: 31, spD: 5, spe: 5}
+evs: {hp: 64, atk: 0, def: 0, spA: 252, spD: 128, spe: 64}

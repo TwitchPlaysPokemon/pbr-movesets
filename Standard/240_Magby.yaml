@@ -1,0 +1,20 @@
+species: Magby
+setname: Standard
+item: [Red Shard, Charcoal, Magnet]
+ability: [Flame Body, Vital Spirit]
+moves:
+    - [Overheat]
+    - [Flare Blitz, Fire Punch]
+    - [Cross Chop, Thunder Punch]
+    - [Power Swap]
+combinations:
+    - [Charcoal, Fire Punch]
+    - [Magnet, Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Naive
+ivs: 31
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}

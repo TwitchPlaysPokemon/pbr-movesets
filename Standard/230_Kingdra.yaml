@@ -1,0 +1,37 @@
+species: Kingdra
+setname: Standard
+item: [null]
+ability: [Damp, Swift Swim]
+moves:
+    - [Draco Meteor, Dragon Pulse, Dragon Breath, Outrage]
+    - [Octazooka, Brine, Waterfall, Dive]
+    - [Body Slam, Iron Head, Bounce]
+    - [Dragon Dance, Rain Dance, Smokescreen, Splash, Agility]
+separations:
+    - [Dragon Dance, Outrage]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Luxury]
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+
+species: Kingdra
+setname: Critter
+item: [Scope Lens]
+ability: [Sniper]
+moves:
+    - [Water Gun]
+    - [Razor Wind]
+    - [Focus Energy]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Bashful
+ivs: 31
+evs: {hp: 136, atk: 0, def: 80, spA: 128, spD: 80, spe: 84}

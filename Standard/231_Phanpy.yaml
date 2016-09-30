@@ -1,0 +1,44 @@
+species: Phanpy
+setname: Physical
+item: [null]
+ability: [Sand Veil, Pickup]
+moves:
+    - [Earthquake]
+    - [Gunk Shot, Head Smash, Superpower]
+    - [Rock Slide, Body Slam, Seed Bomb]
+    - [Sandstorm, Rock Tomb, Ice Shard, Counter]
+combinations:
+    - [Sand Veil, Sandstorm]
+separations:
+    - [Head Smash, Rock Slide]
+    - [Head Smash, Rock Tomb]
+    - [Rock Slide, Rock Tomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Safari]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 168, def: 60, spA: 0, spD: 80, spe: 200}
+
+species: Phanpy
+setname: Special
+item: [Hard Stone]
+ability: [Sand Veil, Pickup]
+moves:
+    - [Earth Power]
+    - [Ancientpower]
+    - [Fissure, Hidden Power]
+    - [Sandstorm, Sunny Day]
+combinations:
+    - [Sand Veil, Sandstorm]
+    - [Hidden Power, Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Poké]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

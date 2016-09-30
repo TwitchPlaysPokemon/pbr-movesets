@@ -1,0 +1,21 @@
+species: Unown
+setname: Standard
+item: []
+ability: []
+moves:
+    - []
+    - []
+    - []
+    - []
+combinations:
+    - []
+separations:
+    - []
+form: 16
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

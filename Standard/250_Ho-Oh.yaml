@@ -1,0 +1,53 @@
+species: Ho-Oh
+setname: Physical
+item: [Bluk Berry]
+ability: [Pressure]
+moves:
+    - [Aerial Ace, Wing Attack]
+    - [Natural Gift]
+    - [Steel Wing]
+    - [Mimic]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+
+species: Ho-Oh
+setname: Special
+item: [Scope Lens, Sky Plate]
+ability: [Pressure]
+moves:
+    - [Air Cutter, Gust]
+    - [Hidden Power]
+    - [Giga Drain, Ancientpower]
+    - [Tailwind, Twister, Mimic]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Rash
+ivs: {hp: 0, atk: 28, def: 1, spA: 28, spD: 3, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+
+species: Ho-Oh
+setname: Overpowered
+item: [Iron Ball]
+ability: [Pressure]
+moves:
+    - [Sacred Fire, Fire Blast, Overheat]
+    - [Brave Bird, Sky Attack]
+    - [Earthquake, Zen Headbutt, Iron Head, Earth Power, Psychic, Weather Ball]
+    - [Whirlwind, Roar, Defog, Sandstorm]
+combinations:
+    - [Fire Blast, Defog]
+    - [Weather Ball, Sandstorm]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Bold
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

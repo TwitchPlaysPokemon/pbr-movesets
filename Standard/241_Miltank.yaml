@@ -1,0 +1,53 @@
+species: Miltank
+setname: Scrappy
+item: [Moomoo Milk]
+ability: [Scrappy]
+moves:
+    - [Present]
+    - [Rollout]
+    - [Bide]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Timer]
+nature: Lonely
+ivs: 31
+evs: {hp: 40, atk: 252, def: 0, spA: 0, spD: 0, spe: 40}
+
+species: Miltank
+setname: Thick Fat
+item: [Calcium]
+ability: [Thick Fat]
+moves:
+    - [Mega Punch, Headbutt, Dizzy Punch]
+    - [Zen Headbutt, Brick Break, Iron Head]
+    - [Surf, Shadow Ball, Blizzard, Thunderbolt]
+    - [Heal Bell, Defense Curl, Attract, Metronome]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Quirky
+ivs: 31
+evs: {hp: 0, atk: 64, def: 64, spA: 252, spD: 64, spe: 64}
+
+species: Miltank
+setname: Whitney
+item: [Lum Berry]
+ability: [Scrappy]
+moves:
+    - [Stomp]
+    - [Rollout]
+    - [Attract]
+    - [Milk Drink]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poké]
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 128}

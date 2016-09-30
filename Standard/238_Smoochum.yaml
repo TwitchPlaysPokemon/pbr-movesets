@@ -1,0 +1,47 @@
+species: Smoochum
+setname: Special
+item: [Snow Mail, Meadow Plate, Splash Plate]
+ability: [Oblivious, Forewarn, Hydration]
+moves:
+    - [Blizzard, Ice Beam]
+    - [Psychic, Dream Eater]
+    - [Grass Knot, Water Pulse, Counter, Seismic Toss, Miracle Eye]
+    - [Calm Mind, Fake Tears, Nasty Plot, Sing]
+combinations:
+    - [Meadow Plate, Grass Knot]
+    - [Splash Plate, Water Pulse]
+    - [Dream Eater, Sing]
+separations:
+    - [Ice Beam, Miracle Eye]
+    - [Miracle Eye, Calm Mind]
+    - [Miracle Eye, Nasty Plot]
+    - [Miracle Eye, Fake Tears]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Timid
+ivs: 31
+evs: {hp: 80, atk: 0, def: 168, spA: 80, spD: 0, spe: 172}
+
+species: Smoochum
+setname: Physical
+item: [Focus Sash, Flame Orb, Wide Lens]
+ability: [Oblivious, Forewarn, Hydration]
+moves:
+    - [Fake Out]
+    - [Zen Headbutt]
+    - [Ice Punch, Avalanche]
+    - [Seismic Toss, Dynamic Punch, Fling]
+combinations:
+    - [Flame Orb, Fling]
+    - [Wide Lens, Dynamic Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
