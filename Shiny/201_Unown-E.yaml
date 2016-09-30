@@ -1,21 +1,19 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Earth Plate, Electirizer, Elixir, Energy Root, EnergyPowder, Enigma Berry, Escape Rope, Ether, Everstone, Exp Share, Expert Belt]
+ability: [Early Bird, Effect Spore]
 moves:
-    - []
-    - []
-    - []
-    - []
+    - [Earth Power, Energy Ball, Eruption, Extrasensory]
+    - [Earthquake, Egg Bomb, Extremespeed]
+    - [Ember, Endeavor]
+    - [Embargo, Encore, Endure, Explosion]
 combinations:
-    - []
+    - [Endeavor, Endure]
 separations:
-    - []
+    - [Earth Power, Earthquake]
 form: 4
-happiness: 255
-biddable: True
-rarity: 1.0
+shiny: True
 ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

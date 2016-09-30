@@ -1,21 +1,17 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [NeverMeltIce, Nomel Berry, Nugget]
+ability: [Natural Cure, No Guard, Normalize]
 moves:
-    - []
-    - []
-    - []
-    - []
+    - [Needle Arm, Night Slash]
+    - [Nature Power]
+    - [Natural Gift, Night Shade, Nightmare]
+    - [Nasty Plot]
 combinations:
-    - []
-separations:
-    - []
+    - [Nomel Berry, Natural Gift]
 form: 13
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+shiny: True
+ball: [Nest, Net]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

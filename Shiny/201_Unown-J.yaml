@@ -1,21 +1,13 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Jaboca Berry]
+ability: [null]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Judgment]
+    - [Jump Kick]
 form: 9
-happiness: 255
-biddable: True
-rarity: 1.0
+shiny: True
 ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

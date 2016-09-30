@@ -1,21 +1,16 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Kasib Berry, Kebia Berry, Kelpsy Berry, King's Rock]
+ability: [Keen Eye, Klutz]
 moves:
-    - []
-    - []
-    - []
-    - []
+    - [Karate Chop]
+    - [Knock Off]
+    - [Kinesis]
 combinations:
-    - []
-separations:
-    - []
+    - [Keen Eye, King's Rock]
 form: 10
-happiness: 255
-biddable: True
-rarity: 1.0
+shiny: True
 ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

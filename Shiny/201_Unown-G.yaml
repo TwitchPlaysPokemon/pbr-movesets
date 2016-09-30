@@ -1,21 +1,19 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Ganlon Berry, Gooey Mulch, Grass Mail, Green Scarf, Green Shard, Grepa Berry, Grip Claw, Growth Mulch, Guard Spec.]
+ability: [Gluttony, Guts]
 moves:
-    - []
-    - []
-    - []
-    - []
+    - [Giga Impact, Gunk Shot, Gyro Ball]
+    - [Giga Drain, Grass Knot]
+    - [Grass Whistle, Guillotine, Gust]
+    - [Gastro Acid, Glare, Gravity, Growl, Growth, Grudge, Guard Swap]
 combinations:
-    - []
+    - [Ganlon Berry, Gluttony]
+    - [Grass Whistle, Gravity]
 separations:
-    - []
 form: 6
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+shiny: True
+ball: [Great]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 88, def: 0, spA: 168, spD: 0, spe: 0}

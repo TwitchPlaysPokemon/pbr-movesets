@@ -1,21 +1,20 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Babiri Berry, Belue Berry, Berry Juice, Big Mushroom, Big Pearl, Big Root, Black Belt, Black Flute, Black Sludge, BlackGlasses, Bloom Mail, Blue Flute, Blue Scarf, Blue Shard, Bluk Berry, Brick Mail, BrightPowder, Bubble Mail, Burn Heal]
+ability: [Bad Dreams, Battle Armor, Blaze]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
+    - [Blast Burn, Blizzard, Brine, Bubblebeam, Bug Buzz]
+    - [Bite, Blaze Kick, Body Slam, Bone Club, Bone Rush, Bonemerang, Bounce, Brave Bird, Brick Break, Bug Bite]
+    - [Barrage, Baton Pass, Beat Up, Bide, Bind, Bubble, Bullet Punch, Bullet Seed]
+    - [Barrier, Belly Drum, Block, Bulk Up]
 separations:
-    - []
+    - [Brine, Bubble]
+    - [Bubblebeam, Bubble]
+    - [Bug Buzz, Bug Bite]
+    - [Block, Baton Pass]
 form: 1
-happiness: 255
-biddable: True
-rarity: 1.0
+shiny: True
 ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

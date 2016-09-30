@@ -1,21 +1,12 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Qualot Berry, Quick Claw, Quick Powder]
+ability: [Quick Feet]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Quick Attack]
 form: 16
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+shiny: True
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}

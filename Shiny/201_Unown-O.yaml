@@ -1,21 +1,15 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Occa Berry, Odd Incense, Odd Keystone, Old Amber, Old Gateau, Oran Berry, Oval Stone]
+ability: [Oblivious, Overgrow, Own Tempo]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Outrage]
+    - [Overheat]
+    - [Ominous Wind]
+    - [Octazooka, Odor Sleuth]
 form: 14
-happiness: 255
-biddable: True
-rarity: 1.0
+shiny: True
 ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

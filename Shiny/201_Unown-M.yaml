@@ -1,21 +1,30 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Macho Brace, Magmarizer, Magnet, Mago Berry, Magost Berry, Max Elixir, Max Ether, Max Potion, Max Repel, Max Revive, Meadow Plate, Mental Herb, Metal Coat, Metal Powder, Metronome, Micle Berry, Mind Plate, Miracle Seed, Moomoo Milk, Moon Stone, Mosaic Mail, Muscle Band, Mystic Water]
+ability: [Magic Guard, Magma Armor, Magnet Pull, Marvel Scale, Minus, Mold Breaker, Motor Drive]
 moves:
-    - []
-    - []
-    - []
-    - []
+    - [Magma Storm, Magical Leaf, Mirror Shot, Mist Ball, Muddy Water]
+    - [Magnitude, Mega Kick, Mega Punch, Megahorn, Meteor Mash]
+    - [Mach Punch, Magnet Bomb, Me First, Mega Drain, Metal Burst, Metal Claw, Metronome, Mirror Move, Mud Bomb, Mud Shot, Mud-Slap]
+    - [Magic Coat, Magnet Rise, Mean Look, Meditate, Memento, Metal Sound, Milk Drink, Mimic, Mind Reader, Minimize, Miracle Eye, Mirror Coat, Mist, Moonlight, Morning Sun]
 combinations:
-    - []
+    - [Mist Ball, Miracle Eye]
+    - [Magnet Pull, Magma Storm]
+    - [Mold Breaker, Magnitude]
 separations:
-    - []
+    - [Magnet Bomb, Mirror Shot]
+    - [Meteor Mash, Mirror Shot]
+    - [Meteor Mash, Metal Claw]
+    - [Meteor Mash, Magnet Bomb]
+    - [Mirror Shot, Metal Claw]
+    - [Magical Leaf, Mega Drain]
+    - [Magical Leaf, Mind Reader]
+    - [Magnitude, Mud Bomb]
+    - [Magnitude, Mud Shot]
+    - [Magnitude, Mud-Slap]
 form: 12
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+shiny: True
+ball: [Master]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

@@ -1,21 +1,17 @@
 species: Unown
-setname: Standard
-item: []
-ability: []
+setname: Shiny
+item: [Iapapa Berry, Ice Heal, Icicle Plate, Icy Rock, Insect Plate, Iron, Iron Ball, Iron Plate]
+ability: [Ice Body, Illuminate, Immunity, Inner Focus, Insomnia, Intimidate, Iron Fist]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Iron Head, Iron Tail]
+    - [Ice Beam, Ice Ball, Ice Fang, Ice Punch, Icicle Spear]
+    - [Icy Wind, Ice Shard]
+    - [Imprison, Ingrain, Iron Defense]
+seperations:
+    - [Icicle Spear, Ice Shard]
 form: 8
-happiness: 255
-biddable: True
-rarity: 1.0
+shiny: True
 ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}
