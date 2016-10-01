@@ -1,0 +1,17 @@
+ingamename: IGG-KIRB-S
+species: Igglybuff
+setname: Shiny
+item: [Sitrus Berry]
+ability: [Air Lock]
+moves:
+    - [Spit Up]
+    - [Transform]
+    - [Swallow]
+    - [Stockpile]
+gender: [m]
+happiness: 255
+shiny: True
+ball: [Heal]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}

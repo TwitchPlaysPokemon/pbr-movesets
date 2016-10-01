@@ -1,0 +1,16 @@
+species: EMPO-DDD-S
+setname: Shiny
+item: [King's Rock]
+ability: [Rivalry]
+moves:
+    - [Hammer Arm]
+    - [Body Slam]
+    - [Bounce]
+    - [Swallow]
+gender: [m]
+happiness: 255
+shiny: True
+ball: [Luxury]
+nature: Adamant
+ivs: 15
+evs: {hp: 85, atk: 88, def: 85, spA: 80, spD: 85, spe: 85}

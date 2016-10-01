@@ -1,0 +1,21 @@
+species: Castform
+setname: Shiny
+item: [Damp Rock, Heat Rock, Icy Rock, Smooth Rock]
+ability: [Drizzle, Drought, Snow Warning, Sand Stream]
+moves:
+    - [Tri Attack]
+    - [Weather Ball]
+    - [Withdraw, Will-O-Wisp, Haze, Rock Polish]
+    - [Conversion]
+combinations:
+    - [Damp Rock, Drizzle, Withdraw]
+    - [Heat Rock, Drought, Will-O-Wisp]
+    - [Icy Rock, Snow Warning, Haze]
+    - [Smooth Rock, Rock Polish, Conversion]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Premier]
+nature: Modest
+ivs: 31
+evs: {hp: 168, atk: 0, def: 0, spA: 172, spD: 0, spe: 168}
