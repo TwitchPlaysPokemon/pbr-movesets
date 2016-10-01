@@ -1,0 +1,43 @@
+species: Dugtrio
+setname: Arena Trap
+item: [Sitrus Berry, Wise Glasses, Sharp Beak, Scope Lens, Focus Band, Passho Berry, Yache Berry, Rindo Berry]
+ability: [Arena Trap]
+nature: Rash
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 100, def: 100, spA: 108, spD: 100, spe: 0}
+moves:
+    - [Earthquake, Earth Power]
+    - [Shadow Claw, Night Slash, Stone Edge, Sludge Bomb]
+    - [Aerial Ace, Tri Attack, Reversal]
+    - [Stealth Rock, Toxic, Endure, Sand-Attack, Charm]
+combinations:
+    - [Dig, Toxic]
+    - [Reversal, Endure]
+    - [Wise Glasses, Earth Power]
+    - [Sharp Beak, Aerial Ace]
+    - [Scope Lens, Slash]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.4
+ball: []
+---
+species: Dugtrio
+setname: Sand Veil
+item: [Smooth Rock]
+ability: [Sand Veil]
+nature: Careful
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 88, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Dig, Magnitude]
+    - [Slash, Giga Impact]
+    - [Toxic, Sand-Attack, Double Team]
+    - [Sandstorm]
+combinations:
+    - [Dig, Toxic]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 0.7
+ball: []

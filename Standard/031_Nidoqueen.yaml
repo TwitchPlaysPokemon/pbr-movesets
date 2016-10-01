@@ -1,0 +1,19 @@
+species: Nidoqueen
+setname: Standard
+item: [Poison Barb, NeverMelt-Ice, Magnet]
+ability: [Poison Point, Rivalry]
+nature: Adamant
+ivs: 21
+evs: {hp: 56, atk: 56, def: 28, spA: 4, spD: 28, spe: 28}
+moves:
+    - [Earthquake]
+    - [Poison Jab, Sludge Bomb]
+    - [Icy Wind, Shock Wave, Aqua Tail, Shadow Ball]
+    - [Tail Whip, Toxic Spikes, Charm, Counter, Pursuit, Rock Smash]
+combinations:
+    - [NeverMeltIce, Icy Wind]
+    - [Magnet, Shock Wave]
+gender: [f]
+happiness: 255
+biddable: true
+ball: []

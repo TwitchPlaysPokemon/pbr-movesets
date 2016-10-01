@@ -1,0 +1,49 @@
+species: Spearow
+setname: Physical
+item: [Muscle Band, Power Herb, Salac Berry, Focus Sash, Sitrus Berry]
+ability: [Sniper]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Sky Attack, Double-Edge]
+    - [Secret Power, Return, Fly, Drill Peck]
+    - [U-turn,Steel Wing, Assurance, Natural Gift, Baton Pass]
+    - [Pursuit, Toxic, Swagger, Double Team, Feather Dance]
+combinations:
+    - [Salac Berry, Natural Gift]
+    - [Sitrus Berry, Fly, Toxic]
+    - [Assurance, Swagger]
+    - [Focus Sash, Baton Pass, Double Team]
+separations:
+    - [Double-Edge, Secret Power]
+    - [Double-Edge, Return]
+    - [Sky Attack, Fly]
+    - [Sky Attack, Drill Peck]
+    - [Feint Attack, Pursuit]
+gender: [m, f]
+happiness: 200
+biddable: true
+rarity: 1.5
+ball: []
+---
+species: Spearow
+setname: Special
+item: [Choice Specs, Scope Lens, Petaya Berry]
+ability: [Sniper]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Tri Attack]
+    - [Hidden Power, Air Cutter]
+    - [Heat Wave]
+    - [Ominous Wind, Endure, Sunny Day]
+combinations:
+    - [Scope Lens, Air Cutter]
+    - [Petaya Berry, Endure]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 0.5
+ball: []

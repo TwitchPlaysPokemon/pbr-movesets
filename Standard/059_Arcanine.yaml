@@ -1,0 +1,47 @@
+species: Arcanine
+setname: Physical
+item: [null]
+ability: [Intimidate]
+nature: Mild
+ivs: {hp: 23, atk: 23, def: 23, spA: 31, spD: 23, spe: 23}
+evs: {hp: 0, atk: 0, def: 80, spA: 252, spD: 72, spe: 0}
+moves:
+    - [Flame Wheel, Fire Fang]
+    - [Crunch, Thrash, Iron Tail, Iron Head, Rock Climb]
+    - [ExtremeSpeed, Aerial Ace, Thunder Fang, Double Kick, Headbutt, Bite]
+    - [Roar, Leer, Mimic, Reflect, Curse]
+separations:
+    - [Crunch, Bite]
+    - [Thrash, ExtremeSpeed]
+    - [Thrash, Headbutt]
+    - [Rock Climb, ExtremeSpeed]
+    - [Rock Climb, Headbutt]
+    - [Iron Head, Curse]
+    - [Headbutt, Curse]
+    - [Bite, Curse]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.0
+ball: [Ultra]
+---
+species: Arcanine
+setname: Special
+item: [null]
+ability: [Flash Fire]
+nature: Adamant
+ivs: {hp: 7, atk: 30, def: 6, spA: 6, spD: 7, spe: 7}
+evs: {hp: 0, atk: 252, def: 0, spA: 96, spD: 0, spe: 0}
+moves:
+    - [Flamethrower, Heat Wave, Overheat]
+    - [Dragon Pulse, SolarBeam]
+    - [Mud-Slap, Hidden Power]
+    - [Toxic, Agility, Charm, Sunny Day, Mimic]
+separations:
+    - [Dragon Pulse, Mimic]
+    - [Hidden Power, Sunny Day]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.0
+ball: []

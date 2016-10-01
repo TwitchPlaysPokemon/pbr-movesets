@@ -1,0 +1,45 @@
+species: Butterfree
+setname: Special
+item: [Sitrus Berry, Mosaic Mail, Charti Berry]
+ability: [Compound Eyes, Tinted Lens]
+nature: Bold
+ivs: {hp: 27, atk: 0, def: 27, spA: 27, spD: 27, spe: 27}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+moves:
+- [Bug Buzz, Signal Beam]
+- [Psywave, Psychic]
+- [Sleep Powder, Stun Spore]
+- [Attract, Captivate, Double Team, Supersonic]
+combinations:
+    - [Compound Eyes, Psywave]
+    - [Tinted Lens, Psychic]
+    - [Mosaic Mail, Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+---
+species: Butterfree
+setname: Physical
+item: [Sky Plate, Insect Plate, Charti Berry]
+ability: [Tinted Lens]
+nature: Adamant
+ivs: 31
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+moves:
+- [Aerial Ace, Bug Bite, U-turn]
+- [Giga Impact, Double-Edge, Frustration]
+- [Nightmare, Toxic, Natural Gift]
+- [Sleep Powder, Stun Spore, Iron Defense, Roost]
+combinations:
+    - [Sky Plate, Aerial Ace]
+    - [Insect Plate, Bug Bite]
+    - [Charti Berry, Natural Gift]
+    - [Nightmare, Sleep Powder]
+    - [Toxic, Roost]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Net]

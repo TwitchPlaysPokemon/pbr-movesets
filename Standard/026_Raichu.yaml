@@ -1,0 +1,61 @@
+species: Raichu
+setname: Physical
+item: [Magnet, Cornn Berry]
+ability: [Lightningrod, Static]
+nature: Impish
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 10}
+evs: {hp: 172, atk: 0, def: 128, spA: 0, spD: 128, spe: 80}
+moves:
+    - [Thunder Punch, Spark]
+    - [Brick Break, Seismic Toss, Reversal, Iron Tail]
+    - [Strength, Counter, Natural Gift, Rollout]
+    - [Quick Attack, Knock Off, Defense Curl, Endure, Wish, Flash]
+combinations:
+    - [Cornn Berry, Natural Gift]
+    - [Reversal, Endure]
+    - [Rollout, Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 1.2
+ball: []
+---
+species: Raichu
+setname: Special
+item: [Berry Juice, Cheri Berry, Shuca Berry, Silverpowder, Poison Barb]
+ability: [Lightningrod]
+nature: Bold
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+moves:
+    - [Thunderbolt, Discharge, Charge Beam, Shock Wave]
+    - [Focus Blast, Surf, Signal Beam, Hidden Power, Hyper Beam]
+    - [Agility, Nasty Plot, Toxic, Light Screen, Mud-Slap, Encore]
+    - [Double Team, Yawn, Charm, Lucky Chant, Substitute]
+combinations:
+    - [Shock Wave, Nasty Plot]
+    - [Encore, Substitute]
+    - [Silverpowder, Signal Beam]
+    - [Poison Barb, Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 1.2
+ball: []
+---
+species: Raichu
+setname: Mixed
+ability: [Static]
+nature: Docile
+ivs: 9
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+moves:
+    - [Thunder]
+    - [Surf]
+    - [Fly]
+    - [Dig]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 0.6
+ball: [Dive]

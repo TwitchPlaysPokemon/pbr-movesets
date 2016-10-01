@@ -1,0 +1,38 @@
+species: Nidorina
+setname: Physical
+item: [Power Herb]
+ability: [Hustle]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Poison Jab]
+    - [Iron Tail]
+    - [Skull Bash]
+    - [Counter]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 0.7
+ball: []
+---
+species: Nidorina
+setname: Special
+item: [Poison Barb, Chesto Berry]
+ability: [Poison Point, Rivalry]
+nature: Modest
+ivs: 20
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Super Fang]
+    - [Sludge Bomb]
+    - [Blizzard, Ice Beam, Thunder, Thunderbolt]
+    - [Flatter, Disable, Toxic Spikes, Attract, Rest]
+combinations:
+    - [Thunder, Rain Dance]
+    - [Chesto Berry, Rest]
+gender: [f]
+biddable: true
+happiness: 255
+rarity: 1.4
+ball: []

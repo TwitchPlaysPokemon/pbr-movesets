@@ -1,0 +1,35 @@
+species: Ekans
+setname: Intimidate
+item: [Wide Lens]
+ability: [Intimidate]
+nature: Careful
+ivs: 31
+evs: {hp: 84, atk: 168, def: 84, spA: 0, spD: 0, spe: 172}
+moves:
+    - [Gunk Shot]
+    - [Earthquake]
+    - [Rock Slide, Seed Bomb, Aqua Tail]
+    - [Glare]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 1.4
+ball: []
+---
+species: Ekans
+setname: Shed Skin
+item: [Sitrus Berry]
+ability: [Shed Skin]
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
+moves:
+    - [Sludge Bomb]
+    - [Mud Bomb]
+    - [Stockpile]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 0.7
+ball: []

@@ -1,0 +1,42 @@
+species: Nidoking
+setname: Physical
+ability: [Poison Point, Rivalry]
+nature: Modest
+ivs: 21
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Earthquake]
+    - [Poison Jab]
+    - [Outrage, Sucker Punch, Giga Impact, Dynamicpunch, Focus Punch, Avalanche]
+    - [Aqua Tail, Thunderpunch, Fire Punch, Ice Punch, Megahorn, Rock Slide, Stone Edge, Shadow Claw]
+separations:
+    - [Avalanche, Ice Punch]
+    - [Sucker Punch, Shadow Claw]
+gender: [m]
+biddable: true
+rarity: 1.0
+ball: []
+---
+species: Nidoking
+setname: Mixed
+item: [Space Mail, King's Rock, Silk Scarf, Blackbelt, Sharp Beak]
+ability: [Poison Point, Rivalry]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 92, spD: 0, spe: 0}
+moves:
+    - [Earth Power]
+    - [Poison Fang, Poison Tail]
+    - [Surf, Dragon Pulse, Double Kick, Horn Attack, Fury Attack, Peck]
+    - [Captivate, Roar, Whirlpool, Leer]
+combinations:
+    - [Double Kick, Whirlpool]
+    - [King's Rock, Fury Attack]
+    - [Sharp Beak, Peck]
+    - [Horn Attack, Silk Scarf]
+    - [Double Kick, Blackbelt]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+ball: []

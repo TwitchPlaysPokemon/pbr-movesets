@@ -1,0 +1,35 @@
+species: Oddish
+setname: Special
+item: [Rowap Berry]
+ability: [Chlorophyll]
+nature: Modest
+ivs: 31
+evs: {hp: 236, atk: 0, def: 16, spA: 128, spD: 0, spe: 128}
+moves:
+    - [Solarbeam]
+    - [Sludge Bomb]
+    - [Teeter Dance, Swagger]
+    - [Sunny Day]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.0
+ball: []
+---
+species: Oddish
+setname: Physical
+item: [Miracle Seed]
+ability: [Chlorophyll]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Seed Bomb]
+    - [Double-Edge, Frustration 102, Flail]
+    - [Sleep Powder]
+    - [Swords Dance, Tickle]
+gender: [m, f]
+biddable: true
+happiness: 102
+rarity: 1.0
+ball: []

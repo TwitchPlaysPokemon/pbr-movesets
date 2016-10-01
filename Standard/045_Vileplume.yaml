@@ -1,0 +1,48 @@
+species: Vileplume
+setname: Special
+item: [Poké Ball, Poison Barb]
+ability: [Effect Spore, Chlorophyll]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Solarbeam, Mega Drain, Grass Knot]
+    - [Acid]
+    - [Hyper Beam, Double-Edge, Hidden Power, Fling]
+    - [Gastro Acid, Sunny Day, Growth, Poison Powder, Lucky Chant]
+combinations:
+    - [Poison Barb, Fling, Sunny Day]
+separations:
+    - [Fling, Poison Powder]
+    - [Solarbeam, Sunny Day]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.0
+ball: []
+---
+species: Vileplume
+setname: Physical
+item: [Poké Ball, King's Rock]
+ability: [Effect Spore, Chlorophyll]
+nature: Brave
+ivs: {hp: 20, atk: 31, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 88, atk: 168, def: 84, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Seed Bomb, Razor Leaf, Bullet Seed]
+    - [Drain Punch, Body Slam, Flail]
+    - [Stun Spore, Poison Powder, Endure]
+    - [Tickle, Swords Dance, Sunny Day]
+combinations:
+    - [Flail, Endure]
+    - [King's Rock, Bullet Seed, Swords Dance]
+    - [Chlorophyll, Sunny Day]
+separations:
+    - [Body Slam, Stun Spore]
+    - [Bullet Seed, Flail]
+    - [Stun Spore, Sunny Day]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.0
+ball: []

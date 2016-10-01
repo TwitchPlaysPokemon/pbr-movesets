@@ -1,0 +1,35 @@
+species: Paras
+setname: Physical
+item: [Yache Berry, Focus Sash, Quick Claw, Sitrus Berry, Kebia Berry, Tanga Berry, Charti Berry]
+ability: [Dry Skin]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Seed Bomb]
+    - [X-Scissor]
+    - [Spore]
+    - [Swords Dance]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.4
+ball: []
+---
+species: Paras
+setname: Special
+item: [Focus Sash]
+ability: [Dry Skin]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Energy Ball]
+    - [Sludge Bomb]
+    - [Spore]
+    - [Agility]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 0.7
+ball: []

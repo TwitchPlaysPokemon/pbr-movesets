@@ -1,0 +1,67 @@
+species: Parasect
+setname: Physical
+item: [Cheri Berry, Silverpowder, Power Herb, Scope Lens, Chesto Berry]
+ability: [Dry Skin, Effect Spore]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Bug Bite, X-Scissor, Seed Bomb]
+    - [Slash, Brick Break, Aerial Ace, Cross Poison, Dig, Flail]
+    - [Spore, Swords Dance, Counter, Pursuit, Rock Smash]
+    - [Agility, Rest, Endure, String Shot, Screech, Light Screen]
+combinations: 
+    - [Silverpowder, Bug Bite]
+    - [Flail, Endure]
+    - [Power Herb, Dig]
+    - [Dig, Swords Dance]
+    - [Scope Lens, Slash]
+    - [Chesto Berry, Rest]
+separations:
+    - [Effect Spore, Spore]
+    - [Brick Break, Rock Smash]
+    - [Swords Dance, Screech]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.5
+ball: []
+---
+species: Parasect
+setname: Special
+item: [Cheri Berry, Twistedspoon]
+ability: [Dry Skin, Damp]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 30, spe: 31}
+evs: {hp: 48, atk: 0, def: 40, spA: 252, spD: 40, spe: 128}
+moves:
+    - [Giga Drain, Energy Ball, Hidden Power]
+    - [Sludge Bomb, Psybeam, Snore]
+    - [Spore]
+    - [Growth, Agility, Rest]
+combinations:
+    - [Snore, Rest]
+    - [Twistedspoon, Psybeam]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.0
+ball: []
+---
+species: Parasect
+setname: Fury Cutter
+item: [Metronome, Wide Lens]
+ability: [Dry Skin, Damp]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 60, def: 16, spA: 0, spD: 16, spe: 164}
+moves:
+    - [Fury Cutter]
+    - [Giga Drain]
+    - [Spore]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 0.5
+ball: []

@@ -1,0 +1,71 @@
+species: Clefable
+setname: Special
+item: [null, Meadow Plate, Zap Plate, Splash Plate]
+ability: [Cute Charm, Magic Guard]
+nature: Jolly
+ivs: 5
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+moves:
+    - [Hyper Voice, Tri Attack, Hyper Beam]
+    - [Psychic, Shadow Ball]
+    - [Magical Leaf, Water Pulse, Shock Wave]
+    - [Heal Bell, Magic Coat, Stealth Rock, Cosmic Power, Fake Tears, Metronome]
+combinations:
+    - [Meadow Plate, Magical Leaf]
+    - [Zap Plate, Shock Wave]
+    - [Splash Plate, Water Pulse]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.1
+ball: []
+---
+species: Clefable
+setname: Physical
+item: [Iron Plate]
+ability: [Cute Charm, Magic Guard]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 172, def: 84, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Strength, Facade, Return]
+    - [Meteor Mash]
+    - [Copycat]
+    - [Encore]
+gender: [m, f]
+happiness: 188
+biddable: true
+rarity: 0.8
+ball: []
+---
+species: Clefable
+setname: Defensive
+item: [Black Sludge, Toxic Orb, Life Orb, Flame Orb]
+ability: [Magic Guard]
+nature: Impish
+ivs: 5
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Hyper Voice, Double-Edge, Mega Kick]
+    - [Flamethrower, Thunderbolt, Ice Beam, Psychic, Iron Tail]
+    - [Thunder Wave, Trick, Encore, Sunny Day, Gravity, Stealth Rock, Toxic]
+    - [Heal Bell, Aromatherapy, Healing Wish, Safeguard, Lucky Chant]
+combinations:
+   - [Flame Orb, Hyper Voice]
+   - [Life Orb, Mega Kick]
+   - [Iron Tail, Gravity]
+separations:
+    - [Sunny Day, Thunderbolt]
+    - [Sunny Day, Ice Beam]
+    - [Sunny Day, Psychic]
+    - [Flame Orb, Iron Tail]
+    - [Flame Orb, Double-Edge]
+    - [Toxic Orb, Toxic]
+    - [Flame Orb, Thunder Wave]
+    - [Toxic Orb, Thunder Wave]
+    - [Flame Orb, Toxic]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 1.1
+ball: []

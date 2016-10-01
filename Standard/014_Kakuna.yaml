@@ -1,0 +1,33 @@
+species: Kakuna
+setname: Physical
+item: [Razor Claw]
+ability: [Sniper]
+nature: Impish
+ivs: 31
+evs: {hp: 252, atk: 160, def: 20, spA: 0, spD: 0, spe: 76}
+moves:
+- [Attack Order]
+- [Cross Poison]
+- [Stone Edge]
+- [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Net]
+---
+species: Kakuna
+setname: Special
+item: [Leftovers]
+ability: [Serene Grace]
+nature: Bold
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+- [Sludge Bomb]
+- [Night Shade]
+- [Iron Defense]
+- [Protect]
+gender: [m, f]
+biddable: true
+happiness: 255
+ball: [Net]

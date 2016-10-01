@@ -1,0 +1,17 @@
+species: Weedle
+setname: Standard
+item: [Silverpowder, Focus Band, Brightpowder, Power Herb, Sitrus Berry, Lum Berry]
+ability: [Mold Breaker]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+- [Megahorn]
+- [Dig]
+- [Horn Drill]
+- [Mind Reader]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]

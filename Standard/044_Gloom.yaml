@@ -1,0 +1,35 @@
+species: Gloom
+setname: Special
+item: [Big Root]
+ability: [Chlorophyll]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 100, atk: 0, def: 92, spA: 76, spD: 92, spe: 148}
+moves:
+    - [Energy Ball, Giga Drain, Sludge Bomb]
+    - [Hidden Power]
+    - [Ingrain]
+    - [Protect]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.0
+ball: []
+---
+species: Gloom
+setname: Physical
+item: [Qualot Berry]
+ability: [Chlorophyll]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Razor Leaf]
+    - [Natural Gift]
+    - [Leech Seed, Teeter Dance, Charm, Moonlight]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 1.0
+ball: []

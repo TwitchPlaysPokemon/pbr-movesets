@@ -1,0 +1,55 @@
+species: Rattata
+setname: Hustle
+item: [Wide Lens]
+ability: [Hustle]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Double-Edge, Return]
+    - [Crunch]
+    - [Dig]
+    - [U-turn, Pluck, Flame Wheel]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 1.3
+ball: []
+---
+species: Rattata
+setname: Guts
+item: [Flame Orb, Toxic Orb]
+ability: [Guts]
+nature: Jolly
+ivs: 31
+evs: {hp: 128, atk: 128, def: 36, spA: 0, spD: 36, spe: 180}
+moves:
+    - [Super Fang]
+    - [Facade]
+    - [Iron Tail, Zen Headbutt]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 1.3
+ball: [Repeat]
+---
+species: Rattata
+setname: Special
+item: [Choice Specs]
+ability: [Run Away]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Blizzard, Thunder]
+    - [Thunderbolt, Ice Beam]
+    - [Shadow Ball]
+    - [Grass Knot]
+separations:
+    - [Blizzard, Ice Beam]
+    - [Thunder, Thunderbolt]
+gender: [m, f]
+biddable: true
+rarity: 0.4
+ball: []

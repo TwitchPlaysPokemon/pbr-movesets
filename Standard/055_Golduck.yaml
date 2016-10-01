@@ -1,0 +1,24 @@
+species: Golduck
+setname: Standard
+item: [Micle Berry, Salac Berry, Liechi Berry, Petaya Berry]
+ability: [Cloud Nine, Damp]
+nature: Adamant
+ivs: 7
+evs: 85
+moves:
+    - [Aqua Tail, Surf]
+    - [Zen Headbutt, Psychic]
+    - [Cross Chop, Rock Climb, Focus Punch, Mud Bomb, Aqua Jet]
+    - [Tail Whip, Worry Seed, Encore, Light Screen, Role Play, Substitute]
+combinations:
+    - [Focus Punch, Substitute]
+separations:
+    - [Mud Bomb, Tail Whip]
+    - [Petaya Berry, Aqua Tail]
+    - [Liechi Berry, Mud Bomb]
+    - [Micle Berry, Surf]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.0
+ball: []

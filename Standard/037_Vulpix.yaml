@@ -1,0 +1,35 @@
+species: Vulpix
+setname: Special
+item: [Cheri Berry]
+ability: [Drought]
+nature: Timid
+ivs: 26
+evs: {hp: 108, atk: 0, def: 84, spA: 112, spD: 0, spe: 204}
+moves:
+    - [Flamethrower]
+    - [Energy Ball]
+    - [Confuse Ray, Attract]
+    - [Will-O-Wisp, Hypnosis, Role Play]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 0.9
+ball: []
+---
+species: Vulpix
+setname: Physical
+item: [Metal Coat]
+ability: [Drought]
+nature: Adamant
+ivs: 31
+evs: {hp: 108, atk: 252, def: 64, spA: 0, spD: 64, spe: 20}
+moves:
+    - [Flare Blitz]
+    - [Iron Tail]
+    - [Payback, Zen Headbutt, Body Slam]
+    - [Confuse Ray, Will-O-Wisp, Hypnosis, Pain Split]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 1.1
+ball: []

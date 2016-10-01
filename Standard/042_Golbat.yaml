@@ -1,0 +1,39 @@
+species: Golbat
+setname: Physical
+item: [Dread Plate, Wapear Berry, Spooky Plate, Air Mail]
+ability: [Inner Focus]
+nature: Jolly
+ivs: 20
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Wing Attack, Aerial Ace, Pluck, Fly]
+    - [Poison Fang, Sludge Bomb]
+    - [Pursuit, Payback, Astonish, Secret Power, Natural Gift]
+    - [Haze, Taunt, Curse, Mimic, Double Team]
+combinations:
+    - [Spooky Plate, Astonish]
+    - [Wapear Berry, Natural Gift]
+    - [Air Mail, Secret Power]
+gender: [m, f]
+biddable: true
+happiness: 255
+ball: []
+---
+species: Golbat
+setname: Special
+item: [Poison Barb, Choice Specs]
+ability: [Inner Focus]
+nature: Bashful
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 31}
+evs: {hp: 20, atk: 0, def: 12, spA: 48, spD: 12, spe: 80}
+moves:
+    - [Hidden Power]
+    - [Air Cutter, Gust]
+    - [Giga Drain, Shadow Ball]
+    - [Nasty Plot, Uproar]
+combinations:
+    - [Choice Specs, Gust, Uproar]
+gender: [m, f]
+biddable: true
+happiness: 255
+ball: []
