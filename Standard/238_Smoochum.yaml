@@ -16,7 +16,7 @@ separations:
     - [Miracle Eye, Calm Mind]
     - [Miracle Eye, Nasty Plot]
     - [Miracle Eye, Fake Tears]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -37,7 +37,7 @@ moves:
 combinations:
     - [Flame Orb, Fling]
     - [Wide Lens, Dynamic Punch]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
