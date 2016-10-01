@@ -1,13 +1,15 @@
 species: Unown
 setname: Standard
-item: [Up-Grade]
-ability: [Unaware, Unburden]
+item: [Starf Berry]
+ability: [Unaware]
 moves:
-    - [U-turn]
-    - [Uproar]
-form: 20
+    - [Me First]
+    - [Copycat]
+    - [Assist]
+    - [Metronome]
+form: 27
 shiny: True
-ball: [Ultra]
+ball: [Repeat]
 nature: Hasty
 ivs: 31
 evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

@@ -1,21 +1,13 @@
 species: Unown
 setname: Standard
-item: []
-ability: []
+item: [Zap Plate, Zinc, Zoom Lens]
+ability: [null]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Zap Cannon]
+    - [Zen Headbutt]
 form: 25
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+shiny: True
+ball: [Quick]
+nature: Brave
+ivs: 31
+evs: {hp: 168, atk: 172, def: 0, spA: 168, spD: 0, spe: 0}

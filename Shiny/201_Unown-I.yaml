@@ -11,7 +11,7 @@ seperations:
     - [Icicle Spear, Ice Shard]
 form: 8
 shiny: True
-ball: []
+ball: [Luxury]
 nature: Hasty
 ivs: 31
 evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

@@ -1,21 +1,26 @@
 species: Unown
 setname: Standard
-item: []
-ability: []
+item: [Tamato Berry, Tanga Berry, Thick Club, Thunder Stone, TinyMushroom, Toxic Orb, Toxic Plate, Tunnel Mail, TwistedSpoon]
+ability: [Tangled Feet, Technician, Thick Fat, Tinted Lens, Torrent, Trace, Truant]
 moves:
-    - []
-    - []
-    - []
-    - []
+    - [Thunder, Thunderbolt, Tri Attack, Trump Card]
+    - [Take Down, Thrash, Thunder Fang, Thunder Punch]
+    - [Tackle, Thief, Thunder Shock, Triple Kick, Twinneedle, Twister]
+    - [Tail Glow, Tail Whip, Tailwind, Taunt, Teeter Dance, Teleport, Tickle, Torment, Toxic, Toxic Spikes, Transform, Trick, Trick Room]
 combinations:
-    - []
+    - [Take Down, Thunder Shock]
 separations:
-    - []
+    - [Take Down, Tackle]
+    - [Thrash, Tackle]
+    - [Thunder, Thunder Fang]
+    - [Thunderbolt, Thunder Fang]
+    - [Thunder, Thunder Punch]
+    - [Thunderbolt, Thunder Punch]
+    - [Thunder, Thunder Shock]
+    - [Thunderbolt, Thunder Shock]
 form: 19
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+shiny: True
+ball: [Timer]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

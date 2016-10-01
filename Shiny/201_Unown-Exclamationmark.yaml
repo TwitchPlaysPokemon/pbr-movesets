@@ -1,0 +1,18 @@
+species: Unown
+setname: Standard
+item: [null]
+ability: [Color Change, Aftermath]
+moves:
+    - [Sheer Cold, Explosion]
+    - [Fissure, Lunar Dance]
+    - [Horn Drill, Memento]
+    - [Guillotine, Destiny Bond]
+combinations:
+    - [Color Change, Sheer Cold, Fissure, Horn Drill, Guillotine]
+    - [Aftermath, Explosion, Lunar Dance, Memento, Destiny Bond]
+form: 26
+shiny: True
+ball: [Premier]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}

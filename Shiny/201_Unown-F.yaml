@@ -30,8 +30,9 @@ separations:
     - [Force Palm, Focus Punch]
     - [Focus Blast, Focus Punch]
 form: 5
+happiness: 0
 shiny: True
-ball: []
+ball: [Poké]
 nature: Hasty
 ivs: 31
 evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

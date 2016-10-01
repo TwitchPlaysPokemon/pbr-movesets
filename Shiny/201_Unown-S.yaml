@@ -1,21 +1,39 @@
 species: Unown
 setname: Standard
-item: []
-ability: []
+item: [Sacred Ash, Salac Berry, Scope Lens, Sea Incense, Sharp Beak, Shed Shell, Shed Bell, Shiny Stone, Shoal Salt, Shuca Berry, Silk Scarf, SilverPowder, Sitrus Berry, Skull Fossil, Sky Plate, Smoke Ball, Smooth Rock, Snow Mail, Soda Pop, Soft Sand, Soothe Bell, Soul Dew, Space Mail, Spell Tag, Spelon Berry, Splash Plate, Spooky Plate, Stable Mulch, Star Piece, Stardust, Starf Berry, Steel Mail, Stick, Sticky Barb, Stone Plate, Sun Stone, Super Potion, Super Repel]
+ability: [Sand Stream, Sand Veil, Scrappy, Serene Grace, Shadow Tag, Shed Skin, Shell Armor, Shield Dust, Simple, Skill Link, Slow Start, Sniper, Snow Cloak, Snow Warning, Solar Power, Solid Rock, Soundproof, Speed Boost, Stall, Static, Steadfast, Stench, Sticky Hold, Storm Drain, Sturdy, Suction Cups, Super Luck, Swarm, Swift Swim, Synchronize]
 moves:
-    - []
-    - []
-    - []
-    - []
+    - [Sacred Fire, Secret Power, Seed Bomb, Shadow Claw, Shadow Force, Shadow Punch, Skull Bash, Sky Attack, Sky Uppercut, Slam, Slash, Smelling Salts, Spark, Spike Cannon, Stomp, Submission, Sucker Punch, Super Fang, Superpower]
+    - [Seed Flare, Shadow Ball, Signal Beam, Shock Wave, Silver Wind, Sludge, Sludge Bomb, Solarbeam, Spacial Rend, Spit Up, Swift]
+    - [Sand Tomb, Scratch, Seismic Toss, Shadow Sneak, Sheer Cold, Smog, Snore, Sonic Boom, Swallow]
+    - [Safeguard, Sand-Attack, Sandstorm, Scary Face, Screech, Self-destruct, Sharpen, Sing, Sketch, Skill Swap, Slack Off, Sleep Powder, Sleep Talk, Smokescreen, Snatch, Soft-Boiled, Spider Web, Spikes, Stockpile, Spite, Splash, Spore, Stealth Rock, String Shot, Substitute, Stun Spore, Sunny Day, Supersonic, Swagger, Sweet Kiss, Sweet Scent, Switcheroo, Swords Dance, Synthesis]
 combinations:
-    - []
+    - [Sand Veil, Sandstorm]
+    - [Seed Flare, Shadow Sneak]
+    - [Shadow Force, Spit Up, Swallow, Stockpile]
+    - [Shiny Stone, Switcheroo]
+    - [Sucker Punch, Swift]
 separations:
-    - []
+    - [Secret Power, Scratch]
+    - [Skull Bash, Scratch]
+    - [Slam, Scratch]
+    - [Slash, Scratch]
+    - [Smelling Salts, Scratch]
+    - [Spike Cannon, Scratch]
+    - [Stomp, Scratch]
+    - [Strength, Scratch]
+    - [Seed Bomb, Seed Flare]
+    - [Shadow Ball, Shadow Claw]
+    - [Shadow Ball, Shadow Force]
+    - [Shadow Ball, Shadow Punch]
+    - [Shadow Ball, Shadow Sneak]
+    - [Sludge, Smog]
+    - [Sludge Bomb, Smog]
+    - [Snore, Sleep Talk]
+    - [Spark, Shock Wave]
 form: 18
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+shiny: True
+ball: [Safari]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}
