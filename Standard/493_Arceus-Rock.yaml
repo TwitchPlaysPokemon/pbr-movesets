@@ -1,0 +1,33 @@
+species: Arceus
+setname: Balanced
+item: [Stone Plate]
+ability: [Multitype]
+moves:
+    - [Rock Throw]
+    - [Sharpen]
+    - [Rock Polish]
+    - [Power Trick]
+happiness: 255
+biddable: False
+rarity: 1.9
+ball: [Quick]
+nature: Bold
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+
+species: Arceus
+setname: Judgment
+item: [Stone Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Flamethrower, Iron Tail]
+    - [Brick Break, Aerial Ace]
+    - [Sandstorm, Stealth Rock]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: 0

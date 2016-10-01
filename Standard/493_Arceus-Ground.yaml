@@ -1,0 +1,35 @@
+species: Arceus
+setname: Balanced
+item: [Earth Plate]
+ability: [Multitype]
+moves:
+    - [Mud-Slap]
+    - [Trump Card]
+    - [Stealth Rock]
+    - [Sandstorm]
+happiness: 255
+biddable: False
+rarity: 1.9
+ball: [Safari]
+nature: Rash
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 252, spD: 0, spe: 0}
+
+species: Arceus
+setname: Judgment
+item: [Earth Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Waterfall, Heat Wave]
+    - [Charge Beam, Ancientpower]
+    - [Stealth Rock, Gravity]
+combinations:
+    - [Gravity, Heat Wave]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: 0

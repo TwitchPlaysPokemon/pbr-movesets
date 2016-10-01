@@ -1,0 +1,35 @@
+species: Arceus
+setname: Balanced
+item: [Insect Plate]
+ability: [Multitype]
+moves:
+    - [Leech Life]
+    - [String Shot]
+    - [Defend Order]
+    - [Swords Dance]
+happiness: 255
+biddable: False
+rarity: 1.9
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}
+
+species: Arceus
+setname: Judgement
+item: [Insect Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Earth Power, Shadow Ball]
+    - [Rock Climb, Avalanche]
+    - [Safeguard, Psych Up, Gravity]
+combinations:
+    - [Earth Power, Gravity]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: 0

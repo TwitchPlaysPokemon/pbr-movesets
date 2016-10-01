@@ -1,0 +1,35 @@
+species: Arceus
+setname: Balanced
+item: [Draco Plate]
+ability: [Multitype]
+moves:
+    - [Twister]
+    - [Roar]
+    - [Growth]
+    - [Imprison]
+happiness: 255
+biddable: False
+rarity: 1.9
+ball: [Heal]
+nature: Adamant
+ivs: 0
+evs: {hp: 40, atk: 40, def: 40, spA: 40, spD: 40, spe: 40}
+
+species: Arceus
+setname: Judgment
+item: [Draco Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Roar of Time, Blizzard]
+    - [Giga Impact, Grass Knot]
+    - [Tailwind, Hail]
+combinations:
+    - [Blizzard, Hail]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: 0
