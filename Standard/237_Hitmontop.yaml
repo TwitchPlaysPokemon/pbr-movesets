@@ -11,7 +11,7 @@ combinations:
     - [King's Rock, Triple Kick]
     - [Wide Lens, Rolling Kick]
     - [Kebia Berry, Mach Punch, Natural Gift, Bulk Up]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -36,7 +36,7 @@ combinations:
     - [Hi Jump Kick, Mind Reader]
 separations:
     - [Double-Edge, Swift]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
