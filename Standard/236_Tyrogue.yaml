@@ -13,7 +13,7 @@ separations:
     - [Bullet Punch, Endure]
     - [Bullet Punch, Agility]
     - [Counter, Endure]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.2
@@ -31,7 +31,7 @@ moves:
     - [Earthquake]
     - [Facade]
     - [Protect, Bulk Up]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.8
