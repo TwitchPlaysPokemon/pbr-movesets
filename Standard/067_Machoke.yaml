@@ -1,0 +1,45 @@
+species: Machoke
+setname: Guts
+item: [Toxic Orb, Blackbelt]
+ability: [Guts, No Guard]
+moves:
+    - [Revenge, Vital Throw, Rolling Kick, Cross Chop]
+    - [Body Slam, Poison Jab, Rock Slide]
+    - [Fire Punch, Ice Punch, Thunder Punch]
+    - [Meditate, Foresight, Scary Face]
+combinations:
+    - [Rolling Kick, Scary Face]
+separations:
+    - [Toxic Orb, No Guard]
+    - [Blackbelt, Guts]
+    - [Guts, Cross Chop]
+    - [Guts, Rolling Kick]
+    - [No Guard, Revenge]
+    - [No Guard, Vital Throw]
+    - [Guts, Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.7
+ball: []
+nature: Bold
+ivs: 31
+evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
+
+species: Machoke
+setname: Special
+item: [null]
+ability: [No Guard]
+moves:
+    - [Focus Blast]
+    - [Fire Blast]
+    - [Vacuum Wave]
+    - [Sleep Talk, Snore, Toxic, Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: []
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

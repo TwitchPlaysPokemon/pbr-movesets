@@ -1,0 +1,70 @@
+species: Poliwrath
+setname: Standard
+item: [Leppa Berry, Sitrus Berry]
+ability: [Damp]
+moves:
+    - [Hydro Pump]
+    - [Dynamic Punch]
+    - [Mind Reader]
+    - [Refresh, Metronome, Belly Drum, Mimic]
+combinations:
+    - [Sitrus Berry, Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+nature: Bashful
+ivs: {hp: 5, atk: 31, def: 5, spA: 31, spD: 5, spe: 20}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Poliwrath
+setname: Physical
+item: [Cheri Berry, Power Herb, Chilan Berry, Aspear Berry]
+ability: [Damp, Swift Swim]
+moves:
+    - [Waterfall, Dive]
+    - [Submission, Focus Punch, Brick Break]
+    - [Earthquake, Giga Impact, Poison Jab, Skull Bash, Payback, Ice Ball]
+    - [Bulk Up, Substitute, Rain Dance, Defense Curl, Haze, Mist, Refresh, Rage]
+combinations:
+    - [Focus Punch, Substitute]
+    - [Ice Ball, Defense Curl]
+    - [Power Herb, Skull Bash]
+separations:
+    - [Damp, Rain Dance]
+    - [Swift Swim, Payback]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+nature: Docile
+ivs: 0
+evs: {hp: 80, atk: 32, def: 84, spA: 0, spD: 84, spe: 84}
+
+species: Poliwrath
+setname: Special
+item: [Oran Berry, Blackbelt, Mystic Water, Soft Sand]
+ability: [Water Absorb, Damp]
+moves:
+    - [Focus Blast, Hidden Power]
+    - [Surf, Bubble Beam, Water Pulse]
+    - [Vacuum Wave, Hyper Beam, Blizzard, Mud Bomb]
+    - [Mind Reader, Amnesia, Haze, Mist, Encore, Splash, Hail]
+combinations:
+    - [Blackbelt, Hidden Power]
+    - [Soft Sand, Mud Shot]
+separations:
+    - [Mystic Water, Surf]
+    - [Vacuum Wave, Hail]
+    - [Hyper Beam, Hail]
+    - [Mud Bomb, Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+nature: Docile
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 0, atk: 0, def: 40, spA: 40, spD: 40, spe: 40}

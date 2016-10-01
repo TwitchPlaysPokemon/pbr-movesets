@@ -1,0 +1,17 @@
+species: Weepinbell
+setname: Standard
+item: [Starf Berry]
+ability: [Gluttony]
+moves:
+    - [Power Whip]
+    - [Sludge Bomb]
+    - [Sucker Punch]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []
+nature: Serious
+ivs: 24
+evs: {hp: 160, atk: 86, def: 44, spA: 86, spD: 44, spe: 86}

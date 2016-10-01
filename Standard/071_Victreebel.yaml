@@ -1,0 +1,37 @@
+species: Victreebel
+setname: Special
+item: [Apicot Berry, Ganlon Berry]
+ability: [Gluttony]
+moves:
+    - [Giga Drain, Magical Leaf, Grass Knot]
+    - [Acid, Hidden Power]
+    - [Wring Out, Spit Up]
+    - [Growth, Stockpile]
+combinations:
+    - [Spit Up, Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.4
+ball: []
+nature: Quiet
+ivs: {hp: 31, atk: 29, def: 28, spA: 28, spD: 30, spe: 29}
+evs: {hp: 0, atk: 0, def: 84, spA: 252, spD: 84, spe: 88}
+
+species: Victreebel
+setname: Physical
+item: [Micle Berry]
+ability: [Gluttony]
+moves:
+    - [Vine Whip]
+    - [Slam]
+    - [Stun Spore]
+    - [Tickle, Synthesis, Gastro Acid, Reflect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: []
+nature: Brave
+ivs: 31
+evs: {hp: 136, atk: 252, def: 44, spA: 0, spD: 44, spe: 32}
