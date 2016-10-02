@@ -1,0 +1,53 @@
+species: Seedot
+setname: Physical
+item: [Life Orb]
+ability: [Chlorophyll]
+moves:
+    - [Seed Bomb]
+    - [Sunny Day]
+    - [Swords Dance]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+
+species: Seedot
+setname: Special
+item: [Sitrus Berry]
+ability: [Chlorophyll]
+moves:
+    - [Solarbeam]
+    - [Shadow Ball]
+    - [Sunny Day]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+nature: Modest
+ivs: 31
+evs: {hp: 76, atk: 0, def: 0, spA: 252, spD: 0, spe: 180}
+
+species: Seedot
+setname: Stall
+item: [Custap Berry]
+ability: [Early Bird]
+moves:
+    - [Dig]
+    - [Toxic]
+    - [Endure]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
