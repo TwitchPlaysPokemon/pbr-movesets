@@ -1,0 +1,21 @@
+species: Blaziken
+setname: Standard
+item: [null, Blackbelt, Sharp Beak]
+ability: [Blaze]
+moves:
+    - [Heat Wave, Blast Burn, Blaze Kick, Fire Punch]
+    - [Sky Uppercut, Brick Break, Hidden Power, Vacuum Wave]
+    - [Bounce, Peck, Thunder Punch, Shadow Claw, Solarbeam, Mirror Move]
+    - [Agility, Captivate, Feather Dance, Protect, Role Play, Sand Attack]
+combinations:
+    - [Blackbelt, Vacuum Wave]
+    - [Sharp Beak, Peck]
+    - [Mirror Move, Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Jolly
+ivs: 0
+evs: {hp: 108, atk: 0, def: 100, spA: 0, spD: 100, spe: 16}

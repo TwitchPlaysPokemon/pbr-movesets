@@ -1,0 +1,65 @@
+species: Swampert
+setname: Standard
+item: [Damp Mulch]
+ability: [Torrent]
+moves:
+    - [Surf, Hydro Pump, Earth Power]
+    - [Dig, Dive]
+    - [Hyper Beam, Ice Beam, Strength, Ice Punch, Low Kick]
+    - [Curse]
+combinations:
+    - [Earth Power, Dive]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Modest
+ivs: 0
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Swampert
+setname: Physical
+item: [Macho Brace]
+ability: [Damp]
+moves:
+    - [Earthquake]
+    - [Aqua Tail, Waterfall]
+    - [Hammer Arm, Iron Tail, Outrage, Stone Edge, Avalanche]
+    - [Refresh, Roar, Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Calm
+ivs: 0
+evs: 0
+
+species: Swampert
+setname: Special
+item: [Soft Sand, Poison Barb, Hard Rock, NeverMeltIce]
+ability: [Damp, Torrent]
+moves:
+    - [Muddy Water, Water Pulse]
+    - [Mud Shot, Mud Bomb]
+    - [Sludge, Ancientpower, Icy Wind]
+    - [Growl, Stealth Rock, Attract]
+combinations:
+    - [Soft Sand, Muddy Water, Mud Shot]
+separations:
+    - [Mud Shot, Icy Wind]
+    - [Poison Barb, Ancientpower]
+    - [Poison Barb, Icy Wind]
+    - [Hard Stone, Sludge]
+    - [Hard Stone, Icy Wind]
+    - [NeverMeltIce, Sludge]
+    - [NeverMeltIce, Ancientpower]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Brave
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}

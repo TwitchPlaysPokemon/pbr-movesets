@@ -1,0 +1,30 @@
+species: Grovyle
+setname: Standard
+item: [Occa Berry, Micle Berry, Liechi Berry, Petaya Berry]
+ability: [Overgrow, Unburden]
+moves:
+    - [Leaf Storm, Energy Ball, Seed Bomb]
+    - [Iron Tail, Dynamic Punch, Focus Punch, Rock Slide]
+    - [Aerial Ace, Hidden Power, Dragonbreath, Natural Gift]
+    - [Swords Dance, Endure, Substitute, Screech, Sunny Day]
+combinations:
+    - [Micle Berry, Dynamic Punch, Endure]
+    - [Rock Slide, Dragonbreath]
+    - [Natural Gift, Sunny Day]
+separations:
+    - [Unburden, Iron Tail]
+    - [Leaf Storm, Dragonbreath]
+    - [Leaf Storm, Hidden Power]
+    - [Substitute, Occa Berry]
+    - [Substitute, Micle Berry]
+    - [Natural Gift, Micle Berry]
+    - [Natural Gift, Liechi Berry]
+    - [Natural Gift, Petaya Berry]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+nature: Naughty
+ivs: 31
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}

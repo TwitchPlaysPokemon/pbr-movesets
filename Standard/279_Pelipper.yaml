@@ -1,0 +1,74 @@
+species: Pelipper
+setname: Keen Eye
+item: [Scope Lens]
+ability: [Keen Eye]
+moves:
+    - [Surf, Hydro Pump]
+    - [Air Cutter]
+    - [Ice Beam, Blizzard]
+    - [Aqua Ring, Agility, Defog, Mist, Captivate, Hail]
+separations:
+    - [Ice Beam, Hail]
+    - [Defog, Surf]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Timid
+ivs: 13
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
+
+species: Pelipper
+setname: Rain Dish
+item: [Damp Rock]
+ability: [Rain Dish]
+moves:
+    - [Air Slash]
+    - [Water Pulse, Brine]
+    - [Shock Wave, Icy Wind]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Calm
+ivs: 15
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 108, spe: 100}
+
+species: Pelipper
+setname: Physical
+item: [Choice Band]
+ability: [Keen Eye]
+moves:
+    - [Wing Attack, Aerial Ace, Sky Attack]
+    - [Gunk Shot, Seed Bomb]
+    - [Payback, U-turn]
+    - [Quick Attack, Steel Wing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Adamant
+ivs: 27
+evs: {hp: 168, atk: 172, def: 0, spA: 0, spD: 168, spe: 0}
+
+species: Pelipper
+setname: Stockpile
+item: [Leftovers]
+ability: [Keen Eye]
+moves:
+    - [Fly]
+    - [Spit Up]
+    - [Swallow]
+    - [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.4
+ball: [Premier]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 76, def: 4, spA: 252, spD: 0, spe: 176}

@@ -1,0 +1,42 @@
+species: Poochyena
+setname: Physical
+item: [Toxic Orb, Focus Sash, Leftovers, Liechi Berry]
+ability: [Quick Feet]
+moves:
+    - [Super Fang]
+    - [Crunch, Sucker Punch]
+    - [Return, Dig, Iron Tail, Counter]
+    - [Swagger, Protect, Endure, Yawn]
+combinations:
+    - [Toxic Orb, Protect]
+    - [Liechi Berry, Endure]
+separations:
+    - [Crunch, Yawn]
+    - [Toxic Orb, Sucker Punch]
+    - [Liechi Berry, Crunch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.5
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 80, atk: 252, def: 0, spA: 0, spD: 0, spe: 176}
+
+species: Poochyena
+setname: Special
+item: [Flame Orb]
+ability: [Quick Feet]
+moves:
+    - [Dark Pulse]
+    - [Hidden Power]
+    - [Me First]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Mild
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 30, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

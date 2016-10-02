@@ -1,0 +1,56 @@
+species: Surskit
+setname: Swift Swim
+item: [Insect Plate, Mind Plate]
+ability: [Swift Swim]
+moves:
+    - [Hydro Pump]
+    - [Signal Beam]
+    - [Ice Beam, Giga Drain, Psybeam, Solarbeam]
+    - [Rain Dance, Sunny Day]
+combinations:
+    - [Solarbeam, Sunny Day]
+    - [Mind Plate, Psybeam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Net]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+
+species: Surskit
+setname: Rain Dish
+item: [Damp Rock, Leftovers]
+ability: [Rain Dish]
+moves:
+    - [Water Pulse]
+    - [Toxic]
+    - [Rain Dance]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+
+species: Surskit
+setname: Physical
+item: [Liechi Berry]
+ability: [Swift Swim]
+moves:
+    - [Bug Bite]
+    - [Secret Power]
+    - [Endure, Quick Attack]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}

@@ -1,0 +1,23 @@
+species: Marshtomp
+setname: Standard
+item: [Aspear Berry, Rawst Berry, Pecha Berry, Soft Sand, Toxic Plate]
+ability: [Torrent, Damp]
+moves:
+    - [Surf, Hydro Pump, Muddy Water, Aqua Tail]
+    - [Earth Power, Earthquake, Dig, Mud Bomb]
+    - [Ice Beam, Sludge, Rock Slide, Bide]
+    - [Barrier, Curse, Stealth Rock, Toxic, Mirror Coat, Counter]
+combinations:
+    - [Dig, Toxic]
+    - [Aqua Tail, Curse]
+separations:
+    - [Bide, Mirror Coat]
+    - [Bide, Counter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+nature: Timid
+ivs: 31
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}

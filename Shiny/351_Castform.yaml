@@ -11,7 +11,7 @@ combinations:
     - [Damp Rock, Drizzle, Withdraw]
     - [Heat Rock, Drought, Will-O-Wisp]
     - [Icy Rock, Snow Warning, Haze]
-    - [Smooth Rock, Rock Polish, Conversion]
+    - [Smooth Rock, Sand Stream, Rock Polish]
 gender: [m, f]
 happiness: 255
 shiny: True

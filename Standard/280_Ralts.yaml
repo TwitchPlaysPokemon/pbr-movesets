@@ -1,0 +1,35 @@
+species: Ralts
+setname: Standard
+item: [Focus Sash]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Signal Beam, Thunderbolt]
+    - [Taunt]
+    - [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.4
+ball: [Poké]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+
+species: Ralts
+setname: Utility
+item: [Focus Sash]
+ability: [Trace, Synchronize]
+moves:
+    - [Zen Headbutt]
+    - [Will-O-Wisp]
+    - [Trick Room]
+    - [Memento]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Heal]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}

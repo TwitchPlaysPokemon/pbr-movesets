@@ -1,0 +1,41 @@
+species: Mudkip
+setname: Physical
+item: [Custap Berry, White Herb, Sitrus Berry, Lum Berry]
+ability: [Torrent]
+moves:
+    - [Aqua Tail, Waterfall]
+    - [Superpower]
+    - [Avalanche, Yawn]
+    - [Attract, Protect, Curse, Rest]
+combinations:
+    - [Sitrus Berry, Curse]
+    - [Lum Berry, Rest]
+    - [Yawn, Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.4
+ball: [Poké]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+
+species: Mudkip
+setname: Special
+item: [Wacan Berry, Rindo Berry]
+ability: [Torrent]
+moves:
+    - [Hydro Pump, Surf]
+    - [Ice Beam]
+    - [Mud Bomb, Ancientpower]
+    - [Mirror Coat, Counter]
+combinations:
+    - [Wacan Berry, Mud Bomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poké]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}

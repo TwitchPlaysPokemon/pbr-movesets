@@ -1,0 +1,41 @@
+species: Treecko
+setname: Special
+item: [White Herb, Miracle Seed]
+ability: [Overgrow]
+moves:
+    - [Leaf Storm]
+    - [Energy Ball, Giga Drain]
+    - [Dragonbreath, Hidden Power]
+    - [Endure]
+combinations:
+    - [Miracle Seed, Giga Drain]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+
+species: Treecko
+setname: Physical
+item: [Liechi Berry, Power Herb, Nanab Berry, Starf Berry]
+ability: [Unburden]
+moves:
+    - [Seed Bomb]
+    - [Brick Break, Focus Punch, Dig]
+    - [Thunder Punch, Aerial Ace, Natural Gift]
+    - [Endure, Substitute, Swords Dance]
+combinations:
+    - [Starf Berry, Focus Punch, Substitute]
+    - [Nanab Berry, Natural Gift]
+    - [Dig, Power Herb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}

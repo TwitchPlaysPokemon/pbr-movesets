@@ -1,0 +1,17 @@
+species: Silcoon
+setname: Standard
+item: [Sitrus Berry]
+ability: [Compound Eyes]
+moves:
+    - [Megahorn]
+    - [Psywave]
+    - [Stun Spore, Glare]
+    - [Supersonic, Sweet Kiss]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Careful
+ivs: 31
+evs: {hp: 128, atk: 76, def: 124, spA: 0, spD: 160, spe: 20}

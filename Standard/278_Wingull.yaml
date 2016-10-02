@@ -1,0 +1,41 @@
+species: Wingull
+setname: Special
+item: [Wise Glasses]
+ability: [Keen Eye, Rain Dish]
+moves:
+    - [Air Slash]
+    - [Brine, Water Pulse]
+    - [Blizzard, Hidden Power]
+    - [Shock Wave, Rain Dance]
+combinations:
+    - [Focus Sash, Rain Dish]
+separations:
+    - [Hidden Power, Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.5
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+
+species: Wingull
+setname: Physical
+item: [Focus Sash]
+ability: [Keen Eye]
+moves:
+    - [Double-Edge]
+    - [Fly, Pluck, Aerial Ace, Wing Attack]
+    - [Steel Wing, U-turn]
+    - [Toxic, Attract, Double Team, Supersonic]
+combinations:
+    - [Fly, Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
