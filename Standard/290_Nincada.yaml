@@ -1,0 +1,56 @@
+species: Nincada
+setname: Physical
+item: [null]
+ability: [Compound Eyes]
+moves:
+    - [Megahorn]
+    - [Dynamic Punch]
+    - [Night Slash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 120, atk: 228, def: 40, spA: 0, spD: 120, spe: 0}
+
+species: Nincada
+setname: Special
+item: [Salac Berry, Petaya Berry]
+ability: [Run Away]
+moves:
+    - [Bug Buzz]
+    - [Shadow Ball]
+    - [Hidden Power, Giga Drain]
+    - [Endure, Substitute]
+combinations:
+    - [Salac Berry, Endure]
+    - [Petaya Berry, Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+
+species: Nincada
+setname: Stall
+item: [Leftovers]
+ability: [Compound Eyes]
+moves:
+    - [Dig]
+    - [X-Scissor]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Impish
+ivs: 31
+evs: {hp: 252, atk: 84, def: 88, spA: 0, spD: 84, spe: 0}

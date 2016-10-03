@@ -1,0 +1,37 @@
+species: Azurill
+setname: Physical
+item: [Muscle Band, Chople Berry, Sitrus Berry, Custap Berry]
+ability: [Huge Power]
+moves:
+    - [Frustration, Body Slam, Double-Edge]
+    - [Bounce, Iron Tail]
+    - [Waterfall]
+    - [Tickle, Sing, Encore]
+separations:
+    - [Chople Berry, Iron Tail]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 1.7
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 172, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}
+
+species: Azurill
+setname: Special
+item: [Chesto Berry]
+ability: [Thick Fat]
+moves:
+    - [Ice Beam, Blizzard]
+    - [Surf]
+    - [Fake Tears]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}

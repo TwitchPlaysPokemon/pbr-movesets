@@ -1,0 +1,41 @@
+species: Vigoroth
+setname: Standard
+item: [Poké Doll, Scope Lens, Silk Scarf]
+ability: [Vital Spirit]
+moves:
+    - [Body Slam, Slash, Headbutt]
+    - [Shadow Claw, Night Slash]
+    - [Low Kick, Flamethrower, Focus Blast]
+    - [Amnesia, Slack Off, Focus Energy, Rock Tomb]
+combinations:
+    - [Scope Lens, Slash, Focus Energy]
+    - [Headbutt, Rock Tomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+nature: Brave
+ivs: 31
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Vigoroth
+setname: Physical
+item: [Chesto Berry, Wide Lens, White Herb]
+ability: [Vital Spirit]
+moves:
+    - [Crush Claw, Frustration, Mega Kick, Rock Climb]
+    - [Gunk Shot]
+    - [Earthquake, Hammer Arm]
+    - [Taunt, Encore, Roar]
+combinations:
+    - [Wide Lens, Rock Climb]
+    - [White Herb, Hammer Arm]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Careful
+ivs: 0
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}

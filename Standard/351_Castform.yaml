@@ -1,0 +1,68 @@
+species: Castform
+setname: Weather
+item: [Expert Belt]
+ability: [Forecast]
+moves:
+    - [Weather Ball]
+    - [Hail]
+    - [Rain Dance]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Timid
+ivs: 15
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Castform
+setname: Special
+item: [Chople Berry, Salac Berry, Chesto Berry, Sitrus Berry]
+ability: [Forecast]
+moves:
+    - [Weather Ball]
+    - [Thunder, Fire Blast, Solarbeam]
+    - [Disable, Amnesia, Rest, Endure]
+    - [Rain Dance, Sunny Day, Hail]
+combinations:
+    - [Thunder, Rain Dance]
+    - [Fire Blast, Hail]
+    - [Solarbeam, Sunny Day]
+    - [Sitrus Berry, Amnesia]
+    - [Chesto Berry, Rest]
+    - [Salac Berry, Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Rash
+ivs: 31
+evs: {hp: 80, atk: 168, def: 128, spA: 108, spD: 0, spe: 24}
+
+species: Castform
+setname: Physical
+item: [Durin Berry, Watmel Berry, Ganlon Berry, Liechi Berry]
+ability: [Forecast]
+moves:
+    - [Frustration]
+    - [Natural Gift, Avalanche]
+    - [Thunder Wave, Substitute]
+    - [Rain Dance, Sunny Day, Hail]
+combinations:
+    - [Durin Berry, Rain Dance]
+    - [Watmel Berry, Sunny Day]
+separations:
+    - [Liechi Berry, Thunder Wave]
+    - [Liechi Berry, Natural Gift]
+    - [Ganlon Berry, Endure]
+    - [Ganlon Berry, Avalanche]
+gender: [m, f]
+happiness: 55
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 88, atk: 244, def: 88, spA: 0, spD: 88, spe: 0}

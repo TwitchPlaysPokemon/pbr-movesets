@@ -1,0 +1,57 @@
+species: Slaking
+setname: Standard
+item: [Mental Herb, Wide Lens, Silk Scarf]
+ability: [Truant]
+moves:
+    - [Cut, Fury Swipes, Scratch]
+    - [Focus Blast, Thunder, Blizzard, Fire Blast, Shadow Ball]
+    - [Pursuit, Rock Smash]
+    - [Tickle, Curse]
+combinations:
+    - [Wide Lens, Fury Swipes]
+    - [Silk Scarf, Scratch]
+    - [Shadow Ball, Rock Smash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.6
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+
+species: Slaking
+setname: Stall
+item: [Splash Plate]
+ability: [Truant]
+moves:
+    - [Hyper Beam]
+    - [Water Pulse]
+    - [Toxic]
+    - [Slack Off]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Hasty
+ivs: 0
+evs: {hp: 0, atk: 0, def: 4, spA: 0, spD: 0, spe: 0}
+
+species: Slaking
+setname: Overpowered
+item: [null]
+ability: [Truant]
+moves:
+    - [Giga Impact]
+    - [Earthquake, Hammer Arm]
+    - [Shadow Claw, Night Slash]
+    - [Roar, Block, Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Calm
+ivs: 0
+evs: {hp: 0, atk: 12, def: 0, spA: 0, spD: 8, spe: 0}
