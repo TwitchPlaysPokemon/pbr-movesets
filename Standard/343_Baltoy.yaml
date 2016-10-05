@@ -1,0 +1,60 @@
+species: Baltoy
+setname: Physical
+item: [Lum Berry, Hard Stone, Leftovers]
+ability: [Levitate]
+moves:
+    - [Earthquake]
+    - [Zen Headbutt]
+    - [Rock Slide, Gravity, Heal Block]
+    - [Trick Room, Rock Polish, Self-destruct]
+combinations:
+    - [Heal Block, Self-destruct]
+separations:
+    - [Hard Stone, Gravity]
+    - [Hard Stone, Heal Block]
+    - [Leftovers, Rock Slide]
+    - [Leftovers, Heal Block]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Timer]
+nature: Adamant
+ivs: 31
+evs: {hp: 208, atk: 172, def: 64, spA: 0, spD: 64, spe: 0}
+
+species: Baltoy
+setname: Special
+item: [Sitrus Berry]
+ability: [Levitate]
+moves:
+    - [Earth Power, Psychic]
+    - [Shadow Ball, Ice Beam, Grass Knot]
+    - [Calm Mind]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Heal]
+nature: Modest
+ivs: 31
+evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
+
+species: Baltoy
+setname: Explosion
+item: [Light Clay]
+ability: [Levitate]
+moves:
+    - [Reflect]
+    - [Light Screen]
+    - [Trick Room]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}

@@ -1,0 +1,21 @@
+species: Anorith
+setname: Standard
+item: [Claw Fossil]
+ability: [Battle Armor, Swift Swim]
+moves:
+    - [X-Scissor]
+    - [Rock Slide]
+    - [Crush Claw, Aqua Jet, Aerial Ace, Brick Break]
+    - [Rock Polish, Rain Dance, Swords Dance]
+separations:
+    - [Battle Armor, Rain Dance]
+    - [Aqua Jet, Swift Swim]
+    - [Aqua Jet, Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}

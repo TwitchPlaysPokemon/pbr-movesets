@@ -1,0 +1,37 @@
+species: Lileep
+setname: Physical
+item: [Root Fossil]
+ability: [Suction Cups]
+moves:
+    - [Seed Bomb]
+    - [Rock Slide]
+    - [Rock Polish]
+    - [Synthesis, Recover, Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 172}
+
+species: Lileep
+setname: Special
+item: [Stone Plate, Heat Rock]
+ability: [Suction Cups]
+moves:
+    - [Energy Ball, Solarbeam]
+    - [Ancientpower]
+    - [Sludge Bomb, Earth Power, Hidden Power]
+    - [Amnesia, Barrier, Sunny Day]
+combinations:
+    - [Heat Rock, Solarbeam, Hidden Power, Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+nature: Quiet
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 128, atk: 0, def: 128, spA: 124, spD: 128, spe: 0}
