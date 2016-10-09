@@ -1,7 +1,7 @@
 species: Tyrogue
 setname: Standard
 item: [Focus Sash, Salac Berry]
-ability: [Steadfast, Insomnia]
+ability: [Steadfast, Vital Spirit]
 moves:
     - [Close Combat]
     - [Stone Edge]
