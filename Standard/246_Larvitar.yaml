@@ -9,7 +9,6 @@ moves:
     - [Dragon Dance, Rock Polish]
 combinations:
     - [Toxic Orb, Facade]
-    - [White Herb, Superpower]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -30,7 +29,6 @@ moves:
     - [Rock Polish, Protect]
 combinations:
     - [Dark Pulse, Rock Polish]
-    - [Ancientpower, Protect]
 gender: [m, f]
 happiness: 255
 biddable: True
