@@ -1,0 +1,70 @@
+species: Aggron
+setname: Standard
+item: [Black Belt, Sharp Beak, Pink Scarf, Sitrus Berry]
+ability: [Sturdy]
+moves:
+    - [Metal Claw, Rock Tomb]
+    - [Rock Smash, Low Kick, Seismic Toss, ThunderPunch, Shadow Claw, Aerial Ace, Mimic]
+    - [Stealth Rock]
+    - [Roar]
+combinations:
+    - [Black Belt, Rock Smash]
+    - [Sharp Beak, Aerial Ace]
+    - [Sitrus Berry, Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Careful
+ivs: 31
+evs: {hp: 168, atk: 168, def: 0, spA: 0, spD: 172, spe: 0}
+
+species: Aggron
+setname: Special
+item: [Stone Plate, Destiny Knot, Mental Herb]
+ability: [Sturdy]
+moves:
+    - [AncientPower, Flash Cannon]
+    - [Ice Beam, Focus Blast, Fire Blast, Thunderbolt, Surf]
+    - [Dark Pulse, Earth Power, Dragon Pulse, Icy Wind, SolarBeam]
+    - [Rock Polish, Thunder Wave, Metal Sound, Sandstorm, Endeavor, Metal Burst]
+combinations:
+    - [Stone Plate, AncientPower]
+separations:
+    - [Ice Beam, Dragon Pulse]
+    - [Ice Beam, Icy Wind]
+    - [Icy Wind, Rock Polish]
+    - [Icy Wind, Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Modest
+ivs: 31
+evs: {hp: 164, atk: 0, def: 0, spA: 196, spD: 108, spe: 40}
+
+species: Aggron
+setname: Physical
+item: [Micle Berry]
+ability: [Rock Head, Sturdy]
+moves:
+    - [Iron Head, Iron Tail]
+    - [Rock Slide, Natural Gift, Rollout]
+    - [Double-Edge, Superpower, DynamicPunch, Outrage]
+    - [Aqua Tail, Body Slam, Fire Punch, Defense Curl]
+combinations:
+    - [Rock Head, Double-Edge]
+    - [Rollout, Defense Curl]
+separations:
+    - [Double-Edge, Body Slam]
+    - [Outrage, Body Slam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Mild
+ivs: 17
+evs: {hp: 156, atk: 156, def: 20, spA: 0, spD: 156, spe: 20}

@@ -1,0 +1,65 @@
+species: Breloom
+setname: Physical
+item: [Heal Powder, Miracle Seed, Toxic Orb]
+ability: [Technician, Poison Heal]
+moves:
+    - [Seed Bomb]
+    - [Brick Break, Sky Uppercut, Wake-Up Slap, Drain Punch, Mach Punch, Rock Smash]
+    - [Iron Tail, Stone Edge, Rock Slide, Thunder Punch, Mega Punch, Body Slam, Mega Kick]
+    - [Poison Powder, Stun Spore, Snatch, Mind Reader, Safeguard, Helping Hand]
+combinations:
+    - [Toxic Orb, Wake-Up Slap]
+    - [Miracle Seed, Sky Uppercut, Mega Punch, Helping Hand]
+    - [Stone Edge, Mind Reader]
+    - [Rock Slide, Stun Spore]
+separations:
+    - [Poison Heal, Mach Punch]
+    - [Poison Heal, Rock Smash]
+    - [Technician, Brick Break]
+    - [Technician, Sky Uppercut]
+    - [Technician, Wake-Up Slap]
+    - [Technician, Drain Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.3
+ball: [Nest]
+nature: Timid
+ivs: 0
+evs: {hp: 88, atk: 0, def: 40, spA: 252, spD: 40, spe: 80}
+
+species: Breloom
+setname: Special
+item: [null]
+ability: [Technician]
+moves:
+    - [Mega Drain]
+    - [Vacuum Wave]
+    - [Fake Tears]
+    - [Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Safari]
+nature: Modest
+ivs: 5
+evs: {hp: 124, atk: 0, def: 100, spA: 164, spD: 120, spe: 0}
+
+species: Breloom
+setname: Bullet Seed
+item: [Miracle Seed]
+ability: [Technician]
+moves:
+    - [Bullet Seed]
+    - [Tackle, False Swipe]
+    - [Swords Dance]
+    - [Poison Powder, Stun Spore, Charm, Captivate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}

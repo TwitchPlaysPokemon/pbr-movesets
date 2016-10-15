@@ -1,0 +1,41 @@
+species: Illumise
+setname: Physical
+item: [Choice Band]
+ability: [Tinted Lens]
+moves:
+    - [U-turn]
+    - [Dynamic Punch]
+    - [Zen Headbutt]
+    - [Aerial Ace, Ice Punch, Thunderpunch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 40, atk: 252, def: 44, spA: 0, spD: 44, spe: 128}
+
+species: Illumise
+setname: Special
+item: [Cheri Berry, Silverpowder]
+ability: [Tinted Lens, Oblivious]
+moves:
+    - [Bug Buzz, Silver Wind]
+    - [Shadow Ball, Thunderbolt]
+    - [Charge Beam, Water Pulse]
+    - [Light Screen, Growth]
+combinations:
+    - [Oblivious, Thunderbolt]
+    - [Charge Beam, Light Screen]
+    - [Silverpowder, Signal Beam]
+separations:
+    - [Thunderbolt, Charge Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Bold
+ivs: 31
+evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}

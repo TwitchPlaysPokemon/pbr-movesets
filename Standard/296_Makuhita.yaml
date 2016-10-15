@@ -1,0 +1,53 @@
+species: Makuhita
+setname: Thick Fat
+item: [Coba Berry, Payapa Berry]
+ability: [Thick Fat]
+moves:
+    - [Revenge]
+    - [Focus Punch]
+    - [Payback]
+    - [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Timer]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+
+species: Makuhita
+setname: Guts
+item: [Toxic Orb]
+ability: [Guts]
+moves:
+    - [Fake Out]
+    - [Close Combat, Superpower, Cross Chop]
+    - [Poison Jab, Fire Punch, Mega Kick]
+    - [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 124, atk: 128, def: 128, spA: 0, spD: 128, spe: 0}
+
+species: Makuhita
+setname: Special
+item: [Petaya Berry]
+ability: [Thick Fat]
+moves:
+    - [Focus Blast]
+    - [Surf]
+    - [Vacuum Wave]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Dive]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}

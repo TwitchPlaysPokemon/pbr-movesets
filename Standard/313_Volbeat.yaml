@@ -1,0 +1,57 @@
+species: Volbeat
+setname: Physical
+item: [null, Figy Berry]
+ability: [Swarm]
+moves:
+    - [Bug Bite]
+    - [Zen Headbutt, Mega Kick, Thunderpunch, Ice Punch]
+    - [Brick Break]
+    - [Thief, Trick]
+combinations:
+    - [Figy Berry, Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 24, atk: 31, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 76, atk: 252, def: 44, spA: 0, spD: 44, spe: 92}
+
+species: Volbeat
+setname: Special
+item: [null, Lagging Tail]
+ability: [Swarm]
+moves:
+    - [Signal Beam, Silver Wind]
+    - [Water Pulse, Giga Drain, Shock Wave]
+    - [Thunder Wave, Tailwind, Trick]
+    - [Tail Glow]
+combinations:
+    - [Lagging Tail, Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Quiet
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 14}
+evs: {hp: 28, atk: 0, def: 88, spA: 88, spD: 24, spe: 0}
+
+species: Volbeat
+setname: Baton Pass
+item: [Ganlon Berry]
+ability: [Illuminate]
+moves:
+    - [Bug Buzz]
+    - [Brick Break, Double Team]
+    - [Tail Glow]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Naughty
+ivs: 31
+evs: {hp: 40, atk: 208, def: 80, spA: 60, spD: 60, spe: 60}

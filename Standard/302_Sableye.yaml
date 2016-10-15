@@ -1,0 +1,81 @@
+species: Sableye
+setname: Physical
+item: [null]
+ability: [Keen Eye]
+moves:
+    - [Shadow Claw]
+    - [Poison Jab, Fire Punch, Double-Edge]
+    - [Low Kick, Substitute, Endure]
+    - [Pain Split, Role Play, Recover]
+combinations:
+    - [Endure, Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Jolly
+ivs: {hp: 13, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 124, def: 128, spA: 0, spD: 128, spe: 128}
+
+species: Sableye
+setname: Special
+item: [Oran Berry, Salac Berry, Magnet]
+ability: [Keen Eye]
+moves:
+    - [Dark Pulse, Shadow Ball]
+    - [Psychic, Power Gem, Shock Wave]
+    - [Icy Wind, Substitute, Endure]
+    - [Calm Mind, Nasty Plot]
+combinations:
+    - [Magnet, Shock Wave]
+separations:
+    - [Icy Wind, Salac Berry]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Naive
+ivs: 31
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Sableye
+setname: Stall
+item: [Cheri Berry, Splash Plate, Stone Plate, Lagging Tail]
+ability: [Stall]
+moves:
+    - [Payback]
+    - [Octazooka, Psychic, Power Gem]
+    - [Magic Coat, Taunt, Torment, Embargo, Trick]
+    - [Snatch, Calm Mind, Nasty Plot, Metronome]
+combinations:
+    - [Lagging Tail, Trick]
+    - [Splash Plate, Octazooka]
+    - [Stone Plate, Power Gem]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: , def: 44, spA: 168, spD: 44, spe: 0}
+
+species: Sableye
+setname: Ability Steal
+item: [null]
+ability: [Stall]
+moves:
+    - [Punishment, Feint Attack]
+    - [Brick Break, Thunder Punch, Seismic Toss]
+    - [Role Play]
+    - [Pain Split, Mean Look, Snatch, Spite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Jolly
+ivs: 31
+evs: {hp: 64, atk: 64, def: 64, spA: 0, spD: 64, spe: 252}

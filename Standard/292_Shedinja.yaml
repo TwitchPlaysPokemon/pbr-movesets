@@ -1,0 +1,84 @@
+species: Shedinja
+setname: Physical
+item: [Focus Band, Lum Berry]
+ability: [Wonder Guard]
+moves:
+    - [X-Scissor]
+    - [Shadow Sneak]
+    - [Will-O-Wisp, Toxic, Dig, Confuse Ray, Agility]
+    - [Protect, Baton Pass, Heal Block, Grudge]
+combinations:
+    - [Agility, Baton Pass]
+separations:
+    - [Dig, Protect]
+    - [Confuse Ray, Protect]
+    - [Agility, Protect]
+    - [Will-O-Wisp, Heal Block]
+    - [Toxic, Heal Block]
+    - [Will-O-Wisp, Grudge]
+    - [Toxic, Grudge]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Quick]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+
+species: Shedinja
+setname: Mixed
+item: [Spell Tag, Silverpowder]
+ability: [Wonder Guard]
+moves:
+    - [Shadow Ball]
+    - [Bug Buzz, Silver Wind]
+    - [Giga Impact, Frustration]
+    - [Swords Dance, Agility, Screech, String Shot]
+gender: [m, f]
+happiness: 0
+biddable: False
+rarity: 0.5
+ball: [Luxury]
+nature: Mild
+ivs: 31
+evs: {hp: 0, atk: 88, def: 0, spA: 252, spD: 0, spe: 168}
+
+species: Shedinja
+setname: Pivot
+item: [Choice Band]
+ability: [Wonder Guard]
+moves:
+    - [U-turn]
+    - [Shadow Claw]
+    - [Sucker Punch]
+    - [Metal Claw]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.5
+ball: [Heal]
+nature: 
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+
+species: Shedinja
+setname: Token
+item: [Focus Band, Lum Berry]
+ability: [Wonder Guard]
+moves:
+    - [Shadow Claw]
+    - [Bug Bite]
+    - [Dig, Double-Edge]
+    - [Curse, Will-O-Wisp]
+combinations:
+    - [Dig, Curse]
+    - [Double-Edge, Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Timer]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

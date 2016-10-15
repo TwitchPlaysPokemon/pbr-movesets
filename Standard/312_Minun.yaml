@@ -1,0 +1,49 @@
+species: Minun
+setname: Special
+item: [Oran Berry]
+ability: [Minus, Volt Absorb]
+moves:
+    - [Thunder, Thunderbolt]
+    - [Grass Knot, Hidden Power, Trump Card]
+    - [Baton Pass, Sweet Kiss, Sing, Wish]
+    - [Agility, Charge, Rain Dance, Defense Curl, Nasty Plot, Protect]
+combinations:
+    - [Trump Card, Sing]
+    - [Wish, Protect]
+separations:
+    - [Thunderbolt, Rain Dance]
+    - [Baton Pass, Rain Dance]
+    - [Sweet Kiss, Agility]
+    - [Sweet Kiss, Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.4
+ball: [Repeat]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 128, spA: 124, spD: 84, spe: 84}
+
+species: Minun
+setname: Physical
+item: [Berry Juice, Magnet, Shuca Berry, Micle Berry]
+ability: [Minus, Volt Absorb]
+moves:
+    - [Discharge, Spark]
+    - [Seismic Toss, Dynamic Punch, Natural Gift]
+    - [Headbutt]
+    - [Copycat, Endure, Fake Tears]
+combinations:
+    - [Spark, Magnet]
+    - [Shuca Berry, Natural Gift]
+    - [Micle Berry, Dynamic Punch, Endure]
+separations:
+    - [Spark, Fake Tears]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Quick]
+nature: Naughty
+ivs: 31
+evs: {hp: 60, atk: 252, def: 60, spA: 60, spD: 60, spe: 16}

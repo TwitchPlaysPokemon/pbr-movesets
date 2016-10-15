@@ -1,0 +1,60 @@
+species: Delcatty
+setname: Physical
+item: [Pink Scarf, Power Herb, Black Belt]
+ability: [Cute Charm]
+moves:
+    - [Strength, Headbutt, Secret Power, Facade]
+    - [Iron Tail, Zen Headbutt, Wake-Up Slap, Dig]
+    - [Rock Smash, Thunder Wave, Sing, Baton Pass]
+    - [Tickle, Calm Mind, Wish, Heal Bell]
+combinations:
+    - [Power Herb, Dig]
+    - [Black Belt, Rock Smash]
+    - [Wake-Up Slap, Sing]
+    - [Baton Pass, Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+
+species: Delcatty
+setname: Special
+item: [Life Orb]
+ability: [Cute Charm]
+moves:
+    - [Fake Out, Hyper Voice]
+    - [Shadow Ball, Thunderbolt]
+    - [Grass Knot, Ice Beam]
+    - [Cosmic Power, Calm Mind, Charm, Copycat, Assist]
+combinations:
+    - [Hyper Voice, Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Hardy
+ivs: 31
+evs: {hp: 0, atk: 176, def: 0, spA: 176, spD: 0, spe: 156}
+
+species: Delcatty
+setname: Normalize
+item: [Micle Berry]
+ability: [Normalize]
+moves:
+    - [Rollout]
+    - [Defense Curl]
+    - [Sing]
+    - [Foresight]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 36, def: 0, spA: 0, spD: 36, spe: 184}

@@ -1,0 +1,35 @@
+species: Medicham
+setname: Physical
+item: [null]
+ability: [Pure Power]
+moves:
+    - [Psycho Cut, Zen Headbutt]
+    - [Force Palm, Drain Punch]
+    - [Fire Punch, Ice Punch, Thunderpunch, Poison Jab, Rock Slide, Foresight]
+    - [Power Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.4
+ball: [Heal]
+nature: Bold
+ivs: 16
+evs: {hp: 85, atk: 0, def: 170, spA: 0, spD: 170, spe: 85}
+
+species: Medicham
+setname: Special
+item: [null]
+ability: [Pure Power]
+moves:
+    - [Focus Blast]
+    - [Psychic]
+    - [Signal Beam, Shadow Ball, Energy Ball, Grass Knot]
+    - [Mimic, Vacuum Wave, Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Luxury]
+nature: Quirky
+ivs: 31
+evs: {hp: 84, atk: 168, def: 0, spA: 168, spD: 0, spe: 88}
