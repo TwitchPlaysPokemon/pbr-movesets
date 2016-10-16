@@ -1,0 +1,57 @@
+species: Torkoal
+setname: Standard
+item: [Macho Brace]
+ability: [Shell Armor, White Smoke]
+moves:
+    - [Flame Wheel, Eruption]
+    - [Gyro Ball, Superpower]
+    - [Earth Power, Sludge Bomb, Rock Slide]
+    - [Amnesia, Selfdestruct, Stealth Rock, Will-O-Wisp, Nature Power]
+combinations:
+    - [Shell Armor, Amnesia]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 100, spe: 100}
+
+species: Torkoal
+setname: Stall
+item: [Grip Claw]
+ability: [Shell Armor, White Smoke]
+moves:
+    - [Fire Spin]
+    - [Earthquake]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Cherish]
+nature: Calm
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 172, spD: 84, spe: 0}
+
+species: Torkoal
+setname: Physical Tank
+item: [Leftovers, Power Herb]
+ability: [White Smoke]
+moves:
+    - [Flamethrower, Fire Blast]
+    - [Body Slam, Frustration, Skull Bash]
+    - [Will-O-Wisp]
+    - [Withdraw, Smokescreen]
+combinations:
+    - [Power Herb, Skull Bash, Smokescreen]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.6
+ball: [Heal]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 168, def: 88, spA: 0, spD: 0, spe: 252}

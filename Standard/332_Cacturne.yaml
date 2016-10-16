@@ -1,0 +1,22 @@
+species: Cacturne
+setname: Standard
+item: [Cornn Berry]
+ability: [Sand Veil, Water Absorb]
+moves:
+    - [Needle Arm, Energy Ball]
+    - [Faint Attack, Dark Pulse]
+    - [Revenge, Brick Break, Focus Blast, ThunderPunch, Nature Power]
+    - [Sandstorm, Cotton Spore, Teeter Dance]
+combinations:
+    - [Sand Veil, Sandstorm]
+    - [Needle Arm, Dark Pulse, Cotton Spore]
+separations:
+    - [Focus Punch, Cotton Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Brave
+ivs: 31
+evs: {hp: 132, atk: 56, def: 132, spA: 56, spD: 132, spe: 0}

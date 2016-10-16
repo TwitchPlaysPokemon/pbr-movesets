@@ -1,0 +1,57 @@
+species: Swalot
+setname: Liquid Ooze
+item: [null, Wide Lens]
+ability: [Liquid Ooze]
+moves:
+    - [Sludge Bomb]
+    - [Earthquake]
+    - [Fire Punch, Thunderpunch, Ice Punch]
+    - [Gastro Acid, Poison Gas, Encore, Snatch, Acid Armor]
+combinations:
+    - [Wide Lens, Poison Gas]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Brave
+ivs: 10
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Swalot
+setname: Sticky Hold
+item: [Choice Scarf, Choice Band, Choice Specs]
+ability: [Sticky Hold]
+moves:
+    - [Gunk Shot]
+    - [Solarbeam]
+    - [Headbutt, Seed Bomb]
+    - [Water Pulse, Shock Wave]
+combinations:
+    - [Choice Scarf, Headbutt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Hardy
+ivs: 0
+evs: {hp: 0, atk: 28, def: 40, spA: 128, spD: 40, spe: 180}
+
+species: Swalot
+setname: Gluttony
+item: [Salac Berry]
+ability: [Gluttony]
+moves:
+    - [Sludge]
+    - [Ice Beam, Shadow Ball]
+    - [Wring Out]
+    - [Substitute, Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 64, spD: 0, spe: 0}

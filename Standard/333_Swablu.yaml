@@ -1,0 +1,55 @@
+species: Swablu
+setname: Special
+item: [Power Herb, Sky Plate]
+ability: [Cloud Nine]
+moves:
+    - [Hyper Voice]
+    - [SolarBeam, Air Cutter]
+    - [Heat Wave]
+    - [Ice Beam]
+combinations:
+    - [Power Herb, SolarBeam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Luxury]
+nature: Modest
+ivs: 31
+evs: {hp: 108, atk: 0, def: 0, spA: 252, spD: 0, spe: 148}
+
+species: Swablu
+setname: Physical
+item: [Choice Scarf]
+ability: [Natural Cure]
+moves:
+    - [Double-Edge]
+    - [Sky Attack]
+    - [Outrage]
+    - [Steel Wing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 176, atk: 252, def: 0, spA: 0, spD: 0, spe: 80}
+
+species: Swablu
+setname: Stall
+item: [Sitrus Berry]
+ability: [Cloud Nine]
+moves:
+    - [Fly]
+    - [Toxic]
+    - [Tailwind]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Timer]
+nature: Impish
+ivs: 31
+evs: {hp: 244, atk: 0, def: 152, spA: 0, spD: 112, spe: 0}

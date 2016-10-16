@@ -1,0 +1,60 @@
+species: Camerupt
+setname: Solid Rock
+item: [Power Herb]
+ability: [Solid Rock]
+moves:
+    - [Earthquake]
+    - [Ember]
+    - [Solarbeam]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+
+species: Camerupt
+setname: Magma Armor
+item: [Zoom Lens, Wide Lens, Charcoal, Flame Plate, Soft Sand]
+ability: [Magma Armor]
+moves:
+    - [Flamethrower, Fire Blast, Eruption, Heat Wave, Eruption, Lava Plume]
+    - [Earth Power, Mud Bomb, Magnitude]
+    - [Stone Edge, Rock Slide]
+    - [Sandstorm, Howl, Scary Face, Rock Polish]
+combinations:
+    - [Wide Lens, Rock Slide]
+    - [Charcoal, Eruption]
+    - [Flame Plate, Lava Plume]
+    - [Soft Sand, Mud Bomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Adamant
+ivs: 10
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Camerupt
+setname: Anger Point
+item: [Sitrus Berry, Watmel Berry]
+ability: [Anger Point]
+moves:
+    - [Dig]
+    - [Iron Head, Natural Gift]
+    - [Substitute]
+    - [Selfdestruct]
+combinations:
+    - [Sitrus Berry, Iron Head]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Timer]
+nature: Jolly
+ivs: 31
+evs: {hp: 216, atk: 0, def: 40, spA: 0, spD: 0, spe: 252}

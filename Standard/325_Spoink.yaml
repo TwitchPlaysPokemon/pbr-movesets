@@ -1,0 +1,35 @@
+species: Spoink
+setname: Special
+item: [Ganlon Berry]
+ability: [Gluttony]
+moves:
+    - [Psychic, Extrasensory]
+    - [Signal Beam, Grass Knot, Power Gem, Shadow Ball]
+    - [Magic Coat, Mirror Coat]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.5
+ball: [Luxury]
+nature: Calm
+ivs: 31
+evs: {hp: 168, atk: 0, def: 172, spA: 0, spD: 84, spe: 84}
+
+species: Spoink
+setname: Physical
+item: [Choice Band]
+ability: [Thick Fat]
+moves:
+    - [Zen Headbutt]
+    - [Iron Tail, Double-Edge, Body Slam]
+    - [Payback]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}

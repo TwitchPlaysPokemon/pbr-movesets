@@ -1,0 +1,44 @@
+species: Grumpig
+setname: Physical
+item: [Jaboca Berry, Wiki Berry, Apicot Berry]
+ability: [Own Tempo, Gluttony]
+moves:
+    - [Zen Headbutt]
+    - [Bounce, Return, ThunderPunch, Ice Punch]
+    - [Drain Punch, Brick Break, Focus Punch, Fire Punch]
+    - [Toxic, Mirror Coat, Substitute, Payback]
+combinations:
+    - [Apicot Berry, Gluttony, Focus Punch, Substitute]
+separations:
+    - [Bounce, Payback]
+    - [Return, Toxic]
+    - [ThunderPunch, Toxic]
+    - [Ice Punch, Toxic]
+    - [Brick Break, Toxic]
+    - [Fire Punch, Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Adamant
+ivs: 31
+evs: {hp: 76, atk: 192, def: 80, spA: 0, spD: 80, spe: 80}
+
+species: Grumpig
+setname: Special
+item: [Chilan Berry]
+ability: [Thick Fat]
+moves:
+    - [Extrasensory]
+    - [Shadow Ball, Focus Blast, Energy Ball]
+    - [Power Gem, Charge Beam, Icy Wind]
+    - [Counter, Seismic Toss, Teeter Dance, Snatch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+nature: Quiet
+ivs: 5
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}

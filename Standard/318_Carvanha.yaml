@@ -1,0 +1,35 @@
+species: Carvanha
+setname: Physical
+item: [null]
+ability: [Speed Boost]
+moves:
+    - [Crunch]
+    - [Waterfall]
+    - [Destiny Bond, Zen Headbutt, Frustration, Bounce]
+    - [Protect]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Bold
+ivs: 31
+evs: {hp: 0, atk: 170, def: 108, spA: 0, spD: 150, spe: 80}
+
+species: Carvanha
+setname: Special
+item: [Focus Sash]
+ability: [Rough Skin]
+moves:
+    - [Super Fang]
+    - [Dark Pulse]
+    - [Brine]
+    - [Blizzard, Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}

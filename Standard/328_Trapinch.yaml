@@ -1,0 +1,38 @@
+species: Trapinch
+setname: 
+item: [Belue Berry, Focus Sash]
+ability: [Arena Trap, Hyper Cutter]
+moves:
+    - [Earthquake]
+    - [Crunch, Double-Edge, Rock Slide]
+    - [Natural Gift, Fissure]
+    - [Quick Attack]
+combinations:
+    - [Belue Berry, Natural Gift]
+    - [Focus Sash, Fissure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.7
+ball: [Poké]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+
+species: Trapinch
+setname: Special
+item: [Custap Berry]
+ability: [Arena Trap]
+moves:
+    - [Earth Power]
+    - [Giga Drain, Solarbeam]
+    - [Gust, Sunny Day]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}

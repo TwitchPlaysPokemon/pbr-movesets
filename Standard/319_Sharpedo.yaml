@@ -1,0 +1,59 @@
+species: Sharpedo
+setname: Standard
+item: [Wave Incense]
+ability: [Speed Boost]
+moves:
+    - [Bite, Dark Pulse, Night Slash]
+    - [Water Pulse]
+    - [Ice Fang, Poison Jab, Zen Headbutt, Ice Beam]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Bashful
+ivs: 11
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Sharpedo
+setname: Physical
+item: [Sitrus Berry]
+ability: [Rough Skin]
+moves:
+    - [Aqua Jet, Assurance]
+    - [Thief, Aqua Jet]
+    - [Poison Fang, Rock Tomb, Skull Bash]
+    - [Rage, Mimic, Torrent]
+separations:
+    - [Assurance, Thief]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 108, atk: 16, def: 128, spA: 0, spD: 128, spe: 128}
+
+species: Sharpedo
+setname: Special
+item: [null, Stone Plate]
+ability: [Speed Boost, Rough Skin]
+moves:
+    - [Hydro Pump, Surf, Super Fang]
+    - [Dark Pulse, Brine]
+    - [Ice Beam, Ancientpower, Hidden Power]
+    - [Focus Energy, Refresh, Roar, Scary Face, Spite, Taunt, Mimic]
+combinations:
+    - [Super Fang, Brine]
+    - [Stone Plate, Ancientpower]
+    - [Toxic Plate, Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Relaxed
+ivs: {hp: 2, atk: 2, def: 3, spA: 2, spD: 2, spe: 3}
+evs: {hp: 128, atk: 60, def: 128, spA: 20, spD: 172, spe: 0}

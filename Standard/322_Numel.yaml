@@ -1,0 +1,35 @@
+species: Numel
+setname: Special
+item: [Hard Stone, Sitrus Berry]
+ability: [Simple]
+moves:
+    - [Fire Blast]
+    - [Earth Power]
+    - [AncientPower, Hidden Power]
+    - [Growth, Amnesia]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Calm
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 176, spA: 0, spD: 80, spe: 0}
+
+species: Numel
+setname: Mixed
+item: [Starf Berry]
+ability: [Simple]
+moves:
+    - [Heat Wave]
+    - [Earthquake]
+    - [Stockpile]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Timid
+ivs: 31
+evs: {hp: 64, atk: 0, def: 64, spA: 64, spD: 64, spe: 252}
