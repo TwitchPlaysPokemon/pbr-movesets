@@ -19,7 +19,7 @@ ball: []
 species: Drowzee
 setname: Physical
 item: [Salec Berry]
-ability: [Inner Focux]
+ability: [Inner Focus]
 nature: Jolly
 ivs: 31
 evs: {hp: 88, atk: 78, def: 88, spA: 0, spD: 88, spe: 168}
