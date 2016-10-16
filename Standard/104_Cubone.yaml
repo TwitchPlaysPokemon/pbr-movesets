@@ -9,7 +9,7 @@ moves:
     - [Bone Rush, Bone Club]
     - [Thunder Punch, Ice Punch, Take Down]
     - [Aerial Ace, Low Kick]
-    - [Focus Energy, leer, Growl, Belly Drum, Perish Song]
+    - [Focus Energy, Leer, Growl, Belly Drum, Perish Song]
 combinations:
     - [Rock Head, Take Down]
 gender: [m, f]
@@ -26,7 +26,7 @@ nature: Careful
 ivs: 31
 evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
 moves:
-    - [Boomerang]
+    - [Bonemerang]
     - [Iron Tail]
     - [Body Slam, Fire Punch, Rock Slide]
     - [Iron Defense, Tail Whip, Captivate, Attract, Steath Rock]
