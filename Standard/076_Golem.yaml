@@ -4,7 +4,7 @@ item: []
 ability: [Sand Veil]
 nature: Calm
 ivs: 31
-evs: {hp: 100, atk: 100, def: 100, spA: , spD: 100, spe: 108}
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
 moves:
     - [Magnitude]
     - [Rollout]
