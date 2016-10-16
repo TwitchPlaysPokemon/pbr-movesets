@@ -17,7 +17,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 0.9
-ball: []
+ball: [Dive]
 ---
 species: Lapras
 setname: Physical
@@ -44,7 +44,7 @@ setname: Special
 item: [Splash Plate, Icicle Plate, Rawst Berry]
 ability: [Water Absorb, Shell Armor]
 nature: Naive
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 3, atk: 2, def: 2, spA: 3, spD: 3, spe: 3}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 12}
 moves:
     - [Blizzard, Ice Beam, Hidden Power]
@@ -52,7 +52,7 @@ moves:
     - [Thunderbolt, Psychic, Ancientpower, Dream Eater]
     - [Attract, Sing, Block, Captivate, Heal Bell, Mist]
 combinations:
-    - [Icicle Palte, Hidden Power]
+    - [Icicle Plate, Hidden Power]
     - [Rawst Berry, Surf]
 separations:
     - [Dream Eater, Attract]
