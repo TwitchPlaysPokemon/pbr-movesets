@@ -41,7 +41,7 @@ setname: Stall
 item: [White Herb]
 ability: [Inner Focus]
 nature: Jolly
-ivs: {hp: 88, atk: , def: , spA: , spD: , spe: }
+ivs: 31
 evs: {hp: 88, atk: 0, def: 84, spA: 0, spD: 108, spe: 228}
 moves:
     - [Double Edge]
