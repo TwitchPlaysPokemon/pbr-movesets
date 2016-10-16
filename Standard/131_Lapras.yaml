@@ -28,7 +28,7 @@ evs: {hp: 40, atk: 80, def: 40, spA: 192, spD: 40, spe: 116}
 moves:
     - [Aqua Tail, Waterfall, Dive]
     - [Ice Shard, Avalanche, Icy Wind]
-    - [Zen Headbutt, Giga Impact, Strength Outrage]
+    - [Zen Headbutt, Giga Impact, Strength, Outrage]
     - [Curse, Tickle, Heal Bell, Double Team, Dragon Dance]
 separations:
     - [Aqua Tail, Icy Wind]
