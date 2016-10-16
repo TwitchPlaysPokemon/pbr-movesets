@@ -27,7 +27,7 @@ setname: Special
 item: [Yellow Scarf, SilverPowder, Poison Barb]
 ability: [Static, Vital Spirit]
 nature: Impish
-ivs: 0
+ivs: {hp: 3, atk: 2, def: 2, spA: 2, spD: 2, spe: 3}
 evs: {hp: 128, atk: 0, def: 128, spA: 60, spD: 128, spe: 64}
 moves:
     - [Thunderbolt, Thunder, Discharge]
@@ -36,7 +36,7 @@ moves:
     - [Charge Beam, Counter, Double Team, Light Screen]
 combinations:
     - [SilverPowder, Signal Beam]
-    - [Poison Barb, Hidden Poison]
+    - [Poison Barb, Hidden Power]
 gender: [m, f]
 happiness: 255
 biddable: True
