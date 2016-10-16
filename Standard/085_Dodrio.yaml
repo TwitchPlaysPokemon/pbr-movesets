@@ -53,7 +53,7 @@ setname: Special
 item: [Sharp Beak]
 ability: [Early Bird]
 nature: Mild
-ivs: 0
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
 evs: {hp: 80, atk: 96, def: 40, spA: 252, spD: 40, spe: 0}
 moves:
     - [Tri Attack]
