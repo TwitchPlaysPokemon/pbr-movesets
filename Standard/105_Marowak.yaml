@@ -6,7 +6,7 @@ nature: Calm
 ivs: 31
 evs: {hp: 116, atk: 224, def: 56, spA: 0, spD: 56, spe: 56}
 moves:
-    - [Boomerang, Bone Club]
+    - [Bonemerang, Bone Club]
     - [Outrage, Body Slam, Take Down, Fire Punch]
     - [Ice Punch, Thunder Punch, Fling]
     - [Growl, Leer, Captivate, Sandstorm]
