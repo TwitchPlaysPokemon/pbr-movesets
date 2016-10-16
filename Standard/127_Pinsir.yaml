@@ -26,7 +26,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Net]
 
 species: Pinsir
 setname: X-Scissor
@@ -46,7 +46,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Safari]
 
 species: Pinsir
 setname: Mixed
@@ -75,4 +75,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Repeat]
