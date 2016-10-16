@@ -7,15 +7,15 @@ ivs: 8
 evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Thunder Punch]
-    - [Cross Chop, Iron Tail, Fire Punch, Ice Punch, Roling Kick]
+    - [Cross Chop, Iron Tail, Fire Punch, Ice Punch, Rolling Kick]
     - [Body Slam, Facade, Headbutt]
     - [Screech, Barrier, Meditate, Thunder Wave]
 combinations:
     - [Charcoal, Fire Punch]
     - [NeverMelt-Ice, Ice Punch]
-    - [Black Belt, Roling Kick, Thunder Wave]
+    - [Black Belt, Rolling Kick, Thunder Wave]
 separations:
-    - [Roling Kick, Body Slam]
+    - [Rolling Kick, Body Slam]
 gender: [m, f]
 happiness: 255
 biddable: True
