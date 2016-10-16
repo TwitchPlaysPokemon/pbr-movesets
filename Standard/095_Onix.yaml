@@ -11,20 +11,20 @@ moves:
     - [Flail, Curse]
     - [Substitute, Endure, Screech]
 combinations:
-    - [White Herb + Curse + Screech]
-    - [Liechi Berry + Flail]
+    - [White Herb, Curse, Screech]
+    - [Liechi Berry, Flail]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Dusk]
 
 species: Onix
 setname: Special
 item: [Choice Specs]
 ability: [Sturdy]
 nature: Modest
-ivs: {hp: 31, atk: 0, def: 30, spA: 30, spD: 39, spe: 31}
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 31}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 moves:
     - [Earth Power]
@@ -35,4 +35,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Heal]
