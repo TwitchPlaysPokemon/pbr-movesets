@@ -49,3 +49,4 @@ ball: []
 nature: 
 ivs: {hp: , atk: , def: , spA: , spD: , spe: }
 evs: {hp: , atk: , def: , spA: , spD: , spe: }
+---

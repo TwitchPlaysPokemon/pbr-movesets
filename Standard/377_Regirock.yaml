@@ -1,0 +1,26 @@
+species: Regirock
+setname: Standard
+item: [null, Hard Stone]
+ability: [Clear Body]
+moves:
+    - [Rock Throw, Rollout, Rock Slide, Ancientpower]
+    - [Focus Blast, Earth Power, Zap Cannon, Thunderbolt]
+    - [Body Slam, Brick Break, Ice Punch, Iron Head, Dig]
+    - [Sandstorm, Defense Curl, Sunny Day, Toxic, Lock-On, Safeguard, Charge Beam, Rock Polish]
+combinations:
+    - [Rollout, Defense Curl]
+    - [Hard Stone, Rock Throw]
+    - [Dig, Toxic]
+    - [Fire Punch, Sunny Day]
+    - [Rock Slide, Rock Polish]
+separations:
+    - [Focus Blast, Brick Break]
+    - [Earth Power, Dig]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Modest
+ivs: 0
+evs: {hp: 88, atk: 0, def: 0, spA: 220, spD: 84, spe: 116}

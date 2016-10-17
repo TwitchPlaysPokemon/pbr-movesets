@@ -1,0 +1,54 @@
+species: Whiscash
+setname: Physical
+item: [Soft Sand, Magnet]
+ability: [Oblivious, Anticipation, Hydration]
+moves:
+    - [Aqua Tail, Waterfall, Dive]
+    - [Magnitude]
+    - [Spark, Zen Headbutt, Bounce, Secret Power, Rock Slide]
+    - [Tickle, Toxic, Rock Tomb, Rain Dance]
+combinations:
+    - [Waterfall, Spark]
+    - [Hydration, Rain Dance]
+separations:
+    - [Rock Slide - Tickle]
+    - [Rock Slide - Toxic]
+    - [Rock Slide - Rain Dance]
+    - [Zen Headbutt - Tickle]
+    - [Zen Headbutt - Toxic]
+    - [Zen Headbutt - Rain Dance]
+    - [Aqua Tail - Toxic]
+    - [Waterfall - Toxic]
+    - [Spark - Rock Tomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Adamant
+ivs: 0
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Whiscash
+setname: Special
+item: [Destiny Knot, Splash Plate, Earth Plate, Grip Claw]
+ability: [Oblivious, Anticipation, Hydration]
+moves:
+    - [Surf, Water Pulse]
+    - [Earth Power, Mud Bomb]
+    - [Ice Beam, Hyper Beam, Future Sight, Hidden Power]
+    - [Amnesia, Sandstorm, Rain Dance, Attract, Protect, Whirlpool]
+combinations:
+    - [Splash Plate, Water Pulse]
+    - [Earth Plate, Mud Bomb]
+    - [Hydration, Rain Dance]
+    - [Future Sight, Protect]
+    - [Grip Claw, Whirlpool]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Rash
+ivs: 5
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}

@@ -1,0 +1,26 @@
+species: Registeel
+setname: Standard
+item: [Metal Coat, Hard Stone, Pinap Berry]
+ability: [Clear Body]
+moves:
+    - [Metal Claw, Iron Head, Flash Cannon, Hidden Power]
+    - [Thunderbolt, Focus Blast, Ancientpower, Zap Cannon]
+    - [Facade, Aerial Ace, Natural Gift, Rock Smash]
+    - [Stealth Rock, Rock Polish, Lock-On, Substitute, Psych Up, Safeguard]
+combinations:
+    - [Zap Cannon, Lock-On]
+    - [Hard Stone, Ancientpower]
+    - [Pinap Berry, Natural Gift]
+    - [Iron Head, Rock Polish]
+separations:
+    - [Metal Coat, Flash Cannon]
+    - [Metal Coat, Iron Head]
+    - [Iron Head, Zap Cannon]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Hardy
+ivs: {hp: 0, atk: 0, def: 1, spA: 3, spD: 2, spe: 3}
+evs: {hp: 80, atk: 120, def: 56, spA: 28, spD: 52, spe: 112}

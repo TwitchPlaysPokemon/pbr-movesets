@@ -1,0 +1,39 @@
+species: Latios
+setname: Special
+item: [Power Weight]
+ability: [Levitate]
+moves:
+    - [Luster Purge]
+    - [DragonBreath]
+    - [Trick]
+    - [Memento]
+combinations:
+    - []
+separations:
+    - []
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Modest
+ivs: 0
+evs: 0
+---
+species: Latios
+setname: Physical
+item: [null]
+ability: [Levitate]
+moves:
+    - [Dragon Claw, Outrage]
+    - [Zen Headbutt, Earthquake]
+    - [Fly, Waterfall, Shadow Claw]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Modest
+ivs: 0
+evs: 0

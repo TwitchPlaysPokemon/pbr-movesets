@@ -1,0 +1,23 @@
+species: Bagon
+setname: Standard
+item: [Haban Berry, Charcoal]
+ability: [Rock Head]
+moves:
+    - [Dragon Claw, Dragon Rush]
+    - [Double-Edge, Fire Fang, Brick Break, Shadow Claw]
+    - [Hydro Pump, Fire Blast]
+    - [Dragon Dance]
+combinations:
+    - [Charcoal, Fire Fang]
+    - [Silk Scarf, Double-Edge]
+separations:
+    - [Dragon Claw, Double-Edge]
+    - [Fire Fang, Fire Blast]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: Naughty
+ivs: 31
+evs: {hp: 76, atk: 36, def: 76, spA: 4, spD: 252, spe: 64}

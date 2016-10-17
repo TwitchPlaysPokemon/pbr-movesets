@@ -1,0 +1,35 @@
+species: Luvdisc
+setname: Physical
+item: [Wide Lens]
+ability: [Hydration, Swift Swim]
+moves:
+    - [Waterfall]
+    - [Bounce]
+    - [Toxic]
+    - [Sweet Kiss]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 176, def: 16, spA: 0, spD: 0, spe: 64}
+---
+species: Luvdisc
+setname: Special
+item: [Choice Specs]
+ability: [Hydration, Swift Swim]
+moves:
+    - [Hydro Pump]
+    - [Surf, Brine]
+    - [Blizzard, Ice Beam]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 0, spe: 128}

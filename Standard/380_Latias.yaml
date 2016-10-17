@@ -1,0 +1,40 @@
+species: Latias
+setname: Standard
+item: [Flame Orb, Micle Berry]
+ability: [Levitate]
+moves:
+    - [Mist Ball]
+    - [DragonBreath]
+    - [Facade, Steel Wing, Sucker Punch, Natural Gift, Body Slam]
+    - [Psycho Shift, Magic Coat, Charm, Light Screen]
+combinations:
+    - [Flame Orb, Facade, Psycho Shift]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 36, atk: 252, def: 36, spA: 36, spD: 36, spe: 36}
+---
+species: Latias
+setname: Soul Dew
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+    - [Twister]
+    - [Shock Wave, Charge Beam, Water Pulse, Waterfall]
+    - [Toxic, Last Resort, Mimic]
+    - [Healing Wish, Role Play, Endure]
+separations:
+    - [Last Resort, Healing Wish]
+    - [Mimic, Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 88}

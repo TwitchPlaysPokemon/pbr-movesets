@@ -1,0 +1,57 @@
+species: Seviper
+setname: Standard
+item: [Black Sludge]
+ability: [Shed Skin]
+moves:
+    - [Poison Tail, Poison Fang]
+    - [Flamethrower]
+    - [Glare]
+    - [Switcheroo]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Heal]
+nature: Brave
+ivs: 22
+evs: {hp: 32, atk: 180, def: 148, spA: 0, spD: 148, spe: 0}
+---
+species: Seviper
+setname: Physical
+item: [Rowap Berry, Jacoba Berry]
+ability: [Shed Skin]
+moves:
+    - [Poison Jab]
+    - [Earthquake, Aqua Tail, Iron Tail]
+    - [X-Scissor, Sucker Punch, Body Slam, Night Slash]
+    - [Screech, Scary Face, Snatch, Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Dusk]
+nature: Bashful
+ivs: 22
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+---
+species: Seviper
+setname: Special
+item: [Miracle Seed, Metal Coat, Silk Scarf]
+ability: [Shed Skin]
+moves:
+    - [Sludge Bomb]
+    - [Dark Pulse]
+    - [Giga Drain, Wring Out, Hidden Power, Spit Up]
+    - [Attract, Captivate, Toxic, Double Team, Stockpile]
+combinations:
+    - [Miracle Seed, Giga Drain]
+    - [Metal Coat, Hidden Power]
+    - [Spit Up, Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Luxury]
+nature: Quirky
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 14, spe: 15}
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}

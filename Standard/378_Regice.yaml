@@ -1,0 +1,24 @@
+species: Regice
+setname: Standard
+item: [null, NeverMelt-Ice, Hard Stone]
+ability: [Clear Body]
+moves:
+    - [Ice Punch, Avalanche, Icy Wind, Ice Beam]
+    - [Earthquake, Iron Head, Hammer Arm, Fling, Mega Kick]
+    - [Flash Cannon, Ancientpower, Thunderbolt, Zap Cannon, Toxic]
+    - [Hail, Lock-On, Block, Psych Up, Defense Curl, Rain Dance]
+combinations:
+    - [NeverMelt-Ice, Icy Wind, Iron Head]
+    - [Fling, Hard Stone]
+    - [Zap Cannon, Lock On]
+    - [Toxic, Block]
+separations:
+    - [Ice Beam, Flash Cannon]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Adamant
+ivs: 0
+evs: {hp: 88, atk: 220, def: 84, spA: 0, spD: 0, spe: 116}

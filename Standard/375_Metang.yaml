@@ -1,0 +1,19 @@
+species: Metang
+setname: Standard
+item: [null, Light Clay]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash, Flash Cannon]
+    - [Psychic, Zen Headbutt]
+    - [Shadow Ball, Sludge Bomb, Thunder Punch, Ice Punch, Rock Slide]
+    - [Scary Face, Bullet Punch, Magnet Rise, Double Team, Light Screen, Pursuit]
+combinations:
+    - [Light Clay, Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+nature: Quiet
+ivs: 31
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
