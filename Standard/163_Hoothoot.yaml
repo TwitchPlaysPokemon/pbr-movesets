@@ -35,4 +35,4 @@ rarity: 1.0
 ball: [Repeat]
 nature: Adamant
 ivs: 31
-evs: {hp: 128, atk: 252, def: 64, spA: 0, spD: 64, spe: 0
+evs: {hp: 128, atk: 252, def: 64, spA: 0, spD: 64, spe: 0}

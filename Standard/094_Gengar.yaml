@@ -22,7 +22,7 @@ item: [Null]
 ability: [Levitate]
 nature: Impish
 ivs: 0
-evs: {hp: 172, atk: 0, def: 168, spA: 0, spD: 168, spe: 0}}
+evs: {hp: 172, atk: 0, def: 168, spA: 0, spD: 168, spe: 0}
 moves:
     - [Shadow Ball]
     - [Sludge Bomb]

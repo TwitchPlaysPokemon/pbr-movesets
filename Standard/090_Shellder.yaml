@@ -2,7 +2,7 @@ species: Shellder
 setname: Physical
 item: [Rindo Berry, Wacan Berry]
 ability: [Skill Link]
-nature:Careful
+nature: Careful
 ivs: 31
 evs: {hp: 252, atk: 128, def: 0, spA: 0, spD: 128, spe: 0}
 moves:

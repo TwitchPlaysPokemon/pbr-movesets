@@ -2,7 +2,7 @@ species: Wobbuffet
 setname: Standard
 item: [Enigma Berry]
 ability: [Shadow Tag]
-moves:	
+moves:
     - [Counter]
     - [Mirror Coat]
     - [Tickle, Encore]
@@ -19,7 +19,7 @@ species: Wobbuffet
 setname: Attacker
 item: [Custap Berry, Zoom Lens]
 ability: [Shadow Tag]
-moves:	
+moves:
     - [Zen Headbutt]
     - [Psywave]
     - [Mirror Coat, Counter]

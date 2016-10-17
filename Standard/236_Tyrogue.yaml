@@ -38,4 +38,4 @@ rarity: 0.8
 ball: [Heal]
 nature: Jolly
 ivs: 31
-evs: evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

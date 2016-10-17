@@ -37,7 +37,7 @@ rarity: 1.0
 ball: [Premier]
 nature: Modest
 ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
-evs: {hp: 80, atk: 0, def: 24, spA: 252, spD: 24, spe: 128}	
+evs: {hp: 80, atk: 0, def: 24, spA: 252, spD: 24, spe: 128}
 
 species: Eevee
 setname: Last Resort
