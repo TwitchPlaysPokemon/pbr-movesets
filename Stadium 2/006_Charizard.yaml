@@ -1,5 +1,6 @@
 species: Charizard
 setname: Stadium 2
+ability: null
 moves:
     - Fire Punch
     - Wing Attack

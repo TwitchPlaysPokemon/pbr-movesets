@@ -1,6 +1,7 @@
 ingamename: SEEL-S2
 species: Seel
 setname: Stadium 2
+ability: null
 moves:
     - Surf
     - Ice Beam

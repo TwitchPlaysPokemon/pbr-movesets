@@ -1,5 +1,6 @@
 species: Squirtle
 setname: Stadium 2
+ability: null
 moves:
     - Surf
     - Bite

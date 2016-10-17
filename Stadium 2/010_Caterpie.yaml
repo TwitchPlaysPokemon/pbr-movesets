@@ -1,5 +1,6 @@
 species: Caterpie
 setname: Stadium 2
+ability: null
 moves:
     - Tackle
     - String Shot

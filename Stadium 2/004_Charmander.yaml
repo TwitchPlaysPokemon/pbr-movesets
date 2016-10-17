@@ -1,5 +1,6 @@
 species: Charmander
 setname: Stadium 2
+ability: null
 moves:
     - Flamethrower
     - Slash

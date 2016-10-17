@@ -1,5 +1,6 @@
 species: Kakuna
 setname: Stadium 2
+ability: null
 moves:
     - Harden
 gender: [m]

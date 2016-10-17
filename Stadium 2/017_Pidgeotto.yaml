@@ -1,5 +1,6 @@
 species: Pidgeotto
 setname: Stadium 2
+ability: null
 moves:
     - Fly
     - Frustration

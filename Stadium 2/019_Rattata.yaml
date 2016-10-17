@@ -1,5 +1,6 @@
 species: Rattata
 setname: Stadium 2
+ability: null
 moves:
     - Super Fang
     - Headbutt

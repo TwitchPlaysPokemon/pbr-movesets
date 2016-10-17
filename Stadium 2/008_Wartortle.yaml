@@ -1,5 +1,6 @@
 species: Wartortle
 setname: Stadium 2
+ability: null
 moves:
     - Waterfall
     - Icy Wind

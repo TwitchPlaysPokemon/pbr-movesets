@@ -1,5 +1,6 @@
 species: Weedle
 setname: Stadium 2
+ability: null
 moves:
     - Poison Sting
     - String Shot

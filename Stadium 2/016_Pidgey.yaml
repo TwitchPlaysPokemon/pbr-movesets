@@ -1,5 +1,6 @@
 species: Pidgey
 setname: Stadium 2
+ability: null
 moves:
     - Fly
     - Return

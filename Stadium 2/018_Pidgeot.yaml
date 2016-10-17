@@ -1,5 +1,6 @@
 species: Pidgeot
 setname: Stadium 2
+ability: null
 moves:
     - Fly
     - Swift

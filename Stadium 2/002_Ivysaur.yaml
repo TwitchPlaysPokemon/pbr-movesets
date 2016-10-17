@@ -1,5 +1,6 @@
 species: Ivysaur
 setname: Stadium 2
+ability: null
 moves:
     - Solarbeam
     - Fury Cutter

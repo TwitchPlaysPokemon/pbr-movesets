@@ -1,5 +1,6 @@
 species: Bulbasaur
 setname: Stadium 2
+ability: null
 moves:
     - [Razor Leaf]
     - [Headbutt]
