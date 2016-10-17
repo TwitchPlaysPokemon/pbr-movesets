@@ -17,7 +17,7 @@ ball: [Premier]
 nature: Brave
 ivs: 0
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Exploud
 setname: Physical
 item: [Cheri Berry, Light Ball]
@@ -37,7 +37,7 @@ ball: [Quick]
 nature: Adamant
 ivs: {hp: 8, atk: 31, def: 8, spA: 8, spD: 8, spe: 8}
 evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
-
+---
 species: Exploud
 setname: Snore
 item: [Life Orb]

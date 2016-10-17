@@ -19,7 +19,7 @@ ball: [Ultra]
 nature: Modest
 ivs: 0
 evs: {hp: 0, atk: 0, def: 60, spA: 252, spD: 60, spe: 136}
-
+---
 species: Hariyama
 setname: Mixed
 item: [Wide Lens]
@@ -41,7 +41,7 @@ ball: [Dive]
 nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 100, spA: 252, spD: 100, spe: 56}
-
+---
 species: Hariyama
 setname: Max Atk
 item: [King's Rock, Salac Berry]
@@ -61,7 +61,7 @@ ball: [Dusk]
 nature: Adamant
 ivs: 31
 evs: {hp: 120, atk: 252, def: 0, spA: 0, spD: 0, spe: 136}
-
+---
 species: Hariyama
 setname: RestTalk
 item: [null]

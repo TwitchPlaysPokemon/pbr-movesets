@@ -18,7 +18,7 @@ ball: [Luxury]
 nature: Quirky
 ivs: 14
 evs: {hp: 136, atk: 220, def: 36, spA: 4, spD: 28, spe: 84}
-
+---
 species: Cradily
 setname: Physical
 item: [Root Fossil]
@@ -36,7 +36,7 @@ ball: [Safari]
 nature: Docile
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Cradily
 setname: Special
 item: [Toxic Plate, Silk Scarf, Root Fossil]
@@ -57,7 +57,7 @@ ball: [Nest]
 nature: Quiet
 ivs: {hp: 12, atk: 12, def: 13, spA: 29, spD: 10, spe: 0}
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
-
+---
 species: Cradily
 setname: Nullify
 item: [Smooth Rock]
@@ -75,7 +75,7 @@ ball: [Dusk]
 nature: Jolly
 ivs: 18
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
-
+---
 species: Cradily
 setname: Flinch
 item: [King's Rock]
@@ -93,7 +93,7 @@ ball: [Quick]
 nature: Adamant
 ivs: 10
 evs: {hp: 44, atk: 172, def: 84, spA: 0, spD: 84, spe: 124}
-
+---
 species: Cradily
 setname: Constrict
 item: [Micle Berry, Watmel Berry]

@@ -15,7 +15,7 @@ separations:
 gender: [m, f]
 rarity: 1.0
 ball: [Timer]
-
+---
 species: Charizard
 setname: Belly Drum
 item: [Lum Berry]

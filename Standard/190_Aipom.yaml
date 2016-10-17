@@ -20,7 +20,7 @@ ball: [Quick]
 nature: Adamant
 ivs: 31
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
-
+---
 species: Aipom
 setname: Special
 item: [Silk Scarf]
@@ -36,7 +36,7 @@ ball: [Net]
 nature: Timid
 ivs: 31
 evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
-
+---
 species: Aipom
 setname: Skill Link
 item: [Muscle Band]

@@ -15,7 +15,7 @@ ball: [Dive]
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
 evs: {hp: 100, atk: 200, def: 80, spA: 68, spD: 0, spe: 60}
-
+---
 species: Mantine
 setname: Special
 item: [Wacan Berry, Mind Plate, Micle Berry]
@@ -39,7 +39,7 @@ ball: [Net]
 nature: Brave
 ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 1}
 evs: {hp: 100, atk: 0, def: 152, spA: 72, spD: 0, spe: 4}
-
+---
 species: Mantine
 setname: Physical
 item: [Sky Plate, Wacan Berry, Charti Berry]

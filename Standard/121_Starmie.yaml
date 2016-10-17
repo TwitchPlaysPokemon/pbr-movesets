@@ -19,7 +19,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Starmie
 setname: Slow
 item: [Iron Ball]
@@ -40,7 +40,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Starmie
 setname: Camouflage
 item: [null]

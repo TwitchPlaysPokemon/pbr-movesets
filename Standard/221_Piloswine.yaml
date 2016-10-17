@@ -16,7 +16,7 @@ ball: [Premier]
 nature: Modest
 ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
-
+---
 species: Piloswine
 setname: Special
 item: [Icy Rock, Smooth Rock, Soft Sand, Damp Mulch]
@@ -37,7 +37,7 @@ ball: [Timer]
 nature: Modest
 ivs: 10
 evs: {hp: 0, atk: 0, def: 128, spA: 128, spD: 128, spe: 124}
-
+---
 species: Piloswine
 setname: Speed Control
 item: [Wise Glasses]

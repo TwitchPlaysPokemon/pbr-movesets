@@ -24,7 +24,7 @@ ball: [Timer]
 nature: Adamant
 ivs: 31
 evs: {hp: 176, atk: 252, def: 0, spA: 0, spD: 0, spe: 80}
-
+---
 species: Nosepass
 setname: Special
 item: [Expert Belt, Zap Plate, Sitrus Berry]

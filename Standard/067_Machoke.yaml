@@ -25,7 +25,7 @@ ball: []
 nature: Bold
 ivs: 31
 evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
-
+---
 species: Machoke
 setname: Special
 item: [null]

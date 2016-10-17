@@ -16,7 +16,7 @@ ball: [Luxury]
 nature: Naughty
 ivs: {hp: 0, atk: 0, def: 1, spA: 1, spD: 3, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Lugia
 setname: Physical
 item: [Iron Ball]
@@ -33,7 +33,7 @@ ball: [Dive]
 nature: Rash
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Lugia
 setname: Overpowered
 item: [Iron Ball]

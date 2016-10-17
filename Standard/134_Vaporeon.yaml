@@ -13,7 +13,7 @@ ball: [Dive]
 nature: Docile
 ivs: 12
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Vaporeon
 setname: Physical
 ability: [Hydration]
@@ -28,7 +28,7 @@ ball: [Net]
 nature: Hasty
 ivs: 31
 evs: {hp: 0, atk: 72, def: 0, spA: 96, spD: 0, spe: 0}
-
+---
 species: Vaporeon
 setname: High Stats
 item: [Silk Scarf]

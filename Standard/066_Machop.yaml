@@ -17,7 +17,7 @@ ball: []
 nature: Adamant
 ivs: 26
 evs: {hp: 88, atk: 88, def: 124, spA: 0, spD: 124, spe: 84}
-
+---
 species: Machop
 setname: Guts
 item: [Flame Orb, Toxic Orb]
@@ -37,7 +37,7 @@ ball: []
 nature: Careful
 ivs: 0.9
 evs: {hp: 124, atk: 128, def: 128, spA: 0, spD: 128, spe: 0}
-
+---
 species: Machop
 setname: Special
 item: [Fist Plate, Petaya Berry, Salac Berry]

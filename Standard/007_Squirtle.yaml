@@ -15,7 +15,7 @@ combinations:
     - [Blackbelt, Aura Sphere]
     - [Yawn, Protect]
 gender: [m, f]
-
+---
 species: Squirtle
 setname: Physical
 item: [Muscle Band, Liechi Berry, Light Ball, Damp Rock]

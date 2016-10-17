@@ -15,7 +15,7 @@ ball: [Ultra]
 nature: Adamant
 ivs: 31
 evs: {hp: 72, atk: 140, def: 40, spA: 200, spD: 20, spe: 36}
-
+---
 species: Flygon
 setname: Physical
 item: [TM59, Salac Berry]
@@ -35,7 +35,7 @@ ball: [Luxury]
 nature: Docile
 ivs: 0
 evs: {hp: 108, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
-
+---
 species: Flygon
 setname: Special
 item: [Gooey Mulch, Miracle Seed, Spell Tag, Scope Lens]
@@ -59,7 +59,7 @@ ball: [Nest]
 nature: Brave
 ivs: 0
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
-
+---
 species: Flygon
 setname: Swords Dance
 item: [Nomel Berry, Hondew Berry]

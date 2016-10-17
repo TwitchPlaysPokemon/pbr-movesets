@@ -21,7 +21,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Quick]
-
+---
 species: Magmar
 setname: Special
 item: [Red Shard]
@@ -39,7 +39,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Timer]
-
+---
 species: Magmar
 setname: Stall
 item: [Flame Plate]

@@ -19,7 +19,7 @@ ball: [Premier]
 nature: Jolly
 ivs: 31
 evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
-
+---
 species: Snubbull
 setname: Special
 item: [Sitrus Berry]
@@ -37,7 +37,7 @@ ball: [Luxury]
 nature: Modest
 ivs: 31
 evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
-
+---
 species: Snubbull
 setname: Salt
 item: [Lum Berry]

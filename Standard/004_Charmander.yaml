@@ -16,7 +16,7 @@ combinations:
     - [Hard Stone, Rock Slide]
     - [Solar Power, Sunny Day]
 gender: [m, f]
-
+---
 species: Charmander
 setname: Special
 item: [Chesto Berry, Petaya Berry, Salac Berry]
@@ -32,7 +32,7 @@ moves:
 combinations:
     - [Chesto Berry + Rest]
 gender: [m, f]
-
+---
 species: Charmander
 setname: Token
 item: [Charcoal, Cheri Berry]

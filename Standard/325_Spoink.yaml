@@ -15,7 +15,7 @@ ball: [Luxury]
 nature: Calm
 ivs: 31
 evs: {hp: 168, atk: 0, def: 172, spA: 0, spD: 84, spe: 84}
-
+---
 species: Spoink
 setname: Physical
 item: [Choice Band]

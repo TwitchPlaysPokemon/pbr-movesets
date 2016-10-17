@@ -19,7 +19,7 @@ ball: [Dusk]
 nature: Timid
 ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
-
+---
 species: Cacnea
 setname: Physical
 item: [Rawst Berry, Miracle Seed, Zoom Lens, Black Belt]

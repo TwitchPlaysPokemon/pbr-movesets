@@ -16,7 +16,7 @@ ball: [Quick]
 nature: Docile
 ivs: 6
 evs: {hp: 100, atk: 24, def: 108, spA: 84, spD: 84, spe: 108}
-
+---
 species: Aerodactyl
 setname: Physical
 item: [Old Amber, Sharp Beak, Magnet, NeverMelt-Ice, Charcoal]
@@ -38,7 +38,7 @@ ball: [Timer]
 nature: Relaxed
 ivs: 0
 evs: {hp: 40, atk: 0, def: 116, spA: 0, spD: 120, spe: 0}
-
+---
 species: Aerodactyl
 setname: Special
 item: [Old Amber]
@@ -54,7 +54,7 @@ ball: [Quick]
 nature: Quiet
 ivs: 15
 evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
-
+---
 species: Aerodactyl
 setname: Stall
 item: [Smooth Rock]

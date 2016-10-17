@@ -17,7 +17,7 @@ ball: []
 nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
-
+---
 species: Tentacruel
 setname: High Special
 item: [Toxic Plate]

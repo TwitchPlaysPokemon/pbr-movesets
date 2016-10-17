@@ -19,7 +19,7 @@ happiness: 255
 biddable: True
 rarity: 0.8
 ball: []
-
+---
 species: Tangela
 setname: Physical
 item: [Null]
@@ -42,7 +42,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Tangela
 setname: Setup
 item: [Miracle Seed]

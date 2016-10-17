@@ -14,7 +14,7 @@ ball: [Premier]
 nature: Hasty
 ivs: 11
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Porygon2
 setname: Download
 item: [Spooky Plate, Mind Plate]

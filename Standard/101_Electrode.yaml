@@ -17,7 +17,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Electrode
 setname: Physical
 item: [White Herb, Flame Orb]
@@ -36,7 +36,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
-
+---
 species: Electrode
 setname: Sonic Boom
 item: [Durin Berry]

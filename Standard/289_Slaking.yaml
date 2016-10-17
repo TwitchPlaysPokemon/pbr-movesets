@@ -19,7 +19,7 @@ ball: [Premier]
 nature: Adamant
 ivs: 31
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
-
+---
 species: Slaking
 setname: Stall
 item: [Splash Plate]
@@ -37,7 +37,7 @@ ball: [Ultra]
 nature: Hasty
 ivs: 0
 evs: {hp: 0, atk: 0, def: 4, spA: 0, spD: 0, spe: 0}
-
+---
 species: Slaking
 setname: Overpowered
 item: [null]

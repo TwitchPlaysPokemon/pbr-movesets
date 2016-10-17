@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Exeggutor
 setname: Special
 item: [Silk Scarf, Black Belt, Hard Stone]
@@ -40,7 +40,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Exeggutor
 setname: Physical
 item: [Scope Lens, Sitrus Berry]

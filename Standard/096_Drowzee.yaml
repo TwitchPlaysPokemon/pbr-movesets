@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Drowzee
 setname: Physical
 item: [Salec Berry]
@@ -33,7 +33,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Drowzee
 setname: Dream Eater
 item: [Tanga Berry]

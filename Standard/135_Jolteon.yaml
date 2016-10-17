@@ -22,7 +22,7 @@ ball: [Quick]
 nature: Adamant
 ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 0, spe: 0}
 evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
-
+---
 species: Jolteon
 setname: Baton Pass
 item: [Power Herb]

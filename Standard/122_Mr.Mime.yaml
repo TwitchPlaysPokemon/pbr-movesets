@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Mr. Mime
 setname: Physical
 item: [null]
@@ -33,7 +33,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Mr. Mime
 setname: Copycat
 item: [Dread Plate]

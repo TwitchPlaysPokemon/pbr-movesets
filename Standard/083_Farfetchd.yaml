@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Farfetch'd
 setname: Special
 item: [Stick]
@@ -35,7 +35,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Farfetch'd
 setname: Stall
 item: [White Herb]

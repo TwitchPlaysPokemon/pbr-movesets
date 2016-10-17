@@ -14,7 +14,7 @@ ball: [Heal]
 nature: Adamant
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Arceus
 setname: Judgment
 item: [Mind Plate]
@@ -24,7 +24,7 @@ moves:
     - [Draco Meteor, Signal Beam]
     - [Fly, Aqua Tail]
     - [Trick Room, Toxic]
-seperations:
+separations:
     - [Aqua Tail, Toxic]
 happiness: 255
 biddable: True

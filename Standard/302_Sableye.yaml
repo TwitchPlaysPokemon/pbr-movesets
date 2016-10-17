@@ -17,7 +17,7 @@ ball: [Luxury]
 nature: Jolly
 ivs: {hp: 13, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 124, def: 128, spA: 0, spD: 128, spe: 128}
-
+---
 species: Sableye
 setname: Special
 item: [Oran Berry, Salac Berry, Magnet]
@@ -39,7 +39,7 @@ ball: [Dusk]
 nature: Naive
 ivs: 31
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Sableye
 setname: Stall
 item: [Cheri Berry, Splash Plate, Stone Plate, Lagging Tail]
@@ -61,7 +61,7 @@ ball: [Timer]
 nature: Quiet
 ivs: 31
 evs: {hp: 252, atk: , def: 44, spA: 168, spD: 44, spe: 0}
-
+---
 species: Sableye
 setname: Ability Steal
 item: [null]

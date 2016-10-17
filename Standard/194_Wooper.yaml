@@ -16,7 +16,7 @@ ball: [Dive]
 nature: Adamant
 ivs: 31
 evs: {hp: 84, atk: 252, def: 44, spA: 0, spD: 128, spe: 0}
-
+---
 species: Wooper
 setname: Special
 item: [Salac Berry, Zoom Lens, Soft Sand]

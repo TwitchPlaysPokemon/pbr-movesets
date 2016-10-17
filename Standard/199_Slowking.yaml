@@ -19,7 +19,7 @@ ball: [Dive]
 nature: Brave
 ivs: 8
 evs: {hp: 84, atk: 172, def: 84, spA: 84, spD: 84, spe: 0}
-
+---
 species: Slowking
 setname: Special
 item: [Blue Scarf, Sea Incense]
@@ -35,7 +35,7 @@ ball: [Heal]
 nature: Modest
 ivs: 0
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
-
+---
 species: Slowking
 setname: Physical
 item: [Berry Juice, Rare Bone, Lagging Tail]

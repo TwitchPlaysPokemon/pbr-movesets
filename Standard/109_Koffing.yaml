@@ -18,7 +18,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species:  Koffing
 setname: Physical
 item: [Macho Brace]

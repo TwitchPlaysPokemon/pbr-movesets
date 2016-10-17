@@ -20,7 +20,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Slowbro
 setname: Special
 item: [Mystic Water]
@@ -38,7 +38,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Slowbro
 setname: Physical
 item: [Oran Berry, Full Incense]

@@ -19,7 +19,7 @@ ball: [Great]
 nature: Quiet
 ivs: 31
 evs: {hp: 148, atk: 80, def: 100, spA: 0, spD: 100, spe: 80}
-
+---
 species: Croconaw
 setname: Special
 item: [King's Rock]

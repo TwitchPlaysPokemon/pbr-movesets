@@ -13,7 +13,7 @@ moves:
 gender: [m, f]
 rarity: 1.0
 ball: [Ultra]
-
+---
 species: Blastoise
 setname: Physical
 item: [Iron Ball]
@@ -33,7 +33,7 @@ separations:
 gender: [m, f]
 rarity: 1.0
 ball: [Ultra]
-
+---
 species: Blastoise
 setname: Stall
 item: [Damp Rock]

@@ -18,7 +18,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Dive]
-
+---
 species: Slowpoke
 setname: Special
 item: [Life Orb]

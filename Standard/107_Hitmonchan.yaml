@@ -21,7 +21,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Premier]
-
+---
 species: Hitmonchan
 setname: Mixed
 item: [Null]
@@ -41,7 +41,7 @@ happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Heal]
-
+---
 species: Hitmonchan
 setname: Comet
 item: [King's Rock]

@@ -17,7 +17,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Shellder
 setname: Special
 item: [Wide Lens, Expert Belt]

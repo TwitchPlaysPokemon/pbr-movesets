@@ -12,7 +12,7 @@ ball: [Repeat]
 nature: Rash
 ivs: 27
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Zapdos
 setname: Special
 item: [Macho Brace]
@@ -35,7 +35,7 @@ ball: [Timer]
 nature: Jolly
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 40, spA: 4, spD: 40, spe: 252}
-
+---
 species: Zapdos
 setname: Baton Pass
 item: [Apicot Berry]
@@ -53,7 +53,7 @@ ball: [Ultra]
 nature: Naughty
 ivs: 31
 evs: {hp: 16, atk: 124, def: 16, spA: 16, spD: 16, spe: 16}
-
+---
 species: Zapdos
 setname: Overpowered
 item: [Air Mail]

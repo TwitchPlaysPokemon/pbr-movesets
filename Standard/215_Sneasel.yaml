@@ -18,7 +18,7 @@ ball: [Premier]
 nature: Quiet
 ivs: 31
 evs: {hp: 16, atk: 108, def: 16, spA: 252, spD: 16, spe: 16}
-
+---
 species: Sneasel
 setname: Special
 ability: [Keen Eye, Inner Focus]
@@ -33,7 +33,7 @@ ball: [Dusk]
 nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 96, atk: 0, def: 160, spA: 252, spD: 0, spe: 0}
-
+---
 species: Sneasel
 setname: Slow
 item: [Iron Ball]

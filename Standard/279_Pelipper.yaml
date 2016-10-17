@@ -18,7 +18,7 @@ ball: [Ultra]
 nature: Timid
 ivs: 13
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
-
+---
 species: Pelipper
 setname: Rain Dish
 item: [Damp Rock]
@@ -36,7 +36,7 @@ ball: [Dive]
 nature: Calm
 ivs: 15
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 108, spe: 100}
-
+---
 species: Pelipper
 setname: Physical
 item: [Choice Band]
@@ -54,7 +54,7 @@ ball: [Net]
 nature: Adamant
 ivs: 27
 evs: {hp: 168, atk: 172, def: 0, spA: 0, spD: 168, spe: 0}
-
+---
 species: Pelipper
 setname: Stockpile
 item: [Leftovers]

@@ -13,7 +13,7 @@ ball: [Ultra]
 nature: Adamant
 ivs: 0
 evs: {hp: 68, atk: 68, def: 68, spA: 68, spD: 68, spe: 68}
-
+---
 species: Typhlosion
 setname: Special
 item: [Passho Berry, Shuca Berry, Charti Berry]
@@ -31,7 +31,7 @@ ball: [Ultra]
 nature: Hardy
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Typhlosion
 setname: Physical
 item: [Lum Berry, Charcoal, King's Rock]

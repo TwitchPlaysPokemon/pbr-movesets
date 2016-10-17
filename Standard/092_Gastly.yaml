@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Gastly
 setname: Physical
 item: [Focus Sash]

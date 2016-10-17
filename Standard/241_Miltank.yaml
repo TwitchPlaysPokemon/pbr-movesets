@@ -15,7 +15,7 @@ ball: [Timer]
 nature: Lonely
 ivs: 31
 evs: {hp: 40, atk: 252, def: 0, spA: 0, spD: 0, spe: 40}
-
+---
 species: Miltank
 setname: Thick Fat
 item: [Calcium]
@@ -33,7 +33,7 @@ ball: [Premier]
 nature: Quirky
 ivs: 31
 evs: {hp: 0, atk: 64, def: 64, spA: 252, spD: 64, spe: 64}
-
+---
 species: Miltank
 setname: Whitney
 item: [Lum Berry]

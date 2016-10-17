@@ -17,7 +17,7 @@ ball: [Luxury]
 nature: 
 ivs: {hp: , atk: , def: , spA: , spD: , spe: }
 evs: {hp: , atk: , def: , spA: , spD: , spe: }
-
+---
 species: Kingdra
 setname: Critter
 item: [Scope Lens]

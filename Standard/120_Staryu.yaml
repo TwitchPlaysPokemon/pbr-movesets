@@ -18,7 +18,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Staryu
 setname: Physical
 item: [Muscle Band, Liechi Berry, Sitrus Berry]

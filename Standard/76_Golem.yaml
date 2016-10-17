@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Golem
 setname: High Attack
 item: [Persim Berry, Shuca Berry]
@@ -33,7 +33,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Golem
 setname: Golem-Special
 item: [Rindo Berry, Smooth Rock, Passho Berry]

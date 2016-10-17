@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Cloyster
 setname: Physical
 item: [Grip Claw, Icicle Plate]
@@ -42,7 +42,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Cloyster
 setname: Special
 item: [Bubble Mail, NeverMelt-Ice, Soft Sand]

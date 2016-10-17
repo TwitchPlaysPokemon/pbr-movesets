@@ -17,7 +17,7 @@ ball: [Dusk]
 nature: Careful
 ivs: 31
 evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 136, spe: 120}
-
+---
 species: Lairon
 setname: Mixed
 item: [Mystic Water]

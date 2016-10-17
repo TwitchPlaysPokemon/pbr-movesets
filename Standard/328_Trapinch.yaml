@@ -18,7 +18,7 @@ ball: [Poké]
 nature: Adamant
 ivs: 31
 evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
-
+---
 species: Trapinch
 setname: Special
 item: [Custap Berry]

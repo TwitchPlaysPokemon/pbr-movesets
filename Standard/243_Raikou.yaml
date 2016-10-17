@@ -27,7 +27,7 @@ ball: [Cherish]
 nature: Adamant
 ivs: 0
 evs: {hp: 0, atk: 100, def: 20, spA: 0, spD: 0, spe: 20}
-
+---
 species: Raikou
 setname: Overpowered
 item: [null]

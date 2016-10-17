@@ -15,7 +15,7 @@ ball: [Heal]
 nature: Careful
 ivs: 31
 evs: {hp: 168, atk: 120, def: 96, spA: 0, spD: 124, spe: 0}
-
+---
 species: Skitty
 setname: Special
 item: [Wide Lens]
@@ -36,7 +36,7 @@ ball: [Luxury]
 nature: Modest
 ivs: 31
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
-
+---
 species: Skitty
 setname: Cute Charm
 item: [Muscle Band]

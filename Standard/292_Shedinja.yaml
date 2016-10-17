@@ -25,7 +25,7 @@ ball: [Quick]
 nature: Jolly
 ivs: 31
 evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
-
+---
 species: Shedinja
 setname: Mixed
 item: [Spell Tag, Silverpowder]
@@ -43,7 +43,7 @@ ball: [Luxury]
 nature: Mild
 ivs: 31
 evs: {hp: 0, atk: 88, def: 0, spA: 252, spD: 0, spe: 168}
-
+---
 species: Shedinja
 setname: Pivot
 item: [Choice Band]
@@ -61,7 +61,7 @@ ball: [Heal]
 nature: 
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Shedinja
 setname: Token
 item: [Focus Band, Lum Berry]

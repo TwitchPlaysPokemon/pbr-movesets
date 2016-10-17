@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Luxury]
-
+---
 species: Kangaskhan
 setname: Toxic Orb
 item: [Toxic Orb]
@@ -33,7 +33,7 @@ happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Safari]
-
+---
 species: Kangaskhan
 setname: RagePunch
 item: [Wide Lens]

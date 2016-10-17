@@ -16,7 +16,7 @@ ball: [Repeat]
 nature: Adamant
 ivs: 31
 evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
-
+---
 species: Sentret
 setname: Special
 item: [Salac Berry]

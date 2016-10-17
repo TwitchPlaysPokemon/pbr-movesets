@@ -17,7 +17,7 @@ ball: []
 nature: Bashful
 ivs: {hp: 5, atk: 31, def: 5, spA: 31, spD: 5, spe: 20}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Poliwrath
 setname: Physical
 item: [Cheri Berry, Power Herb, Chilan Berry, Aspear Berry]
@@ -42,7 +42,7 @@ ball: []
 nature: Docile
 ivs: 0
 evs: {hp: 80, atk: 32, def: 84, spA: 0, spD: 84, spe: 84}
-
+---
 species: Poliwrath
 setname: Special
 item: [Oran Berry, Blackbelt, Mystic Water, Soft Sand]

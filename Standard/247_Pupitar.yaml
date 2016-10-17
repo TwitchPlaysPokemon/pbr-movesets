@@ -15,7 +15,7 @@ ball: [Great]
 nature: Careful
 ivs: 11
 evs: {hp: 128, atk: 64, def: 64, spA: 0, spD: 128, spe: 124}
-
+---
 species: Pupitar
 setname: Special
 item: [Hard Stone]
@@ -33,7 +33,7 @@ ball: [Dusk]
 nature: Modest
 ivs: 19
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
-
+---
 species: Pupitar
 setname: Facade
 item: [Toxic Orb]

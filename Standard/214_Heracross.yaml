@@ -18,7 +18,7 @@ ball: [Safari]
 nature: Bold
 ivs: 10
 evs: {hp: 124, atk: 72, def: 72, spA: 72, spD: 84, spe: 84}
-
+---
 species: Heracross
 setname: Powerhouse
 item: [Iron Ball]
@@ -34,7 +34,7 @@ ball: [Dusk]
 nature: Modest
 ivs: 0
 evs: {hp: 0, atk: 4, def: 60, spA: 8, spD: 0, spe: 0}
-
+---
 species: Heracross
 setname: Special
 item: [Silverpowder]

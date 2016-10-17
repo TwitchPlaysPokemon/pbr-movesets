@@ -19,7 +19,7 @@ ball: [Great]
 nature: Modest
 ivs: 16
 evs: {hp: 100, atk: , def: 100, spA: 108, spD: 100, spe: 100}
-
+---
 species: Dragonair
 setname: Marvel Scale
 ability: [Marvel Scale]

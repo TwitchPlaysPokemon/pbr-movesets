@@ -15,7 +15,7 @@ combinations:
     - [Chesto Berry, Rest]
     - [Petal Dance, Poison Barb]
 gender: [m, f]
-
+---
 species: Bulbasaur
 setname: Physical 
 item: [Salac Berry, Power Herb]

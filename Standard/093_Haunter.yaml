@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Haunter
 setname: Physical
 item: [Poison Barb]
@@ -33,7 +33,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Haunter
 setname: Annoyer
 item: [Null]

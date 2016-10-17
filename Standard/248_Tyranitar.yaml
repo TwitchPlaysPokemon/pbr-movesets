@@ -17,7 +17,7 @@ ball: [Dusk]
 nature: Jolly
 ivs: 0
 evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 52}
-
+---
 species: Tyranitar
 setname: Special
 item: [Chople Berry, Passho Berry, Shuca Berry, Hard Stone]
@@ -41,7 +41,7 @@ ball: [Ultra]
 nature: Modest
 ivs: 0
 evs: {hp: 0, atk: 0, def: 20, spA: 4, spD: 20, spe: 52}
-
+---
 species: Tyranitar
 setname: Overpowered
 item: [Tunnel Mail, Hard Stone]

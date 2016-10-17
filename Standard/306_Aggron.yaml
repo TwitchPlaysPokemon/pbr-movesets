@@ -19,7 +19,7 @@ ball: [Premier]
 nature: Careful
 ivs: 31
 evs: {hp: 168, atk: 168, def: 0, spA: 0, spD: 172, spe: 0}
-
+---
 species: Aggron
 setname: Special
 item: [Stone Plate, Destiny Knot, Mental Herb]
@@ -44,7 +44,7 @@ ball: [Dusk]
 nature: Modest
 ivs: 31
 evs: {hp: 164, atk: 0, def: 0, spA: 196, spD: 108, spe: 40}
-
+---
 species: Aggron
 setname: Physical
 item: [Micle Berry]

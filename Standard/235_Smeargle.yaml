@@ -17,7 +17,7 @@ ball: [Master]
 nature: Adamant
 ivs: 31
 evs: {hp: 80, atk: 252, def: 48, spA: 0, spD: 48, spe: 80}
-
+---
 species: Smeargle
 setname: Special
 item: [Wise Glasses]
@@ -38,7 +38,7 @@ ball: [Master]
 nature: Modest
 ivs: 31
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
-
+---
 species: Smeargle
 setname: Weather
 item: [Silk Scarf]
@@ -56,7 +56,7 @@ ball: [Dive]
 nature: Adamant
 ivs: 31
 evs: {hp: 80, atk: 252, def: 48, spA: 0, spD: 48, spe: 80}
-
+---
 species: Smeargle
 setname: Priority
 item: [Sitrus Berry]

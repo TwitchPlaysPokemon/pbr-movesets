@@ -11,7 +11,7 @@ moves:
     - [Miracle Eye]
 rarity: 0.5
 ball: [Master]
-
+---
 species: Mewtwo
 setname: Fling
 item: [Iron Ball, Poison Barb]
@@ -26,7 +26,7 @@ moves:
     - [Recycle]
 rarity: 0.1
 ball: [Premier]
-
+---
 species: Mewtwo
 setname: Overpowered
 item: [Iron Ball]

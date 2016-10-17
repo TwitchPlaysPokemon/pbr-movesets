@@ -15,7 +15,7 @@ ball: [Premier]
 nature: Timid
 ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
 evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 0, spe: 172}
-
+---
 species: Electrike
 setname: Physical
 item: [Choice Band]

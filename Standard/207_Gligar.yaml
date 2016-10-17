@@ -17,7 +17,7 @@ ball: [Dusk]
 nature: Jolly
 ivs: 9
 evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
-
+---
 species: Gligar
 setname: Special
 item: [Brightpowder, Smooth Rock]
@@ -35,7 +35,7 @@ ball: [Net]
 nature: Modest
 ivs: 31
 evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 128, spe: 0}
-
+---
 species: Gligar
 setname: Stall
 item: [Silk Scarf, Hard Stone, Wide Lens]

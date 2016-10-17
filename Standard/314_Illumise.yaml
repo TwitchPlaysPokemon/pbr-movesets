@@ -15,7 +15,7 @@ ball: [Net]
 nature: Adamant
 ivs: 31
 evs: {hp: 40, atk: 252, def: 44, spA: 0, spD: 44, spe: 128}
-
+---
 species: Illumise
 setname: Special
 item: [Cheri Berry, Silverpowder]

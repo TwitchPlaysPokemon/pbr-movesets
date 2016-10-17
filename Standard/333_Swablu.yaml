@@ -17,7 +17,7 @@ ball: [Luxury]
 nature: Modest
 ivs: 31
 evs: {hp: 108, atk: 0, def: 0, spA: 252, spD: 0, spe: 148}
-
+---
 species: Swablu
 setname: Physical
 item: [Choice Scarf]
@@ -35,7 +35,7 @@ ball: [Nest]
 nature: Adamant
 ivs: 31
 evs: {hp: 176, atk: 252, def: 0, spA: 0, spD: 0, spe: 80}
-
+---
 species: Swablu
 setname: Stall
 item: [Sitrus Berry]

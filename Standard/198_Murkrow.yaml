@@ -16,7 +16,7 @@ ball: [Net]
 nature: Timid
 ivs: 31
 evs: {hp: 240, atk: 0, def: 108, spA: 0, spD: 108, spe: 52}
-
+---
 species: Murkrow
 setname: Physical
 ability: [Super Luck, Insomnia]

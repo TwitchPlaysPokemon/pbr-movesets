@@ -15,7 +15,7 @@ ball: [Heal]
 nature: Bold
 ivs: 16
 evs: {hp: 85, atk: 0, def: 170, spA: 0, spD: 170, spe: 85}
-
+---
 species: Medicham
 setname: Special
 item: [null]

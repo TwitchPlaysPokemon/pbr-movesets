@@ -14,7 +14,7 @@ ball: [Dusk]
 nature: Brave
 ivs: 31
 evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
-
+---
 species: Arceus
 setname: Judgment
 item: [Toxic Plate]

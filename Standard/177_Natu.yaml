@@ -13,7 +13,7 @@ ball: [Repeat]
 nature: Timid
 ivs: 31
 evs: {hp: 120, atk: 68, def: 80, spA: 80, spD: 80, spe: 80}
-
+---
 species: Natu
 setname: Physical
 item: [Muscle Band]

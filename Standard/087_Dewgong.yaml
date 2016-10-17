@@ -18,7 +18,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Dewgong
 setname: Hydration
 item: [Big Root]
@@ -36,7 +36,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Dewgong
 setname: Ice Body
 item: [Icy Rock]

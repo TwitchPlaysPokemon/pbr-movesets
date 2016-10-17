@@ -20,7 +20,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Rapidash
 setname: Physical
 item: [null, Pomeg Berry, Liechi Berry]

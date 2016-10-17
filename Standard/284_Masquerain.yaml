@@ -21,7 +21,7 @@ ball: [Dive]
 nature: Timid
 ivs: 23
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Masquerain
 setname: Physical
 item: [Insect Plate, Sky Plate, Toxic Orb, Apicot Berry]
@@ -43,7 +43,7 @@ ball: [Nest]
 nature: Adamant
 ivs: 31
 evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
-
+---
 species: Masquerain
 setname: Beam
 item: [Power Herb]

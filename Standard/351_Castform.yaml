@@ -15,7 +15,7 @@ ball: [Premier]
 nature: Timid
 ivs: 15
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Castform
 setname: Special
 item: [Chople Berry, Salac Berry, Chesto Berry, Sitrus Berry]
@@ -40,7 +40,7 @@ ball: [Premier]
 nature: Rash
 ivs: 31
 evs: {hp: 80, atk: 168, def: 128, spA: 108, spD: 0, spe: 24}
-
+---
 species: Castform
 setname: Physical
 item: [Durin Berry, Watmel Berry, Ganlon Berry, Liechi Berry]

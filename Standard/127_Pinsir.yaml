@@ -27,7 +27,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Net]
-
+---
 species: Pinsir
 setname: X-Scissor
 item: [null]
@@ -47,7 +47,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Safari]
-
+---
 species: Pinsir
 setname: Mixed
 item: [Silverpowder, Metronome, King's Rock]

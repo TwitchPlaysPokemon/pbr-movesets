@@ -17,7 +17,7 @@ ball: [Dusk]
 nature: Adamant
 ivs: 31
 evs: {hp: 252, atk: 0, def: 88, spA: 0, spD: 88, spe: 80}
-
+---
 species: Larvitar
 setname: Special
 item: [Smooth Rock]

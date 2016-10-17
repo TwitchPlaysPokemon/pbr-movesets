@@ -22,7 +22,7 @@ ball: [Timer]
 nature: Adamant
 ivs: 31
 evs: {hp: 208, atk: 172, def: 64, spA: 0, spD: 64, spe: 0}
-
+---
 species: Baltoy
 setname: Special
 item: [Sitrus Berry]
@@ -40,7 +40,7 @@ ball: [Heal]
 nature: Modest
 ivs: 31
 evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
-
+---
 species: Baltoy
 setname: Explosion
 item: [Light Clay]

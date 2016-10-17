@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Doduo
 setname: Grounded
 item: [Cheri Berry, Sharp Beak]
@@ -36,7 +36,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Duduo
 setname: Mixed
 item: [Focus Sash]

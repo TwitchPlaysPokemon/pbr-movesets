@@ -17,7 +17,7 @@ ball: [Dive]
 nature: Bold
 ivs: 14
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Qwilfish
 setname: Swift Swim
 item: [Damp Rock]
@@ -35,7 +35,7 @@ ball: [Dusk]
 nature: Quiet
 ivs: 31
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
-
+---
 species: Qwilfish
 setname: Poison Point
 item: [Leftovers]

@@ -17,7 +17,7 @@ ball: [Dusk]
 nature: Brave
 ivs: 31
 evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 100, spe: 100}
-
+---
 species: Torkoal
 setname: Stall
 item: [Grip Claw]
@@ -35,7 +35,7 @@ ball: [Cherish]
 nature: Calm
 ivs: 31
 evs: {hp: 252, atk: 0, def: 0, spA: 172, spD: 84, spe: 0}
-
+---
 species: Torkoal
 setname: Physical Tank
 item: [Leftovers, Power Herb]

@@ -18,7 +18,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Great]
-
+---
 species: Graveler
 setname: special
 item: [Expert Belt, Sitrus Berry]

@@ -15,7 +15,7 @@ ball: [Nest]
 nature: Adamant
 ivs: 12
 evs: {hp: 72, atk: 148, def: 72, spA: 72, spD: 72, spe: 72}
-
+---
 species: Shiftry
 setname: Special
 item: [Green Shard, Scope Lens, Dragon Fang]
@@ -36,7 +36,7 @@ ball: [Dusk]
 nature: Brave
 ivs: {hp: 17, atk: 1, def: 17, spA: 19, spD: 19, spe: 17}
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
-
+---
 species: Shiftry
 setname: Physical
 item: [Scope Lens]

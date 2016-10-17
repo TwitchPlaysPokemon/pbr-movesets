@@ -17,7 +17,7 @@ ball: [Ultra]
 nature: Modest
 ivs: 0
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Swampert
 setname: Physical
 item: [Macho Brace]
@@ -35,7 +35,7 @@ ball: [Ultra]
 nature: Calm
 ivs: 0
 evs: 0
-
+---
 species: Swampert
 setname: Special
 item: [Soft Sand, Poison Barb, Hard Rock, NeverMeltIce]

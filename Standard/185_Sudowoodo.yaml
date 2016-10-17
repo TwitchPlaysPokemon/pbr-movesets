@@ -14,7 +14,7 @@ ball: [Safari]
 nature: Hardy
 ivs: 16
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Sudowoodo
 setname: Mixed
 item: [Rindo Berry, Babiri Berry, Salac Berry]
@@ -35,7 +35,7 @@ ball: [Timer]
 nature: Modest
 ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
-
+---
 species: Sudowoodo
 setname: High Atk
 ability: [Sturdy]

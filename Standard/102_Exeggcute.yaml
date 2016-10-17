@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Exeggcute
 setname: Special
 item: [Tanga Berry, Coba Berry]
@@ -39,7 +39,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Exeggcute
 setname: Physical
 item: [Sitrus Berry]

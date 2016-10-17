@@ -23,7 +23,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Krabby
 setname: Shell Armor
 item: [Lansat Berry]
@@ -41,7 +41,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Krabby
 setname: Special
 item: [Choice Specs]

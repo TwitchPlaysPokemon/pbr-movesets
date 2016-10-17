@@ -14,7 +14,7 @@ ball: [Dive]
 nature: Hardy
 ivs: 22
 evs: {hp: 48, atk: 224, def: 0, spA: 208, spD: 0, spe: 28}
-
+---
 species: Arceus
 setname: Judgment
 item: [Splash Plate]

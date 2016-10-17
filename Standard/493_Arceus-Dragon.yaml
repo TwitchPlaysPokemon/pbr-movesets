@@ -14,7 +14,7 @@ ball: [Heal]
 nature: Adamant
 ivs: 0
 evs: {hp: 40, atk: 40, def: 40, spA: 40, spD: 40, spe: 40}
-
+---
 species: Arceus
 setname: Judgment
 item: [Draco Plate]

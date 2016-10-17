@@ -15,7 +15,7 @@ ball: [Quick]
 nature: Adamant
 ivs: 31
 evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 172}
-
+---
 species: Lileep
 setname: Special
 item: [Stone Plate, Heat Rock]

@@ -19,7 +19,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Seel
 setname: Physical
 item: [Rawst Berry, Toxic Orb, Light Ball, NeverMelt-Ice]
@@ -45,7 +45,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Seel
 setname: Cancer
 item: [Black Sludge]

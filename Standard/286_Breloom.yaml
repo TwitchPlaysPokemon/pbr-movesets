@@ -27,7 +27,7 @@ ball: [Nest]
 nature: Timid
 ivs: 0
 evs: {hp: 88, atk: 0, def: 40, spA: 252, spD: 40, spe: 80}
-
+---
 species: Breloom
 setname: Special
 item: [null]
@@ -45,7 +45,7 @@ ball: [Safari]
 nature: Modest
 ivs: 5
 evs: {hp: 124, atk: 0, def: 100, spA: 164, spD: 120, spe: 0}
-
+---
 species: Breloom
 setname: Bullet Seed
 item: [Miracle Seed]

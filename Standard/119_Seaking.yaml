@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Seaking
 setname: Powerhouse
 item: [Durin Berry]

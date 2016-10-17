@@ -20,7 +20,7 @@ ball: [Luxury]
 nature: Adamant
 ivs: 31
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
-
+---
 species: Delcatty
 setname: Special
 item: [Life Orb]
@@ -40,7 +40,7 @@ ball: [Heal]
 nature: Hardy
 ivs: 31
 evs: {hp: 0, atk: 176, def: 0, spA: 176, spD: 0, spe: 156}
-
+---
 species: Delcatty
 setname: Normalize
 item: [Micle Berry]

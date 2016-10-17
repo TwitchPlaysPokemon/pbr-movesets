@@ -19,7 +19,7 @@ level: 100
 nature: Adamant
 ivs: 31
 evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
-
+---
 species: 
 setname: Shiny
 item: []

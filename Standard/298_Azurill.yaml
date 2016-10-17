@@ -17,7 +17,7 @@ ball: [Net]
 nature: Adamant
 ivs: 31
 evs: {hp: 172, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}
-
+---
 species: Azurill
 setname: Special
 item: [Chesto Berry]

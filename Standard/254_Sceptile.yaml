@@ -17,7 +17,7 @@ ball: [Ultra]
 nature: Quiet
 ivs: 0
 evs: {hp: 0, atk: 0, def: 124, spA: 124, spD: 124, spe: 0}
-
+---
 species: Sceptile
 setname: Physical
 item: [Dragon Scale, Miracle Seed]
@@ -39,7 +39,7 @@ ball: [Ultra]
 nature: Hardy
 ivs: 4
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Sceptile
 setname: Substitute
 item: [Big Root]

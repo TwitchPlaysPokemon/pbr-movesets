@@ -16,7 +16,7 @@ separations:
 gender: [m, f]
 rarity: 1.0
 ball: [Ultra]
-
+---
 species: Dragonite
 setname: High Stats
 item: [Nomel Berry]
@@ -31,7 +31,7 @@ moves:
     - [Mimic]
 rarity: 1.0
 ball: [Safari]
-
+---
 species: Dragonite
 setname: Overpowered
 ability: [Inner Focus]

@@ -17,7 +17,7 @@ ball: [Quick]
 nature: Modest
 ivs: 31
 evs: {hp: 116, atk: 0, def: 68, spA: 252, spD: 72, spe: 0}
-
+---
 species: Mareep
 setname: Physical
 item: [Salac Berry]

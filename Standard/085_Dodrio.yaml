@@ -19,7 +19,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Dodrio
 setname: Run Away
 item: [Rawst Berry, Power Herb, Durin Berry, Starf Berry]
@@ -47,7 +47,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Dodrio
 setname: Special
 item: [Sharp Beak]

@@ -12,7 +12,7 @@ ball: [Premier]
 nature: Relaxed
 ivs: 31
 evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
-
+---
 species: Porygon
 setname: Physical Mix
 item: [Mind Plate]

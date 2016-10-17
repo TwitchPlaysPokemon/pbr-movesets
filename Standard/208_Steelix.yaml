@@ -26,7 +26,7 @@ ball: [Premier]
 nature: Hasty
 ivs: 0
 evs: {hp: 85, atk: 40, def: 0, spA: 85, spD: 85, spe: 215}
-
+---
 species: Steelix
 setname: Special
 item: [Pink Scarf, Silk Scarf]

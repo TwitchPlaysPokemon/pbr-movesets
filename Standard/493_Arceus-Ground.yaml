@@ -14,7 +14,7 @@ ball: [Safari]
 nature: Rash
 ivs: 31
 evs: {hp: 128, atk: 0, def: 128, spA: 252, spD: 0, spe: 0}
-
+---
 species: Arceus
 setname: Judgment
 item: [Earth Plate]

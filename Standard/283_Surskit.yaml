@@ -18,7 +18,7 @@ ball: [Net]
 nature: Modest
 ivs: 31
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
-
+---
 species: Surskit
 setname: Rain Dish
 item: [Damp Rock, Leftovers]
@@ -36,7 +36,7 @@ ball: [Dive]
 nature: Bold
 ivs: 31
 evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
-
+---
 species: Surskit
 setname: Physical
 item: [Liechi Berry]

@@ -17,7 +17,7 @@ ball: [Poké]
 nature: Timid
 ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
-
+---
 species: Treecko
 setname: Physical
 item: [Liechi Berry, Power Herb, Nanab Berry, Starf Berry]

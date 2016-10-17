@@ -15,7 +15,7 @@ ball: []
 nature: Adamant
 ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 31}
 evs: {hp: 32, atk: 196, def: 116, spA: 32, spD: 104, spe: 28}
-
+---
 species: Kadabra
 setname: Physical
 item: [Flame Orb]

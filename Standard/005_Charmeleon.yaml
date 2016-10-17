@@ -12,7 +12,7 @@ moves:
     - [Will-O-Wisp, Curse, Rock Slide]
 gender: [m, f]
 ball: [Great]
-
+---
 species: Charmeleon
 setname: Solar Power
 item: [Shell Bell, Hard Stone, Lum Berry]

@@ -13,7 +13,7 @@ ball: [Quick]
 nature: Jolly
 ivs: 31
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
-
+---
 species: Pichu
 setname: Special
 item: [Focus Sash]

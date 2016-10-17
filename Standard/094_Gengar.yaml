@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Gengar
 setname: Special
 item: [Null]
@@ -33,7 +33,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Gengar
 setname: Pokkén
 item: [Muscle Band]

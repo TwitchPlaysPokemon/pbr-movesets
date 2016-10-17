@@ -22,7 +22,7 @@ ball: [Poké]
 nature: Modest
 ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
-
+---
 species: Torchic
 setname: Physical
 item: [Salac Berry]

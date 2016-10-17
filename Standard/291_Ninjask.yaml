@@ -15,7 +15,7 @@ ball: [Timer]
 nature: Brave
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 124, atk: 20, def: 124, spA: 116, spD: 124, spe: 0}
-
+---
 species: Ninjask
 setname: Special
 item: [Choice Specs]
@@ -36,7 +36,7 @@ ball: [Net]
 nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
-
+---
 species: Ninjask
 setname: Baton Pass
 item: [Apicot Berry, Metal Coat]

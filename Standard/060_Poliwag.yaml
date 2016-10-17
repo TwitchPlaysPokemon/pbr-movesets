@@ -25,7 +25,7 @@ ball: []
 nature: Adamant
 ivs: 31
 evs: {hp: 132, atk: 252, def: 0, spA: 0, spD: 0, spe: 124}
-
+---
 species: Poliwag
 setname: Special
 item: [Wave Incense, Soft Sand]

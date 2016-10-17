@@ -13,7 +13,7 @@ ball: [Nest]
 nature: Modest
 ivs: {hp: 30, atk: 30, def: 30, spA: 30, spD: 30, spe: 31}
 evs: {hp: 0, atk: 0, def: 176, spA: 252, spD: 0, spe: 80}
-
+---
 species: Ledyba
 setname: Wall
 item: [Light Clay]

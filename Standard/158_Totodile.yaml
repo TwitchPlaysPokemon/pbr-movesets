@@ -16,7 +16,7 @@ rarity: 1.0
 nature: Adamant
 ivs: 31
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
-
+---
 species: Totodile
 setname: Special
 item: [Petaya Berry, Salac Berry]

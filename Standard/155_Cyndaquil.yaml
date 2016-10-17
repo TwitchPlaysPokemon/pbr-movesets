@@ -16,7 +16,7 @@ rarity: 1.0
 nature: Modest
 ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 30, spe: 31}
 evs: {hp: 36, atk: 0, def: 20, spA: 180, spD: 20, spe: 252}
-
+---
 species: Cyndaquil
 setname: Physical
 item: [Red Shard, Liechi Berry, Sharp Beak, Power Herb]

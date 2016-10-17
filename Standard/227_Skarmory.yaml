@@ -15,7 +15,7 @@ ball: [Ultra]
 nature: Hasty
 ivs: 0
 evs: {hp: 116, atk: 36, def: 56, spA: 60, spD: 120, spe: 120}
-
+---
 species: Skarmory
 setname: Physical
 item: [Life Orb, Sharp Beak, Watmel Berry]
@@ -38,7 +38,7 @@ ball: [Timer]
 nature: Mild
 ivs: 0
 evs: {hp: 128, atk: 124, def: 0, spA: 0, spD: 128, spe: 128}
-
+---
 species: Skarmory
 setname: Special
 item: [null, Scope Lens]

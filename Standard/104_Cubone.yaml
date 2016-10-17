@@ -17,7 +17,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Cubone
 setname: Boomerang
 item: [Thick Club]
@@ -35,7 +35,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Cubone
 setname: Special
 item: [Sitrus Berry]

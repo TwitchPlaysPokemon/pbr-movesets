@@ -13,7 +13,7 @@ ball: [Dusk]
 nature: Calm
 ivs: 31
 evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
-
+---
 species: Magcargo
 setname: Physical
 item: [Watmel Berry]
@@ -31,7 +31,7 @@ ball: [Quick]
 nature: Adamant
 ivs: 31
 evs: {hp: 168, atk: 252, def: 0, spA: 0, spD: 0, spe: 88}
-
+---
 species: Magcargo
 setname: Stall
 item: [Smooth Rock]

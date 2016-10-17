@@ -27,7 +27,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
-
+---
 species: Goldeen
 setname: Special
 item: [Wise Glasses]

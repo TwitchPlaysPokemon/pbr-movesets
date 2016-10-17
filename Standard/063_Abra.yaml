@@ -15,7 +15,7 @@ ball: []
 nature: Timid
 ivs: {hp: 31, atk: 3, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 60, atk: 116, def: 60, spA: 60, spD: 60, spe: 152}
-
+---
 species: Abra
 setname: Physical
 item: [Focus Sash]

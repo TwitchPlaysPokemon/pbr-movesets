@@ -15,7 +15,7 @@ ball: [Premier]
 nature: Naive
 ivs: 17
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Wailmer
 setname: Special
 item: [Leftovers]
@@ -33,7 +33,7 @@ ball: [Dive]
 nature: Modest
 ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 31}
 evs: {hp: 60, atk: 60, def: 60, spA: 68, spD: 60, spe: 60}
-
+---
 species: Wailmer
 setname: Physical
 item: [TwistedSpoon, Silk Scarf]

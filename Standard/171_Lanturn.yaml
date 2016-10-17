@@ -23,7 +23,7 @@ ball: [Quick]
 nature: Bold
 ivs: 0
 evs: {hp: 0, atk: 0, def: 128, spA: 128, spD: 128, spe: 124}
-
+---
 species: Lanturn
 setname: Physical
 item: [Magnet, Belue Berry]

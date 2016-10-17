@@ -20,7 +20,7 @@ ball: [Safari]
 nature: Hardy
 ivs: 31
 evs: {hp: 104, atk: 104, def: 104, spA: 0, spD: 104, spe: 92}
-
+---
 species: Vibrava
 setname: Special
 item: [Dragon Scale, Dragon Fang]

@@ -15,7 +15,7 @@ ball: [Nest]
 nature: Calm
 ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 176, spA: 0, spD: 80, spe: 0}
-
+---
 species: Numel
 setname: Mixed
 item: [Starf Berry]

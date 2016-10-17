@@ -18,7 +18,7 @@ ball: [Net]
 nature: Adamant
 ivs: 31
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
-
+---
 species: Marill
 setname: Special
 item: [Wide Lens]
@@ -37,7 +37,7 @@ ball: [Dive]
 nature: Modest
 ivs: 31
 evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
-
+---
 species: Marill
 setname: Belly Drum
 item: [Sitrus Berry]

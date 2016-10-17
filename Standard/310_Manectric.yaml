@@ -15,7 +15,7 @@ ball: [Quick]
 nature: Naughty
 ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 52, atk: 252, def: 52, spA: 52, spD: 52, spe: 48}
-
+---
 species: Manectric
 setname: Physical
 item: [Blackglasses, NeverMelt-Ice, Charcoal, Silk Scarf]
@@ -38,7 +38,7 @@ ball: [Repeat]
 nature: Jolly
 ivs: 19
 evs: {hp: 88, atk: 252, def: 40, spA: 0, spD: 40, spe: 88}
-
+---
 species: Manectric
 setname: Special
 item: [Yellow Shard, Insect Plate, Flame Orb]

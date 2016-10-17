@@ -13,7 +13,7 @@ ball: [Dive]
 nature: Mild
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
 evs: {hp: 252, atk: 80, def: 0, spA: 0, spD: 0, spe: 40}
-
+---
 species: Gyarados
 setname: Special
 item: [Sky Plate, Dragon Fang]
@@ -37,7 +37,7 @@ ball: [Net]
 nature: Lonely
 ivs: {hp: 30, atk: 30, def: 30, spA: 30, spD: 30, spe: 31}
 evs: {hp: 0, atk: 136, def: 0, spA: 60, spD: 0, spe: 0}
-
+---
 species: Gyarados
 setname: Overpowered
 ability: [Intimidate]

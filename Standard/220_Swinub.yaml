@@ -13,7 +13,7 @@ ball: [Timer]
 nature: Adamant
 ivs: 31
 evs: {hp: 164, atk: 88, def: 128, spA: 0, spD: 128, spe: 0}
-
+---
 species: Swinub
 setname: Special
 item: [Salac Berry]

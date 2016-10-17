@@ -14,7 +14,7 @@ ball: [Quick]
 nature: Adamant
 ivs: 31
 evs: {hp: 172, atk: 84, def: 84, spA: 0, spD: 84, spe: 84}
-
+---
 species: Dratini
 setname: Special
 item: [Haban Berry, Yache Berry]

@@ -15,7 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Muk
 setname: Physical
 item: [Full Incense]
@@ -33,7 +33,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Muk
 setname: Special
 item: [Rose Incense, Earth Plate, Zap Plate, Silk Scarf]

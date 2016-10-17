@@ -12,7 +12,7 @@ ball: [Premier]
 nature: Quiet
 ivs: 29
 evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
-
+---
 species: Girafarig
 setname: Flinch
 item: [Silk Scarf, King's Rock]
@@ -30,7 +30,7 @@ ball: [Quick]
 nature: Brave
 ivs: 21
 evs: {hp: 60, atk: 128, def: 100, spA: 40, spD: 100, spe: 0}
-
+---
 species: Girafarig
 setname: Trapper
 item: [Liechi Berry, Apicot Berry, Ganlon Berry]

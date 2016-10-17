@@ -21,7 +21,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Kingler
 setname: Mixed
 item: [null, Silk Scarf, Iron Plate, Insect Plate]

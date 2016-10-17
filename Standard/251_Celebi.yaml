@@ -18,7 +18,7 @@ ball: [Nest]
 nature: Quiet
 ivs: 0
 evs: {hp: 0, atk: 40, def: 40, spA: 0, spD: 40, spe: 4}
-
+---
 species: Celebi
 setname: Stall
 item: [Wise Glasses]
@@ -36,7 +36,7 @@ ball: [Safari]
 nature: Quiet
 ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
-
+---
 species: Celebi
 setname: Overpowered
 item: [Grass Mail, Power Herb, Meadow Plate]

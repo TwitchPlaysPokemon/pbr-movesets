@@ -23,7 +23,7 @@ ball: [Net]
 nature: Rash
 ivs: {hp: 19, atk: 31, def: 30, spA: 30, spD: 31, spe: 10}
 evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
-
+---
 species: Jumpluff
 setname: Stall
 ability: [Chlorophyll, Leaf Guard]
@@ -38,7 +38,7 @@ ball: [Safari]
 nature: Serious
 ivs: 31
 evs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
-
+---
 species: Jumpluff
 setname: Leaf Guard
 item: [Heat Rock]

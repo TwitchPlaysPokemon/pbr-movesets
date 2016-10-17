@@ -12,7 +12,7 @@ ball: [Dive]
 nature: Sassy
 ivs: 31
 evs: {hp: 92, atk: 116, def: 92, spA: 116, spD: 92, spe: 0}
-
+---
 species: Octillery
 setname: Sniper
 item: [Scope Lens]
@@ -30,7 +30,7 @@ ball: [Net]
 nature: Quirky
 ivs: 31
 evs: {hp: 16, atk: 60, def: 16, spA: 0, spD: 16, spe: 140}
-
+---
 species: Octillery
 setname: Beam
 item: [Lansat Berry, Insect Plate, Icicle Plate]
@@ -49,7 +49,7 @@ ball: [Luxury]
 nature: Quiet
 ivs: 0
 evs: {hp: 100, atk: 0, def: 100, spA: 88, spD: 100, spe: 0}
-
+---
 species: Octillery
 setname: Setup
 item: [Ganlon Berry, Apicot Berry]

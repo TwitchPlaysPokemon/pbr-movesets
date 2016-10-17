@@ -14,7 +14,7 @@ ball: [Great]
 nature: Quirky
 ivs: 14
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Quagsire
 setname: Physical
 ability: [Damp]
@@ -33,7 +33,7 @@ ball: [Dive]
 nature: Serious
 ivs: 31
 evs: {hp: 16, atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
-
+---
 species: Quagsire
 setname: Special
 item: [Mystic Water, Soft Sand]

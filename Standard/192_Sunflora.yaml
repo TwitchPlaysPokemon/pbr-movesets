@@ -17,7 +17,7 @@ ball: [Nest]
 nature: Adamant
 ivs: 31
 evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 0, spe: 128}
-
+---
 species: Sunflora
 setname: Special
 item: [Zoom Lens]

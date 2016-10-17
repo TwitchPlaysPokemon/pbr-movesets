@@ -15,7 +15,7 @@ ball: [Premier]
 nature: Quiet
 ivs: 31
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
-
+---
 species: Loudred
 setname: Physical
 item: [Light Ball]

@@ -17,7 +17,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Lickitung
 setname: Physical
 item: [Null]
@@ -39,7 +39,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Lickitung
 setname: Special
 item: [Null]

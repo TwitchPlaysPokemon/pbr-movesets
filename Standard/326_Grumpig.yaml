@@ -24,7 +24,7 @@ ball: [Luxury]
 nature: Adamant
 ivs: 31
 evs: {hp: 76, atk: 192, def: 80, spA: 0, spD: 80, spe: 80}
-
+---
 species: Grumpig
 setname: Special
 item: [Chilan Berry]

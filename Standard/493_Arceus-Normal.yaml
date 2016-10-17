@@ -14,7 +14,7 @@ ball: [Premier]
 nature: Adamant
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Arceus
 setname: Judgment
 item: [null]

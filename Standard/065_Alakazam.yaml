@@ -15,7 +15,7 @@ ball: []
 nature: Adamant
 ivs: {hp: 14, atk: 31, def: 14, spA: 14, spD: 14, spe: 14}
 evs: {hp: 80, atk: 252, def: 40, spA: 0, spD: 0, spe: 0}
-
+---
 species: Alakazam
 setname: Physical
 item: [Metal Coat]

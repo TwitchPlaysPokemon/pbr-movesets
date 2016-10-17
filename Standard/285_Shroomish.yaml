@@ -17,7 +17,7 @@ ball: [Heal]
 nature: Adamant
 ivs: 31
 evs: {hp: 12, atk: 184, def: 104, spA: 0, spD: 104, spe: 104}
-
+---
 species: Shroomish
 setname: Quick Feet
 item: [Flame Orb]

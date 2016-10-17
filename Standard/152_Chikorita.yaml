@@ -16,7 +16,7 @@ rarity: 1.0
 nature: Careful
 ivs: 31
 evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
-
+---
 species: Chikorita
 setname: Special
 item: [Custap Berry, Occa Berry, Yache Berry, Coba Berry]

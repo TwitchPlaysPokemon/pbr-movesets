@@ -14,7 +14,7 @@ ball: []
 nature: Modest
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Mew
 setname: Special
 item: [null]
@@ -31,7 +31,7 @@ ball: []
 nature: Adamant
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-
+---
 species: Mew
 setname: Weather
 item: [Heat Rock, Damp Rock, Icy Rock]
@@ -55,7 +55,7 @@ ball: []
 nature: 
 ivs: {hp: , atk: , def: , spA: , spD: , spe: }
 evs: {hp: , atk: , def: , spA: , spD: , spe: }
-
+---
 species: Mew
 setname: Baton Pass
 item: [null]

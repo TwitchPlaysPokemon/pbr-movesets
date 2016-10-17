@@ -17,7 +17,7 @@ ball: [Heal]
 nature: Impish
 ivs: 31
 evs: {hp: 252, atk: 72, def: 60, spA: 0, spD: 124, spe: 0}
-
+---
 species: Meditite
 setname: Accupressure
 item: [Leftovers]

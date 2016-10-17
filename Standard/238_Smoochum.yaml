@@ -24,7 +24,7 @@ ball: [Premier]
 nature: Timid
 ivs: 31
 evs: {hp: 80, atk: 0, def: 168, spA: 80, spD: 0, spe: 172}
-
+---
 species: Smoochum
 setname: Physical
 item: [Focus Sash, Flame Orb, Wide Lens]

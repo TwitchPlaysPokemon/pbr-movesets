@@ -15,7 +15,7 @@ ball: [Dusk]
 nature: Adamant
 ivs: 31
 evs: {hp: 28, atk: 252, def: 4, spA: 0, spD: 0, spe: 224}
-
+---
 species: Nuzleaf
 setname: Special
 item: [Tanga Berry, Kebia Berry, Occa Berry, Charti Berry]

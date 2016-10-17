@@ -23,7 +23,7 @@ ball: [Nest]
 nature: Jolly
 ivs: 31
 evs: {hp: 60, atk: 40, def: 112, spA: 0, spD: 128, spe: 168}
-
+---
 species: Ariados
 setname: Special
 item: [Wise Glasses, Insect Plate, Mind Plate, Meadow Plate, Salac Berry, Petaya Berry]
@@ -50,7 +50,7 @@ ball: [Net]
 nature: Modest
 ivs: 31
 evs: {hp: 64, atk: 0, def: 64, spA: 168, spD: 104, spe: 108}
-
+---
 species: Ariados
 setname: High Attack
 item: [Power Herb, Insect Plate]
@@ -68,7 +68,7 @@ ball: [Nest]
 nature: Brave
 ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 25, spe: 0}
 evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
-
+---
 species: Ariados
 setname: Baton Pass
 item: [Salac Berry]
@@ -84,7 +84,7 @@ ball: [Quick]
 nature: Adamant
 ivs: 31
 evs: {hp: 172, atk: 52, def: 92, spA: 0, spD: 0, spe: 192}
-
+---
 species: Ariados
 setname: Critter
 item: [Scope Lens]

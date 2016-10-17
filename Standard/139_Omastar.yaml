@@ -16,7 +16,7 @@ ball: [dive]
 nature: Quirky
 evs: {hp: 7, atk: 7, def: 6, spA: 7, spD: 6, spe: 6}
 ivs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-
+---
 species: Omastar
 setname: Physical
 item: [Helix Fossil]
@@ -32,7 +32,7 @@ ball: [dive]
 nature: Lonely
 ivs: 20
 evs: {hp: 72, atk: 252, def: 40, spA: 0, spD: 72, spe: 72}
-
+---
 species: Omastar
 setname: Fast Sp. Atk
 item: [Helix Fossil, Stone Plate, Salac Berry]
@@ -55,7 +55,7 @@ ball: [quick]
 nature: Jolly
 ivs: 0
 evs: {hp: 80, atk: 0, def: 20, spA: 4, spD: 100, spe: 108}
-
+---
 species: Omastar
 setname: Slow
 item: [Iron Ball, Durin Berry, Smooth Rock, Silk Scarf]

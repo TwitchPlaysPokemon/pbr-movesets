@@ -19,7 +19,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Hypno
 setname: Physical
 item: [Old Amber, Hard Stone, Rare Bone]
@@ -37,7 +37,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Hypno
 setname: Hypnosis
 item: [Zoom Lens]
@@ -55,7 +55,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: []
-
+---
 species: Hypno 
 setname: Passer
 item: [Heal ball]

@@ -15,7 +15,7 @@ ball: [Quick]
 nature: Modest
 ivs: 31
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
-
+---
 species: Swellow
 setname: Scrappy
 item: [Muscle Band]
@@ -33,7 +33,7 @@ ball: [Timer]
 nature: Sassy
 ivs: 23
 evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
-
+---
 species: Swellow
 setname: Guts
 item: [Toxic Orb]
@@ -51,7 +51,7 @@ ball: [Premier]
 nature: Careful
 ivs: 31
 evs: {hp: 192, atk: 52, def: 52, spA: 0, spD: 72, spe: 24}
-
+---
 species: Swellow
 setname: Special
 item: [Choice Specs]

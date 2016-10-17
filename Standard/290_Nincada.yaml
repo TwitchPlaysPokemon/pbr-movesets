@@ -15,7 +15,7 @@ ball: [Net]
 nature: Adamant
 ivs: 31
 evs: {hp: 120, atk: 228, def: 40, spA: 0, spD: 120, spe: 0}
-
+---
 species: Nincada
 setname: Special
 item: [Salac Berry, Petaya Berry]
@@ -36,7 +36,7 @@ ball: [Dusk]
 nature: Modest
 ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
-
+---
 species: Nincada
 setname: Stall
 item: [Leftovers]

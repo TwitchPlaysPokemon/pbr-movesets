@@ -12,7 +12,7 @@ moves:
     - [Charm, Knock Off, Rage, Defense Curl]
 gender: [m, f]
 ball: [Ultra]
-
+---
 species: Venusaur
 setname: Special
 item: [Miracle Seed]

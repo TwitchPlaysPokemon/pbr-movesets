@@ -12,7 +12,7 @@ ball: [Dusk]
 nature: Quiet
 ivs: 9
 evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
-
+---
 species: Crobat
 setname: Curse
 ability: [Inner Focus]

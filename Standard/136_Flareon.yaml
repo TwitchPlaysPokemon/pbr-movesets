@@ -13,7 +13,7 @@ ball: [Dusk]
 nature: Modest
 ivs: 10
 evs: {hp: 124, atk: 0, def: 128, spA: 64, spD: 128, spe: 64}
-
+---
 species: Flareon
 setname: Special
 ability: [Flash Fire]
@@ -32,7 +32,7 @@ ball: [Cherish]
 nature: Bold
 ivs: 0
 evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
-
+---
 species: Flareon
 setname: Natural Gift
 item: [Durin Berry]

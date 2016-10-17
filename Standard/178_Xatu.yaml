@@ -22,7 +22,7 @@ ball: [Safari]
 nature: Brave
 ivs: {hp: 27, atk: 30, def: 26, spA: 26, spD: 27, spe: 27}
 evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}
-
+---
 species: Xatu
 setname: Trick Room
 item: [Iron Ball]

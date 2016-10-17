@@ -12,7 +12,7 @@ ball: [Net]
 nature: Brave
 ivs: 31
 evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
-
+---
 species: Shuckle
 setname: Special
 item: [Petaya Berry]
@@ -31,7 +31,7 @@ ball: [Timer]
 nature: Modest
 ivs: 31
 evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
-
+---
 species: Shuckle
 setname: Sweeper
 item: [Liechi Berry]
@@ -47,7 +47,7 @@ ball: [Quick]
 nature: Adamant
 ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
-
+---
 species: Shuckle
 setname: Mixed
 item: [Starf Berry]

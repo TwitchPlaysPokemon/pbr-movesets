@@ -15,7 +15,7 @@ ball: [Ultra]
 nature: Adamant
 ivs: 17
 evs: {hp: 92, atk: 136, def: 148, spA: 40, spD: 92, spe: 0}
-
+---
 species: Houndoom
 setname: Physical
 item: [Charcoal]
@@ -36,7 +36,7 @@ ball: [Cherish]
 nature: Relaxed
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 60, atk: 128, def: 128, spA: 0, spD: 128, spe: 64}
-
+---
 species: Houndoom
 setname: Physical
 item: [Silk Scarf, Expert Belt, Shuca Berry, Passho Berry, Charti Berry]

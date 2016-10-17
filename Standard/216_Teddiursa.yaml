@@ -17,7 +17,7 @@ rarity: 1.2
 nature: Jolly
 ivs: 31
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
-
+---
 species: Teddiursa
 setname: Facade
 item: [Toxic Orb]
@@ -33,7 +33,7 @@ ball: [Repeat]
 nature: Impish
 ivs: 31
 evs: {hp: 248, atk: 0, def: 72, spA: 0, spD: 132, spe: 56}
-
+---
 species: Teddiursa
 setname: Special
 item: [Flame Orb]

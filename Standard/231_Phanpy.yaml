@@ -21,7 +21,7 @@ ball: [Safari]
 nature: Jolly
 ivs: 31
 evs: {hp: 0, atk: 168, def: 60, spA: 0, spD: 80, spe: 200}
-
+---
 species: Phanpy
 setname: Special
 item: [Hard Stone]

@@ -17,7 +17,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Premier]
-
+---
 species: Hitmonlee
 setname: Unburden
 item: [Poké Doll, Escape Rope, Tiny Mushroom, Lemonade, Rare Candy, Nugget, Smoke Ball, Damp Mulch, Burn Heal, Honey, Repel, Sacred Ash]
@@ -35,7 +35,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Quick]
-
+---
 species: Hitmonlee
 setname: Mixed
 item: [Null]

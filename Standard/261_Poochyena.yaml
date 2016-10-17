@@ -22,7 +22,7 @@ ball: [Dusk]
 nature: Adamant
 ivs: 31
 evs: {hp: 80, atk: 252, def: 0, spA: 0, spD: 0, spe: 176}
-
+---
 species: Poochyena
 setname: Special
 item: [Flame Orb]
