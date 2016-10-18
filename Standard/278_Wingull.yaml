@@ -1,6 +1,6 @@
 species: Wingull
 setname: Special
-item: [Wise Glasses]
+item: [Wise Glasses, Focus Sash]
 ability: [Keen Eye, Rain Dish]
 moves:
     - [Air Slash]
