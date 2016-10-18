@@ -38,7 +38,7 @@ evs: 0
 ---
 species: Swampert
 setname: Special
-item: [Soft Sand, Poison Barb, Hard Rock, NeverMeltIce]
+item: [Soft Sand, Poison Barb, Hard Stone, NeverMeltIce]
 ability: [Damp, Torrent]
 moves:
     - [Muddy Water, Water Pulse]
