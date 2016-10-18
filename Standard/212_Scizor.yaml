@@ -1,6 +1,6 @@
 species: Scizor
 setname: Technician
-item: [none, Razz Berry]
+item: [null, Razz Berry]
 ability: [Technician]
 moves:
     - [Bug Bite, X-Scissor]
