@@ -1,6 +1,6 @@
 species: Golbat
 setname: Physical
-item: [Dread Plate, Wapear Berry, Spooky Plate, Air Mail]
+item: [Dread Plate, Wepear Berry, Spooky Plate, Air Mail]
 ability: [Inner Focus]
 nature: Jolly
 ivs: 20
@@ -12,7 +12,7 @@ moves:
     - [Haze, Taunt, Curse, Mimic, Double Team]
 combinations:
     - [Spooky Plate, Astonish]
-    - [Wapear Berry, Natural Gift]
+    - [Wepear Berry, Natural Gift]
     - [Air Mail, Secret Power]
 gender: [m, f]
 biddable: true
