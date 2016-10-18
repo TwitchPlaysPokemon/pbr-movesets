@@ -23,8 +23,8 @@ evs: {hp: 88, atk: 84, def: 44, spA: 180, spD: 44, spe: 68}
 ---
 species: Furret
 setname: Special
-item: [Run Away, Frisk, Keen Eye]
-ability: [Damp Rock, Heat Rock]
+item: [Damp Rock, Heat Rock]
+ability: [Run Away, Frisk, Keen Eye]
 moves:
     - [Hyper Voice, Hyper Beam]
     - [Focus Blast]
