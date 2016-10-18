@@ -1,6 +1,6 @@
 species: Steelix
 setname: Physical
-item: [Wide Lens, Silk Scarf, Magnet, NeverMelt-Ice, Steel Plate]
+item: [Wide Lens, Silk Scarf, Magnet, NeverMelt-Ice, Iron Plate]
 ability: [Sturdy, Rock Head]
 moves:
     - [Iron Tail, Earthquake]
