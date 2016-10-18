@@ -30,7 +30,7 @@ moves:
     - [Will-O-Wisp, Double Team]
     - [Rest, Endure]
 combinations:
-    - [Chesto Berry + Rest]
+    - [Chesto Berry, Rest]
 gender: [m, f]
 ---
 species: Charmander
