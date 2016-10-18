@@ -2,7 +2,7 @@ species: Tauros
 setname: Anger Point
 item: [Starf Berry]
 ability: [Anger Point]
-nature: 
+nature: Naughty
 ivs: 14
 evs: {hp: 60, atk: 60, def: 60, spA: 208, spD: 60, spe: 60}
 moves:
