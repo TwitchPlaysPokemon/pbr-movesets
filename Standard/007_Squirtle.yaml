@@ -20,9 +20,9 @@ species: Squirtle
 setname: Physical
 item: [Muscle Band, Liechi Berry, Light Ball, Damp Rock]
 ability: [Torrent, Rain Dish]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Adamant
+ivs: 31
+evs: {hp: 184, atk: 252, def: 36, spA: 0, spD: 36, spe: 0}
 moves:
     - [Waterfall, Dive, Aqua Tail]
     - [Body Slam, Zen Headbutt, Ice Punch, Focus Punch]
