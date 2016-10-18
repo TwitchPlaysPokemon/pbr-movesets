@@ -16,7 +16,7 @@ biddable: true
 rarity: 1.0
 ball: []
 ---
-species: Nidoran
+species: Nidoran-F
 setname: F Special
 item: [Sitrus Berry]
 ability: [Poison Point, Rivalry]
