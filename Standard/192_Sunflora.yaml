@@ -32,4 +32,4 @@ rarity: 0.5
 ball: [Safari]
 nature: Brave
 ivs: 0
-evs: {hp: 40, atk: 0, def: 180, spA: 180, spD: 180, spe: 8}
+evs: {hp: 40, atk: 0, def: 180, spA: 180, spD: 100, spe: 8}
