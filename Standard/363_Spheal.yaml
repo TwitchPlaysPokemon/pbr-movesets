@@ -1,0 +1,45 @@
+species: Spheal
+setname: Special
+item: [Wide Lens, Icy Rock]
+ability: [Thick Fat, Ice Body]
+moves:
+    - [Super Fang]
+    - [Brine]
+    - [Icy Wind, Hail]
+    - [Sheer Cold, Protect]
+combinations:
+    - [Icy Rock, Ice Body, Hail, Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Modest
+ivs: 31
+evs: {hp: 10, atk: 0, def: 10, spA: 108, spD: 100, spe: 100}
+---
+species: Spheal
+setname: Physical
+item: [Muscle Band, Salac Berry, Leftovers]
+ability: [Thick Fat]
+moves:
+    - [Aqua Tail, Waterfall, Dive]
+    - [Earthquake, Ice Ball, Body Slam]
+    - [Rock Tomb, Rock Slide, Fissure, Curse, Yawn]
+    - [Swagger, Defense Curl, Endure, Toxic, Protect]
+combinations:
+    - [Leftovers, Curse, Protect]
+    - [Salac Berry, Waterfall, Yawn, Endure]
+    - [Dive, Toxic]
+    - [Ice Ball, Defense Curl]
+    - [Body Slam, Rock Slide]
+separations:
+    - [Earthquake, Fissure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

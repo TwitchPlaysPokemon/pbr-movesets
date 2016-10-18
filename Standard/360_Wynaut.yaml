@@ -1,0 +1,35 @@
+species: Wynaut
+setname: Standard
+item: [Custap Berry]
+ability: [Shadow Tag]
+moves:
+    - [Counter]
+    - [Mirror Coat]
+    - [Encore]
+    - [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.9
+ball: [Heal]
+nature: Bold
+ivs: 31
+evs: {hp: 248, atk: 0, def: 100, spA: 0, spD: 160, spe: 0}
+---
+species: Wynaut
+setname: Attacker
+item: [Zoom Lens]
+ability: [Shadow Tag]
+moves:
+    - [Psywave]
+    - [Seismic Toss]
+    - [Mirror Coat, Counter]
+    - [Charm, Splash, Tickle, Encore, Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+nature: Jolly
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 0, spD: 84, spe: 252}

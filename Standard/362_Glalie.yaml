@@ -1,0 +1,27 @@
+species: Glalie
+setname: Standard
+item: [Icy Rock, Occa Berry]
+ability: [Ice Body, Inner Focus]
+moves:
+    - [Earthquake, Ice Beam, Avalanche]
+    - [Weather Ball, Iron Head, Dark Pulse]
+    - [Protect, Rollout, Selfdestruct]
+    - [Hail, Rain Dance, Defense Curl]
+combinations:
+    - [Icy Rock, Ice Body, Hail]
+    - [Rollout, Defense Curl]
+separations:
+    - [Occa Berry, Earthquake ]
+    - [Earthquake, Iron Head]
+    - [Earthquake, Dark Pulse]
+    - [Weather Ball, Defense Curl]
+    - [Protect, Rain Dance]
+    - [Protect, Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Serious
+ivs: 9
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}

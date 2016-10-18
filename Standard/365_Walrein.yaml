@@ -1,0 +1,21 @@
+species: Walrein
+setname: Standard
+item: [Exp Share, Life Orb]
+ability: [Oblivious]
+moves:
+    - [Brine, Water Pulse, Dive, Water Gun]
+    - [Ice Ball, Ice Fang, Aurora Beam, Powder Snow]
+    - [Rollout, Rock Slide, Iron Head, Iron Tail, Crunch, Rock Tomb]
+    - [Defense Curl, Stockpile, Yawn, Mimic]
+combinations:
+    - [Ice Ball, Rollout, Defense Curl]
+    - [Dive, Yawn]
+    - [Life Orb, Water Gun, Powder Snow, Rock Tomb, Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Jolly
+ivs: 10
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
