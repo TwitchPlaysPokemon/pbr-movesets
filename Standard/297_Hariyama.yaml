@@ -52,7 +52,7 @@ moves:
     - [Rock Tomb, Belly Drum]
     - [Metronome, Mimic]
 combinations:
-    - [Salac Berry, Knock Off. Belly Drum]
+    - [Salac Berry, Knock Off, Belly Drum]
 gender: [m, f]
 happiness: 255
 biddable: True
