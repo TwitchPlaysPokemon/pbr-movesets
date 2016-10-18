@@ -34,7 +34,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Typhlosion
 setname: Physical
-item: [Lum Berry, Charcoal, King's Rock]
+item: [Red Shard, Lum Berry, Charcoal, King's Rock]
 ability: [Blaze]
 moves:
     - [Fire Punch, Flame Wheel]
