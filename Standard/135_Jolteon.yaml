@@ -1,6 +1,6 @@
 species: Jolteon
 setname: Standard
-item: [Aspear Berry, King's Rock, Micle Berry, Toxic Orb]
+item: [Aspear Berry, Razor Claw, King's Rock, Micle Berry, Toxic Orb]
 ability: [Volt Absorb, Quick Feet]
 moves:
     - [Thunderbolt, Thunder Fang, Discharge]
