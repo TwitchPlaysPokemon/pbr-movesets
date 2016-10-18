@@ -3,7 +3,7 @@ setname: Standard
 item: [null, Magnet]
 ability: [Static]
 moves:
-    - [Discharge, Thunderbolt, Thunderpunch]
+    - [Discharge, Thunderbolt, Thunder Punch]
     - [Fire Punch, Signal Beam, Power Gem, Iron Tail]
     - [Focus Punch, Brick Break]
     - [Flatter, Swagger, Substitute, Agility]
@@ -13,8 +13,8 @@ combinations:
 separations:
     - [Thunderbolt, Swagger]
     - [Thunderbolt, Flatter]
-    - [Thunderpunch, Swagger]
-    - [Thunderpunch, Flatter]
+    - [Thunder Punch, Swagger]
+    - [Thunder Punch, Flatter]
     - [Iron Tail, Brick Break]
 gender: [m, f]
 rarity: 1.0
