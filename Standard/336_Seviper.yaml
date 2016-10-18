@@ -18,7 +18,7 @@ evs: {hp: 32, atk: 180, def: 148, spA: 0, spD: 148, spe: 0}
 ---
 species: Seviper
 setname: Physical
-item: [Rowap Berry, Jacoba Berry]
+item: [Rowap Berry, Jaboca Berry]
 ability: [Shed Skin]
 moves:
     - [Poison Jab]
