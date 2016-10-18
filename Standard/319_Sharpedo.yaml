@@ -27,6 +27,7 @@ moves:
     - [Rage, Mimic, Torrent]
 separations:
     - [Assurance, Thief]
+    - [Aqua Jet, Aqua Jet]
 gender: [m, f]
 happiness: 255
 biddable: True
