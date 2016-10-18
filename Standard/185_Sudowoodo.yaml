@@ -27,8 +27,6 @@ moves:
 combinations:
     - [Hidden Power, Sunny Day]
     - [Salac Berry, Endure]
-separations:
-    - [Stone Edge, Rock Polish]
 gender: [m, f]
 rarity: 1.0
 ball: [Timer]
