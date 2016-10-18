@@ -10,8 +10,6 @@ moves:
     - [Mirror Shot, Shock Wave]
     - [Signal Beam, Tri Attack, Metal Sound]
     - [Supersonic, Refresh, Double Team, Magic Coat]
-combinations:
-    - []
 separations:
     - [Discharge, Shock Wave]
     - [Flash Cannon, Mirror Shot]
@@ -59,4 +57,4 @@ combinations:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Dive Ball]
+ball: [Dive]
