@@ -14,8 +14,8 @@ gender: [m, f]
 rarity: 1.0
 ball: [dive]
 nature: Quirky
-evs: {hp: 7, atk: 7, def: 6, spA: 7, spD: 6, spe: 6}
-ivs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+ivs: {hp: 7, atk: 7, def: 6, spA: 7, spD: 6, spe: 6}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Omastar
 setname: Physical
