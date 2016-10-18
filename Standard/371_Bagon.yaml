@@ -1,6 +1,6 @@
 species: Bagon
 setname: Standard
-item: [Haban Berry, Charcoal]
+item: [Haban Berry, Charcoal, Silk Scarf]
 ability: [Rock Head]
 moves:
     - [Dragon Claw, Dragon Rush]
