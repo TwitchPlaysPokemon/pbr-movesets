@@ -1,6 +1,6 @@
 species: Omanyte
 setname: Special
-item: [Helix Fossil, Splash Plate, Scope Lens]
+item: [Helix Fossil, Splash Plate, Wide Lens]
 ability: [Shell Armor, Swift Swim]
 moves:
     - [Surf, Hydro Pump, Muddy Water, Brine, Bubble Beam]
