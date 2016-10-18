@@ -8,7 +8,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 80, spD: 100, spe: 128}
 moves:
     - [Sludge Bomb]
     - [Energy Ball, Giga Drain, Petal Dance]
-    - [Leech Seed, Hidden Power Psychic 70, Sleep Powder]
+    - [Leech Seed, Hidden Power, Sleep Powder]
     - [Protect, Bind, Rest, Light Screen]
 combinations:
     - [Leech Seed, Protect]
