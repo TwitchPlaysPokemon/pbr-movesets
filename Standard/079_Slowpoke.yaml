@@ -11,8 +11,8 @@ moves:
     - [Thunder Wave]
     - [Amnesia, Skill Swap, Disable, Belly Drum]
 combinations:
-    - [Leftovers + Dive]
-    - [Sitrus Berry + Belly Drum]
+    - [Leftovers, Dive]
+    - [Sitrus Berry, Belly Drum]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -29,7 +29,7 @@ evs: {hp: 112, atk: 0, def: 88, spA: 252, spD: 56, spe: 0}
 moves:
     - [Surf, Psychic]
     - [Fire Blast, Flamethrower]
-    - [Ice Beam, Fissure, Shadow Ball, Gras Knot, Signal Beam]
+    - [Ice Beam, Fissure, Shadow Ball, Grass Knot, Signal Beam]
     - [Slack Off, Calm Mind]
 gender: [m, f]
 happiness: 255
