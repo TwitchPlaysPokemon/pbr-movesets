@@ -60,7 +60,7 @@ rarity: 1.0
 ball: [Timer]
 nature: Quiet
 ivs: 31
-evs: {hp: 252, atk: , def: 44, spA: 168, spD: 44, spe: 0}
+evs: {hp: 252, atk: 0, def: 44, spA: 168, spD: 44, spe: 0}
 ---
 species: Sableye
 setname: Ability Steal
