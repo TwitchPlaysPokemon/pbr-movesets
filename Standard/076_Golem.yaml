@@ -1,6 +1,6 @@
 species: Golem
 setname: Sand Veil
-item: []
+item: [null]
 ability: [Sand Veil]
 nature: Calm
 ivs: 31
@@ -49,8 +49,6 @@ moves:
 combinations:
     - [Smooth Rock, Sandstorm, Sandveil]
     - [Passho Berry, Sunny Day]
-separations:
-    - []
 gender: [m, f]
 happiness: 255
 biddable: True
