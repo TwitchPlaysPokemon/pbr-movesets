@@ -17,7 +17,7 @@ ball: [Net]
 nature: Modest
 ivs: {hp: 9, atk: 0, def: 9, spA: 9, spD: 9, spe: 9}
 evs: {hp: 84, atk: 0, def: 84, spA: 172, spD: 84, spe: 84}
-
+---
 species: Relicanth
 setname: Swift Swim
 item: [Everstone, Soft Sand, Sharp Beak]
@@ -38,7 +38,7 @@ ball: [Quick]
 nature: Mild
 ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 0, spe: 0}
-
+---
 species: Relicanth
 setname: Special
 item: [Sitrus Berry]
@@ -56,7 +56,7 @@ ball: [Heal]
 nature: Quiet
 ivs: 23
 evs: {hp: 76, atk: 0, def: 112, spA: 192, spD: 128, spe: 0}
-
+---
 species: Relicanth
 setname: Stall
 item: [Smooth Rock]

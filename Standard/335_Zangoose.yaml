@@ -20,6 +20,7 @@ ball: [Dusk]
 nature: Calm
 ivs: 15
 evs: {hp: 60, atk: 60, def: 60, spA: 60, spD: 60, spe: 60}
+---
 species: Zangoose
 setname: Special
 item: [Power Herb]
