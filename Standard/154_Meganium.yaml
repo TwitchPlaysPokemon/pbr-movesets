@@ -72,4 +72,4 @@ rarity: 1.0
 ball: [Ultra]
 nature: Adamant
 ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 10, spe: 31}
-evs: {hp: 48, atk: 252, def: 44, spA: 80, spD: 44, spe: 44}
+evs: {hp: 48, atk: 252, def: 44, spA: 80, spD: 44, spe: 40}
