@@ -8,7 +8,7 @@ moves:
     - [Thunderbolt, Flamethrower, Water Pulse]
     - [Agility, Thunder Wave, Rain Dance, Sunny Day]
 combinations:
-    - [Water Pulse + Rain Dance]
+    - [Water Pulse, Rain Dance]
 separations:
     - [Thunder, Thunderbolt]
     - [Thunder, Sunny Day]
