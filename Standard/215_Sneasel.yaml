@@ -1,6 +1,6 @@
 species: Sneasel
 setname: Physical
-item: [none, Dread Plate, Poison Barb]
+item: [null, Dread Plate, Poison Barb]
 ability: [Keen Eye]
 moves:
     - [Ice Punch]
