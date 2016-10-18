@@ -18,9 +18,9 @@ species: Blastoise
 setname: Physical
 item: [Iron Ball]
 ability: [Torrent]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Brave
+ivs: 0
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 0}
 moves:
     - [Aqua Jet, Aqua Tail]
     - [Outrage, Earthquake]
