@@ -14,7 +14,7 @@ rarity: 1.0
 ball: [Premier]
 nature: Quiet
 ivs: 13
-evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: , spe: }
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
 ---
 species: Kecleon
 setname: Physical
