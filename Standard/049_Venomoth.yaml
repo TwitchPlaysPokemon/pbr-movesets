@@ -36,7 +36,7 @@ moves:
     - [Toxic Spikes, Double Team, Poison Powder, Thief]
     - [Substitute]
 gender: [m, f]
-hapiness: 255
+happiness: 255
 biddable: true
 rarity: 0.8
 ball: []
