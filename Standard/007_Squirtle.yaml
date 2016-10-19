@@ -36,3 +36,17 @@ combinations:
 separations:
     - [Body Slam, Fling]
 gender: [m, f]
+---
+species: Squirtle
+setname: Tank
+item: [Sitrus Berry]
+ability: [Torrent]
+nature: Calm
+ivs: 31
+evs: {hp: 252, atk: 0, def: 160, spA: 0, spD: 96, spe: 0}
+moves:
+    - [Brine]
+    - [Seismic Toss]
+    - [Bide]
+    - [Rapid Spin, Iron Defense, Attract]
+gender: [m, f]
