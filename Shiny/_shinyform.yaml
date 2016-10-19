@@ -23,7 +23,7 @@ evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
 species: 
 setname: Shiny
 item: []
-ability: []
+ability: [null]
 moves:
     - []
     - []

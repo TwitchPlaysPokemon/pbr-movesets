@@ -31,7 +31,7 @@ level: 100
 species: 
 setname: 
 item: []
-ability: []
+ability: [null]
 moves:
     - []
     - []
