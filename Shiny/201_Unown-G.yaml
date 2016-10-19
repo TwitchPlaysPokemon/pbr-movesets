@@ -1,5 +1,5 @@
 species: Unown
-setname: Shiny
+setname: G Shiny
 item: [Ganlon Berry, Gooey Mulch, Grass Mail, Green Scarf, Green Shard, Grepa Berry, Grip Claw, Growth Mulch, Guard Spec.]
 ability: [Gluttony, Guts]
 moves:
@@ -10,7 +10,6 @@ moves:
 combinations:
     - [Ganlon Berry, Gluttony]
     - [Grass Whistle, Gravity]
-separations:
 form: 6
 shiny: True
 ball: [Great]

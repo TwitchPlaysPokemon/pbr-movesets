@@ -1,5 +1,5 @@
 species: Unown
-setname: Shiny
+setname: I Shiny
 item: [Iapapa Berry, Ice Heal, Icicle Plate, Icy Rock, Insect Plate, Iron, Iron Ball, Iron Plate]
 ability: [Ice Body, Illuminate, Immunity, Inner Focus, Insomnia, Intimidate, Iron Fist]
 moves:
@@ -7,7 +7,7 @@ moves:
     - [Ice Beam, Ice Ball, Ice Fang, Ice Punch, Icicle Spear]
     - [Icy Wind, Ice Shard]
     - [Imprison, Ingrain, Iron Defense]
-seperations:
+separations:
     - [Icicle Spear, Ice Shard]
 form: 8
 shiny: True

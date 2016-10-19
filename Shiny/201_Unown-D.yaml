@@ -1,6 +1,6 @@
 species: Unown
-setname: Shiny
-item: [Damp Mulch, Damp Rock, Dawn Stone, DeapSeaScale, DeapSeaTooth, Destiny Knot, Dire Hit, Dome Fossil, Draco Plate, Dragon Fang, Dragon Scale, Dread Plate, Dubious Disc, Durin Berry, Dusk Stone]
+setname: D Shiny
+item: [Damp Mulch, Damp Rock, Dawn Stone, DeepSeaScale, DeepSeaTooth, Destiny Knot, Dire Hit, Dome Fossil, Draco Plate, Dragon Fang, Dragon Scale, Dread Plate, Dubious Disc, Durin Berry, Dusk Stone]
 ability: [Damp, Download, Drizzle, Drought, Dry Skin]
 moves:
     - [Dark Pulse, Discharge, Draco Meteor, Dragon Pulse]

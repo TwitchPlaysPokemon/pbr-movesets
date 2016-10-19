@@ -1,11 +1,11 @@
 species: Unown
-setname: Shiny
+setname: F Shiny
 item: [Figy Berry, Fire Stone, Fist Plate, Flame Mail, Flame Orb, Flame Plate, Fluffy Tail, Focus Band, Focus Sash, Fresh Water, Full Heal, Full Incense, Full Restore]
 ability: [Filter, Flame Body, Flash Fire, Flower Gift, Forewarn, Frisk]
 moves:
     - [Fake Out, Facade, Feint Attack, Fire Fang, Fire Punch, Flame Wheel, Flare Blitz, Fly, Force Palm, Frustration]
     - [Fire Blast, Flamethrower, Flash Cannon, Focus Blast, Frenzy Plant]
-    - [False Swipe, Feint, Fire Spin, Fissure, Flail, Fling, Focus Punch, Fury Attack, Fury Cutter, Future Sight]
+    - [False Swipe, Feint, Fire Spin, Fissure, Flail, Fling, Focus Punch, Fury Swipes, Fury Attack, Fury Cutter, Future Sight]
     - [Fake Tears, Feather Dance, Flash, Flatter, Foresight]
 separations:
     - [Facade, False Swipe]

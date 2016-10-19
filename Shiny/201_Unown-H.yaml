@@ -1,6 +1,6 @@
 species: Unown
-setname: Shiny
-item: [Haban Berry, Hard Stone, Heal Powder, Heal Mail, Heart Mail, Heart Scale, Heat Rock, Helix Fossil, Hondew Berry, Honey, HP Up, Hyper Potion]
+setname: H Shiny
+item: [Haban Berry, Hard Stone, Heal Powder, Heart Mail, Heart Scale, Heat Rock, Helix Fossil, Hondew Berry, Honey, HP Up, Hyper Potion]
 ability: [Heatproof, Honey Gather, Huge Power, Hustle, Hydration, Hyper Cutter]
 moves:
     - [Heat Wave, Hidden Power, Hydro Cannon, Hydro Pump, Hyper Beam, Hyper Voice]

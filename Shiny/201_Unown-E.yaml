@@ -1,6 +1,6 @@
 species: Unown
-setname: Shiny
-item: [Earth Plate, Electirizer, Elixir, Energy Root, EnergyPowder, Enigma Berry, Escape Rope, Ether, Everstone, Exp Share, Expert Belt]
+setname: E Shiny
+item: [Earth Plate, Electirizer, Elixir, Energy Root, EnergyPowder, Enigma Berry, Escape Rope, Ether, Everstone, Exp. Share, Expert Belt]
 ability: [Early Bird, Effect Spore]
 moves:
     - [Earth Power, Energy Ball, Eruption, Extrasensory]

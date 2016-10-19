@@ -1,11 +1,11 @@
 species: Unown
-setname: Shiny
+setname: T Shiny
 item: [Tamato Berry, Tanga Berry, Thick Club, Thunder Stone, TinyMushroom, Toxic Orb, Toxic Plate, Tunnel Mail, TwistedSpoon]
 ability: [Tangled Feet, Technician, Thick Fat, Tinted Lens, Torrent, Trace, Truant]
 moves:
     - [Thunder, Thunderbolt, Tri Attack, Trump Card]
     - [Take Down, Thrash, Thunder Fang, Thunder Punch]
-    - [Tackle, Thief, Thunder Shock, Triple Kick, Twinneedle, Twister]
+    - [Tackle, Thief, Thunder Shock, Triple Kick, Twineedle, Twister]
     - [Tail Glow, Tail Whip, Tailwind, Taunt, Teeter Dance, Teleport, Tickle, Torment, Toxic, Toxic Spikes, Transform, Trick, Trick Room]
 combinations:
     - [Take Down, Thunder Shock]
