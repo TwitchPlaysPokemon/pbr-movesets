@@ -20,7 +20,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.4
-ball: []
+ball: [Poké]
 ---
 species: Dugtrio
 setname: Sand Veil
@@ -40,4 +40,4 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 0.7
-ball: []
+ball: [Poké]

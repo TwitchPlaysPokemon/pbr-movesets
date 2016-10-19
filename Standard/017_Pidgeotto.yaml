@@ -21,7 +21,7 @@ gender: [m, f]
 happiness: 55
 biddable: true
 rarity: 1.4
-ball: []
+ball: [Poké]
 ---
 species: Pidgeotto
 setname: Special
@@ -42,4 +42,4 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 0.6
-ball: []
+ball: [Poké]

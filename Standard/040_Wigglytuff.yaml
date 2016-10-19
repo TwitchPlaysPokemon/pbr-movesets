@@ -22,7 +22,7 @@ gender: [m, f]
 biddable: true
 happiness: 92
 rarity: 1.1
-ball: []
+ball: [Poké]
 ---
 species: Wigglytuff
 setname: Special
@@ -42,4 +42,4 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 0.9
-ball: []
+ball: [Poké]

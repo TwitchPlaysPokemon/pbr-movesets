@@ -21,7 +21,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.3
-ball: []
+ball: [Poké]
 ---
 species: Venomoth
 setname: Tinted Lens
@@ -39,7 +39,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 0.8
-ball: []
+ball: [Poké]
 ---
 species: Venomoth
 setname: Physical
@@ -57,4 +57,4 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 0.4
-ball: []
+ball: [Poké]

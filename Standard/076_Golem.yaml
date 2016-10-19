@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Golem
 setname: High Attack
@@ -32,7 +32,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Golem
 setname: Golem-Special
@@ -53,4 +53,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]

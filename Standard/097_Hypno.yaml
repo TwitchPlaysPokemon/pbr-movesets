@@ -18,7 +18,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Hypno
 setname: Physical
@@ -36,7 +36,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Hypno
 setname: Hypnosis
@@ -54,7 +54,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Hypno 
 setname: Passer
@@ -72,4 +72,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]

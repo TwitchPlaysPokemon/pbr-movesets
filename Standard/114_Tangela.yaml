@@ -18,7 +18,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.8
-ball: []
+ball: [Poké]
 ---
 species: Tangela
 setname: Physical
@@ -41,7 +41,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Tangela
 setname: Setup
@@ -59,4 +59,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.7
-ball: []
+ball: [Poké]

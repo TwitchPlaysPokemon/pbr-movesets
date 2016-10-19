@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.3
-ball: []
+ball: [Poké]
 ---
 species: Rattata
 setname: Guts
@@ -52,4 +52,4 @@ separations:
 gender: [m, f]
 biddable: true
 rarity: 0.4
-ball: []
+ball: [Poké]

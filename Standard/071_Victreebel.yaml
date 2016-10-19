@@ -13,7 +13,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.4
-ball: []
+ball: [Poké]
 nature: Quiet
 ivs: {hp: 31, atk: 29, def: 28, spA: 28, spD: 30, spe: 29}
 evs: {hp: 0, atk: 0, def: 84, spA: 252, spD: 84, spe: 88}
@@ -31,7 +31,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.7
-ball: []
+ball: [Poké]
 nature: Brave
 ivs: 31
 evs: {hp: 136, atk: 252, def: 44, spA: 0, spD: 44, spe: 32}

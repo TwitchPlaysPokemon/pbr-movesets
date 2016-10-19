@@ -10,7 +10,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: Modest
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -27,7 +27,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: Adamant
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -51,7 +51,7 @@ separations:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: 
 ivs: {hp: , atk: , def: , spA: , spD: , spe: }
 evs: {hp: , atk: , def: , spA: , spD: , spe: }
@@ -71,7 +71,7 @@ combinations:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: Brave
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

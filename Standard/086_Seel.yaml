@@ -18,7 +18,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Seel
 setname: Physical
@@ -44,7 +44,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Seel
 setname: Cancer
@@ -62,4 +62,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Poké]

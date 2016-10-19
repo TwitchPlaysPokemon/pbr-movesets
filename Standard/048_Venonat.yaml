@@ -13,7 +13,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-ball: []
+ball: [Poké]
 ---
 species: Venonat
 setname: Compound Eyes
@@ -29,4 +29,4 @@ moves:
     - [Screech, Substitute]
 gender: [m, f]
 biddable: true
-ball: []
+ball: [Poké]

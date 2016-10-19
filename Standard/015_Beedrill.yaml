@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 0.4
-ball: []
+ball: [Poké]
 ---
 species: Beedrill
 setname: Swarm

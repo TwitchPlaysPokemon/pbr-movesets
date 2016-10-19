@@ -18,7 +18,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.1
-ball: []
+ball: [Poké]
 ---
 species: Clefable
 setname: Physical
@@ -36,7 +36,7 @@ gender: [m, f]
 happiness: 188
 biddable: true
 rarity: 0.8
-ball: []
+ball: [Poké]
 ---
 species: Clefable
 setname: Defensive
@@ -68,4 +68,4 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.1
-ball: []
+ball: [Poké]

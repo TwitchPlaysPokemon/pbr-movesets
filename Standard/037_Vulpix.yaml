@@ -14,7 +14,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 0.9
-ball: []
+ball: [Poké]
 ---
 species: Vulpix
 setname: Physical
@@ -32,4 +32,4 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.1
-ball: []
+ball: [Poké]

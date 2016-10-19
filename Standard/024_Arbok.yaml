@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 
-ball: []
+ball: [Poké]
 ---
 species: Arbok
 setname: Mixed
@@ -35,7 +35,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 
-ball: []
+ball: [Poké]
 ---
 species: Arbok
 setname: Rest
@@ -53,4 +53,4 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 
-ball: []
+ball: [Poké]

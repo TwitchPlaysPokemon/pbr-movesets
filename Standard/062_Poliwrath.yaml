@@ -13,7 +13,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: Bashful
 ivs: {hp: 5, atk: 31, def: 5, spA: 31, spD: 5, spe: 20}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
@@ -38,7 +38,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: Docile
 ivs: 0
 evs: {hp: 80, atk: 32, def: 84, spA: 0, spD: 84, spe: 84}
@@ -64,7 +64,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: Docile
 ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
 evs: {hp: 0, atk: 0, def: 40, spA: 40, spD: 40, spe: 40}

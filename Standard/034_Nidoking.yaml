@@ -15,7 +15,7 @@ separations:
 gender: [m]
 biddable: true
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Nidoking
 setname: Mixed
@@ -39,4 +39,4 @@ gender: [m]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: []
+ball: [Poké]

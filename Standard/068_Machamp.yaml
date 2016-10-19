@@ -11,7 +11,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3
-ball: []
+ball: [Poké]
 nature: Modest
 ivs: 0
 evs: {hp: 40, atk: 8, def: 40, spA: 60, spD: 40, spe: 80}
@@ -36,7 +36,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.6
-ball: []
+ball: [Poké]
 nature: Careful
 ivs: 29
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -54,7 +54,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.1
-ball: []
+ball: [Poké]
 nature: Gentle
 ivs: {hp: 31, atk: 31, def: 2, spA: 30, spD: 30, spe: 30}
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 252, spe: 0}

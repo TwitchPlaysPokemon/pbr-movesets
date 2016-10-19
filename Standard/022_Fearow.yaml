@@ -13,4 +13,4 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-ball: []
+ball: [Poké]

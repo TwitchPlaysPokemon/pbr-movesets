@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Exeggcute
 setname: Special
@@ -38,7 +38,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Exeggcute
 setname: Physical
@@ -56,4 +56,4 @@ gender: [m, f]
 happiness: 0
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Poké]

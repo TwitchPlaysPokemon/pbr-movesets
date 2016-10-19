@@ -18,7 +18,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.2
-ball: []
+ball: [Poké]
 ---
 species: Raichu
 setname: Special
@@ -41,7 +41,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.2
-ball: []
+ball: [Poké]
 ---
 species: Raichu
 setname: Mixed

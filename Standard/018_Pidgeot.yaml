@@ -18,7 +18,7 @@ gender: [m, f]
 happiness: 200
 biddable: true
 rarity: 1.4
-ball: []
+ball: [Poké]
 ---
 species: Pidgeot
 setname: Physical
@@ -36,7 +36,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 0.8
-ball: []
+ball: [Poké]
 ---
 species: Pidgeot
 setname: Special
@@ -57,4 +57,4 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 0.8
-ball: []
+ball: [Poké]

@@ -16,7 +16,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Cubone
 setname: Boomerang
@@ -34,7 +34,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Cubone
 setname: Special
@@ -52,4 +52,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Poké]

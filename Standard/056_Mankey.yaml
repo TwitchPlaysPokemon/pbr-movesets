@@ -17,7 +17,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.3
-ball: []
+ball: [Poké]
 ---
 species: Mankey
 setname: Special
@@ -40,4 +40,4 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 0.2
-ball: []
+ball: [Poké]

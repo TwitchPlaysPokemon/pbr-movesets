@@ -15,7 +15,7 @@ form: 11
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: 
 ivs: {hp: , atk: , def: , spA: , spD: , spe: }
 evs: {hp: , atk: , def: , spA: , spD: , spe: }

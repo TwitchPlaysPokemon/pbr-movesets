@@ -15,7 +15,7 @@ combinations:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Magnemite
 setname: Physical
@@ -34,4 +34,4 @@ combinations:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]

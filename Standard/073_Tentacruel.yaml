@@ -13,7 +13,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
@@ -35,7 +35,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 nature: Quiet
 ivs: {hp: 28, atk: 29, def: 28, spA: 30, spD: 28, spe: 31}
 evs: {hp: 8, atk: 0, def: 30, spA: 132, spD: 0, spe: 0}

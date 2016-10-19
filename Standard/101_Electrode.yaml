@@ -16,7 +16,7 @@ combinations:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Electrode
 setname: Physical
@@ -52,4 +52,4 @@ moves:
 happiness: 255
 biddable: True
 rarity: 0.1
-ball: []
+ball: [Poké]

@@ -22,7 +22,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: []
+ball: [Poké]
 ---
 species: Pidgey
 setname: Special
@@ -42,4 +42,4 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: []
+ball: [Poké]

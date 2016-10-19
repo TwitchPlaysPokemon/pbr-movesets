@@ -14,7 +14,7 @@ gender: [f]
 happiness: 255
 biddable: true
 rarity: 0.7
-ball: []
+ball: [Poké]
 ---
 species: Nidorina
 setname: Special
@@ -35,4 +35,4 @@ gender: [f]
 biddable: true
 happiness: 255
 rarity: 1.4
-ball: []
+ball: [Poké]

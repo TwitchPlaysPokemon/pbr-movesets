@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255 
 biddable: true
 rarity: 0.9
-ball: []
+ball: [Poké]
 ---
 species: Sandshrew
 setname: Evasion
@@ -32,4 +32,4 @@ gender: [m, f]
 happiness: 255
 biddable: false
 rarity: 0.1
-ball: []
+ball: [Poké]
