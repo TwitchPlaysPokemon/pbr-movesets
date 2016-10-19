@@ -1,5 +1,5 @@
 species: Arceus
-setname: Balanced
+setname: Fire Balanced
 item: [Flame Plate]
 ability: [Multitype]
 moves:
@@ -16,7 +16,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 32, spD: 32, spe: 64}
 ---
 species: Arceus
-setname: Judgment
+setname: Fire Judgment
 item: [Flame Plate]
 ability: [Multitype]
 moves:

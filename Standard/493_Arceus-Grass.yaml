@@ -1,5 +1,5 @@
 species: Arceus
-setname: Balanced
+setname: Grass Balanced
 item: [Meadow Plate]
 ability: [Multitype]
 moves:
@@ -16,7 +16,7 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
 ---
 species: Arceus
-setname: Judgment
+setname: Grass Judgment
 item: [Meadow Plate]
 ability: [Multitype]
 moves:

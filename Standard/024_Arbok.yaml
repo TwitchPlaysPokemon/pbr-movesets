@@ -13,7 +13,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 
+rarity: 1.0
 ball: [Poké]
 ---
 species: Arbok
@@ -34,7 +34,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 
+rarity: 1.0
 ball: [Poké]
 ---
 species: Arbok
@@ -52,5 +52,5 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 
+rarity: 1.0
 ball: [Poké]

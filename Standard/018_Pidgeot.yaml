@@ -1,6 +1,6 @@
 species: Pidgeot
 setname: Standard
-item: [Air Mail, Toxic Orb, Pinap Berry]
+item: [Air Mail, Toxic Orb, Pinap Berry, Razor Claw]
 ability: [Keen Eye, Tangled Feet]
 nature: Quiet
 ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
@@ -51,8 +51,8 @@ moves:
     - [Heat Wave]
     - [Twister, Gust, Mud-Slap, Ominous Wind, Uproar, Snore]
 combinations:
-    -[Silk Scarf, Swift]
-    -[Sky Plate, Hidden Power]
+    - [Silk Scarf, Swift]
+    - [Sky Plate, Hidden Power]
 gender: [m, f]
 happiness: 255
 biddable: true

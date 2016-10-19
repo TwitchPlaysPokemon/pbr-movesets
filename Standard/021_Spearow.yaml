@@ -8,7 +8,7 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Sky Attack, Double-Edge]
     - [Secret Power, Return, Fly, Drill Peck]
-    - [U-turn,Steel Wing, Assurance, Natural Gift, Baton Pass]
+    - [U-turn, Steel Wing, Assurance, Natural Gift, Baton Pass]
     - [Pursuit, Toxic, Swagger, Double Team, Feather Dance]
 combinations:
     - [Salac Berry, Natural Gift]
@@ -20,7 +20,7 @@ separations:
     - [Double-Edge, Return]
     - [Sky Attack, Fly]
     - [Sky Attack, Drill Peck]
-    - [Feint Attack, Pursuit]
+    - [Assurance, Pursuit]
 gender: [m, f]
 happiness: 200
 biddable: true

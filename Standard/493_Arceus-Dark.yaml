@@ -1,5 +1,5 @@
 species: Arceus
-setname: Balanced
+setname: Dark Balanced
 item: [Dread Plate]
 ability: [Multitype]
 moves:
@@ -16,7 +16,7 @@ ivs: 0
 evs: {hp: 148, atk: 108, def: 108, spA: 0, spD: 108, spe: 0}
 ---
 species: Arceus
-setname: Judgment
+setname: Dark Judgment
 item: [Dread Plate]
 ability: [Multitype]
 moves:

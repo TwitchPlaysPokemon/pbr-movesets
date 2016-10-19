@@ -1,5 +1,5 @@
 species: Arceus
-setname: Balanced
+setname: Steel Balanced
 item: [Iron Plate]
 ability: [Multitype]
 moves:
@@ -16,7 +16,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Arceus
-setname: Judgment
+setname: Steel Judgment
 item: [Iron Plate]
 ability: [Multitype]
 moves:

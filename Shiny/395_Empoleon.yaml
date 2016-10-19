@@ -14,4 +14,4 @@ shiny: True
 ball: [Luxury]
 nature: Adamant
 ivs: 15
-evs: {hp: 85, atk: 88, def: 85, spA: 80, spD: 85, spe: 85}
+evs: {hp: 84, atk: 88, def: 84, spA: 80, spD: 84, spe: 84}

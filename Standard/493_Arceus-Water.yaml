@@ -1,5 +1,5 @@
 species: Arceus
-setname: Balanced
+setname: Water Balanced
 item: [Splash Plate]
 ability: [Multitype]
 moves:
@@ -16,7 +16,7 @@ ivs: 22
 evs: {hp: 48, atk: 224, def: 0, spA: 208, spD: 0, spe: 28}
 ---
 species: Arceus
-setname: Judgment
+setname: Water Judgment
 item: [Splash Plate]
 ability: [Multitype]
 moves:

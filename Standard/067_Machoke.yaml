@@ -40,6 +40,6 @@ happiness: 255
 biddable: True
 rarity: 0.3
 ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

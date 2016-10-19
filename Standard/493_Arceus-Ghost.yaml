@@ -1,5 +1,5 @@
 species: Arceus
-setname: Balanced
+setname: Ghost Balanced
 item: [Spooky Plate]
 ability: [Multitype]
 moves:
@@ -16,7 +16,7 @@ ivs: 31
 evs: {hp: 80, atk: 252, def: 68, spA: 0, spD: 68, spe: 40}
 ---
 species: Arceus
-setname: Judgment
+setname: Ghost Judgment
 item: [Spooky Plate]
 ability: [Multitype]
 moves:
