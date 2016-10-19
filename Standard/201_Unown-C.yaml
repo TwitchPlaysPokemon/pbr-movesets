@@ -1,6 +1,6 @@
 species: Unown
 setname: Standard
-item: []
+item: [null]
 ability: [null]
 moves:
     - []
