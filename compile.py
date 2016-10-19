@@ -17,13 +17,13 @@ except ImportError:
 
 
 sets = []
-outfile = "compiled.json"
+outfile = "_compiled.json"
 
 existing_ids = {}
 
 for dir, _, files in os.walk("."):
     for file in files:
-        if not file.endswith(".yaml") or file == outfile:
+        if not file.endswith(".yaml") or file == outfile or file.startswith("_"):
             continue
         filepath = os.path.join(dir, file)
         with open(filepath, "r", encoding="utf-8") as f:
@@ -55,4 +55,4 @@ for dir, _, files in os.walk("."):
 
 print("Writing output to {}...".format(outfile))
 with open(outfile, "w+", encoding="utf-8") as f:
-    json.dump(sets, f)
+    json.dump(sets, f, indent="    ")
