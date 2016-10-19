@@ -1,0 +1,59 @@
+species: Banette
+setname: Physical
+item: [Null]
+ability: [Insomnia]
+nature: Mild
+ivs: 11
+evs: 84
+moves:
+    - [Shadow Claw]
+    - [Sucker Punch]
+    - [Taunt]
+    - [Screech]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+---
+species: Banette
+setname: Special
+item: [Zap Plate, Spooky Plate, Poké Doll]
+ability: [Insomnia]
+nature: Timid
+ivs: 16
+evs: {hp: 132, atk: 0, def: 112, spA: 0, spD: 132, spe: 132}
+moves:
+    - [Shadow Ball, Ominous Wind]
+    - [Gunk Shot, Thunder, Thunderbolt, Body Slam]
+    - [Charge Beam, Psychic, Icy Wind]
+    - [Torment, Curse, Pain Split]
+combinations:
+    - [Zap Plate, Charge Beam]
+	- [Spooky Plate, Ominous Wind]
+separations:
+    - [Thunder, Charge Beam]
+	- [Thunderbolt, Charge Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+---
+species: Banette
+setname: High Stats
+item: [Muscle Band]
+ability: [Insomnia]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 0, def: 64, spA: 0, spD: 64, spe: 252}
+moves:
+    - [Astonish, Shadow Sneak]
+    - [Return]
+    - [Night Shade]
+    - [Mimic, Confuse Ray]
+gender: [m, f]
+happiness: 125
+biddable: True
+rarity: 0.5
+ball: [Premier]

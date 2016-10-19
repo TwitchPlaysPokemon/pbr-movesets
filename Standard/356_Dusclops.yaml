@@ -1,0 +1,43 @@
+species: Dusclops
+setname: Physical
+item: [Dusk Stone]
+ability: [Pressure, Frisk]
+nature: Quirky
+ivs: 11
+evs: 84
+moves:
+    - [Shadow Punch]
+    - [Ice Punch, Thunder Punch, Fire Punch, Rock Slide]
+    - [Curse, Disable, Taunt]
+    - [Trick Room, Protect, Grudge, Destiny Bond]
+combinations:
+    - [Curse, Trick Room]
+    - [Disable, Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+---
+species: Dusclops
+setname: Special
+item: [Zap Plate, Spooky Plate, Dread Plate]
+ability: [Frisk, Pressure]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 0, spe: 128}
+moves:
+    - [Shadow Ball, Ominous Wind, Dark Pulse]
+    - [Charge Beam, Psychic, Ice Beam]
+    - [Pain Split, Skill Swap, Will-O-Wisp]
+    - [Calm Mind]
+combinations:
+    - [Spooky Plate, Ominous Wind]
+    - [Dread Plate, Dark Pulse]
+	- [Zap Plate, Shadow Ball, Charge Beam]
+	- [Frisk, Skill Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]

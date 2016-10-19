@@ -1,0 +1,53 @@
+species: Duskull
+setname: Standard
+item: [Berry Juice]
+ability: [Levitate]
+nature: Impish
+ivs: 27
+evs: {hp: 252, atk: 28, def: 84, spA: 28, spD: 84, spe: 28}
+moves:
+    - [Night Shade]
+    - [Will-O-Wisp]
+    - [Pain Split]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+---
+species: Duskull
+setname: Special
+item: [Sitrus Berry]
+ability: [Levitate']
+nature: Modset
+ivs: 31
+evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
+moves:
+    - [Shadow Ball]
+    - [Psychic, Ice Beam]
+    - [Charge Beam, Calm Mind]
+    - [Confuse Ray, Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+---
+species: Duskull
+setname: Physical
+item: [Liechi Berry]
+ability: [Levitate]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Shadow Sneak]
+    - [Payback]
+    - [Double-Edge, Frustration]
+    - [Endure]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.5
+ball: [Quick]

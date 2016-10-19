@@ -1,0 +1,41 @@
+species: Claydol
+setname: Standard
+item: [Iron Ball, Null]
+ability: [Levitate]
+nature: Rash
+ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 10, spe: 0}
+evs: {hp: 128, atk: 72, def: 0, spA: 92, spD: 0, spe: 0}
+moves:
+    - [Earth Power, Earthquake]
+    - [Zen Headbutt, Psychic]
+    - [Signal beam, Stone Edge, Ice Beam]
+    - [Trick, Rock Polish, Magic Coat]
+combinations:
+    - [Iron Ball, Trick]
+separations:
+    - [Earth Power, Psychic]
+	- [Earthquake, Zen Headbutt]
+	- [Psychic, Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+---
+species: Claydol
+setname: Physical
+item: [Macho Brace]
+ability: [Levitate]
+nature: Brave
+ivs: {hp: 22, atk: 22, def: 22, spA: 22, spD: 22, spe: 0}
+evs: {hp: 124, atk: 128, def: 128, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Zen Headbutt]
+    - [Dig]
+    - [Rock Slide]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
