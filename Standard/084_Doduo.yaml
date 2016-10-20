@@ -42,7 +42,7 @@ setname: Mixed
 item: [Focus Sash]
 ability: [Early Bird]
 nature: Timid
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 31
 evs: {hp: 84, atk: 68, def: 20, spA: 188, spD: 20, spe: 128}
 moves:
     - [Tri Attack]
