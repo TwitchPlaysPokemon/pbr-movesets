@@ -4,7 +4,7 @@ item: [Poison Barb]
 ability: [Levitate]
 nature: Sassy
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 88, atk: 84, def: 0, spA: 84, spD: 252, spe: 60}
+evs: {hp: 88, atk: 84, def: 0, spA: 84, spD: 252, spe: 0}
 moves:
     - [Sludge]
     - [Payback]
@@ -37,7 +37,7 @@ rarity: 1.0
 ball: [Poké]
 ---
 species: Wheezing
-setname: Special
+setname: Physical
 item: [Qualot Berry]
 ability: [Levitate]
 nature: Adamant
