@@ -12,7 +12,7 @@ moves:
     - [Charge Beam, Calm Mind, Grass Knot, Recover]
 combinations:
     - [Ice Beam, Rock Tomb]
-	- [Cosmic Power, Recover]
+    - [Cosmic Power, Recover]
 gender: [m, f]
 happiness: 255
 biddable: True
