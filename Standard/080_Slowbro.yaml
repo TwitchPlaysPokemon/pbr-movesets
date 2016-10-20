@@ -43,9 +43,9 @@ species: Slowbro
 setname: Physical
 item: [Oran Berry, Full Incense]
 ability: [Oblivious, Own Tempo]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 10, spe: 100}
 moves:
     - [Aqua Tail, Zen Headbutt]
     - [Earthquake, Focus Punch]
