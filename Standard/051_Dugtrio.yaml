@@ -6,7 +6,7 @@ nature: Rash
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 100, def: 100, spA: 108, spD: 100, spe: 0}
 moves:
-    - [Earthquake, Earth Power]
+    - [Earthquake, Earth Power, Dig]
     - [Shadow Claw, Night Slash, Stone Edge, Sludge Bomb]
     - [Aerial Ace, Tri Attack, Reversal]
     - [Stealth Rock, Toxic, Endure, Sand-Attack, Charm]
@@ -15,7 +15,7 @@ combinations:
     - [Reversal, Endure]
     - [Wise Glasses, Earth Power]
     - [Sharp Beak, Aerial Ace]
-    - [Scope Lens, Slash]
+    - [Scope Lens, Night Slash]
 gender: [m, f]
 biddable: true
 happiness: 255
