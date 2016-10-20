@@ -14,9 +14,9 @@ happiness: 255
 biddable: True
 rarity: 0.8
 ball: [Luxury]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Hardy
+ivs: 0
+evs: 0
 ---
 species: Kingdra
 setname: Critter
