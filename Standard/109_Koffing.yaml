@@ -4,7 +4,7 @@ item: [Payapa Berry, Lum Berry, Black Sludge]
 ability: [Levitate]
 nature: Calm
 ivs: 31
-evs: {hp: 168, atk: 0, def: 84, spA: 84, spD: 172, spe: 35}
+evs: {hp: 168, atk: 0, def: 84, spA: 84, spD: 172, spe: 0}
 moves:
     - [Sludge Bomb]
     - [Fire Blast, Thunder]
