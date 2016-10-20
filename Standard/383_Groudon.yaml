@@ -12,8 +12,8 @@ moves:
     - [Mimic]
 combinations:
     - [Fury Cutter, Metronome]
-	- [Heat Rock, Fling, Swift]
-	- [Natural Gift, Bluck Berry]
+    - [Heat Rock, Fling, Swift]
+    - [Natural Gift, Bluk Berry]
 gender: [m, f]
 happiness: 163
 biddable: True
@@ -31,7 +31,7 @@ moves:
     - [Earthquake, Earth Power]
     - [Eruption, Solar Beam]
     - [Thunderbolt, Stone Edge, Dragon Claw, Thunder Punch]
-    - [Sandtorm]
+    - [Sandstorm]
 gender: [m, f]
 happiness: 255
 biddable: True
