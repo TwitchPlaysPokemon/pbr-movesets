@@ -26,7 +26,7 @@ ball: [Poké]
 ---
 species: Pidgey
 setname: Special
-item: [Petaya Berry, Figy Berry]
+item: [Petaya Berry, Focus Sash]
 ability: [Keen Eye, Tangled Feet]
 nature: Modest
 ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
