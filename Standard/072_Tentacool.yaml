@@ -23,7 +23,7 @@ evs: {hp: 100, atk: 0, def: 52, spA: 200, spD: 52, spe: 104}
 ---
 species: Tentacool
 setname: Physical
-item: [Salac Berry, Papaya Berry, Sitrus Berry]
+item: [Salac Berry, Payapa Berry, Sitrus Berry]
 ability: [Clear Body]
 moves:
     - [Waterfall, Dive]
@@ -31,7 +31,7 @@ moves:
     - [Double-Edge, Payback, Confuse Ray, Toxic]
     - [Swords Dance]
 combinations:
-    - [Papaya Berry, Payback]
+    - [Payapa Berry, Payback]
     - [Sitrus Berry, Barrier]
 separations:
     - [Waterfall, Toxic]
