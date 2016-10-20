@@ -1,16 +1,17 @@
 species: Walrein
 setname: Standard
-item: [Exp Share, Life Orb]
+item: [Exp Share]
 ability: [Oblivious]
 moves:
-    - [Brine, Water Pulse, Dive, Water Gun]
-    - [Ice Ball, Ice Fang, Aurora Beam, Powder Snow]
-    - [Rollout, Rock Slide, Iron Head, Iron Tail, Crunch, Rock Tomb]
-    - [Defense Curl, Stockpile, Yawn, Mimic]
+    - [Waterfall, Water Pulse, Dive]
+    - [Ice Ball, Ice Fang, Aurora Beam]
+    - [Rollout, Rock Slide, Iron Head, Iron Tail, Crunch]
+    - [Defense Curl, Stockpile, Yawn]
 combinations:
     - [Ice Ball, Rollout, Defense Curl]
     - [Dive, Yawn]
-    - [Life Orb, Water Gun, Powder Snow, Rock Tomb, Mimic]
+separations:
+    - [Water Pulse, Aurora Beam]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -19,3 +20,23 @@ ball: [Dive]
 nature: Jolly
 ivs: 10
 evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+---
+species: Walrein
+setname: High Stats
+item: [Sitrus Berry]
+ability: [Thick Fat]
+moves:
+    - [Powder Snow]
+    - [Water Gun]
+    - [Headbutt, Rock Smash]
+    - [Mimic, Belly Drum]
+combinations:
+    - [Headbutt, Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: Serious
+ivs: 31
+evs: {hp: 12, atk: 64, def: 0, spA: 208, spD: 0, spe: 224}
