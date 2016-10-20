@@ -12,8 +12,8 @@ moves:
     - [Protect, Safeguard, Natural Gift]
 combinations:
     - [Whirlpool, Protect]
-	- [Magost Berry, Natural Gift]
-	- [Iron Head, Natural Gift]
+    - [Magost Berry, Natural Gift]
+    - [Iron Head, Natural Gift]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -54,7 +54,7 @@ moves:
     - [Hail]
 separations:
     - [Avalance, Sheer Cold]
-	- [Ice Beam, Sheer Cold]
+    - [Ice Beam, Sheer Cold]
 gender: [m, f]
 happiness: 255
 biddable: True
