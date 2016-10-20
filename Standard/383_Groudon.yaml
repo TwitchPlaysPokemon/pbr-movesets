@@ -4,7 +4,7 @@ item: [Flame Mail, Bluk Berry, Heat Rock, Metronome]
 ability: [Drought]
 nature: Mild
 ivs: {hp: 0, atk: 0, def: 0, spA: 3, spD: 2, spe: 2}
-evs: 
+evs: 0
 moves:
     - [Mud Shot, Hidden Power]
     - [Fury Cutter, Natural Gift, Fling, Return]
