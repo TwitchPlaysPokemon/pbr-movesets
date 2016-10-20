@@ -30,9 +30,9 @@ moves:
     - [Mist, Haze, Heal Bell, Safeguard, Protect, Substitute]
 combinations:
     - [Dragon Fang, Dragon Claw]
-	- [Wide Lens, Dragon Rush]
-	- [Iron Plate, Steel Wing]
-	- [Fly, Toxic, Substitute]
+    - [Wide Lens, Dragon Rush]
+    - [Iron Plate, Steel Wing]
+    - [Fly, Toxic, Substitute]
 separations:
     - [Natural Cure, Heal Bell]
 gender: [m, f]
