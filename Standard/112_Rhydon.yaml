@@ -38,7 +38,7 @@ separations:
     - [Thunder, Thunderbolt]
     - [Blizzard, Ice Beam]
     - [Surf, Sunny Day]
-    - [Flamethrower, Rain Rance]
+    - [Flamethrower, Rain Dance]
 gender: [m, f]
 happiness: 255
 biddable: True
