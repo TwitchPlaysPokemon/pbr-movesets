@@ -14,9 +14,9 @@ combinations:
     - [NeverMelt-Ice, Ice Fang]
 separations:
     - [Aqua Tail, Bounce]
-	- [Dive, Bounce]
-	- [Aqua tail, Body Slam]
-	- [Dive, Body Slam]
+    - [Dive, Bounce]
+    - [Aqua tail, Body Slam]
+    - [Dive, Body Slam]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -37,7 +37,7 @@ moves:
     - [Rain Dance]
 combinations:
     - [Sea Incense, Water Pulse]
-	- [Sharp Beak, Hidden Power]
+    - [Sharp Beak, Hidden Power]
 gender: [m, f]
 happiness: 255
 biddable: True
