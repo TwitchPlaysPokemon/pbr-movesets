@@ -35,10 +35,10 @@ rarity: 1.0
 ball: [Poké]
 ---
 species: Golem
-setname: Golem-Special
+setname: Special
 item: [Rindo Berry, Smooth Rock, Passho Berry]
 ability: [Sturdy, Sand Veil]
-nature: 
+nature: Quiet
 ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 30, spe: 30}
 evs: {hp: 60, atk: 96, def: 0, spA: 252, spD: 100, spe: 0}
 moves:
