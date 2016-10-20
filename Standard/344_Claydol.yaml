@@ -14,8 +14,8 @@ combinations:
     - [Iron Ball, Trick]
 separations:
     - [Earth Power, Psychic]
-	- [Earthquake, Zen Headbutt]
-	- [Psychic, Rock Polish]
+    - [Earthquake, Zen Headbutt]
+    - [Psychic, Rock Polish]
 gender: [m, f]
 happiness: 255
 biddable: True
