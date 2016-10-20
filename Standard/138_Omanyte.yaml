@@ -14,7 +14,7 @@ combinations:
 separations:
     - [Swift Swim, Hydro Pump]
     - [Swift Swim, Surf]
-    - [Battle Armor, Bubble Beam]
+    - [Shell Armor, Bubble Beam]
 gender: [m, f]
 ball: [Dive]
 nature: Modest
