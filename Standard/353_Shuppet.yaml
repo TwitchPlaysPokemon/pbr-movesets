@@ -12,7 +12,7 @@ moves:
     - [Protect, Screech, Swagger]
 combinations:
     - [Berry Juice, Will-O-Wisp, Screech]
-	- [Thunder Wave, Swagger]
+    - [Thunder Wave, Swagger]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -33,7 +33,7 @@ moves:
     - [Destiny Bond, Grudge, Calm Mind, Curse]
 combinations:
     - [King's Rock, Thunderbolt, Icy Wind]
-	- [Wide Lens, Psychic, Charge Beam]
+    - [Wide Lens, Psychic, Charge Beam]
 gender: [m, f]
 happiness: 255
 biddable: True
