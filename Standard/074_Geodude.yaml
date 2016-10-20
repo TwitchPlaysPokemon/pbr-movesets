@@ -20,7 +20,7 @@ species: Geodude
 setname: Special
 item: [Choice Specs]
 ability: [Sturdy]
-nature: 
+nature: Modest
 ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 moves:
