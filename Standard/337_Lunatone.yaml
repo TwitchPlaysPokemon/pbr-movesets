@@ -12,7 +12,7 @@ moves:
     - [Pain Split, Cosmic Power, Sandstorm]
 combinations:
     - [Smooth Rock, Sandstorm]
-	- [Baton Pass, Cosmic Power]
+    - [Baton Pass, Cosmic Power]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -33,7 +33,7 @@ moves:
     - [Calm Mind]
 combinations:
     - [Zap Plate, Charge Beam]
-	- [Grass Knot, Meadow Plate]
+    - [Grass Knot, Meadow Plate]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -52,13 +52,11 @@ moves:
     - [Rock Slide, Rollout]
     - [Earthquake]
     - [Harden, Defense Curl, Selfdestruct, Mimic, Rock Polish]
-combinations:
-    - []
 separations:
     - [Rollout, Harden]
-	- [Rollout, Selfdestruct]
-	- [Rollout, Mimic]
-	- [Rollout, Rock Polish]
+    - [Rollout, Selfdestruct]
+    - [Rollout, Mimic]
+    - [Rollout, Rock Polish]
 gender: [m, f]
 happiness: 255
 biddable: True
