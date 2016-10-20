@@ -34,8 +34,8 @@ moves:
 combinations:
     - [Spooky Plate, Ominous Wind]
     - [Dread Plate, Dark Pulse]
-	- [Zap Plate, Shadow Ball, Charge Beam]
-	- [Frisk, Skill Swap]
+    - [Zap Plate, Shadow Ball, Charge Beam]
+    - [Frisk, Skill Swap]
 gender: [m, f]
 happiness: 255
 biddable: True
