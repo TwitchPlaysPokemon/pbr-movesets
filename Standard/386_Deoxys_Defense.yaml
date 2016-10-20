@@ -1,0 +1,35 @@
+species:  Deoxys
+setname: Defense Attack
+item: [Tamato Berry]
+ability: [Pressure]
+nature: Brave
+ivs: 31
+evs: {hp: 140, atk: 0, def: 0, spA: 100, spD: 0, spe: 28}
+moves:
+    - [Natural Gift]
+    - [Signal Beam, Charge Beam, Energy Ball, Shock Wave, Water Pulse]
+    - [Taunt, Role Play, Safeguard, Snatch, Trick Room]
+    - [Recycle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+---
+species: Deoxys
+setname: Defense Counter
+item: [Star Piece]
+ability: [Pressure]
+nature: Naughty
+ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 60, spD: 12, spe: 0}
+moves:
+    - [Psycho Boost]
+    - [Counter]
+    - [Mirror Coat]
+    - [Spikes, Stealt Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]

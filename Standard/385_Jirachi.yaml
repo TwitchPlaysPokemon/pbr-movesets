@@ -1,0 +1,55 @@
+species: Jirachi
+setname: Doom Desire
+item: [Wide Lens]
+ability: [Serene Grace]
+nature: Mild
+ivs: 21
+evs: 0
+moves:
+    - [Doom Desire]
+    - [Confusion]
+    - [Confusion]
+    - [Drain Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+---
+species: Jirachi
+setname: Physical
+item: [Null]
+ability: [Serene Grace]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Meteor Mash, Iron Head]
+    - [Fire Punch]
+    - [U-turn, Last Resort, Thunder Punch]
+    - [Reflect, Defense Curl, Metronome, Snore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+---
+species: Jirachi
+setname: Special
+item: [Stardust]
+ability: [Serene Grace]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 0}
+moves:
+    - [Psychic, Flash Cannon]
+    - [Draco Meteor, Energy Ball, Thunderbolt]
+    - [Water Pulse, Ancient Power, Grass Knot, Icy Wind]
+    - [Helping Hand, Sandstorm, Trick]
+separations:
+    - [Energy Ball, Grass Knot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]

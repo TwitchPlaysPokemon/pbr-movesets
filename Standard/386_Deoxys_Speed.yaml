@@ -1,0 +1,17 @@
+species: Deoxys
+setname: Speed
+item: [Null]
+ability: [Pressure]
+nature: 
+ivs: 252
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Psycho Boost]
+    - [Superpower]
+    - [Night Shade, Avalanche, Thunder Punch, Energy Ball]
+    - [Stealth Rock, Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]

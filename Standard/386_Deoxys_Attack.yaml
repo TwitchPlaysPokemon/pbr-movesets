@@ -1,0 +1,35 @@
+species: Deoxys
+setname: Attack Standard
+item: [Power Herb]
+ability: [Pressure]
+nature: Impish 
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 80, spA: 0, spD: 116, spe: 0}
+moves:
+    - [Solar Beam]
+    - [Skull Bash]
+    - [Zap Cannon, Dynamic Punch]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [poke]
+---
+species: Deoxys
+setname: Attack Overpowered
+item: [Iron Ball]
+ability: [Pressure]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Psycho Boost]
+    - [Focus Blast, Thunder]
+    - [Mega Kick, Meteor Mash]
+    - [Teleport]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]

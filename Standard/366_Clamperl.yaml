@@ -1,0 +1,55 @@
+species: Clamperl
+setname: Special
+item: [Deep Sea Tooth]
+ability: [Shell Armor]
+nature: Careful
+ivs: {hp: 23, atk: 10, def: 23, spA: 10, spD: 23, spe: 23}
+evs: {hp: 188, atk: 0, def: 0, spA: 0, spD: 144, spe: 176}
+moves:
+    - [Muddy Water]
+    - [Brine]
+    - [Hidden Power]
+    - [Icy Wind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+---
+species: Clamperl
+setname: Physical
+item: [Deep Sea Scale]
+ability: [Shell Armor]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 0, def: 84, spA: 0, spD: 84, spe: 88}
+moves:
+    - [Waterfall, Dive]
+    - [Body Slam, Double-Edge]
+    - [Toxic]
+    - [Iron Defense, Barrier, Aqua Ring]
+combinations:
+    - [Waterfall, Body Slam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+---
+species: Clamperl
+setname: Baton Pass
+item: [Deep Sea Scale]
+ability: [Shell Armor]
+nature: Lonely
+ivs: {hp: 31, atk: 3, def: 3, spA: 30, spD: 31, spe: 31}
+evs: {hp: 252, atk: 28, def: 0, spA: 78, spD: 8, spe: 0}
+moves:
+    - [Water Pulse]
+    - [Hidden Power]
+    - [Iron Defense, Barrier]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]

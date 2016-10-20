@@ -1,0 +1,62 @@
+species: Kyogre
+setname: Special
+item: [Grip Claw, Magost Berry]
+ability: [Drizzle]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 28, spD: 1, spe: 3}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Whirlpool, Hidden Power]
+    - [Mud-Slap]
+    - [Giga Impact, Strength, Iron Head]
+    - [Protect, Safeguard, Natural Gift]
+combinations:
+    - [Whirlpool, Protect]
+	- [Magost Berry, Natural Gift]
+	- [Iron Head, Natural Gift]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+---
+species: Kyogre
+setname: Physical
+item: [Black Sludge]
+ability: [Drizzle]
+nature: Timid
+ivs: 0
+evs: 0
+moves:
+    - [Dive]
+    - [Avalance, Earthquake, Double-Edge, Giga Impact]
+    - [Shock Wave, Icy Wind, Ancient Power, Signal Beam]
+    - [Roar, Scary Face, Psych Up]
+separations:
+    - [Avalance, Icy Wind, Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+---
+species: Kyogre
+setname: Overpowered
+item: [Iron Ball]
+ability: [Drizzle]
+nature: Adamant
+ivs: 
+evs: 
+moves:
+    - [Water Spout, Aqua Tail, Waterfall]
+    - [Earthquake, Avalance, Thunderbolt, Ice Beam]
+    - [Ancient Power, Signal Beam, Sheer Cold]
+    - [Hail]
+separations:
+    - [Avalance, Sheer Cold]
+	- [Ice Beam, Sheer Cold]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]

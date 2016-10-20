@@ -1,0 +1,20 @@
+species: Deoxys
+setname: Normal
+item: [Hard Stone]
+ability: [Pressure]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 160, atk: 0, def: 96, spA: 0, spD: 96, spe: 0}
+moves:
+    - [Meteor Mash]
+    - [Ice Beam, Shadow Ball, Dark Pulse, Grass Knot, Water Pulse]
+    - [Poison Jab, Rock Tomb, Ice Punch, Cosmic Power]
+    - [Charge Beam, Calm Mind, Grass Knot, Recover]
+combinations:
+    - [Ice Beam, Rock Tomb]
+	- [Cosmic Power, Recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
