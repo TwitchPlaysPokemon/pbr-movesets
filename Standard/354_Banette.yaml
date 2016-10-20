@@ -30,10 +30,10 @@ moves:
     - [Torment, Curse, Pain Split]
 combinations:
     - [Zap Plate, Charge Beam]
-	- [Spooky Plate, Ominous Wind]
+    - [Spooky Plate, Ominous Wind]
 separations:
     - [Thunder, Charge Beam]
-	- [Thunderbolt, Charge Beam]
+    - [Thunderbolt, Charge Beam]
 gender: [m, f]
 happiness: 255
 biddable: True
