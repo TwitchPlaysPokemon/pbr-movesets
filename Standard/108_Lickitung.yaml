@@ -56,7 +56,7 @@ separations:
     - [Fire Blast, Rain Dance]
     - [Rain Dance, Solar Beam]
     - [Surf, Sunny Day]
-    - [Thunder, Sunny]
+    - [Thunder, Sunny Day]
 gender: [m, f]
 happiness: 255
 biddable: True
