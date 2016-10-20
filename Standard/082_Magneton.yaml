@@ -2,7 +2,7 @@ species: Magneton
 setname: Special
 item: [Shed Shell, Metal Coat, Magnet]
 ability: [Magnet Pull]
-nature: 
+nature: Hardy
 ivs: 11
 evs: {hp: 172, atk: 84, def: 84, spA: 0, spD: 84, spe: 84}
 moves:
