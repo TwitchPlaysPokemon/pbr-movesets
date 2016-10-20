@@ -45,8 +45,8 @@ setname: Overpowered
 item: [Iron Ball]
 ability: [Drizzle]
 nature: Adamant
-ivs: 
-evs: 
+ivs: 0
+evs: 0
 moves:
     - [Water Spout, Aqua Tail, Waterfall]
     - [Earthquake, Avalance, Thunderbolt, Ice Beam]
