@@ -12,12 +12,12 @@ moves:
     - [Cosmic Power, Rock Polish, Sandstorm, Pain Split]
 combinations:
     - [Hard Stone, Rock Slide, Rock Polish]
-	- [Macho Brace, Gyro Ball]
-	- [Smooth Rock, Sandstorm]
+    - [Macho Brace, Gyro Ball]
+    - [Smooth Rock, Sandstorm]
 separations:
     - [Baton Pass, Rock Polish]
-	- [Baton Pass, Sandstorm]
-	- [Baton Pass, Pain Split]
+    - [Baton Pass, Sandstorm]
+    - [Baton Pass, Pain Split]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -56,7 +56,7 @@ moves:
     - [Morning Sun, Sunny Day]
 separations:
     - [Sunny Day, Sunny Day]
-	- [Solar Beam, Morning Sun]
+    - [Solar Beam, Morning Sun]
 gender: [m, f]
 happiness: 255
 biddable: True
