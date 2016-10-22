@@ -1,0 +1,47 @@
+species: Staraptor
+setname: Standard
+item: [Watmel Berry, Sharp Beak, Black Belt]
+ability: [Reckless]
+nature: Timid
+ivs: 0
+evs: {hp: 40, atk: 0, def: 40, spA: 0, spD: 40, spe: 56}
+moves:
+    - [Take Down]
+    - [Fly, Aerial Ace, Wing Attack, Pluck]
+    - [Close Combat, Revenge]
+    - [Whirlwind, Feather Dance, Sand Attack, Double Team, Tailwind, Foresight]
+combinations:
+    - [Black Belt, Revenge]
+separations:
+    - [Sharp Beak, Fly]
+    - [Watmel Berry, Aerial Ace]
+    - [Watmel Berry, Wing Attack]
+    - [Watmel Berry, Pluck]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+---
+species: Staraptor
+setname: Mixed
+item: [Null, Silk Scarf, Scope Lens, King's Rock]
+ability: [Intimidate]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 204, spD: 20, spe: 32}
+moves:
+    - [Hyper Beam, Swift]
+    - [Air Cutter, Heat Wave, Hidden Power]
+    - [Astonish, Fury Attack, Thief]
+    - [Growl, Agility, Captivate, Tailwind, Double Team]
+combinations:
+    - [Silk Scarf, Swift]
+	- [Scope Lens, Air Cutter]
+	- [King's Rock, Fury Attack, Agility]
+    - [Null, Thief]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]

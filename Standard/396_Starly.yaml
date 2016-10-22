@@ -1,0 +1,26 @@
+species: Starly
+setname: Standard
+item: [Berry Juice, Focus Sash, Metal Coat, Apicot Berry]
+ability: [Reckless]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Brave Bird, Double-Edge]
+    - [Return, Fly]
+    - [Steel Wing, U-turn, Natural Gift, Toxic]
+    - [Endeavor, Protect, Pursuit, Foresight]
+combinations:
+    - [Focus Sash, Foresight]
+    - [Apicot Berry, Natural Gift]
+    - [Metal Coat, Steel Wing]
+    - [Toxic, Protect]
+separations:
+    - [Double-Edge, Foresight]
+    - [Return, Protect]
+    - [Brave Bird, Return]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]

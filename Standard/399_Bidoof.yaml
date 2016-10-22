@@ -1,0 +1,37 @@
+species: Bidoof
+setname: Physical
+item: [Sitrus Berry]
+ability: [Simple]
+nature: Adamant
+ivs: 31
+evs: {hp: 64, atk: 190, def: 64, spA: 0, spD: 190, spe: 0}
+moves:
+    - [Super Fang]
+    - [Quick Attack]
+    - [Curse, Superpower]
+    - [Odor Sleuth, Curse]
+separations:
+    - [Curse, Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+---
+species: Bidoof
+setname: Special
+item: [Petaya Berry]
+ability: [Simple]
+nature: Calm
+ivs: 31
+evs: {hp: 180, atk: 0, def: 164, spA: 56, spD: 108, spe: 0}
+moves:
+    - [Super Fang]
+    - [Thunder]
+    - [Blizzard, Ice Beam]
+    - [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]

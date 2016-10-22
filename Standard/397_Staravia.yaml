@@ -1,0 +1,30 @@
+species: Staravia
+setname: Standard
+item: [Sharp Beak, Chesto Berry]
+ability: [Intimidate, Reckless]
+nature: Mild
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 80, atk: 48, def: 52, spA: 196, spD: 52, spe: 80}
+moves:
+    - [Take Down, Return]
+    - [Fly, Aerial Ace, Wing Attack, Pluck]
+    - [Sand Attack, Hidden Power, Heat Wave, Feather Dance, Toxic, Revenge]
+    - [Roost, Rain Dance, Sunny Day, Rest, Substitute]
+combinations:
+    - [Reckless, Take Down]
+    - [Sand Attack, Roost]
+    - [Hidden Power, Rain Dance]
+    - [Heat Wave, Sunny Day]
+    - [Toxic, Rest, Chest Berry]
+separations:
+    - [Sharp Beak, Fly]
+    - [Reckless, Toxic]
+    - [Reckless, Feather Dance]
+    - [Aerial Ace, Toxic]
+    - [Pluck, Toxic]
+    - [Wing Attack, Toxic]
+gender: [m, f]
+happiness: 238
+biddable: True
+rarity: 1.0
+ball: [Nest]

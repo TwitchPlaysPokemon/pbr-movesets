@@ -1,0 +1,87 @@
+species: Bibarel
+setname: Standard
+item: [Power Herb, Sharp Beak, Miracle Seed, Magnet]
+ability: [Unaware, Simple]
+nature: Quiet
+ivs: 31
+evs: {hp: 44, atk: 0, def: 106, spA: 168, spD: 106, spe: 84}
+moves:
+    - [Rock Climb, Take Down, Dive]
+    - [Waterfall, Secret Power, Headbutt, Strength]
+    - [Dig, Pluck, Grass Knot, Shock Wave]
+    - [Captivate, Defense Curl, Thunder Wave, Rain Dance, Double Team]
+combinations:
+    - [Power Herb, Dig]
+    - [Sharp Beak, Pluck]
+    - [Miracle Seed, Grass Knot]
+    - [Magnet, Shock Wave]
+    - [Simple, Defense Curl]
+    - [Thunder Wave, Headbutt]
+separations:
+    - [Waterfall, Dive]
+	- [Rock Climb, Strength]
+	- [Rock Climb, Headbutt]
+	- [Take Down, Strength]
+	- [Take Down, Secret Power]
+	- [Take Down, Headbutt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+---
+species: Bibarel
+setname: Simple
+item: [Null]
+ability: [Simple]
+nature: Modest
+ivs: 31
+evs: {hp: 71, atk: 71, def: 71, spA: 120, spD: 71, spe: 71}
+moves:
+    - [Skull Bash]
+    - [Water Pulse]
+    - [Charge Beam]
+    - [Taunt, Stealth Rock, Odor Sleuth, Growl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+---
+species: Bibarel
+setname: Unaware
+item: [TM87]
+ability: [Unaware]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 200, def: 0, spA: 248, spD: 0, spe: 60}
+moves:
+    - [Surf, Aqua Tail]
+    - [Hyper Fang, Hyper Beam, Giga Impact]
+    - [Focus Punch, Dig]
+    - [Swagger]
+combinations:
+    - [Aqua Tail, Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+---
+species: Bibarel
+setname: Last Resort
+item: [Salac Berry]
+ability: [Simple]
+nature: Modest
+ivs: 31
+evs: {hp: 116, atk: 116, def: 12, spA: 252, spD: 12, spe: 0}
+moves:
+    - [Water Gun]
+    - [Last Resort]
+    - [Double Team]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Net]
