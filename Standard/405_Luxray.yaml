@@ -6,7 +6,7 @@ nature: Modest
 ivs: 0
 evs: 84
 moves:
-    - [Spark, Thunder Fang]
+    - [Spark, Thunder Fang, Shock Wave]
     - [Iron Tail, Crunch, Strength, Facade]
     - [Ice Fang, Fire Fang, Natural Gift]
     - [Sleep Talk, Thief, Leer, Scary Face, Quick Attack]
@@ -30,13 +30,13 @@ setname: Special
 item: [Pearl, Big Pearl, Revive, Max Revive, Magnet, Silk Scarf, Liechi Berry]
 ability: [Rivalry]
 nature: Modest
-ivs: 0
+ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 3}
 evs: {hp: 100, atk: 0, def: 100, spA: 76, spD: 100, spe: 132}
 moves:
     - [Discharge, Shock Wave, Thunderbolt]
     - [Hyper Beam, Signal Beam, Swift, Hidden Power]
     - [Superpower, Toxic]
-    - [Roar, Endure, Howl Light Screen, Subsitute, Protect]
+    - [Roar, Endure, Howl, Light Screen, Substitute, Protect]
 combinations:
     - [Magnet, Shock Wave]
     - [Silk Scarf, Swift]
