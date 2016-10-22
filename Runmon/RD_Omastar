@@ -1,0 +1,19 @@
+species: Omastar
+ingamename: OMASTAR
+displayname: OMASTAR
+setname: Red
+item: [Helix Fossil]
+ability: [null]
+moves:
+    - [Hydro Pump]
+    - [Surf]
+    - [Horn Attack]
+    - [Withdraw]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
