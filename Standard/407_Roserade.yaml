@@ -26,13 +26,13 @@ evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 0, spe: 84}
 moves:
     - [Bullet Seed]
     - [Poison Sting]
-    - [Pin Missle]
+    - [Pin Missile]
     - [Swords Dance]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Utlra]
+ball: [Ultra]
 ---
 species: Roserade
 setname: Special
