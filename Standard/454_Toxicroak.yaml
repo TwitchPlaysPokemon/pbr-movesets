@@ -1,0 +1,73 @@
+species: Toxicroak
+setname: Special
+item: [Payapa Berry]
+ability: [Anticipation]
+moves:
+    - [Focus Blast]
+    - [Sludge Bomb]
+    - [Dark Pulse, Shadow Ball]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dusk]
+nature: Serious
+ivs: 0
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
+---
+species: Toxicroak
+setname: Substitute
+item: [Shuca Berry, Coba Berry]
+ability: [Dry Skin]
+moves:
+    - [Focus Punch]
+    - [Sludge Bomb]
+    - [Spite]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Heal]
+nature: Timid
+ivs: 13
+evs: 84
+---
+species: Toxicroak
+setname: Rain
+item: [Damp Rock]
+ability: [Anticipation]
+moves:
+    - [Poison Jab]
+    - [Vacuum Wave, Dig]
+    - [Hidden Power]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 116, atk: 0, def: 100, spA: 100, spD: 96, spe: 96}
+---
+species: Toxicroak
+setname: High Stats
+item: [Icicle Plate, Dread Plate]
+ability: [Dry Skin]
+moves:
+    - [Hidden Power]
+    - [Low Kick, Revenge]
+    - [Mud Bomb, X-Scissor, Bounce, Faint Attack, ThunderPunch, Giga Impact, Icy Wind]
+    - [Me First, Meditate, Torment]
+combinations:
+    - [Dread Plate, Feint Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Safari]
+nature: Quirky
+ivs: {hp: 31, atk: 29, def: 28, spA: 30, spD: 30, spe: 31}
+evs: {hp: 16, atk: 0, def: 76, spA: 196, spD: 76, spe: 144}

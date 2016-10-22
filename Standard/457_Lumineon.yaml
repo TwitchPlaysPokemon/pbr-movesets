@@ -1,0 +1,64 @@
+species: Lumineon
+setname: Special
+item: [Metronome, Scope Lens, Sharp Beak, Dragon Fang]
+ability: [Water Veil]
+moves:
+    - [Brine, Water Pulse]
+    - [Psybeam]
+    - [Silver Wind, Air Cutter, Gust, Ominous Wind, Twister]
+    - [Charm, Captivate, Double Team, Sweet Kiss, Agility]
+combinations:
+    - [Scope Lens, Air Cutter]
+    - [Sharp Beak, Gust]
+    - [Dragon Fang, Twister]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Gentle
+ivs: 20
+evs: {hp: 84, atk: 0, def: 52, spA: 196, spD: 72, spe: 104}
+---
+species: Lumineon
+setname: Physical
+item: [Rindo Berry, Wacan Berry, Salac Berry]
+ability: [Water Veil]
+moves:
+    - [Waterfall, Aqua Tail, Dive]
+    - [Bounce, Payback]
+    - [U-turn, Flail, Secret Power]
+    - [Tailwind, Flash, Defog, Toxic, Endure]
+combinations:
+    - [Aqua Tail, Defog]
+    - [Salac Berry, Flail, Endure]
+separations:
+    - [Waterfall, Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Brave
+ivs: 0
+evs: {hp: 124, atk: 128, def: 128, spA: 0, spD: 128, spe: 0}
+---
+species: Lumineon
+setname: Storm Drain
+item: [null]
+ability: [Storm Drain]
+moves:
+    - [Surf]
+    - [Blizzard, Ice Beam]
+    - [Hyper Beam]
+    - [Hail, Splash]
+combinations:
+    - [Blizzard, Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Timid
+ivs: 5
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}

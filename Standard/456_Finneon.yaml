@@ -1,0 +1,44 @@
+species: Finneon
+setname: Special
+item: [Damp Rock, Splash Plate, Insect Plate, Spooky Plate, Mind Plate]
+ability: [Swift Swim]
+moves:
+    - [Surf, Brine]
+    - [Ice Beam, Ominous Wind, Silver Wind, Psybeam]
+    - [Attract, Sweet Kiss, Double Team]
+    - [Rain Dance]
+combinations:
+    - [Splash Plate, Brine]
+    - [Insect Plate, Silver Wind]
+    - [Spooky Plate, Ominous Wind]
+    - [Mind Plate, Psybeam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
+---
+species: Finneon
+setname: Physical
+item: [Damp Rock, Toxic Orb]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Bounce, Return]
+    - [U-turn, Facade]
+    - [Rain Dance]
+combinations:
+    - [Toxic Orb, Facade]
+separations:
+    - [Return, Facade]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
