@@ -1,0 +1,20 @@
+species: Venomoth
+ingamename: AATTVVV
+displayname: AATTVVV
+setname: Red
+item: [null]
+ability: [null]
+moves:
+    - [Leech Life]
+    - [Poison Powder]
+    - [Stun Spore]
+    - [Disable]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Safari]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
