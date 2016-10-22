@@ -1,0 +1,19 @@
+species: Nidoking
+ingamename: AAAAAAAAAA
+displayname: AAAAAAAAAA
+setname: Red
+item: [null]
+ability: [null]
+moves:
+    - [Poison Sting]
+    - [Surf]
+    - [Strength]
+    - [Fury Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
