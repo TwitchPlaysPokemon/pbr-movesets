@@ -1,0 +1,53 @@
+species: Abomasnow
+setname: Standard
+item: [Icicle Plate]
+ability: [Snow Warning]
+moves:
+    - [Giga Drain]
+    - [Ice Shard]
+    - [Rock Tomb, Strength, Facade]
+    - [Block, Mist, Role Play, Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+nature: Serious
+ivs: 14
+evs: {hp: 84, atk: 84, def: 104, spA: 84, spD: 84, spe: 68}
+---
+species: Abomasnow
+setname: High Stats
+item: [Power Herb]
+ability: [Snow Warning]
+moves:
+    - [SolarBeam]
+    - [Powder Snow]
+    - [Earthquake, Shadow Ball]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 29, spA: 31, spD: 31, spe: 28}
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+---
+species: Abomasnow
+setname: Rain
+item: [Damp Rock]
+ability: [Soundproof]
+moves:
+    - [Ice Punch]
+    - [Razor Leaf]
+    - [Water Pulse]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Timid
+ivs: 21
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 128, spe: 124}

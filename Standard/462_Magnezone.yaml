@@ -1,0 +1,39 @@
+species: Magnezone
+setname: Physical
+item: [Occa Berry, Chople Berry]
+ability: [Magnet Pull]
+moves:
+    - [Spark]
+    - [Magnet Bomb, Gyro Ball]
+    - [Natural Gift]
+    - [Bide, Mirror Coat, Screech, Agility, Curse]
+combinations:
+    - [Gyro Ball, Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Magnezone
+setname: Special
+item: [Magnet, Metal Powder]
+ability: [Magnet Pull]
+moves:
+    - [Mirror Shot, Flash Cannon]
+    - [ThunderShock, Charge Beam, Shock Wave]
+    - [Signal Beam, Tri Attack, Hidden Power]
+    - [Magnet Rise, Mimic, Barrier]
+combinations:
+    - [Magnet, Flash Cannon, ThunderShock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Jolly
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 156, atk: 0, def: 0, spA: 0, spD: 156, spe: 196}

@@ -1,0 +1,71 @@
+species: Mamoswine
+setname: Mixed
+item: [Soda Pop]
+ability: [Snow Cloak]
+moves:
+    - [Earth Power]
+    - [Ice Fang]
+    - [Scary Face]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Modest
+ivs: 4
+evs: 84
+---
+species: Mamoswine
+setname: Physical
+item: [Tunnel Mail, Blackbelt, Silk Scarf, Razor Fang]
+ability: [Oblivious]
+moves:
+    - [Dig]
+    - [Avalance, Ice Shard]
+    - [Rock Slide, Bite, Horn Attack, Double Hit]
+    - [Mist, Roar, Captivate, Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 8, def: 0, spA: 4, spD: 20, spe: 60}
+---
+species: Mamoswine
+setname: Special
+item: [Soft Sand]
+ability: [Thick Fat]
+moves:
+    - [Ice Beam]
+    - [Mud Bomb, Mud Shot]
+    - [Ancientpower]
+    - [Amnesia]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 64, spA: 128, spD: 64, spe: 0}
+---
+species: Mamoswine
+setname: Max Attack
+item: [NeverMelt-Ice]
+ability: [Thick Fat]
+moves:
+    - [Icicle Spear]
+    - [Peck]
+    - [Tackle, Fury Attack]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Lonely
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

@@ -1,0 +1,35 @@
+species: Tangrowth
+setname: Standard
+item: [Pecha Berry]
+ability: [Chlorophyll, Leaf Guard]
+moves:
+    - [Solarbeam, Leaf Storm, Energy Ball]
+    - [Ancientpower, Earthquake, Poison Jab, Shock Wave]
+    - [Stun Spore, Wring Out, Poison Powder, Pain Split]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Safari]
+nature: Quirky
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 240, spe: 120}
+---
+species: Tangrowth
+setname: Physical
+item: [Expert Belt]
+ability: [Chlorophyll]
+moves:
+    - [Vine Whip]
+    - [Rock Tomb]
+    - [Mimic]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Nest]
+nature: Bold
+ivs: 31
+evs: {hp: 4, atk: 152, def: 0, spA: 100, spD: 252, spe: 0}

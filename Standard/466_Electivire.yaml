@@ -1,0 +1,41 @@
+species: Electivire
+setname: Physical
+item: [Electirizer, Power Herb]
+ability: [Motor Drive]
+moves:
+    - [Thunder Punch]
+    - [Dizzy Punch, Skull Bash, Iron Tail, Giga Impact, Mega Kick, Hammer Arm]
+    - [Rolling Kick, Low Kick, Ice Punch, Quick Attack]
+    - [Meditate, Rage, Metronome]
+combinations:
+    - [Power Herb, Skull Bash]
+    - [Iron Tail, Ice Punch]
+    - [Hammer Arm, Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Timid
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 48, atk: 48, def: 48, spA: 252, spD: 48, spe: 48}
+---
+species: Electivire
+setname: Special
+item: [Silk Scarf]
+ability: [Motor Drive, Vital Spirit]
+moves:
+    - [Discharge, Thunderbolt, Zap Cannon]
+    - [Flamethrower, Focus Blast, Hyper Beam]
+    - [Psychic, Signal Beam, Hidden Power]
+    - [Counter, Torment, Barrier, Mimic, Mud-Slap]
+separations:
+    - [Focus Blast, Counter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Naughty
+ivs: {hp: 7, atk: 30, def: 7, spA: 6, spD: 7, spe: 7}
+evs: {hp: 156, atk: 252, def: 0, spA: 36, spD: 0, spe: 64}

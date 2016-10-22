@@ -1,0 +1,57 @@
+species: Togekiss
+setname: Serene Grace
+item: [null]
+ability: [Serene Grace]
+moves:
+    - [Headbutt, Secret Power, Body Slam]
+    - [Extrasensory, Zen Headbutt, Signal Beam]
+    - [Steel Wing, Rock Smash, Twister, AncientPower, Ominous Wind]
+    - [Mirror Move, Metronome, Encore, Psycho Shift]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 13, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Togekiss
+setname: Hustle
+item: [null]
+ability: [Hustle]
+moves:
+    - [ExtremeSpeed, Mega Kick, Return]
+    - [Air Cutter, Aerial Ace, Fly]
+    - [Aura Sphere, Focus Punch, Psychic, SolarBeam, Fire Blast]
+    - [Lucky Chant, Substitute, Defog, Sunny Day, Sweet Kiss]
+separations:
+    - [Aura Sphere, Sunny Day]
+    - [Focus Punch, Sunny Day]
+    - [Psychic, Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Adamant
+ivs: 0
+evs: 0
+---
+species: Togekiss
+setname: Super Luck
+item: [Lansat Berry]
+ability: [Super Luck]
+moves:
+    - [Air Cutter]
+    - [Drain Punch, Brick Break, Water Pulse, Mirror Move]
+    - [Substitute]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 108}

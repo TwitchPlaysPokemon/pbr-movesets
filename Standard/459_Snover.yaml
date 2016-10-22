@@ -1,0 +1,66 @@
+species: Snover
+setname: Standard
+item: [Coba Berry, Kebia Berry, Occa Berry, Chople Berry]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Wood Hammer]
+    - [Ice Shard]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+nature: Brave
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 100, spD: 100, spe: 0}
+---
+species: Snover
+setname: Special
+item: [Miracle Seed, Power Herb]
+ability: [Snow Warning, Soundproof]
+moves:
+    - [Blizzard, Solarbeam]
+    - [Energy Ball, Ice Beam]
+    - [Sheer Cold]
+    - [GrassWhistle, Growth]
+combinations:
+    - [Power Herb, Soundproof, Solarbeam, Ice Beam]
+separations:
+    - [Blizzard, Ice Beam]
+    - [Solarbeam, Energy Ball]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Timid
+ivs: 31
+evs: {hp: 128, atk: 0, def: 0, spA: 128, spD: 0, spe: 252}
+---
+species: Snover
+setname: Physical
+item: [Muscle Band, Power Herb, Light Clay, Salac Berry]
+ability: [Snow Warning]
+moves:
+    - [Wood Hammer, Avalanche]
+    - [Ice Punch, Seed Bomb]
+    - [Iron Tail, Skull Bash, Leech Seed]
+    - [Swagger, Endure, Light Screen, Protect]
+combinations:
+    - [Power Herb, Skull Bash]
+    - [Salac Berry, Endure]
+    - [Light Clay, Light Screen]
+    - [Leech Seed, Protect]
+separations:
+    - [Wood Hammer, Seed Bomb]
+    - [Avalanche, Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 64, atk: 252, def: 64, spA: 64, spD: 64, spe: 64}

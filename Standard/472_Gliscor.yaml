@@ -1,0 +1,55 @@
+species: Gliscor
+setname: Standard
+item: [Poison Barb]
+ability: [Hyper Cutter]
+moves:
+    - [Dig]
+    - [Aqua Tail, Poison Jab, Brick Break, X-Scissor, Guillotine]
+    - [Fling]
+    - [Power Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Dusk]
+nature: Bold
+ivs: 6
+evs: 84
+---
+species: Gliscor
+setname: Physical
+item: [Toxic Orb]
+ability: [Poison Heal]
+moves:
+    - [Earthquake]
+    - [Aerial Ace, Wing Attack]
+    - [Night Slash, Slash, Cross Poison, Stone Edge, U-turn]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Nest]
+nature: Modest
+ivs: 0
+evs: 0
+---
+species: Gliscor
+setname: Special
+item: [null]
+ability: [Sand Veil, Hyper Cutter]
+moves:
+    - [Earth Power]
+    - [Hidden Power]
+    - [Fire Fang, Thunder Fang, Ice Fang]
+    - [Sandstorm, Taunt, Tailwind]
+combinations:
+    - [Sand Veil, Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Ultra]
+nature: Mild
+ivs: {hp: 11, atk: 11, def: 11, spA: 10, spD: 10, spe: 10}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}

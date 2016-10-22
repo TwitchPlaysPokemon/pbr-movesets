@@ -1,0 +1,83 @@
+species: Weavile
+setname: Physical
+item: [BlackGlasses, Metal Coat, null]
+ability: [Pressure]
+moves:
+    - [Feint Attack, Bite, Night Slash, Ice Punch]
+    - [Ice Punch, Pursuit]
+    - [Crush Claw, Slash, Metal Claw, Aerial Ace]
+    - [Psych UpDefense Curl, Spite, Taunt, Torment, Double Team]
+combinations:
+    - [BlackGlasses, Pursuit]
+    - [Metal Coat, Metal Claw]
+separations:
+    - [Ice Punch, Ice Punch]
+    - [Pursuit, Feint Attack]
+    - [Pursuit, Night Slash]
+    - [Pursuit, Bite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Lonely
+ivs: 12
+evs: 0
+---
+species: Weavile
+setname: Special
+item: [Red Scarf, Damp Rock]
+ability: [Pressure]
+moves:
+    - [Ice Beam, Dark Pulse]
+    - [Surf, Focus Blast]
+    - [Shadow Ball, Rain Dance, Moonlight]
+    - [Nasty Plot]
+combinations:
+    - [Damp Rock, Surf, Rain Dance]
+separations:
+    - [Dark Pulse, Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Dive]
+nature: Bold
+ivs: 31
+evs: 84
+---
+species: Weavile
+setname: High Attack
+item: [Razor Fang]
+ability: [Pressure]
+moves:
+    - [Blizzard]
+    - [Thief]
+    - [Fling]
+    - [Assist, Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Brave
+ivs: 31
+evs: {hp: 168, atk: 108, def: 0, spA: 164, spD: 0, spe: 68}
+---
+species: Weavile
+setname: PP Stall
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Punishment (+3)]
+    - [Dig]
+    - [Spite]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 156, atk: 0, def: 212, spA: 0, spD: 140, spe: 0}

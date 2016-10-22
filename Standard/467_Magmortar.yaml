@@ -1,0 +1,37 @@
+species: Magmortar
+setname: Standard
+item: [Magmarizer]
+ability: [Vital Spirit]
+moves:
+    - [Fire Punch]
+    - [Psychic, Thunderbolt]
+    - [Mach Punch]
+    - [Smokescreen, Screech, Double Team, Torment, Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Adamant
+ivs: 6
+evs: 84
+---
+species: Magmortar
+setname: Belly Drum
+item: [Liechi Berry, Shell Bell]
+ability: [Vital Spirit]
+moves:
+    - [Ember]
+    - [Feint Attack, Natural Gift, Submission]
+    - [Karate Chop, Low Kick, Thief]
+    - [Belly Drum]
+combinations:
+    - [Shell Bell, Submission, Thief]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Timid
+ivs: 31
+evs: {hp: 72, atk: 136, def: 0, spA: 188, spD: 0, spe: 112}
