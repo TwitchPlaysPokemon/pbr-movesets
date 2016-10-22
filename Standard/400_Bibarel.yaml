@@ -19,11 +19,11 @@ combinations:
     - [Thunder Wave, Headbutt]
 separations:
     - [Waterfall, Dive]
-	- [Rock Climb, Strength]
-	- [Rock Climb, Headbutt]
-	- [Take Down, Strength]
-	- [Take Down, Secret Power]
-	- [Take Down, Headbutt]
+    - [Rock Climb, Strength]
+    - [Rock Climb, Headbutt]
+    - [Take Down, Strength]
+    - [Take Down, Secret Power]
+    - [Take Down, Headbutt]
 gender: [m, f]
 happiness: 255
 biddable: True
