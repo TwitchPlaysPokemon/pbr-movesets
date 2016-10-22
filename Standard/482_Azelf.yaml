@@ -38,7 +38,7 @@ evs: 0
 ---
 species: Azelf
 setname: Max Sp. Atk
-item: [X Sp Atk]
+item: [X Sp. Atk.]
 ability: [Levitate]
 moves:
     - [Confusion, Hidden Power]
@@ -55,7 +55,7 @@ evs: {hp: 80, atk: 0, def: 180, spA: 248, spD: 0, spe: 0}
 ---
 species: Azelf
 setname: Imprison
-item: [X Sp Def]
+item: [X Sp. Def.]
 ability: [Levitate]
 moves:
     - [Shadow Ball]

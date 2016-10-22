@@ -22,7 +22,7 @@ ability: [Pressure]
 moves:
     - [Draco Meteor, Outrage, Dragon Pulse]
     - [Shadow Claw, Shadow Ball]
-    - [Aura SphereAqua Tail, Earthquake, Iron Tail, Stone Edge, Psychic, Thunderbolt]
+    - [Aura Sphere, Aqua Tail, Earthquake, Iron Tail, Stone Edge, Psychic, Thunderbolt]
     - [Defog, Heal Block, Psych Up, Safeguard, Spite, Tailwind]
 happiness: 255
 biddable: True
