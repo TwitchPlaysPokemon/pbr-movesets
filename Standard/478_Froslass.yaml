@@ -1,0 +1,44 @@
+species: Froslass
+setname: Special
+item: [Icy Rock, Spell Tag]
+ability: [Snow Cloak]
+moves:
+    - [Shadow Ball, Ice Beam]
+    - [Weather Ball, Ominous Wind]
+    - [Psychic, Thunderbolt]
+    - [Hail, Destiny Bond, Spikes]
+combinations:
+    - [Icy Rock, Shadow Ball, Weather Ball, Hail]
+    - [Spell Tag, Ice Beam, Ominous Wind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Serious
+ivs: 22
+evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+---
+species: Froslass
+setname: Physical
+item: [Spooky Plate]
+ability: [Snow Cloak]
+moves:
+    - [Avalanche, Ice Punch, Ice Fang]
+    - [Astonish, Bite, Sucker Punch]
+    - [Wake-Up Slap]
+    - [Thunder Wave, Mimic, Torment, Snatch]
+combinations:
+    - [Icicle Plate, Ice Fang]
+    - [Dread Plate, Bite]
+    - [Astonish, Thunder Wave]
+separations:
+    - [Ice Fang, Astonish]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Naughty
+ivs: 31
+evs: {hp: 80, atk: 100, def: 0, spA: 248, spD: 80, spe: 0}

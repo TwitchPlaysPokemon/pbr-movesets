@@ -1,0 +1,45 @@
+species: Gallade
+setname: Physical
+item: [Spelon Berry, Hard Stone, Dragon Fang]
+ability: [Steadfast]
+moves:
+    - [Psycho Cut]
+    - [Drain Punch]
+    - [Natural Gift, Fling, Rock Tomb]
+    - [Recycle, Leer]
+combinations:
+    - [Spelon Berry, Natural Gift]
+    - [Dragon Fang, Fling]
+    - [Hard Stone, Rock Tomb, Leer]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Bold
+ivs: 5
+evs: 84
+---
+species: Gallade
+setname: Special
+item: [Rose Incense, Draco Plate, Magnet]
+ability: [Steadfast]
+moves:
+    - [Confusion, Dream Eater]
+    - [Vacuum Wave]
+    - [Magical Leaf, Signal Beam, Shock Wave, Charge Beam, Hidden Power]
+    - [Calm Mind, Will-O-Wisp, Mimic, Sing]
+combinations:
+    - [Rose Incense, Magical Leaf]
+    - [Draco Plate, Hidden Power]
+    - [Dream Eater, Sing]
+separations:
+    - [Charge Beam, Calm Mind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Naughty
+ivs: {hp: 31, atk: 28, def: 31, spA: 31, spD: 31, spe: 29}
+evs: {hp: 128, atk: 0, def: 128, spA: 168, spD: 0, spe: 84}

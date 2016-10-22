@@ -1,0 +1,41 @@
+species: Dusknoir
+setname: Standard
+item: [Reaper Cloth]
+ability: [Pressure]
+moves:
+    - [Shadow Punch, Shadow Sneak, Shadow Ball]
+    - [Fire Punch, Thunder Punch, Focus Punch, Mega Kick]
+    - [Night Shade, Blizzard, Charge Beam]
+    - [Grudge, Embargo, Substitute, Bind]
+combinations:
+    - [Focus Punch, Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Serious
+ivs: 15
+evs: {hp: 20, atk: 100, def: 20, spA: 140, spD: 20, spe: 20}
+---
+species: Dusknoir
+setname: Max Attack
+item: [Wide Lens, Dusk Stone]
+ability: [Pressure]
+moves:
+    - [Astonish, Ominous Wind]
+    - [Rock Smash, Focus Blast]
+    - [Disable, Mimic, Metronome]
+    - [Trick Room, Imprison]
+combinations:
+    - [Ominous Wind, Mimic, Imprison]
+separations:
+    - [Wide Lens, Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
