@@ -1,0 +1,53 @@
+species: Chingling
+setname: Screens
+item: [Light Clay]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Icy Wind]
+    - [Light Screen]
+    - [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+nature: Modest
+ivs: 31
+evs: {hp: 240, atk: 0, def: 28, spA: 136, spD: 28, spe: 76}
+---
+species: Chingling
+setname: Scarf
+item: [Choice Scarf]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Signal Beam]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Modest
+ivs: 31
+evs: {hp: 160, atk: 0, def: 0, spA: 252, spD: 0, spe: 96}
+---
+species: Chingling
+setname: Flinch
+item: [Leftovers]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt]
+    - [Secret Power]
+    - [Thunder Wave]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}

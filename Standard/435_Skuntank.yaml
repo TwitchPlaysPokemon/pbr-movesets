@@ -1,0 +1,24 @@
+species: Skuntank
+setname: Standard
+item: [Wide Lens]
+ability: [Aftermath, Keen Eye]
+moves:
+    - [Crunch, Poison Jab, Sludge Bomb]
+    - [Flamethrower, Dark Pulse, Night Slash]
+    - [Torment, Poison Gas, Toxic, Iron Tail, Hyper Beam]
+    - [Protect, Double Team]
+combinations:
+    - [Keen Eye, Toxic]
+    - [Crunch, Flamethrower]
+separations:
+    - [Poison Jab, Poison Gas]
+    - [Sludge Bomb, Poison Gas]
+    - [Torment, Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Quiet
+ivs: 9
+evs: 84

@@ -1,0 +1,58 @@
+species: Purugly
+setname: Physical
+item: [Mosaic Mail, Silk Scarf]
+ability: [Own Tempo, Thick Fat]
+moves:
+    - [Body Slam, Slash, Headbutt]
+    - [Iron Tail, Dig]
+    - [Payback, Shadow Claw, U-turn]
+    - [Sand-Attack, Growl, Flash, Snatch, Torment, Roar]
+combinations:
+    - [Mosaic Mail, Body Slam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Adamant
+ivs: 13
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Purugly
+setname: Special
+item: [Chople Berry, Chilan Berry, Wise Glasses]
+ability: [Own Tempo, Thick Fat]
+moves:
+    - [Hyper Voice, Hyper Beam]
+    - [Thunderbolt, Thunder]
+    - [Shadow Ball, Dream Eater, Water Pulse]
+    - [Assist, Hypnosis, Fake Tears, Rain Dance, Taunt]
+combinations:
+    - [Dream Eater, Hypnosis]
+separations:
+    - [Own Tempo, Rain Dance]
+    - [Thunderbolt, Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Quirky
+ivs: {hp: 30, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+---
+species: Purugly
+setname: Assist
+item: [Expert Belt]
+ability: [Own Tempo, Thick Fat]
+moves:
+    - [Swift]
+    - [Assist]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Mild
+ivs: 31
+evs: {hp: 108, atk: 200, def: 0, spA: 200, spD: 0, spe: 0}

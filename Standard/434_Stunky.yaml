@@ -1,0 +1,35 @@
+species: Stunky
+setname: Physical
+item: [Soft Sand]
+ability: [Aftermath]
+moves:
+    - [Sucker Punch]
+    - [Punishment]
+    - [Dig, Iron Tail]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 96, atk: 160, def: 96, spA: 0, spD: 96, spe: 60}
+---
+species: Stunky
+setname: Special
+item: [Life Orb, Shuca Berry]
+ability: [Aftermath]
+moves:
+    - [Sludge Bomb]
+    - [Dark Pulse]
+    - [Fire Blast, Flamethrower]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Timid
+ivs: 31
+evs: {hp: 128, atk: 0, def: 44, spA: 168, spD: 44, spe: 124}

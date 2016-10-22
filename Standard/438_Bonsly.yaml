@@ -1,0 +1,35 @@
+species: Bonsly
+setname: Physical
+item: [Passho Berry]
+ability: [Sturdy]
+moves:
+    - [Rock Slide]
+    - [Sucker Punch]
+    - [Curse]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 176, atk: 160, def: 0, spA: 0, spD: 172, spe: 0}
+---
+species: Bonsly
+setname: Special
+item: [Quick Claw]
+ability: [Sturdy]
+moves:
+    - [Hidden Power]
+    - [Earth Power]
+    - [Counter]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 30}
+evs: {hp: 252, atk: 0, def: 0, spA: 176, spD: 80, spe: 0}

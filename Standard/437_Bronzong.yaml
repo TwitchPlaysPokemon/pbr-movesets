@@ -1,0 +1,60 @@
+species: Bronzong
+setname: Standard
+item: [Power Lens]
+ability: [Heatproof]
+moves:
+    - [Gyro Ball]
+    - [Future Sight]
+    - [Shadow Ball]
+    - [Metal Sound]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Modest
+ivs: 6
+evs: {hp: 0, atk: 0, def: 104, spA: 200, spD: 104, spe: 100}
+---
+species: Bronzong
+setname: Physical
+item: [null]
+ability: [Heatproof, Levitate]
+moves:
+    - [Iron Head]
+    - [Zen Headbutt]
+    - [Earthquake]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Jolly
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 80, atk: 16, def: 80, spA: 0, spD: 80, spe: 252}
+---
+species: Bronzong
+setname: Special
+item: [Macho Brace, Stone Plate, Insect Plate, Smooth Rock]
+ability: [Heatproof, Levitate]
+moves:
+    - [Psychic, Flash Cannon, Extrasensory]
+    - [Shadow Ball, Ancientpower, Signal Beam, Hidden Power, Grass Knot]
+    - [Charge Beam]
+    - [Block, Imprison, Rain Dance, Sandstorm, Skill Swap, Trick Room]
+combinations:
+    - [Ancientpower, Stone Plate]
+    - [Signal Beam, Insect Plate]
+    - [Hidden Power, Rain Dance]
+    - [Smooth Rock, Sandstorm]
+separations:
+    - [Psychic, Trick Room]
+    - [Extrasensory, Trick Room]
+    - [Levitate, Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Quiet
+ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 3, spe: 3}
+evs: {hp: 96, atk: 0, def: 46, spA: 104, spD: 40, spe: 16}
