@@ -9,7 +9,7 @@ moves:
     - []
     - []
     - []
-gender: [m, f]
+gender: []
 happiness: 255
 biddable: True
 rarity: 0.0
