@@ -1,6 +1,7 @@
-ingamename: ACCCIOOWWW (ingame name)
 species: Vaporeon
-setname: ACCCIOOWWW-MM (ingame name followed by run name)
+ingamename: ACCCIOOWWW (ingame name)
+displayname: ACCCIOOWWW (ingame name)
+setname: Moemon (run name)
 item: [Awakening]
 ability: [Water Absorb]
 nature: Quiet
@@ -20,8 +21,9 @@ level: 100
 ivs: 31
 evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
 ---
-ingamename:
 species: 
+ingamename: 
+displayname: 
 setname: 
 item: []
 ability: []

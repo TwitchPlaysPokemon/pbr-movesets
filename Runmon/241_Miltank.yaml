@@ -1,6 +1,7 @@
-ingamename: !L
 species: Miltank
-setname: !L-AC
+ingamename: !L
+displayname: !L
+setname: Anniversary Crystal
 item: [Bloom Mail]
 ability: [null]
 moves:
