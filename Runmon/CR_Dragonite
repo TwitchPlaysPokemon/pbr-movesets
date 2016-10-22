@@ -1,0 +1,19 @@
+species: Dragonite
+ingamename: KT
+displayname: KT
+setname: Crystal
+item: [Ice Heal]
+ability: [null]
+moves:
+    - [Outrage]
+    - [Dragon Breath]
+    - [Twister]
+    - [Waterfall]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
