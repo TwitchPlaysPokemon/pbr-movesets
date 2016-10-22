@@ -1,0 +1,59 @@
+species: Buneary
+setname: Physical
+item: [Sticky Barb]
+ability: [Klutz]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 168, def: 44, spA: 0, spD: 44, spe: 168}
+moves:
+    - [Frustration]
+    - [Sky Uppercut, Jump Kick]
+    - [Bounce]
+    - [Magic Coat, Defense Curl, Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+---
+species: Buneary
+setname: Special
+item: [Petaya Berry, Sitrus Berry]
+ability: [Limber]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 92, spA: 252, spD: 0, spe: 160}
+moves:
+    - [Hyper Voice]
+    - [Ice Beam]
+    - [Shadow Ball, Thunderbolt]
+    - [Charm, Grass Knot, Charge Beam, Teeter Dance, Fake Tears]
+separations:
+    - [Petaya Berry, Charge Beam]
+    - [Petay Berry, Fake Tears]
+    - [Sitrus Berry, Charm]
+    - [Sitrus Berry, Grass Knot]
+    - [Teeter Dance, Sitrus Berry]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+---
+species: Buneary
+setname: Toxic Orb
+item: [Toxic Orb]
+ability: [Run Away]
+nature: Adamant
+ivs: 31
+evs: {hp: 16, atk: 84, def: 152, spA: 0, spD: 152, spe: 104}
+moves:
+    - [Fake Out]
+    - [Facade]
+    - [Low Kick]
+    - [Fling]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]

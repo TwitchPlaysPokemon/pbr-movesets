@@ -1,0 +1,89 @@
+species: Ampibom
+setname: Physical
+item: [Wide Lens, Muscle Band]
+ability: [Pick Up, Skill Link]
+nature: Quiet
+ivs: 28
+evs: 0
+moves:
+    - [Mega Kick, Strength, Headbutt, Fury Swipes]
+    - [Iron Tail, Gunk Shot, Fire Punch, Seed Bomb]
+    - [Shadow Claw, Thunder Punch, Ice Punch, U-turn]
+    - [Skill Swap, Magic Coat, Taunt]
+combinations:
+    - [Skill Link, Fury Swipes]
+separations:
+    - [Wide Lens, Strength]
+    - [Wide Lens, Headbutt]
+    - [Wide Lens, Fire Punch]
+    - [Wide Lens, Seed Bomb]
+    - [Skill Link, Skill Swap]
+    - [Gunk Shot, Ice Punch]
+    - [Seed Bomb, Thunder Punch]
+    - [Seed Bomb, Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+---
+species: Ampibom
+setname: Special
+item: [Silk Scarf]
+ability: [Technician]
+nature: Quiet
+ivs: {hp: 21, atk: 21, def: 21, spA: 19, spD: 19, spe: 21}
+evs: {hp: 4, atk: 0, def: 126, spA: 248, spD: 132, spe: 0}
+moves:
+    - [Swift]
+    - [Solar Beam, Thunder]
+    - [Thunderbolt, Hidden Power]
+    - [Sunny Day, Rain Dance]
+combinations:
+    - [Solar Beam, Sunny Day]
+    - [Thunder, Rain Dance]
+separations:
+    - [Thunder, Thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+---
+species: Ampibom
+setname: Max Atk
+item: [Null, Dread Plate]
+ability: [Technician]
+nature: Hardy
+ivs: 31
+evs: {hp: 40, atk: 252, def: 40, spA: 136, spD: 40, spe: 0}
+moves:
+    - [Covet, Scratch]
+    - [Astonish, Knock Off, Thief]
+    - [Grass Knot]
+    - [Screech, Mimic]
+combinations:
+    - [Dread Plate, Scratch, Knock Off]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+---
+species: Ampibom
+setname: Snore
+item: [Persim Berry]
+ability: [Technician]
+nature: Modest
+ivs: 8
+evs: 31
+moves:
+    - [Shadow Ball, Water Pulse]
+    - [Snore]
+    - [Nasty Plot]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]

@@ -1,0 +1,61 @@
+species: Lopunny
+setname: Physical
+item: [Choice Scarf]
+ability: [Klutz]
+nature: 
+ivs: 13
+evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Dizzy Punch, Secret Power]
+    - [Jump Kick, Sky Uppercut]
+    - [Foresight, Sweet Kiss]
+    - [Switcheroo]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+---
+species: Lopunny
+setname: Baton Pass
+item: [Salac Berry, Lansat Berry]
+ability: [Cute Charm, Limber]
+nature: Modest
+ivs: {hp: 23, atk: 23, def: 23, spA: 31, spD: 23, spe: 23}
+evs: {hp: 132, atk: 0, def: 40, spA: 252, spD: 0, spe: 84}
+moves:
+    - [Headbutt, Secret Power, Swift]
+    - [Charge Beam]
+    - [Cosmic Power, Agility]
+    - [Baton Pass]
+combinations:
+    - [Salac Berry, Cosmic Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+---
+species: Lopunny
+setname: Mixed
+item: [Expert Belt]
+ability: [Limber]
+nature: Rash
+ivs: 31
+evs: {hp: 80, atk: 172, def: 4, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Double Hit, Hyper Beam, Giga Impact]
+    - [Iron Tail, Focus Blast, Brick Break, Fire Punch]
+    - [Shadow Ball, Ice Punch, Thunder Punch]
+    - [Copycat]
+separations:
+    - [Double Hit, Ice Punch]
+    - [Double Hit, Thunder Punch]
+    - [Hyper Beam, Focus Blast]
+    - [Giga Impact, Ice Punch]
+    - [Giga Impact, Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]

@@ -1,0 +1,79 @@
+species: Honchkrow
+setname: Physical
+item: [Metal Coat]
+ability: [Insomnia]
+nature: Modest
+ivs: 0
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Pluck, Wing Attack, Aerial Ace]
+    - [Feint Attack, Assurance]
+    - [Steel Wing]
+    - [Thunder Wave, Confuse Ray]
+combinations:
+    - [Assurance, Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+---
+species: Honchkrow
+setname: Special
+item: [Null, Iron Ball, Scope Lense, Dragon Fang]
+ability: [Insomnia, Super Luck]
+nature: Quirky
+ivs: 2
+evs: {hp: 100, atk: 0, def: 104, spA: 100, spD: 104, spe: 100}
+moves:
+    - [Dark Pulse, Air Cutter, Hidden Power]
+    - [Psychic, Night Shade]
+    - [Icy Wind, Twister]
+    - [Nasty Plot]
+combinations:
+    - [Iron Ball, Dark Pulse]
+    - [Scope Lens, Super Luck, Air Cutter]
+    - [Dragon Fang, Twister]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+---
+species: Honchkrow
+setname: Critter
+item: [Escape Rope, Power Herb]
+ability: [Super Luck]
+nature: Modest
+ivs: 0
+evs: 0
+moves:
+    - [Brave Bird, Sky Attack]
+    - [Night Slash]
+    - [Super Power]
+    - [Embargo, Psycho Shift, Snatch, Tailwind, Torment, Haze]
+combinations:
+    - [Power Herb, Sky Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+---
+species: Honchkrow
+setname: Max Atk
+item: [Null]
+ability: [Super Luck]
+nature: Adamant
+ivs: 31
+evs: {hp: 16, atk: 252, def: 140, spA: 0, spD: 100, spe: 0}
+moves:
+    - [Pursuit]
+    - [Peck]
+    - [Mirror Move]
+    - [Feather Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
