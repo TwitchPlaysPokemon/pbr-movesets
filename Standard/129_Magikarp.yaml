@@ -7,9 +7,8 @@ moves:
     - [Endeavor, Thunder]
     - [Tail Glow, Endeavor]
     - [Splash]
-combinations:
-    - [Endeavor, Tail Glow]
-    - [Thunder, Endeavor]
+separations:
+    - [Endeavor, Endeavor]
 gender: [m, f]
 rarity: 1.0
 ball: [Net]
