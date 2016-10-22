@@ -37,8 +37,8 @@ moves:
     - [Growl, Agility, Captivate, Tailwind, Double Team]
 combinations:
     - [Silk Scarf, Swift]
-	- [Scope Lens, Air Cutter]
-	- [King's Rock, Fury Attack, Agility]
+    - [Scope Lens, Air Cutter]
+    - [King's Rock, Fury Attack, Agility]
     - [Null, Thief]
 gender: [m, f]
 happiness: 255
