@@ -9,7 +9,7 @@ moves:
     - [Metal Sound]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.9
 ball: [Heal]
 nature: Modest
 ivs: 6
@@ -26,7 +26,7 @@ moves:
     - [Gravity]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.9
 ball: [Quick]
 nature: Jolly
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
@@ -53,8 +53,8 @@ separations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 1.2
 ball: [Timer]
 nature: Quiet
 ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 3, spe: 3}
-evs: {hp: 96, atk: 0, def: 46, spA: 104, spD: 40, spe: 16}
+evs: {hp: 96, atk: 0, def: 44, spA: 104, spD: 40, spe: 16}

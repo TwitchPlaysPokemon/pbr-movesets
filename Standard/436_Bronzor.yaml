@@ -17,7 +17,7 @@ evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
 ---
 species: Bronzor
 setname: Utility
-item: [Heatproof, Levitate]
+item: [Wise Glasses, Full Incense]
 ability: [Heatproof, Levitate]
 moves:
     - [Psychic, Flash Cannon, Dream Eater]
