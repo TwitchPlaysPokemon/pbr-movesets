@@ -1,0 +1,19 @@
+species: Pidgeot
+ingamename: aaabaaaajss
+displayname: aaabaaaajss
+setname: Red
+item: [null]
+ability: [null]
+moves:
+    - [Sky Attack]
+    - [Quick Attack]
+    - [Mirror Move]
+    - [Sand Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
