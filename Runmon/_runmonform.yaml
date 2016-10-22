@@ -1,11 +1,9 @@
-ingamename: ACCCIOOWWW
+ingamename: ACCCIOOWWW (ingame name)
 species: Vaporeon
-setname: Moemon
+setname: ACCCIOOWWW Moemon (ingame name followed by run name)
 item: [Awakening]
 ability: [Water Absorb]
 nature: Quiet
-ivs: 31
-evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
 moves:
     - Surf
     - Water Pulse
@@ -19,7 +17,10 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 level: 100
+ivs: 31
+evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
 ---
+ingamename:
 species: 
 setname: 
 item: []
@@ -33,7 +34,8 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.0
-ball: [Poké]
+ball: []
+shiny: False
 nature: 
 ivs: {hp: , atk: , def: , spA: , spD: , spe: }
 evs: {hp: , atk: , def: , spA: , spD: , spe: }
