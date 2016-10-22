@@ -1,0 +1,44 @@
+species: Chimchar
+setname: Physical
+item: [Null, Liechi Berry, Ganlon Beryy, Apicot Berry, Passho Berry]
+ability: [Iron Fist]
+nature: Jolly
+ivs: 31
+evs: {hp: 64, atk: 224, def: 0, spA: 0, spD: 0, spe: 220}
+moves:
+    - [Blaze Kick, Fire Punch]
+    - [Thunder Punch]
+    - [Low Kick, Focus Punch, Iron Tail]
+    - [Bulk Up, Slack Off, Endure, Sunny Day]
+combinations:
+    - [Passho Berry, Sunny Day]
+    - [Liechi Berry, Endure]
+separations:
+    - [Ganlon Berry, Bulk Up]
+    - [Apicot Berry, Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+---
+species: Chimchar
+setname: Special
+item: [Petaya Berry, Black Belt]
+ability: [Blaze]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Flamethrower, Fire Blast, Heat Wave]
+    - [Vacuum Wave]
+    - [Grass Knot]
+    - [Nasty Plot, Will-O-Wisp, Endure, Substitute]
+separations:
+    - [Petaya Berry, Nasty Plot]
+    - [Petaya Berry, Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]

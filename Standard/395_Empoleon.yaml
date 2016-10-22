@@ -1,0 +1,40 @@
+species: Empoleon
+setname: Physical
+item: [Zoom Lens]
+ability: [Torrent]
+nature: Quiet
+ivs: 19
+evs: {hp: 0, atk: 160, def: 160, spA: 0, spD: 160, spe: 0}
+moves:
+    - [Metal Claw]
+    - [Aqua Jet]
+    - [Double Hit, Pluck, Headbutt, Rock Smash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+---
+species: Empoleon
+setname: Special
+item: [Zinc, Wave Incense, Sea Incense, Rose Incense, Icicle Plate]
+ability: [Torrent]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 40, spA: 0, spD: 40, spe: 120}
+moves:
+    - [Hydro Cannon, Bubble Beam, Water Pulse]
+    - [Flash Cannon]
+    - [Grass Knot, Icy Wind, Signal Beam, Hidden Power]
+    - [Growl, Mist, Stealth Rock, Water Sport]
+combinations:
+    - [Wave Incense, Bubble Beam]
+    - [Sea Incense, Water Pulse]
+    - [Rose Incense, Grass Knot]
+    - [Icicle Plate, Icy Wind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: []

@@ -1,0 +1,77 @@
+---
+species: Monferno
+setname: Physical
+item: [Fist Plate, Salac Berry]
+ability: [Blaze]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 128, atk: 128, def: 124, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Fake Out]
+    - [Blaze Kick, Flame Wheel]
+    - [Mach Punch]
+    - [Aerial Ace, Iron Tail, Thunder Punch, U-Turn, Endure]
+combinations:
+    - [Salac berry, Flame Wheel, Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+---
+species: Monferno
+setname: Special
+item: [Rose Incense, Spell Tag]
+ability: [Blaze]
+nature: Brave
+ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 30, spe: 31}
+evs: {hp: 64, atk: 172, def: 64, spA: 80, spD: 64, spe: 64}
+moves:
+    - [Focus Blast]
+    - [Heat Wave, Flamethrower]
+    - [Grass Knot, Hidden Power]
+    - [Vacuum Wave, Assist, Will-O-Wisp]
+combinations:
+    - [Grass Knot, Rose Incense]
+    - [Spell Tag, Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+---
+species: Monferno
+setname: Setup
+item: [Cheri Berry, Chesto Berry]
+ability: [Blaze]
+nature: Hardy
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 16}
+evs: {hp: 100, atk: 52, def: 124, spA: 52, spD: 124, spe: 56}
+moves:
+    - [Close Combat]
+    - [Fire Blast]
+    - [Nasty Plot]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+---
+species: Monferno 
+setname: SubPunch
+item: [Ganlon Berry, Apicot Berry, Starf Berry]
+ability: [Iron Fist]
+nature: Careful
+ivs: 31
+evs: {hp: 124, atk: 0, def: 184, spA: 0, spD: 120, spe: 80}
+moves:
+    - [Focus Punch]
+    - [Fire Punch]
+    - [Endeavor, Torment, Will-O-Wisp]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]

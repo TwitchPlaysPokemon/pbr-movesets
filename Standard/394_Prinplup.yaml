@@ -1,0 +1,44 @@
+species: Prinplup
+setname: Special 
+item: [Salac Berry, Lemonade]
+ability: [Torrent]
+nature: Quirky
+ivs: 31
+evs: {hp: 80, atk: 0, def: 60, spA: 128, spD: 60, spe: 80}
+moves:
+    - [Hydro Pump, Surf]
+    - [Ice Beam]
+    - [Grass Knot, Signal Beam]
+    - [Yawn, Supersonic, Agility]
+combinations:
+    - [Agility, Lemonade]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+---
+species: Prinplup
+setname: Physical
+item: [Pecha Berry, Light Ball, Oran Berry]
+ability: [Torrent]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Dive, Waterfall]
+    - [Drill Peck]
+    - [Brick Break, Shadow Claw]
+    - [Toxic, Fling, Bide]
+combinations:
+    - [Pecha Berry, Toxic]
+    - [Light Ball, Fling]
+    - [Oran Berry, Bide]
+separations:
+    - [Dive, Fling]
+    - [Waterfall, Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]

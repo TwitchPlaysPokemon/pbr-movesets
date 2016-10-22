@@ -1,0 +1,37 @@
+species: Piplup
+setname: Special
+item: [Petaya Berry]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 216, atk: 0, def: 0, spA: 168, spD: 0, spe: 124}
+moves:
+    - [Surf, Hydro Pump]
+    - [Ice Beam, Grass Knot]
+    - [Agility]
+    - [Substitute, Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+---
+species: Piplup
+setname: Phyisical
+item: [Life Orb, Liechi Berry]
+ability: [Torrent]
+nature: Adamant
+ivs: 31
+evs: {hp: 8, atk: 252, def: 80, spA: 0, spD: 80, spe: 88}
+moves:
+    - [Waterfall]
+    - [Drill Peck, Flail]
+    - [Brick Break, Dig, Endure]
+    - [Agility]
+combinations:
+    - [Liechi Berry, Flail, Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]

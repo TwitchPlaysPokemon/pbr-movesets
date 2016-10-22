@@ -1,0 +1,69 @@
+species: Infernape
+setname: Standard
+item: [Flame Orb, Berry Juice, Apicot Berry]
+ability: [Iron Fist]
+nature: Careful
+ivs: {hp: 0, atk: 10, def: 0, spA: 0, spD: 10, spe: 5}
+evs: 0
+moves:
+    - [Flamethrower, Fire Blast, Heat Wave]
+    - [Mach Punch]
+    - [Covet, Toxic, Encore]
+    - [Fling, Slack Off, Bulk Up]
+combinations:
+    - [Flame Orb, Covet, Fling]
+    - [Berry Juice, Toxic, Slack Off]
+    - [Apicot Berry, Encore, Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+---
+species: Infernape
+setname: Special
+item: [Iron Ball]
+ability: [Blaze]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Blast Burn, Overheat]
+    - [Focus Blast]
+    - [Solar Beam, Grass Knot]
+    - [Sunny Day, Calm Mind, Slack Off, Assist]
+combinations:
+    - [Solar Beam, Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+---
+species: Infernape
+setname: Physical
+item: [Null, Fist Plate, Flame Plate]
+ability: [Blaze, Iron Fist]
+nature: Quiet
+ivs: 0
+evs: {hp: 20, atk: 0, def: 20, spA: 0, spD: 20, spe: 0}
+moves:
+    - [Blaze Kick, Brick Break, Fire Punch, Double Kick, Flame Wheel]
+    - [Gunk Shot, Stone Edge, Earthquake]
+    - [Rock Slide, Poison Jab, Thunder Punch, U-Turn, Shadow Claw, Punishment]
+    - [Leer, Encore, Focus Energy, Helping Hand, Role Play, Stealth Rock]
+combinations:
+    - [Double Kick, Fist Plate]
+    - [Flame Wheel, Flame Plate]
+separations:
+    - [Blaze, Brick Break]
+    - [Blaze, Double Kick]
+    - [Iron Fist, Blaze Kick]
+    - [Iron Fist, Fire Punch]
+    - [Iron Fist, Flame Wheel]
+    - [Blaze Role Play]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]

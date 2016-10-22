@@ -1,0 +1,65 @@
+species: Torterra
+setname: Standard
+item: [Null]
+ability: [Overgrow]
+nature: Gentle
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 30, spe: 31}
+evs: 36
+moves:
+    - [Hidden Power]
+    - [Grass Knot, Giga Drain]
+    - [Rock Tomb, Bite]
+    - [Withdraw, Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+---
+species: Torterra
+setname: Physical
+item: [Grepa Berry, Meadow Plate, Black Glasses, Pomeg Berry]
+ability: [Overgrow, Shell Armor]
+nature: Modest
+ivs: {hp: 11, atk: 11, def: 11, spA: 31, spD: 11, spe: 11}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Wood Hammer, Seed Bomb]
+    - [Earthquake, Superpower]
+    - [Rock Slide, Bite, Iron Head, Outrage, Return]
+    - [Rock Polish, Natural Gift, Amnesia, Stockpile, Nature Power]
+combinations:
+    - [Meadow Plate, Seed Bomb, Superpower]
+    - [Grepa Berry, Natural Gift]
+    - [Black Glasses, Bite]
+separations:
+    - [Overgrow, Amnesia]
+    - [Overgrow, Stockpile]
+    - [Return, Rock Polish]
+    - [Outrage, Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+---
+species: Torterra
+setname: Special
+item: [Growth Mulch]
+ability: [Shell Armor, Overgrow]
+nature: Mild
+ivs: 0
+evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Frenzy Plant, Leaf Storm, Solar Beam]
+    - [Earth Power]
+    - [Worry Seed, Spit Up, Hidden Power]
+    - [Growth, Stockpile]
+combinations:
+    - [Silk Scarf, Overgrow, Spit Up, Stockpile]
+    - [Power Herb, Solar Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
