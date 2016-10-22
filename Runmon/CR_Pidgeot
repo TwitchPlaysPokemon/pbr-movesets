@@ -1,0 +1,19 @@
+species: Pidgeot
+ingamename: BBBBBD
+displayname: BBBBBD
+setname: Crystal
+item: [null]
+ability: [null]
+moves:
+    - [Fly]
+    - [Wing Attack]
+    - [Quick Attack]
+    - [Mirror Move]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
