@@ -1,0 +1,19 @@
+species: Lapras
+ingamename: AIIIIIIRRR
+displayname: AIIIIIIRRR
+setname: Red
+item: [null
+ability: [null]
+moves:
+    - [Surf]
+    - [Body Slam]
+    - [Strength]
+    - [Mist]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
