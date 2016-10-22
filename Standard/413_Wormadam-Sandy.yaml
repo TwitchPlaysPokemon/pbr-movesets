@@ -1,0 +1,45 @@
+species: Wormadam
+setname: Sandy Physical
+item: [Bloom Mail, Twistedspoon, Damp Rock, Smooth Rock]
+ability: [Anticipation]
+moves:
+    - [Earth Power]
+    - [Signal Beam]
+    - [Shadow Ball, Psybeam, Hidden Power]
+    - [Sandstorm, Rain Dance, Skill Swap, Double Team]
+combinations:
+    - [Twistedspoon, Psybeam]
+    - [Damp Rock, Hidden Power, Rain Dance]
+    - [Smooth Rock, Sandstorm]
+gender: [m, f]
+form: 1
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 84, atk: 0, def: 84, spA: 88, spD: 84, spe: 168}
+---
+species: Wormadam
+setname: Sandy Special
+item: [Insect Plate, Belue Berry]
+ability: [Anticipation]
+moves:
+    - [Earthquake, Dig]
+    - [Bug Bite]
+    - [Sucker Punch, Rock Blast, Natural Gift]
+    - [Stealth Rock, Harden, Toxic, Fissure]
+combinations:
+    - [Belue Berry, Natural Gift, Toxic]
+separations:
+    - [Earthquake, Natural Gift]
+gender: [m, f]
+form: 1
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+nature: Careful
+ivs: 31
+evs: {hp: 128, atk: 120, def: 60, spA: 0, spD: 80, spe: 80}

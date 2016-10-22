@@ -1,0 +1,40 @@
+species: Wormadam
+setname: Plant Special
+item: [null]
+ability: [Anticipation]
+moves:
+    - [Leaf Storm]
+    - [Signal Beam]
+    - [Psychic]
+    - [Growth]
+gender: [m, f]
+form: 0
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Bold
+ivs: 14
+evs: {hp: 84, atk: 0, def: 84, spA: 172, spD: 84, spe: 84}
+---
+species: Wormadam
+setname: Plant Physical
+item: [Silverpowder, Miracle Seed, Salac Berry]
+ability: [Anticipation]
+moves:
+    - [Seed Bomb]
+    - [Bug Bite]
+    - [Giga Impact, Return, Flail]
+    - [String Shot, Synthesis, Safeguard, Endure]
+combinations:
+    - [Miracle Seed, Razor Leaf]
+    - [Salac Berry, Flail, Endure]
+gender: [m, f]
+form: 0
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

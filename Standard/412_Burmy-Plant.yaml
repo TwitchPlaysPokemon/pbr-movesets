@@ -1,0 +1,19 @@
+species: Burmy
+setname: Plant Standard
+item: [Big Root]
+ability: [Magic Guard]
+moves:
+    - [Megahorn]
+    - [Wood Hammer]
+    - [Leech Seed]
+    - [Protect]
+gender: [m, f]
+form: 0
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Careful
+ivs: 31
+evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
+---

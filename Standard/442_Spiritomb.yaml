@@ -1,0 +1,60 @@
+species: Spiritomb
+setname: Standard
+item: [Wiki Berry]
+ability: [Pressure]
+moves:
+    - [Feint Attack]
+    - [Shadow Sneak]
+    - [Silver Wind]
+    - [Spite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+nature: Quiet
+ivs: 30
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Spiritomb
+setname: Special
+item: [Custap Berry, Splash Plate, Zap Plate, Icicle Plate]
+ability: [Pressure]
+moves:
+    - [Shadow Ball, Dark Pulse]
+    - [Psychic]
+    - [Hidden Power, Water Pulse, Shock Wave, Icy Wind]
+    - [Pain Split]
+combinations:
+    - [Splash Plate, Water Pulse]
+    - [Zap Plate, Shock Wave]
+    - [Icicle Plate, Icy Wind]
+separations:
+    - [Splash Plate, Dark Pulse]
+    - [Zap Plate, Dark Pulse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Jolly
+ivs: {hp: 3, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 0, atk: 0, def: 152, spA: 0, spD: 152, spe: 0}
+---
+species: Spiritomb
+setname: Physical
+item: [Durin Berry, Watmel Berry, Belue Berry, Liechi Berry, Ganlon Berry, Salac Berry, Petaya Berry, Apicot Berry, Lansat Berry, Starf Berry, Enigma Berry, Jaboca Berry]
+ability: [Pressure]
+moves:
+    - [Sucker Punch]
+    - [Giga Impact]
+    - [Natural Gift]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Timer]
+nature: Brave
+ivs: 9
+evs: {hp: 100, atk: 108, def: 100, spA: 100, spD: 100, spe: 0}

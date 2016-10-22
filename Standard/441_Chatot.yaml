@@ -1,0 +1,42 @@
+species: Chatot
+setname: Special
+item: [Sharp Beak]
+ability: [Keen Eye, Tangled Feet]
+moves:
+    - [Hyper Voice]
+    - [Chatter]
+    - [Heat Wave, Night Shade]
+    - [Nasty Plot, Sing, Supersonic]
+separations:
+    - [Night Shade, Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+nature: Serious
+ivs: 13
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+---
+species: Chatot
+setname: Physical
+item: [Cheri Berry, Sharp Beak, Liechi Berry]
+ability: [Keen Eye, Tangled Feet]
+moves:
+    - [Sky Attack, Fly, Return]
+    - [Secret Power, Facade, Pluck]
+    - [Steel Wing, U-turn, Natural Gift, Mirror Move]
+    - [Taunt, Roost, Feather Dance, Captivate, Role Play, Toxic, Protect, Encore]
+combinations:
+    - [Fly, Toxic]
+    - [Sharp Beak, Return, Pluck]
+    - [Liechi Berry, Natural Gift]
+    - [Mirror Move, Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
