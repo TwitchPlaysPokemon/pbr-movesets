@@ -21,7 +21,7 @@ evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Froslass
 setname: Physical
-item: [Spooky Plate, Icicle Plate]
+item: [Spooky Plate, Icicle Plate, Dread Plate]
 ability: [Snow Cloak]
 moves:
     - [Avalanche, Ice Punch, Ice Fang]
