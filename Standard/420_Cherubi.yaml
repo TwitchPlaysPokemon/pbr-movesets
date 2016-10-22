@@ -1,0 +1,37 @@
+species: Cherubi
+setname: Special
+item: [Tanga Berry, Yache Berry, Coba Berry, Kebia Berry, Salac Berry]
+ability: [Chlorophyll]
+nature: Modest
+ivs: 31
+evs: {hp: 84, atk: 0, def: 20, spA: 252, spD: 20, spe: 132}
+moves:
+    - [Solar Beam]
+    - [Weather Ball]
+    - [Leech Seed, Growth, Nature Power, Endure]
+    - [Sunny Day]
+combinations:
+    - [Salac Berry, Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+---
+species: Cherubi
+setname: Physical
+item: [Wide Lens]
+ability: [Chlorophyll]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Seed Bomb]
+    - [Return, Take Down]
+    - [Grass Whistle]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]

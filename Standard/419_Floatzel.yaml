@@ -1,0 +1,39 @@
+species: Floatzel
+setname: Mixed
+item: [Null]
+ability: [Swift Swim, Water Veil]
+nature: Relaxed
+ivs: 5
+evs: 84
+moves:
+    - [Aqua Tail, Water Pulse, Waterfall, Surf]
+    - [Hyper Beam, Focus Blast, Blizzard]
+    - [Crunch, Iron Tail, Ice Punch, Strength, Brick Break]
+    - [Bulk Up, Hail, Rain Dance, Taunt]
+combinations:
+    - [Hail, Blizzard]
+separations:
+    - [Water Veil, Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+---
+species: Floatzel
+setname: Baton Pass
+item: [Lansat Berry]
+ability: [Water Veil]
+nature: Gentle
+ivs: 10
+evs: 84
+moves:
+    - [Surf]
+    - [Slash]
+    - [Bulk Up]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]

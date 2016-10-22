@@ -1,0 +1,44 @@
+species: Cherrim
+setname: Physical Mix 
+item: [Rose Incense]
+ability: [Flower Gift]
+nature: Adamant
+ivs: 31
+evs: {hp: 40, atk: 60, def: 40, spA: 0, spD: 40, spe: 60}
+moves:
+    - [Seed Bomb]
+    - [Weather Ball]
+    - [Tickle]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+---
+species: Cherrim
+setname: Special Mix
+item: [Heat Rock, Rose Incense, Occa Berry, Persim Berry, Petaya Berry]
+ability: [Flower Gift]
+nature: Bashful
+ivs: 31
+evs: {hp: 80, atk: 108, def: 100, spA: 60, spD: 80, spe: 80}
+moves:
+    - [Solar Beam, Energy Ball, Petal Dance]
+    - [Nature Power, Natural Gift]
+    - [Growth, Swords Dance, Endure, Synthesis, Grass Whistle]
+    - [Sunny Day]
+combinations:
+    - [Occa Berry, Natural Gift, Swords Dance]
+    - [Petaya Berry, Endure]
+separations:
+    - [Rose Incense, Solar Beam]
+    - [Rose Incense, Petal Dance]
+    - [Persim Berry, Solar Beam]
+    - [Persim Berry, Energy Ball]
+    - [Heat Rock, Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]

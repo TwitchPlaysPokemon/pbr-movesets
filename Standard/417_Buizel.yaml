@@ -1,0 +1,39 @@
+species: Buizel
+setname: Physical
+item: [Choice Band, Rindo Berry]
+ability: [Water Veil]
+nature: Adamant
+ivs: 31
+evs: {hp: 80, atk: 140, def: 40, spA: 0, spD: 40, spe: 140}
+moves:
+    - [Waterfall, Aqua Tail]
+    - [Return]
+    - [Ice Punch]
+    - [Brick Break, Bulk Up, Switcheroo]
+combinations:
+    - [Rindo Berry, Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+---
+species: Buizel
+setname: Special
+item: [Life Orb, Choice Specs]
+ability: [Water Veil]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 32, atk: 0, def: 120, spA: 60, spD: 120, spe: 176}
+moves:
+    - [Hydro Pump, Surf]
+    - [Ice Beam, Blizzard]
+    - [Hidden Power, Brine]
+    - [Me First, Switcheroo]
+combinations:
+    - [Choice Specs, Switcheroo]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]

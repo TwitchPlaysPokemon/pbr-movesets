@@ -1,0 +1,35 @@
+species: Combee
+setname: Physical
+item: [Leftover]
+ability: [Hustle]
+nature: Timid
+ivs: 31
+evs: {hp: 216, atk: 0, def: 120, spA: 0, spD: 120, spe: 52}
+moves:
+    - [Aerial Ace]
+    - [Toxic]
+    - [Defend Order]
+    - [Heal Order]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+---
+species: Combee 
+setname: Special
+item: [Choice Specs]
+ability: [Hony Gather]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Ominous Wind]
+    - [Mud-Slap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
