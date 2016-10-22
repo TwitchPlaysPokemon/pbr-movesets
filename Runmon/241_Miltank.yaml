@@ -1,0 +1,19 @@
+ingamename: !L
+species: Miltank
+setname: !L-AC
+item: [Bloom Mail]
+ability: [null]
+moves:
+    - [Return]
+    - [Earthquake]
+    - [Toxic]
+    - [Milk Drink]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
