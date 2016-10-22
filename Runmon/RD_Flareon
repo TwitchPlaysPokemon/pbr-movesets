@@ -1,0 +1,19 @@
+species: Flareon
+ingamename: FLAREON
+displayname: FLAREON
+setname: Red
+item: [Silk Scarf]
+ability: [Huge Power]
+moves:
+    - [Tackle]
+    - [Sand Attack]
+    - []
+    - []
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
