@@ -40,7 +40,7 @@ nature: Jolly
 ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-- [Twinneedle, Pin Missile]
+- [Twineedle, Pin Missile]
 - [Aerial Ace, Assurance, Cut]
 - [Rock Smash]
 - [Swords Dance]
