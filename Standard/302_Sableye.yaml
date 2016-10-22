@@ -6,7 +6,7 @@ moves:
     - [Shadow Claw]
     - [Poison Jab, Fire Punch, Double-Edge]
     - [Low Kick, Substitute, Endure]
-    - [Pain Split, Role Play, Recover]
+    - [Pain Split, Recover]
 combinations:
     - [Endure, Pain Split]
 gender: [m, f]
