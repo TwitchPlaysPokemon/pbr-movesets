@@ -6,7 +6,7 @@ moves:
     - [X-Scissor]
     - [Cross Poison]
     - [Dig, Aqua Tail, Brick Break, Iron Tail]
-    - [Endure, Confuse Ray, Screech, Accupressure, Rain Dance]
+    - [Endure, Confuse Ray, Screech, Acupressure, Rain Dance]
 separations:
     - [Dig, Rain Dance]
     - [Brick Break, Rain Dance]
@@ -28,7 +28,7 @@ moves:
     - [Poison Jab]
     - [Hidden Power]
     - [Confuse Ray, Swagger]
-    - [Accupressure]
+    - [Acupressure]
 gender: [m, f]
 happiness: 255
 biddable: True
