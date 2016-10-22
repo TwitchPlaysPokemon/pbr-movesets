@@ -1,0 +1,35 @@
+species: Dialga
+setname: Standard
+item: [Adamant Orb]
+ability: [Pressure]
+moves:
+    - [Metal Claw]
+    - [Twister]
+    - [Metal Burst]
+    - [Roar, Heal Block, Trick Room, Safeguard]
+happiness: 255
+biddable: True
+rarity: 1.9
+ball: [Ultra]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 8}
+---
+species: Dialga
+setname: Overpowered
+item: [null]
+ability: [Pressure]
+moves:
+    - [Roar of Time]
+    - [Flash Cannon, Iron Tail]
+    - [Power Gem, Aura Sphere, Overheat, Thunderbolt, Ice Beam]
+    - [Gravity, Heal Block, Sandstorm, Trick Room, Roar]
+separations:
+    - [Flash Cannon, Gravity]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Jolly
+ivs: 0
+evs: 0

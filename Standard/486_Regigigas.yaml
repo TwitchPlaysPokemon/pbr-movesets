@@ -1,0 +1,55 @@
+species: Regigigas
+setname: Physical
+item: [Shoal Salt]
+ability: [Slow Start]
+moves:
+    - [Crush Grip]
+    - [Giga Impact]
+    - [Zen Headbutt, Iron Head, Rock Slide]
+    - [Drain Punch]
+happiness: 255
+biddable: True
+rarity: 1.2
+ball: [Master]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
+---
+species: Regigigas
+setname: Special
+item: [Life Orb]
+ability: [Slow Start]
+moves:
+    - [Focus Blast, Hyper Beam]
+    - [Thunder, Thunderbolt]
+    - [Earth Power]
+    - [Gravity, Confuse Ray, Icy Wind]
+combinations:
+    - [Thunder, Gravity]
+separations:
+    - [Focus Blast, Confuse Ray]
+    - [Focus Blast, Icy Wind]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Master]
+nature: Quiet
+ivs: 18
+evs: 0
+---
+species: Regigigas
+setname: Overpowered
+item: [null]
+ability: [Slow Start]
+moves:
+    - [Crush Grip, Dizzy Punch, Mega Punch]
+    - [Earthquake, Stone Edge, Focus Punch]
+    - [Fire Punch, Ice Punch, Thunder Punch]
+    - [Confuse Ray]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Brave
+ivs: 0
+evs: {hp: 0, atk: 248, def: 0, spA: 0, spD: 0, spe: 4}

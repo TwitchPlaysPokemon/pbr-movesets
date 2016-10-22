@@ -1,0 +1,50 @@
+species: Palkia
+setname: Standard
+item: [Lustrous Orb]
+ability: [Pressure]
+moves:
+    - [Hidden Power]
+    - [Bubble]
+    - [Strength, Shadow Claw, Rock Slide, Aerial Ace]
+    - [Heal Block, Safeguard, Scary Face, Trick Room]
+happiness: 255
+biddable: True
+rarity: 1.4
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 1, atk: 0, def: 1, spA: 1, spD: 1, spe: 1}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Palkia
+setname: Outrage
+item: [Flame Orb]
+ability: [Pressure]
+moves:
+    - [Outrage]
+    - [Aqua Tail, Waterfall]
+    - [Stone Edge, Brick Break, Avalanche]
+    - [Safeguard]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Modest
+ivs: 0
+evs: 0
+---
+species: Palkia
+setname: Overpowered
+item: [Macho Brace]
+ability: [Pressure]
+moves:
+    - [Spacial Rend]
+    - [Surf, Hydro Pump]
+    - [Aura Sphere, Earth Power, Flamethrower, Ice Beam, Thunderbolt]
+    - [Scary Face, Heal Block, Trick Room, Safeguard]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Jolly
+ivs: 0
+evs: 0

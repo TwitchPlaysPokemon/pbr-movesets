@@ -1,0 +1,58 @@
+species: Uxie
+setname: Special
+item: [X Defense, Insect Plate, Splash Plate, Draco Plate, Full Incense]
+ability: [Levitate]
+moves:
+    - [Psychic, Extrasensory]
+    - [Energy Ball, Thunderbolt, Shadow Ball, Signal Beam, Water Pulse, Hidden Power]
+    - [Role Play, Skill Swap, Trick, Magic Coat, Trick Room]
+    - [Calm Mind]
+combinations:
+    - [Insect Plate, Signal Beam]
+    - [Splash Plate, Water Pulse]
+    - [Draco Plate, Hidden Power]
+    - [Full Incense, Trick]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Lax
+ivs: 0
+evs: {hp: 20, atk: 0, def: 20, spA: 20, spD: 0, spe: 0}
+---
+species: Uxie
+setname: Physical
+item: [Oran Berry, Iron Ball, null]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt]
+    - [Giga Impact, Iron Tail, Fling]
+    - [Fire Punch, Ice Punch, Thunder Punch]
+    - [Thunder Wave, Trick Room, Trick]
+combinations:
+    - [Oran Berry, Thunder Wave]
+    - [Iron Ball, Fling]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Premier]
+nature: Brave
+ivs: 0
+evs: {hp: 60, atk: 128, def: 60, spA: 0, spD: 60, spe: 0}
+---
+species: Uxie
+setname: Trapper
+item: [Enigma Berry]
+ability: [Levitate]
+moves:
+    - [Dream Eater]
+    - [Charge Beam]
+    - [Yawn]
+    - [Block]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Heal]
+nature: Rash
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 60, spD: 0, spe: 60}

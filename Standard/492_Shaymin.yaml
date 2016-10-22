@@ -1,0 +1,69 @@
+species: Shaymin
+setname: Seed Flare
+item: [Lagging Tail]
+ability: [Natural Cure]
+moves:
+    - [Seed Flare]
+    - [Earth Power]
+    - [Worry Seed, Tailwind, Sweet Scent]
+    - [Healing Wish]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Serious
+ivs: 10
+evs: 0
+---
+species: Shaymin
+setname: Physical
+item: [Silk Scarf, Leppa Berry]
+ability: [Natural Cure]
+moves:
+    - [Seed Bomb]
+    - [Zen Headbutt]
+    - [Quick Attack, Last Resort, Natural Gift]
+    - [Swords Dance]
+combinations:
+    - [Silk Scarf, Quick Attack]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Quiet
+ivs: 0
+evs: 0
+---
+species: Shaymin
+setname: Growth
+item: [Growth Mulch]
+ability: [Natural Cure]
+moves:
+    - [Magical Leaf, SolarBeam]
+    - [Ominous Wind]
+    - [Air Cutter]
+    - [Growth]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Hardy
+ivs: 21
+evs: 0
+---
+species: Shaymin
+setname: Bullet Seed
+item: [Razor Fang]
+ability: [Natural Cure]
+moves:
+    - [Bullet Seed]
+    - [Covet]
+    - [Flash, GrassWhistle]
+    - [Swords Dance]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 72, atk: 208, def: 76, spA: 0, spD: 76, spe: 76}

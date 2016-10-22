@@ -1,0 +1,56 @@
+species: Darkrai
+setname: Sleep
+item: [Toxic Orb]
+ability: [Bad Dreams]
+moves:
+    - [Pursuit]
+    - [Fling]
+    - [Dark Void]
+    - [Nightmare]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Dusk]
+nature: Brave
+ivs: 0
+evs: {hp: 148, atk: 92, def: 36, spA: 0, spD: 36, spe: 80}
+---
+species: Darkrai
+setname: Fighter
+item: [Iron Ball, Dread Plate]
+ability: [Bad Dreams]
+moves:
+    - [Sucker Punch, Payback, Feint Attack]
+    - [X-Scissor, Night Shade, Thunderbolt]
+    - [Brick Break, Drain Punch, Focus Punch]
+    - [Swords Dance, Quick Attack, Thunder Wave, Snatch, Haze]
+combinations:
+    - [Sucker Punch, Focus Punch]
+    - [Dread Plate, Feint Attack]
+separations:
+    - [Sucker Punch, Thunder Wave]
+    - [Payback, Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Ultra]
+nature: Brave
+ivs: 0
+evs: {hp: 120, atk: 8, def: 120, spA: 0, spD: 120, spe: 4}
+---
+species: Darkrai
+setname: Overpowered
+item: [Macho Brace]
+ability: [Bad Dreams]
+moves:
+    - [Dark Pulse]
+    - [Focus Blast, Night Shade, Thunderbolt]
+    - [Roar of Time, Spacial Rend]
+    - [Psychic, Sludge Bomb, Ice Beam]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: 0

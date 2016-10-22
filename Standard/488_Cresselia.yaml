@@ -1,0 +1,55 @@
+species: Cresselia
+setname: Standard
+item: [Metronome]
+ability: [Levitate]
+moves:
+    - [Psycho Cut, Zen Headbutt, Confusion]
+    - [Aurora Beam, Grass Knot, Swift]
+    - [Fury Cutter]
+    - [Lunar Dance, Trick Room, Psycho Shift, Magic Coat]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.5
+ball: [Ultra]
+nature: Quiet
+ivs: 0
+evs: {hp: 0, atk: 200, def: 0, spA: 200, spD: 0, spe: 80}
+---
+species: Cresselia
+setname: Snore
+item: [Black Sludge]
+ability: [Levitate]
+moves:
+    - [Confusion]
+    - [Snore]
+    - [Calm Mind]
+    - [Rest]
+gender: [f]
+happiness: 255
+biddable: False
+rarity: 0.4
+ball: [Heal]
+nature: Lonely
+ivs: 0
+evs: {hp: 0, atk: 4, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Cresselia
+setname: Overpowered
+item: [null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Energy Ball, Ice Beam, Shadow Ball, Hyper Beam, Solarbeam]
+    - [Thunder Wave, Toxic]
+    - [Lunar Dance, Trick Room, Skill Swap, Sunny Day]
+combinations:
+    - [Solarbeam, Sunny Day]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Naughty
+ivs: 0
+evs: 0

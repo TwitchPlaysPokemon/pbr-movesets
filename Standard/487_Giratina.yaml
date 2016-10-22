@@ -1,0 +1,33 @@
+species: Giratina
+setname: Standard
+item: [Black Sludge]
+ability: [Pressure]
+moves:
+    - [Shadow Force]
+    - [Dragon Claw, Dragon Breath]
+    - [Thunder]
+    - [Pain Split, Calm Mind]
+happiness: 255
+biddable: True
+rarity: 1.9
+ball: [Dusk]
+nature: Quirky
+ivs: 0
+evs: {hp: 20, atk: 0, def: 0, spA: 48, spD: 0, spe: 0}
+---
+species: Giratina
+setname: Overpowered
+item: [Macho Brace]
+ability: [Pressure]
+moves:
+    - [Draco Meteor, Outrage, Dragon Pulse]
+    - [Shadow Claw, Shadow Ball]
+    - [Aura SphereAqua Tail, Earthquake, Iron Tail, Stone Edge, Psychic, Thunderbolt]
+    - [Defog, Heal Block, Psych Up, Safeguard, Spite, Tailwind]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Timid
+ivs: 0
+evs: 0

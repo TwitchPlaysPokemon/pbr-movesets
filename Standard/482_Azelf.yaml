@@ -1,0 +1,71 @@
+species: Azelf
+setname: Special
+item: [null, Meadow Plate, Insect Plate, Toxic Orb]
+ability: [Levitate]
+moves:
+    - [Psychic, Extrasensory]
+    - [Flamethrower, Fire Blast]
+    - [Shadow Ball, Grass Knot, Signal Beam, Trick]
+    - [Magic Coat, Flash, Stealth Rock, Taunt, Detect]
+combinations:
+    - [Toxic Orb, Trick, Detect]
+    - [Meadow Plate, Grass Knot]
+    - [Insect Plate, Signal Beam]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Heal]
+nature: Jolly
+ivs: 0
+evs: {hp: 40, atk: 0, def: 40, spA: 0, spD: 40, spe: 40}
+---
+species: Azelf
+setname: Physical
+item: [X Attack]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt]
+    - [Fire Punch, Ice Punch, Thunder Punch]
+    - [U-turn]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Brave
+ivs: 0
+evs: 0
+---
+species: Azelf
+setname: Max Sp. Atk
+item: [X Sp Atk]
+ability: [Levitate]
+moves:
+    - [Confusion, Hidden Power]
+    - [Water Pulse, Swift]
+    - [Charge Beam, Shock Wave]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Heal]
+nature: Rash
+ivs: {hp: 0, atk: 1, def: 1, spA: 29, spD: 3, spe: 2}
+evs: {hp: 80, atk: 0, def: 180, spA: 248, spD: 0, spe: 0}
+---
+species: Azelf
+setname: Imprison
+item: [X Sp Def]
+ability: [Levitate]
+moves:
+    - [Shadow Ball]
+    - [Signal Beam]
+    - [Payback]
+    - [Imprison]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dusk]
+nature: Brave
+ivs: 21
+evs: 84
