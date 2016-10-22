@@ -1,0 +1,19 @@
+species: Charmeleon
+ingamename: ABBBBBBK(
+displayname: ABBBBBBK(
+setname: Red
+item: [null]
+ability: [null]
+moves:
+    - [Cut]
+    - [Bide]
+    - [Leer]
+    - [Growl]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
