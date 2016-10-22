@@ -45,7 +45,7 @@ ball: [Ultra]
 ---
 species: Torterra
 setname: Special
-item: [Growth Mulch]
+item: [Growth Mulch, Silk Scarf]
 ability: [Shell Armor, Overgrow]
 nature: Mild
 ivs: 0
