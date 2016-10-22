@@ -21,8 +21,8 @@ setname: Special
 item: [Zinc, Wave Incense, Sea Incense, Rose Incense, Icicle Plate]
 ability: [Torrent]
 nature: Adamant
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 40, spA: 0, spD: 40, spe: 120}
+ivs: 2
+evs: {hp: 0, atk: 0, def: 32, spA: 0, spD: 32, spe: 112}
 moves:
     - [Hydro Cannon, Bubble Beam, Water Pulse]
     - [Flash Cannon]
@@ -37,4 +37,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: []
+ball: [Ultra]
