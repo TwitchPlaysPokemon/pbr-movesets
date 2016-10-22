@@ -38,7 +38,7 @@ evs: 0
 ---
 species: Azelf
 setname: Max Sp. Atk
-item: [X Sp. Atk.]
+item: [X Special]
 ability: [Levitate]
 moves:
     - [Confusion, Hidden Power]
