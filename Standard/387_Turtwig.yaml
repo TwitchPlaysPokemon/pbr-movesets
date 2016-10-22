@@ -17,27 +17,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
----species: 
-setname: 
-item: []
-ability: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
-moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: []
 ---
 species: Turtwig
 setname: Overgrow
@@ -48,7 +27,7 @@ ivs: 31
 evs: {hp: 20, atk: 252, def: 0, spA: 0, spD: 0, spe: 236}
 moves:
     - [Seed Bomb]
-    - [Superpower, Trash]
+    - [Superpower, Thrash]
     - [Swords Dance, Tickle]
     - [Endure, Substitute]
 gender: [m, f]
