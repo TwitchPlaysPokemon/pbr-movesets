@@ -1,0 +1,55 @@
+species: Croagunk
+setname: Physical
+item: [Blackbelt]
+ability: [Dry Skin]
+moves:
+    - [Gunk Shot]
+    - [Drain Punch, Cross Chop, Brick Break, Revenge]
+    - [Sucker Punch, Bounce, X-Scissor, Earthquake]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 204, atk: 76, def: 120, spA: 0, spD: 56, spe: 52}
+---
+species: Croagunk
+setname: Special
+item: [Lum Berry, Soft Sand]
+ability: [Dry Skin]
+moves:
+    - [Focus Blast]
+    - [Sludge Bomb]
+    - [Dark Pulse, Shadow Ball, Mud Bomb, Vacuum Wave]
+    - [Nasty Plot]
+combinations:
+    - [Soft Sand, Mud Bomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Modest
+ivs: 31
+evs: {hp: 76, atk: 0, def: 0, spA: 252, spD: 0, spe: 180}
+---
+species: Croagunk
+setname: Stall
+item: [Black Sludge]
+ability: [Dry Skin]
+moves:
+    - [Fake Out]
+    - [Super Fang]
+    - [Poison Jab]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Impish
+ivs: 31
+evs: {hp: 180, atk: 124, def: 76, spA: 0, spD: 128, spe: 0}

@@ -1,0 +1,57 @@
+species: Skorupi
+setname: Sniper
+item: [Lansat Berry]
+ability: [Sniper]
+moves:
+    - [X-Scissor]
+    - [Cross Poison]
+    - [Dig, Aqua Tail, Brick Break, Iron Tail]
+    - [Endure, Confuse Ray, Screech, Accupressure, Rain Dance]
+separations:
+    - [Dig, Rain Dance]
+    - [Brick Break, Rain Dance]
+    - [Iron Tail, Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+nature: Jolly
+ivs: 31
+evs: {hp: 88, atk: 168, def: 0, spA: 0, spD: 84, spe: 168}
+---
+species: Skorupi
+setname: Battle Armor
+item: [Sitrus Berry]
+ability: [Battle Armor]
+moves:
+    - [Poison Jab]
+    - [Hidden Power]
+    - [Confuse Ray, Swagger]
+    - [Accupressure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Mild
+ivs: 31
+evs: 84
+---
+species: Skorupi
+setname: Keen Eye
+item: [Petaya Berry]
+ability: [Keen Eye]
+moves:
+    - [Sludge Bomb]
+    - [Dark Pulse, Shadow Ball]
+    - [Toxic Spikes, Taunt, Attract]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

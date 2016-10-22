@@ -1,0 +1,53 @@
+species: Hippowdon
+setname: Physical
+item: [null]
+ability: [Sand Stream]
+moves:
+    - [Earthquake]
+    - [Crunch, Iron Tail, Thunder Fang, Ice Fang, Fire Fang]
+    - [Stealth Rock, Attract, Rock Smash, Sand-Attack]
+    - [Substitute, Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 40, spA: 0, spD: 40, spe: 40}
+---
+species: Hippowdon
+setname: Special
+item: [Life Orb]
+ability: [Sand Stream]
+moves:
+    - [Earth Power]
+    - [Spit Up]
+    - [Swallow]
+    - [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: 0
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 128, spe: 252}
+---
+species: Hippowdon
+setname: Stall
+item: [Grip Claw]
+ability: [Sand Stream]
+moves:
+    - [Sand Tomb]
+    - [Tackle, Water Pulse]
+    - [Toxic]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Brave
+ivs: 31
+evs: {hp: 128, atk: 252, def: 0, spA: 0, spD: 128, spe: 0}

@@ -1,0 +1,81 @@
+species: Drapion
+setname: Physical
+item: [Antidote]
+ability: [Keen Eye]
+moves:
+    - [Poison Jab]
+    - [Crunch]
+    - [Earthquake, Iron Tail, Brick Break, Aqua Tail]
+    - [Agility, Torment, Swords Dance]
+separations:
+    - [Earthquake, Swords Dance]
+    - [Iron Tail, Agility]
+    - [Iron Tail, Torment]
+    - [Brick Break, Agility]
+    - [Brick Break, Torment]
+    - [Aqua Tail, Agility]
+    - [Aqua Tail, Torment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.2
+ball: [Ultra]
+nature: Sassy
+ivs: 0
+evs: 20
+---
+species: Drapion
+setname: Special
+item: [Petaya Berry]
+ability: [Battle Armor]
+moves:
+    - [Sludge Bomb]
+    - [Dark Pulse]
+    - [Hidden Power]
+    - [Substitute, Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Heal]
+nature: Modest
+ivs: {hp: 23, atk: 22, def: 23, spA: 22, spD: 23, spe: 23}
+evs: {hp: 124, atk: 0, def: 64, spA: 128, spD: 128, spe: 64}
+---
+species: Drapion
+setname: Thief
+item: [null]
+ability: [Battle Armor]
+moves:
+    - [Poison Fang]
+    - [Thief]
+    - [Thunder Fang, Ice Fang, Fire Fang, Aerial Ace]
+    - [Fling]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Dusk]
+nature: Brave
+ivs: 12
+evs: {hp: 152, atk: 212, def: 72, spA: 0, spD: 72, spe: 0}
+---
+species: Drapion
+setname: Sniper
+item: [Razor Claw]
+ability: [Sniper]
+moves:
+    - [Night Slash, Cross Poison]
+    - [Poison Tail, Feint Attack]
+    - [Slash]
+    - [Twineedle]
+combinations:
+    - [Night Slash, Poison Tail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.1
+ball: [Safari]
+nature: Calm
+ivs: 31
+evs: {hp: 32, atk: 0, def: 32, spA: 0, spD: 64, spe: 0}
