@@ -1,0 +1,43 @@
+species: 
+ingamename:
+displayname: 
+setname: 
+item: []
+ability: []
+nature: 
+moves:
+    - 
+    - 
+    - 
+    - 
+gender: []
+form: 0
+happiness: 255
+shiny: True
+biddable: True
+rarity: 0.0
+ball: []
+level: 100
+ivs: 
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+---
+species: 
+ingamename: 
+displayname: 
+setname: 
+item: []
+ability: []
+moves:
+    - []
+    - []
+    - []
+    - []
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: []
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
