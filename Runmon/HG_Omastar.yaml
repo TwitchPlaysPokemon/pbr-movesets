@@ -1,0 +1,20 @@
+species: Omastar
+ingamename: OMASTAR
+displayname: OMASTAR
+setname: HeartGold
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Water Spout]
+    - [Muddy Water]
+    - [Surf]
+    - [Water Pulse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Quick]
+shiny: False
+nature: Quirky
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

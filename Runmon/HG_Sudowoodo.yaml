@@ -1,0 +1,20 @@
+species: Sudowoodo
+ingamename: A
+displayname: A
+setname: HeartGold
+item: [Null]
+ability: [Sniper]
+moves:
+    - [Rock Wrecker]
+    - [Surf]
+    - [Strength]
+    - [Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Net]
+shiny: False
+nature: Naive
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

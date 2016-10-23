@@ -1,0 +1,20 @@
+species: Bastiodon
+ingamename: BASTIODON
+displayname: BASTIODON
+setname: HeartGold
+item: [Splash Plate]
+ability: [Soundproof]
+moves:
+    - [Magnet Bomb]
+    - [Surf]
+    - [Rock Climb]
+    - [Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Ultra]
+shiny: False
+nature: Brave
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

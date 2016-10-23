@@ -1,0 +1,20 @@
+species: Xatu
+ingamename: xrr♂ ♦
+displayname: xrr♂ ♦
+setname: HeartGold
+item: [Nugget]
+ability: [Hustle]
+moves:
+    - [Fly]
+    - [Mist Ball]
+    - [Whirlpool]
+    - [Amnesia]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: True
+nature: Bashful
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

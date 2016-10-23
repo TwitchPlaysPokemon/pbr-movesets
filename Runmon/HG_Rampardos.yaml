@@ -1,0 +1,20 @@
+species: Rampardos
+ingamename: 6 â¦'j
+displayname: 6 â¦'j
+setname: HeartGold
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Magnitude]
+    - [Double Hit]
+    - [Waterfall]
+    - [Surf]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Master]
+shiny: False
+nature: Rash
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
