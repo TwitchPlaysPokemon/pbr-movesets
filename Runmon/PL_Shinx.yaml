@@ -1,0 +1,20 @@
+species: Shinx
+ingamename: 0”☀ ☀0☀☺ ☹
+displayname: 0”☀ ☀0☀☺ ☹
+setname: Platinum
+item: [Bloom Mail]
+ability: [Rivalry]
+moves:
+    - [Return]
+    - [Discharge]
+    - [Roar]
+    - [Thunderbolt]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Heal]
+shiny: False
+nature: Hasty
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

@@ -1,0 +1,20 @@
+species: Flareon
+ingamename: FLAREON
+displayname: FLAREON
+setname: Platinum
+item: [Heart Mail]
+ability: [Flash Fire]
+moves:
+    - [Rock Smash]
+    - [Fire Fang]
+    - [Strength]
+    - [Fire Blast]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Hasty
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
