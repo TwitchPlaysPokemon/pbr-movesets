@@ -1,0 +1,20 @@
+species: Sceptile
+ingamename: AEEEEOPM.J
+displayname: AEEEEOPM.J
+setname: Black 2
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Energy Ball]
+    - [Dig]
+    - [Rock Slide]
+    - [Strenght]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Mild
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

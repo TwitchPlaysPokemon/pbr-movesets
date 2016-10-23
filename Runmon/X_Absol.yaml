@@ -1,0 +1,20 @@
+species: Absol
+ingamename: QQYyy25o6wf7
+displayname: QQYyy25o6wf7
+setname: X
+item: [Null]
+ability: [Super Luck]
+moves:
+    - [Sucker Punch]
+    - [Pursuit]
+    - [Psycho Cut]
+    - [Me First]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Net]
+shiny: False
+nature: Naughty
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

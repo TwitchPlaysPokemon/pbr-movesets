@@ -1,0 +1,20 @@
+species: Lapras
+ingamename: ! ♀o?04+6eAd
+displayname: ! ♀o?04+6eAd
+setname: X
+item: [Zap Plate]
+ability: [Water Absorb]
+moves:
+    - [Surf]
+    - [Sheer Cold]
+    - [Thunderbolt]
+    - [Body Slam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
