@@ -1,20 +1,20 @@
 species: Minum
-ingamename: ♀2e!0yy5ee2y
-displayname: ♀2e!0yy5ee2y
+ingamename: "!t44444’tu"
+displayname: "!t44444’tu"
 setname: OR
-item: [Escape Rope]
-ability: [Minus]
+item: [Nugget]
+ability: [Huge Power]
 moves:
-    - [Thunder]
-    - [Quick Attack]
-    - [U-turn]
-    - [Fake Tears]
-gender: [m]
+    - [Waterfall]
+    - [Dive]
+    - [Superpower]
+    - [Rock Smash]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.0
 ball: [Great]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Modest
+ivs: 0
+evs: 84
