@@ -1,0 +1,16 @@
+species: Gastly
+setname: Shiny
+item: [Focus Sash]
+ability: [Normalize]
+moves:
+    - [Shadow Ball]
+    - [Sludge Bomb]
+    - [Role Play]
+    - [Skill Swap]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Premier]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 44, spA: 84, spD: 44, spe: 84}

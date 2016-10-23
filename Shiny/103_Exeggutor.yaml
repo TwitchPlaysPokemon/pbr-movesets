@@ -1,0 +1,16 @@
+species: Exeggutor
+setname: Shiny
+item: [Draco Plate]
+ability: [Frisk]
+moves:
+    - [Bullet Seed]
+    - [Dragon Rush]
+    - [Dragon Dance]
+    - [Conversion]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Safari]
+nature: Impish
+ivs: 31
+evs: {hp: 164, atk: 0, def: 0, spA: 0, spD: 240, spe: 104}

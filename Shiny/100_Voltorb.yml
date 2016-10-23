@@ -1,0 +1,16 @@
+species: Voltorb
+setname: Shiny
+item: [Bright Powder]
+ability: [Serene Grace]
+moves:
+    - [Spark]
+    - [Iron Head]
+    - [Rock Slide]
+    - [Rolling Kick]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Luxury Ball]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

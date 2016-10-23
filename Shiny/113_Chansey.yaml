@@ -1,0 +1,16 @@
+species: Chansey
+setname: Shiny
+item: [Lucky Punch]
+ability: [Sniper]
+moves:
+    - [Slash]
+    - [Crabhammer]
+    - [Cross Chop]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+shiny: True
+ball: [Cherish]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}

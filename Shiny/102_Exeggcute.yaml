@@ -1,0 +1,13 @@
+species: Exeggcute
+setname: Shiny
+item: [Null]
+ability: [No Guard]
+moves:
+    - [Guillotine]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Master]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
