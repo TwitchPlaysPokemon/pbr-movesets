@@ -21,7 +21,7 @@ item: [Leftovers]
 ability: [Serene Grace]
 nature: Bold
 ivs: 31
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
 moves:
 - [Sludge Bomb]
 - [Night Shade]
