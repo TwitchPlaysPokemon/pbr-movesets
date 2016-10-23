@@ -1,0 +1,13 @@
+species: Hitmontop
+setname: Stadium 2
+moves:
+    - Triple Kick
+    - Strength
+    - Focus Energy
+    - Counter
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Docile
+ivs: 31
+evs: {hp: 168, atk: 168, def: 176, spA: 168, spD: 168, spe: 176}

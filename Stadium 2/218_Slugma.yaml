@@ -1,0 +1,13 @@
+species: Slugma
+setname: Stadium 2
+moves:
+    - Flamethrower
+    - Rock Slide
+    - Body Slam
+    - Amnesia
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 212, atk: 212, def: 212, spA: 228, spD: 228, spe: 220}

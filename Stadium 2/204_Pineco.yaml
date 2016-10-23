@@ -1,0 +1,13 @@
+species: Pineco
+setname: Stadium 2
+moves:
+    - Double-Edge
+    - Giga Drain
+    - Explosion
+    - Spikes
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Docile
+ivs: 31
+evs: {hp: 188, atk: 188, def: 196, spA: 188, spD: 188, spe: 188}

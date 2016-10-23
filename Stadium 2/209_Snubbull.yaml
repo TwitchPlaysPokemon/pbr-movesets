@@ -1,0 +1,13 @@
+species: Snubbull
+setname: Stadium 2
+moves:
+    - Strength
+    - Shadow Ball
+    - Charm
+    - Swagger
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Serious
+ivs: 31
+evs: {hp: 188, atk: 188, def: 196, spA: 188, spD: 188, spe: 188}

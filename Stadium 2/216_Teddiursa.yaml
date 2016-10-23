@@ -1,0 +1,13 @@
+species: Teddiursa
+setname: Stadium 2
+moves:
+    - Slash
+    - Feint Attack
+    - Earthquake
+    - Attract
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Serious
+ivs: 31
+evs: {hp: 160, atk: 168, def: 160, spA: 160, spD: 160, spe: 168}

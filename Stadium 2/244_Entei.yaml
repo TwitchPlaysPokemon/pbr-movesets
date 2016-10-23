@@ -1,0 +1,12 @@
+species: Entei
+setname: Stadium 2
+moves:
+    - Fire Blast
+    - Rock Smash
+    - Leer
+    - Roar
+happiness: 255
+rarity: 0.0
+nature: Hardy
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 120, spD: 120, spe: 120}

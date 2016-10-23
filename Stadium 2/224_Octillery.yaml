@@ -1,0 +1,13 @@
+species: Octillery
+setname: Stadium 2
+moves:
+    - Octazooka
+    - Hyper Beam
+    - Focus Energy
+    - Lock-On
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 72, atk: 72, def: 80, spA: 72, spD: 72, spe: 80}

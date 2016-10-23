@@ -1,0 +1,13 @@
+species: Granbull
+setname: Stadium 2
+moves:
+    - Headbutt
+    - Dynamic Punch
+    - Bite
+    - Scary Face
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 88, atk: 96, def: 88, spA: 88, spD: 88, spe: 96}
