@@ -16,7 +16,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 1.3
 ball: [Dusk]
 ---
 species: Onix
@@ -36,3 +36,21 @@ happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Heal]
+---
+species: Onix
+setname: Slow
+item: [Iron Ball]
+ability: [Sturdy]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Gyro Ball]
+    - [Payback]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}

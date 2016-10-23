@@ -1,0 +1,93 @@
+species: Bulbasaur
+setname: Token
+item: [Occa Berry]
+ability: [Chlorophyll]
+nature: Relaxed
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 100, atk: 100, def: 108, spA: 100, spD: 100, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Body Slam]
+    - [Hidden Power]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 0
+---
+species: Ivysaur
+setname: Token
+item: [Coba Berry]
+ability: [Chlorophyll]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 2}
+evs: {hp: 80, atk: 208, def: 80, spA: 60, spD: 80, spe: 0}
+moves:
+    - [Sludge Bomb]
+    - [Hidden Power]
+    - [Knock Off]
+    - [Protect]
+gender: [m, f]
+rarity: 0
+ball: [Great]
+---
+species: Venusaur
+setname: Token
+item: [Salac Berry]
+ability: [Overgrow]
+nature: Sassy
+ivs: 31
+evs: {hp: 232, atk: 0, def: 0, spA: 0, spD: 252, spe: 24}
+moves:
+    - [Sludge]
+    - [Nature Power]
+    - [Grass Whistle]
+    - [Substitute]
+gender: [m, f]
+rarity: 0
+ball: [Ultra]
+---
+species: Charmander
+setname: Token
+item: [Charcoal, Cheri Berry]
+ability: [Blaze]
+nature: Adamant
+ivs: 31
+evs: {hp: 20, atk: 252, def: 0, spA: 0, spD: 0, spe: 236}
+moves:
+    - [Flare Blitz]
+    - [Rock Slide]
+    - [Aerial Ace]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 0
+---
+species: Charmeleon
+setname: Token
+item: [Chesto Berry]
+ability: [Blaze]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 80, atk: 252, def: 52, spA: 0, spD: 0, spe: 124}
+moves:
+    - [Flamethrower]
+    - [Rock Slide]
+    - [Aerial Ace]
+    - [Dragon Dance]
+gender: [m, f]
+rarity: 0
+ball: [Great]
+---
+species: Charizard
+setname: Token
+item: [Liechi Berry]
+ability: [Solar Power]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 64, spe: 176}
+moves:
+    - [Heat Wave]
+    - [Wing Attack]
+    - [Belly Drum]
+    - [Endure]
+gender: [m, f]
+rarity: 0
+ball: [Ultra]

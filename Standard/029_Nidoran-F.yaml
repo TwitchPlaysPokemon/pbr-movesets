@@ -17,7 +17,7 @@ rarity: 1.0
 ball: [Poké]
 ---
 species: Nidoran-F
-setname: F Special
+setname: Special
 item: [Sitrus Berry]
 ability: [Poison Point, Rivalry]
 nature: Modest

@@ -1,6 +1,6 @@
 species: Kingler
 setname: Physical
-item: [Null, Grip Claw]
+item: [null, Grip Claw]
 ability: [Hyper Cutter, Shell Armor]
 nature: Modest
 ivs: {hp: 31, atk: 15, def: 15, spA: 31, spD: 21, spe: 25}
