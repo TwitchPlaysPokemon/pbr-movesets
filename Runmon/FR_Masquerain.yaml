@@ -1,0 +1,20 @@
+species: Masquerain
+ingamename: AATUUUUNN 
+displayname: AATUUUUNN 
+setname: FireRed
+item: [null]
+ability: [Insomnia]
+moves:
+    - [Fly]
+    - [Aerial Ace]
+    - [Hyper Beam]
+    - [Leech Life]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Careful
+ivs: 31
+evs: 84

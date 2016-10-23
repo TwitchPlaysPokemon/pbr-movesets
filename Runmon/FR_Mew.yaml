@@ -1,0 +1,19 @@
+species: Mew
+ingamename: MARC 
+displayname: MARC 
+setname: FireRed
+item: [Shoal Shell]
+ability: [Magnet Pull]
+moves:
+    - [Surf]
+    - [Body Slam]
+    - [Rollout]
+    - [Follow Me]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Relaxed
+ivs: 0
+evs: 60

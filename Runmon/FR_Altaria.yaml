@@ -1,0 +1,20 @@
+species: Altaria
+ingamename: ALTARIA
+displayname: ALTARIA
+setname: FireRed
+item: [Metal Coat]
+ability: [Trace]
+moves:
+    - [Return]
+    - [Drill Peck]
+    - [Fly]
+    - [Cut]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Gentle
+ivs: 0
+evs: 84

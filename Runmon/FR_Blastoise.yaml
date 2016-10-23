@@ -1,0 +1,20 @@
+species: Blastoise
+ingamename: TTABCIJIJD
+displayname: TTABCIJIJD
+setname: FireRed
+item: [Super Potion]
+ability: [Vital Spirit]
+moves:
+    - [Surf]
+    - [Octazooka]
+    - [Thrash]
+    - [Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Calm
+ivs: 0
+evs: {hp: 84, atk: 252, def: 84, spA: 0, spD: 0, spe: 88}

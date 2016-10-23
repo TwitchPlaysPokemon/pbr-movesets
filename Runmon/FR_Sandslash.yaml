@@ -1,0 +1,20 @@
+species: Sandslash
+ingamename: SANDSLASH
+displayname: SANDSLASH
+setname: FireRed
+item: [Brightpowder]
+ability: [Flame Body]
+moves:
+    - [Strength]
+    - [Take Down]
+    - [Metal Claw]
+    - [Tackle]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Lax
+ivs: 17
+evs: {hp: 124, atk: 128, def: 0, spA: 0, spD: 128, spe: 128}
