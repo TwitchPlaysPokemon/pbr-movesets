@@ -3,7 +3,7 @@ ingamename: BBBBBCLLLL
 displayname: BBBBBCLLLL
 setname: AR
 item: [Null]
-ability: [Null]
+ability: [Huge Power]
 moves:
     - [Rock Throw]
     - [Slam]
@@ -15,6 +15,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Lonely
+ivs: 31
+evs: {hp: 128, atk: 252, def: 0, spA: 0, spD: 128, spe: 0}

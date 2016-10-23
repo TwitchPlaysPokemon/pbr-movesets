@@ -1,12 +1,13 @@
 species: Cloyster
-ingamename: IIII--??(U
-displayname: IIII--??(U
+ingamename: "IIII--??(U"
+displayname: "IIII--??(U"
 setname: AR
 item: [Null]
 ability: [Null]
 moves:
-    - [Clamp]
+    - [Surf]
     - [Aurora Beam]
+    - [Clamp]
     - [Double Team]
 gender: [f]
 happiness: 255
@@ -14,6 +15,6 @@ biddable: True
 rarity: 0.0
 ball: [Ultra]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Gentle
+ivs: 0
+evs: {hp: 128, atk: 0, def: 0, spA: 40, spD: 228, spe: 112}
