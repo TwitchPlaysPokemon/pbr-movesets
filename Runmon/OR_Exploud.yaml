@@ -1,0 +1,20 @@
+species: Exploud
+ingamename: WHISMUR V
+displayname: WHISMUR V
+setname: OR
+item: [Red Orb]
+ability: [Sound Proof]
+moves:
+    - [Hyper Voice]
+    - [Hyper Beam]
+    - [Flamethrower]
+    - [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
