@@ -2,7 +2,7 @@ species: Lopunny
 setname: Physical
 item: [Choice Scarf]
 ability: [Klutz]
-nature: 
+nature: Bashful
 ivs: 13
 evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
