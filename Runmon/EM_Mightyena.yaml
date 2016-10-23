@@ -1,0 +1,20 @@
+species: Mightyena
+ingamename: MIGHTYENA
+displayname: MIGHTYENA
+setname: Emerald
+item: [TM 10]
+ability: [Intimidate]
+moves:
+    - [Crunch]
+    - [Double-Edge]
+    - [Shadow Ball]
+    - [Strength]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Mild
+ivs: 9
+evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}

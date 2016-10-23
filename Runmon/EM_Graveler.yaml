@@ -1,0 +1,20 @@
+species: Graveler
+ingamename: "-5\"\"7\"Y"
+displayname: "-5\"\"7\"Y"
+setname: Emerald
+item: [TM 03]
+ability: [Sturdy]
+moves:
+    - [Rock Throw]
+    - [Rock Throw]
+    - [Double-Edge]
+    - [Strength]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Timid
+ivs: 19
+evs: {hp: 128, atk: 0, def: 0, spA: 0, spD: 252, spe: 128}

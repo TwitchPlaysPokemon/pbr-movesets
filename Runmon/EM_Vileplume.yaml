@@ -1,0 +1,20 @@
+species: Vileplume
+ingamename: VILEPLUME
+displayname: VILEPLUME
+setname: Emerald
+item: [Poké Ball]
+ability: [Chlorophyll]
+moves:
+    - [Petal Dance]
+    - [Sludge Bomb]
+    - [Giga Drain]
+    - [Sleep Powder]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Safari]
+shiny: False
+nature: Adamant
+ivs: 0
+evs: 0

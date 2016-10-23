@@ -1,0 +1,20 @@
+species: Hariyama
+ingamename: A♀NIIIIc33
+displayname: A♀NIIIIc33
+setname: Emerald
+item: [Nugget]
+ability: [Thick Fat]
+moves:
+    - [Brick Break]
+    - [Reversal]
+    - [Strength]
+    - [Rock Smash]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Ultra]
+shiny: False
+nature: Lax
+ivs: 0
+evs: 0
