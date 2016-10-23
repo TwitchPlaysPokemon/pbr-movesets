@@ -1,0 +1,34 @@
+species: Ditto
+setname: Shiny
+item: [Quick Powder]
+ability: [Wonder Guard]
+moves:
+    - [Transform]
+    - [Impriosn (=5)]
+    - [Mimic]
+    - [Block]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Repeat]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 112, spA: 0, spD: 112, spe: 32}
+---
+ingamename: Ditto Shiny
+species: Ditto
+setname: Shiny 2
+item: [Metal Powder]
+ability: [Huge Power]
+moves:
+    - [Crush Grip]
+    - [Crunch]
+    - [Drain Punch]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Cherish]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}

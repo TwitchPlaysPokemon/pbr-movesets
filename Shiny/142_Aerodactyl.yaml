@@ -1,0 +1,16 @@
+species: Aerodactyl
+setname: Shiny
+item: [Iron Ball]
+ability: [No Guard]
+moves:
+    - [Horn Drill (=1)]
+    - [Guillotine (=1)]
+    - [Gastro Acid]
+    - [Foresight]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Net]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}

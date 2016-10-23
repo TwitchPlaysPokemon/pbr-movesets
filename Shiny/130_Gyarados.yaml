@@ -1,0 +1,16 @@
+species: Gyarados
+setname: Shiny
+item: [Silk Scarf]
+ability: [Intimidate]
+moves:
+    - [Thrash]
+    - [Bite]
+    - [Dragon Rage]
+    - [Leer]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Dive]
+nature: Adamant
+ivs: {hp: 8, atk: 15, def: 10, spA: 10, spD: 10, spe: 10}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
