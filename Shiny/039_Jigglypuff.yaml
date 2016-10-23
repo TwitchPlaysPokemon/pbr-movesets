@@ -1,0 +1,16 @@
+species: Jigglypuff
+setname: Shiny
+item: [Chesto Berry]
+ability: [Pure Power]
+moves:
+    - [Pound]
+    - [Rollout]
+    - [Sing]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Heal]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}

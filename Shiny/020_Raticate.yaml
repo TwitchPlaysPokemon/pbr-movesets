@@ -1,0 +1,16 @@
+species: Raticate
+setname: Shiny
+item: [Liechi berry]
+ability: [Gluttony]
+moves:
+    - [Hyper Fang]
+    - [Earthquake]
+    - [Crunch]
+    - [Recycle]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Repeat]
+nature: Impish
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}

@@ -1,0 +1,16 @@
+species: Raichu
+setname: Shiny
+item: [Iron Ball]
+ability: [Levitate]
+moves:
+    - [Thunderbolt]
+    - [Psychic]
+    - [Fling]
+    - [Tail Glow]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Heal]
+nature: Timid
+ivs: 31
+evs: {hp: 128, atk: 0, def: 64, spA: 0, spD: 64, spe: 252}

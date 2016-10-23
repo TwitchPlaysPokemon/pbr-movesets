@@ -1,0 +1,16 @@
+species: Venusaur
+setname: Shiny
+item: [King's Rock]
+ability: [Serene Grace]
+moves:
+    - [Ice Fang]
+    - [Fire Fang]
+    - [Thunder Fang]
+    - [Octazooka]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Repeat]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 128, atk: 0, def: 84, spA: 0, spD: 44, spe: 252}

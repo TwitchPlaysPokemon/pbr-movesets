@@ -1,0 +1,16 @@
+species: Meowth
+setname: Shiny
+item: [Amulet Coin]
+ability: [Shadow Tag]
+moves:
+    - [Fake Out]
+    - [Slash]
+    - [Night Slash]
+    - [Dark Void]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

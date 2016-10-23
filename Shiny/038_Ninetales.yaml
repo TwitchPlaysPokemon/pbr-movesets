@@ -1,0 +1,16 @@
+species: Ninetales
+setname: Shiny
+item: [Icicle Plate]
+ability: [Snow Cloak]
+moves:
+    - [Ice Beam]
+    - [Flare Blitz]
+    - [Double Team]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Cherish]
+nature: Brave
+ivs: {hp: 20, atk: 31, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 128, spe: 124}

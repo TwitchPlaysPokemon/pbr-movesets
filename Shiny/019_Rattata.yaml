@@ -1,0 +1,17 @@
+species: Rattata
+setname: Shiny
+Level: 1
+item: [Focus Sash]
+ability: [Magic Guard]
+moves:
+    - [Endeavor]
+    - [Quick Attack]
+    - [Sonic Boom]
+    - [Odor Sleuth]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Luxury]
+nature: Quirky
+ivs: 0
+evs: 0

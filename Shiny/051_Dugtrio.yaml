@@ -1,0 +1,16 @@
+species: Dugtrio
+setname: Shiny
+item: [Sharp Beak]
+ability: [Iron Fist]
+moves:
+    - [Fly]
+    - [High Jump Kick]
+    - [Ice Punch]
+    - [Thunder Punch]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Luxury]
+nature: Impish
+ivs: 31
+evs: {hp: 156, atk: 252, def: 0, spA: 0, spD: 4, spe: 96}

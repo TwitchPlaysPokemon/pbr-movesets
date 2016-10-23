@@ -1,0 +1,13 @@
+species: Kakuna
+setname: Shiny
+item: [Rowap Berry]
+ability: [Poison Point]
+moves:
+    - [Harden (=100]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Poké]
+nature: Careful
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}

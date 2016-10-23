@@ -1,0 +1,16 @@
+species: Butterfree
+setname: Shiny
+item: [Black Glasses]
+ability: [Intimidate]
+moves:
+    - [Aeroblast]
+    - [Dark Pulse]
+    - [Dark Void]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Dusk]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 88, atk: 0, def: 252, spA: 0, spD: 84, spe: 84}

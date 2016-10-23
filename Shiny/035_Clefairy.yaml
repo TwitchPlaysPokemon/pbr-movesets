@@ -1,0 +1,16 @@
+species: Clefairy
+setname: Shiny
+item: [Moon Stone]
+ability: [Drought]
+moves:
+    - [Solar Beam]
+    - [Charm]
+    - [Sweet Kiss]
+    - [Moonlight]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Heal]
+nature: Modest
+ivs: 31
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
