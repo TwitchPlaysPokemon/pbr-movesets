@@ -1,10 +1,11 @@
+ingamename: Ditto-S
 species: Ditto
 setname: Shiny
 item: [Quick Powder]
 ability: [Wonder Guard]
 moves:
     - [Transform]
-    - [Impriosn (=5)]
+    - [Imprison (=5)]
     - [Mimic]
     - [Block]
 gender: [m, f]
@@ -15,7 +16,7 @@ nature: Timid
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 112, spA: 0, spD: 112, spe: 32}
 ---
-ingamename: Ditto Shiny
+ingamename: Ditto-S
 species: Ditto
 setname: Shiny 2
 item: [Metal Powder]
