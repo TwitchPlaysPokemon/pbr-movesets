@@ -75,8 +75,8 @@ setname: Snore
 item: [Persim Berry]
 ability: [Technician]
 nature: Modest
-ivs: 8
-evs: 31
+ivs: 31
+evs: 8
 moves:
     - [Shadow Ball, Water Pulse]
     - [Snore]
