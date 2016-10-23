@@ -28,11 +28,11 @@ ivs: 0
 evs: 0
 moves:
     - [Dive]
-    - [Avalance, Earthquake, Double-Edge, Giga Impact]
+    - [Avalanche, Earthquake, Double-Edge, Giga Impact]
     - [Shock Wave, Icy Wind, Ancient Power, Signal Beam]
     - [Roar, Scary Face, Psych Up]
 separations:
-    - [Avalance, Icy Wind, Scary Face]
+    - [Avalanche, Icy Wind, Scary Face]
 happiness: 255
 biddable: True
 rarity: 1.1
@@ -47,11 +47,11 @@ ivs: 0
 evs: 0
 moves:
     - [Water Spout, Aqua Tail, Waterfall]
-    - [Earthquake, Avalance, Thunderbolt, Ice Beam]
+    - [Earthquake, Avalanche, Thunderbolt, Ice Beam]
     - [Ancient Power, Signal Beam, Sheer Cold]
     - [Hail]
 separations:
-    - [Avalance, Sheer Cold]
+    - [Avalanche, Sheer Cold]
     - [Ice Beam, Sheer Cold]
 happiness: 255
 biddable: True

@@ -3,7 +3,7 @@ setname: Me First
 ability: [Pressure]
 nature: Hardy
 ivs: 0
-evs: {hp: 49, atk: 49, def: 49, spA: 49, spD: 49, spe: 49}
+evs: 48
 moves:
     - [Psycho Cut]
     - [Me First]

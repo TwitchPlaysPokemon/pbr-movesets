@@ -67,4 +67,4 @@ rarity: 0.1
 ball: [Master]
 nature: Adamant
 ivs: 0
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 84

@@ -22,7 +22,7 @@ setname: Plant Physical
 item: [Silverpowder, Miracle Seed, Salac Berry]
 ability: [Anticipation]
 moves:
-    - [Seed Bomb]
+    - [Seed Bomb, Razor Leaf]
     - [Bug Bite]
     - [Giga Impact, Return, Flail]
     - [String Shot, Synthesis, Safeguard, Endure]

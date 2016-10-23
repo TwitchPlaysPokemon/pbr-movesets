@@ -13,7 +13,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [Luxury]
 ---
 species: Vespiquen
@@ -42,7 +42,7 @@ ball: [Net]
 ---
 species: Vespiquen
 setname: Special
-item: [Scope Lens, Sky Plate, Sitrus Berry]
+item: [Scope Lens, Sky Plate, Sitrus Berry, Full Incense]
 ability: [Pressure]
 nature: Modest
 ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 30}
@@ -77,6 +77,6 @@ moves:
     - [String Shot]
 gender: [f]
 happiness: 255
-biddable: True
-rarity: 1.0
+biddable: False
+rarity: 0.5
 ball: [Safari]
