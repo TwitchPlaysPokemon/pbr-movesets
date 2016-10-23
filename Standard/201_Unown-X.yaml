@@ -1,21 +1,17 @@
 species: Unown
-setname: X Standard
-item: [null]
-ability: [null]
+setname: XXXXX
+item: [Expert Belt]
+ability: [Suction Cups]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Extrasensory]
+    - [X-Scissor]
+    - [Extremespeed]
+    - [Explosion]
 form: 23
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Quick]
+nature: Brave
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}

@@ -1,21 +1,17 @@
 species: Unown
-setname: I Standard
-item: [null]
-ability: [null]
+setname: Increase
+item: [Leftovers]
+ability: [Simple]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Psychic]
+    - [Acupressure]
+    - [Recover, Slack Off, Roost, Milk Drink, Heal Order]
+    - [Ice Ball]
 form: 8
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Timer]
+nature: Hardy
+ivs: 31
+evs: {hp: 172, atk: 0, def: 84, spA: 0, spD: 84, spe: 168}

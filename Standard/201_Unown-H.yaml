@@ -1,21 +1,17 @@
 species: Unown
-setname: H Standard
-item: [null]
-ability: [null]
+setname: Help
+item: [Liechi Berry, Petaya Berry, Ganlon Berry, Apicot Berry, Salac Berry]
+ability: [Gluttony]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Hidden Power]
+    - [Amnesia, Acid Armor, Agility, Nasty Plot, Swords Dance]
+    - [Baton Pass]
+    - [Helping Hand]
 form: 7
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Timid
+ivs: {hp: 31, atk: 2, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 164, atk: 0, def: 44, spA: 128, spD: 44, spe: 128}

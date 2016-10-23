@@ -1,21 +1,17 @@
 species: Unown
-setname: W Standard
-item: [null]
-ability: [null]
+setname: Want
+item: [Nugget]
+ability: [Sticky Hold]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Luster Purge]
+    - [Hidden Power]
+    - [Snatch]
+    - [Wring Out]
 form: 22
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Luxury]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 84, atk: 0, def: 84, spA: 128, spD: 84, spe: 128}

@@ -1,21 +1,17 @@
 species: Unown
-setname: P Standard
-item: [null]
-ability: [null]
+setname: Perform
+item: [Twistedspoon]
+ability: [Serene Grace]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Psybeam]
+    - [Sing, Perish Song, Feather Dance, Teeter Dance, Grass Whistle, Encore]
+    - [Role Play]
+    - [Petal Dance]
 form: 15
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Cherish]
+nature: Modest
+ivs: 31
+evs: {hp: 168, atk: 0, def: 0, spA: 172, spD: 0, spe: 168}

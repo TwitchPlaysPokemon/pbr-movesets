@@ -1,21 +1,17 @@
 species: Unown
-setname: T Standard
-item: [null]
-ability: [null]
+setname: Tell
+item: [Heart Mail]
+ability: [Scrappy]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Hidden Power]
+    - [Chatter]
+    - [Sleep Talk]
+    - [Rest]
 form: 19
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Heal]
+nature: Bold
+ivs: {hp: 31, atk: 2, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 172, atk: 0, def: 84, spA: 88, spD: 144, spe: 20}

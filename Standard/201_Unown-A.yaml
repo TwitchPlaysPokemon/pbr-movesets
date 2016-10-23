@@ -1,21 +1,17 @@
 species: Unown
-setname: A Standard
-item: [null]
-ability: [null]
+setname: Anger
+item: [Life Orb]
+ability: [Anger Point]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Psycho Cut]
+    - [Hidden Power]
+    - [Outrage, Endure]
+    - [Aeroblast]
 form: 0
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 0, atk: 192, def: 0, spA: 64, spD: 0, spe: 252}

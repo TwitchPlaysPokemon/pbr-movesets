@@ -1,21 +1,17 @@
 species: Unown
-setname: Z Standard
-item: [null]
-ability: [null]
+setname: Zoom
+item: [Zoom Lens]
+ability: [Keen Eye]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Zen Headbutt]
+    - [Hidden Power]
+    - [Lock On]
+    - [Zap Cannon]
 form: 25
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Great]
+nature: Brave
+ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 128, def: 64, spA: 0, spD: 64, spe: 0}

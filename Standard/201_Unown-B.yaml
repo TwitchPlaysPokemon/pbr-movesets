@@ -1,21 +1,17 @@
 species: Unown
-setname: B Standard
-item: [null]
-ability: [null]
+setname: Bear
+item: [Razor Claw]
+ability: [Intimidate]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Psycho Cut]
+    - [Hidden Power]
+    - [Slash, Fury Swipes, Roar, Fire Fang, Ice Fang, Thunder Fang]
+    - [Bite, Bug Bite]
 form: 1
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Safari]
+nature: Brave
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}

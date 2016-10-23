@@ -1,21 +1,19 @@
 species: Unown
-setname: U Standard
-item: [null]
-ability: [null]
+setname: Undo
+item: [White Herb]
+ability: [Natural Cure]
 moves:
-    - []
-    - []
-    - []
-    - []
+    - [Psycho Boost]
+    - [Wake-Up Slap, Smelling Salt]
+    - [Spore, Thunder Wave]
+    - [Haze]
 combinations:
-    - []
-separations:
-    - []
+    - [Wake-Up Slap, Spore]
 form: 20
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Dusk]
+nature: Brave
+ivs: 31
+evs: {hp: 108, atk: 100, def: 100, spA: 100, spD: 100, spe: 0}

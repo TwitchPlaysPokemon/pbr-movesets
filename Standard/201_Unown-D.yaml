@@ -1,21 +1,17 @@
 species: Unown
-setname: D Standard
-item: [null]
-ability: [null]
+setname: Direct
+item: [King's Rock]
+ability: [Pressure]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Zen Headbutt]
+    - [Hidden Power]
+    - [Attack Order]
+    - [Defend Order]
 form: 3
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Nest]
+nature: Jolly
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

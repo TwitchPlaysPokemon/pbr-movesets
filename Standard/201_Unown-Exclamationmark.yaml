@@ -1,21 +1,17 @@
 species: Unown
-setname: ! Standard
-item: [null]
-ability: [null]
+setname: "!!!!!"
+item: [Sacred Ash]
+ability: [Soundproof]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Psybeam]
+    - [Bug Buzz]
+    - [Hyper Voice]
+    - [Nasty Plot]
 form: 26
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Ultra]
+nature: Modest
+ivs: 31
+evs: {hp: 128, atk: 0, def: 64, spA: 124, spD: 64, spe: 128}

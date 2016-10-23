@@ -1,21 +1,17 @@
 species: Unown
-setname: C Standard
-item: [null]
-ability: [null]
+setname: Chase
+item: [Grip Claw]
+ability: [Speed Boost]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Confusion]
+    - [Hidden Power]
+    - [Pursuit]
+    - [Close Combat]
 form: 2
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Quick]
+nature: Mild
+ivs: {hp: 30, atk: 30, def: 30, spA: 30, spD: 30, spe: 31}
+evs: {hp: 120, atk: 80, def: 60, spA: 168, spD: 0, spe: 80}

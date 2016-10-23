@@ -1,21 +1,14 @@
 species: Unown
-setname: "? Standard"
-item: [null]
-ability: [null]
+setname: "?????"
+item: [Starf Berry]
+ability: [Levitate]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Metronome, Assist]
 form: 27
 happiness: 255
-biddable: True
+biddable: False
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Repeat]
+nature: Docile
+ivs: 31
+evs: {hp: 0, atk: 168, def: 0, spA: 168, spD: 0, spe: 172}

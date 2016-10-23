@@ -1,21 +1,17 @@
 species: Unown
-setname: L Standard
-item: [null]
-ability: [null]
+setname: Laugh
+item: [Lucky Punch]
+ability: [Pure Power]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Luster Purge]
+    - [Hidden Power]
+    - [Barrage]
+    - [Lick]
 form: 11
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Net]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 84, atk: 252, def: 0, spA: 84, spD: 0, spe: 88}

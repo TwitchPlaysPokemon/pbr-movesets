@@ -1,21 +1,17 @@
 species: Unown
-setname: Q Standard
-item: [null]
-ability: [null]
+setname: Quicken
+item: [Quick Powder]
+ability: [Speed Boost]
 moves:
-    - []
-    - []
-    - []
-    - []
-combinations:
-    - []
-separations:
-    - []
+    - [Psycho Cut]
+    - [Hidden Power]
+    - [Swords Dance]
+    - [Quick Attack]
 form: 16
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 31}
+evs: {hp: 172, atk: 128, def: 0, spA: 80, spD: 0, spe: 128}
