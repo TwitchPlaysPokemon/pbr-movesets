@@ -7,7 +7,7 @@ moves:
     - [Signal Beam]
     - [Psychic]
     - [Growth]
-gender: [m, f]
+gender: [f]
 form: 0
 happiness: 255
 biddable: True
@@ -29,7 +29,7 @@ moves:
 combinations:
     - [Miracle Seed, Razor Leaf]
     - [Salac Berry, Flail, Endure]
-gender: [m, f]
+gender: [f]
 form: 0
 happiness: 255
 biddable: True

@@ -15,7 +15,7 @@ combinations:
     - [Hidden Power, Magnet Rise]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 1.1
 ball: [Poké]
 ---
 species: Electrode
@@ -34,7 +34,7 @@ combinations:
     - [Facade, Flame Orb, Explosion]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.8
 ball: [Poké]
 ---
 species: Electrode

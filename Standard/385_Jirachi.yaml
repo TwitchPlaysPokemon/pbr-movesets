@@ -10,7 +10,6 @@ moves:
     - [Confusion]
     - [Confusion]
     - [Drain Punch]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -28,7 +27,6 @@ moves:
     - [Fire Punch]
     - [U-turn, Last Resort, Thunder Punch]
     - [Reflect, Defense Curl, Metronome, Snore]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -48,7 +46,6 @@ moves:
     - [Helping Hand, Sandstorm, Trick]
 separations:
     - [Energy Ball, Grass Knot]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

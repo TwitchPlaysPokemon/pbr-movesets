@@ -13,7 +13,6 @@ moves:
 combinations:
     - [Ice Beam, Rock Tomb]
     - [Cosmic Power, Recover]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

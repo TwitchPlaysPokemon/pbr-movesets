@@ -14,10 +14,9 @@ combinations:
     - [Whirlpool, Protect]
     - [Magost Berry, Natural Gift]
     - [Iron Head, Natural Gift]
-gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.8
 ball: [Ultra]
 ---
 species: Kyogre
@@ -34,10 +33,9 @@ moves:
     - [Roar, Scary Face, Psych Up]
 separations:
     - [Avalance, Icy Wind, Scary Face]
-gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 1.1
 ball: [Dive]
 ---
 species: Kyogre
@@ -55,7 +53,6 @@ moves:
 separations:
     - [Avalance, Sheer Cold]
     - [Ice Beam, Sheer Cold]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.1

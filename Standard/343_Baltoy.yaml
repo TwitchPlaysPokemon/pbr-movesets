@@ -14,7 +14,6 @@ separations:
     - [Hard Stone, Heal Block]
     - [Leftovers, Rock Slide]
     - [Leftovers, Heal Block]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.1
@@ -32,7 +31,6 @@ moves:
     - [Shadow Ball, Ice Beam, Grass Knot]
     - [Calm Mind]
     - [Rock Polish]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.1
@@ -50,7 +48,6 @@ moves:
     - [Light Screen]
     - [Trick Room]
     - [Explosion]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3

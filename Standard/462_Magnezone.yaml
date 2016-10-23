@@ -9,7 +9,6 @@ moves:
     - [Bide, Mirror Coat, Screech, Agility, Curse]
 combinations:
     - [Gyro Ball, Curse]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -29,7 +28,6 @@ moves:
     - [Magnet Rise, Mimic, Barrier]
 combinations:
     - [Magnet, Flash Cannon, ThunderShock]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

@@ -11,7 +11,7 @@ combinations:
     - []
 separations:
     - []
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -29,7 +29,7 @@ moves:
     - [Zen Headbutt, Earthquake]
     - [Fly, Waterfall, Shadow Claw]
     - [Dragon Dance]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

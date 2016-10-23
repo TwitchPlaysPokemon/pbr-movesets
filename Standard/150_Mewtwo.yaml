@@ -9,7 +9,7 @@ moves:
     - [Me First]
     - [Disable]
     - [Miracle Eye]
-rarity: 0.5
+rarity: 1.6
 ball: [Master]
 ---
 species: Mewtwo
@@ -24,7 +24,8 @@ moves:
     - [Bulk Up]
     - [Recover]
     - [Recycle]
-rarity: 0.1
+biddable: false
+rarity: 0.3
 ball: [Premier]
 ---
 species: Mewtwo

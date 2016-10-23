@@ -52,9 +52,9 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Jolly
+ivs: 0
+evs: 0
 ---
 species: Mew
 setname: Baton Pass

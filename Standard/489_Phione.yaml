@@ -10,7 +10,6 @@ moves:
 combinations:
     - [Dive, Bounce]
     - [Silverpowder, U-turn]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -28,7 +27,6 @@ moves:
     - [Ice Beam]
     - [Ancientpower, Grass Knot, Signal Beam]
     - [Rain Dance]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

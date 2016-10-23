@@ -7,7 +7,7 @@ moves:
     - [Dynamic Punch]
     - [Zen Headbutt]
     - [Aerial Ace, Ice Punch, Thunderpunch]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -31,7 +31,7 @@ combinations:
     - [Silverpowder, Signal Beam]
 separations:
     - [Thunderbolt, Charge Beam]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0

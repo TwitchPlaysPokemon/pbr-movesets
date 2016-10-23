@@ -17,7 +17,6 @@ separations:
     - [Toxic, Heal Block]
     - [Will-O-Wisp, Grudge]
     - [Toxic, Grudge]
-gender: [m, f]
 happiness: 255
 biddable: False
 rarity: 1.0
@@ -35,7 +34,6 @@ moves:
     - [Bug Buzz, Silver Wind]
     - [Giga Impact, Frustration]
     - [Swords Dance, Agility, Screech, String Shot]
-gender: [m, f]
 happiness: 0
 biddable: False
 rarity: 0.5
@@ -53,7 +51,6 @@ moves:
     - [Shadow Claw]
     - [Sucker Punch]
     - [Metal Claw]
-gender: [m, f]
 happiness: 255
 biddable: False
 rarity: 0.5
@@ -74,7 +71,6 @@ moves:
 combinations:
     - [Dig, Curse]
     - [Double-Edge, Will-O-Wisp]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.0

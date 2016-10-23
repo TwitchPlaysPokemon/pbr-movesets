@@ -18,7 +18,6 @@ separations:
     - [Baton Pass, Rock Polish]
     - [Baton Pass, Sandstorm]
     - [Baton Pass, Pain Split]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -36,7 +35,6 @@ moves:
     - [Fire Blast, Overheat]
     - [Earth Power, Grass Knot]
     - [Charge Beam, Calm Mind]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -57,7 +55,6 @@ moves:
 separations:
     - [Sunny Day, Sunny Day]
     - [Solar Beam, Morning Sun]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

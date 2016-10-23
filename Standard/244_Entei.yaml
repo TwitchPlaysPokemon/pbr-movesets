@@ -12,7 +12,7 @@ combinations:
     - [Blackglasses, Bite]
 happiness: 255
 biddable: True
-rarity: 1.4
+rarity: 1.0
 ball: [Cherish]
 nature: Bashful
 ivs: 0
@@ -29,7 +29,7 @@ moves:
     - [Roar]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.9
 ball: [Luxury]
 nature: Careful
 ivs: 0

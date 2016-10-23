@@ -6,7 +6,7 @@ moves:
     - [Transform]
 happiness: [0, 255]
 biddable: True
-rarity: 1.0
+rarity: 0.9
 ball: [Repeat]
 nature: Timid
 ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}

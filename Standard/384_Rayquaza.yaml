@@ -10,10 +10,9 @@ moves:
     - [Uproar]
     - [Brick Break, Hidden Power, Rock Smash, Whirlpool]
     - [Scary Face, Roar, Psych Up]
-gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 1.9
 ball: [Premier]
 ---
 species: Rayquaza
@@ -28,7 +27,6 @@ moves:
     - [Air Slash, Fly]
     - [Extreme Speed, Iron Tail, Stone Edge, Waterfall, Energy Ball, Hyper Voice, Surf, Thunderbolt]
     - [Roar, Scary Face, Psych Up]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.1

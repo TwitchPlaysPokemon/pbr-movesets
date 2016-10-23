@@ -10,7 +10,7 @@ moves:
     - [Air Slash]
     - [Camouflage]
     - [Roost]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -31,7 +31,7 @@ moves:
 combinations:
     - [Spooky Plate, Ominous Wind]
     - [Mind Plate, Psybeam]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -49,7 +49,7 @@ moves:
     - [Aerial Ace]
     - [Facade, Secret Power, Poison Powder]
     - [Skill Swap, String Shot, Protect]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

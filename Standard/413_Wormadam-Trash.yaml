@@ -12,7 +12,7 @@ combinations:
     - [Iron Head, String Shot]
 separations:
     - [Gyro Ball, Magnet Rise]
-gender: [m, f]
+gender: [f]
 form: 2
 happiness: 255
 biddable: True
@@ -31,7 +31,7 @@ moves:
     - [Hidden Power]
     - [Sleep Talk]
     - [Rest]
-gender: [m, f]
+gender: [f]
 form: 2
 happiness: 255
 biddable: True

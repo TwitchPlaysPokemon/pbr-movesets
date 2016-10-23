@@ -7,7 +7,7 @@ moves:
     - [Gust]
     - [U-turn]
     - [Water Gun]
-rarity: 1.0
+rarity: 0.8
 ball: [Dive]
 nature: Impish
 ivs: 31
@@ -27,7 +27,7 @@ combinations:
 separations:
     - [Aerial Ace, Toxic]
     - [Pluck, Toxic]
-rarity: 1.0
+rarity: 1.1
 ball: [Premier]
 nature: Brave
 ivs: 0

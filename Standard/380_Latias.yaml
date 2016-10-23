@@ -9,7 +9,7 @@ moves:
     - [Psycho Shift, Magic Coat, Charm, Light Screen]
 combinations:
     - [Flame Orb, Facade, Psycho Shift]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -30,7 +30,7 @@ moves:
 separations:
     - [Last Resort, Healing Wish]
     - [Mimic, Endure]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0

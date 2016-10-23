@@ -11,7 +11,7 @@ combinations:
     - [Twistedspoon, Psybeam]
     - [Damp Rock, Hidden Power, Rain Dance]
     - [Smooth Rock, Sandstorm]
-gender: [m, f]
+gender: [f]
 form: 1
 happiness: 255
 biddable: True
@@ -34,7 +34,7 @@ combinations:
     - [Belue Berry, Natural Gift, Toxic]
 separations:
     - [Earthquake, Natural Gift]
-gender: [m, f]
+gender: [f]
 form: 1
 happiness: 255
 biddable: True

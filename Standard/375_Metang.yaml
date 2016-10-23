@@ -9,7 +9,6 @@ moves:
     - [Scary Face, Bullet Punch, Magnet Rise, Double Team, Light Screen, Pursuit]
 combinations:
     - [Light Clay, Light Screen]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

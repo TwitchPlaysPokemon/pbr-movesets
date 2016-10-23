@@ -14,10 +14,9 @@ combinations:
     - [Fury Cutter, Metronome]
     - [Heat Rock, Fling, Swift]
     - [Natural Gift, Bluk Berry]
-gender: [m, f]
 happiness: 163
 biddable: True
-rarity: 1.0
+rarity: 1.9
 ball: [Cherish]
 ---
 species: Groudon 
@@ -32,7 +31,6 @@ moves:
     - [Eruption, Solar Beam]
     - [Thunderbolt, Stone Edge, Dragon Claw, Thunder Punch]
     - [Sandstorm]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.1

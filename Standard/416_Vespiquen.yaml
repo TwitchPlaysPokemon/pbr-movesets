@@ -10,7 +10,7 @@ moves:
     - [U-turn]
     - [Poison Sting]
     - [Heal Order]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -34,7 +34,7 @@ combinations:
     - [Razor Claw, Fling]
     - [Sitrus Berry, Defend Order]
     - [Lansat Berry, Natural Gift]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -75,7 +75,7 @@ moves:
     - [Defend Order]
     - [Heal Order]
     - [String Shot]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0

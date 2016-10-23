@@ -50,7 +50,6 @@ separations:
     - [Psychic, Trick Room]
     - [Extrasensory, Trick Room]
     - [Levitate, Rain Dance]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.2

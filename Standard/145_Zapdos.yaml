@@ -7,7 +7,7 @@ moves:
     - [Thundershock]
     - [Rock Smash]
     - [Detect]
-rarity: 1.0
+rarity: 0.7
 ball: [Repeat]
 nature: Rash
 ivs: 27
@@ -30,7 +30,7 @@ separations:
     - [Thunder, Twister]
     - [Thunder, Roar]
     - [Thunder, Metal Sound]
-rarity: 1.0
+rarity: 0.7
 ball: [Timer]
 nature: Jolly
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
@@ -48,7 +48,7 @@ moves:
 separations:
     - [Ominous Wind, Curse]
     - [AncientPower, Curse]
-rarity: 1.0
+rarity: 0.5
 ball: [Ultra]
 nature: Naughty
 ivs: 31

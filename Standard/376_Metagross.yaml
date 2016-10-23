@@ -10,7 +10,6 @@ moves:
 combinations:
     - [Gyro Ball, Hammer Arm]
     - [Iron Head, Agility]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.4
@@ -28,7 +27,6 @@ moves:
     - [Confusion, Shadow Ball, Signal Beam]
     - [Swift, Aerial Ace, Pursuit]
     - [Mimic]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.7

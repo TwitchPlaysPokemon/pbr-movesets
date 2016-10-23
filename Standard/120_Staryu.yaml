@@ -16,7 +16,7 @@ separations:
     - [Berry Juice, Endure]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 1.4
 ball: [Poké]
 ---
 species: Staryu
@@ -36,5 +36,5 @@ combinations:
     - [Sitrus Berry, Rollout, Defense Curl]
 happiness: 0
 biddable: True
-rarity: 1.0
+rarity: 0.7
 ball: [Poké]
