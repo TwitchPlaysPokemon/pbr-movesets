@@ -1,0 +1,20 @@
+species: Tyranitar
+ingamename: I!C
+displayname: I!C
+setname: Prism
+item: [BlackGlasses]
+ability: [Sand Stream]
+moves:
+    - [Crunch]
+    - [Rock Slide]
+    - [Body Slam]
+    - [Rock Smash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Timid
+ivs: 0
+evs: 0

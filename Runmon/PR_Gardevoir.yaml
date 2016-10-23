@@ -1,0 +1,20 @@
+species: Gardevoir
+ingamename: IMmMMLLIR
+displayname: IMmMMLLIR
+setname: Prism
+item: [Dusk Stone]
+ability: [Synchronize, Trace]
+moves:
+    - [Psychic]
+    - [Tri Attack]
+    - [Signal Beam]
+    - [Encore]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Impish
+ivs: 0
+evs: 0
