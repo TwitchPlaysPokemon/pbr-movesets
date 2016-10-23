@@ -1,0 +1,20 @@
+species: Latios
+ingamename: LATIOS
+displayname: LATIOS
+setname: OR
+item: [Heart Scale]
+ability: [Levitate]
+moves:
+    - [Luster Purge]
+    - [Psychic]
+    - [Dragon Pulse]
+    - [Fly]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

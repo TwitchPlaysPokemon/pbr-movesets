@@ -1,0 +1,19 @@
+species: Rayquaza
+ingamename: strssss2stt
+displayname: strssss2stt
+setname: OR
+item: [Poké Ball]
+ability: [Air Lock]
+moves:
+    - [Outrage]
+    - [Dragon Pulse]
+    - [Sky Attack]
+    - [Dragon Dance]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Timid
+ivs: 0
+evs: 0
