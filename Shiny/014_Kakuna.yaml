@@ -3,7 +3,7 @@ setname: Shiny
 item: [Rowap Berry]
 ability: [Poison Point]
 moves:
-    - [Harden (=100]
+    - [Harden (=10)]
 gender: [m, f]
 happiness: 255
 shiny: True
