@@ -1,0 +1,20 @@
+species: Kabutops
+ingamename: AAAACCDYY
+displayname: AAAACCDYY
+setname: AR
+item: [Dome Fossil]
+ability: [Null]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Mega Kick]
+    - [Double Team]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

@@ -1,0 +1,19 @@
+species: Zapdos
+ingamename: '(ssjj ᴹɴ..,'
+displayname: '(ssjj ᴹɴ..,'
+setname: AR
+item: [Null]
+ability: [Null]
+moves:
+    - [Thunder]
+    - [Sky Attack]
+    - [Drill Peck]
+    - [Double Team]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Master]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

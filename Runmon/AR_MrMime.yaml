@@ -1,0 +1,20 @@
+species: Mr. Mime
+ingamename: bbbbb-?;].
+displayname: bbbbb-?;].
+setname: AR
+item: [Null]
+ability: [Null]
+moves:
+    - [Double Slap]
+    - [Toxic]
+    - [Meditate]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Safari]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

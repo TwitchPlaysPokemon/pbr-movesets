@@ -1,0 +1,20 @@
+species: Persian
+ingamename: ZZ ZHH
+displayname: ZZ ZHH
+setname: AR
+item: [Null]
+ability: [Null]
+moves:
+    - [Pay Day]
+    - [Bite]
+    - [Thunderbolt]
+    - [Growl]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
