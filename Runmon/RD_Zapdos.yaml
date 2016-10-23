@@ -14,6 +14,6 @@ biddable: True
 rarity: 0.0
 ball: [Master]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Adamant
+ivs: 0
+evs: 0
