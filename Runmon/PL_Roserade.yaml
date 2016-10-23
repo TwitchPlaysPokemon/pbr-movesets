@@ -5,10 +5,10 @@ setname: Platinum
 item: [Bloom Mail]
 ability: [Poison Point]
 moves:
-    - [Stun Spore]
-    - [Absorb]
     - [Petal Dance]
+    - [Absorb]
     - [Cut]
+    - [Stun Spore]
 gender: [f]
 happiness: 255
 biddable: True
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Lonely
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 88, atk: 252, def: 168, spA: 0, spD: 0, spe: 0}

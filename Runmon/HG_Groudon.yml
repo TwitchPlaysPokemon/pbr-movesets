@@ -15,5 +15,5 @@ rarity: 0.0
 ball: [Poke]
 shiny: False
 nature: Hasty
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 60, spD: 0, spe: 0}

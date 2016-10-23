@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: True
 nature: Bashful
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 3
+evs: 84

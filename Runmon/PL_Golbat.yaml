@@ -6,9 +6,9 @@ item: [Air Mail]
 ability: [Inner Focus]
 moves:
     - [Air Slash]
-    - [Confuse Ray]
-    - [Leech Life]
     - [Air Cutter]
+    - [Leech Life]
+    - [Confuse Ray]
 gender: [m]
 happiness: 255
 biddable: True
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Docile
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 22
+evs: 84

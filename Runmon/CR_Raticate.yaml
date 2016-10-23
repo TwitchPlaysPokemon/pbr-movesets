@@ -1,0 +1,20 @@
+species: Raticate
+ingamename: A
+displayname: A
+setname: Crystal
+item: [Metal Coat]
+ability: [null]
+moves:
+    - [Hyper Fang]
+    - [Quick Attack]
+    - [Pursuit]
+    - [Scary Face]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Impish
+ivs: 0
+evs: 84

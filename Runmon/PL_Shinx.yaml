@@ -5,10 +5,10 @@ setname: Platinum
 item: [Bloom Mail]
 ability: [Rivalry]
 moves:
-    - [Return]
-    - [Discharge]
-    - [Roar]
     - [Thunderbolt]
+    - [Discharge]
+    - [Return]
+    - [Roar]
 gender: [f]
 happiness: 255
 biddable: True
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Heal]
 shiny: False
 nature: Hasty
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 31
+evs: 208

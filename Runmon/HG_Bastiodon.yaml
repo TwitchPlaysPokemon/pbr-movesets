@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Ultra]
 shiny: False
 nature: Brave
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 148, atk: 108, def: 0, spA: 252, spD: 0, spe: 0}

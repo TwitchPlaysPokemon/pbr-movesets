@@ -5,15 +5,15 @@ setname: Platinum
 item: [Bloom Mail]
 ability: [Levitate]
 moves:
-    - [Confuse Ray]
-    - [Future Sight]
     - [Extrasensory]
+    - [Future Sight]
     - [Payback]
+    - [Confuse Ray]
 happiness: 255
 biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Impish
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 24
+evs: {hp: 64, atk: 64, def: 0, spA: 64, spD: 64, spe: 252}

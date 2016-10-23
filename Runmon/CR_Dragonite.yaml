@@ -14,6 +14,6 @@ happiness: 255
 biddable: True
 rarity: 0.0
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 164, spD: 0, spe: 0}

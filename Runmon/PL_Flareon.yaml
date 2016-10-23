@@ -5,10 +5,10 @@ setname: Platinum
 item: [Heart Mail]
 ability: [Flash Fire]
 moves:
-    - [Rock Smash]
+    - [Fire Blast]
     - [Fire Fang]
     - [Strength]
-    - [Fire Blast]
+    - [Rock Smash]
 gender: [m]
 happiness: 255
 biddable: True
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Hasty
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 0
+evs: 60

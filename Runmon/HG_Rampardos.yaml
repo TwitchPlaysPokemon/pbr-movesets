@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Master]
 shiny: False
 nature: Rash
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 0
+evs: {hp: 0, atk: 0, def: 128, spA: 128, spD: 124, spe: 128}

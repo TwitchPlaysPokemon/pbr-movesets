@@ -1,14 +1,14 @@
 species: Vibrava
-ingamename: ,
-displayname: ,
+ingamename: ","
+displayname: ","
 setname: HeartGold
 item: [Null]
 ability: [Arena Trap]
 moves:
     - [Magnitude]
     - [Bone Club]
-    - [Trump Card]
     - [Hammer Arm]
+    - [Trump Card]
 gender: [f]
 happiness: 255
 biddable: True
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Impish
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 31
+evs: {hp: 120, atk: 120, def: 120, spA: 252, spD: 120, spe: 120}

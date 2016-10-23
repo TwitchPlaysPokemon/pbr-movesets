@@ -6,8 +6,8 @@ item: [Null]
 ability: [Thick Fat]
 moves:
     - [Water Spout]
-    - [Muddy Water]
     - [Surf]
+    - [Muddy Water]
     - [Water Pulse]
 gender: [m]
 happiness: 255
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Quick]
 shiny: False
 nature: Quirky
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 13
+evs: 84
