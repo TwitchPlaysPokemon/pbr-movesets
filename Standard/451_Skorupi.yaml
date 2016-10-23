@@ -35,7 +35,7 @@ biddable: True
 rarity: 0.5
 ball: [Nest]
 nature: Mild
-ivs: 31
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
 evs: 84
 ---
 species: Skorupi
