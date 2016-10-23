@@ -1,0 +1,20 @@
+species: Gyarados
+ingamename: DADA
+displayname: DADA
+setname: VC
+item: [Null]
+ability: [Null]
+moves:
+    - [Thrash]
+    - [Bite]
+    - [Dragon Rage]
+    - [Leer]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: True
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

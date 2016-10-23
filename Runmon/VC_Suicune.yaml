@@ -1,0 +1,19 @@
+species: Suicune
+ingamename: DONG
+displayname: DONG
+setname: VC
+item: [Null]
+ability: [Null]
+moves:
+    - [Surf]
+    - [Icy Wind]
+    - [Aurora Beam]
+    - [Cut]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Master]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
