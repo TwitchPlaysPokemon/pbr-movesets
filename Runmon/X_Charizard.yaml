@@ -1,6 +1,6 @@
 species: Charizard
-ingamename: !taj11yygaaa
-displayname: !taj11yygaaa
+ingamename: "!taj11yyga"
+displayname: "!taj11yyga"
 setname: X
 item: [Null]
 ability: [Blaze]
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Adamant
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 0
+evs: 0

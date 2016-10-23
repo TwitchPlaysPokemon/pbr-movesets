@@ -1,6 +1,6 @@
 species: Sceptile
-ingamename: AEEEEOPM.J
-displayname: AEEEEOPM.J
+ingamename: "AEEEEOPM.J"
+displayname: "AEEEEOPM.J"
 setname: Black 2
 item: [Null]
 ability: [Overgrow]
@@ -8,7 +8,7 @@ moves:
     - [Energy Ball]
     - [Dig]
     - [Rock Slide]
-    - [Strenght]
+    - [Strength]
 gender: [m]
 happiness: 255
 biddable: True
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Mild
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 0
+evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 0}

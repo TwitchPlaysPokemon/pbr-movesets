@@ -1,6 +1,6 @@
 species: Absol
-ingamename: QQYyy25o6wf7
-displayname: QQYyy25o6wf7
+ingamename: QQYyy25o6w
+displayname: QQYyy25o6w
 setname: X
 item: [Null]
 ability: [Super Luck]
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Net]
 shiny: False
 nature: Naughty
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}

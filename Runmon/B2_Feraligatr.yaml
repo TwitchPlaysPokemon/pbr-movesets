@@ -1,6 +1,6 @@
 species: Feraligatr
-ingamename: 'u2E!☂☂☂M☂''
-displayname: 'u2E!☂☂☂M☂''
+ingamename: "'u2E!☂☂☂M☂''"
+displayname: "'u2E!☂☂☂M☂''"
 setname: Black 2
 item: [Max Repel]
 ability: [Torrent]
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Relaxed
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 80, spD: 40, spe: 80}
