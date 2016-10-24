@@ -6,15 +6,15 @@ item: [Null]
 ability: [Null]
 moves:
     - [Rock Throw]
+    - [Strength]
     - [Low Kick]
     - [Flail]
-    - [Strength]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Lonely
+ivs: 31
+evs: 84

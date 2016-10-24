@@ -5,16 +5,16 @@ setname: Vietnamese Crystal
 item: [Null]
 ability: [Null]
 moves:
+    - [Metronome]
     - [Growl]
     - [Charm]
     - [Flash]
-    - [Metronome]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
