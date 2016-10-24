@@ -30,6 +30,6 @@ moves:
     - [Swords Dance, Tickle]
 gender: [m, f]
 biddable: true
-happiness: 102
+happiness: 0
 rarity: 1.0
 ball: [Repeat]
