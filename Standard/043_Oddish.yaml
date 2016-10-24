@@ -14,7 +14,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.0
-ball: [Poké]
+ball: [Safari]
 ---
 species: Oddish
 setname: Physical
@@ -32,4 +32,4 @@ gender: [m, f]
 biddable: true
 happiness: 102
 rarity: 1.0
-ball: [Poké]
+ball: [Repeat]

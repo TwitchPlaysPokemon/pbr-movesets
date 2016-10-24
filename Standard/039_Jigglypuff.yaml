@@ -14,7 +14,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.0
-ball: [Poké]
+ball: [Timer]
 ---
 species: Jigglypuff
 setname: Screens
@@ -32,4 +32,4 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.0
-ball: [Poké]
+ball: [Repeat]

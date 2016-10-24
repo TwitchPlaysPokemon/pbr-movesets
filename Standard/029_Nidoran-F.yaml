@@ -14,7 +14,7 @@ gender: [f]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: [Poké]
+ball: [Safari]
 ---
 species: Nidoran-F
 setname: Special
@@ -35,4 +35,4 @@ gender: [f]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: [Poké]
+ball: [Heal]

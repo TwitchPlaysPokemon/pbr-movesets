@@ -25,7 +25,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.5
-ball: [Poké]
+ball: [Net]
 ---
 species: Parasect
 setname: Special
@@ -46,7 +46,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.0
-ball: [Poké]
+ball: [Safari]
 ---
 species: Parasect
 setname: Fury Cutter
@@ -64,4 +64,4 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 0.5
-ball: [Poké]
+ball: [Timer]

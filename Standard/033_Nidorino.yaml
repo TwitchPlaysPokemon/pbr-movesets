@@ -16,7 +16,7 @@ gender: [m]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: [Poké]
+ball: [Safari]
 ---
 species: Nidorino
 setname: Special
@@ -38,4 +38,4 @@ gender: [m]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: [Poké]
+ball: [Great]

@@ -17,7 +17,7 @@ combinations:
 gender: [m, f]
 biddable: true
 happiness: 255
-ball: [Poké]
+ball: [Great]
 ---
 species: Golbat
 setname: Special
@@ -36,4 +36,4 @@ combinations:
 gender: [m, f]
 biddable: true
 happiness: 255
-ball: [Poké]
+ball: [Dusk]

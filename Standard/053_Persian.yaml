@@ -18,7 +18,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.0
-ball: [Poké]
+ball: [Quick]
 ---
 species: Persian
 setname: Special
@@ -36,7 +36,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.0
-ball: [Poké]
+ball: [Dive]
 ---
 species: Persian
 setname: Pay Day
@@ -58,4 +58,4 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.0
-ball: [Poké]
+ball: [Luxury]

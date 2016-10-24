@@ -14,7 +14,7 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 1.2
-ball: [Poké]
+ball: [Ultra]
 ---
 species: Primeape
 setname: Swagger
@@ -50,4 +50,4 @@ gender: [m, f]
 biddable: true
 happiness: 255
 rarity: 0.4
-ball: [Poké]
+ball: [Premier]
