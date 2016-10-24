@@ -11,12 +11,10 @@ moves:
     - Blizzard
     - Aurora Beam
 gender: [f]
-form: 0
 happiness: 255
 shiny: False
 biddable: True
 rarity: 0.0
 ball: [Poké]
-level: 100
-ivs: 31
-evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
+ivs: 0
+evs: 0
