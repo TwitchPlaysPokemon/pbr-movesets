@@ -1,14 +1,14 @@
-species: Miltank
-ingamename: !L
-displayname: !L
+species: Aerodactyl
+ingamename: JHH
+displayname: JHH
 setname: AC
 item: [Bloom Mail]
 ability: [Null]
 moves:
-    - [Return]
+    - [Fly, Sky Attack]
+    - [Rock Slide]
     - [Earthquake]
-    - [Toxic]
-    - [Milk Drink]
+    - [Crunch]
 gender: [f]
 happiness: 255
 biddable: True

@@ -1,15 +1,15 @@
-species: Miltank
-ingamename: !L
-displayname: !L
+species: Venusaur
+ingamename: 'ul:::ut×'
+displayname: 'ul:::ut×'
 setname: AC
 item: [Bloom Mail]
 ability: [Null]
 moves:
-    - [Return]
-    - [Earthquake]
-    - [Toxic]
-    - [Milk Drink]
-gender: [f]
+    - [Petal Dance]
+    - [Sludge Bomb]
+    - [Sleep Powder]
+    - [Growth]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.0

@@ -1,14 +1,14 @@
-species: Miltank
-ingamename: !L
-displayname: !L
+species: Kingdra
+ingamename: '---s×j×KKK'
+displayname: '---s×j×KKK'
 setname: AC
 item: [Bloom Mail]
 ability: [Null]
 moves:
-    - [Return]
-    - [Earthquake]
-    - [Toxic]
-    - [Milk Drink]
+    - [Outrage]
+    - [Waterfall]
+    - [Surf]
+    - [Ice Beam]
 gender: [f]
 happiness: 255
 biddable: True
