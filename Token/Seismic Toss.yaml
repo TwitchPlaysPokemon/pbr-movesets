@@ -1,0 +1,172 @@
+species: Registeel
+setname: ST
+ability: [Clear Body]
+moves:
+    - [Seismic Toss]
+ivs: 30
+evs: 0
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Master]
+nature: Hardy
+---
+species: Grovyle
+setname: ST
+item: [Macho Brace]
+ability: [Overgrow, Unburden]
+moves:
+    - [Seismic Toss]
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Nest]
+nature: Jolly
+---
+species: Totodile
+setname: ST
+ability: [Torrent]
+moves:
+    - [Seismic Toss]
+ivs: 31
+evs: 52
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Dive]
+nature: Quirky
+---
+species: Mr. Mime
+setname: ST
+item: [Iron Ball]
+ability: [Soundproof, Filter, Technician]
+moves:
+    - [Seismic Toss]
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Dusk]
+nature: Jolly
+---
+species: Electivire
+setname: ST
+item: [Power Belt]
+ability: [Motor Drive, Vital Spirit]
+moves:
+    - [Seismic Toss]
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Ultra]
+nature: Jolly
+---
+species: Golem
+setname: ST
+ability: [Sturdy, Rock Head, Sand Veil]
+moves:
+    - [Seismic Toss]
+ivs: 28
+evs: 0
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Jolly
+---
+species: Charizard
+setname: ST
+item: [Power Band]
+ability: [Blaze, Solar Power]
+moves:
+    - [Seismic Toss]
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 164}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Cherish]
+nature: Jolly
+---
+species: Pichu
+setname: ST
+ability: [Lightningrod]
+moves:
+    - [Seismic Toss]
+ivs: 26
+evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Safari]
+nature: Brave
+---
+species: Octillery
+setname: ST
+ability: [Suction Cups, Sniper]
+moves:
+    - [Seismic Toss]
+ivs: 20
+evs: 80
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Net]
+nature: Hardy
+---
+species: Lickitung
+setname: ST
+item: [Choice Scarf]
+ability: [Own Tempo, Cloud Nine, Oblivious]
+moves:
+    - [Seismic Toss]
+ivs: 10
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 28}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Heal]
+nature: Timid
+---
+species: Delibird
+setname: ST
+item: [Power Bracer]
+ability: [Vital Spirit, Insomnia]
+moves:
+    - [Seismic Toss]
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 240}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Premier]
+nature: Jolly
+---
+species: Spinda
+setname: ST
+ability: [Own Tempo, Tangled Feet]
+moves:
+    - [Seismic Toss]
+ivs: 26
+evs: 0
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Repeat]
+nature: Brave
