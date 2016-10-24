@@ -1,4 +1,4 @@
-species: Nidoran-F
+species: Nidoran♀
 setname: Physical
 item: [Zoom Lens]
 ability: [Hustle]
@@ -16,7 +16,7 @@ biddable: true
 rarity: 1.0
 ball: [Safari]
 ---
-species: Nidoran-F
+species: Nidoran♀
 setname: Special
 item: [Sitrus Berry]
 ability: [Poison Point, Rivalry]

@@ -25,7 +25,7 @@ gender: [m, f]
 happiness: 200
 biddable: true
 rarity: 1.5
-ball: [Poké]
+ball: [Nest]
 ---
 species: Spearow
 setname: Special
@@ -46,4 +46,4 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 0.5
-ball: [Poké]
+ball: [Premier]

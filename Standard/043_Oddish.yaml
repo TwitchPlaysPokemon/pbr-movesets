@@ -25,7 +25,7 @@ ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Seed Bomb]
-    - [Double-Edge, Frustration 102, Flail]
+    - [Double-Edge, Frustration, Flail]
     - [Sleep Powder]
     - [Swords Dance, Tickle]
 gender: [m, f]

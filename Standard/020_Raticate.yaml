@@ -16,7 +16,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: [Poké]
+ball: [Ultra]
 ---
 species: Raticate
 setname: Orb
@@ -34,7 +34,7 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: [Poké]
+ball: [Quick]
 ---
 species: Raticate
 setname: Special
@@ -60,4 +60,4 @@ gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.0
-ball: [Poké]
+ball: [Dusk]

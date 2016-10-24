@@ -1,4 +1,4 @@
-species: Nidoran-M
+species: Nidoran♂
 setname: Physical
 item: [BrightPowder]
 ability: [Hustle]
@@ -16,7 +16,7 @@ biddable: true
 rarity: 1.0
 ball: [Safari]
 ---
-species: Nidoran-M
+species: Nidoran♂
 setname: Special
 item: [Magnet, NeverMeltIce]
 ability: [Poison Point, Rivalry]
