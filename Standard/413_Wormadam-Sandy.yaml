@@ -12,7 +12,7 @@ combinations:
     - [Damp Rock, Hidden Power, Rain Dance]
     - [Smooth Rock, Sandstorm]
 gender: [f]
-form: 1
+form: Sandy
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -35,7 +35,7 @@ combinations:
 separations:
     - [Earthquake, Natural Gift]
 gender: [f]
-form: 1
+form: Sandy
 happiness: 255
 biddable: True
 rarity: 1.0

@@ -8,7 +8,7 @@ moves:
     - [Metal Burst]
     - [Explosion]
 gender: [m, f]
-form: 2
+form: Trash
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -27,7 +27,7 @@ moves:
     - [Iron Head]
     - [Endeavor]
 gender: [m, f]
-form: 2
+form: Trash
 happiness: 255
 biddable: True
 rarity: 1.0

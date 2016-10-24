@@ -11,7 +11,7 @@ combinations:
     - [Sitrus Berry, Harden]
     - [Blizzard, Hail]
 gender: [m, f]
-form: 1
+form: East
 happiness: 255
 biddable: True
 rarity: 1.2
@@ -30,7 +30,7 @@ moves:
     - [Sleep Talk]
     - [Rest]
 gender: [m, f]
-form: 1
+form: East
 happiness: 255
 biddable: True
 rarity: 0.8

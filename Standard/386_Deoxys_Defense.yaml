@@ -10,7 +10,7 @@ moves:
     - [Signal Beam, Charge Beam, Energy Ball, Shock Wave, Water Pulse]
     - [Taunt, Role Play, Safeguard, Snatch, Trick Room]
     - [Recycle]
-form: 2
+form: Defense
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -28,7 +28,7 @@ moves:
     - [Counter]
     - [Mirror Coat]
     - [Spikes, Stealth Rock]
-form: 2
+form: Defense
 happiness: 255
 biddable: True
 rarity: 0.5

@@ -7,7 +7,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-form: 1
+form: Attack
 happiness: 255
 biddable: True
 rarity: 0

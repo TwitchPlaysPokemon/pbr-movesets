@@ -8,7 +8,7 @@ moves:
     - [Psychic]
     - [Growth]
 gender: [f]
-form: 0
+form: Plant
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -30,7 +30,7 @@ combinations:
     - [Miracle Seed, Razor Leaf]
     - [Salac Berry, Flail, Endure]
 gender: [f]
-form: 0
+form: Plant
 happiness: 255
 biddable: True
 rarity: 1.0

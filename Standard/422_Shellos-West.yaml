@@ -12,7 +12,7 @@ combinations:
     - [Poison Barb, Sludge]
     - [Soft Sand, Mud Bomb]
 gender: [m, f]
-form: 0
+form: West
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -31,7 +31,7 @@ moves:
     - [Counter, Toxic]
     - [Curse, Memento, Protect]
 gender: [m, f]
-form: 0
+form: West
 happiness: 0
 biddable: True
 rarity: 1.0

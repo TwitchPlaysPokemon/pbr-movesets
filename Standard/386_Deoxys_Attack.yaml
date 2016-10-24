@@ -10,7 +10,7 @@ moves:
     - [Skull Bash]
     - [Zap Cannon, Dynamic Punch]
     - [Calm Mind]
-form: 1
+form: Attack
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -28,7 +28,7 @@ moves:
     - [Focus Blast, Thunder]
     - [Mega Kick, Meteor Mash]
     - [Teleport]
-form: 1
+form: Attack
 happiness: 255
 biddable: True
 rarity: 0.1

@@ -8,7 +8,7 @@ moves:
     - [Ice Beam, Sludge Bomb]
     - [Acid Armor]
 gender: [m, f]
-form: 0
+form: West
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -27,7 +27,7 @@ moves:
     - [Toxic]
     - [Protect, Curse]
 gender: [m, f]
-form: 0
+form: West
 happiness: 255
 biddable: True
 rarity: 1.0

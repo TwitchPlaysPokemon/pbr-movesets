@@ -8,7 +8,7 @@ moves:
     - [Rock Tomb]
     - [Recover]
 gender: [m, f]
-form: 1
+form: Sandy
 happiness: 255
 biddable: True
 rarity: 1.0

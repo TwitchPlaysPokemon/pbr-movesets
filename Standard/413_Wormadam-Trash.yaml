@@ -13,7 +13,7 @@ combinations:
 separations:
     - [Gyro Ball, Magnet Rise]
 gender: [f]
-form: 2
+form: Trash
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -32,7 +32,7 @@ moves:
     - [Sleep Talk]
     - [Rest]
 gender: [f]
-form: 2
+form: Trash
 happiness: 255
 biddable: True
 rarity: 1.0
