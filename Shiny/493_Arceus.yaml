@@ -1,0 +1,16 @@
+species: Arceus
+setname: Shiny
+item: [Iron Ball]
+ability: [Truant]
+moves:
+    - [Frustration]
+    - [Fling]
+    - [Last Resort]
+    - [Feint]
+gender: [m, f]
+happiness: 30
+shiny: True
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 108, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}

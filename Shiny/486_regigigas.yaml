@@ -1,0 +1,15 @@
+species: Regigigas
+setname: Shiny
+item: [Quick Claw]
+ability: [Speed Boost]
+moves:
+    - [Extreme Speed]
+    - [Sucker Punch]
+    - [Me First]
+    - [Rock Polish]
+happiness: 255
+shiny: True
+ball: [Quick]
+nature: Timid
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

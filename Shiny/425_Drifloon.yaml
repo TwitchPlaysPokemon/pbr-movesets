@@ -1,0 +1,16 @@
+species: Drifloon
+setname: Shiny
+item: [Flame Orb]
+ability: [Guts]
+moves:
+    - [Shadow Force]
+    - [Fly]
+    - [Psycho Shift]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Dusk]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 200, def: 84, spA: 0, spD: 84, spe: 140}

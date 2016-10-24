@@ -1,0 +1,14 @@
+species: Darkrai
+setname: Shiny
+item: [Focus Sash]
+ability: [Shadow Tag]
+moves:
+    - [Last Resort]
+    - [Dark Void]
+    - [Worry Seed]
+happiness: 255
+shiny: True
+ball: [Premier]
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 64, def: 0, spA: 0, spD: 0, spe: 80}

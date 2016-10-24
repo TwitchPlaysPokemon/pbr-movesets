@@ -1,0 +1,16 @@
+species: Riolu
+setname: Shiny
+item: [Sitrus Berry]
+ability: [Simple]
+moves:
+    - [Will-O-Wisp]
+    - [Double Team]
+    - [Recycle]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Repeat]
+nature: Timid
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 4, spe: 252}

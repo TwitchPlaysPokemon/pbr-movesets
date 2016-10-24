@@ -1,0 +1,16 @@
+species: Carnivine
+setname: Shiny
+item: [Grip Claw]
+ability: [Scrappy]
+moves:
+    - [Super Fang]
+    - [Wrap]
+    - [Glare]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Safari]
+nature: Adamant
+ivs: 31
+evs: {hp: 172, atk: 0, def: 168, spA: 0, spD: 168, spe: 0}

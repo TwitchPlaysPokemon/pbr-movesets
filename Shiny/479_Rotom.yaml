@@ -1,0 +1,15 @@
+species: Rotom
+setname: Shiny
+item: [Air Mail]
+ability: [Truant]
+moves:
+    - [Volt Tackle]
+    - [Shadow Force]
+    - [Conversion]
+    - [Skill Swap]
+happiness: 255
+shiny: True
+ball: [Ultra]
+nature: Adamant
+ivs: 31
+evs: {hp: 80, atk: 252, def: 48, spA: 0, spD: 48, spe: 80}

@@ -1,0 +1,16 @@
+species: Chatot
+setname: Shiny
+item: [Life Orb]
+ability: [Serene Grace]
+moves:
+    - [Chatter]
+    - [Snore]
+    - [Stockpile]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Cherish]
+nature: Timid
+ivs: 31
+evs: {hp: 252, atk: 0, def: 28, spA: 4, spD: 28, spe: 196}

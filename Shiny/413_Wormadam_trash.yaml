@@ -1,0 +1,17 @@
+species: Wormadam
+form: Trash
+setname: Shiny
+item: [Choiche Scarf]
+ability: [Download]
+moves:
+    - [U-turn]
+    - [Ice Beam]
+    - [Flamethrower]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Great]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

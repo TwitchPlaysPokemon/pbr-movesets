@@ -1,0 +1,16 @@
+species: Kricketune
+setname: Shiny
+item: [Zoom Lens]
+ability: [Hustle]
+moves:
+    - [Megahorn]
+    - [Bounce]
+    - [Chatter]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Safari]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 4}
