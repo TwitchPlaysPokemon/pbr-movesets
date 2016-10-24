@@ -5,8 +5,8 @@ setname: Red
 item: [Silk Scarf]
 ability: [Huge Power]
 moves:
-    - [Tackle]
-    - [Sand Attack]
+    - [Tackle (=10)]
+    - [Sand Attack (=6)]
     - []
     - []
 gender: [f]
