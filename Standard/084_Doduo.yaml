@@ -37,7 +37,7 @@ biddable: True
 rarity: 1.0
 ball: [Safari]
 ---
-species: Duduo
+species: Doduo
 setname: Mixed
 item: [Focus Sash]
 ability: [Early Bird]
@@ -48,7 +48,7 @@ moves:
     - [Tri Attack]
     - [Low Kick]
     - [Rest]
-    - [Accupressure]
+    - [Acupressure]
 gender: [m, f]
 happiness: 255
 biddable: True

@@ -34,9 +34,9 @@ combinations:
 separations:
     - [Avalanche, Ice Shard]
     - [Dive, Clamp]
-    - [Avalance, Toxic]
+    - [Avalanche, Toxic]
     - [Dive, Poison Jab]
-    - [Avalance, Hail]
+    - [Avalanche, Hail]
 gender: [m, f]
 happiness: 255
 biddable: True

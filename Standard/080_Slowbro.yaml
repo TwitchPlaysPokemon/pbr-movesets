@@ -45,11 +45,11 @@ item: [Oran Berry, Full Incense]
 ability: [Oblivious, Own Tempo]
 nature: Adamant
 ivs: 31
-evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 10, spe: 100}
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 moves:
     - [Aqua Tail, Zen Headbutt]
     - [Earthquake, Focus Punch]
-    - [Avalance, Mega Kick]
+    - [Avalanche, Mega Kick]
     - [Curse, Substitute, Magic Coat, Trick]
 combinations:
     - [Full Incense, Zen Headbutt, Trick]

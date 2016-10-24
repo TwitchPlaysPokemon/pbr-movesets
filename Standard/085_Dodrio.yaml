@@ -6,7 +6,7 @@ nature: Impish
 ivs: 7
 evs: {hp: 76, atk: 76, def: 60, spA: 0, spD: 88, spe: 76}
 moves:
-    - [Trash]
+    - [Thrash]
     - [Pluck, Aerial Ace]
     - [Taunt, Agility, Torment]
     - [Roost, Baton Pass, Protect]

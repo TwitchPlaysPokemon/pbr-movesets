@@ -18,11 +18,11 @@ ball: [Heal]
 ---
 species: Drowzee
 setname: Physical
-item: [Salec Berry]
+item: [Salac Berry]
 ability: [Inner Focus]
 nature: Jolly
 ivs: 31
-evs: {hp: 88, atk: 78, def: 88, spA: 0, spD: 88, spe: 168}
+evs: {hp: 88, atk: 76, def: 88, spA: 0, spD: 88, spe: 168}
 moves:
     - [Psycho Cut, Zen Headbutt]
     - [Fire Punch, Brick Break, Low Kick]
