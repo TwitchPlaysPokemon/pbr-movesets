@@ -1,0 +1,13 @@
+species: Grimer
+setname: Stadium 2
+moves:
+    - Sludge Bomb
+    - Frustration
+    - Toxic
+    - Screech
+gender: [m]
+happiness: 63
+rarity: 0.0
+nature: Docile
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}
