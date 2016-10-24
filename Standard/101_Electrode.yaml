@@ -3,7 +3,7 @@ setname: Special
 item: [Space Mail, Magnet]
 ability: [Soundproof, Static, Aftermath]
 nature: Timid
-ivs: 9
+ivs: {hp: 11, atk: 11, def: 11, spA: 11, spD: 10, spe: 11}
 evs: {hp: 88, atk: 168, def: 84, spA: 84, spD: 84, spe: 0}
 moves:
     - [Thunderbolt, Charge Beam]
