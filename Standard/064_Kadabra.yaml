@@ -11,7 +11,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.7
-ball: [Poké]
+ball: [Quick]
 nature: Adamant
 ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 31}
 evs: {hp: 32, atk: 196, def: 116, spA: 32, spD: 104, spe: 28}
@@ -31,7 +31,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3
-ball: [Poké]
+ball: [Heal]
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
 evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}

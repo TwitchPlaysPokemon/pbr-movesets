@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Luxury]
 ---
 species: Farfetch'd
 setname: Special
@@ -34,7 +34,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Heal]
 ---
 species: Farfetch'd
 setname: Stall
@@ -52,4 +52,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: [Poké]
+ball: [Timer]

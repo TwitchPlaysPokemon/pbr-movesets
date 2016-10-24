@@ -4,7 +4,7 @@ item: [Enigma Berry]
 ability: [Chlorophyll]
 nature: Modest
 ivs: 31
-evs: {hp: 100, atk: 0, def: 10, spA: 108, spD: 100, spe: 100}
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 moves:
     - [Solarbeam]
     - [Hidden Power]

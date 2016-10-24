@@ -19,7 +19,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Repeat]
 ---
 species: Rapidash
 setname: Physical
@@ -42,4 +42,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Quick]

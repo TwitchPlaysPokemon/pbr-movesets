@@ -19,7 +19,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Repeat]
 ---
 species: Slowbro
 setname: Special
@@ -37,7 +37,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Heal]
 ---
 species: Slowbro
 setname: Physical
@@ -58,4 +58,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Dive]

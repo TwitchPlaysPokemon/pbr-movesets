@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Quick]
 ---
 species: Geodude
 setname: Special
@@ -32,4 +32,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: [Poké]
+ball: [Heal]

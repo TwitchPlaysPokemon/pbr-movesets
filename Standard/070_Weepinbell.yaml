@@ -11,7 +11,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Safari]
 nature: Serious
 ivs: 24
 evs: {hp: 160, atk: 86, def: 44, spA: 86, spD: 44, spe: 86}

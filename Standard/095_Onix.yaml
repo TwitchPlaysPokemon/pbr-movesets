@@ -35,7 +35,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: [Heal]
+ball: [Quick]
 ---
 species: Onix
 setname: Slow

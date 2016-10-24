@@ -37,7 +37,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: [Poké]
+ball: [Safari]
 nature: Adamant
 ivs: 31
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}

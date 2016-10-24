@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Timer]
 ---
 species: Cloyster
 setname: Physical
@@ -41,7 +41,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Dive]
 ---
 species: Cloyster
 setname: Special
@@ -62,4 +62,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Net]
