@@ -1,7 +1,7 @@
 ﻿species: Slowbro
 ingamename: AAbbABCabb
 displayname: AAbbABCabb
-setname: AnniversaryRed
+setname: Anniversary Red
 item: [Null]
 ability: [Null]
 moves:
@@ -17,4 +17,4 @@ ball: [Poké]
 shiny: False
 nature: Adamant
 ivs: 0
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 80, spe: 178}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 80, spe: 180}
