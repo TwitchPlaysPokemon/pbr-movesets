@@ -1,0 +1,13 @@
+species: Togepi
+setname: Stadium 2
+moves:
+    - Headbutt
+    - Metronome
+    - Attract
+    - Sweet Kiss
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Serious
+ivs: 31
+evs: {hp: 212, atk: 212, def: 212, spA: 220, spD: 220, spe: 228}

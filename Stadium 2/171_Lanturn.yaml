@@ -1,0 +1,13 @@
+species: Lanturn
+setname: Stadium 2
+moves:
+    - Hydro Pump
+    - Spark
+    - Flail
+    - Supersonic
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Hardy
+ivs: 31
+evs: {hp: 72, atk: 80, def: 80, spA: 72, spD: 72, spe: 72}

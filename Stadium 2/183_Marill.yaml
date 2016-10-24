@@ -1,0 +1,13 @@
+species: Marill
+setname: Stadium 2
+moves:
+    - Surf
+    - Rollout
+    - Defense Curl
+    - Swagger
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 212, atk: 212, def: 212, spA: 220, spD: 220, spe: 228}

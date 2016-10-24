@@ -1,0 +1,13 @@
+species: Jumpluff
+setname: Stadium 2
+moves:
+    - Mega Drain
+    - Headbutt
+    - Stun Spore
+    - Leech Seed
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Docile
+ivs: 31
+evs: {hp: 88, atk: 96, def: 88, spA: 88, spD: 88, spe: 96}

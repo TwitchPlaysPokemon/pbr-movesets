@@ -1,0 +1,13 @@
+species: Ledian
+setname: Stadium 2
+moves:
+    - Giga Drain
+    - Dig
+    - Hyper Beam
+    - Supersonic
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Bashful
+ivs: 31
+evs: {hp: 132, atk: 140, def: 132, spA: 132, spD: 132, spe: 132}
