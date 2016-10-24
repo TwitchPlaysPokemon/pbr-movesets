@@ -1,0 +1,9 @@
+species: Ditto
+setname: Stadium 2
+moves:
+    - Transform
+happiness: 255
+rarity: 0.0
+nature: Docile
+ivs: {hp: 29, atk: 30, def: 31, spA: 31, spD: 30, spe: 31}
+evs: {hp: 168, atk: 164, def: 168, spA: 160, spD: 164, spe: 168}

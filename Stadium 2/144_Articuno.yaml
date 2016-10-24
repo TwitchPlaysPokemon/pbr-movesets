@@ -1,0 +1,12 @@
+species: Articuno
+setname: Stadium 2
+moves:
+    - Blizzard
+    - Peck
+    - Agility
+    - Mist
+happiness: 255
+rarity: 0.0
+nature: Docile
+ivs: {hp: 30, atk: 30, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 120, spA: 120, spD: 120, spe: 120}

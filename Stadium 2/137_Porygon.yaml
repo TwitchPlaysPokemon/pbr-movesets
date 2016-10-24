@@ -1,0 +1,12 @@
+species: Porygon
+setname: Stadium 2
+moves:
+    - Tri Attack
+    - Blizzard
+    - Sharpen
+    - Conversion 2
+happiness: 255
+rarity: 0.0
+nature: Serious
+ivs: 31
+evs: {hp: 132, atk: 140, def: 132, spA: 132, spD: 132, spe: 132}

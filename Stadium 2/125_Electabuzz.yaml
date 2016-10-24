@@ -1,0 +1,13 @@
+species: Electabuzz
+setname: Stadium 2
+moves:
+    - Thunder Punch
+    - Swift
+    - Light Screen
+    - Leer
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 72, atk: 80, def: 80, spA: 72, spD: 72, spe: 72}
