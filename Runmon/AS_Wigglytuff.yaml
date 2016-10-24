@@ -7,14 +7,14 @@ ability: [Skill Link]
 moves:
     - [Tri Attack]
     - [Strength]
-    - [Rock Smash]
     - [Ice Beam]
+    - [Rock Smash]
 gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Impish
+ivs: 8
+evs: {hp: 0, atk: 252, def: 0, spA: 128, spD: 0, spe: 128}
