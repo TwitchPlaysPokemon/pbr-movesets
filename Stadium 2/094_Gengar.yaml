@@ -1,0 +1,13 @@
+species: Gengar
+setname: Stadium 2
+moves:
+    - Night Shade
+    - Thief
+    - Nightmare
+    - Hypnosis
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Docile
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 6, spe: 31}
+evs: {hp: 56, atk: 64, def: 64, spA: 56, spD: 156, spe: 56}
