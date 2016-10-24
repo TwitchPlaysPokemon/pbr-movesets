@@ -1,6 +1,6 @@
 species: Crobat
-ingamename: -ᴾkᴾkᴾkᴾk
-displayname: -ᴾkᴾkᴾkᴾkᴾkᴾkᴾk)(
+ingamename: "-ᴾkᴾkᴾkᴾk"
+displayname: "-ᴾkᴾkᴾkᴾkᴾkᴾkᴾk)("
 setname: Brown
 item: [null]
 ability: [null]
@@ -14,6 +14,6 @@ happiness: 255
 biddable: True
 rarity: 0.0
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Quiet
+ivs: 0
+evs: {hp: 64, atk: 64, def: 64, spA: 252, spD: 64, spe: 0}

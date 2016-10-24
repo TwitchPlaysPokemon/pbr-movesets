@@ -1,6 +1,6 @@
 species: Venusaur
-ingamename: ----------
-displayname: ----------
+ingamename: "----------"
+displayname: "----------"
 setname: Brown
 item: [null]
 ability: [null]
@@ -14,6 +14,6 @@ happiness: 255
 biddable: True
 rarity: 0.0
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Timid
+ivs: 0
+evs: 40
