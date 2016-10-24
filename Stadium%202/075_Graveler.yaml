@@ -1,0 +1,13 @@
+species: Graveler
+setname: Stadium 2
+moves:
+    - Earthquake
+    - Rollout
+    - Selfdestruct
+    - Defense Curl
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Docile
+ivs: 31
+evs: {hp: 132, atk: 140, def: 132, spA: 132, spD: 132, spe: 132}
