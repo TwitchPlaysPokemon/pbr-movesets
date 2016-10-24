@@ -16,4 +16,4 @@ rarity: 0.0
 shiny: False
 nature: Bold
 ivs: {hp: 0, atk: 2, def: 2, spA: 3, spD: 3, spe: 2}
-evs: {hp: 0, atk: 229, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 228, def: 0, spA: 0, spD: 0, spe: 0}
