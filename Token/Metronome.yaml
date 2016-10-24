@@ -121,7 +121,7 @@ species: Blaziken
 setname: Metronome
 ball: [Heal]
 item: [Petaya Berry]
-ability: [Petaya Berry]
+ability: [Blaze]
 nature: Serious
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: 0
