@@ -1,0 +1,16 @@
+species: Cascoon
+setname: Shiny
+item: [Custap Berry]
+ability: [Aftermath]
+moves:
+    - [Extreme Speed]
+    - [Endeavor]
+    - [Odor Sleuth]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Poké]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 0, spA: 0, spD: 128, spe: 0}

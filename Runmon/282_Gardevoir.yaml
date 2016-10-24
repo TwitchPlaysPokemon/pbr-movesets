@@ -1,0 +1,16 @@
+species: Gardevoir
+setname: Shiny
+item: [Silk Scarf]
+ability: [Adaptability]
+moves:
+    - [Psycho  Boost]
+    - [Double-Edge]
+    - [Conversion]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Great]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
