@@ -1,0 +1,13 @@
+species: Venomoth
+setname: Stadium 2
+moves:
+    - Sludge Bomb
+    - Psychic
+    - Leech Life
+    - Foresight
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Bashful
+ivs: 31
+evs: {hp: 88, atk: 96, def: 96, spA: 88, spD: 88, spe: 88}

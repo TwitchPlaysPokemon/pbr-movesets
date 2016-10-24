@@ -1,0 +1,13 @@
+species: Bellsprout
+setname: Stadium 2
+moves:
+    - Giga Drain
+    - Sludge Bomb
+    - Toxic
+    - Growth
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Hardy
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}

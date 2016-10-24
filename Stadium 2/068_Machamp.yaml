@@ -1,0 +1,13 @@
+species: Machamp
+setname: Stadium 2
+moves:
+    - Submission
+    - Scary Face
+    - ThunderPunch
+    - Fire Punch
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Bashful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 4, spe: 31}
+evs: {hp: 64, atk: 64, def: 64, spA: 64, spD: 56, spe: 172}
