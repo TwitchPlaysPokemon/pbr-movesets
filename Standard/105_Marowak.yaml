@@ -18,7 +18,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Ultra]
 ---
 species: Marowak
 setname: Thick Club
@@ -36,4 +36,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Premier]

@@ -16,7 +16,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Safari]
 ---
 species: Lickitung
 setname: Physical
@@ -38,7 +38,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Great]
 ---
 species: Lickitung
 setname: Special
@@ -61,4 +61,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Dive]

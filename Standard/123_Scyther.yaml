@@ -14,7 +14,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Net]
 ---
 species: Scyther
 setname: Physical Swarm
@@ -32,7 +32,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Safari]
 ---
 species: Scyther
 setname: Special
@@ -55,4 +55,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Heal]

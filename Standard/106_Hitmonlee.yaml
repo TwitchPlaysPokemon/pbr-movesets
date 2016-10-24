@@ -16,7 +16,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Premier]
+ball: [Luxury]
 ---
 species: Hitmonlee
 setname: Unburden

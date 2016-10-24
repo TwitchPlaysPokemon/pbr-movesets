@@ -17,7 +17,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Heal]
 ---
 species:  Koffing
 setname: Physical
@@ -35,4 +35,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Dusk]

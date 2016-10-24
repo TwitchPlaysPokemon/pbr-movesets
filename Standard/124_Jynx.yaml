@@ -17,7 +17,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Dusk]
+ball: [Heal]
 ---
 species: Jynx
 setname: Mixed
@@ -35,4 +35,4 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Heal]
+ball: [Dusk]

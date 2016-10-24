@@ -17,7 +17,7 @@ separations:
 happiness: 255
 biddable: True
 rarity: 1.4
-ball: [Poké]
+ball: [Quick]
 ---
 species: Staryu
 setname: Physical
@@ -37,4 +37,4 @@ combinations:
 happiness: 0
 biddable: True
 rarity: 0.7
-ball: [Poké]
+ball: [Dive]

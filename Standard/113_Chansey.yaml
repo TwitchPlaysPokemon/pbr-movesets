@@ -14,7 +14,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Luxury]
 ---
 species: Chansey
 setname: Natural Cure
@@ -32,4 +32,4 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: [Poké]
+ball: [Safari]

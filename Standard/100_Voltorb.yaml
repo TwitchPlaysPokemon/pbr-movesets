@@ -13,7 +13,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.5
-ball: [Poké]
+ball: [Dive]
 ---
 species: Voltorb
 setname: Physical
@@ -30,4 +30,4 @@ moves:
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: [Poké]
+ball: [Quick]
