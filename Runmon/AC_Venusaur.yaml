@@ -1,6 +1,6 @@
 ﻿species: Venusaur
-ingamename: 'ul:::ut×'
-displayname: 'ul:::ut×'
+ingamename: "'ul:::ut×'"
+displayname: "'ul:::ut×'"
 setname: Anniversary Crystal
 item: [Bloom Mail]
 ability: [Null]
@@ -15,6 +15,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Adamant
+ivs: 0
+evs: 0
