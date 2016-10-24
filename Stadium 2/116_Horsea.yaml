@@ -1,0 +1,13 @@
+species: Horsea
+setname: Stadium 2
+moves:
+    - Hydro Pump
+    - Blizzard
+    - Rain Dance
+    - Smokescreen
+gender: [m]
+happiness: 255
+rarity: 0.0
+nature: Bashful
+ivs: 31
+evs: {hp: 188, atk: 188, def: 196, spA: 188, spD: 188, spe: 188}

@@ -1,0 +1,13 @@
+species: Seadra
+setname: Stadium 2
+moves:
+    - Surf
+    - Dragon Breath
+    - Swift
+    - Smokescreen
+gender: [f]
+happiness: 255
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 104, atk: 112, def: 104, spA: 104, spD: 104, spe: 112}
