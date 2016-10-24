@@ -1,0 +1,20 @@
+species: Swalot
+ingamename: Swalot
+displayname: Swalot
+setname: XD
+item: [Exp. Share]
+ability: [Sticky Hold]
+moves:
+    - [Sludge Bomb]
+    - [Sludge Bomb]
+    - [Shock Wave]
+    - [Toxic]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

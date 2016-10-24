@@ -1,0 +1,19 @@
+species: Claydol
+ingamename: cDddDDDDDD
+displayname: cDddDDDDDD
+setname: XD
+item: [Ultra Ball]
+ability: [Levitate]
+moves:
+    - [Psybeam]
+    - [Ancient Power]
+    - [Rock Tomb]
+    - [Cosmic Power]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
