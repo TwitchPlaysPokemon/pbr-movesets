@@ -1,0 +1,19 @@
+species: Golem
+ingamename: AJJJJJJaaa 
+displayname: AJJJJJJaaa 
+setname: Brown
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Rock Throw]
+    - [Strength]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

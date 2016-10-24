@@ -1,0 +1,19 @@
+species: Crobat
+ingamename: -?k?k?k?k?k?k?k)(
+displayname: -?k?k?k?k?k?k?k)(
+setname: Brown
+item: [null]
+ability: [null]
+moves:
+    - [Fly]
+    - [Wing Attack]
+    - [Hyper Beam]
+    - [Swift]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
