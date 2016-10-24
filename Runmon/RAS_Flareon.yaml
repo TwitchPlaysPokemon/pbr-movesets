@@ -1,0 +1,20 @@
+species: Flareon
+ingamename: !!!!r
+displayname: !!!!r
+setname: RAS
+item: [Big Pearl]
+ability: [Synchronize]
+moves:
+    - [Fire Punch]
+    - [Earthquake]
+    - [Rock Throw]
+    - [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
