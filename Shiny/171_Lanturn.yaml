@@ -1,0 +1,16 @@
+species: Lanturn
+setname: Shiny
+item: [Power Herb]
+ability: [Illuminate]
+moves:
+    - [Solar Beam]
+    - [Flash Cannon]
+    - [Light Screen]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Quick]
+nature: Bold
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}

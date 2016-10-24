@@ -1,0 +1,15 @@
+species: Celebi
+setname: Shiny
+item: [Enigma Berry]
+ability: [Adaptability]
+moves:
+    - [Nature Power]
+    - [Camouflage]
+    - [Synthesis]
+    - [Aromatherapy]
+happiness: 255
+shiny: True
+ball: [Heal]
+nature: Hardy
+ivs: 31
+ev: 84

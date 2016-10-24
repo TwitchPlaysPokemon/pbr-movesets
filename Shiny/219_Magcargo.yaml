@@ -1,0 +1,16 @@
+species: Magcargo
+setname: Shiny
+item: [Expert Belt]
+ability: [Pure Power]
+moves:
+    - [Mach Punch]
+    - [Aqua Jet]
+    - [Shadow Sneak]
+    - [Power Trick]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Quick]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}

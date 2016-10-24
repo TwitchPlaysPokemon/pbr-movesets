@@ -1,0 +1,15 @@
+species: Lugia
+setname: Shiny
+item: [Leftovers]
+ability: [Slow Start]
+moves:
+    - [Psycho Boost]
+    - [Hydro Pump]
+    - [Earthquake]
+    - [Feather Dance]
+happiness: 255
+shiny: True
+ball: [Great]
+nature: Adamant
+ivs: 0
+evs: {hp: 252, atk: 8, def: 140, spA: 16, spD: 88, spe: 0}

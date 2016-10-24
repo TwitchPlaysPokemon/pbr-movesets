@@ -1,0 +1,16 @@
+species: Shuckle
+setname: Shiny
+item: [Rowap Berry]
+ability: [Rough Skin]
+moves:
+    - [Recycle (+5)]
+    - [Rest (=1)]
+    - [Aqua Ring (=3)]
+    - [Ingrain (=1)]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Repeat]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 28, spA: 0, spD: 228, spe: 0}

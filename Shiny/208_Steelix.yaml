@@ -1,0 +1,16 @@
+species: Steelix
+setname: Shiny
+item: [Starf Berry]
+ability: [Simple]
+moves:
+    - [Flash Cannon]
+    - [Magnitude]
+    - [Accupressure]
+    - [Milk Drink]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Luxury Ball]
+nature: Calm
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 0, spD: 252, spe: 252}
