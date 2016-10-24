@@ -34,7 +34,7 @@ combinations:
     - [Salac Berry, Frustration]
     - [Liechi Berry, Sucker Punch]
 gender: [m, f]
-happiness: 255
+happiness: 0
 biddable: True
 rarity: 0.5
 ball: [Safari]
