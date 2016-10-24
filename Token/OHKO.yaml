@@ -1,0 +1,141 @@
+species: Groudon
+setname: OHKO
+moves:
+    - [Fissure]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Kyogre
+setname: OHKO
+moves:
+    - [Sheer Cold]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Kangaskhan
+setname: OHKO
+moves:
+    - [Fissure]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Nidoking
+setname: OHKO
+moves:
+    - [Horn Drill]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 40}
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Pinsir
+setname: OHKO
+moves:
+    - [Guillotine]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 40}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Kingler
+setname: OHKO
+moves:
+    - [Guillotine]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Dewgong
+setname: OHKO
+moves:
+    - [Sheer Cold]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Onix
+setname: OHKO
+moves:
+    - [Fissure]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Seaking
+setname: OHKO
+moves:
+    - [Horn Drill]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 176}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Abomasnow
+setname: OHKO
+moves:
+    - [Sheer Cold]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 240}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Sandslash
+setname: OHKO
+moves:
+    - [Fissure]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
+species: Arbok
+setname: OHKO
+moves:
+    - [Fissure]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0

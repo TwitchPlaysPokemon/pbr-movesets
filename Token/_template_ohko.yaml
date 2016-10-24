@@ -1,0 +1,14 @@
+species: 
+setname: OHKO
+item: []
+ability: []
+moves:
+    - []
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: }
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Hardy
+ivs: 0
+---
