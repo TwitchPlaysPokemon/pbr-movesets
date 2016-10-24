@@ -1,0 +1,20 @@
+species: Wigglytuff
+ingamename: Chansey
+displayname: Chansey
+setname: RAS
+item: [Null]
+ability: [Skill Link]
+moves:
+    - [Tri Attack]
+    - [Strength]
+    - [Rock Smash]
+    - [Ice Beam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }

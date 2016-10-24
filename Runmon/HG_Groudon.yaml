@@ -12,7 +12,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 0.0
-ball: [Poke]
+ball: [Poké]
 shiny: False
 nature: Hasty
 ivs: 0
