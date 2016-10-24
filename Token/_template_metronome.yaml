@@ -1,0 +1,17 @@
+species: 
+setname: Metronome
+ball: []
+item: []
+ability: []
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+happiness: 255
+biddable: True
+rarity: 0
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+---
