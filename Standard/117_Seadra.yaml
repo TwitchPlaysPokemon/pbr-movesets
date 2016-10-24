@@ -43,7 +43,7 @@ species: Seadra
 setname: Stall
 item: [Null]
 ability: [Damp]
-nature: Careful,
+nature: Careful
 ivs: 31
 evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
 moves:

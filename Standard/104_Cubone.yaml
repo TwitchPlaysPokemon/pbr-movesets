@@ -29,7 +29,7 @@ moves:
     - [Bonemerang]
     - [Iron Tail]
     - [Body Slam, Fire Punch, Rock Slide]
-    - [Iron Defense, Tail Whip, Captivate, Attract, Steath Rock]
+    - [Iron Defense, Tail Whip, Captivate, Attract, Stealth Rock]
 gender: [m, f]
 happiness: 255
 biddable: True

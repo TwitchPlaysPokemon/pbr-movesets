@@ -6,7 +6,7 @@ nature: Modest
 ivs: {hp: 11, atk: 31, def: 11, spA: 31, spD: 11, spe: 31}
 evs: {hp: 88, atk: 28, def: 80, spA: 252, spD: 0, spe: 0}
 moves:
-    - [Hi Jump Kick, Jump Kick]
+    - [High Jump Kick, Jump Kick]
     - [Blaze Kick]
     - [Body Slam, Rock Slide]
     - [Bullet Punch, Mind Reader, Role Play, Foresight]

@@ -1,4 +1,4 @@
-species: Wheezing
+species: Weezing
 setname: Standard 
 item: [Poison Barb]
 ability: [Levitate]
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 ---
-species: Wheezing
+species: Weezing
 setname: Special
 item: [Oran Berry, Twisted Spoon]
 ability: [Levitate]
@@ -36,7 +36,7 @@ biddable: True
 rarity: 1.0
 ball: [Heal]
 ---
-species: Wheezing
+species: Weezing
 setname: Physical
 item: [Qualot Berry]
 ability: [Levitate]
