@@ -1,0 +1,17 @@
+species: Snorunt
+setname: Shiny
+item: [Focus Sash]
+ability: [Snow Warning]
+moves:
+    - [Sheer Cold]
+    - [Toxic]
+    - [Minimize]
+    - [Dark Void]
+gender: [m, f]
+level: 1
+happiness: 255
+shiny: True
+ball: [Timer]
+nature: Serious
+ivs: 0
+evs: 0

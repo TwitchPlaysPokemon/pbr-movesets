@@ -1,0 +1,15 @@
+species: Metagross
+setname: Shiny
+item: [Shell Bell]
+ability: [Reckless]
+moves:
+    - [Flare Blitz]
+    - [Wood Hammer]
+    - [Brave Bird]
+    - [Agility]
+happiness: 255
+shiny: True
+ball: [Quick]
+nature: Modest
+ivs: 0
+evs: {hp: 80, atk: 56, def: 80, spA: 0, spD: 160, spe: 0}
