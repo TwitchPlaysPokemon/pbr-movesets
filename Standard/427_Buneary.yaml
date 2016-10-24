@@ -11,7 +11,7 @@ moves:
     - [Bounce]
     - [Magic Coat, Defense Curl, Encore]
 gender: [m, f]
-happiness: 255
+happiness: 0
 biddable: True
 rarity: 1.0
 ball: [Repeat]
