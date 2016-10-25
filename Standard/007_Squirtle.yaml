@@ -1,20 +1,21 @@
 species: Squirtle
 setname: Special
-item: [Black Glasses, Blackbelt]
+item: [BlackGlasses, Blackbelt]
 ability: [Torrent]
 nature: Modest
 ivs: 31
 evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
 moves:
-    - [Hydro Pump, Hydro Cannon, Surf]
+    - [Hydro Pump, Surf]
     - [Dark Pulse, Aura Sphere]
-    - [Ice Beam, Dragon Pulse, Icy Wind, Yawn]
+    - [Hydro Cannon, Ice Beam, Dragon Pulse, Icy Wind, Yawn]
     - [Mirror Coat, Counter, Protect]
 combinations:
     - [Black Glasses, Dark Pulse]
     - [Blackbelt, Aura Sphere]
     - [Yawn, Protect]
 gender: [m, f]
+rarity: 1.3
 ---
 species: Squirtle
 setname: Physical
@@ -30,12 +31,13 @@ moves:
     - [Iron Defense, Rain Dance, Substitute, Yawn, Swagger]
 combinations:
     - [Liechi Berry, Iron Defense]
-    - [Light Ball, Waterfall, Fling]
+    - [Light Ball, Waterfall, Zen Headbutt, Fling]
     - [Damp Rock, Rain Dish, Dive, Toxic, Rain Dance]
     - [Focus Punch, Substitute]
 separations:
     - [Body Slam, Fling]
 gender: [m, f]
+rarity: 1.3
 ---
 species: Squirtle
 setname: Tank
@@ -50,3 +52,4 @@ moves:
     - [Bide]
     - [Rapid Spin, Iron Defense, Attract]
 gender: [m, f]
+rarity: 0.4
