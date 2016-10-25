@@ -1,5 +1,5 @@
 species: Floatzel
-setname: Mixed
+setname: Standard
 item: [Null]
 ability: [Swift Swim, Water Veil]
 nature: Relaxed
@@ -14,6 +14,14 @@ combinations:
     - [Hail, Blizzard]
 separations:
     - [Water Veil, Rain Dance]
+    - [Water Pulse, Hyper Beam]
+    - [Aqua Tail, Blizzard]
+    - [Waterfall, Blizzard]
+    - [Surf, Blizzard]
+    - [Aqua Tail, Focus Blast]
+    - [Waterfall, Focus Blast]
+    - [Surf, Focus Blast]
+    - [Hyper Beam, Strength]
 gender: [m, f]
 happiness: 255
 biddable: True

@@ -1,6 +1,6 @@
 species: Cherubi
 setname: Special
-item: [Tanga Berry, Yache Berry, Coba Berry, Kebia Berry, Salac Berry]
+item: [Tanga Berry, Yache Berry, Coba Berry, Kebia Berry, Petaya Berry]
 ability: [Chlorophyll]
 nature: Modest
 ivs: 31
@@ -11,7 +11,7 @@ moves:
     - [Leech Seed, Growth, Nature Power, Endure]
     - [Sunny Day]
 combinations:
-    - [Salac Berry, Endure]
+    - [Petaya Berry, Endure]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -27,7 +27,7 @@ ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Seed Bomb]
-    - [Return, Take Down]
+    - [Return]
     - [Grass Whistle]
     - [Swords Dance]
 gender: [m, f]

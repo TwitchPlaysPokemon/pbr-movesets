@@ -20,7 +20,7 @@ ball: [Quick]
 ---
 species: Shinx
 setname: Special
-item: [Silver Powder, NeverMelt-Ice]
+item: [Silver Powder, NeverMelt-Ice, Salac Berry]
 ability: [Rivalry, Intimidate]
 nature: Modest
 ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
@@ -29,12 +29,16 @@ moves:
     - [Thunderbolt, Discharge]
     - [Signal Beam, Hidden Power]
     - [Charge Beam]
-    - [Endure, Substitute]
+    - [Endure, Substitute, Scary Face, Charge, Swagger]
 combinations:
     - [Silver Powder, Signal Beam]
     - [NeverMelt-Ice, Hidden Power]
 separations:
     - [Rivalry, Substitute]
+    - [Silverpowder, Substitute]
+    - [Silverpowder, Endure]
+    - [NeverMeltIce, Substitute]
+    - [NeverMeltIce, Endure]
 gender: [m, f]
 happiness: 255
 biddable: True

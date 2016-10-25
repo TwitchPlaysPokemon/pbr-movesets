@@ -20,7 +20,7 @@ ball: [Great]
 ---
 species: Pachirisu
 setname: Physical
-item: [Magnet, Sitrus Berry]
+item: [Magnet, Sitrus Berry, BlackGlasses]
 ability: [Volt Absorb]
 nature: Adamant
 ivs: 31
@@ -28,13 +28,10 @@ evs: {hp: 88, atk: 252, def: 44, spA: 0, spD: 44, spe: 80}
 moves:
     - [Thunder Punch]
     - [Gunk Shot]
-    - [Iron Tail, Seed Bomb]
+    - [Iron Tail, Seed Bomb, Bite]
     - [Magnet Rise, Sweet Kiss, Bide, U-turn]
 combinations:
-    - [Black Glasses, Bite]
-    - [NeverMelt-Ice, Ice Fang]
-    - [Charcoal, Fire Fang]
-    - [Silk Scarf, Headbutt]
+    - [BlackGlasses, Bite]
 gender: [m, f]
 happiness: 255
 biddable: True

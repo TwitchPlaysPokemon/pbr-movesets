@@ -9,6 +9,7 @@ moves:
     - [Captivate, Attract, Detect, Heal Bell, Rain Dance, Tail Whip]
 combinations:
     - [Meadow Plate, Razor Leaf]
+    - [Leaf Blade, Detect]
 gender: [m, f]
 happiness: 255
 biddable: True
