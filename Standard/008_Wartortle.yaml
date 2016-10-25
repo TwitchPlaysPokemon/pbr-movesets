@@ -1,6 +1,6 @@
 species: Wartortle
 setname: Torrent
-item: [Wave Incense, Light Ball, Sitrus Berry, Liechi Berry]
+item: [Wave Incense, Light Ball, Berry Juice, Liechi Berry]
 ability: [Torrent]
 nature: Docile
 ivs: 31
@@ -8,12 +8,11 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 moves:
     - [Fake Out]
     - [Waterfall, Surf]
-    - [Aura Sphere, Zen Headbutt, Mega Kick, Rollout, Rapid Spin, Focus Punch]
-    - [Iron Defense, Fling, Defense Curl, Foresight, Natural Gift, Substitute]
+    - [Aura Sphere, Zen Headbutt, Mega Kick, Rollout, Focus Punch]
+    - [Iron Defense, Fling, Defense Curl, Natural Gift, Substitute]
 combinations:
     - [Light Ball, Fling]
-    - [Iron Defense, Sitrus Berry]
-    - [Rapid Spin, Foresight]
+    - [Iron Defense, Berry Juice]
     - [Rollout, Defense Curl]
     - [Liechi Berry, Natural Gift]
     - [Substitute, Focus Punch]
