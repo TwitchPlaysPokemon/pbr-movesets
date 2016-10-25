@@ -1,6 +1,6 @@
 species: Pidgeot
 setname: Standard
-item: [Air Mail, Toxic Orb, Pinap Berry, Razor Claw]
+item: [Air Mail, Pinap Berry, Razor Claw]
 ability: [Keen Eye, Tangled Feet]
 nature: Quiet
 ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
