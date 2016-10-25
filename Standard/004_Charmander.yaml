@@ -1,12 +1,12 @@
 species: Charmander
 setname: Physical
-item: [Zoom Lens, Hard Stone, Persim Berry]
+item: [Zoom Lens, Hard Stone, Persim Berry, Charcoal]
 ability: [Blaze, Solar Power]
 nature: Jolly
 ivs: 31
 evs: {hp: 44, atk: 252, def: 0, spA: 0, spD: 0, spe: 212}
 moves:
-    - [Flare Blitz]
+    - [Flare Blitz, Fire Punch]
     - [Outrage, Mega Kick, Rock Slide, Iron Tail]
     - [Will-O-Wisp, Swagger, Counter]
     - [Swords Dance, Dragon Dance, Sunny Day]
@@ -32,18 +32,3 @@ combinations:
     - [Chesto Berry, Rest]
     - [Hard Stone, Ancientpower]
 gender: [m, f]
----
-species: Charmander
-setname: Token
-item: [Charcoal, Cheri Berry]
-ability: [Blaze]
-nature: Adamant
-ivs: 31
-evs: {hp: 20, atk: 252, def: 0, spA: 0, spD: 0, spe: 236}
-moves:
-    - [Flare Blitz]
-    - [Rock Slide]
-    - [Aerial Ace]
-    - [Sunny Day]
-gender: [m, f]
-rarity: 0
