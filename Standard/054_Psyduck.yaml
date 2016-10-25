@@ -50,6 +50,10 @@ moves:
     - [Psychic]
     - [Mud Bomb, Signal Beam, Icy Wind]
     - [Rain Dance]
+combinations:
+    - [Earth Plate, Mud Bomb]
+    - [Insect Plate, Signal Beam]
+    - [Icicle Plate, Icy Wind]
 gender: [m, f]
 happiness: 255
 biddable: true
