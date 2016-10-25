@@ -11,7 +11,7 @@ moves:
     - [Flash Cannon]
     - [Withdraw, Roar, Refresh, Mud Sport, Haze]
 gender: [m, f]
-rarity: 1.0
+rarity: 1.3
 ball: [Ultra]
 ---
 species: Blastoise
@@ -31,7 +31,7 @@ combinations:
 separations:
     - [Gyro Ball, Counter]
 gender: [m, f]
-rarity: 1.0
+rarity: 1.3
 ball: [Ultra]
 ---
 species: Blastoise
@@ -43,10 +43,10 @@ ivs: 0
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 moves:
     - [Hydro Pump, Surf]
-    - [Hyper Beam, Focus Blast]
+    - [Focus Blast]
     - [Aqua Ring]
     - [Rain Dance]
 gender: [m, f]
 biddable: False
-rarity: 0.5
+rarity: 0.4
 ball: [Ultra]
