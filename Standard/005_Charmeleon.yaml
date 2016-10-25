@@ -10,6 +10,8 @@ moves:
     - [Dragon Rush, Mega Kick]
     - [DynamicPunch, Iron Tail]
     - [Will-O-Wisp, Curse, Rock Slide]
+combinations:
+    - [Heat Wave, Curse]
 gender: [m, f]
 ball: [Great]
 ---
