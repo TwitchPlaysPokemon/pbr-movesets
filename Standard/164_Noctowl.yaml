@@ -9,7 +9,7 @@ moves:
     - [Protect, Block]
 combinations:
     - [Night Shade, Mirror Move, Protect]
-    - [Nightmare, Hypnosis, Protect]
+    - [Nightmare, Hypnosis, Block]
 gender: [m, f]
 rarity: 1.0
 ball: [Premier]
