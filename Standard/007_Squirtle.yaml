@@ -34,8 +34,6 @@ combinations:
     - [Light Ball, Waterfall, Zen Headbutt, Fling]
     - [Damp Rock, Rain Dish, Dive, Toxic, Rain Dance]
     - [Focus Punch, Substitute]
-separations:
-    - [Body Slam, Fling]
 gender: [m, f]
 rarity: 1.3
 ---
