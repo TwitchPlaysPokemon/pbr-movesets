@@ -1,7 +1,7 @@
 species: Raichu
 setname: Physical
 item: [Magnet, Cornn Berry]
-ability: [Lightningrod, Static]
+ability: [Static]
 nature: Impish
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 10}
 evs: {hp: 172, atk: 0, def: 128, spA: 0, spD: 128, spe: 80}
