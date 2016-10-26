@@ -26,8 +26,7 @@ moves:
     - [Hyper Beam, Ember, Ominous Wind, Cut]
     - [Mimic, Sunny Day, Roar, Dragon Dance]
 combinations:
-    - [Scope Lens, Air Cutter]
-    - [Draco Plate, Twister]
+    - [Scope Lens, DragonBreath, Air Cutter]
     - [Ember, Sunny Day]
     - [Cut, Dragon Dance]
 gender: [m, f]
