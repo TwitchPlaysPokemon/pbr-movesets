@@ -1,7 +1,7 @@
 species: Charmander
 setname: Physical
 item: [Zoom Lens, Hard Stone, Persim Berry, Charcoal]
-ability: [Blaze, Solar Power]
+ability: [Blaze]
 nature: Jolly
 ivs: 31
 evs: {hp: 44, atk: 252, def: 0, spA: 0, spD: 0, spe: 212}
