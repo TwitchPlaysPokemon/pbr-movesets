@@ -1,0 +1,17 @@
+species: Happiny
+setname: Standard
+item: [Oval Stone]
+ability: [Serene Grace]
+nature: Calm
+ivs: 31
+evs: {hp: 16, atk: 0, def: 252, spA: 0, spD: 96, spe: 0}
+moves:
+    - [Flamethrower]
+    - [Counter]
+    - [Toxic]
+    - [Softboiled]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
