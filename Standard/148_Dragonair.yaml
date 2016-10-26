@@ -14,6 +14,7 @@ separations:
     - [Thunder, Sunny Day]
     - [Fire Blast, Flamethrower]
     - [Fire Blast, Rain Dance]
+gender: [m,f]
 rarity: 1.0
 ball: [Great]
 nature: Modest
@@ -28,6 +29,7 @@ moves:
     - [Waterfall, Aqua Tail]
     - [Dragon Dance]
     - [Rest]
+gender: [m,f]
 rarity: 0.5
 ball: [Nest]
 nature: Relaxed
