@@ -7,7 +7,6 @@ moves:
     - [Iron Head]
     - [Rock Slide]
     - [Rolling Kick]
-gender: [m, f]
 happiness: 255
 shiny: True
 ball: [Luxury]
