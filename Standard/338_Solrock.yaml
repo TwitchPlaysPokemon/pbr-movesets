@@ -7,8 +7,8 @@ ivs: 13
 evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Stone Edge, Rock Slide]
-    - [Zen Headbutt, Earthquake, Iron Head]
-    - [Will-O-Wisp, Baton Pass, Gyro Ball]
+    - [Zen Headbutt, Earthquake]
+    - [Iron Head, Will-O-Wisp, Baton Pass, Gyro Ball]
     - [Cosmic Power, Rock Polish, Sandstorm, Pain Split]
 combinations:
     - [Hard Stone, Rock Slide, Rock Polish]
