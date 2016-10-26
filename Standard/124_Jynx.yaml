@@ -31,6 +31,8 @@ moves:
     - [Powder Snow, Confusion]
     - [Brick Break, Drain Punch, Wring Out, Water Pulse]
     - [Fake Tears, Copycat, Metronome, Meditate]
+separations:
+    - [Zen Headbutt, Confusion]
 gender: [f]
 happiness: 255
 biddable: True
