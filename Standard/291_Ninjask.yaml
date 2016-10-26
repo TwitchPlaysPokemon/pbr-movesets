@@ -25,9 +25,8 @@ moves:
     - [Hidden Power]
     - [Solarbeam, Shadow Ball]
     - [Ominous Wind, Giga Drain]
-separations:
-    - [Solarbeam, Giga Drain]
-    - [Shadow Ball, Ominous Wind]
+combinations:
+    - [Solarbeam, Ominous Wind]
 gender: [m, f]
 happiness: 255
 biddable: True
