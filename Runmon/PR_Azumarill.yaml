@@ -14,7 +14,7 @@ happiness: 255
 biddable: True
 rarity: 0.0
 ball: [Poké]
-shiny: False
+shiny: True
 nature: Quiet
 ivs: 16
 evs: {hp: 0, atk: 84, def: 84, spA: 172, spD: 84, spe: 84}
