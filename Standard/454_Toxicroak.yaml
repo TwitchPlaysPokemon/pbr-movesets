@@ -37,7 +37,7 @@ evs: 84
 species: Toxicroak
 setname: Rain
 item: [Damp Rock]
-ability: [Anticipation]
+ability: [Dry Skin]
 moves:
     - [Poison Jab]
     - [Vacuum Wave, Dig]
