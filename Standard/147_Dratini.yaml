@@ -9,6 +9,7 @@ moves:
     - [Dragon Dance]
 combinations:
     - [Wide Lens, Dragon Rush]
+gender: [m,f]
 rarity: 1.0
 ball: [Quick]
 nature: Adamant
@@ -24,6 +25,7 @@ moves:
     - [Hydro Pump]
     - [Fire Blast]
     - [Agility, Thunder Wave, Icy Wind]
+gender: [m,f]
 rarity: 1.0
 nature: Modest
 ivs: 31
