@@ -1,14 +1,13 @@
 species: Shelgon
 setname: Physical
 item: [Yache Berry, Haban Berry, Charcoal]
-ability: [Rock Head, Run Away]
+ability: [Rock Head]
 moves:
     - [Outrage, Dragon Rush]
     - [Double-Edge, Brick Break, Fire Fang]
     - [Rock Slide, Zen Headbutt]
     - [Scary Face, Dragon Dance]
 combinations:
-    - [Rock Head, Double-Edge]
     - [Charcoal, Fire Fang]
 separations:
     - [Outrage, Dragon Dance]
@@ -24,7 +23,7 @@ evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 148, spe: 20}
 species: Shelgon
 setname: Special
 item: [null, Heat Rock, Damp Rock]
-ability: [Run Away]
+ability: [Rock Head]
 moves:
     - [Dragon Pulse, Draco Meteor]
     - [Hydro Pump]
