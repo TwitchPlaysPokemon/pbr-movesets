@@ -29,6 +29,7 @@ moves:
     - [Wing Attack, Aerial Ace, Air Cutter]
     - [BubbleBeam, Steel Wing, Skull Bash, Ominous Wind, ThunderPunch, Fire Punch, Ice Punch]
     - [Mimic]
+gender: [m,f]
 rarity: 1.0
 ball: [Safari]
 ---
@@ -45,6 +46,7 @@ moves:
     - [Haze, Roar, Heal Bell, Mist, Defog]
 combinations:
     - [Dynamic Punch, Defog]
+gender: [m,f]
 rarity: 0.1
 ball: [Master]
 
