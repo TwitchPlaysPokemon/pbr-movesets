@@ -8,7 +8,7 @@ moves:
     - [Captivate, Metronome, Odor Sleuth, Refresh, Whirlwind]
 separations:
     - [Outrage, Odor Sleuth]
-    - [Brick Break, Odor Sleuth]
+    - [Fire Punch, Odor Sleuth]
     - [Seed Bomb, Odor Sleuth]
 gender: [m, f]
 rarity: 1.0
@@ -41,6 +41,8 @@ moves:
     - [Surf, Flamethrower, Thunderbolt, Ice Beam]
     - [Psychic, Shadow Ball, Psywave]
     - [Counter, Lovely Kiss, Snore]
+combinations:
+    - [Hyper Voice, Psywave, Snore]
 gender: [m, f]
 rarity: 1.0
 ball: [Timer]
@@ -58,7 +60,7 @@ moves:
     - [Substitute]
     - [Recycle]
 gender: [m, f]
-rarity: 1.0
+rarity: 0.5
 ball: [Luxury]
 nature: Impish
 ivs: 31
