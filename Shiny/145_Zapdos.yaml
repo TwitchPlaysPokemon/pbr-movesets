@@ -7,7 +7,6 @@ moves:
     - [Solar Beam (=1)]
     - [Trump Card (=1)]
     - [Last Resort (=1)]
-gender: [m, f]
 happiness: 255
 shiny: True
 ball: [Timer]
