@@ -7,7 +7,6 @@ moves:
     - [Fling]
     - [Last Resort]
     - [Feint]
-gender: [m, f]
 happiness: 30
 shiny: True
 ball: [Net]
