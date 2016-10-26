@@ -53,7 +53,6 @@ moves:
     - [Power Gem]
     - [Grass Knot, Hidden Power]
     - [Camouflage]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
