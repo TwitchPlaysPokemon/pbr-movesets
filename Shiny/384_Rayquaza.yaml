@@ -7,7 +7,6 @@ moves:
     - [Calm Mind]
     - [Withdraw]
     - [Detect]
-gender: [m, f]
 happiness: 255
 shiny: True
 ball: [Timer]
