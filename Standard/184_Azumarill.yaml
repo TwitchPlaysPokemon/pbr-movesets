@@ -14,6 +14,7 @@ combinations:
 separations:
     - [Brick Break, Rock Smash]
     - [Slam, Present]
+    - [Body Slam, Slam]
 gender: [m, f]
 rarity: 1.0
 ball: [Net]
