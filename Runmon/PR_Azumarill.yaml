@@ -9,9 +9,6 @@ moves:
     - [Surf]
     - [Aqua Jet]
     - [Strength]
-combinations:
-    - [Thick Fat, m]
-    - [Huge Power, f]
 gender: [m, f]
 happiness: 255
 biddable: True
