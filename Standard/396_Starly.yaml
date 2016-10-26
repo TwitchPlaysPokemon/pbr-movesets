@@ -15,10 +15,10 @@ combinations:
     - [Apicot Berry, Natural Gift]
     - [Metal Coat, Steel Wing]
     - [Toxic, Protect]
+    - [Brave Bird, Return]
 separations:
     - [Double-Edge, Foresight]
     - [Return, Protect]
-    - [Brave Bird, Return]
 gender: [m, f]
 happiness: 255
 biddable: True
