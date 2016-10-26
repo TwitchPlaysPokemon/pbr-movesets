@@ -1,19 +1,18 @@
 species: Charmander
 setname: Physical
-item: [Zoom Lens, Hard Stone, Persim Berry, Charcoal]
+item: [Zoom Lens, Hard Stone, Persim Berry]
 ability: [Blaze]
 nature: Jolly
 ivs: 31
 evs: {hp: 44, atk: 252, def: 0, spA: 0, spD: 0, spe: 212}
 moves:
-    - [Flare Blitz, Fire Punch]
+    - [Flare Blitz]
     - [Outrage, Mega Kick, Rock Slide, Iron Tail]
     - [Will-O-Wisp, Swagger, Counter]
-    - [Swords Dance, Dragon Dance, Sunny Day]
+    - [Swords Dance, Dragon Dance]
 combinations:
     - [Persim Berry, Outrage]
     - [Hard Stone, Rock Slide, Swagger]
-    - [Solar Power, Charcoal, Fire Punch, Sunny Day]
 gender: [m, f]
 ---
 species: Charmander
