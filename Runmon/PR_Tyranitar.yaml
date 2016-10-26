@@ -9,7 +9,7 @@ moves:
     - [Rock Slide]
     - [Body Slam]
     - [Rock Smash]
-gender: [m]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.0
