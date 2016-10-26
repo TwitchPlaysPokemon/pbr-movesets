@@ -8,7 +8,7 @@ moves:
     - [Ice Beam]
     - [Flamethrower]
     - [Explosion]
-gender: [m, f]
+gender: [f]
 happiness: 255
 shiny: True
 ball: [Great]
