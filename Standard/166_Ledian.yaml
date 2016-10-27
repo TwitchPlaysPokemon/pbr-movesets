@@ -25,6 +25,8 @@ moves:
     - [Ice Punch]
     - [Thunder Punch]
     - [Drain Punch, Mach Punch]
+combinations:
+    - [Sky Plate, Aerial Ace]
 gender: [m, f]
 rarity: 1.0
 ball: [Net]
