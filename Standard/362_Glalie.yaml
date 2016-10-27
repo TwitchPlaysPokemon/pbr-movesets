@@ -11,9 +11,11 @@ combinations:
     - [Icy Rock, Ice Body, Hail]
     - [Rollout, Defense Curl]
 separations:
-    - [Occa Berry, Earthquake ]
+    - [Occa Berry, Earthquake]
     - [Earthquake, Iron Head]
     - [Earthquake, Dark Pulse]
+    - [Ice Beam, Hail]
+    - [Avalanche, Hail]
     - [Weather Ball, Defense Curl]
     - [Protect, Rain Dance]
     - [Protect, Defense Curl]
