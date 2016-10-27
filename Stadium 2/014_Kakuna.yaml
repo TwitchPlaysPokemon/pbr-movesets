@@ -2,7 +2,7 @@ species: Kakuna
 setname: Stadium 2
 ability: null
 moves:
-    - Harden
+    - Harden (=5)
 gender: [m]
 rarity: 0.0
 nature: Bashful
