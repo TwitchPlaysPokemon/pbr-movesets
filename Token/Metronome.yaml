@@ -160,7 +160,7 @@ biddable: True
 rarity: 0
 ---
 species: Deoxys
-setname: Metronome Attack
+setname: Metronome
 item: [Macho Brace]
 ability: [Illuminate]
 moves:
@@ -168,7 +168,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-form: Attack
+form: [Attack, Speed]
 happiness: 255
 biddable: True
 rarity: 0
@@ -176,24 +176,6 @@ ball: [Master]
 nature: Relaxed
 ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
 evs: {hp: 128, atk: 0, def: 168, spA: 0, spD: 212, spe: 0}
----
-species: Deoxys
-setname: Metronome Speed
-ball: [Quick]
-item: [Lagging Tail]
-ability: [Speed Boost]
-nature: Serious
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: 0
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-form: Speed
-happiness: 255
-biddable: True
-rarity: 0
 ---
 species: Kricketune
 setname: Metronome
