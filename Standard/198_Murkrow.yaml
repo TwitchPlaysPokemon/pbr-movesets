@@ -10,6 +10,8 @@ moves:
 combinations:
     - [Scope Lens, Air Cutter]
     - [Psycho Shift, Sleep Talk, Rest]
+separations:
+    - [Rest, Insomnia]
 gender: [m, f]
 rarity: 1.0
 ball: [Net]
