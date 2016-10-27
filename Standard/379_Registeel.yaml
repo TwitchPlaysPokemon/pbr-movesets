@@ -21,5 +21,5 @@ biddable: True
 rarity: 1.0
 ball: [Luxury]
 nature: Hardy
-ivs: {hp: 0, atk: 0, def: 1, spA: 3, spD: 2, spe: 3}
+ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 3, spe: 2}
 evs: {hp: 80, atk: 120, def: 56, spA: 28, spD: 52, spe: 112}
