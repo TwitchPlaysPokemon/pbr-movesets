@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.6
 ball: [Repeat]
 nature: Bashful
-ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
+ivs: {hp: 2, atk: 2, def: 3, spA: 30, spD: 3, spe: 30}
 evs: {hp: 0, atk: 0, def: 128, spA: 124, spD: 128, spe: 128}
 ---
 species: Probopass
