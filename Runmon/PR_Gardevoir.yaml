@@ -2,13 +2,13 @@ species: Gardevoir
 ingamename: IMmMMLLIR
 displayname: IMmMMLLIR
 setname: Prism
-item: [Dusk Stone]
+item: [Dawn Stone]
 ability: [Synchronize, Trace]
 moves:
     - [Psychic]
     - [Tri Attack]
     - [Signal Beam]
-    - [Encore]
+    - [Future Sight]
 gender: [m]
 happiness: 255
 biddable: True
