@@ -1,6 +1,6 @@
 species: Zangoose
 setname: Physical
-item: [Toxic Orb, White Herb, Odd Keystone]
+item: [Toxic Orb, Odd Keystone]
 ability: [Immunity]
 moves:
     - [Crush Claw, Mega Kick, Strength]
