@@ -30,16 +30,19 @@ setname: Mixed
 item: [Spell Tag, Silverpowder]
 ability: [Wonder Guard]
 moves:
-    - [Shadow Ball]
-    - [Bug Buzz, Silver Wind]
+    - [Shadow Ball, Bug Buzz]
+    - [Hidden Power, Silver Wind]
     - [Giga Impact, Frustration]
     - [Swords Dance, Agility, Screech, String Shot]
+combinations:
+    - [Silverpowder, Silver Wind]
+    - [Spell Tag, Hidden Power]
 happiness: 0
 biddable: False
 rarity: 0.5
 ball: [Luxury]
 nature: Mild
-ivs: 31
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 31}
 evs: {hp: 0, atk: 88, def: 0, spA: 252, spD: 0, spe: 168}
 ---
 species: Shedinja
