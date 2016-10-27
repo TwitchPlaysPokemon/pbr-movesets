@@ -1,14 +1,12 @@
 species: Porygon-Z
 setname: Adaptability
-item: [null, Spooky Plate]
+item: [null]
 ability: [Adaptability]
 moves:
     - [Swift]
-    - [Shadow Ball, Hidden Power]
+    - [Shadow Ball]
     - [Defense Curl, Mimic, Double Team, Flash, Sleep Talk]
     - [Conversion]
-combinations:
-    - [Spooky Plate, Hidden Power]
 happiness: 255
 biddable: True
 rarity: 0.8
@@ -23,7 +21,7 @@ item: [null]
 ability: [Download]
 moves:
     - [Secret Power, Return]
-    - [Psychic, Blizzard, Zap Cannon, Dark Pulse, Signal Beam, Hidden Power]
+    - [Psychic, Blizzard, Zap Cannon, Dark Pulse, Signal Beam]
     - [Magic Coat, Gravity, Lock-On, Embargo, Nasty Plot, Magnet Rise, Trick Room, Sharpen, Agility]
     - [Conversion]
 combinations:
@@ -31,7 +29,6 @@ combinations:
     - [Zap Cannon, Lock-On]
     - [Dark Pulse, Embargo]
     - [Signal Beam, Nasty Plot]
-    - [Hidden Power, Magnet Rise]
 happiness: 200
 biddable: True
 rarity: 1.2
