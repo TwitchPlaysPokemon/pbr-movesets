@@ -1,0 +1,46 @@
+species: Milotic
+setname: Special
+item: [Wave Incense, Zap Plate, Wacan Berry]
+ability: [Marvel Scale]
+moves:
+    - [Surf, Water Pulse]
+    - [Dragon Pulse, Ice Beam, Hidden Power]
+    - [Mirror Coat]
+    - [Haze, Magic Coat, Mist, Safeguard, Refresh, Mud Sport, Splash]
+combinations:
+    - [Wave Incense, Water Pulse]
+    - [Zap Plate, Hidden Power]
+    - [Wacan Berry, Mud Sport]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.6
+ball: [Ultra]
+nature: Naughty
+ivs: {hp: 3, atk: 3 def: 3 spA: 2 spD: 3, spe: 3}
+evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+---
+species: Milotic
+setname: Special
+item: [Grip Claw, Lansat Berry]
+ability: [Cute Charm, Marvel Scale]
+moves:
+    - [Waterfall, Aqua Tail, Dive]
+    - [Iron Tail, Double Edge, Natural Gift]
+    - [Dragonbreath, Icy Wind]
+    - [Tickle, Confuse Ray, Whirlpool, Wrap, Mimic, Attract]
+separations:
+    - [Grip Claw, Natural Gift]
+    - [Lansat Berry, Whirlpool]
+    - [Lansat Berry, Wrap]
+    - [Cute Charm, Attract]
+    - [Aqua Tail, Whirlpool]
+    - [Aqua Tail, Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Naughty
+ivs: 16
+evs: {hp: 48, atk: 176, def: 80, spA: 76, spD: 0, spe: 128}
