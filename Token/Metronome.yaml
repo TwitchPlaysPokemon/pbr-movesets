@@ -57,9 +57,9 @@ setname: Metronome
 ball: [Safari]
 item: [Tanga Berry]
 ability: [Chlorophyll]
-nature: Careful
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 208, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Hasty
+ivs: {hp: 0, atk: 31, def: 0, spA: 15, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -182,9 +182,9 @@ setname: Metronome
 ball: [Net]
 item: [Enigma Berry]
 ability: [Swarm]
-nature: Adamant
+nature: Quiet
 ivs: 31
-evs: {hp: 0, atk: 52, def: 80, spA: 216, spD: 80, spe: 80}
+evs: {hp: 0, atk: 156, def: 48, spA: 252, spD: 48, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -218,9 +218,9 @@ setname: Metronome
 ball: [Heal]
 item: [Jaboca Berry]
 ability: [Keen Eye]
-nature: Serious
+nature: Brave
 ivs: 31
-evs: {hp: 0, atk: 40, def: 80, spA: 120, spD: 120, spe: 0}
+evs: {hp: 0, atk: 144, def: , spA: 184, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
