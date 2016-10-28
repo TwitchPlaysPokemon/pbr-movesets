@@ -35,7 +35,7 @@ biddable: True
 rarity: 1.0
 ball: [Ultra]
 nature: Lonely
-ivs: 0
+ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 2, spe: 3}
 evs: {hp: 0, atk: 28, def: 8, spA: 12, spD: 12, spe: 8}
 ---
 species: Salamence
