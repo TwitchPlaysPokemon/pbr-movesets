@@ -7,7 +7,7 @@ ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
 evs: {hp: 12, atk: 12, def: 16, spA: 200, spD: 80, spe: 124}
 moves:
     - [Drill Peck, Sky Attack]
-    - [Giga Impact, Sky Attack]
+    - [Giga Impact, Tri Attack]
     - [Heat Wave, Hidden Power]
     - [Growl, Whirlwind, Leer, Scary Face]
 combinations:
