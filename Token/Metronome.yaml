@@ -21,9 +21,9 @@ setname: Metronome
 ball: [Luxury]
 item: [Chople Berry]
 ability: [Technician]
-nature: Relaxed
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 48, spA: 128, spD: 80, spe: 0}
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
