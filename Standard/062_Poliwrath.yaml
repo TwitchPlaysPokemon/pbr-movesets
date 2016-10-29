@@ -60,6 +60,7 @@ separations:
     - [Vacuum Wave, Hail]
     - [Hyper Beam, Hail]
     - [Mud Bomb, Hail]
+    - [Hidden Power, Mind Reader]
 gender: [m, f]
 happiness: 255
 biddable: True
