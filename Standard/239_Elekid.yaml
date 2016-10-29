@@ -13,7 +13,7 @@ biddable: True
 rarity: 1.0
 ball: [Quick]
 nature: Modest
-ivs: 31
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 128, atk: 0, def: 36, spA: 128, spD: 128, spe: 88}
 ---
 species: Elekid
