@@ -50,5 +50,5 @@ biddable: True
 rarity: 1.0
 ball: [Net]
 nature: Rash
-ivs: 5
+ivs: {hp: 6, atk: 6, def: 7, spA: 6, spD: 7, spe: 7}
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
