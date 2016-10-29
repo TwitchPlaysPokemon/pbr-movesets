@@ -41,7 +41,7 @@ item: [Ganlon Berry]
 ability: [Insomnia]
 nature: Naive
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 40, def: 0, spA: 152, spD: 0, spe: 0}
+evs: {hp: 0, atk: 152, def: 0, spA: 152, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
