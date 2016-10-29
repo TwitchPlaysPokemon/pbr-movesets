@@ -23,7 +23,7 @@ setname: Special
 item: [Moon Stone, Zap Plate, Meadow Plate]
 ability: [Levitate]
 nature: Bold
-ivs: 8
+ivs: {hp: 7, atk: 7, def: 6, spA: 7, spD: 6, spe: 6}
 evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
 moves:
     - [Psychic]
