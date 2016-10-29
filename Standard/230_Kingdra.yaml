@@ -1,12 +1,15 @@
 species: Kingdra
 setname: Standard
-item: [null]
+item: [null, Dragon Fang, Splash Plate]
 ability: [Damp, Swift Swim]
 moves:
     - [Draco Meteor, Dragon Pulse, Dragon Breath, Outrage]
-    - [Octazooka, Brine, Waterfall, Dive]
+    - [Octazooka, Brine, Waterfall]
     - [Body Slam, Iron Head, Bounce]
     - [Dragon Dance, Rain Dance, Smokescreen, Splash, Agility]
+combinations:
+    - [Dragon Fang, Dragonbreath]
+    - [Splash Plate, Splash]
 separations:
     - [Dragon Dance, Outrage]
 gender: [m, f]
