@@ -8,8 +8,8 @@ evs: 0
 moves:
     - [Doom Desire]
     - [Confusion]
-    - [Confusion]
     - [Drain Punch]
+    - [Protect]
 happiness: 255
 biddable: True
 rarity: 1.0
