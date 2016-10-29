@@ -3,6 +3,9 @@ setname: OHKO
 ability: [Drought]
 moves:
     - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 happiness: 255
 biddable: True
@@ -16,6 +19,9 @@ setname: OHKO
 ability: [Drizzle]
 moves:
     - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 happiness: 255
 biddable: True
@@ -28,7 +34,10 @@ species: Kangaskhan
 setname: OHKO
 ability: [Early Bird, Scrappy, Inner Focus]
 moves:
-    - [Fissure]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 gender: [f]
 happiness: 255
@@ -42,6 +51,9 @@ species: Nidoking
 setname: OHKO
 ability: [Rivalry]
 moves:
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
     - [Horn Drill (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 40}
 gender: [m]
@@ -57,6 +69,9 @@ setname: OHKO
 ability: [Hyper Cutter, Mold Breaker]
 moves:
     - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 40}
 gender: [m, f]
 happiness: 255
@@ -70,6 +85,9 @@ species: Kingler
 setname: OHKO
 ability: [Shell Armor, Hyper Cutter]
 moves:
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
     - [Guillotine (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
 gender: [m, f]
@@ -85,6 +103,9 @@ setname: OHKO
 ability: [Thick Fat, Ice Body, Hydration]
 moves:
     - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
 gender: [m, f]
 happiness: 255
@@ -98,6 +119,9 @@ species: Onix
 setname: OHKO
 ability: [Rock Head]
 moves:
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
     - [Fissure (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
 gender: [m, f]
@@ -113,6 +137,9 @@ setname: OHKO
 ability: [Lightningrod, Water Veil]
 moves:
     - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 176}
 gender: [m, f]
 happiness: 255
@@ -126,6 +153,9 @@ species: Abomasnow
 setname: OHKO
 ability: [Soundproof]
 moves:
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
     - [Sheer Cold (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 240}
 gender: [m, f]
@@ -141,6 +171,9 @@ setname: OHKO
 ability: [Sand Veil]
 moves:
     - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
 gender: [m, f]
 happiness: 255
@@ -154,6 +187,9 @@ species: Arbok
 setname: OHKO
 ability: [Intimidate, Shed Skin]
 moves:
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
     - [Fissure (=255)]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
 gender: [m, f]

@@ -3,6 +3,9 @@ setname: ST
 ability: [Clear Body]
 moves:
     - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
 ivs: 30
 evs: 0
 happiness: 255
@@ -17,6 +20,9 @@ item: [Macho Brace]
 ability: [Overgrow, Unburden]
 moves:
     - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
 ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
 gender: [m, f]
@@ -30,6 +36,9 @@ species: Totodile
 setname: ST
 ability: [Torrent]
 moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
     - [Seismic Toss]
 ivs: 31
 evs: 52
@@ -46,6 +55,9 @@ item: [Iron Ball]
 ability: [Soundproof, Filter, Technician]
 moves:
     - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
 ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
 gender: [m, f]
@@ -61,6 +73,9 @@ item: [Power Belt]
 ability: [Motor Drive, Vital Spirit]
 moves:
     - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
 ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
 gender: [m, f]
@@ -74,6 +89,9 @@ species: Golem
 setname: ST
 ability: [Sturdy, Rock Head, Sand Veil]
 moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss
     - [Seismic Toss]
 ivs: 28
 evs: 0
@@ -90,6 +108,9 @@ item: [Power Band]
 ability: [Blaze, Solar Power]
 moves:
     - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 164}
 gender: [m, f]
@@ -104,6 +125,9 @@ setname: ST
 ability: [Lightningrod]
 moves:
     - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
 ivs: 26
 evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 gender: [m, f]
@@ -117,6 +141,9 @@ species: Octillery
 setname: ST
 ability: [Suction Cups, Sniper]
 moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
     - [Seismic Toss]
 ivs: 20
 evs: 80
@@ -133,6 +160,9 @@ item: [Choice Scarf]
 ability: [Own Tempo, Cloud Nine, Oblivious]
 moves:
     - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
 ivs: 10
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 28}
 gender: [m, f]
@@ -148,6 +178,9 @@ item: [Power Bracer]
 ability: [Vital Spirit, Insomnia]
 moves:
     - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
 ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 240}
 gender: [m, f]
@@ -161,6 +194,9 @@ species: Spinda
 setname: ST
 ability: [Own Tempo, Tangled Feet]
 moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
     - [Seismic Toss]
 ivs: 26
 evs: 0

@@ -17,6 +17,7 @@ combinations:
     - [Liechi Berry, Natural Gift]
     - [Substitute, Focus Punch]
 gender: [m, f]
+rarity: 0.8
 ball: [Great]
 ---
 species: Wartortle
@@ -32,5 +33,5 @@ moves:
     - [Toxic]
     - [Rain Dance]
 gender: [m, f]
-rarity: 1.0
+rarity: 0.2
 ball: [Great]
