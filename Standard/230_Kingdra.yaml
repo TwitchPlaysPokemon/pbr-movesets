@@ -12,6 +12,7 @@ combinations:
     - [Splash Plate, Splash]
 separations:
     - [Dragon Dance, Outrage]
+    - [Swift Swim, Rain Dance]
 gender: [m, f]
 happiness: 255
 biddable: True
