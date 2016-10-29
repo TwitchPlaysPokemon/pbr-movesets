@@ -184,7 +184,7 @@ item: [Enigma Berry]
 ability: [Swarm]
 nature: Quiet
 ivs: 31
-evs: {hp: 0, atk: 156, def: 48, spA: 252, spD: 48, spe: 0}
+evs: {hp: 0, atk: 160, def: 48, spA: 252, spD: 48, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -237,7 +237,7 @@ ball: [Safari]
 item: [Shuca Berry]
 ability: [Dry Skin]
 nature: Gentle
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: 0
 moves:
     - [Metronome (=255)]
@@ -254,9 +254,9 @@ setname: Metronome
 ball: [Dusk]
 item: [Liechi Berry]
 ability: [Pressure]
-nature: Modest
-ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
-evs: 0
+nature: Rash
+ivs: {hp: 0, atk: 0, def: 31, spA: 31, spD: 15, spe: 31}
+evs: {hp: 0, atk: 52, def: 0, spA: 252, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
