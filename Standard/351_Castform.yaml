@@ -58,6 +58,8 @@ separations:
     - [Liechi Berry, Natural Gift]
     - [Ganlon Berry, Substitute]
     - [Ganlon Berry, Avalanche]
+    - [Avalanche, Sunny Day]
+    - [Avalanche, Rain Dance]
 gender: [m, f]
 happiness: 55
 biddable: True
