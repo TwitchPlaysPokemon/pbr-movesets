@@ -3,9 +3,9 @@ setname: Metronome
 ball: [Net]
 item: [Coba Berry]
 ability: [Dry Skin]
-nature: Timid
+nature: Rash
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 212, def: 0, spA: 0, spD: 0, spe: 252}
+evs: {hp: 0, atk: 120, def: 0, spA: 136, spD: 0, spe: 252}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
