@@ -148,7 +148,7 @@ item: [Pinap Berry]
 ability: [Swift Swim]
 nature: Naive
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 0, def: 0, spA: 120, spD: 0, spe: 0}
+evs: {hp: 0, atk: 156, def: 0, spA: 156, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
