@@ -111,8 +111,8 @@ setname: Metronome
 ball: [Nest]
 item: [Pamtre Berry]
 ability: [Pressure]
-nature: Serious
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+nature: Hasty
+ivs: {hp: 0, atk: 15, def: 0, spA: 31, spD: 0, spe: 0}
 evs: 0
 moves:
     - [Metronome (=255)]
