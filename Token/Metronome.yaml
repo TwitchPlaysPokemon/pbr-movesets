@@ -77,7 +77,7 @@ item: [Enigma Berry]
 ability: [Soundproof]
 nature: Naughty
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 152, def: 0, spA: 80, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 80, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
