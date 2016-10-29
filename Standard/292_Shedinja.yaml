@@ -67,13 +67,12 @@ setname: Token
 item: [Focus Band, Lum Berry]
 ability: [Wonder Guard]
 moves:
-    - [Shadow Claw]
-    - [Bug Bite]
-    - [Dig, Double-Edge]
-    - [Curse, Will-O-Wisp]
+    - [X-Scissor]
+    - [Shadow Claw, Double-Edge]
+    - [Dig, Will-O-Wisp]
+    - [Curse]
 combinations:
-    - [Dig, Curse]
-    - [Double-Edge, Will-O-Wisp]
+    - [Shadow Claw, Will-O-Wisp]
 happiness: 255
 biddable: True
 rarity: 0.0
