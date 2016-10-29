@@ -220,7 +220,7 @@ item: [Jaboca Berry]
 ability: [Keen Eye]
 nature: Brave
 ivs: 31
-evs: {hp: 0, atk: 144, def: , spA: 184, spD: 0, spe: 0}
+evs: {hp: 0, atk: 144, def: 4, spA: 184, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
