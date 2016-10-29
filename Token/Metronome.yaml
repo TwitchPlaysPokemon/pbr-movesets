@@ -168,7 +168,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-form: [Attack, Speed]
+form: [Attack]
 happiness: 255
 biddable: True
 rarity: 0
