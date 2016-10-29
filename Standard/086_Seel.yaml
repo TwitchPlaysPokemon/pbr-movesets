@@ -60,6 +60,6 @@ moves:
     - [Rest]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.5
 ball: [Timer]
