@@ -7,8 +7,6 @@ ability: [Huge Power]
 moves:
     - [Tackle (=10)]
     - [Sand Attack (=6)]
-    - []
-    - []
 gender: [f]
 happiness: 255
 biddable: True
