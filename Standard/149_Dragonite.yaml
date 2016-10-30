@@ -30,7 +30,7 @@ moves:
     - [BubbleBeam, Steel Wing, Skull Bash, Ominous Wind, ThunderPunch, Fire Punch, Ice Punch]
     - [Mimic]
 gender: [m,f]
-rarity: 1.0
+rarity: 0.9
 ball: [Safari]
 ---
 species: Dragonite
@@ -49,5 +49,3 @@ combinations:
 gender: [m,f]
 rarity: 0.1
 ball: [Master]
-
-

@@ -7,7 +7,7 @@ moves:
     - [Peck]
     - [Swift]
     - [Mimic]
-rarity: 1.0
+rarity: 0.7
 ball: [Cherish]
 nature: Hardy
 ivs: 31
@@ -23,7 +23,7 @@ moves:
     - [Tailwind, Safeguard, Roar, Defog, Rain Dance]
 combinations:
     - [Hidden Power, Rain Dance]
-rarity: 1.0
+rarity: 1.2
 ball: [Luxury]
 nature: Adamant
 ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 3, spe: 3}

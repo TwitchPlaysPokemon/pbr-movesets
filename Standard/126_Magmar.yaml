@@ -19,7 +19,7 @@ separations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.8
 ball: [Quick]
 ---
 species: Magmar
@@ -37,7 +37,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.8
 ball: [Timer]
 ---
 species: Magmar
@@ -55,5 +55,5 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.4
 ball: [Cherish]

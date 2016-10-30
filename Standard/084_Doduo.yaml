@@ -51,6 +51,6 @@ moves:
     - [Acupressure]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 1.0
 ball: [Repeat]

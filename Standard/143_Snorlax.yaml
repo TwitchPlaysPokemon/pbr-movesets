@@ -27,7 +27,7 @@ moves:
     - [Yawn, Rock Smash]
     - [Curse]
 gender: [m, f]
-rarity: 1.0
+rarity: 0.5
 ball: [Luxury]
 nature: Sassy
 ivs: 31
