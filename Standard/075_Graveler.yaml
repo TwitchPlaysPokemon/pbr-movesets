@@ -17,10 +17,10 @@ separations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.9
 ball: [Dusk]
 nature: Careful
-ivs: 0.9
+ivs: 31
 evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
 ---
 species: Graveler
