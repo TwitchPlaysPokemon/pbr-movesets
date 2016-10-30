@@ -9,11 +9,15 @@ moves:
     - [Agility, Thunder Wave, Rain Dance, Sunny Day]
 combinations:
     - [Water Pulse, Rain Dance]
+    - [Heat Rock, Sunny Day]
 separations:
     - [Thunder, Thunderbolt]
     - [Thunder, Sunny Day]
     - [Fire Blast, Flamethrower]
     - [Fire Blast, Rain Dance]
+    - [Cheri Berry, Rain Dance]
+    - [Damp Rock, Agility]
+    - [Damp Rock, Thunder Wave]
 gender: [m,f]
 rarity: 1.0
 ball: [Great]
