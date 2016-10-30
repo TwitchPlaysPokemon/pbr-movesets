@@ -5,7 +5,7 @@ setname: Anniversary Red
 item: [Choice Band]
 ability: [Pure Power]
 moves:
-    - [Splash (=0)]
+    - [Splash (=1)]
 gender: [f]
 happiness: 255
 biddable: True
