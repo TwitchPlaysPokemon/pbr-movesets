@@ -1,4 +1,29 @@
 species: Graveler
+setname: Physical
+item: [Rawst Berry, Hard Stone]
+ability: [Sturdy]
+moves:
+    - [Dig, Rock Blast]
+    - [Rock Slide, Magnitude]
+    - [Rock Polish, Substitute, Sandstorm, Toxic]
+    - [Self-destruct]
+combinations:
+    - [Hard Stone, Rock Blast]
+separations:
+    - [Dig, Magnitude]
+    - [Rock Blast, Magnitude]
+    - [Rock Blast, Toxic]
+    - [Magnitude, Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Careful
+ivs: 0.9
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
+---
+species: Graveler
 setname: Punch
 item: [Sitrus Berry, Bright Powder]
 ability: [Rock Head, Sturdy, Sand Veil]
@@ -16,11 +41,11 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.9
 ball: [Great]
 ---
 species: Graveler
-setname: special
+setname: Special
 item: [Expert Belt, Sitrus Berry]
 ability: [Sturdy]
 nature: Quiet
@@ -34,5 +59,5 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.2
 ball: [Heal]
