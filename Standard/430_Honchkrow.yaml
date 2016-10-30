@@ -23,7 +23,7 @@ setname: Special
 item: [Null, Iron Ball, Scope Lense, Dragon Fang]
 ability: [Insomnia, Super Luck]
 nature: Quirky
-ivs: 2
+ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 3}
 evs: {hp: 100, atk: 0, def: 104, spA: 100, spD: 104, spe: 100}
 moves:
     - [Dark Pulse, Air Cutter, Hidden Power]
