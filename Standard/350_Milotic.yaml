@@ -18,7 +18,7 @@ biddable: True
 rarity: 0.6
 ball: [Ultra]
 nature: Naughty
-ivs: {hp: 3, atk: 3 def: 3 spA: 2 spD: 3, spe: 3}
+ivs: {hp: 3, atk: 3, def: 3, spA: 2, spD: 3, spe: 3}
 evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Milotic
