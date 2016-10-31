@@ -3,8 +3,8 @@ setname: Defense Attack
 item: [Tamato Berry]
 ability: [Pressure]
 nature: Brave
-ivs: 31
-evs: {hp: 140, atk: 0, def: 0, spA: 100, spD: 0, spe: 28}
+ivs: 20
+evs: {hp: 160, atk: 140, def: 30, spA: 120, spD: 30, spe: 28}
 moves:
     - [Natural Gift]
     - [Signal Beam, Charge Beam, Energy Ball, Shock Wave, Water Pulse]

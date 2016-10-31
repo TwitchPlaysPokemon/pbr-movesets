@@ -13,7 +13,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 1.0
+rarity: 0.9
 ball: [Safari]
 ---
 species: Arbok
@@ -34,7 +34,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 1.0
+rarity: 0.9
 ball: [Dusk]
 ---
 species: Arbok
@@ -42,8 +42,8 @@ setname: Rest
 item: [Flame Orb]
 ability: [Shed Skin]
 nature: Brave
-ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 80, atk: 180, def: 0, spA: 0, spD: 0, spe: 80}
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 moves:
     - [Poison Jab]
     - [Iron Tail, Dig]
@@ -51,6 +51,6 @@ moves:
     - [Rest]
 gender: [m, f]
 happiness: 255
-biddable: true
-rarity: 1.0
+biddable: false
+rarity: 0.2
 ball: [Heal]
