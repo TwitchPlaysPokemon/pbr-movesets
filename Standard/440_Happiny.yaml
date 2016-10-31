@@ -10,7 +10,7 @@ moves:
     - [Counter]
     - [Toxic]
     - [Softboiled]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
