@@ -6,12 +6,14 @@ moves:
     - [Waterfall, Water Pulse, Dive]
     - [Ice Ball, Ice Fang, Aurora Beam]
     - [Rollout, Rock Slide, Iron Head, Iron Tail, Crunch]
-    - [Defense Curl, Stockpile, Yawn]
+    - [Defense Curl (=10), Stockpile (=5), Yawn (=5)]
 combinations:
     - [Ice Ball, Rollout, Defense Curl]
     - [Dive, Yawn]
 separations:
     - [Water Pulse, Aurora Beam]
+    - [Stockpile, Iron Head]
+    - [Stockpile, Iron Tail]
 gender: [m, f]
 happiness: 255
 biddable: True
