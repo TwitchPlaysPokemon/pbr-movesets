@@ -24,6 +24,10 @@ moves:
     - [Avalanche, Double-Edge]
     - [Extremespeed, Body Slam, Icy Wind, Dig, Iron Head]
     - [Roar]
+separations:
+    - [Avalanche, Icy Wind]
+    - [Double-Edge, Extremespeed]
+    - [Double-Edge, Body Slam]
 happiness: 255
 biddable: True
 rarity: 1.0
