@@ -23,8 +23,8 @@ ability: [Levitate]
 moves:
     - [Confusion]
     - [Snore]
-    - [Calm Mind]
-    - [Rest]
+    - [Calm Mind (=10)]
+    - [Rest (=5)]
 gender: [f]
 happiness: 255
 biddable: False

@@ -35,8 +35,8 @@ moves:
     - [Giga Impact, Frustration]
     - [Swords Dance, Agility, Screech, String Shot]
 combinations:
-    - [Silverpowder, Silver Wind]
-    - [Spell Tag, Hidden Power]
+    - [Spell Tag, Bug Buzz, Hidden Power]
+    - [Silverpowder, Shadow Ball, Silver Wind]
 happiness: 0
 biddable: False
 rarity: 0.5

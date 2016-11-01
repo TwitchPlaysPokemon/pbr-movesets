@@ -28,7 +28,7 @@ setname: Special
 item: [Sea Incense, Sharp Beak, Repel]
 ability: [Swift Swim]
 nature: Docile
-ivs: 7
+ivs: {hp: 7, atk: 7, def: 7, spA: 6, spD: 6, spe: 6}
 evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Water Pulse, Brine, Muddy Water]
