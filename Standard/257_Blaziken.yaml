@@ -17,5 +17,5 @@ biddable: True
 rarity: 1.0
 ball: [Ultra]
 nature: Jolly
-ivs: 0
-evs: {hp: 108, atk: 0, def: 100, spA: 0, spD: 100, spe: 16}
+ivs: 2
+evs: {hp: 100, atk: 0, def: 96, spA: 0, spD: 96, spe: 8}
