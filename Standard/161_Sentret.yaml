@@ -12,6 +12,7 @@ combinations:
     - [Reversal, Endure]
 gender: [m, f]
 rarity: 1.0
+happiness: 0
 ball: [Repeat]
 nature: Adamant
 ivs: 31
