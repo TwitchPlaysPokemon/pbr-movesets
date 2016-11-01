@@ -4,7 +4,7 @@ item: [Quick Powder]
 ability: [Limber]
 moves:
     - [Transform]
-happiness: [0, 255]
+happiness: [127]
 biddable: True
 rarity: 0.9
 ball: [Repeat]
@@ -18,7 +18,7 @@ item: [Metal Powder]
 ability: [Limber]
 moves:
     - [Transform]
-happiness: [0, 255]
+happiness: [127]
 biddable: True
 rarity: 0.1
 ball: [Heal]
