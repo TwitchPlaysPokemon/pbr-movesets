@@ -5,10 +5,10 @@ setname: Vietnamese Crystal
 item: [Leftovers]
 ability: [Null]
 moves:
-    - [Flame Wheel, Fire Punch]
+    - [Flame Wheel]
     - [Thunder Punch]
     - [Earthquake]
-    - [Strength, Cut]
+    - [Cut]
 gender: [m]
 happiness: 255
 biddable: True
