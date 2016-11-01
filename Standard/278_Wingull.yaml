@@ -14,7 +14,7 @@ separations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.5
+rarity: 0.8
 ball: [Nest]
 nature: Modest
 ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
@@ -25,8 +25,8 @@ setname: Physical
 item: [Focus Sash]
 ability: [Keen Eye]
 moves:
-    - [Double-Edge]
     - [Fly, Pluck, Aerial Ace, Wing Attack]
+    - [Double-Edge]
     - [Steel Wing, U-turn]
     - [Toxic, Attract, Double Team, Supersonic]
 combinations:
@@ -34,7 +34,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.5
+rarity: 0.2
 ball: [Dive]
 nature: Adamant
 ivs: 31
