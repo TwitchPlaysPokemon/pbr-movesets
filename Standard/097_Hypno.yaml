@@ -50,6 +50,8 @@ moves:
     - [Counter, Seismic Toss, Bide]
     - [Assist, Nightmare, Toxic]
     - [Hypnosis]
+separations: 
+    - [Hypnosis, Toxic]
 gender: [m, f]
 happiness: 255
 biddable: True
