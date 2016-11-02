@@ -5,8 +5,8 @@ setname: Omega Ruby
 item: [Red Orb]
 ability: [Sound Proof]
 moves:
-    - [Hyper Voice]
     - [Hyper Beam]
+    - [Hyper Voice]
     - [Flamethrower]
     - [Shadow Ball]
 gender: [m]
