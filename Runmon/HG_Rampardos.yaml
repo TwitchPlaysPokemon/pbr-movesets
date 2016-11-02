@@ -6,9 +6,9 @@ item: [Null]
 ability: [Flame Body]
 moves:
     - [Magnitude]
-    - [Double Hit]
-    - [Waterfall]
     - [Surf]
+    - [Waterfall]
+    - [Double Hit]
 gender: [m]
 happiness: 255
 biddable: True
