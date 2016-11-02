@@ -8,7 +8,7 @@ moves:
     - [AncientPower, Hidden Power]
     - [Growth, Amnesia]
 combinations:
-    -[Hard Stone, AncientPower]
+    - [Hard Stone, AncientPower]
 gender: [m, f]
 happiness: 255
 biddable: True
