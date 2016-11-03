@@ -9,6 +9,8 @@ moves:
     - [Feint]
 happiness: 30
 shiny: True
+biddable: False
+hidden: True
 ball: [Net]
 nature: Adamant
 ivs: 31

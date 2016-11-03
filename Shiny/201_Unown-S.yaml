@@ -33,6 +33,8 @@ separations:
     - [Spark, Shock Wave]
 form: 18
 shiny: True
+biddable: False
+hidden: True
 ball: [Safari]
 nature: Hasty
 ivs: 31

@@ -9,6 +9,8 @@ moves:
     - [Sandstorm]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Cherish]
 nature: Rash
 ivs: 0

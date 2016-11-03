@@ -6,6 +6,8 @@ moves:
     - [Yawn]
 form: 24
 shiny: True
+biddable: False
+hidden: True
 ball: [Timer]
 nature: Bold
 ivs: 31

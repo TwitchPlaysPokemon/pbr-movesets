@@ -12,6 +12,8 @@ gender: [f]
 form: 0
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 biddable: True
 rarity: 0.1
 ball: [Poké, Master]
@@ -32,6 +34,8 @@ moves:
 gender: [m, f]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Poké]
 nature: 
 ivs: {hp: , atk: , def: , spA: , spD: , spe: }

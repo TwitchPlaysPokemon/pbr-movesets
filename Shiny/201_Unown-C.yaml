@@ -17,6 +17,8 @@ separations:
     - [Close Combat, Cross Chop]
 form: 2
 shiny: True
+biddable: False
+hidden: True
 ball: [Cherish]
 nature: Hasty
 ivs: 31

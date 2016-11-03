@@ -11,6 +11,8 @@ separations:
     - [Icicle Spear, Ice Shard]
 form: 8
 shiny: True
+biddable: False
+hidden: True
 ball: [Luxury]
 nature: Hasty
 ivs: 31

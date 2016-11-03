@@ -11,6 +11,8 @@ moves:
 gender: [f]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Great]
 nature: Timid
 ivs: 31

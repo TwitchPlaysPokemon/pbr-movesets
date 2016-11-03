@@ -26,6 +26,8 @@ separations:
     - [Rock Wrecker, Rollout]
 form: 17
 shiny: True
+biddable: False
+hidden: True
 ball: [Repeat]
 nature: Hasty
 ivs: 31

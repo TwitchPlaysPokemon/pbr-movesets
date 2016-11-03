@@ -10,6 +10,8 @@ moves:
 gender: [f]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Cherish]
 nature: Adamant
 ivs: 31

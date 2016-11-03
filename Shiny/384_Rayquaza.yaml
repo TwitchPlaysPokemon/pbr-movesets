@@ -9,6 +9,8 @@ moves:
     - [Detect]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Timer]
 nature: Modest
 ivs: 31

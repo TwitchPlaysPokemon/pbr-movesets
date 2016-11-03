@@ -10,6 +10,8 @@ moves:
 gender: [m, f]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Luxury]
 nature: Naive
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}

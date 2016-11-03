@@ -9,6 +9,8 @@ moves:
     - [Rolling Kick]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Luxury]
 nature: Adamant
 ivs: 31

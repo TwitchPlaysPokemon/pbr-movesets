@@ -13,6 +13,8 @@ separations:
     - [Leaf Storm, Leaf Blade]
 form: 11
 shiny: True
+biddable: False
+hidden: True
 ball: [Luxury]
 nature: Hasty
 ivs: 31

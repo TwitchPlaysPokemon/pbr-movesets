@@ -9,6 +9,8 @@ moves:
     - [Vacuum Wave, Vicegrip]
 form: 21
 shiny: True
+biddable: False
+hidden: True
 ball: [Quick]
 nature: Jolly
 ivs: 31

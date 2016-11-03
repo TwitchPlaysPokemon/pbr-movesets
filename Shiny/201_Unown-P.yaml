@@ -23,6 +23,8 @@ separations:
     - [Punishment, Pursuit]
 form: 15
 shiny: True
+biddable: False
+hidden: True
 ball: [Poké]
 nature: Hasty
 ivs: 31

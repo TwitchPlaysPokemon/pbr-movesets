@@ -10,6 +10,8 @@ moves:
 gender: [m, f]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Premier]
 nature: Quiet
 ivs: {hp: 23, atk: 23, def: 23, spA: 31, spD: 23, spe: 0}

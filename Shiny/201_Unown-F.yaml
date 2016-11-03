@@ -32,6 +32,8 @@ separations:
 form: 5
 happiness: 0
 shiny: True
+biddable: False
+hidden: True
 ball: [Poké]
 nature: Hasty
 ivs: 31

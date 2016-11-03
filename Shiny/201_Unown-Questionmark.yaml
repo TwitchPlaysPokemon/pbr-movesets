@@ -9,6 +9,8 @@ moves:
     - [Metronome]
 form: 27
 shiny: True
+biddable: False
+hidden: True
 ball: [Repeat]
 nature: Hasty
 ivs: 31

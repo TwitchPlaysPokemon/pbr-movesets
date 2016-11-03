@@ -6,6 +6,8 @@ moves:
     - [X-Scissor]
 form: 23
 shiny: True
+biddable: False
+hidden: True
 ball: [Nest]
 nature: Adamant
 ivs: 31

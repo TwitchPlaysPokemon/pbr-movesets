@@ -24,6 +24,8 @@ separations:
     - [Magnitude, Mud-Slap]
 form: 12
 shiny: True
+biddable: False
+hidden: True
 ball: [Master]
 nature: Hasty
 ivs: 31

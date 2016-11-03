@@ -20,6 +20,8 @@ separations:
     - [Thunderbolt, Thunder Shock]
 form: 19
 shiny: True
+biddable: False
+hidden: True
 ball: [Timer]
 nature: Hasty
 ivs: 31

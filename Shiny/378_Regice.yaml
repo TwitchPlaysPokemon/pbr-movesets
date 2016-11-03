@@ -9,6 +9,8 @@ moves:
     - [Protect]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Repeat]
 nature: Lax
 ivs: 0

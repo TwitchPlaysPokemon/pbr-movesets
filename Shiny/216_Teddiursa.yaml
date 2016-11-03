@@ -10,6 +10,8 @@ moves:
 gender: [m, f]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Heal]
 nature: Serious
 ivs: {hp: 31, atk: 5, def: 25, spA: 31, spD: 25, spe: 31}

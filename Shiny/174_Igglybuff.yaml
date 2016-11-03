@@ -11,6 +11,8 @@ moves:
 gender: [m]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Heal]
 nature: Modest
 ivs: 31

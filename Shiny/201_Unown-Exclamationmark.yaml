@@ -12,6 +12,8 @@ combinations:
     - [Aftermath, Explosion, Lunar Dance, Memento, Destiny Bond]
 form: 26
 shiny: True
+biddable: False
+hidden: True
 ball: [Premier]
 nature: Jolly
 ivs: 31

@@ -16,6 +16,8 @@ separations:
     - [Waterfall, Whirlpool]
 form: 22
 shiny: True
+biddable: False
+hidden: True
 ball: [Dive]
 nature: Hasty
 ivs: 31

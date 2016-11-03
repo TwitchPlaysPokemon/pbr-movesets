@@ -9,6 +9,8 @@ moves:
     - [Hail]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Dive]
 nature: Lonely
 ivs: 0

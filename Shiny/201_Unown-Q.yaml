@@ -6,6 +6,8 @@ moves:
     - [Quick Attack]
 form: 16
 shiny: True
+biddable: False
+hidden: True
 ball: [Quick]
 nature: Adamant
 ivs: 31

@@ -9,6 +9,8 @@ moves:
     - [Rock Polish]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Quick]
 nature: Timid
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}

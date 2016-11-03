@@ -9,6 +9,8 @@ moves:
     - [Last Resort (=1)]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Timer]
 nature: Adamant
 ivs: 31

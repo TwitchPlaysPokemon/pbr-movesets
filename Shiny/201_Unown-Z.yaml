@@ -7,6 +7,8 @@ moves:
     - [Zen Headbutt]
 form: 25
 shiny: True
+biddable: False
+hidden: True
 ball: [Quick]
 nature: Brave
 ivs: 31

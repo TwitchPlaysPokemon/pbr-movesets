@@ -22,6 +22,8 @@ separations:
     - [Dragon Rush, Dragon Breath]
 form: 3
 shiny: True
+biddable: False
+hidden: True
 ball: [Dive, Dusk]
 nature: Hasty
 ivs: 31

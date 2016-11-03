@@ -17,6 +17,8 @@ separations:
     - [Assurance, Astonish]
 form: 0
 shiny: True
+biddable: False
+hidden: True
 ball: [Ultra]
 nature: Hasty
 ivs: 31

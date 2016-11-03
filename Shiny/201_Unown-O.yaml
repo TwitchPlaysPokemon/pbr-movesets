@@ -9,6 +9,8 @@ moves:
     - [Octazooka, Odor Sleuth]
 form: 14
 shiny: True
+biddable: False
+hidden: True
 ball: [Cherish]
 nature: Hasty
 ivs: 31

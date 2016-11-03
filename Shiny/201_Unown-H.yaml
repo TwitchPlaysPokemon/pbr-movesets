@@ -16,6 +16,8 @@ separations:
     - [Hyper Fang, Hyper Voice]
 form: 7
 shiny: True
+biddable: False
+hidden: True
 ball: [Heal]
 nature: Naive
 ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 31, spe: 30}

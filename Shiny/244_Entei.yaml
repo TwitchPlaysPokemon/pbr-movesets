@@ -6,6 +6,8 @@ moves:
     - [Detect (=1)]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Poké]
 nature: Adamant
 ivs: 31

@@ -9,6 +9,8 @@ moves:
     - [Agility]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Quick]
 nature: Modest
 ivs: 0

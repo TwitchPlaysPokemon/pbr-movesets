@@ -9,6 +9,8 @@ moves:
     - [Feather Dance]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Great]
 nature: Adamant
 ivs: 0

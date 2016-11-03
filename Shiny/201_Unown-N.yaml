@@ -11,6 +11,8 @@ combinations:
     - [Nomel Berry, Natural Gift]
 form: 13
 shiny: True
+biddable: False
+hidden: True
 ball: [Nest, Net]
 nature: Hasty
 ivs: 31

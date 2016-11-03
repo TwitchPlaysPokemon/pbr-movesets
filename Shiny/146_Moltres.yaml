@@ -9,6 +9,8 @@ moves:
     - [Sleep Talk]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Master]
 nature: Quiet
 ivs: 0

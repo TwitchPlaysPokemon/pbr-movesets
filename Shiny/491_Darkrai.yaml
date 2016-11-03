@@ -8,6 +8,8 @@ moves:
     - [Worry Seed]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Premier]
 nature: Naughty
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}

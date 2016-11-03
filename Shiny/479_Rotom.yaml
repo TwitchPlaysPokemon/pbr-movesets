@@ -9,6 +9,8 @@ moves:
     - [Skill Swap]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Ultra]
 nature: Adamant
 ivs: 31

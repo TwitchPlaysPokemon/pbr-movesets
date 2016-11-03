@@ -7,6 +7,8 @@ moves:
     - [Jump Kick]
 form: 9
 shiny: True
+biddable: False
+hidden: True
 ball: [Master]
 nature: Hasty
 ivs: 31

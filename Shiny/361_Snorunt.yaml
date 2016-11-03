@@ -11,6 +11,8 @@ gender: [m, f]
 level: 1
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Timer]
 nature: Serious
 ivs: 0

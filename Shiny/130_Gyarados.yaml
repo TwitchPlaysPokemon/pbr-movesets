@@ -10,6 +10,8 @@ moves:
 gender: [m, f]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Dive]
 nature: Adamant
 ivs: {hp: 8, atk: 15, def: 10, spA: 10, spD: 10, spe: 10}

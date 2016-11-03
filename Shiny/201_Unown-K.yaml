@@ -10,6 +10,8 @@ combinations:
     - [Keen Eye, King's Rock]
 form: 10
 shiny: True
+biddable: False
+hidden: True
 ball: [Heal]
 nature: Jolly
 ivs: 31

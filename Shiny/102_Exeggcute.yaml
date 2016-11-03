@@ -7,6 +7,8 @@ moves:
 gender: [m, f]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Master]
 nature: Sassy
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}

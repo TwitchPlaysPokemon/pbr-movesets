@@ -13,6 +13,8 @@ separations:
     - [Earth Power, Earthquake]
 form: 4
 shiny: True
+biddable: False
+hidden: True
 ball: [Safari]
 nature: Hasty
 ivs: 31
