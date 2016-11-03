@@ -54,7 +54,7 @@ evs: {hp: 116, atk: 0, def: 100, spA: 100, spD: 96, spe: 96}
 ---
 species: Toxicroak
 setname: High Stats
-item: [Icicle Plate, Dread Plate]
+item: [null, Icicle Plate, Dread Plate]
 ability: [Dry Skin]
 moves:
     - [Hidden Power]
@@ -63,6 +63,7 @@ moves:
     - [Me First, Meditate, Torment]
 combinations:
     - [Dread Plate, Feint Attack]
+    - [Icicle Plate, Icy Wind]
 gender: [m, f]
 happiness: 255
 biddable: True

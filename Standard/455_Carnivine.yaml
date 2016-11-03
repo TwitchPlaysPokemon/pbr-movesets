@@ -33,10 +33,12 @@ moves:
     - [Wring Out, Swallow, Leech Seed]
     - [Gastro Acid, Stockpile, Sleep Powder, Sunny Day, Protect]
 combinations:
+    - [Meadow Plate, Magical Leaf]
     - [Leech Seed, Protect]
     - [Swallow, Sitrus Berry]
 separations:
     - [Spit Up, Swallow]
+    - [Spit Up, Wring Out]
     - [Swallow, Gastro Acid]
     - [Swallow, Sleep Powder]
     - [Swallow, Sunny Day]
@@ -45,8 +47,6 @@ separations:
     - [Spit Up, Sleep Powder]
     - [Spit Up, Sunny Day]
     - [Spit Up, Protect]
-    - [Meadow Plate, Energy Ball]
-    - [Meadow Plate, Solarbeam]
 gender: [m, f]
 happiness: 255
 biddable: True
