@@ -12,6 +12,7 @@ moves:
     - [Odor Sleuth, Curse]
 separations:
     - [Curse, Curse]
+    - [Superpower, Odor Sleuth]
 gender: [m, f]
 happiness: 255
 biddable: True
