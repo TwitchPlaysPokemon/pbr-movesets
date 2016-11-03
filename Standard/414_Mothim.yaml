@@ -31,6 +31,9 @@ moves:
 combinations:
     - [Spooky Plate, Ominous Wind]
     - [Mind Plate, Psybeam]
+seperations:
+    - [Psychic, Psybeam]
+    - [Shadow Ball, Omnious Wind]
 gender: [m]
 happiness: 255
 biddable: True
