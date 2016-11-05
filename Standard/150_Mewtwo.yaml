@@ -9,8 +9,32 @@ moves:
     - [Me First]
     - [Disable]
     - [Miracle Eye]
-rarity: 1.6
-ball: [Master]
+rarity: 0.7
+ball: [Premier]
+---
+species: Mewtwo
+setname: Origins
+item: [BrightPowder]
+ability: [Pressure]
+nature: Lonely
+ivs: 0
+evs: 0
+moves:
+    - [Confusion]
+    - [BubbleBeam, Tri Attack, Mega Kick, Submission]
+    - [Mega Punch, Take Down, Water Gun, Psywave, Seismic Toss, Counter, Bide, Rage, Mimic, Metronome]
+    - [Amnesia, Barrier, Self-Destruct, Double Team]
+separations:
+    - [BubbleBeam, Water Gun]
+    - [BubbleBeam, Rage]
+    - [Tri Attack, Rage]
+    - [Tri Attack, Mega Punch]
+    - [Tri Attack, Take Down]
+    - [Mega Kick, Mega Punch]
+    - [Mega Kick, Take Down]
+    - [Rage, Double Team]
+rarity: 0.9
+ball: [Ultra]
 ---
 species: Mewtwo
 setname: Fling
@@ -26,7 +50,7 @@ moves:
     - [Recycle]
 biddable: false
 rarity: 0.3
-ball: [Premier]
+ball: [Dusk]
 ---
 species: Mewtwo
 setname: Overpowered
