@@ -48,7 +48,7 @@ setname: Special
 item: [Growth Mulch, Silk Scarf, Power Herb]
 ability: [Shell Armor, Overgrow]
 nature: Mild
-ivs: 0
+ivs: {hp: 2, atk: 2, def: 2, spA: 3, spD: 2, spe: 3}
 evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Frenzy Plant, Leaf Storm, Solar Beam]

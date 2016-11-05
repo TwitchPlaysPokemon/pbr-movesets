@@ -6,7 +6,7 @@ moves:
     - [Psycho Cut, Zen Headbutt]
     - [Force Palm, Drain Punch]
     - [Fire Punch, Ice Punch, Thunderpunch, Poison Jab, Rock Slide, Foresight]
-    - [Power Swap]
+    - [Power Trick]
 gender: [m, f]
 happiness: 255
 biddable: True
