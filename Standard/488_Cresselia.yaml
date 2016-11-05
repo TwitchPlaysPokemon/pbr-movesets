@@ -1,20 +1,65 @@
 species: Cresselia
 setname: Standard
-item: [Metronome]
+item: [Metronome, Wide Lens]
 ability: [Levitate]
 moves:
-    - [Psycho Cut, Zen Headbutt, Confusion]
+    - [Confusion, Hidden Power]
     - [Aurora Beam, Grass Knot, Swift]
     - [Fury Cutter]
-    - [Lunar Dance, Trick Room, Psycho Shift, Magic Coat]
+    - [Trick Room, Gravity]
+combinations:
+    - [Metronome, Gravity]
+    - [Wide Lens, Trick Room]
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 1.5
+rarity: 0.9
 ball: [Ultra]
-nature: Quiet
+nature: Brave
+ivs: {hp: 12, atk: 29, def: 13, spA: 13, spD: 15, spe: 2}
+evs: {hp: 12, atk: 252, def: 28, spA: 188, spD: 20, spe: 4}
+---
+species: Cresselia
+setname: Physical
+item: [Colbur Berry, Kasib Berry, Scope Lens, Macho Brace]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt, Psycho Cut]
+    - [Secret Power, Slash]
+    - [Natural Gift, Attract, Swagger]
+    - [Thunder Wave, Recycle, Psych Up]
+combinations:
+    - [Scope Lens, Psycho Cut, Slash, Attract]
+    - [Macho Brace, Swagger, Psych Up]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Poké]
+nature: Naughty
+ivs: 10
+evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 36, spe: 0}
+---
+species: Cresselia
+setname: Special
+item: [null, Silk Scarf]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Energy Ball, Ice Beam, Shadow Ball, Hyper Beam, Solarbeam]
+    - [Toxic]
+    - [Lunar Dance, Skill Swap, Sunny Day]
+combinations:
+    - [Silk Scarf, Hyper Beam]
+    - [Solarbeam, Sunny Day]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Master]
+nature: Naughty
 ivs: 0
-evs: {hp: 0, atk: 200, def: 0, spA: 200, spD: 0, spe: 80}
+evs: 0
 ---
 species: Cresselia
 setname: Snore
@@ -28,28 +73,8 @@ moves:
 gender: [f]
 happiness: 255
 biddable: False
-rarity: 0.4
+rarity: 0.3
 ball: [Heal]
 nature: Lonely
 ivs: 0
 evs: {hp: 0, atk: 4, def: 0, spA: 0, spD: 0, spe: 0}
----
-species: Cresselia
-setname: Overpowered
-item: [null]
-ability: [Levitate]
-moves:
-    - [Psychic]
-    - [Energy Ball, Ice Beam, Shadow Ball, Hyper Beam, Solarbeam]
-    - [Thunder Wave, Toxic]
-    - [Lunar Dance, Trick Room, Skill Swap, Sunny Day]
-combinations:
-    - [Solarbeam, Sunny Day]
-gender: [f]
-happiness: 255
-biddable: True
-rarity: 0.1
-ball: [Master]
-nature: Naughty
-ivs: 0
-evs: 0
