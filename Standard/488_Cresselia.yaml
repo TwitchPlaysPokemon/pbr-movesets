@@ -35,7 +35,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.9
-ball: [Poké]
+ball: [Quick]
 nature: Naughty
 ivs: 10
 evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 36, spe: 0}
@@ -56,7 +56,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.9
-ball: [Master]
+ball: [Dusk]
 nature: Naughty
 ivs: 0
 evs: 0
