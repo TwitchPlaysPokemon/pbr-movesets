@@ -7,7 +7,7 @@ moves:
     - [Crunch, Sucker Punch, Earthquake]
     - [Magic Coat, Reflect, Light Screen]
 gender: [m, f]
-rarity: 1.0
+rarity: 1.2
 ball: [Premier]
 nature: Quiet
 ivs: 29
@@ -25,7 +25,7 @@ moves:
 combinations:
     - [King's Rock, Strength, Psychic, Beat Up]
 gender: [m, f]
-rarity: 1.0
+rarity: 1.2
 ball: [Quick]
 nature: Brave
 ivs: 21
@@ -41,8 +41,24 @@ moves:
     - [Mean Look]
     - [Baton Pass]
 gender: [m, f]
-rarity: 0.5
+rarity: 0.8
 ball: [Dusk]
 nature: Timid
 ivs: 31
 evs: {hp: 0, atk: 0, def: 172, spA: 0, spD: 172, spe: 164}
+---
+species: Girafarig
+setname: Future Sight
+item: [Wide Lens]
+ability: [Early Bird]
+moves:
+    - [Future Sight]
+    - [Nasty Plot]
+    - [Wish (=5)]
+    - [Protect]
+gender: [m, f]
+rarity: 0.8
+ball: [Safari]
+nature: Modest
+ivs: 31
+evs: {hp: 156, atk: 0, def: 28, spA: 100, spD: 28, spe: 196}
