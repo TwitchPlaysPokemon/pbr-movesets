@@ -11,7 +11,7 @@ gender: [m, f]
 rarity: 1.0
 ball: [Dusk]
 nature: Calm
-ivs: 31
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 30}
 evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
 ---
 species: Magcargo
