@@ -48,5 +48,5 @@ gender: [m, f]
 rarity: 0.3
 ball: [Nest]
 nature: Modest
-ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 30, spe: 31}
 evs: {hp: 60, atk: 0, def: 80, spA: 252, spD: 40, spe: 8}
