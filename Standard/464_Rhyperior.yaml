@@ -51,5 +51,5 @@ biddable: True
 rarity: 0.1
 ball: [Master]
 nature: Calm
-ivs: 0
+ivs: {hp: 2, atk: 2, def: 3, spA: 31, spD: 2, spe: 30}
 evs: {hp: 0, atk: 16, def: 0, spA: 0, spD: 16, spe: 60}
