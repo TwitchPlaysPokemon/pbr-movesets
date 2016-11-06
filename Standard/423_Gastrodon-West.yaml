@@ -4,7 +4,7 @@ item: [Shell Bell]
 ability: [Storm Drain]
 moves:
     - [Surf, Muddy Water]
-    - [Muddy Water]
+    - [Earth Power]
     - [Ice Beam, Sludge Bomb]
     - [Acid Armor]
 gender: [m, f]
