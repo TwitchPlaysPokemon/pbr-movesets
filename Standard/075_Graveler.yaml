@@ -8,10 +8,8 @@ moves:
     - [Rock Polish, Substitute, Sandstorm, Toxic]
     - [Self-destruct]
 combinations:
-    - [Hard Stone, Rock Blast]
+    - [Hard Stone, Rock Blast, Magnitude]
 separations:
-    - [Dig, Magnitude]
-    - [Rock Blast, Magnitude]
     - [Rock Blast, Toxic]
     - [Magnitude, Rock Polish]
 gender: [m, f]
