@@ -9,6 +9,7 @@ moves:
     - [String Shot, Hypnosis, Sunny Day, Supersonic]
 combinations:
     - [Silverpowder, Signal Beam]
+    - [Dream Eater, Hypnosis]
 gender: [m, f]
 happiness: 255
 biddable: True
