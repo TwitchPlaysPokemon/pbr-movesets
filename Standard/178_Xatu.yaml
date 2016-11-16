@@ -11,11 +11,8 @@ combinations:
     - [Sharp Beak, Air Cutter]
     - [Spell Tag, Ominous Wind]
     - [SilverPowder, Silver Wind]
+    - [Mystic Water, Hidden Power]
     - [Air Slash, SolarBeam, Teleport]
-separations:
-    - [Spell Tag, Hidden Power]
-    - [Sharp Beak, Hidden Power]
-    - [SilverPowder, Hidden Power]
 gender: [m, f]
 rarity: 1.0
 ball: [Safari]
