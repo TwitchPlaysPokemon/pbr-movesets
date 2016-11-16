@@ -1,18 +1,18 @@
 species: Xatu
 setname: Special
-item: [Spell Tag, Sharp Beak, SilverPowder, Mystic Water]
+item: [Spell Tag, Sharp Beak, SilverPowder, Mystic Water, Null]
 ability: [Early Bird, Synchronize]
 moves:
     - [Psychic]
     - [Heat Wave, Air Slash, Air Cutter]
-    - [Ominous Wind, Silver Wind, Hidden Power, Giga Drain, SolarBeam]
+    - [Ominous Wind, Silver Wind, Hidden Power, Giga Drain, Solar Beam]
     - [Thunder Wave, Magic Coat, Teleport, Mimic, Refresh]
 combinations:
     - [Sharp Beak, Air Cutter]
     - [Spell Tag, Ominous Wind]
     - [SilverPowder, Silver Wind]
     - [Mystic Water, Hidden Power]
-    - [Air Slash, SolarBeam, Teleport]
+    - [Air Slash, Solar Beam, Teleport]
 gender: [m, f]
 rarity: 1.0
 ball: [Safari]
