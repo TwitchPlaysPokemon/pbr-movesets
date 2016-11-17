@@ -11,6 +11,8 @@ combinations:
     - [Wave Incense, Bubblebeam]
     - [Sea Incense, Water Pulse]
     - [Soft Sand, Mud Bomb]
+separations:
+    - [Blizzard, Ice Beam]
 gender: [m, f]
 rarity: 1.0
 ball: [Net]
