@@ -16,3 +16,21 @@ combinations:
     - [Energy Ball, Growth]
 gender: [m, f]
 ball: [Great]
+-----
+species: Ivysaur
+setname: Special
+item: [Earth Plate, Petaya Berry]
+ability: [Overgrow]
+nature: Timid
+ivs: {hp: 30, atk: 30, def: 30, spA: 31, spD: 30, spe: 30}
+evs: {hp: 68, atk: 0, def: 68, spA: 64, spD: 68, spe: 224}
+moves:
+    - [Giga Drain, Energy Ball]
+    - [Hidden Power]
+    - [Leech Seed, Toxic]
+    - [Protect, Substitute]
+separations:
+    - [Petaya Berry, Protect]
+    - [Toxic, Substitute]
+gender: [m, f]
+ball: [Great]
