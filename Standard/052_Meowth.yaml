@@ -17,3 +17,26 @@ happiness: 150
 biddable: true
 rarity: 1.0
 ball: [Luxury]
+----
+species: Meowth
+setname: Special
+item: [Life Orb, Focus Sash]
+ability: [Technician]
+nature: Adamant
+ivs: 21
+evs: {hp: 56, atk: 56, def: 28, spA: 4, spD: 28, spe: 28}
+moves:
+    - [Swift]
+    - [Dark Pulse, Water Pulse, Shock Wave, Dream Eater]
+    - [Hypnosis, Hidden Power, Icy Wind]
+    - [Nasty Plot]
+combinations:
+    - [Hypnosis, Life Orb]
+separations:
+    - [Dream Eater, Hidden Power]
+    - [Water Pulse, Icy Wind]
+    - [Dream Eater, Icy Wind]
+gender: [m,f]
+happiness: 255
+biddable: true
+ball: [Cherish]
