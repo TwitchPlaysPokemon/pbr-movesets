@@ -3,8 +3,8 @@ setname: Standard
 item: [Wide Lens]
 ability: [Aftermath, Keen Eye]
 moves:
-    - [Crunch, Poison Jab, Sludge Bomb, Sucker Punch]
-    - [Flamethrower, Dark Pulse, Night Slash]
+    - [Crunch, Poison Jab, Sludge Bomb]
+    - [Flamethrower, Dark Pulse, Night Slash, Sucker Punch]
     - [Torment, Poison Gas, Toxic, Iron Tail, Hyper Beam]
     - [Protect, Double Team]
 combinations:
