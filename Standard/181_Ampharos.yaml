@@ -30,5 +30,5 @@ gender: [m, f]
 rarity: 1.0
 ball: [Ultra]
 nature: Adamant
-ivs: 0
+ivs: {hp: 1, atk: 2, def: 3, spA: 2, spD: 2, spe: 3}
 evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 100, spe: 0}
