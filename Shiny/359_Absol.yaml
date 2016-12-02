@@ -1,0 +1,16 @@
+species: Absol
+setname: Shiny
+item: [Choice Scarf]
+ability: [Shadow Tag]
+moves:
+    - [Dark Pulse]
+    - [Calm Mind]
+    - [Rest]
+    - [Switcheroo]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Cherish]
+nature: Relaxed
+ivs: {hp: 31, atk: 0, def: 31, spA: 1, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 4}

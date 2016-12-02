@@ -1,0 +1,16 @@
+species: Altaria
+setname: Shiny
+item: [Wide Lens]
+ability: [Unaware]
+moves:
+    - [Overheat]
+    - [Leaf Storm]
+    - [Fake Tears]
+    - [Skill Swap]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Ultra]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 64, spA: 0, spD: 104, spe: 88}

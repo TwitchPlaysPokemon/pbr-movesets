@@ -1,0 +1,16 @@
+species: Nosepass
+setname: Shiny
+item: [Big Root]
+ability: [Sand Stream]
+moves:
+    - [Drain Punch]
+    - [Lava Plume]
+    - [Leech Seed]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Repeat]
+nature: Relaxed
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 8, def: 252, spA: 0, spD: 248, spe: 0}

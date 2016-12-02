@@ -1,0 +1,16 @@
+species: Misdreavus
+setname: Shiny
+item: [Starf Berry]
+ability: [Gluttony]
+moves:
+    - [Shadow Force]
+    - [Dark Pulse]
+    - [Pursuit]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Safari]
+nature: Serious
+ivs: 31
+evs: {hp: 4, atk: 220, def: 220, spA: 20, spD: 20, spe: 20}

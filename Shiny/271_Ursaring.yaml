@@ -1,0 +1,16 @@
+species: Ursaring
+setname: Shiny
+item: [Miracle Seed]
+ability: [Flower Gift]
+moves:
+    - [Leaf Blade]
+    - [U-turn]
+    - [Ingrain]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Safari]
+nature: Impish
+ivs: 31
+evs: {hp: 104, atk: 100, def: 112, spA: 0, spD: 152, spe: 40}

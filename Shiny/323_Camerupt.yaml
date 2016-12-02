@@ -1,0 +1,16 @@
+species: Camerupt
+setname: Shiny
+item: [Shuca Berrry]
+ability: [Water Absorb]
+moves:
+    - [Eruption]
+    - [Muddy Water]
+    - [Giga Drain]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+shiny: True
+ball: [Dusk]
+nature: Modest
+ivs: 31
+evs: {hp: 248, atk: 0, def: 96, spA: 20, spD: 144, spe: 0}

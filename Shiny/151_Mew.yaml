@@ -1,0 +1,15 @@
+species: Mew
+setname: Shiny
+item: [Expert Belt]
+ability: [Shield Dust]
+moves:
+    - [Ice Beam]
+    - [Thunderbolt]
+    - [Encore]
+    - [Conversion 2]
+happiness: 255
+shiny: True
+ball: [Dive]
+nature: Serious
+ivs: 31
+evs: 0
