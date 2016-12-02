@@ -13,3 +13,22 @@ ball: [Dive]
 nature: Modest
 ivs: {hp: 7, atk: 7, def: 7, spA: 31, spD: 7, spe: 7}
 evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 0, spe: 88}
+---
+species: Kabutops
+setname: Physical
+item: [Null, Silk Scarf, Tamato Berry]
+ability: [Battle Armor]
+moves:
+    - [Roch Throw]
+    - [Aqua Jet]
+    - [Cut, Scratch, Skull Bash, Thief, Natural Gift]
+    - [Swords Dance]
+combinations:
+    - [Silk Scarf, Scratch]
+    - [Tamato Berry, Natural Gift]
+gender: [m, f]
+rarity: 1.0
+ball: [Ultra]
+nature: Sassy
+ivs: 18
+evs: 0
