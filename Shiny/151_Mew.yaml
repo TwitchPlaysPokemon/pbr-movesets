@@ -9,6 +9,8 @@ moves:
     - [Conversion 2]
 happiness: 255
 shiny: True
+biddable: False
+hidden: True
 ball: [Dive]
 nature: Serious
 ivs: 31
