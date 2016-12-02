@@ -16,7 +16,7 @@ combinations:
     - [Energy Ball, Growth]
 gender: [m, f]
 ball: [Great]
------
+---
 species: Ivysaur
 setname: Special
 item: [Earth Plate, Petaya Berry]
