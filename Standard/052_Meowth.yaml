@@ -17,7 +17,7 @@ happiness: 150
 biddable: true
 rarity: 1.0
 ball: [Luxury]
-----
+---
 species: Meowth
 setname: Special
 item: [Life Orb, Focus Sash]
