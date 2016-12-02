@@ -19,6 +19,26 @@ ivs: 31
 evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 100, spe: 100}
 ---
 species: Torkoal
+setname: Drought
+item: [Fire Stone]
+ability: [Drought]
+moves:
+    - [Eruption]
+    - [Solarbeam]
+    - [Rock Tomb, Rollout]
+    - [Stealth Rock, Defense Curl]
+combinations:
+    - [Rollout, Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: Hasty
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 80, atk: 64, def: 64, spA: 64, spD: 108, spe: 128}
+---
+species: Torkoal
 setname: Stall
 item: [Grip Claw]
 ability: [Shell Armor, White Smoke]
