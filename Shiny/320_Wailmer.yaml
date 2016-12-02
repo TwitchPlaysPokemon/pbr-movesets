@@ -1,0 +1,18 @@
+species: Wailmer
+setname: Shiny
+item: [Blue Flute]
+ability: [Soundproof]
+moves:
+    - [Perish Song]
+    - [Mean Look]
+    - [Milk Drink]
+    - [Detect]
+gender: [f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Dive]
+nature: Bold
+ivs: 31
+evs: {hp: 56, atk: 0, def: 200, spA: 0, spD: 252, spe: 0}
