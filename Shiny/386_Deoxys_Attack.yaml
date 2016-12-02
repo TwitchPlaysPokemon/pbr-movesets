@@ -4,7 +4,7 @@ item: [Choice Band]
 ability: [Huge Power]
 moves:
     - [Explosion]
-forms: Attack
+form: Attack
 happiness: 255  
 shiny: True
 biddable: False
