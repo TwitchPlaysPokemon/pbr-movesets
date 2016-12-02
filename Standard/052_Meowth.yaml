@@ -22,9 +22,9 @@ species: Meowth
 setname: Special
 item: [Life Orb, Focus Sash]
 ability: [Technician]
-nature: Adamant
-ivs: 21
-evs: {hp: 56, atk: 56, def: 28, spA: 4, spD: 28, spe: 28}
+nature: Modest
+ivs: {hp: 29, atk: 24, def: 29, spA: 30, spD: 30, spe:29}
+evs: {hp: 0, atk: 0, def: 56, spA: 252, spD: 40, spe: 160}
 moves:
     - [Swift]
     - [Dark Pulse, Water Pulse, Shock Wave, Dream Eater]
