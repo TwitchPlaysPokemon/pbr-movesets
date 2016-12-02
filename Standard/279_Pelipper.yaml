@@ -25,7 +25,7 @@ item: [Damp Rock]
 ability: [Rain Dish]
 moves:
     - [Air Slash]
-    - [Water Pulse, Brine]
+    - [Brine]
     - [Shock Wave, Icy Wind]
     - [Rain Dance]
 gender: [m, f]
@@ -36,6 +36,24 @@ ball: [Dive]
 nature: Calm
 ivs: 15
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 108, spe: 100}
+---
+species: Pelipper
+setname: Drizzle
+item: [Water Stone]
+ability: [Drizzle]
+moves:
+    - [Water Pulse]
+    - [Hidden Power]
+    - [Mist, Captivate, Attract]
+    - [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Sassy
+ivs: {hp: 6, atk: 6, def: 6, spA: 7, spD: 7, spe: 7}
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
 ---
 species: Pelipper
 setname: Physical

@@ -5,7 +5,7 @@ ability: [Swarm]
 moves:
     - [Megahorn]
     - [Sucker Punch]
-    - [Night Shade]
+    - [Night Shade, Swords Dance]
     - [Endure]
 gender: [m, f]
 rarity: 1.0

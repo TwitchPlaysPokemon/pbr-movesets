@@ -1,12 +1,14 @@
 species: Wormadam
 setname: Plant Special
-item: [null]
+item: [null, Silverpowder]
 ability: [Anticipation]
 moves:
     - [Leaf Storm]
-    - [Signal Beam]
+    - [Signal Beam, Bug Buzz]
     - [Psychic]
     - [Growth]
+combinations:
+    - [Silverpowder, Signal Beam]
 gender: [f]
 form: Plant
 happiness: 255

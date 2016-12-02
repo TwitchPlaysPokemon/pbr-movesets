@@ -71,6 +71,24 @@ rarity: 1.0
 ball: [Master]
 ---
 species: Bibarel
+setname: Swords Dance
+item: [null]
+ability: [Simple]
+moves:
+    - [Hidden Power]
+    - [Fury Swipes, Tackle]
+    - [Thief]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+nature: Quiet
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 84, atk: 84, def: 84, spA: 88, spD: 84, spe: 84}
+---
+species: Bibarel
 setname: Last Resort
 item: [Salac Berry]
 ability: [Simple]
@@ -85,5 +103,5 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.1
+rarity: 0.2
 ball: [Net]

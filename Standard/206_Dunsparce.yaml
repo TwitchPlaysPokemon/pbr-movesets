@@ -25,11 +25,12 @@ setname: Special
 ability: [Serene Grace]
 moves:
     - [Trump Card]
-    - [Ice Beam, Thunderbolt, Shadow Ball, Flamethrower]
+    - [Ice Beam, Thunderbolt, Shadow Ball, Flamethrower, Air Slash]
     - [Ancientpower, Charge Beam, Yawn]
     - [Calm Mind, Protect, Glare, Roost, Pain Split]
 combinations:
     - [Yawn, Protect]
+    - [Air Slash, Glare]
 gender: [m, f]
 rarity: 1.0
 ball: [Premier]

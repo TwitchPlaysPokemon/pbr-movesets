@@ -1,5 +1,5 @@
 species: Bidoof
-setname: Physical
+setname: Curse
 item: [Sitrus Berry]
 ability: [Simple]
 nature: Adamant
@@ -18,6 +18,24 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Quick]
+---
+species: Bidoof
+setname: Swords Dance
+item: [Sitrus Berry]
+ability: [Simple]
+moves:
+    - [Hyper Fang]
+    - [Aqua Tail]
+    - [Thunder Wave]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 124, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Bidoof
 setname: Special

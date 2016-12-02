@@ -6,7 +6,7 @@ nature: Bold
 ivs: {hp: 27, atk: 0, def: 27, spA: 27, spD: 27, spe: 27}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 moves:
-    - [Bug Buzz]
+    - [Bug Buzz, Air Slash]
     - [Psywave, Psychic]
     - [Sleep Powder, Stun Spore, Energy Ball]
     - [Attract, Captivate, Double Team, Supersonic]
@@ -14,6 +14,11 @@ combinations:
     - [Compound Eyes, Psywave]
     - [Tinted Lens, Psychic]
     - [Mosaic Mail, Sleep Powder]
+separations:
+    - [Air Slash, Attract]
+    - [Air Slash, Supersonic]
+    - [Bug Buzz, Captivate]
+    - [Bug Buzz, Double Team]
 gender: [m, f]
 happiness: 255
 biddable: True

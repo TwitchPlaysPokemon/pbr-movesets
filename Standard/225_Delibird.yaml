@@ -3,14 +3,15 @@ setname: Physical
 item: [Charti Berry, Liechi Berry, Micle Berry, Babiri Berry]
 ability: [Hustle]
 moves:
-    - [Ice Punch]
-    - [Aerial Ace]
+    - [Ice Punch, Drill Peck]
+    - [Ice Punch, Aerial Ace]
     - [Gunk Shot, Seed Bomb, Mega Kick]
     - [Ice Shard, Present, Double Team, Endure]
 separations:
     - [Charti Berry, Endure]
     - [Babiri Berry, Endure]
     - [Mega Kick, Present]
+    - [Ice Punch, Ice Punch]
 gender: [m, f]
 rarity: 0.7
 ball: [Premier]

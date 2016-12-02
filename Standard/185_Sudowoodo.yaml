@@ -2,7 +2,7 @@ species: Sudowoodo
 setname: Physical
 ability: [Rock Head]
 moves:
-    - [Stone Edge]
+    - [Head Smash]
     - [Wood Hammer]
     - [Hammer Arm, Focus Punch]
     - [Copycat, Substitute, Self-destruct, Role Play]
@@ -20,7 +20,7 @@ setname: Mixed
 item: [Rindo Berry, Babiri Berry, Salac Berry]
 ability: [Sturdy]
 moves:
-    - [Rock Slide]
+    - [Rock Slide, Stone Edge]
     - [Earth Power, Hidden Power]
     - [Calm Mind, Fake Tears]
     - [Rock Polish, Sunny Day, Endure]

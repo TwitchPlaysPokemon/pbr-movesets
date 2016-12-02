@@ -26,7 +26,7 @@ evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
 moves:
     - [Drill Peck, Aerial Ace, Pluck]
     - [Flail]
-    - [Low Kick]
+    - [Low Kick, Swords Dance]
     - [Endure]
 separations:
     - [Cheri Berry, Aerial Ace]
@@ -46,7 +46,7 @@ ivs: 31
 evs: {hp: 84, atk: 68, def: 20, spA: 188, spD: 20, spe: 128}
 moves:
     - [Tri Attack]
-    - [Low Kick]
+    - [Jump Kick]
     - [Rest]
     - [Acupressure]
 gender: [m, f]

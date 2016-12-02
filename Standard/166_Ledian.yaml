@@ -3,10 +3,14 @@ setname: Special
 item: [Yache Berry]
 ability: [Swarm, Early Bird]
 moves:
-    - [Bug Buzz]
+    - [Bug Buzz, Air Slash]
     - [Focus Blast, Air Cutter]
     - [Giga Drain, Ominous Wind, Psybeam]
     - [Bide, String Shot, Encore]
+combinations:
+    - [Bug Buzz, Swarm]
+separations:
+    - [Bug Buzz, String Shot]
 gender: [m, f]
 happiness: 255
 biddable: True
