@@ -23,7 +23,7 @@ setname: Special
 item: [Life Orb, Focus Sash]
 ability: [Technician]
 nature: Modest
-ivs: {hp: 29, atk: 24, def: 29, spA: 30, spD: 30, spe:29}
+ivs: {hp: 29, atk: 24, def: 29, spA: 30, spD: 30, spe: 29}
 evs: {hp: 0, atk: 0, def: 56, spA: 252, spD: 40, spe: 160}
 moves:
     - [Swift]
