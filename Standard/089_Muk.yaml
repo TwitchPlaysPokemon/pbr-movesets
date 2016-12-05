@@ -10,6 +10,8 @@ moves:
     - [Thunder, Fire Blast]
     - [Ice Punch, Shadow Punch, Thunder Punch]
     - [Acid Armor]
+separations:
+    - [Thunder, Thunder Punch]
 gender: [m, f]
 happiness: 255
 biddable: True
