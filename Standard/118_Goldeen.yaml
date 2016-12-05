@@ -15,11 +15,13 @@ combinations:
     - [Sitrus Berry, Double-Edge]
     - [Swift Swim, Rain Dance]
 separations:
+    - [Power Herb, Natural Gift]
     - [Watmel Berry, Swift Swim]
     - [Watmel Berry, Poison Jab]
     - [Watmel Berry, Horn Drill]
     - [Belue Berry, Poison Jab]
     - [Belue Berry, Horn Drill]
+    - [Sitrus Berry, Natural Gift]
     - [Megahorn, Poison Jab]
     - [Horn Drill, Swords Dance]
 gender: [m, f]
