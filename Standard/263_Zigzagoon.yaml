@@ -1,7 +1,7 @@
 species: Zigzagoon
-setname: Gluttony
+setname: Belly Drum
 item: [Sitrus Berry]
-ability: [Gluttony]
+ability: [Quick Feet]
 moves:
     - [Super Fang]
     - [Extremespeed]
@@ -17,7 +17,7 @@ ivs: 31
 evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
 ---
 species: Zigzagoon
-setname: Quick Feet
+setname: Toxic Orb
 item: [Toxic Orb]
 ability: [Quick Feet]
 moves:
