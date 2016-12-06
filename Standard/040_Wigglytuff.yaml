@@ -26,7 +26,7 @@ ball: [Heal]
 ---
 species: Wigglytuff
 setname: Special
-item: [Aspear Berry, Chesto Berry, Sea Incense, Rawst Berry, Cheri Berry, Pecha Berry, Splash Plate]
+item: [Aspear Berry, Chesto Berry, Rawst Berry, Cheri Berry, Pecha Berry, Splash Plate]
 ability: [Cute Charm]
 nature: Quiet
 ivs: 10
