@@ -10,6 +10,7 @@ moves:
 combinations:
     - [Silverpowder, Signal Beam]
     - [Dream Eater, Hypnosis]
+    - [Sunny Day, Solarbeam]
 gender: [m, f]
 happiness: 255
 biddable: True
