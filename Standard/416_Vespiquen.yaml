@@ -57,7 +57,7 @@ combinations:
     - [Sky Plate, Gust]
     - [Sitrus Berry, Defend Order]
     - [Hidden Power, Rain Dance]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
