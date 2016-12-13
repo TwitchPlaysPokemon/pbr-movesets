@@ -1,0 +1,58 @@
+species: Bastiodon
+setname: Special
+item: [Armor Fossil]
+ability: [Sturdy]
+nature: Queit
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 148, atk: 0, def: 0, spA: 44, spD: 0, spe: 0}
+moves:
+    - [Flash Cannon]
+    - [Fire Blast]
+    - [Metal Burst]
+    - [Metal Sound]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+---
+species: Bastiodon
+setname: Flinch
+item: [Silk Scarf, Metronome]
+ability: [Sturdy]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 100, def: 28, spA: 0, spD: 28, spe: 100}
+moves:
+    - [Iron Head]
+    - [Rock Slide]
+    - [Headbutt, Torment]
+    - [Rock Polish]
+separations:
+    - [Silk Scarf, Torment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+---
+species: Bastiodon
+setname: Mixed
+item: [Zoom Lens]
+ability: [Soundproof]
+nature: Mild
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 100, atk: 152, def: 0, spA: 152, spD: 104, spe: 0}
+moves:
+    - [Stone Edge]
+    - [Iron Tail, Avalanche, Outrage]
+    - [Blizzard, Thunder]
+    - [Curse]
+separations:
+    - [Avalanche, Blizzard]
+    - [Outrage, Blizzard]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
