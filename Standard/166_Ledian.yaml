@@ -11,6 +11,7 @@ combinations:
     - [Bug Buzz, Swarm]
 separations:
     - [Bug Buzz, String Shot]
+    - [Air Slash, Air Cutter]
 gender: [m, f]
 happiness: 255
 biddable: True
