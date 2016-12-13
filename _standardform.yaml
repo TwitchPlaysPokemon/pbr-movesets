@@ -1,0 +1,52 @@
+ingamename: SEEL-PH
+species: Seel
+setname: Physical
+item: [Rawst Berry, Toxic Orb, Light Ball, NeverMelt-Ice]
+ability: [Thick Fat, Hydration]
+nature: Adamant
+ivs: 31
+evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
+moves:
+    - Fake Out
+    - [Aqua Tail, Dive, Waterfall]
+    - [Double-Edge, Facade, Body Slam, Fling, Toxic]
+    - [Horn Drill, Aqua Jet, Ice Shard]
+combinations:
+    - [Toxic Orb, Facade]
+    - [Light Ball, Fling]
+    - [NeverMelt-Ice, Ice Shard]
+    - [Dive, Toxic]
+separations:
+    - [Aqua Tail, Fling]
+    - [Aqua Tail, Body Slam]
+gender: [m, f]
+form: 0
+happiness: 255
+shiny: True
+biddable: True
+rarity: 0.1
+ball: [Poké, Master]
+level: 100
+---
+species: 
+setname: 
+item: []
+ability: []
+moves:
+    - []
+    - []
+    - []
+    - []
+combinations:
+    - []
+separations:
+    - []
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: 
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+---
