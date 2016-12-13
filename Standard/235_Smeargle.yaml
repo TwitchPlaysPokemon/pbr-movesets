@@ -53,7 +53,7 @@ happiness: 255
 biddable: True
 rarity: 0.4
 ball: [Dive]
-nature: Adamant
+nature: Modest
 ivs: 31
 evs: {hp: 80, atk: 0, def: 48, spA: 252, spD: 48, spe: 80}
 ---
