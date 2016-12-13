@@ -55,7 +55,7 @@ rarity: 0.4
 ball: [Dive]
 nature: Adamant
 ivs: 31
-evs: {hp: 80, atk: 252, def: 48, spA: 0, spD: 48, spe: 80}
+evs: {hp: 80, atk: 0, def: 48, spA: 252, spD: 48, spe: 80}
 ---
 species: Smeargle
 setname: Priority
