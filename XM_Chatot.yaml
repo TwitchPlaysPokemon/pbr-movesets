@@ -1,0 +1,20 @@
+species: Chatot
+ingamename: Xmas Song
+displayname: Xmas Song
+setname: Christmas
+item: Metronome
+ability: Shadow Tag
+moves:
+    - [Metronome]
+    - [Wake-Up Slap]
+    - [Perish Song]
+    - [Sing]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 220, atk: 216, def: 252, spA: 0, spD: 252, spe: 8}

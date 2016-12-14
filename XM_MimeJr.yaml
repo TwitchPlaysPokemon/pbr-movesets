@@ -1,0 +1,20 @@
+species: Mime Jr.
+ingamename: Xmas Hat
+displayname: Xmas Hat
+setname: Christmas
+item: Icicle Plate
+ability: Tinted Lens
+moves:
+    - [Headbutt]
+    - [Ice Punch]
+    - [Swagger]
+    - [Psych Up]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: []
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}

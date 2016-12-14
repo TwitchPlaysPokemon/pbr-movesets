@@ -1,0 +1,20 @@
+species: Giratina
+ingamename: SatanClaus
+displayname: SatanClaus
+setname: Christmas
+item: Dread Plate
+ability: Intimidate
+moves:
+    - [Ominous Wind]
+    - [Icy Wind]
+    - [Scary Face]
+    - [Roar]
+gender: []
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: 31
+evs: 0

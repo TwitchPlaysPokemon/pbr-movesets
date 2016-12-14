@@ -1,0 +1,20 @@
+species: Bastiodon
+ingamename: SnowPlough
+displayname: SnowPlough
+setname: Christmas
+item: NeverMeltIce
+ability: Huge Power
+moves:
+    - [Strength]
+    - [Powder Snow]
+    - [Flamethrower]
+    - [Tail Glow]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Timer]
+shiny: True
+nature: Quiet
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

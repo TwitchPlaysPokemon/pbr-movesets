@@ -1,0 +1,20 @@
+species: Spiritomb
+ingamename: Fireworks
+displayname: Fireworks
+setname: Christmas
+item: Smoke Ball
+ability: White Smoke
+moves:
+    - [Magma Storm]
+    - [Smog]
+    - [Smokescreen]
+    - [Explosion]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: 20
+evs: {hp: 44, atk: 128, def: 0, spA: 128, spD: 0, spe: 184}

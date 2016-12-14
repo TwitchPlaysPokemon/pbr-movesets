@@ -1,0 +1,20 @@
+species: Lickilicky
+ingamename: Chef Cook
+displayname: Chef Cook
+setname: Christmas
+item: Big Mushroom
+ability: Serene Grace
+moves:
+    - [Smelling Salts]
+    - [Lick]
+    - [Gyro Ball]
+    - [Curse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: []
+shiny: True
+nature: Gentle
+ivs: 31
+evs: 0
