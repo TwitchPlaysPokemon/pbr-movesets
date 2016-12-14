@@ -1,0 +1,20 @@
+species: Castform
+ingamename: Jack Frost
+displayname: Jack Frost
+setname: Christmas
+item: Leftovers
+ability: Forecast
+moves:
+    - [Weather Ball]
+    - [Last Resort]
+    - [Wish]
+    - [Hail]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Timer]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 96, atk: 136, def: 0, spA: 136, spD: 0, spe: 136}

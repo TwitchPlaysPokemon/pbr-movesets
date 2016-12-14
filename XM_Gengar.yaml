@@ -1,0 +1,20 @@
+species: Gengar
+ingamename: Ghost of Xmas Past
+displayname: Ghost of Xmas Past
+setname: Christmas
+item: Light Ball
+ability: Illuminate
+moves:
+    - [Night Shade]
+    - [Frustration]
+    - [Torment]
+    - [Memento]
+gender: [m]
+happiness: 0
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}

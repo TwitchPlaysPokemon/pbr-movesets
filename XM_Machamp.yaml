@@ -1,0 +1,20 @@
+species: Machamp
+ingamename: Balthazar
+displayname: Balthazar
+setname: Christmas
+item: Haban Berry
+ability: Serene Grace
+moves:
+    - [Meteor Mash]
+    - [Natural Gift]
+    - [Present]
+    - [Aromatherapy]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 40, spA: 52, spD: 40, spe: 80}

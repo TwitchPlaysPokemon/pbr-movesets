@@ -1,0 +1,20 @@
+species: Camerupt
+ingamename: MagisCamel
+displayname: MagisCamel
+setname: Christmas
+item: Lava Cookie
+ability: Levitate
+moves:
+    - [Tri Attack]
+    - [Pluck]
+    - [U-Turn]
+    - [Milk Drink]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Quick]
+shiny: True
+nature: Sassy
+ivs: 31
+evs: {hp: 220, atk: 80, def: 40, spA: 0, spD: 8, spe: 8}

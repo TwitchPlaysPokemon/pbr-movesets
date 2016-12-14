@@ -1,0 +1,20 @@
+species: Blastoise
+ingamename: Launcher
+displayname: Launcher
+setname: Christmas
+item: Brightpowder
+ability: Super Luck
+moves:
+    - [Draco Meteor]
+    - [Flash Cannon]
+    - [Follow Me]
+    - [Haze]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Ultra]
+shiny: True
+nature: Serious
+ivs: 31
+evs: 0

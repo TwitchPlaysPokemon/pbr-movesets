@@ -1,0 +1,20 @@
+species: Shedinja
+ingamename: Ghost of Xmas Future
+displayname: Ghost of Xmas Future
+setname: Christmas
+item: Reaper Cloth
+ability: Wonder Guard
+moves:
+    - [Future Sight]
+    - [Curse]
+    - []
+    - []
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: 31
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
