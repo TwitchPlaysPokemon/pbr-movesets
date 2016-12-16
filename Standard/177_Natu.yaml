@@ -1,6 +1,6 @@
 species: Natu
 setname: Special
-item: [Choice Specs, Black Belt, Hard Stone]
+item: [Choice Specs]
 ability: [Synchronize, Early Bird]
 moves:
     - [Psychic]
