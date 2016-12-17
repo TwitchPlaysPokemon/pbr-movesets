@@ -27,9 +27,13 @@ item: [Cheri Berry, Chesto Berry, Pecha Berry, Rawst Berry, Aspear Berry, Persim
 ability: [Levitate]
 moves:
     - [Zen Headbutt]
-    - [Fire Punch, Ice Punch, Thunder Punch]
+    - [Fire Punch, Ice Punch, ThunderPunch]
     - [Natural Gift]
     - [Thunder Wave, Trick Room]
+separations:
+    - [Cheri Berry, Fire Punch]
+    - [Aspear Berry, Ice Punch]
+    - [Pecha Berry, ThunderPunch]
 happiness: 255
 biddable: True
 rarity: 0.7
