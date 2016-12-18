@@ -1,12 +1,14 @@
 species: Medicham
 setname: Physical
-item: [null]
+item: [Pure Incense, Kasib Berry]
 ability: [Pure Power]
 moves:
     - [Psycho Cut, Zen Headbutt]
     - [Force Palm, Drain Punch]
     - [Fire Punch, Ice Punch, Thunderpunch, Poison Jab, Rock Slide, Foresight]
     - [Power Trick]
+combinations:
+    - [Kasib Berry, Foresight]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -18,7 +20,7 @@ evs: {hp: 85, atk: 0, def: 170, spA: 0, spD: 170, spe: 85}
 ---
 species: Medicham
 setname: Special
-item: [null]
+item: [Awakening]
 ability: [Pure Power]
 moves:
     - [Focus Blast]
@@ -33,3 +35,21 @@ ball: [Luxury]
 nature: Quirky
 ivs: 31
 evs: {hp: 84, atk: 168, def: 0, spA: 168, spD: 0, spe: 88}
+---
+species: Medicham
+setname: Mixed
+item: [Kelpsy Berry]
+ability: [Pure Power]
+moves:
+    - [Natural Gift]
+    - [Confusion]
+    - [Trick]
+    - [Recycle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Nest]
+nature: Modest
+ivs: 31
+evs: {hp: 124, atk: 0, def: 36, spA: 172, spD: 40, spe: 136}
