@@ -25,8 +25,8 @@ setname: Special
 item: [Berry Juice, Cheri Berry, Shuca Berry, Silverpowder, Poison Barb]
 ability: [Lightningrod]
 nature: Bold
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+ivs: {hp: 2, atk: 3, def: 2, spA: 2, spD: 2, spe: 3}
+evs: {hp: 100, atk: 0, def: 92, spA: 92, spD: 92, spe: 88}
 moves:
     - [Thunderbolt, Discharge, Charge Beam, Shock Wave]
     - [Focus Blast, Surf, Signal Beam, Hidden Power, Hyper Beam]
