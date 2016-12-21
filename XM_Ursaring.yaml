@@ -1,0 +1,19 @@
+species: Ursaring
+ingamename: Polar Bear
+displayname: Polar Bear
+setname: Christmas
+item: Honey
+ability: Adaptability
+moves:
+    - [Ice Punch]
+    - [Tackle]
+    - [Growl]
+    - [Conversion]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 0, def: 128, spA: 0, spD: 128, spe: 252}
