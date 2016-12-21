@@ -9,10 +9,9 @@ moves:
     - [Pursuit]
     - [Perish Song]
     - [Heal Bell]
-gender: []
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Heal]
 shiny: True
 nature: Brave
