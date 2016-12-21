@@ -5,8 +5,8 @@ setname: Christmas
 item: Icy Rock
 ability: Ice Body
 moves:
-    - [Icy Wind]
     - [Needle Arm]
+    - [Ice Beam]
     - [Protect]
     - [Hail]
 gender: [m]
