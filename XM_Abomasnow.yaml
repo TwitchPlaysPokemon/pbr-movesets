@@ -13,7 +13,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.0
-ball: []
+ball: [Cherish]
 shiny: True
 nature: Jolly
 ivs: 17
