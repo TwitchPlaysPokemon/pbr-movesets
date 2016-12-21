@@ -9,10 +9,10 @@ moves:
     - [Wake-Up Slap]
     - [Perish Song]
     - [Sing]
-gender: [m]
+gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Cherish]
 shiny: True
 nature: Serious
