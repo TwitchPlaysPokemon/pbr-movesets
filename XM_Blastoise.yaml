@@ -9,10 +9,10 @@ moves:
     - [Flash Cannon]
     - [Follow Me]
     - [Haze]
-gender: [m]
+gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Ultra]
 shiny: True
 nature: Serious
