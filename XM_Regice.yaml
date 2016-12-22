@@ -9,10 +9,9 @@ moves:
     - [Stomp]
     - [Minimize]
     - [Baton Pass]
-gender: []
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Timer]
 shiny: True
 nature: Naughty
