@@ -5,8 +5,8 @@ setname: Christmas
 item: Icicle Plate
 ability: Snow Cloak
 moves:
-    - [Blizzard]
     - [Flamethrower]
+    - [Blizzard]
     - [Conversion]
     - [Hail]
 gender: [m,f]
