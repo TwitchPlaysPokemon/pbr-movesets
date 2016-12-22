@@ -9,6 +9,7 @@ moves:
     - [Tackle]
     - [Growl]
     - [Conversion]
+gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0
