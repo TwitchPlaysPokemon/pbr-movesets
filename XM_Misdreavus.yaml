@@ -1,7 +1,7 @@
 species: Misdreavus
-ingamename: Ghost of Xmas Present
-displayname: Ghost of Xmas Present
-setname: Christmas
+ingamename: XmasPresen
+displayname: Ghost of Christmas
+setname: Present
 item: Icicle Plate
 ability: Huge Power
 moves:
@@ -12,8 +12,8 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-rarity: 0.0
-ball: []
+rarity: 1.0
+ball: [Dusk]
 shiny: True
 nature: Jolly
 ivs: 31
