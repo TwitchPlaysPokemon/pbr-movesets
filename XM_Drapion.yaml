@@ -9,11 +9,11 @@ moves:
     - [Poison Gas]
     - [Shadow Force]
     - [Whirlwind]
-gender: [m]
+gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.0
-ball: []
+rarity: 1.0
+ball: [Dusk]
 shiny: True
 nature: Quiet
 ivs: 20
