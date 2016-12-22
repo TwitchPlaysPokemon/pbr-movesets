@@ -1,0 +1,20 @@
+species: Beedrill
+ingamename: Freezebee
+displayname: Freezebee
+setname: Christmas
+item: Scope Lens
+ability: Skill Link
+moves:
+    - [Icicle Spear]
+    - [Aeroblast]
+    - [Focus Energy]
+    - [Heal Order]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: 
+ivs: 31
+evs: {hp: 128, atk: 252, def: 252, spA: 252, spD: 128, spe: 128}
