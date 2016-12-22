@@ -1,0 +1,20 @@
+species: Ninetales
+ingamename: Snowtales
+displayname: Snowtales
+setname: Christmas
+item: Icicle Plate
+ability: Snow Cloak
+moves:
+    - [Ice Beam]
+    - [Flare Blitz]
+    - [Conversion]
+    - [Hail]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Rash
+ivs: 13
+evs: {hpL 84, atk: 84, def: 84, spA: 88, spD: 84, spe: 84}
