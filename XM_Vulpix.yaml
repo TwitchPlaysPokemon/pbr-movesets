@@ -9,7 +9,7 @@ moves:
     - [Blizzard]
     - [Conversion]
     - [Hail]
-gender: [m,f]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
