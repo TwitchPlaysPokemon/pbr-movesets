@@ -12,7 +12,7 @@ moves:
 gender: [m]
 happiness: 0
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Luxury]
 shiny: True
 nature: Adamant
