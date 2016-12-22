@@ -17,4 +17,4 @@ ball: [Safari]
 shiny: True
 nature: Rash
 ivs: 13
-evs: {hpL 84, atk: 84, def: 84, spA: 88, spD: 84, spe: 84}
+evs: 120
