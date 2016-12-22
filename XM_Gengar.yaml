@@ -1,6 +1,6 @@
 species: Gengar
-ingamename: Ghost of Xmas Past
-displayname: Ghost of Xmas Past
+ingamename: GhstXmsPst
+displayname: GhstXmasPst
 setname: Christmas
 item: Light Ball
 ability: Illuminate
@@ -12,7 +12,7 @@ moves:
 gender: [m]
 happiness: 0
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Dusk]
 shiny: True
 nature: Adamant
