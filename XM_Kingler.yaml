@@ -1,0 +1,20 @@
+species: Kingler
+ingamename: Nutcracker
+displayname: Nutcracker
+setname: Christmas
+item: Nugget
+ability: Technician
+moves:
+    - [Guillotine]
+    - [Cut]
+    - [Thief]
+    - [Lock On]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
