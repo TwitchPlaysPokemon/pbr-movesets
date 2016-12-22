@@ -9,10 +9,10 @@ moves:
     - [Metal Burst]
     - [Metal Sound]
     - [Heal Bell]
-gender: [m]
+gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Heal]
 shiny: True
 nature: Quiet
