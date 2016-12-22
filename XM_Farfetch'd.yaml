@@ -1,0 +1,20 @@
+species: Farfetch'd
+ingamename: Turkey
+displayname: Turkey
+setname: Christmas
+item: Shoal Salt
+ability: Thick Fat
+moves:
+    - [Smelling Salts]
+    - [Crunch]
+    - [Lick]
+    - [Heat Wave]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Serious
+ivs: 31
+evs: 252
