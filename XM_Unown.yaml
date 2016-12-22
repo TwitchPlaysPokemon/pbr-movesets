@@ -9,11 +9,11 @@ moves:
     - [Flame Wheel]
     - [Lick]
     - [Conversion]
-gender: [m]
+gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.0
-ball: []
+rarity: 1.0
+ball: [Cherish]
 shiny: True
 nature: Jolly
 ivs: 31
