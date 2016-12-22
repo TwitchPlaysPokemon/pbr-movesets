@@ -9,11 +9,11 @@ moves:
     - [Fly]
     - [Seismic Toss]
     - [Helping Hand]
-gender: [m]
+gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.0
-ball: []
+rarity: 1.0
+ball: [Cherish]
 shiny: True
 nature: Adamant
 ivs: 31
