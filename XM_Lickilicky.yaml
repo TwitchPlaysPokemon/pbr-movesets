@@ -12,8 +12,8 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-rarity: 0.0
-ball: []
+rarity: 1.0
+ball: [Cherish]
 shiny: True
 nature: Gentle
 ivs: 31
