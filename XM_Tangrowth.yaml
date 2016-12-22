@@ -9,10 +9,10 @@ moves:
     - [Bubblebeam]
     - [Bind]
     - [Growth]
-gender: [m]
+gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Nest]
 shiny: True
 nature: Adamant
