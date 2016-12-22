@@ -9,6 +9,7 @@ moves:
     - [Ice Beam]
     - [Tail Glow]
     - [Milk Drink]
+gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0
