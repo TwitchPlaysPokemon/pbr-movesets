@@ -1,0 +1,20 @@
+species: Lanturn
+ingamename: XmasLights
+displayname: XmasLights
+setname: Christmas
+item: King's Rock
+ability: Technician
+moves:
+    - [Thundershock]
+    - [Vine Whip]
+    - [Wrap]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 156, atk: 252, def: 0, spA: 0, spD: 0, spe: 100}
