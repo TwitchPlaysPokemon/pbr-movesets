@@ -17,3 +17,4 @@ ball: [Net]
 nature: Quiet
 ivs: 31
 evs: {hp: 128, atk: 252, def: 128, spA: 252, spD: 128, spe: 252}
+hidden: False
