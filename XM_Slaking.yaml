@@ -16,3 +16,4 @@ shiny: True
 nature: Gentle
 ivs: 0
 evs: {hp: 0, atk: 104, def: 100, spA: 0, spD: 100, spe: 100}
+hidden: False
