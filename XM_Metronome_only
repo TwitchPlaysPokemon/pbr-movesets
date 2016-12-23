@@ -1,0 +1,125 @@
+species: Lopunny
+ingamename: Easter
+displayname: Easter
+setname: Metronome
+item: Lucky Egg
+ability: Pickup
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Rash
+ivs: 0
+evs: {hp: 0, atk: 132, def: 0, spA: 168, spD: 0, spe: 0}
+---
+species: Psyduck
+ingamename: AprilFools
+displayname: AprilFools
+setname: Metronome
+item: Choice Band
+ability: Simple
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Naive
+ivs: 31
+evs: {hp: 124, atk: 0, def: 48, spA: 160, spD: 48, spe: 128}
+---
+species: Cherrim
+ingamename: MidSummer
+displayname: MidSummer
+setname: Metronome
+item: Heat Rock
+ability: Flower Gift
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Quirky
+ivs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 68, spD: 0, spe: 0}
+---
+species: Froslass
+ingamename: MidWinter
+displayname: MidWinter
+setname: Metronome
+item: Icy Rock
+ability: Snow Cloak
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 64, def: 0, spA: 64, spD: 0, spe: 0}
+---
+species: Gardevoir
+ingamename: AllSaints
+displayname: AllSaints
+setname: Metronome
+item: Rabuta Berry
+ability: Serene Grace
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 0
+evs: 0
+---
+species: Dugtrio
+ingamename: Independen
+displayname: Independen
+setname: Metronome
+item: Pinap Berry
+ability: Multitype
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Sassy
+ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
