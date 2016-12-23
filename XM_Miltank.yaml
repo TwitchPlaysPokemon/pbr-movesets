@@ -17,5 +17,5 @@ ball: [Luxury]
 shiny: True
 nature: Sassy
 ivs: 31
-evs: {hp: 4, atk: 64, def: 4, spA: 0, spD: 52, spe: 176}
+evs: {hp: 44, atk: 64, def: 84, spA: 0, spD: 82, spe: 176}
 hidden: false
