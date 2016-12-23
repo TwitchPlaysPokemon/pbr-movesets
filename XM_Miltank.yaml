@@ -5,10 +5,10 @@ setname: Christmas
 item: Mago Berry
 ability: Tangled Feet
 moves:
-    - [Present]
     - [Egg Bomb]
+    - [Lick]
     - [Teeter Dance]
-    - [Milk Drink]
+    - [Milk Drink (=8)]
 gender: [f]
 happiness: 255
 biddable: True
