@@ -8,7 +8,7 @@ moves:
     - [Judgement]
     - [Earthquake]
     - [Seismic Toss]
-    - [Sketch = 0]
+    - [Sketch (=0)]
 gender: [m]
 happiness: 255
 biddable: True
@@ -18,3 +18,4 @@ shiny: True
 nature: Naughty 
 ivs: 31
 evs: 252
+hidden: False
