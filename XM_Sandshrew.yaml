@@ -18,3 +18,4 @@ shiny: True
 nature: Careful
 ivs: 31
 evs: 252
+hidden: False
