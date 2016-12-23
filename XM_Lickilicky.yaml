@@ -18,3 +18,4 @@ shiny: True
 nature: Gentle
 ivs: 31
 evs: 0
+hidden: false
