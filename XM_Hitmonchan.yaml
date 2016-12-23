@@ -9,7 +9,7 @@ moves:
     - [Mach Punch]
     - [Mega Punch]
     - [Ice Punch]
-gender: [f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
