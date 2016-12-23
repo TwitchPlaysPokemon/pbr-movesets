@@ -17,5 +17,5 @@ ball: [Cherish]
 shiny: True
 nature: Adamant
 ivs: 31
-evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+evs: {hp: 140, atk: 180, def: 100, spA: 0, spD: 100, spe: 100}
 hidden: False
