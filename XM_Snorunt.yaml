@@ -9,11 +9,11 @@ moves:
     - [Doom Desire]
     - [Wish]
     - [Acupressure]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.0
-ball: []
+rarity: 1.0
+ball: [Cherish]
 shiny: True
 nature: Modest
 ivs: 31
