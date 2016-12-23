@@ -18,3 +18,4 @@ shiny: True
 nature: Careful
 ivs: 23
 evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+hidden: false
