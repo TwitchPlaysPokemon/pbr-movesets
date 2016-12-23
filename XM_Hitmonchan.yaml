@@ -1,0 +1,20 @@
+species: Hitmonchan
+ingamename: BoxingDay
+displayname: BoxingDay
+setname: Christmas
+item: Lucky Punch
+ability: Iron Fist
+moves:
+    - [Focus Punch]
+    - [Mach Punch]
+    - [Mega Punch]
+    - [Ice Punch]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Serious
+ivs: 31
+evs: 0
