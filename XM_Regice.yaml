@@ -17,3 +17,4 @@ shiny: True
 nature: Naughty
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: False
