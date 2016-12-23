@@ -17,4 +17,4 @@ ball: [Safari]
 shiny: True
 nature: Careful
 ivs: 31
-evs: {hp: 252, atk: 128, def: 0, spA: 0, spD: 128, spd: 128}
+evs: {hp: 252, atk: 128, def: 0, spA: 0, spD: 128, spe: 128}
