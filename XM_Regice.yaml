@@ -10,11 +10,11 @@ moves:
     - [Minimize]
     - [Baton Pass]
 happiness: 255
-biddable: True
-rarity: 1.0
+biddable: False
+rarity: 0.9
 ball: [Timer]
 shiny: True
 nature: Naughty
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
-hidden: False
+hidden: True
