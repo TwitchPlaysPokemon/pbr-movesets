@@ -1,0 +1,111 @@
+species: Bulbasaur
+setname: Stadium 2
+ability: null
+moves:
+    - [Razor Leaf]
+    - [Headbutt]
+    - [Toxic]
+    - [Growth]
+gender: [m]
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}
+hidden: True
+shiny: False
+---
+species: Eevee
+setname: Stadium 2
+ability: null
+moves:
+    - [Razor Leaf]
+    - [Headbutt]
+    - [Toxic]
+    - [Growth]
+gender: [m]
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}
+hidden: True
+shiny: False
+---
+species: Lapras
+setname: Stadium 2
+ability: null
+moves:
+    - [Razor Leaf]
+    - [Headbutt]
+    - [Toxic]
+    - [Growth]
+gender: [m]
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}
+hidden: True
+shiny: False
+---
+species: Pikachu
+setname: Stadium 2
+ability: null
+moves:
+    - [Razor Leaf]
+    - [Headbutt]
+    - [Toxic]
+    - [Growth]
+gender: [m]
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}
+hidden: True
+shiny: False
+---
+species: Caterpie
+setname: Stadium 2
+ability: null
+moves:
+    - [Razor Leaf]
+    - [Headbutt]
+    - [Toxic]
+    - [Growth]
+gender: [m]
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}
+hidden: True
+shiny: False
+---
+species: Wingull
+setname: Stadium 2
+ability: null
+moves:
+    - [Razor Leaf]
+    - [Headbutt]
+    - [Toxic]
+    - [Growth]
+gender: [m]
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}
+hidden: True
+shiny: False
+---
+species: Charizard
+setname: Stadium 2
+ability: null
+moves:
+    - [Razor Leaf]
+    - [Headbutt]
+    - [Toxic]
+    - [Growth]
+gender: [m]
+rarity: 0.0
+nature: Quirky
+ivs: 31
+evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}
+hidden: True
+shiny: False
