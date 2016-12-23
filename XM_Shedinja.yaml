@@ -5,8 +5,10 @@ setname: Future
 item: Reaper Cloth
 ability: Wonder Guard
 moves:
+    - [X-scissor]
     - [Future Sight]
-    - [Curse]
+    - [Mean Look]
+    - [Curse, Memento]
 gender: [m]
 happiness: 255
 biddable: True
