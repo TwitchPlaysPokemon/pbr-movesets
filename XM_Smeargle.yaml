@@ -1,0 +1,20 @@
+species: Smeargle
+ingamename: KappaRoss
+displayname: KappaRoss
+setname: Christmas
+item: Icicle Plate
+ability: Own Tempo
+moves:
+    - [Judgement]
+    - [Earthquake]
+    - [Seismic Toss]
+    - [Sketch = 0]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Naughty 
+ivs: 31
+evs: 252
