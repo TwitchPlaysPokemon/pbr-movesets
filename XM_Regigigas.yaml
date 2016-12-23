@@ -10,11 +10,11 @@ moves:
     - [Helping Hand]
     - [Follow Me]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 1.0
 ball: [Heal]
 shiny: True
 nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
-hidden: False
+hidden: True
