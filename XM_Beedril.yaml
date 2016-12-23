@@ -15,6 +15,6 @@ biddable: True
 rarity: 1.0
 ball: [Net]
 shiny: True
-nature: 
+nature: Rash
 ivs: 31
 evs: {hp: 128, atk: 252, def: 252, spA: 252, spD: 128, spe: 128}
