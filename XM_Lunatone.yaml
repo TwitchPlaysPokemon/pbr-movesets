@@ -9,7 +9,6 @@ moves:
     - [Mean Look]
     - [Hail]
     - [Moon Light]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
