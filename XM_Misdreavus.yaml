@@ -18,3 +18,4 @@ shiny: True
 nature: Jolly
 ivs: 31
 evs: {hp: 100, atk: 100, def: 100, spA: 8, spD: 100, spe: 100}
+hidden: false
