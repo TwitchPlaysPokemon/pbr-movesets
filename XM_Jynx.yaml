@@ -18,3 +18,4 @@ shiny: True
 nature: Bold
 ivs: 31
 evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+hidden: false
