@@ -18,3 +18,4 @@ shiny: True
 nature: Serious
 ivs: 31
 evs: {hp: 172, atk: 70, def: 84, spA: 252, spD: 0, spe: 156}
+hidden: false
