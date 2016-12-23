@@ -251,8 +251,8 @@ ball: [Premier]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Static]
 nature: Adamant
-ivs: {hp: 252, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
     - [Present (=255)]
@@ -308,8 +308,8 @@ ball: [Premier]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Aftermath]
 nature: Adamant
-ivs: {hp: 252, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
     - [Present (=255)]
@@ -327,8 +327,8 @@ ball: [Premier]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Sniper]
 nature: Adamant
-ivs: {hp: 252, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
     - [Present (=255)]
