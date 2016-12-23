@@ -18,3 +18,4 @@ shiny: True
 nature: Sassy
 ivs: 31
 evs: {hp: 220, atk: 80, def: 40, spA: 0, spD: 8, spe: 8}
+hidden: false
