@@ -18,3 +18,4 @@ shiny: True
 nature: Docile
 ivs: 31
 evs: {hp: 20, atk: 0, def: 64, spA: 0, spD: 0, spe: 56}
+hidden: false
