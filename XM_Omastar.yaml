@@ -17,3 +17,4 @@ shiny: True
 nature: Lonely
 ivs: 31
 evs: {hp: 24, atk: 252, def: 0, spA: 0, spD: 0, spe: 232}
+hidden: false
