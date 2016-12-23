@@ -18,3 +18,4 @@ shiny: True
 nature: Modest
 ivs: 31
 evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+hidden: False
