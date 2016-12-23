@@ -5,9 +5,9 @@ setname: Christmas
 item: Shoal Salt
 ability: Guts
 moves:
+    - [Ice Fang]
     - [Smelling Salts]
     - [Ember]
-    - [Ice Fang]
     - [Lick]
 happiness: 255
 biddable: True
