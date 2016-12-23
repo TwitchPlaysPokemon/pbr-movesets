@@ -1,0 +1,20 @@
+species: Plusle
+ingamename: Elf
+displayname: Elf
+setname: Christmas
+item: Leftovers
+ability: Cute Charm
+moves:
+    - [Present]
+    - [Icy Wind]
+    - [Encore]
+    - [Helping Hand]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Brave
+ivs: 31
+evs: 252
