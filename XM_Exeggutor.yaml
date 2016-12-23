@@ -18,3 +18,4 @@ shiny: True
 nature: Brave
 ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 88, spe: 0}
+hidden: false
