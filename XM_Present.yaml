@@ -15,6 +15,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Jynx
 setname: Present
@@ -33,6 +34,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Dugtrio
 setname: Present
@@ -51,6 +53,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Hitmontop
 setname: Present
@@ -69,6 +72,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Magby
 setname: Present
@@ -87,6 +91,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Eevee
 setname: Present
@@ -105,6 +110,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Porygon
 setname: Present
@@ -123,6 +129,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Azurill
 setname: Present
@@ -141,6 +148,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Murkrow
 setname: Present
@@ -159,6 +167,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Torchic
 setname: Present
@@ -177,6 +186,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Shroomish
 setname: Present
@@ -195,6 +205,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Slaking
 setname: Present
@@ -213,6 +224,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Delcatty
 setname: Present
@@ -231,6 +243,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Electrike
 setname: Present
@@ -249,6 +262,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Castform
 setname: Present
@@ -267,6 +281,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Luxio
 setname: Present
@@ -285,6 +300,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Stunky
 setname: Present
@@ -303,6 +319,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
 ---
 species: Skorupi
 setname: Present
@@ -321,3 +338,4 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
+hidden: False
