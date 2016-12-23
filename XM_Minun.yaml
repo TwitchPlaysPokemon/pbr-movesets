@@ -2,13 +2,13 @@ species: Minun
 ingamename: Elf
 displayname: Elf
 setname: Christmas
-item: Leftovers
+item: Silk Scarf
 ability: Cute Charm
 moves:
     - [Present]
-    - [Powder Snow]
+    - [Ice Beam]
     - [Flatter]
-    - [Helping Hand]
+    - [Assist]
 gender: [m, f]
 happiness: 255
 biddable: True
