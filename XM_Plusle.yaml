@@ -2,13 +2,13 @@ species: Plusle
 ingamename: Elf
 displayname: Elf
 setname: Christmas
-item: Leftovers
+item: Silk Scarf
 ability: Cute Charm
 moves:
     - [Present]
-    - [Icy Wind]
+    - [Blizzard]
     - [Encore]
-    - [Helping Hand]
+    - [Assist]
 gender: [m, f]
 happiness: 255
 biddable: True
