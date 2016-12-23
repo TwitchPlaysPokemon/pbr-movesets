@@ -29,7 +29,7 @@ moves:
     - [Present (=255)]
     - [Present (=255)]
     - [Present (=255)]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0
@@ -83,7 +83,7 @@ moves:
     - [Present (=255)]
     - [Present (=255)]
     - [Present (=255)]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0
