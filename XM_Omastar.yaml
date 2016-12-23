@@ -1,0 +1,19 @@
+species: Omastar
+ingamename: HeliXmas
+displayname: HeliXmas
+setname: Christmas
+item: Icicle Plate
+ability: Snow CLoak
+moves:
+    - [Judgement]
+    - [Present]
+    - [Hail]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Lonely
+ivs: 31
+evs: {hp: 24, atk: 252, def: 0, spA: 0, spD: 0, spe: 232}
