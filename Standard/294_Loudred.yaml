@@ -7,6 +7,9 @@ moves:
     - [Overheat]
     - [Ice Beam, Shock Wave, Water Pulse]
     - [Fake Tears]
+combination: 
+    - [Zap Plate, Shock Wave]
+    - [Splash Plate, Water Pulse]
 gender: [m, f]
 happiness: 255
 biddable: True
