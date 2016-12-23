@@ -17,3 +17,4 @@ shiny: True
 nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 0}
 evs: 0
+hidden: false
