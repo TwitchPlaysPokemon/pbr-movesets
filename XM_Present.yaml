@@ -1,0 +1,395 @@
+species: Delibird
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Hustle]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Jynx
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Forewarn]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Dugtrio
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Arena Trap]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Delibird
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Hustle]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Hitmontop
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Technician]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Delibird
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Hustle]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Magby
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Flame Body]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Eevee
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Adaptability]
+nature: Timid
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Delibird
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Hustle]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Porygon
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Download]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Azurill
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Huge Power]
+nature: Jolly
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Murkrow
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Super Luck]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Torchic
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Speed Boost]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Shroomish
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Effect Spore]
+nature: Jolly
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Slaking
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Truant]
+nature: Modest
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Delcatty
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Cute Charm]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Electrike
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Static]
+nature: Adamant
+ivs: {hp: 252, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Castform
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Forecast]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Luxio
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Rivalry]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Stunky
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Aftermath]
+nature: Adamant
+ivs: {hp: 252, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Delibird
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Hustle]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Skorupi
+setname: Present
+ball: [Premier]
+item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
+ability: [Sniper]
+nature: Adamant
+ivs: {hp: 252, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+    - [Present (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
