@@ -18,3 +18,4 @@ shiny: True
 nature: Timid
 ivs: 31
 evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+hidden: false
