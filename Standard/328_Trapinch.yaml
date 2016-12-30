@@ -13,7 +13,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.7
+rarity: 1.5
 ball: [Poké]
 nature: Adamant
 ivs: 31
@@ -21,18 +21,20 @@ evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Trapinch
 setname: Special
-item: [Custap Berry]
+item: [Custap Berry, Choice Specs]
 ability: [Arena Trap]
 moves:
     - [Earth Power]
-    - [Giga Drain, Solarbeam]
-    - [Gust, Sunny Day]
-    - [Endure]
+    - [Signal Beam]
+    - [Hidden Power]
+    - [Endure, Giga Drain]
+combinations:
+    - [Custap Berry, Endure]
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.5
 ball: [Quick]
 nature: Modest
-ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
+ivs: {hp: 31, atk: 3, def: 30, spA: 31, spD: 30, spe: 30}
+evs: {hp: 252, atk: 0, def: 52, spA: 152, spD: 52, spe: 0}
