@@ -24,11 +24,11 @@ item: [Choice Scarf, Choice Band, Choice Specs]
 ability: [Sticky Hold]
 moves:
     - [Gunk Shot]
-    - [Solarbeam]
+    - [SolarBeam, Hyper Beam]
     - [Headbutt, Seed Bomb]
     - [Water Pulse, Shock Wave]
 combinations:
-    - [Choice Scarf, Headbutt]
+    - [Choice Scarf, SolarBeam, Headbutt]
 gender: [m, f]
 happiness: 255
 biddable: True
