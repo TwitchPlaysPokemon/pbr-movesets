@@ -5,7 +5,7 @@ ability: [Quick Feet]
 moves:
     - [Super Fang]
     - [Crunch, Sucker Punch]
-    - [Return, Dig, Iron Tail, Counter]
+    - [Return, Facade, Dig, Iron Tail, Counter]
     - [Swagger, Protect, Endure, Yawn]
 combinations:
     - [Toxic Orb, Protect]
@@ -14,6 +14,9 @@ separations:
     - [Crunch, Yawn]
     - [Toxic Orb, Sucker Punch]
     - [Liechi Berry, Crunch]
+    - [Focus Sash, Facade]
+    - [Leftovers, Facade]
+    - [Liechi Berry, Facade]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -25,7 +28,7 @@ evs: {hp: 80, atk: 252, def: 0, spA: 0, spD: 0, spe: 176}
 ---
 species: Poochyena
 setname: Special
-item: [Flame Orb]
+item: [Toxic Orb]
 ability: [Quick Feet]
 moves:
     - [Dark Pulse]
@@ -38,5 +41,5 @@ biddable: True
 rarity: 0.5
 ball: [Quick]
 nature: Mild
-ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 30, spe: 31}
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
