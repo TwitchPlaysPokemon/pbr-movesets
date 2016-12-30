@@ -13,7 +13,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.7
+rarity: 0.6
 ball: [Net]
 nature: Modest
 ivs: 31
@@ -43,14 +43,14 @@ item: [Liechi Berry]
 ability: [Swift Swim]
 moves:
     - [Bug Bite]
-    - [Secret Power]
-    - [Endure, Quick Attack]
-    - [Rain Dance]
+    - [Aqua Jet, Agility]
+    - [Frustration, Baton Pass]
+    - [Substitute]
 gender: [m, f]
-happiness: 255
+happiness: 0
 biddable: True
-rarity: 0.1
+rarity: 0.2
 ball: [Nest]
 nature: Adamant
 ivs: 31
-evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
