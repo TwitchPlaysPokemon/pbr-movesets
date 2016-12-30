@@ -27,11 +27,12 @@ item: [Cheri Berry, Wide Lens]
 ability: [Blaze]
 moves:
     - [Flare Blitz]
-    - [Hi Jump Kick, Superpower]
+    - [Hi Jump Kick, Superpower, Sky Uppercut]
     - [Brave Bird]
     - [Stone Edge, Earthquake, Mega Kick]
 combinations:
-    - [Wide Lens, Superpower, Mega Kick]
+    - [Cheri Berry, Hi Jump Kick]
+    - [Wide Lens, Mega Kick]
 gender: [m, f]
 happiness: 255
 biddable: True
