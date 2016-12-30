@@ -61,14 +61,14 @@ ivs: 0
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Flygon
-setname: Swords Dance
+setname: Dragon Dance
 item: [Nomel Berry, Hondew Berry]
 ability: [Levitate]
 moves:
     - [Natural Gift]
     - [Steel Wing, Aerial Ace, Feint Attack]
-    - [Quick Attack, Dragon Dance]
-    - [Swords Dance]
+    - [Quick Attack]
+    - [Dragon Dance]
 combinations:
     - [Nomel Berry, Steel Wing]
 gender: [m, f]
