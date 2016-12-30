@@ -20,7 +20,7 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Treecko
 setname: Physical
-item: [Liechi Berry, Power Herb, Nanab Berry, Starf Berry]
+item: [Liechi Berry, Power Herb, Durin Berry, Starf Berry]
 ability: [Unburden]
 moves:
     - [Seed Bomb]
