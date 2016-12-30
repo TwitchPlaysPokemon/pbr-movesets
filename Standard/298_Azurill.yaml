@@ -12,7 +12,7 @@ separations:
 gender: [m, f]
 happiness: 0
 biddable: True
-rarity: 1.7
+rarity: 1.5
 ball: [Net]
 nature: Adamant
 ivs: 31
@@ -20,17 +20,17 @@ evs: {hp: 172, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}
 ---
 species: Azurill
 setname: Special
-item: [Chesto Berry]
+item: [Zoom Lens]
 ability: [Thick Fat]
 moves:
-    - [Ice Beam, Blizzard]
-    - [Surf]
-    - [Fake Tears]
-    - [Rest]
+    - [Hyper Voice]
+    - [Hydro Pump]
+    - [Blizzard, Fake Tears]
+    - [Sing, Swagger]
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.5
 ball: [Dive]
 nature: Modest
 ivs: 31
