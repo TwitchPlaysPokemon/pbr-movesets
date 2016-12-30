@@ -46,6 +46,8 @@ moves:
     - [Aqua Jet, Agility]
     - [Frustration, Baton Pass]
     - [Substitute]
+combinations:
+    - [Aqua Jet, Frustration]
 gender: [m, f]
 happiness: 0
 biddable: True
