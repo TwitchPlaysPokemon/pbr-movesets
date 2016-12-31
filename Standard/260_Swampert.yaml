@@ -41,12 +41,12 @@ setname: Special
 item: [Soft Sand, Poison Barb, Hard Stone, NeverMeltIce]
 ability: [Damp, Torrent]
 moves:
-    - [Muddy Water, Water Pulse]
-    - [Mud Shot, Mud Bomb]
+    - [Muddy Water, Mud Shot]
+    - [Water Pulse, Mud Bomb]
     - [Sludge, Ancientpower, Icy Wind]
-    - [Growl, Stealth Rock, Attract]
+    - [Growl, Stealth Rock, Attract, Mimic]
 combinations:
-    - [Soft Sand, Muddy Water, Mud Shot]
+    - [Soft Sand, Mud Shot, Water Pulse]
 separations:
     - [Mud Shot, Icy Wind]
     - [Poison Barb, Ancientpower]
