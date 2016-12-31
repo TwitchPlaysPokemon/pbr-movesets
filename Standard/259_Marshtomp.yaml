@@ -4,10 +4,11 @@ item: [Aspear Berry, Rawst Berry, Pecha Berry, Soft Sand, Toxic Plate]
 ability: [Torrent, Damp]
 moves:
     - [Surf, Hydro Pump, Muddy Water, Aqua Tail]
-    - [Earth Power, Earthquake, Dig, Mud Bomb]
+    - [Earth Power, Earthquake, Dig, Mud Shot]
     - [Ice Beam, Sludge, Rock Slide, Bide]
     - [Barrier, Curse, Stealth Rock, Toxic, Mirror Coat, Counter]
 combinations:
+    - [Soft Sand, Mud Shot]
     - [Dig, Toxic]
     - [Aqua Tail, Curse]
 separations:
