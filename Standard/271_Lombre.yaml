@@ -1,6 +1,6 @@
 species: Lombre
 setname: Own Tempo
-item: [Leaf Stone, Rose Incense, Power Herb, Poison Barb]
+item: [Iapapa Berry, Rose Incense, Power Herb, Poison Barb]
 ability: [Own Tempo]
 moves:
     - [Hydro Pump, Surf]
@@ -19,7 +19,7 @@ happiness: 255
 biddable: True
 rarity: 0.9
 ball: [Nest]
-nature: Docile
+nature: Hasty
 ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 31}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
