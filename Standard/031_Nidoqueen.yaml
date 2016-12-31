@@ -19,7 +19,7 @@ biddable: true
 ball: [Safari]
 ---
 species: Nidoqueen
-setname: Specs
+setname: Special
 item: [Choice Specs]
 ability: [Poison Point]
 nature: Adamant
@@ -27,10 +27,10 @@ ivs: 13
 evs: 0
 moves:
     - [Earth Power]
+    - [Flamethrower, Blizzard, Thunder]
+    - [Ice Beam, Thunderbolt]
     - [Surf, Shadow Ball, Dragon Pulse]
-    - [Flamethrower, Thunderbolt, Ice Beam]
-    - [Blizzard, Thunder]
-combinations:
+separations:
     - [Ice Beam, Blizzard]
     - [Thunderbolt, Thunder]
 gender: [f]
