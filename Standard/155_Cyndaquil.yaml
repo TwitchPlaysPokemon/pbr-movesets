@@ -14,12 +14,12 @@ separations:
 gender: [m, f]
 rarity: 1.0
 nature: Modest
-ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 30, spe: 31}
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
 evs: {hp: 36, atk: 0, def: 20, spA: 180, spD: 20, spe: 252}
 ---
 species: Cyndaquil
 setname: Physical
-item: [Red Shard, Liechi Berry, Sharp Beak, Power Herb]
+item: [Leftovers, Liechi Berry, Sharp Beak]
 ability: [Flash Fire, Blaze]
 moves:
     - [Flare Blitz]
@@ -29,9 +29,8 @@ moves:
 combinations:
     - [Blaze, Liechi Berry, Endure]
     - [Sharp Beak, Aerial Ace]
-    - [Power Herb, Dig]
 gender: [m, f]
 rarity: 1.0
 nature: Jolly
 ivs: 31
-evs: {hp: 80, atk: 180, def: 34, spA: 0, spD: 34, spe: 180}
+evs: {hp: 84, atk: 180, def: 32, spA: 0, spD: 32, spe: 180}
