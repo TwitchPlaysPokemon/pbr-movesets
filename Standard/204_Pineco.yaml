@@ -19,9 +19,9 @@ setname: Sweeper
 item: [Salac Berry]
 ability: [Sturdy]
 moves:
-    - [Bug Bite, Pin Missile]
+    - [Bug Bite]
     - [Earthquake]
-    - [Rock Slide, Flail]
+    - [Rock Slide]
     - [Power Trick]
 gender: [m, f]
 rarity: 1.0
