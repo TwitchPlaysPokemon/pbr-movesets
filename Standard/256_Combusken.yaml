@@ -16,6 +16,7 @@ separations:
     - [Blaze, Baton Pass]
     - [Blaze, Protect]
     - [Blaze, Focus Energy]
+    - [Vacuum Wave, Bulk Up]
 gender: [m, f]
 happiness: 255
 biddable: True
