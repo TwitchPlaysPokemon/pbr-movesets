@@ -7,6 +7,8 @@ moves:
     - [Zen Headbutt, Double Kick, Megahorn]
     - [Shadow Ball, Energy Ball, Extrasensory]
     - [Thunder Wave, Calm Mind, Me First]
+separations:
+    - [Zen Headbutt, Extrasensory]
 gender: [m, f]
 happiness: 255
 biddable: True
