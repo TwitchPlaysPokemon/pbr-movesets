@@ -1,12 +1,14 @@
 species: Stantler
-setname: Standard
-item: [null]
+setname: Mixed
+item: [Ether, Fist Plate]
 ability: [Intimidate]
 moves:
     - [Stomp, Swift, Take Down]
-    - [Zen Headbutt, Double Kick, Megahorn]
+    - [Zen Headbutt, Double Kick, Iron Tail]
     - [Shadow Ball, Energy Ball, Extrasensory]
-    - [Thunder Wave, Calm Mind, Me First]
+    - [Thunder Wave, Calm Mind, Last Resort]
+combinations:
+    - [Fist Plate, Double Kick]
 separations:
     - [Zen Headbutt, Extrasensory]
 gender: [m, f]
@@ -17,3 +19,24 @@ ball: [Nest]
 nature: Bashful
 ivs: 19
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+---
+species: Stantler
+setname: Physical
+item: [White Herb, BlackGlasses]
+ability: [Frisk]
+moves:
+    - [Body Slam, Return, Double-Edge]
+    - [Earthquake]
+    - [Jump Kick, Megahorn, Bite]
+    - [Me First]
+combinations:
+    - [BlackGlasses, Bite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Modest
+ivs: 31
+evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 0, spe: 128}
+
