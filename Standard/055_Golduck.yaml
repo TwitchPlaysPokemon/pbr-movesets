@@ -20,5 +20,33 @@ separations:
 gender: [m, f]
 biddable: true
 happiness: 255
-rarity: 1.0
+rarity: 0.5
 ball: [Heal]
+---
+species: Golduck
+setname: High Stats
+item: [Kings Rock, Persim Berry]
+ability: [Cloud Nine]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 168, def: 84, spA: 0, spD: 84, spe: 88}
+moves:
+    - [BubbleBeam]
+    - [Psybeam, Tri Attack, Aerial Ace, Skull Bash]
+    - [Fury Swipes, Future Sight, Low Kick, Icy Wind]
+    - [Me First]
+combinations:
+    - [Kings Rock, Fury Swipes]
+separations:
+    - [Psybeam, Future Sight]
+    - [Psybeam, Icy Wind]
+    - [Tri Attack, Future Sight]
+    - [Tri Attack, Icy Wind]
+    - [Tri Attack, Fury Swipes]
+    - [Aerial Ace, Fury Swipes]
+    - [Skull Bash, Fury Swipes]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 0.5
+ball: [Dive]
