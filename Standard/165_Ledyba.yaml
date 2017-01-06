@@ -4,7 +4,7 @@ item: [Petaya Berry]
 ability: [Swarm]
 moves:
     - [Bug Buzz]
-    - [Air Slash, Hidden Power]
+    - [Air Slash]
     - [Agility]
     - [Endure]
 gender: [m, f]
