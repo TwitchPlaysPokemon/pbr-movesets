@@ -18,7 +18,7 @@ evs: {hp: 28, atk: 252, def: 4, spA: 0, spD: 0, spe: 224}
 ---
 species: Nuzleaf
 setname: Special
-item: [Tanga Berry, Kebia Berry, Occa Berry, Charti Berry]
+item: [Tanga Berry, Kebia Berry, Occa Berry, Chople Berry]
 ability: [Early Bird, Chlorophyll]
 moves:
     - [Dark Pulse]
@@ -27,7 +27,7 @@ moves:
     - [Nasty Plot]
 combinations:
     - [Tanga Berry, Chlorophyll, Sunny Day]
-    - [Kebia Berry, Extrasensory]
+    - [Occa Berry, Nature Power]
 gender: [m, f]
 happiness: 255
 biddable: True
