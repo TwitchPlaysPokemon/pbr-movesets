@@ -39,8 +39,8 @@ biddable: True
 rarity: 1.0
 ball: [Ultra]
 nature: Modest
-ivs: 0
-evs: {hp: 0, atk: 0, def: 20, spA: 4, spD: 20, spe: 52}
+ivs: {hp: 3, atk: 2, def: 3, spA: 3, spD: 2, spe: 2}
+evs: {hp: 0, atk: 0, def: 8, spA: 0, spD: 12, spe: 44}
 ---
 species: Tyranitar
 setname: Overpowered
