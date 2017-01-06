@@ -33,7 +33,7 @@ separations:
 rarity: 0.7
 ball: [Timer]
 nature: Jolly
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 31}
 evs: {hp: 0, atk: 0, def: 40, spA: 4, spD: 40, spe: 252}
 ---
 species: Zapdos
