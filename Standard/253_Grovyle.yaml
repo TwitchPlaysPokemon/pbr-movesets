@@ -26,5 +26,5 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 nature: Naughty
-ivs: 31
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 88}
