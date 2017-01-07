@@ -1,0 +1,20 @@
+﻿species: Fearow
+ingamename: "3 '' ☃︎) %"
+displayname: "3 '' ☃︎) %"
+setname: Sun
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Drill Peck]
+    - [Swift]
+    - [Mud-Slap]
+    - [Mirror Move]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Mild
+ivs: {hp: 10, atk: 10, def: 10, spA: 31, spD: 10, spe: 10}
+evs: {hp: 0, atk: 252, def: , spA: 252, spD: 0, spe: 4}

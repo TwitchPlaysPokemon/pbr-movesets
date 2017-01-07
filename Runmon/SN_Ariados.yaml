@@ -1,0 +1,20 @@
+﻿species: Ariados
+ingamename: "⤵︎!?ro s!h"
+displayname: "⤵︎!?ro s!h"
+setname: Sun
+item: [Null]
+ability: [Swarm]
+moves:
+    - [Leech Life]
+    - [Sucker Punch]
+    - [Toxic]
+    - [Agility]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 40, atk: 252, def: 20, spA: 0, spD: 60, spe: 136}

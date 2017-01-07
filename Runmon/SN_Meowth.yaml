@@ -1,0 +1,20 @@
+species: Meowth
+ingamename: "kkk66''"
+displayname: "kkk66''"
+setname: Sun
+item: [Null]
+ability: [Technician]
+moves:
+    - [Fake Out]
+    - [Fury Swipes]
+    - [Bite]
+    - [Growl]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Adamant 
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
