@@ -26,7 +26,7 @@ evs: {hp: 60, atk: 40, def: 112, spA: 0, spD: 128, spe: 168}
 ---
 species: Ariados
 setname: Special
-item: [Wise Glasses, Insect Plate, Mind Plate, Meadow Plate, Salac Berry, Petaya Berry]
+item: [Wise Glasses, Mind Plate, Meadow Plate, Salac Berry, Petaya Berry]
 ability: [Swarm, Insomnia, Sniper]
 moves:
     - [Sludge Bomb, Signal Beam]
@@ -34,7 +34,6 @@ moves:
     - [Night Shade, Giga Drain, Solarbeam]
     - [Toxic Spikes, Disable, Sunny Day, Endure, Substitute]
 combinations:
-    - [Insect Plate, Signal Beam]
     - [Mind Plate, Psybeam]
     - [Meadow Plate, Giga Drain]
     - [Solarbeam, Sunny Day]
