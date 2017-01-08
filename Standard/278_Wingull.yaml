@@ -11,10 +11,12 @@ combinations:
     - [Focus Sash, Rain Dish]
 separations:
     - [Hidden Power, Rain Dance]
+    - [Hidden Power, Drizzle]
+    - [Drizzle, Rain Dance]
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.8
+rarity: 1.0
 ball: [Nest]
 nature: Modest
 ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
@@ -34,7 +36,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.2
+rarity: 0.3
 ball: [Dive]
 nature: Adamant
 ivs: 31
