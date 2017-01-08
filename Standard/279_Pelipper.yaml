@@ -52,8 +52,8 @@ biddable: True
 rarity: 1.0
 ball: [Dive]
 nature: Sassy
-ivs: {hp: 6, atk: 6, def: 6, spA: 7, spD: 7, spe: 7}
-evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
+ivs: {hp: 7, atk: 7, def: 7, spA: 6, spD: 6, spe: 6}
+evs: {hp: 96, atk: 0, def: 96, spA: 104, spD: 104, spe: 108}
 ---
 species: Pelipper
 setname: Physical
