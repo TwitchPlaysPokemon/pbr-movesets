@@ -30,7 +30,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.9
+rarity: 1.0
 ball: [Luxury]
 nature: Docile
 ivs: 0
@@ -54,7 +54,7 @@ separations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.9
+rarity: 1.0
 ball: [Nest]
 nature: Brave
 ivs: 0
