@@ -32,3 +32,21 @@ ball: [Ultra]
 nature: Adamant
 ivs: {hp: 1, atk: 2, def: 3, spA: 2, spD: 2, spe: 3}
 evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 100, spe: 0}
+
+species: Ampharos
+setname: Mega
+item: [Everstone]
+ability: [Mold Breaker]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 100, spD: 0, spe: 0}
+moves:
+    - [Discharge]
+    - [Dragon Pulse]
+    - [Barrier]
+    - [Heal Bell]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 0.2
+ball: [Quick]
