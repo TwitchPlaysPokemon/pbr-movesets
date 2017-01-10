@@ -76,3 +76,22 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Repeat]
+
+---
+species: Pinsir
+setname: Mega
+item: [Sky Plate]
+ability: [Technician]
+nature: Calm
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Aerial Ace]
+    - [Earthquake, Close Combat]
+    - [Quick Attack]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
