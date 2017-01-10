@@ -1,5 +1,5 @@
 species: Meowth
-setname: Standard
+setname: Physical
 item: [King's Rock, Scope Lens]
 ability: [Technician]
 nature: Adamant
@@ -39,4 +39,5 @@ separations:
 gender: [m,f]
 happiness: 255
 biddable: true
+rarity: 1.0
 ball: [Cherish]
