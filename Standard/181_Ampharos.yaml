@@ -48,5 +48,5 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 0.2
+rarity: 0.25
 ball: [Quick]
