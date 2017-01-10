@@ -24,7 +24,7 @@ nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 84, atk: 0, def: 32, spA: 252, spD: 32, spe: 108}
 moves:
-    - [Air Cutter]
+    - [Air Cutter, Trump Card (=2)]
     - [Heat Wave]
     - [Ominous Wind, Yawn]
     - [Sand-Attack, Double Team, Sunny Day, Protect]
