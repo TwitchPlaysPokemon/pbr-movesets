@@ -51,3 +51,21 @@ happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Timer]
+---
+species: Kangaskhan
+setname: Mega
+item: [Everstone]
+ability: [Technician]
+nature: Quiet
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Fake Out]
+    - [Double Hit]
+    - [Double Kick]
+    - [Sucker Punch, Seismic Toss]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Luxury]
