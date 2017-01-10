@@ -17,7 +17,7 @@ combinations:
 gender: [m, f]
 happiness: 200
 biddable: true
-rarity: 1.4
+rarity: 1.0
 ball: [Luxury]
 ---
 species: Pidgeot
@@ -35,7 +35,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 0.8
+rarity: 0.6
 ball: [Ultra]
 ---
 species: Pidgeot
@@ -56,5 +56,23 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 0.8
+rarity: 0.6
 ball: [Heal]
+---
+species: Pidgeot
+setname: Mega
+item: [Everstone]
+ability: [No Guard]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 100, spD: 0, spe: 0}
+moves:
+    - [Hyper Beam]
+    - [Air Cutter]
+    - [Heat Wave]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 0.3
+ball: [Quick]
