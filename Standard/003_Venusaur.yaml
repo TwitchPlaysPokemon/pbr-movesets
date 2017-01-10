@@ -27,3 +27,18 @@ moves:
     - [Growth, Curse, Amnesia, Safeguard, String Shot, Roar]
 gender: [m, f]
 ball: [Ultra]
+---
+species: Venusaur
+setname: Mega
+item: [Everstone]
+ability: [Thick Fat]
+nature: Serious
+ivs: {hp: 3, atk: 2, def: 3, spA: 2, spD: 3, spe: 2}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Sludge]
+    - [Giga Drain]
+    - [Hidden Power]
+    - [Growth, Knock Off]
+gender: [m, f]
+ball: [Ultra]
