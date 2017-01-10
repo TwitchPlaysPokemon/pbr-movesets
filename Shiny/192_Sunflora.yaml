@@ -1,0 +1,18 @@
+species: Sunflora
+setname: Shiny
+item: [Stick]
+ability: [Frisk]
+moves:
+    - [Leaf Storm]
+    - [Air Slash]
+    - [Flatter]
+    - [Heart Swap]
+gender: [m]
+happiness: 0
+shiny: True
+biddable: False
+hidden: True
+ball: [Dusk]
+nature: Timid
+ivs: 31
+evs: {hp: 168, atk: 0, def: 224, spA: 0, spD: 116, spe: 252}
