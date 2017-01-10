@@ -63,3 +63,21 @@ ball: [Ultra]
 nature: Brave
 ivs: 31
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+---
+species: Swampert
+setname: Mega
+item: [Everstone]
+ability: [Swift Swim]
+moves:
+    - [Hydro Cannon]
+    - [Mega Punch]
+    - [Rock Throw]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
