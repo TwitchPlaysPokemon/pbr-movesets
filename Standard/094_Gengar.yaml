@@ -24,8 +24,8 @@ nature: Impish
 ivs: 0
 evs: {hp: 172, atk: 0, def: 168, spA: 0, spD: 168, spe: 0}
 moves:
-    - [Shadow Ball]
     - [Sludge Bomb]
+    - [Shadow Ball]
     - [Focus Blast, Thunderbolt, Psychic]
     - [Embargo, Snatch, Taunt, Torment]
 gender: [m, f]
@@ -51,3 +51,21 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Ultra]
+---
+species: Gengar
+setname: Mega
+item: [Everstone]
+ability: [Shadow Tag]
+nature: Naughty
+ivs: 0
+evs: 0
+moves:
+    - [Dark Pulse]
+    - [Night Shade]
+    - [Perish Song]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
