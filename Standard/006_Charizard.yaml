@@ -31,3 +31,19 @@ moves:
 gender: [m, f]
 rarity: 1.0
 ball: [Ultra]
+---
+species: Charizard
+setname: Mega
+item: [Dragon Fang]
+ability: [Blaze]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Fire Punch]
+    - [Dragon Claw]
+    - [Will-o-Wisp]
+    - [Dragon Dance]
+gender: [m, f]
+rarity: 0.2
+ball: [Ultra]
