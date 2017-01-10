@@ -59,3 +59,21 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Luxury]
+---
+species: Lopunny
+setname: Mega
+item: [Everstone]
+ability: [Scrappy]
+nature: Adamant
+ivs: 12
+evs: {hp: 0, atk: 76, def: 0, spA: 0, spD: 0, spe: 76}
+moves:
+    - [Fake Out]
+    - [Frustration]
+    - [High Jump Kick]
+    - [Quick Attack, Ice Punch, Healing Wish]
+gender: [f]
+happiness: 0
+biddable: True
+rarity: 0.3
+ball: [Heal]
