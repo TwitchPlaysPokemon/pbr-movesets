@@ -22,8 +22,26 @@ separations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.85
 ball: [Ultra]
 nature: Serious
 ivs: 9
 evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+---
+species: Glalie
+setname: Mega
+item: [Icicle Plate]
+ability: [Inner Focus]
+moves:
+    - [Judgment]
+    - [Earthquake]
+    - [Ice Shard]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Ultra]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
