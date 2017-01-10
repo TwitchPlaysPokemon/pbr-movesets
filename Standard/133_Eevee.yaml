@@ -26,7 +26,7 @@ setname: Special
 item: [Silk Scarf, Wise Glasses, Sitrus Berry]
 ability: [Adaptability]
 moves:
-    - [Trump Card]
+    - [Trump Card (=3)]
     - [Shadow Ball, Hidden Power]
     - [Wish, Yawn, Mud-Slap]
     - [Fake Tears, Protect]
