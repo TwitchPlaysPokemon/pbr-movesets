@@ -11,6 +11,7 @@ moves:
     - [Rock Smash, Rock Climb, Headbutt]
     - [Charm, Knock Off, Rage, Defense Curl]
 gender: [m, f]
+rarity: 0.9
 ball: [Ultra]
 ---
 species: Venusaur
@@ -26,6 +27,7 @@ moves:
     - [Nature Power]
     - [Growth, Curse, Amnesia, Safeguard, String Shot, Roar]
 gender: [m, f]
+rarity: 0.9
 ball: [Ultra]
 ---
 species: Venusaur
@@ -41,4 +43,5 @@ moves:
     - [Hidden Power]
     - [Growth, Knock Off]
 gender: [m, f]
+rarity: 0.1
 ball: [Ultra]
