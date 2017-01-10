@@ -50,3 +50,20 @@ gender: [m, f]
 biddable: True
 rarity: 0.4
 ball: [Ultra]
+---
+species: Blastoise
+setname: Mega
+item: [Everstone]
+ability: [Torrent]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 0, spe: 0}
+moves:
+    - [Water Pulse]
+    - [Dragon Pulse]
+    - [Dark Pulse]
+    - [Aura Sphere]
+gender: [m, f]
+biddable: True
+rarity: 0.3
+ball: [Ultra]
