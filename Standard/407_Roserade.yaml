@@ -38,9 +38,9 @@ species: Roserade
 setname: Special
 item: [Life Orb]
 ability: [Technician]
-nature: Hardy
+nature: Adamant
 ivs: {hp: 29, atk: 29, def: 29, spA: 31, spD: 31, spe: 29}
-evs: {hp: 0, atk: 216, def: 128, spA: 100, spD: 0, spe: 64}
+evs: {hp: 0, atk: 252, def: 192, spA: 0, spD: 0, spe: 64}
 moves:
     - [Mega Drain, Grass Knot]
     - [Hidden Power]
