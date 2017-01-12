@@ -12,8 +12,8 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Premier]
-nature: Brave
-ivs: {hp: 31, atk: 31, def: 31, spA: 13, spD: 31, spe: 31}
+nature: Naughty
+ivs: 5
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Togekiss
@@ -28,6 +28,8 @@ moves:
 separations:
     - [Aura Sphere, Sunny Day]
     - [Focus Punch, Sunny Day]
+    - [Focus Punch, Defog]
+    - [Focus Punch, Lucky Chant]
     - [Psychic, Sunny Day]
 gender: [m, f]
 happiness: 255
@@ -36,7 +38,7 @@ rarity: 1.0
 ball: [Quick]
 nature: Adamant
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Togekiss
 setname: Super Luck
