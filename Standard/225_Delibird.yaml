@@ -22,13 +22,13 @@ evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 0, spe: 168}
 ---
 species: Delibird
 setname: Special
-item: [Wise Glasses, Icicle Plate, Silk Scarf, Splash Plate, Icy Rock, Lum Berry]
+item: [Wise Glasses, Icicle Plate, Silk Scarf, Splash Plate, Icy Rock]
 ability: [Vital Spirit, Insomnia]
 moves:
     - [Ice Beam, Blizzard, Aurora Beam]
     - [Hidden Power]
     - [Signal Beam, Water Pulse, Swift, Mud-Slap, Toxic]
-    - [Hail, Rain Dance, Splash, Rest, Double Team, Protect]
+    - [Hail, Rain Dance, Splash, Double Team, Protect]
 combinations:
     - [Toxic, Protect]
     - [Icicle Plate, Aurora Beam]
@@ -36,7 +36,6 @@ combinations:
     - [Silk Scarf, Swift]
     - [Icy Rock, Hail]
     - [Mud-Slap, Double Team]
-    - [Lum Berry, Rest]
 separations:
     - [Signal Beam, Rain Dance]
     - [Swift, Rain Dance]
