@@ -192,14 +192,14 @@ happiness: 255
 biddable: True
 rarity: 0
 ---
-species: Pachirisu
+species: Politoed
 setname: Metronome
-ball: [Master]
-item: [Starf Berry]
-ability: [Run Away]
-nature: Lax
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
+ball: [Dive]
+item: [Qualot Berry]
+ability: [Damp]
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 16}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -210,14 +210,14 @@ happiness: 255
 biddable: True
 rarity: 0
 ---
-species: Chatot
+species: Sunflora
 setname: Metronome
 ball: [Heal]
-item: [Jaboca Berry]
-ability: [Keen Eye]
-nature: Brave
-ivs: 31
-evs: {hp: 0, atk: 144, def: 4, spA: 184, spD: 0, spe: 0}
+item: [Quick Claw]
+ability: [Solar Power]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 10, spD: 10, spe: 0}
+evs: {hp: 0, atk: 136, def: 0, spA: 184, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -228,14 +228,14 @@ happiness: 255
 biddable: True
 rarity: 0
 ---
-species: Toxicroak
+species: Vigoroth
 setname: Metronome
-ball: [Safari]
-item: [Shuca Berry]
-ability: [Dry Skin]
-nature: Gentle
-ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: 0
+ball: [Timer]
+item: [Rowap Berry]
+ability: [Vital Spirit]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 17}
+evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 64, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -246,14 +246,121 @@ happiness: 255
 biddable: True
 rarity: 0
 ---
-species: Weavile
+species: Mawile
 setname: Metronome
-ball: [Dusk]
-item: [Liechi Berry]
-ability: [Pressure]
+ball: [Heal]
+item: [Hondew Berry]
+ability: [Hyper Cutter]
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 40, def: 0, spA: 200, spD: 84, spe: 84}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Wailord
+setname: Metronome
+ball: [Dive]
+item: [Mental Herb]
+ability: [Water Veil]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Altaria
+setname: Metronome
+ball: [Ultra]
+item: [Magost Berry]
+ability: [Cloud Nine]
 nature: Rash
-ivs: {hp: 0, atk: 0, def: 31, spA: 31, spD: 15, spe: 31}
-evs: {hp: 0, atk: 52, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 116, def: 0, spA: 44, spD: 0, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Seviper
+setname: Metronome
+ball: [Great]
+item: [Pomeg Berry]
+ability: [Shed Skin]
+nature: Serious
+ivs: {hp: 15, atk: 15, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 36, spA: 0, spD: 48, spe: 144}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Absol
+setname: Metronome
+ball: [Premier]
+item: [Lansat Berry]
+ability: [Super Luck]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 21, spA: 31, spD: 21, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 64}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Bibarel
+setname: Metronome
+ball: [Poké]
+item: [White Herb]
+ability: [Simple]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 24, spA: 252, spD: 24, spe: 96}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+---
+species: Froslass
+setname: Metronome
+ball: [Premier]
+item: [Hondew Berry]
+ability: [Snow Cloak]
+nature: Quiet
+ivs: {hp: 1, atk: 31, def: 11, spA: 31, spD: 16, spe: 0}
+evs: {hp: 0, atk: 32, def: 0, spA: 52, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
