@@ -47,7 +47,7 @@ moves:
     - [Aqua Ring]
     - [Rain Dance]
 gender: [m, f]
-biddable: True
+biddable: False
 rarity: 0.4
 ball: [Ultra]
 ---
