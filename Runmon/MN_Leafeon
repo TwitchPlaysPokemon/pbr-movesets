@@ -1,0 +1,20 @@
+species: Leafeon
+ingamename: Leafeom
+displayname: Leafeom
+setname: Moon
+item: [Null]
+ability: [Chlorphyll]
+moves:
+    - [Giga Drain]
+    - [Razor Leaf]
+    - [Tackle]
+    - [Growl]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 252, spe: o}
