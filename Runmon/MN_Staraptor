@@ -1,0 +1,20 @@
+species: Staraptor
+ingamename: "Staravia♀l"
+displayname: "Staravia♀l"
+setname: Moon
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Brave Bird]
+    - [Fly]
+    - [Close Combat]
+    - [Endeavor]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Bold
+ivs: 0
+evs: 0
