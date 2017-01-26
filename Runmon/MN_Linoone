@@ -1,0 +1,20 @@
+species: Linoone
+ingamename: "k6'~MMCMQ"
+displayname: "k6'~MMCMQ"
+setname: Moon
+item: [Null]
+ability: [Gluttony]
+moves:
+    - [Double-Edge]
+    - [Covet]
+    - [Tail Whip]
+    - [Sand Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Jolly
+ivs: 31
+evs: {hp: 129, atk: 129, def: 0, spA: 0, spD: 0, spe: 252}
