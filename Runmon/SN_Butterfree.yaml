@@ -2,7 +2,7 @@ species: Butterfree
 ingamename: "!!zyvvv bbry"
 displayname: "!!zyvvv bbry"
 setname: Sun
-item: [Poké Ball]
+item: [PokÃ© Ball]
 ability: [Compoundeyes]
 moves:
     - [Gust]
@@ -13,7 +13,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.0
-ball: [Poké]
+ball: [PokÃ©]
 shiny: False
 nature: Modest
 ivs: 31
