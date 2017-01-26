@@ -52,7 +52,7 @@ gender: [m, f]
 happiness: 255
 rarity: 0.8
 ball: [Net]
-
+---
 species: Beedrill  
 setname: Mega
 item: [Everstone]
@@ -66,7 +66,7 @@ moves:
     - [Assurance, Bonemerang, Brick Break]
     - [Protect, Knock Off]
 separations:
-    -[Assurance, Knock Off]
+    - [Assurance, Knock Off]
 gender: [m, f]
 happiness: 255
 biddable: true
