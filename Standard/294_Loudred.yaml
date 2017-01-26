@@ -7,7 +7,7 @@ moves:
     - [Overheat]
     - [Ice Beam, Shock Wave, Water Pulse]
     - [Fake Tears]
-combination: 
+combinations: 
     - [Zap Plate, Shock Wave]
     - [Splash Plate, Water Pulse]
 gender: [m, f]
