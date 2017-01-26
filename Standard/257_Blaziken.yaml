@@ -4,7 +4,7 @@ item: [Heart Mail, Blackbelt]
 ability: [Blaze]
 moves:
     - [Heat Wave, Blast Burn, Blaze Kick, Fire Punch]
-    - [Sky Uppercut, Brick Break, Hidden Power, Vacuum Wave]
+    - [Sky Uppercut, Brick Break, Double Kick, Hidden Power, Vacuum Wave]
     - [Bounce, Thunder Punch, Shadow Claw, Solarbeam]
     - [Agility, Captivate, Feather Dance, Role Play, Sand Attack]
 combinations:
@@ -31,7 +31,7 @@ moves:
     - [Brave Bird]
     - [Stone Edge, Earthquake, Mega Kick]
 combinations:
-    - [Cheri Berry, Hi Jump Kick]
+    - [Cheri Berry, High Jump Kick]
     - [Wide Lens, Mega Kick]
 gender: [m, f]
 happiness: 255
