@@ -64,7 +64,7 @@ rarity: 1.0
 ball: [Poké]
 nature: Jolly
 ivs: 31
-evs: {hp: 104, atk: 100, def: 100, spA: 100, spD: 100, spe: 104}
+evs: {hp: 104, atk: 100, def: 100, spA: 0, spD: 100, spe: 104}
 ---
 species: Dodrio
 setname: Special
