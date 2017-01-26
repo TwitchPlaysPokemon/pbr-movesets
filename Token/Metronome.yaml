@@ -164,7 +164,6 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m, f]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
