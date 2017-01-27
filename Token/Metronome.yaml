@@ -233,7 +233,7 @@ item: [Quick Claw]
 ability: [Solar Power]
 nature: Relaxed
 ivs: {hp: 31, atk: 31, def: 31, spA: 10, spD: 10, spe: 0}
-evs: {hp: 0, atk: 136, def: 0, spA: 184, spD: 0, spe: 0}
+evs: {hp: 0, atk: 136, def: 0, spA: 0, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
