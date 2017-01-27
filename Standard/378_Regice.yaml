@@ -14,6 +14,7 @@ combinations:
     - [Toxic, Block]
 separations:
     - [Ice Beam, Flash Cannon]
+    - [Iron Head, Flash Cannon]
 happiness: 255
 biddable: True
 rarity: 1.0
