@@ -27,6 +27,8 @@ moves:
     - [Return, Zen Headbutt]
     - [Sleep Powder]
     - [Screech, Substitute]
+combinations:
+    - [Silverpowder, Bug Bite]
 gender: [m, f]
 biddable: true
 ball: [Net]
