@@ -32,12 +32,11 @@ ability: [Oblivious, Forewarn, Hydration]
 moves:
     - [Fake Out, Ice Punch]
     - [Zen Headbutt]
-    - [Ice Punch, Avalanche]
+    - [Avalanche]
     - [Seismic Toss, Dynamic Punch, Fling]
 combinations:
     - [Flame Orb, Fling]
     - [Wide Lens, Dynamic Punch]
-    - [Fake Out, Avalanche]
 separations:
     - [Flame Orb, Fake Out]
 gender: [f]
