@@ -62,7 +62,7 @@ setname: Mega
 item: [Everstone]
 ability: [Huge Power]
 moves:
-    - [Flash Cannon]
+    - [Metal Claw]
     - [Fire Fang]
     - [Sucker Punch, Focus Punch]
     - [Substitute, Swords Dance]
@@ -74,5 +74,5 @@ biddable: True
 rarity: 0.3
 ball: [Timer]
 nature: Calm
-ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 160, spD: 108, spe: 0}
+ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
