@@ -20,3 +20,21 @@ ball: [Dusk]
 nature: Brave
 ivs: 31
 evs: {hp: 132, atk: 56, def: 132, spA: 56, spD: 132, spe: 0}
+---
+species: Cacturne
+setname: Physical
+item: [Yache Berry, Rare Bone]
+ability: [Water Absorb]
+moves:
+    - [Seed Bomb]
+    - [Sucker Punch, Fling]
+    - [Drain Punch, Low Kick, Poison Jab, Thunderpunch]
+    - [Disable, Spite, Leer, Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Relaxed
+ivs: 9
+evs: {hp: 0, atk: 0, def: 112, spA: 0, spD: 144, spe: 0}
