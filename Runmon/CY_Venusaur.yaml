@@ -1,0 +1,20 @@
+species: Venusaur
+ingamename: "-SJJJJxMN"
+displayname: "-SJJJJxMN"
+setname: Chatty Yellow
+item: [null]
+ability: [null]
+moves:
+    - [Solar Beam]
+    - [Razor Leaf]
+    - [Cut]
+    - [Sleep Powder]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
