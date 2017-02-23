@@ -1,0 +1,20 @@
+species: Wigglytuff
+ingamename: IZZZZZZZZQ 
+displayname: IZZZZZZZZQ 
+setname: Chatty Yellow
+item: [null]
+ability: [null]
+moves:
+    - [Strength]
+    - [Psychic]
+    - [Double Team]
+    - [Rest]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Relaxed 
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}

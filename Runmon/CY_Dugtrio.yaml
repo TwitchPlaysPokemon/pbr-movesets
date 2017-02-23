@@ -1,0 +1,20 @@
+species: Dugtrio
+ingamename: IGGGGGGFCC
+displayname: IGGGGGGFCC
+setname: Chatty Yellow
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Dig]
+    - [Slash]
+    - [Cut]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 160, atk: 252, def: 0, spA: 0, spD: 0, spe: 98}
