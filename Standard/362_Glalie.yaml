@@ -47,14 +47,14 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Glalie
-setname: Inner Focus
+setname: Toxic Orb
 item: [Toxic Orb]
 ability: [Inner Focus]
 moves:
     - [Ice Beam]
-    - [Ice Shard]
+    - [Ice Shard, Ice Shard, Payback, Signal Beam]
     - [Switcheroo, Facade]
-    - [Endure]
+    - [Sing, Disable, Protect, Light Screen]
 gender: [m, f]
 happiness: 255
 biddable: True
