@@ -25,3 +25,21 @@ ball: [Great]
 nature: Brave
 ivs: 31
 evs: {hp: 84, atk: 140, def: 84, spA: 40, spD: 80, spe: 80}
+
+species: Combusken
+setname: RestTalk
+item: [null]
+ability: [Speed Boost]
+moves:
+    - [Flare Blitz]
+    - [Last Resort, Reversal]
+    - [Sleep Talk]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Calm
+ivs: 11
+evs: {hp: 192, atk: 32, def: 120, spA: 0, spD: 76, spe: 0}
