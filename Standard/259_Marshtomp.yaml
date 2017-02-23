@@ -22,3 +22,23 @@ ball: [Great]
 nature: Timid
 ivs: 31
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+
+species: Marshtomp
+setname: Physical
+item: [Rindo Berry]
+ability: [Torrent]
+moves:
+    - [Aqua Tail, Waterfall, Dig]
+    - [Ice Punch, Ice Ball]
+    - [Toxic, Yawn]
+    - [Barrier, Defense Curl]
+combinations: 
+    - [Ice Ball, Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Great]
+nature: Calm
+ivs: 31
+evs: {hp: 16, atk: 0, def: 0, spA: 0, spD: 96, spe: 160}
