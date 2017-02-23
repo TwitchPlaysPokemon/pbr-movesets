@@ -25,7 +25,7 @@ ball: [Great]
 nature: Brave
 ivs: 31
 evs: {hp: 84, atk: 140, def: 84, spA: 40, spD: 80, spe: 80}
-
+---
 species: Combusken
 setname: RestTalk
 item: [null]
