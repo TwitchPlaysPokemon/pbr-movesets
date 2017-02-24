@@ -30,6 +30,8 @@ moves:
     - [Sucker Punch, Fling]
     - [Drain Punch, Low Kick, Poison Jab, Thunderpunch]
     - [Disable, Spite, Leer, Encore]
+separations:
+    - [Fling, Yache Berry]
 gender: [m, f]
 happiness: 255
 biddable: True
