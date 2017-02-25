@@ -15,6 +15,6 @@ biddable: True
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Relaxed 
-ivs: 31
-evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
