@@ -31,8 +31,8 @@ moves:
 combinations:
     - [Scope Lens, Psycho Cut, Slash, Attract]
     - [Macho Brace, Swagger, Psych Up]
+separations:
     - [Scope Lens, Recycle]
-    - [Attract, Recycle]
 gender: [f]
 happiness: 255
 biddable: True
