@@ -7,5 +7,6 @@ gender: [m]
 rarity: 0.0
 nature: Serious
 biddable: False
+hidden: True
 ivs: 31
 evs: {hp: 212, atk: 212, def: 212, spA: 228, spD: 228, spe: 220}
