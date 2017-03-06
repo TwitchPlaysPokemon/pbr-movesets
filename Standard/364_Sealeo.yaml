@@ -56,6 +56,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 0.3
 ball: [Heal]
 nature: Modest
