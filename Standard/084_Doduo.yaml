@@ -52,5 +52,6 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 1.0
 ball: [Repeat]
