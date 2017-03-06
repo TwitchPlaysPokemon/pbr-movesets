@@ -48,6 +48,7 @@ moves:
     - [Rain Dance]
 gender: [m, f]
 biddable: False
+hidden: True
 rarity: 0.4
 ball: [Ultra]
 ---
