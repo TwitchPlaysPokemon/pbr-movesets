@@ -61,6 +61,7 @@ moves:
     - [Rest]
 gender: [m, f]
 biddable: False
+hidden: True
 rarity: 0.6
 ball: [Heal]
 nature: Quiet
