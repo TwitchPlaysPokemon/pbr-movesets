@@ -19,6 +19,7 @@ separations:
     - [Toxic, Grudge]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 1.0
 ball: [Quick]
 nature: Jolly
@@ -39,6 +40,7 @@ combinations:
     - [Silverpowder, Shadow Ball, Silver Wind]
 happiness: 0
 biddable: False
+hidden: True
 rarity: 0.5
 ball: [Luxury]
 nature: Mild
@@ -56,6 +58,7 @@ moves:
     - [Metal Claw]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 0.5
 ball: [Heal]
 nature: Brave
