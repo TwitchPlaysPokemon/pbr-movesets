@@ -46,6 +46,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 0.5
 ball: [Premier]
 nature: Careful
