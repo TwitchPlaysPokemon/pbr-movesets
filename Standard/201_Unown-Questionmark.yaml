@@ -7,6 +7,7 @@ moves:
 form: 27
 happiness: 255
 biddable: False
+hidden: True
 rarity: 1.0
 ball: [Repeat]
 nature: Docile
