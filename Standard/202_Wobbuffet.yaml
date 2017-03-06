@@ -9,6 +9,7 @@ moves:
     - [Safeguard, Destiny Bond]
 gender: [m, f]
 biddable: False
+hidden: True
 rarity: 1.0
 ball: [Timer]
 nature: Serious
