@@ -9,6 +9,7 @@ moves:
     - [Aqua Ring]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 1.9
 ball: [Dive]
 nature: Hardy
