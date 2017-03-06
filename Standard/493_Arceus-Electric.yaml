@@ -9,6 +9,7 @@ moves:
     - [Focus Energy]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 1.9
 ball: [Quick]
 nature: Adamant
