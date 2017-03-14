@@ -2,8 +2,8 @@ species: Celebi
 ingamename: FUTA
 displayname: FUTA
 setname: Dark Graystone
-item: [null]
-ability: [null]
+item: [Life Orb]
+ability: [Truant]
 moves:
     - [Confusion]
     - [Leech Seed]
@@ -14,6 +14,6 @@ biddable: True
 rarity: 0.0
 ball: [Master]
 shiny: False
-nature: Lonely
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
-evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
