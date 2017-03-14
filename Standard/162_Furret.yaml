@@ -33,8 +33,10 @@ moves:
 separations:
     - [Flamethrower, Rain Dance]
     - [Solarbeam, Rain Dance]
+    - [Heat Rock, Rain Dance]
     - [Thunder, Sunny Day]
     - [Surf, Sunny Day]
+    - [Damp Rock, Sunny Day]
 gender: [m, f]
 rarity: 1.0
 ball: [Premier]
