@@ -1,0 +1,20 @@
+species: Absol
+ingamename: AddaLuck
+displayname: AddaLuck
+setname: Mystery Dungeon
+item: [null]
+ability: [Pressure]
+moves:
+    - [Bite]
+    - [Quick Attack]
+    - [Scratch]
+    - [Taunt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: False
+nature: Jolly
+ivs: 31
+evs: 0
