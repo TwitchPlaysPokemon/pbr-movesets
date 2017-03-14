@@ -17,6 +17,8 @@ combinations:
     - [Durin Berry, Natural Gift, Rain Dance]
 separations:
     - [Brave Bird, Fly]
+    - [Sky Attack, Fly]
+    - [Double-Edge, Return]
     - [Return, Toxic]
 gender: [m, f]
 happiness: 255
