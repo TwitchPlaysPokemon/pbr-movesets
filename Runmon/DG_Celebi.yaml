@@ -1,0 +1,19 @@
+species: Celebi
+ingamename: FUTA
+displayname: FUTA
+setname: Dark Graystone
+item: [null]
+ability: [null]
+moves:
+    - [Confusion]
+    - [Leech Seed]
+    - [Recover]
+    - [Heal Bell]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Master]
+shiny: False
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
