@@ -1,0 +1,20 @@
+species: Skitty
+ingamename: ZDNNNG
+displayname: ZDNNNG
+setname: FireRed
+item: [Metronome]
+ability: [Magma Armor]
+moves:
+    - [Cut]
+    - [Leer]
+    - [Mean Look]
+    - [Recycle]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: 252
