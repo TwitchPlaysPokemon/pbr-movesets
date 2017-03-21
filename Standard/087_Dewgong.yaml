@@ -33,7 +33,8 @@ moves:
     - [Rain Dance]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: false
+hidden: true
 rarity: 1.0
 ball: [Dive]
 ---
