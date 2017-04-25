@@ -26,7 +26,7 @@ setname: Special
 item: [Splash Plate]
 ability: [Rivalry, Intimidate]
 nature: Modest
-ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 moves:
     - [Thunder]
