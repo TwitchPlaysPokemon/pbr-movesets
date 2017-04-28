@@ -1,77 +1,77 @@
 species: Bulbasaur
 setname: Token
-item: [Occa Berry]
-ability: [Chlorophyll]
-nature: Relaxed
-ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
-evs: {hp: 100, atk: 100, def: 108, spA: 100, spD: 100, spe: 0}
+item: [Null]
+ability: [Overgrow]
+nature: Bold
+ivs: 31
+evs: {hp: 140, atk: 0, def: 100, spA: 128, spD: 100, spe: 40}
 moves:
-    - [Seed Bomb]
-    - [Body Slam]
-    - [Hidden Power]
-    - [Sunny Day]
+    - [Sludge Bomb]
+    - [Energy Ball]
+    - [Leech Seed]
+    - [Protect]
 gender: [m, f]
 rarity: 0
 ---
 species: Ivysaur
 setname: Token
-item: [Coba Berry]
+item: [Null]
 ability: [Chlorophyll]
 nature: Brave
-ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 2}
-evs: {hp: 80, atk: 208, def: 80, spA: 60, spD: 80, spe: 0}
+ivs: 31
+evs: 52
 moves:
-    - [Sludge Bomb]
-    - [Hidden Power]
-    - [Knock Off]
-    - [Protect]
+    - [Power Whip]
+    - [Weather Ball]
+    - [Sunny Day]
+    - [Swords Dance]
 gender: [m, f]
 rarity: 0
 ball: [Great]
 ---
 species: Venusaur
 setname: Token
-item: [Salac Berry]
+item: [Null]
 ability: [Overgrow]
-nature: Sassy
-ivs: 31
-evs: {hp: 232, atk: 0, def: 0, spA: 0, spD: 252, spe: 24}
+nature: Rash
+ivs: {hp: 5, atk: 5, def: 5, spA: 31, spD: 5, spe: 31}
+evs: {hp: 84, atk: 72, def: 44, spA: 168, spD: 40, spe: 96}
 moves:
     - [Sludge]
+    - [Mega Drain]
     - [Nature Power]
     - [Grass Whistle]
-    - [Substitute]
 gender: [m, f]
 rarity: 0
 ball: [Ultra]
 ---
 species: Charmander
 setname: Token
-item: [Charcoal, Cheri Berry]
+item: [Null]
 ability: [Blaze]
 nature: Adamant
 ivs: 31
-evs: {hp: 20, atk: 252, def: 0, spA: 0, spD: 0, spe: 236}
+evs: {hp: 44, atk: 252, def: 0, spA: 0, spD: 0, spe: 212}
 moves:
     - [Flare Blitz]
-    - [Rock Slide]
-    - [Aerial Ace]
-    - [Sunny Day]
+    - [Outrage]
+    - [Will-O-Wisp]
+    - [Swords Dance]
 gender: [m, f]
 rarity: 0
 ---
 species: Charmeleon
 setname: Token
-item: [Chesto Berry]
+item: [Null]
 ability: [Blaze]
-nature: Serious
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 80, atk: 252, def: 52, spA: 0, spD: 0, spe: 124}
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 108, spA: 0, spD: 120, spe: 28}
 moves:
     - [Flamethrower]
-    - [Rock Slide]
-    - [Aerial Ace]
-    - [Dragon Dance]
+    - [Dragon Pulse]
+    - [Ancient Power]
+    - [Sunny Day]
 gender: [m, f]
 rarity: 0
 ball: [Great]
@@ -80,14 +80,14 @@ species: Charizard
 setname: Token
 item: [Liechi Berry]
 ability: [Solar Power]
-nature: Serious
-ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 64, spe: 176}
+nature: Quiet
+ivs: 31
+evs: {hp: 104, atk: 44, def: 104, spA: 152, spD: 104, spe: 0}
 moves:
-    - [Heat Wave]
     - [Wing Attack]
-    - [Belly Drum]
-    - [Endure]
+    - [Ember]
+    - [Rock Tomb]
+    - [Growl]
 gender: [m, f]
 rarity: 0
 ball: [Ultra]
