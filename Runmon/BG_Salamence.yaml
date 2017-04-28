@@ -1,0 +1,20 @@
+species: Salamence
+ingamename: AAAAATMAA
+displayname:AAAAATMAA 
+setname: Blazed Glazed
+item: [Wave Mail]
+ability: [Intimidate]
+moves:
+    - [Dragon Claw]
+    - [Fly]
+    - [Earthquake]
+    - [Brick Break]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Modest
+ivs: 0
+evs: 0

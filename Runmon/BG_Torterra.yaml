@@ -1,0 +1,20 @@
+species: Torterra
+ingamename: Torterra
+displayname: Torterra
+setname: Glazed Blazed
+item: [Harbor Mail]
+ability: [Overgrow]
+moves:
+    - [Earthquake]
+    - [Seed Bomb]
+    - [Rock Slide]
+    - [Crunch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: 5
+evs: 0
