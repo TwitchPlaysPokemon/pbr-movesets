@@ -1,0 +1,20 @@
+species: Houndoom
+ingamename: AAATTTTTTT
+displayname: AAATTTTTTT
+setname: Blazed Glaze
+item: [Wave Mail]
+ability: [Flash Fire]
+moves:
+    - [Dark Pulse]
+    - [Flamethrower]
+    - [Sludge Bombg]
+    - [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 11, atk: 11, def: 31, spA: 0, spD: 11, spe: 11}
+evs: 0
