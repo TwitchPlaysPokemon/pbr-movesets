@@ -1,4 +1,4 @@
-species: Dugrio
+﻿species: Dugtrio
 ingamename: BKKTTTTTTT
 displayname: BKKTTTTTTT
 setname: Brown
@@ -15,6 +15,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Quiet
+ivs: 31
+evs: {hp: 64, atk: 64, def: 64, spA: 252, spD: 64, spe: 0}
