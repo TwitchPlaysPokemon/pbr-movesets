@@ -1,4 +1,4 @@
-species: Azumarill
+﻿species: Azumarill
 ingamename: YYYYXOOOOO
 displayname: YYYYXOOOOO
 setname: Prism
@@ -12,6 +12,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
+hidden: False
 rarity: 0.0
 ball: [Poké]
 shiny: true
