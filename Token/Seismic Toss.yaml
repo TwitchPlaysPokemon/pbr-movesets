@@ -206,3 +206,21 @@ biddable: True
 rarity: 0
 ball: [Repeat]
 nature: Brave
+---
+species: Miltank
+setname: ST
+item: [Power Bracer]
+ability: [Scrappy]
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 164}
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Premier]
+nature: Jolly
