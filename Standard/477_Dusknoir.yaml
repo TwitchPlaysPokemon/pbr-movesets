@@ -9,6 +9,9 @@ moves:
     - [Grudge, Embargo, Substitute, Bind]
 combinations:
     - [Focus Punch, Substitute]
+    - [Charge Beam, Shadow Ball]
+separations:
+    - [Charge Beam, Thunder Punch]
 gender: [m, f]
 happiness: 255
 biddable: True
