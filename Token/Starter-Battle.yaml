@@ -1,4 +1,5 @@
 species: Bulbasaur
+displayname: "Bulbasaur-S"
 setname: Token
 item: [Null]
 ability: [Overgrow]
@@ -14,6 +15,7 @@ gender: [m, f]
 rarity: 0
 ---
 species: Ivysaur
+displayname: "Ivysaur-S"
 setname: Token
 item: [Null]
 ability: [Chlorophyll]
@@ -30,6 +32,7 @@ rarity: 0
 ball: [Great]
 ---
 species: Venusaur
+displayname: "Venusaur-S"
 setname: Token
 item: [Null]
 ability: [Overgrow]
@@ -46,6 +49,7 @@ rarity: 0
 ball: [Ultra]
 ---
 species: Charmander
+displayname: "Charmender-S"
 setname: Token
 item: [Null]
 ability: [Blaze]
@@ -61,6 +65,7 @@ gender: [m, f]
 rarity: 0
 ---
 species: Charmeleon
+displayname: "Charmeleon-S"
 setname: Token
 item: [Null]
 ability: [Blaze]
@@ -77,6 +82,7 @@ rarity: 0
 ball: [Great]
 ---
 species: Charizard
+displayname: "Charizard-S"
 setname: Token
 item: [Iron Ball]
 ability: [Solar Power]
