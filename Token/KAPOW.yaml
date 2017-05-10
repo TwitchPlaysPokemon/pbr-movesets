@@ -1,0 +1,207 @@
+species: Skuntank
+displayname: "Skuntank-K"
+setname: KAPOW
+ability: [Stench]
+item: [Power Belt]
+moves:
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 144}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+nature: Lonely
+happiness: 255
+ball: [Dusk]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Grimer
+displayname: "Grimer-K"
+setname: KAPOW
+ability: [Stench]
+item: [Choice Band]
+moves:
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 136}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+nature: Lonely
+happiness: 255
+ball: [Dive]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Snorlax
+displayname: "Snorlax-K"
+setname: KAPOW
+ability: [Stench]
+item: [Silk Scarf]
+moves:
+    - [Selfdestruct]
+    - [Selfdestruct]
+    - [Selfdestruct]
+    - [Selfdestruct]
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 96}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+nature: Lonely
+happiness: 255
+ball: [Timer]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Shiftry
+displayname: "Shiftry-K"
+setname: KAPOW
+ability: [Early Bird]
+item: [Power Anklet]
+moves:
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 176}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+nature: Lonely
+happiness: 255
+ball: [Nest]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Mew
+displayname: "Mew-K"
+setname: KAPOW
+ability: [Early Bird]
+item: [Power Weight]
+moves:
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 16}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+nature: Lonely
+happiness: 255
+ball: [Quick]
+biddable: True
+rarity: 0
+---
+species: Qwilfish
+displayname: "Qwilfish-K"
+setname: KAPOW
+ability: [Iron Ball]
+item: [Poison Point]
+moves:
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 136}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+nature: Lonely
+happiness: 255
+ball: [Net]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Steelix
+displayname: "Steelix-K"
+setname: KAPOW
+ability: [Sturdy]
+item: [Iapapa Berry]
+moves:
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+    - [Explosion]
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 220}
+ivs: 0
+nature: Lonely
+happiness: 255
+ball: [Premier]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Cherubi
+displayname: "Cherubi-K"
+setname: KAPOW
+ability: [Chlorophyll]
+item: [Toxic Orb]
+moves:
+    - [Healing Wish]
+    - [Healing Wish]
+    - [Healing Wish]
+    - [Healing Wish]
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+nature: Hasty
+happiness: 255
+ball: [Cherish]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Blissey
+displayname: "Blissey-K"
+setname: KAPOW
+ability: [Natural Cure]
+item: [Toxic Orb]
+moves:
+    - [Healing Wish]
+    - [Healing Wish]
+    - [Healing Wish]
+    - [Healing Wish]
+evs: 0
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+nature: Hasty
+happiness: 255
+ball: [Safari]
+biddable: True
+rarity: 0
+gender: [f]
+---
+species: Gardevoir
+displayname: "Gardevoir-K"
+setname: KAPOW
+ability: [Trace]
+item: [Macho Brace]
+moves:
+    - [Memento]
+    - [Memento]
+    - [Memento]
+    - [Memento]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 164}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+nature: Timid
+happiness: 255
+ball: [Nest]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Spiritomb
+displayname: "Spiritomb-K"
+setname: KAPOW
+ability: [Pressure]
+item: [Luck Incense]
+moves:
+    - [Memento]
+    - [Memento]
+    - [Memento]
+    - [Memento]
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 52}
+ivs: 31
+nature: Naive
+happiness: 255
+ball: [Nest]
+biddable: True
+rarity: 0
+gender: [m, f]
