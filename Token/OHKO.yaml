@@ -1,5 +1,5 @@
 species: Groudon
-displayname: Groudon-O
+displayname: "Groudon-O"
 setname: OHKO
 ability: [Drought]
 moves:
@@ -16,7 +16,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Kyogre
-displayname: Kyogre-O
+displayname: "Kyogre-O"
 setname: OHKO
 ability: [Drizzle]
 moves:
@@ -33,7 +33,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Kangaskhan
-displayname: Kangaskh-O
+displayname: "Kangaskhan-O"
 setname: OHKO
 ability: [Early Bird, Inner Focus]
 moves:
@@ -51,7 +51,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Nidoking
-displayname: Nidoking-O
+displayname: "Nidoking-O"
 setname: OHKO
 ability: [Poison Point]
 moves:
@@ -69,7 +69,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Pinsir
-displayname: Pinsir-O
+displayname: "Pinsir-O"
 setname: OHKO
 ability: [Mold Breaker]
 moves:
@@ -87,7 +87,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Kingler
-displayname: Kingler-O
+displayname: "Kingler-O"
 setname: OHKO
 ability: [Shell Armor]
 moves:
@@ -105,7 +105,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Dewgong
-displayname: Dewgong-O
+displayname: "Dewgong-O"
 setname: OHKO
 ability: [Thick Fat, Ice Body, Hydration]
 moves:
@@ -123,7 +123,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Onix
-displayname: Onix-O
+displayname: "Onix-O"
 setname: OHKO
 ability: [Rock Head]
 moves:
@@ -141,7 +141,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Seaking
-displayname: Seaking-O
+displayname: "Seaking-O"
 setname: OHKO
 ability: [Lightningrod, Water Veil]
 moves:
@@ -159,7 +159,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Abomasnow
-displayname: Abomasno-O
+displayname: "Abomasnow-O"
 setname: OHKO
 ability: [Soundproof]
 moves:
@@ -177,7 +177,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Sandslash
-displayname: Sandslas-O
+displayname: "Sandslash-O"
 setname: OHKO
 ability: [Sand Veil]
 moves:
@@ -195,7 +195,7 @@ nature: Hardy
 ivs: 0
 ---
 species: Arbok
-displayname: Abrok-O
+displayname: "Abrok-O"
 setname: OHKO
 ability: [Intimidate, Shed Skin]
 moves:
