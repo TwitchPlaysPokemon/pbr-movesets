@@ -1,4 +1,5 @@
 species: Registeel
+displayname: "Registeel-ST"
 setname: ST
 ability: [Clear Body]
 moves:
@@ -15,6 +16,7 @@ ball: [Master]
 nature: Hardy
 ---
 species: Grovyle
+displayname: "Grovyle-ST"
 setname: ST
 item: [Macho Brace]
 ability: [Overgrow, Unburden]
@@ -33,6 +35,7 @@ ball: [Nest]
 nature: Jolly
 ---
 species: Totodile
+displayname: "Totodile-ST"
 setname: ST
 ability: [Torrent]
 moves:
@@ -50,6 +53,7 @@ ball: [Dive]
 nature: Quirky
 ---
 species: Mr. Mime
+displayname: "Mr.Mime-ST"
 setname: ST
 item: [Iron Ball]
 ability: [Soundproof, Filter, Technician]
@@ -68,6 +72,7 @@ ball: [Dusk]
 nature: Jolly
 ---
 species: Electivire
+displayname: "Electivire-ST"
 setname: ST
 item: [Power Belt]
 ability: [Motor Drive, Vital Spirit]
@@ -86,6 +91,7 @@ ball: [Ultra]
 nature: Jolly
 ---
 species: Golem
+displayname: "Golem-ST"
 setname: ST
 ability: [Sturdy, Rock Head, Sand Veil]
 moves:
@@ -103,6 +109,7 @@ ball: [Timer]
 nature: Jolly
 ---
 species: Charizard
+displayname: "Charizard-ST"
 setname: ST
 item: [Power Band]
 ability: [Blaze, Solar Power]
@@ -121,6 +128,7 @@ ball: [Cherish]
 nature: Jolly
 ---
 species: Pichu
+displayname: "Pichu"
 setname: ST
 ability: [Lightningrod]
 moves:
@@ -138,6 +146,7 @@ ball: [Safari]
 nature: Brave
 ---
 species: Octillery
+displayname: "Octillery-ST"
 setname: ST
 ability: [Suction Cups, Sniper]
 moves:
@@ -155,6 +164,7 @@ ball: [Net]
 nature: Hardy
 ---
 species: Lickitung
+displayname: "Lickytung-ST"
 setname: ST
 item: [Choice Scarf]
 ability: [Own Tempo, Cloud Nine, Oblivious]
@@ -173,6 +183,7 @@ ball: [Heal]
 nature: Timid
 ---
 species: Delibird
+displayname: "Delibird-ST"
 setname: ST
 item: [Power Bracer]
 ability: [Vital Spirit, Insomnia]
@@ -191,6 +202,7 @@ ball: [Premier]
 nature: Jolly
 ---
 species: Spinda
+displayname: "Spinda-ST"
 setname: ST
 ability: [Own Tempo, Tangled Feet]
 moves:
@@ -208,6 +220,7 @@ ball: [Repeat]
 nature: Brave
 ---
 species: Miltank
+displayname: "Miltank-ST"
 setname: ST
 item: [Power Bracer]
 ability: [Scrappy]
