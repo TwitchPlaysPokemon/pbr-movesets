@@ -47,7 +47,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Seel
-setname: Cancer
+setname: StockPile
 item: [Black Sludge]
 ability: [Hydration]
 nature: Quiet
