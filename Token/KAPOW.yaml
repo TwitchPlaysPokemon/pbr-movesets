@@ -95,8 +95,8 @@ rarity: 0
 species: Qwilfish
 displayname: "Qwilfish-K"
 setname: KAPOW
-ability: [Iron Ball]
-item: [Poison Point]
+ability: [Poison Point]
+item: [Iron Ball]
 moves:
     - [Explosion]
     - [Explosion]
