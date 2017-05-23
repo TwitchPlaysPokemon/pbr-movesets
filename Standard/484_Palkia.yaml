@@ -9,14 +9,14 @@ moves:
     - [Heal Block, Safeguard, Scary Face, Trick Room]
 happiness: 255
 biddable: True
-rarity: 1.4
+rarity: 0.6
 ball: [Ultra]
 nature: Modest
 ivs: {hp: 1, atk: 0, def: 1, spA: 1, spD: 1, spe: 1}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Palkia
-setname: Outrage
+setname: Physical
 item: [Flame Orb]
 ability: [Pressure]
 moves:
@@ -26,7 +26,7 @@ moves:
     - [Safeguard]
 happiness: 255
 biddable: True
-rarity: 0.5
+rarity: 0.3
 ball: [Dive]
 nature: Modest
 ivs: 0
