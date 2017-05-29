@@ -1,5 +1,5 @@
 species: Happiny
-setname: Standard
+setname: Stall
 item: [Oval Stone]
 ability: [Serene Grace]
 nature: Calm
@@ -15,3 +15,21 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Heal]
+---
+species: Happiny
+setname: Hax
+item: [King's Rock]
+ability: [Serene Grace]
+nature: Relaxed
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Headbutt]
+    - [Mud Bomb]
+    - [Water Pulse]
+    - [Thunder Wave]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
