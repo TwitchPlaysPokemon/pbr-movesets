@@ -1,14 +1,14 @@
 species: Magnezone
 setname: Physical
-item: [Occa Berry, Chople Berry]
+item: [Occa Berry, Chople Berry, Power Anklet]
 ability: [Magnet Pull]
 moves:
     - [Spark]
     - [Magnet Bomb, Gyro Ball]
-    - [Natural Gift]
+    - [Natural Gift, Giga Impact]
     - [Bide, Mirror Coat, Screech, Agility, Curse]
 combinations:
-    - [Gyro Ball, Curse]
+    - [Power Anklet, Gyro Ball, Curse, Giga Impact]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -32,6 +32,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Premier]
-nature: Jolly
-ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
-evs: {hp: 156, atk: 0, def: 0, spA: 0, spD: 156, spe: 196}
+nature: Naughty
+ivs: {hp: 3, atk: 30, def: 2, spA: 2, spD: 3, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
