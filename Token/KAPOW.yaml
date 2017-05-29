@@ -39,7 +39,7 @@ gender: [m, f]
 species: Snorlax
 displayname: "Snorlax-K"
 setname: KAPOW
-ability: [Stench]
+ability: [Gluttony]
 item: [Silk Scarf]
 moves:
     - [Selfdestruct]
@@ -77,7 +77,7 @@ gender: [m, f]
 species: Mew
 displayname: "Mew-K"
 setname: KAPOW
-ability: [Early Bird]
+ability: [Synchronize]
 item: [Power Weight]
 moves:
     - [Explosion]
