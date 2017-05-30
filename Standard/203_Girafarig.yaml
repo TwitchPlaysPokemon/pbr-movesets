@@ -36,7 +36,7 @@ setname: Trapper
 item: [Liechi Berry, Apicot Berry, Ganlon Berry]
 ability: [Inner Focus, Early Bird]
 moves:
-    - [Hyper Voice]
+    - [Hyper Voice, Psychic]
     - [Charge Beam]
     - [Mean Look]
     - [Baton Pass]
@@ -45,7 +45,7 @@ rarity: 0.8
 ball: [Dusk]
 nature: Timid
 ivs: 31
-evs: {hp: 0, atk: 0, def: 172, spA: 0, spD: 172, spe: 164}
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 128, spe: 124}
 ---
 species: Girafarig
 setname: Future Sight
