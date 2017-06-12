@@ -1,0 +1,18 @@
+species: Kabutops
+setname: Shiny
+item: [Sea Incense]
+ability: [Sniper]
+moves:
+    - [Stone Edge]
+    - [Clamp]
+    - [Cross Chop]
+    - [Shadow Claw]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Net]
+nature: Relaxed
+ivs: 31
+evs: 24
