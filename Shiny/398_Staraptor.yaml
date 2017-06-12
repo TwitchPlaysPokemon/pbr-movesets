@@ -1,0 +1,18 @@
+species: Staraptor
+setname: Shiny
+item: [Power Anklet]
+ability: [Skill Link]
+moves:
+    - [Fury Attack]
+    - [Pluck]
+    - [Rock Blast]
+    - [Bullet Seed]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 72, atk: 132, def: 72, spA: 0, spD: 232, spe: 0}
