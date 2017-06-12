@@ -13,7 +13,7 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.4
 ball: [Net]
 ---
 species: Mothim
@@ -37,7 +37,7 @@ separations:
 gender: [m]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.6
 ball: [Nest]
 ---
 species: Mothim
@@ -55,5 +55,23 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.6
 ball: [Net]
+---
+species: Mothim
+setname: Support
+item: [Lagging Tail]
+ability: [Tinted Lens]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 96, spA: 0, spD: 160, spe: 0}
+moves:
+    - [U-turn]
+    - [Sunny Day]
+    - [Rain Dance]
+    - [Tailwind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Luxury]
