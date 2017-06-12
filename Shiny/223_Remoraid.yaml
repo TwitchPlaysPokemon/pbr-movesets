@@ -1,0 +1,18 @@
+species: Remoraid
+setname: Shiny
+item: [Silk Scarf]
+ability: [Rock Head, Reckless]
+moves:
+    - [Aqua Tail]
+    - [Head Smash]
+    - [Double-Edge]
+    - [Crunch]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Dive]
+nature: Jolly
+ivs: 31
+evs: {hp: 40, atk: 252, def: 40, spA: 0, spD: 0, spe: 176}
