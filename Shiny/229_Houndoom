@@ -1,0 +1,18 @@
+species: Houndoom
+setname: Shiny
+item: [Power Belt]
+ability: [Intimidate]
+moves:
+    - [Flare Blitz]
+    - [Payback]
+    - [Outrage]
+    - [Cross Chop]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Ultra]
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 252, def: 248, spA: 0, spD: 8, spe: 0}
