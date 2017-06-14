@@ -1,397 +1,113 @@
-species: Raichu
+species: Nidorino
 setname: Metronome
-displayname: "Raichu-M"
-ball: [Quick]
+displayname: "Nidorino-M"
+ball: [Great]
 item: [Shuca Berry]
-ability: [Static]
-nature: Lax
-ivs: {hp: 21, atk: 21, def: 31, spA: 31, spD: 21, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ability: [Stench]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 112, atk: 180, def: 164, spA: 200, spD: 132, spe: 116}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
+gender: [m]
+happiness: 128
 biddable: True
 rarity: 0
 ---
-species: Dugtrio
+species: Nidorina
 setname: Metronome
-displayname: "Dugtrio-M"
-ball: [Quick]
+displayname: "Nidorina-M"
+ball: [Great]
 item: [Petaya Berry]
-ability: [Arena Trap]
-nature: Quiet
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 160, atk: 104, def: 92, spA: 152, spD: 0, spe: 0}
+ability: [Forewarn]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 12, spA: 208, spD: 8, spe: 188}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
+gender: [f]
+happiness: 128
 biddable: True
 rarity: 0
 ---
-species: Meowth
+species: Plusle
 setname: Metronome
-displayname: "Meowth-M"
-ball: [Luxury]
+displayname: "Plusle-M"
+ball: [Heal]
 item: [Chople Berry]
-ability: [Technician]
-nature: Rash
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Machoke
-setname: Metronome
-displayname: "Machoke-M"
-ball: [Great]
-item: [Kelpsy Berry]
-ability: [No Guard]
-nature: Mild
-ivs: {hp: 0, atk: 21, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 0, def: 16, spA: 184, spD: 32, spe: 252}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Electrode
-setname: Metronome
-displayname: "Electrode-M"
-ball: [Poké]
-item: [Shuca Berry]
-ability: [Soundproof]
-nature: Brave
-ivs: {hp: 31, atk: 21, def: 11, spA: 21, spD: 0, spe: 0}
-evs: {hp: 0, atk: 252, def: 0, spA: 96, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Exeggutor
-setname: Metronome
-displayname: "Exeggutor-M"
-ball: [Safari]
-item: [Tanga Berrt]
-ability: [Chlorophyll]
-nature: Adamant
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Mr. Mime
-setname: Metronome
-displayname: "Mr. Mime-M"
-ball: [Dusk]
-item: [Rabuta Berry]
-ability: [Technician]
+ability: [Plus]
 nature: Naughty
-ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 17}
-evs: {hp: 0, atk: 180, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
+evs: {hp: 32, atk: 252, def: 112, spA: 72, spD: 4, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
+gender: [m]
+happiness: 128
 biddable: True
 rarity: 0
 ---
-species: Jynx
+species: Minun
 setname: Metronome
-displayname: "Jynx-M"
+displayname: "Minun-M"
 ball: [Heal]
-item: [Hondew Berry]
-ability: [Oblivious]
-nature: Lax
-ivs: {hp: 11, atk: 31, def: 31, spA: 0, spD: 0, spe: 8}
-evs: {hp: 0, atk: 252, def: 160, spA: 0, spD: 0, spe: 0}
+item: [Muscle Band]
+ability: [Minus]
+nature: Naughty
+ivs: {hp: 14, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
+evs: {hp: 8, atk: 252, def: 68, spA: 156, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [f]
-happiness: 255
+happiness: 128
 biddable: True
 rarity: 0
 ---
-species: Magmar
+species: Illumise
 setname: Metronome
-displayname: "Magmar-M"
-ball: [Timer]
-item: [Watmel Berry]
-ability: [Vital Spirit]
-nature: Naive
-ivs: {hp: 11, atk: 11, def: 31, spA: 11, spD: 11, spe: 11}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Ledian
-setname: Metronome
-displayname: "Ledian-M"
-item: [Micle Berry]
-ability: [Iron Fist]
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
+displayname: "Illumise-M"
 ball: [Net]
-nature: Naughty
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 52, spA: 252, spD: 0, spe: 0}
----
-species: Sudowoodo
-setname: Metronome
-displayname: "Sudowoodo-M"
-ball: [Safari]
-item: [Quick Claw]
-ability: [Rock Head]
-nature: Mild
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 15, spe: 0}
-evs: {hp: 0, atk: 36, def: 0, spA: 252, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Politoed
-setname: Metronome
-displayname: "Politoed-M"
-ball: [Dive]
-item: [Qualot Berry]
-ability: [Damp]
-nature: Naughty
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 16}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Sunflora
-setname: Metronome
-displayname: "Sunflora-M"
-ball: [Heal]
-item: [Quick Claw]
-ability: [Solar Power]
-nature: Relaxed
-ivs: {hp: 31, atk: 31, def: 31, spA: 10, spD: 10, spe: 0}
-evs: {hp: 0, atk: 136, def: 0, spA: 0, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Vigoroth
-setname: Metronome
-displayname: "Vigoroth-M"
-ball: [Timer]
-item: [Rowap Berry]
-ability: [Vital Spirit]
-nature: Serious
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 17}
-evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 64, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Mawile
-setname: Metronome
-displayname: "Mawile-M"
-ball: [Heal]
-item: [Hondew Berry]
-ability: [Hyper Cutter]
-nature: Mild
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 100, atk: 40, def: 0, spA: 200, spD: 84, spe: 84}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Wailord
-setname: Metronome
-displayname: "Wailord-M"
-ball: [Dive]
-item: [Mental Herb]
-ability: [Water Veil]
-nature: Naive
-ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Altaria
-setname: Metronome
-displayname: "Altaria-M"
-ball: [Ultra]
-item: [Magost Berry]
-ability: [Cloud Nine]
-nature: Rash
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
-evs: {hp: 0, atk: 116, def: 0, spA: 44, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Seviper
-setname: Metronome
-displayname: "Seviper-M"
-ball: [Great]
-item: [Pomeg Berry]
-ability: [Shed Skin]
-nature: Serious
-ivs: {hp: 15, atk: 15, def: 31, spA: 0, spD: 31, spe: 31}
-evs: {hp: 0, atk: 0, def: 36, spA: 0, spD: 48, spe: 144}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Absol
-setname: Metronome
-displayname: "Absol-M"
-ball: [Premier]
-item: [Lansat Berry]
-ability: [Super Luck]
-nature: Modest
-ivs: {hp: 0, atk: 0, def: 21, spA: 31, spD: 21, spe: 31}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 64}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Bibarel
-setname: Metronome
-displayname: "Bibarel-M"
-ball: [Poké]
-item: [White Herb]
-ability: [Simple]
-nature: Serious
-ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 0, def: 24, spA: 252, spD: 24, spe: 96}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0
----
-species: Froslass
-setname: Metronome
-displayname: "Froslass-M"
-ball: [Premier]
-item: [Hondew Berry]
-ability: [Snow Cloak]
-nature: Quiet
-ivs: {hp: 1, atk: 31, def: 11, spA: 31, spD: 16, spe: 0}
-evs: {hp: 0, atk: 32, def: 0, spA: 52, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
+item: [Shuca Berry]
+ability: [Illuminate]
 gender: [f]
-happiness: 255
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 20}
+evs: {hp: 0, atk: 252, def: 0, spA: 184, spD: 12, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+happiness: 128
+biddable: True
+rarity: 0
+---
+species: Volbeat
+setname: Metronome
+displayname: "Volbeat-M"
+ball: [Net]
+item: [Tanga Berry]
+ability: [Illuminate]
+nature: Rash
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 20}
+evs: {hp: 0, atk: 184, def: 0, spA: 252, spD: 12, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m]
+happiness: 128
 biddable: True
 rarity: 0
