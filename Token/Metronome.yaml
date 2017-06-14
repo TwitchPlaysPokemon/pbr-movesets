@@ -2,7 +2,7 @@ species: Nidorino
 setname: Metronome
 displayname: "Nidorino-M"
 ball: [Great]
-item: [Shuca Berry]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Stench]
 nature: Mild
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
@@ -21,7 +21,7 @@ species: Nidorina
 setname: Metronome
 displayname: "Nidorina-M"
 ball: [Great]
-item: [Petaya Berry]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Forewarn]
 nature: Mild
 ivs: {hp: 0, atk: 31, def: 30, spA: 31, spD: 31, spe: 31}
@@ -40,7 +40,7 @@ species: Plusle
 setname: Metronome
 displayname: "Plusle-M"
 ball: [Heal]
-item: [Chople Berry]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Plus]
 nature: Naughty
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
@@ -78,7 +78,7 @@ species: Illumise
 setname: Metronome
 displayname: "Illumise-M"
 ball: [Net]
-item: [Shuca Berry]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Illuminate]
 gender: [f]
 nature: Naughty
