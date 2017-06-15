@@ -1,0 +1,20 @@
+species: Jynx
+ingamename: Cottone.♪'
+displayname: Cottone.♪'
+setname: White 2
+ability: [Download]
+moves:
+    - [Iron Head]
+    - [Seed Bomb]
+    - [Me First]
+    - [Water Pulse]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: 31
+evs: {hp: 0, atk: 252, def: 156, spA: 100, spD: 0, spe: 0}

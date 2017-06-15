@@ -1,0 +1,20 @@
+species: Articuno
+ingamename: Articun
+displayname: Articun
+setname: White 2
+item: [Honey]
+ability: [Chlorophyll]
+moves:
+    - [Gunk Shot]
+    - [Giga Drain]
+    - [Poison Jab]
+    - [Fly]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 0.0
+ball: [Premier]
+shiny: False
+nature: Naughty
+ivs: 0
+evs: {hp: 52, atk: 52, def: 52, spA: 0, spD: 0, spe: 52}

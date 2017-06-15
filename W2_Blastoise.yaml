@@ -1,0 +1,21 @@
+species: Blastoise
+ingamename: OLLEEVvv
+displayname: OLLEEVvv
+setname: White 2
+item: [Expert Belt]
+ability: [Skill Link]
+moves:
+    - [Strength]
+    - [Blast Burn]
+    - [Hidden Power]
+    - [Tri Attack]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 31, atk: 30, def: 18, spA: 30, spD: 19, spe: 27}
+evs: {hp: 0, atk: 40, def: 0, spA: 20, spD: 0, spe: 0}
