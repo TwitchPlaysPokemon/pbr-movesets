@@ -18,12 +18,12 @@ evs: {hp: 176, atk: 160, def: 0, spA: 0, spD: 172, spe: 0}
 ---
 species: Bonsly
 setname: Special
-item: [Quick Claw]
+item: [Chesto Berry]
 ability: [Sturdy]
 moves:
     - [Hidden Power]
     - [Earth Power]
-    - [Counter]
+    - [Rest]
     - [Calm Mind]
 gender: [m, f]
 happiness: 255
