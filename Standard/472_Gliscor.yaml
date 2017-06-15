@@ -1,38 +1,44 @@
 species: Gliscor
-setname: Standard
-item: [Poison Barb]
-ability: [Hyper Cutter]
+setname: Poison Heal
+item: [Toxic Orb]
+ability: [Poison Heal]
 moves:
-    - [Dig]
-    - [Aqua Tail, Poison Jab, Brick Break, X-Scissor, Guillotine]
+    - [Sand Tomb]
+    - [Knock Off, Razor Wind, Hidden Power]
     - [Fling]
-    - [Power Trick]
+    - [Torment]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.1
 ball: [Dusk]
 nature: Bold
-ivs: 6
-evs: 84
+ivs: {hp: 11, atk: 30, def: 0, spA: 31, spD: 29, spe: 29}
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Gliscor
 setname: Physical
-item: [Toxic Orb]
-ability: [Poison Heal]
+item: [Razor Claw, Sky Plate]
+ability: [Hyper Cutter]
 moves:
-    - [Earthquake]
+    - [Earthquake, Dig]
     - [Aerial Ace, Wing Attack]
-    - [Night Slash, Slash, Cross Poison, Stone Edge, U-turn]
-    - [Stealth Rock]
+    - [Aqua Tail, Night Slash, Slash, Cross Poison, Stone Edge, U-turn]
+    - [Power Trick, Power Trick, Tailwind]
+    combinations:
+    - [Dig, Sky Plate]
+    separations:
+    - [Dig, Tailwind]
+    - [Earthquake, Power Trick]
+    - [U-turn, Power Trick]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.1
 ball: [Nest]
-nature: Modest
+nature: Bold
 ivs: 0
-evs: 0
+evs: {hp: 44, atk: 0, def: 144, spA: 0, spD: 220, spe: 100}
 ---
 species: Gliscor
 setname: Special
