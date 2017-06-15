@@ -24,7 +24,7 @@ moves:
     - [Aqua Jet, Assurance]
     - [Thief, Aqua Jet]
     - [Poison Fang, Rock Tomb, Skull Bash]
-    - [Rage, Mimic, Torrent]
+    - [Rage, Mimic, Torment]
 separations:
     - [Assurance, Thief]
     - [Aqua Jet, Aqua Jet]
@@ -33,9 +33,9 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Net]
-nature: Adamant
-ivs: 31
-evs: {hp: 108, atk: 16, def: 128, spA: 0, spD: 128, spe: 128}
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 108, atk: 56, def: 176, spA: 0, spD: 96, spe: 0}
 ---
 species: Sharpedo
 setname: Special
