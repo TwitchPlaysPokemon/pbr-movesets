@@ -1,55 +1,20 @@
-ingamename: 
-species: 
-setname: Shiny
-item: []
-ability: []
+species: Kyogre
+ingamename: VigorothQY
+displayname: VigorothQY
+setname: White 2
+item: [Expert Belt]
+ability: [Pure Power]
 moves:
-    - []
-    - []
-    - []
-    - []
-gender: [m, f]
-happiness: 255
-shiny: True
-biddable: False
-hidden: True
-ball: []
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
----
-RUNMON:
-species: 
-ingamename: 
-displayname: 
-setname: 
-item: []
-ability: []
-moves:
-    - []
-    - []
-    - []
-    - []
-gender: [m, f]
+    - [Ice Fang]
+    - [U-turn]
+    - [Extrasensory]
+    - [Soft Boiled]
 happiness: 255
 biddable: True
+hidden: False
 rarity: 0.0
-ball: []
+ball: [Luxury]
 shiny: False
-nature: 
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
----
-species: 
-setname: Stadium 2
-moves:
-    - 
-    - 
-    - 
-    - 
-gender: [m, f]
-happiness: 255
-rarity: 0.0
-nature: Docile
-ivs: 31
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Naughty
+ivs: 0
+evs: 0
