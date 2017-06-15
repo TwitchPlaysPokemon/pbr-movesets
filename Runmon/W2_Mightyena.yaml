@@ -1,0 +1,21 @@
+species: Mightyena
+ingamename: ♦ ♂♂♂~ ♪
+displayname: ♦ ♂♂♂~ ♪
+setname: White 2
+ability: [Arena Trap]
+item: [Comet Shard]
+moves:
+    - [Strength]
+    - [Boomerang]
+    - [Brave Bird]
+    - [Hidden Power]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Mild
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 0, atk: 60, def: 0, spA: 252, spD: 0, spe: 196}

@@ -1,0 +1,21 @@
+species: Floatzel
+ingamename: GD LREd
+displayname: GD LREd
+setname: White 2
+item: [Grass Mail]
+ability: [Drizzle]
+moves:
+    - [Wood Hammer]
+    - [Hi Jump Kick]
+    - [Bug Bite]
+    - [Surf]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Careful
+ivs: 0
+evs: {hp: 0, atk: 0, def: 20, spA: 0, spD: 0, spe: 0}
