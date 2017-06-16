@@ -2,13 +2,15 @@ species: Articuno
 ingamename: Articun
 displayname: Articun
 setname: White 2
-item: [Honey]
+item: [Honey, Mind Plate]
 ability: [Chlorophyll]
 moves:
-    - [Gunk Shot]
+    - [Gunk Shot, Cut]
     - [Giga Drain]
-    - [Poison Jab]
+    - [Poison Jab, Judgment]
     - [Fly]
+    combinations:
+    - [Mind Plate, Judgment, Cut]
 happiness: 255
 biddable: True
 hidden: False
