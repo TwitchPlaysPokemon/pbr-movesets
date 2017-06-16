@@ -65,7 +65,7 @@ setname: Mega
 item: [Everstone]
 ability: [Solar Power]
 moves:
-    - [Fire Blast]
+    - [Heat Wave]
     - [Dark Pulse]
     - [Solarbeam]
     - [Sunny Day]
@@ -76,4 +76,4 @@ rarity: 0.3
 ball: [Ultra]
 nature: Jolly
 ivs: 31
-evs: {hp: 16, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+evs: {hp: 16, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
