@@ -19,7 +19,7 @@ evs: {hp: 128, atk: 0, def: 36, spA: 128, spD: 128, spe: 88}
 species: Elekid
 setname: Physical
 item: [Flame Orb]
-ability: [Static, Vital Spirit]
+ability: [Guts]
 moves:
     - [Thunder Punch]
     - [Cross Chop]
