@@ -3,7 +3,7 @@ ingamename: gqvvvqqolq
 displayname: gqvvvqqolq
 setname: White 2
 ability: [Suction Cups]
-item: X Speed
+item: [X Speed]
 moves:
     - [Punishment]
     - [Shock Wave]
