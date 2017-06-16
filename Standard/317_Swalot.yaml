@@ -20,15 +20,13 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Swalot
 setname: Sticky Hold
-item: [Choice Scarf, Choice Band, Choice Specs]
+item: [Choice Scarf, Choice Band]
 ability: [Sticky Hold]
 moves:
     - [Gunk Shot]
-    - [SolarBeam, Hyper Beam]
-    - [Headbutt, Seed Bomb]
-    - [Water Pulse, Shock Wave]
-combinations:
-    - [Choice Scarf, SolarBeam, Headbutt]
+    - [Seed Bomb, Thunder Punch, Ice Punch]
+    - [Fire Punch]
+    - [Self-Destruct]
 gender: [m, f]
 happiness: 255
 biddable: True
