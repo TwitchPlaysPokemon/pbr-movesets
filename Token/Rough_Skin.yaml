@@ -1,0 +1,113 @@
+species: Magnezone
+displayname: "Magnezone-RS"
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Brightpowder]
+moves:
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
+evs: {hp: 132, atk: 188, def: 80, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 20, spe: 23}
+nature: Adamant
+happiness: 255
+ball: [Premier]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Metagross
+displayname: "Metagross-RS"
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Brightpowder]
+moves:
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
+evs: {hp: 52, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 0, def: 21, spA: 31, spD: 20, spe: 3}
+nature: Modest
+happiness: 255
+ball: [Luxury]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Tyranitar
+displayname: "Tyranitar-RS"
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Brightpowder]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 0, atk: 0, def: 16, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 4, atk: 0, def: 31, spA: 31, spD: 0, spe: 21}
+nature: Bold
+happiness: 255
+ball: [Dusk]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Skarmory
+displayname: "Skarmory-RS"
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Brightpowder]
+moves:
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+evs: {hp:172, atk: 108, def: 8, spA: 0, spD: 116, spe: }
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 3}
+nature: Lonely
+happiness: 255
+ball: [Net]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Kabutops
+displayname: "Kabutops-RS"
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Brightpowder]
+moves:
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+evs: {hp: 212, atk: 0, def: 56, spA: 0, spD: 116, spe: 0}
+ivs: {hp: 31, atk: 10, def: 31, spA: 31, spD: 31, spe: 0}
+nature: Relaxed
+happiness: 255
+ball: [Great]
+biddable: True
+rarity: 0
+gender: [m, f]
+---
+species: Omastar
+displayname: "Omastar-RS"
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Brightpowder]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 132, atk: 252, def: 0, spA: 0, spD: 116, spe: 8}
+ivs: 31
+nature: Adamant
+happiness: 255
+ball: [Ultra]
+biddable: True
+rarity: 0
+gender: [m, f]
