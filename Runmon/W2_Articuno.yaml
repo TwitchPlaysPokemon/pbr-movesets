@@ -9,7 +9,7 @@ moves:
     - [Giga Drain]
     - [Poison Jab, Judgment]
     - [Fly]
-    combinations:
+combinations:
     - [Mind Plate, Judgment, Cut]
 happiness: 255
 biddable: True

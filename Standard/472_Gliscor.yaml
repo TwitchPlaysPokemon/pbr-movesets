@@ -25,9 +25,9 @@ moves:
     - [Aerial Ace, Wing Attack]
     - [Aqua Tail, Night Slash, Slash, Cross Poison, Stone Edge, U-turn]
     - [Power Trick, Power Trick, Tailwind]
-    combinations:
+combinations:
     - [Dig, Sky Plate]
-    separations:
+separations:
     - [Dig, Tailwind]
     - [Earthquake, Power Trick]
     - [U-turn, Power Trick]
