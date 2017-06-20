@@ -65,7 +65,7 @@ moves:
     - [Fury Attack]
     - [Fury Attack]
     - [Fury Attack]
-evs: {hp:172, atk: 108, def: 8, spA: 0, spD: 116, spe: }
+evs: {hp: 172, atk: 108, def: 8, spA: 0, spD: 116, spe: 0}
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 3}
 nature: Lonely
 happiness: 255
