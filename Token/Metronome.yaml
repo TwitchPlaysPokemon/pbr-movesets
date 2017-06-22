@@ -12,7 +12,6 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-gender: [m]
 happiness: 128
 biddable: True
 rarity: 0
@@ -31,7 +30,6 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-gender: [f]
 happiness: 128
 biddable: True
 rarity: 0
@@ -97,7 +95,7 @@ species: Volbeat
 setname: Metronome
 displayname: "Volbeat-M"
 ball: [Net]
-item: [Tanga Berry]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Illuminate]
 nature: Rash
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 20}
