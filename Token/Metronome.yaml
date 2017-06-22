@@ -5,6 +5,7 @@ ball: [Great]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Stench]
 nature: Mild
+gender: [m]
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 112, atk: 180, def: 164, spA: 200, spD: 132, spe: 116}
 moves:
@@ -23,6 +24,7 @@ ball: [Great]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Forewarn]
 nature: Mild
+gender: [f]
 ivs: {hp: 0, atk: 31, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 12, spA: 208, spD: 8, spe: 188}
 moves:
