@@ -31,6 +31,9 @@ combinations:
     - [Starf Berry, Focus Punch, Substitute]
     - [Durin Berry, Natural Gift]
     - [Dig, Power Herb]
+separations:
+    - [Endure, Power Herb]
+    - [Endure, Durin Berry]
 gender: [m, f]
 happiness: 255
 biddable: True
