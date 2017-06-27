@@ -6,8 +6,8 @@ item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy B
 ability: [Stench]
 nature: Mild
 gender: [m]
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 112, atk: 180, def: 164, spA: 200, spD: 132, spe: 116}
+ivs: {hp: 10, atk: 31, def: 31, spA: 31, spD: 27, spe: 31}
+evs: {hp: 0, atk: 180, def: 64, spA: 200, spD: 12, spe: 116}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -25,8 +25,8 @@ item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy B
 ability: [Forewarn]
 nature: Mild
 gender: [f]
-ivs: {hp: 0, atk: 31, def: 30, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 252, def: 12, spA: 208, spD: 8, spe: 188}
+ivs: {hp: 1, atk: 31, def: 17, spA: 31, spD: 29, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 208, spD: 0, spe: 188}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -43,8 +43,8 @@ ball: [Heal]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Plus]
 nature: Naughty
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
-evs: {hp: 32, atk: 252, def: 112, spA: 72, spD: 4, spe: 0}
+ivs: {hp: 4, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
+evs: {hp: 68, atk: 252, def: 112, spA: 72, spD: 4, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -62,8 +62,8 @@ ball: [Heal]
 item: [Muscle Band]
 ability: [Minus]
 nature: Naughty
-ivs: {hp: 14, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
-evs: {hp: 8, atk: 252, def: 68, spA: 156, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 68, spA: 156, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -82,8 +82,8 @@ item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy B
 ability: [Illuminate]
 gender: [f]
 nature: Naughty
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 20}
-evs: {hp: 0, atk: 252, def: 0, spA: 184, spD: 12, spe: 0}
+ivs: {hp: 20, atk: 31, def: 2, spA: 31, spD: 0, spe: 20}
+evs: {hp: 0, atk: 252, def: 72, spA: 184, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -100,8 +100,8 @@ ball: [Net]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: [Illuminate]
 nature: Rash
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 20}
-evs: {hp: 0, atk: 184, def: 0, spA: 252, spD: 12, spe: 0}
+ivs: {hp: 11, atk: 31, def: 11, spA: 31, spD: 1, spe: 20}
+evs: {hp: 0, atk: 184, def: 72, spA: 252, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
