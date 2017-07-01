@@ -15,7 +15,6 @@ happiness: 255
 ball: [Premier]
 biddable: True
 rarity: 0
-gender: [m, f]
 ---
 species: Metagross
 displayname: "Metagross-RS"
@@ -34,7 +33,6 @@ happiness: 255
 ball: [Luxury]
 biddable: True
 rarity: 0
-gender: [m, f]
 ---
 species: Tyranitar
 displayname: "Tyranitar-RS"
