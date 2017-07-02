@@ -14,4 +14,4 @@ rarity: 1.0
 ball: [Nest]
 nature: Impish
 ivs: 31
-evs: {hp: 192, atk: 0, def: 136, spA: 0, spD: 180, spe: 0}
+evs: {hp: 192, atk: 240, def: 156, spA: 0, spD: 200, spe: 0}
