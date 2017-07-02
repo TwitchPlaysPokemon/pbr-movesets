@@ -24,20 +24,18 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Wingull
 setname: Physical
-item: [Focus Sash]
-ability: [Keen Eye]
+item: [Choice Band]
+ability: [Drizzle]
 moves:
-    - [Fly, Pluck, Aerial Ace, Wing Attack]
-    - [Double-Edge]
-    - [Steel Wing, U-turn]
-    - [Toxic, Attract, Double Team, Supersonic]
-combinations:
-    - [Fly, Toxic]
+    - [Fly]
+    - [Aqua Jet]
+    - [Double Edge]
+    - [U-turn]
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 1.0
 ball: [Dive]
 nature: Adamant
 ivs: 31
-evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+evs: {hp: 52, atk: 252, def: 40, spA: 0, spD: 24, spe: 140}
