@@ -44,14 +44,17 @@ setname: Explosion
 item: [Light Clay]
 ability: [Levitate]
 moves:
-    - [Reflect]
-    - [Light Screen]
-    - [Trick Room]
+    - [Earthquake, Zen Headbutt]
+    - [Light Screen, Reflect]
+    - [Trick Room, Light Screen, Reflect]
     - [Explosion]
+    separations:
+    - [Reflect, Reflect]
+    - [Light Screen, Light Screen]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.5
 ball: [Premier]
-nature: Relaxed
+nature: Sassy
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
-evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+evs: {hp: 160, atk: 160, def: 160, spA: 0, spD: 28, spe: 0}
