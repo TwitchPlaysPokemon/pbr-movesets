@@ -48,7 +48,7 @@ moves:
     - [Light Screen, Reflect]
     - [Trick Room, Light Screen, Reflect]
     - [Explosion]
-    separations:
+separations:
     - [Reflect, Reflect]
     - [Light Screen, Light Screen]
 happiness: 255
