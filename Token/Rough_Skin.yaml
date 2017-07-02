@@ -2,7 +2,7 @@ species: Magnezone
 displayname: "Magnezone-RS"
 setname: Rough Skin
 ability: [Rough Skin]
-item: [Brightpowder]
+item: [Life Orb]
 moves:
     - [Comet Punch]
     - [Comet Punch]
@@ -20,7 +20,7 @@ species: Metagross
 displayname: "Metagross-RS"
 setname: Rough Skin
 ability: [Rough Skin]
-item: [Brightpowder]
+item: [Life Orb]
 moves:
     - [Comet Punch]
     - [Comet Punch]
@@ -38,7 +38,7 @@ species: Tyranitar
 displayname: "Tyranitar-RS"
 setname: Rough Skin
 ability: [Rough Skin]
-item: [Brightpowder]
+item: [Life Orb]
 moves:
     - [Double Slap]
     - [Double Slap]
@@ -57,7 +57,7 @@ species: Skarmory
 displayname: "Skarmory-RS"
 setname: Rough Skin
 ability: [Rough Skin]
-item: [Brightpowder]
+item: [Life Orb]
 moves:
     - [Fury Attack]
     - [Fury Attack]
@@ -76,7 +76,7 @@ species: Kabutops
 displayname: "Kabutops-RS"
 setname: Rough Skin
 ability: [Rough Skin]
-item: [Brightpowder]
+item: [Life Orb]
 moves:
     - [Fury Attack]
     - [Fury Attack]
@@ -95,7 +95,7 @@ species: Omastar
 displayname: "Omastar-RS"
 setname: Rough Skin
 ability: [Rough Skin]
-item: [Brightpowder]
+item: [Life Orb]
 moves:
     - [Double Slap]
     - [Double Slap]
