@@ -13,7 +13,7 @@ combinations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.6
+rarity: 1.0
 ball: [Net]
 nature: Modest
 ivs: 31
@@ -21,17 +21,17 @@ evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ---
 species: Surskit
 setname: Rain Dish
-item: [Damp Rock, Leftovers]
+item: [Leftovers]
 ability: [Rain Dish]
 moves:
-    - [Water Pulse]
+    - [Hydro Pump]
     - [Toxic]
     - [Rain Dance]
     - [Protect]
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.2
+rarity: 0.75
 ball: [Dive]
 nature: Bold
 ivs: 31
@@ -39,20 +39,18 @@ evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Surskit
 setname: Physical
-item: [Liechi Berry]
+item: [Insect Plate]
 ability: [Swift Swim]
 moves:
+    - [Dive]
     - [Bug Bite]
-    - [Aqua Jet, Agility]
-    - [Frustration, Baton Pass]
-    - [Substitute]
-combinations:
-    - [Aqua Jet, Frustration]
+    - [Double Edge, Baton Pass]
+    - [Dragon Dance]
 gender: [m, f]
 happiness: 0
 biddable: True
-rarity: 0.2
+rarity: 0.75
 ball: [Nest]
 nature: Adamant
 ivs: 31
-evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+evs: {hp: 192, atk: 252, def: 0, spA: 0, spD: 40, spe: 24}
