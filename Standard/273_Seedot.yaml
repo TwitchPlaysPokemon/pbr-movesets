@@ -1,12 +1,17 @@
 species: Seedot
 setname: Physical
-item: [Life Orb]
+item: [Life Orb, Watmel Berry]
 ability: [Chlorophyll]
 moves:
     - [Seed Bomb]
+    - [Natural Gift, Dig, Rock Slide]
     - [Sunny Day]
-    - [Swords Dance]
-    - [Explosion]
+    - [Explosion, Swords Dance]
+  combinations:
+    - [Watmel Berry, Natural Gift, Explosion]
+  separations:
+    - [Explosion, Life Orb]
+    
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -14,7 +19,7 @@ rarity: 1.0
 ball: [Nest]
 nature: Adamant
 ivs: 31
-evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+evs: {hp: 112, atk: 252, def: 0, spA: 0, spD: 16, spe: 128}
 ---
 species: Seedot
 setname: Special
@@ -36,15 +41,22 @@ evs: {hp: 76, atk: 0, def: 0, spA: 252, spD: 0, spe: 180}
 ---
 species: Seedot
 setname: Stall
-item: [Custap Berry]
+item: [Leftovers, Chesto Berry, Custap Berry]
 ability: [Early Bird]
 moves:
-    - [Dig]
-    - [Toxic]
-    - [Endure]
-    - [Protect]
+    - [Seed Bomb]
+    - [Dig, Frustration]
+    - [Toxic, Leech Seed]
+    - [Protect, Endure, Attract, Rest]
+  combinations:
+    - [Frustration, Protect]
+    - [Rest, Chesto Berry]
+    - [Custap Berry, Endure]
+  separations:
+    - [Leftovers, Rest]
+    - [Leftovers, Endure]
 gender: [m, f]
-happiness: 255
+happiness: 0
 biddable: True
 rarity: 1.0
 ball: [Timer]
