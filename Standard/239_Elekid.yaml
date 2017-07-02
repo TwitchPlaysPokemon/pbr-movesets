@@ -1,30 +1,30 @@
 species: Elekid
 setname: Special
-item: [Icicle Plate]
+item: [Flame Orb]
 ability: [Static, Vital Spirit]
 moves:
     - [Thunderbolt]
-    - [Psychic]
     - [Hidden Power]
-    - [Charge Beam, Magnet Rise]
+    - [Psychic, Charge Beam]
+    - [Fling]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Quick]
 nature: Modest
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 30}
+ivs: {hp: 30, atk: 30, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 128, atk: 0, def: 36, spA: 128, spD: 128, spe: 88}
 ---
 species: Elekid
 setname: Physical
-item: [Flame Orb]
-ability: [Guts]
+item: [Expert Belt]
+ability: [Static, Vital Spirit]
 moves:
     - [Thunder Punch]
-    - [Cross Chop]
+    - [Hammer Arm, Double Edge]
     - [Fire Punch, Ice Punch]
-    - [Fling]
+    - [Meditate]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -32,4 +32,4 @@ rarity: 1.0
 ball: [Cherish]
 nature: Adamant
 ivs: 31
-evs: {hp: 100, atk: 140, def: 84, spA: 0, spD: 84, spe: 100}
+evs: {hp: 116, atk: 252, def: 24, spA: 0, spD: 0, spe: 116}
