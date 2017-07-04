@@ -52,9 +52,6 @@ combinations:
     - [Frustration, Protect]
     - [Rest, Chesto Berry]
     - [Custap Berry, Endure]
-separations:
-    - [Leftovers, Rest]
-    - [Leftovers, Endure]
 gender: [m, f]
 happiness: 0
 biddable: True
