@@ -10,6 +10,10 @@ moves:
     - [Aerial Ace, Wing Attack]
     - [Double Hit, Pursuit, Rock Smash]
     - [Leer, Tailwind, Agility, Focus Energy]
+combinations:
+    - [Silk Scarf, Double Hit]
+    - [Black Glasses, Pursuit]
+    - [Black Belt, Rock Smash]
 gender: [m, f]
 happiness: 255
 biddable: True
