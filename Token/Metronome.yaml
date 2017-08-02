@@ -1,13 +1,13 @@
-species: Nidorino
+species: Persian
 setname: Metronome
-displayname: "Nidorino-M"
+displayname: "Persian-M"
 ball: [Great]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
-ability: [Stench]
-nature: Mild
+ability: null
+nature: Quiet
 gender: [m]
-ivs: {hp: 10, atk: 31, def: 31, spA: 31, spD: 27, spe: 31}
-evs: {hp: 0, atk: 180, def: 64, spA: 200, spD: 12, spe: 116}
+ivs: {hp: 20, atk: 0, def: 0, spA: 31, spD: 2, spe: 0}
+evs: {hp: 0, atk: 176, def: 48, spA: 136, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -17,16 +17,16 @@ happiness: 128
 biddable: True
 rarity: 0
 ---
-species: Nidorina
+species: Delcatty
 setname: Metronome
-displayname: "Nidorina-M"
+displayname: "Delcatty-M"
 ball: [Great]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
-ability: [Forewarn]
-nature: Mild
+ability: null
+nature: Quiet
 gender: [f]
-ivs: {hp: 1, atk: 31, def: 17, spA: 31, spD: 29, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 208, spD: 0, spe: 188}
+ivs: {hp: 10, atk: 0, def: 2, spA: 31, spD: 22, spe: 31}
+evs: {hp: 0, atk: 216, def: 0, spA: 216, spD: 0, spe: 236}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
@@ -36,72 +36,72 @@ happiness: 128
 biddable: True
 rarity: 0
 ---
-species: Plusle
+species: Spinda
 setname: Metronome
-displayname: "Plusle-M"
+displayname: "Spinda-M"
 ball: [Heal]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
-ability: [Plus]
-nature: Naughty
-ivs: {hp: 4, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
-evs: {hp: 68, atk: 252, def: 112, spA: 72, spD: 4, spe: 0}
+ability: null
+nature: Naive
+ivs: {hp: 30, atk: 0, def: 13, spA: 31, spD: 29, spe: 21}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 144}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-gender: [m]
+gender: [f]
 happiness: 128
 biddable: True
 rarity: 0
 ---
-species: Minun
+species: Raticate
 setname: Metronome
-displayname: "Minun-M"
+displayname: "Raticate-M"
 ball: [Heal]
-item: [Muscle Band]
-ability: [Minus]
-nature: Naughty
-ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
-evs: {hp: 0, atk: 252, def: 68, spA: 156, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-gender: [f]
-happiness: 128
-biddable: True
-rarity: 0
----
-species: Illumise
-setname: Metronome
-displayname: "Illumise-M"
-ball: [Net]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
-ability: [Illuminate]
-gender: [f]
-nature: Naughty
-ivs: {hp: 20, atk: 31, def: 2, spA: 31, spD: 0, spe: 20}
-evs: {hp: 0, atk: 252, def: 72, spA: 184, spD: 0, spe: 0}
-moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-happiness: 128
-biddable: True
-rarity: 0
----
-species: Volbeat
-setname: Metronome
-displayname: "Volbeat-M"
-ball: [Net]
-item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
-ability: [Illuminate]
+ability: null
 nature: Rash
-ivs: {hp: 11, atk: 31, def: 11, spA: 31, spD: 1, spe: 20}
-evs: {hp: 0, atk: 184, def: 72, spA: 252, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 0, def: 1, spA: 31, spD: 0, spe: 0}
+evs: {hp: 36, atk: 96, def: 44, spA: 252, spD: 32, spe: 48}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [f]
+happiness: 128
+biddable: True
+rarity: 0
+---
+species: Ambipom
+setname: Metronome
+displayname: "Ambipom-M"
+ball: [Net]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
+ability: null
+gender: [f]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 176, spD: 0, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+happiness: 128
+biddable: True
+rarity: 0
+---
+species: Zangoose
+setname: Metronome
+displayname: "Zangoose-M"
+ball: [Net]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
+ability: null
+nature: Modest
+ivs: {hp: 4, atk: 0, def: 12, spA: 31, spD: 12, spe: 26}
+evs: {hp: 0, atk: 0, def: 0, spA: 176, spD: 0, spe: 0}
 moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
