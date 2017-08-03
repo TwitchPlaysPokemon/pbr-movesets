@@ -29,8 +29,7 @@ combinations:
     - [Insect Plate, Silver Wind]
     - [Mind Plate, Confusion]
     - [Leech Seed, Protect]
-separations:
-    - [Energy Ball, Sunny Day]
+    - [Solarbeam, Sunny Day]
 gender: [m, f]
 rarity: 1.0
 ball: [Safari]
