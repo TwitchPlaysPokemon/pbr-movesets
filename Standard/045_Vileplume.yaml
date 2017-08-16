@@ -46,3 +46,21 @@ biddable: true
 happiness: 255
 rarity: 1.0
 ball: [Repeat]
+---
+species: Vileplume
+setname: Sleeper
+item: [Moomoo Milk]
+ability: [Chlorophyll]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Acid]
+    - [Absorb]
+    - [Sleep Powder]
+    - [Moonlight]
+gender: [m, f]
+biddable: true
+happiness: 255
+rarity: 0.2
+ball: [Poke]
