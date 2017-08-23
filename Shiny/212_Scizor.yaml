@@ -1,0 +1,18 @@
+species: Scizor
+setname: Shiny
+item: [Big Root]
+ability: [Pure Power]
+moves:
+    - [Leech Life]
+    - [Knock Off]
+    - [Wrap]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Net]
+nature:Brave
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 10}
+evs: {hp: 0, atk: 252, def: 96, spA: 0, spD: 160, spe: 0}

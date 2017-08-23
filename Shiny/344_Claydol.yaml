@@ -1,0 +1,18 @@
+species: Claydol
+setname: Shiny
+item: [Flame Orb]
+ability: [Magic Guard]
+moves:
+    - [Luster Purge]
+    - [Calm Mind]
+    - [Psycho Shift]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Timer]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}

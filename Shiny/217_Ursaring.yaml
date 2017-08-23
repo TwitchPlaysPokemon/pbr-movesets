@@ -1,18 +1,18 @@
 species: Ursaring
 setname: Shiny
-item: [Miracle Seed]
-ability: [Flower Gift]
+item: [Silk Scarf]
+ability: [Huge Power]
 moves:
-    - [Leaf Blade]
-    - [U-turn]
-    - [Ingrain]
-    - [Sunny Day]
+    - [False Swipe]
+    - [Sonic Boom]
+    - [Howl]
+    - [Foresight]
 gender: [m, f]
 happiness: 255
 shiny: True
 biddable: False
 hidden: True
-ball: [Safari]
-nature: Impish
+ball: [Net]
+nature: Adamant
 ivs: 31
-evs: {hp: 104, atk: 100, def: 112, spA: 0, spD: 152, spe: 40}
+evs: {hp: 56, atk: 252, def: 0, spA: 0, spD: 0, spe: 200}

@@ -1,0 +1,18 @@
+species: Latias
+setname: Shiny
+item: [Starf Berry]
+ability: [Simple]
+moves:
+    - [Draco Meteor]
+    - [Overheat]
+    - [Heal Block]
+    - [Haze]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Quick]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}

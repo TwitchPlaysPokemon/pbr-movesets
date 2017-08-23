@@ -1,0 +1,18 @@
+species: Flygon
+setname: Shiny
+item: [Silverpowder]
+ability: [Tinted Lens]
+moves:
+    - [Bug Buzz]
+    - [Tail Glow]
+    - [Heal order]
+    - [Conversion]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Net]
+nature: Modest
+ivs: 31
+evs: {hp: 80, atk: 0, def: 0, spA: 244, spD: 0, spe: 184}

@@ -1,0 +1,18 @@
+species: Ledian
+setname: Shiny
+item: [Leftovers]
+ability: [Filter]
+moves:
+    - [Fire Spin]
+    - [Toxic]
+    - [Substitute]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Cherish]
+nature: Bold
+ivs: 31
+evs: {hp: 248, atk: 0, def: 252, spA: 252, spD: 0, spe: 252}

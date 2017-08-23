@@ -1,0 +1,18 @@
+species: Dratini
+setname: Shiny
+item: [Toxic Orb]
+ability: [Poison Heal]
+moves:
+    - [Spacial Rend]
+    - [Flamethrower]
+    - [Psycho Shift]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Dive]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 232, def: 220, spA: 252, spD: 252, spe: 252}

@@ -1,0 +1,18 @@
+species: Machoke
+setname: Shiny
+item: [Custap Berry]
+ability: [Color Change]
+moves:
+    - [Close Combat]
+    - [Aeroblast]
+    - [Bullet Punch]
+    - [Heart Swap]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 184, def: 0, spA: 252, spD: 72, spe: 0}
