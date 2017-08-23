@@ -6,7 +6,7 @@ moves:
     - [Eruption]
     - [Blast Burn]
     - [Overheat]
-    - [Fire Blast]
+    - [Flamethrower]
 gender: [m, f]
 happiness: 255
 shiny: True

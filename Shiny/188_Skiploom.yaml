@@ -13,6 +13,6 @@ shiny: True
 biddable: False
 hidden: True
 ball: [Cherish]
-nature: Modest
+nature: Timid
 ivs: 31
-evs: {hp: 152, atk: 0, def: 0, spA: 252, spD: 0, spe: 104}
+evs: {hp: 72, atk: 0, def: 0, spA: 184, spD: 0, spe: 252}

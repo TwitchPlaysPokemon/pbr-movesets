@@ -3,7 +3,7 @@ setname: Shiny
 item: [Icicle Plate]
 ability: [Snow Cloak]
 moves:
-    - [Ice Beam]
+    - [Blizzard]
     - [Flare Blitz]
     - [Double Team]
     - [Hail]

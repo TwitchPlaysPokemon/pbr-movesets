@@ -1,12 +1,12 @@
 species: Eevee
 setname: Shiny
-item: [Expert Belt]
+item: [Wise Glasses]
 ability: [Speed Boost]
 moves:
-    - [Hyper Voice]
-    - [Hydro Pump]
     - [Fire Blast]
-    - [Thunderbolt]
+    - [Hydro Pump]
+    - [Thunder]
+    - [Growth]
 gender: [m, f]
 happiness: 255
 shiny: True
@@ -15,4 +15,4 @@ hidden: True
 ball: [Great]
 nature: Modest
 ivs: 31
-evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 0, spe: 128}
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 252}

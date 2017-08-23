@@ -14,5 +14,5 @@ biddable: False
 hidden: True
 ball: [Heal]
 nature: Serious
-ivs: {hp: 31, atk: 5, def: 25, spA: 31, spD: 25, spe: 31}
-evs: {hp: 160, atk: 0, def: 144, spA: 0, spD: 168, spe: 36}
+ivs: 31
+evs: {hp: 248, atk: 104, def: 252, spA: 0, spD: 252, spe: 36}

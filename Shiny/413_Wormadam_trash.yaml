@@ -16,4 +16,4 @@ hidden: True
 ball: [Great]
 nature: Timid
 ivs: 31
-evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}
+evs: {hp: 0, atk: 248, def: 0, spA: 248, spD: 0, spe: 248}

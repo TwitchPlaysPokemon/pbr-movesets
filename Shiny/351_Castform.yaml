@@ -5,13 +5,18 @@ ability: [Drizzle, Drought, Snow Warning, Sand Stream]
 moves:
     - [Tri Attack]
     - [Weather Ball]
-    - [Withdraw, Will-O-Wisp, Haze, Rock Polish]
+    - [Rain Dance, Sunny Day, Hail, Sandstorm]
     - [Conversion]
 combinations:
-    - [Damp Rock, Drizzle, Withdraw]
-    - [Heat Rock, Drought, Will-O-Wisp]
-    - [Icy Rock, Snow Warning, Haze]
-    - [Smooth Rock, Sand Stream, Rock Polish]
+    - [Damp Rock, Drizzle]
+    - [Heat Rock, Drought]
+    - [Icy Rock, Snow Warning]
+    - [Smooth Rock, Sand Stream]
+separations:
+    - [Drizzle, Rain Dance]
+    - [Drought, Sunny Day]
+    - [Snow Warning, Hail]
+    - [Sand Stream, Sandstorm]
 gender: [m, f]
 happiness: 255
 shiny: True
