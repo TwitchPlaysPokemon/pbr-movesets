@@ -15,3 +15,19 @@ ball: [Cherish]
 nature: Jolly
 ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Shedinja
+setname: Shiny 2
+item: [Metronome]
+ability: [Wonder Guard]
+moves:
+    - [X-Scissor]
+    - [Curse (=2)]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Poke]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
