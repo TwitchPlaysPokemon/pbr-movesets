@@ -5,11 +5,11 @@ ability: [Pressure]
 moves:
     - [Hidden Power]
     - [Bubble]
-    - [Strength, Shadow Claw, Rock Slide, Aerial Ace]
-    - [Heal Block, Safeguard, Scary Face, Trick Room]
+    - [Shadow Claw, Rock Slide]
+    - [Trick Room]
 happiness: 255
 biddable: True
-rarity: 0.6
+rarity: 1.0
 ball: [Ultra]
 nature: Modest
 ivs: {hp: 1, atk: 0, def: 1, spA: 1, spD: 1, spe: 1}
@@ -22,15 +22,15 @@ ability: [Pressure]
 moves:
     - [Outrage]
     - [Aqua Tail, Waterfall]
-    - [Stone Edge, Brick Break, Avalanche]
+    - [Shock Wave, Power Gem]
     - [Safeguard]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.4
 ball: [Dive]
 nature: Modest
-ivs: 0
-evs: 0
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 52, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Palkia
 setname: Overpowered
@@ -43,7 +43,7 @@ moves:
     - [Scary Face, Heal Block, Trick Room, Safeguard]
 happiness: 255
 biddable: True
-rarity: 0.1
+rarity: 0.2
 ball: [Master]
 nature: Jolly
 ivs: 0

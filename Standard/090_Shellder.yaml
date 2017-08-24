@@ -1,17 +1,15 @@
 species: Shellder
-setname: Physical
-item: [Rindo Berry, Wacan Berry]
+setname: Standard
+item: [Wacan Berry]
 ability: [Skill Link]
 nature: Careful
 ivs: 31
 evs: {hp: 252, atk: 128, def: 0, spA: 0, spD: 128, spe: 0}
 moves:
     - [Dive]
-    - [Rock Blast, Spike Cannon]
-    - [Payback, Icicle Spear]
-    - [Ice Shard, Screech, Swagger, Explosion]
-separations:
-    - [Icicle Spear, Ice Shard]
+    - [Rock Blast]
+    - [Toxic]
+    - [Ice Shard, Ice Shard Explosion]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -20,21 +18,16 @@ ball: [Repeat]
 ---
 species: Shellder
 setname: Special
-item: [Wide Lens, Expert Belt]
+item: [Life Orb]
 ability: [Shell Armor]
-nature: Modest
-ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
-evs: {hp: 136, atk: 0, def: 0, spA: 136, spD: 136, spe: 100}
+nature: Timid
+ivs: {hp: 29, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
 moves:
-    - [Hydro Pump, Surf]
-    - [Blizzard, Ice Beam, Hidden Power]
-    - [Mud Shot, Icy Wind]
+    - [Surf]
+    - [Ice Beam]
+    - [Mud Shot, Hidden Power]
     - [Explosion]
-combinations:
-    - [Wide Lens, Hydro Pump, Blizzard]
-separations:
-    - [Blizzard, Icy Wind]
-    - [Ice Beam, Icy Wind]
 gender: [m, f]
 happiness: 255
 biddable: True

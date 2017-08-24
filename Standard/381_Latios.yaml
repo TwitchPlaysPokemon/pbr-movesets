@@ -37,3 +37,21 @@ ball: [Premier]
 nature: Modest
 ivs: 0
 evs: 0
+---
+species: Latios
+setname: Jet Fighter
+item: [Sky Plate]
+ability: [Levitate]
+moves:
+    - [Twister, Energy Ball, Icy Wind]
+    - [Aerial Ace]
+    - [Last Resort]
+    - [Dragon Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Premier]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 1oo, def: 0, spA: 100, spD: 0, spe: 100}

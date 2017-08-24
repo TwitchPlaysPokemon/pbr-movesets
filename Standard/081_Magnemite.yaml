@@ -19,18 +19,16 @@ ball: [Nest]
 ---
 species: Magnemite
 setname: Physical
-item: [Iron Ball, Metal Coat]
+item: [Iron Ball]
 ability: [Magnet Pull, Sturdy]
-nature: Adamant
-ivs: 31
-evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 216, atk: 252, def: 0, spA: 0, spD: 40, spe: 0}
 moves:
-    - [Gyro Ball, Magnet Bomb]
-    - [Spark]
-    - [Screech, Reflect, Light Screen]
+    - [Gyro Ball]
+    - [Volt Tackle]
+    - [Reflect, Light Screen]
     - [Explosion]
-combinations:
-    - [Metal Coat, Magnet Bomb]
 happiness: 255
 biddable: True
 rarity: 1.0

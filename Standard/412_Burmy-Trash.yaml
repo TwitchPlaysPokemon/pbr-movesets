@@ -16,22 +16,3 @@ ball: [Luxury]
 nature: Relaxed
 ivs: 31
 evs: {hp: 252, atk: 0, def: 112, spA: 144, spD: 0, spe: 0}
----
-species: Burmy
-setname: Trash Physical
-item: [Choice Scarf]
-ability: [Pure Power]
-moves:
-    - [Bug Bite]
-    - [Gunk Shot]
-    - [Iron Head]
-    - [Endeavor]
-gender: [m, f]
-form: Trash
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Luxury]
-nature: Jolly
-ivs: 31
-evs: {hp: 128, atk: 80, def: 24, spA: 0, spD: 24, spe: 252}

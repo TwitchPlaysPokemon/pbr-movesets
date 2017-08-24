@@ -13,7 +13,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 1.3
+rarity: 1.0
 ball: [Nest]
 ---
 species: Rattata
@@ -31,25 +31,5 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-rarity: 1.3
+rarity: 1.0
 ball: [Repeat]
----
-species: Rattata
-setname: Special
-item: [Choice Specs]
-ability: [Run Away]
-nature: Modest
-ivs: 31
-evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
-moves:
-    - [Blizzard, Thunder]
-    - [Thunderbolt, Ice Beam]
-    - [Shadow Ball]
-    - [Grass Knot]
-separations:
-    - [Blizzard, Ice Beam]
-    - [Thunder, Thunderbolt]
-gender: [m, f]
-biddable: true
-rarity: 0.4
-ball: [Dusk]

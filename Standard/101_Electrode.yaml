@@ -20,21 +20,19 @@ ball: [Great]
 ---
 species: Electrode
 setname: Physical
-item: [White Herb, Flame Orb]
-ability: [Soundproof]
+item: [Toxic Orb]
+ability: [Static]
 nature: Adamant
-ivs: 31
+ivs: {hp: 152, atk: 220, def: 136, spA: 0, spD: 0, spe: 0}
 evs: {hp: 184, atk: 184, def: 0, spA: 0, spD: 140, spe: 0}
 moves:
     - [Spark]
-    - [Return, Facade]
+    - [Facade]
     - [Sucker Punch]
-    - [Curse, Explosion]
-combinations:
-    - [Facade, Flame Orb, Explosion]
+    - [Mirror Coat]
 happiness: 255
 biddable: True
-rarity: 0.8
+rarity: 0.9
 ball: [Poké]
 ---
 species: Electrode
@@ -51,5 +49,5 @@ moves:
     - [Magnet Rise]
 happiness: 255
 biddable: True
-rarity: 0.1
+rarity: 0.2
 ball: [Ultra]

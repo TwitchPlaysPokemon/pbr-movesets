@@ -16,16 +16,16 @@ evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}
 ---
 species: Cleffa
 setname: Physical
-item: [Zoom Lens]
+item: [Life Orb]
 ability: [Magic Guard]
 moves:
-    - [Mega Kick]
-    - [Dig, Iron Tail]
+    - [Double-Edge]
+    - [Iron Tail]
+    - [Zen Headbutt, Dig]
     - [Sing]
-    - [Belly Drum]
 gender: [m, f]
 rarity: 1.0
 ball: [Timer]
-nature: Brave
+nature: Adamant
 ivs: 31
-evs: {hp: 252, atk: 128, def: 128, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}

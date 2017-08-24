@@ -18,11 +18,11 @@ ball: [Heal]
 ---
 species: Happiny
 setname: Hax
-item: [King's Rock]
+item: [Leftovers]
 ability: [Serene Grace]
 nature: Relaxed
 ivs: 31
-evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+evs: {hp: 172, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}
 moves:
     - [Headbutt]
     - [Mud Bomb]

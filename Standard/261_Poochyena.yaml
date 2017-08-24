@@ -1,45 +1,35 @@
 species: Poochyena
-setname: Physical
-item: [Toxic Orb, Focus Sash, Leftovers, Liechi Berry]
-ability: [Quick Feet]
-moves:
-    - [Super Fang]
-    - [Crunch, Sucker Punch]
-    - [Return, Facade, Dig, Iron Tail, Counter]
-    - [Swagger, Protect, Endure, Yawn]
-combinations:
-    - [Toxic Orb, Protect]
-    - [Liechi Berry, Endure]
-separations:
-    - [Crunch, Yawn]
-    - [Toxic Orb, Sucker Punch]
-    - [Liechi Berry, Crunch]
-    - [Focus Sash, Facade]
-    - [Leftovers, Facade]
-    - [Liechi Berry, Facade]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 1.5
-ball: [Dusk]
-nature: Adamant
-ivs: 31
-evs: {hp: 80, atk: 252, def: 0, spA: 0, spD: 0, spe: 176}
----
-species: Poochyena
-setname: Special
+setname: Quick Feet
 item: [Toxic Orb]
 ability: [Quick Feet]
 moves:
-    - [Dark Pulse]
-    - [Hidden Power]
-    - [Me First]
+    - [Crunch]
+    - [Facade]
+    - [Iron Tail Fire Fang]
+    - [Counter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 0, spA: 0, spD: 0, spe: 128}
+---
+species: Poochyena
+setname: Standard
+item: [Leftovers]
+ability: [Quick Feet]
+moves:
+    - [Super Fang]
+    - [Crunch]
+    - [Yawn]
     - [Protect]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Quick]
-nature: Mild
-ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
-evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+nature: Adamant
+ivs: 31
+evs: {hp: 244, atk: 144, def: 60, spA: 0, spD: 60, spe: 0}

@@ -28,9 +28,9 @@ evs: {hp: 168, atk: 252, def: 44, spA: 0, spD: 44, spe: 0}
 moves:
     - [Power Whip]
     - [Double-Edge, Skull Bash]
-    - [Natural Gift, Rock Smash]
+    - [Sleep Powder]
     - [Swords Dance, Synthesis]
 combinations:
-    - [Salac Berry, Double-Edge, Natural Gift, Swords Dance]
-    - [Power Herb, Skull Bash, Rock Smash, Synthesis]
+    - [Salac Berry, Double-Edge]
+    - [Power Herb, Skull Bash]
 gender: [m, f]
