@@ -1,0 +1,20 @@
+species: Feraligatr
+ingamename: YZZZQQQC
+displayname: YZZZQQQC
+setname: Pyrite
+item: [Mystic Water]
+ability: [null]
+moves:
+    - [Surf]
+    - [Ice Punch]
+    - [Crunch]
+    - [Earthquake]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 0
+evs: 0

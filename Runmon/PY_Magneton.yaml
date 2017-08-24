@@ -1,0 +1,19 @@
+species: Magneton
+ingamename: ::::;n;;ᵖᵏ-
+displayname: ::::;n;;ᵖᵏ-
+setname: Pyrite
+item: [Quick Claw]
+ability: [null]
+moves:
+    - [Thunderbolt]
+    - [Zap Cannon]
+    - [Thundershock]
+    - [Swift]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 31, spe: 0}
+evs: 0

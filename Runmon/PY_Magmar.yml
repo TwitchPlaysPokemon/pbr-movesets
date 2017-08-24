@@ -1,0 +1,20 @@
+species: Magmar
+ingamename: -
+displayname: -
+setname: Pyrite
+item: [Charcoal]
+ability: [null]
+moves:
+    - [Fire Blast]
+    - [Flamethrower]
+    - [Fire Punch]
+    - [Thunder Punch]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: {hp: 0, atk: 31, def: 31, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 44}

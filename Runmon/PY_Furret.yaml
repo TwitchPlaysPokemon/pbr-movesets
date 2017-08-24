@@ -1,0 +1,20 @@
+species: Furret
+ingamename: HHHIIIIHGH
+displayname: HHHIIIIHGH
+setname: Pyrite
+item: [Silk Scarf]
+ability: [null]
+moves:
+    - [Return]
+    - [Heatbutt]
+    - [Strength]
+    - [Shadow Ball]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 248, spD: 0, spe: 104}
