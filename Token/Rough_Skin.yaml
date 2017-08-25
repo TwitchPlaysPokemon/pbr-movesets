@@ -13,7 +13,8 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 20, spe: 23}
 nature: Adamant
 happiness: 255
 ball: [Premier]
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ---
 species: Metagross
@@ -31,7 +32,8 @@ ivs: {hp: 31, atk: 0, def: 21, spA: 31, spD: 20, spe: 3}
 nature: Modest
 happiness: 255
 ball: [Luxury]
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ---
 species: Tyranitar
@@ -49,7 +51,8 @@ ivs: {hp: 4, atk: 0, def: 31, spA: 31, spD: 0, spe: 21}
 nature: Bold
 happiness: 255
 ball: [Dusk]
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -68,7 +71,8 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 3}
 nature: Lonely
 happiness: 255
 ball: [Net]
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -87,7 +91,8 @@ ivs: {hp: 31, atk: 10, def: 31, spA: 31, spD: 31, spe: 0}
 nature: Relaxed
 happiness: 255
 ball: [Great]
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -106,6 +111,7 @@ ivs: 31
 nature: Adamant
 happiness: 255
 ball: [Ultra]
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
