@@ -9,7 +9,7 @@ moves:
     - [Dive]
     - [Rock Blast]
     - [Toxic]
-    - [Ice Shard, Ice Shard Explosion]
+    - [Ice Shard, Ice Shard, Explosion]
 gender: [m, f]
 happiness: 255
 biddable: True
