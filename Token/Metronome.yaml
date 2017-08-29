@@ -43,7 +43,7 @@ ball: [Heal]
 item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
 ability: null
 nature: Naive
-ivs: {hp: 30, atk: 0, def: 13, spA: 31, spD: 29, spe: 21}
+ivs: {hp: 30, atk: 0, def: 13, spA: 31, spD: 29, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 144}
 moves:
     - [Metronome (=255)]
