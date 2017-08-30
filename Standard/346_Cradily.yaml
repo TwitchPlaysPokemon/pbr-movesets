@@ -93,21 +93,3 @@ ball: [Quick]
 nature: Adamant
 ivs: 10
 evs: {hp: 44, atk: 172, def: 84, spA: 0, spD: 84, spe: 124}
----
-species: Cradily
-setname: Constrict
-item: [Micle Berry, Watmel Berry]
-ability: [Suction Cups]
-moves:
-    - [Natural Gift]
-    - [Astonish]
-    - [Constrict]
-    - [Swords Dance]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0.3
-ball: [Timer]
-nature: Brave
-ivs: 31
-evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
