@@ -43,8 +43,8 @@ setname: Special
 item: [Air Mail, Silk Scarf, Sky Plate]
 ability: [Keen Eye, Tangled Feet]
 nature: Bold
-ivs: 10
-evs: {hp: 0, atk: 0, def: 128, spA: 128, spD: 128, spe: 124}
+ivs: {hp: 10, atk: 10, def: 10, spA: 10, spD: 10, spe: 11}
+evs: {hp: 0, atk: 0, def: 128, spA: 128, spD: 128, spe: 120}
 moves:
     - [Hyper Beam, Swift]
     - [Air Slash, Hidden Power]
