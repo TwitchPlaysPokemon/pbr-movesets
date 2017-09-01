@@ -1,7 +1,7 @@
 species: Lapras
 setname: Shiny
 item: [Chesto Berry]
-ability: [Tuant]
+ability: [Truant]
 moves:
     - [Fissure]
     - [Horn Drill]
