@@ -3,7 +3,7 @@ ingamename: Leafeom
 displayname: Leafeom
 setname: Moon
 item: [Null]
-ability: [Chlorphyll]
+ability: [Chlorophyll]
 moves:
     - [Giga Drain]
     - [Razor Leaf]
