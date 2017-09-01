@@ -1,6 +1,6 @@
 species: Combee
 setname: Physical
-item: [Leftover]
+item: [Leftovers]
 ability: [Hustle]
 nature: Timid
 ivs: 31
@@ -19,7 +19,7 @@ ball: [Heal]
 species: Combee 
 setname: Special
 item: [Choice Specs]
-ability: [Hony Gather]
+ability: [Honey Gather]
 nature: Timid
 ivs: 31
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
