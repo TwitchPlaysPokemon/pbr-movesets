@@ -1,6 +1,6 @@
 species: Magmar
 setname: Physical
-item: [Red Scarf, Black Glasses, Passho Berry, Salec Berry]
+item: [Red Scarf, Black Glasses, Passho Berry, Salac Berry]
 ability: [Flame Body, Vital Spirit]
 nature: Impish
 ivs: 8
@@ -13,7 +13,7 @@ moves:
 combinations:
     - [Black Glasses, Feint Attack]
     - [Passho Berry, Natural Gift, Meditate]
-    - [Salec Berry, Belly Drum]
+    - [Salac Berry, Belly Drum]
 separations:
     - [Flame Body, Will-O-Wisp]
 gender: [m, f]
