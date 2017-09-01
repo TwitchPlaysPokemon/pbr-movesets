@@ -57,7 +57,7 @@ ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 30, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
 moves:
     - [Hidden Power, Fury Cutter]
-    - [Vice Grap, Fury Attack, Rock Throw]
+    - [Vice Grip, Fury Attack, Rock Throw]
     - [Guillotine, Focus Blast, Me First]
     - [Iron Defense, Double Team, Swords Dance, Bulk Up, Quick Attack, Foresight]
 combinations:
