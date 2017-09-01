@@ -10,9 +10,9 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.1
+rarity: 0.6
 ball: [Dusk]
-nature: Bold
+nature: Mild
 ivs: {hp: 11, atk: 30, def: 0, spA: 31, spD: 29, spe: 29}
 evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
 ---
