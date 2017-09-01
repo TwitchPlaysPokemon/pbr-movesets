@@ -25,7 +25,7 @@ ball: [Heal]
 ---
 species: Golduck
 setname: High Stats
-item: [Kings Rock, Persim Berry]
+item: [King's Rock, Persim Berry]
 ability: [Cloud Nine]
 nature: Adamant
 ivs: 31
@@ -36,7 +36,7 @@ moves:
     - [Fury Swipes, Future Sight, Low Kick, Icy Wind]
     - [Me First]
 combinations:
-    - [Kings Rock, Fury Swipes]
+    - [King's Rock, Fury Swipes]
 separations:
     - [Psybeam, Future Sight]
     - [Psybeam, Icy Wind]
