@@ -1,7 +1,7 @@
 species: Kyogre
 setname: Shiny
 item: [Fire Stone]
-ability: [Drougth]
+ability: [Drought]
 moves:
     - [Earthquake]
     - [Fire Punch]
