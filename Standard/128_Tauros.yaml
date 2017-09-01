@@ -24,8 +24,8 @@ nature: Mild
 ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
 evs: {hp: 48, atk: 32, def: 0, spA: 136, spD: 200, spe: 32}
 moves:
-    - [Rock Climb, Trash, Take Down, Body Slam]
-    - [Eartquake, Outrage, Iron Tail, Iron Head]
+    - [Rock Climb, Thrash, Take Down, Body Slam]
+    - [Earthquake, Outrage, Iron Tail, Iron Head]
     - [Fire Blast, Solarbeam, Thunder, Surf]
     - [Tail Whip, Rain Dance, Sunny Day, Role Play, Scary Face]
 separations:
