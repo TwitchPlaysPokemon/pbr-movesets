@@ -8,7 +8,7 @@ evs: {hp: 180, atk: 0, def: 0, spA: 0, spD: 164, spe: 164}
 moves:
     - [Rock Slide, Dig]
     - [Double-Edge, Megahorn, Dragon Rush]
-    - [Chrunch, Iron Tail, Aqua Tail, Shadow Claw, Submission]
+    - [Crunch, Iron Tail, Aqua Tail, Shadow Claw, Submission]
     - [Thunder Fang, Fire Fang, Ice Fang, Poison Jab]
 separations:
     - [Megahorn, Poison Jab]
