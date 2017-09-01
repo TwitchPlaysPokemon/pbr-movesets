@@ -49,10 +49,10 @@ ability: [Speed Boost]
 moves:
     - [Rock Smash]
     - [Ember]
-    - [SmellingSalt, Mirror Move]
+    - [Smelling Salts, Mirror Move]
     - [Peck, Protect]
 combinations:
-    - [SmellingSalt, Peck]
+    - [Smelling Salts, Peck]
 gender: [m, f]
 happiness: 255
 biddable: True
