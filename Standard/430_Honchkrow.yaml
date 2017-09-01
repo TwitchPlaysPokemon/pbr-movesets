@@ -20,7 +20,7 @@ ball: [Dusk]
 ---
 species: Honchkrow
 setname: Special
-item: [Null, Iron Ball, Scope Lense, Dragon Fang]
+item: [Null, Iron Ball, Scope Lens, Dragon Fang]
 ability: [Insomnia, Super Luck]
 nature: Quirky
 ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 3}
