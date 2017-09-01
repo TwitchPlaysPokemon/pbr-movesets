@@ -19,8 +19,8 @@ ball: [Dusk]
 species: Duskull
 setname: Special
 item: [Sitrus Berry]
-ability: [Levitate']
-nature: Modset
+ability: [Levitate]
+nature: Modest
 ivs: 31
 evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
 moves:
