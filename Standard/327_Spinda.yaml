@@ -22,7 +22,7 @@ evs: {hp: 128, atk: 128, def: 64, spA: 0, spD: 64, spe: 124}
 ---
 species: Spinda
 setname: Special
-item: [Splash Plate, Icicle Plate, Micle Berry, Ganon Berry, Apicot Berry]
+item: [Splash Plate, Icicle Plate, Micle Berry, Ganlon Berry, Apicot Berry]
 ability: [Own Tempo]
 moves:
     - [Hyper Voice]
