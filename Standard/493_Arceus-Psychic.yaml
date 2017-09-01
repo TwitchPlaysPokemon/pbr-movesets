@@ -5,7 +5,7 @@ ability: [Multitype]
 moves:
     - [Confusion]
     - [Future Sight]
-    - [Twinneedle]
+    - [Twineedle]
     - [Trick Room]
 happiness: 255
 biddable: False
