@@ -5,11 +5,11 @@ ability: [Thick Fat]
 moves:
     - [Fake Out, Wake-Up Slap]
     - [Revenge, Superpower, Cross Chop, Earthquake]
-    - [Ice Punch, Thunder Punch, Fire Punch, Rock Slide, Feint Attack, Smelling Salt, Secret Power]
+    - [Ice Punch, Thunder Punch, Fire Punch, Rock Slide, Feint Attack, Smelling Salts, Secret Power]
     - [Bullet Punch, Foresight, Role Play, Sand-Attack, Whirlwind, Detect, Fling]
 combinations:
     - [Wake-Up Slap, Earthquake, Secret Power]
-    - [Light Ball, Smelling Salt, Fling]
+    - [Light Ball, Smelling Salts, Fling]
     - [BlackGlasses, Feint Attack]
 gender: [m, f]
 happiness: 255
@@ -48,7 +48,7 @@ item: [King's Rock, Salac Berry]
 ability: [Guts]
 moves:
     - [Arm Thrust]
-    - [Faint Attack, Knock Off]
+    - [Feint Attack, Knock Off]
     - [Rock Tomb, Belly Drum]
     - [Metronome, Mimic]
 combinations:
