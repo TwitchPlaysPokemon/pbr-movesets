@@ -23,12 +23,12 @@ setname: Physical
 item: [Cheri Berry, Light Ball]
 ability: [Scrappy]
 moves:
-    - [Stomp, SmellingSalt]
+    - [Stomp, Smelling Salts]
     - [Ice Fang, Fire Fang, Thunder Fang]
     - [Icy Wind, Fling]
     - [Screech, Mimic, Howl]
 combinations:
-    - [Light Ball, SmellingSalt, Fling]
+    - [Light Ball, Smelling Salts, Fling]
 gender: [m, f]
 happiness: 255
 biddable: True
