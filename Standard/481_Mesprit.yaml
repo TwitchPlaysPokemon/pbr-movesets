@@ -18,7 +18,7 @@ biddable: True
 rarity: 0.9
 ball: [Timer]
 nature: Hardy
-ivs: 0
+ivs: {hp: 1, atk: 1, def: 0, spA: 3, spD: 2, spe: 0}
 evs: {hp: 40, atk: 0, def: 40, spA: 40, spD: 40, spe: 0}
 ---
 species: Mesprit
