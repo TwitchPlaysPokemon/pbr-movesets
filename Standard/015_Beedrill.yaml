@@ -1,7 +1,7 @@
 species: Beedrill
 setname: Swarm
 item: [Null]
-ability: [Silk Scarf]
+ability: [Swarm]
 moves:
     - [X-Scissor]
     - [Poison Jab]
