@@ -1,0 +1,35 @@
+species: Wartortle
+setname: Flinch
+item: [Light Ball]
+ability: [Torrent]
+moves:
+    - [Fake Out]
+    - [Waterfall]
+    - [Zen Headbutt]
+    - [Fling]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Great]
+nature: Docile
+evs: 85
+ivs: 31
+---
+species: Wartortle
+setname: Rain Dish
+item: [Damp Rock]
+ability: [Rain Dish]
+moves:
+    - [dive]
+    - [Dig]
+    - [Toxic]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Great]
+nature: Sassy
+evs: 84
+ivs: 31

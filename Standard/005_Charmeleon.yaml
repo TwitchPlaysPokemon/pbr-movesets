@@ -1,0 +1,35 @@
+species: Charmeleon
+setname: Blaze
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Blast Burn]
+    - [Rock Slide]
+    - [Dynamic Punch]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: brave
+evs: {hp: 216, atk: 0, def: 148, spA: 0, spD: 144, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+---
+species: Charmeleon
+setname: Solar Power
+item: [Null]
+ability: [Solar Power]
+moves:
+    - [Flamethrower]
+    - [Dragon Pulse]
+    - [Ancient Power]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Calm
+evs: {hp: 252, atk: 0, def: 176, spA: 0, spD: 52, spe: 28}
+ivs: 31

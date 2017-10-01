@@ -1,0 +1,35 @@
+species: Squirtle
+setname: Special
+item: [Blackbelt]
+ability: [Torrent]
+moves:
+    - [Hydro Pump]
+    - [Aura Sphere]
+    - [Ice Beam]
+    - [Mirror Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.56
+ball: [Poke]
+nature: Modest
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
+ivs: 31
+---
+species: Squirtle
+setname: Physical
+item: [Muscle Band]
+ability: [Rain Dish]
+moves:
+    - [Waterfall]
+    - [Body Slam]
+    - [Aqua Jet]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.44
+ball: [Poke]
+nature: Adamant
+evs: {hp: 184, atk: 252, def: 36, spA: 0, spD: 36, spe: 0}
+ivs: 31
