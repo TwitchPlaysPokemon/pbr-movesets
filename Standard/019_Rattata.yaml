@@ -1,0 +1,35 @@
+species: Rattata
+setname: Hustle
+item: [Wide Lens]
+ability: [Hustle]
+moves:
+    - [Double-Edge]
+    - [Crunch]
+    - [Dig]
+    - [U-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Jolly
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+---
+species: Rattata
+setname: Guts
+item: [Toxic Orb]
+ability: [Guts]
+moves:
+    - [Super Fang]
+    - [Facade]
+    - [Iron Tail]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Jolly
+evs: {hp: 128, atk: 128, def: 36, spA: 0, spD: 36, spe: 180}
+ivs: 31

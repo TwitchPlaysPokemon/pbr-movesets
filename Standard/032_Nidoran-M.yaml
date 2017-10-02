@@ -1,0 +1,35 @@
+species: Nidoran♂
+setname: Physical
+item: [BrightPowder]
+ability: [Hustle]
+moves:
+    - [Poison Jab]
+    - [Head Smash]
+    - [Iron Tail]
+    - [Sucker Punch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.50
+ball: [Safari]
+nature: Jolly
+evs: {hp: 128, atk: 128, def: 56, spA: 0, spD: 56, spe: 140}
+ivs: 31
+---
+species: Nidoran♂
+setname: Special
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Sludge Bomb]
+    - [Thunder]
+    - [Ice Beam]
+    - [Horn Drill]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31

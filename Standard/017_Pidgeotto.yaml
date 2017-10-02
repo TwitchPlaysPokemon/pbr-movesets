@@ -1,0 +1,35 @@
+species: Pidgeotto
+setname: Physical
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Aerial Ace]
+    - [Secret Power]
+    - [Steel Wing]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Great]
+nature: Jolly
+evs: {hp: 54, atk: 168, def: 58, spA: 0, spD: 58, spe: 172}
+ivs: 31
+---
+species: Pidgeotto
+setname: Special
+item: [Figy Berry]
+ability: [Tangled Feet]
+moves:
+    - [Air Slash]
+    - [Heat Wave]
+    - [Feather Dance]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Heal]
+nature: Modest
+evs: {hp: 12, atk: 0, def: 80, spA: 248, spD: 80, spe: 88}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

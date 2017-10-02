@@ -1,0 +1,35 @@
+species: Nidorino
+setname: Physical
+item: [Silk Scarf]
+ability: [Hustle]
+moves:
+    - [Poison Jab]
+    - [Iron Tail]
+    - [Horn Attack]
+    - [Shadow Claw]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Jolly
+evs: {hp: 168, atk: 168, def: 0, spA: 0, spD: 0, spe: 172}
+ivs: 31
+---
+species: Nidorino
+setname: Special
+item: [Petaya Berry]
+ability: [Rivalry]
+moves:
+    - [Sludge Bomb]
+    - [Water Pulse]
+    - [Horn Drill]
+    - [Flatter]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Naive
+evs: {hp: 88, atk: 0, def: 84, spA: 168, spD: 84, spe: 84}
+ivs: 31

@@ -1,0 +1,35 @@
+species: Dugtrio
+setname: Arena Trap
+item: [Null]
+ability: [Arena Trap]
+moves:
+    - [Dig]
+    - [Shadow Claw]
+    - [Rock Tomb]
+    - [Poison]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Timer]
+nature: Serious
+evs: {hp: 120, atk: 120, def: 120, spA: 0, spD: 0, spe: 0}
+ivs: 31
+---
+species: Dugtrio
+setname: Sand Veil
+item: [Smooth Rock]
+ability: [Sand Veil]
+moves:
+    - [Magnitude]
+    - [Slash]
+    - [Aerial Ace]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Timer]
+nature: Adamant
+evs: {hp: 100, atk: 144, def: 0, spA: 0, spD: 0, spe: 96}
+ivs: 31

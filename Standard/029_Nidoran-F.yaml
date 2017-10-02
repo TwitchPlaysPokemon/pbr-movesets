@@ -1,0 +1,35 @@
+species: Nidoran♀
+setname: Physical
+item: [Zoom Lens]
+ability: [Hustle]
+moves:
+    - [Poison Jab]
+    - [Dig]
+    - [Aerial Ace]
+    - [Lovely kiss]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Adamant
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+ivs: 31
+---
+species: Nidoran♀
+setname: Special
+item: [Sitrus Berry]
+ability: [Rivalry]
+moves:
+    - [Sludge Bomb]
+    - [Blizzard]
+    - [Thunderbolt]
+    - [Swagger]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Modest
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+ivs: 31

@@ -1,0 +1,35 @@
+species: Oddish
+setname: Special
+item: [Poison Barb]
+ability: [Chlorophyll]
+moves:
+    - [Solarbeam]
+    - [Sludge Bomb]
+    - [Teeter Dance]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Cherish]
+nature: Modest
+evs: {hp: 236, atk: 0, def: 16, spA: 128, spD: 0, spe: 128}
+ivs: 31
+---
+species: Oddish
+setname: Physcial
+item: [Wide Lens]
+ability: [Chlorophyll]
+moves:
+    - [Seed Bomb]
+    - [Double-Edge]
+    - [Sleep Powder]
+    - [Swords Dance]
+happiness: 255
+gender: [m, f]
+biddable: True
+rarity: 0.45
+ball: [Nest]
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
