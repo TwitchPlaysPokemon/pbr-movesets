@@ -6,7 +6,7 @@ moves:
     - [Dig]
     - [Shadow Claw]
     - [Rock Tomb]
-    - [Poison]
+    - [Toxic]
 gender: [m, f]
 happiness: 255
 biddable: True

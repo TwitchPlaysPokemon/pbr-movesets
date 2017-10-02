@@ -1,7 +1,7 @@
 species: Diglett
 setname: Standard
-item: [Arena Trap]
-ability: [Focus Sash]
+item: [Focus Sash]
+ability: [Arena Trap]
 moves:
     - [Earthquake]
     - [Rock Slide]

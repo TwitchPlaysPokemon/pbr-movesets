@@ -1,6 +1,6 @@
 species: Sandshrew
 setname: Physical
-item: [Salec Berry]
+item: [Salac Berry]
 ability: [Sand Veil]
 moves:
     - [Earthquake]
@@ -18,8 +18,8 @@ ivs: 31
 ---
 species: Sandshrew
 setname: Evasion
-item: [Sand Veil]
-ability: [Brightpowder]
+item: [Brightpowder]
+ability: [Sand Veil]
 moves:
     - [Earth Power]
     - [Swift]

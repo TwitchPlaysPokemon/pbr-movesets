@@ -12,7 +12,7 @@ happiness: 255
 biddable: True
 rarity: 0.66
 ball: [Safari]
-nature: Carfeul
+nature: Careful
 evs: {hp: 84, atk: 168, def: 84, spA: 0, spD: 0, spe: 172}
 ivs: 31
 ---
