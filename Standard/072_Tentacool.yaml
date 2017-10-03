@@ -1,0 +1,35 @@
+species: Tentacool
+setname: Special
+item: [Null]
+ability: [Liquid Ooze]
+moves:
+    - [Surf]
+    - [Sludge Bomb]
+    - [Giga Drain]
+    - [Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Net]
+nature: Calm
+evs: {hp: 80, atk: 0, def: 68, spA: 252, spD: 0, spe: 108}
+ivs: 31
+---
+species: Tentacool
+setname: Dance
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Dive]
+    - [Poison Jab]
+    - [Icy Wind]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Adamant
+evs: {hp: 92, atk: 252, def: 52, spA: 0, spD: 0, spe: 112}
+ivs: 31

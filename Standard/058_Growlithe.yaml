@@ -1,0 +1,35 @@
+species: Growlithe
+setname: Physical
+item: [Power Herb]
+ability: [Intimidate]
+moves:
+    - [Flare Blitz]
+    - [Outrage]
+    - [Skull Bash]
+    - [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Luxury]
+nature: Careful
+evs: {hp: 252, atk: 28, def: 0, spA: 0, spD: 80, spe: 148}
+ivs: 31
+---
+species: Growlithe
+setname: Special
+item: [White Herb]
+ability: [Flash Fire]
+moves:
+    - [Overheat]
+    - [Hidden Power]
+    - [Snore]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Calm
+evs: {hp: 200, atk: 0, def: 0, spA: 88, spD: 84, spe: 136}
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}

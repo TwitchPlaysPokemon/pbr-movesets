@@ -1,0 +1,35 @@
+species: Rapidash
+setname: Standard
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Heat Wave]
+    - [Double Kick]
+    - [Stomp]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Modest
+evs: {hp: 108, atk: 0, def: 100, spA: 0, spD: 100, spe: 200}
+ivs: 0
+---
+species: Rapidash
+setname: Physical
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Flame Wheel]
+    - [Headbutt]
+    - [Poison Jab]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Adamant
+evs: {hp: 0, atk: 60, def: 76, spA: 0, spD: 36, spe: 0}
+ivs: 31

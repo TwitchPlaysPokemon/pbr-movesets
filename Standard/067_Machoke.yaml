@@ -1,0 +1,53 @@
+species: Machoke
+setname: Physical
+item: [Null]
+ability: [No Guard]
+moves:
+    - [Cross Chop]
+    - [Rock Slide]
+    - [Thunder Punch]
+    - [Meditate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.42
+ball: [Heal]
+nature: Bold
+evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
+ivs: 31
+---
+species: Machoke
+setname: Fighter
+item: [Black Glasses]
+ability: [Guts]
+moves:
+    - [Submission]
+    - [Payback]
+    - [Ice Punch]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Great]
+nature: Impish
+evs: {hp: 124, atk: 0, def: 20, spA: 0, spD: 120, spe: 160}
+ivs: 31
+---
+species: Machoke
+setname: Special
+item: [Null]
+ability: [No Guard]
+moves:
+    - [Focus Blast]
+    - [Fire Blast]
+    - [Vacuum Wave]
+    - [Sleep Talk]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Great]
+nature: Modest
+evs: {hp: 120, atk: 0, def: 80, spA: 160, spD: 80, spe: 0}
+ivs: 31

@@ -1,0 +1,53 @@
+species: Poliwrath
+setname: Standard
+item: [Leppa Berry]
+ability: [Damp]
+moves:
+    - [Hydro Pump]
+    - [Dynamic Punch]
+    - [Mind Reader]
+    - [Refresh]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Safari]
+nature: Bashful
+evs: 85
+ivs: {hp: 5, atk: 31, def: 5, spA: 31, spD: 5, spe: 20}
+---
+species: Poliwrath
+setname: Physical
+item: [Power Herb]
+ability: [Damp]
+moves:
+    - [Dive]
+    - [Submission]
+    - [Skull Bash]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Docile
+evs: {hp: 80, atk: 32, def: 84, spA: 0, spD: 84, spe: 84}
+ivs: 0
+---
+species: Poliwrath
+setname: Special
+item: [Mystic Water]
+ability: [Water Absorb]
+moves:
+    - [Focus Blast]
+    - [Bubble Beam]
+    - [Vacuum Wave]
+    - [Haze]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Docile
+evs: {hp: 0, atk: 0, def: 40, spA: 40, spD: 40, spe: 40}
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}

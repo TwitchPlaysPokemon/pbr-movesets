@@ -1,0 +1,35 @@
+species: Abra
+setname: Special
+item: [Flame Orb]
+ability: [Magic Guard]
+moves:
+    - [Psychic]
+    - [Grass Knot]
+    - [Reflect]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Quick]
+nature: Timid
+evs: {hp: 60, atk: 116, def: 60, spA: 60, spD: 60, spe: 152}
+ivs: {hp: 31, atk: 3, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Abra
+setname: Sleep
+item: [Focus Sash]
+ability: [Synchronize]
+moves:
+    - [Dream Eater]
+    - [Seismic Toss]
+    - [Taunt]
+    - [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Cherish]
+nature: Modest
+evs: {hp: 100, atk: 0, def: 0, spA: 156, spD: 0, spe: 252}
+ivs: 31

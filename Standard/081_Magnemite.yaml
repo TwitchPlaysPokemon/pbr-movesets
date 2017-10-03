@@ -1,0 +1,33 @@
+species: Magnemite
+setname: Special
+item: [Null]
+ability: [Magnet Pull]
+moves:
+    - [Zap Cannon]
+    - [Flash Cannon]
+    - [Swagger]
+    - [Lock-On]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Modest
+evs: {hp: 228, atk: 0, def: 68, spA: 112, spD: 64, spe: 0}
+ivs: 31
+---
+species: Magnemite
+setname: Physical
+item: [Iron Ball]
+ability: [Sturdy]
+moves:
+    - [Gyro Ball]
+    - [Volt Tackle]
+    - [Light Screen]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Luxury]
+nature: Brave
+evs: {hp: 216, atk: 252, def: 0, spA: 0, spD: 40, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}

@@ -1,0 +1,35 @@
+species: Slowpoke
+setname: Standard
+item: [Leftovers]
+ability: [Oblivious]
+moves:
+    - [Dive]
+    - [Zen Headbutt]
+    - [Thunder Wave]
+    - [Amnesia]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Adamant
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 10, spe: 100}
+ivs: 31
+---
+species: Slowpoke
+setname: Special
+item: [Null]
+ability: [Own Tempow]
+moves:
+    - [Psychic]
+    - [Fire Blast]
+    - [Ice beam]
+    - [Slack off]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Modest
+evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 92, spe: 0}
+ivs: 31
