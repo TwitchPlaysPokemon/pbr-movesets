@@ -11,7 +11,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.67
-ball: [Safar]
+ball: [Safari]
 nature: Serious
 evs: {hp: 160, atk: 86, def: 44, spA: 86, spD: 44, spe: 86}
 ivs: 24

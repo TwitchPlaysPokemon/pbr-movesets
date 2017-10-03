@@ -19,7 +19,7 @@ ivs: 31
 species: Slowpoke
 setname: Special
 item: [Null]
-ability: [Own Tempow]
+ability: [Own Tempo]
 moves:
     - [Psychic]
     - [Fire Blast]

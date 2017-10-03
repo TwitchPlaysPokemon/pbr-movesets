@@ -41,7 +41,6 @@ moves:
     - [Shock Wave]
     - [Sleep Talk]
     - [Rest]
-gender: [m, f]
 happiness: 255
 biddable: False
 rarity: 0.25
