@@ -12,7 +12,7 @@ biddable: True
 rarity: 0.66
 ball: [Quick]
 nature: Modest
-evs: {hp: 252, atk: 0, def: 0, spA: 120, spD: 32, spe: 1044}
+evs: {hp: 252, atk: 0, def: 0, spA: 120, spD: 32, spe: 104}
 ivs: 31
 ---
 species: Staryu
