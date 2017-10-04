@@ -1,0 +1,35 @@
+species: Krabby
+setname: Hyper Cutter
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Crabhammer]
+    - [Superpower]
+    - [Body Slam]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Dive]
+nature: Careful
+evs: {hp: 252, atk: 72, def: 72, spA: 0, spD: 72, spe: 40}
+ivs: 31
+---
+species: Krabby
+setname: Shell Armor
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Crabhammer]
+    - [Guillotine]
+    - [Amnesia]
+    - [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Luxury]
+nature: Careful
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 4}
+ivs: 24

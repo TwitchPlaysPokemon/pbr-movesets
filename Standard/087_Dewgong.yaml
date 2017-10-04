@@ -1,0 +1,53 @@
+species: Dewgong
+setname: Thick Fat
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Avalanche]
+    - [Aqua Jet]
+    - [Hidden Power]
+    - [Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Brave
+evs: {hp: 56, atk: 56, def: 56, spA: 60, spe: 56}
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+---
+species: Dewgong
+setname: Hydration
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Dive]
+    - [Body Slam]
+    - [Aqua Ring]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Impish
+evs: {hp: 124, atk: 132, def: 0, spA: 0, spD: 0, spe: 140}
+ivs: 31
+---
+species: Dewgong
+setname: Ice Body
+item: [Icy Rock]
+ability: [Ice Body]
+moves:
+    - [Ice Beam]
+    - [Bubble Beam]
+    - [Hyper Beam]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Bold
+evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
+ivs: 12

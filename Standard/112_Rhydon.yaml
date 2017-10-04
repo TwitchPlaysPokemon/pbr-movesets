@@ -1,0 +1,35 @@
+species: Rhydon
+setname: Physical
+item: [Null]
+ability: [Reckless]
+moves:
+    - [Rock Tomb]
+    - [Double-Edge]
+    - [Fire Fang]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Timid
+evs: {hp: 180, atk: 0, def: 0, spA: 0, spD: 164, spe: 164}
+ivs: 7
+---
+species: Rhydon
+setname: Special
+item: [Smooth Rock]
+ability: [Lightning Rod]
+moves:
+    - [Earth Power]
+    - [Ice Beam]
+    - [Thunderbolt]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Modest
+evs: {hp: 88, atk: 0, def: 0, spA: 252, spD: 84, spe: 84}
+ivs: 31
