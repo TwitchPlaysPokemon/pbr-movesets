@@ -36,12 +36,12 @@ ivs: 0
 ---
 species: Dodrio
 setname: Swords Dance
-item: [Wepear Berry]
+item: [Null]
 ability: [Early Bird]
 moves:
     - [Aerial Ace]
     - [Quick Attack]
-    - [Natural Gift]
+    - [Feint Attack]
     - [Swords Dance]
 gender: [m, f]
 happiness: 255
