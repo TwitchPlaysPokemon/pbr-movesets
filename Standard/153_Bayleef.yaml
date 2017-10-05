@@ -1,0 +1,35 @@
+species: Bayleef
+setname: Physical
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Seed Bomb]
+    - [Frustration]
+    - [Swords Dance]
+    - [Subsitute]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Impish
+ivs: 31
+evs: {hp: 84, atk: 204, def: 0, spA: 0, spD: 0, spe: 220}
+---
+species: Bayleef
+setname: Special
+item: [Null]
+ability: [ Overgrow]
+moves:
+    - [Giga Drain]
+    - [Hidden Power]
+    - [Wring Out]
+    - [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Timid
+ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 80, atk: 0, def: 96, spA: 128, spD: 96, spe: 108}

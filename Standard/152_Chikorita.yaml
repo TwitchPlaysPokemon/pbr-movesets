@@ -1,0 +1,35 @@
+species: Chikorita
+setname: Physical
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Seed Bomb]
+    - [Leech Seed]
+    - [Counter]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+---
+species: Chikorita
+setname: Special
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Grass Knot]
+    - [Frenzy Plant]
+    - [Wring Out]
+    - [Ancient Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 112, atk: 0, def: 54, spA: 228, spD: 54, spe: 60}
