@@ -1,0 +1,35 @@
+species: Omanyte
+setname: Special
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Surf]
+    - [Ancient Power]
+    - [Ice Beam]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Modest
+evs: {hp: 100, atk: 0, def: 60, spA: 108, spD: 140, spe: 100}
+ivs: {hp: 31, atk: 3, def: 30, spA: 31, spD: 30, spe: 30}
+---
+species: Omanyte
+setname: Physical
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Stone Edge]
+    - [Waterfall]
+    - [Iron Defense]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Adamant
+evs: {hp: 168, atk: 200, def: 0, spA: 0, spD: 100, spe: 40}
+ivs: 31

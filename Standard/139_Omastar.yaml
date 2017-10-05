@@ -1,0 +1,53 @@
+species: Omastar
+setname: Special
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Muddy Water]
+    - [Ancient Power]
+    - [Mud Shot]
+    - [Toxic Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Dive]
+nature: Quirky
+evs: 85
+ivs: {hp: 7, atk: 7, def: 6, spA: 7, spD: 6, spe: 6}
+---
+species: Omastar
+setname: Physical
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Stone Edge]
+    - [Dive]
+    - [Secret Power]
+    - [Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dive]
+nature: Lonely
+evs: {hp: 72, atk: 252, def: 40, spA: 0, spD: 72, spe: 72}
+ivs: 20
+---
+species: Omastar
+setname: Swift Swim
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Earth Power]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+nature: Jolly
+evs: {hp: 80, atk: 0, def: 20, spA: 4, spD: 100, spe: 108}
+ivs: 0

@@ -1,0 +1,35 @@
+species: Kabuto
+setname: Physical
+item: [Null]
+ability: [Battle Armor]
+moves:
+    - [Waterfall]
+    - [Rock Slide]
+    - [Aqua Jet]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Careful
+evs: {hp: 108, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
+ivs: 31
+---
+species: Kabuto
+setname: Special
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Ancient Power]
+    - [Giga Drain]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Modest
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
+ivs: {hp: 31, atk: 3, def: 30, spA: 31, spD: 30, spe: 30}
