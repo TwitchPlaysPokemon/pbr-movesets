@@ -6,7 +6,7 @@ moves:
     - [Seed Bomb]
     - [Frustration]
     - [Swords Dance]
-    - [Subsitute]
+    - [Substitute]
 gender: [m, f]
 happiness: 0
 biddable: True
