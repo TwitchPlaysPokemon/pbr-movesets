@@ -1,5 +1,5 @@
 species: Kabutops
-setname: Special
+setname: Standard
 item: [Null]
 ability: [Battle Armor]
 moves:
@@ -29,7 +29,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
-ball: []
+ball: [Ultra]
 nature: Sassy 
 evs: 0
 ivs: 18

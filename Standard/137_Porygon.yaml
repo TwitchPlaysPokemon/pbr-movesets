@@ -6,7 +6,7 @@ moves:
     - [Tri Attack]
     - [Iron Tail]
     - [Pain Split]
-    - [Conversion2]
+    - [Conversion 2]
 happiness: 255
 biddable: True
 rarity: 0.5
@@ -26,7 +26,7 @@ moves:
     - [Gravity]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [Premier]
 nature: Adamant
 evs: 85
