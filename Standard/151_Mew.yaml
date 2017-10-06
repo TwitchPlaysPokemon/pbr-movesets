@@ -277,7 +277,7 @@ ability: [Synchronize]
 moves:
     - [Ancient Power]
     - [Bullet Seed]
-    - [Accupressure]
+    - [Acupressure]
     - [Metronome]
 happiness: 255
 biddable: True
@@ -345,7 +345,7 @@ ability: [Synchronize]
 moves:
     - [Flamethrower]
     - [Solar Beam]
-    - [Earht Power]
+    - [Earth Power]
     - [Sunny Day]
 happiness: 255
 biddable: True
