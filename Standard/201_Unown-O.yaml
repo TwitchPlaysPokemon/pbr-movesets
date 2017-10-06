@@ -1,0 +1,17 @@
+species: Unown
+setname: Observe
+item: [Wide Lens]
+ability: [Frisk]
+moves:
+    - [Future Sight]
+    - [Hidden Power]
+    - [Copycat]
+    - [Ominous Wind]
+form: 14
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+nature: Quiet
+ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

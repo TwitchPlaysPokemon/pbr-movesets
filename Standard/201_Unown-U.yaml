@@ -1,0 +1,17 @@
+species: Unown
+setname: Undo
+item: [White Herb]
+ability: [Natural Cure]
+moves:
+    - [Psycho Boost]
+    - [Smelling Salts]
+    - [Thunder Wave]
+    - [Haze]
+form: 20
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Brave
+ivs: 31
+evs: {hp: 108, atk: 100, def: 100, spA: 100, spD: 100, spe: 0}

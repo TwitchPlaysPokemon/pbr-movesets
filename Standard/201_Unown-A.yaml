@@ -1,0 +1,17 @@
+species: Unown
+setname: Angry
+item: [Life Orb]
+ability: [Anger Point]
+moves:
+    - [Psycho Cut]
+    - [Hidden Power]
+    - [Outrage]
+    - [Aeroblast]
+form: 0
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 0, atk: 192, def: 0, spA: 64, spD: 0, spe: 252}

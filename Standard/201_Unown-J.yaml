@@ -1,0 +1,17 @@
+species: Unown
+setname: Join
+item: [Mind Plate]
+ability: [Shadow Tag]
+moves:
+    - [Confusion]
+    - [Hidden Power]
+    - [Destiny Bond]
+    - [Judgment]
+form: 9
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Timid
+ivs: 31
+evs: {hp: 52, atk: 0, def: 0, spA: 228, spD: 0, spe: 228}

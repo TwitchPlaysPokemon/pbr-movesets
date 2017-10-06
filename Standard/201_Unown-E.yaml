@@ -1,0 +1,17 @@
+species: Unown
+setname: Engage
+item: [Destiny Knot]
+ability: [Battle Armor]
+moves:
+    - [Extrasensory]
+    - [Hidden Power]
+    - [Attract]
+    - [Endeavor]
+form: 4
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Timid
+ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 124, atk: 0, def: 64, spA: 128, spD: 64, spe: 128}

@@ -1,0 +1,17 @@
+species: Unown
+setname: Keep
+item: [King's Rock]
+ability: [Skill Link]
+moves:
+    - [Hidden Power]
+    - [Bone Rush]
+    - [Rock Blast]
+    - [Knock Off]
+form: 10
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+nature: Naive
+ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 32, atk: 84, def: 0, spA: 80, spD: 60, spe: 252}
