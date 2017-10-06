@@ -204,7 +204,7 @@ ivs: 0
 ---
 species: Mew
 setname: Mech
-item: [Electrizer]
+item: [Electirizer]
 ability: [Synchronize]
 moves:
     - [Thunderbolt]
@@ -220,7 +220,7 @@ evs: 0
 ivs: 0
 ---
 species: Mew
-setname: 
+setname: Priority
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -285,7 +285,7 @@ rarity: 0.04
 ball: [Poke]
 nature: Naughty
 evs: {hp: 80, atk: 252, def: 0, spA: 56, spD: 0, spe: 0}
-ivs: {hp: 0, atk: 31, def: 0, spA: 56, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
 ---
 species: Mew
 setname: Setup
@@ -345,7 +345,7 @@ ability: [Synchronize]
 moves:
     - [Flamethrower]
     - [Solar Beam]
-    - [Earhtpower]
+    - [Earht Power]
     - [Sunny Day]
 happiness: 255
 biddable: True
