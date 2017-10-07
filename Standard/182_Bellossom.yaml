@@ -18,7 +18,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 92, spD: 0, spe: 0}
 ---
 species: Bellossom
 setname: Physical
-item: [Jacoba Berry]
+item: [Jaboca Berry]
 ability: [Chlorophyll]
 moves:
     - [Leaf Blade]
