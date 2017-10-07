@@ -1,0 +1,35 @@
+species: Bellossom
+setname: Standard
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Solarbeam]
+    - [Sludge Bomb]
+    - [Teeter Dance]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Cherish]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 31, spA: 31, spD: 31, spe: 13}
+evs: {hp: 0, atk: 0, def: 0, spA: 92, spD: 0, spe: 0}
+---
+species: Bellossom
+setname: Physical
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Leaf Blade]
+    - [Giga Impact]
+    - [Drain Punch]
+    - [Leech Seed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 44, def: 0, spA: 0, spD: 0, spe: 0}

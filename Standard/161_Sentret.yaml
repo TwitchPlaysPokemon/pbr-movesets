@@ -1,0 +1,17 @@
+species: Sentret
+setname: Physical
+item: [Lagging Tail]
+ability: [Keen Eye]
+moves:
+    - [Return]
+    - [Dynamic Punch]
+    - [Aqua Tail]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+nature: Adamant
+ivs: 31
+evs: {hp: 192, atk: 252, def: 48, spA: 0, spD: 16, spe: 0}

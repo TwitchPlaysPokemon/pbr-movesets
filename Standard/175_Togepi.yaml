@@ -1,0 +1,35 @@
+species: Togepi
+setname: Specs
+item: [Choice Specs]
+ability: [Serene Grace]
+moves:
+    - [Tri Attack]
+    - [Fire Blast]
+    - [Shadow Ball]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 56, spA: 156, spD: 56, spe: 0}
+---
+species: Togepi
+setname: Hustle
+item: [Wide Lens]
+ability: [Hustle]
+moves:
+    - [Return]
+    - [Zen Headbutt]
+    - [Rollout]
+    - [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Luxury]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}

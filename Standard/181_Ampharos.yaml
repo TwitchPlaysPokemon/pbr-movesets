@@ -1,0 +1,53 @@
+species: Ampharos
+setname: Standard
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunder Punch]
+    - [Signal Beam]
+    - [Brick Break]
+    - [Heal Bell]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 3, atk: 3, def: 3, spA: 3, spD: 3, spe: 3}
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+---
+species: Ampharos
+setname: Rest
+item: [Silk Scarf]
+ability: [Static]
+moves:
+    - [Charge Beam]
+    - [Snore]
+    - [Power Gem]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Heal]
+nature: Serious
+ivs: {hp: 1, atk: 2, def: 3, spA: 2, spD: 2, spe: 3}
+evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 100, spe: 0}
+---
+species: Ampharos
+setname: Mega
+item: [Fluffy Tail]
+ability: [Mold Breaker]
+moves:
+    - [Thunder]
+    - [Dragon Pulse]
+    - [Focus Blast]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+nature: Timid
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}

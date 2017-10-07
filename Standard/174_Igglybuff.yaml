@@ -1,0 +1,35 @@
+species: Igglybuff
+setname: Standard
+item: [Null]
+ability: [Cute Charm]
+moves:
+    - [Seismic Toss]
+    - [Shadow Ball]
+    - [Counter]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 192, atk: 0, def: 40, spA: 100, spD: 176, spe: 0}
+---
+species: Igglybuff
+setname: Kiss
+item: [Null]
+ability: [Cute Charm]
+moves:
+    - [Seismic Toss]
+    - [Lovely Kiss]
+    - [Wish]
+    - [Nightmare]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Timer]
+nature: Bold
+ivs: 31
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}

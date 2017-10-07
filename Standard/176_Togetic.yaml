@@ -1,0 +1,35 @@
+species: Togetic
+setname: Specs
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Tri Attack]
+    - [Ancient Power]
+    - [Water Pulse]
+    - [Heal Bell]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 120, atk: 0, def: 0, spA: 148, spD: 0, spe: 0}
+---
+species: Togetic
+setname: Hustle
+item: [Null]
+ability: [Hustle]
+moves:
+    - [Body Slam]
+    - [Aerial Ace]
+    - [Steel Wing]
+    - [Charm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Luxury]
+nature: Adamant
+ivs: 31
+evs: {hp: 80, atk: 120, def: 0, spA: 0, spD: 0, spe: 0}

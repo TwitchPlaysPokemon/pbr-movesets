@@ -1,0 +1,35 @@
+species: Totodile
+setname: Physical
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Waterfall]
+    - [Crunch]
+    - [Swords Dance]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Totodile
+setname: Special
+item: [Petaya Berry]
+ability: [Torrent]
+moves:
+    - [Surf]
+    - [Hydro Cannon]
+    - [Ice Beam]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

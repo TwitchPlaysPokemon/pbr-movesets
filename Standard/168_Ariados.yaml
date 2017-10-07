@@ -1,0 +1,53 @@
+species: Ariados
+setname: Standard
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [X-Scissor]
+    - [Poison Jab]
+    - [Bounce]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Nest]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 72, def: 20, spA: 0, spD: 20, spe: 164}
+---
+species: Ariados
+setname: Mixed
+item: [Null]
+ability: [Swarm]
+moves:
+    - [Signal Beam]
+    - [Psychic]
+    - [Sucker Punch]
+    - [Secret Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 88, def: 0, spA: 252, spD: 0, spe: 168}
+---
+species: Ariados
+setname: Support
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Poison Jab]
+    - [Body Slam]
+    - [Giga Drain]
+    - [Toxic Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Modest
+ivs: 31
+evs: {hp: 136, atk: 0, def: 40, spA: 252, spD: 40, spe: 0}

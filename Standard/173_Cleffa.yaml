@@ -1,0 +1,35 @@
+species: Cleffa
+setname: Standard
+item: [Null]
+ability: [Magic Guard]
+moves:
+    - [Hyper Voice]
+    - [Flamethrower]
+    - [Counter]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Premier]
+nature: Modest
+ivs: 31
+evs: {hp: 164, atk: 0, def: 92, spA: 252, spD: 0, spe: 0}
+---
+species: Cleffa
+setname: Support
+item: [Light Clay]
+ability: [Cute Charm]
+moves:
+    - [Seismic Toss]
+    - [Toxic]
+    - [Reflect]
+    - [Soft-Boiled]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.33
+ball: [Timer]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 224, atk: 0, def: 132, spA: 0, spD: 152, spe: 0}

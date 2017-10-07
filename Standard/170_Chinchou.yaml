@@ -1,0 +1,53 @@
+species: Chinchou
+setname: Physical
+item: [Null]
+ability: [Volt Absorb]
+moves:
+    - [Thunder]
+    - [Surf]
+    - [Icy Wind]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 176, atk: 0, def: 60, spA: 40, spD: 104, spe: 0}
+---
+species: Chinchou
+setname: Physical
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Waterfall]
+    - [Spark]
+    - [Bounce]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 40, atk: 252, def: 44, spA: 0, spD: 36, spe: 136}
+---
+species: Chinchou
+setname: Sweeper
+item: [Null]
+ability: [Volt Absorb]
+moves:
+    - [Surf]
+    - [Charge Beam]
+    - [Ice Beam]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick ]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 92, spA: 136, spD: 40, spe: 0}

@@ -1,0 +1,35 @@
+species: Xatu
+setname: Standard
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Air Cutter]
+    - [Heat Wave]
+    - [Ominous Wind]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Safari]
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 180, spD: 0, spe: 0}
+---
+species: Xatu
+setname: Physical
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Pluck]
+    - [Secret Power]
+    - [Steel Wing]
+    - [Feint Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 15}
+evs: {hp: 24, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}

@@ -1,0 +1,35 @@
+species: Cyndaquil
+setname: Special
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Eruption]
+    - [Fire Blast]
+    - [Hidden Power]
+    - [Smokescreen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 36, atk: 0, def: 20, spA: 180, spD: 20, spe: 252}
+---
+species: Cyndaquil
+setname: Physical
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Flare Blitz]
+    - [Aerial Ace]
+    - [Will-O-Wisp]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: 84, atk: 180, def: 32, spA: 0, spD: 32, spe: 180}

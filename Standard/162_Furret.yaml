@@ -1,0 +1,53 @@
+species: Furret
+setname: Physical
+item: [Null]
+ability: [Frisk]
+moves:
+    - [Body Slam]
+    - [Iron Tail]
+    - [Shadow Claw]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Mild
+ivs: 31
+evs: {hp: 88, atk: 84, def: 44, spA: 180, spD: 44, spe: 68}
+---
+species: Furret
+setname: Special
+item: [Heat Rock]
+ability: [Keen Eye]
+moves:
+    - [Hyper Voice]
+    - [Flamethrower]
+    - [Solar Beam]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Premier]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 88, atk: 0, def: 252, spA: 84, spD: 0, spe: 0}
+---
+species: Furret
+setname: Me First
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Headbutt]
+    - [Fire Punch]
+    - [Thunder Punch]
+    - [Me First]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Quick]
+nature: Mild
+ivs: 31
+evs: {hp: 96, atk: 80, def: 0, spA: 252, spD: 0, spe: 80}

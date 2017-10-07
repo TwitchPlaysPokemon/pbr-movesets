@@ -1,0 +1,35 @@
+species: Pichu
+setname: Standard
+item: [Focus Sash]
+ability: [Static]
+moves:
+    - [Volt Tackle]
+    - [Return]
+    - [Reversal]
+    - [Endeavor]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Naive
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Pichu
+setname: Special
+item: [Focus Sash]
+ability: [Quick]
+moves:
+    - [Thunderbolt]
+    - [Surf]
+    - [Grass Knot]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

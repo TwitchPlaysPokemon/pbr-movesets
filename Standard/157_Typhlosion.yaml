@@ -1,0 +1,35 @@
+species: Typhlosion
+setname: Standard
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Blast Burn]
+    - [Focus Blast]
+    - [Thunder Punch]
+    - [Smokescreen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 68, atk: 68, def: 68, spA: 68, spD: 68, spe: 68}
+---
+species: Typhlosion
+setname: Special
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Fire Blast]
+    - [Solarbeam]
+    - [Hyper Beam]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Hardy
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
