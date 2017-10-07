@@ -47,7 +47,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.2
-ball: [Premium]
+ball: [Premier]
 nature: Adamant
 ivs: 31
 evs: {hp: 120, atk: 244, def: 72, spA: 0, spD: 72, spe: 0}
