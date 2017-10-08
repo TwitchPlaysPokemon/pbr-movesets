@@ -1,5 +1,6 @@
 species: Wobbuffet
 setname: Standard
+tags: [advanced]
 item: [Enigma Berry]
 ability: [Shadow Tag]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Wobbuffet
 setname: Attacker
+tags: [advanced]
 item: [Custap Berry, Zoom Lens]
 ability: [Shadow Tag]
 moves:

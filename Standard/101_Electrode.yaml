@@ -1,5 +1,6 @@
 species: Electrode
 setname: Special
+tags: [advanced]
 item: [Space Mail, Magnet]
 ability: [Soundproof, Static, Aftermath]
 nature: Timid
@@ -20,6 +21,7 @@ ball: [Great]
 ---
 species: Electrode
 setname: Physical
+tags: [advanced]
 item: [Toxic Orb]
 ability: [Static]
 nature: Adamant
@@ -37,6 +39,7 @@ ball: [Poké]
 ---
 species: Electrode
 setname: Sonic Boom
+tags: [advanced]
 item: [Durin Berry]
 ability: [Soundproof]
 nature: Serious

@@ -1,5 +1,6 @@
 species: Arceus
 setname: Poison Balanced
+tags: [advanced]
 item: [Toxic Plate]
 ability: [Multitype]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
 ---
 species: Arceus
 setname: Poison Judgment
+tags: [advanced]
 item: [Toxic Plate]
 ability: [Multitype]
 moves:

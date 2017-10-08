@@ -1,5 +1,6 @@
 species: Smeargle
 setname: Physical
+tags: [advanced]
 item: [Muscle Band]
 ability: [Own Tempo, Technician]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 80, atk: 252, def: 48, spA: 0, spD: 48, spe: 80}
 ---
 species: Smeargle
 setname: Special
+tags: [advanced]
 item: [Wise Glasses]
 ability: [Own Tempo]
 moves:
@@ -41,6 +43,7 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Smeargle
 setname: Weather
+tags: [advanced]
 item: [Silk Scarf]
 ability: [Technician]
 moves:
@@ -59,6 +62,7 @@ evs: {hp: 80, atk: 0, def: 48, spA: 252, spD: 48, spe: 80}
 ---
 species: Smeargle
 setname: Priority
+tags: [advanced]
 item: [Sitrus Berry]
 ability: [Technician]
 moves:

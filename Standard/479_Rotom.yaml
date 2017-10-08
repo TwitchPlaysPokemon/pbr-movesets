@@ -1,5 +1,6 @@
 species: Rotom
 setname: Standard
+tags: [advanced]
 item: [Old Gateau]
 ability: [Levitate]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 80, atk: 0, def: 60, spA: 60, spD: 120, spe: 40}
 ---
 species: Rotom
 setname: Mixed
+tags: [advanced]
 item: [Belue Berry]
 ability: [Levitate]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 ---
 species: Rotom
 setname: App
+tags: [advanced]
 item: [Insect Plate, Sky Plate, Up-Grade]
 ability: [Levitate]
 moves:

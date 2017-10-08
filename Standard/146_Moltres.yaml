@@ -1,5 +1,6 @@
 species: Moltres
 setname: Standard
+tags: [advanced]
 item: [Sharp Beak]
 ability: [Pressure]
 moves:
@@ -31,6 +32,7 @@ evs: {hp: 0, atk: 60, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Moltres
 setname: Overpowered
+tags: [advanced]
 item: [Flame Mail]
 ability: [Pressure]
 moves:

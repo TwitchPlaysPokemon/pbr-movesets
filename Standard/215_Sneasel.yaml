@@ -1,5 +1,6 @@
 species: Sneasel
 setname: Physical
+tags: [advanced]
 item: [null, Dread Plate, Poison Barb]
 ability: [Keen Eye]
 moves:
@@ -36,6 +37,7 @@ evs: {hp: 96, atk: 0, def: 160, spA: 252, spD: 0, spe: 0}
 ---
 species: Sneasel
 setname: Slow
+tags: [advanced]
 item: [Iron Ball]
 ability: [Inner Focus]
 moves:

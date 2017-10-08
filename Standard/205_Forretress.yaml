@@ -1,5 +1,6 @@
 species: Forretress
 setname: Physical
+tags: [advanced]
 item: [Silverpowder]
 ability: [Sturdy]
 moves:
@@ -16,6 +17,7 @@ evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
 ---
 species: Forretress
 setname: Special
+tags: [advanced]
 item: [Steel Mail, Metal Coat, Miracle Seed, Light Clay]
 ability: [Sturdy]
 moves:
@@ -37,6 +39,7 @@ evs: {hp: 124, atk: 0, def: 0, spA: 128, spD: 128, spe: 128}
 ---
 species: Forretress
 setname: Hazards
+tags: [advanced]
 item: [Revival Herb, Pamtre Berry]
 ability: [Sturdy]
 moves:

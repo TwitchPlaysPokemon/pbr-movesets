@@ -1,5 +1,6 @@
 species: Wingull
 setname: Special
+tags: [advanced]
 item: [Wise Glasses, Focus Sash]
 ability: [Drizzle, Rain Dish]
 moves:
@@ -24,6 +25,7 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Wingull
 setname: Physical
+tags: [advanced]
 item: [Choice Band]
 ability: [Drizzle]
 moves:

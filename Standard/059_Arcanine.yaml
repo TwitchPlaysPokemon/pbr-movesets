@@ -1,5 +1,6 @@
 species: Arcanine
 setname: Physical
+tags: [advanced]
 item: [null]
 ability: [Intimidate]
 nature: Mild
@@ -27,6 +28,7 @@ ball: [Ultra]
 ---
 species: Arcanine
 setname: Special
+tags: [advanced]
 item: [null]
 ability: [Flash Fire]
 nature: Adamant

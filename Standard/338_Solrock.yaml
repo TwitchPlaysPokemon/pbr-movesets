@@ -1,5 +1,6 @@
 species: Solrock
 setname: Physical
+tags: [advanced]
 item: [Sun Stone, Hard Stone, Macho Brace, Smooth Rock]
 ability: [Levitate]
 nature: Quiet
@@ -25,6 +26,7 @@ ball: [Cherish]
 ---
 species: Solrock
 setname: Special
+tags: [advanced]
 item: [Stone Plate, Mind Plate]
 ability: [Levitate]
 nature: Modest
@@ -42,6 +44,7 @@ ball: [Premier]
 ---
 species: Solrock
 setname: Sunny Day
+tags: [advanced]
 item: [Heat Rock]
 ability: [Levitate]
 nature: Lonely

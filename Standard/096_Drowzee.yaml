@@ -1,5 +1,6 @@
 species: Drowzee
 setname: Special
+tags: [advanced]
 item: [Jaboca Berry]
 ability: [Insomnia]
 nature: Bold
@@ -18,6 +19,7 @@ ball: [Heal]
 ---
 species: Drowzee
 setname: Physical
+tags: [advanced]
 item: [Salac Berry]
 ability: [Inner Focus]
 nature: Jolly
@@ -36,6 +38,7 @@ ball: [Quick]
 ---
 species: Drowzee
 setname: Dream Eater
+tags: [advanced]
 item: [Tanga Berry]
 ability: [Shadow Tag]
 nature: Relaxed

@@ -1,5 +1,6 @@
 species: Ninetales
 setname: Flash Fire
+tags: [advanced]
 item: [null]
 ability: [Flash Fire]
 nature: Lax
@@ -18,6 +19,7 @@ ball: [Ultra]
 ---
 species: Ninetales
 setname: Drought
+tags: [advanced]
 item: [null]
 ability: [Drought]
 nature: Adamant

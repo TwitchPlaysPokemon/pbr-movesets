@@ -14,6 +14,7 @@ ball: [Premier]
 ---
 species: Mewtwo
 setname: Origins
+tags: [advanced]
 item: [BrightPowder]
 ability: [Pressure]
 nature: Lonely
@@ -38,6 +39,7 @@ ball: [Ultra]
 ---
 species: Mewtwo
 setname: Fling
+tags: [advanced]
 item: [Iron Ball, Poison Barb]
 ability: [Pressure]
 nature: Mild
@@ -54,6 +56,7 @@ ball: [Dusk]
 ---
 species: Mewtwo
 setname: Overpowered
+tags: [advanced]
 item: [Iron Ball]
 ability: [Pressure]
 nature: Jolly

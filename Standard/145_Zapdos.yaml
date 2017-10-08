@@ -1,5 +1,6 @@
 species: Zapdos
 setname: Standard 
+tags: [advanced]
 item: [Lucky Egg]
 ability: [Pressure]
 moves:
@@ -15,6 +16,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Zapdos
 setname: Special
+tags: [advanced]
 item: [Macho Brace]
 ability: [Pressure]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 0, atk: 0, def: 40, spA: 4, spD: 40, spe: 252}
 ---
 species: Zapdos
 setname: Baton Pass
+tags: [advanced]
 item: [Apicot Berry]
 ability: [Pressure, Static]
 moves:
@@ -56,6 +59,7 @@ evs: {hp: 16, atk: 124, def: 16, spA: 16, spD: 16, spe: 16}
 ---
 species: Zapdos
 setname: Overpowered
+tags: [advanced]
 item: [Air Mail]
 ability: [Pressure]
 moves:

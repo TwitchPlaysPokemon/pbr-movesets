@@ -1,5 +1,6 @@
 species: Mantine
 setname: Standard
+tags: [advanced]
 item: [Jaboca Berry]
 ability: [Water Veil]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 100, atk: 200, def: 80, spA: 68, spD: 0, spe: 60}
 ---
 species: Mantine
 setname: Special
+tags: [advanced]
 item: [Wacan Berry, Mind Plate, Micle Berry]
 ability: [Swift Swim, Water Absorb]
 moves:
@@ -42,6 +44,7 @@ evs: {hp: 100, atk: 0, def: 152, spA: 72, spD: 0, spe: 4}
 ---
 species: Mantine
 setname: Physical
+tags: [advanced]
 item: [Sky Plate, Wacan Berry, Charti Berry]
 ability: [Water Veil]
 moves:

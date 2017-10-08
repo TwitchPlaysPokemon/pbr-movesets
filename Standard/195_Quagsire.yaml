@@ -36,6 +36,7 @@ evs: {hp: 16, atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
 ---
 species: Quagsire
 setname: Special
+tags: [advanced]
 item: [Mystic Water, Soft Sand]
 ability: [Damp, Unaware, Water Absorb]
 moves:

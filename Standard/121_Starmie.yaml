@@ -1,5 +1,6 @@
 species: Starmie
 setname: Standard
+tags: [advanced]
 item: [null]
 ability: [Natural Cure]
 nature: Adamant
@@ -22,6 +23,7 @@ ball: [Net]
 ---
 species: Starmie
 setname: Slow
+tags: [advanced]
 item: [Iron Ball]
 ability: [Natural Cure]
 nature: Brave
@@ -43,6 +45,7 @@ ball: [Dive]
 ---
 species: Starmie
 setname: Camouflage
+tags: [advanced]
 item: [null]
 ability: [Natural Cure]
 nature: Modest

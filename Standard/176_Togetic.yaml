@@ -1,5 +1,6 @@
 species: Togetic
 setname: Serene Grace
+tags: [advanced]
 item: [Lucky Egg]
 ability: [Serene Grace]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
 ---
 species: Togetic
 setname: Hustle
+tags: [advanced]
 item: [Air Mail, Black Belt, Hard Stone]
 ability: [Hustle]
 moves:

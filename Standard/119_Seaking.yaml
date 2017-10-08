@@ -1,5 +1,6 @@
 species: Seaking
 setname: Standard
+tags: [advanced]
 item: [Null]
 ability: [Water Veil]
 nature: Quiet
@@ -18,6 +19,7 @@ ball: [Net]
 ---
 species: Seaking
 setname: Powerhouse
+tags: [advanced]
 item: [Durin Berry]
 ability: [Water Veil, Swift Swim]
 nature: Adamant

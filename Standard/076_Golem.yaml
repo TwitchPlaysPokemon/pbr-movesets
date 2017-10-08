@@ -1,5 +1,6 @@
 species: Golem
 setname: Sand Veil
+tags: [advanced]
 item: [null]
 ability: [Sand Veil]
 nature: Calm
@@ -18,6 +19,7 @@ ball: [Timer]
 ---
 species: Golem
 setname: High Attack
+tags: [advanced]
 item: [Persim Berry, Shuca Berry]
 ability: [Sturdy]
 nature: Adamant
@@ -36,6 +38,7 @@ ball: [Ultra]
 ---
 species: Golem
 setname: Special
+tags: [advanced]
 item: [Rindo Berry, Smooth Rock, Passho Berry]
 ability: [Sturdy, Sand Veil]
 nature: Quiet

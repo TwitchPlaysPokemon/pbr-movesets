@@ -1,5 +1,6 @@
 species: Poliwrath
 setname: Standard
+tags: [advanced]
 item: [Leppa Berry, Sitrus Berry]
 ability: [Damp]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Poliwrath
 setname: Physical
+tags: [advanced]
 item: [Cheri Berry, Power Herb, Chilan Berry, Aspear Berry]
 ability: [Damp, Swift Swim]
 moves:
@@ -45,6 +47,7 @@ evs: {hp: 80, atk: 32, def: 84, spA: 0, spD: 84, spe: 84}
 ---
 species: Poliwrath
 setname: Special
+tags: [advanced]
 item: [Oran Berry, Blackbelt, Mystic Water, Soft Sand]
 ability: [Water Absorb, Damp]
 moves:

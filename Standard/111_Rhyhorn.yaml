@@ -1,5 +1,6 @@
 species: Rhyhorn
 setname: Physical
+tags: [advanced]
 item: [Hard Stone]
 ability: [Reckless]
 nature: Careful
@@ -18,6 +19,7 @@ ball: [Safari]
 ---
 species: Rhyhorn
 setname: Special
+tags: [advanced]
 item: [Choice Scarf]
 ability: [Lightning Rod]
 nature: Modest

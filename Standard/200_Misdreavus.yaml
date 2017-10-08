@@ -1,5 +1,6 @@
 species: Misdreavus
 setname: Standard
+tags: [advanced]
 item: [Destiny Knot]
 ability: [Levitate]
 moves:
@@ -16,6 +17,7 @@ evs: {hp: 60, atk: 0, def: 80, spA: 0, spD: 60, spe: 60}
 ---
 species: Misdreavus
 setname: Special
+tags: [advanced]
 item: [Cheri Berry, Chesto Berry]
 ability: [Levitate]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
 ---
 species: Misdreavus
 setname: Physical
+tags: [advanced]
 item: [Choice Band]
 ability: [Levitate]
 moves:

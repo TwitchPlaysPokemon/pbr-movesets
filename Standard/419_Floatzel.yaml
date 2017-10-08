@@ -1,5 +1,6 @@
 species: Floatzel
 setname: Standard
+tags: [advanced]
 item: [Null]
 ability: [Swift Swim, Water Veil]
 nature: Relaxed
@@ -30,6 +31,7 @@ ball: [Dive]
 ---
 species: Floatzel
 setname: Baton Pass
+tags: [advanced]
 item: [Lansat Berry]
 ability: [Water Veil]
 nature: Gentle

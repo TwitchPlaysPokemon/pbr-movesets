@@ -1,5 +1,6 @@
 species: Dustox
 setname: Special
+tags: [advanced]
 item: [Mental Herb, Light Clay, Charcoal]
 ability: [Compound Eyes, Shield Dust]
 moves:
@@ -26,6 +27,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Dustox
 setname: Physical
+tags: [advanced]
 item: [Insect Plate, Sky Plate]
 ability: [Compound Eyes]
 moves:

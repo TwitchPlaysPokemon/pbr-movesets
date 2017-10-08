@@ -1,5 +1,6 @@
 species: Gallade
 setname: Physical
+tags: [advanced]
 item: [Spelon Berry, Hard Stone, Dragon Fang]
 ability: [Steadfast]
 moves:
@@ -22,6 +23,7 @@ evs: 84
 ---
 species: Gallade
 setname: Special
+tags: [advanced]
 item: [Rose Incense, Draco Plate, Magnet]
 ability: [Steadfast]
 moves:

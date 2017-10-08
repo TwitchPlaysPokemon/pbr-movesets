@@ -1,5 +1,6 @@
 species: Dewgong 
 setname: Thick Fat
+tags: [advanced]
 item: [Mystic Water, NeverMelt-Ice]
 ability: [Thick Fat]
 nature: Brave
@@ -21,6 +22,7 @@ ball: [Net]
 ---
 species: Dewgong
 setname: Hydration
+tags: [advanced]
 item: [Big Root]
 ability: [Hydration]
 nature: Jolly
@@ -40,6 +42,7 @@ ball: [Dive]
 ---
 species: Dewgong
 setname: Ice Body
+tags: [advanced]
 item: [Icy Rock]
 ability: [Ice Body]
 nature: Bold 

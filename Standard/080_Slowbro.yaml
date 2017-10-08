@@ -1,5 +1,6 @@
 species: Slowbro
 setname: Standard
+tags: [advanced]
 item: [Dawn Stone, Mind Plate]
 ability: [Oblivious, Own Tempo]
 nature: Brave
@@ -23,6 +24,7 @@ ball: [Repeat]
 ---
 species: Slowbro
 setname: Special
+tags: [advanced]
 item: [Mystic Water]
 ability: [Oblivious, Own Tempo]
 nature: Modest
@@ -41,6 +43,7 @@ ball: [Heal]
 ---
 species: Slowbro
 setname: Physical
+tags: [advanced]
 item: [Oran Berry, Full Incense]
 ability: [Oblivious, Own Tempo]
 nature: Adamant

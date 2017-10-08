@@ -1,5 +1,6 @@
 species: Hitmonchan
 setname: Punch
+tags: [advanced]
 item: [Silk Scarf]
 ability: [Iron Fist]
 nature: Quiet
@@ -24,6 +25,7 @@ ball: [Luxury]
 ---
 species: Hitmonchan
 setname: Mixed
+tags: [advanced]
 item: [Null]
 ability: [Keen Eye, Inner Focus]
 nature: Modest
@@ -44,6 +46,7 @@ ball: [Heal]
 ---
 species: Hitmonchan
 setname: Comet
+tags: [advanced]
 item: [King's Rock]
 ability: [Iron Fist]
 nature: Adamant

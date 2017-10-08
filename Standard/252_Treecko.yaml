@@ -1,5 +1,6 @@
 species: Treecko
 setname: Special
+tags: [advanced]
 item: [White Herb, Miracle Seed]
 ability: [Overgrow]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Treecko
 setname: Physical
+tags: [advanced]
 item: [Liechi Berry, Power Herb, Durin Berry, Starf Berry]
 ability: [Unburden]
 moves:

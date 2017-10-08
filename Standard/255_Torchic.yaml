@@ -1,5 +1,6 @@
 species: Torchic
 setname: Special
+tags: [advanced]
 item: [Shuca Berry, Passho Berry, Chilan Berry, Starf Berry]
 ability: [Speed Boost]
 moves:
@@ -25,6 +26,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Torchic
 setname: Physical
+tags: [advanced]
 item: [Salac Berry]
 ability: [Blaze]
 moves:

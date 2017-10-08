@@ -1,5 +1,6 @@
 species: Nidoran♀
 setname: Physical
+tags: [advanced]
 item: [Zoom Lens]
 ability: [Hustle]
 nature: Adamant
@@ -18,6 +19,7 @@ ball: [Safari]
 ---
 species: Nidoran♀
 setname: Special
+tags: [advanced]
 item: [Sitrus Berry]
 ability: [Poison Point, Rivalry]
 nature: Modest

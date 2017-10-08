@@ -1,5 +1,6 @@
 species: Unown
 setname: Yield
+tags: [advanced]
 item: [Amulet Coin]
 ability: [Run Away]
 moves:

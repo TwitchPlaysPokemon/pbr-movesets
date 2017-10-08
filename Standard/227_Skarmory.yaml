@@ -1,5 +1,6 @@
 species: Skarmory
 setname: Standard
+tags: [advanced]
 item: [Life Orb]
 ability: [Keen Eye, Sturdy]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 116, atk: 36, def: 56, spA: 60, spD: 120, spe: 120}
 ---
 species: Skarmory
 setname: Physical
+tags: [advanced]
 item: [Life Orb, Sharp Beak, Watmel Berry]
 ability: [Keen Eye, Sturdy]
 moves:
@@ -41,6 +43,7 @@ evs: {hp: 128, atk: 124, def: 0, spA: 0, spD: 128, spe: 128}
 ---
 species: Skarmory
 setname: Special
+tags: [advanced]
 item: [null, Scope Lens]
 ability: [Keen Eye, Sturdy]
 moves:

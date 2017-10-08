@@ -1,5 +1,6 @@
 species: Gloom
 setname: Special
+tags: [advanced]
 item: [Big Root]
 ability: [Chlorophyll]
 nature: Timid
@@ -18,6 +19,7 @@ ball: [Safari]
 ---
 species: Gloom
 setname: Physical
+tags: [advanced]
 item: [Qualot Berry]
 ability: [Chlorophyll]
 nature: Jolly

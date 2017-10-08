@@ -1,5 +1,6 @@
 species: Slaking
 setname: Standard
+tags: [advanced]
 item: [Mental Herb, Wide Lens, Silk Scarf]
 ability: [Truant]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Slaking
 setname: Stall
+tags: [advanced]
 item: [Splash Plate]
 ability: [Truant]
 moves:
@@ -40,6 +42,7 @@ evs: {hp: 0, atk: 0, def: 4, spA: 0, spD: 0, spe: 0}
 ---
 species: Slaking
 setname: Overpowered
+tags: [advanced]
 item: [null]
 ability: [Truant]
 moves:

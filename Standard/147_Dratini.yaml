@@ -1,5 +1,6 @@
 species: Dratini
 setname: Physical
+tags: [advanced]
 item: [Wide Lens, null]
 ability: [Shed Skin]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 172, atk: 84, def: 84, spA: 0, spD: 84, spe: 84}
 ---
 species: Dratini
 setname: Special
+tags: [advanced]
 item: [Haban Berry, Yache Berry]
 ability: [Shed Skin]
 moves:

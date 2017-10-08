@@ -1,5 +1,6 @@
 species: Magikarp
 setname: Special
+tags: [advanced]
 item: [Focus Sash]
 ability: [Compound Eyes]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Magikarp
 setname: Physical
+tags: [advanced]
 item: [Focus Sash]
 ability: [Serene Grace]
 moves:

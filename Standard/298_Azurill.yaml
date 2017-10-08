@@ -1,5 +1,6 @@
 species: Azurill
 setname: Physical
+tags: [advanced]
 item: [Muscle Band, Chople Berry, Sitrus Berry, Custap Berry]
 ability: [Huge Power]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 172, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}
 ---
 species: Azurill
 setname: Special
+tags: [advanced]
 item: [Zoom Lens]
 ability: [Thick Fat]
 moves:

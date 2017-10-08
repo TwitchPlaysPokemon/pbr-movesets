@@ -1,5 +1,6 @@
 species: Grumpig
 setname: Physical
+tags: [advanced]
 item: [Jaboca Berry, Wiki Berry, Apicot Berry]
 ability: [Own Tempo, Gluttony]
 moves:
@@ -27,6 +28,7 @@ evs: {hp: 76, atk: 192, def: 80, spA: 0, spD: 80, spe: 80}
 ---
 species: Grumpig
 setname: Special
+tags: [advanced]
 item: [Chilan Berry]
 ability: [Thick Fat]
 moves:

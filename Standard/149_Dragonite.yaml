@@ -19,6 +19,7 @@ ball: [Ultra]
 ---
 species: Dragonite
 setname: High Stats
+tags: [advanced]
 item: [Nomel Berry]
 ability: [Inner Focus]
 nature: Modest

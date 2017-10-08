@@ -1,5 +1,6 @@
 species: Natu
 setname: Special
+tags: [advanced]
 item: [Choice Specs]
 ability: [Synchronize, Early Bird]
 moves:
@@ -16,6 +17,7 @@ evs: {hp: 120, atk: 68, def: 80, spA: 80, spD: 80, spe: 80}
 ---
 species: Natu
 setname: Physical
+tags: [advanced]
 item: [Muscle Band]
 ability: [Synchronize, Early Bird]
 moves:

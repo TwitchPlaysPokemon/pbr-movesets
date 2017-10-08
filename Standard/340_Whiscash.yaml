@@ -1,5 +1,6 @@
 species: Whiscash
 setname: Physical
+tags: [advanced]
 item: [Soft Sand, Magnet]
 ability: [Oblivious, Anticipation, Hydration]
 moves:
@@ -32,6 +33,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Whiscash
 setname: Special
+tags: [advanced]
 item: [Destiny Knot, Splash Plate, Earth Plate, Grip Claw]
 ability: [Oblivious, Anticipation, Hydration]
 moves:

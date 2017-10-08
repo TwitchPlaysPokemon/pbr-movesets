@@ -1,5 +1,6 @@
 species: Skitty
 setname: Physical
+tags: [advanced]
 item: [Silk Scarf]
 ability: [Normalize]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 168, atk: 120, def: 96, spA: 0, spD: 124, spe: 0}
 ---
 species: Skitty
 setname: Cute Charm
+tags: [advanced]
 item: [Muscle Band, Toxic Orb, Zoom Lens]
 ability: [Cute Charm]
 moves:

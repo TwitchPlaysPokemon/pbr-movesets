@@ -41,6 +41,7 @@ ball: [Heal]
 ---
 species: Lapras
 setname: Special
+tags: [advanced]
 item: [Splash Plate, Icicle Plate, Rawst Berry]
 ability: [Water Absorb, Shell Armor]
 nature: Naive
@@ -68,6 +69,7 @@ ball: [Poké]
 ---
 species: Lapras
 setname: Yolo
+tags: [advanced]
 item: [Black Sludge]
 ability: [Shell Armor]
 nature: Rash

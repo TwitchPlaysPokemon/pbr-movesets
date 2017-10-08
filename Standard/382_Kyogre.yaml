@@ -1,5 +1,6 @@
 species: Kyogre
 setname: Special
+tags: [advanced]
 item: [Grip Claw, Magost Berry]
 ability: [Drizzle]
 nature: Modest
@@ -21,6 +22,7 @@ ball: [Ultra]
 ---
 species: Kyogre
 setname: Physical
+tags: [advanced]
 item: [Black Sludge]
 ability: [Drizzle]
 nature: Timid
@@ -40,6 +42,7 @@ ball: [Dive]
 ---
 species: Kyogre
 setname: Overpowered
+tags: [advanced]
 item: [Iron Ball]
 ability: [Drizzle]
 nature: Adamant

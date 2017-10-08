@@ -1,5 +1,6 @@
 species: Nidoqueen
 setname: Standard
+tags: [advanced]
 item: [Poison Barb, NeverMelt-Ice, Magnet]
 ability: [Poison Point, Rivalry]
 nature: Adamant
@@ -20,6 +21,7 @@ ball: [Safari]
 ---
 species: Nidoqueen
 setname: Special
+tags: [advanced]
 item: [Choice Specs]
 ability: [Poison Point]
 nature: Adamant

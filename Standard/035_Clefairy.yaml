@@ -1,5 +1,6 @@
 species: Clefairy
 setname: Special
+tags: [advanced]
 item: [Flame Orb, Toxic Orb]
 ability: [Magic Guard]
 nature: Calm
@@ -18,6 +19,7 @@ ball: [Heal]
 ---
 species: Clefairy
 setname: Physical
+tags: [advanced]
 item: [Sitrus Berry]
 ability: [Cute Charm]
 nature: Impish

@@ -1,5 +1,6 @@
 species: Loudred
 setname: Special
+tags: [advanced]
 item: [Aspear Berry, Zap Plate, Splash Plate]
 ability: [Soundproof]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Loudred
 setname: Physical
+tags: [advanced]
 item: [Light Ball]
 ability: [Soundproof]
 moves:

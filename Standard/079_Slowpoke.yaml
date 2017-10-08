@@ -1,5 +1,6 @@
 species: Slowpoke
 setname: Physical
+tags: [advanced]
 item: [Muscle Band, Leftovers, Sitrus Berry]
 ability: [oblivious, own tempo]
 nature: Adamant
@@ -21,6 +22,7 @@ ball: [Dive]
 ---
 species: Slowpoke
 setname: Special
+tags: [advanced]
 item: [Life Orb]
 ability: [Oblivious, Own Tempo]
 nature: Modest

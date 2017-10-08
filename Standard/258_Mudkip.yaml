@@ -1,5 +1,6 @@
 species: Mudkip
 setname: Physical
+tags: [advanced]
 item: [Custap Berry, White Herb, Sitrus Berry, Lum Berry]
 ability: [Torrent]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 ---
 species: Mudkip
 setname: Special
+tags: [advanced]
 item: [Wacan Berry, Rindo Berry]
 ability: [Torrent]
 moves:

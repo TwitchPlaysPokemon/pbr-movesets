@@ -1,5 +1,6 @@
 species: Koffing
 setname: Special
+tags: [advanced]
 item: [Payapa Berry, Lum Berry, Black Sludge]
 ability: [Levitate]
 nature: Calm
@@ -21,6 +22,7 @@ ball: [Heal]
 ---
 species:  Koffing
 setname: Physical
+tags: [advanced]
 item: [Macho Brace]
 ability: [Levitate]
 nature: Brave

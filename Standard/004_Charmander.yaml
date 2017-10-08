@@ -1,5 +1,6 @@
 species: Charmander
 setname: Physical
+tags: [advanced]
 item: [Zoom Lens, Hard Stone, Persim Berry]
 ability: [Blaze]
 nature: Jolly
@@ -17,6 +18,7 @@ gender: [m, f]
 ---
 species: Charmander
 setname: Special
+tags: [advanced]
 item: [Chesto Berry, Petaya Berry, Salac Berry, Hard Stone]
 ability: [Blaze]
 nature: Modest

@@ -1,5 +1,6 @@
 species: Marowak
 setname: Standard
+tags: [advanced]
 item: [Poké Doll, Soft Sand, Rare Bone]
 ability: [Battle Armor, Rock Head]
 nature: Calm
@@ -22,6 +23,7 @@ ball: [Ultra]
 ---
 species: Marowak
 setname: Thick Club
+tags: [advanced]
 item: [Thick Club]
 ability: [Battle Armor]
 nature: Brave

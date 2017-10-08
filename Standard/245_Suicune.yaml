@@ -1,5 +1,6 @@
 species: Suicune
 setname: Special
+tags: [advanced]
 item: [null]
 ability: [Pressure]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 124}
 ---
 species: Suicune
 setname: Physical
+tags: [advanced]
 item: [null]
 ability: [Pressure]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Suicune
 setname: Overpowered
+tags: [advanced]
 item: [null]
 ability: [Pressure]
 moves:

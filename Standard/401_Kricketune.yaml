@@ -1,5 +1,6 @@
 species: Kricketune
 setname: Swarm
+tags: [advanced]
 item: [Liechi Berry, Red Flute]
 ability: [Swarm]
 nature: Jolly
@@ -18,6 +19,7 @@ ball: [Luxury]
 ---
 species: Kricketune
 setname: PhysTech
+tags: [advanced]
 item: [Cheri Berry, Chesto Berry, Pecha Berry, Aspear Berry]
 ability: [Technician]
 nature: Jolly
@@ -38,6 +40,7 @@ ball: [Net]
 ---
 species: Kricketune
 setname: SpecTech
+tags: [advanced]
 item: [Stone Plate, Rock Incense, Silk Scarf]
 ability: [Technician]
 nature: Timid

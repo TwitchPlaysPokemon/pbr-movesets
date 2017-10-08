@@ -19,6 +19,7 @@ evs: {hp: 0, atk: 20, def: 100, spA: 252, spD: 20, spe: 8}
 ---
 species: Snorlax
 setname: Bling
+tags: [advanced]
 item: [Amulet Coin]
 ability: [Thick Fat]
 moves:
@@ -52,6 +53,7 @@ evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Snorlax
 setname: Gluttony
+tags: [advanced]
 item: [Starf Berry]
 ability: [Gluttony]
 moves:

@@ -1,5 +1,6 @@
 species: Magnezone
 setname: Physical
+tags: [advanced]
 item: [Occa Berry, Chople Berry, Power Anklet]
 ability: [Magnet Pull]
 moves:
@@ -19,6 +20,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Magnezone
 setname: Special
+tags: [advanced]
 item: [Magnet, Metal Powder]
 ability: [Magnet Pull]
 moves:

@@ -1,5 +1,6 @@
 species: Seviper
 setname: Standard
+tags: [advanced]
 item: [Black Sludge]
 ability: [Shed Skin]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 32, atk: 180, def: 148, spA: 0, spD: 148, spe: 0}
 ---
 species: Seviper
 setname: Physical
+tags: [advanced]
 item: [Rowap Berry, Jaboca Berry]
 ability: [Shed Skin]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Seviper
 setname: Special
+tags: [advanced]
 item: [Miracle Seed, Metal Coat, Silk Scarf]
 ability: [Shed Skin]
 moves:

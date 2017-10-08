@@ -1,5 +1,6 @@
 species: Houndoom
 setname: Standard
+tags: [advanced]
 item: [Magnet]
 ability: [Early Bird]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 92, atk: 136, def: 148, spA: 40, spD: 92, spe: 0}
 ---
 species: Houndoom
 setname: Physical
+tags: [advanced]
 item: [Charcoal]
 ability: [Early Bird, Flash Fire]
 moves:
@@ -39,6 +41,7 @@ evs: {hp: 60, atk: 128, def: 128, spA: 0, spD: 128, spe: 64}
 ---
 species: Houndoom
 setname: Special
+tags: [advanced]
 item: [Silk Scarf, Expert Belt, Shuca Berry, Passho Berry, Charti Berry]
 ability: [Early Bird, Flash Fire]
 moves:
@@ -62,6 +65,7 @@ evs: {hp: 64, atk: 64, def: 128, spA: 128, spD: 0, spe: 124}
 ---
 species: Houndoom
 setname: Mega
+tags: [advanced]
 item: [Everstone]
 ability: [Solar Power]
 moves:

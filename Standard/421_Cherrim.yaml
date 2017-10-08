@@ -1,5 +1,6 @@
 species: Cherrim
 setname: Physical Mix 
+tags: [advanced]
 item: [Rose Incense]
 ability: [Flower Gift]
 nature: Adamant
@@ -18,6 +19,7 @@ ball: [Cherish]
 ---
 species: Cherrim
 setname: Special Mix
+tags: [advanced]
 item: [Heat Rock, Rose Incense, Occa Berry, Persim Berry, Petaya Berry]
 ability: [Flower Gift]
 nature: Bashful

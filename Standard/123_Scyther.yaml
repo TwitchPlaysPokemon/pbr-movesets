@@ -1,5 +1,6 @@
 species: Scyther
 setname: Physical Technician
+tags: [advanced]
 item: [Silk Scarf, Black Glasses, Black Belt]
 ability: [Technician]
 nature: Docile
@@ -22,6 +23,7 @@ ball: [Net]
 ---
 species: Scyther
 setname: Physical Swarm
+tags: [advanced]
 item: [Salac Berry]
 ability: [Swarm]
 nature: Quiet
@@ -40,6 +42,7 @@ ball: [Safari]
 ---
 species: Scyther
 setname: Special
+tags: [advanced]
 item: [null, Silk Scarf]
 ability: [Swarm, Technician]
 nature: Brave

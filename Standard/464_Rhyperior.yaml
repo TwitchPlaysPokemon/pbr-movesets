@@ -1,5 +1,6 @@
 species: Rhyperior
 setname: Physical
+tags: [advanced]
 item: [Protector]
 ability: [Lightning Rod]
 moves:
@@ -20,6 +21,7 @@ evs: 84
 ---
 species: Rhyperior
 setname: Special
+tags: [advanced]
 item: [Hard Stone]
 ability: [Lightning Rod]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 100, spe: 136}
 ---
 species: Rhyperior
 setname: Overpowered
+tags: [advanced]
 item: [null]
 ability: [Solid Rock]
 moves:

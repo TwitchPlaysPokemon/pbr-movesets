@@ -1,5 +1,6 @@
 species: Claydol
 setname: Standard
+tags: [advanced]
 item: [Iron Ball, Null]
 ability: [Levitate]
 nature: Rash
@@ -23,6 +24,7 @@ ball: [Timer]
 ---
 species: Claydol
 setname: Physical
+tags: [advanced]
 item: [Macho Brace]
 ability: [Levitate]
 nature: Brave

@@ -1,5 +1,6 @@
 species: Trapinch
 setname: Physical
+tags: [advanced]
 item: [Belue Berry, Focus Sash]
 ability: [Arena Trap, Hyper Cutter]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Trapinch
 setname: Special
+tags: [advanced]
 item: [Custap Berry, Choice Specs]
 ability: [Arena Trap]
 moves:

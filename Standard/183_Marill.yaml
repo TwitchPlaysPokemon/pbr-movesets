@@ -1,5 +1,6 @@
 species: Marill
 setname: Physical
+tags: [advanced]
 item: [Zoom Lens, Muscle Band, Oran Berry, Berry Juice]
 ability: [Huge Power]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Marill
 setname: Special
+tags: [advanced]
 item: [Wide Lens]
 ability: [Thick Fat]
 moves:
@@ -40,6 +42,7 @@ evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
 ---
 species: Marill
 setname: Belly Drum
+tags: [advanced]
 item: [Sitrus Berry]
 ability: [Huge Power]
 moves:

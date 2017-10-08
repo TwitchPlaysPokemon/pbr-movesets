@@ -1,5 +1,6 @@
 species: Hypno
 setname: Special
+tags: [advanced]
 item: [Oran berry, Odd Incense, Rose Incense, Zoom Lens]
 ability: [Forewarn]
 nature: Lax 
@@ -22,6 +23,7 @@ ball: [Ultra]
 ---
 species: Hypno
 setname: Physical
+tags: [advanced]
 item: [Old Amber, Hard Stone, Rare Bone]
 ability: [Insomnia, Inner Focus]
 nature: Naughty
@@ -40,6 +42,7 @@ ball: [Dusk]
 ---
 species: Hypno
 setname: Hypnosis
+tags: [advanced]
 item: [Zoom Lens]
 ability: [Insomnia, Inner Focus]
 nature: Relaxed
@@ -60,6 +63,7 @@ ball: [Timer]
 ---
 species: Hypno 
 setname: Passer
+tags: [advanced]
 item: [Heal ball]
 ability: [Insomnia, Inner Focus]
 nature: Naive

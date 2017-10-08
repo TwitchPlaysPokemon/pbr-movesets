@@ -15,6 +15,7 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Ursaring
 setname: Max Attack
+tags: [advanced]
 item: [Spell Tag, Wide Lens, Metronome]
 ability: [Guts, Quick Feet]
 moves:
@@ -33,6 +34,7 @@ evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 ---
 species: Ursaring
 setname: Special
+tags: [advanced]
 item: [Honey, Flame Orb, Micle Berry]
 ability: [Quick Feet]
 moves:

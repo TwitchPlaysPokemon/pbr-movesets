@@ -1,5 +1,6 @@
 species: Unown
 setname: Find
+tags: [advanced]
 item: [Nugget]
 ability: [Pickup]
 moves:

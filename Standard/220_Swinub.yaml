@@ -1,5 +1,6 @@
 species: Swinub
 setname: Physical
+tags: [advanced]
 item: [Focus Band]
 ability: [Thick Fat]
 moves:
@@ -16,6 +17,7 @@ evs: {hp: 164, atk: 88, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Swinub
 setname: Special
+tags: [advanced]
 item: [Salac Berry]
 ability: [Snow Cloak]
 moves:

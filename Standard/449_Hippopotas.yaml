@@ -1,5 +1,6 @@
 species: Hippopotas
 setname: Physical
+tags: [advanced]
 item: [Muscle Band, Rock Incense, Silk Scarf]
 ability: [Sand Stream]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
 ---
 species: Hippopotas
 setname: Special
+tags: [advanced]
 item: [Passho Berry, Rindo Berry, Yache Berry]
 ability: [Sand Stream]
 moves:

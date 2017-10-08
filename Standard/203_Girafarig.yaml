@@ -15,6 +15,7 @@ evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Girafarig
 setname: Flinch
+tags: [advanced]
 item: [Silk Scarf, King's Rock]
 ability: [Inner Focus, Early Bird]
 moves:
@@ -33,6 +34,7 @@ evs: {hp: 60, atk: 128, def: 100, spA: 40, spD: 100, spe: 0}
 ---
 species: Girafarig
 setname: Trapper
+tags: [advanced]
 item: [Liechi Berry, Apicot Berry, Ganlon Berry]
 ability: [Inner Focus, Early Bird]
 moves:
@@ -49,6 +51,7 @@ evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 128, spe: 124}
 ---
 species: Girafarig
 setname: Future Sight
+tags: [advanced]
 item: [Wide Lens]
 ability: [Early Bird]
 moves:

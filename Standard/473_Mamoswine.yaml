@@ -1,5 +1,6 @@
 species: Mamoswine
 setname: Mixed
+tags: [advanced]
 item: [Soda Pop]
 ability: [Snow Cloak]
 moves:
@@ -18,6 +19,7 @@ evs: 84
 ---
 species: Mamoswine
 setname: Physical
+tags: [advanced]
 item: [Tunnel Mail, Blackbelt, Silk Scarf, Razor Fang]
 ability: [Oblivious]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 8, def: 0, spA: 4, spD: 20, spe: 60}
 ---
 species: Mamoswine
 setname: Special
+tags: [advanced]
 item: [Soft Sand]
 ability: [Thick Fat]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 252, def: 64, spA: 128, spD: 64, spe: 0}
 ---
 species: Mamoswine
 setname: Max Attack
+tags: [advanced]
 item: [NeverMelt-Ice]
 ability: [Thick Fat]
 moves:

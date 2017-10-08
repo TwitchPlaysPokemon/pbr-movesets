@@ -1,5 +1,6 @@
 species: Fearow
 setname: Standard
+tags: [advanced]
 item: [Air Mail, Fist Plate]
 ability: [Sniper, Keen Eye]
 nature: Quiet
@@ -19,6 +20,7 @@ ball: [Great]
 ---
 species: Fearow
 setname: Physical
+tags: [advanced]
 item: [Metal Coat]
 ability: [Sniper, Keen Eye]
 moves:

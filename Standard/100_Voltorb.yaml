@@ -1,5 +1,6 @@
 species: Voltorb
 setname: Special
+tags: [advanced]
 item: [Starf Berry]
 ability: [aftermath]
 nature: Mild
@@ -17,6 +18,7 @@ ball: [Dive]
 ---
 species: Voltorb
 setname: Physical
+tags: [advanced]
 item: [Focus Sash]
 ability: [Static]
 nature: Adamant

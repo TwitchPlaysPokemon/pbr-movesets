@@ -1,5 +1,6 @@
 species: Pachirisu
 setname: Special
+tags: [advanced]
 item: [Miracle Seed]
 ability: [Volt Absorb]
 nature: Mild
@@ -20,6 +21,7 @@ ball: [Great]
 ---
 species: Pachirisu
 setname: Physical
+tags: [advanced]
 item: [Magnet, Sitrus Berry, BlackGlasses]
 ability: [Volt Absorb]
 nature: Adamant
@@ -40,6 +42,7 @@ ball: [Heal]
 ---
 species: Pachirisu
 setname: World Champ
+tags: [advanced]
 item: [Wide Lens]
 ability: [Volt Absorb]
 nature: Modest

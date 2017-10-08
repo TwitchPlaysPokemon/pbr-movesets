@@ -1,5 +1,6 @@
 species: Chansey
 setname: Serene Grace
+tags: [advanced]
 item: [Lucky Punch]
 ability: [Serene Grace]
 nature: Lax
@@ -18,6 +19,7 @@ ball: [Luxury]
 ---
 species: Chansey
 setname: Natural Cure
+tags: [advanced]
 item: [Lucky Punch]
 ability: [Natural Cure]
 nature: Adamant

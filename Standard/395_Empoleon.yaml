@@ -1,5 +1,6 @@
 species: Empoleon
 setname: Physical
+tags: [advanced]
 item: [Zoom Lens]
 ability: [Torrent]
 nature: Quiet
@@ -18,6 +19,7 @@ ball: [Ultra]
 ---
 species: Empoleon
 setname: Special
+tags: [advanced]
 item: [Zinc, Wave Incense, Sea Incense, Rose Incense, Icicle Plate]
 ability: [Torrent]
 nature: Adamant

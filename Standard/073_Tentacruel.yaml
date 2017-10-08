@@ -1,5 +1,6 @@
 species: Tentacruel
 setname: Physical
+tags: [advanced]
 item: [null, Wepear Berry]
 ability: [Clear Body, Liquid Ooze]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Tentacruel
 setname: High Special
+tags: [advanced]
 item: [Toxic Plate]
 ability: [Clear Body, Liquid Ooze, Rain Dish]
 moves:

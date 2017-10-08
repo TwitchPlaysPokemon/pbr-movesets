@@ -1,5 +1,6 @@
 species: Mismagius
 setname: Special
+tags: [advanced]
 item: [Dusk Stone, Black Glasses, Hard Stone]
 ability: [Levitate]
 nature: Impish
@@ -21,6 +22,7 @@ ball: [Luxury]
 ---
 species: Mismagius
 setname: Physical
+tags: [advanced]
 item: [Spell Tag]
 ability: [Levitate]
 nature: Adamant
@@ -39,6 +41,7 @@ ball: [Dusk]
 ---
 species: Mismagius
 setname: Imprison
+tags: [advanced]
 item: [Dusk Stone]
 ability: [Levitate]
 nature: Adamant

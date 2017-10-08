@@ -1,5 +1,6 @@
 species: Aggron
 setname: Standard
+tags: [advanced]
 item: [Black Belt, Sharp Beak, Pink Scarf, Sitrus Berry]
 ability: [Sturdy]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 168, atk: 168, def: 0, spA: 0, spD: 172, spe: 0}
 ---
 species: Aggron
 setname: Special
+tags: [advanced]
 item: [Stone Plate, Destiny Knot, Mental Herb]
 ability: [Sturdy]
 moves:
@@ -47,6 +49,7 @@ evs: {hp: 164, atk: 0, def: 0, spA: 196, spD: 108, spe: 40}
 ---
 species: Aggron
 setname: Physical
+tags: [advanced]
 item: [Micle Berry]
 ability: [Rock Head, Sturdy]
 moves:

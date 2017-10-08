@@ -1,5 +1,6 @@
 species: Onix
 setname: Physical
+tags: [advanced]
 item: [Liechi Berry, White Herb]
 ability: [Sturdy]
 nature: Adamant
@@ -21,6 +22,7 @@ ball: [Dusk]
 ---
 species: Onix
 setname: Special
+tags: [advanced]
 item: [Choice Specs]
 ability: [Sturdy]
 nature: Modest
@@ -39,6 +41,7 @@ ball: [Quick]
 ---
 species: Onix
 setname: Slow
+tags: [advanced]
 item: [Iron Ball]
 ability: [Sturdy]
 moves:

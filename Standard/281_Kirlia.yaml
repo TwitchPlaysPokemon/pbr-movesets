@@ -1,5 +1,6 @@
 species: Kirlia
 setname: Special
+tags: [advanced]
 item: [Lum Berry, Spell Tag, Silverpowder, Full Incense]
 ability: [Trace]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 128, atk: 0, def: 104, spA: 172, spD: 104, spe: 0}
 ---
 species: Kirlia
 setname: Physical
+tags: [advanced]
 item: [Focus Sash]
 ability: [Trace, Synchronize]
 moves:

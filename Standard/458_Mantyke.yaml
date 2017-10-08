@@ -1,5 +1,6 @@
 species: Mantyke
 setname: Standard
+tags: [advanced]
 item: [DeepSeaScale]
 ability: [Swift Swim]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 40, spD: 0, spe: 0}
 ---
 species: Mantyke
 setname: Wall
+tags: [advanced]
 item: [Big Root]
 ability: [Water Absorb, Water Veil]
 moves:

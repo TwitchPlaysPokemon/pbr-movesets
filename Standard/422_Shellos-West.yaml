@@ -1,5 +1,6 @@
 species: Shellos
 setname: West Special
+tags: [advanced]
 item: [Hard Stone, Poison Barb, Soft Sand]
 ability: [Sticky Hold]
 moves:
@@ -23,6 +24,7 @@ evs: {hp: 0, atk: 0, def: 84, spA: 252, spD: 84, spe: 88}
 ---
 species: Shellos
 setname: West Physical
+tags: [advanced]
 item: [Mystic Water]
 ability: [Sticky Hold]
 moves:

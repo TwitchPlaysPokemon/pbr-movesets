@@ -15,6 +15,7 @@ evs: {hp: 92, atk: 116, def: 92, spA: 116, spD: 92, spe: 0}
 ---
 species: Octillery
 setname: Sniper
+tags: [advanced]
 item: [Scope Lens]
 ability: [Sniper]
 moves:
@@ -33,6 +34,7 @@ evs: {hp: 16, atk: 60, def: 16, spA: 0, spD: 16, spe: 140}
 ---
 species: Octillery
 setname: Beam
+tags: [advanced]
 item: [Lansat Berry, Insect Plate, Icicle Plate]
 ability: [Sniper]
 moves:
@@ -52,6 +54,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 88, spD: 100, spe: 0}
 ---
 species: Octillery
 setname: Setup
+tags: [advanced]
 item: [Ganlon Berry, Apicot Berry]
 ability: [Suction Cups]
 moves:

@@ -1,5 +1,6 @@
 species: Bidoof
 setname: Curse
+tags: [advanced]
 item: [Sitrus Berry]
 ability: [Simple]
 nature: Adamant
@@ -21,6 +22,7 @@ ball: [Quick]
 ---
 species: Bidoof
 setname: Swords Dance
+tags: [advanced]
 item: [Sitrus Berry]
 ability: [Simple]
 moves:
@@ -39,6 +41,7 @@ evs: {hp: 128, atk: 124, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Bidoof
 setname: Special
+tags: [advanced]
 item: [Petaya Berry]
 ability: [Simple]
 nature: Calm

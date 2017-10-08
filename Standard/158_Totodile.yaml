@@ -1,5 +1,6 @@
 species: Totodile
 setname: Physical
+tags: [advanced]
 item: [Destiny Knot, Black Belt]
 ability: [Torrent]
 moves:
@@ -19,6 +20,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Totodile
 setname: Special
+tags: [advanced]
 item: [Petaya Berry, Salac Berry]
 ability: [Torrent]
 moves:

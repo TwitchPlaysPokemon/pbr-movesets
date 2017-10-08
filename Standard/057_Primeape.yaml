@@ -1,5 +1,6 @@
 species: Primeape
 setname: Standard
+tags: [advanced]
 item: [null]
 ability: [Vital Spirit, Anger Point]
 nature: Modest
@@ -18,6 +19,7 @@ ball: [Ultra]
 ---
 species: Primeape
 setname: Swagger
+tags: [advanced]
 item: [TM87]
 ability: [Vital Spirit]
 nature: Calm
@@ -36,6 +38,7 @@ ball: [Master]
 ---
 species: Primeape
 setname: Sash
+tags: [advanced]
 item: [Focus Sash]
 ability: [Vital Spirit]
 nature: Naughty

@@ -1,5 +1,6 @@
 species: Psyduck
 setname: Special
+tags: [advanced]
 item: [Quick Claw]
 ability: [Damp, Cloud Nine]
 nature: Timid
@@ -18,6 +19,7 @@ ball: [Dive]
 ---
 species: Psyduck
 setname: Physical
+tags: [advanced]
 item: [Zoom Lens]
 ability: [Damp, Cloud Nine]
 nature: Adamant
@@ -40,6 +42,7 @@ ball: [Net]
 ---
 species: Psyduck
 setname: Swift Swim
+tags: [advanced]
 item: [Earth Plate, Insect Plate, Icicle Plate]
 ability: [Swift Swim]
 nature: Brave

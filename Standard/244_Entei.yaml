@@ -1,5 +1,6 @@
 species: Entei
 setname: Standard
+tags: [advanced]
 item: [Flame Mail, Silk Scarf, Blackglasses]
 ability: [Pressure]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 0, atk: 60, def: 60, spA: 60, spD: 60, spe: 60}
 ---
 species: Entei
 setname: Overheat
+tags: [advanced]
 item: [Wide Lens]
 ability: [Pressure]
 moves:
@@ -37,6 +39,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Entei
 setname: Overpowered
+tags: [advanced]
 item: [null, Power Herb]
 ability: [Pressure]
 moves:

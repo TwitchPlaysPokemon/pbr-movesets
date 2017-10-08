@@ -1,5 +1,6 @@
 species: Rampardos
 setname: Rock
+tags: [advanced]
 item: [Skull Fossil]
 ability: [Mold Breaker]
 nature: Calm
@@ -18,6 +19,7 @@ ball: [Ultra]
 ---
 species: Rampardos
 setname: Flinch
+tags: [advanced]
 item: [NeverMelt-Ice, Black Glasses, Silk Scarf]
 ability: [Mold Breaker]
 nature: Modest
@@ -41,6 +43,7 @@ ball: [Quick]
 ---
 species: Rampardos
 setname: Special
+tags: [advanced]
 item: [Hard Stone]
 ability: [Mold Breaker]
 nature: Calm

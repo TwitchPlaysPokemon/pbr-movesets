@@ -1,5 +1,6 @@
 species: Hoppip
 setname: Physical
+tags: [advanced]
 item: [Kebia Berry]
 ability: [Chlorophyll]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Hoppip
 setname: Special
+tags: [advanced]
 item: [Sitrus Berry]
 ability: [Chlorophyll]
 moves:

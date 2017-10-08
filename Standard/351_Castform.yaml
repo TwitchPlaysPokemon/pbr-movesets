@@ -1,5 +1,6 @@
 species: Castform
 setname: Weather
+tags: [advanced]
 item: [Expert Belt]
 ability: [Forecast]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Castform
 setname: Special
+tags: [advanced]
 item: [Chople Berry, Salac Berry, Chesto Berry, Sitrus Berry]
 ability: [Forecast]
 moves:
@@ -43,6 +45,7 @@ evs: {hp: 80, atk: 168, def: 128, spA: 108, spD: 0, spe: 24}
 ---
 species: Castform
 setname: Physical
+tags: [advanced]
 item: [Durin Berry, Watmel Berry, Ganlon Berry, Liechi Berry]
 ability: [Forecast]
 moves:

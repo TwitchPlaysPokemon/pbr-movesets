@@ -1,5 +1,6 @@
 species: Happiny
 setname: Stall
+tags: [advanced]
 item: [Oval Stone]
 ability: [Serene Grace]
 nature: Calm
@@ -18,6 +19,7 @@ ball: [Heal]
 ---
 species: Happiny
 setname: Hax
+tags: [advanced]
 item: [Leftovers]
 ability: [Serene Grace]
 nature: Relaxed

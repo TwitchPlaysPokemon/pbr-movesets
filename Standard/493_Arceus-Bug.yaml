@@ -1,5 +1,6 @@
 species: Arceus
 setname: Bug Balanced
+tags: [advanced]
 item: [Insect Plate]
 ability: [Multitype]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Arceus
 setname: Bug Judgement
+tags: [advanced]
 item: [Insect Plate]
 ability: [Multitype]
 moves:

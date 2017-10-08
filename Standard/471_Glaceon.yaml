@@ -1,5 +1,6 @@
 species: Glaceon
 setname: Special
+tags: [advanced]
 item: [Icy Rock, NeverMelt-Ice]
 ability: [Ice Body]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Glaceon
 setname: Physical
+tags: [advanced]
 item: [Metronome]
 ability: [Snow Cloak, Ice Body]
 moves:

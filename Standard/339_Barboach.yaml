@@ -1,5 +1,6 @@
 species: Barboach
 setname: Physical
+tags: [advanced]
 item: [Lum Berry, Sky Plate]
 ability: [Oblivious, Anticipation, Hydration]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 100, atk: 180, def: 48, spA: 0, spD: 52, spe: 128}
 ---
 species: Barboach
 setname: Special
+tags: [advanced]
 item: [Salac Berry]
 ability: [Oblivious, Anticipation, Hydration]
 moves:

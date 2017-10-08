@@ -1,5 +1,6 @@
 species: Yanma
 setname: Special
+tags: [advanced]
 item: [Stable Mulch, Silverpowder, Miracle Seed, Hard Stone, Power Herb]
 ability: [Speed Boost]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 88, atk: 0, def: 168, spA: 84, spD: 168, spe: 0}
 ---
 species: Yanma
 setname: Physical
+tags: [advanced]
 item: [Blackglasses, Silverpowder, Sky Plate, Sharp Beak]
 ability: [Compound Eyes]
 moves:
