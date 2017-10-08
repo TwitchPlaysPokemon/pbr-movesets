@@ -30,6 +30,6 @@ happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Great]
-nature: 
+nature: Jolly
 ivs: 31
 evs: {hp: 0, atk: 176, def: 40, spA: 0, spD: 40, spe: 252}

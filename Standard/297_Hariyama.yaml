@@ -84,6 +84,6 @@ happiness: 255
 biddable: True
 rarity: 0.1
 ball: [Heal]
-nature: 
+nature: Serious
 ivs: 5
 evs: {hp: 0, atk: 40, def: 0, spA: 0, spD: 0, spe: 40}
