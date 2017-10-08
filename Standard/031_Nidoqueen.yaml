@@ -1,6 +1,6 @@
 species: Nidoqueen
 setname: Standard
-item: [NeverMeltIce]
+item: [Null]
 ability: [Rivalry]
 moves:
     - [Earthquake]
@@ -18,7 +18,7 @@ ivs: 21
 ---
 species: Nidoqueen
 setname: Special
-item: [Choice Specs]
+item: [Null]
 ability: [Poison Point]
 moves:
     - [Earth Power]
@@ -31,5 +31,5 @@ biddable: True
 rarity: 0.5
 ball: [Ultra]
 nature: Serious
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 120, spD: 0, spe: 0}
 ivs: 13
