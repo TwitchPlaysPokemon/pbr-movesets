@@ -1,11 +1,11 @@
 species: Venomoth
 setname: Shield Dust
-item: [Salac Berry]
+item: [Null]
 ability: [Shield Dust]
 moves:
     - [Sludge Bomb]
     - [Signal Beam]
-    - [Natural Gift]
+    - [Giga Impact]
     - [Flash]
 gender: [m, f]
 happiness: 255
@@ -36,7 +36,7 @@ ivs: 12
 ---
 species: Venomoth
 setname: Physical
-item: [Poison Barb]
+item: [Null]
 ability: [Tinted Lens]
 moves:
     - [U-turn]
