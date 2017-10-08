@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
 ---
 species: Pidgeot
 setname: Physical
-item: [Macho Brace]
+item: [Null]
 ability: [Tangled Feet]
 moves:
     - [Aerial Ace]
