@@ -17,7 +17,7 @@ evs: {hp: 20, atk: 120, def: 40, spA: 96, spD: 40, spe: 100}
 ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
 ---
 species: Pidgeot
-setname: Special
+setname: Physical
 item: [Macho Brace]
 ability: [Tangled Feet]
 moves:
