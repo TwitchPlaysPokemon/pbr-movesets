@@ -1,6 +1,7 @@
 species: Bulbasaur
 displayname: "Bulbasaur-S"
 setname: Token
+tags: [starterbattle]
 item: [Null]
 ability: [Overgrow]
 nature: Bold
@@ -17,6 +18,7 @@ rarity: 0
 species: Ivysaur
 displayname: "Ivysaur-S"
 setname: Token
+tags: [starterbattle]
 item: [Null]
 ability: [Chlorophyll]
 nature: Brave
@@ -34,6 +36,7 @@ ball: [Great]
 species: Venusaur
 displayname: "Venusaur-S"
 setname: Token
+tags: [starterbattle]
 item: [Null]
 ability: [Overgrow]
 nature: Rash
@@ -51,6 +54,7 @@ ball: [Ultra]
 species: Charmander
 displayname: "Charmander-S"
 setname: Token
+tags: [starterbattle]
 item: [Null]
 ability: [Blaze]
 nature: Adamant
@@ -67,6 +71,7 @@ rarity: 0
 species: Charmeleon
 displayname: "Charmeleon-S"
 setname: Token
+tags: [starterbattle]
 item: [Null]
 ability: [Blaze]
 nature: Bold
@@ -84,6 +89,7 @@ ball: [Great]
 species: Charizard
 displayname: "Charizard-S"
 setname: Token
+tags: [starterbattle]
 item: [Iron Ball]
 ability: [Solar Power]
 nature: Quiet

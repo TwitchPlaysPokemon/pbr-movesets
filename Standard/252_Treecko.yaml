@@ -13,8 +13,8 @@ happiness: 255
 biddable: True
 rarity: 0.35
 nature: Adamant
-evs: {hp: 100, atk: 252, def: 0, spA: 0, spD: 0, spe: 156}
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 252, def: 0, spA: 0, spD: 0, spe: 156}
 ---
 species: Treecko
 setname: Special
@@ -41,13 +41,13 @@ item: [Hard Stone]
 ability: [Overgrow]
 moves:
     - [Leaf Storm]
-    - [Thunder Punch]
-    - [Rock Slide]
     - [Fling]
+    - [Rock Slide]
+    - [Thunder Punch]
 gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 0.3
-nature: Naive
-evs: {hp: 0, atk: 192, def: 0, spA: 64, spD: 0, spe: 252}
+nature: Naughty
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 244, def: 0, spA: 64, spD: 0, spe: 0}

@@ -1,0 +1,89 @@
+species: Sableye
+setname: Physical
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Fake Out]
+    - [Shadow Claw]
+    - [Sucker Punch]
+    - [Brick Break]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Luxury]
+nature: Adamant
+ivs: 31
+evs: {hp: 68, atk: 84, def: 0, spA: 0, spD: 0, spe: 140}
+---
+species: Sableye
+setname: Special
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Dark Pulse]
+    - [Shadow Ball]
+    - [Signal Beam]
+    - [Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dusk]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 100, spA: 160, spD: 84, spe: 68}
+---
+species: Sableye
+setname: Stall
+item: [Null]
+ability: [Stall]
+moves:
+    - [Payback]
+    - [Shadow Sneak]
+    - [Confuse Ray]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Serious
+ivs: 31
+evs: {hp: 40, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Sableye
+setname: Role Play
+item: [Null]
+ability: [Stall]
+moves:
+    - [Punishment]
+    - [Night Shade]
+    - [Flatter]
+    - [Role Play]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 31, spe: 31}
+evs: {hp: 144, atk: 104, def: 0, spA: 0, spD: 100, spe: 160}
+---
+species: Sableye
+setname: Mega
+item: [Everstone]
+ability: [Magic Guard]
+moves:
+    - [Dark Pulse]
+    - [Pain Split]
+    - [Will-O-Wisp]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.1
+ball: [Net]
+nature: Relaxed
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 148, spA: 172, spD: 112, spe: 0}

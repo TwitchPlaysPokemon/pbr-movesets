@@ -1,0 +1,89 @@
+species: Hariyama
+setname: Physical
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Superpower]
+    - [Body Slam]
+    - [Poison Jab]
+    - [Foresight]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
+---
+species: Hariyama
+setname: Max Attack
+item: [Null]
+ability: [Guts]
+moves:
+    - [Arm Thrust]
+    - [Tackle]
+    - [Knock Off]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Hariyama
+setname: Special
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Focus Blast]
+    - [Hyper Beam]
+    - [Surf]
+    - [Vacuum Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Great]
+nature: Modest
+ivs: {hp: 15, atk: 15, def: 3, spA: 31, spD: 3, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 168}
+---
+species: Hariyama
+setname: Mixed
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Focus Blast]
+    - [Earthquake]
+    - [Ice Punch]
+    - [Whirlwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Poké]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 12, atk: 0, def: 0, spA: 216, spD: 0, spe: 8}
+---
+species: Hariyama
+setname: Salt
+item: [Null]
+ability: [Guts]
+moves:
+    - [Force Palm]
+    - [Smelling Salts]
+    - [Iron Head]
+    - [Feint Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Heal]
+nature: 
+ivs: 5
+evs: {hp: 0, atk: 40, def: 0, spA: 0, spD: 0, spe: 40}

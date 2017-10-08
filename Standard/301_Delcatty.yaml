@@ -1,0 +1,71 @@
+species: Delcatty
+setname: Standard
+item: [Null]
+ability: [Cute Charm]
+moves:
+    - [Fake Out]
+    - [Body Slam]
+    - [Blizzard]
+    - [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Naughty
+ivs: 31
+evs: {hp: 112, atk: 136, def: 0, spA: 116, spD: 0, spe: 144}
+---
+species: Delcatty
+setname: Physical
+item: [Null]
+ability: [Cute Charm]
+moves:
+    - [Return]
+    - [Dig]
+    - [Rock Smash]
+    - [Rollout]
+gender: [m, f]
+happiness: 225
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Adamant
+ivs: 31
+evs: {hp: 72, atk: 80, def: 0, spA: 0, spD: 0, spe: 244}
+---
+species: Delcatty
+setname: Special
+item: [Null]
+ability: [Cute Charm]
+moves:
+    - [Hyper Voice]
+    - [Ice Beam]
+    - [Grass Knot]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 152, atk: 0, def: 24, spA: 144, spD: 0, spe: 40}
+---
+species: Delcatty
+setname: Normalize
+item: [Null]
+ability: [Normalize]
+moves:
+    - [Thunder]
+    - [Shadow Ball]
+    - [Charge Beam]
+    - [Foresight]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Luxury]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 28, atk: 0, def: 0, spA: 252, spD: 0, spe: 116}
