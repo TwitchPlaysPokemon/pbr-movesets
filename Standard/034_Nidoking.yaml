@@ -18,7 +18,7 @@ ivs: 21
 ---
 species: Nidoking
 setname: Mixed
-item: [King's Rock]
+item: [Null]
 ability: [Rivalry]
 moves:
     - [Earth Power]
