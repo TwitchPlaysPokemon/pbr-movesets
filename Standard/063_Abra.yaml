@@ -5,8 +5,8 @@ ability: [Magic Guard]
 moves:
     - [Psychic]
     - [Grass Knot]
+    - [Fling]
     - [Reflect]
-    - [Trick]
 gender: [m, f]
 happiness: 255
 biddable: True
