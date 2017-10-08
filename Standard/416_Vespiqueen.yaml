@@ -1,0 +1,89 @@
+species: Vespiqueen
+setname: Standard
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Attack Order]
+    - [Air Cutter]
+    - [Power Gem]
+    - [Confuse Ray]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Luxury]
+nature: Bashful
+ivs: {hp: 8, atk: 8, def: 8, spA: 8, spD: 8, spe: 8}
+evs: {hp: 32, atk: 32, def: 32, spA: 128, spD: 32, spe: 252}
+---
+species: Vespiqueen
+setname: Physical
+item: [Null]
+ability: [Pressure]
+moves:
+    - [X-Scissor]
+    - [Aerial Ace]
+    - [Facade]
+    - [Pursuit]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 72, atk: 60, def: 0, spA: 0, spD: 0, spe: 112}
+---
+species: Vespiqueen
+setname: Special
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Sludge Bomb]
+    - [Tailwind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Nest]
+nature: Serious
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 0, spe: 20}
+evs: {hp: 0, atk: 0, def: 40, spA: 104, spD: 0, spe: 204}
+---
+species: Vespiqueen
+setname: Bee
+item: [Honey]
+ability: [Pressure]
+moves:
+    - [Attack Order]
+    - [Defend Order]
+    - [Heal Order]
+    - [String Shot]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Safari]
+nature: Mild
+ivs: {hp: 12, atk: 12, def: 12, spA: 12, spD: 12, spe: 12}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 76}
+---
+species: Vespiqueen
+setname: PP Stall
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Fly]
+    - [Silver Wind]
+    - [Double Team]
+    - [Protect]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Timer]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 144, atk: 0, def: 0, spA: 0, spD: 0, spe: 64}
