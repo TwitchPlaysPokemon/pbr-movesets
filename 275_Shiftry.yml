@@ -1,0 +1,71 @@
+species: Shiftry
+setname: Physical
+ball: [Ultra]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Razor Leaf]
+    - [Thief]
+    - [X-Scissor]
+    - [Rollout]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Adamant
+evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Shiftry
+setname: Special
+ball: [Dusk]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Dark Pulse]
+    - [Giga Drain]
+    - [Shadow Ball]
+    - [Whirlwind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Brave
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
+ivs: {hp: 17, atk: 1, def: 17, spA: 19, spD: 19, spe: 17}
+---
+species: Shiftry
+setname: Mixed
+ball: [Safari]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Leaf Storm]
+    - [Feint Attack]
+    - [Rock Slide]
+    - [Tailwind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Adamant
+evs: {hp: 0, atk: 136, def: 60, spA: 0, spD: 12, spe: 120}
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
+---
+species: Shiftry
+setname: Tree
+ball: [Nest]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Leaf Storm]
+    - [Hidden Power]
+    - [Growth]
+    - [Synthesis]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Adamant
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}

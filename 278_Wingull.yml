@@ -1,0 +1,35 @@
+species: Wingull
+setname: Physical
+ball: [Great]
+item: [Focus Sash]
+ability: [Drizzle]
+moves:
+    - [Fly]
+    - [Aqua Jet]
+    - [Return]
+    - [U-Turn]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Adamant
+evs: {hp: 16, atk: 252, def: 32, spA: 0, spD: 36, spe: 172}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Wingull
+setname: Special
+ball: [Net]
+item: [Focus Sash]
+ability: [Hydration]
+moves:
+    - [Air Slash]
+    - [Brine]
+    - [Blizzard]
+    - [Rain Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.66
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}

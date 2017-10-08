@@ -1,0 +1,71 @@
+species: Sceptile
+setname: Physical
+ball: [Ultra]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Seed Bomb]
+    - [Dragon Claw]
+    - [Aerial Ace]
+    - [Safeguard]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Hardy
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+ivs: {hp: 4, atk: 4, def: 4, spA: 4, spD: 4, spe: 4}
+---
+species: Sceptile
+setname: Special
+ball: [Ultra]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Solar Beam]
+    - [Focus Blast]
+    - [Hyper Beam]
+    - [Sunny Day]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Serious
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 108, spD: 0, spe: 108}
+---
+species: Sceptile
+setname: Mixed
+ball: [Ultra]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Frenzy Plant]
+    - [Outrage]
+    - [Low Kick]
+    - [Mimic]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.15
+nature: Adamant
+evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 112}
+ivs: {hp: 20, atk: 0, def: 20, spA: 0, spD: 20, spe: 0}
+---
+species: Sceptile
+setname: Mega
+ball: [Master]
+item: [Everstone]
+ability: [Volt Absorb]
+moves:
+    - [Dragon Pulse]
+    - [Giga Drain]
+    - [Grass Whistle]
+    - [Conversion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.05
+nature: Serious
+evs: {hp: 124, atk: 0, def: 0, spA: 128, spD: 0, spe: 76}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}

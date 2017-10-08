@@ -1,0 +1,17 @@
+species: Wurmple
+setname: Standard
+ball: [Nest]
+item: [Custap Berry]
+ability: [Serene Grace]
+moves:
+    - [Twineedle]
+    - [Dig]
+    - [Endeavor]
+    - [Endure]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Impish
+evs: {hp: 192, atk: 240, def: 156, spA: 0, spD: 200, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}

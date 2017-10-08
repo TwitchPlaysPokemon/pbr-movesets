@@ -1,0 +1,53 @@
+species: Pelipper
+setname: Physical
+ball: [Great]
+item: [Null]
+ability: [Rain Dish]
+moves:
+    - [Fly]
+    - [Gunk Shot]
+    - [Seed Bomb]
+    - [Quick Attack]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Brave
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Pelipper
+setname: Special
+ball: [Net]
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Hydro Pump]
+    - [Air Slash]
+    - [Ominous Wind]
+    - [Aqua Ring]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Adamant
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 140}
+ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
+---
+species: Pelipper
+setname: Mixed
+ball: [Dive]
+item: [Null]
+ability: [Drizzle]
+moves:
+    - [Brine]
+    - [Pluck]
+    - [Icy Wind]
+    - [Mimic]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Adamant
+evs: {hp: 0, atk: 220, def: 0, spA: 88, spD: 0, spe: 160}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}

@@ -1,0 +1,53 @@
+species: Blaziken
+setname: Physical
+ball: [Ultra]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Blaze Kick]
+    - [Brick Break]
+    - [Brave Bird]
+    - [Mirror Move]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Modest
+evs: {hp: 60, atk: 128, def: 0, spA: 0, spD: 64, spe: 252}
+ivs: {hp: 15, atk: 0, def: 15, spA: 31, spD: 15, spe: 0}
+---
+species: Blaziken
+setname: Mixed
+ball: [Ultra]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Blast Burn]
+    - [Brick Break]
+    - [Shadow Claw]
+    - [Role Play]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Blaziken
+setname: High Stats
+ball: [Great]
+item: [Ultra]
+ability: [Speed Boost]
+moves:
+    - [Rock Smash]
+    - [Ember]
+    - [Smelling Salts]
+    - [Peck]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 84, spe: 84}
