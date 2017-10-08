@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.8
 ball: [Great]
 nature: Docile
-evs: 85
+evs: 84
 ivs: 31
 ---
 species: Wartortle
@@ -21,7 +21,7 @@ setname: Rain Dish
 item: [Damp Rock]
 ability: [Rain Dish]
 moves:
-    - [dive]
+    - [Dive]
     - [Dig]
     - [Toxic]
     - [Rain Dance]
