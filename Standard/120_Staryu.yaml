@@ -1,0 +1,33 @@
+species: Staryu
+setname: Standard
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Hydro Pump]
+    - [Blizzard]
+    - [Thunder]
+    - [Endure]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Quick]
+nature: Modest
+evs: {hp: 252, atk: 0, def: 0, spA: 120, spD: 32, spe: 104}
+ivs: 31
+---
+species: Staryu
+setname: Physical
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Waterfall]
+    - [Frustration]
+    - [Psychic]
+    - [Thunder Wave]
+happiness: 0
+biddable: True
+rarity: 0.34
+ball: [Dive]
+nature: Lonely
+evs: {hp: 124, atk: 252, def: 40, spA: 0, spD: 0, spe: 92}
+ivs: 31

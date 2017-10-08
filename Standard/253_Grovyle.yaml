@@ -1,0 +1,35 @@
+species: Grovyle
+setname: Physical
+ball: [Great]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Leaf Blade]
+    - [X-Scissor]
+    - [Drain Punch]
+    - [Swords Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Adamant
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Grovyle
+setname: Special
+ball: [Great]
+item: [Power Herb]
+ability: [Unburden]
+moves:
+    - [Giga Drain]
+    - [Razor Wind]
+    - [Seismic Toss]
+    - [Grass Whistle]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Rash
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
