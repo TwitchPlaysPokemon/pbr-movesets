@@ -2,6 +2,7 @@ species: Ampharos
 ingamename: Ampharos
 displayname: Ampharos
 setname: Prism
+tags: [runmon]
 item: [Damp Rock]
 ability: [Static]
 moves:

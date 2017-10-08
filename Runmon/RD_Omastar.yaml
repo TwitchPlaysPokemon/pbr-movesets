@@ -2,6 +2,7 @@ species: Omastar
 ingamename: OMASTAR
 displayname: OMASTAR
 setname: Red
+tags: [runmon]
 item: [Helix Fossil]
 ability: [null]
 moves:

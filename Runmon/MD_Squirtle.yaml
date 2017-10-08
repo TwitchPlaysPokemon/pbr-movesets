@@ -2,6 +2,7 @@ species: Squirtle
 ingamename: SquirtLee
 displayname: SquirtLee
 setname: Mystery Dungeon
+tags: [runmon]
 item: [Wise Glasses]
 ability: [Torrent]
 moves:

@@ -2,6 +2,7 @@ species: Mightyena
 ingamename: MIGHTYENA
 displayname: MIGHTYENA
 setname: Emerald
+tags: [runmon]
 item: [TM 10]
 ability: [Intimidate]
 moves:

@@ -1,7 +1,8 @@
 species: 
 ingamename: 
 displayname: 
-setname: 
+setname:
+tags: [runmon]
 item: []
 ability: []
 moves:

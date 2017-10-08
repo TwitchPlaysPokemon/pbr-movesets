@@ -2,6 +2,7 @@ species: Vileplume
 ingamename: VILEPLUME
 displayname: VILEPLUME
 setname: Emerald
+tags: [runmon]
 item: [Poké Ball]
 ability: [Chlorophyll]
 moves:

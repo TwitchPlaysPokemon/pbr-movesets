@@ -2,6 +2,7 @@ species: Flareon
 ingamename: FLAREON
 displayname: FLAREON
 setname: Red
+tags: [runmon]
 item: [Silk Scarf]
 ability: [Huge Power]
 moves:

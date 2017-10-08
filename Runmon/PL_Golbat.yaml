@@ -2,6 +2,7 @@ species: Golbat
 ingamename: GOLBAT
 displayname: GOLBAT
 setname: Platinum
+tags: [runmon]
 item: [Air Mail]
 ability: [Inner Focus]
 moves:

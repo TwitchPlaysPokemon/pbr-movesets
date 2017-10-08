@@ -2,6 +2,7 @@ species: Raticate
 ingamename: SE
 displayname: SE
 setname: Sun
+tags: [runmon]
 item: [Null]
 ability: [Gluttony]
 moves:
