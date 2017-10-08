@@ -1,0 +1,35 @@
+species: Ninjask
+setname: Physical
+ball: [Timer]
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [X-Scissor]
+    - [Aerial Ace]
+    - [Night Slash]
+    - [Screech]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Serious
+evs: {hp: 196, atk: 12, def: 56, spA: 0, spD: 56, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+---
+species: Ninjask
+setname: Special
+ball: [Quick]
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [Bug Buzz]
+    - [Hidden Power]
+    - [Shadow Ball]
+    - [Double Team]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Adamant
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 3}
