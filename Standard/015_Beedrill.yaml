@@ -30,7 +30,7 @@ happiness: 255
 biddable: True
 rarity: 0.35
 ball: [Net]
-nature: Jolly
+nature: Adamant
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ivs: 31
 ---
