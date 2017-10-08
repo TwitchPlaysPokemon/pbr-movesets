@@ -1,6 +1,6 @@
 species: Poliwrath
 setname: Standard
-item: [Leppa Berry]
+item: [Null]
 ability: [Damp]
 moves:
     - [Hydro Pump]
@@ -36,7 +36,7 @@ ivs: 0
 ---
 species: Poliwrath
 setname: Special
-item: [Mystic Water]
+item: [Null]
 ability: [Water Absorb]
 moves:
     - [Focus Blast]
