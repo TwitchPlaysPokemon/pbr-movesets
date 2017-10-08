@@ -32,4 +32,4 @@ rarity: 0.5
 ball: [Cherish]
 nature: Modest
 evs: {hp: 0, atk: 20, def: 0, spA: 84, spD: 0, spe: 168}
-ivs: {hp: 11, atk: 11, def: 11, spA: 0, spD: 11, spe: 11}
+ivs: {hp: 11, atk: 11, def: 11, spA: 11, spD: 0, spe: 11}
