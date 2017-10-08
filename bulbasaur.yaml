@@ -1,0 +1,17 @@
+species: Bulbasaur
+setname: Test
+item: [null]
+ability: [Overgrow]
+moves:
+    - [Lick]
+    - [Water Gun]
+    - [Swift]
+    - [Tackle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 23, spA: 12, spD: 24, spe: 11}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 0}
