@@ -36,8 +36,8 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Blaziken
 setname: High Stats
-ball: [Great]
-item: [Ultra]
+ball: [Ultra]
+item: [Null]
 ability: [Speed Boost]
 moves:
     - [Rock Smash]
