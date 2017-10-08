@@ -1,0 +1,35 @@
+species: Murkrow
+setname: Special
+item: [Null]
+ability: [Super Luck]
+moves:
+    - [Dark Pulse]
+    - [Air Cutter]
+    - [Sleep Talk]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: Timid
+ivs: 31
+evs: {hp: 240, atk: 0, def: 108, spA: 0, spD: 108, spe: 52}
+---
+species: Murkrow
+setname: Physical
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Fly]
+    - [Sucker Punch]
+    - [Night Shade]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: Serious
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}

@@ -1,0 +1,35 @@
+species: Yanma
+setname: Special
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Giga Drain]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Modest
+ivs: 23
+evs: {hp: 88, atk: 0, def: 168, spA: 84, spD: 168, spe: 0}
+---
+species: Yanma
+setname: Physical
+item: [Null]
+ability: [Compound Eyes]
+moves:
+    - [Bug Bite]
+    - [Steel Wing]
+    - [Hypnosis]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Adamant
+ivs: 23
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}

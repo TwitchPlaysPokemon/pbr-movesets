@@ -1,0 +1,35 @@
+species: Espeon
+setname: Standard
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Psybeam]
+    - [Shadow Ball]
+    - [Signal Beam]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Cherish]
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 20, spD: 31, spe: 31}
+evs: {hp: 36, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Espeon
+setname: Physical
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Zen Headbutt]
+    - [Bite]
+    - [Tickle]
+    - [Last Resort]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 15, spD: 15, spe: 15}
+evs: {hp: 60, atk: 80, def: 0, spA: 0, spD: 0, spe: 0}

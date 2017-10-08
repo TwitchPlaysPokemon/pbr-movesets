@@ -1,0 +1,53 @@
+species: Slowking
+setname: Trick Room
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Psychic]
+    - [Water Pulse]
+    - [Me First]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Brave
+ivs: 8
+evs: {hp: 84, atk: 172, def: 84, spA: 84, spD: 84, spe: 0}
+---
+species: Slowking
+setname: Special
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Brine]
+    - [Future Sight]
+    - [Shadow Ball]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Heal]
+nature: Modest
+ivs: 0
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+---
+species: Slowking
+setname: Physical
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Aqua Tail]
+    - [Focus Punch]
+    - [Avalanche]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Timer]
+nature: Adamant
+ivs: 4
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}

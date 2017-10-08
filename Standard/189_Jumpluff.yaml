@@ -1,0 +1,53 @@
+species: Jumpluff
+setname: Offensive
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Giga Drain]
+    - [Return]
+    - [Hidden Power]
+    - [Stun Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Net]
+nature: Rash
+ivs: {hp: 19, atk: 31, def: 30, spA: 30, spD: 31, spe: 10}
+evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
+---
+species: Jumpluff
+setname: Stall
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Bounce]
+    - [Giga Drain]
+    - [Leech Seed]
+    - [Poison Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Safari]
+nature: Serious
+ivs: 31
+evs: 24
+---
+species: Jumpluff
+setname: Leaf Guard
+item: [Heat Rock]
+ability: [Leaf Guard]
+moves:
+    - [Solar Beam]
+    - [Headbutt]
+    - [Attract]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 88, atk: 0, def: 40, spA: 252, spD: 40, spe: 88}

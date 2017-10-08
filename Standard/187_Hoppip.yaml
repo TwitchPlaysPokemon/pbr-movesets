@@ -1,0 +1,35 @@
+species: Hoppip
+setname: Physical
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Seed Bomb]
+    - [U-Turn]
+    - [Leech Seed]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poké]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Hoppip
+setname: Special
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Solar Beam]
+    - [Toxic]
+    - [Synthesis]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Calm
+ivs: 31
+evs: {hp: 228, atk: 0, def: 44, spA: 212, spD: 0, spe: 24}

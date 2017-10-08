@@ -1,0 +1,35 @@
+species: Skiploom
+setname: Physical
+item: [Null]
+ability: [Leaf Guard]
+moves:
+    - [Bounce]
+    - [Seed Bomb]
+    - [Sleep Powder]
+    - [Memento]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Safari]
+nature: Adamant
+ivs: 22
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Skiploom
+setname: Special
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Solar Beam]
+    - [Hidden Power]
+    - [Confusion]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Great]
+nature: Modest
+ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 31}
+evs: {hp: 88, atk: 0, def: 40, spA: 252, spD: 40, spe: 88}
