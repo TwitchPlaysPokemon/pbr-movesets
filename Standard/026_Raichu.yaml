@@ -1,6 +1,6 @@
 species: Raichu
 setname: Physical
-item: [Magnet]
+item: [Null]
 ability: [Static]
 moves:
     - [Spark]
