@@ -18,7 +18,7 @@ ivs: 31
 ---
 species: Machop
 setname: No Guard
-item: [Metal Coat]
+item: [Null]
 ability: [No Guard]
 moves:
     - [Dynamic Punch]
