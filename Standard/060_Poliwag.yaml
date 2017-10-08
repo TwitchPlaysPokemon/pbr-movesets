@@ -3,7 +3,7 @@ setname: Physical
 item: [King's Rock]
 ability: [Swift Swim]
 moves:
-    - [Water Fall]
+    - [Waterfall]
     - [Body Slam]
     - [Double-Slap]
     - [Rain Dance]
@@ -31,5 +31,5 @@ biddable: True
 rarity: 0.5
 ball: [Net]
 nature: Timid
-evs: {hp: 57, atk: 1, def: 57, spA: 252, spD: 57, spe: 84}
+evs: {hp: 56, atk: 0, def: 56, spA: 252, spD: 56, spe: 84}
 ivs: 31

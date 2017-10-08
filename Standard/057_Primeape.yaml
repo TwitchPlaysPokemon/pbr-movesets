@@ -12,9 +12,9 @@ happiness: 255
 biddable: True
 rarity: 0.4
 ball: [Ultra]
-nature: Modest
-evs: {hp: 4, atk: 4, def: 0, spA: 140, spD: 4, spe: 4}
-ivs: 31
+nature: Timid
+evs: {hp: 4, atk: 16, def: 0, spA: 0, spD: 8, spe: 4}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 12}
 ---
 species: Primeape
 setname: Swagger

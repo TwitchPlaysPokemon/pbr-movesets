@@ -17,13 +17,13 @@ evs: {hp: 56, atk: 252, def: 50, spA: 0, spD: 60, spe: 0}
 ivs: 31
 ---
 species: Venomoth
-setname: Tinted Lens
+setname: Disable
 item: [Null]
 ability: [Tinted Lens]
 moves:
     - [Bug Buzz]
-    - [Disable]
     - [Thief]
+    - [Disable]
     - [Substitute]
 gender: [m, f]
 happiness: 255
@@ -35,7 +35,7 @@ evs: 85
 ivs: 12
 ---
 species: Venomoth
-setname: Physical
+setname: Sleep
 item: [Null]
 ability: [Tinted Lens]
 moves:

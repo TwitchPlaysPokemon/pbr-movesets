@@ -31,5 +31,5 @@ biddable: True
 rarity: 0.4
 ball: [Premier]
 nature: Calm
-evs: {hp: 200, atk: 0, def: 0, spA: 88, spD: 84, spe: 136}
-ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 164, atk: 0, def: 0, spA: 96, spD: 108, spe: 140}
+ivs: {hp: 31, atk: 3, def: 31, spA: 31, spD: 31, spe: 30}
