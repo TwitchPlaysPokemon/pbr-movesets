@@ -2,12 +2,12 @@ species: Linoone
 setname: Physical
 ball: [Great]
 item: [Null]
-ability: [Gluttony]
+ability: [Pickup]
 moves:
     - [Slash]
     - [Shadow Claw]
     - [Rock Smash]
-    - [Substitute]
+    - [Double Team]
 gender: [m,f]
 happiness: 255
 biddable: True
