@@ -1,6 +1,6 @@
 species: Nidoran♂
 setname: Physical
-item: [BrightPowder]
+item: [Null]
 ability: [Hustle]
 moves:
     - [Poison Jab]
