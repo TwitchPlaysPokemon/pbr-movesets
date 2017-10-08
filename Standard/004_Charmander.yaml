@@ -1,6 +1,6 @@
 species: Charmander
 setname: Physical
-item: [Dragon Fang]
+item: [Null]
 ability: [Blaze]
 moves:
     - [Flare Blitz]
@@ -18,7 +18,7 @@ ivs: 31
 ---
 species: Charmander
 setname: Special
-item: [Wide Lens]
+item: [Null]
 ability: [Blaze]
 moves:
     - [Fire Blast]
