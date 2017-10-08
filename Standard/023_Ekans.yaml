@@ -1,6 +1,6 @@
 species: Ekans
 setname: Intimidate
-item: [Wide Lens]
+item: [Null]
 ability: [Intimidate]
 moves:
     - [Gunk Shot]
