@@ -18,7 +18,7 @@ ivs: {hp: 25, atk: 30, def: 31, spA: 31, spD: 31, spe: 31}
 ---
 species: Beedrill
 setname: Max Atk
-item: [Silk Scarf]
+item: [Null]
 ability: [Swarm]
 moves:
     - [Twineedle]
