@@ -45,9 +45,9 @@ moves:
     - [Brick Break]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0
-ball: [Poké
+ball: [Poké]
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 80, atk: 140, def: 40, spA: 0, spD: 40, spe: 140}
@@ -63,7 +63,7 @@ moves:
     - [Switcheroo]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0
 ball: [Luxury]
 nature: Timid
