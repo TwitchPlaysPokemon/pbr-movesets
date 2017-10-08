@@ -1,6 +1,5 @@
 species: Drifloon
 setname: Special
-tags:[advanced]
 item: [Petaya Berry]
 ability: [Unburden]
 nature: Quiet
@@ -19,7 +18,6 @@ ball: [Dusk]
 ---
 species: Drifloon
 setname: Physical
-tags:[advanced]
 item: [Lansat Berry]
 ability: [Unburden]
 nature: Brave

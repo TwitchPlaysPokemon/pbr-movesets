@@ -1,6 +1,5 @@
 species: Tangrowth
 setname: Standard
-tags:[advanced]
 item: [Pecha Berry]
 ability: [Chlorophyll, Leaf Guard]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 240, spe: 120}
 ---
 species: Tangrowth
 setname: Physical
-tags:[advanced]
 item: [Expert Belt]
 ability: [Chlorophyll]
 moves:

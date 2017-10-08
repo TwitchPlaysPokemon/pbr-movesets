@@ -1,6 +1,5 @@
 species: Dunsparce
 setname: Physical
-tags:[advanced]
 item: [Soothe Bell, Silk Scarf]
 ability: [Run Away]
 moves:
@@ -41,7 +40,6 @@ evs: {hp: 0, atk: 0, def: 40, spA: 120, spD: 40, spe: 40}
 ---
 species: Dunsparce
 setname: Flinch
-tags:[advanced]
 item: [Zoom Lens]
 ability: [Serene Grace]
 moves:

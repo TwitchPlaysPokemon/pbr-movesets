@@ -1,6 +1,5 @@
 species: Seadra
 setname: Special
-tags:[advanced]
 item: [Null, Sea Incense, Wave Incense, Dragon Fang]
 ability: [Sniper]
 nature: Hasty
@@ -24,7 +23,6 @@ ball: [Dive]
 ---
 species: Seadra
 setname: Physical
-tags:[advanced]
 item: [Petaya Berry]
 ability: [Poison Point]
 nature: Quiet
@@ -43,7 +41,6 @@ ball: [Net]
 ---
 species: Seadra
 setname: Stall
-tags:[advanced]
 item: [Null]
 ability: [Damp]
 nature: Careful

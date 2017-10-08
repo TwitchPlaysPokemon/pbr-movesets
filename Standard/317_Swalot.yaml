@@ -1,6 +1,5 @@
 species: Swalot
 setname: Liquid Ooze
-tags:[advanced]
 item: [null, Wide Lens]
 ability: [Liquid Ooze]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Swalot
 setname: Sticky Hold
-tags:[advanced]
 item: [Choice Scarf, Choice Band]
 ability: [Sticky Hold]
 moves:
@@ -40,7 +38,6 @@ evs: {hp: 0, atk: 28, def: 40, spA: 128, spD: 40, spe: 180}
 ---
 species: Swalot
 setname: Gluttony
-tags:[advanced]
 item: [Salac Berry]
 ability: [Gluttony]
 moves:

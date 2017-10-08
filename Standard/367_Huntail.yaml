@@ -1,6 +1,5 @@
 species: Huntail
 setname: Physical
-tags:[advanced]
 item: [Blue Shard, NeverMelt-Ice]
 ability: [Water Veil]
 nature: Hasty
@@ -26,7 +25,6 @@ ball: [Dive]
 ---
 species: Huntail
 setname: Special
-tags:[advanced]
 item: [Sea Incense, Sharp Beak, Repel]
 ability: [Swift Swim]
 nature: Docile
@@ -48,7 +46,6 @@ ball: [Net]
 ---
 species: Huntail
 setname: Stall
-tags:[advanced]
 item: [Grip Claw]
 ability: [Water Veil]
 nature: Relaxed

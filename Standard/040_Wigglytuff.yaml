@@ -1,6 +1,5 @@
 species: Wigglytuff
 setname: Physical
-tags:[advanced]
 item: [Potion, Super Potion, Hyper Potion, Max Potion, Iron Ball, Silk Scarf, Blackbelt, Rabuta Berry]
 ability: [Cute Charm]
 nature: Sassy
@@ -27,7 +26,6 @@ ball: [Heal]
 ---
 species: Wigglytuff
 setname: Special
-tags:[advanced]
 item: [Aspear Berry, Chesto Berry, Rawst Berry, Cheri Berry, Pecha Berry, Splash Plate]
 ability: [Cute Charm]
 nature: Quiet

@@ -1,6 +1,5 @@
 species: Venonat
 setname: Tinted Lens
-tags:[advanced]
 item: [Lansat Berry]
 ability: [Tinted Lens]
 nature: Modest
@@ -18,7 +17,6 @@ ball: [Safari]
 ---
 species: Venonat
 setname: Compound Eyes
-tags:[advanced]
 item: [Silverpowder, Poison Barb]
 ability: [Compound Eyes]
 nature: Jolly

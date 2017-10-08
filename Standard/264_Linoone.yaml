@@ -1,6 +1,5 @@
 species: Linoone
 setname: Gluttony
-tags:[advanced]
 item: [Apicot Berry, Ganlon Berry, Starf Berry]
 ability: [Gluttony]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Linoone
 setname: Rain
-tags:[advanced]
 item: [Magnet]
 ability: [Quick Feet]
 moves:

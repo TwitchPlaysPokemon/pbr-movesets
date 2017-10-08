@@ -1,6 +1,5 @@
 species: Phione
 setname: Physical
-tags:[advanced]
 item: [Poké Doll, Silverpowder]
 ability: [Hydration]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 92, atk: 104, def: 104, spA: 0, spD: 104, spe: 104}
 ---
 species: Phione
 setname: Special
-tags:[advanced]
 item: [Damp Rock]
 ability: [Hydration]
 moves:

@@ -1,6 +1,5 @@
 species: Corphish
 setname: Physical
-tags:[advanced]
 item: [null, Sky Plate]
 ability: [Adaptability]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 0, spD: 85, spe: 170}
 ---
 species: Corphish
 setname: Special
-tags:[advanced]
 item: [Berry Juice, Soft Sand, Salac Berry]
 ability: [Adaptability]
 moves:
@@ -46,7 +44,6 @@ evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 0, spe: 172}
 ---
 species: Corphish
 setname: Shell Armor
-tags:[advanced]
 item: [Sitrus Berry]
 ability: [Shell Armor]
 moves:

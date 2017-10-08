@@ -1,6 +1,5 @@
 species: Mothim
 setname: Standard
-tags:[advanced]
 item: [Enigma Berry]
 ability: [Tinted Lens]
 nature: Timid
@@ -19,7 +18,6 @@ ball: [Net]
 ---
 species: Mothim
 setname: Special
-tags:[advanced]
 item: [Spooky Plate, Mind Plate]
 ability: [Swarm]
 nature: Timid
@@ -44,7 +42,6 @@ ball: [Nest]
 ---
 species: Mothim
 setname: Physical
-tags:[advanced]
 item: [Null]
 ability: [Swarm]
 nature: Adamant

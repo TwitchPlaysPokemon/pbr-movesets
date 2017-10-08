@@ -1,6 +1,5 @@
 species: Weepinbell
 setname: Gluttony
-tags:[advanced]
 item: [Starf Berry]
 ability: [Gluttony]
 moves:
@@ -22,7 +21,6 @@ evs: {hp: 160, atk: 86, def: 44, spA: 86, spD: 44, spe: 86}
 ---
 species: Weepinbell
 setname: Dance
-tags:[advanced]
 item: [Miracle Seed]
 ability: [Chlorophyll]
 moves:

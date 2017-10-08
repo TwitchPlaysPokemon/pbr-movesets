@@ -1,6 +1,5 @@
 species: Marshtomp
 setname: Standard
-tags:[advanced]
 item: [Aspear Berry, Rawst Berry, Pecha Berry, Soft Sand, Toxic Plate]
 ability: [Torrent, Damp]
 moves:
@@ -26,7 +25,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Marshtomp
 setname: Physical
-tags:[advanced]
 item: [Rindo Berry]
 ability: [Torrent]
 moves:

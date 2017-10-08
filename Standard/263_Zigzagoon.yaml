@@ -1,6 +1,5 @@
 species: Zigzagoon
 setname: Belly Drum
-tags:[advanced]
 item: [Sitrus Berry]
 ability: [Quick Feet]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
 ---
 species: Zigzagoon
 setname: Toxic Orb
-tags:[advanced]
 item: [Toxic Orb]
 ability: [Quick Feet]
 moves:
@@ -38,7 +36,6 @@ evs: {hp: 48, atk: 252, def: 0, spA: 0, spD: 0, spe: 208}
 ---
 species: Zigzagoon
 setname: Special
-tags:[advanced]
 item: [Petaya Berry]
 ability: [Gluttony]
 moves:

@@ -1,6 +1,5 @@
 species: Furret
 setname: Physical
-tags:[advanced]
 item: [Fresh Water, Silk Scarf]
 ability: [Run Away, Frisk, Keen Eye]
 moves:
@@ -24,7 +23,6 @@ evs: {hp: 88, atk: 84, def: 44, spA: 180, spD: 44, spe: 68}
 ---
 species: Furret
 setname: Special
-tags:[advanced]
 item: [Damp Rock, Heat Rock]
 ability: [Run Away, Frisk, Keen Eye]
 moves:
@@ -48,7 +46,6 @@ evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ---
 species: Furret
 setname: Me First
-tags:[advanced]
 item: [Mental Herb]
 ability: [Keen Eye]
 moves:

@@ -1,6 +1,5 @@
 species: Krabby
 setname: Hyper Cutter
-tags:[advanced]
 item: [Berry Juice, Silverpowder, White Herb]
 ability: [Hyper Cutter]
 nature: Careful
@@ -27,7 +26,6 @@ ball: [Dive]
 ---
 species: Krabby
 setname: Shell Armor
-tags:[advanced]
 item: [Lansat Berry]
 ability: [Shell Armor]
 nature: Careful
@@ -46,7 +44,6 @@ ball: [Luxury]
 ---
 species: Krabby
 setname: Special
-tags:[advanced]
 item: [Choice Specs]
 ability: [Shell Armor]
 nature: Modest

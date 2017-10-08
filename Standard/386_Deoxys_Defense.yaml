@@ -1,6 +1,5 @@
 species:  Deoxys
 setname: Defense Attack
-tags:[advanced]
 item: [Tamato Berry]
 ability: [Pressure]
 nature: Brave
@@ -19,7 +18,6 @@ ball: [Poke]
 ---
 species: Deoxys
 setname: Defense Counter
-tags:[advanced]
 item: [Star Piece]
 ability: [Pressure]
 nature: Naughty

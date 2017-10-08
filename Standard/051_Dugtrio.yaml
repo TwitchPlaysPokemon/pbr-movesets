@@ -1,6 +1,5 @@
 species: Dugtrio
 setname: Arena Trap
-tags:[advanced]
 item: [Sitrus Berry, Wise Glasses, Sharp Beak, Scope Lens, Focus Band, Passho Berry, Yache Berry, Rindo Berry]
 ability: [Arena Trap]
 nature: Rash
@@ -25,7 +24,6 @@ ball: [Quick]
 ---
 species: Dugtrio
 setname: Sand Veil
-tags:[advanced]
 item: [Smooth Rock]
 ability: [Sand Veil]
 nature: Careful

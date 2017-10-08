@@ -1,6 +1,5 @@
 species: Jumpluff
 setname: Offensive
-tags:[advanced]
 item: [null, Insect Plate, Mind Plate, Sky Plate, Cheri Berry, Toxic Orb]
 ability: [Chlorophyll]
 moves:
@@ -42,7 +41,6 @@ evs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
 ---
 species: Jumpluff
 setname: Leaf Guard
-tags:[advanced]
 item: [Heat Rock]
 ability: [Leaf Guard]
 moves:

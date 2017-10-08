@@ -1,6 +1,5 @@
 species: Honchkrow
 setname: Physical
-tags:[advanced]
 item: [Metal Coat]
 ability: [Insomnia]
 nature: Modest
@@ -21,7 +20,6 @@ ball: [Dusk]
 ---
 species: Honchkrow
 setname: Special
-tags:[advanced]
 item: [Null, Iron Ball, Scope Lens, Dragon Fang]
 ability: [Insomnia, Super Luck]
 nature: Quirky
@@ -44,7 +42,6 @@ ball: [Premier]
 ---
 species: Honchkrow
 setname: Critter
-tags:[advanced]
 item: [Escape Rope, Power Herb]
 ability: [Super Luck]
 nature: Modest
@@ -65,7 +62,6 @@ ball: [Dusk]
 ---
 species: Honchkrow
 setname: Max Atk
-tags:[advanced]
 item: [Null]
 ability: [Super Luck]
 nature: Adamant

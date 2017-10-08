@@ -1,6 +1,5 @@
 species: Zangoose
 setname: Physical
-tags:[advanced]
 item: [Toxic Orb, Odd Keystone]
 ability: [Immunity]
 moves:
@@ -24,7 +23,6 @@ evs: {hp: 60, atk: 60, def: 60, spA: 60, spD: 60, spe: 60}
 ---
 species: Zangoose
 setname: Special
-tags:[advanced]
 item: [Power Herb]
 ability: [Immunity]
 moves:

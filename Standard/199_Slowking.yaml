@@ -1,6 +1,5 @@
 species: Slowking
 setname: Standard
-tags:[advanced]
 item: [Dawn Stone, Mind Plate]
 ability: [Oblivious, Own Tempo]
 moves:
@@ -23,7 +22,6 @@ evs: {hp: 84, atk: 172, def: 84, spA: 84, spD: 84, spe: 0}
 ---
 species: Slowking
 setname: Special
-tags:[advanced]
 item: [Blue Scarf, Sea Incense]
 ability: [Oblivious, Own Tempo]
 moves:
@@ -40,7 +38,6 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Slowking
 setname: Physical
-tags:[advanced]
 item: [Berry Juice, Rare Bone, Lagging Tail]
 ability: [Oblivious, Own Tempo]
 moves:

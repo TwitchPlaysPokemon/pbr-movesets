@@ -17,7 +17,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Sudowoodo
 setname: Mixed
-tags:[advanced]
 item: [Rindo Berry, Babiri Berry, Salac Berry]
 ability: [Sturdy]
 moves:

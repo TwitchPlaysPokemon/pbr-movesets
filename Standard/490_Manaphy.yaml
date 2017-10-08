@@ -1,6 +1,5 @@
 species: Manaphy
 setname: Standard
-tags:[advanced]
 item: [Big Root]
 ability: [Hydration]
 moves:
@@ -23,7 +22,6 @@ evs: 0
 ---
 species: Manaphy
 setname: Tail Glow
-tags:[advanced]
 item: [Pomeg Berry]
 ability: [Hydration]
 moves:

@@ -1,6 +1,5 @@
 species: Combusken
 setname: Standard
-tags:[advanced]
 item: [Timer Ball]
 ability: [Blaze, Speed Boost]
 moves:
@@ -29,7 +28,6 @@ evs: {hp: 84, atk: 140, def: 84, spA: 40, spD: 80, spe: 80}
 ---
 species: Combusken
 setname: RestTalk
-tags:[advanced]
 item: [null]
 ability: [Speed Boost]
 moves:

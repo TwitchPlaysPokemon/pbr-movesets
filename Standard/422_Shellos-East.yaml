@@ -1,6 +1,5 @@
 species: Shellos
 setname: East Special
-tags:[advanced]
 item: [Wise Glasses, Sitrus Berry]
 ability: [Sticky Hold]
 moves:
@@ -23,7 +22,6 @@ evs: {hp: 0, atk: 0, def: 128, spA: 124, spD: 128, spe: 128}
 ---
 species: Shellos
 setname: East Physical
-tags:[advanced]
 item: [Custap Berry]
 ability: [Sticky Hold]
 moves:

@@ -1,6 +1,5 @@
 species: Dusknoir
 setname: Standard
-tags:[advanced]
 item: [Reaper Cloth]
 ability: [Pressure]
 moves:
@@ -24,7 +23,6 @@ evs: {hp: 20, atk: 100, def: 20, spA: 140, spD: 20, spe: 20}
 ---
 species: Dusknoir
 setname: Max Attack
-tags:[advanced]
 item: [Wide Lens, Dusk Stone]
 ability: [Pressure]
 moves:

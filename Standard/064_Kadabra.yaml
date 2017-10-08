@@ -1,6 +1,5 @@
 species: Kadabra
 setname: Special
-tags:[advanced]
 item: [null]
 ability: [Synchronize, Magic Guard, Inner Focus]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 32, atk: 196, def: 116, spA: 32, spD: 104, spe: 28}
 ---
 species: Kadabra
 setname: Physical
-tags:[advanced]
 item: [Flame Orb]
 ability: [Magic Guard]
 moves:

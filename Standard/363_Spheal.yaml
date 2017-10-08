@@ -1,6 +1,5 @@
 species: Spheal
 setname: Special
-tags:[advanced]
 item: [Wide Lens, Icy Rock]
 ability: [Thick Fat, Ice Body]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 10, atk: 0, def: 10, spA: 108, spD: 100, spe: 100}
 ---
 species: Spheal
 setname: Physical
-tags:[advanced]
 item: [Muscle Band, Salac Berry, Leftovers]
 ability: [Thick Fat]
 moves:

@@ -1,6 +1,5 @@
 species: Snover
 setname: Standard
-tags:[advanced]
 item: [Coba Berry, Kebia Berry, Occa Berry, Chople Berry]
 ability: [Snow Warning]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 100, atk: 108, def: 100, spA: 100, spD: 100, spe: 0}
 ---
 species: Snover
 setname: Special
-tags:[advanced]
 item: [Miracle Seed, Power Herb]
 ability: [Snow Warning, Soundproof]
 moves:
@@ -43,7 +41,6 @@ evs: {hp: 128, atk: 0, def: 0, spA: 128, spD: 0, spe: 252}
 ---
 species: Snover
 setname: Physical
-tags:[advanced]
 item: [Muscle Band, Power Herb, Light Clay, Salac Berry]
 ability: [Snow Warning]
 moves:

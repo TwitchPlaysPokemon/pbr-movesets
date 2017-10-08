@@ -1,6 +1,5 @@
 species: Machoke
 setname: Physical
-tags:[advanced]
 item: [Toxic Orb, Blackbelt]
 ability: [Guts, No Guard]
 moves:
@@ -29,7 +28,6 @@ evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
 ---
 species: Machoke
 setname: Special
-tags:[advanced]
 item: [null]
 ability: [No Guard]
 moves:
@@ -48,7 +46,6 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Machoke
 setname: Fighter
-tags:[advanced]
 item: [Black Belt]
 ability: [Guts]
 moves:

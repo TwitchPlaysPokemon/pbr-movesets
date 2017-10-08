@@ -1,6 +1,5 @@
 species: Electrike
 setname: Special
-tags:[advanced]
 item: [Lax Incense]
 ability: [Static]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 0, spe: 172}
 ---
 species: Electrike
 setname: Physical
-tags:[advanced]
 item: [Choice Band]
 ability: [Static]
 moves:

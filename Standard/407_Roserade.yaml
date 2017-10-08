@@ -1,6 +1,5 @@
 species: Roserade
 setname: Standard
-tags:[advanced]
 item: [Shiny Stone]
 ability: [Technician]
 nature: Adamant
@@ -19,7 +18,6 @@ ball: [Dive]
 ---
 species: Roserade
 setname: Max Atk
-tags:[advanced]
 item: [King's Rock]
 ability: [Technician]
 nature: Adamant
@@ -38,7 +36,6 @@ ball: [Ultra]
 ---
 species: Roserade
 setname: Special
-tags:[advanced]
 item: [Life Orb]
 ability: [Technician]
 nature: Adamant
@@ -57,7 +54,6 @@ ball: [Heal]
 ---
 species: Roserade
 setname: Natural Cure
-tags:[advanced]
 item: [Flame Orb]
 ability: [Natural Cure]
 nature: Adamant

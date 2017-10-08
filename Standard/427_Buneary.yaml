@@ -1,6 +1,5 @@
 species: Buneary
 setname: Physical
-tags:[advanced]
 item: [Sticky Barb]
 ability: [Klutz]
 nature: Adamant
@@ -19,7 +18,6 @@ ball: [Repeat]
 ---
 species: Buneary
 setname: Special
-tags:[advanced]
 item: [Petaya Berry, Sitrus Berry]
 ability: [Limber]
 nature: Modest
@@ -44,7 +42,6 @@ ball: [Nest]
 ---
 species: Buneary
 setname: Toxic Orb
-tags:[advanced]
 item: [Toxic Orb]
 ability: [Run Away]
 nature: Adamant

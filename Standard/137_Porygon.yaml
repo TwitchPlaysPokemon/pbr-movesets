@@ -1,6 +1,5 @@
 species: Porygon
 setname: Special Mix
-tags:[advanced]
 item: [Zoom Lens]
 ability: [Download]
 moves:
@@ -16,7 +15,6 @@ evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
 ---
 species: Porygon
 setname: Physical Mix
-tags:[advanced]
 item: [Mind Plate]
 ability: [Download]
 moves:

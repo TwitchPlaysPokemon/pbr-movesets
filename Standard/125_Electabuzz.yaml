@@ -1,6 +1,5 @@
 species: Electabuzz
 setname: Physical
-tags:[advanced]
 item: [Yellow Shard, Charcoal, NeverMelt-Ice, Black Belt]
 ability: [Static, Vital Spirit]
 nature: Naughty
@@ -25,7 +24,6 @@ ball: [Timer]
 ---
 species: Electabuzz
 setname: Special
-tags:[advanced]
 item: [Yellow Scarf, SilverPowder, Poison Barb]
 ability: [Static, Vital Spirit]
 nature: Impish

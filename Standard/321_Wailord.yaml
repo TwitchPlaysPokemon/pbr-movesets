@@ -1,6 +1,5 @@
 species: Wailord
 setname: Water Veil
-tags:[advanced]
 item: [Blue Flute, Silk Scarf]
 ability: [Water Veil]
 moves:
@@ -22,7 +21,6 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Wailord
 setname: Oblivious
-tags:[advanced]
 item: [Choice Scarf]
 ability: [Oblivious]
 moves:
@@ -41,7 +39,6 @@ evs: {hp: 88, atk: 0, def: 152, spA: 84, spD: 152, spe: 32}
 ---
 species: Wailord
 setname: Pressure
-tags:[advanced]
 item: [Spooky Plate]
 ability: [Pressure]
 moves:

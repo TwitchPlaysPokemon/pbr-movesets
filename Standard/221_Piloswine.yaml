@@ -1,6 +1,5 @@
 species: Piloswine
 setname: Physical
-tags:[advanced]
 item: [Icicle Plate, Earth Plate]
 ability: [Thick Fat]
 moves:
@@ -20,7 +19,6 @@ evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
 ---
 species: Piloswine
 setname: Special
-tags:[advanced]
 item: [Icy Rock, Smooth Rock, Soft Sand, Damp Mulch]
 ability: [Snow Cloak, Oblivious]
 moves:
@@ -42,7 +40,6 @@ evs: {hp: 0, atk: 0, def: 128, spA: 128, spD: 128, spe: 124}
 ---
 species: Piloswine
 setname: Speed Control
-tags:[advanced]
 item: [Wise Glasses]
 ability: [Oblivious]
 moves:

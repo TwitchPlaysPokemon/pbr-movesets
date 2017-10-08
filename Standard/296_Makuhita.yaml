@@ -1,6 +1,5 @@
 species: Makuhita
 setname: Thick Fat
-tags:[advanced]
 item: [Coba Berry, Payapa Berry]
 ability: [Thick Fat]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 ---
 species: Makuhita
 setname: Guts
-tags:[advanced]
 item: [Toxic Orb]
 ability: [Guts]
 moves:
@@ -38,7 +36,6 @@ evs: {hp: 124, atk: 128, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Makuhita
 setname: Special
-tags:[advanced]
 item: [Petaya Berry]
 ability: [Thick Fat]
 moves:

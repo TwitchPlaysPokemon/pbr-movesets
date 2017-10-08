@@ -1,6 +1,5 @@
 species: Chingling
 setname: Screens
-tags:[advanced]
 item: [Light Clay]
 ability: [Levitate]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 240, atk: 0, def: 28, spA: 136, spD: 28, spe: 76}
 ---
 species: Chingling
 setname: Scarf
-tags:[advanced]
 item: [Choice Scarf]
 ability: [Levitate]
 moves:
@@ -38,7 +36,6 @@ evs: {hp: 160, atk: 0, def: 0, spA: 252, spD: 0, spe: 96}
 ---
 species: Chingling
 setname: Flinch
-tags:[advanced]
 item: [Leftovers]
 ability: [Levitate]
 moves:

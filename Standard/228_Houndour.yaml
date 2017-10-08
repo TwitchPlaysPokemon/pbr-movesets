@@ -1,6 +1,5 @@
 species: Houndour
 setname: Physical
-tags:[advanced]
 item: [Focus Sash]
 ability: [Early Bird]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Houndour
 setname: Special
-tags:[advanced]
 item: [null]
 ability: [Early Bird, Flash Fire]
 moves:

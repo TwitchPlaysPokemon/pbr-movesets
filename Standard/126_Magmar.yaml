@@ -1,6 +1,5 @@
 species: Magmar
 setname: Physical
-tags:[advanced]
 item: [Red Scarf, Black Glasses, Passho Berry, Salac Berry]
 ability: [Flame Body, Vital Spirit]
 nature: Impish
@@ -25,7 +24,6 @@ ball: [Quick]
 ---
 species: Magmar
 setname: Special
-tags:[advanced]
 item: [Red Shard]
 ability: [Vital Spirit]
 nature: Naughty
@@ -44,7 +42,6 @@ ball: [Timer]
 ---
 species: Magmar
 setname: Stall
-tags:[advanced]
 item: [Flame Plate]
 ability: [Flame Body]
 nature: Serious

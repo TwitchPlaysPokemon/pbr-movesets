@@ -1,6 +1,5 @@
 species: Vileplume
 setname: Special
-tags:[advanced]
 item: [Poké Ball, Poison Barb]
 ability: [Effect Spore, Chlorophyll]
 nature: Modest
@@ -24,7 +23,6 @@ ball: [Safari]
 ---
 species: Vileplume
 setname: Physical
-tags:[advanced]
 item: [Poké Ball, King's Rock]
 ability: [Effect Spore, Chlorophyll]
 nature: Brave
@@ -51,7 +49,6 @@ ball: [Repeat]
 ---
 species: Vileplume
 setname: Sleeper
-tags:[advanced]
 item: [Moomoo Milk]
 ability: [Chlorophyll]
 nature: Quiet

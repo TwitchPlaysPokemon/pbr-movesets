@@ -1,6 +1,5 @@
 species: Torterra
 setname: Standard
-tags:[advanced]
 item: [Null]
 ability: [Overgrow]
 nature: Gentle
@@ -19,7 +18,6 @@ ball: [Ultra]
 ---
 species: Torterra
 setname: Physical
-tags:[advanced]
 item: [Grepa Berry, Meadow Plate, Black Glasses, Pomeg Berry]
 ability: [Overgrow, Shell Armor]
 nature: Modest
@@ -47,7 +45,6 @@ ball: [Ultra]
 ---
 species: Torterra
 setname: Special
-tags:[advanced]
 item: [Growth Mulch, Silk Scarf, Power Herb]
 ability: [Shell Armor, Overgrow]
 nature: Mild

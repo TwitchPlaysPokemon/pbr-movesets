@@ -1,6 +1,5 @@
 species: Machamp
 setname: No Guard
-tags:[advanced]
 item: [null]
 ability: [No Guard]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 40, atk: 8, def: 40, spA: 60, spD: 40, spe: 80}
 ---
 species: Machamp
 setname: Guts
-tags:[advanced]
 item: [Flame Orb]
 ability: [Guts]
 moves:
@@ -45,7 +43,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Machamp
 setname: Stall
-tags:[advanced]
 item: [Berry Juice]
 ability: [No Guard]
 moves:

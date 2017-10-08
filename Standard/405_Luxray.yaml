@@ -1,6 +1,5 @@
 species: Luxray
 setname: Physical
-tags:[advanced]
 item: [Null, Magnet, Toxic Orb, Magost Berry]
 ability: [Rivalry, Guts]
 nature: Modest
@@ -29,7 +28,6 @@ ball: [Quick]
 ---
 species: Luxray
 setname: Special
-tags:[advanced]
 item: [Pearl, Big Pearl, Revive, Max Revive, Silk Scarf, Liechi Berry]
 ability: [Rivalry]
 nature: Modest

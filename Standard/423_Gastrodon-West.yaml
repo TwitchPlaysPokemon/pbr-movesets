@@ -1,6 +1,5 @@
 species: Gastrodon
 setname: West Special
-tags:[advanced]
 item: [Shell Bell]
 ability: [Storm Drain]
 moves:
@@ -20,7 +19,6 @@ evs: {hp: 84, atk: 72, def: 200, spA: 8, spD: 56, spe: 88}
 ---
 species: Gastrodon
 setname: West Physical
-tags:[advanced]
 item: [Rindo Berry]
 ability: [Storm Drain]
 moves:

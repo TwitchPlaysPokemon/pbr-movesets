@@ -1,6 +1,5 @@
 species: Buizel
 setname: Physical
-tags:[advanced]
 item: [Choice Band, Rindo Berry]
 ability: [Water Veil]
 nature: Adamant
@@ -21,7 +20,6 @@ ball: [Luxury]
 ---
 species: Buizel
 setname: Special
-tags:[advanced]
 item: [Life Orb, Choice Specs]
 ability: [Water Veil]
 nature: Timid

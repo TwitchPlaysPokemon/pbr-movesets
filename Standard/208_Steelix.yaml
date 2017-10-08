@@ -1,6 +1,5 @@
 species: Steelix
 setname: Physical
-tags:[advanced]
 item: [Wide Lens, Silk Scarf, Magnet, NeverMelt-Ice, Iron Plate]
 ability: [Sturdy, Rock Head]
 moves:
@@ -30,7 +29,6 @@ evs: {hp: 85, atk: 40, def: 0, spA: 85, spD: 85, spe: 215}
 ---
 species: Steelix
 setname: Special
-tags:[advanced]
 item: [Pink Scarf, Silk Scarf]
 ability: [Sturdy]
 moves:

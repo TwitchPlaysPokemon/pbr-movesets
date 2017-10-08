@@ -1,6 +1,5 @@
 species: Chimchar
 setname: Physical
-tags:[advanced]
 item: [Null, Liechi Berry, Ganlon Berry, Apicot Berry, Passho Berry]
 ability: [Iron Fist]
 nature: Jolly
@@ -25,7 +24,6 @@ ball: [Poké]
 ---
 species: Chimchar
 setname: Special
-tags:[advanced]
 item: [Petaya Berry, Black Belt]
 ability: [Blaze]
 nature: Modest

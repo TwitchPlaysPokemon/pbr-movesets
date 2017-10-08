@@ -1,6 +1,5 @@
 species: Wormadam
 setname: Trash Physical
-tags:[advanced]
 item: [Silverpowder, Iron Ball]
 ability: [Anticipation]
 moves:
@@ -25,7 +24,6 @@ evs: {hp: 140, atk: 108, def: 100, spA: 0, spD: 100, spe: 60}
 ---
 species: Wormadam
 setname: Trash Special
-tags:[advanced]
 item: [Ganlon Berry]
 ability: [Anticipation]
 moves:

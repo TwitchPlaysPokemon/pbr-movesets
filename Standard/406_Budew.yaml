@@ -1,6 +1,5 @@
 species: Budew
 setname: Special
-tags:[advanced]
 item: [Rose Incense]
 ability: [Poison Point, Natural Cure]
 nature: Modest
@@ -19,7 +18,6 @@ ball: [Nest]
 ---
 species: Budew
 setname: Physical
-tags:[advanced]
 item: [Salac Berry]
 ability: [Natural Cure]
 nature: Adamant

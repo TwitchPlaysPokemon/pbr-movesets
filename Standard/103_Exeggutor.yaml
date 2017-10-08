@@ -1,6 +1,5 @@
 species: Exeggutor
 setname: Standard
-tags:[advanced]
 item: [Silk Scarf]
 ability: [Chlorophyll]
 nature: Calm
@@ -19,7 +18,6 @@ ball: [Heal]
 ---
 species: Exeggutor
 setname: Special
-tags:[advanced]
 item: [Silk Scarf, Black Belt, Hard Stone]
 ability: [Chlorophyll]
 nature: Adamant
@@ -45,7 +43,6 @@ ball: [Ultra]
 ---
 species: Exeggutor
 setname: Physical
-tags:[advanced]
 item: [Scope Lens, Sitrus Berry]
 ability: [Chlorophyll]
 nature: Careful

@@ -1,6 +1,5 @@
 species: Flareon
 setname: Physical
-tags:[advanced]
 item: [Toxic Orb]
 ability: [Guts]
 moves:
@@ -36,7 +35,6 @@ evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
 ---
 species: Flareon
 setname: Natural Gift
-tags:[advanced]
 item: [Durin Berry]
 ability: [Flash Fire]
 moves:

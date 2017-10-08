@@ -1,6 +1,5 @@
 species: Mareep
 setname: Special
-tags:[advanced]
 item: [Hard Stone, Silverpowder]
 ability: [Static]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 116, atk: 0, def: 68, spA: 252, spD: 72, spe: 0}
 ---
 species: Mareep
 setname: Physical
-tags:[advanced]
 item: [Salac Berry]
 ability: [Static]
 moves:

@@ -1,6 +1,5 @@
 species: Meganium
 setname: Standard
-tags:[advanced]
 item: [Aspear Berry, Rawst Berry, Cheri Berry, Pecha Berry, Persim Berry]
 ability: [Overgrow]
 moves:
@@ -17,7 +16,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Meganium
 setname: Special
-tags:[advanced]
 item: [Rose Incense, Big Root, Petaya Berry]
 ability: [Overgrow]
 moves:
@@ -38,7 +36,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Meganium
 setname: Physical
-tags:[advanced]
 item: [Grass Mail, Big Root]
 ability: [Overgrow]
 moves:
@@ -57,7 +54,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Meganium
 setname: Max Atk
-tags:[advanced]
 item: [Scope Lens, Miracle Seed, Occa Berry]
 ability: [Overgrow, Leaf Guard]
 moves:

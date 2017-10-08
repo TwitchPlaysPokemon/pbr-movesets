@@ -1,6 +1,5 @@
 species: Skiploom
 setname: Physical
-tags:[advanced]
 item: [Green Shard, King's Rock]
 ability: [Chlorophyll, Leaf Guard]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Skiploom
 setname: Special
-tags:[advanced]
 item: [Wise Glasses, Insect Plate, Mind Plate]
 ability: [Chlorophyll]
 moves:

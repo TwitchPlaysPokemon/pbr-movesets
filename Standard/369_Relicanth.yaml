@@ -1,6 +1,5 @@
 species: Relicanth
 setname: Rock Head
-tags:[advanced]
 item: [Power Herb, Silk Scarf]
 ability: [Rock Head]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 84, atk: 0, def: 84, spA: 172, spD: 84, spe: 84}
 ---
 species: Relicanth
 setname: Swift Swim
-tags:[advanced]
 item: [Everstone, Soft Sand, Sharp Beak]
 ability: [Swift Swim]
 moves:
@@ -43,7 +41,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 0, spe: 0}
 ---
 species: Relicanth
 setname: Special
-tags:[advanced]
 item: [Sitrus Berry]
 ability: [Sturdy]
 moves:
@@ -62,7 +59,6 @@ evs: {hp: 76, atk: 0, def: 112, spA: 192, spD: 128, spe: 0}
 ---
 species: Relicanth
 setname: Stall
-tags:[advanced]
 item: [Smooth Rock]
 ability: [Sturdy]
 moves:

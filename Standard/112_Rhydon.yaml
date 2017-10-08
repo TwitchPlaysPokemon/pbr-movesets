@@ -1,6 +1,5 @@
 species: Rhydon
 setname: Physical
-tags:[advanced]
 item: [Choice Scarf]
 ability: [Rock Head, Reckless]
 nature: Timid
@@ -21,7 +20,6 @@ ball: [Quick]
 ---
 species: Rhydon
 setname: Special
-tags:[advanced]
 item: [Null]
 ability: [Rock Head, Reckless, Lightning Rod]
 nature: Modest

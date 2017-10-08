@@ -1,6 +1,5 @@
 species: Skorupi
 setname: Sniper
-tags:[advanced]
 item: [Lansat Berry]
 ability: [Sniper]
 moves:
@@ -23,7 +22,6 @@ evs: {hp: 88, atk: 168, def: 0, spA: 0, spD: 84, spe: 168}
 ---
 species: Skorupi
 setname: Battle Armor
-tags:[advanced]
 item: [Sitrus Berry]
 ability: [Battle Armor]
 moves:
@@ -42,7 +40,6 @@ evs: 84
 ---
 species: Skorupi
 setname: Keen Eye
-tags:[advanced]
 item: [Petaya Berry]
 ability: [Keen Eye]
 moves:

@@ -1,6 +1,5 @@
 species: Sandslash
 setname: Standard
-tags:[advanced]
 item: [Chilan Berry, Watmel Berry, Smooth Rock, Passho Berry]
 ability: [Sand Veil]
 nature: Mild
@@ -21,7 +20,6 @@ ball: [Safari]
 ---
 species: Sandslash
 setname: Earthquake
-tags:[advanced]
 item: [Stable Mulch, Silverpowder, Blackbelt]
 ability: [Sand Veil]
 moves:

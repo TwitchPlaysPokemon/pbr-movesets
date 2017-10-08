@@ -15,7 +15,6 @@ evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
 ---
 species: Shuckle
 setname: Special
-tags:[advanced]
 item: [Petaya Berry]
 ability: [Gluttony]
 moves:
@@ -35,7 +34,6 @@ evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
 ---
 species: Shuckle
 setname: Sweeper
-tags:[advanced]
 item: [Liechi Berry]
 ability: [Gluttony]
 moves:
@@ -52,7 +50,6 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Shuckle
 setname: Mixed
-tags:[advanced]
 item: [Starf Berry]
 ability: [Gluttony]
 moves:

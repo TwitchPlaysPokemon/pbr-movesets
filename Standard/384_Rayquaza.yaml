@@ -1,6 +1,5 @@
 species: Rayquaza
 setname: Standard
-tags:[advanced]
 item: [Silk Scarf]
 ability: [Air Lock]
 nature: Modest
@@ -18,7 +17,6 @@ ball: [Premier]
 ---
 species: Rayquaza
 setname: Overpowered
-tags:[advanced]
 item: [Null]
 ability: [Air Lock]
 nature: Calm

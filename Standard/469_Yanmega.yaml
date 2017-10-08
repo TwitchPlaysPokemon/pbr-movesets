@@ -1,6 +1,5 @@
 species: Yanmega
 setname: Frisk
-tags:[advanced]
 item: [Air Mail, Silverpowder]
 ability: [Frisk]
 moves:
@@ -23,7 +22,6 @@ evs: 0
 ---
 species: Yanmega
 setname: Tinted Lens
-tags:[advanced]
 item: [null]
 ability: [Tinted Lens]
 moves:
@@ -42,7 +40,6 @@ evs: 84
 ---
 species: Yanmega
 setname: Speed Boost
-tags:[advanced]
 item: [Nanab Berry, Focus Sash, Leppa Berry]
 ability: [Speed Boost]
 moves:

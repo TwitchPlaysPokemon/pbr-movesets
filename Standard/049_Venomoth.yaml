@@ -1,6 +1,5 @@
 species: Venomoth
 setname: Shield Dust
-tags:[advanced]
 item: [Aspear Berry, Kelpsy Berry]
 ability: [Shield Dust]
 nature: Modest
@@ -26,7 +25,6 @@ ball: [Great]
 ---
 species: Venomoth
 setname: Tinted Lens
-tags:[advanced]
 item: [null]
 ability: [Tinted Lens]
 nature: Bold
@@ -45,7 +43,6 @@ ball: [Safari]
 ---
 species: Venomoth
 setname: Physical
-tags:[advanced]
 item: [Poison Barb]
 ability: [Tinted Lens]
 nature: Adamant

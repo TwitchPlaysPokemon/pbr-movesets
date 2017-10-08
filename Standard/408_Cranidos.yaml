@@ -1,6 +1,5 @@
 species: Cranidos
 setname: Standard
-tags:[advanced]
 item: [Skull Fossil]
 ability: [Mold Breaker]
 nature: Jolly
@@ -21,7 +20,6 @@ ball: [Heal]
 ---
 species: Cranidos
 setname: Head Smash
-tags:[advanced]
 item: [Skull Fossil]
 ability: [Mold Breaker]
 nature: Jolly

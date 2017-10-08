@@ -1,6 +1,5 @@
 species: Larvitar
 setname: Physical
-tags:[advanced]
 item: [Toxic Orb, White Herb]
 ability: [Guts]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 252, atk: 0, def: 88, spA: 0, spD: 88, spe: 80}
 ---
 species: Larvitar
 setname: Special
-tags:[advanced]
 item: [Smooth Rock]
 ability: [Sand Veil]
 moves:

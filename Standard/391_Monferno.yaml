@@ -1,7 +1,6 @@
 ---
 species: Monferno
 setname: Physical
-tags:[advanced]
 item: [Fist Plate, Salac Berry]
 ability: [Blaze]
 nature: Relaxed
@@ -22,7 +21,6 @@ ball: [Great]
 ---
 species: Monferno
 setname: Special
-tags:[advanced]
 item: [Rose Incense, Spell Tag]
 ability: [Blaze]
 nature: Brave
@@ -44,7 +42,6 @@ ball: [Great]
 ---
 species: Monferno
 setname: Setup
-tags:[advanced]
 item: [Cheri Berry, Chesto Berry]
 ability: [Blaze]
 nature: Hardy
@@ -63,7 +60,6 @@ ball: [Great]
 ---
 species: Monferno 
 setname: SubPunch
-tags:[advanced]
 item: [Ganlon Berry, Apicot Berry, Starf Berry]
 ability: [Iron Fist]
 nature: Careful

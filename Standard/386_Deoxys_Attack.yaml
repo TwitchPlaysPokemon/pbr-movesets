@@ -1,6 +1,5 @@
 species: Deoxys
 setname: Attack Standard
-tags:[advanced]
 item: [Power Herb]
 ability: [Pressure]
 nature: Impish 
@@ -19,7 +18,6 @@ ball: [poke]
 ---
 species: Deoxys
 setname: Attack Overpowered
-tags:[advanced]
 item: [Iron Ball]
 ability: [Pressure]
 nature: Jolly

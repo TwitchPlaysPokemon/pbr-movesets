@@ -1,6 +1,5 @@
 species: Probopass
 setname: Special
-tags:[advanced]
 item: [null]
 ability: [Magnet Pull, Sturdy]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 0, atk: 0, def: 128, spA: 124, spD: 128, spe: 128}
 ---
 species: Probopass
 setname: Physical
-tags:[advanced]
 item: [Tunnel Mail, Stone Plate]
 ability: [Sturdy, Magnet Pull]
 moves:
@@ -41,7 +39,6 @@ evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
 ---
 species: Probopass
 setname: Gravity
-tags:[advanced]
 item: [Chople Berry]
 ability: [Magnet Pull]
 moves:

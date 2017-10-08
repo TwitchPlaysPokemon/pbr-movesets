@@ -1,6 +1,5 @@
 species: Corsola
 setname: Hustle
-tags:[advanced]
 item: [Rindo Berry, Smooth Rock]
 ability: [Hustle]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Corsola
 setname: Natural Cure
-tags:[advanced]
 item: [Rindo Berry]
 ability: [Natural Cure]
 moves:

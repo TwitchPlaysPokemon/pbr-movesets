@@ -1,6 +1,5 @@
 species: Elekid
 setname: Special
-tags:[advanced]
 item: [Flame Orb]
 ability: [Static, Vital Spirit]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 128, atk: 0, def: 36, spA: 128, spD: 128, spe: 88}
 ---
 species: Elekid
 setname: Physical
-tags:[advanced]
 item: [Expert Belt]
 ability: [Static, Vital Spirit]
 moves:

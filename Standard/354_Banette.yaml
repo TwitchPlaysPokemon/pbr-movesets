@@ -1,6 +1,5 @@
 species: Banette
 setname: Physical
-tags:[advanced]
 item: [Null]
 ability: [Insomnia]
 nature: Mild
@@ -19,7 +18,6 @@ ball: [Dusk]
 ---
 species: Banette
 setname: Special
-tags:[advanced]
 item: [Zap Plate, Spooky Plate, Poké Doll]
 ability: [Insomnia]
 nature: Timid
@@ -44,7 +42,6 @@ ball: [Dusk]
 ---
 species: Banette
 setname: High Stats
-tags:[advanced]
 item: [Muscle Band]
 ability: [Insomnia]
 nature: Adamant

@@ -1,6 +1,5 @@
 species: Golbat
 setname: Physical
-tags:[advanced]
 item: [Dread Plate, Wepear Berry, Spooky Plate, Air Mail]
 ability: [Inner Focus]
 nature: Jolly
@@ -22,7 +21,6 @@ ball: [Great]
 ---
 species: Golbat
 setname: Special
-tags:[advanced]
 item: [Poison Barb, Choice Specs]
 ability: [Inner Focus]
 nature: Bashful

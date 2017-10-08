@@ -1,6 +1,5 @@
 species: Darkrai
 setname: Sleep
-tags:[advanced]
 item: [Toxic Orb]
 ability: [Bad Dreams]
 moves:
@@ -18,7 +17,6 @@ evs: {hp: 148, atk: 92, def: 36, spA: 0, spD: 36, spe: 80}
 ---
 species: Darkrai
 setname: Fighter
-tags:[advanced]
 item: [Iron Ball, Dread Plate]
 ability: [Bad Dreams]
 moves:
@@ -42,7 +40,6 @@ evs: {hp: 120, atk: 8, def: 120, spA: 0, spD: 120, spe: 4}
 ---
 species: Darkrai
 setname: Overpowered
-tags:[advanced]
 item: [Macho Brace]
 ability: [Bad Dreams]
 moves:

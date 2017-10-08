@@ -1,6 +1,5 @@
 species: Blastoise
 setname: Cannon
-tags:[advanced]
 item: [Leppa Berry]
 ability: [Torrent]
 nature: Calm
@@ -17,7 +16,6 @@ ball: [Ultra]
 ---
 species: Blastoise
 setname: Physical
-tags:[advanced]
 item: [Iron Ball]
 ability: [Torrent]
 nature: Brave
@@ -38,7 +36,6 @@ ball: [Ultra]
 ---
 species: Blastoise
 setname: Stall
-tags:[advanced]
 item: [Damp Rock]
 ability: [Rain Dish]
 nature: Adamant
@@ -57,7 +54,6 @@ ball: [Ultra]
 ---
 species: Blastoise
 setname: Mega
-tags:[advanced]
 item: [Everstone]
 ability: [Torrent]
 nature: Modest

@@ -1,6 +1,5 @@
 species: Zubat
 setname: Physical
-tags:[advanced]
 item: [Muscle Band, Focus Sash, Dread Plate]
 ability: [Inner Focus]
 nature: Jolly
@@ -25,7 +24,6 @@ ball: [Repeat]
 ---
 species: Zubat
 setname: Special
-tags:[advanced]
 item: [Focus Sash]
 ability: [Inner Focus]
 nature: Modest

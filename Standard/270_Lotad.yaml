@@ -1,6 +1,5 @@
 species: Lotad
 setname: Special
-tags:[advanced]
 item: [Lum Berry, Zoom Lens, Miracle Seed]
 ability: [Swift Swim]
 moves:
@@ -22,7 +21,6 @@ evs: {hp: 88, atk: 0, def: 84, spA: 168, spD: 54, spe: 114}
 ---
 species: Lotad
 setname: Physical
-tags:[advanced]
 item: [Sitrus Berry, Liechi Berry]
 ability: [Swift Swim]
 moves:

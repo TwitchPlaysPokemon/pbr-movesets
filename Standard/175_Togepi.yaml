@@ -1,6 +1,5 @@
 species: Togepi
 setname: Serene Grace
-tags:[advanced]
 item: [Choice Specs]
 ability: [Serene Grace]
 moves:
@@ -16,7 +15,6 @@ evs: {hp: 240, atk: 0, def: 56, spA: 156, spD: 56, spe: 0}
 ---
 species: Togepi
 setname: Hustle
-tags:[advanced]
 item: [Zoom Lens]
 ability: [Hustle]
 moves:

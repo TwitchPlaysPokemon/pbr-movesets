@@ -1,6 +1,5 @@
 species: Wormadam
 setname: Sandy Special
-tags:[advanced]
 item: [Bloom Mail, Twistedspoon, Damp Rock, Smooth Rock]
 ability: [Anticipation]
 moves:
@@ -24,7 +23,6 @@ evs: {hp: 84, atk: 0, def: 84, spA: 88, spD: 84, spe: 168}
 ---
 species: Wormadam
 setname: Sandy Physical
-tags:[advanced]
 item: [Insect Plate, Belue Berry]
 ability: [Anticipation]
 moves:

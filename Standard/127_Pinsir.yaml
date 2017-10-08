@@ -1,6 +1,5 @@
 species: Pinsir
 setname: Bug Bite
-tags:[advanced]
 item: [Aspear Berry, Black Glasses, Damp Rock, Salac Berry, Power Herb]
 ability: [Hyper Cutter, Mold Breaker]
 nature: Mild
@@ -31,7 +30,6 @@ ball: [Net]
 ---
 species: Pinsir
 setname: X-Scissor
-tags:[advanced]
 item: [null]
 ability: [Hyper Cutter, Mold Breaker]
 nature: Calm
@@ -52,7 +50,6 @@ ball: [Safari]
 ---
 species: Pinsir
 setname: Mixed
-tags:[advanced]
 item: [Silverpowder, Metronome, King's Rock]
 ability: [Mold Breaker, Hyper Cutter]
 nature: Lonely
@@ -83,7 +80,6 @@ ball: [Repeat]
 ---
 species: Pinsir
 setname: Mega
-tags:[advanced]
 item: [Sky Plate]
 ability: [Technician]
 nature: Calm

@@ -1,6 +1,5 @@
 species: Combee
 setname: Physical
-tags:[advanced]
 item: [Leftovers]
 ability: [Hustle]
 nature: Timid
@@ -19,7 +18,6 @@ ball: [Heal]
 ---
 species: Combee 
 setname: Special
-tags:[advanced]
 item: [Choice Specs]
 ability: [Honey Gather]
 nature: Timid

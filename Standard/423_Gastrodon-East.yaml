@@ -1,6 +1,5 @@
 species: Gastrodon
 setname: East Special
-tags:[advanced]
 item: [Silk Scarf, Hard Stone, Poison Barb]
 ability: [Storm Drain]
 moves:
@@ -24,7 +23,6 @@ evs: {hp: 60, atk: 0, def: 80, spA: 128, spD: 80, spe: 160}
 ---
 species: Gastrodon
 setname: East Physical
-tags:[advanced]
 item: [Oran Berry, Micle Berry]
 ability: [Storm Drain]
 moves:

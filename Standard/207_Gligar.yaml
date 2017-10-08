@@ -1,6 +1,5 @@
 species: Gligar
 setname: Physical
-tags:[advanced]
 item: [Sky Plate]
 ability: [Hyper Cutter]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
 ---
 species: Gligar
 setname: Special
-tags:[advanced]
 item: [Brightpowder, Smooth Rock]
 ability: [Sand Veil]
 moves:
@@ -40,7 +38,6 @@ evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 128, spe: 0}
 ---
 species: Gligar
 setname: Stall
-tags:[advanced]
 item: [Silk Scarf, Hard Stone, Wide Lens]
 ability: [Hyper Cutter, Immunity]
 moves:

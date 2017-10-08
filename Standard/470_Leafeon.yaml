@@ -1,6 +1,5 @@
 species: Leafeon
 setname: Physical
-tags:[advanced]
 item: [null, Meadow Plate]
 ability: [Leaf Guard]
 moves:
@@ -22,7 +21,6 @@ evs: {hp: 84, atk: 88, def: 0, spA: 124, spD: 84, spe: 128}
 ---
 species: Leafeon
 setname: Special
-tags:[advanced]
 item: [null, Meadow Plate]
 ability: [Chlorophyll]
 moves:
@@ -43,7 +41,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 0}
 ---
 species: Leafeon
 setname: Mixed
-tags:[advanced]
 item: [Hondew Berry]
 ability: [Leaf Guard, Chlorophyll]
 moves:

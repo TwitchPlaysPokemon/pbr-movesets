@@ -1,6 +1,5 @@
 species: Paras
 setname: Physical
-tags:[advanced]
 item: [Yache Berry, Focus Sash, Quick Claw, Sitrus Berry, Kebia Berry, Tanga Berry, Charti Berry]
 ability: [Dry Skin]
 nature: Adamant
@@ -19,7 +18,6 @@ ball: [Net]
 ---
 species: Paras
 setname: Special
-tags:[advanced]
 item: [Focus Sash]
 ability: [Dry Skin]
 nature: Modest

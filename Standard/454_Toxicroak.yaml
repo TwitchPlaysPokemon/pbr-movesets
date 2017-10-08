@@ -1,6 +1,5 @@
 species: Toxicroak
 setname: Special
-tags:[advanced]
 item: [Payapa Berry]
 ability: [Anticipation]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
 ---
 species: Toxicroak
 setname: Substitute
-tags:[advanced]
 item: [Shuca Berry, Coba Berry]
 ability: [Dry Skin]
 moves:
@@ -38,7 +36,6 @@ evs: 84
 ---
 species: Toxicroak
 setname: Rain
-tags:[advanced]
 item: [Damp Rock]
 ability: [Dry Skin]
 moves:
@@ -57,7 +54,6 @@ evs: {hp: 116, atk: 0, def: 100, spA: 100, spD: 96, spe: 96}
 ---
 species: Toxicroak
 setname: High Stats
-tags:[advanced]
 item: [null, Icicle Plate, Dread Plate]
 ability: [Dry Skin]
 moves:

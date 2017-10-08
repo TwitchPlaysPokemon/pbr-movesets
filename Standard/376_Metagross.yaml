@@ -1,6 +1,5 @@
 species: Metagross
 setname: Standard
-tags:[advanced]
 item: [Iron Ball]
 ability: [Clear Body]
 moves:
@@ -21,7 +20,6 @@ evs: 0
 ---
 species: Metagross
 setname: High Stats
-tags:[advanced]
 item: [null]
 ability: [Clear Body]
 moves:

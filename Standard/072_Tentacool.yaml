@@ -1,6 +1,5 @@
 species: Tentacool
 setname: Special
-tags:[advanced]
 item: [Dive Ball, Scope Lens, Rose Incense, Chesto Berry]
 ability: [Clear Body, Liquid Ooze, Rain Dish]
 moves:
@@ -24,7 +23,6 @@ evs: {hp: 100, atk: 0, def: 52, spA: 200, spD: 52, spe: 104}
 ---
 species: Tentacool
 setname: Physical
-tags:[advanced]
 item: [Salac Berry, Payapa Berry, Sitrus Berry]
 ability: [Clear Body]
 moves:

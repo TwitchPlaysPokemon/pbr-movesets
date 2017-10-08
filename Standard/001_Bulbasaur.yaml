@@ -1,6 +1,5 @@
 species: Bulbasaur
 setname: Special
-tags:[advanced]
 item: [Miracle Seed, Chesto Berry, Persim Berry]
 ability: [Overgrow]
 nature: Timid
@@ -21,7 +20,6 @@ gender: [m, f]
 ---
 species: Bulbasaur
 setname: Physical 
-tags:[advanced]
 item: [Salac Berry, Power Herb]
 ability: [Overgrow]
 nature: Adamant

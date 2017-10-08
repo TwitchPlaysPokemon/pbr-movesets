@@ -1,6 +1,5 @@
 species: Arceus
 setname: Fire Balanced
-tags:[advanced]
 item: [Flame Plate]
 ability: [Multitype]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 32, spD: 32, spe: 64}
 ---
 species: Arceus
 setname: Fire Judgment
-tags:[advanced]
 item: [Flame Plate]
 ability: [Multitype]
 moves:

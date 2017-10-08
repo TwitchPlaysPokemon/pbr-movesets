@@ -1,6 +1,5 @@
 species: Porygon2
 setname: Trace
-tags:[advanced]
 item: [null]
 ability: [Trace]
 moves:
@@ -18,7 +17,6 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Porygon2
 setname: Download
-tags:[advanced]
 item: [Spooky Plate, Mind Plate]
 ability: [Download]
 moves:

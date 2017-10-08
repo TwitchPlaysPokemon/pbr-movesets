@@ -1,6 +1,5 @@
 species: Pikachu
 setname: Mixed
-tags:[advanced]
 item: [Light Ball]
 ability: [Static]
 nature: Bold
@@ -19,7 +18,6 @@ ball: [Cherish]
 ---
 species: Pikachu
 setname: Max Atk
-tags:[advanced]
 item: [Light Ball]
 ability: [Static]
 nature: Brave
@@ -38,7 +36,6 @@ ball: [Quick]
 ---
 species: Pikachu
 setname: Max Sp. Atk
-tags:[advanced]
 item: [Light Ball]
 ability: [Lightningrod]
 nature: Modest
@@ -57,7 +54,6 @@ ball: [Safari]
 ---
 species: Pikachu
 setname: Yellow
-tags:[advanced]
 item: [Light Ball]
 ability: [Lightningrod]
 nature: Docile

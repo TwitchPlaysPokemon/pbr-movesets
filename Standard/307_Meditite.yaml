@@ -1,6 +1,5 @@
 species: Meditite
 setname: Standard
-tags:[advanced]
 item: [Custap Berry]
 ability: [Pure Power]
 moves:
@@ -21,7 +20,6 @@ evs: {hp: 252, atk: 72, def: 60, spA: 0, spD: 124, spe: 0}
 ---
 species: Meditite
 setname: Accupressure
-tags:[advanced]
 item: [Leftovers]
 ability: [Pure Power]
 moves:

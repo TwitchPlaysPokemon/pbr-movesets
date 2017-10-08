@@ -1,6 +1,5 @@
 species: Kakuna
 setname: Physical
-tags:[advanced]
 item: [Razor Claw]
 ability: [Sniper]
 nature: Impish
@@ -18,7 +17,6 @@ ball: [Net]
 ---
 species: Kakuna
 setname: Special
-tags:[advanced]
 item: [Leftovers]
 ability: [Serene Grace]
 nature: Bold

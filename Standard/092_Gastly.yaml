@@ -1,6 +1,5 @@
 species: Gastly
 setname: Special
-tags:[advanced]
 item: [Wise Glasses]
 ability: [Levitate]
 nature: Timid
@@ -19,7 +18,6 @@ ball: [Dusk]
 ---
 species: Gastly
 setname: Physical
-tags:[advanced]
 item: [Focus Sash]
 ability: [Levitate]
 nature: Adamant

@@ -1,6 +1,5 @@
 species: Butterfree
 setname: Special
-tags:[advanced]
 item: [Sitrus Berry, Mosaic Mail, Charti Berry]
 ability: [Compound Eyes, Tinted Lens]
 nature: Bold
@@ -28,7 +27,6 @@ ball: [Net]
 ---
 species: Butterfree
 setname: Physical
-tags:[advanced]
 item: [Sky Plate, Insect Plate, Charti Berry]
 ability: [Tinted Lens]
 nature: Adamant
@@ -53,7 +51,6 @@ ball: [Net]
 ---
 species: Butterfree
 setname: Max Stats
-tags:[advanced]
 item: [Sharp Beak, Scope Lens]
 ability: [Tinted Lens]
 moves:

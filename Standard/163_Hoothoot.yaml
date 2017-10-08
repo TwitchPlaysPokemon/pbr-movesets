@@ -1,6 +1,5 @@
 species: Hoothoot
 setname: Special
-tags:[advanced]
 item: [Wacan Berry, Yache Berry, Charti Berry, Sitrus Berry]
 ability: [Tinted Lens]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Hoothoot
 setname: Physical
-tags:[advanced]
 item: [Power Herb, Mind Plate, Iron Plate]
 ability: [Tinted Lens]
 moves:

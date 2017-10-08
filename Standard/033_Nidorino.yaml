@@ -1,6 +1,5 @@
 species: Nidorino
 setname: Physical
-tags:[advanced]
 item: [Cheri Berry, Rawst Berry, Silk Scarf]
 ability: [Hustle]
 nature: Jolly
@@ -21,7 +20,6 @@ ball: [Safari]
 ---
 species: Nidorino
 setname: Special
-tags:[advanced]
 item: [Payapa Berry, Shuca Berry, Petaya Berry, Focus Sash]
 ability: [Poison Point, Rivalry]
 nature: Naive

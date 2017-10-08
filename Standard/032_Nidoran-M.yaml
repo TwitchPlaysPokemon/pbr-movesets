@@ -1,6 +1,5 @@
 species: Nidoran♂
 setname: Physical
-tags:[advanced]
 item: [BrightPowder]
 ability: [Hustle]
 nature: Jolly
@@ -19,7 +18,6 @@ ball: [Safari]
 ---
 species: Nidoran♂
 setname: Special
-tags:[advanced]
 item: [Magnet, NeverMeltIce]
 ability: [Poison Point, Rivalry]
 nature: Modest

@@ -1,6 +1,5 @@
 species: Dusclops
 setname: Physical
-tags:[advanced]
 item: [Dusk Stone]
 ability: [Pressure, Frisk]
 nature: Quirky
@@ -22,7 +21,6 @@ ball: [Dusk]
 ---
 species: Dusclops
 setname: Special
-tags:[advanced]
 item: [Zap Plate, Spooky Plate, Dread Plate]
 ability: [Frisk, Pressure]
 nature: Rash

@@ -1,6 +1,5 @@
 species: Bronzong
 setname: Standard
-tags:[advanced]
 item: [Power Lens]
 ability: [Heatproof]
 moves:
@@ -18,7 +17,6 @@ evs: {hp: 0, atk: 0, def: 104, spA: 200, spD: 104, spe: 100}
 ---
 species: Bronzong
 setname: Physical
-tags:[advanced]
 item: [null]
 ability: [Heatproof, Levitate]
 moves:
@@ -36,7 +34,6 @@ evs: {hp: 80, atk: 16, def: 80, spA: 0, spD: 80, spe: 252}
 ---
 species: Bronzong
 setname: Special
-tags:[advanced]
 item: [Macho Brace, Stone Plate, Insect Plate, Smooth Rock]
 ability: [Heatproof, Levitate]
 moves:

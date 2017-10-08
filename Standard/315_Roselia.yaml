@@ -1,6 +1,5 @@
 species: Roselia
 setname: Special
-tags:[advanced]
 item: [Shed Shell]
 ability: [Natural Cure]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 248, atk: 0, def: 184, spA: 0, spD: 76, spe: 0}
 ---
 species: Roselia
 setname: Physical
-tags:[advanced]
 item: [Occa Berry, Razor Claw]
 ability: [Natural Cure]
 moves:
@@ -42,7 +40,6 @@ evs: {hp: 128, atk: 128, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Roselia
 setname: Poison Point
-tags:[advanced]
 item: [Rowap Berry]
 ability: [Poison Point]
 moves:

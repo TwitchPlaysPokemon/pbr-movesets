@@ -1,6 +1,5 @@
 species: Gengar
 setname: Standard
-tags:[advanced]
 item: [Toxic Plate]
 ability: [Levitate]
 nature: Bashful
@@ -19,7 +18,6 @@ ball: [Repeat]
 ---
 species: Gengar
 setname: Special
-tags:[advanced]
 item: [Null]
 ability: [Levitate]
 nature: Impish
@@ -38,7 +36,6 @@ ball: [Dusk]
 ---
 species: Gengar
 setname: Pokkén
-tags:[advanced]
 item: [Muscle Band]
 ability: [Levitate]
 nature: Brave
@@ -57,7 +54,6 @@ ball: [Ultra]
 ---
 species: Gengar
 setname: Mega
-tags:[advanced]
 item: [Everstone]
 ability: [Shadow Tag]
 nature: Naughty

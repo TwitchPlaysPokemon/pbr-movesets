@@ -1,6 +1,5 @@
 species: Vulpix
 setname: Special
-tags:[advanced]
 item: [Cheri Berry]
 ability: [Drought]
 nature: Timid
@@ -19,7 +18,6 @@ ball: [Heal]
 ---
 species: Vulpix
 setname: Physical
-tags:[advanced]
 item: [Metal Coat]
 ability: [Drought]
 nature: Adamant

@@ -1,6 +1,5 @@
 species: Ambipom
 setname: Physical
-tags:[advanced]
 item: [Wide Lens, Muscle Band]
 ability: [Pick Up, Skill Link]
 nature: Quiet
@@ -30,7 +29,6 @@ ball: [Nest]
 ---
 species: Ambipom
 setname: Special
-tags:[advanced]
 item: [Silk Scarf]
 ability: [Technician]
 nature: Quiet
@@ -54,7 +52,6 @@ ball: [Premier]
 ---
 species: Ambipom
 setname: Max Atk
-tags:[advanced]
 item: [Null, Dread Plate]
 ability: [Technician]
 nature: Hardy
@@ -75,7 +72,6 @@ ball: [Dusk]
 ---
 species: Ambipom
 setname: Snore
-tags:[advanced]
 item: [Persim Berry]
 ability: [Technician]
 nature: Modest

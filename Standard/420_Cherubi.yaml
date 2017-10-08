@@ -1,6 +1,5 @@
 species: Cherubi
 setname: Special
-tags:[advanced]
 item: [Tanga Berry, Yache Berry, Coba Berry, Kebia Berry, Petaya Berry]
 ability: [Chlorophyll]
 nature: Modest
@@ -21,7 +20,6 @@ ball: [Cherish]
 ---
 species: Cherubi
 setname: Physical
-tags:[advanced]
 item: [Wide Lens]
 ability: [Chlorophyll]
 nature: Jolly

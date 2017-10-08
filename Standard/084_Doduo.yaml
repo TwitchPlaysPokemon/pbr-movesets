@@ -1,6 +1,5 @@
 species: Doduo
 setname: Flying
-tags:[advanced]
 item: [King's Rock]
 ability: [Early Bird, Tangled Feet]
 nature: Jolly
@@ -19,7 +18,6 @@ ball: [Dive]
 ---
 species: Doduo
 setname: Grounded
-tags:[advanced]
 item: [Cheri Berry, Sharp Beak]
 ability: [Early Bird, Tangled Feet]
 nature: Jolly
@@ -41,7 +39,6 @@ ball: [Safari]
 ---
 species: Doduo
 setname: Mixed
-tags:[advanced]
 item: [Focus Sash]
 ability: [Early Bird]
 nature: Timid

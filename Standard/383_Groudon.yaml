@@ -1,6 +1,5 @@
 species: Groudon
 setname: Standard
-tags:[advanced]
 item: [Flame Mail, Bluk Berry, Heat Rock, Metronome]
 ability: [Drought]
 nature: Mild
@@ -22,7 +21,6 @@ ball: [Cherish]
 ---
 species: Groudon 
 setname: Overpowered
-tags:[advanced]
 item: [Macho Brace]
 ability: [Drought]
 nature: Modest

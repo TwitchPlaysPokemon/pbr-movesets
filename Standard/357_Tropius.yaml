@@ -1,6 +1,5 @@
 species: Tropius
 setname: Solar Power
-tags:[advanced]
 item: [Heat Rock]
 ability: [Solar Power]
 moves:
@@ -19,7 +18,6 @@ evs: 84
 ---
 species: Tropius
 setname: Chlorophyll
-tags:[advanced]
 item: [null, Sky Plate]
 ability: [Chlorophyll]
 moves:
@@ -40,7 +38,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Tropius
 setname: Physical
-tags:[advanced]
 item: [null]
 ability: [Chlorophyll]
 moves:

@@ -1,6 +1,5 @@
 species: Glalie
 setname: Standard
-tags:[advanced]
 item: [Icy Rock, Occa Berry]
 ability: [Ice Body, Inner Focus]
 moves:
@@ -31,7 +30,6 @@ evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Glalie
 setname: Mega
-tags:[advanced]
 item: [Icicle Plate]
 ability: [Inner Focus]
 moves:
@@ -50,7 +48,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Glalie
 setname: Toxic Orb
-tags:[advanced]
 item: [Toxic Orb]
 ability: [Inner Focus]
 moves:

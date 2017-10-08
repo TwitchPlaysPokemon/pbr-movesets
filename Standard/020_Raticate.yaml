@@ -1,6 +1,5 @@
 species: Raticate
 setname: Standard
-tags:[advanced]
 item: [Chople Berry, Charcoal]
 ability: [Guts]
 nature: Adamant
@@ -21,7 +20,6 @@ ball: [Ultra]
 ---
 species: Raticate
 setname: Orb
-tags:[advanced]
 item: [Flame Orb, Toxic Orb]
 ability: [Guts]
 nature: Adamant
@@ -40,7 +38,6 @@ ball: [Quick]
 ---
 species: Raticate
 setname: Special
-tags:[advanced]
 item: [Cheri Berry, Silk Scarf, Mystic Water, Petaya Berry]
 ability: [Run Away]
 nature: Modest

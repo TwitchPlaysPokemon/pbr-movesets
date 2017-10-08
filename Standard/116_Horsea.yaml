@@ -1,6 +1,5 @@
 species: Horsea
 setname: Special
-tags:[advanced]
 item: [Lum Berry, Silverpowder]
 ability: [Swift Swim]
 nature: Modest
@@ -21,7 +20,6 @@ ball: [Quick]
 ---
 species: Horsea
 setname: Physical
-tags:[advanced]
 item: [Focus Sash]
 ability: [Sniper]
 nature: Adamant

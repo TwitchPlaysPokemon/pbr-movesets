@@ -1,6 +1,5 @@
 species: Kecleon
 setname: Standard
-tags:[advanced]
 item: [Expert Belt]
 ability: [Color Change]
 moves:
@@ -19,7 +18,6 @@ evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
 ---
 species: Kecleon
 setname: Physical
-tags:[advanced]
 item: [Choice Scarf]
 ability: [Color Change]
 moves:
@@ -38,7 +36,6 @@ evs: {hp: 64, atk: 100, def: 100, spA: 0, spD: 80, spe: 164}
 ---
 species: Kecleon
 setname: Special
-tags:[advanced]
 item: [Soft Sand]
 ability: [Color Change]
 moves:

@@ -1,6 +1,5 @@
 species: Spinarak
 setname: Swarm
-tags:[advanced]
 item: [Liechi Berry]
 ability: [Swarm]
 moves:
@@ -17,7 +16,6 @@ evs: {hp: 252, atk: 64, def: 92, spA: 0, spD: 92, spe: 0}
 ---
 species: Spinarak
 setname: Sniper
-tags:[advanced]
 item: [Lansat Berry]
 ability: [Sniper]
 moves:
@@ -36,7 +34,6 @@ evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
 ---
 species: Spinarak
 setname: Insomnia
-tags:[advanced]
 item: [Choice Specs]
 ability: [Insomnia]
 moves:

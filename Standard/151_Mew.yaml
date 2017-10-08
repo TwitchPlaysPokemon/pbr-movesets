@@ -1,6 +1,5 @@
 species: Mew
 setname: Physical
-tags:[advanced]
 item: [null]
 ability: [Synchronize]
 moves:
@@ -18,7 +17,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Mew
 setname: Special
-tags:[advanced]
 item: [null]
 ability: [Synchronize]
 moves:
@@ -36,7 +34,6 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Mew
 setname: Weather
-tags:[advanced]
 item: [Heat Rock, Damp Rock, Icy Rock]
 ability: [Synchronize]
 moves:
@@ -61,7 +58,6 @@ evs: 0
 ---
 species: Mew
 setname: Baton Pass
-tags:[advanced]
 item: [null]
 ability: [Synchronize]
 moves:

@@ -1,6 +1,5 @@
 species: Arbok
 setname: Fang
-tags:[advanced]
 item: [Expert Belt]
 ability: [Shed Skin]
 nature: Adamant
@@ -19,7 +18,6 @@ ball: [Safari]
 ---
 species: Arbok
 setname: Mixed
-tags:[advanced]
 item: [Tunnel Mail, Poison Barb, null]
 ability: [Intimidate, Shed Skin]
 nature: Quiet
@@ -41,7 +39,6 @@ ball: [Dusk]
 ---
 species: Arbok
 setname: Rest
-tags:[advanced]
 item: [Flame Orb]
 ability: [Shed Skin]
 nature: Brave

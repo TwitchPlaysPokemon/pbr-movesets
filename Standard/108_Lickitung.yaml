@@ -1,6 +1,5 @@
 species: Lickitung
 setname: Standard
-tags:[advanced]
 item: [Null, Spooky Plate]
 ability: [Cloud Nine]
 nature: Brave
@@ -21,7 +20,6 @@ ball: [Safari]
 ---
 species: Lickitung
 setname: Physical
-tags:[advanced]
 item: [Null]
 ability: [Cloud Nine, Own Tempo]
 nature: Adamant
@@ -44,7 +42,6 @@ ball: [Great]
 ---
 species: Lickitung
 setname: Special
-tags:[advanced]
 item: [Null]
 ability: [Oblivious, Own Tempo]
 nature: Modest
