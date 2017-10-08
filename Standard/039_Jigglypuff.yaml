@@ -30,6 +30,6 @@ happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Repeat]
-nature: Sassy
-evs: {hp: 244, atk: 0, def: 172, spA: 0, spD: 92, spe: 0}
+nature: Bold
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
 ivs: 31
