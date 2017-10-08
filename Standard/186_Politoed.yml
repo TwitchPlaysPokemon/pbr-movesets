@@ -1,0 +1,53 @@
+species: Politoed
+setname: Special
+item: [Null]
+ability: [Damp]
+moves:
+    - [Surf]
+    - [Focus Blast]
+    - [Ice Beam]
+    - [Captivate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Net]
+nature: Naughty
+ivs: 0
+evs: {hp: 100, atk: 8, def: 100, spA: 100, spD: 100, spe: 100}
+---
+species: Politoed
+setname: Physical
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Waterfall]
+    - [Earthquake]
+    - [Hypnosis]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Adamant
+ivs: 0
+evs: {hp: 100, atk: 108, def: 100, spA: 16, spD: 100, spe: 20}
+---
+species: Politoed
+setname: Trapper
+item: [Grip Claw]
+ability: [Drizzle]
+moves:
+    - [Whirlpool]
+    - [Mud Shot]
+    - [Perish Song]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 40, spA: 216, spD: 0, spe: 0}
