@@ -53,7 +53,7 @@ evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
 ivs: {hp: 31, atk: 28, def: 28, spA: 28, spD: 31, spe: 28}
 ---
 species: Pikachu
-setname: Hax
+setname: Evasion
 item: [Light Ball]
 ability: [Lightningrod]
 moves:
