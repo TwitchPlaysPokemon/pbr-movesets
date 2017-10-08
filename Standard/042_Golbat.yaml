@@ -1,6 +1,6 @@
 species: Golbat
 setname: Physical
-item: [Dread Plate]
+item: [Null]
 ability: [Inner Focus]
 moves:
     - [Wing Attack]
@@ -18,7 +18,7 @@ ivs: 20
 ---
 species: Golbat
 setname: Special
-item: [Poison Barb]
+item: [Null]
 ability: [Inner Focus]
 moves:
     - [Sludge]
