@@ -1,5 +1,5 @@
 species: Charmander
-setname: physical
+setname: Physical
 item: [Dragon Fang]
 ability: [Blaze]
 moves:
@@ -32,4 +32,4 @@ rarity: 0.5
 ball: [Poké]
 nature: Modest
 evs: {hp: 76, atk: 0, def: 0, spA: 180, spD: 0, spe: 252}
-ivs: 0
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
