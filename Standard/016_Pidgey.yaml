@@ -31,5 +31,5 @@ biddable: True
 rarity: 0.5
 ball: [Nest]
 nature: Modest
-evs: {hp: 12, atk: 0, def: 80, spA: 248, spD: 80, spe: 88}
-ivs: 31
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
