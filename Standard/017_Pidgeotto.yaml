@@ -10,7 +10,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.66
+rarity: 0.8
 ball: [Great]
 nature: Jolly
 evs: {hp: 54, atk: 168, def: 58, spA: 0, spD: 58, spe: 172}
@@ -28,7 +28,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.34
+rarity: 0.2
 ball: [Heal]
 nature: Modest
 evs: {hp: 12, atk: 0, def: 80, spA: 248, spD: 80, spe: 88}
