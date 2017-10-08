@@ -1,6 +1,6 @@
 species: Squirtle
 setname: Special
-item: [Blackbelt]
+item: [Null]
 ability: [Torrent]
 moves:
     - [Hydro Pump]
@@ -18,7 +18,7 @@ ivs: 31
 ---
 species: Squirtle
 setname: Physical
-item: [Muscle Band]
+item: [Null]
 ability: [Rain Dish]
 moves:
     - [Waterfall]
