@@ -31,5 +31,5 @@ biddable: True
 rarity: 0.66
 ball: [Heal]
 nature: Modest
-evs: {hp: 88, atk: 0, def: 88, spA: 252, spD: 84, spe: 0}
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ivs: 20
