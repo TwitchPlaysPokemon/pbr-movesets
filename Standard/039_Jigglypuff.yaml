@@ -1,5 +1,6 @@
 species: Jigglypuff
 setname: Gravity
+tags:[advanced]
 item: [Sitrus Berry]
 ability: [Cute Charm]
 nature: Sassy
@@ -18,6 +19,7 @@ ball: [Timer]
 ---
 species: Jigglypuff
 setname: Screens
+tags:[advanced]
 item: [Light Clay]
 ability: [Cute Charm]
 nature: Bold

@@ -1,5 +1,6 @@
 species: Gyarados
 setname: Physical
+tags:[advanced]
 item: [Black Sludge]
 ability: [Intimidate]
 moves:
@@ -16,6 +17,7 @@ evs: {hp: 252, atk: 128, def: 0, spA: 0, spD: 0, spe: 128}
 ---
 species: Gyarados
 setname: Special
+tags:[advanced]
 item: [Sky Plate, Dragon Fang]
 ability: [Intimidate]
 moves:

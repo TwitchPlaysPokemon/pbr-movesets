@@ -1,5 +1,6 @@
 species: Salamence
 setname: Physical
+tags:[advanced]
 item: [null]
 ability: [Intimidate]
 moves:
@@ -18,6 +19,7 @@ evs: 0
 ---
 species: Salamence
 setname: Special
+tags:[advanced]
 item: [Scope Lens, Draco Plate]
 ability: [Intimidate]
 moves:
@@ -40,6 +42,7 @@ evs: {hp: 0, atk: 28, def: 8, spA: 12, spD: 12, spe: 8}
 ---
 species: Salamence
 setname: High Atk
+tags:[advanced]
 item: [Lansat Berry, Grepa Berry, Black Sludge, Toxic Orb]
 ability: [Intimidate]
 moves:

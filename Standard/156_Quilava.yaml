@@ -1,5 +1,6 @@
 species: Quilava
 setname: Special
+tags:[advanced]
 item: [Wise Glasses, Wide Lens, Charcoal]
 ability: [Blaze]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 108, spe: 100}
 ---
 species: Quilava
 setname: Physical
+tags:[advanced]
 item: [Fluffy Tail, Flame Plate, Stone Plate]
 ability: [Blaze, Flash Fire]
 moves:

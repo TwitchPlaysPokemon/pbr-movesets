@@ -1,5 +1,6 @@
 species: Xatu
 setname: Special
+tags:[advanced]
 item: [Spell Tag, Sharp Beak, SilverPowder, Mystic Water, Null]
 ability: [Early Bird, Synchronize]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Xatu
 setname: Trick Room
+tags:[advanced]
 item: [Iron Ball]
 ability: [Early Bird]
 moves:

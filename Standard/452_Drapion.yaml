@@ -1,5 +1,6 @@
 species: Drapion
 setname: Physical
+tags:[advanced]
 item: [Antidote]
 ability: [Keen Eye]
 moves:
@@ -26,6 +27,7 @@ evs: 20
 ---
 species: Drapion
 setname: Special
+tags:[advanced]
 item: [Petaya Berry]
 ability: [Battle Armor]
 moves:
@@ -44,6 +46,7 @@ evs: {hp: 124, atk: 0, def: 64, spA: 128, spD: 128, spe: 64}
 ---
 species: Drapion
 setname: Thief
+tags:[advanced]
 item: [null]
 ability: [Battle Armor]
 moves:
@@ -62,6 +65,7 @@ evs: {hp: 152, atk: 212, def: 72, spA: 0, spD: 72, spe: 0}
 ---
 species: Drapion
 setname: Sniper
+tags:[advanced]
 item: [Razor Claw]
 ability: [Sniper]
 moves:

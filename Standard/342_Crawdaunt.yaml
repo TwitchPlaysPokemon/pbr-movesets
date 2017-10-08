@@ -1,5 +1,6 @@
 species: Crawdaunt
 setname: Standard
+tags:[advanced]
 item: [Wise Glasses]
 ability: [Shell Armor, Hyper Cutter]
 moves:
@@ -19,6 +20,7 @@ evs: 84
 ---
 species: Crawdaunt
 setname: Special
+tags:[advanced]
 item: [Null, Icicle Plate]
 ability: [Adaptability]
 moves:
@@ -40,6 +42,7 @@ evs: {hp: 80, atk: 100, def: 60, spA: 24, spD: 80, spe: 40}
 ---
 species: Crawdaunt
 setname: Physical
+tags:[advanced]
 item: [Black Glasses, Durin Berry]
 ability: [Adaptability]
 moves:

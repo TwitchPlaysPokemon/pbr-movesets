@@ -1,5 +1,6 @@
 species: Purugly
 setname: Physical
+tags:[advanced]
 item: [Mosaic Mail, Silk Scarf]
 ability: [Own Tempo, Thick Fat]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Purugly
 setname: Special
+tags:[advanced]
 item: [Chople Berry, Chilan Berry, Wise Glasses]
 ability: [Own Tempo, Thick Fat]
 moves:
@@ -43,6 +45,7 @@ evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
 ---
 species: Purugly
 setname: Assist
+tags:[advanced]
 item: [Expert Belt]
 ability: [Own Tempo, Thick Fat]
 moves:

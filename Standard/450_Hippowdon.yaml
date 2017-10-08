@@ -1,5 +1,6 @@
 species: Hippowdon
 setname: Physical
+tags:[advanced]
 item: [null]
 ability: [Sand Stream]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 40, spA: 0, spD: 40, spe: 40}
 ---
 species: Hippowdon
 setname: Special
+tags:[advanced]
 item: [Life Orb]
 ability: [Sand Stream]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 128, spe: 252}
 ---
 species: Hippowdon
 setname: Stall
+tags:[advanced]
 item: [Grip Claw]
 ability: [Sand Stream]
 moves:

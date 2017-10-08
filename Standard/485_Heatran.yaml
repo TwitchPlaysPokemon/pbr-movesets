@@ -1,5 +1,6 @@
 species: Heatran
 setname: Special
+tags:[advanced]
 item: [Black Sludge, Hondew Berry]
 ability: [Flash Fire]
 moves:
@@ -23,6 +24,7 @@ evs: {hp: 0, atk: 192, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Heatran
 setname: Physical
+tags:[advanced]
 item: [Lava Cookie, Belue Berry]
 ability: [Flash Fire]
 moves:

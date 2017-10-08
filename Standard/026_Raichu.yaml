@@ -1,5 +1,6 @@
 species: Raichu
 setname: Physical
+tags:[advanced]
 item: [Magnet, Cornn Berry]
 ability: [Static]
 nature: Impish
@@ -22,6 +23,7 @@ ball: [Ultra]
 ---
 species: Raichu
 setname: Special
+tags:[advanced]
 item: [Berry Juice, Cheri Berry, Shuca Berry, Silverpowder, Poison Barb]
 ability: [Lightningrod]
 nature: Bold

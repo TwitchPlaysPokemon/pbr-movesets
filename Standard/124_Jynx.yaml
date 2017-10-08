@@ -1,5 +1,6 @@
 species: Jynx
 setname: Special
+tags:[advanced]
 item: [Snow Mail, Miracle Seed, Spell Tag]
 ability: [Oblivious, Forewarn]
 nature: Adamant
@@ -21,6 +22,7 @@ ball: [Heal]
 ---
 species: Jynx
 setname: Mixed
+tags:[advanced]
 item: [Null]
 ability: [Oblivious, Forewarn, Dry Skin]
 nature: Rash

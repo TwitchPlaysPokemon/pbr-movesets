@@ -1,5 +1,6 @@
 species: Delcatty
 setname: Physical
+tags:[advanced]
 item: [Pink Scarf, Power Herb, Black Belt]
 ability: [Cute Charm]
 moves:
@@ -23,6 +24,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Delcatty
 setname: Special
+tags:[advanced]
 item: [Life Orb]
 ability: [Cute Charm]
 moves:
@@ -43,6 +45,7 @@ evs: {hp: 0, atk: 176, def: 0, spA: 176, spD: 0, spe: 156}
 ---
 species: Delcatty
 setname: Normalize
+tags:[advanced]
 item: [Micle Berry]
 ability: [Normalize]
 moves:

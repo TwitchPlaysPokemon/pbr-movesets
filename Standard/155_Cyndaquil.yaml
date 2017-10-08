@@ -1,5 +1,6 @@
 species: Cyndaquil
 setname: Special
+tags:[advanced]
 item: [Miracle Seed, Salac Berry]
 ability: [Blaze]
 moves:
@@ -19,6 +20,7 @@ evs: {hp: 36, atk: 0, def: 20, spA: 180, spD: 20, spe: 252}
 ---
 species: Cyndaquil
 setname: Physical
+tags:[advanced]
 item: [Leftovers, Liechi Berry, Sharp Beak]
 ability: [Flash Fire, Blaze]
 moves:

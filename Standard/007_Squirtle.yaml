@@ -1,5 +1,6 @@
 species: Squirtle
 setname: Special
+tags:[advanced]
 item: [BlackGlasses, Blackbelt]
 ability: [Torrent]
 nature: Modest
@@ -19,6 +20,7 @@ rarity: 1.3
 ---
 species: Squirtle
 setname: Physical
+tags:[advanced]
 item: [Muscle Band, Liechi Berry, Light Ball, Damp Rock]
 ability: [Torrent, Rain Dish]
 nature: Adamant
@@ -39,6 +41,7 @@ rarity: 1.3
 ---
 species: Squirtle
 setname: Tank
+tags:[advanced]
 item: [Sitrus Berry]
 ability: [Torrent]
 nature: Calm

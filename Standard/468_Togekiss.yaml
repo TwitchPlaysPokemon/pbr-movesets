@@ -1,5 +1,6 @@
 species: Togekiss
 setname: Serene Grace
+tags:[advanced]
 item: [null]
 ability: [Serene Grace]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Togekiss
 setname: Hustle
+tags:[advanced]
 item: [null]
 ability: [Hustle]
 moves:
@@ -42,6 +44,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Togekiss
 setname: Super Luck
+tags:[advanced]
 item: [Lansat Berry]
 ability: [Super Luck]
 moves:

@@ -1,5 +1,6 @@
 species: Staraptor
 setname: Standard
+tags:[advanced]
 item: [Watmel Berry, Sharp Beak, Black Belt]
 ability: [Reckless]
 nature: Timid
@@ -25,6 +26,7 @@ ball: [Ultra]
 ---
 species: Staraptor
 setname: Mixed
+tags:[advanced]
 item: [Null, Silk Scarf, Scope Lens, King's Rock]
 ability: [Intimidate]
 nature: Brave

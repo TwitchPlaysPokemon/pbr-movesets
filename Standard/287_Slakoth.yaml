@@ -1,5 +1,6 @@
 species: Slakoth
 setname: Physical
+tags:[advanced]
 item: [Choice Band]
 ability: [Truant]
 moves:

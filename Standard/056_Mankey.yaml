@@ -1,5 +1,6 @@
 species: Mankey
 setname: Physical
+tags:[advanced]
 item: [Sitrus Berry, White Herb]
 ability: [Anger Point]
 nature: Jolly
@@ -21,6 +22,7 @@ ball: [Nest]
 ---
 species: Mankey
 setname: Special
+tags:[advanced]
 item: [Petaya Berry, Heat Rock, Damp Rock, White Herb]
 ability: [Vital Spirit]
 nature: Modest

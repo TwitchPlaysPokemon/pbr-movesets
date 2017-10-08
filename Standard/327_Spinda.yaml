@@ -1,5 +1,6 @@
 species: Spinda
 setname: Physical
+tags:[advanced]
 item: [Aspear Berry, Pecha Berry, Wide Lens]
 ability: [Own Tempo]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 128, atk: 128, def: 64, spA: 0, spD: 64, spe: 124}
 ---
 species: Spinda
 setname: Special
+tags:[advanced]
 item: [Splash Plate, Icicle Plate, Micle Berry, Ganlon Berry, Apicot Berry]
 ability: [Own Tempo]
 moves:
@@ -44,6 +46,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Spinda
 setname: Tangled Feet
+tags:[advanced]
 item: [Wiki Berry]
 ability: [Tangled Feet]
 moves:

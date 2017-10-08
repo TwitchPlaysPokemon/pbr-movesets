@@ -1,5 +1,6 @@
 species: Vibrava
 setname: Physical
+tags:[advanced]
 item: [White Herb, Lum Berry, Power Herb, Focus Sash]
 ability: [Levitate]
 moves:
@@ -23,6 +24,7 @@ evs: {hp: 104, atk: 104, def: 104, spA: 0, spD: 104, spe: 92}
 ---
 species: Vibrava
 setname: Special
+tags:[advanced]
 item: [Dragon Scale, Dragon Fang]
 ability: [Levitate]
 moves:

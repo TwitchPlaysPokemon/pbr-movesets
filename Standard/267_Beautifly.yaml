@@ -1,5 +1,6 @@
 species: Beautifly
 setname: Special
+tags:[advanced]
 item: [null, Scope Lens, Silk Scarf]
 ability: [Rivalry]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 252, atk: 0, def: 88, spA: 84, spD: 0, spe: 84}
 ---
 species: Beautifly
 setname: Physical
+tags:[advanced]
 item: [Muscle Band]
 ability: [Swarm]
 moves:

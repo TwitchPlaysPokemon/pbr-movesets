@@ -1,5 +1,6 @@
 species: Kingler
 setname: Physical
+tags:[advanced]
 item: [null, Grip Claw]
 ability: [Hyper Cutter, Shell Armor]
 nature: Modest
@@ -24,6 +25,7 @@ ball: [Net]
 ---
 species: Kingler
 setname: Mixed
+tags:[advanced]
 item: [null, Silk Scarf, Iron Plate, Insect Plate]
 ability: [Hyper Cutter, Shell Armor]
 nature: Sassy

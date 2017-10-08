@@ -1,5 +1,6 @@
 species: Snorunt
 setname: Special
+tags:[advanced]
 item: [Charti Berry, Wide Lens]
 ability: [Inner Focus]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 152, atk: 0, def: 0, spA: 252, spD: 0, spe: 104}
 ---
 species: Snorunt
 setname: Physical
+tags:[advanced]
 item: [Sitrus Berry]
 ability: [Inner Focus]
 moves:

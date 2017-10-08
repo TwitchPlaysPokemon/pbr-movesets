@@ -1,5 +1,6 @@
 species: Stantler
 setname: Mixed
+tags:[advanced]
 item: [Ether, Fist Plate]
 ability: [Intimidate]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Stantler
 setname: Physical
+tags:[advanced]
 item: [White Herb, BlackGlasses]
 ability: [Frisk]
 moves:

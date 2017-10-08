@@ -1,5 +1,6 @@
 species: Piplup
 setname: Special
+tags:[advanced]
 item: [Petaya Berry]
 ability: [Torrent]
 nature: Modest
@@ -18,6 +19,7 @@ ball: [Poké]
 ---
 species: Piplup
 setname: Physical
+tags:[advanced]
 item: [Life Orb, Liechi Berry]
 ability: [Torrent]
 nature: Adamant

@@ -1,5 +1,6 @@
 species: Blaziken
 setname: Mixed
+tags:[advanced]
 item: [Heart Mail, Blackbelt]
 ability: [Blaze]
 moves:
@@ -23,6 +24,7 @@ evs: {hp: 100, atk: 0, def: 96, spA: 0, spD: 96, spe: 8}
 ---
 species: Blaziken
 setname: Physical
+tags:[advanced]
 item: [Cheri Berry, Wide Lens]
 ability: [Blaze]
 moves:
@@ -44,6 +46,7 @@ evs: 0
 ---
 species: Blaziken
 setname: High Stats
+tags:[advanced]
 item: [Sharp Beak]
 ability: [Speed Boost]
 moves:

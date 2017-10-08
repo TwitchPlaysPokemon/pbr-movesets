@@ -1,5 +1,6 @@
 species: Hariyama
 setname: Physical
+tags:[advanced]
 item: [Aspear Berry, Light Ball, BlackGlasses]
 ability: [Thick Fat]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 0, atk: 0, def: 60, spA: 252, spD: 60, spe: 136}
 ---
 species: Hariyama
 setname: Mixed
+tags:[advanced]
 item: [Wide Lens]
 ability: [Thick Fat]
 moves:
@@ -44,6 +46,7 @@ evs: {hp: 0, atk: 0, def: 100, spA: 252, spD: 100, spe: 56}
 ---
 species: Hariyama
 setname: Max Atk
+tags:[advanced]
 item: [King's Rock, Salac Berry]
 ability: [Guts]
 moves:
@@ -64,6 +67,7 @@ evs: {hp: 120, atk: 252, def: 0, spA: 0, spD: 0, spe: 136}
 ---
 species: Hariyama
 setname: RestTalk
+tags:[advanced]
 item: [null]
 ability: [Guts]
 moves:

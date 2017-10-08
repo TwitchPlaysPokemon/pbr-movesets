@@ -1,5 +1,6 @@
 species: Poliwhirl
 setname: Special
+tags:[advanced]
 item: [Sea Incense, Wacan Berry, Rindo Berry]
 ability: [Damp, Swift Swim]
 moves:
@@ -26,6 +27,7 @@ evs: {hp: 76, atk: 0, def: 80, spA: 252, spD: 80, spe: 20}
 ---
 species: Poliwhirl
 setname: Nostalgia
+tags:[advanced]
 item: [Berry Juice, Oran Berry]
 ability: [Damp]
 moves:

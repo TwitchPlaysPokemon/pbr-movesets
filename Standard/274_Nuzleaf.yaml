@@ -1,5 +1,6 @@
 species: Nuzleaf
 setname: Physical
+tags:[advanced]
 item: [Expert Belt]
 ability: [Early Bird]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 28, atk: 252, def: 4, spA: 0, spD: 0, spe: 224}
 ---
 species: Nuzleaf
 setname: Special
+tags:[advanced]
 item: [Tanga Berry, Kebia Berry, Occa Berry, Chople Berry]
 ability: [Early Bird, Chlorophyll]
 moves:

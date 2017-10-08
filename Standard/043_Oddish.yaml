@@ -1,5 +1,6 @@
 species: Oddish
 setname: Special
+tags:[advanced]
 item: [Rowap Berry]
 ability: [Chlorophyll]
 nature: Modest
@@ -18,6 +19,7 @@ ball: [Safari]
 ---
 species: Oddish
 setname: Physical
+tags:[advanced]
 item: [Miracle Seed]
 ability: [Chlorophyll]
 nature: Adamant

@@ -1,5 +1,6 @@
 species: Charmeleon
 setname: Blaze
+tags:[advanced]
 item: [Zoom Lens]
 ability: [Blaze]
 nature: Brave
@@ -17,6 +18,7 @@ ball: [Great]
 ---
 species: Charmeleon
 setname: Solar Power
+tags:[advanced]
 item: [Shell Bell, Hard Stone, Lum Berry]
 ability: [Solar Power]
 nature: Calm

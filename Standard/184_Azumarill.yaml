@@ -1,5 +1,6 @@
 species: Azumarill
 setname: Huge Power
+tags:[advanced]
 item: [Expert Belt, Choice Band]
 ability: [Huge Power]
 moves:
@@ -43,6 +44,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Azumarill
 setname: Stall
+tags:[advanced]
 item: [Poison Barb]
 ability: [Huge Power]
 moves:

@@ -1,5 +1,6 @@
 species: Mr. Mime
 setname: Special
+tags:[advanced]
 item: [null]
 ability: [Sound Proof]
 nature: Adamant
@@ -18,6 +19,7 @@ ball: [Heal]
 ---
 species: Mr. Mime
 setname: Physical
+tags:[advanced]
 item: [null]
 ability: [Filter]
 nature: Naughty
@@ -36,6 +38,7 @@ ball: [Ultra]
 ---
 species: Mr. Mime
 setname: Copycat
+tags:[advanced]
 item: [Dread Plate]
 ability: [Technician]
 nature: Brave

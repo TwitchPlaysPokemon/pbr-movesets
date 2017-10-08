@@ -1,5 +1,6 @@
 species: Porygon-Z
 setname: Adaptability
+tags:[advanced]
 item: [null]
 ability: [Adaptability]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 8, atk: 0, def: 12, spA: 8, spD: 12, spe: 8}
 ---
 species: Porygon-Z
 setname: Download
+tags:[advanced]
 item: [null]
 ability: [Download]
 moves:

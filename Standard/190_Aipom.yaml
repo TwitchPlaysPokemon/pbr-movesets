@@ -1,5 +1,6 @@
 species: Aipom
 setname: Physical
+tags:[advanced]
 item: [Rawst Berry, Miracle Seed, Black Belt, Magnet]
 ability: [Run Away, Pickup]
 moves:
@@ -23,6 +24,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Aipom
 setname: Special
+tags:[advanced]
 item: [Silk Scarf]
 ability: [Run Away, Pickup]
 moves:
@@ -39,6 +41,7 @@ evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
 ---
 species: Aipom
 setname: Skill Link
+tags:[advanced]
 item: [Muscle Band]
 ability: [Skill Link]
 moves:

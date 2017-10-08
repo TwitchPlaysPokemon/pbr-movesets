@@ -1,5 +1,6 @@
 species: Persian
 setname: Physical
+tags:[advanced]
 item: [null, BlackGlasses, Miracle Seed, Spell Tag]
 ability: [Limber, Technician]
 nature: Lonely
@@ -22,6 +23,7 @@ ball: [Quick]
 ---
 species: Persian
 setname: Special
+tags:[advanced]
 item: [Silk Scarf]
 ability: [Technician]
 nature: Modest
@@ -40,6 +42,7 @@ ball: [Dive]
 ---
 species: Persian
 setname: Pay Day
+tags:[advanced]
 item: [null, Iapapa Berry]
 ability: [Technician]
 nature: Relaxed

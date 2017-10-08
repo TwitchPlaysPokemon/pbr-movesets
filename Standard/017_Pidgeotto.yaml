@@ -1,5 +1,6 @@
 species: Pidgeotto
 setname: Physical
+tags:[advanced]
 item: [Sharp Beak, Air Mail, Toxic Orb, Blackglasses, Wacan Berry]
 ability: [Keen Eye]
 nature: Jolly
@@ -25,6 +26,7 @@ ball: [Great]
 ---
 species: Pidgeotto
 setname: Special
+tags:[advanced]
 item: [Nomel Berry, Figy Berry]
 ability: [Keen Eye, Tangled Feet]
 nature: Modest

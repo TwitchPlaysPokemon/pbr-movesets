@@ -1,5 +1,6 @@
 species: Croagunk
 setname: Physical
+tags:[advanced]
 item: [Blackbelt]
 ability: [Dry Skin]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 204, atk: 76, def: 120, spA: 0, spD: 56, spe: 52}
 ---
 species: Croagunk
 setname: Special
+tags:[advanced]
 item: [Lum Berry, Soft Sand]
 ability: [Dry Skin]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 76, atk: 0, def: 0, spA: 252, spD: 0, spe: 180}
 ---
 species: Croagunk
 setname: Stall
+tags:[advanced]
 item: [Black Sludge]
 ability: [Dry Skin]
 moves:

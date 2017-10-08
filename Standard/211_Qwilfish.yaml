@@ -1,5 +1,6 @@
 species: Qwilfish
 setname: Intimidate
+tags:[advanced]
 item: [Fresh Water, Magnet]
 ability: [Intimidate]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Qwilfish
 setname: Swift Swim
+tags:[advanced]
 item: [Damp Rock]
 ability: [Swift Swim]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ---
 species: Qwilfish
 setname: Poison Point
+tags:[advanced]
 item: [Leftovers]
 ability: [Poison Point]
 moves:

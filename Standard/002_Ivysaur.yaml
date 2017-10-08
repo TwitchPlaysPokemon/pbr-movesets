@@ -1,5 +1,6 @@
 species: Ivysaur
 setname: Standard
+tags:[advanced]
 item: [Yache Berry, Occa Berry, Miracle Seed]
 ability: [Chlorophyll]
 nature: Brave
@@ -19,6 +20,7 @@ ball: [Great]
 ---
 species: Ivysaur
 setname: Special
+tags:[advanced]
 item: [Earth Plate, Petaya Berry]
 ability: [Overgrow]
 nature: Timid

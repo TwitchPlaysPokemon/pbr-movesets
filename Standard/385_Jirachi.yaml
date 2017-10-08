@@ -1,5 +1,6 @@
 species: Jirachi
 setname: Doom Desire
+tags:[advanced]
 item: [Wide Lens]
 ability: [Serene Grace]
 nature: Mild
@@ -17,6 +18,7 @@ ball: [Luxury]
 ---
 species: Jirachi
 setname: Physical
+tags:[advanced]
 item: [Null]
 ability: [Serene Grace]
 nature: Quiet
@@ -34,6 +36,7 @@ ball: [Premier]
 ---
 species: Jirachi
 setname: Special
+tags:[advanced]
 item: [Stardust]
 ability: [Serene Grace]
 nature: Adamant

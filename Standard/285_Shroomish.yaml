@@ -1,5 +1,6 @@
 species: Shroomish
 setname: Poison Heal
+tags:[advanced]
 item: [Toxic Orb]
 ability: [Poison Heal]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 12, atk: 184, def: 104, spA: 0, spD: 104, spe: 104}
 ---
 species: Shroomish
 setname: Quick Feet
+tags:[advanced]
 item: [Flame Orb]
 ability: [Quick Feet]
 moves:

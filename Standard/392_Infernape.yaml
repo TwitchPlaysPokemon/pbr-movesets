@@ -1,5 +1,6 @@
 species: Infernape
 setname: Standard
+tags:[advanced]
 item: [Flame Orb, Berry Juice, Apicot Berry]
 ability: [Iron Fist]
 nature: Careful
@@ -22,6 +23,7 @@ ball: [Ultra]
 ---
 species: Infernape
 setname: Special
+tags:[advanced]
 item: [Iron Ball]
 ability: [Blaze]
 nature: Jolly
@@ -42,6 +44,7 @@ ball: [Ultra]
 ---
 species: Infernape
 setname: Physical
+tags:[advanced]
 item: [Null, Fist Plate, Flame Plate]
 ability: [Blaze, Iron Fist]
 nature: Quiet

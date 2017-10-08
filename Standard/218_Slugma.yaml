@@ -1,5 +1,6 @@
 species: Slugma
 setname: Special
+tags:[advanced]
 item: [Shuca Berry, Silk Scarf]
 ability: [Flame Body, Magma Armor]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 108, atk: 120, def: 80, spA: 120, spD: 80, spe: 0}
 ---
 species: Slugma
 setname: Physical
+tags:[advanced]
 item: [Shuca Berry, Charti Berry, Passho Berry]
 ability: [Flame Body, Magma Armor]
 moves:

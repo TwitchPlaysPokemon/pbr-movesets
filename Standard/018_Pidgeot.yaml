@@ -1,5 +1,6 @@
 species: Pidgeot
 setname: Standard
+tags:[advanced]
 item: [Air Mail, Pinap Berry, Razor Claw]
 ability: [Keen Eye, Tangled Feet]
 nature: Quiet
@@ -22,6 +23,7 @@ ball: [Luxury]
 ---
 species: Pidgeot
 setname: Physical
+tags:[advanced]
 item: [Macho Brace]
 ability: [Keen Eye, Tangled Feet]
 nature: Brave
@@ -40,6 +42,7 @@ ball: [Ultra]
 ---
 species: Pidgeot
 setname: Special
+tags:[advanced]
 item: [Air Mail, Silk Scarf, Sky Plate]
 ability: [Keen Eye, Tangled Feet]
 nature: Bold
@@ -61,6 +64,7 @@ ball: [Heal]
 ---
 species: Pidgeot
 setname: Mega
+tags:[advanced]
 item: [Everstone]
 ability: [No Guard]
 nature: Modest

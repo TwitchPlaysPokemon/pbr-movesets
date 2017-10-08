@@ -1,5 +1,6 @@
 species: Nosepass
 setname: Physical
+tags:[advanced]
 item: [Berry Juice, Babiri Berry, Rindo Berry, Shuca Berry]
 ability: [Magnet Pull, Sturdy]
 moves:
@@ -27,6 +28,7 @@ evs: {hp: 176, atk: 252, def: 0, spA: 0, spD: 0, spe: 80}
 ---
 species: Nosepass
 setname: Special
+tags:[advanced]
 item: [Expert Belt, Zap Plate, Sitrus Berry]
 ability: [Magnet Pull]
 moves:

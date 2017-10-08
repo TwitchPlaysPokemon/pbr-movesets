@@ -1,5 +1,6 @@
 species: Meowth
 setname: Physical
+tags:[advanced]
 item: [King's Rock, Scope Lens]
 ability: [Technician]
 nature: Adamant
@@ -20,6 +21,7 @@ ball: [Luxury]
 ---
 species: Meowth
 setname: Special
+tags:[advanced]
 item: [Life Orb, Focus Sash]
 ability: [Technician]
 nature: Modest

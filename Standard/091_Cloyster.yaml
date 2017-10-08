@@ -1,5 +1,6 @@
 species: Cloyster
 setname: Skill Link
+tags:[advanced]
 item: [NeverMelt-Ice]
 ability: [Skill Link]
 nature: Adamant
@@ -18,6 +19,7 @@ ball: [Timer]
 ---
 species: Cloyster
 setname: Physical
+tags:[advanced]
 item: [Grip Claw, Icicle Plate]
 ability: [Shell Armor]
 nature: Quirky
@@ -45,6 +47,7 @@ ball: [Dive]
 ---
 species: Cloyster
 setname: Special
+tags:[advanced]
 item: [Bubble Mail, NeverMelt-Ice, Soft Sand]
 ability: [Shell Armor]
 nature: Mild

@@ -1,5 +1,6 @@
 species: Swampert
 setname: Standard
+tags:[advanced]
 item: [Damp Mulch]
 ability: [Torrent]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Swampert
 setname: Physical
+tags:[advanced]
 item: [Macho Brace]
 ability: [Damp]
 moves:
@@ -38,6 +40,7 @@ evs: 0
 ---
 species: Swampert
 setname: Special
+tags:[advanced]
 item: [Soft Sand, Poison Barb, Hard Stone, NeverMeltIce]
 ability: [Damp, Torrent]
 moves:
@@ -66,6 +69,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Swampert
 setname: Mega
+tags:[advanced]
 item: [Everstone]
 ability: [Swift Swim]
 moves:

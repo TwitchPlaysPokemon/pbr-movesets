@@ -1,5 +1,6 @@
 species: Cubone
 setname: Standard
+tags:[advanced]
 item: [Thick Club]
 ability: [Battle Armor, Rock Head]
 nature: Impish
@@ -20,6 +21,7 @@ ball: [Repeat]
 ---
 species: Cubone
 setname: Boomerang
+tags:[advanced]
 item: [Thick Club]
 ability: [Battle Armor]
 nature: Careful
@@ -38,6 +40,7 @@ ball: [Nest]
 ---
 species: Cubone
 setname: Special
+tags:[advanced]
 item: [Sitrus Berry]
 ability: [Battle Armor]
 nature: Modest

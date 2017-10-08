@@ -1,5 +1,6 @@
 species: Scizor
 setname: Technician
+tags:[advanced]
 item: [null, Razz Berry]
 ability: [Technician]
 moves:

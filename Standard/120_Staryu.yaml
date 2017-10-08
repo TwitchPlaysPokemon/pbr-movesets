@@ -1,5 +1,6 @@
 species: Staryu
 setname: Standard
+tags:[advanced]
 item: [Micle Berry, Berry Juice, Wacan Berry, Rindo Berry]
 ability: [Natural Cure]
 nature: Modest
@@ -21,6 +22,7 @@ ball: [Quick]
 ---
 species: Staryu
 setname: Physical
+tags:[advanced]
 item: [Muscle Band, Liechi Berry, Sitrus Berry]
 ability: [Natural Cure]
 nature: Adamant

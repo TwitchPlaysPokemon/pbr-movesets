@@ -1,5 +1,6 @@
 species: Cradily
 setname: Standard
+tags:[advanced]
 item: [Root Fossil, Big Root]
 ability: [Storm Drain, Suction Cups]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 136, atk: 220, def: 36, spA: 4, spD: 28, spe: 84}
 ---
 species: Cradily
 setname: Physical
+tags:[advanced]
 item: [Root Fossil]
 ability: [Storm Drain]
 moves:
@@ -39,6 +41,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Cradily
 setname: Special
+tags:[advanced]
 item: [Toxic Plate, Silk Scarf, Root Fossil]
 ability: [Suction Cups]
 moves:
@@ -60,6 +63,7 @@ evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ---
 species: Cradily
 setname: Nullify
+tags:[advanced]
 item: [Smooth Rock]
 ability: [Suction Cups]
 moves:
@@ -78,6 +82,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
 ---
 species: Cradily
 setname: Flinch
+tags:[advanced]
 item: [King's Rock]
 ability: [Suction Cups]
 moves:

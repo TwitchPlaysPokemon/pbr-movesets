@@ -1,5 +1,6 @@
 species: Uxie
 setname: Special
+tags:[advanced]
 item: [X Defend, Insect Plate, Splash Plate, Draco Plate, Full Incense]
 ability: [Levitate]
 moves:
@@ -22,6 +23,7 @@ evs: {hp: 20, atk: 0, def: 20, spA: 20, spD: 0, spe: 0}
 ---
 species: Uxie
 setname: Physical
+tags:[advanced]
 item: [Oran Berry, Iron Ball, null]
 ability: [Levitate]
 moves:
@@ -42,6 +44,7 @@ evs: {hp: 60, atk: 128, def: 60, spA: 0, spD: 60, spe: 0}
 ---
 species: Uxie
 setname: Trapper
+tags:[advanced]
 item: [Enigma Berry]
 ability: [Levitate]
 moves:

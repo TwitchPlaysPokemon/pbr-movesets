@@ -1,5 +1,6 @@
 species: Raikou
 setname: Standard
+tags:[advanced]
 item: [Aspear Berry, Petaya Berry, Leftovers]
 ability: [Pressure, Volt Absorb]
 moves:
@@ -39,6 +40,7 @@ evs: {hp: 0, atk: 100, def: 20, spA: 0, spD: 0, spe: 20}
 ---
 species: Raikou
 setname: Overpowered
+tags:[advanced]
 item: [null]
 ability: [Pressure]
 moves:

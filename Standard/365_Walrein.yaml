@@ -1,5 +1,6 @@
 species: Walrein
 setname: Standard
+tags:[advanced]
 item: [Exp. Share]
 ability: [Oblivious]
 moves:
@@ -25,6 +26,7 @@ evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Walrein
 setname: High Stats
+tags:[advanced]
 item: [Sitrus Berry]
 ability: [Thick Fat]
 moves:

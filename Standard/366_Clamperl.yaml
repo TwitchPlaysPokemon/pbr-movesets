@@ -1,5 +1,6 @@
 species: Clamperl
 setname: Special
+tags:[advanced]
 item: [Deep Sea Tooth]
 ability: [Shell Armor]
 nature: Careful
@@ -18,6 +19,7 @@ ball: [Net]
 ---
 species: Clamperl
 setname: Physical
+tags:[advanced]
 item: [Deep Sea Scale]
 ability: [Shell Armor]
 nature: Jolly
@@ -38,6 +40,7 @@ ball: [Dive]
 ---
 species: Clamperl
 setname: Baton Pass
+tags:[advanced]
 item: [Deep Sea Scale]
 ability: [Shell Armor]
 nature: Lonely

@@ -1,5 +1,6 @@
 species: Shellder
 setname: Standard
+tags:[advanced]
 item: [Wacan Berry]
 ability: [Skill Link]
 nature: Careful
@@ -18,6 +19,7 @@ ball: [Repeat]
 ---
 species: Shellder
 setname: Special
+tags:[advanced]
 item: [Life Orb]
 ability: [Shell Armor]
 nature: Timid

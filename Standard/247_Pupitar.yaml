@@ -1,5 +1,6 @@
 species: Pupitar
 setname: Physical
+tags:[advanced]
 item: [null]
 ability: [Shed Skin]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 128, atk: 64, def: 64, spA: 0, spD: 128, spe: 124}
 ---
 species: Pupitar
 setname: Special
+tags:[advanced]
 item: [Hard Stone]
 ability: [Shed Skin]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Pupitar
 setname: Facade
+tags:[advanced]
 item: [Toxic Orb]
 ability: [Shed Skin]
 moves:

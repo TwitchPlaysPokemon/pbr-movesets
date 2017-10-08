@@ -1,5 +1,6 @@
 species: Shuppet
 setname: Physical
+tags:[advanced]
 item: [Kasib Berry, Colbur Berry, Berry Juice]
 ability: [Insomnia]
 nature: Jolly
@@ -21,6 +22,7 @@ ball: [Dusk]
 ---
 species: Shuppet
 setname: Special
+tags:[advanced]
 item: [King's Rock, Wide Lens]
 ability: [Insomnia]
 nature: Modest

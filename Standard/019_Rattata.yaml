@@ -1,5 +1,6 @@
 species: Rattata
 setname: Hustle
+tags:[advanced]
 item: [Wide Lens]
 ability: [Hustle]
 nature: Jolly
@@ -18,6 +19,7 @@ ball: [Nest]
 ---
 species: Rattata
 setname: Guts
+tags:[advanced]
 item: [Flame Orb, Toxic Orb]
 ability: [Guts]
 nature: Jolly

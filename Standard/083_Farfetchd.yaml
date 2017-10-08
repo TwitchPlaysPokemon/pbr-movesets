@@ -1,5 +1,6 @@
 species: Farfetch'd
 setname: Physical
+tags:[advanced]
 item: [Stick]
 ability: [Inner Focus, Keen Eye]
 nature: Jolly
@@ -18,6 +19,7 @@ ball: [Luxury]
 ---
 species: Farfetch'd
 setname: Special
+tags:[advanced]
 item: [Stick]
 ability: [Inner Focus]
 nature: Modest
@@ -38,6 +40,7 @@ ball: [Heal]
 ---
 species: Farfetch'd
 setname: Stall
+tags:[advanced]
 item: [White Herb]
 ability: [Inner Focus]
 nature: Jolly

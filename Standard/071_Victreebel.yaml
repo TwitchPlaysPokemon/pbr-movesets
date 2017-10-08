@@ -1,5 +1,6 @@
 species: Victreebel
 setname: Special
+tags:[advanced]
 item: [Apicot Berry, Ganlon Berry]
 ability: [Gluttony]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 0, atk: 0, def: 84, spA: 252, spD: 84, spe: 88}
 ---
 species: Victreebel
 setname: Physical
+tags:[advanced]
 item: [Micle Berry]
 ability: [Gluttony]
 moves:

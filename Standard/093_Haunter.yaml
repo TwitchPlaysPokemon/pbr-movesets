@@ -1,5 +1,6 @@
 species: Haunter
 setname: Special
+tags:[advanced]
 item: [Chesto Berry, Meadow Plate]
 ability: [Levitate]
 nature: Naive
@@ -18,6 +19,7 @@ ball: [Great]
 ---
 species: Haunter
 setname: Physical
+tags:[advanced]
 item: [Poison Barb]
 ability: [Levitate]
 nature: Adamant
@@ -36,6 +38,7 @@ ball: [Dusk]
 ---
 species: Haunter
 setname: Annoyer
+tags:[advanced]
 item: [Null]
 ability: [Levitate]
 nature: Adamant

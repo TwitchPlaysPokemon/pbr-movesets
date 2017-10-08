@@ -1,5 +1,6 @@
 species: Golduck
 setname: Standard
+tags:[advanced]
 item: [Micle Berry, Salac Berry, Liechi Berry, Petaya Berry]
 ability: [Cloud Nine, Damp]
 nature: Adamant
@@ -25,6 +26,7 @@ ball: [Heal]
 ---
 species: Golduck
 setname: High Stats
+tags:[advanced]
 item: [King's Rock, Persim Berry]
 ability: [Cloud Nine]
 nature: Adamant

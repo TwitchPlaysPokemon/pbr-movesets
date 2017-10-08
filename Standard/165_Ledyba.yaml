@@ -1,5 +1,6 @@
 species: Ledyba
 setname: Standard
+tags:[advanced]
 item: [Petaya Berry]
 ability: [Swarm]
 moves:
@@ -16,6 +17,7 @@ evs: {hp: 0, atk: 0, def: 176, spA: 252, spD: 0, spe: 80}
 ---
 species: Ledyba
 setname: Wall
+tags:[advanced]
 item: [Light Clay]
 ability: [Early Bird]
 moves:

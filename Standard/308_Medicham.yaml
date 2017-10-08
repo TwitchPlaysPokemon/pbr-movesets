@@ -1,5 +1,6 @@
 species: Medicham
 setname: Physical
+tags:[advanced]
 item: [Pure Incense, Kasib Berry]
 ability: [Pure Power]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 85, atk: 0, def: 170, spA: 0, spD: 170, spe: 85}
 ---
 species: Medicham
 setname: Special
+tags:[advanced]
 item: [Awakening]
 ability: [Pure Power]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 84, atk: 168, def: 0, spA: 168, spD: 0, spe: 88}
 ---
 species: Medicham
 setname: Mixed
+tags:[advanced]
 item: [Kelpsy Berry]
 ability: [Pure Power]
 moves:

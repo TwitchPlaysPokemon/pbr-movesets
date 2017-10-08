@@ -1,5 +1,6 @@
 species: Nincada
 setname: Physical
+tags:[advanced]
 item: [null]
 ability: [CompoundEyes]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 120, atk: 228, def: 40, spA: 0, spD: 120, spe: 0}
 ---
 species: Nincada
 setname: Special
+tags:[advanced]
 item: [Salac Berry, Petaya Berry]
 ability: [CompoundEyes]
 moves:
@@ -41,6 +43,7 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Nincada
 setname: Stall
+tags:[advanced]
 item: [Leftovers]
 ability: [CompoundEyes]
 moves:

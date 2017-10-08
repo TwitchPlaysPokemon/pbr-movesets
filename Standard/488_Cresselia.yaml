@@ -1,5 +1,6 @@
 species: Cresselia
 setname: Standard
+tags:[advanced]
 item: [Metronome, Wide Lens]
 ability: [Levitate]
 moves:
@@ -21,6 +22,7 @@ evs: {hp: 12, atk: 252, def: 28, spA: 188, spD: 20, spe: 4}
 ---
 species: Cresselia
 setname: Physical
+tags:[advanced]
 item: [Colbur Berry, Kasib Berry, Scope Lens, Macho Brace]
 ability: [Levitate]
 moves:
@@ -44,6 +46,7 @@ evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 36, spe: 0}
 ---
 species: Cresselia
 setname: Special
+tags:[advanced]
 item: [null, Silk Scarf]
 ability: [Levitate]
 moves:
@@ -65,6 +68,7 @@ evs: 0
 ---
 species: Cresselia
 setname: Snore
+tags:[advanced]
 item: [Black Sludge]
 ability: [Levitate]
 moves:

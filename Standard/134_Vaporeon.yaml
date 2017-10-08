@@ -1,5 +1,6 @@
 species: Vaporeon
 setname: Special
+tags:[advanced]
 item: [Awakening]
 ability: [Water Absorb]
 moves:
@@ -31,6 +32,7 @@ evs: {hp: 0, atk: 72, def: 0, spA: 96, spD: 0, spe: 0}
 ---
 species: Vaporeon
 setname: High Stats
+tags:[advanced]
 item: [Silk Scarf]
 ability: [Water Absorb]
 moves:

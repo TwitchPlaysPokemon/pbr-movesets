@@ -1,5 +1,6 @@
 species: Grotle
 setname: Standard
+tags:[advanced]
 item: [White Herb, Stable Mulch]
 ability: [Overgrow]
 nature: Quiet
@@ -21,6 +22,7 @@ ball: [Luxury]
 ---
 species: Grotle
 setname: Screens
+tags:[advanced]
 item: [Light Clay]
 ability: [Shell Armor]
 nature: Careful

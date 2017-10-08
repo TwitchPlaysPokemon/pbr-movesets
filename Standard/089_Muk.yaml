@@ -1,5 +1,6 @@
 species: Muk
 setname: Standard
+tags:[advanced]
 item: [null]
 ability: [Stench]
 nature: Naive
@@ -20,6 +21,7 @@ ball: [Ultra]
 ---
 species: Muk
 setname: Physical
+tags:[advanced]
 item: [Full Incense]
 ability: [Sticky Hold]
 nature: Naughty
@@ -38,6 +40,7 @@ ball: [Repeat]
 ---
 species: Muk
 setname: Special
+tags:[advanced]
 item: [Rose Incense, Earth Plate, Zap Plate, Silk Scarf]
 ability: [Sticky Hold]
 nature: Modest

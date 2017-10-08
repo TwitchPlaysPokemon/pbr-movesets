@@ -1,5 +1,6 @@
 species: Lugia
 setname: Special
+tags:[advanced]
 item: [Iron Ball]
 ability: [Pressure]
 moves:
@@ -19,6 +20,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Lugia
 setname: Physical
+tags:[advanced]
 item: [Iron Ball]
 ability: [Pressure]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Lugia
 setname: Overpowered
+tags:[advanced]
 item: [Iron Ball]
 ability: [Pressure]
 moves:

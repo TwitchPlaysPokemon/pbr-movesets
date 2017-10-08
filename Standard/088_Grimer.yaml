@@ -1,5 +1,6 @@
 species: Grimer
 setname: Physical
+tags:[advanced]
 item: [Zoom Lens]
 ability: [Sticky Hold]
 nature: Adamant
@@ -18,6 +19,7 @@ ball: [Dusk]
 ---
 species: Grimer
 setname: Special
+tags:[advanced]
 item: [Sitrus Berry, Chesto Berry, Quick Claw]
 ability: [Sticky hold]
 nature: Modest

@@ -1,5 +1,6 @@
 species: Dialga
 setname: Standard
+tags:[advanced]
 item: [Adamant Orb]
 ability: [Pressure]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 8}
 ---
 species: Dialga
 setname: Physical
+tags:[advanced]
 item: [Choice Specs]
 ability: [Pressure]
 moves:
@@ -37,6 +39,7 @@ evs: 0
 ---
 species: Dialga
 setname: Overpowered
+tags:[advanced]
 item: [null]
 ability: [Pressure]
 moves:

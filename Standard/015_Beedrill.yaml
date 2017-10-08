@@ -1,5 +1,6 @@
 species: Beedrill
 setname: Sniper
+tags:[advanced]
 item: [Scope Lens]
 ability: [Sniper]
 nature: Modest
@@ -34,6 +35,7 @@ ball: [Net]
 ---
 species: Beedrill
 setname: Max Atk
+tags:[advanced]
 item: [Bloom Mail, Silverpowder, Blackbelt, Silk Scarf]
 ability: [Swarm]
 nature: Jolly
@@ -55,6 +57,7 @@ ball: [Net]
 ---
 species: Beedrill  
 setname: Mega
+tags:[advanced]
 item: [Everstone]
 ability: [Adaptability]
 nature: Jolly

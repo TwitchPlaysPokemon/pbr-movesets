@@ -1,5 +1,6 @@
 species: Shinx
 setname: Physical
+tags:[advanced]
 item: [Razor Fang]
 ability: [Intimidate]
 nature: Adamant
@@ -20,6 +21,7 @@ ball: [Quick]
 ---
 species: Shinx
 setname: Special
+tags:[advanced]
 item: [Silver Powder, NeverMelt-Ice, Salac Berry]
 ability: [Rivalry, Intimidate]
 nature: Modest

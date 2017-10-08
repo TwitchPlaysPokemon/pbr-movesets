@@ -1,5 +1,6 @@
 species: Bayleef
 setname: Physical
+tags:[advanced]
 item: [Salac Berry]
 ability: [Overgrow]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 124, atk: 144, def: 60, spA: 0, spD: 60, spe: 120}
 ---
 species: Bayleef
 setname: Special
+tags:[advanced]
 item: [Berry Juice, Meadow Plate, Coba Berry, Light Clay]
 ability: [Overgrow, Leaf Guard]
 moves:

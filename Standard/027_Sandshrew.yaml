@@ -1,5 +1,6 @@
 species: Sandshrew
 setname: Attacker
+tags:[advanced]
 item: [Salac Berry]
 ability: [Sand Veil]
 nature: Adamant
@@ -18,6 +19,7 @@ ball: [Safari]
 ---
 species: Sandshrew
 setname: Evasion
+tags:[advanced]
 item: [BrightPowder]
 ability: [Sand Veil]
 nature: Modest

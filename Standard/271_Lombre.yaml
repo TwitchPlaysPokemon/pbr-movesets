@@ -1,5 +1,6 @@
 species: Lombre
 setname: Own Tempo
+tags:[advanced]
 item: [Iapapa Berry, Rose Incense, Power Herb, Poison Barb]
 ability: [Own Tempo]
 moves:
@@ -25,6 +26,7 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Lombre
 setname: Swift Swim
+tags:[advanced]
 item: [Cheri Berry, Scope Lens, Blackbelt, Silk Scarf, Charcoal]
 ability: [Swift Swim]
 moves:
@@ -48,6 +50,7 @@ evs: {hp: 124, atk: 128, def: 100, spA: 0, spD: 100, spe: 56}
 ---
 species: Lombre
 setname: Rain Dish
+tags:[advanced]
 item: [Damp Rock]
 ability: [Rain Dish]
 moves:

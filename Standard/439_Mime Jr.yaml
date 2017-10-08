@@ -1,5 +1,6 @@
 species: Mime Jr.
 setname: Special
+tags:[advanced]
 item: [Enigma Berry, Wise Glasses]
 ability: [Filter, Soundproof, Technician]
 moves:
@@ -24,6 +25,7 @@ evs: {hp: 100, atk: 0, def: 8, spA: 224, spD: 0, spe: 176}
 ---
 species: Mime Jr.
 setname: Physical
+tags:[advanced]
 item: [Payapa Berry]
 ability: [Technician]
 moves:

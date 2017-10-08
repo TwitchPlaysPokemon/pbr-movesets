@@ -1,5 +1,6 @@
 species: Typhlosion
 setname: Standard
+tags:[advanced]
 item: [Magost Berry]
 ability: [Blaze]
 moves:
@@ -16,6 +17,7 @@ evs: {hp: 68, atk: 68, def: 68, spA: 68, spD: 68, spe: 68}
 ---
 species: Typhlosion
 setname: Special
+tags:[advanced]
 item: [Passho Berry, Shuca Berry, Charti Berry]
 ability: [Blaze]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Typhlosion
 setname: Physical
+tags:[advanced]
 item: [Red Shard, Lum Berry, Charcoal, King's Rock]
 ability: [Blaze]
 moves:

@@ -1,5 +1,6 @@
 species: Chikorita
 setname: Physical
+tags:[advanced]
 item: [Big Root, Occa Berry, Yache Berry, Coba Berry]
 ability: [Overgrow]
 moves:
@@ -19,6 +20,7 @@ evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
 ---
 species: Chikorita
 setname: Special
+tags:[advanced]
 item: [Custap Berry, Occa Berry, Yache Berry, Coba Berry]
 ability: [Overgrow]
 moves:

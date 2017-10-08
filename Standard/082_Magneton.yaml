@@ -1,5 +1,6 @@
 species: Magneton 
 setname: Special
+tags:[advanced]
 item: [Shed Shell, Metal Coat, Magnet]
 ability: [Magnet Pull]
 nature: Hardy
@@ -24,6 +25,7 @@ ball: [Great]
 ---
 species: Magneton
 setname: ResTalk
+tags:[advanced]
 item: [Chesto Berry, Lum Berry]
 ability: [Sturdy]
 nature: Naive
@@ -41,6 +43,7 @@ ball: [Heal]
 ---
 species: Magneton
 setname: PhyStab
+tags:[advanced]
 item: [Shuca Berry, Occa Berry]
 ability: [Magnet Pull]
 nature: Adamant

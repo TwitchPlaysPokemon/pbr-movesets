@@ -1,5 +1,6 @@
 species: Chinchou
 setname: Special
+tags:[advanced]
 item: [Damp Rock]
 ability: [Volt Absorb, Water Absorb]
 moves:
@@ -16,6 +17,7 @@ evs: {hp: 124, atk: 0, def: 152, spA: 20, spD: 84, spe: 128}
 ---
 species: Chinchou
 setname: Physical
+tags:[advanced]
 item: [Zap Plate]
 ability: [Volt Absorb, Water Absorb]
 moves:

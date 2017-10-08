@@ -1,5 +1,6 @@
 species: Charizard
 setname: Smash
+tags:[advanced]
 item: [Poké Ball, Master Ball]
 ability: [Blaze]
 nature: Serious
@@ -18,6 +19,7 @@ ball: [Timer]
 ---
 species: Charizard
 setname: Belly Drum
+tags:[advanced]
 item: [Lum Berry]
 ability: [Blaze]
 nature: Hardy
@@ -34,6 +36,7 @@ ball: [Ultra]
 ---
 species: Charizard
 setname: Mega
+tags:[advanced]
 item: [Dragon Fang]
 ability: [Blaze]
 nature: Adamant
