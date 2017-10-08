@@ -13,8 +13,8 @@ biddable: True
 rarity: 0.4
 ball: [Net]
 nature: Bold
-evs: 85
-ivs: 31
+evs: 84
+ivs: {hp: 27, atk: 0, def: 27, spA: 27, spD: 27, spe: 27}
 ---
 species: Butterfree
 setname: Physical
