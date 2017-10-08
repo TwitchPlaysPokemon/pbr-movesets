@@ -1,6 +1,6 @@
 species: Butterfree
 setname: Special
-item: [Sitrus Berry]
+item: [Null]
 ability: [Tinted Lens]
 moves:
     - [Air Slash]
@@ -18,7 +18,7 @@ ivs: {hp: 27, atk: 0, def: 27, spA: 27, spD: 27, spe: 27}
 ---
 species: Butterfree
 setname: Physical
-item: [Silverpowder]
+item: [Null]
 ability: [Tinted Lens]
 moves:
     - [Bug Bite]
