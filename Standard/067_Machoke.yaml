@@ -18,7 +18,7 @@ ivs: 31
 ---
 species: Machoke
 setname: Fighter
-item: [Black Glasses]
+item: [Null]
 ability: [Guts]
 moves:
     - [Submission]
