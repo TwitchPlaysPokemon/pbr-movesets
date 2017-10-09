@@ -1,5 +1,5 @@
 species: Poliwrath
-setname: Standard
+setname: Mind Reader
 item: [Null]
 ability: [Damp]
 moves:
@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.34
 ball: [Safari]
 nature: Bashful
-evs: 85
+evs: 84
 ivs: {hp: 5, atk: 31, def: 5, spA: 31, spD: 5, spe: 20}
 ---
 species: Poliwrath
@@ -49,5 +49,5 @@ biddable: True
 rarity: 0.33
 ball: [Net]
 nature: Docile
-evs: {hp: 0, atk: 0, def: 40, spA: 40, spD: 40, spe: 40}
-ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 0, atk: 0, def: 36, spA: 36, spD: 36, spe: 36}
+ivs: 31

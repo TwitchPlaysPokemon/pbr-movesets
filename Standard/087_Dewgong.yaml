@@ -46,7 +46,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.33
 ball: [Heal]
 nature: Bold
 evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}

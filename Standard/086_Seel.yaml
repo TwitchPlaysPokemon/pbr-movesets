@@ -14,7 +14,7 @@ rarity: 0.4
 ball: [Net]
 nature: Calm
 evs: {hp: 188, atk: 0, def: 72, spA: 180, spD: 0, spe: 68}
-ivs: 31
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 ---
 species: Seel
 setname: Physical
@@ -36,12 +36,12 @@ ivs: 31
 ---
 species: Seel
 setname: Stockpile
-item: [Null]
+item: [Black Sludge]
 ability: [Hydration]
 moves:
     - [Water Pulse]
     - [Rain Dance]
-    - [Stock Pile]
+    - [Stockpile]
     - [Rest]
 gender: [m, f]
 happiness: 255
@@ -50,4 +50,4 @@ rarity: 0.2
 ball: [Timer]
 nature: Quiet
 evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
-ivs: 31
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
