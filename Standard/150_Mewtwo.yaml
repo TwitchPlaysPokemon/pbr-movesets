@@ -29,7 +29,7 @@ biddable: True
 rarity: 0.45
 ball: [Premier]
 nature: Hardy
-evs: 49
+evs: 48
 ivs: 0
 ---
 species: Mewtwo
@@ -43,7 +43,7 @@ moves:
     - [Magic Coat]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.05
 ball: [Master]
 nature: Jolly
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}

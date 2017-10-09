@@ -11,7 +11,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.46
-ball: [Timer]
+ball: [Ultra]
 nature: Quiet
 evs: {hp: 0, atk: 20, def: 100, spA: 252, spD: 20, spe: 8}
 ivs: {hp: 0, atk: 0, def: 0, spA: 30, spD: 0, spe: 0}

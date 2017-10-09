@@ -29,7 +29,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.33
-ball: [Timer]
+ball: [Repeat]
 nature: Relaxed
 evs: {hp: 40, atk: 0, def: 116, spA: 0, spD: 120, spe: 0}
 ivs: 0

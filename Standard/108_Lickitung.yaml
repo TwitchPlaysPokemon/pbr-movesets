@@ -32,4 +32,4 @@ rarity: 0.4
 ball: [Dive]
 nature: Modest
 evs: {hp: 0, atk: 0, def: 64, spA: 128, spD: 64, spe: 252}
-ivs: 31
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

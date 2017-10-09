@@ -31,8 +31,8 @@ biddable: True
 rarity: 0.45
 ball: [Safari]
 nature: Modest
-evs: {hp: 0, atk: 0, def: 0, spA: 100, spD: 0, spe: 252}
-ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 88, spD: 0, spe: 0}
+ivs: 31
 ---
 species: Dragonite
 setname: Overpowered

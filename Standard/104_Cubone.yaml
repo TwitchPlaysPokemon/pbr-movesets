@@ -31,7 +31,7 @@ biddable: True
 rarity: 0.4
 ball: [Nest]
 nature: Careful
-evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 28}
+evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
 ivs: 31
 ---
 species: Cubone

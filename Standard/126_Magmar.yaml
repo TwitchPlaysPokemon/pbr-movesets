@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.4
 ball: [Quick]
 nature: Impish
-evs: 85
+evs: 84
 ivs: 8
 ---
 species: Magmar
@@ -31,7 +31,7 @@ biddable: True
 rarity: 0.4
 ball: [Timer]
 nature: Naughty
-evs: 85
+evs: 84
 ivs: 5
 ---
 species: Magmar

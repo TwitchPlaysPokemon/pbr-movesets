@@ -32,10 +32,10 @@ rarity: 0.32
 ball: [Nest]
 nature: Calm
 evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
-ivs: 31
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 ---
 species: Tangela
-setname: Setup
+setname: Growth
 item: [Null]
 ability: [Chlorophyll]
 moves:
@@ -50,4 +50,4 @@ rarity: 0.28
 ball: [Great]
 nature: Jolly
 evs: {hp: 28, atk: 0, def: 0, spA: 0, spD: 120, spe: 12}
-ivs: 31
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

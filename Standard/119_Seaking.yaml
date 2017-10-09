@@ -1,10 +1,10 @@
 species: Seaking
-setname: Standard
+setname: Special
 item: [Null]
 ability: [Water Veil]
 moves:
     - [Hydro Pump]
-    - [Mega Horn]
+    - [Megahorn]
     - [Blizzard]
     - [Agility]
 gender: [m, f]
@@ -13,11 +13,11 @@ biddable: True
 rarity: 0.5
 ball: [Net]
 nature: Quiet
-evs: {hp: 85, atk: 85, def: 85, spA: 124, spD: 85, spe: 44}
+evs: {hp: 84, atk: 84, def: 84, spA: 124, spD: 84, spe: 48}
 ivs: 12
 ---
 species: Seaking
-setname: Powerhouse
+setname: Physical
 item: [Null]
 ability: [Swift Swim]
 moves:

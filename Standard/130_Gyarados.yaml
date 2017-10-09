@@ -32,7 +32,7 @@ rarity: 0.4
 ball: [Dive]
 nature: Adamant
 evs: 0
-ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 15, spe: 0}
 ---
 species: Gyarados
 setname: Overpowered

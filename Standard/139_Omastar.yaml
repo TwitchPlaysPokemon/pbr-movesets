@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.55
 ball: [Dive]
 nature: Quirky
-evs: 85
+evs: 84
 ivs: {hp: 7, atk: 7, def: 6, spA: 7, spD: 6, spe: 6}
 ---
 species: Omastar

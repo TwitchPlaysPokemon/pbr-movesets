@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.3
 ball: [Net]
 nature: Mild
-evs: 85
+evs: 84
 ivs: 5
 ---
 species: Pinsir
@@ -49,8 +49,8 @@ biddable: True
 rarity: 0.3
 ball: [Repeat]
 nature: Lonely
-evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
-ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 30, spe: 31}
+evs: {hp: 56, atk: 252, def: 0, spA: 0, spD: 96, spe: 104}
+ivs: 31
 ---
 species: Pinsir
 setname: Mega

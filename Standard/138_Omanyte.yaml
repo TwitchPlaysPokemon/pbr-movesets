@@ -13,8 +13,8 @@ biddable: True
 rarity: 0.5
 ball: [Dive]
 nature: Modest
-evs: {hp: 100, atk: 0, def: 60, spA: 108, spD: 140, spe: 100}
-ivs: {hp: 31, atk: 3, def: 30, spA: 31, spD: 30, spe: 30}
+evs: {hp: 232, atk: 0, def: 0, spA: 0, spD: 236, spe: 40}
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
 ---
 species: Omanyte
 setname: Physical

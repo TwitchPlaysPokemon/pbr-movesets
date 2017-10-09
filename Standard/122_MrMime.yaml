@@ -32,7 +32,7 @@ rarity: 0.33
 ball: [Ultra]
 nature: Naughty
 evs: {hp: 228, atk: 252, def: 0, spA: 0, spD: 0, spe: 28}
-ivs: 31
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
 ---
 species: Mr. Mime
 setname: Copycat
