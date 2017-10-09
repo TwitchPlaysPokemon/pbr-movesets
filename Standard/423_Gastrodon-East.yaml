@@ -22,10 +22,10 @@ setname: East Special
 item: [Null]
 ability: [Sticky Hold]
 moves:
-    - [Surf]
     - [Earth Power]
-    - [Ice Beam]
-    - [Hyper Beam]
+    - [Water Pulse]
+    - [Ancient Power]
+    - [Block]
 gender: [m, f]
 form: East
 happiness: 255
