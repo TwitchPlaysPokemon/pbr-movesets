@@ -1,0 +1,35 @@
+species: Dragonair
+setname: Shed Skin
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Draco Meteor]
+    - [Fire Blast]
+    - [Surf]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Modest
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+ivs: 16
+---
+species: Dragonair
+setname: Marvel Scale
+item: [Null]
+ability: [Marvel Scale]
+moves:
+    - [Dragon Rush]
+    - [Waterfall]
+    - [Dragon Dance]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Relaxed
+evs: {hp: 124, atk: 80, def: 88, spA: 0, spD: 136, spe: 80}
+ivs: 7
