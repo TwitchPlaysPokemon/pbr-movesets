@@ -12,7 +12,7 @@ happiness: 255
 biddable: True
 rarity: 0.3
 ball: [Premier]
-nature: Relazed
+nature: Relaxed
 ivs: {hp: 5, atk: 5, def: 5, spA: 5, spD: 5, spe: 5}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
