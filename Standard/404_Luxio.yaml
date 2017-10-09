@@ -12,8 +12,8 @@ happiness: 255
 biddable: True
 rarity: 0.3
 ball: [Great]
-nature:Lonely 
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+nature: Lonely 
+ivs: 31
 evs: {hp: 112, atk: 132, def: 16, spA: 164, spD: 36, spe: 48}
 ---
 species: Luxio
@@ -31,7 +31,7 @@ biddable: True
 rarity: 0.25
 ball: [Quick]
 nature: Adamant
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 100, atk: 108, def: 132, spA: 0, spD: 132, spe: 36}
 ---
 species: Luxio

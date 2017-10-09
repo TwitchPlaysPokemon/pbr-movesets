@@ -52,7 +52,7 @@ nature: Bold
 ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 2}
 evs: {hp: 100, atk: 0, def: 100, spA: 76, spD: 100, spe: 132}
 ---
-species: Luray
+species: Luxray
 setname: Max SAtk
 item: [Null]
 ability: [Intimidate]
