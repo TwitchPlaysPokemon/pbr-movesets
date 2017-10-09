@@ -14,7 +14,7 @@ rarity: 0.55
 ball: [Heal]
 nature: Naive
 ivs: 12
-evs: 85
+evs: 84
 ---
 species: Granbull
 setname: Special
@@ -32,4 +32,4 @@ rarity: 0.45
 ball: [Luxury]
 nature: Quiet
 ivs: 25
-evs: 85
+evs: 84
