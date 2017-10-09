@@ -1,0 +1,35 @@
+species: Slugma
+setname: Special
+item: [Null]
+ability: [Magma Armor]
+moves:
+    - [Fire Blast]
+    - [Earth Power]
+    - [Yawn]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Cherish]
+nature: Quiet 
+ivs: 31
+evs: {hp: 108, atk: 120, def: 80, spA: 120, spD: 80, spe: 0}
+---
+species: Slugma
+setname: Physical 
+item: [Leftovers]
+ability: [Flame Body]
+moves:
+    - [Flare Blitz]
+    - [Frustration]
+    - [Rock Slide]
+    - [Memento]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.35
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 64, spA: 0, spD: 64, spe: 0}
