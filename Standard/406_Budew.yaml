@@ -1,0 +1,35 @@
+species: Budew
+setname: Physical
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Seed Bomb]
+    - [Secret Power]
+    - [Sleep Powder]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 252, def: 0, spA: 0, spD: 0, spe: 128}
+---
+species: Budew
+setname: Special
+item: [Null]
+ability: [Poison Point]
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb]
+    - [Extrasensory]
+    - [Water Sport]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

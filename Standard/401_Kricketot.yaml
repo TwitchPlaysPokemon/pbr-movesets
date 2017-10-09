@@ -1,0 +1,53 @@
+species: Kricketot
+setname: Physical
+item: [Focus Sash]
+ability: [No Guard]
+moves:
+    - [Megahorn]
+    - [Rock Wrecker]
+    - [Dynamic Punch]
+    - [Sing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Kricketot
+setname: Special
+item: [Sitrus Berry]
+ability: [Simple]
+moves:
+    - [Bug Buzz]
+    - [Spacial Rend]
+    - [Tail Glow]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 180, atk: 0, def: 72, spA: 188, spD: 56, spe: 12}
+---
+species: Kricketot
+setname: Baton Pass
+item: [Focus Sash]
+ability: [Speed Boost]
+moves:
+    - [Bug Buzz]
+    - [Baton Pass]
+    - [Tail Glow]
+    - [Detect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Heal]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 20, atk: 0, def: 72, spA: 248, spD: 80, spe: 88}

@@ -1,0 +1,71 @@
+species: Luxio
+setname: Standard
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Discharge]
+    - [Iron Tail]
+    - [Crunch]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature:Lonely 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 112, atk: 132, def: 16, spA: 164, spD: 36, spe: 48}
+---
+species: Luxio
+setname: Fang
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Thunder Fang]
+    - [Crunch]
+    - [Ice Fang]
+    - [Fire Fang]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 108, def: 132, spA: 0, spD: 132, spe: 36}
+---
+species: Luxio
+setname: Special
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Discharge]
+    - [Signal Beam]
+    - [Charge Beam]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 64, atk: 0, def: 8, spA: 252, spD: 12, spe: 172}
+---
+species: Luxio
+setname: Rain Dance
+item: [Damp Rock]
+ability: [Intimidate]
+moves:
+    - [Thunder]
+    - [Hidden Power]
+    - [Charge]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
