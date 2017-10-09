@@ -11,7 +11,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.6
-ball: [Nest]
+ball: [Net]
 nature: Adamant
 ivs: 31
 evs: {hp: 148, atk: 192, def: 0, spA: 0, spD: 168, spe: 0}

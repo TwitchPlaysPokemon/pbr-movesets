@@ -28,7 +28,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.33
+rarity: 0.34
 ball: [Dusk]
 nature: Adamant
 ivs: 31

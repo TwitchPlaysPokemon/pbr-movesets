@@ -47,7 +47,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.25
-ball: [Quick ]
+ball: [Quick]
 nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 200, atk: 0, def: 92, spA: 136, spD: 40, spe: 0}

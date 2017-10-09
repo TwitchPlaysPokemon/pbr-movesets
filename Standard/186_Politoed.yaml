@@ -32,7 +32,7 @@ rarity: 0.3
 ball: [Dive]
 nature: Adamant
 ivs: 0
-evs: {hp: 100, atk: 108, def: 100, spA: 16, spD: 100, spe: 20}
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Politoed
 setname: Trapper

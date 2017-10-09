@@ -13,8 +13,8 @@ biddable: True
 rarity: 0.55
 ball: [Ultra]
 nature: Adamant
-ivs: {hp: 3, atk: 3, def: 3, spA: 3, spD: 3, spe: 3}
-evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+ivs: 3
+evs: 84
 ---
 species: Ampharos
 setname: Rest

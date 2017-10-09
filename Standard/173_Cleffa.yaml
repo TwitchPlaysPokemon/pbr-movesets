@@ -10,7 +10,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.66
+rarity: 0.6
 ball: [Premier]
 nature: Modest
 ivs: 31
@@ -28,7 +28,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
-rarity: 0.33
+rarity: 0.4
 ball: [Timer]
 nature: Calm
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

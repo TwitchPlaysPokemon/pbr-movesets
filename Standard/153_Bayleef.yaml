@@ -19,7 +19,7 @@ evs: {hp: 84, atk: 204, def: 0, spA: 0, spD: 0, spe: 220}
 species: Bayleef
 setname: Special
 item: [Null]
-ability: [ Overgrow]
+ability: [Overgrow]
 moves:
     - [Giga Drain]
     - [Hidden Power]

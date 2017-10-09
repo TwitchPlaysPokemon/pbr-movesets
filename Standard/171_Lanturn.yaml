@@ -31,7 +31,7 @@ biddable: True
 rarity: 0.3
 ball: [Quick]
 nature: Brave
-ivs: {hp: 8, atk: 8, def: 8, spA: 8, spD: 8, spe: 8}
+ivs: 8
 evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 ---
 species: Lanturn
@@ -46,7 +46,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.3
 ball: [Premier]
 nature: Brave
 ivs: {hp: 31, atk: 31, def: 20, spA: 31, spD: 20, spe: 0}

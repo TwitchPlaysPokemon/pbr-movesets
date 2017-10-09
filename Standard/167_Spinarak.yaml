@@ -3,7 +3,7 @@ setname: Standard
 item: [Null]
 ability: [Swarm]
 moves:
-    - [Mega Horn]
+    - [Megahorn]
     - [Poison Jab]
     - [Sucker Punch]
     - [Agility]
@@ -11,7 +11,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.67
-ball: [Net]
+ball: [Nest]
 nature: Adamant
 ivs: 31
 evs: {hp: 100, atk: 252, def: 20, spA: 0, spD: 20, spe: 116}

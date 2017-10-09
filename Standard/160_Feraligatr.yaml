@@ -13,8 +13,8 @@ biddable: True
 rarity: 0.33
 ball: [Ultra]
 nature: Modest
-ivs: {hp: 4, atk: 4, def: 4, spA: 4, spD: 4, spe: 4}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+ivs: 4
+evs: 84
 ---
 species: Feraligatr
 setname: Physical
@@ -31,7 +31,7 @@ biddable: True
 rarity: 0.33
 ball: [Ultra]
 nature: Modest
-ivs: {hp: 11, atk: 11, def: 11, spA: 11, spD: 11, spe: 11}
+ivs: 11
 evs: 0
 ---
 species: Feraligatr
@@ -49,5 +49,5 @@ biddable: True
 rarity: 0.33
 ball: [Ultra]
 nature: Lonely
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 96, atk: 236, def: 0, spA: 120, spD: 0, spe: 56}

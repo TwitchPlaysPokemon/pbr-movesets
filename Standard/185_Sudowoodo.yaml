@@ -14,7 +14,7 @@ rarity: 0.33
 ball: [Safari]
 nature: Serious
 ivs: 16
-evs: 85
+evs: 84
 ---
 species: Sudowoodo
 setname: Mixed
@@ -31,11 +31,11 @@ biddable: True
 rarity: 0.33
 ball: [Timer]
 nature: Modest
-ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
 ---
 species: Sudowoodo
-setname: High Atk
+setname: Max Atk
 item: [Null]
 ability: [Sturdy]
 moves:
@@ -50,4 +50,4 @@ rarity: 0.33
 ball: [Safari]
 nature: Adamant
 ivs: 31
-evs: {hp: 64, atk: 252, def: 0, spA: 252, spD: 64, spe: 128}
+evs: {hp: 64, atk: 252, def: 0, spA: 0, spD: 64, spe: 128}
