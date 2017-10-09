@@ -1,0 +1,71 @@
+species: Torterra
+setname: Standard
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Wood Hammer]
+    - [Earth Power]
+    - [Rock Tomb]
+    - [Withdraw]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Serious
+evs: {hp: 0, atk: 0, def: 0, spA: 92, spD: 0, spe: 0}
+ivs: 25
+---
+species: Torterra
+setname: Special
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Frenzy Plant]
+    - [Eath Power]
+    - [Hyper Beam]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Nest]
+nature: Mild
+evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+ivs: 0
+---
+species: Torterra
+setname: Flinch
+item: [King's Rock]
+ability: [Overgrow]
+moves:
+    - [Bullet Seed]
+    - [Bite]
+    - [Leech Seed]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Cherish]
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 10, atk: 31, def: 10, spA: 10, spD: 10, spe: 20}
+---
+species: Torterra
+setname: Stall
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Solar Beam]
+    - [Sand Tomb]
+    - [Toxic]
+    - [Leech Seed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: Modest
+evs: {hp: 204, atk: 0, def: 160, spA: 0, spD: 144, spe: 0}
+ivs: 0

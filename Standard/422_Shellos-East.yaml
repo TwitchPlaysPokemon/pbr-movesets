@@ -1,0 +1,56 @@
+species: Shellos
+setname: East Physical
+item: [Null]
+ability: [Sticky Hold]
+moves:
+    - [Waterfall]
+    - [Frustration]
+    - [Yawn]
+    - [Fissure]
+gender: [m, f]
+form: East
+happiness: 0
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: Adamant
+ivs: 31
+evs: {hp: 36, atk: 200, def: 80, spA: 0, spD: 80, spe: 112}
+---
+species: Shellos
+setname: East Special
+item: [Null]
+ability: [Storm Drain]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Earth Power]
+    - [Pain Split]
+gender: [m, f]
+form: East
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 128, spA: 124, spD: 128, spe: 128}
+---
+species: Shellos
+setname: East RestTalk
+item: [Null]
+ability: [Sticky Hold]
+moves:
+    - [Dive]
+    - [Fissure]
+    - [Sleep Talk]
+    - [Rest]
+gender: [m, f]
+form: East
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
