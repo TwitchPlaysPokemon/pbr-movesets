@@ -13,7 +13,7 @@ rarity: 0.5
 ball: [Nest]
 nature: Modest
 evs: {hp: 228, atk: 0, def: 68, spA: 112, spD: 64, spe: 0}
-ivs: 31
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
 ---
 species: Magnemite
 setname: Physical

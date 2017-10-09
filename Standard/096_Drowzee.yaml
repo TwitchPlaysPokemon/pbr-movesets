@@ -46,7 +46,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.10
+rarity: 0.1
 ball: [Dusk]
 nature: Relaxed
 evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 84, spe: 4}

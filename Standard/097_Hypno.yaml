@@ -35,7 +35,7 @@ evs: {hp: 100, atk: 100, def: 180, spA: 0, spD: 80, spe: 48}
 ivs: 10
 ---
 species: Hypno
-setname: Passer
+setname: Baton Pass
 item: [Null]
 ability: [Inner Focus]
 moves:

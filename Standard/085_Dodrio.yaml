@@ -1,4 +1,22 @@
 species: Dodrio
+setname: Standard
+item: [Null]
+ability: [Run Away]
+moves:
+    - [Double-Edge]
+    - [Fly]
+    - [Steel Wing]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Careful
+evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
+ivs: 0
+---
+species: Dodrio
 setname: Tangled Feet
 item: [Null]
 ability: [Tangled Feet]
@@ -15,24 +33,6 @@ ball: [Heal]
 nature: Impish
 evs: {hp: 76, atk: 76, def: 60, spA: 0, spD: 88, spe: 76}
 ivs: 7
----
-species: Dodrio
-setname: Run Away
-item: [Null]
-ability: [Run Away]
-moves:
-    - [Double-Edge]
-    - [Fly]
-    - [Steel Wing]
-    - [Toxic]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 0.25
-ball: [Quick]
-nature: Careful
-evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
-ivs: 0
 ---
 species: Dodrio
 setname: Swords Dance
