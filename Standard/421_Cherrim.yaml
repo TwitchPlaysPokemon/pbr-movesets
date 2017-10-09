@@ -1,0 +1,107 @@
+species: Cherrim
+setname: Physical
+item: [Watmel Berry]
+ability: [Flower Gift]
+moves:
+    - [Razor Leaf]
+    - [Natural Gift (=1)]
+    - [Swords Dance]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 44}
+---
+species: Cherrim
+setname: Mixed
+item: [Null]
+ability: [Flower Gift]
+moves:
+    - [Petal Dance]
+    - [Giga Impact]
+    - [Nature Power]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: Naughty
+ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Cherrim
+setname: Summer
+item: [Heat Rock]
+ability: [Flower Gift]
+moves:
+    - [Solar Beam]
+    - [Weather Ball]
+    - [Growth]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Cherish]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 236, def: 0, spA: 0, spD: 48, spe: 120}
+---
+species: Cherrim
+setname: Autumn
+item: [Smooth Rock]
+ability: [Flower Gift]
+moves:
+    - [Petal Dance]
+    - [Weather Ball]
+    - [Secret Power]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Repeat]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 236, def: 0, spA: 0, spD: 48, spe: 120}
+---
+species: Cherrim
+setname: Winter
+item: [Icy Rock]
+ability: [Flower Gift]
+moves:
+    - [Razor Leaf]
+    - [Weather Ball]
+    - [Frustration]
+    - [Hail]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.05
+ball: [Dive]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 236, def: 0, spA: 0, spD: 48, spe: 120}
+---
+species: Cherrim
+setname: Spring
+item: [Damp Rock]
+ability: [Flower Gift]
+moves:
+    - [Energy Ball]
+    - [Weather Ball]
+    - [Growth]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Safari]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 236, def: 0, spA: 0, spD: 48, spe: 120}
