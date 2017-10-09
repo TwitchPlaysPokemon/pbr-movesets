@@ -1,0 +1,53 @@
+species: Dunsparce
+setname: Physical
+item: [Null]
+ability: [Run Away]
+moves:
+    - [Strength]
+    - [Aqua Tail]
+    - [Counter]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 48, atk: 60, def: 200, spA: 0, spD: 200, spe: 0}
+---
+species: Dunsparce
+setname: Special
+item: [Null]
+ability: [Run Away]
+moves:
+    - [Trump Card]
+    - [Shock Wave]
+    - [Pain Split]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 40, spA: 120, spD: 40, spe: 40}
+---
+species: Dunsparce
+setname: Flinch
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Facade]
+    - [Zen Headbutt]
+    - [Rock Slide]
+    - [Glare]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Quick]
+nature: Quirky
+ivs: 15
+evs: 85

@@ -1,0 +1,53 @@
+species: Qwilfish
+setname: Standard
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Poison Jab]
+    - [Dive]
+    - [Shock Wave]
+    - [Toxic Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Modest
+ivs: 31
+evs: {hp: 16, atk: 52, def: 16, spA: 252, spD: 128, spe: 44}
+---
+species: Qwilfish
+setname: Swift Swim
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Sludge Bomb]
+    - [Bubblebeam]
+    - [Shadow Ball]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dusk]
+nature: Quiet
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+---
+species: Qwilfish
+setname: Swords Dance
+item: [Null]
+ability: [Poison Point]
+moves:
+    - [Aqua Jet]
+    - [Take Down]
+    - [Swords Dance]
+    - [Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 36, spA: 0, spD: 116, spe: 0}

@@ -1,0 +1,35 @@
+species: Granbull
+setname: Physical
+item: [Null]
+ability: [Quick Feet]
+moves:
+    - [Facade]
+    - [Ice Fang]
+    - [Thunder Fang]
+    - [Sleep Talk]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Heal]
+nature: Naive
+ivs: 12
+evs: 85
+---
+species: Granbull
+setname: Special
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Hyper Beam]
+    - [Fire Blast]
+    - [Sludge Bomb]
+    - [Fake Tears]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Luxury]
+nature: Quiet
+ivs: 25
+evs: 85
