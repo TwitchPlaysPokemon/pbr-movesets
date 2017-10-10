@@ -1,0 +1,53 @@
+species: Purugly
+setname: Standard
+item: [Null]
+ball: [Repeat]
+ability: [Thick Fat]
+moves:
+    - [Fake Out]
+    - [Scratch]
+    - [Water Pulse]
+    - [Rollout]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Lonely
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 232, spD: 0, spe: 0}
+---
+species: Purugly
+setname: Physical
+item: [Null]
+ball: [Nest]
+ability: [Own Tempo]
+moves:
+    - [Giga Impact]
+    - [Dig]
+    - [Bite]
+    - [Tail Whip]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Serious
+ivs: 31
+evs: 0
+---
+species: Purugly
+setname: Assist
+item: [Null]
+ball: [Premier]
+ability: [Thick Fat]
+moves:
+    - [Swift]
+    - [Aerial Ace]
+    - [Shock Wave]
+    - [Assist]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Quiet
+ivs: {hp: 25, atk: 31, def: 25, spA: 31, spD: 25, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 220, spD: 0, spe: 36}

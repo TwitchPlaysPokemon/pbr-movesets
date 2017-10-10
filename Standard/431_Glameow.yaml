@@ -1,0 +1,87 @@
+species: Glameow
+setname: Physical
+item: [Null]
+ball: [Heal]
+ability: [Own Tempo]
+moves:
+    - [Return]
+    - [Iron Tail]
+    - [Sucker Punch]
+    - [U-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Jolly
+ivs: 31
+evs: {hp: 80, atk: 252, def: 24, spA: 0, spD: 24, spe: 128}
+---
+species: Glameow
+setname: Special
+item: [Null]
+ball: [Premier]
+ability: [Limber]
+moves:
+    - [Hyper Voice]
+    - [Thunderbolt]
+    - [Shadow Ball]
+    - [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Modest
+ivs: 31
+evs: {hp: 64, atk: 0, def: 32, spA: 252, spD: 32, spe: 128}
+---
+species: Glameow
+setname: Critical
+item: [Razor Claw]
+ball: [Repeat]
+ability: [Keen Eye]
+moves:
+    - [Fake Out]
+    - [Slash]
+    - [Shadow Claw]
+    - [Snatch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.24
+nature: Jolly
+ivs: 31
+evs: {hp: 64, atk: 252, def: 60, spA: 0, spD: 80, spe: 52}
+---
+species: Glameow
+setname: Last Resort
+item: [Null]
+ball: [Cherish]
+ability: [Keen Eye]
+moves:
+    - [Fake Out]
+    - [Last Resort]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Bashful
+ivs: 31
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+---
+species: Glameow
+setname: Flail
+item: [Liechi Berry]
+ball: [Timer]
+ability: [Limber]
+moves:
+    - [Flail]
+    - [Payback]
+    - [Taunt]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Serious
+ivs: 31
+evs: {hp: 40, atk: 220, def: 8, spA: 0, spD: 48, spe: 192}
