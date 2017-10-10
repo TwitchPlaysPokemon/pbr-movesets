@@ -1,0 +1,71 @@
+species: Roselia
+setname: Physical
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Seed Bomb]
+    - [Poison Jab]
+    - [Double-Edge]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Jolly
+ivs: 31
+evs: {hp: 84, atk: 136, def: 0, spA: 0, spD: 0, spe: 112}
+---
+species: Roselia
+setname: Special
+item: [Null]
+ability: [Poison Point]
+moves:
+    - [Energy Ball]
+    - [Shadow Ball]
+    - [Extrasensory]
+    - [Leech Seed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Heal]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 11, spD: 31, spe: 31}
+evs: {hp: 56, atk: 0, def: 208, spA: 0, spD: 36, spe: 184}
+---
+species: Roselia
+setname: Spikes
+item: [Safari]
+ability: [Poison Point]
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb]
+    - [Spikes]
+    - [Toxic Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Safari]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 160, spA: 0, spD: 16, spe: 144}
+---
+species: Roselia
+setname: Growth
+item: [Bloom Mail]
+ability: [Poison Point]
+moves:
+    - [Petal Dance]
+    - [Extrasensory]
+    - [Hidden Power]
+    - [Growth]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Jolly
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 64, atk: 0, def: 136, spA: 0, spD: 0, spe: 56}

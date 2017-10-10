@@ -1,0 +1,35 @@
+species: Plusle
+setname: Physical
+item: [Destiny Knot]
+ability: [Plus]
+moves:
+    - [Thunder Punch]
+    - [Return]
+    - [Iron Tail]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 92, atk: 252, def: 52, spA: 0, spD: 72, spe: 40}
+---
+species: Plusle
+setname: Special
+item: [Null]
+ability: [Plus]
+moves:
+    - [Thunderbolt]
+    - [Signal Beam]
+    - [Seismic Toss]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Serious
+ivs: 31
+evs: {hp: 112, atk: 0, def: 116, spA: 84, spD: 88, spe: 0}
