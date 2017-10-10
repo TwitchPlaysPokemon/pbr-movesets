@@ -60,7 +60,7 @@ moves:
     - [Extrasensory]
     - [Payback]
     - [Reflect]
-    - [Light Screens]
+    - [Light Screen]
 gender: [m, f]
 happiness: 255
 biddable: True
