@@ -7,14 +7,14 @@ moves:
     - [Aerial Ace]
     - [Pursuit]
     - [Bulk Up]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Timer]
 nature: Hardy
 ivs: 29
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 ---
 species: Hitmontop
 setname: Mixed
@@ -22,10 +22,10 @@ item: [Null]
 ability: [Technician]
 moves:
     - [Rolling Kick]
-    - [HP Dark 59]
+    - [Hidden Power]
     - [Mud-Slap]
     - [Double Team]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -43,7 +43,7 @@ moves:
     - [Dig]
     - [Toxic]
     - [Swagger]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: False
 rarity: 0.2

@@ -9,10 +9,10 @@ moves:
     - [Leer]
 happiness: 255
 biddable: True
-rarity: 0.66
+rarity: 0.6
 ball: [Quick]
 nature: Adamant
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 24, atk: 100, def: 0, spA: 0, spD: 0, spe: 44}
 ---
 species: Raikou
@@ -29,8 +29,8 @@ biddable: True
 rarity: 0.35
 ball: [Safari]
 nature: Adamant
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
+evs: 0
 ---
 species: Raikou
 setname: Overpowered
@@ -47,4 +47,4 @@ rarity: 0.05
 ball: [Master]
 nature: Adamant
 ivs: {hp: 2, atk: 3, def: 3, spA: 2, spD: 3, spe: 3}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0

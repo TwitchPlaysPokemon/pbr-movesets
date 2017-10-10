@@ -1,6 +1,6 @@
 species: Tyrogue
 setname: Standard
-item: [Toxic Obr]
+item: [Toxic Orb]
 ability: [Guts]
 moves:
     - [Fake Out]
@@ -10,8 +10,8 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1
+rarity: 1.0
 ball: [Poké]
 nature: Adamant
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 128, atk: 252, def: 64, spA: 0, spD: 64, spe: 0}

@@ -7,7 +7,7 @@ moves:
     - [Blizzard]
     - [Fire Punch]
     - [Gravity]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.7
@@ -25,7 +25,7 @@ moves:
     - [Psychic]
     - [Earthquake]
     - [Counter]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.3

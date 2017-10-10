@@ -10,8 +10,8 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1
+rarity: 1.0
 ball: [Premier]
 nature: Timid
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 152, atk: 0, def: 0, spA: 48, spD: 56, spe: 252}

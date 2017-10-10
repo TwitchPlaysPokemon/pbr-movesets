@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.3
 ball: [Timer]
 nature: Lonely
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 40, atk: 252, def: 0, spA: 0, spD: 0, spe: 40}
 ---
 species: Miltank
@@ -48,7 +48,7 @@ happiness: 255
 biddable: True
 rarity: 0.3
 ball: [Poké]
-nature: 
+nature: Serious
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 80, def: 0, spA: 0, spD: 0, spe: 48}
 ---
@@ -68,4 +68,4 @@ rarity: 0.1
 ball: [Cherish]
 nature: Mild
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0

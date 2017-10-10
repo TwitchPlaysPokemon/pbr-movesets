@@ -19,7 +19,7 @@ evs: {hp: 252, atk: 0, def: 88, spA: 0, spD: 72, spe: 96}
 species: Larvitar
 setname: Sand
 item: [Smooth Rock]
-ability: [Sand Viel]
+ability: [Sand Veil]
 moves:
     - [Earth Power]
     - [Ancient Power]

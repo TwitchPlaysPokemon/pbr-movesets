@@ -24,7 +24,7 @@ moves:
     - [Ember]
     - [HP Dark 38]
     - [Solar Beam]
-    - [Sunny Day]
+    - [Nasty Plot]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -49,7 +49,7 @@ biddable: True
 rarity: 0.3
 ball: [Dusk]
 nature: Serious
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 60, atk: 176, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Houndoom

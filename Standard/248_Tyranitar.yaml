@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.4
 ball: [Ultra]
 nature: Hasty
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 164, def: 0, spA: 140, spD: 0, spe: 0}
 ---
 species: Tyranitar
@@ -31,7 +31,7 @@ biddable: True
 rarity: 0.35
 ball: [Dusk]
 nature: Mild
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 16, spD: 0, spe: 72}
 ---
 species: Tyranitar
@@ -49,7 +49,7 @@ biddable: True
 rarity: 0.2
 ball: [Ultra]
 nature: Rash
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 56}
 ---
 species: Tyranitar
@@ -67,5 +67,5 @@ biddable: False
 rarity: 0.05
 ball: [Master]
 nature: Modest
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
+evs: 0

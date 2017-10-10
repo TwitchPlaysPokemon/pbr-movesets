@@ -14,7 +14,7 @@ rarity: 0.4
 ball: [Nest]
 nature: Serious
 ivs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 20, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 ---
 species: Donphan
 setname: Slow

@@ -13,8 +13,8 @@ biddable: True
 rarity: 0.36
 ball: [Net]
 nature: Brave
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: 85
+ivs: 31
+evs: 84
 ---
 species: Corsola
 setname: Natural Cure
@@ -31,7 +31,7 @@ biddable: True
 rarity: 0.28
 ball: [Dive]
 nature: Modest
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Corsola
@@ -49,5 +49,5 @@ biddable: True
 rarity: 0.36
 ball: [Dive]
 nature: Timid
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 80, spD: 0, spe: 252}

@@ -13,7 +13,7 @@ biddable: True
 rarity: 0.35
 ball: [Net]
 nature: Naive
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 60, atk: 56, def: 0, spA: 160, spD: 0, spe: 232}
 ---
 species: Remoraid
@@ -31,7 +31,7 @@ biddable: True
 rarity: 0.35
 ball: [Repeat]
 nature: Adamant
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Remoraid

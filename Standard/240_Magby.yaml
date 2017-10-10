@@ -13,8 +13,8 @@ biddable: True
 rarity: 0.3
 ball: [Cherish]
 nature: Naive
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: 85
+ivs: 31
+evs: 84
 ---
 species: Magby
 setname: Special
@@ -49,5 +49,5 @@ biddable: True
 rarity: 0.3
 ball: [Nest]
 nature: Impish
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 252, atk: 88, def: 84, spA: 0, spD: 84, spe: 0}
