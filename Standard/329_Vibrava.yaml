@@ -1,0 +1,53 @@
+species: Vibrava
+setname: Physical
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Outrage]
+    - [Earthquake]
+    - [Fly]
+    - [Bug Bite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Safari]
+nature: Hardy
+ivs: 31
+evs: {hp: 104, atk: 104, def: 104, spA: 0, spD: 104, spe: 92}
+---
+species: Vibrava
+setname: Special
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Dragon Pulse]
+    - [Earth Power]
+    - [Bug Buzz]
+    - [Supersonic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Great]
+nature: Modest
+ivs: 31
+evs: {hp: 48, atk: 64, def: 48, spA: 252, spD: 48, spe: 48}
+---
+species: Vibrava
+setname: Mixed
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Draco Meteor]
+    - [Superpower]
+    - [U-Turn]
+    - [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Naughty
+ivs: 31
+evs: {hp: 92, atk: 116, def: 28, spA: 212, spD: 40, spe: 20}

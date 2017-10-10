@@ -1,0 +1,71 @@
+species: Numel
+setname: Physical
+item: [Null]
+ability: [Simple]
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Body Slam]
+    - [Howl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Timer]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 200, def: 24, spA: 0, spD: 32, spe: 252}
+---
+species: Numel
+setname: Special
+item: [Null]
+ability: [Simple]
+moves:
+    - [Flamethrower]
+    - [Earth Power]
+    - [Ancient Power]
+    - [Growth]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Quick]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 56, spA: 200, spD: 0, spe: 252}
+---
+species: Numel
+setname: Mixed
+item: [Null]
+ability: [Simple]
+moves:
+    - [Fire Blast]
+    - [Earthquake]
+    - [Yawn]
+    - [Acupressure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Nest]
+nature: Serious
+ivs: 31
+evs: {hp: 204, atk: 0, def: 100, spA: 0, spD: 136, spe: 68}
+---
+species: Numel
+setname: Eruption
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Eruption]
+    - [Earthquake]
+    - [Rock Tomb]
+    - [Charm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Poké]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 132, def: 0, spA: 124, spD: 0, spe: 252}
