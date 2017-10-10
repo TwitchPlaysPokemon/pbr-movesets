@@ -14,4 +14,4 @@ biddable: True
 rarity: 1.0
 nature: Impish
 evs: {hp: 188, atk: 80, def: 116, spA: 0, spD: 108, spe: 16}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31

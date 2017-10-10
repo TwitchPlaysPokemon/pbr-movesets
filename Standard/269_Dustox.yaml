@@ -14,7 +14,7 @@ biddable: True
 rarity: 0.5
 nature: Adamant
 evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 ---
 species: Dustox
 setname: Special

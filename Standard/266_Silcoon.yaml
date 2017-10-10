@@ -8,10 +8,10 @@ moves:
     - [Psywave]
     - [Glare]
     - [Sweet Kiss]
-gender: [m,f]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
 nature: Impish
 evs: {hp: 200, atk: 80, def: 44, spA: 0, spD: 168, spe: 16}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
