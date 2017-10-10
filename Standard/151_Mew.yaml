@@ -399,7 +399,7 @@ moves:
     - [Aura Sphere]
     - [Soft Boiled]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.01
 ball: [Master]
 nature: Adamant

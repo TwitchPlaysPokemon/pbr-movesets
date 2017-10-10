@@ -81,7 +81,7 @@ moves:
     - [Synthesis]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.10
 ball: [Heal]
 nature: Modest

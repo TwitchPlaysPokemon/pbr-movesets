@@ -7,7 +7,7 @@ moves:
     - [Close Combat]
     - [Earthquake]
     - [Bullet Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
