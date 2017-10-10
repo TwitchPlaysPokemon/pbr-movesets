@@ -1,0 +1,17 @@
+species: Wynaut
+setname: Standard
+item: [Null]
+ability: [Shadow Tag]
+moves:
+    - [Counter]
+    - [Mirror Coat]
+    - [Encore]
+    - [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Heal]
+nature: Bold
+ivs: 31
+evs: {hp: 248, atk: 0, def: 100, spA: 0, spD: 160, spe: 0}

@@ -1,0 +1,71 @@
+species: Walrein
+setname: Standard
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Water Pulse]
+    - [Ice Fang]
+    - [Rock Tomb]
+    - [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 168, def: 0, spA: 100, spD: 0, spe: 72}
+---
+species: Walrein
+setname: Physical
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Waterfall]
+    - [Ice Fang]
+    - [Crunch]
+    - [Rock Smash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Lonely
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 17}
+evs: {hp: 36, atk: 92, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Walrein
+setname: Special
+item: [Null]
+ability: [Ice Body]
+moves:
+    - [Brine]
+    - [Icy Wind]
+    - [Signal Beam]
+    - [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Net]
+nature: Serious
+ivs: {hp: 10, atk: 0, def: 10, spA: 31, spD: 9, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 56, spD: 0, spe: 52}
+---
+species: Walrein
+setname: Belly Drum
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Ice Fang]
+    - [Headbutt]
+    - [Rock Smash]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 144}

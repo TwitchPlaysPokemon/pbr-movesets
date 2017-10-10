@@ -1,0 +1,89 @@
+species: Absol
+setname: Super Luck
+item: [Null]
+ability: [Super Luck]
+moves:
+    - [Night Slash]
+    - [Psycho Cut]
+    - [Flamethrower]
+    - [Leer]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Calm
+ivs: {hp: 31, atk: 19, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 16, atk: 0, def: 0, spA: 76, spD: 88, spe: 60}
+---
+species: Absol
+setname: Pressure
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Punishment]
+    - [Bounce]
+    - [Wish]
+    - [Detect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Timid
+ivs: 9
+evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+---
+species: Absol
+setname: Special
+item: [Null]
+ability: [Super Luck]
+moves:
+    - [Dark Pulse]
+    - [Ice Beam]
+    - [Me First]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Timid
+ivs: 31
+evs: {hp: 84, atk: 0, def: 84, spA: 84, spD: 84, spe: 172}
+---
+species: Absol
+setname: Baton Pass
+item: [Ganlon Berry]
+ability: [Pressure]
+moves:
+    - [Dark Pulse]
+    - [Shock Wave]
+    - [Calm Mind]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Heal]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 148, atk: 0, def: 136, spA: 56, spD: 16, spe: 152}
+---
+species: Absol
+setname: Mega
+item: [Everstone]
+ability: [Magic Guard]
+moves:
+    - [Night Slash]
+    - [Superpower]
+    - [Aerial Ace]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Timid
+ivs: {hp: 5, atk: 5, def: 5, spA: 31, spD: 5, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 136, spD: 0, spe: 224}

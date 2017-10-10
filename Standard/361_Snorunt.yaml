@@ -1,0 +1,53 @@
+species: Snorunt
+setname: Standard
+item: [Null]
+ability: [Ice Body]
+moves:
+    - [Ice Beam]
+    - [Shadow Ball]
+    - [Ice Shard]
+    - [Sheer Cold]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Quiet
+ivs: 31
+evs: {hp: 136, atk: 160, def: 68, spA: 144, spD: 0, spe: 0}
+---
+species: Snorunt
+setname: Physical
+item: [Zoom Lens]
+ability: [Inner Focus]
+moves:
+    - [Avalanche]
+    - [Return]
+    - [Ice Shard]
+    - [Sing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Repeat]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 136, def: 60, spA: 0, spD: 60, spe: 0}
+---
+species: Snorunt
+setname: Special
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Blizzard]
+    - [Shadow Ball]
+    - [Hidden Power]
+    - [Icy Wind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 152, atk: 0, def: 0, spA: 252, spD: 0, spe: 104}

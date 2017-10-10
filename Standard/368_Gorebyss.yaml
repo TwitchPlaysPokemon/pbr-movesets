@@ -1,0 +1,53 @@
+species: Gorebyss
+setname: Standard
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Aqua Tail]
+    - [Signal Beam]
+    - [Icy Wind]
+    - [Safeguard]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Mild
+ivs: 31
+evs: {hp: 116, atk: 16, def: 0, spA: 252, spD: 0, spe: 120}
+---
+species: Gorebyss
+setname: Physical
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Waterfall]
+    - [Body Slam]
+    - [Bounce]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 200}
+---
+species: Gorebyss
+setname: Special
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Water Pulse]
+    - [Psychic]
+    - [Shadow Ball]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 124, atk: 0, def: 0, spA: 0, spD: 0, spe: 60}

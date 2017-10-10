@@ -1,0 +1,71 @@
+species: Relicanth
+setname: Physical
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Stone Edge]
+    - [Aqua Tail]
+    - [Earthquake]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Net]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 31, spe: 10}
+evs: 0
+---
+species: Relicanth
+setname: Special
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Hydro Pump]
+    - [Ancient Power]
+    - [Earth Power]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Quiet
+ivs: 23
+evs: {hp: 76, atk: 0, def: 112, spA: 192, spD: 128, spe: 0}
+---
+species: Relicanth
+setname: Rain Dance
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Rock Slide]
+    - [Zen Headbutt]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Hasty
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 72}
+---
+species: Relicanth
+setname: Sandstorm
+item: [Smooth Rock]
+ability: [Rock Head]
+moves:
+    - [Head Smash]
+    - [Headbutt]
+    - [Skull Bash]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Cherish]
+nature: Gentle
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 31, spe: 0}
+evs: 0
