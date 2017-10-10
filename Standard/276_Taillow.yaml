@@ -14,7 +14,7 @@ biddable: True
 rarity: 0.4
 nature: Adamant
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 ---
 species: Taillow
 setname: Guts
@@ -32,7 +32,7 @@ biddable: True
 rarity: 0.3
 nature: Impish
 evs: {hp: 76, atk: 164, def: 0, spA: 0, spD: 16, spe: 252}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 ---
 species: Taillow
 setname: Scrappy
@@ -50,4 +50,4 @@ biddable: True
 rarity: 0.3
 nature: Adamant
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31

@@ -13,8 +13,8 @@ happiness: 255
 biddable: True
 rarity: 0.35
 nature: Naive
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
-ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
+evs: 85
+ivs: 20
 ---
 species: Ludicolo
 setname: Special
@@ -50,7 +50,7 @@ biddable: True
 rarity: 0.15
 nature: Naughty
 evs: {hp: 68, atk: 128, def: 124, spA: 0, spD: 124, spe: 64}
-ivs: {hp: 23, atk: 23, def: 23, spA: 23, spD: 23, spe: 23}
+ivs: 23
 ---
 species: Ludicolo
 setname: HM Slave
@@ -67,5 +67,5 @@ happiness: 255
 biddable: True
 rarity: 0.15
 nature: Adamant
-evs: {hp: 28, atk: 28, def: 28, spA: 28, spD: 28, spe: 28}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: 28
+ivs: 31

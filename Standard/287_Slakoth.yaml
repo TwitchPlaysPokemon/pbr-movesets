@@ -14,7 +14,7 @@ biddable: True
 rarity: 0.5
 nature: Jolly
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 ---
 species: Slakoth
 setname: Choice Band
@@ -32,4 +32,4 @@ biddable: True
 rarity: 0.5
 nature: Jolly
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
