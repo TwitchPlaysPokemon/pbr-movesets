@@ -13,7 +13,7 @@ happiness: 255
 biddable: True
 rarity: 0.35
 nature: Adamant
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 100, atk: 252, def: 0, spA: 0, spD: 0, spe: 156}
 ---
 species: Treecko
@@ -38,7 +38,7 @@ species: Treecko
 setname: Mixed
 ball: [Poké]
 item: [Hard Stone]
-ability: [Overgrow]
+ability: [Unburden]
 moves:
     - [Leaf Storm]
     - [Fling]
@@ -49,5 +49,5 @@ happiness: 255
 biddable: True
 rarity: 0.3
 nature: Naughty
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 evs: {hp: 200, atk: 244, def: 0, spA: 64, spD: 0, spe: 0}

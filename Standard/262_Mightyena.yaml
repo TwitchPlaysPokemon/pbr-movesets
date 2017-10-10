@@ -14,7 +14,7 @@ biddable: True
 rarity: 0.4
 nature: Adamant
 evs: {hp: 80, atk: 32, def: 0, spA: 252, spD: 80, spe: 64}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
 ---
 species: Mightyena
 setname: Special
@@ -50,4 +50,4 @@ biddable: True
 rarity: 0.2
 nature: Brave
 evs: {hp: 64, atk: 96, def: 48, spA: 0, spD: 48, spe: 252}
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: 31
