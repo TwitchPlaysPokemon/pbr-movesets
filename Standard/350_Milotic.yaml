@@ -1,0 +1,53 @@
+species: Milotic
+setname: Standard
+item: [Null]
+ball: [Dive]
+ability: [Marvel Scale]
+moves:
+    - [Aqua Tail]
+    - [Dragon Pulse]
+    - [Toxic]
+    - [Mirror Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Naughty
+ivs: {hp: 20, atk: 31, def: 31, spA: 31, spD: 31, spe: 15}
+evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Milotic
+setname: Physical
+item: [Null]
+ball: [Dusk]
+ability: [Cute Charm]
+moves:
+    - [Aqua Tail]
+    - [Return]
+    - [Confuse Ray]
+    - [Aqua Ring]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+ivs: {hp: 15, atk: 31, def: 10, spA: 10, spD: 10, spe: 10}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Milotic
+setname: Special
+item: [Null]
+ball: [Ultra]
+ability: [Marvel Scale]
+moves:
+    - [Surf]
+    - [Dragon Pulse]
+    - [Icy Wind]
+    - [Wrap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Rash
+ivs: {hp: 0, atk: 3, def: 3, spA: 3, spD: 3, spe: 3}
+evs: 0

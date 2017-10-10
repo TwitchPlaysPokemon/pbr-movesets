@@ -1,0 +1,71 @@
+species: Castform
+setname: Standard
+item: [Expert Belt]
+ball: [Luxury]
+ability: [Forecast]
+moves:
+    - [Weather Ball]
+    - [Rain Dance]
+    - [Sunny Day]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+nature: Timid
+ivs: 15
+evs: 84
+---
+species: Castform
+setname: Rain
+item: [Damp Rock]
+ball: [Dive]
+ability: [Forecast]
+moves:
+    - [Hydro Pump]
+    - [Thunder]
+    - [Energy Ball]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Rash
+ivs: 31
+evs: {hp: 80, atk: 168, def: 128, spA: 108, spD: 0, spe: 24}
+---
+species: Castform
+setname: Sun
+item: [Heat Rock]
+ball: [Repeat]
+ability: [Forecast]
+moves:
+    - [Fire Blast]
+    - [Solar Beam]
+    - [Shadow Ball]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Rash
+ivs: 31
+evs: {hp: 80, atk: 168, def: 128, spA: 108, spD: 0, spe: 24}
+---
+species: Castform
+setname: Hail
+item: [Icy Rock]
+ball: [Heal]
+ability: [Forecast]
+moves:
+    - [Blizzard]
+    - [Flamethrower]
+    - [Thunderbolt]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Gentle
+ivs: 31
+evs: {hp: 80, atk: 0, def: 40, spA: 232, spD: 56, spe: 56}

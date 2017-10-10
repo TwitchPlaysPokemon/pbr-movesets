@@ -1,0 +1,35 @@
+species: Feebas
+setname: Standard
+item: [Focus Sash]
+ball: [Poké]
+ability: [Adaptability]
+moves:
+    - [Surf]
+    - [Blizzard]
+    - [Counter]
+    - [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Modest
+ivs: 31
+evs: {hp: 52, atk: 0, def: 252, spA: 0, spD: 0, spe: 204}
+---
+species: Feebas
+setname: Physical
+item: [Life Orb]
+ball: [Poké]
+ability: [Adaptability]
+moves:
+    - [Waterfall]
+    - [Double-Edge]
+    - [Hypnosis]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Jolly
+ivs: 31
+evs: {hp: 92, atk: 252, def: 52, spA: 0, spD: 0, spe: 112}
