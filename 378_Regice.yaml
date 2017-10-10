@@ -1,0 +1,84 @@
+species: Regice
+setname: Standard
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Hidden Power]
+    - [Earthquake]
+    - [Flash Cannon]
+    - [Hail]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Naive
+ivs: {hp: 3, atk: 6, def: 14, spA: 29, spD: 3, spe: 15}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Regice
+setname: Physical
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Avalanche]
+    - [Earthquake]
+    - [Hammer Arm]
+    - [Curse]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Net]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 144, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Regice
+setname: Special
+item: [Null]
+ability: [Ice Body]
+moves:
+    - [Icy Wind]
+    - [Ancient Power]
+    - [Charge Beam]
+    - [Safeguard]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Great]
+nature: Naughty
+ivs: 3
+evs: {hp: 0, atk: 0, def: 0, spA: 40, spD: 0, spe: 140}
+---
+species: Regice
+setname: Flinch
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Icy Wind]
+    - [Zap Cannon]
+    - [Iron Head]
+    - [Rock Slide]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Repeat]
+nature: Naughty
+ivs: 5
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 176}
+---
+species: Regice
+setname: Overpowered
+item: [Null]
+ability: [Ice Body]
+moves:
+    - [Blizzard]
+    - [Focus Blast]
+    - [Thunderbolt]
+    - [Hail]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
