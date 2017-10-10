@@ -1,0 +1,53 @@
+species: Mantine
+setname: Standard
+item: [Null]
+ability: [Water Veil]
+moves:
+    - [Hydro Pump]
+    - [Bounce]
+    - [Secret Power]
+    - [Supersonic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 10, spA: 10, spD: 10, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mantine
+setname: Rain Dance
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Aqua Tail]
+    - [Blizzard]
+    - [Earthquake]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 40, spD: 0, spe: 0}
+---
+species: Mantine
+setname: Stall
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Dive]
+    - [Signal Beam]
+    - [Toxic]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 10, spD: 31, spe: 31}
+evs: {hp: 124, atk: 104, def: 80, spA: 0, spD: 0, spe: 200}

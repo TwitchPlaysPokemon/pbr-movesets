@@ -1,0 +1,71 @@
+species: Smeargle
+setname: Standard
+item: [Null]
+ability: [Technician]
+moves:
+    - [Extreme Speed]
+    - [Bonemerang]
+    - [Sacred Fire]
+    - [Dark Void]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Master]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 112, atk: 252, def: 80, spA: 0, spD: 64, spe: 0}
+---
+species: Smeargle
+setname: Crit
+item: [Scope Lens]
+ability: [Own Tempo]
+moves:
+    - [Judgment]
+    - [Spacial Rend]
+    - [Aeroblast]
+    - [Dark Void]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Safari]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 104, spA: 252, spD: 60, spe: 92}
+---
+species: Smeargle
+setname: CoinFlip
+item: [Sitrus Berry]
+ability: [Own Tempo]
+moves:
+    - [Super Fang]
+    - [Zap Cannon]
+    - [Sacred Fire]
+    - [Dynamic Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Master]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 252, def: 52, spA: 52, spD: 36, spe: 0}
+---
+species: Smeargle
+setname: Belly Drum
+item: [Null]
+ability: [Technician]
+moves:
+    - [Quick Attack]
+    - [Shadow Sneak]
+    - [Dark Void]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 136, def: 60, spA: 0, spD: 60, spe: 0}

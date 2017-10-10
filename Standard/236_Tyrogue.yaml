@@ -1,0 +1,17 @@
+species: Tyrogue
+setname: Standard
+item: [Toxic Obr]
+ability: [Guts]
+moves:
+    - [Fake Out]
+    - [Close Combat]
+    - [Earthquake]
+    - [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Poké]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 252, def: 64, spA: 0, spD: 64, spe: 0}

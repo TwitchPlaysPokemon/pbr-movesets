@@ -1,0 +1,53 @@
+species: Skarmory
+setname: Standard
+item: [Life Orb]
+ability: [Sturdy]
+moves:
+    - [Brave Bird]
+    - [Toxic]
+    - [Spikes]
+    - [Whirlwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Hasty
+ivs: 0
+evs: {hp: 116, atk: 36, def: 56, spA: 60, spD: 120, spe: 120}
+---
+species: Skarmory
+setname: Physical
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Drill Peck]
+    - [Steel Wing]
+    - [Night Slash]
+    - [Sand Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Serious
+ivs: {hp: 15, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 76, def: 0, spA: 0, spD: 0, spe: 116}
+---
+species: Skarmory
+setname: Curse
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Steel Wing]
+    - [Aerial Ace]
+    - [Rock Slide]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Mild
+ivs: {hp: 20, atk: 31, def: 0, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 20, def: 0, spA: 252, spD: 60, spe: 0}

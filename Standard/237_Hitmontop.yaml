@@ -1,0 +1,53 @@
+species: Hitmontop
+setname: Standard
+item: [Null]
+ability: [Technician]
+moves:
+    - [Triple Kick]
+    - [Aerial Ace]
+    - [Pursuit]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Timer]
+nature: Hardy
+ivs: 29
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Hitmontop
+setname: Mixed
+item: [Null]
+ability: [Technician]
+moves:
+    - [Rolling Kick]
+    - [HP Dark 59]
+    - [Mud-Slap]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 29, spD: 31, spe: 31}
+evs: {hp: 56, atk: 0, def: 0, spA: 252, spD: 0, spe: 200}
+---
+species: Hitmontop
+setname: Intimidate
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Seismic Toss]
+    - [Dig]
+    - [Toxic]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.2
+ball: [Timer]
+nature: Mild
+ivs: 20
+evs: {hp: 112, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

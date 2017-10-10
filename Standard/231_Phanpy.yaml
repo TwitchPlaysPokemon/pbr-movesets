@@ -1,0 +1,35 @@
+species: Phanpy
+setname: Standard
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Earthquake]
+    - [Head Smash]
+    - [Gunk Shot]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Safari]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 252, def: 0, spA: 0, spD: 0, spe: 140}
+---
+species: Phanpy
+setname: Rollout
+item: [Leftovers]
+ability: [Run Away]
+moves:
+    - [Earthquake]
+    - [Rollout]
+    - [Double Team]
+    - [Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poké]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 124, atk: 92, def: 0, spA: 0, spD: 40, spe: 252}

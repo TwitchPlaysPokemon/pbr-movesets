@@ -1,0 +1,53 @@
+species: Donphan
+setname: Standard
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Magnitude]
+    - [Poison Jab]
+    - [Rollout]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Nest]
+nature: Serious
+ivs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 20, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Donphan
+setname: Slow
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Gyro Ball]
+    - [Assurance]
+    - [Ice Shard]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 132, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Donphan
+setname: Support
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Earth Power]
+    - [Facade]
+    - [Rapid Spin]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 72, spD: 0, spe: 136}

@@ -1,0 +1,35 @@
+species: Swinub
+setname: Physical
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Earthquake]
+    - [Avalanche]
+    - [Ice Shard]
+    - [Endeavor]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Timer]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 164, atk: 88, def: 128, spA: 0, spD: 128, spe: 0}
+---
+species: Swinub
+setname: Special
+item: [Salac Berry]
+ability: [Snow Cloak]
+moves:
+    - [Blizzard]
+    - [Earth Power]
+    - [Hail]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 0, spA: 252, spD: 0, spe: 196}
