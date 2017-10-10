@@ -1,0 +1,101 @@
+species: Shedinja
+setname: Standard
+ball: [Net]
+item: [Focus Band]
+ability: [Wonder Guard]
+moves:
+    - [U-Turn]
+    - [Shadow Sneak]
+    - [Dig]
+    - [Confuse Ray]
+happiness: 255
+biddable: False
+rarity: 0.4
+nature: Naughty
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+---
+species: Shedinja
+setname: Swords Dance
+ball: [Dusk]
+item: [Null]
+ability: [Wonder Guard]
+moves:
+    - [X-Scissor]
+    - [Shadow Claw]
+    - [Sucker Punch]
+    - [Swords Dance]
+happiness: 255
+biddable: False
+rarity: 0.35
+nature: Hasty
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+---
+species: Shedinja
+setname: Special
+ball: [Nest]
+item: [Null]
+ability: [Wonder Guard]
+moves:
+    - [Bug Buzz]
+    - [Shadow Ball]
+    - [Solar Beam]
+    - [Sunny Day]
+happiness: 255
+biddable: False
+rarity: 0.25
+nature: Rash
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+---
+species: Shedinja
+setname: Token Lum
+ball: [Premier]
+item: [Lum Berry]
+ability: [Wonder Guard]
+moves:
+    - [X-Scissor]
+    - [Shadow Claw]
+    - [Curse]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Naughty
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+---
+species: Shedinja
+setname: Token Sash
+ball: [Quick]
+item: [Focus Sash]
+ability: [Wonder Guard]
+moves:
+    - [Silver Wind]
+    - [Shadow Ball]
+    - [Spite]
+    - [Endure]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Timid
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+---
+species: Shedinja
+setname: Token Shed
+ball: [Dusk]
+item: [Shed Shell]
+ability: [Wonder Guard]
+moves:
+    - [X-Scissor]
+    - [Shadow Ball]
+    - [Will-O-Wisp]
+    - [Baton Pass]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Lonely
+evs: {hp: 0, atk: 68, def: 0, spA: 188, spD: 0, spe: 252}
+ivs: 31
