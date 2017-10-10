@@ -1,0 +1,89 @@
+species: Mawile
+setname: Standard
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Super Fang]
+    - [Iron Head]
+    - [Crunch]
+    - [Ice Fang]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Serious
+ivs: 31
+evs: {hp: 84, atk: 108, def: 0, spA: 0, spD: 0, spe: 140}
+---
+species: Mawile
+setname: Physical
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Iron Head]
+    - [Sucker Punch]
+    - [Fire Fang]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Timer]
+nature: Serious
+ivs: 31
+evs: {hp: 40, atk: 52, def: 0, spA: 0, spD: 0, spe: 112}
+---
+species: Mawile
+setname: Max Attack
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Body Slam]
+    - [Bite]
+    - [Rock Smash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 112, atk: 252, def: 0, spA: 0, spD: 0, spe: 144}
+---
+species: Mawile
+setname: Special
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Flash Cannon]
+    - [Fire Blast]
+    - [Sludge Bomb]
+    - [Dark Pulse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Modest
+ivs: 31
+evs: {hp: 96, atk: 0, def: 0, spA: 252, spD: 0, spe: 160}
+---
+species: Mawile
+setname: Mega
+item: [Everstone]
+ability: [Huge Power]
+moves:
+    - [Metal Claw]
+    - [Thunder Fang]
+    - [Rock Tomb]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 31, atk: 2, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 0, def: 0, spA: 0, spD: 60, spe: 80}
