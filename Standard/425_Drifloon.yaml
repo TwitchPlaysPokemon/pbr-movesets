@@ -1,0 +1,53 @@
+species: Drifloon
+setname: Physical
+item: [Jaboca Berry]
+ball: [Dusk]
+ability: [Unburden]
+moves:
+    - [Shadow Force]
+    - [Fly]
+    - [Sucker Punch]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 72, spA: 0, spD: 36, spe: 52}
+---
+species: Drifloon
+setname: Special
+item: [Null]
+ball: [Premier]
+ability: [Afermath]
+moves:
+    - [Shadow Ball]
+    - [Psychic]
+    - [Charge Beam]
+    - [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+nature: Quiet
+ivs: 20
+evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
+---
+species: Drifloon
+setname: Unburden
+item: [Petaya Berry]
+ball: [Quick]
+ability: [Unburden]
+moves:
+    - [Shadow Ball]
+    - [Dream Eater]
+    - [Hypnosis]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Brave
+ivs: 0
+evs: {hp: 0, atk: 164, def: 68, spA: 0, spD: 68, spe: 0}

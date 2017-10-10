@@ -1,0 +1,107 @@
+species: Drifblim
+setname: Standard
+item: [Null]
+ball: [Dusk]
+ability: [Aftermath]
+moves:
+    - [Shadow Ball]
+    - [Fly]
+    - [Silver Wind]
+    - [Haze]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 20, spA: 31, spD: 10, spe: 10}
+evs: {hp: 0, atk: 0, def: 0, spA: 24, spD: 0, spe: 0}
+---
+species: Drifblim
+setname: Physical
+item: [Null]
+ball: [Repeat]
+ability: [Aftermath]
+moves:
+    - [Shadow Force]
+    - [Fly]
+    - [Facade]
+    - [Disable]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 11, spA: 0, spD: 23, spe: 31}
+evs: 0
+---
+species: Drifblim
+setname: Special
+item: [Null]
+ball: [Safari]
+ability: [Aftermath]
+moves:
+    - [Ominous Wind]
+    - [Air Cutter]
+    - [Shock Wave]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Lax
+ivs: 0
+evs: {hp: 0, atk: 0, def: 112, spA: 60, spD: 0, spe: 60}
+---
+species: Drifblim
+setname: Rain
+item: [Damp Rock]
+ball: [Dive]
+ability: [Aftermath]
+moves:
+    - [Shadow Ball]
+    - [Weather Ball]
+    - [Thunder]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Timid
+ivs: 7
+evs: {hp: 12, atk: 0, def: 0, spA: 40, spD: 0, spe: 96}
+---
+species: Drifblim
+setname: Unburden
+item: [Custap Berry]
+ball: [Quick]
+ability: [Unburden]
+moves:
+    - [Fly]
+    - [Natural Gift]
+    - []
+    - []
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Brave
+ivs: 0
+evs: {hp: 0, atk: 164, def: 68, spA: 0, spD: 68, spe: 0}
+---
+species: Drifblim
+setname: Weather Ball
+item: [Null]
+ball: [Cherish]
+ability: [Aftermath]
+moves:
+    - [Ominous Wind]
+    - [Weather Ball]
+    - [Rain Dance]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 12, atk: 0, def: 0, spA: 176, spD: 0, spe: 68}
