@@ -1,0 +1,71 @@
+species: Tyranitar
+setname: Standard
+item: [Null]
+ability: [Sand Stream]
+moves:
+    - [Rock Tomb]
+    - [Pursuit]
+    - [Flamethrower]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Hasty
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 164, def: 0, spA: 140, spD: 0, spe: 0}
+---
+species: Tyranitar
+setname: Special
+item: [Null]
+ability: [Sand Stream]
+moves:
+    - [Dark Pulse]
+    - [Earth Power]
+    - [Solarbeam]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dusk]
+nature: Mild
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 16, spD: 0, spe: 72}
+---
+species: Tyranitar
+setname: Mega
+item: [Everstone]
+ability: [Sand Stream]
+moves:
+    - [Bite]
+    - [Mega Punch]
+    - [Brick Break]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Rash
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 56}
+---
+species: Tyranitar
+setname: Overpowered
+item: [Null]
+ability: [Sand Stream]
+moves:
+    - [Stone Edge]
+    - [Crunch]
+    - [Outrage]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

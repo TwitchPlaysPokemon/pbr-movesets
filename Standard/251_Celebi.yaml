@@ -1,0 +1,67 @@
+species: Celebi
+setname: Standard
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Leaf Storm]
+    - [Zen Headbutt]
+    - [Shadow Ball]
+    - [Heal Block]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Cherish]
+nature: Jolly
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Celebi
+setname: Perish Song
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Seed Bomb]
+    - [Future Sight]
+    - [Sucker Punch]
+    - [Perish Song]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Poke]
+nature: Naive
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 120, spD: 0, spe: 0}
+---
+species: Celebi
+setname: Nasty Plot
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Magical Leaf]
+    - [Silver Wind]
+    - [Ancient Power]
+    - [Naty Plot]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Celebi
+setname: Overpowered
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Energy Ball]
+    - [Psychic]
+    - [Earth Power]
+    - [Leech Seed]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 84

@@ -1,0 +1,50 @@
+species: Ho-Oh
+setname: Standard
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Aerial Ace]
+    - [Steel Wing]
+    - [Rock Smash]
+    - [Mimic]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Ho-Oh
+setname: Special
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Air Cutter]
+    - [Hidden Power]
+    - [Giga Drain]
+    - [Tailwind]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Luxury]
+nature: Rash
+ivs: {hp: 0, atk: 28, def: 1, spA: 28, spD: 3, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Ho-Oh
+setname: Overpowered
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Sacred Fire]
+    - [Brave Bird]
+    - [Earthquake]
+    - [Sandstorm]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

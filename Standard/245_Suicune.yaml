@@ -1,0 +1,50 @@
+species: Suicune
+setname: Standard
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Brine]
+    - [Iron Head]
+    - [Shadow Ball]
+    - [Roar]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Great]
+nature: Lonely
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Suicune
+setname: Hail
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Bubble Beam]
+    - [Blizzard]
+    - [Extrasensory]
+    - [Hail]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Safari]
+nature: Rash
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 60, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Suicune
+setname: Overpowered
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Hidden Power]
+    - [Calm Mind]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature:  Naughty
+ivs: {hp: 2, atk: 2, def: 2, spA: 3, spD: 3, spe: 2}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
