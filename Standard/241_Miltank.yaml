@@ -7,7 +7,7 @@ moves:
     - [Rollout]
     - [Bide]
     - [Toxic]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -25,7 +25,7 @@ moves:
     - [Brick Break]
     - [Surf]
     - [Heal Bell]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -43,7 +43,7 @@ moves:
     - [Fire Punch]
     - [Ice Punch]
     - [Thunder Punch]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -61,7 +61,7 @@ moves:
     - [Rollout]
     - [Attract]
     - [Milk Drink]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.1

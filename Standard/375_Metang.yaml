@@ -7,7 +7,6 @@ moves:
     - [Zen Headbutt]
     - [Earthquake]
     - [Bullet Punch]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -25,7 +24,6 @@ moves:
     - [Zen Headbutt]
     - [Dynamic Punch]
     - [Iron Defense]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.25
@@ -61,7 +59,6 @@ moves:
     - [Zen Headbutt]
     - [Rock Slide]
     - [Rock Polish]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.2

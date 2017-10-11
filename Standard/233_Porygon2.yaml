@@ -7,7 +7,6 @@ moves:
     - [Shadow Ball]
     - [Toxic]
     - [Magic Coat]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.4

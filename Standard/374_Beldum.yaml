@@ -7,7 +7,6 @@ moves:
     - [Zen Headbutt]
     - [Headbutt]
     - [Iron Defense]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.75
@@ -25,7 +24,6 @@ moves:
     - [Zen Headbutt]
     - [Earthquake]
     - [U-turn]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.25

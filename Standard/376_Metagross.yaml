@@ -7,7 +7,6 @@ moves:
     - [Psychic]
     - [Grass Knot]
     - [Stealth Rock]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -25,7 +24,6 @@ moves:
     - [Aerial Ace]
     - [Pursuit]
     - [Mimic]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.2
@@ -43,7 +41,6 @@ moves:
     - [Flash Cannon]
     - [Sludge Bomb]
     - [Sandstorm]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.15
@@ -61,14 +58,13 @@ moves:
     - [Hammer Arm]
     - [Giga Impact]
     - [Gravity]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.15
 ball: [Timer]
 nature: Calm
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 ---
 species: Metagross
 setname: High Stats
@@ -79,7 +75,6 @@ moves:
     - [Icy Wind]
     - [Rock Smash]
     - [Block]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.1
@@ -89,7 +84,7 @@ ivs: 25
 evs: 85
 ---
 species: Metagross
-setname: MEga
+setname: Mega
 item: [Everstone]
 ability: [Iron Fist]
 moves:
@@ -97,11 +92,10 @@ moves:
     - [Hammer Arm]
     - [Ice Punch]
     - [Bullet Punch]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.1
 ball: [Cherish]
 nature: Modest
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0

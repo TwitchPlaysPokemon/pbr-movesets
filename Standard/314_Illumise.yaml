@@ -7,7 +7,7 @@ moves:
     - [Dynamic Punch]
     - [Thunder Punch]
     - [Charm]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.4
@@ -25,7 +25,7 @@ moves:
     - [Shadow Ball]
     - [Giga Drain]
     - [Charge Beam]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.6
