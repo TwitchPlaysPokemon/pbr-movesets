@@ -47,7 +47,7 @@ rarity: 0.2
 ball: [Great]
 nature: Adamant
 ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 1, spe: 1}
-evs: 
+evs: 0
 ---
 species: Kyogre
 setname: Max Sp. Att
@@ -62,7 +62,7 @@ happiness: 255
 biddable: True
 rarity: 0.2
 ball: [Timer]
-nature: 
+nature: Modest
 ivs: {hp: 0, atk: 0, def: 1, spA: 29, spD: 1, spe: 1}
 evs: {hp: 112, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---

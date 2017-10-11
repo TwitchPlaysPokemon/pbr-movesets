@@ -55,7 +55,7 @@ evs: {hp: 52, atk: 0, def: 4, spA: 48, spD: 0, spe: 160}
 species: Sealeo
 setname: Stall
 item: [Icy Rock]
-ability: [Icy Body]
+ability: [Ice Body]
 moves:
     - [Dive]
     - [Toxic]

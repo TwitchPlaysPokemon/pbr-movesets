@@ -81,4 +81,4 @@ rarity: 0.05
 ball: [Master]
 nature: Calm
 ivs: 0
-evs: {hp: 0, atk: 4, def: 0, spA: , spD: 8, spe: 0}
+evs: {hp: 0, atk: 4, def: 0, spA: 0, spD: 8, spe: 0}

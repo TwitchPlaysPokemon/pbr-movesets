@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 228, spe: 28}
 species: Luvdisc
 setname: Rain Dance
 item: [Null]
-ability: [Swift Swift]
+ability: [Swift Swim]
 moves:
     - [Waterfall]
     - [Return]

@@ -14,7 +14,7 @@ rarity: 0.4
 ball: [Premier]
 nature: Quiet
 ivs: 31
-evs: {hp: 16, atk: 108, def: 16, spA: 252, spD: 16, spe: 16
+evs: {hp: 16, atk: 108, def: 16, spA: 252, spD: 16, spe: 16}
 ---
 species: Sneasel
 setname: Special

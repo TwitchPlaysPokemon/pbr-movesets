@@ -70,7 +70,7 @@ nature: Adamant
 ivs: 0
 evs: {hp: 0, atk: 204, def: 0, spA: 0, spD: 40, spe: 0}
 ---
-species:Latios 
+species: Latios
 setname: Overpowered
 item: [Iron Ball]
 ability: [Levitate]
