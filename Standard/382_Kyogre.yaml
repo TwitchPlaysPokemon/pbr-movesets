@@ -1,0 +1,84 @@
+species: Kyogre
+setname: Standard
+item: [Null]
+ability: [Drizzle]
+moves:
+    - [Water Gun]
+    - [Ancient Power]
+    - [Strength]
+    - [Aqua Ring]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
+---
+species: Kyogre
+setname: Physical
+item: [Null]
+ability: [Drizzle]
+moves:
+    - [Dive]
+    - [Iron Head]
+    - [Giga Impact]
+    - [Safeguard]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Timid
+ivs: 0
+evs: 0
+---
+species: Kyogre
+setname: Hail
+item: [Null]
+ability: [Drizzle]
+moves:
+    - [Hidden Power]
+    - [Blizzard]
+    - [Shock Wave]
+    - [Hail]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Great]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 1, spe: 1}
+evs: 
+---
+species: Kyogre
+setname: Max Sp. Att
+item: [Null]
+ability: [Drizzle]
+moves:
+    - [Whirlpool]
+    - [Hidden Power]
+    - [Mud-Slap]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: 
+ivs: {hp: 0, atk: 0, def: 1, spA: 29, spD: 1, spe: 1}
+evs: {hp: 112, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Kyogre
+setname: Overpowered
+item: [Water Stone]
+ability: [Flash Fire]
+moves:
+    - [Surf]
+    - [Thunder]
+    - [Blizzard]
+    - [Sheer Cold]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: 0

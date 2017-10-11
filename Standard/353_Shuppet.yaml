@@ -1,0 +1,35 @@
+species: Shuppet
+setname: Physical
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Shadow Force]
+    - [Gunk Shot]
+    - [Sucker Punch]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: Jolly
+ivs: 31
+evs: {hp: 80, atk: 176, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Shuppet
+setname: Special
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Dark Pulse]
+    - [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}

@@ -1,0 +1,84 @@
+species: Groudon
+setname: Standard
+item: [Null]
+ability: [Drought]
+moves:
+    - [Earth Power]
+    - [Fire Punch]
+    - [Dragon Pulse]
+    - [Roar]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poké]
+nature: Mild
+ivs: {hp: 0, atk: 0, def: 0, spA: 3, spD: 2, spe: 2}
+evs: 0
+---
+species: Groudon
+setname: Physical
+item: [Null]
+ability: [Drought]
+moves:
+    - [Dig]
+    - [Aerial Ace]
+    - [Rollout]
+    - [Defense Curl]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Repeat]
+nature: Modest
+ivs: 0
+evs: 0
+---
+species: Groudon
+setname: Max Attack
+item: [Null]
+ability: [Drought]
+moves:
+    - [Sand Tomb]
+    - [Frustration]
+    - [Knock Off]
+    - [Protect]
+happiness: 180
+biddable: True
+rarity: 0.2
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Groudon
+setname: Special
+item: [Null]
+ability: [Drought]
+moves:
+    - [Earth Power]
+    - [Lava Plume]
+    - [Focus Blast]
+    - [Stealth Rock]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Lonely
+ivs: 0
+evs: 0
+---
+species: Groudon
+setname: Overpowered
+item: [Fire Stone]
+ability: [Water Absorb]
+moves:
+    - [Earthquake]
+    - [Overheat]
+    - [Stone Edge]
+    - [Fissure]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Modest
+ivs: 0
+evs: 0

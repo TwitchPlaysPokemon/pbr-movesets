@@ -1,0 +1,71 @@
+species: Kecleon
+setname: Standard
+item: [Null]
+ability: [Color Change]
+moves:
+    - [Body Slam]
+    - [Drain Punch]
+    - [Shadow Ball]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Rash
+ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 132, atk: 20, def: 0, spA: 252, spD: 0, spe: 104}
+---
+species: Kecleon
+setname: Physical
+item: [Expert Belt]
+ability: [Color Change]
+moves:
+    - [Shadow Claw]
+    - [Sucker Punch]
+    - [Drain Punch]
+    - [Skill Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Repeat]
+nature: Serious
+ivs: 31
+evs: {hp: 72, atk: 148, def: 76, spA: 0, spD: 0, spe: 164}
+---
+species: Kecleon
+setname: Special
+item: [Expert Belt]
+ability: [Color Change]
+moves:
+    - [Ice Beam]
+    - [Ancient Power]
+    - [Hidden Power]
+    - [Skill Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Modest
+ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 60, atk: 0, def: 0, spA: 252, spD: 0, spe: 132}
+---
+species: Kecleon
+setname: Mixed
+item: [Expert Belt]
+ability: [Color Change]
+moves:
+    - [Flamethrower]
+    - [Aqua Tail]
+    - [Hidden Power]
+    - [Skill Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Luxury]
+nature: Rash
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 0, spe: 31}
+evs: {hp: 28, atk: 80, def: 128, spA: 200, spD: 0, spe: 24}

@@ -1,0 +1,84 @@
+species: Jirachi
+setname: Physical
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Meteor Mash]
+    - [Body Slam]
+    - [Fire Punch]
+    - [Cosmic Power]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Jirachi
+setname: Special
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Flash Cannon]
+    - [Draco Meteor]
+    - [Energy Ball]
+    - [Healing Wish]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 0}
+---
+species: Jirachi
+setname: Support
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Psychic]
+    - [U-Turn]
+    - [Stealth Rock]
+    - [Healing Wish]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Brave
+ivs: {hp: 15, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
+---
+species: Jirachi
+setname: Doom Desire
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Doom Desire]
+    - [Water Pulse]
+    - [Last Resort]
+    - [Sandstorm]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Ultra]
+nature: Quiet
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 92, def: 0, spA: 104, spD: 0, spe: 0}
+---
+species: Jirachi
+setname: Overpowered
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Iron Head]
+    - [Secret Power]
+    - [Snore]
+    - [Rest]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: 0
