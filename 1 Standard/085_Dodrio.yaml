@@ -1,0 +1,71 @@
+species: Dodrio
+setname: Standard
+item: [Null]
+ability: [Run Away]
+moves:
+    - [Double-Edge]
+    - [Fly]
+    - [Steel Wing]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Careful
+evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
+ivs: 0
+---
+species: Dodrio
+setname: Tangled Feet
+item: [Null]
+ability: [Tangled Feet]
+moves:
+    - [Thrash]
+    - [Pluck]
+    - [Taunt]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Impish
+evs: {hp: 76, atk: 76, def: 60, spA: 0, spD: 88, spe: 76}
+ivs: 7
+---
+species: Dodrio
+setname: Swords Dance
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Aerial Ace]
+    - [Quick Attack]
+    - [Feint Attack]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Jolly
+evs: {hp: 104, atk: 100, def: 100, spA: 0, spD: 100, spe: 104}
+ivs: 31
+---
+species: Dodrio
+setname: Special
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Tri Attack]
+    - [Air Cutter]
+    - [Hidden Power]
+    - [Mirror Move]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Safari]
+nature: Mild
+evs: {hp: 80, atk: 96, def: 40, spA: 252, spD: 40, spe: 0}
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}

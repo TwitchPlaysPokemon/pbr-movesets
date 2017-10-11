@@ -1,0 +1,35 @@
+species: Vileplume
+setname: Special
+item: [Null]
+ability: [Effect Spore]
+moves:
+    - [Solarbeam]
+    - [Acid]
+    - [Hyper Beam]
+    - [Growth]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Safari]
+nature: Modest
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+ivs: 31
+---
+species: Vileplume
+setname: Mixed
+item: [Null]
+ability: [Effect Spore]
+moves:
+    - [Razor Leaf]
+    - [Acid]
+    - [Flail]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Repeat]
+nature: Lonely
+evs: {hp: 0, atk: 252, def: 0, spA: 164, spD: 16, spe: 76}
+ivs: {hp: 31, atk: 31, def: 20, spA: 31, spD: 31, spe: 31}

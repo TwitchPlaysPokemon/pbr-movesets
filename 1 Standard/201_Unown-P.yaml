@@ -1,0 +1,17 @@
+species: Unown
+setname: Perform
+item: [Twistedspoon]
+ability: [Serene Grace]
+moves:
+    - [Psybeam]
+    - [Teeter Dance]
+    - [Role Play]
+    - [Petal Dance]
+form: 15
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Modest
+ivs: 31
+evs: {hp: 168, atk: 0, def: 0, spA: 172, spD: 0, spe: 168}

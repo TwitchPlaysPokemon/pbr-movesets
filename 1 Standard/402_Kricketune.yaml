@@ -1,0 +1,71 @@
+species: Kricketune
+setname: Standard
+item: [Null]
+ability: [Swarm]
+moves:
+    - [Bug Buzz]
+    - [Hyper Voice]
+    - [Hidden Power]
+    - [Sing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Luxury]
+nature: Modest
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 212, atk: 0, def: 0, spA: 252, spD: 0, spe: 44}
+---
+species: Kricketune
+setname: Swords Dance
+item: [Null]
+ability: [Swarm]
+moves:
+    - [X-Scissor]
+    - [Brick Break]
+    - [Night Slash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Heal]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 136, atk: 0, def: 92, spA: 0, spD: 88, spe: 0}
+---
+species: Kricketune
+setname: Physical
+item: [Null]
+ability: [Technician]
+moves:
+    - [Bug Bite]
+    - [Aerial Ace]
+    - [Rock Smash]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Net]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 156, def: 100, spA: 0, spD: 100, spe: 152}
+---
+species: Kricketune 
+setname: Special
+item: [Null]
+ability: [Technician]
+moves:
+    - [Silver Wind]
+    - [Hidden Power]
+    - [Uproar]
+    - [Perish Song]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: Timid
+ivs: {hp: 29, atk: 29, def: 28, spA: 31, spD: 30, spe: 28}
+evs: {hp: 0, atk: 0, def: 64, spA: 252, spD: 52, spe: 140}

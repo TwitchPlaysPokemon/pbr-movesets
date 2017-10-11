@@ -1,0 +1,71 @@
+species: Pikachu
+setname: Mixed
+item: [Light Ball]
+ability: [Static]
+moves:
+    - [Volt Tackle]
+    - [Meteor Mash]
+    - [Surf]
+    - [Extreme Speed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Cherish]
+nature: Bold
+evs: {hp: 252, atk: 0, def: 96, spA: 0, spD: 92, spe: 68}
+ivs: 22
+---
+species: Pikachu
+setname: Max Atk
+item: [Light Ball]
+ability: [Static]
+moves:
+    - [Thunder Punch]
+    - [Present]
+    - [Quick Attack]
+    - [Teeter Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Brave
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+---
+species: Pikachu
+setname: Max Sp Atk
+item: [Light Ball]
+ability: [Lightningrod]
+moves:
+    - [Thunder Shock]
+    - [Swift]
+    - [Hidden Power]
+    - [Mud-Slap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Safari]
+nature: Modest
+evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
+ivs: {hp: 31, atk: 28, def: 28, spA: 28, spD: 31, spe: 28}
+---
+species: Pikachu
+setname: Evasion
+item: [Light Ball]
+ability: [Lightningrod]
+moves:
+    - [Thunderbolt]
+    - [Body Slam]
+    - [Seismic Toss]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Poke]
+nature: Docile
+evs: {hp: 0, atk: 0, def: 168, spA: 0, spD: 168, spe: 172}
+ivs: 31

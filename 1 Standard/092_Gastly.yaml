@@ -1,0 +1,35 @@
+species: Gastly
+setname: Special
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Sludge Bomb]
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.85
+ball: [Dusk]
+nature: Timid
+evs: {hp: 108, atk: 0, def: 100, spA: 40, spD: 100, spe: 160}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Gastly
+setname: Curse
+item: [Sitrus Berry]
+ability: [Levitate]
+moves:
+    - [Shadow Ball]
+    - [Pain Split]
+    - [Hypnosis]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Net]
+nature: Serious
+evs: {hp: 212, atk: 0, def: 96, spA: 0, spD: 76, spe: 124}
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 31}

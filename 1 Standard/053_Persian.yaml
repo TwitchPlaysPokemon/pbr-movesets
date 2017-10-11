@@ -1,0 +1,53 @@
+species: Persian
+setname: Physical
+item: [Null]
+ability: [Technician]
+moves:
+    - [Fake Out]
+    - [Headbutt]
+    - [Gunk Shot]
+    - [Thief]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Lonely
+evs: 85
+ivs: 13
+---
+species: Persian
+setname: Special
+item: [Null]
+ability: [Technician]
+moves:
+    - [Uproar]
+    - [Petal Dance]
+    - [Power Gem]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Modest
+evs: {hp: 0, atk: 0, def: 0, spA: 84, spD: 0, spe: 0}
+ivs: 31
+---
+species: Persian
+setname: Pay Day
+item: [Metronome]
+ability: [Technician]
+moves:
+    - [Pay Day]
+    - [Thunderbolt]
+    - [Night Slash]
+    - [Mud Slap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Luxury]
+nature: Lonely
+evs: {hp: 24, atk: 232, def: 76, spA: 44, spD: 4, spe: 44}
+ivs: 31

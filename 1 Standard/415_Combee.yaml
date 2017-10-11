@@ -1,0 +1,53 @@
+species: Combee
+setname: Standard
+item: [Focus Sash]
+ability: [Hustle]
+moves:
+    - [Fly]
+    - [U-turn]
+    - [Giga Impact]
+    - [Endeavor]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Jolly 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 148, atk: 240, def: 0, spA: 0, spD: 0, spe: 120}
+---
+species: Combee
+setname: Special
+item: [Focus Sash]
+ability: [Serene Grace]
+moves:
+    - [Air Slash]
+    - [Silver Wind]
+    - [Ominous Wind]
+    - [String Shot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Modest 
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 52, atk: 0, def: 0, spA: 240, spD: 0, spe: 216}
+---
+species: Combee
+setname: Physical
+item: [Sitrus Berry]
+ability: [Hustle]
+moves:
+    - [Aerial Ace]
+    - [Toxic]
+    - [Defend Order]
+    - [Heal Order]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0
+ball: [Heal]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 216, atk: 0, def: 120, spA: 0, spD: 120, spe: 52}

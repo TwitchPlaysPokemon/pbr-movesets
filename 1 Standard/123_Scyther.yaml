@@ -1,0 +1,53 @@
+species: Scyther
+setname: Technician
+item: [Null]
+ability: [Technician]
+moves:
+    - [Bug Bite]
+    - [Aerial Ace]
+    - [Pursuit]
+    - [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Net]
+nature: Docile
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
+ivs: 0
+---
+species: Scyther
+setname: Swarm
+item: [Null]
+ability: [Swarm]
+moves:
+    - [X-Scissor]
+    - [Night Slash]
+    - [Reversal]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Safari]
+nature: Quiet
+evs: {hp: 172, atk: 80, def: 128, spA: 0, spD: 128, spe: 0}
+ivs: 0
+---
+species: Scyther
+setname: Special
+item: [Null]
+ability: [Technician]
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [False Swipe]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Heal]
+nature: Brave
+evs: {hp: 60, atk: 252, def: 0, spA: 196, spD: 0, spe: 0}
+ivs: 31

@@ -1,0 +1,35 @@
+species: Minun
+setname: Physical
+item: [Destiny Knot]
+ability: [Minus]
+moves:
+    - [Thunder Punch]
+    - [Frustration]
+    - [Iron Tail]
+    - [Attract]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Adamant
+ivs: 31
+evs: {hp: 96, atk: 252, def: 64, spA: 0, spD: 96, spe: 0}
+---
+species: Minun
+setname: Special
+item: [Null]
+ability: [Minus]
+moves:
+    - [Thunder]
+    - [Signal Beam]
+    - [Grass Knot]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Serious
+ivs: 31
+evs: {hp: 104, atk: 0, def: 24, spA: 148, spD: 28, spe: 64}

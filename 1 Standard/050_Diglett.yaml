@@ -1,0 +1,17 @@
+species: Diglett
+setname: Standard
+item: [Focus Sash]
+ability: [Arena Trap]
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Reversal]
+    - [Memento]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}

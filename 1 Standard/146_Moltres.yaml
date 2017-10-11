@@ -1,0 +1,50 @@
+species: Moltres
+setname: Special
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Heat Wave]
+    - [Air Slash]
+    - [Ancient Power]
+    - [Defog]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Luxury]
+nature: Jolly
+evs: 0
+ivs: 0
+---
+species: Moltres
+setname: Standard
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Pluck]
+    - [Ember]
+    - [Swift]
+    - [Mimic]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Cherish]
+nature: Modest
+evs: {hp: 84, atk: 0, def: 164, spA: 112, spD: 0, spe: 120}
+ivs: 31
+---
+species: Moltres
+setname: Overpowered
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Fire Blast]
+    - [Sky Attack]
+    - [Extrasensory]
+    - [Agility]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Serious
+evs: {hp: 0, atk: 72, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 5

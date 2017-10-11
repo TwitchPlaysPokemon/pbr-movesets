@@ -1,0 +1,53 @@
+species: Tangela
+setname: Physical
+item: [Null]
+ability: [Leaf Guard]
+moves:
+    - [Power Whip]
+    - [Double-Edge]
+    - [Thief]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Safari]
+nature: Adamant
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+ivs: 31
+---
+species: Tangela
+setname: Special
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Solarbeam]
+    - [Sludge Bomb]
+    - [Wring Out]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.32
+ball: [Nest]
+nature: Calm
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Tangela
+setname: Growth
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Giga Drain (+6)]
+    - [Sleep Powder]
+    - [Growth]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.28
+ball: [Great]
+nature: Jolly
+evs: {hp: 28, atk: 0, def: 0, spA: 0, spD: 120, spe: 12}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

@@ -1,0 +1,53 @@
+species: Lapras
+setname: Perish Song
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Surf]
+    - [Avalanche]
+    - [Perish Song]
+    - [Block]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Dive]
+nature: Lax
+evs: {hp: 80, atk: 84, def: 112, spA: 84, spD: 64, spe: 84}
+ivs: 9
+---
+species: Lapras
+setname: Physical
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Waterfall]
+    - [Ice Shard]
+    - [Zen Headbutt]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Heal]
+nature: Serious
+evs: {hp: 40, atk: 80, def: 40, spA: 192, spD: 40, spe: 116}
+ivs: 0
+---
+species: Lapras
+setname: Special
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Blizzard]
+    - [Bubble Beam]
+    - [Thunderbolt]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Naive
+evs: 0
+ivs: {hp: 10, atk: 0, def: 0, spA: 29, spD: 0, spe: 31}

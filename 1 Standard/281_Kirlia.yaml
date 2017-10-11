@@ -1,0 +1,35 @@
+species: Kirlia
+setname: Physical
+ball: [Repeat]
+item: [Null]
+ability: [Trace]
+moves:
+    - [Zen Headbutt]
+    - [Thunder Punch]
+    - [Ice Punch]
+    - [Thunder Wave]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Adamant
+evs: {hp: 160, atk: 252, def: 96, spA: 0, spD: 0, spe: 0}
+ivs: 31
+---
+species: Kirlia
+setname: Special
+ball: [Great]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Signal Beam]
+    - [Imprison]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.7
+nature: Modest
+evs: {hp: 200, atk: 0, def: 44, spA: 104, spD: 0, spe: 160}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

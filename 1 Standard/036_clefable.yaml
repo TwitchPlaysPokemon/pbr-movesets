@@ -1,0 +1,53 @@
+species: Clefable
+setname: Special
+item: [Null]
+ability: [Cute Charm]
+moves:
+    - [Tri Attack]
+    - [Psychic]
+    - [Water Pulse]
+    - [Cosmic Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Heal]
+nature: Jolly
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+ivs: 5
+---
+species: Clefable
+setname: Physical
+item: [Null]
+ability: [Magic Guard]
+moves:
+    - [Strength]
+    - [Meteor Mash]
+    - [Copycat]
+    - [Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Modest
+evs: {hp: 0, atk: 172, def: 84, spA: 252, spD: 0, spe: 0}
+ivs: 31
+---
+species: Clefable
+setname: Defensive
+item: [Flame Orb]
+ability: [Magic Guard]
+moves:
+    - [Hyper Voice]
+    - [Ice Beam]
+    - [Trick]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Timer]
+nature: Impish
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+ivs: 5

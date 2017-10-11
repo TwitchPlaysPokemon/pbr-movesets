@@ -1,0 +1,35 @@
+species: Ekans
+setname: Intimidate
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Gunk Shot]
+    - [Earthquake]
+    - [Rock Slide]
+    - [Glare]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Safari]
+nature: Careful
+evs: {hp: 84, atk: 168, def: 84, spA: 0, spD: 0, spe: 172}
+ivs: 31
+---
+species: Ekans
+setname: Shed Skin
+item: [Sitrus Berry]
+ability: [Shed Skin]
+moves:
+    - [Sludge Bomb]
+    - [Mud Bomb]
+    - [Stock Pile]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Heal]
+nature: Modest
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
+ivs: 31

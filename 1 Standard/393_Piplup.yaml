@@ -1,0 +1,53 @@
+species: Piplup
+setname: Standard
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Hydro Pump]
+    - [Drill Peck]
+    - [Icy Wind]
+    - [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Poke]
+nature: Quiet
+evs: {hp: 216, atk: 188, def: 24, spA: 32, spD: 48, spe: 0}
+ivs: 31
+---
+species: Piplup
+setname: Physical
+item: [Liechi Berry]
+ability: [Torrent]
+moves:
+    - [Waterfall]
+    - [Flail]
+    - [Agility]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Adamant
+evs: {hp: 8, atk: 252, def: 80, spA: 0, spD: 80, spe: 88}
+ivs: 31
+---
+species: Piplup
+setname: Special
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Surf]
+    - [Blizzard]
+    - [Grass Knot]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Modest
+evs: {hp: 216, atk: 0, def: 0, spA: 168, spD: 0, spe: 124}
+ivs: 31

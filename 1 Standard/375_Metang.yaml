@@ -1,0 +1,68 @@
+species: Metang
+setname: Standard
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Flash Cannon]
+    - [Zen Headbutt]
+    - [Earthquake]
+    - [Bullet Punch]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: 85
+---
+species: Metang
+setname: Physical
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash]
+    - [Zen Headbutt]
+    - [Dynamic Punch]
+    - [Iron Defense]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 10, spA: 10, spD: 10, spe: 10}
+evs: {hp: 64, atk: 96, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Metang
+setname: Special
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Psychic]
+    - [Flash Cannon]
+    - [Shadow Ball]
+    - [Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 10, spA: 31, spD: 31, spe: 31}
+evs: {hp: 48, atk: 0, def: 0, spA: 200, spD: 36, spe: 0}
+---
+species: Metang
+setname: Flinch
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Iron Head]
+    - [Zen Headbutt]
+    - [Rock Slide]
+    - [Rock Polish]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 12, spA: 12, spD: 12, spe: 31}
+evs: {hp: 0, atk: 64, def: 0, spA: 0, spD: 0, spe: 24}

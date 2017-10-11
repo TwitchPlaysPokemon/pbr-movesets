@@ -1,0 +1,35 @@
+species: Nidoqueen
+setname: Standard
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Earthquake]
+    - [Poison Jab]
+    - [Icy Wind]
+    - [Toxic Spikes]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Adamant
+evs: {hp: 56, atk: 56, def: 28, spA: 4, spD: 28, spe: 28}
+ivs: 21
+---
+species: Nidoqueen
+setname: Special
+item: [Null]
+ability: [Poison Point]
+moves:
+    - [Earth Power]
+    - [Blizzard]
+    - [Flamethrower]
+    - [Surf]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Serious
+evs: {hp: 0, atk: 0, def: 0, spA: 120, spD: 0, spe: 0}
+ivs: 13

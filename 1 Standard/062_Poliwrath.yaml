@@ -1,0 +1,53 @@
+species: Poliwrath
+setname: Mind Reader
+item: [Null]
+ability: [Damp]
+moves:
+    - [Hydro Pump]
+    - [Dynamic Punch]
+    - [Mind Reader]
+    - [Refresh]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Safari]
+nature: Bashful
+evs: 84
+ivs: {hp: 5, atk: 31, def: 5, spA: 31, spD: 5, spe: 20}
+---
+species: Poliwrath
+setname: Physical
+item: [Power Herb]
+ability: [Damp]
+moves:
+    - [Dive]
+    - [Submission]
+    - [Skull Bash]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Docile
+evs: {hp: 80, atk: 32, def: 84, spA: 0, spD: 84, spe: 84}
+ivs: 0
+---
+species: Poliwrath
+setname: Special
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Focus Blast]
+    - [Bubble Beam]
+    - [Vacuum Wave]
+    - [Haze]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Docile
+evs: {hp: 0, atk: 0, def: 36, spA: 36, spD: 36, spe: 36}
+ivs: 31

@@ -1,0 +1,35 @@
+species: Fearow
+setname: Standard
+item: [Null]
+ability: [Sniper]
+moves:
+    - [Drill Peck]
+    - [Tri Attack]
+    - [Hidden Power]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Quiet
+evs: {hp: 12, atk: 12, def: 16, spA: 200, spD: 80, spe: 124}
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+---
+species: Fearow
+setname: Physical
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Secret Power]
+    - [Pluck]
+    - [Steel Wing]
+    - [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Brave
+evs: {hp: 108, atk: 168, def: 108, spA: 0, spD: 108, spe: 16}
+ivs: 21
