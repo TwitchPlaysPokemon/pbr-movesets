@@ -30,11 +30,11 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.25
-nature:
+nature: Adamant
 ivs: 31
 evs: {hp: 84, atk: 168, def: 44, spA: 0, spD: 44, spe: 168}
 ---
-pecies: Buneary
+species: Buneary
 setname: Standard
 item: [Life Orb]
 ball: [Premier]
