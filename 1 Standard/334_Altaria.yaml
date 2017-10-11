@@ -1,0 +1,71 @@
+species: Altaria
+setname: Standard
+ball: [Heal]
+item: [Null]
+ability: [Cloud Nine]
+moves:
+    - [Sky Attack]
+    - [Draco Meteor]
+    - [Take Down]
+    - [Haze]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Lonely
+evs: {hp: 0, atk: 92, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 20, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
+---
+species: Altaria
+setname: Physical
+ball: [Great]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Outrage]
+    - [Fly]
+    - [Earthquake]
+    - [Toxic]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Hardy
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Altaria
+setname: Special
+ball: [Luxury]
+item: [Null]
+ability: [Cloud Nine]
+moves:
+    - [Dragon Pulse]
+    - [Hidden Power]
+    - [Fire Blast]
+    - [Tailwind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+evs: {hp: 0, atk: 0, def: 0, spA: 24, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 15}
+---
+species: Altaria
+setname: Dance
+ball: [Timer]
+item: [Null]
+ability: [Cloud Nine]
+moves:
+    - [Draco Meteor]
+    - [Pluck]
+    - [Feather Dance]
+    - [Dragon Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Lonely
+evs: {hp: 36, atk: 172, def: 0, spA: 220, spD: 80, spe: 0}
+ivs: {hp: 12, atk: 12, def: 12, spA: 12, spD: 12, spe: 12}
