@@ -1,0 +1,12 @@
+species: Mewtwo
+setname: Stadium 2
+moves:
+    - Confusion
+    - Swift
+    - Metronome
+    - Psych Up
+happiness: 255
+rarity: 0.0
+nature: Docile
+ivs: 0
+evs: 0
