@@ -1,0 +1,53 @@
+species: Slowbro
+setname: Standard
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Surf]
+    - [Confusion]
+    - [Counter]
+    - [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Repeat]
+nature: Brave
+evs: {hp: 84, atk: 172, def: 84, spA: 84, spD: 84, spe: 0}
+ivs: 8
+---
+species: Slowbro
+setname: Special
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Brine]
+    - [Future Sight]
+    - [Flamethrower]
+    - [Slack Off]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Heal]
+nature: Modest
+evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
+ivs: 0
+---
+species: Slowbro
+setname: Physical
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Aqua Tail]
+    - [Focus Punch]
+    - [Avalanche]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Brave
+evs: 0
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}

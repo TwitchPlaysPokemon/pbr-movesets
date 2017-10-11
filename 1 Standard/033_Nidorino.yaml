@@ -1,0 +1,35 @@
+species: Nidorino
+setname: Physical
+item: [Null]
+ability: [Hustle]
+moves:
+    - [Poison Jab]
+    - [Iron Tail]
+    - [Horn Attack]
+    - [Shadow Claw]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Jolly
+evs: {hp: 168, atk: 168, def: 0, spA: 0, spD: 0, spe: 172}
+ivs: 31
+---
+species: Nidorino
+setname: Special
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Sludge Bomb]
+    - [Water Pulse]
+    - [Horn Drill]
+    - [Flatter]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Timid
+evs: {hp: 196, atk: 0, def: 0, spA: 212, spD: 0, spe: 100}
+ivs: 31

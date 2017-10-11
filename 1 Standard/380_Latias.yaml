@@ -1,0 +1,89 @@
+species: Latias
+setname: Physical
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt]
+    - [Dragon Claw]
+    - [Sucker Punch]
+    - [Roar]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poké]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Latias
+setname: Special
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Dragon Pulse]
+    - [Mist Ball]
+    - [Water Pulse]
+    - [Healing Wish]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Adamant
+ivs: 2
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Latias
+setname: Soul Dew
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+    - [Hidden Power]
+    - [Twister]
+    - [Aerial Ace]
+    - [Mimic]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0 spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Latias
+setname: Airplane
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Mist Ball]
+    - [Fly]
+    - [Icy Wind]
+    - [Tailwind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Hasty
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Latias
+setname: Overpowered
+item: [Black Sludge]
+ability: [Levitate]
+moves:
+    - [Draco Meteor]
+    - [Psychic]
+    - [Ice Beam]
+    - [Wish]
+gender: [f]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

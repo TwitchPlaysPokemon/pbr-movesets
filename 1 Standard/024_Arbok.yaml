@@ -1,0 +1,53 @@
+species: Arbok
+setname: Fang
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Poison Fang]
+    - [Ice Fang]
+    - [Fire Fang]
+    - [Thunder Fang]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Adamant
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+ivs: 31
+---
+species: Arbok
+setname: Special
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Sludge Bomb]
+    - [Dark Pulse]
+    - [Mud Bomb]
+    - [Snatch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: quiet
+evs: {hp: 72, atk: 168, def: 40, spA: 128, spD: 40, spe: 60}
+ivs: 31
+---
+species: Arbok
+setname: Rest
+item: [Flame Orb]
+ability: [Shed Skin]
+moves:
+    - [Poison Jab]
+    - [Iron Tail]
+    - [Seed Bomb]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Heal]
+nature: Adamant
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+ivs: 31

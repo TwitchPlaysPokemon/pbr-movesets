@@ -1,0 +1,53 @@
+species: Psyduck
+setname: Special
+item: [Null]
+ability: [Damp]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Petal Dance]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dive]
+nature: Timid
+evs: {hp: 88, atk: 0, def: 124, spA: 84, spD: 124, spe: 88}
+ivs: 31
+---
+species: Psyduck
+setname: Physical
+item: [Zoom Lens]
+ability: [Cloud Nine]
+moves:
+    - [Aqua Tail]
+    - [Cross Chop]
+    - [Zen Headbutt]
+    - [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Adamant
+evs: {hp: 248, atk: 204, def: 28, spA: 0, spD: 28, spe: 0}
+ivs: 31
+---
+species: Psyduck
+setname: Swift Swim
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Psychic]
+    - [Mud Bomb]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Quick]
+nature: Brave
+evs: {hp: 100, atk: 104, def: 100, spA: 104, spD: 100, spe: 100}
+ivs: 31

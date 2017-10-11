@@ -1,0 +1,89 @@
+species: Latios
+setname: Physical
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Outrage]
+    - [Zen Headbutt]
+    - [Giga Impact]
+    - [Heal Block]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Rash
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 5}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Latios
+setname: Special
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Luster Purge]
+    - [Dragon Breath]
+    - [Shock Wave]
+    - [Memento]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Brave
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Latios
+setname: Soul Dew
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+    - [Twister]
+    - [Water Pulse]
+    - [Body Slam]
+    - [Mimic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Latios
+setname: Jet Fighter
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Energy Ball]
+    - [Return]
+    - [Aerial Ace]
+    - [Dragon Dance]
+gender: [m]
+happiness: 188
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 204, def: 0, spA: 0, spD: 40, spe: 0}
+---
+species:Latios 
+setname: Overpowered
+item: [Iron Ball]
+ability: [Levitate]
+moves:
+    - [Draco Meteor]
+    - [Psychic]
+    - [Energy Ball]
+    - [Calm Mind]
+gender: [m]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}

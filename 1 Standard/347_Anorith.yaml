@@ -1,0 +1,35 @@
+species: Anorith
+setname: Standard
+ball: [Dive]
+item: [Null]
+ability: [Battle Armor]
+moves:
+    - [X-Scissor]
+    - [Rock Tomb]
+    - [Brick Break]
+    - [Crush Claw]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Serious
+evs: {hp: 252, atk: 112, def: 16, spA: 0, spD: 48, spe: 80}
+ivs: 31
+---
+species: Anorith
+setname: Swords Dance
+ball: [Net]
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [X-Scissor]
+    - [Rock Slide]
+    - [Aqua Jet]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Serious
+evs: {hp: 164, atk: 68, def: 44, spA: 0, spD: 80, spe: 64}
+ivs: 31

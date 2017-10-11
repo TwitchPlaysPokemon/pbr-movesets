@@ -1,0 +1,53 @@
+species: Shelgon 
+setname: Physical
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Dragon Rush]
+    - [Shadow Claw]
+    - [Fire Fang]
+    - [Wish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Quick]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 148, spe: 20}
+---
+species: Shelgon
+setname: Special
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Draco Meteor]
+    - [Flamethrower]
+    - [Dragon Breath]
+    - [Focus Energy]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+---
+species: Shelgon
+setname: Rollout
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Dragon Breath]
+    - [Bite]
+    - [Rollout]
+    - [Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Great]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 72, atk: 16, def: 0, spA: 228, spD: 136, spe: 56}

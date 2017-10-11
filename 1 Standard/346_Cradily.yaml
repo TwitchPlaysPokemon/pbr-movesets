@@ -1,0 +1,71 @@
+species: Cradily
+setname: Standard
+ball: [Luxury]
+item: [Null]
+ability: [Storm Drain]
+moves:
+    - [Giga Drain]
+    - [Rock Tomb]
+    - [Toxic]
+    - [Ingrain]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+evs: {hp: 0, atk: 96, def: 0, spA: 156, spD: 0, spe: 24}
+ivs: {hp: 0, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
+---
+species: Cradily
+setname: Physical
+ball: [Safari]
+item: [Null]
+ability: [Storm Drain]
+moves:
+    - [Stone Edge]
+    - [Seed Bomb]
+    - [Earthquake]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+evs: {hp: 0, atk: 152, def: 0, spA: 0, spD: 0, spe: 220}
+ivs: 3
+---
+species: Cradily
+setname: Special
+ball: [Nest]
+item: [Null]
+ability: [Suction Cups]
+moves:
+    - [Energy Ball]
+    - [Earth Power]
+    - [Sludge Bomb]
+    - [Brine]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+evs: {hp: 0, atk: 0, def: 0, spA: 144, spD: 0, spe: 40}
+ivs: {hp: 0, atk: 0, def: 13, spA: 31, spD: 13, spe: 31}
+---
+species: Cradily
+setname: Sunny Day
+ball: [Dusk]
+item: [Null]
+ability: [Suction Cups]
+moves:
+    - [Solar Beam]
+    - [Hidden Power]
+    - [Ancient Power]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+evs: {hp: 0, atk: 0, def: 28, spA: 12, spD: 36, spe: 68}
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}

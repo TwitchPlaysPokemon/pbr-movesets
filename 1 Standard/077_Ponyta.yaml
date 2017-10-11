@@ -1,0 +1,35 @@
+species: Ponyta
+setname: Physical
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Flare Blitz]
+    - [Bounce]
+    - [Horn Drill]
+    - [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Adamant
+evs: {hp: 124, atk: 0, def: 60, spA: 0, spD: 28, spe: 52}
+ivs: 31
+---
+species: Ponyta
+setname: Special
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Fire Blast]
+    - [Solar Beam]
+    - [Morning Sun]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Modest
+evs: {hp: 216, atk: 0, def: 24, spA: 96, spD: 24, spe: 60}
+ivs: 31

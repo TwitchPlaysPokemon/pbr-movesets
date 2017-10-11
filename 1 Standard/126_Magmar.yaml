@@ -1,0 +1,53 @@
+species: Magmar
+setname: Physical
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Fire Punch]
+    - [Strength]
+    - [Feint Attack]
+    - [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Quick]
+nature: Impish
+evs: 84
+ivs: 8
+---
+species: Magmar
+setname: Special
+item: [Null]
+ability: [Vital Spirit]
+moves:
+    - [Fire Blast]
+    - [Mega Kick]
+    - [Psychic]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Timer]
+nature: Naughty
+evs: 84
+ivs: 5
+---
+species: Magmar
+setname: Stall
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Lava Plume]
+    - [Focus Blast]
+    - [Barrier]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Serious
+evs: 0
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 25}

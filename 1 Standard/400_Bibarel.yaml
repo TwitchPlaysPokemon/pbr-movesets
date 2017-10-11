@@ -1,0 +1,71 @@
+species: Bibarel 
+setname: Standard
+item: [Null]
+ability: [Unaware]
+moves:
+    - [Dive]
+    - [Hyper Beam]
+    - [Superpower]
+    - [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 68, atk: 16, def: 0, spA: 216, spD: 0, spe: 48}
+---
+species: Bibarel
+setname: Special
+item: [Null]
+ability: [Unaware]
+moves:
+    - [Surf]
+    - [Swift]
+    - [Thunderbolt]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
+evs: {hp: 188, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Bibarel
+setname: HM Slave
+item: [TM70]
+ability: [Unaware]
+moves:
+    - [Rock Climb]
+    - [Waterfall]
+    - [Rock Smash]
+    - [Whirlpool]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 64, spA: 0, spD: 60, spe: 108}
+---
+species: Bibarel
+setname: Rollout
+item: [Null]
+ability: [Simple]
+moves:
+    - [Swift]
+    - [Aqua Jet]
+    - [Rollout]
+    - [Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Gentle
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 80, def: 136, spA: 52, spD: 112, spe: 128}

@@ -1,0 +1,35 @@
+species: Ninetales
+setname: Power Swap
+item: [Null]
+ability: [Drought]
+moves:
+    - [Over Heat]
+    - [Zen Headbutt]
+    - [Dig]
+    - [Power Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Impish
+evs: {hp: 0, atk: 164, def: 128, spA: 0, spD: 0, spe: 28}
+ivs: {hp: 0, atk: 31, def: 31, spA: 0, spD: 0, spe: 31}
+---
+species: Ninetales
+setname: Role Play
+item: [Null]
+ability: [Drought]
+moves:
+    - [Flare Blitz]
+    - [Dark Pulse]
+    - [Extrasensory]
+    - [Role Play]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Cherish]
+nature: Modest
+evs: {hp: 0, atk: 20, def: 0, spA: 84, spD: 0, spe: 168}
+ivs: {hp: 11, atk: 11, def: 11, spA: 11, spD: 0, spe: 11}

@@ -1,0 +1,35 @@
+species: Venonat
+setname: Tinted Lens
+item: [Lansat Berry]
+ability: [Tinted Lens]
+moves:
+    - [Signal Beam]
+    - [Sleep Powder]
+    - [Double Team]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Modest
+evs: {hp: 84, atk: 0, def: 84, spA: 172, spD: 84, spe: 84}
+ivs: 31
+---
+species: Venonat
+setname: Compound Eyes
+item: [Poison Barb]
+ability: [Compound Eyes]
+moves:
+    - [Poison Fang]
+    - [Zen Headbutt]
+    - [Sleep Powder]
+    - [Screech]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Jolly
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31

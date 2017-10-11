@@ -1,0 +1,35 @@
+species: Magikarp
+setname: Special
+item: [Focus Sash]
+ability: [Compound Eyes]
+moves:
+    - [Hydro Pump]
+    - [Endeavor]
+    - [Tail Glow]
+    - [Splash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+---
+species: Magikarp
+setname: Physical
+item: [Focus Sash]
+ability: [Serene Grace]
+moves:
+    - [Waterfall]
+    - [Headbutt]
+    - [Bounce]
+    - [Splash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31

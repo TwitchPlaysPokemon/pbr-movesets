@@ -1,0 +1,53 @@
+species: Zangoose
+setname: Standard
+ball: [Premier]
+item: [Null]
+ability: [Immunity]
+moves:
+    - [Crush Claw]
+    - [Focus Blast]
+    - [Shadow Claw]
+    - [Taunt]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Serious
+evs: {hp: 0, atk: 0, def: 0, spA: 224, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 5, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Zangoose
+setname: Physical
+ball: [Dusk]
+item: [Toxic Orb]
+ability: [Immunity]
+moves:
+    - [Body Slam]
+    - [Close Combat]
+    - [Thief]
+    - [Fling]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Calm
+evs: {hp: 60, atk: 60, def: 60, spA: 60, spD: 60, spe: 60}
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
+---
+species: Zangoose
+setname: Sun
+ball: [Nest]
+item: [Power Herb]
+ability: [Immunity]
+moves:
+    - [Razor Wind]
+    - [Solar Beam]
+    - [Flamethrower]
+    - [Sunny Day]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Modest
+evs: {hp: 0, atk: 84, def: 100, spA: 160, spD: 100, spe: 64}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}

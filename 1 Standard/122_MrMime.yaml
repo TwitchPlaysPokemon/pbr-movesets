@@ -1,0 +1,53 @@
+species: Mr. Mime
+setname: Special
+item: [Null]
+ability: [Soundproof]
+moves:
+    - [Psychic]
+    - [Focus Blast]
+    - [Energy Ball]
+    - [Guard Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Heal]
+nature: Adamant
+evs: {hp: 64, atk: 252, def: 64, spA: 64, spD: 0, spe: 64}
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mr. Mime
+setname: Physical
+item: [Null]
+ability: [Filter]
+moves:
+    - [Fake Out]
+    - [Zen Headbutt]
+    - [Drain Punch]
+    - [Meditate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Naughty
+evs: {hp: 228, atk: 252, def: 0, spA: 0, spD: 0, spe: 28}
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+---
+species: Mr. Mime
+setname: Copycat
+item: [Null]
+ability: [Technician]
+moves:
+    - [Psybeam]
+    - [Wake-Up Slap]
+    - [Aerial Ace]
+    - [Copycat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Brave
+evs: {hp: 116, atk: 152, def: 20, spA: 136, spD: 0, spe: 84}
+ivs: 31

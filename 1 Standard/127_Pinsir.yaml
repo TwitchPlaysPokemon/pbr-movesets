@@ -1,0 +1,71 @@
+species: Pinsir
+setname: Bug Bite
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Bug Bite]
+    - [Rock Slide]
+    - [Revenge]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Mild
+evs: 84
+ivs: 5
+---
+species: Pinsir
+setname: X-Scissor
+item: [Null]
+ability: [Mold Breaker]
+moves:
+    - [X-Scissor]
+    - [Earthquake]
+    - [Stone Edge]
+    - [String Shot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
+nature: Calm
+evs: {hp: 112, atk: 0, def: 108, spA: 0, spD: 100, spe: 60}
+ivs: 0
+---
+species: Pinsir
+setname: Fury
+item: [Metronome]
+ability: [Mold Breaker]
+moves:
+    - [Fury Cutter]
+    - [Fury Attack]
+    - [Guillotine]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Repeat]
+nature: Lonely
+evs: {hp: 56, atk: 252, def: 0, spA: 0, spD: 96, spe: 104}
+ivs: 31
+---
+species: Pinsir
+setname: Mega
+item: [Sky Plate]
+ability: [Technician]
+moves:
+    - [Aerial Ace]
+    - [Close Combat]
+    - [Quick Attack]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Safari]
+nature: Calm
+evs: 0
+ivs: 0

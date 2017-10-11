@@ -1,0 +1,101 @@
+species: Metagross
+setname: Standard
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Iron Head]
+    - [Psychic]
+    - [Grass Knot]
+    - [Stealth Rock]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 20}
+---
+species: Metagross
+setname: Max Attack
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Metal Claw]
+    - [Aerial Ace]
+    - [Pursuit]
+    - [Mimic]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 68, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Metagross
+setname: Special
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Psychic]
+    - [Flash Cannon]
+    - [Sludge Bomb]
+    - [Sandstorm]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Premier]
+nature: Rash
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Metagross
+setname: Slow
+item: [Iron Ball]
+ability: [Clear Body]
+moves:
+    - [Gyro Ball]
+    - [Hammer Arm]
+    - [Giga Impact]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Timer]
+nature: Calm
+ivs: 0
+evs: 0
+---
+species: Metagross
+setname: High Stats
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Confusion]
+    - [Icy Wind]
+    - [Rock Smash]
+    - [Block]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [High Stats]
+nature: Serious
+ivs: 25
+evs: 85
+---
+species: Metagross
+setname: Mega
+item: [Everstone]
+ability: [Iron Fist]
+moves:
+    - [Meteor Mash]
+    - [Hammer Arm]
+    - [Ice Punch]
+    - [Bullet Punch]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Cherish]
+nature: Modest
+ivs: 0
+evs: 0

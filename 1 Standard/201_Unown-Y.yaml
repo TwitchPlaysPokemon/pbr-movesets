@@ -1,0 +1,17 @@
+species: Unown
+setname: Yield
+item: [Amulet Coin]
+ability: [Run Away]
+moves:
+    - [Dream Eater]
+    - [Hidden Power]
+    - [Explosion]
+    - [Yawn]
+form: 24
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 31}
+evs: {hp: 252, atk: 0, def: 96, spA: 4, spD: 156, spe: 0}

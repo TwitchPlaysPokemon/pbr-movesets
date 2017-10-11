@@ -1,0 +1,53 @@
+species: Snorlax
+setname: Physical
+item: [Null]
+ability: [Immunity]
+moves:
+    - [Mega Punch]
+    - [Gunk Shot]
+    - [Brick Break]
+    - [Refresh]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.46
+ball: [Ultra]
+nature: Quiet
+evs: {hp: 0, atk: 20, def: 100, spA: 252, spD: 20, spe: 8}
+ivs: {hp: 0, atk: 0, def: 0, spA: 30, spD: 0, spe: 0}
+---
+species: Snorlax
+setname: Special
+item: [Null]
+ability: [Immunity]
+moves:
+    - [Hyper Beam]
+    - [Surf]
+    - [Shadow Ball]
+    - [Snore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.46
+ball: [Timer]
+nature: Rash
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 17, def: 17, spA: 17, spD: 17, spe: 17}
+---
+species: Snorlax
+setname: Bling
+item: [Amulet Coin]
+ability: [Thick Fat]
+moves:
+    - [Pay Day]
+    - [Pursuit]
+    - [Yawn]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.08
+ball: [Luxury]
+nature: Sassy
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 252, spe: 4}
+ivs: 31

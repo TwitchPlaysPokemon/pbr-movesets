@@ -1,0 +1,35 @@
+species: Teddiursa
+setname: Bulk Up
+item: [Null]
+ability: [Quick Feet]
+moves:
+    - [Body Slam]
+    - [Earthquake]
+    - [Payback]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poké]
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+---
+species: Teddiursa
+setname: Facade
+item: [Toxic Orb]
+ability: [Quick Feet]
+moves:
+    - [Facade]
+    - [Rock Slide]
+    - [Focus Punch]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Repeat]
+nature: Impish 
+ivs: 31
+evs: {hp: 248, atk: 0, def: 72, spA: 0, spD: 132, spe: 56}

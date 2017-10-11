@@ -1,0 +1,53 @@
+species: Hypno
+setname: Special
+item: [Null]
+ability: [Forewarn]
+moves:
+    - [Psychic]
+    - [Focus Blast]
+    - [Shadow Ball]
+    - [Role Play]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Ultra]
+nature: Lax
+evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
+ivs: 12
+---
+species: Hypno
+setname: Physical
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Psycho Cut]
+    - [Body Slam]
+    - [Low Kick]
+    - [Meditate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dusk]
+nature: Naughty
+evs: {hp: 100, atk: 100, def: 180, spA: 0, spD: 80, spe: 48}
+ivs: 10
+---
+species: Hypno
+setname: Baton Pass
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Seismic Toss]
+    - [Wish]
+    - [Baton Pass]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Heal]
+nature: Naive
+evs: 0
+ivs: {hp: 21, atk: 0, def: 31, spA: 0, spD: 0, spe: 25}

@@ -1,0 +1,71 @@
+species: Camerupt
+setname: Standard
+item: [Null]
+ability: [Magma Armor]
+moves:
+    - [Overheat]
+    - [Earthquake]
+    - [Stone Edge]
+    - [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Repeat]
+nature: Jolly
+ivs: {hp: 31, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: 0
+---
+species: Camerupt
+setname: Special
+item: [Null]
+ability: [Solid Rock]
+moves:
+    - [Eruption]
+    - [Earth Power]
+    - [Flash Cannon]
+    - [Ancient Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 15, atk: 15, def: 15, spA: 0, spD: 15, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 92}
+---
+species: Camerupt
+setname: Anger Point
+item: [Null]
+ability: [Anger Point]
+moves:
+    - [Magnitude]
+    - [Iron Head]
+    - [Rock Tomb]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+nature: Serious
+ivs: 15
+evs: {hp: 0, atk: 116, def: 72, spA: 0, spD: 96, spe: 192}
+---
+species: Camerupt
+setname: Mixed
+item: [Null]
+ability: [Magma Armor]
+moves:
+    - [Earthquake]
+    - [Heat Wave]
+    - [Fissure]
+    - [Self-Destruct]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Serious
+ivs: {hp: 15, atk: 5, def: 15, spA: 5, spD: 15, spe: 5}
+evs: {hp: 124, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

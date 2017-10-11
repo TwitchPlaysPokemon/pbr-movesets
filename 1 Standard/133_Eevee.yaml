@@ -1,0 +1,33 @@
+species: Eevee
+setname: Standard
+item: [Null]
+ability: [Adaptability]
+moves:
+    - [Return]
+    - [Iron Tail]
+    - [Quick Attack]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Premier]
+nature: Impish
+evs: {hp: 100, atk: 100, def: 108, spA: 0, spD: 100, spe: 100}
+ivs: 31
+---
+species: Eevee
+setname: Last Resort
+item: [Silk Scarf]
+ability: [Adaptability]
+moves:
+    - [Last Resort]
+    - [Bite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Jolly
+evs: {hp: 120, atk: 108, def: 120, spA: 0, spD: 80, spe: 80}
+ivs: 31

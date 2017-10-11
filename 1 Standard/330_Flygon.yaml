@@ -1,0 +1,89 @@
+species: Flygon
+setname: Standard
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Dragon Rush]
+    - [Iron Tail]
+    - [Rock Tomb]
+    - [Focus Energy]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 20, spA: 20, spD: 20, spe: 11}
+evs: 0
+---
+species: Flygon
+setname: Physical
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Dragon Claw]
+    - [Dig]
+    - [Fly]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Great]
+nature: Docile
+ivs: 0
+evs: {hp: 108, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Flygon
+setname: Special
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Dragon Breath]
+    - [Mud Shot]
+    - [Signal Beam]
+    - [Air Cutter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Nest]
+nature: Modest
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 176, spD: 0, spe: 0}
+---
+species: Flygon
+setname: High Stats
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Mud Shot]
+    - [Twister]
+    - [Aerial Ace]
+    - [Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Luxury]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 216, def: 0, spA: 228, spD: 0, spe: 0}
+---
+species: Flygon
+setname: Overpowered
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Draco Meteor]
+    - [Earthquake]
+    - [Stone Edge]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: 0

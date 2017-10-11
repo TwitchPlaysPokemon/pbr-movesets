@@ -1,0 +1,89 @@
+species: Aggron
+setname: Standard
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Iron Head]
+    - [Outrage]
+    - [Stealth Rock]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Mild
+ivs: {hp: 20, atk: 0, def: 0, spA: 20, spD: 20, spe: 20}
+evs: 0
+---
+species: Aggron
+setname: Max Attack
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Metal Claw]
+    - [Rock Tomb]
+    - [Rock Smash]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 10, spA: 20, spD: 10, spe: 31}
+evs: {hp: 48, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Aggron
+setname: Special
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Flash Cannon]
+    - [Earth Power]
+    - [Dark Pulse]
+    - [Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dusk]
+nature: Rash
+ivs: {hp: 20, atk: 0, def: 15, spA: 31, spD: 15, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 216, spD: 0, spe: 128}
+---
+species: Aggron
+setname: Mixed
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Rock Slide]
+    - [Focus Blast]
+    - [Aqua Tail]
+    - [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Great]
+nature: Modest
+ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 160, spD: 0, spe: 72}
+---
+species: Aggron
+setname: Mega
+item: [Everstone]
+ability: [Filter]
+moves:
+    - [Iron Head]
+    - [Earthquake]
+    - [Avalanche]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 220, spA: 0, spD: 160, spe: 0}

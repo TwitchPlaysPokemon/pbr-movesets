@@ -1,0 +1,89 @@
+species: Luxray
+setname: Standard
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Thunder]
+    - [Superpower]
+    - [Hyper Beam]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 15, atk: 15, def: 31, spA: 0, spD: 0, spe: 15}
+evs: {hp: 0, atk: 0, def: 36, spA: 0, spD: 0, spe: 40}
+---
+species: Luxray
+setname: Physical
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Spark]
+    - [Night Slash]
+    - [Superpower]
+    - [Leer]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+---
+species: Luxray
+setname: Special
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Discharge]
+    - [Signal Beam]
+    - [Hyper Beam]
+    - [Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Nest]
+nature: Bold
+ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 2}
+evs: {hp: 100, atk: 0, def: 100, spA: 76, spD: 100, spe: 132}
+---
+species: Luxray
+setname: Max SAtk
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Shock Wave]
+    - [Hidden Power]
+    - [Swift]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 15, atk: 15, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Luxray
+setname: Flinch
+item: [Razor Fang]
+ability: [Intimidate]
+moves:
+    - [Thunder Fang]
+    - [Bite]
+    - [Double Kick]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Luxury]
+nature: Serious
+ivs: {hp: 12, atk: 3, def: 12, spA: 3, spD: 12, spe: 3}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

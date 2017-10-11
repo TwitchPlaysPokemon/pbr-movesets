@@ -1,0 +1,35 @@
+species: Weezing
+setname: Standard
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Sludge]
+    - [Payback]
+    - [Spit Up]
+    - [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Dusk]
+nature: Sassy
+evs: {hp: 88, atk: 84, def: 0, spA: 84, spD: 252, spe: 0}
+ivs: 31
+---
+species: Weezing
+setname: Physical
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Secret Power]
+    - [Payback]
+    - [Rollout]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Adamant
+evs: {hp: 124, atk: 252, def: 0, spA: 0, spD: 0, spe: 80}
+ivs: 31

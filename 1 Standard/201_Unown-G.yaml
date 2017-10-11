@@ -1,0 +1,17 @@
+species: Unown
+setname: Give
+item: [Iron Ball]
+ability: [Unburden]
+moves:
+    - [Psycho Boost]
+    - [Hidden Power]
+    - [Fling]
+    - [Gunk Shot]
+form: 6
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Quirky
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 108, atk: 100, def: 100, spA: 100, spD: 100, spe: 0}
