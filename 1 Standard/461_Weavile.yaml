@@ -72,7 +72,7 @@ evs: {hp: 160, atk: 0, def: 212, spA: 0, spD: 0, spe: 0}
 ---
 species: Weavile
 setname: PP Stall
-item: [Lapapa Berry]
+item: [Leppa Berry]
 ability: [Pressure]
 moves:
     - [Punishment]
