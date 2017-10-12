@@ -1,0 +1,51 @@
+species: Spiritomb
+setname: Standard
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Dark Pulse]
+    - [Shadow Sneak]
+    - [Psychic]
+    - [Destiny Bond]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Spiritomb
+setname: Physical
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Faint Attack]
+    - [Shadow Sneak]
+    - [Pursuit]
+    - [Will-o-wisp]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Timer]
+nature: Adamant
+ivs: 11
+evs: {hp: 0, atk: 252, def: 28, spA: 0, spD: 228, spe: 0}
+---
+species: Spiritomb
+setname: Special
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Shadow Ball]
+    - [Silver Wind]
+    - [Icy Wind]
+    - [Spite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 10, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 64}
