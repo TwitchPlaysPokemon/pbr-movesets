@@ -20,7 +20,7 @@ setname: Physical
 item: [Null]
 ability: [Pressure]
 moves:
-    - [Faint Attack]
+    - [Feint Attack]
     - [Shadow Sneak]
     - [Pursuit]
     - [Will-o-wisp]
