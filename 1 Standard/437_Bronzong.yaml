@@ -6,7 +6,7 @@ moves:
     - [Gyro Ball]
     - [Psychic]
     - [Earthquake]
-    - [Imprision]
+    - [Imprison]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -47,7 +47,7 @@ rarity: 0.3
 ball: [Cherish]
 nature: Brave
 ivs: {hp: 10, atk: 10, def: 10, spA: 10, spD: 10, spe: 10}
-evs: {hp: 0, atk: 0, def: 0, spA: 2000, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 0}
 ---
 species: Bronzong
 setname: Trick Room
