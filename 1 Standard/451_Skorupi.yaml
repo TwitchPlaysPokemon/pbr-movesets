@@ -1,0 +1,89 @@
+species: Skorupi
+setname: Standard
+item: [Null]
+ability: [Sniper]
+moves:
+    - [Poison Jab]
+    - [X-Scissor]
+    - [Aerial Ace]
+    - [Toxic Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Adamant
+ivs: 31
+evs: {hp: 144, atk: 252, def: 0, spA: 0, spD: 0, spe: 112}
+---
+species: Skorupi
+setname: Physical
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Poison Jab]
+    - [Bug Bite]
+    - [Brick Break]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Safari]
+nature: Adamant
+ivs: 31
+evs: {hp: 144, atk: 252, def: 0, spA: 0, spD: 0, spe: 112}
+---
+species: Skorupi
+setname: Special
+item: [Null]
+ability: [Battle Armor]
+moves:
+    - [Sludge Bomb]
+    - [Hidden Power]
+    - [Dark Pulse]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 30, spe: 31}
+evs: {hp: 116, atk: 0, def: 0, spA: 252, spD: 0, spe: 140}
+---
+species: Skorupi
+setname: Acupressure
+item: [Null]
+ability: [Battle Armor]
+moves:
+    - [X-Scissor]
+    - [Cross Poison]
+    - [Acupressure]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Repeat]
+nature: Careful
+ivs: 31
+evs: {hp: 208, atk: 200, def: 0, spA: 0, spD: 100, spe: 0}
+---
+species: Skorupi
+setname: Sniper
+item: [Razor Claw]
+ability: [Sniper]
+moves:
+    - [Cross Poison]
+    - [Twineedle]
+    - [Night Slash]
+    - [Slash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 96, atk: 252, def: 0, spA: 0, spD: 0, spe: 160}

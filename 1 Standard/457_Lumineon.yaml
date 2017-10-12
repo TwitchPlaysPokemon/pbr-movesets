@@ -1,0 +1,89 @@
+species: Lumineon
+setname: Standard
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Aqua Tail]
+    - [Signal Beam]
+    - [Flail]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Net]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Lumineon
+setname: Physical
+item: [Null]
+ability: [Water Veil]
+moves:
+    - [Waterfall]
+    - [Secret Power]
+    - [Nature Power]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 0, atk: 116, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Lumineon
+setname: Special
+item: [Null]
+ability: [Storm Drain]
+moves:
+    - [Surf]
+    - [Hidden Power]
+    - [Hyper Beam]
+    - [Splash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Dive]
+nature: Modest
+ivs: {hp: 14, atk: 2, def: 18, spA: 14, spD: 18, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 108, spD: 0, spe: 0}
+---
+species: Lumineon
+setname: Neon
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Signal Beam]
+    - [Hidden Power]
+    - [Aurora Beam]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Lumineon
+setname: Wind
+item: [Null]
+ability: [Water Veil]
+moves:
+    - [Water Pulse]
+    - [Silver Wind]
+    - [Ominous Wind]
+    - [Icy Wind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Gentle
+ivs: 20
+evs: {hp: 84, atk: 0, def: 52, spA: 196, spD: 72, spe: 104}

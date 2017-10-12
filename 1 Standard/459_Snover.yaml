@@ -1,0 +1,53 @@
+species: Snover
+setname: Standard
+item: [Null]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Wood Hammer]
+    - [Ice Shard]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Quick]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 108, def: 100, spA: 100, spD: 100, spe: 0}
+---
+species: Snover
+setname: Physical
+item: [Power Herb]
+ability: [Soundproof]
+moves:
+    - [Avalanche]
+    - [Seed Bomb]
+    - [Skull Bash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+---
+species: Snover
+setname: Special
+item: [Zoom Lens]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Energy Ball]
+    - [Sheer Cold]
+    - [Grass Whistle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 68, spA: 116, spD: 72, spe: 0}
