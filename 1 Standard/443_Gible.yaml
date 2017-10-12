@@ -1,0 +1,35 @@
+species: Gible
+setname: Physical
+ball: [Poke]
+item: [Null]
+ability: [Rough Skin]
+moves:
+    - [Dragon Claw]
+    - [Earthquake]
+    - [Stone Edge]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+nature: Adamant
+evs: {hp: 160, atk: 252, def: 72, spA: 0, spD: 24, spe: 0}
+ivs: 31
+---
+species: Gible
+setname: Special
+ball: [Repeat]
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Draco Meteor]
+    - [Earth Power]
+    - [Fire Blast]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Modest
+evs: {hp: 96, atk: 0, def: 0, spA: 252, spD: 0, spe: 160}
+ivs: 31

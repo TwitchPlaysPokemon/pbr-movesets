@@ -1,0 +1,89 @@
+species: Munchlax
+setname: Standard
+ball: [Repeat]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Body Slam]
+    - [Zen Headbutt]
+    - [Rollout]
+    - [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Quiet
+evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+---
+species: Munchlax
+setname: Physical
+ball: [Nest]
+item: [Null]
+ability: [Pickup]
+moves:
+    - [Double-Edge]
+    - [Superpower]
+    - [Seed Bomb]
+    - [Pursuit]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+evs: {hp: 0, atk: 140, def: 80, spA: 0, spD: 80, spe: 0}
+ivs: 31
+---
+species: Munchlax
+setname: Special
+ball: [Premier]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Hyper Voice]
+    - [Thunderbolt]
+    - [Psychic]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Modest
+evs: {hp: 0, atk: 0, def: 100, spA: 252, spD: 100, spe: 0}
+ivs: 31
+---
+species: Munchlax
+setname: Mixed
+ball: [Safari]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Strength]
+    - [Gunk Shot]
+    - [Fire Blast]
+    - [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Quiet
+evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+---
+species: Munchlax
+setname: Belly Drum
+ball: [Cherish]
+item: [Salac Berry]
+ability: [Gluttony]
+moves:
+    - [Secret Power]
+    - [Ice Punch]
+    - [Belly Drum]
+    - [Self-Destruct]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Jolly
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 0, spe: 252}
+ivs: 31
