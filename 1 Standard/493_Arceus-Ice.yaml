@@ -37,7 +37,7 @@ setname: Ice Judgment
 item: [Icicle Plate]
 ability: [Multitype]
 moves:
-    - [Judgment Ice]
+    - [Judgment]
     - [Shadow Force]
     - [Spacial Rend]
     - [Ancient Power]
