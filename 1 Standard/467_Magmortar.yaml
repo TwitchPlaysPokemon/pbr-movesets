@@ -1,0 +1,89 @@
+species: Magmortar
+setname: Standard
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Fire Punch]
+    - [Thunderbolt]
+    - [Rock Slide]
+    - [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Adamant
+ivs: 6
+evs: 85
+---
+species: Magmortar
+setname: Physical
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Fire Punch]
+    - [Cross Chop]
+    - [Thunder Punch]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Adamant
+ivs: 15
+evs: {hp: 0, atk: 60, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Magmortar
+setname: Special
+item: [Iron Ball]
+ability: [Null]
+moves:
+    - [Flamethrower]
+    - [Thunderbolt]
+    - [Focus Blast]
+    - [Barrier]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Ultra]
+nature: Adamant
+ivs: 15
+evs: 0
+---
+species: Magmortar
+setname: High Sp. Atk
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Ember]
+    - [Hidden Power]
+    - [Smog]
+    - [Seismic Toss]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Repeat]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 28, spA: 29, spD: 31, spe: 28}
+evs: {hp: 56, atk: 0, def: 196, spA: 252, spD: 0, spe: 4}
+---
+species: Magmortar
+setname: Belly Drum
+item: [Null]
+ability: [Vital Spirit]
+moves:
+    - [Ember]
+    - [Karate Chop]
+    - [Feint Attack]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Cherish]
+nature: Timid
+ivs: 31
+evs: {hp: 72, atk: 136, def: 0, spA: 188, spD: 0, spe: 112}

@@ -1,0 +1,53 @@
+species: Electivire
+setname: Standard
+item: [Null]
+ability: [Motor Drive]
+moves:
+    - [Discharge]
+    - [Body Slam]
+    - [Rolling KIck]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Serious
+ivs: 15
+evs: 0
+---
+species: Electivire
+setname: Physical
+item: [Null]
+ability: [Vital Spirit]
+moves:
+    - [Thunder Punch]
+    - [Fire Punch]
+    - [Brick Break]
+    - [Meditate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Modest
+ivs: 10
+evs: 0
+---
+species: Electivire
+setname: Special
+item: [Null]
+ability: [Motor Drive]
+moves:
+    - [Discharge]
+    - [Hyper Beam]
+    - [Signal Beam]
+    - [Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: 
+ivs: {hp: 7, atk: 30, def: 7, spA: 6, spD: 7, spe: 7}
+evs: {hp: 156, atk: 252, def: 0, spA: 36, spD: 0, spe: 64}

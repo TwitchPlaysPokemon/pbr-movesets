@@ -1,0 +1,53 @@
+species: Glaceon
+setname: Physical
+item: [Null]
+ability: [Snow Cloak]
+moves:
+    - [Avalanche]
+    - [Aqua Tail]
+    - [Body Slam]
+    - [Wish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Serious
+ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
+evs: {hp: 0, atk: 180, def: 0, spA: 0, spD: 0, spe: 40}
+---
+species: Glaceon
+setname: Special
+item: [Null]
+ability: [Snow Cloak]
+moves:
+    - [Icy Wind]
+    - [Water Pulse]
+    - [Trump Card]
+    - [Mirror Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
+evs: {hp: 160, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Glaceon
+setname: Stall
+item: [Icy Rock]
+ability: [Ice Body]
+moves:
+    - [Icy Wind]
+    - [Toxic]
+    - [Hail]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Calm
+ivs: 0
+evs: {hp: 252, atk: 0, def: 60, spA: 0, spD: 60, spe: 100}

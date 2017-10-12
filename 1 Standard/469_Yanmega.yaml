@@ -1,0 +1,89 @@
+species: Yanmega
+setname: Standard
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [Signal Beam]
+    - [Aerial Ace]
+    - [Ancient Power]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Nest]
+nature: Adamant
+ivs: 0
+evs: 0
+---
+species: Yanmega
+setname: Physical
+item: [Null]
+ability: [Tinted Lens]
+moves:
+    - [U-Turn]
+    - [Aerial Ace]
+    - [Steel Wing]
+    - [Screech]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Net]
+nature: Serious
+ivs: 10
+evs: {hp: 0, atk: 172, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Yanmega
+setname: Special
+item: [Null]
+ability: [Frisk]
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Ancient Power]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Safari]
+nature: Careful
+ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: 0
+---
+species: Yanmega
+setname: Rainbow
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [Silver Wind]
+    - [Ancient Power]
+    - [Ominous Wind]
+    - [Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Careful
+ivs: 17
+evs: 85
+---
+species: Yanmega
+setname: Speed Boost
+item: [Power Lens]
+ability: [Speed Boost]
+moves:
+    - [Air Slash]
+    - [Giga Drain]
+    - [Reversal]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+nature: Adamant
+ivs: 20
+evs: 0

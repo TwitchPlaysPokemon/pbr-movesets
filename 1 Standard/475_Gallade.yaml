@@ -1,0 +1,125 @@
+species: Gallade
+setname: Standard
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Psycho Cut]
+    - [Drain Punch]
+    - [Slash]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Luxury]
+nature: Bold
+ivs: 5
+evs: 85
+---
+species: Gallade
+setname: Physical
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Zen Headbutt]
+    - [Brick Break]
+    - [Poison Jab]
+    - [Grudge]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Premier]
+nature: Modest
+ivs: 7
+evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Gallade
+setname: Special
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Focus Blast]
+    - [Psychic]
+    - [Shadow Ball]
+    - [Disable]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Cherish]
+nature: Brave
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 0}
+---
+species: Gallade
+setname: Max Sp. Atk
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Confusion]
+    - [Vacuum Wave]
+    - [Shock Wave]
+    - [Calm Mind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Dusk]
+nature: Modest
+ivs: {hp: 16, atk: 0, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Gallade
+setname: Crit
+item: [Razor Claw]
+ability: [Steadfast]
+moves:
+    - [Psycho Cut]
+    - [Stone Edge]
+    - [Leaf Blade]
+    - [Night Slash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+nature: Modest
+ivs: {hp: 25, atk: 0, def: 25, spA: 25, spD: 25, spe: 10}
+evs: 0
+---
+species: Gallade
+setname: Sleep
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Dream Eater]
+    - [Vacuum Wave]
+    - [Magical Leaf]
+    - [Sing]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Nest]
+nature: Naughty
+ivs: {hp: 31, atk: 28, def: 31, spA: 31, spD: 31, spe: 29}
+evs: {hp: 128, atk: 0, def: 128, spA: 168, spD: 0, spe: 84}
+---
+species: Gallade
+setname: Mega
+item: [Everstone]
+ability: [Inner Focus]
+moves:
+    - [Zen Headbutt]
+    - [Close Combat]
+    - [Knock Off]
+    - [Will-O-Wisp]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Heal]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 15}
+evs: 0
