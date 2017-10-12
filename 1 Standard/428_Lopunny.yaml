@@ -71,7 +71,7 @@ ivs: {hp: 23, atk: 23, def: 23, spA: 31, spD: 23, spe: 23}
 evs: {hp: 132, atk: 0, def: 40, spA: 252, spD: 0, spe: 84}
 ---
 species: Lopunny
-setname: Sun
+setname: Sunny Day
 item: [Null]
 ball: [Repeat]
 ability: [Cute Charm]
