@@ -1,0 +1,50 @@
+species: Arceus
+setname: Dark Physical
+item: [Dread Plate]
+ability: [Multitype]
+moves:
+    - [Thief]
+    - [Knock Off]
+    - [Seismic Toss]
+    - [Embargo]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Dusk]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Dark Multistrike
+item: [Dread Plate]
+ability: [Multitype]
+moves:
+    - [Beat Up]
+    - [Fury Attack]
+    - [Bullet Seed]
+    - [Lucky Chant]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Repeat]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 80, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Dark Judgment
+item: [Dread Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Roar Of Time]
+    - [Stone Edge]
+    - [Flamethrower]
+happiness: 255
+biddable: True
+rarity: 0.005
+ball: [Master]
+nature: Sassy
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

@@ -1,0 +1,50 @@
+species: Arceus
+setname: Poison Physical
+item: [Toxic Plate]
+ability: [Multitype]
+moves:
+    - [Poison Sting]
+    - [Sand Tomb]
+    - [Knock Off]
+    - [Toxic]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Timer]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Poison Special
+item: [Toxic Plate]
+ability: [Multitype]
+moves:
+    - [Acid]
+    - [Ember]
+    - [Water Gun]
+    - [Metal Sound]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Ultra]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Poison Judgment
+item: [Toxic Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Shadow Force]
+    - [Dark Pulse]
+    - [Toxic]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Sassy
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

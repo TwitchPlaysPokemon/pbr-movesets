@@ -1,0 +1,50 @@
+species: Arceus
+setname: Fighting Phyiscal
+item: [Fist Plate]
+ability: [Multitype]
+moves:
+    - [Arm Thrust]
+    - [Foresight]
+    - [Leer]
+    - [Meditate]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Repeat]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Fighting Special
+item: [Fist Plate]
+ability: [Multitype]
+moves:
+    - [Vacuum Wave]
+    - [Fire Spin]
+    - [Dragon Rage]
+    - [Detect]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Quick]
+nature: Naive
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Fighting Judgment
+item: [Fist Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Outrage]
+    - [Giga Impact]
+    - [Calm Mind]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Relaxed
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

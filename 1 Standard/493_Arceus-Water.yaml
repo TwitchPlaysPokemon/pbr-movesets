@@ -1,0 +1,50 @@
+species: Arceus
+setname: Water Physical
+item: [Splash Plate]
+ability: [Multitype]
+moves:
+    - [Clamp]
+    - [Icicle Spear]
+    - [Withdraw]
+    - [Refresh]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Dive]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Water Special
+item: [Splash Plate]
+ability: [Multitype]
+moves:
+    - [Water Gun]
+    - [Thunder Shock]
+    - [Fake Tears]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Net]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Water Judgment
+item: [Splash Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Ice Beam]
+    - [Energy Ball]
+    - [Calm Mind]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

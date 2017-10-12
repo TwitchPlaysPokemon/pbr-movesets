@@ -1,0 +1,50 @@
+species: Arceus
+setname: Ground Physical
+item: [Earth Plate]
+ability: [Multitype]
+moves:
+    - [Sand Tomb]
+    - [Peck]
+    - [Sandstorm]
+    - [Spikes]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Timer]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Ground Special
+item: [Earth Plate]
+ability: [Multitype]
+moves:
+    - [Mud-Slap]
+    - [Fire Spin]
+    - [Nasty Plot]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Premier]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Ground Judgment
+item: [Earth Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Focus Blast]
+    - [Stone Edge]
+    - [Gravity]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

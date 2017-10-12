@@ -1,0 +1,50 @@
+species: Arceus
+setname: Grass Physical
+item: [Meadow Plate]
+ability: [Multitype]
+moves:
+    - [Vine Whip]
+    - [Leech Life]
+    - [Toxic]
+    - [Aromatherapy]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Nest]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Grass Special
+item: [Meadow Plate]
+ability: [Multitype]
+moves:
+    - [Absorb]
+    - [Leech Seed]
+    - [Nasty Plot]
+    - [Water Sport]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Heal]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Grass Judgment
+item: [Meadow Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Dream Eater]
+    - [Signal Beam]
+    - [Grass Whistle]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

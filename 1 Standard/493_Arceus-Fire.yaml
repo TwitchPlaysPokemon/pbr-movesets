@@ -1,0 +1,50 @@
+species: Arceus
+setname: Fire Special
+item: [Flame Plate]
+ability: [Multitype]
+moves:
+    - [Ember]
+    - [Gust]
+    - [Gastro Acid]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Cherish]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Fire Stall
+item: [Flame Plate]
+ability: [Multitype]
+moves:
+    - [Fire Spin]
+    - [Bullet Seed]
+    - [Will-O-Wisp]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Timer]
+nature: Quiet
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Fire Judgment
+item: [Flame Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Earth Power]
+    - [Rock Slide]
+    - [Perish Song]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

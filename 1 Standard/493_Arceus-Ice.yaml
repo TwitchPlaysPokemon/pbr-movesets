@@ -1,0 +1,50 @@
+species: Arceus
+setname: Ice Physical
+item: [Icicle Plate]
+ability: [Multitype]
+moves:
+    - [Icicle Spear]
+    - [Arm Thrust]
+    - [Water Sport]
+    - [Mist]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Repeat]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Ice Special
+item: [Icicle Plate]
+ability: [Multitype]
+moves:
+    - [Powder Snow]
+    - [Whirlpool]
+    - [Haze]
+    - [Hail]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Cherish]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Ice Judgment
+item: [Icicle Plate]
+ability: [Multitype]
+moves:
+    - [Judgment Ice]
+    - [Shadow Force]
+    - [Spacial Rend]
+    - [Ancient Power]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

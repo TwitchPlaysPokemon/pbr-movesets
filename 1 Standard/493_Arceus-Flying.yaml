@@ -1,0 +1,50 @@
+species: Arceus
+setname: Flying Physical
+item: [Sky Plate]
+ability: [Multitype]
+moves:
+    - [Peck]
+    - [Sand Tomb]
+    - [Defog]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Timer]
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Flying Special
+item: [Sky Plate]
+ability: [Multitype]
+moves:
+    - [Gust]
+    - [Mud-Slap]
+    - [Double Team]
+    - [Mud Sport]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Premier]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Flying Judgment
+item: [Sky Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Draco Meteor]
+    - [Thunder]
+    - [Defog]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

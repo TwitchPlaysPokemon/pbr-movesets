@@ -1,0 +1,118 @@
+species: Arceus
+setname: Standard
+item: [Black Sludge]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Shadow Claw]
+    - [Future Sight]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 0.03
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Physical
+item: [Null]
+ability: [Multitype]
+moves:
+    - [Cut]
+    - [Aerial Ace]
+    - [Bullet Seed]
+    - [Howl]
+happiness: 255
+biddable: True
+rarity: 0.03
+ball: [Ultra]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Special
+item: [Null]
+ability: [Multitype]
+moves:
+    - [Swift]
+    - [Ancient Power]
+    - [Twister]
+    - [Growth]
+happiness: 255
+biddable: True
+rarity: 0.03
+ball: [Ultra]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Judgment
+item: [Null]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Shadow Force]
+    - [Earthquake]
+    - [Fly]
+happiness: 255
+biddable: False
+rarity: 0.01
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: High Stats
+item: [Null]
+ability: [Multitype]
+moves:
+    - [Bind]
+    - [Leech Life]
+    - [Mud-Slap]
+    - [Whirlpool]
+happiness: 255
+biddable: True
+rarity: 0.01
+ball: [Ultra]
+nature: Serious
+ivs: 31
+evs: 84
+---
+species: Arceus
+setname: Recharge
+item: [Null]
+ability: [Multitype]
+moves:
+    - [Hyper Beam]
+    - [Roar Of Time]
+    - [Blast Burn]
+    - [Hydro Cannon]
+happiness: 255
+biddable: True
+rarity: 0.009
+ball: [Repeat]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Overpowered
+item: [Lum Berry]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Spacial Rend]
+    - [Cosmic Power]
+    - [Recover]
+happiness: 255
+biddable: False
+rarity: 0.001
+ball: [Master]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
