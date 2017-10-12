@@ -10,7 +10,7 @@ moves:
     - [Imprison]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.3
 nature: Adamant
 ivs: 15
