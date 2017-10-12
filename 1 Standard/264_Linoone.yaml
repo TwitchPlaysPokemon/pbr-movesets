@@ -35,7 +35,7 @@ evs: {hp: 76, atk: 64, def: 0, spA: 252, spD: 48, spe: 44}
 ivs: 31
 ---
 species: Linoone
-setname: Rain
+setname: Rain Dance
 ball: [Dive]
 item: [Null]
 ability: [Pickup]
