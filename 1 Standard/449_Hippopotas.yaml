@@ -28,9 +28,9 @@ moves:
     - [Slack Off]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.4
-nature: False
+nature: Modest
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ivs: 31
 ---

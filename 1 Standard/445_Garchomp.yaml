@@ -4,7 +4,7 @@ ball: [Repeat]
 item: [Null]
 ability: [Sand Veil]
 moves:
-    - [Earth PPower]
+    - [Earth Power]
     - [Crunch]
     - [Fire Fang]
     - [Roar]
@@ -97,7 +97,7 @@ moves:
     - [Outrage]
     - [Earthquake]
     - [Stone Edge]
-    - [Sword Dance]
+    - [Swords Dance]
 gender: [m, f]
 happiness: 255
 biddable: True

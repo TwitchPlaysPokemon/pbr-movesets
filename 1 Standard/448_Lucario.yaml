@@ -58,7 +58,7 @@ ball: [Quick]
 item: [Null]
 ability: [Steadfast]
 moves:
-    - [Vaccum Wave]
+    - [Vacuum Wave]
     - [Bullet Punch]
     - [Extreme Speed]
     - [Me First]
@@ -102,6 +102,6 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.05
-nature: 
+nature: Serious
 evs: 0
 ivs: 31
