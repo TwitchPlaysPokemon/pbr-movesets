@@ -62,7 +62,7 @@ happiness: 255
 biddable: True
 rarity: 0.15
 ball: [Dive]
-nature: 
+nature: Quiet
 ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 15, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
