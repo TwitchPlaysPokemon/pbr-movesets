@@ -84,6 +84,6 @@ happiness: 255
 biddable: True
 rarity: 0.15
 ball: [Repeat]
-nature: Serious
+nature: Hasty
 ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
 evs: {hp: 0, atk: 0, def: 0, spA: 68, spD: 0, spe: 208}

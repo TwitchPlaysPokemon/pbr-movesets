@@ -1,0 +1,107 @@
+species: Abomasnow
+setname: Physical
+item: [Null]
+ability: [Snow Warning]
+moves:
+    - [Ice Punch]
+    - [Razor Leaf]
+    - [Brick Break]
+    - [Grass Whistle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Safari]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 60}
+---
+species: Abomasnow
+setname: Special
+item: [Null]
+ability: [Snow Warning]
+moves:
+    - [Magical Leaf]
+    - [Icy Wind]
+    - [Sheer Cold]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Quick]
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 0, def: 0, spA: 120, spD: 0, spe: 0}
+---
+species: Abomasnow
+setname: High Stats
+item: [Null]
+ability: [Snow Warning]
+moves:
+    - [Razor Leaf]
+    - [Power Snow]
+    - [Rock Tomb]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Luxury]
+nature: Serious
+ivs: 31
+evs: 84
+---
+species: Abomasnow
+setname: Rain
+item: [Null]
+ability: [Soundproof]
+moves:
+    - [Razor Leaf]
+    - [Ice Shard]
+    - [Water Pulse]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Timid
+ivs: 21
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 128, spe: 124}
+---
+species: Abomasnow
+setname: Stall
+item: [Null]
+ability: [Snow Warning]
+moves:
+    - [Ice Punch]
+    - [Giga Drain]
+    - [Substitute]
+    - [Ingrain]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 200, atk: 0, def: 152, spA: 0, spD: 156, spe: 0}
+---
+species: Abomasnow
+setname: Mega
+item: [Macho Brace]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Wood Hammer]
+    - [Focus Blast]
+    - [Role Play]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Cherish]
+nature: Quiet
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
+evs: {hp: 0, atk: 196, def: 116, spA: 100, spD: 36, spe: 0}

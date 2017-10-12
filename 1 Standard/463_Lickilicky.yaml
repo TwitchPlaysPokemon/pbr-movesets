@@ -1,0 +1,107 @@
+species: Lickilicky
+setname: Standard
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Mega Punch]
+    - [Power Whip]
+    - [Rollout]
+    - [Lick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Repeat]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Lickilicky
+setname: Physical
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Giga Impact]
+    - [Dynamic Punch]
+    - [Iron Tail]
+    - [Fissure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Nest]
+nature: Serious
+ivs: 15
+evs: {hp: 0, atk: 0, def: 8, spA: 0, spD: 0, spe: 0}
+---
+species: Lickilicky
+setname: Special
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Wring Out]
+    - [Surf]
+    - [Shadow Belly]
+    - [Disable]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Net]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 8, spA: 8, spD: 0, spe: 72}
+---
+species: Lickilicky
+setname: Belly Drum
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Facade]
+    - [Aqua Tail]
+    - [Ice Punch]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Heal]
+nature: Naive
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
+---
+species: Lickilicky
+setname: Gyro Ball
+item: [Null]
+ability: [Cloud Nine]
+moves:
+    - [Slam]
+    - [Gyro Ball]
+    - [Icy Wind]
+    - [Me First]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Safari]
+nature: Brave
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Lickilicky
+setname: Me First
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Stomp]
+    - [Icy Wind]
+    - [Rock Tomb]
+    - [Me First]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Quick]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 10, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}

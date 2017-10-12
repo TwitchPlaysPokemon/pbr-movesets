@@ -1,0 +1,89 @@
+species: Rhyperior
+setname: Physical
+item: [Null]
+ability: [Reckless]
+moves:
+    - [Dig]
+    - [Rock Tomb]
+    - [Crunch]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 40, spe: 0}
+---
+species: Rhyperior
+setname: Max Attack
+item: [Null]
+ability: [Lightning Rod]
+moves:
+    - [Thunder Fang]
+    - [Fury Attack]
+    - [Rock Smash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 40, spe: 0}
+---
+species: Rhyperior
+setname: Special
+item: [Null]
+ability: [Reckless]
+moves:
+    - [Earth Power]
+    - [Ancient Power]
+    - [Surf]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Mild
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 80, spe: 0}
+---
+species: Rhyperior
+setname: RNG
+item: [Null]
+ability: [Lightning Rod]
+moves:
+    - [Rock Blast]
+    - [Magnitude]
+    - [Fissure]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Repeat]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 40, spe: 0}
+---
+species: Rhyperior
+setname: Rock
+item: [Null]
+ability: [Solid Rock]
+moves:
+    - [Rock Blast]
+    - [Rock Climb]
+    - [Rock Smash]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Cherish]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 40, spe: 0}
