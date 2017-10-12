@@ -1,0 +1,84 @@
+species: Manaphy
+setname: Standard
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Water Pulse]
+    - [Psychic]
+    - [Grass Knot]
+    - [Heart Swap]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Mild
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Manaphy
+setname: Physical
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Waterfall]
+    - [Bounce]
+    - [U-Turn]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Naughty
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Manaphy
+setname: Max Sp. Atk
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Water Gun]
+    - [Icy Wind]
+    - [Uproar]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Luxury]
+nature: Quiet
+ivs: {hp: 15, atk: 15, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 100}
+---
+species: Manaphy
+setname: Setup
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Water Gun]
+    - [Swift]
+    - [Tail Glow]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Cherish]
+nature: Quiet
+ivs: {hp: 15, atk: 15, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 100}
+---
+species: Manaphy
+setname: Overpowered
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Energy Ball]
+    - [Tail Glow]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Naughty
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

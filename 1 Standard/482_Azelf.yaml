@@ -1,0 +1,101 @@
+species: Azelf
+setname: Standard
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Flamethrower]
+    - [Giga Impact]
+    - [Swagger]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Jolly
+ivs: 0
+evs: {hp: 40, atk: 0, def: 40, spA: 0, spD: 40, spe: 40}
+---
+species: Azelf
+setname: Physical
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt]
+    - [Fire Punch]
+    - [Facade]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Bold
+ivs: 0
+evs: {hp: 60, atk: 0, def: 40, spA: 0, spD: 40, spe: 0}
+---
+species: Azelf
+setname: Special
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Signal Beam]
+    - [Hidden Power]
+    - [Light Screen]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Repeat]
+nature: Careful
+ivs: {hp: 3, atk: 2, def: 3, spA: 2, spD: 3, spe: 2}
+evs: {hp: 120, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Azelf
+setname: Max Sp. Atk
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Confusion]
+    - [Water Pulse]
+    - [Shock Wave]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Dive]
+nature: 
+ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 15, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Azelf
+setname: Punch
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Ice Punch]
+    - [Fire Punch]
+    - [Thunder Punch]
+    - [Magic Coat]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Timer]
+nature: Adamant
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Azelf
+setname: Overpowered
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Fire Blast]
+    - [Nasty Plot]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: 0

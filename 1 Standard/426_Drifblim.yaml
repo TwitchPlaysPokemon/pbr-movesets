@@ -77,9 +77,9 @@ ball: [Quick]
 ability: [Unburden]
 moves:
     - [Fly]
-    - [Natural Gift]
-    - []
-    - []
+    - [Natural Gift (=1)]
+    - [Giga Impact]
+    - [Explosion]
 gender: [m, f]
 happiness: 255
 biddable: True

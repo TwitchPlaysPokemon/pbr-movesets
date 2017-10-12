@@ -1,0 +1,50 @@
+species: Phione
+setname: Physical
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Waterfall]
+    - [U-Turn]
+    - [Swagger]
+    - [Heart Swap]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Serious
+ivs: 17
+evs: {hp: 0, atk: 60, def: 100, spA: 0, spD: 40, spe: 0}
+---
+species: Phione
+setname: Special
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Water Pulse]
+    - [Ice Beam]
+    - [Ancient Power]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Phione
+setname: Stall
+item: [Null]
+ability: [Hydration]
+moves:
+    - [Dive]
+    - [Bounce]
+    - [Toxic]
+    - [Aqua Ring]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Bold
+ivs: 31
+evs: {hp: 200, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

@@ -1,0 +1,84 @@
+species: Palkia
+setname: Standard
+item: [Lustrous Orb]
+ability: [Pressure]
+moves:
+    - [Hidden Power]
+    - [Bubble]
+    - [Shadow Claw]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Modest
+ivs: {hp: 1, atk: 0, def: 1, spA: 1, spD: 1, spe: 1}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Palkia
+setname: Physical
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Dragon Claw]
+    - [Dive]
+    - [Rock Slide]
+    - [Bulk Up]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Palkia
+setname: Special
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Brine]
+    - [Dragon Breath]
+    - [Ancient Power]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Timer]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Palkia
+setname: Crit
+item: [Lagging Tail]
+ability: [Pressure]
+moves:
+    - [Stone Edge]
+    - [Shadow Claw]
+    - [Slash]
+    - [Bulk Up]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Heal]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Palkia
+setname: Overpowered
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Spacial Rend]
+    - [Surf]
+    - [Ice Beam]
+    - [Earth Power]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

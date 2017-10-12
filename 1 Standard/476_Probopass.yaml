@@ -1,0 +1,71 @@
+species: Probopass
+setname: Standard
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Iron Head]
+    - [Power Gem]
+    - [Discharge]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Ultra]
+nature: Lonely
+ivs: 10
+evs: {hp: 0, atk: 204, def: 0, spA: 160, spD: 0, spe: 0}
+---
+species: Probopass
+setname: Physical
+item: [Iron Ball]
+ability: [Magnet Pull]
+moves:
+    - [Stone Edge]
+    - [Gyro Ball]
+    - [Earthquake]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+---
+species: Probopass
+setname: Special
+item: [Null]
+ability: [Magnet Pull]
+moves:
+    - [Flash Cannon]
+    - [Power Gem]
+    - [Earth Power]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
+nature: Bashful
+ivs: {hp: 2, atk: 2, def: 3, spA: 30, spD: 3, spe: 30}
+evs: {hp: 0, atk: 0, def: 128, spA: 124, spD: 128, spe: 128}
+---
+species: Probopass
+setname: Gravity
+item: [Null]
+ability: [Magnet Pull]
+moves:
+    - [Stone Edge]
+    - [Zap Cannon]
+    - [Dynamic Punch]
+    - [Gravity]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Dusk]
+nature: Naughty
+ivs: 31
+evs: {hp: 252, atk: 128, def: 0, spA: 128, spD: 0, spe: 0}

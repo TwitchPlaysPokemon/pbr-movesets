@@ -1,0 +1,84 @@
+species: Giratina
+setname: Standard
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Dragon Claw]
+    - [Ominous Wind]
+    - [Thunder]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Timid
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Giratina
+setname: Physical
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Dragon Claw]
+    - [Shadow Claw]
+    - [Fly]
+    - [Shadow Sneak]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Giratina
+setname: Special
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Ominous Wind]
+    - [Dragon Breath]
+    - [Dark Pulse]
+    - [Safeguard]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Giratina
+setname: PP Stall
+item: [Macho Brace]
+ability: [Pressure]
+moves:
+    - [Fly]
+    - [Mud-Slap]
+    - [Spite]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Timer]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Giratina
+setname: Overpowered
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Shadow Force]
+    - [Draco Meteor]
+    - [Earthquake]
+    - [Stone Edge]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
