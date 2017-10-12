@@ -1,0 +1,53 @@
+species: Happiny
+setname: Special
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Hyper Voice]
+    - [Fire Blast]
+    - [Water Pulse]
+    - [Softboiled]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Cherish]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 252, spA: 0, spD: 96, spe: 0}
+---
+species: Happiny
+setname: Stall
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Flamethrower]
+    - [Counter]
+    - [Toxic]
+    - [Softboiled]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Heal]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 252, spA: 0, spD: 96, spe: 0}
+---
+species: Happiny
+setname: Hax
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Headbutt]
+    - [Water Pulse]
+    - [Thunder Wave]
+    - [Softboiled]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Repeat]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 172, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}

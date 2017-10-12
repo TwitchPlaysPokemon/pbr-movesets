@@ -1,0 +1,50 @@
+species: Bronzor
+setname: Standard
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Flash Cannon]
+    - [Grass Knot]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Repeat]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
+---
+species: Bronzor
+setname: Physical
+item: [Null]
+ability: [Heatproof]
+moves:
+    - [Gyro Ball]
+    - [Earthquake]
+    - [Payback]
+    - [Iron Defense]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 160, atk: 252, def: 0, spA: 0, spD: 96, spe: 0}
+---
+species: Bronzor
+setname: Support
+item: [Light Clay]
+ability: [Levitate]
+moves:
+    - [Gyro Ball]
+    - [Earthquake]
+    - [Reflect]
+    - [Stealth Rock]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 252, spe: 0}

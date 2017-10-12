@@ -1,0 +1,67 @@
+species: Bronzong
+setname: Standard
+item: [Null]
+ability: [Heatproof]
+moves:
+    - [Gyro Ball]
+    - [Psychic]
+    - [Earthquake]
+    - [Imprision]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Repeat]
+nature: Quiet
+ivs: {hp: 0, atk: 10, def: 10, spA: 10, spD: 10, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Bronzong
+setname: Physical
+item: [Null]
+ability: [Heatproof]
+moves:
+    - [Gyro Ball]
+    - [Giga Impact]
+    - [Rollout]
+    - [Block]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Quiet
+ivs: {hp: 10, atk: 31, def: 10, spA: 10, spD: 10, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Bronzong
+setname: Special
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Confusion]
+    - [Ancient Power]
+    - [Charge Beam]
+    - [Safeguard]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Cherish]
+nature: Brave
+ivs: {hp: 10, atk: 10, def: 10, spA: 10, spD: 10, spe: 10}
+evs: {hp: 0, atk: 0, def: 0, spA: 2000, spD: 0, spe: 0}
+---
+species: Bronzong
+setname: Trick Room
+item: [Null]
+ability: [Heatproof]
+moves:
+    - [Iron Head]
+    - [Zen Headbutt]
+    - [Rock Slide]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Quiet
+ivs: {hp: 10, atk: 31, def: 10, spA: 10, spD: 10, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

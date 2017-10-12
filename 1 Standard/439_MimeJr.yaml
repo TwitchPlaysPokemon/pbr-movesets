@@ -1,0 +1,35 @@
+species: Mime Jr.
+setname: Standard
+item: [Light Clay]
+ability: [Filter]
+moves:
+    - [Psychic]
+    - [Signal Beam]
+    - [Grass Knot]
+    - [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 184, atk: 0, def: 0, spA: 148, spD: 56, spe: 120}
+---
+species: Mime Jr.
+setname: Nasty Plot
+item: [Null]
+ability: [Soundproof]
+moves:
+    - [Psychic]
+    - [Thunderbolt]
+    - [Shadow Ball]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Heal]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 152, atk: 0, def: 60, spA: 96, spD: 0, spe: 200}
