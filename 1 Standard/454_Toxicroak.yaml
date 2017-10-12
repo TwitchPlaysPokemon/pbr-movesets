@@ -89,7 +89,7 @@ ivs: {hp: 28, atk: 30, def: 29, spA: 30, spD: 30, spe: 31}
 evs: {hp: 120, atk: 120, def: 0, spA: 120, spD: 0, spe: 120}
 ---
 species: Toxicroak
-setname: Rain
+setname: Rain Dance
 item: [Damp Rock]
 ability: [Dry Skin]
 moves:
