@@ -41,7 +41,6 @@ moves:
     - [Rock Slide]
     - [Shadow Claw]
     - [Thunder Wave]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.2
