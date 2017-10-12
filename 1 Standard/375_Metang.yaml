@@ -41,7 +41,6 @@ moves:
     - [Flash Cannon]
     - [Shadow Ball]
     - [Magnet Rise]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.25
