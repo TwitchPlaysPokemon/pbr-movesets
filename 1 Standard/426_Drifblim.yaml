@@ -53,7 +53,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 112, spA: 60, spD: 0, spe: 60}
 ---
 species: Drifblim
-setname: Rain
+setname: Rain Dance
 item: [Damp Rock]
 ball: [Dive]
 ability: [Aftermath]
