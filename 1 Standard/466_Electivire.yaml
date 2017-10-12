@@ -48,6 +48,6 @@ happiness: 255
 biddable: True
 rarity: 0.3
 ball: [Ultra]
-nature: 
+nature: Naughty
 ivs: {hp: 7, atk: 30, def: 7, spA: 6, spD: 7, spe: 7}
 evs: {hp: 156, atk: 252, def: 0, spA: 36, spD: 0, spe: 64}
