@@ -1,0 +1,22 @@
+species: Seviper
+ingamename: Xmas 2003
+displayname: Xmas 2003
+setname: Christmas
+tags: [christmas]
+item: Null
+ability: Shed Skin
+moves:
+    - [Poison Tail]
+    - [Bite]
+    - [Lick]
+    - [Wrap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 140, atk: 180, def: 100, spA: 0, spD: 100, spe: 100}
+hidden: False

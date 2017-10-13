@@ -1,0 +1,22 @@
+species: Altaria
+ingamename: WinterCoat
+displayname: WinterCoat
+setname: Christmas
+tags: [christmas]
+item: Fluffy Tail
+ability: Thick Fat
+moves:
+    - [Powder Snow]
+    - [Sleep Powder]
+    - [Mirror Coat]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Quiet
+ivs: 31
+evs: {hp: 176, atk: 0, def: 80, spA: 252, spD: 0, spe: 0}
+hidden: false

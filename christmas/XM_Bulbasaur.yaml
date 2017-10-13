@@ -1,0 +1,22 @@
+species: Bulbasaur
+ingamename: Baublesaur
+displayname: Baublesaur
+setname: Christmas
+tags: [christmas]
+item: Brightpowder
+ability: Illuminate
+moves:
+    - [Ice Ball]
+    - [Rollout]
+    - [Defense Curl]
+    - [Flash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
+hidden: false

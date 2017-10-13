@@ -1,0 +1,22 @@
+species: Blaziken
+ingamename: Baker
+displayname: Baker
+setname: Christmas
+tags: [christmas]
+item: Lava Cookie
+ability: Blaze
+moves:
+    - [Overheat]
+    - [SmellingSalt]
+    - [Fling]
+    - [Will-O-Wisp]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 10
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+hidden: false

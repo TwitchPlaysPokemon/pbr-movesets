@@ -1,0 +1,22 @@
+species: Mightyena
+ingamename: Husky
+displayname: Husky
+setname: Christmas
+tags: [christmas]
+item: NeverMeltIce
+ability: Snow Cloak
+moves:
+    - [Ice Fang]
+    - [Pursuit]
+    - [Howl]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 124, atk: 128, def: 64, spA: 0, spD: 64, spe: 128}
+hidden: false

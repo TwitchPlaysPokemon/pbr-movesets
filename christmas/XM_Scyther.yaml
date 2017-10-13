@@ -1,0 +1,22 @@
+species: Scyther
+ingamename: Xmas 2013
+displayname: Xmas 2013
+setname: Christmas
+tags: [christmas]
+item: Metal Coat
+ability: Technician
+moves:
+    - [Aerial Ace]
+    - [Fury Cutter]
+    - [False Swipe]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 156, atk: 88, def: 132, spA: 0, spD: 132, spe: 0}
+hidden: False

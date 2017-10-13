@@ -1,0 +1,22 @@
+species: Claydol
+ingamename: Clausdoll
+displayname: Clausdoll
+setname: Christmas
+tags: [christmas]
+item: Pokedoll
+ability: Limber
+moves:
+    - [Gyro Ball]
+    - [Bounce]
+    - [Rapid Spin]
+    - [Splash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Timid
+ivs: 31
+evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+hidden: false

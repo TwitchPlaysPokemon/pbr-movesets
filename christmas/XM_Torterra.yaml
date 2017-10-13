@@ -1,0 +1,22 @@
+species: Torterra
+ingamename: Antartica
+displayname: Antartica
+setname: Christmas
+tags: [christmas]
+item: NeverMeltIce
+ability: Pressure
+moves:
+    - [Avalance]
+    - [Ominous Wind]
+    - [Nature Power]
+    - [Curse]
+happiness: 255
+biddable: True
+rarity: 1.0
+gender: [m,f]
+ball: [Cherish]
+shiny: True
+nature: Relaxed
+ivs: 31
+evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 128, spe: 0}
+hidden: False

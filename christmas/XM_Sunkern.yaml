@@ -1,0 +1,21 @@
+species: Sunkern
+displayname: Beach Vacation
+ingamename: Sunburn
+setname: Christmas
+tags: [christmas]
+item: [Focus Sash]
+ability: [Drought]
+moves:
+    - [Solarbeam]
+    - [Weather Ball]
+    - [Spore]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: Timid
+ivs: 31
+evs: 252
+hidden: False

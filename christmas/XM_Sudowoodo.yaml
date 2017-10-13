@@ -1,0 +1,22 @@
+species: Sudowoodo
+ingamename: Caga Tio
+displayname: Caga Tió
+setname: Christmas
+tags: [christmas]
+item: Oran Berry
+ability: Unburden
+moves:
+    - [Wood Hammer]
+    - [Gunk Shot]
+    - [Sing]
+    - [Present]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Docile
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: False

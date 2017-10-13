@@ -1,0 +1,21 @@
+species: Groudon
+ingamename: Permafrost
+displayname: Permafrost
+setname: Christmas
+tags: [christmas]
+item: NeverMeltIce
+ability: Ice Body
+moves:
+    - [Ice Beam]
+    - [Mud Shot]
+    - [Leech Seed]
+    - [Hail]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 0}
+evs: 0
+hidden: false

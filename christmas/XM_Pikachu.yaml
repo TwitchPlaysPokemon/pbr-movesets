@@ -1,0 +1,22 @@
+species: Pikachu
+ingamename: Pikachoo
+displayname: Pikachoo
+setname: Christmas
+tags: [christmas]
+item: Silk Scarf
+ability: Snow Warning
+moves:
+    - [Present]
+    - [Blizzard]
+    - [Tail Whip]
+    - [Milk Drink]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Brave
+ivs: 31
+evs: 252
+hidden: False

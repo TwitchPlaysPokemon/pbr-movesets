@@ -1,0 +1,22 @@
+species: Crawdaunt
+ingamename: Xmas Star
+displayname: Xmas Star
+setname: Christmas
+tags: [christmas]
+item: Star Piece
+ability: Technician
+moves:
+    - [Powder Snow]
+    - [Swift]
+    - [Calm Mind]
+    - [Moonlight]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Timid
+ivs: 31
+evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+hidden: false

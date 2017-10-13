@@ -1,0 +1,22 @@
+species: Lapras
+ingamename: Snowmaiden
+displayname: Snowmaiden
+setname: Christmas
+tags: [christmas]
+item: Leftovers
+ability: Slow Start
+moves:
+    - [Present]
+    - [Fly]
+    - [Flamethrower]
+    - [Sweet Kiss]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Serious
+ivs: 31
+evs: 84
+hidden: false

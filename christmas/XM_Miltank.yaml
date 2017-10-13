@@ -1,0 +1,22 @@
+species: Miltank
+ingamename: Egg Nog
+displayname: Egg Nog
+setname: Christmas
+tags: [christmas]
+item: Mago Berry
+ability: Tangled Feet
+moves:
+    - [Egg Bomb]
+    - [Lick]
+    - [Teeter Dance]
+    - [Milk Drink (=8)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Sassy
+ivs: 31
+evs: {hp: 44, atk: 64, def: 84, spA: 0, spD: 82, spe: 176}
+hidden: false

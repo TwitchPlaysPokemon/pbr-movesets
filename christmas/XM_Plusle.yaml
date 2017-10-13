@@ -1,0 +1,22 @@
+species: Plusle
+ingamename: Elf
+displayname: Elf
+setname: Christmas
+tags: [christmas]
+item: Silk Scarf
+ability: Cute Charm
+moves:
+    - [Present]
+    - [Blizzard]
+    - [Encore]
+    - [Assist]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Brave
+ivs: 31
+evs: 252
+hidden: False

@@ -1,0 +1,22 @@
+species: Snorunt
+ingamename: Fortune
+displayname: Fortune
+setname: Christmas
+tags: [christmas]
+item: Lava Cookie
+ability: Super Luck
+moves:
+    - [Luster Purge]
+    - [Doom Desire]
+    - [Wish]
+    - [Acupressure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+hidden: False

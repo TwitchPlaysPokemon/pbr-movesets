@@ -1,0 +1,22 @@
+species: Magmortar
+ingamename: Caspar
+displayname: Caspar
+setname: Christmas
+tags: [christmas]
+item: Rose Incense
+ability: Super Luck
+moves:
+    - [Magical Leaf]
+    - [Swift]
+    - [Present]
+    - [Sweet Scent]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Docile
+ivs: 31
+evs: {hp: 20, atk: 0, def: 64, spA: 0, spD: 0, spe: 56}
+hidden: false

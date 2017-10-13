@@ -1,0 +1,22 @@
+species: Arceus
+ingamename: Newborn
+displayname: Newborn
+setname: Christmas
+tags: [christmas]
+item: Focus Sash
+ability: Magic Guard
+moves:
+    - [Endeavor]
+    - [Shadow Sneak]
+    - [Toxic]
+    - [Pain Split]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Docile
+ivs: 31
+evs: 0
+level: 1
+hidden: false

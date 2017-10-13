@@ -1,0 +1,22 @@
+species: Butterfree
+ingamename: Butterfrz
+displayname: Butterfrz
+setname: Christmas
+tags: [christmas]
+item: NeverMeltIce
+ability: Ice Body
+moves:
+    - [Powder Snow]
+    - [Fly]
+    - [Tail Glow]
+    - [Hail]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 172, atk: 70, def: 84, spA: 252, spD: 0, spe: 156}
+hidden: false

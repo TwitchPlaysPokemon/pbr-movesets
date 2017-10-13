@@ -1,0 +1,22 @@
+species: Victreebel
+ingamename: Stocking
+displayname: Stocking
+setname: Christmas
+tags: [christmas]
+item: Rare Candy
+ability: Simple
+moves:
+    - [Ice Beam]
+    - [Spit Up]
+    - [Swallow]
+    - [Stockpile]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Timid
+ivs: {hp: 0, atk: 13, def: 0, spA: 13, spD: 0, spe: 13}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: False

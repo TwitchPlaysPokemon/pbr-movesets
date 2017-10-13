@@ -1,0 +1,22 @@
+species: Misdreavus
+ingamename: XmasPresen
+displayname: Ghost of Christmas
+setname: Present
+tags: [christmas]
+item: Icicle Plate
+ability: Huge Power
+moves:
+    - [Present]
+    - [Ice Shard]
+    - [Safeguard]
+    - [Minimize]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 8, spD: 100, spe: 100}
+hidden: false

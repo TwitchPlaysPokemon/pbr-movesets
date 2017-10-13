@@ -1,0 +1,22 @@
+species: Kabutops
+ingamename: Sleigh
+displayname: Sleigh
+setname: Christmas
+tags: [christmas]
+item: King's Rock
+ability: Technician
+moves:
+    - [Rock Climb]
+    - [Vine Whip]
+    - [Fly]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 76, atk: 0, def: 0, spA: 0, spD: 76, spe: 0}
+hidden: false

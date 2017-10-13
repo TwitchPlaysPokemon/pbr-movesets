@@ -1,0 +1,22 @@
+species: Stantler
+ingamename: Raindeer
+displayname: Raindeer
+setname: Christmas
+tags: [christmas]
+item: Silk Scarf
+ability: Adaptability
+moves:
+    - [Present]
+    - [Fly]
+    - [Seismic Toss]
+    - [Helping Hand]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 128, def: 88, spA: 0, spD: 88, spe: 116}
+hidden: False

@@ -1,0 +1,22 @@
+species: Xatu
+ingamename: Forecaster
+displayname: Forecaster
+setname: Christmas
+tags: [christmas]
+item: Icicle Plate
+ability: Snow Warning
+moves:
+    - [Weather Ball]
+    - [Thunder]
+    - [Rain Dance]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+hidden: False

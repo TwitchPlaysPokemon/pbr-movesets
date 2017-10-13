@@ -1,0 +1,21 @@
+species: Lunatone
+ingamename: December31
+displayname: December31
+setname: Christmas
+tags: [christmas]
+item: Moon Stone
+ability: Ice Body
+moves:
+    - [Blizzard]
+    - [Mean Look]
+    - [Hail]
+    - [Moon Light]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Timid
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 124, spe: 128}
+hidden: false
