@@ -1,0 +1,143 @@
+species: Sandshrew
+setname: OHKO
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Lonely
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 184}
+---
+species: Ekans
+setname: OHKO
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Naughty
+ivs: 0
+evs: {hp: 120, atk: 0, def: 116, spA: 0, spD: 76, spe: 64}
+---
+species: Snorunt
+setname: OHKO
+item: [Null]
+ability: [Ice Body]
+moves:
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 56, spA: 0, spD: 64, spe: 104}
+---
+species: Snover
+setname: OHKO
+item: [Null]
+ability: [Soundproof]
+moves:
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Naughty
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 184}
+---
+species: Nidoran-M
+setname: OHKO
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Serious
+ivs: 0
+evs: {hp: 32, atk: 0, def: 132, spA: 0, spD: 148, spe: 104}
+---
+species: Goldeen
+setname: OHKO
+item: [Null]
+ability: [Water Veil]
+moves:
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Lonely
+ivs: 0
+evs: {hp: 40, atk: 0, def: 40, spA: 0, spD: 56, spe: 0}
+---
+species: Krabby
+setname: OHKO
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: 
+ivs: 0
+evs: {hp: 124, atk: 0, def: 0, spA: 0, spD: 4, spe: 104}
+---
+species: Corphish
+setname: OHKO
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Gentle
+ivs: 0
+evs: {hp: 56, atk: 0, def: 0, spA: 0, spD: 136, spe: 224}
