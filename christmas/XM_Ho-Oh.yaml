@@ -2,6 +2,7 @@ species: Ho-Oh
 ingamename: Ho Ho Ho!
 displayname: Ho Ho Ho!
 setname: Christmas
+tags: [christmas]
 item: NeverMeltIce
 ability: Ice Body
 moves:

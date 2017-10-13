@@ -2,6 +2,7 @@ species: Spiritomb
 ingamename: Fireworks
 displayname: Fireworks
 setname: Christmas
+tags: [christmas]
 item: Smoke Ball
 ability: White Smoke
 moves:

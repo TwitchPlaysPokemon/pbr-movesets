@@ -2,6 +2,7 @@ species: Lunatone
 ingamename: December31
 displayname: December31
 setname: Christmas
+tags: [christmas]
 item: Moon Stone
 ability: Ice Body
 moves:

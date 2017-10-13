@@ -2,6 +2,7 @@ species: Shiftry
 ingamename: ColdBreeze
 displayname: ColdBreeze
 setname: Christmas
+tags: [christmas]
 item: Power Herb
 ability: Snow Warning
 moves:

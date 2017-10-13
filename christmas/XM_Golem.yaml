@@ -2,6 +2,7 @@ species: Golem
 ingamename: Snow Golem
 displayname: Snow Golem
 setname: Christmas
+tags: [christmas]
 item: Icy Rock
 ability: Speed Boost
 moves:

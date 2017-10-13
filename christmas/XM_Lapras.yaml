@@ -2,6 +2,7 @@ species: Lapras
 ingamename: Snowmaiden
 displayname: Snowmaiden
 setname: Christmas
+tags: [christmas]
 item: Leftovers
 ability: Slow Start
 moves:

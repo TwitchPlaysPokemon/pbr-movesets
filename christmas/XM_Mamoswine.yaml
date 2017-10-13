@@ -2,6 +2,7 @@ species: Mamoswine
 ingamename: Xmas Ham
 displayname: Xmas Ham
 setname: Christmas
+tags: [christmas]
 item: Shoal Salt
 ability: Guts
 moves:

@@ -2,6 +2,7 @@ species: Regigigas
 ingamename: SantaClaus
 displayname: SantaClaus
 setname: Christmas
+tags: [christmas]
 item: Stick
 ability: Technician
 moves:

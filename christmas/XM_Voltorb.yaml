@@ -2,6 +2,7 @@ species: Voltorb
 ingamename: Snowball
 displayname: Snowball
 setname: Christmas
+tags: [christmas]
 item: Wide Lens
 ability: Ice Body
 moves:

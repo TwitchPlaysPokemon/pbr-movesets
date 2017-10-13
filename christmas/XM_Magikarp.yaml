@@ -2,6 +2,7 @@ species: Magikarp
 displayname: Baba Noel
 ingamename: Baba Noel
 setname: Christmas
+tags: [christmas]
 item: [Life Orb]
 ability: [Sand Stream]
 moves:

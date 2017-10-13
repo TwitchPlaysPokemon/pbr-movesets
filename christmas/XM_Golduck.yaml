@@ -2,6 +2,7 @@ species: Golduck
 ingamename: Scrooge
 displayname: Scrooge
 setname: Christmas
+tags: [christmas]
 item: Amulet Coin
 ability: Technician
 moves:

@@ -2,6 +2,7 @@ species: Stantler
 ingamename: Raindeer
 displayname: Raindeer
 setname: Christmas
+tags: [christmas]
 item: Silk Scarf
 ability: Adaptability
 moves:

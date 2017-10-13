@@ -2,6 +2,7 @@ species: Slowpoke
 ingamename: tppSlowpok
 displayname: tppSlowPoke
 setname: Christmas
+tags: [christmas]
 item: Icicle Plate
 ability: Speed Boost
 moves:

@@ -2,6 +2,7 @@ species: Vulpix
 ingamename: Snowpix
 displayname: Snowpix
 setname: Christmas
+tags: [christmas]
 item: Icicle Plate
 ability: Snow Cloak
 moves:

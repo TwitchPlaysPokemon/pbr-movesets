@@ -2,6 +2,7 @@ species: Mightyena
 ingamename: Husky
 displayname: Husky
 setname: Christmas
+tags: [christmas]
 item: NeverMeltIce
 ability: Snow Cloak
 moves:

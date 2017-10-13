@@ -2,6 +2,7 @@ species: Sandslash
 ingamename: Snowslash
 displayname: Snowslash
 setname: Christmas
+tags: [christmas]
 item: Icicle Plate
 ability: Snow Cloak
 moves:

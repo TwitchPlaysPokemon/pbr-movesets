@@ -2,6 +2,7 @@ species: Xatu
 ingamename: Forecaster
 displayname: Forecaster
 setname: Christmas
+tags: [christmas]
 item: Icicle Plate
 ability: Snow Warning
 moves:

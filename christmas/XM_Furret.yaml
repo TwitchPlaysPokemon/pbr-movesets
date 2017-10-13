@@ -2,6 +2,7 @@ species: Furret
 ingamename: Fur Coat
 displayname: Fur Coat
 setname: Christmas
+tags: [christmas]
 item: Fluffy Tail
 ability: Snow Cloak
 moves:

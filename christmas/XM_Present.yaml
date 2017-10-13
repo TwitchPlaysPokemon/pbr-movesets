@@ -1,6 +1,7 @@
 species: Delibird
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Hustle]
 nature: Adamant
@@ -20,6 +21,7 @@ hidden: False
 species: Jynx
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Forewarn]
 nature: Adamant
@@ -39,6 +41,7 @@ hidden: False
 species: Dugtrio
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Arena Trap]
 nature: Adamant
@@ -58,6 +61,7 @@ hidden: False
 species: Hitmontop
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Technician]
 nature: Serious
@@ -77,6 +81,7 @@ hidden: False
 species: Magby
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Flame Body]
 nature: Adamant
@@ -96,6 +101,7 @@ hidden: False
 species: Eevee
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Adaptability]
 nature: Timid
@@ -115,6 +121,7 @@ hidden: False
 species: Porygon
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Download]
 nature: Serious
@@ -134,6 +141,7 @@ hidden: False
 species: Azurill
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Huge Power]
 nature: Jolly
@@ -153,6 +161,7 @@ hidden: False
 species: Murkrow
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Super Luck]
 nature: Adamant
@@ -172,6 +181,7 @@ hidden: False
 species: Torchic
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Speed Boost]
 nature: Adamant
@@ -191,6 +201,7 @@ hidden: False
 species: Shroomish
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Effect Spore]
 nature: Jolly
@@ -210,6 +221,7 @@ hidden: False
 species: Slaking
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Truant]
 nature: Modest
@@ -229,6 +241,7 @@ hidden: False
 species: Delcatty
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Cute Charm]
 nature: Adamant
@@ -248,6 +261,7 @@ hidden: False
 species: Electrike
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Static]
 nature: Adamant
@@ -267,6 +281,7 @@ hidden: False
 species: Castform
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Forecast]
 nature: Adamant
@@ -286,6 +301,7 @@ hidden: False
 species: Luxio
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Rivalry]
 nature: Adamant
@@ -305,6 +321,7 @@ hidden: False
 species: Stunky
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Aftermath]
 nature: Adamant
@@ -324,6 +341,7 @@ hidden: False
 species: Skorupi
 setname: Present
 ball: [Premier]
+tags: [christmas]
 item: [Max Revive, Lava Cookie, Rare Candy, Old Gateau, Poké Doll, Fluffy Tail, White Flute, Shoal Shell, Pearl, Big Pearl, Stardust, Star Piece, Nugget, Heart Scale, Shiny Stone, Oval Stone, Soothe Bell, Amulet Coin, Everstone, Silk Scarf]
 ability: [Sniper]
 nature: Adamant

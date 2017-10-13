@@ -2,6 +2,7 @@ species: Solrock
 ingamename: January1
 displayname: January1
 setname: Christmas
+tags: [christmas]
 item: Sun Stone
 ability: Illuminate
 moves:

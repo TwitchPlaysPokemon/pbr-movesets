@@ -2,6 +2,7 @@ species: Unown
 ingamename: Candy
 displayname: Candy
 setname: Christmas
+tags: [christmas]
 item: Rare Candy
 ability: Drought
 moves:

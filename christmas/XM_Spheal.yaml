@@ -2,6 +2,7 @@ species: Spheal
 displayname: Christmas Island
 ingamename: XmasIsland
 setname: Christmas
+tags: [christmas]
 item: [Power Herb]
 ability: [Drizzle]
 moves:

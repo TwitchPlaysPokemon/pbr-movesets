@@ -2,6 +2,7 @@ species: Regice
 ingamename: Yeti
 displayname: Yeti
 setname: Christmas
+tags: [christmas]
 item: Power Herb
 ability: Snow Warning
 moves:
