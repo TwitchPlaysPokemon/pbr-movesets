@@ -1,5 +1,5 @@
 species: Kricketune
-setname: Swarm
+setname: a-Swarm
 tags: [advanced]
 item: [Liechi Berry, Red Flute]
 ability: [Swarm]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Kricketune
-setname: PhysTech
+setname: a-PhysTech
 tags: [advanced]
 item: [Cheri Berry, Chesto Berry, Pecha Berry, Aspear Berry]
 ability: [Technician]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Kricketune
-setname: SpecTech
+setname: a-SpecTech
 tags: [advanced]
 item: [Stone Plate, Rock Incense, Silk Scarf]
 ability: [Technician]

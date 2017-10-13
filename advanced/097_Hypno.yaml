@@ -1,5 +1,5 @@
 species: Hypno
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Oran berry, Odd Incense, Rose Incense, Zoom Lens]
 ability: [Forewarn]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Hypno
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Old Amber, Hard Stone, Rare Bone]
 ability: [Insomnia, Inner Focus]
@@ -41,7 +41,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Hypno
-setname: Hypnosis
+setname: a-Hypnosis
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Insomnia, Inner Focus]
@@ -62,7 +62,7 @@ rarity: 1.0
 ball: [Timer]
 ---
 species: Hypno 
-setname: Passer
+setname: a-Passer
 tags: [advanced]
 item: [Heal ball]
 ability: [Insomnia, Inner Focus]

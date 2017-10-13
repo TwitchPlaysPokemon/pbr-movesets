@@ -1,5 +1,5 @@
 species: Vaporeon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Awakening]
 ability: [Water Absorb]
@@ -16,7 +16,7 @@ ivs: 12
 evs: 0
 ---
 species: Vaporeon
-setname: Physical
+setname: a-Physical
 ability: [Hydration]
 moves:
     - [Waterfall, Aqua Tail]
@@ -31,7 +31,7 @@ ivs: 31
 evs: {hp: 0, atk: 72, def: 0, spA: 96, spD: 0, spe: 0}
 ---
 species: Vaporeon
-setname: High Stats
+setname: a-High Stats
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Water Absorb]

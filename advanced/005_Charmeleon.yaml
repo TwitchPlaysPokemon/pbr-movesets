@@ -1,5 +1,5 @@
 species: Charmeleon
-setname: Blaze
+setname: a-Blaze
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Blaze]
@@ -17,7 +17,7 @@ gender: [m, f]
 ball: [Great]
 ---
 species: Charmeleon
-setname: Solar Power
+setname: a-Solar Power
 tags: [advanced]
 item: [Shell Bell, Hard Stone, Lum Berry]
 ability: [Solar Power]

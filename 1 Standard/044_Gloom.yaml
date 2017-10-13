@@ -1,0 +1,37 @@
+species: Gloom
+setname: Special
+tags: [standard]
+item: [Big Root]
+ability: [Chlorophyll]
+moves:
+    - [Giga Drain]
+    - [Hidden Power]
+    - [Ingrain]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Timid
+evs: {hp: 100, atk: 0, def: 92, spA: 76, spD: 92, spe: 148}
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+---
+species: Gloom
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Seed Bomb]
+    - [Return]
+    - [Drain Punch]
+    - [Tickle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Jolly
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31

@@ -1,0 +1,56 @@
+species: Lanturn
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Thunderbolt]
+    - [Bubblebeam]
+    - [Signal Beam]
+    - [Charge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Net]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 60, spA: 0, spD: 0, spe: 0}
+---
+species: Lanturn
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Dive]
+    - [Spark]
+    - [Sucker Punch]
+    - [Screech]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Brave
+ivs: 8
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+---
+species: Lanturn
+setname: Support
+tags: [standard]
+item: [Null]
+ability: [Volt Absorb]
+moves:
+    - [Aqua Tail]
+    - [Discharge]
+    - [Toxic]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 20, spA: 31, spD: 20, spe: 0}
+evs: {hp: 0, atk: 164, def: 0, spA: 0, spD: 0, spe: 0}

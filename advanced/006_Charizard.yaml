@@ -1,5 +1,5 @@
 species: Charizard
-setname: Smash
+setname: a-Smash
 tags: [advanced]
 item: [Poké Ball, Master Ball]
 ability: [Blaze]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Timer]
 ---
 species: Charizard
-setname: Belly Drum
+setname: a-Belly Drum
 tags: [advanced]
 item: [Lum Berry]
 ability: [Blaze]
@@ -35,7 +35,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Charizard
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Dragon Fang]
 ability: [Blaze]

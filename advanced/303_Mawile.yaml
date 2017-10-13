@@ -1,5 +1,5 @@
 species: Mawile
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Intimidate, Hyper Cutter]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 100, atk: 100, def: 100, spA: 108, spD: 100, spe: 0}
 ---
 species: Mawile
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Rowap Berry, Stone Plate]
 ability: [Intimidate]
@@ -40,7 +40,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Mawile
-setname: Max Atk
+setname: a-Max Atk
 tags: [advanced]
 item: [Pamtre Berry, Berry Juice]
 ability: [Intimidate]
@@ -61,7 +61,7 @@ ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Mawile
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Everstone]
 ability: [Huge Power]

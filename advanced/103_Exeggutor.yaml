@@ -1,5 +1,5 @@
 species: Exeggutor
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Chlorophyll]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Exeggutor
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silk Scarf, Black Belt, Hard Stone]
 ability: [Chlorophyll]
@@ -44,7 +44,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Exeggutor
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Scope Lens, Sitrus Berry]
 ability: [Chlorophyll]

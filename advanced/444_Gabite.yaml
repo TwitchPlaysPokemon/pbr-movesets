@@ -1,5 +1,5 @@
 species: Gabite
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Jaboca Berry]
 ability: [Rough Skin]
@@ -21,7 +21,7 @@ ivs: 20
 evs: {hp: 80, atk: 0, def: 80, spA: 0, spD: 60, spe: 60}
 ---
 species: Gabite
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Expert Belt]
 ability: [Rough Skin]

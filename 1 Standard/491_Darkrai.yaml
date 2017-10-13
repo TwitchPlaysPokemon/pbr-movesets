@@ -1,0 +1,71 @@
+species: Darkrai
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Bad Dreams]
+moves:
+    - [Feint Attack]
+    - [Brick Break]
+    - [Shadow Claw]
+    - [Disable]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Darkrai
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Bad Dreams]
+moves:
+    - [Hidden Power]
+    - [Ominous Wind]
+    - [Charge Beam]
+    - [Embargo]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 1, atk: 1, def: 1, spA: 3, spD: 3, spe: 1}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Darkrai
+setname: Fighter
+tags: [standard]
+item: [Null]
+ability: [Bad Dreams]
+moves:
+    - [Sucker Punch]
+    - [X-Scissor]
+    - [Focus Punch]
+    - [Swords Dance]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Darkrai
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Bad Dreams]
+moves:
+    - [Dark Pulse]
+    - [Spacial Rend]
+    - [Ice Beam]
+    - [Dark Void]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

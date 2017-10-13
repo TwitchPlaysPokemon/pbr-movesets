@@ -1,0 +1,75 @@
+species: Girafarig
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Body Slam]
+    - [Zen Headbutt]
+    - [Crunch]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Quiet
+ivs: 29
+evs: 84
+---
+species: Girafarig
+setname: Flinch
+tags: [standard]
+item: [King's Rock]
+ability: [Inner Focus]
+moves:
+    - [Stomp]
+    - [Psybeam]
+    - [Energy Ball]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Brave
+ivs: 21
+evs: {hp: 60, atk: 128, def: 100, spA: 40, spD: 100, spe: 0}
+---
+species: Girafarig
+setname: Gravity
+tags: [standard]
+item: [Jaboca Berry]
+ability: [Early Bird]
+moves:
+    - [Take Down]
+    - [Earthquake]
+    - [Thunder]
+    - [Gravity]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Nest]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 32, def: 0, spA: 0, spD: 0, spe: 68}
+---
+species: Girafarig
+setname: Baton Pass
+tags: [standard]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Swift]
+    - [Charge Beam]
+    - [Mean Look]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Dusk]
+nature: Timid
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 128, spe: 124}

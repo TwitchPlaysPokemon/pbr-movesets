@@ -1,0 +1,53 @@
+species: Entei
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Fire Fang]
+    - [Extrasensory]
+    - [Bite]
+    - [Roar]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 0, atk: 10, def: 20, spA: 20, spD: 10, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 60, spD: 0, spe: 0}
+---
+species: Entei
+setname: Sunny Day
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Lava Plume]
+    - [Solar Beam]
+    - [Shadow Ball]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Great]
+nature: Serious
+ivs: 0
+evs: 0
+---
+species: Entei
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Sacred Fire]
+    - [Stone Edge]
+    - [Extreme Speed]
+    - [Roar]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Quiet
+ivs: 0
+evs: 0

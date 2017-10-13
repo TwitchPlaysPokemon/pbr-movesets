@@ -1,0 +1,94 @@
+species: Dusknoir
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Night Shade]
+    - [Dark Pulse]
+    - [Trick Room]
+    - [Memento]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Rash
+ivs: 15
+evs: {hp: 60, atk: 0, def: 0, spA: 160, spD: 0, spe: 0}
+---
+species: Dusknoir
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Frisk]
+moves:
+    - [Shadow Punch]
+    - [Payback]
+    - [Fire Punch]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dusk]
+nature: Serious
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Dusknoir
+setname: Max Attack
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Astonish]
+    - [Rock Smash]
+    - [Taunt]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Dusknoir
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Shadow Ball]
+    - [Dark Pulse]
+    - [Charge Beam]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 200}
+---
+species: Dusknoir
+setname: Stall
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Pursuit]
+    - [Will-O-Wisp]
+    - [Confuse Ray]
+    - [Grudge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Serious
+ivs: 31
+evs: {hp: 140, atk: 140, def: 0, spA: 0, spD: 0, spe: 0}

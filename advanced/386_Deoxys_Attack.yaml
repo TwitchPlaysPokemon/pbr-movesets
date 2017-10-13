@@ -1,5 +1,5 @@
 species: Deoxys
-setname: Attack Standard
+setname: a-Attack Standard
 tags: [advanced]
 item: [Power Herb]
 ability: [Pressure]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [poke]
 ---
 species: Deoxys
-setname: Attack Overpowered
+setname: a-Attack Overpowered
 tags: [advanced]
 item: [Iron Ball]
 ability: [Pressure]

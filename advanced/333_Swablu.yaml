@@ -1,5 +1,5 @@
 species: Swablu
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Power Herb, Sky Plate]
 ability: [Cloud Nine]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 108, atk: 0, def: 0, spA: 252, spD: 0, spe: 148}
 ---
 species: Swablu
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Choice Scarf]
 ability: [Natural Cure]
@@ -39,7 +39,7 @@ ivs: 31
 evs: {hp: 176, atk: 252, def: 0, spA: 0, spD: 0, spe: 80}
 ---
 species: Swablu
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Cloud Nine]

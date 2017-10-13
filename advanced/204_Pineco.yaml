@@ -1,5 +1,5 @@
 species: Pineco
-setname: Nuke
+setname: a-Nuke
 tags: [advanced]
 item: [Power Anklet]
 ability: [Sturdy]
@@ -16,7 +16,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 76, atk: 252, def: 0, spA: 0, spD: 180, spe: 0}
 ---
 species: Pineco
-setname: Sweeper
+setname: a-Sweeper
 tags: [advanced]
 item: [Salac Berry]
 ability: [Sturdy]

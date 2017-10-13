@@ -1,5 +1,5 @@
 species: Mightyena
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null, Dread Plate, Iron Ball, Charcoal]
 ability: [Intimidate]
@@ -25,7 +25,7 @@ ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 31}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Mightyena
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [null, Toxic Orb]
 ability: [Intimidate, Quick Feet]
@@ -49,7 +49,7 @@ ivs: 31
 evs: {hp: 8, atk: 128, def: 88, spA: 196, spD: 88, spe: 0}
 ---
 species: Mightyena
-setname: ResTalk
+setname: a-ResTalk
 tags: [advanced]
 item: [BlackGlasses]
 ability: [Quick Feet]

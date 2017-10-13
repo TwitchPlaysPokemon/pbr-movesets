@@ -1,0 +1,71 @@
+species: Dialga
+setname: Standard
+tags: [standard]
+item: [Adamant Orb]
+ability: [Pressure]
+moves:
+    - [Metal Claw]
+    - [Twister]
+    - [Metal Burst]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Quick]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 200, def: 0, spA: 200, spD: 0, spe: 0}
+---
+species: Dialga
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Dragon Claw]
+    - [Superpower]
+    - [Rock Tomb]
+    - [Psych Up]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Modest
+ivs: 0
+evs: 0
+---
+species: Dialga
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Dragon Breath]
+    - [Hidden Power]
+    - [Ancient Power]
+    - [Sandstorm]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Repeat]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 3, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Dialga
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Roar Of Time]
+    - [Flash Cannon]
+    - [Flamethrower]
+    - [Aura Sphere]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

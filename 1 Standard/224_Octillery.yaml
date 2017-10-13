@@ -1,0 +1,56 @@
+species: Octillery
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Suction Cups]
+moves:
+    - [Octazooka]
+    - [Gunk Shot]
+    - [Energy Ball]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Modest
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 96}
+---
+species: Octillery
+setname: Sniper
+tags: [standard]
+item: [Scope Lens]
+ability: [Sniper]
+moves:
+    - [Brine]
+    - [Rock Blast]
+    - [Bullet Seed]
+    - [Focus Energy]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Octillery
+setname: Water Spout
+tags: [standard]
+item: [Null]
+ability: [Suction Cups]
+moves:
+    - [Water Spout]
+    - [Seismic Toss]
+    - [Icy Wind]
+    - [Charge Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Great]
+nature: Quiet
+ivs: {hp: 11, atk: 11, def: 11, spA: 31, spD: 11, spe: 11}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 28}

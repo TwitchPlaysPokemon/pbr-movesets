@@ -1,0 +1,37 @@
+species: Poochyena
+setname: Standard
+ball: [Poké]
+tags: [standard]
+item: [Focus Sash]
+ability: [Quick Feet]
+moves:
+    - [Super Fang]
+    - [Sucker Punch]
+    - [Ice Fang]
+    - [Counter]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Adamant
+evs: {hp: 96, atk: 252, def: 0, spA: 0, spD: 0, spe: 160}
+ivs: 31
+---
+species: Poochyena
+setname: Yawn
+ball: [Poké]
+tags: [standard]
+item: [Leftovers]
+ability: [Quick Feet]
+moves:
+    - [Crunch]
+    - [Iron Tail]
+    - [Yawn]
+    - [Protect]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Adamant
+evs: {hp: 32, atk: 160, def: 32, spA: 0, spD: 32, spe: 252}
+ivs: 31

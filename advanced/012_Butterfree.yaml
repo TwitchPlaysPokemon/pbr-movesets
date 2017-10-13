@@ -1,5 +1,5 @@
 species: Butterfree
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sitrus Berry, Mosaic Mail, Charti Berry]
 ability: [Compound Eyes, Tinted Lens]
@@ -27,7 +27,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Butterfree
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sky Plate, Insect Plate, Charti Berry]
 ability: [Tinted Lens]
@@ -52,7 +52,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Butterfree
-setname: Max Stats
+setname: a-Max Stats
 tags: [advanced]
 item: [Sharp Beak, Scope Lens]
 ability: [Tinted Lens]

@@ -1,5 +1,5 @@
 species: Sceptile
-setname: Unburden
+setname: a-Unburden
 tags: [advanced]
 item: [Power Herb]
 ability: [Unburden]
@@ -20,7 +20,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 124, spA: 124, spD: 124, spe: 0}
 ---
 species: Sceptile
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Dragon Scale, Miracle Seed]
 ability: [Overgrow]
@@ -43,7 +43,7 @@ ivs: 4
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Sceptile
-setname: Substitute
+setname: a-Substitute
 tags: [advanced]
 item: [Big Root]
 ability: [Overgrow]

@@ -1,5 +1,5 @@
 species: Gorebyss
-setname: Swift Swim
+setname: a-Swift Swim
 tags: [advanced]
 item: [Berry Juice, Silver Powder]
 ability: [Swift Swim]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Gorebyss
-setname: Hydration
+setname: a-Hydration
 tags: [advanced]
 item: [Damp Rock]
 ability: [Hydration]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Nest]
 ---
 species: Gorebyss
-setname: Baton Pass
+setname: a-Baton Pass
 tags: [advanced]
 item: [Apicot Berry]
 ability: [Hydration, Swift Swim]

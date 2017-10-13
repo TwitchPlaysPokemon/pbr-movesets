@@ -1,0 +1,56 @@
+species: Steelix
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Iron Tail]
+    - [Dig]
+    - [Ice Fang]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Premier]
+nature: Hasty
+ivs: 0
+evs: {hp: 85, atk: 40, def: 0, spA: 85, spD: 85, spe: 215}
+---
+species: Steelix
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Earth Power]
+    - [Dragon Pulse]
+    - [Dark Pulse]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Quick]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 136, spe: 96}
+---
+species: Steelix
+setname: Psych Up
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Earthquake]
+    - [Aqua Tail]
+    - [Swagger]
+    - [Psych Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Poké]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 0, spe: 0}

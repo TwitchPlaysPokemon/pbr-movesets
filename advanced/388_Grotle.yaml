@@ -1,5 +1,5 @@
 species: Grotle
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [White Herb, Stable Mulch]
 ability: [Overgrow]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Grotle
-setname: Screens
+setname: a-Screens
 tags: [advanced]
 item: [Light Clay]
 ability: [Shell Armor]

@@ -1,5 +1,5 @@
 species: Shaymin
-setname: Seed Flare
+setname: a-Seed Flare
 tags: [advanced]
 item: [Lagging Tail]
 ability: [Natural Cure]
@@ -17,7 +17,7 @@ ivs: 10
 evs: 0
 ---
 species: Shaymin
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Silk Scarf, Leppa Berry]
 ability: [Natural Cure]
@@ -37,7 +37,7 @@ ivs: 0
 evs: 0
 ---
 species: Shaymin
-setname: Growth
+setname: a-Growth
 tags: [advanced]
 item: [Growth Mulch]
 ability: [Natural Cure]
@@ -55,7 +55,7 @@ ivs: 21
 evs: 0
 ---
 species: Shaymin
-setname: Bullet Seed
+setname: a-Bullet Seed
 tags: [advanced]
 item: [Razor Fang]
 ability: [Natural Cure]

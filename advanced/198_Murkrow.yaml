@@ -1,5 +1,5 @@
 species: Murkrow
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Scope Lens, Cheri Berry]
 ability: [Super Luck, Insomnia]
@@ -21,7 +21,7 @@ ivs: 31
 evs: {hp: 240, atk: 0, def: 108, spA: 0, spD: 108, spe: 52}
 ---
 species: Murkrow
-setname: Physical
+setname: a-Physical
 ability: [Super Luck, Insomnia]
 moves:
     - [Drill Peck, Fly]

@@ -1,0 +1,19 @@
+species: Burmy
+setname: Trash 
+tags: [standard]
+item: [Sitrus Berry]
+ability: [Download]
+moves:
+    - [Bug Buzz]
+    - [Earth Power]
+    - [Metal Burst]
+    - [Explosion]
+gender: [m, f]
+form: Trash
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Luxury]
+nature: Relaxed
+ivs: 31
+evs: {hp: 252, atk: 0, def: 112, spA: 144, spD: 0, spe: 0}

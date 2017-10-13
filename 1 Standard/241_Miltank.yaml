@@ -1,0 +1,75 @@
+species: Miltank
+setname: Present
+tags: [standard]
+item: [Moomoo Milk]
+ability: [Scrappy]
+moves:
+    - [Present]
+    - [Rollout]
+    - [Bide]
+    - [Toxic]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Lonely
+ivs: 31
+evs: {hp: 40, atk: 252, def: 0, spA: 0, spD: 0, spe: 40}
+---
+species: Miltank
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Headbutt]
+    - [Brick Break]
+    - [Surf]
+    - [Heal Bell]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Quiet
+ivs: {hp: 31, atk: 10, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 192, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Miltank
+setname: Punch
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Dizzy Punch]
+    - [Fire Punch]
+    - [Ice Punch]
+    - [Thunder Punch]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poké]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 80, def: 0, spA: 0, spD: 0, spe: 48}
+---
+species: Miltank
+setname: Whitney
+tags: [standard]
+item: [Null]
+ability: [Scrappy]
+moves:
+    - [Stomp]
+    - [Rollout]
+    - [Attract]
+    - [Milk Drink]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Cherish]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0

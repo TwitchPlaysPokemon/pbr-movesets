@@ -1,0 +1,89 @@
+species: Rayquaza
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Air Lock]
+moves:
+    - [Dragon Claw]
+    - [Uproar]
+    - [Rock Smash]
+    - [Scary Face]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Premier]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Rayquaza
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Air Lock]
+moves:
+    - [Dragon Claw]
+    - [Iron Tail]
+    - [Shadow Claw]
+    - [Roar]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Great]
+nature: Modest
+ivs: 0
+evs: 0
+---
+species: Rayquaza
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Air Lock]
+moves:
+    - [Dragon Pulse]
+    - [Hyper Voice]
+    - [Solar Beam]
+    - [Toxic]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Adamant
+ivs: 0
+evs: 0
+---
+species: Rayquaza
+setname: Sky High
+tags: [standard]
+item: [Null]
+ability: [Air Lock]
+moves:
+    - [Aerial Ace]
+    - [Twister]
+    - [Icy Wind]
+    - [Tailwind]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Quiet
+ivs: 0
+evs: 0
+---
+species: Rayquaza
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Air Lock]
+moves:
+    - [Fly]
+    - [Earthquake]
+    - [Extreme Speed]
+    - [Dragon Dance]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Calm
+ivs: 0
+evs: {hp: 0, atk: 4, def: 0, spA: 0, spD: 8, spe: 0}

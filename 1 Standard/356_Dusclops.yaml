@@ -1,0 +1,56 @@
+species: Dusclops
+setname: Curse
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Shadow Ball]
+    - [Future Sight]
+    - [Giga Impact]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 20, spA: 31, spD: 20, spe: 20}
+evs: {hp: 104, atk: 188, def: 0, spA: 216, spD: 0, spe: 0}
+---
+species: Dusclops
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Shadow Punch]
+    - [Ice Punch]
+    - [Pursuit]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Premier]
+nature: Quirky
+ivs: 11
+evs: 84
+---
+species: Dusclops
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Frisk]
+moves:
+    - [Shadow Ball]
+    - [Blizzard]
+    - [Psychic]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Quick]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}

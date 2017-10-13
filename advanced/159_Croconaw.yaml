@@ -1,5 +1,5 @@
 species: Croconaw
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Muscle Band]
 ability: [Torrent]
@@ -22,7 +22,7 @@ ivs: 31
 evs: {hp: 148, atk: 80, def: 100, spA: 0, spD: 100, spe: 80}
 ---
 species: Croconaw
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [King's Rock]
 ability: [Torrent]

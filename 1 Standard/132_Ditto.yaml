@@ -1,0 +1,14 @@
+species: Ditto
+setname: Standard
+tags: [standard]
+item: [Quick Powder]
+ability: [Limber]
+moves:
+    - [Transform]
+happiness: 128
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+nature: Timid
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}

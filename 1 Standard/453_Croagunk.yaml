@@ -1,0 +1,75 @@
+species: Croagunk
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Anticipation]
+moves:
+    - [Fake Out]
+    - [Cross Chop]
+    - [Poison Jab]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 204, atk: 76, def: 120, spA: 0, spD: 56, spe: 52}
+---
+species: Croagunk
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Anticipation]
+moves:
+    - [Gunk Shot]
+    - [Brick Break]
+    - [Sucker Punch]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dusk]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 204, atk: 76, def: 120, spA: 0, spD: 56, spe: 52}
+---
+species: Croagunk
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Dry Skin]
+moves:
+    - [Focus Blast]
+    - [Sludge Bomb]
+    - [Dark Pulse]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 0, def: 28, spA: 200, spD: 28, spe: 136}
+---
+species: Croagunk
+setname: Stall
+tags: [standard]
+item: [Black Sludge]
+ability: [Dry Skin]
+moves:
+    - [Poison Jab]
+    - [Drain Punch]
+    - [bounce]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 112, spA: 0, spD: 144, spe: 0}

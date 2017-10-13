@@ -1,5 +1,6 @@
 species: Aerodactyl
 setname: Shiny
+tags: [advanced,standard]
 item: [Iron Ball]
 ability: [No Guard]
 moves:

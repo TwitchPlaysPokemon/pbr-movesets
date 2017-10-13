@@ -1,5 +1,5 @@
 species: Breloom
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Heal Powder, Miracle Seed, Toxic Orb]
 ability: [Technician, Poison Heal]
@@ -30,7 +30,7 @@ ivs: 0
 evs: {hp: 88, atk: 0, def: 40, spA: 252, spD: 40, spe: 80}
 ---
 species: Breloom
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null]
 ability: [Technician]
@@ -49,7 +49,7 @@ ivs: 5
 evs: {hp: 124, atk: 0, def: 100, spA: 164, spD: 120, spe: 0}
 ---
 species: Breloom
-setname: Bullet Seed
+setname: a-Bullet Seed
 tags: [advanced]
 item: [Miracle Seed]
 ability: [Technician]

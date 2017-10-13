@@ -1,5 +1,5 @@
 species: Torterra
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Null]
 ability: [Overgrow]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Torterra
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Grepa Berry, Meadow Plate, Black Glasses, Pomeg Berry]
 ability: [Overgrow, Shell Armor]
@@ -46,7 +46,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Torterra
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Growth Mulch, Silk Scarf, Power Herb]
 ability: [Shell Armor, Overgrow]

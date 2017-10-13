@@ -1,5 +1,5 @@
 species: Cranidos
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Skull Fossil]
 ability: [Mold Breaker]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Cranidos
-setname: Head Smash
+setname: a-Head Smash
 tags: [advanced]
 item: [Skull Fossil]
 ability: [Mold Breaker]

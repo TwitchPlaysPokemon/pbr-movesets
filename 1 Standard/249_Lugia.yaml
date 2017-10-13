@@ -1,0 +1,53 @@
+species: Lugia
+setname: Standard
+tags: [standard]
+item: [Iron Ball]
+ability: [Pressure]
+moves:
+    - [Aeroblast]
+    - [Future Sight]
+    - [Whirlwind]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Luxury]
+nature: Naughty
+ivs: {hp: 0, atk: 0, def: 1, spA: 1, spD: 3, spe: 0}
+evs: 0
+---
+species: Lugia
+setname: Rain Dance
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Wing Attack]
+    - [Waterfall]
+    - [Secret Power]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Dive]
+nature: Rash
+ivs: 0
+evs: 0
+---
+species: Lugia
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Psycho Boost]
+    - [Aeroblast]
+    - [Ice Beam]
+    - [Defog]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Naughty
+ivs: 0
+evs: 0

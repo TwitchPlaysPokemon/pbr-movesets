@@ -1,5 +1,5 @@
 species: Kyogre
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Grip Claw, Magost Berry]
 ability: [Drizzle]
@@ -21,7 +21,7 @@ rarity: 0.8
 ball: [Ultra]
 ---
 species: Kyogre
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Black Sludge]
 ability: [Drizzle]
@@ -41,7 +41,7 @@ rarity: 1.1
 ball: [Dive]
 ---
 species: Kyogre
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [Iron Ball]
 ability: [Drizzle]

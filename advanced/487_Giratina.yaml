@@ -1,5 +1,5 @@
 species: Giratina
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Black Sludge]
 ability: [Pressure]
@@ -17,7 +17,7 @@ ivs: 0
 evs: {hp: 20, atk: 0, def: 0, spA: 48, spD: 0, spe: 0}
 ---
 species: Giratina
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [Macho Brace]
 ability: [Pressure]

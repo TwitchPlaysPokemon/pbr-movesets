@@ -1,5 +1,5 @@
 species: Bastiodon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Armor Fossil]
 ability: [Sturdy]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Bastiodon
-setname: Flinch
+setname: a-Flinch
 tags: [advanced]
 item: [Silk Scarf, Metronome]
 ability: [Sturdy]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Bastiodon
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Soundproof]

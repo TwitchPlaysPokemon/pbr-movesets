@@ -1,5 +1,5 @@
 species: Torkoal
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Macho Brace]
 ability: [Shell Armor, White Smoke]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 100, spe: 100}
 ---
 species: Torkoal
-setname: Drought
+setname: a-Drought
 tags: [advanced]
 item: [Fire Stone]
 ability: [Drought]
@@ -41,7 +41,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 80, atk: 64, def: 64, spA: 64, spD: 108, spe: 128}
 ---
 species: Torkoal
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Grip Claw]
 ability: [Shell Armor, White Smoke]
@@ -60,7 +60,7 @@ ivs: 31
 evs: {hp: 252, atk: 0, def: 0, spA: 172, spD: 84, spe: 0}
 ---
 species: Torkoal
-setname: Physical Tank
+setname: a-Physical Tank
 tags: [advanced]
 item: [Leftovers, Power Herb]
 ability: [White Smoke]

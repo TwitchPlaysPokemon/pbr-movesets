@@ -1,5 +1,5 @@
 species: Vulpix
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Cheri Berry]
 ability: [Drought]
@@ -18,7 +18,7 @@ rarity: 0.9
 ball: [Heal]
 ---
 species: Vulpix
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Metal Coat]
 ability: [Drought]

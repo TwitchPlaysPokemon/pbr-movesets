@@ -1,5 +1,5 @@
 species: Remoraid
-setname: Water Spout
+setname: a-Water Spout
 ability: [Hustle]
 moves:
     - [Water Spout]
@@ -16,7 +16,7 @@ ivs: 31
 evs: {hp: 60, atk: 56, def: 0, spA: 160, spD: 0, spe: 232}
 ---
 species: Remoraid
-setname: Hustle
+setname: a-Hustle
 tags: [advanced]
 item: [Wide Lens, Focus Sash, Liechi Berry, Toxic Orb]
 ability: [Hustle]
@@ -37,7 +37,7 @@ ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Remoraid
-setname: Sniper
+setname: a-Sniper
 tags: [advanced]
 item: [Scope Lens, Lansat Berry, Focus Sash]
 ability: [Sniper]

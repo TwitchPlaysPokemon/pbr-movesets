@@ -1,5 +1,5 @@
 species: Magcargo
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Stone Plate]
 ability: [Magma Armor]
@@ -16,7 +16,7 @@ ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 30}
 evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
 ---
 species: Magcargo
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Watmel Berry]
 ability: [Magma Armor]
@@ -35,7 +35,7 @@ ivs: 31
 evs: {hp: 168, atk: 252, def: 0, spA: 0, spD: 0, spe: 88}
 ---
 species: Magcargo
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Smooth Rock]
 ability: [Flame Body]

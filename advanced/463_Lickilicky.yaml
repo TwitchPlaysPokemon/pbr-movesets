@@ -1,5 +1,5 @@
 species: Lickilicky
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Lum Berry, Zoom Lens]
 ability: [Own Tempo]
@@ -18,7 +18,7 @@ ivs: 6
 evs: 84
 ---
 species: Lickilicky
-setname: Slow Me First
+setname: a-Slow Me First
 tags: [advanced]
 item: [null, Silk Scarf, Spooky Plate, Light Ball]
 ability: [Cloud Nine, Own Tempo]
@@ -41,7 +41,7 @@ ivs: {hp: 0, atk: 0, def: 10, spA: 31, spD: 10, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
 ---
 species: Lickilicky
-setname: High Stats
+setname: a-High Stats
 tags: [advanced]
 item: [Mago Berry]
 ability: [Own Tempo]
@@ -64,7 +64,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 2}
 evs: {hp: 124, atk: 132, def: 0, spA: 0, spD: 252, spe: 0}
 ---
 species: Lickilicky
-setname: Powerhouse
+setname: a-Powerhouse
 tags: [advanced]
 item: [Wide Lens, Flame Orb]
 ability: [Oblivious]

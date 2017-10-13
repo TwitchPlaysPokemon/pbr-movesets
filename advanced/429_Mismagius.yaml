@@ -1,5 +1,5 @@
 species: Mismagius
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Dusk Stone, Black Glasses, Hard Stone]
 ability: [Levitate]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Mismagius
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Spell Tag]
 ability: [Levitate]
@@ -40,7 +40,7 @@ rarity: 0.5
 ball: [Dusk]
 ---
 species: Mismagius
-setname: Imprison
+setname: a-Imprison
 tags: [advanced]
 item: [Dusk Stone]
 ability: [Levitate]

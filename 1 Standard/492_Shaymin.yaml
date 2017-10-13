@@ -1,0 +1,89 @@
+species: Shaymin
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Seed Bomb]
+    - [Zen Headbutt]
+    - [Last Resort]
+    - [Swords Dance]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Shaymin
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Giga Drain]
+    - [Hidden Power]
+    - [Leech Seed]
+    - [Grass Whistle]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Heal]
+nature: Adamant
+ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 3}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Shaymin
+setname: Setup
+tags: [standard]
+item: [Razor Fang]
+ability: [Natural Cure]
+moves:
+    - [Bullet Seed]
+    - [Covet]
+    - [Swords Dance]
+    - [Grass Whistle]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Nest]
+nature: Timid
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Shaymin
+setname: Sky
+tags: [standard]
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Grass Knot]
+    - [Air Slash]
+    - [Ominous Wind]
+    - [Leech Seed]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Luxury]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Shaymin
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Seed Flare]
+    - [Psychic]
+    - [Earth Power]
+    - [Synthesis]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 12, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

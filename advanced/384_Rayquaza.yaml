@@ -1,5 +1,5 @@
 species: Rayquaza
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Air Lock]
@@ -17,7 +17,7 @@ rarity: 1.9
 ball: [Premier]
 ---
 species: Rayquaza
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [Null]
 ability: [Air Lock]

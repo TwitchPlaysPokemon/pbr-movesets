@@ -1,5 +1,5 @@
 species:  Geodude
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Custap Berry]
 ability: [Sturdy]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Geodude
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Specs]
 ability: [Sturdy]

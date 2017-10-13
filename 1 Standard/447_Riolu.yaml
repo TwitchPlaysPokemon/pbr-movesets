@@ -1,0 +1,75 @@
+species: Riolu
+setname: Standard
+ball: [Dusk]
+tags: [standard]
+item: [Sitrus Berry]
+ability: [Steadfast]
+moves:
+    - [Aura Sphere]
+    - [Crunch]
+    - [Bullet Punch]
+    - [Copycat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Lonely
+evs: {hp: 80, atk: 100, def: 16, spA: 200, spD: 8, spe: 104}
+ivs: 0
+---
+species: Riolu
+setname: Physical
+ball: [Luxury]
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [High Jump Kick]
+    - [Blaze Kick]
+    - [Poison Jab]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Jolly
+evs: {hp: 72, atk: 252, def: 44, spA: 0, spD: 40, spe: 100}
+ivs: 31
+---
+species: Riolu
+setname: Special
+ball: [Cherish]
+tags: [standard]
+item: [Sitrus Berry]
+ability: [Steadfast]
+moves:
+    - [Focus Blast]
+    - [Hidden Power]
+    - [Vacuum Wave]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Modest
+evs: {hp: 208, atk: 0, def: 0, spA: 252, spD: 0, spe: 48}
+ivs: 31
+---
+species: Riolu
+setname: Reversal
+ball: [Repeat]
+tags: [standard]
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Reversal]
+    - [Bite]
+    - [Swords Dance]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Jolly
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31

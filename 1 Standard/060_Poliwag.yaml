@@ -1,0 +1,37 @@
+species: Poliwag
+setname: Physical
+tags: [standard]
+item: [King's Rock]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Body Slam]
+    - [Double-Slap]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Adamant
+evs: {hp: 132, atk: 252, def: 0, spA: 0, spD: 0, spe: 124}
+ivs: 31
+---
+species: Poliwag
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Damp]
+moves:
+    - [Hydro Pump]
+    - [Psychic]
+    - [Hypnosis]
+    - [Growth]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Timid
+evs: {hp: 56, atk: 0, def: 56, spA: 252, spD: 56, spe: 84}
+ivs: 31

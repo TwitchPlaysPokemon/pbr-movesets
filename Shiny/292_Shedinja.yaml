@@ -1,5 +1,6 @@
 species: Shedinja
 setname: Shiny
+tags: [advanced,standard]
 item: [Focus Sash]
 ability: [Unburden]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Shedinja
 setname: Shiny 2
+tags: [advanced,standard]
 item: [Metronome]
 ability: [Wonder Guard]
 moves:

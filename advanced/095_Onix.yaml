@@ -1,5 +1,5 @@
 species: Onix
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Liechi Berry, White Herb]
 ability: [Sturdy]
@@ -21,7 +21,7 @@ rarity: 1.3
 ball: [Dusk]
 ---
 species: Onix
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Specs]
 ability: [Sturdy]
@@ -40,7 +40,7 @@ rarity: 0.5
 ball: [Quick]
 ---
 species: Onix
-setname: Slow
+setname: a-Slow
 tags: [advanced]
 item: [Iron Ball]
 ability: [Sturdy]

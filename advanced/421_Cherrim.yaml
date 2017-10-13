@@ -1,5 +1,5 @@
 species: Cherrim
-setname: Physical Mix 
+setname: a-Physical Mix 
 tags: [advanced]
 item: [Rose Incense]
 ability: [Flower Gift]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Cherish]
 ---
 species: Cherrim
-setname: Special Mix
+setname: a-Special Mix
 tags: [advanced]
 item: [Heat Rock, Rose Incense, Occa Berry, Persim Berry, Petaya Berry]
 ability: [Flower Gift]

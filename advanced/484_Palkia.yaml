@@ -1,5 +1,5 @@
 species: Palkia
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Lustrous Orb]
 ability: [Pressure]
@@ -17,7 +17,7 @@ ivs: {hp: 1, atk: 0, def: 1, spA: 1, spD: 1, spe: 1}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Palkia
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Flame Orb]
 ability: [Pressure]
@@ -35,7 +35,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 52, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Palkia
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [Macho Brace]
 ability: [Pressure]

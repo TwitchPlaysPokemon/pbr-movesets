@@ -1,0 +1,56 @@
+species: Cloyster
+setname: Skill link
+tags: [standard]
+item: [Null]
+ability: [Skill LInk]
+moves:
+    - [Surf]
+    - [Icicle Spear]
+    - [Rock Blast]
+    - [Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Timer]
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 252, spe: 0}
+ivs: 31
+---
+species: Cloyster
+setname: Physical
+tags: [standard]
+item: [Grip Claw]
+ability: [Shell Armor]
+moves:
+    - [Avalanche]
+    - [Clamp]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Quirky
+evs: {hp: 108, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
+ivs: 31
+---
+species: Cloyster
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Ice Beam]
+    - [Bubble Beam]
+    - [Mud Shot]
+    - [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Mild
+evs: {hp: 88, atk: 0, def: 0, spA: 252, spD: 84, spe: 84}
+ivs: 0

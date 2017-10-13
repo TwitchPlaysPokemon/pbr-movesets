@@ -1,5 +1,5 @@
 species: Riolu
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Dread Plate, Muscle Band]
 ability: [Inner Focus]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Riolu
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Focus Sash]
 ability: [Inner Focus]
@@ -39,7 +39,7 @@ ivs: 31
 evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Riolu
-setname: Reversal
+setname: a-Reversal
 tags: [advanced]
 item: [Liechi Berry]
 ability: [Steadfast]

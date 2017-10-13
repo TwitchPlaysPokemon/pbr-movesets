@@ -1,5 +1,5 @@
 species: Seedot
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Life Orb, Watmel Berry]
 ability: [Chlorophyll]
@@ -23,7 +23,7 @@ ivs: 31
 evs: {hp: 112, atk: 252, def: 0, spA: 0, spD: 16, spe: 128}
 ---
 species: Seedot
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Chlorophyll]
@@ -42,7 +42,7 @@ ivs: 31
 evs: {hp: 76, atk: 0, def: 0, spA: 252, spD: 0, spe: 180}
 ---
 species: Seedot
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Leftovers, Chesto Berry, Custap Berry]
 ability: [Early Bird]

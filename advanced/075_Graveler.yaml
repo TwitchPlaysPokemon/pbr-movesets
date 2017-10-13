@@ -1,5 +1,5 @@
 species: Graveler
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Rawst Berry, Hard Stone]
 ability: [Sturdy]
@@ -23,7 +23,7 @@ ivs: 31
 evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
 ---
 species: Graveler
-setname: Punch
+setname: a-Punch
 tags: [advanced]
 item: [Sitrus Berry, Bright Powder]
 ability: [Rock Head, Sturdy, Sand Veil]
@@ -45,7 +45,7 @@ rarity: 0.9
 ball: [Great]
 ---
 species: Graveler
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Expert Belt, Sitrus Berry]
 ability: [Sturdy]

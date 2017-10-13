@@ -1,5 +1,5 @@
 species: Seel
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Ice Body, Thick Fat, Hydration]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Seel
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Rawst Berry, Toxic Orb, Light Ball, NeverMelt-Ice]
 ability: [Thick Fat, Hydration]
@@ -49,7 +49,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Seel
-setname: StockPile
+setname: a-StockPile
 tags: [advanced]
 item: [Black Sludge]
 ability: [Hydration]

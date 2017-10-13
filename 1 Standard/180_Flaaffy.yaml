@@ -1,0 +1,37 @@
+species: Flaaffy
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Static]
+moves:
+    - [Discharge]
+    - [Signal Beam]
+    - [Focus Punch]
+    - [Flatter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Great]
+nature: Brave
+ivs: 31
+evs: {hp: 76, atk: 128, def: 76, spA: 76, spD: 76, spe: 76}
+---
+species: Flaaffy
+setname: Screens
+tags: [standard]
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunder]
+    - [Seismic Toss]
+    - [Reflect]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Timer]
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

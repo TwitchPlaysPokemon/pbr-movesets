@@ -1,5 +1,5 @@
 species: Arceus
-setname: Ground Balanced
+setname: a-Ground Balanced
 tags: [advanced]
 item: [Earth Plate]
 ability: [Multitype]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 128, atk: 0, def: 128, spA: 252, spD: 0, spe: 0}
 ---
 species: Arceus
-setname: Ground Judgment
+setname: a-Ground Judgment
 tags: [advanced]
 item: [Earth Plate]
 ability: [Multitype]

@@ -1,5 +1,5 @@
 species: Carvanha
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Speed Boost]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 0, atk: 170, def: 108, spA: 0, spD: 150, spe: 80}
 ---
 species: Carvanha
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Focus Sash]
 ability: [Rough Skin]

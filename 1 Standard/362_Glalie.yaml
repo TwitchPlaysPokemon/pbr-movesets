@@ -1,0 +1,75 @@
+species: Glalie
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Avalanche]
+    - [Hyper Beam]
+    - [Sheer Cold]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 17}
+evs: {hp: 0, atk: 36, def: 0, spA: 196, spD: 0, spe: 0}
+---
+species: Glalie
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Ice Fang]
+    - [Earthquake]
+    - [Iron Head]
+    - [Rollout]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 19, spA: 20, spD: 20, spe: 20}
+evs: {hp: 56, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Glalie
+setname: Hail
+tags: [standard]
+item: [Null]
+ability: [Ice Body]
+moves:
+    - [Weather Ball]
+    - [Dark Pulse]
+    - [Fake Tears]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 0, def: 0, spA: 92, spD: 20, spe: 100}
+---
+species: Glalie
+setname: Mega
+tags: [standard]
+item: [Icicle Plate]
+ability: [Anticipation]
+moves:
+    - [Judgment]
+    - [Earthquake]
+    - [Ice Shard]
+    - [Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 10, atk: 20, def: 15, spA: 20, spD: 21, spe: 20}
+evs: {hp: 0, atk: 136, def: 0, spA: 0, spD: 0, spe: 72}

@@ -1,5 +1,5 @@
 species: Persian
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null, BlackGlasses, Miracle Seed, Spell Tag]
 ability: [Limber, Technician]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Persian
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Technician]
@@ -41,7 +41,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Persian
-setname: Pay Day
+setname: a-Pay Day
 tags: [advanced]
 item: [null, Iapapa Berry]
 ability: [Technician]

@@ -1,5 +1,5 @@
 species: Shieldon
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Armor Fossil]
 ability: [Soundproof, Sturdy]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Timer]
 ---
 species: Shieldon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Armor Fossil, King's Rock]
 ability: [Sturdy, Soundproof]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Premier]
 ---
 species: Shieldon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Armor Fossil, Hard Stone]
 ability: [Soundproof, Sturdy]

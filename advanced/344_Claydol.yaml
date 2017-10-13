@@ -1,5 +1,5 @@
 species: Claydol
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Iron Ball, Null]
 ability: [Levitate]
@@ -23,7 +23,7 @@ rarity: 1.0
 ball: [Timer]
 ---
 species: Claydol
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Macho Brace]
 ability: [Levitate]

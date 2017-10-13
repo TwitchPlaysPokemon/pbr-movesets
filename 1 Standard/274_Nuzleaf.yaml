@@ -1,0 +1,56 @@
+species: Nuzleaf
+setname: Physical
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Leaf Blade]
+    - [Feint Attack]
+    - [Brick Break]
+    - [Swords Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Impish
+evs: {hp: 0, atk: 172, def: 80, spA: 0, spD: 128, spe: 128}
+ivs: 31
+---
+species: Nuzleaf
+setname: Special
+ball: [Dusk]
+tags: [standard]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Energy Ball]
+    - [Dark Pulse]
+    - [Extrasensory]
+    - [Nasty Plot]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Calm
+evs: {hp: 0, atk: 0, def: 96, spA: 252, spD: 32, spe: 128}
+ivs: 31
+---
+species: Nuzleaf
+setname: Mixed
+ball: [Safari]
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Dark Pulse]
+    - [Leaf Blade]
+    - [Low Kick]
+    - [Sunny Day]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Quiet
+evs: {hp: 100, atk: 100, def: 100, spA: 108, spD: 100, spe: 0}
+ivs: 31

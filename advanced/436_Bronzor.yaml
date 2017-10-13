@@ -1,5 +1,5 @@
 species: Bronzor
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Quick Claw]
 ability: [Heatproof, Levitate]
@@ -17,7 +17,7 @@ ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 30, spe: 31}
 evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
 ---
 species: Bronzor
-setname: Utility
+setname: a-Utility
 tags: [advanced]
 item: [Wise Glasses, Full Incense]
 ability: [Heatproof, Levitate]

@@ -1,5 +1,5 @@
 species: Azelf
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null, Meadow Plate, Insect Plate, Toxic Orb]
 ability: [Levitate]
@@ -21,7 +21,7 @@ ivs: 0
 evs: {hp: 40, atk: 0, def: 40, spA: 0, spD: 40, spe: 40}
 ---
 species: Azelf
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [X Attack]
 ability: [Levitate]
@@ -39,7 +39,7 @@ ivs: 0
 evs: 0
 ---
 species: Azelf
-setname: Max Sp. Atk
+setname: a-Max Sp. Atk
 tags: [advanced]
 item: [X Special]
 ability: [Levitate]
@@ -57,7 +57,7 @@ ivs: {hp: 0, atk: 1, def: 1, spA: 29, spD: 3, spe: 2}
 evs: {hp: 80, atk: 0, def: 180, spA: 248, spD: 0, spe: 0}
 ---
 species: Azelf
-setname: Imprison
+setname: a-Imprison
 tags: [advanced]
 item: [X Sp. Def]
 ability: [Levitate]

@@ -1,5 +1,5 @@
 species: Duskull
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Berry Juice]
 ability: [Levitate]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Duskull
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Levitate]
@@ -37,7 +37,7 @@ rarity: 1.0
 ball: [Premier]
 ---
 species: Duskull
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Liechi Berry]
 ability: [Levitate]

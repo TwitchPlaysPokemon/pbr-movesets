@@ -1,0 +1,37 @@
+species: Tauros
+setname: Anger Point
+tags: [standard]
+item: [Focus Band]
+ability: [Anger Point]
+moves:
+    - [Horn Attack]
+    - [Zen Headbutt]
+    - [Blizzard]
+    - [Endure]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Naughty
+evs: {hp: 60, atk: 60, def: 60, spA: 208, spD: 60, spe: 60}
+ivs: 14
+---
+species: Tauros
+setname: Intimidate
+tags: [standard]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Thrash]
+    - [Iron Tail]
+    - [Fire Blast]
+    - [Scary Face]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Mild
+evs: {hp: 48, atk: 32, def: 0, spA: 136, spD: 200, spe: 32}
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}

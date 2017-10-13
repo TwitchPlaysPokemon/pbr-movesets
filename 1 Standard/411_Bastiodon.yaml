@@ -1,0 +1,56 @@
+species: Bastiodon
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Soundproof]
+moves:
+    - [Rock Slide]
+    - [Flash Cannon]
+    - [Avalanche]
+    - [Metal Burst]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Quick]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 148, atk: 0, def: 0, spA: 44, spD: 0, spe: 0}
+---
+species: Bastiodon
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Stone Edge]
+    - [Outrage]
+    - [Earthquake]
+    - [Counter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Mild
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 100, atk: 152, def: 0, spA: 152, spD: 104, spe: 0}
+---
+species: Bastiodon
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Soundproof]
+moves:
+    - [Flash Cannon]
+    - [Blizzard]
+    - [Earth Power]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 148, atk: 0, def: 0, spA: 44, spD: 0, spe: 0}

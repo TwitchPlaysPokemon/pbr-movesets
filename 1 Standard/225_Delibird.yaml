@@ -1,0 +1,37 @@
+species: Delibird
+setname: Hustle
+tags: [standard]
+item: [Null]
+ability: [Hustle]
+moves:
+    - [Aerial Ace]
+    - [Ice Ball]
+    - [Seed Bomb]
+    - [Present]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Jolly
+ivs: 31
+evs: {hp: 72, atk: 252, def: 40, spA: 0, spD: 40, spe: 104}
+---
+species: Delibird
+setname: Hail
+tags: [standard]
+item: [Null]
+ability: [Vital Spirit]
+moves:
+    - [Blizzard]
+    - [Bounce]
+    - [Signal Beam]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Luxury]
+nature: Naive
+ivs: 31
+evs: {hp: 136, atk: 164, def: 0, spA: 108, spD: 0, spe: 100}

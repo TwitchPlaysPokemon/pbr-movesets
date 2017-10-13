@@ -1,5 +1,5 @@
 species: Pinsir
-setname: Bug Bite
+setname: a-Bug Bite
 tags: [advanced]
 item: [Aspear Berry, Black Glasses, Damp Rock, Salac Berry, Power Herb]
 ability: [Hyper Cutter, Mold Breaker]
@@ -30,7 +30,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Pinsir
-setname: X-Scissor
+setname: a-X-Scissor
 tags: [advanced]
 item: [null]
 ability: [Hyper Cutter, Mold Breaker]
@@ -51,7 +51,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Pinsir
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Silverpowder, Metronome, King's Rock]
 ability: [Mold Breaker, Hyper Cutter]
@@ -82,7 +82,7 @@ ball: [Repeat]
 
 ---
 species: Pinsir
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Sky Plate]
 ability: [Technician]

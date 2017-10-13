@@ -1,5 +1,5 @@
 species: Lairon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Salac Berry]
 ability: [Sturdy, Rock Head]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 136, spe: 120}
 ---
 species: Lairon
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Mystic Water]
 ability: [Sturdy]

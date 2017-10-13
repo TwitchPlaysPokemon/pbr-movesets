@@ -1,5 +1,5 @@
 species: Ambipom
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Wide Lens, Muscle Band]
 ability: [Pick Up, Skill Link]
@@ -29,7 +29,7 @@ rarity: 1.0
 ball: [Nest]
 ---
 species: Ambipom
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Technician]
@@ -53,7 +53,7 @@ rarity: 1.0
 ball: [Premier]
 ---
 species: Ambipom
-setname: Max Atk
+setname: a-Max Atk
 tags: [advanced]
 item: [Null, Dread Plate]
 ability: [Technician]
@@ -74,7 +74,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Ambipom
-setname: Snore
+setname: a-Snore
 tags: [advanced]
 item: [Persim Berry]
 ability: [Technician]

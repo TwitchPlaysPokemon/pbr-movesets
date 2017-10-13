@@ -1,5 +1,5 @@
 species: Pichu
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Liechi Berry]
 ability: [Static]
@@ -16,7 +16,7 @@ ivs: 31
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 ---
 species: Pichu
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Focus Sash]
 ability: [Static, Lightning Rod]

@@ -1,5 +1,5 @@
 species: Starmie
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [null]
 ability: [Natural Cure]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Starmie
-setname: Slow
+setname: a-Slow
 tags: [advanced]
 item: [Iron Ball]
 ability: [Natural Cure]
@@ -44,7 +44,7 @@ rarity: 0.5
 ball: [Dive]
 ---
 species: Starmie
-setname: Camouflage
+setname: a-Camouflage
 tags: [advanced]
 item: [null]
 ability: [Natural Cure]

@@ -1,0 +1,37 @@
+species: Beautifly
+setname: Physical
+ball: [Nest]
+tags: [standard]
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [U-Turn]
+    - [Aerial Ace]
+    - [Secret Power]
+    - [Iron Defense]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 64, spe: 192}
+ivs: 31
+---
+species: Beautifly
+setname: Special
+ball: [Net]
+tags: [standard]
+item: [Null]
+ability: [Swarm]
+moves:
+    - [Signal Beam]
+    - [Air Cutter]
+    - [Giga Drain]
+    - [Attract]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.6
+nature: Modest
+evs: {hp: 252, atk: 0, def: 88, spA: 84, spD: 0, spe: 84}
+ivs: 31

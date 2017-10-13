@@ -1,0 +1,56 @@
+species: Crobat
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Sludge Bomb]
+    - [Wing Attack]
+    - [Bite]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 136, def: 0, spA: 40, spD: 0, spe: 0}
+---
+species: Crobat
+setname: Fang
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Poison Fang]
+    - [Super Fang]
+    - [U-Turn]
+    - [Bite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 10, spA: 0, spD: 10, spe: 0}
+evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Crobat
+setname: Stall
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Fly]
+    - [Poison Fang]
+    - [Giga Drain]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 10, spA: 31, spD: 10, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}

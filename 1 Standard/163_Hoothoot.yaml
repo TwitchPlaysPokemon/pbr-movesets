@@ -1,0 +1,37 @@
+species: Hoothoot
+setname: Hypnosis
+tags: [standard]
+item: [Null]
+ability: [Tinted Lens]
+moves:
+    - [Air Slash]
+    - [Dream Eater]
+    - [Hypnosis]
+    - [Nightmare]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Hoothoot
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Tinted Lens]
+moves:
+    - [Pluck]
+    - [Double-Edge]
+    - [Zen Headbutt]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 64, spA: 0, spD: 64, spe: 0}

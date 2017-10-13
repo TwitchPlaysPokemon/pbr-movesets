@@ -1,5 +1,5 @@
 species: Dratini
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Wide Lens, null]
 ability: [Shed Skin]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 172, atk: 84, def: 84, spA: 0, spD: 84, spe: 84}
 ---
 species: Dratini
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Haban Berry, Yache Berry]
 ability: [Shed Skin]

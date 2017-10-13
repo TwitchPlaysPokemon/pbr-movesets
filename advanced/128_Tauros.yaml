@@ -1,5 +1,5 @@
 species: Tauros
-setname: Anger Point
+setname: a-Anger Point
 tags: [advanced]
 item: [Starf Berry]
 ability: [Anger Point]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Tauros
-setname: Intimidate
+setname: a-Intimidate
 tags: [advanced]
 item: [null]
 ability: [Intimidate]

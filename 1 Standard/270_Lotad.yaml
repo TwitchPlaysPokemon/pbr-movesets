@@ -1,0 +1,18 @@
+species: Lotad
+setname: Standard
+ball: [Ultra]
+tags: [standard]
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Energy Ball]
+    - [Ice Beam]
+    - [Rain Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Calm
+evs: {hp: 104, atk: 0, def: 52, spA: 236, spD: 0, spe: 116}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

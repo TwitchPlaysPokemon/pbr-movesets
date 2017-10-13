@@ -1,5 +1,5 @@
 species: Houndour
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Focus Sash]
 ability: [Early Bird]
@@ -18,7 +18,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Houndour
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null]
 ability: [Early Bird, Flash Fire]

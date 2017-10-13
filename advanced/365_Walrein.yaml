@@ -1,5 +1,5 @@
 species: Walrein
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Exp. Share]
 ability: [Oblivious]
@@ -25,7 +25,7 @@ ivs: 10
 evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Walrein
-setname: High Stats
+setname: a-High Stats
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Thick Fat]

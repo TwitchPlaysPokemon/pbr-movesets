@@ -1,5 +1,5 @@
 species: Haunter
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Chesto Berry, Meadow Plate]
 ability: [Levitate]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Great]
 ---
 species: Haunter
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Poison Barb]
 ability: [Levitate]
@@ -37,7 +37,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Haunter
-setname: Annoyer
+setname: a-Annoyer
 tags: [advanced]
 item: [Null]
 ability: [Levitate]

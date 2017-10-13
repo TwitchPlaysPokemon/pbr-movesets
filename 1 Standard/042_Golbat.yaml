@@ -1,0 +1,37 @@
+species: Golbat
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Wing Attack]
+    - [Poison Fang]
+    - [Pursuit]
+    - [Haze]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Jolly
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+ivs: 20
+---
+species: Golbat
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Sludge]
+    - [Air Cutter]
+    - [Giga Drain]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: Bashful
+evs: {hp: 20, atk: 0, def: 12, spA: 48, spD: 12, spe: 80}
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 31}

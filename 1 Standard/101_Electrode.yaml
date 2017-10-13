@@ -1,0 +1,53 @@
+species: Electrode
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Soundproof]
+moves:
+    - [Thunderbolt]
+    - [Signal Beam]
+    - [Charge]
+    - [Taunt]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Great]
+nature: Timid
+evs: {hp: 80, atk: 200, def: 76, spA: 76, spD: 76, spe: 0}
+ivs: {hp: 11, atk: 11, def: 11, spA: 11, spD: 10, spe: 11}
+---
+species: Electrode
+setname: Physical
+tags: [standard]
+item: [Toxic Orb]
+ability: [Static]
+moves:
+    - [Spark]
+    - [Facade]
+    - [Sucker Punch]
+    - [Mirror Coat]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+evs: {hp: 152, atk: 220, def: 136, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 15, spe: 14}
+---
+species: Electrode
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Aftermath]
+moves:
+    - [Thunderbolt]
+    - [Frustration]
+    - [Rollout]
+    - [Magnet Rise]
+happiness: 30
+biddable: True
+rarity: 0.05
+ball: [Ultra]
+nature: Naughty
+evs: {hp: 56, atk: 224, def: 56, spA: 56, spD: 60, spe: 56}
+ivs: 22

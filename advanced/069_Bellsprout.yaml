@@ -1,5 +1,5 @@
 species: Bellsprout
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Focus Sash, Petaya Berry, Micle Berry]
 ability: [Chlorophyll, Gluttony]
@@ -23,7 +23,7 @@ ivs: 31
 evs: {hp: 12, atk: 0, def: 0, spA: 244, spD: 0, spe: 252}
 ---
 species: Bellsprout
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Salac Berry, Liechi Berry]
 ability: [Gluttony]

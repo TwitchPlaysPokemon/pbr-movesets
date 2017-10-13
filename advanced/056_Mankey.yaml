@@ -1,5 +1,5 @@
 species: Mankey
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sitrus Berry, White Herb]
 ability: [Anger Point]
@@ -21,7 +21,7 @@ rarity: 1.3
 ball: [Nest]
 ---
 species: Mankey
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Petaya Berry, Heat Rock, Damp Rock, White Herb]
 ability: [Vital Spirit]

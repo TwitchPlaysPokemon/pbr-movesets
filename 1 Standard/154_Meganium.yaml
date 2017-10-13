@@ -1,0 +1,56 @@
+species: Meganium
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Frenzy Plant]
+    - [Outrage]
+    - [Iron Tail]
+    - [Sweet Scent]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Brave
+ivs: 5
+evs: 84
+---
+species: Meganium
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Magical Leaf]
+    - [Nature Power]
+    - [Hyper Beam]
+    - [Aromatherapy]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Quiet
+ivs: {hp: 2, atk: 2, def: 3, spA: 2, spD: 2, spe: 3}
+evs: 84
+---
+species: Meganium
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Seed Bomb]
+    - [Double-Edge]
+    - [Earthquake]
+    - [Ingrain]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Adamant
+ivs: 0
+evs: 84

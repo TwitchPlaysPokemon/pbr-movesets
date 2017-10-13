@@ -1,5 +1,5 @@
 species: Nidoking
-setname: Physical
+setname: a-Physical
 ability: [Poison Point, Rivalry]
 nature: Modest
 ivs: 21
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Nidoking
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Space Mail, King's Rock, Silk Scarf, Blackbelt, Sharp Beak]
 ability: [Poison Point, Rivalry]

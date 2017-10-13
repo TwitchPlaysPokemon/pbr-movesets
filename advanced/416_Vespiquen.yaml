@@ -1,5 +1,5 @@
 species: Vespiquen
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Full Incense]
 ability: [Pressure]
@@ -18,7 +18,7 @@ rarity: 0.5
 ball: [Luxury]
 ---
 species: Vespiquen
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Null, Full Incense, Lansat Berry, Razor Claw, Sitrus Berry, Scope Lens]
 ability: [Pressure]
@@ -43,7 +43,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Vespiquen
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Scope Lens, Sky Plate, Sitrus Berry, Full Incense]
 ability: [Pressure]
@@ -67,7 +67,7 @@ rarity: 1.0
 ball: [Nest]
 ---
 species: Vespiquen
-setname: Bee
+setname: a-Bee
 tags: [advanced]
 item: [Life Orb]
 ability: [Pressure]

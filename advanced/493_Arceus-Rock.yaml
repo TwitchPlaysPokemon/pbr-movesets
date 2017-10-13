@@ -1,5 +1,5 @@
 species: Arceus
-setname: Rock Balanced
+setname: a-Rock Balanced
 tags: [advanced]
 item: [Stone Plate]
 ability: [Multitype]
@@ -18,7 +18,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Arceus
-setname: Rock Judgment
+setname: a-Rock Judgment
 tags: [advanced]
 item: [Stone Plate]
 ability: [Multitype]

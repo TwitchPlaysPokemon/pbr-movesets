@@ -1,5 +1,5 @@
 species: Banette
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Null]
 ability: [Insomnia]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Banette
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Zap Plate, Spooky Plate, Poké Doll]
 ability: [Insomnia]
@@ -43,7 +43,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Banette
-setname: High Stats
+setname: a-High Stats
 tags: [advanced]
 item: [Muscle Band]
 ability: [Insomnia]

@@ -1,5 +1,5 @@
 species: Nidorina
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Power Herb]
 ability: [Hustle]
@@ -18,7 +18,7 @@ rarity: 0.7
 ball: [Safari]
 ---
 species: Nidorina
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Poison Barb, Chesto Berry]
 ability: [Poison Point, Rivalry]

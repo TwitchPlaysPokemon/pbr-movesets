@@ -1,5 +1,5 @@
 species: Pelipper
-setname: Keen Eye
+setname: a-Keen Eye
 tags: [advanced]
 item: [Scope Lens]
 ability: [Keen Eye]
@@ -21,7 +21,7 @@ ivs: 13
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
 ---
 species: Pelipper
-setname: Rain Dish
+setname: a-Rain Dish
 tags: [advanced]
 item: [Damp Rock]
 ability: [Rain Dish]
@@ -40,7 +40,7 @@ ivs: 15
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 108, spe: 100}
 ---
 species: Pelipper
-setname: Drizzle
+setname: a-Drizzle
 tags: [advanced]
 item: [Water Stone]
 ability: [Drizzle]
@@ -59,7 +59,7 @@ ivs: {hp: 7, atk: 7, def: 7, spA: 6, spD: 6, spe: 6}
 evs: {hp: 96, atk: 0, def: 96, spA: 104, spD: 104, spe: 108}
 ---
 species: Pelipper
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Choice Band]
 ability: [Keen Eye]
@@ -78,7 +78,7 @@ ivs: 27
 evs: {hp: 168, atk: 172, def: 0, spA: 0, spD: 168, spe: 0}
 ---
 species: Pelipper
-setname: Stockpile
+setname: a-Stockpile
 tags: [advanced]
 item: [Leftovers]
 ability: [Keen Eye]

@@ -1,0 +1,56 @@
+species: Corsola
+setname: Hustle
+tags: [standard]
+item: [Null]
+ability: [Hustle]
+moves:
+    - [Stone Edge]
+    - [Surf]
+    - [Earthquake]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.36
+ball: [Net]
+nature: Brave
+ivs: 31
+evs: 84
+---
+species: Corsola
+setname: Natural Cure
+tags: [standard]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Power Gem]
+    - [Ice Beam]
+    - [Mirror Coat]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.28
+ball: [Dive]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+---
+species: Corsola
+setname: Calm Mind
+tags: [standard]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Surf]
+    - [Psychic]
+    - [Shadow Ball]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.36
+ball: [Dive]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 80, spD: 0, spe: 252}

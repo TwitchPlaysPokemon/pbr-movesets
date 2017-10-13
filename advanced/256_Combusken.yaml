@@ -1,5 +1,5 @@
 species: Combusken
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Timer Ball]
 ability: [Blaze, Speed Boost]
@@ -28,7 +28,7 @@ ivs: 31
 evs: {hp: 84, atk: 140, def: 84, spA: 40, spD: 80, spe: 80}
 ---
 species: Combusken
-setname: RestTalk
+setname: a-RestTalk
 tags: [advanced]
 item: [null]
 ability: [Speed Boost]

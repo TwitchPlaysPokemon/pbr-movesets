@@ -1,5 +1,5 @@
 species: Combee
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Leftovers]
 ability: [Hustle]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Combee 
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Specs]
 ability: [Honey Gather]

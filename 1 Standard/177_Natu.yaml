@@ -1,0 +1,37 @@
+species: Natu
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Psychic]
+    - [Heat Wave]
+    - [Signal Beam]
+    - [Grass Knot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Repeat]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 180, spD: 0, spe: 76}
+---
+species: Natu
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Zen Headbutt]
+    - [Drill Peck]
+    - [Sucker Punch]
+    - [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 140, atk: 252, def: 0, spA: 0, spD: 0, spe: 116}

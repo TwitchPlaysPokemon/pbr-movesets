@@ -1,5 +1,5 @@
 species: Dunsparce
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Soothe Bell, Silk Scarf]
 ability: [Run Away]
@@ -22,7 +22,7 @@ ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 48, atk: 60, def: 200, spA: 0, spD: 200, spe: 0}
 ---
 species: Dunsparce
-setname: Special
+setname: a-Special
 ability: [Serene Grace]
 moves:
     - [Trump Card]
@@ -40,7 +40,7 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 40, spA: 120, spD: 40, spe: 40}
 ---
 species: Dunsparce
-setname: Flinch
+setname: a-Flinch
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Serene Grace]

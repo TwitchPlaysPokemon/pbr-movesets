@@ -1,5 +1,5 @@
 species: Feebas
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Chilan Berry, Focus Sash, Life Orb]
 ability: [Adaptability]
@@ -22,7 +22,7 @@ ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Feebas
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Focus Sash]
 ability: [Adaptability]

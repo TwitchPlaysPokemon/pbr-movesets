@@ -1,0 +1,71 @@
+species: Claydol
+setname: Standard
+ball: [Timer]
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Earthquake]
+    - [Shadow Ball]
+    - [Magic Coat]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Rash
+evs: {hp: 128, atk: 72, def: 0, spA: 92, spD: 0, spe: 0}
+ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 10, spe: 0}
+---
+species: Claydol
+setname: Physical
+ball: [Heal]
+tags: [standard]
+item: [Rowap Berry]
+ability: [Levitate]
+moves:
+    - [Earthquake]
+    - [Zen Headbutt]
+    - [Stone Edge]
+    - [Rock Polish]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+evs: {hp: 44, atk: 132, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+---
+species: Claydol
+setname: Special
+ball: [Luxury]
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Earth Power]
+    - [Extrasensory]
+    - [Charge Beam]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Rash
+evs: {hp: 100, atk: 0, def: 100, spA: 104, spD: 104, spe: 100}
+ivs: {hp: 23, atk: 3, def: 23, spA: 22, spD: 22, spe: 23}
+---
+species: Claydol
+setname: Gravity
+ball: [Timer]
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Toxic]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Serious
+evs: {hp: 80, atk: 16, def: 104, spA: 0, spD: 76, spe: 0}
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}

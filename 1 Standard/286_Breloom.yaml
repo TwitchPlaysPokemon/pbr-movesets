@@ -1,0 +1,94 @@
+species: Breloom
+setname: Physical
+ball: [Safari]
+tags: [standard]
+item: [Null]
+ability: [Effect Spore]
+moves:
+    - [Seed Bomb]
+    - [Brick Break]
+    - [Stone Edge]
+    - [Stun Spore]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Timid
+evs: {hp: 88, atk: 0, def: 80, spA: 252, spD: 80, spe: 80}
+ivs: 0
+---
+species: Breloom
+setname: Special
+ball: [Repeat]
+tags: [standard]
+item: [Null]
+ability: [Poison Heal]
+moves:
+    - [Focus Blast]
+    - [Energy Ball]
+    - [Seismic Toss]
+    - [Vacuum Wave]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+evs: {hp: 132, atk: 0, def: 0, spA: 212, spD: 0, spe: 28}
+ivs: 31
+---
+species: Breloom
+setname: Mixed
+ball: [Ultra]
+tags: [standard]
+item: [Null]
+ability: [Technician]
+moves:
+    - [Force Palm]
+    - [Giga Drain]
+    - [Hidden Power]
+    - [Rock Tomb]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.15
+nature: Modest
+evs: {hp: 0, atk: 0, def: 0, spA: 220, spD: 0, spe: 16}
+ivs: {hp: 15, atk: 30, def: 15, spA: 31, spD: 15, spe: 31}
+---
+species: Breloom
+setname: Technician
+ball: [Safari]
+tags: [standard]
+item: [Null]
+ability: [Technician]
+moves:
+    - [Bullet Seed]
+    - [Mach Punch]
+    - [Cut]
+    - [Swords Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.15
+nature: Quiet
+evs: {hp: 84, atk: 84, def: 84, spA: 88, spD: 84, spe: 84}
+ivs: {hp: 15, atk: 0, def: 15, spA: 31, spD: 31, spe: 15}
+---
+species: Breloom
+setname: Spore
+ball: [Safari]
+tags: [standard]
+item: [Null]
+ability: [Technician]
+moves:
+    - [Wake-Up Slap]
+    - [Fury Cutter]
+    - [Spore]
+    - [Safeguard]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Quiet
+evs: 0
+ivs: 0

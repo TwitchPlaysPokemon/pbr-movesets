@@ -1,5 +1,5 @@
 species: Arbok
-setname: Fang
+setname: a-Fang
 tags: [advanced]
 item: [Expert Belt]
 ability: [Shed Skin]
@@ -18,7 +18,7 @@ rarity: 0.9
 ball: [Safari]
 ---
 species: Arbok
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Tunnel Mail, Poison Barb, null]
 ability: [Intimidate, Shed Skin]
@@ -40,7 +40,7 @@ rarity: 0.9
 ball: [Dusk]
 ---
 species: Arbok
-setname: Rest
+setname: a-Rest
 tags: [advanced]
 item: [Flame Orb]
 ability: [Shed Skin]

@@ -1,5 +1,5 @@
 species: Rhyhorn
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Hard Stone]
 ability: [Reckless]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Rhyhorn
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Scarf]
 ability: [Lightning Rod]

@@ -1,0 +1,35 @@
+species: Beldum
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Iron Head]
+    - [Zen Headbutt]
+    - [Headbutt]
+    - [Iron Defense]
+happiness: 255
+biddable: True
+rarity: 0.75
+ball: [Poké]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Beldum
+setname: Choice Band
+tags: [standard]
+item: [Choice Band]
+ability: [Clear Body]
+moves:
+    - [Iron Head]
+    - [Zen Headbutt]
+    - [Earthquake]
+    - [U-turn]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 188, def: 80, spA: 0, spD: 120, spe: 0}

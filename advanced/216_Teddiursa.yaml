@@ -1,5 +1,5 @@
 species: Teddiursa
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Lum Berry, Wide Lens, Silk Scarf, Scope Lens]
 ability: [Quick Feet, Pickup, Honey Gather]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
 ---
 species: Teddiursa
-setname: Facade
+setname: a-Facade
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Quick Feet]
@@ -37,7 +37,7 @@ ivs: 31
 evs: {hp: 248, atk: 0, def: 72, spA: 0, spD: 132, spe: 56}
 ---
 species: Teddiursa
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Flame Orb]
 ability: [Quick Feet]

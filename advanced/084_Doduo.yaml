@@ -1,5 +1,5 @@
 species: Doduo
-setname: Flying
+setname: a-Flying
 tags: [advanced]
 item: [King's Rock]
 ability: [Early Bird, Tangled Feet]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Doduo
-setname: Grounded
+setname: a-Grounded
 tags: [advanced]
 item: [Cheri Berry, Sharp Beak]
 ability: [Early Bird, Tangled Feet]
@@ -40,7 +40,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Doduo
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Focus Sash]
 ability: [Early Bird]

@@ -1,0 +1,37 @@
+species: Azurill
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Huge Power]
+moves:
+    - [Return]
+    - [Bounce]
+    - [Waterfall]
+    - [Tickle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.85
+ball: [Luxury]
+nature: Adamant
+ivs: 31
+evs: {hp: 168, atk: 252, def: 12, spA: 0, spD: 76, spe: 0}
+---
+species: Azurill
+setname: Special
+tags: [standard]
+item: [Leftovers]
+ability: [No Guard]
+moves:
+    - [Hyper Voice]
+    - [Hydro Pump]
+    - [Blizzard]
+    - [Sing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Heal]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 132, atk: 0, def: 60, spA: 252, spD: 64, spe: 0}

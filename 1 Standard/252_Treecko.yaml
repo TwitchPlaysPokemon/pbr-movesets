@@ -1,0 +1,56 @@
+species: Treecko
+setname: Physical
+ball: [Poké]
+tags: [standard]
+item: [Focus Sash]
+ability: [Unburden]
+moves:
+    - [Seed Bomb]
+    - [Dig]
+    - [Crunch]
+    - [Counter]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 252, def: 0, spA: 0, spD: 0, spe: 156}
+---
+species: Treecko
+setname: Special
+ball: [Poké]
+tags: [standard]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Energy Ball]
+    - [Hidden Power]
+    - [Mud Slap]
+    - [Leech Seed]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Timid
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 24, atk: 0, def: 28, spA: 252, spD: 0, spe: 204}
+---
+species: Treecko
+setname: Mixed
+ball: [Poké]
+tags: [standard]
+item: [Hard Stone]
+ability: [Unburden]
+moves:
+    - [Leaf Storm]
+    - [Fling]
+    - [Rock Slide]
+    - [Thunder Punch]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Naughty
+ivs: 31
+evs: {hp: 200, atk: 244, def: 0, spA: 64, spD: 0, spe: 0}

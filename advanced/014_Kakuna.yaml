@@ -1,5 +1,5 @@
 species: Kakuna
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Razor Claw]
 ability: [Sniper]
@@ -17,7 +17,7 @@ biddable: true
 ball: [Net]
 ---
 species: Kakuna
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Leftovers]
 ability: [Serene Grace]

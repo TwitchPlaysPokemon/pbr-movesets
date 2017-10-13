@@ -1,5 +1,5 @@
 species: Magnemite
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Occa Berry, Wide Lens]
 ability: [Magnet Pull]
@@ -19,7 +19,7 @@ rarity: 1.0
 ball: [Nest]
 ---
 species: Magnemite
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Iron Ball]
 ability: [Magnet Pull, Sturdy]

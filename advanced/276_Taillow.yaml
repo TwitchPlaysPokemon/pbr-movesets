@@ -1,5 +1,5 @@
 species: Taillow
-setname: Guts
+setname: a-Guts
 tags: [advanced]
 item: [Flame Orb]
 ability: [Guts]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 40, atk: 148, def: 132, spA: 0, spD: 136, spe: 52}
 ---
 species: Taillow
-setname: Scrappy
+setname: a-Scrappy
 tags: [advanced]
 item: [Power Herb]
 ability: [Scrappy]
@@ -37,7 +37,7 @@ ivs: 31
 evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 0, spe: 168}
 ---
 species: Taillow
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Focus Sash, Sitrus Berry, Petaya Berry]
 ability: [Scrappy]

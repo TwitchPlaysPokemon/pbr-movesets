@@ -1,5 +1,5 @@
 species: Wooper
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Leftovers]
 ability: [Unaware]
@@ -19,7 +19,7 @@ ivs: 31
 evs: {hp: 84, atk: 252, def: 44, spA: 0, spD: 128, spe: 0}
 ---
 species: Wooper
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Salac Berry, Zoom Lens, Soft Sand]
 ability: [Damp, Water Absorb]

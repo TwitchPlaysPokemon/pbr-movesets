@@ -1,5 +1,5 @@
 species: Smeargle
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Muscle Band]
 ability: [Own Tempo, Technician]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 80, atk: 252, def: 48, spA: 0, spD: 48, spe: 80}
 ---
 species: Smeargle
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Wise Glasses]
 ability: [Own Tempo]
@@ -42,7 +42,7 @@ ivs: 31
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Smeargle
-setname: Weather
+setname: a-Weather
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Technician]
@@ -61,7 +61,7 @@ ivs: 31
 evs: {hp: 80, atk: 0, def: 48, spA: 252, spD: 48, spe: 80}
 ---
 species: Smeargle
-setname: Priority
+setname: a-Priority
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Technician]

@@ -1,5 +1,5 @@
 species: Mewtwo
-setname: Me First
+setname: a-Me First
 ability: [Pressure]
 nature: Hardy
 ivs: 0
@@ -13,7 +13,7 @@ rarity: 0.7
 ball: [Premier]
 ---
 species: Mewtwo
-setname: Origins
+setname: a-Origins
 tags: [advanced]
 item: [BrightPowder]
 ability: [Pressure]
@@ -38,7 +38,7 @@ rarity: 0.9
 ball: [Ultra]
 ---
 species: Mewtwo
-setname: Fling
+setname: a-Fling
 tags: [advanced]
 item: [Iron Ball, Poison Barb]
 ability: [Pressure]
@@ -55,7 +55,7 @@ rarity: 0.3
 ball: [Dusk]
 ---
 species: Mewtwo
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [Iron Ball]
 ability: [Pressure]

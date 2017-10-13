@@ -1,0 +1,75 @@
+species: Togekiss
+setname: Accuracy
+tags: [standard]
+item: [Null]
+ability: [Hustle]
+moves:
+    - [Swift]
+    - [Aerial Ace]
+    - [Aura Sphere]
+    - [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Naughty
+ivs: 10
+evs: {hp: 0, atk: 200, def: 0, spA: 92, spD: 0, spe: 0}
+---
+species: Togekiss
+setname: Hustle
+tags: [standard]
+item: [Null]
+ability: [Hustle]
+moves:
+    - [Mega Kick]
+    - [Extreme Speed]
+    - [Aerial Ace]
+    - [Defog]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Togekiss
+setname: Serene Grace
+tags: [standard]
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Air Slash]
+    - [Secret Power]
+    - [Ominous Wind]
+    - [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Cherish]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 192, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Togekiss
+setname: Super Luck
+tags: [standard]
+item: [Razor Fang]
+ability: [Super Luck]
+moves:
+    - [Sky Attack]
+    - [Return]
+    - [Air Cutter]
+    - [Lucky Chant]
+gender: [m, f]
+happiness: 188
+biddable: True
+rarity: 0.1
+ball: [Heal]
+nature: Adamant
+ivs: 20
+evs: {hp: 0, atk: 100, def: 0, spA: 160, spD: 0, spe: 0}

@@ -1,5 +1,5 @@
 species: Buneary
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sticky Barb]
 ability: [Klutz]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Repeat]
 ---
 species: Buneary
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Petaya Berry, Sitrus Berry]
 ability: [Limber]
@@ -43,7 +43,7 @@ rarity: 1.0
 ball: [Nest]
 ---
 species: Buneary
-setname: Toxic Orb
+setname: a-Toxic Orb
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Run Away]

@@ -1,0 +1,56 @@
+species: Marill
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Huge Power]
+moves:
+    - [Aqua Tail]
+    - [Superpower]
+    - [Body Slam]
+    - [Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Net]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Marill
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Grass Knot]
+    - [Sing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Modest
+ivs: 31
+evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
+---
+species: Marill
+setname: Belly Drum
+tags: [standard]
+item: [Null]
+ability: [Huge Power]
+moves:
+    - [Aqua Jet]
+    - [Focus Punch]
+    - [Substitute]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 120, atk: 244, def: 72, spA: 0, spD: 72, spe: 0}

@@ -1,0 +1,75 @@
+species: Sealeo
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Ice Beam]
+    - [Aqua Tail]
+    - [Hidden Power]
+    - [Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 88, atk: 180, def: 0, spA: 108, spD: 0, spe: 116}
+---
+species: Sealeo
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Waterfall]
+    - [Ice Ball]
+    - [Iron Tail]
+    - [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 48, spA: 0, spD: 48, spe: 0}
+---
+species: Sealeo
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Blizzard]
+    - [Surf]
+    - [Signal Beam]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Serious
+ivs: 31
+evs: {hp: 52, atk: 0, def: 4, spA: 48, spD: 0, spe: 160}
+---
+species: Sealeo
+setname: Stall
+tags: [standard]
+item: [Icy Rock]
+ability: [Ice Body]
+moves:
+    - [Dive]
+    - [Toxic]
+    - [Aqua Ring]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.1
+ball: [Timer]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 172, atk: 0, def: 72, spA: 0, spD: 56, spe: 24}

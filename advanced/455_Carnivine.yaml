@@ -1,5 +1,5 @@
 species: Carnivine
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null, Yache Berry, King's Rock]
 ability: [Levitate]
@@ -25,7 +25,7 @@ ivs: 11
 evs: {hp: 84, atk: 84, def: 128, spA: 0, spD: 128, spe: 84}
 ---
 species: Carnivine
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Berry Juice, Meadow Plate, Sitrus Berry]
 ability: [Levitate]

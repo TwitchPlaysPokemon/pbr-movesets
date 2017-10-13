@@ -1,0 +1,37 @@
+species: Sandshrew
+setname: Physical
+tags: [standard]
+item: [Salac Berry]
+ability: [Sand Veil]
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Swords Dance]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.9
+ball: [Safari]
+nature: Adamant
+evs: {hp: 40, atk: 128, def: 0, spA: 0, spD: 212, spe: 128}
+ivs: 31
+---
+species: Sandshrew
+setname: Evasion
+tags: [standard]
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Earth Power]
+    - [Swift]
+    - [Double Team]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 2, def: 31, spA: 31, spD: 31, spe: 30}

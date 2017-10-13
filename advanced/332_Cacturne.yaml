@@ -1,5 +1,5 @@
 species: Cacturne
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Cornn Berry]
 ability: [Sand Veil, Water Absorb]
@@ -23,7 +23,7 @@ ivs: 31
 evs: {hp: 132, atk: 56, def: 132, spA: 56, spD: 132, spe: 0}
 ---
 species: Cacturne
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Yache Berry, Rare Bone]
 ability: [Water Absorb]

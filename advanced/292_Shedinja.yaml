@@ -1,5 +1,5 @@
 species: Shedinja
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Focus Band, Lum Berry]
 ability: [Wonder Guard]
@@ -28,7 +28,7 @@ ivs: 31
 evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
 ---
 species: Shedinja
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Spell Tag, Silverpowder]
 ability: [Wonder Guard]
@@ -50,7 +50,7 @@ ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 31}
 evs: {hp: 0, atk: 88, def: 0, spA: 252, spD: 0, spe: 168}
 ---
 species: Shedinja
-setname: Pivot
+setname: a-Pivot
 tags: [advanced]
 item: [Choice Band]
 ability: [Wonder Guard]
@@ -69,7 +69,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Shedinja
-setname: Token
+setname: a-Token
 tags: [advanced]
 item: [Focus Band, Lum Berry]
 ability: [Wonder Guard]

@@ -1,5 +1,5 @@
 species: Chatot
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sharp Beak]
 ability: [Keen Eye, Tangled Feet]
@@ -20,7 +20,7 @@ ivs: 13
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Chatot
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Cheri Berry, Sharp Beak, Liechi Berry]
 ability: [Keen Eye, Tangled Feet]

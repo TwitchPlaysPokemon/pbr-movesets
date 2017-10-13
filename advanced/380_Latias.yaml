@@ -1,5 +1,5 @@
 species: Latias
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Levitate]
@@ -18,7 +18,7 @@ ivs: {hp: 3, atk: 0, def: 31, spA: 0, spD: 0, spe: 0}
 evs: {hp: 40, atk: 232, def: 40, spA: 0, spD: 0, spe: 0}
 ---
 species: Latias
-setname: Soul Dew
+setname: a-Soul Dew
 tags: [advanced]
 item: [Soul Dew]
 ability: [Levitate]
@@ -40,7 +40,7 @@ ivs: {hp: 3, atk: 19, def: 31, spA: 0, spD: 0, spe: 0}
 evs: {hp: 40, atk: 252, def: 0, spA: 0, spD: 0, spe: 100}
 ---
 species: Latias
-setname: Airplane
+setname: a-Airplane
 tags: [advanced]
 item: [Sky Plate]
 ability: [Levitate]

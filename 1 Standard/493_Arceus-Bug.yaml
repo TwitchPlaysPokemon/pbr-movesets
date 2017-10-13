@@ -1,0 +1,53 @@
+species: Arceus
+setname: Bug Physical
+tags: [standard]
+item: [Insect Plate]
+ability: [Multitype]
+moves:
+    - [Twineedle]
+    - [Fury Cutter]
+    - [Spider Web]
+    - [Defend Order]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Net]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Bug Special
+tags: [standard]
+item: [Insect Plate]
+ability: [Multitype]
+moves:
+    - [Silver Wind]
+    - [Smog]
+    - [Substitute]
+    - [Detect]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Safari]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Bug Judgment
+tags: [standard]
+item: [Insect Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Fly]
+    - [Sludge Bomb]
+    - [Extreme Speed]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Jolly
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

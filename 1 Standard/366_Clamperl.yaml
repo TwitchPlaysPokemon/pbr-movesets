@@ -1,0 +1,37 @@
+species: Clamperl
+setname: Physical
+tags: [standard]
+item: [Deepseascale]
+ability: [Shell Armor]
+moves:
+    - [Waterfall]
+    - [Double-Edge]
+    - [Clamp]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dive]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 0, def: 84, spA: 0, spD: 84, spe: 88}
+---
+species: Clamperl
+setname: Special
+tags: [standard]
+item: [Deepseatooth]
+ability: [Shell Armor]
+moves:
+    - [Muddy Water]
+    - [Hidden Power]
+    - [Icy Wind]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Net]
+nature: Careful
+ivs: {hp: 23, atk: 10, def: 23, spA: 10, spD: 23, spe: 23}
+evs: {hp: 188, atk: 0, def: 0, spA: 0, spD: 144, spe: 176}

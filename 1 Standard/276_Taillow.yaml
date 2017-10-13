@@ -1,0 +1,56 @@
+species: Taillow
+setname: Physical
+ball: [Cherish]
+tags: [standard]
+item: [Null]
+ability: [Scrappy]
+moves:
+    - [Brave Bird]
+    - [Return]
+    - [U-Turn]
+    - [Pursuit]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+---
+species: Taillow
+setname: Guts
+ball: [Ultra]
+tags: [standard]
+item: [Flame Orb]
+ability: [Guts]
+moves:
+    - [Brave Bird]
+    - [Facade]
+    - [U-Turn]
+    - [Protect]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Impish
+evs: {hp: 76, atk: 164, def: 0, spA: 0, spD: 16, spe: 252}
+ivs: 31
+---
+species: Taillow
+setname: Scrappy
+ball: [Luxury]
+tags: [standard]
+item: [Power Herb]
+ability: [Scrappy]
+moves:
+    - [Sky Attack]
+    - [Double Edge]
+    - [Endeavor]
+    - [Endure]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31

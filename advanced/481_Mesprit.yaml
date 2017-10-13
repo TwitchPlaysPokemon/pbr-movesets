@@ -1,5 +1,5 @@
 species: Mesprit
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null, Miracle Seed, Hard Stone, Magnet, Silk Scarf, Mystic Water]
 ability: [Levitate]
@@ -23,7 +23,7 @@ ivs: {hp: 1, atk: 1, def: 0, spA: 3, spD: 2, spe: 0}
 evs: {hp: 40, atk: 0, def: 40, spA: 40, spD: 40, spe: 0}
 ---
 species: Mesprit
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Cheri Berry, Chesto Berry, Pecha Berry, Rawst Berry, Aspear Berry, Persim Berry, Lum Berry]
 ability: [Levitate]
@@ -45,7 +45,7 @@ ivs: 0
 evs: {hp: 40, atk: 40, def: 40, spA: 0, spD: 40, spe: 0}
 ---
 species: Mesprit
-setname: HealPass
+setname: a-HealPass
 tags: [advanced]
 item: [X Speed]
 ability: [Levitate]

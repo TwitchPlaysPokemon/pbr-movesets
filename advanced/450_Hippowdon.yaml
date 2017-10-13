@@ -1,5 +1,5 @@
 species: Hippowdon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Sand Stream]
@@ -18,7 +18,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 40, spA: 0, spD: 40, spe: 40}
 ---
 species: Hippowdon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Life Orb]
 ability: [Sand Stream]
@@ -37,7 +37,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 128, spe: 252}
 ---
 species: Hippowdon
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Grip Claw]
 ability: [Sand Stream]

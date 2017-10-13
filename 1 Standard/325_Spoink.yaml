@@ -1,0 +1,18 @@
+species: Spoink
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Psychic]
+    - [Power Gem]
+    - [Icy Wind]
+    - [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 36, atk: 0, def: 108, spA: 164, spD: 0, spe: 200}

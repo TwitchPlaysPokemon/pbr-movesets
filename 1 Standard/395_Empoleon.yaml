@@ -1,0 +1,75 @@
+species: Empoleon
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Metal Claw]
+    - [Aqua Jet]
+    - [Rock Smash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Quiet
+evs: {hp: 0, atk: 160, def: 160, spA: 0, spD: 160, spe: 0}
+ivs: 19
+---
+species: Empoleon
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Dive]
+    - [Steel Wing]
+    - [Rock Slide]
+    - [Pluck]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Adamant
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 136}
+ivs: 10
+---
+species: Empoleon
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Bubble Beam]
+    - [Flash Cannon]
+    - [Signal Beam]
+    - [Water Sport]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Net]
+nature: Adamant
+evs: {hp: 0, atk: 0, def: 32, spA: 0, spD: 32, spe: 112}
+ivs: 2
+---
+species: Empoleon
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Steel Wing]
+    - [Bubble Beam]
+    - [Brick Break]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Timer]
+nature: Jolly
+evs: {hp: 0, atk: 116, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 18

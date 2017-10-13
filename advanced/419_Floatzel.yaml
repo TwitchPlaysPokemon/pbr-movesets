@@ -1,5 +1,5 @@
 species: Floatzel
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Null]
 ability: [Swift Swim, Water Veil]
@@ -30,7 +30,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Floatzel
-setname: Baton Pass
+setname: a-Baton Pass
 tags: [advanced]
 item: [Lansat Berry]
 ability: [Water Veil]

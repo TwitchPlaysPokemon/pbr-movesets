@@ -1,5 +1,5 @@
 species: Glaceon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Icy Rock, NeverMelt-Ice]
 ability: [Ice Body]
@@ -21,7 +21,7 @@ ivs: {hp: 15, atk: 15, def: 14, spA: 15, spD: 14, spe: 14}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Glaceon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Metronome]
 ability: [Snow Cloak, Ice Body]

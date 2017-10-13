@@ -1,0 +1,56 @@
+species: Pupitar
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Earthquake]
+    - [Payback]
+    - [Curse]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: Careful
+ivs: 11
+evs: {hp: 128, atk: 64, def: 64, spA: 0, spD: 128, spe: 124}
+---
+species: Pupitar
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Earth Power]
+    - [Ancient Power]
+    - [Dark Pulse]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 152, atk: 0, def: 32, spA: 140, spD: 36, spe: 44}
+---
+species: Pupitar
+setname: Facade
+tags: [standard]
+item: [Toxic Orb]
+ability: [Shed Skin]
+moves:
+    - [Rock Slide]
+    - [Facade]
+    - [Rest]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Heal]
+nature: Adamant
+ivs: 31
+evs: {hp: 8, atk: 16, def: 72, spA: 0, spD: 164, spe: 92}

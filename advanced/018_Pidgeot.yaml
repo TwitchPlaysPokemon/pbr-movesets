@@ -1,5 +1,5 @@
 species: Pidgeot
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Air Mail, Pinap Berry, Razor Claw]
 ability: [Keen Eye, Tangled Feet]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Pidgeot
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Macho Brace]
 ability: [Keen Eye, Tangled Feet]
@@ -41,7 +41,7 @@ rarity: 0.6
 ball: [Ultra]
 ---
 species: Pidgeot
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Air Mail, Silk Scarf, Sky Plate]
 ability: [Keen Eye, Tangled Feet]
@@ -63,7 +63,7 @@ rarity: 0.6
 ball: [Heal]
 ---
 species: Pidgeot
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Everstone]
 ability: [No Guard]

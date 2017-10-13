@@ -1,0 +1,143 @@
+species: Uxie
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Giga Drain]
+    - [Water Pulse]
+    - [Safeguard]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Repeat]
+nature: Serious
+ivs: {hp: 3, atk: 0, def: 0, spA: 31, spD: 0, spe: 4}
+evs: {hp: 0, atk: 0, def: 0, spA: 32, spD: 0, spe: 0}
+---
+species: Uxie
+setname: Yawn
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Confusion]
+    - [Charge Beam]
+    - [Yawn]
+    - [Block]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Timer]
+nature: Jolly
+ivs: {hp: 30, atk: 31, def: 5, spA: 31, spD: 0, spe: 2}
+evs: {hp: 0, atk: 0, def: 0, spA: 24, spD: 0, spe: 0}
+---
+species: Uxie
+setname: Calm Mind
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Confusion]
+    - [Swift]
+    - [Calm Mind]
+    - [Yawn]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Lax
+ivs: 0
+evs: {hp: 112, atk: 0, def: 0, spA: 112, spD: 0, spe: 0}
+---
+species: Uxie
+setname: Trick Room
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt]
+    - [Thunder Punch]
+    - [U-Turn]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 36, atk: 56, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Uxie
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Energy Ball]
+    - [Shadow Ball]
+    - [Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Quiet
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 108, spD: 0, spe: 0}
+---
+species: Uxie
+setname: Smogon
+tags: [standard]
+item: [Light Clay]
+ability: [Levitate]
+moves:
+    - [U-Turn]
+    - [Reflect]
+    - [Light Screen]
+    - [Stealth Rock]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Heal]
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 20, spe: 31}
+evs: {hp: 96, atk: 252, def: 0, spA: 0, spD: 0, spe: 160}
+---
+species: Uxie
+setname: Lead
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [U-Turn]
+    - [Stealth Rock]
+    - [Memento]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Heal]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Uxie
+setname: Sunny Day
+tags: [standard]
+item: [Heat Rock]
+ability: [Levitate]
+moves:
+    - [Solar Beam]
+    - [Fire Punch]
+    - [Hidden Power]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 76, atk: 100, def: 0, spA: 196, spD: 0, spe: 136}

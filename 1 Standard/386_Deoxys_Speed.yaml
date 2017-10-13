@@ -1,0 +1,56 @@
+species: Deoxys
+setname: Speed Screens
+tags: [standard]
+item: [Light Clay]
+ability: [Pressure]
+nature: Hardy
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 10
+moves:
+    - [Psycho Boost]
+    - [Extreme Speed]
+    - [Reflect]
+    - [Light Screen]
+form: Speed
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+---
+species: Deoxys
+setname: Speed Smogon
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+nature: Hardy
+ivs: {hp: 20, atk: 0, def: 20, spA: 31, spD: 20, spe: 20}
+evs: 0
+moves:
+    - [Ice Beam]
+    - [Energy Ball]
+    - [Stealth Rock]
+    - [Spikes]
+form: Speed
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Cherish]
+---
+species: Deoxys
+setname: Speed Slow
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+nature: Brave
+evs: {hp: 252, atk: 88, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Extreme Speed]
+    - [Avalanche]
+    - [Focus Punch]
+    - [Mirror Coat]
+form: Speed
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Timer]

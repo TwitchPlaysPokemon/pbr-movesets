@@ -1,0 +1,37 @@
+species: Seadra
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Sniper]
+moves:
+    - [Octazooka]
+    - [Dragon Pulse]
+    - [Disable]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Hasty
+evs: 84
+ivs: 13
+---
+species: Seadra
+setname: Stall
+tags: [standard]
+item: [Null]
+ability: [Damp]
+moves:
+    - [Dive]
+    - [Bounce]
+    - [Toxic]
+    - [Smokescreen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Careful
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
+ivs: 31

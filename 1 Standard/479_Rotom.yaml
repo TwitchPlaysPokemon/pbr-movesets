@@ -1,0 +1,143 @@
+species: Rotom
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Thunderbolt]
+    - [Shadow Ball]
+    - [Flash]
+    - [Confuse Ray]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 40, spe: 216}
+---
+species: Rotom
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Shadow Force]
+    - [Spark]
+    - [Sucker Punch]
+    - [Will-O-Wisp]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Ultra]
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Rotom
+setname: Max Sp. Atk
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Ominous Wind]
+    - [Shock Wave]
+    - [Swift]
+    - [Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 128, atk: 0, def: 56, spA: 252, spD: 72, spe: 0}
+---
+species: Rotom
+setname: Wash
+tags: [standard]
+item: [Bubble Mail]
+ability: [Levitate]
+moves:
+    - [Shock Wave]
+    - [Hydro Pump]
+    - [Hidden Power]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Dive]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 36, atk: 0, def: 240, spA: 80, spD: 152, spe: 0}
+---
+species: Rotom
+setname: Heat
+tags: [standard]
+item: [Flame Mail]
+ability: [Levitate]
+moves:
+    - [Charge Beam]
+    - [Overheat]
+    - [Hidden Power]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Repeat]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 36, atk: 0, def: 232, spA: 84, spD: 156, spe: 0}
+---
+species: Rotom
+setname: Mow
+tags: [standard]
+item: [Grass Mail]
+ability: [Levitate]
+moves:
+    - [Discharge]
+    - [Leaf Storm]
+    - [Hidden Power]
+    - [Mud-Slap]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Nest]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 30, spe: 10}
+evs: {hp: 32, atk: 0, def: 152, spA: 80, spD: 244, spe: 0}
+---
+species: Rotom
+setname: Frost
+tags: [standard]
+item: [Snow Mail]
+ability: [Levitate]
+moves:
+    - [Thunder]
+    - [Blizzard]
+    - [Hidden Power]
+    - [Light Screen]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Premier]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 30}
+evs: {hp: 36, atk: 0, def: 152, spA: 84, spD: 236, spe: 0}
+---
+species: Rotom
+setname: Fan
+tags: [standard]
+item: [Air Mail]
+ability: [Levitate]
+moves:
+    - [Thunderbolt]
+    - [Air Slash]
+    - [Hidden Power]
+    - [Reflect]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Cherish]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 31}
+evs: {hp: 36, atk: 0, def: 236, spA: 80, spD: 156, spe: 0}

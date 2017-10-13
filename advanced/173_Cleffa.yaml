@@ -1,5 +1,5 @@
 species: Cleffa
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Life Orb]
 ability: [Magic Guard]
@@ -16,7 +16,7 @@ ivs: 31
 evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}
 ---
 species: Cleffa
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Life Orb]
 ability: [Magic Guard]

@@ -1,5 +1,5 @@
 species: Blastoise
-setname: Cannon
+setname: a-Cannon
 tags: [advanced]
 item: [Leppa Berry]
 ability: [Torrent]
@@ -16,7 +16,7 @@ rarity: 1.3
 ball: [Ultra]
 ---
 species: Blastoise
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Iron Ball]
 ability: [Torrent]
@@ -37,7 +37,7 @@ rarity: 1.3
 ball: [Ultra]
 ---
 species: Blastoise
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Damp Rock]
 ability: [Rain Dish]
@@ -56,7 +56,7 @@ rarity: 0.4
 ball: [Ultra]
 ---
 species: Blastoise
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Everstone]
 ability: [Torrent]

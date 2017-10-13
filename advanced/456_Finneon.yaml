@@ -1,5 +1,5 @@
 species: Finneon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Damp Rock, Splash Plate, Insect Plate, Spooky Plate, Mind Plate]
 ability: [Swift Swim]
@@ -23,7 +23,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
 ---
 species: Finneon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Damp Rock, Toxic Orb]
 ability: [Swift Swim]

@@ -1,0 +1,53 @@
+species: Arceus
+setname: Psychic Special
+tags: [standard]
+item: [Mind Plate]
+ability: [Multitype]
+moves:
+    - [Confusion]
+    - [Future Sight]
+    - [Kinesis]
+    - [Miracle Eye]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Heal]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Psychic Swap
+tags: [standard]
+item: [Mind Plate]
+ability: [Multitype]
+moves:
+    - [Confusion]
+    - [Twister]
+    - [Flatter]
+    - [Power Swap]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Heal]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Psychic Judgment
+tags: [standard]
+item: [Mind Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Focus Blast]
+    - [Blizzard]
+    - [Calm Mind]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

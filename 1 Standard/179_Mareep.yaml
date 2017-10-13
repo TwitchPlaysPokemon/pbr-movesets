@@ -1,0 +1,37 @@
+species: Mareep
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Static]
+moves:
+    - [Discharge]
+    - [Signal Beam]
+    - [Power Gem]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Quick]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 64, spA: 252, spD: 32, spe: 0}
+---
+species: Mareep
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Body Slam]
+    - [Iron Tail]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Timer]
+nature: Brave
+ivs: 31
+evs: {hp: 76, atk: 252, def: 40, spA: 100, spD: 40, spe: 0}

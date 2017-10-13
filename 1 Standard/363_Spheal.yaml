@@ -1,0 +1,56 @@
+species: Spheal
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Ice Body]
+moves:
+    - [Super Fang]
+    - [Blizzard]
+    - [Brine]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poké]
+nature: Modest
+ivs: 31
+evs: {hp: 140, atk: 0, def: 60, spA: 252, spD: 56, spe: 0}
+---
+species: Spheal
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Aqua Tail]
+    - [Ice Ball]
+    - [Earthquake]
+    - [Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dive]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 36, spA: 0, spD: 92, spe: 0}
+---
+species: Spheal
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Surf]
+    - [Icy Wind]
+    - [Body Slam]
+    - [Sheer Cold]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Net]
+nature: Mild
+ivs: 31
+evs: {hp: 104, atk: 12, def: 36, spA: 176, spD: 52, spe: 128}

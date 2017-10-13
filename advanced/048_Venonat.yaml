@@ -1,5 +1,5 @@
 species: Venonat
-setname: Tinted Lens
+setname: a-Tinted Lens
 tags: [advanced]
 item: [Lansat Berry]
 ability: [Tinted Lens]
@@ -17,7 +17,7 @@ biddable: true
 ball: [Safari]
 ---
 species: Venonat
-setname: Compound Eyes
+setname: a-Compound Eyes
 tags: [advanced]
 item: [Silverpowder, Poison Barb]
 ability: [Compound Eyes]

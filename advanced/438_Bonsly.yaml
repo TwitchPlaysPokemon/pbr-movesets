@@ -1,5 +1,5 @@
 species: Bonsly
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Passho Berry]
 ability: [Sturdy]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 176, atk: 160, def: 0, spA: 0, spD: 172, spe: 0}
 ---
 species: Bonsly
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Chesto Berry]
 ability: [Sturdy]

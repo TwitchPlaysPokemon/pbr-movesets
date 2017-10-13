@@ -1,5 +1,5 @@
 species: Drifloon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Petaya Berry]
 ability: [Unburden]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Drifloon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Lansat Berry]
 ability: [Unburden]

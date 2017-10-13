@@ -1,5 +1,5 @@
 species: Rhydon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Choice Scarf]
 ability: [Rock Head, Reckless]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Rhydon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Null]
 ability: [Rock Head, Reckless, Lightning Rod]

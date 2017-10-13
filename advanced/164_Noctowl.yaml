@@ -1,5 +1,5 @@
 species: Noctowl
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Air Mail]
 ability: [Keen Eye, Insomnia]
@@ -19,7 +19,7 @@ ivs: 31
 evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Noctowl
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [White Flute, Silk Scarf, Draco Plate, Lum Berry]
 ability: [Tinted Lens, Insomnia]
@@ -41,7 +41,7 @@ ivs: {hp: 0, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
 evs: {hp: 0, atk: 0, def: 208, spA: 100, spD: 100, spe: 100}
 ---
 species: Noctowl
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Rare Candy, Sharp Beak, Metal Coat]
 ability: [Tinted Lens]

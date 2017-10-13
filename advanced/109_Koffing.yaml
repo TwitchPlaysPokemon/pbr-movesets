@@ -1,5 +1,5 @@
 species: Koffing
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Payapa Berry, Lum Berry, Black Sludge]
 ability: [Levitate]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species:  Koffing
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Macho Brace]
 ability: [Levitate]

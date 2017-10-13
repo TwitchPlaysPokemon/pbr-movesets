@@ -1,0 +1,94 @@
+species: Gliscor
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Wing Attack]
+    - [Earth Power]
+    - [Sludge Bomb]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 7}
+evs: {hp: 0, atk: 100, def: 0, spA: 184, spD: 0, spe: 0}
+---
+species: Gliscor
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Dig]
+    - [Aqua Tail]
+    - [U-Turn]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Modest
+ivs: {hp: 0, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
+evs: 0
+---
+species: Gliscor
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Earth Power]
+    - [Sludge Bomb]
+    - [Dark Pulse]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Mild
+ivs: 4
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Gliscor
+setname: Crit
+tags: [standard]
+item: [Razor Claw]
+ability: [Hyper Cutter]
+moves:
+    - [Sky Attack]
+    - [Cross Poison]
+    - [Night Slash]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Luxury]
+nature: Sassy
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
+---
+species: Gliscor
+setname: Setup
+tags: [standard]
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Aerial Ace]
+    - [Cross Poison]
+    - [Swords Dance]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Brave
+ivs: {hp: 25, atk: 0, def: 25, spA: 0, spD: 25, spe: 0}
+evs: 0

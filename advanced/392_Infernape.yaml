@@ -1,5 +1,5 @@
 species: Infernape
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Flame Orb, Berry Juice, Apicot Berry]
 ability: [Iron Fist]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Infernape
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Iron Ball]
 ability: [Blaze]
@@ -43,7 +43,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Infernape
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Null, Fist Plate, Flame Plate]
 ability: [Blaze, Iron Fist]

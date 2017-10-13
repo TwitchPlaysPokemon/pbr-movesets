@@ -1,5 +1,5 @@
 species: Staryu
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Micle Berry, Berry Juice, Wacan Berry, Rindo Berry]
 ability: [Natural Cure]
@@ -21,7 +21,7 @@ rarity: 1.4
 ball: [Quick]
 ---
 species: Staryu
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Muscle Band, Liechi Berry, Sitrus Berry]
 ability: [Natural Cure]

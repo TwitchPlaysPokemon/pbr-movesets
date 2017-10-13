@@ -1,0 +1,113 @@
+species: Lopunny
+setname: Standard
+tags: [standard]
+item: [Choice Scarf]
+ball: [Quick]
+ability: [Klutz]
+moves:
+    - [Return]
+    - [Focus Blast]
+    - [Fire Punch]
+    - [Switcheroo]
+gender: [m, f]
+happiness: 173
+biddable: True
+rarity: 0.3
+nature: Lonely
+ivs: 31
+evs: {hp: 0, atk: 148, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Lopunny
+setname: Physical
+tags: [standard]
+item: [Null]
+ball: [Ultra]
+ability: [Limber]
+moves:
+    - [Giga Impact]
+    - [High Jump Kick]
+    - [Bounce]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+ivs: 31
+evs: {hp: 72, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Lopunny
+setname: Special
+tags: [standard]
+item: [Null]
+ball: [Premier]
+ability: [Klutz]
+moves:
+    - [Hyper Voice]
+    - [Focus Blast]
+    - [Blizzard]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+ivs: {hp: 15, atk: 15, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Lopunny
+setname: Baton Pass
+tags: [standard]
+item: [Salac Berry]
+ball: [Timer]
+ability: [Cute Charm]
+moves:
+    - [Secret Power]
+    - [Ice Punch]
+    - [Cosmic Power]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Modest
+ivs: {hp: 23, atk: 23, def: 23, spA: 31, spD: 23, spe: 23}
+evs: {hp: 132, atk: 0, def: 40, spA: 252, spD: 0, spe: 84}
+---
+species: Lopunny
+setname: Sunny Day
+tags: [standard]
+item: [Null]
+ball: [Repeat]
+ability: [Cute Charm]
+moves:
+    - [Solar Beam]
+    - [Fire Punch]
+    - [Copycat]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Lonely
+ivs: {hp: 10, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 148, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Lopunny
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ball: [Heal]
+ability: [Scrappy]
+moves:
+    - [Fake Out]
+    - [Return]
+    - [High Jump Kick]
+    - [Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Adamant
+ivs: 12
+evs: {hp: 0, atk: 76, def: 0, spA: 0, spD: 0, spe: 76}

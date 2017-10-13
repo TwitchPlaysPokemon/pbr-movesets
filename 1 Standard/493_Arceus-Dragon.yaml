@@ -1,0 +1,53 @@
+species: Arceus
+setname: Dragon Special
+tags: [standard]
+item: [Draco Plate]
+ability: [Multitype]
+moves:
+    - [Twister]
+    - [Roar]
+    - [Dragon Dance]
+    - [Growth]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Luxury]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Dragon Setup
+tags: [standard]
+item: [Draco Plate]
+ability: [Multitype]
+moves:
+    - [False Swipe]
+    - [Absorb]
+    - [Swords Dance]
+    - [Cosmic Power]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Timer]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Dragon Judgment
+tags: [standard]
+item: [Draco Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Roar Of Time]
+    - [Stone Edge]
+    - [Flamethrower]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

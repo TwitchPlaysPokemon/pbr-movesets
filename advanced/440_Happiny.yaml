@@ -1,5 +1,5 @@
 species: Happiny
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Oval Stone]
 ability: [Serene Grace]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Happiny
-setname: Hax
+setname: a-Hax
 tags: [advanced]
 item: [Leftovers]
 ability: [Serene Grace]

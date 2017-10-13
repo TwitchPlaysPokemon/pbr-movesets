@@ -1,5 +1,5 @@
 species: Goldeen
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Power Herb, Watmel Berry, Belue Berry, Sitrus Berry]
 ability: [Swift Swim, Water Veil]
@@ -32,7 +32,7 @@ rarity: 1.0
 ball: [Master]
 ---
 species: Goldeen
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Wise Glasses]
 ability: [Swift Swim]

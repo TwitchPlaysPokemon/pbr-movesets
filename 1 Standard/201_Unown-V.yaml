@@ -1,0 +1,18 @@
+species: Unown
+setname: Vanish
+tags: [standard]
+item: [Bright Powder]
+ability: [Color Change]
+moves:
+    - [Mist Ball]
+    - [Hidden Power]
+    - [Shadow Force]
+    - [Volt Tackle]
+form: 21
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Bashful
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}

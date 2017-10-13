@@ -1,5 +1,5 @@
 species: Slowpoke
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Muscle Band, Leftovers, Sitrus Berry]
 ability: [oblivious, own tempo]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Slowpoke
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Life Orb]
 ability: [Oblivious, Own Tempo]

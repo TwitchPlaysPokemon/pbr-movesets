@@ -1,5 +1,5 @@
 species: Rapidash
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Oran Berry, King's Rock, Silk Scarf, Power Herb]
 ability: [Flash Fire, Flame Body]
@@ -23,7 +23,7 @@ rarity: 1.0
 ball: [Repeat]
 ---
 species: Rapidash
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null, Pomeg Berry, Liechi Berry]
 ability: [Flash Fire, Flame Body]

@@ -1,5 +1,5 @@
 species: Nidorino
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Cheri Berry, Rawst Berry, Silk Scarf]
 ability: [Hustle]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Nidorino
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Payapa Berry, Shuca Berry, Petaya Berry, Focus Sash]
 ability: [Poison Point, Rivalry]

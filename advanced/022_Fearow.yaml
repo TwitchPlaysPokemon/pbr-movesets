@@ -1,5 +1,5 @@
 species: Fearow
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Air Mail, Fist Plate]
 ability: [Sniper, Keen Eye]
@@ -19,7 +19,7 @@ biddable: true
 ball: [Great]
 ---
 species: Fearow
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Metal Coat]
 ability: [Sniper, Keen Eye]

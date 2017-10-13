@@ -1,5 +1,5 @@
 species: Glameow
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Muscle Band]
 ability: [Limber, Own Tempo, Keen Eye]
@@ -22,7 +22,7 @@ ivs: 31
 evs: {hp: 80, atk: 252, def: 24, spA: 0, spD: 24, spe: 0}
 ---
 species: Glameow
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Focus Band, Mystic Water]
 ability: [Limber, Own Tempo]
@@ -43,7 +43,7 @@ ivs: 31
 evs: {hp: 64, atk: 0, def: 32, spA: 252, spD: 32, spe: 128}
 ---
 species: Glameow
-setname: Flail
+setname: a-Flail
 tags: [advanced]
 item: [Micle Berry]
 ability: [Limber, Own Tempo]
@@ -62,7 +62,7 @@ ivs: 31
 evs: {hp: 40, atk: 220, def: 8, spA: 0, spD: 48, spe: 192}
 ---
 species: Glameow
-setname: Last Resort
+setname: a-Last Resort
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Limber, Own Tempo]

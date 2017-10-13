@@ -1,0 +1,37 @@
+species: Zubat
+setname: Physical
+tags: [standard]
+item: [Life Orb]
+ability: [Inner Focus]
+moves:
+    - [Super Fang]
+    - [Brave Bird]
+    - [Zen Headbutt]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Repeat]
+nature: Jolly
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+---
+species: Zubat
+setname: Special
+tags: [standard]
+item: [Focus Sash]
+ability: [Inner Focus]
+moves:
+    - [Sludge Bomb]
+    - [Air Slash]
+    - [Heat Wave]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Dusk]
+nature: Timid
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31

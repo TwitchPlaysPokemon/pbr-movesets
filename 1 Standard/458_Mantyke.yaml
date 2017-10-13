@@ -1,0 +1,56 @@
+species: Mantyke
+setname: Physical
+tags: [standard]
+item: [Power Herb]
+ability: [Swift Swim]
+moves:
+    - [Sky Attack]
+    - [Waterfall]
+    - [Return]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Net]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 252, def: 0, spA: 0, spD: 0, spe: 116}
+---
+species: Mantyke
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Air Slash]
+    - [Ice Beam]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 180, atk: 0, def: 52, spA: 252, spD: 0, spe: 24}
+---
+species: Mantyke
+setname: Stall
+tags: [standard]
+item: [Leftovers]
+ability: [Water Absorb]
+moves:
+    - [Dive]
+    - [Bounce]
+    - [Toxic]
+    - [Aqua Ring]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Timer]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 116, def: 140, spA: 0, spD: 0, spe: 0}

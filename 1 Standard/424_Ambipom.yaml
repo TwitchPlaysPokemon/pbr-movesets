@@ -1,0 +1,94 @@
+species: Ambipom
+setname: Skill Link
+tags: [standard]
+item: [Null]
+ball: [Repeat]
+ability: [Skill Link]
+moves:
+    - [Fury Swipes]
+    - [Gunk Shot]
+    - [Shadow Claw]
+    - [Snatch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: .25
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 88, spA: 0, spD: 100, spe: 0}
+---
+species: Ambipom
+setname: Max Attack
+tags: [standard]
+item: [Null]
+ball: [Dusk]
+ability: [Pickup]
+moves:
+    - [Cut]
+    - [Aerial Ace]
+    - [Payback]
+    - [U-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: .25
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 8, spD: 0, spe: 248}
+---
+species: Ambipom
+setname: Special
+tags: [standard]
+item: [Null]
+ball: [Premier]
+ability: [Technician]
+moves:
+    - [Swift]
+    - [Grass Knot]
+    - [Shadow Ball]
+    - [Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: .25
+nature: Quiet
+ivs: {hp: 21, atk: 21, def: 21, spA: 19, spD: 19, spe: 21}
+evs: {hp: 4, atk: 0, def: 126, spA: 248, spD: 132, spe: 0}
+---
+species: Ambipom
+setname: Technician
+tags: [standard]
+item: [Null]
+ball: [Nest]
+ability: [Technician]
+moves:
+    - [Fake Out]
+    - [Covet]
+    - [Aerial Ace]
+    - [Screech]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: .25
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 12, spe: 24}
+---
+species: Ambipom
+setname: Snore
+tags: [standard]
+item: [Null]
+ball: [Heal]
+ability: [Technician]
+moves:
+    - [Hidden Power]
+    - [Snore]
+    - [Nasty Plot]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+nature: Serious
+ivs: {hp: 11, atk: 11, def: 11, spA: 31, spD: 11, spe: 31}
+evs: {hp: 0, atk: 0, def: 24, spA: 252, spD: 16, spe: 0}

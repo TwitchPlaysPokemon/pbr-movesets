@@ -1,5 +1,5 @@
 species: Groudon
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Flame Mail, Bluk Berry, Heat Rock, Metronome]
 ability: [Drought]
@@ -21,7 +21,7 @@ rarity: 1.9
 ball: [Cherish]
 ---
 species: Groudon 
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [Macho Brace]
 ability: [Drought]

@@ -1,5 +1,5 @@
 species: Paras
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Yache Berry, Focus Sash, Quick Claw, Sitrus Berry, Kebia Berry, Tanga Berry, Charti Berry]
 ability: [Dry Skin]
@@ -18,7 +18,7 @@ rarity: 1.4
 ball: [Net]
 ---
 species: Paras
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Focus Sash]
 ability: [Dry Skin]

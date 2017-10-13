@@ -1,0 +1,75 @@
+species: Medicham
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Pure Power]
+moves:
+    - [Psycho Cut]
+    - [Drain Punch]
+    - [Poison Jab]
+    - [Power Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Great]
+nature: Bold
+ivs: 16
+evs: {hp: 85, atk: 0, def: 170, spA: 0, spD: 170, spe: 85}
+---
+species: Medicham
+setname: Special
+tags: [standard]
+item: [Rowap Berry]
+ability: [Pure Power]
+moves:
+    - [Psychic]
+    - [Vacuum Wave]
+    - [Energy Ball]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Timer]
+nature: Modest
+ivs: 31
+evs: {hp: 124, atk: 0, def: 40, spA: 176, spD: 40, spe: 128}
+---
+species: Medicham
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Pure Power]
+moves:
+    - [Confusion]
+    - [Low Kick]
+    - [Rock Slide]
+    - [Acupressure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Mild
+ivs: 31
+evs: {hp: 140, atk: 0, def: 0, spA: 252, spD: 36, spe: 80}
+---
+species: Medicham
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Pure Power]
+moves:
+    - [Fake Out]
+    - [High Jump Kick]
+    - [Zen Headbutt]
+    - [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Ultra]
+nature: Adamant
+ivs: 0
+evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 100}

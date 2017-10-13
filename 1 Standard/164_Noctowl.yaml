@@ -1,0 +1,56 @@
+species: Noctowl
+setname: Standard
+tags: [standard]
+item: [Power Herb]
+ability: [Tinted Lens]
+moves:
+    - [Sky Attack]
+    - [Heat Wave]
+    - [Night Shade]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 84, spe: 84}
+---
+species: Noctowl
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Hyper Voice]
+    - [Extrasensory]
+    - [Shadow Ball]
+    - [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Luxury]
+nature: Bold
+ivs: {hp: 0, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 0, atk: 0, def: 208, spA: 100, spD: 100, spe: 100}
+---
+species: Noctowl
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Tinted Lens]
+moves:
+    - [Giga Impact]
+    - [Fly]
+    - [Steel Wing]
+    - [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Adamant
+ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 0, atk: 252, def: 88, spA: 0, spD: 84, spe: 84}

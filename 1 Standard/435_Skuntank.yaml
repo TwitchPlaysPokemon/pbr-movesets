@@ -1,0 +1,75 @@
+species: Skuntank
+setname: Standard
+tags: [standard]
+item: [Null]
+ball: [Dusk]
+ability: [Stench]
+moves:
+    - [Sludge Bomb]
+    - [Punishment]
+    - [Flamethrower]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+ivs: 20
+evs: {hp: 0, atk: 80, def: 0, spA: 60, spD: 0, spe: 0}
+---
+species: Skuntank
+setname: Physical
+tags: [standard]
+item: [Null]
+ball: [Quick]
+ability: [Stench]
+moves:
+    - [Poison Jab]
+    - [Bite]
+    - [Iron Tail]
+    - [Leer]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Timid
+ivs: 25
+evs: 0
+---
+species: Skuntank
+setname: Special
+tags: [standard]
+item: [Null]
+ball: [Premier]
+ability: [Aftermath]
+moves:
+    - [Sludge Bomb]
+    - [Shadow Ball]
+    - [Hyper Beam]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+ivs: 15
+evs: {hp: 0, atk: 0, def: 0, spA: 156, spD: 0, spe: 40}
+---
+species: Skuntank
+setname: Stall
+tags: [standard]
+item: [Null]
+ball: [Timer]
+ability: [Aftermath]
+moves:
+    - [Facade]
+    - [Dig]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.1
+nature: Bold
+ivs: 10
+evs: {hp: 236, atk: 0, def: 100, spA: 0, spD: 172, spe: 0}

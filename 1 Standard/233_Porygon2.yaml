@@ -1,0 +1,53 @@
+species: Porygon2
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Trace]
+moves:
+    - [Tri Attack]
+    - [Shadow Ball]
+    - [Toxic]
+    - [Magic Coat]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: Hasty
+ivs: 25
+evs: 0
+---
+species: Porygon2
+setname: Trick Room
+tags: [standard]
+item: [Null]
+ability: [Trace]
+moves:
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Psychic]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Relaxed
+ivs: {hp: 30, atk: 0, def: 20, spA: 20, spD: 20, spe: 0}
+evs: 0
+---
+species: Porygon2
+setname: Download
+tags: [standard]
+item: [Null]
+ability: [Download]
+moves:
+    - [Tri Attack]
+    - [Secret Power]
+    - [Discharge]
+    - [Zen Headbutt]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Adamant
+ivs: 8
+evs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 0, spe: 120}

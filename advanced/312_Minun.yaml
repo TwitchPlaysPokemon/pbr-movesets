@@ -1,5 +1,5 @@
 species: Minun
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Oran Berry]
 ability: [Minus, Volt Absorb]
@@ -26,7 +26,7 @@ ivs: 31
 evs: {hp: 88, atk: 0, def: 128, spA: 124, spD: 84, spe: 84}
 ---
 species: Minun
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Berry Juice, Magnet, Shuca Berry, Micle Berry]
 ability: [Minus, Volt Absorb]

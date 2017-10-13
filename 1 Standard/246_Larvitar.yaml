@@ -1,0 +1,37 @@
+species: Larvitar
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Guts]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Crunch]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 0, def: 88, spA: 0, spD: 72, spe: 96}
+---
+species: Larvitar
+setname: Sand
+tags: [standard]
+item: [Smooth Rock]
+ability: [Sand Veil]
+moves:
+    - [Earth Power]
+    - [Ancient Power]
+    - [Superpower]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Safari]
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: 0, def: 24, spA: 232, spD: 0, spe: 0}

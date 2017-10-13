@@ -1,5 +1,5 @@
 species: Rampardos
-setname: Rock
+setname: a-Rock
 tags: [advanced]
 item: [Skull Fossil]
 ability: [Mold Breaker]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Rampardos
-setname: Flinch
+setname: a-Flinch
 tags: [advanced]
 item: [NeverMelt-Ice, Black Glasses, Silk Scarf]
 ability: [Mold Breaker]
@@ -42,7 +42,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Rampardos
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Hard Stone]
 ability: [Mold Breaker]

@@ -1,5 +1,5 @@
 species: Vileplume
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Poké Ball, Poison Barb]
 ability: [Effect Spore, Chlorophyll]
@@ -23,7 +23,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Vileplume
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Poké Ball, King's Rock]
 ability: [Effect Spore, Chlorophyll]
@@ -50,7 +50,7 @@ rarity: 1.0
 ball: [Repeat]
 ---
 species: Vileplume
-setname: Sleeper
+setname: a-Sleeper
 tags: [advanced]
 item: [Moomoo Milk]
 ability: [Chlorophyll]

@@ -1,0 +1,37 @@
+species: Metapod
+setname: Standard
+tags: [standard]
+item: [Insect Plate]
+ability: [Adaptability]
+moves:
+    - [Judgment]
+    - [Tail Glow]
+    - [Rock Polish]
+    - [Heal Order]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Net]
+nature: Timid
+evs: {hp: 88, atk: 0, def: 0, spA: 252, spD: 88, spe: 80}
+ivs: 31
+---
+species: Metapod
+setname: Perish Song
+tags: [standard]
+item: [Chesto Berry]
+ability: [Shadow Tag]
+moves:
+    - [U-Turn]
+    - [Perish Song]
+    - [Recover]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Net]
+nature: Careful
+evs: {hp: 92, atk: 0, def: 168, spA: 0, spD: 248, spe: 0}
+ivs: 31

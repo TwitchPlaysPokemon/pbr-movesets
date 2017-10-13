@@ -1,0 +1,37 @@
+species: Quilava
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Lava Plume]
+    - [Extrasensory]
+    - [Mud-Slap]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Bold
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 108, spe: 100}
+---
+species: Quilava
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Flame Wheel]
+    - [Reversal]
+    - [Howl]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Impish
+ivs: 31
+evs: {hp: 100, atk: 100, def: 98, spA: 0, spD: 110, spe: 100}

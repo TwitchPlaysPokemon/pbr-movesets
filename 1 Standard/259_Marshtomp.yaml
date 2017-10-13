@@ -1,0 +1,37 @@
+species: Marshtomp
+setname: Physical
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Damp]
+moves:
+    - [Aqua Tail]
+    - [Rock Tomb]
+    - [Ice Ball]
+    - [Defense Curl]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Careful
+evs: 84
+ivs: 31
+---
+species: Marshtomp
+setname: Special
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Surf]
+    - [Earth Power]
+    - [Sludge]
+    - [Icy Wind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Docile
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 96, atk: 0, def: 96, spA: 144, spD: 96, spe: 76}

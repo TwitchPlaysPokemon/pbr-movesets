@@ -1,5 +1,5 @@
 species: Arceus
-setname: Flying Balanced
+setname: a-Flying Balanced
 tags: [advanced]
 item: [Sky Plate]
 ability: [Multitype]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Arceus
-setname: Flying Judgment
+setname: a-Flying Judgment
 tags: [advanced]
 item: [Sky Plate]
 ability: [Multitype]

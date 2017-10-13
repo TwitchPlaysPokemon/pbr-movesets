@@ -1,0 +1,37 @@
+species: Pidgey
+setname: Physical
+tags: [standard]
+item: [Leftovers]
+ability: [Tangled Feet]
+moves:
+    - [Double-Edge]
+    - [Fly]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+---
+species: Pidgey
+setname: Special
+tags: [standard]
+item: [Petaya Berry]
+ability: [Keen Eye]
+moves:
+    - [Air Slash]
+    - [Heat Wave]
+    - [Agility]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Modest
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

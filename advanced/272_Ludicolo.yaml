@@ -1,5 +1,5 @@
 species: Ludicolo
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Green Shard, Meadow Plate, Splash Plate]
 ability: [Swift Swim]
@@ -21,7 +21,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Ludicolo
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Pecha Berry, Scope Lens, Durin Berry]
 ability: [Own Tempo, Rain Dish]
@@ -50,7 +50,7 @@ ivs: 20
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Ludicolo
-setname: Sun
+setname: a-Sun
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Own Tempo]
@@ -69,7 +69,7 @@ ivs: 23
 evs: {hp: 68, atk: 128, def: 124, spA: 0, spD: 124, spe: 64}
 ---
 species: Ludicolo
-setname: HM
+setname: a-HM
 tags: [advanced]
 item: [Smoke Ball, Grip Claw]
 ability: [Rain Dish, Swift Swim]

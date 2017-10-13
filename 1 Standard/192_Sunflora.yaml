@@ -1,0 +1,37 @@
+species: Sunflora
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Razor Leaf]
+    - [Secret Power]
+    - [Nature Power]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 0, spe: 128}
+---
+species: Sunflora
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Solar Power]
+moves:
+    - [Giga Drain]
+    - [Earth Power]
+    - [Grass Whistle]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Safari]
+nature: Brave
+ivs: 0
+evs: {hp: 40, atk: 0, def: 180, spA: 180, spD: 100, spe: 8}

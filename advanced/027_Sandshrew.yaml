@@ -1,5 +1,5 @@
 species: Sandshrew
-setname: Attacker
+setname: a-Attacker
 tags: [advanced]
 item: [Salac Berry]
 ability: [Sand Veil]
@@ -18,7 +18,7 @@ rarity: 0.9
 ball: [Safari]
 ---
 species: Sandshrew
-setname: Evasion
+setname: a-Evasion
 tags: [advanced]
 item: [BrightPowder]
 ability: [Sand Veil]

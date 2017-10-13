@@ -1,0 +1,37 @@
+species: Tentacruel
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Liquid Ooze]
+moves:
+    - [Waterfall]
+    - [Poison Jab]
+    - [Payback]
+    - [Rapid Spin]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Adamant
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Tentacruel
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Bubblebeam]
+    - [Acid]
+    - [Icy Wind]
+    - [Haze]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Quiet
+evs: {hp: 0, atk: 0, def: 0, spA: 140, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 0, def: 25, spA: 31, spD: 5, spe: 31}

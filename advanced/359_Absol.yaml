@@ -1,5 +1,5 @@
 species: Absol
-setname: Super Luck
+setname: a-Super Luck
 tags: [advanced]
 item: [Moon Stone]
 ability: [Super Luck]
@@ -20,7 +20,7 @@ ivs: 12
 evs: {hp: 92, atk: 28, def: 92, spA: 0, spD: 164, spe: 132}
 ---
 species: Absol
-setname: Pressure
+setname: a-Pressure
 tags: [advanced]
 item: [Dread Plate, Black Flute, null]
 ability: [Pressure]
@@ -44,7 +44,7 @@ ivs: 0
 evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Absol
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Dragon Fang]
 ability: [Super Luck, Pressure]
@@ -65,7 +65,7 @@ ivs: 31
 evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Absol
-setname: Baton Pass
+setname: a-Baton Pass
 tags: [advanced]
 item: [Ganlon Berry]
 ability: [Pressure]

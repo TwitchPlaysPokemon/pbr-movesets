@@ -1,5 +1,5 @@
 species: Lunatone
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Moon Stone, Smooth Rock]
 ability: [Levitate]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Lunatone
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Moon Stone, Zap Plate, Meadow Plate]
 ability: [Levitate]
@@ -41,7 +41,7 @@ rarity: 1.0
 ball: [Premier]
 ---
 species: Lunatone
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Babiri Berry, Tanga Berry]
 ability: [Levitate]

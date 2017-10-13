@@ -1,0 +1,75 @@
+species: Masquerain
+setname: Physical
+ball: [Net]
+tags: [standard]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [U-Turn]
+    - [Aerial Ace]
+    - [Secret Power]
+    - [Agility]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Adamant
+evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+ivs: 31
+---
+species: Masquerain
+setname: Special
+ball: [Dive]
+tags: [standard]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Hydro Pump]
+    - [Haze]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Timid
+evs: 85
+ivs: 23
+---
+species: Masquerain
+setname: Beam
+ball: [Premier]
+tags: [standard]
+item: [Power Herb]
+ability: [Intimidate]
+moves:
+    - [Signal Beam]
+    - [Solar Beam]
+    - [Ice Beam]
+    - [Bubble Beam]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.15
+nature: Modest
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+ivs: 31
+---
+species: Masquerain
+setname: Airbender
+ball: [Cherish]
+tags: [standard]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Air Slash]
+    - [Silver Wind]
+    - [Ominous Wind]
+    - [Whirlwind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.15
+nature: Modest
+evs: {hp: 80, atk: 0, def: 0, spA: 120, spD: 0, spe: 140}
+ivs: {hp: 31, atk: 0, def: 10, spA: 31, spD: 10, spe: 31}

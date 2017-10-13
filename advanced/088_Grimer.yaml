@@ -1,5 +1,5 @@
 species: Grimer
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Sticky Hold]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Grimer
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sitrus Berry, Chesto Berry, Quick Claw]
 ability: [Sticky hold]

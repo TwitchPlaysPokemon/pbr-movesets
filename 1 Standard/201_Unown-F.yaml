@@ -1,0 +1,18 @@
+species: Unown
+setname: Find
+tags: [standard]
+item: [Nugget]
+ability: [Pickup]
+moves:
+    - [Future Sight]
+    - [Hidden Power]
+    - [Lock On]
+    - [Fissure]
+form: 5
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+nature: Calm
+ivs: {hp: 31, atk: 3, def: 30, spA: 31, spD: 30, spe: 30}
+evs: {hp: 172, atk: 0, def: 156, spA: 80, spD: 96, spe: 4}

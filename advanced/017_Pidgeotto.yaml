@@ -1,5 +1,5 @@
 species: Pidgeotto
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sharp Beak, Air Mail, Toxic Orb, Blackglasses, Wacan Berry]
 ability: [Keen Eye]
@@ -25,7 +25,7 @@ rarity: 1.4
 ball: [Great]
 ---
 species: Pidgeotto
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Nomel Berry, Figy Berry]
 ability: [Keen Eye, Tangled Feet]

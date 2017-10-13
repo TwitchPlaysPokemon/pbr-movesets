@@ -1,0 +1,94 @@
+species: Spinda
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Tangled Feet]
+moves:
+    - [Thrash]
+    - [Brick Break]
+    - [Sucker Punch]
+    - [Teeter Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poké]
+nature: Careful
+ivs: 31
+evs: {hp: 164, atk: 224, def: 0, spA: 0, spD: 0, spe: 120}
+---
+species: Spinda
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Body Slam]
+    - [Superpower]
+    - [Rock Slide]
+    - [Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Heal]
+nature: Serious
+ivs: 31
+evs: {hp: 128, atk: 252, def: 72, spA: 0, spD: 56, spe: 0}
+---
+species: Spinda
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Hyper Voice]
+    - [Psychic]
+    - [Shadow Ball]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 0, spA: 236, spD: 0, spe: 112}
+---
+species: Spinda
+setname: Trick Room
+tags: [standard]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Headbutt]
+    - [Zen Headbutt]
+    - [Thunder Punch]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Poké]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 20, atk: 252, def: 40, spA: 0, spD: 40, spe: 0}
+---
+species: Spinda
+setname: Confuse
+tags: [standard]
+item: [Null]
+ability: [Tangled Feet]
+moves:
+    - [Dizzy Punch]
+    - [Dynamic Punch]
+    - [Water Pulse]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Repeat]
+nature: Lonely
+ivs: 31
+evs: {hp: 76, atk: 164, def: 0, spA: 204, spD: 0, spe: 64}

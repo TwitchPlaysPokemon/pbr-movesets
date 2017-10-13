@@ -1,0 +1,19 @@
+species: Burmy
+setname: Plant
+tags: [standard]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Megahorn]
+    - [Wood Hammer]
+    - [Leech Seed]
+    - [Protect]
+gender: [m, f]
+form: Plant
+happiness: 255
+biddable: True
+rarity: 0.34
+ball: [Nest]
+nature: Careful
+evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
+ivs: 31

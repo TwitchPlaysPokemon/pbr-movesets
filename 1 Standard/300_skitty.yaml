@@ -1,0 +1,56 @@
+species: Skitty
+setname: Standard
+tags: [standard]
+item: [Sitrus Berry]
+ability: [Cute Charm]
+moves:
+    - [Fake Out]
+    - [Double Edge]
+    - [Blizzard]
+    - [Assist]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Adamant
+ivs: 31
+evs: {hp: 192, atk: 252, def: 36, spA: 0, spD: 28, spe: 0}
+---
+species: Skitty
+setname: Special
+tags: [standard]
+item: [Sitrus Berry]
+ability: [Cute Charm]
+moves:
+    - [Hyper Voice]
+    - [Blizzard]
+    - [Shadow Ball]
+    - [Charge Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 84, atk: 0, def: 8, spA: 252, spD: 20, spe: 144}
+---
+species: Skitty
+setname: Sleep
+tags: [standard]
+item: [Zoom Lens]
+ability: [Cute Charm]
+moves:
+    - [Double Edge]
+    - [Dream Eater]
+    - [Wake-Up Slap]
+    - [Sing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Luxury]
+nature: Relaxed
+ivs: 31
+evs: {hp: 60, atk: 0, def: 88, spA: 252, spD: 108, spe: 0}

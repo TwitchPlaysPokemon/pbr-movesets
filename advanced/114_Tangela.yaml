@@ -1,5 +1,5 @@
 species: Tangela
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silk Scarf, Coba Berry]
 ability: [Chlorophyll, Leaf Guard]
@@ -22,7 +22,7 @@ rarity: 0.8
 ball: [Nest]
 ---
 species: Tangela
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Null]
 ability: [Leaf Guard, Chlorophyll]
@@ -46,7 +46,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Tangela
-setname: Setup
+setname: a-Setup
 tags: [advanced]
 item: [Miracle Seed]
 ability: [Chlorophyll, Leaf Guard]

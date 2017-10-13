@@ -1,0 +1,113 @@
+species: Manectric
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunder Fang]
+    - [Body Slam]
+    - [Crunch]
+    - [Howl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Serious
+ivs: 31
+evs: {hp: 252, atk: 176, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Manectric
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Lightning Rod]
+moves:
+    - [Discharge]
+    - [Signal Beam]
+    - [Hidden Power]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Repeat]
+nature: Impish
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 68, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Manectric
+setname: Max Sp. Atk
+tags: [standard]
+item: [Null]
+ability: [Static]
+moves:
+    - [Shock Wave]
+    - [Swift]
+    - [Mud-Slap]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Cherish]
+nature: Quiet
+ivs: {hp: 15, atk: 15, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 8, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
+---
+species: Manectric
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Static]
+moves:
+    - [Charge Beam]
+    - [Overheat]
+    - [Giga Impact]
+    - [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: Adamant
+ivs: 10
+evs: {hp: 216, atk: 236, def: 4, spA: 0, spD: 0, spe: 0}
+---
+species: Manectric
+setname: Fang
+tags: [standard]
+item: [Null]
+ability: [Lightning Rod]
+moves:
+    - [Thunder Fang]
+    - [Ice Fang]
+    - [Fire Fang]
+    - [Bite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Great]
+nature: Adamant
+ivs: 31
+evs: {hp: 92, atk: 216, def: 0, spA: 0, spD: 0, spe: 120}
+---
+species: Manectric
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Intimidate]
+moves:
+    - [Discharge]
+    - [Flamethrower]
+    - [Hidden Power]
+    - [Charge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Careful
+ivs: {hp: 15, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 240}

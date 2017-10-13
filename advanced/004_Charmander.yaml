@@ -1,5 +1,5 @@
 species: Charmander
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Zoom Lens, Hard Stone, Persim Berry]
 ability: [Blaze]
@@ -17,7 +17,7 @@ combinations:
 gender: [m, f]
 ---
 species: Charmander
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Chesto Berry, Petaya Berry, Salac Berry, Hard Stone]
 ability: [Blaze]

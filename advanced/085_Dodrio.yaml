@@ -1,5 +1,5 @@
 species: Dodrio
-setname: Tangled Feet
+setname: a-Tangled Feet
 tags: [advanced]
 item: [null]
 ability: [Tangled Feet]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Dodrio
-setname: Run Away
+setname: a-Run Away
 tags: [advanced]
 item: [Rawst Berry, Power Herb, Durin Berry, Starf Berry]
 ability: [Run Away]
@@ -51,7 +51,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Dodrio
-setname: Swords Dance
+setname: a-Swords Dance
 tags: [advanced]
 item: [Wacan Berry]
 ability: [Early Bird]
@@ -70,7 +70,7 @@ ivs: 31
 evs: {hp: 104, atk: 100, def: 100, spA: 0, spD: 100, spe: 104}
 ---
 species: Dodrio
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sharp Beak]
 ability: [Early Bird]

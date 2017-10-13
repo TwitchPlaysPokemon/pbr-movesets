@@ -1,5 +1,5 @@
 species: Sealeo
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silverpowder, Magnet, Silk Scarf]
 ability: [Oblivious]
@@ -25,7 +25,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Sealeo
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Ganlon Berry, Pomeg Berry]
 ability: [Thick Fat]
@@ -47,7 +47,7 @@ ivs: 31
 evs: {hp: 72, atk: 80, def: 80, spA: 0, spD: 80, spe: 196}
 ---
 species: Sealeo
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Big Root]
 ability: [Ice Body]

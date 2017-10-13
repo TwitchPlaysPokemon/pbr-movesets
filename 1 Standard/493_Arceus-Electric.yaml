@@ -1,0 +1,53 @@
+species: Arceus
+setname: Electric Special
+tags: [standard]
+item: [Zap Plate]
+ability: [Multitype]
+moves:
+    - [Thunder Shock]
+    - [Bubble]
+    - [Charge]
+    - [Magnet Rise]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Quick]
+nature: Brave
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Electric Immobilise
+tags: [standard]
+item: [Zap Plate]
+ability: [Multitype]
+moves:
+    - [Astonish]
+    - [Mud-Slap]
+    - [Confuse Ray]
+    - [Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Premier]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 60, def: 0, spA: 60, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Electric Judgment
+tags: [standard]
+item: [Zap Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Fire Blast]
+    - [Energy Ball]
+    - [Thunder Wave]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

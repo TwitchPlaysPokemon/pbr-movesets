@@ -1,0 +1,37 @@
+species: Sunkern
+setname: Stall
+tags: [standard]
+item: [Big Root]
+ability: [Early Bird]
+moves:
+    - [Seed Bomb]
+    - [Leech Seed]
+    - [Spore]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 0, def: 136, spA: 0, spD: 120, spe: 252}
+---
+species: Sunkern
+setname: Endeavor
+tags: [standard]
+item: [Focus Sash]
+ability: [Chlorophyll]
+moves:
+    - [Energy Ball]
+    - [Vacuum Wave]
+    - [Endeavor]
+    - [Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}

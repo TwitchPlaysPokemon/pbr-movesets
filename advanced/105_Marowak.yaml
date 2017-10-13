@@ -1,5 +1,5 @@
 species: Marowak
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Poké Doll, Soft Sand, Rare Bone]
 ability: [Battle Armor, Rock Head]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Marowak
-setname: Thick Club
+setname: a-Thick Club
 tags: [advanced]
 item: [Thick Club]
 ability: [Battle Armor]

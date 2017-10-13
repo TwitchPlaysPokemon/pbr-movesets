@@ -1,5 +1,5 @@
 species: Sentret
-setname: Physical 
+setname: a-Physical 
 tags: [advanced]
 item: [Lagging Tail]
 ability: [Keen Eye]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
 ---
 species: Sentret
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Salac Berry]
 ability: [Keen Eye]

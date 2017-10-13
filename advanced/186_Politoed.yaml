@@ -1,5 +1,5 @@
 species: Politoed
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Blue Shard, Wave Incense, Sea Incense, Soft Sand]
 ability: [Damp, Water Absorb]
@@ -22,7 +22,7 @@ ivs: 0
 evs: {hp: 100, atk: 8, def: 100, spA: 100, spD: 100, spe: 100}
 ---
 species: Politoed
-setname: Physical
+setname: a-Physical
 ability: [Damp, Water Absorb]
 moves:
     - [Waterfall]
@@ -37,7 +37,7 @@ ivs: 0
 evs: {hp: 100, atk: 108, def: 100, spA: 16, spD: 100, spe: 20}
 ---
 species: Politoed
-setname: Trapper
+setname: a-Trapper
 tags: [advanced]
 item: [Grip Claw]
 ability: [Drizzle]

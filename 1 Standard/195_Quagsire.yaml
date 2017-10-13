@@ -1,0 +1,56 @@
+species: Quagsire
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Damp]
+moves:
+    - [Muddy Water]
+    - [Dig]
+    - [Rock Slide]
+    - [Amnesia]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 108, spD: 0, spe: 0}
+---
+species: Quagsire
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Unaware]
+moves:
+    - [Water Pulse]
+    - [Mud Shot]
+    - [Ice Beam]
+    - [Ancient Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Quagsire
+setname: Stall
+tags: [standard]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Dive]
+    - [Dig]
+    - [Swagger]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Calm
+ivs: 31
+evs: 0

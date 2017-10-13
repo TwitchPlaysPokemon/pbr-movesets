@@ -1,5 +1,5 @@
 species: Spiritomb
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Wiki Berry]
 ability: [Pressure]
@@ -18,7 +18,7 @@ ivs: 30
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Spiritomb
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Custap Berry, Splash Plate, Zap Plate, Icicle Plate]
 ability: [Pressure]
@@ -44,7 +44,7 @@ ivs: {hp: 3, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
 evs: {hp: 0, atk: 0, def: 152, spA: 0, spD: 152, spe: 0}
 ---
 species: Spiritomb
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Durin Berry, Watmel Berry, Belue Berry, Liechi Berry, Ganlon Berry, Salac Berry, Petaya Berry, Apicot Berry, Lansat Berry, Starf Berry, Enigma Berry, Jaboca Berry]
 ability: [Pressure]

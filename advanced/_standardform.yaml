@@ -1,6 +1,6 @@
 ingamename: SEEL-PH
 species: Seel
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Rawst Berry, Toxic Orb, Light Ball, NeverMelt-Ice]
 ability: [Thick Fat, Hydration]
@@ -30,7 +30,7 @@ ball: [Poké, Master]
 level: 100
 ---
 species: 
-setname: 
+setname: a-
 tags: [advanced]
 item: []
 ability: []

@@ -1,5 +1,5 @@
 species: Scyther
-setname: Physical Technician
+setname: a-Physical Technician
 tags: [advanced]
 item: [Silk Scarf, Black Glasses, Black Belt]
 ability: [Technician]
@@ -22,7 +22,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Scyther
-setname: Physical Swarm
+setname: a-Physical Swarm
 tags: [advanced]
 item: [Salac Berry]
 ability: [Swarm]
@@ -41,7 +41,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Scyther
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null, Silk Scarf]
 ability: [Swarm, Technician]

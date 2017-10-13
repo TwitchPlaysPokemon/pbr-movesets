@@ -1,5 +1,5 @@
 species: Clefable
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null, Meadow Plate, Zap Plate, Splash Plate]
 ability: [Cute Charm, Magic Guard]
@@ -22,7 +22,7 @@ rarity: 1.1
 ball: [Heal]
 ---
 species: Clefable
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Iron Plate]
 ability: [Cute Charm, Magic Guard]
@@ -41,7 +41,7 @@ rarity: 0.8
 ball: [Dusk]
 ---
 species: Clefable
-setname: Defensive
+setname: a-Defensive
 tags: [advanced]
 item: [Black Sludge, Toxic Orb, Life Orb, Flame Orb]
 ability: [Magic Guard]

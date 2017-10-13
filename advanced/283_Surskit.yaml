@@ -1,5 +1,5 @@
 species: Surskit
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Insect Plate, Mind Plate]
 ability: [Swift Swim]
@@ -21,7 +21,7 @@ ivs: 31
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ---
 species: Surskit
-setname: Rain Dish
+setname: a-Rain Dish
 tags: [advanced]
 item: [Leftovers]
 ability: [Rain Dish]
@@ -40,7 +40,7 @@ ivs: 31
 evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Surskit
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Insect Plate]
 ability: [Swift Swim]

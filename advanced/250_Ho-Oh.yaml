@@ -1,5 +1,5 @@
 species: Ho-Oh
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Bluk Berry]
 ability: [Pressure]
@@ -17,7 +17,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Ho-Oh
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Scope Lens, Sky Plate]
 ability: [Pressure]
@@ -35,7 +35,7 @@ ivs: {hp: 0, atk: 28, def: 1, spA: 28, spD: 3, spe: 0}
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Ho-Oh
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [Iron Ball]
 ability: [Pressure]

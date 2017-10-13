@@ -1,0 +1,56 @@
+species: Aron
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Iron Tail]
+    - [Ancient Power]
+    - [Earthquake]
+    - [Metal Burst]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poké]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 208, atk: 64, def: 0, spA: 200, spD: 36, spe: 0}
+---
+species: Aron
+setname: Rock Head
+tags: [standard]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Head Smash]
+    - [Iron Tail]
+    - [Double-Edge]
+    - [Endeavor]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 92, atk: 136, def: 0, spA: 0, spD: 28, spe: 252}
+---
+species: Aron
+setname: Flinch
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Iron Head]
+    - [Rock Slide]
+    - [Dragon Rush]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 136, atk: 124, def: 36, spA: 0, spD: 60, spe: 152}

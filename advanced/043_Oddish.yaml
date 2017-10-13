@@ -1,5 +1,5 @@
 species: Oddish
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Rowap Berry]
 ability: [Chlorophyll]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Oddish
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Miracle Seed]
 ability: [Chlorophyll]

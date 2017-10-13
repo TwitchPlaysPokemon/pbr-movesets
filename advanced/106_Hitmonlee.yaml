@@ -1,5 +1,5 @@
 species: Hitmonlee
-setname: Limber
+setname: a-Limber
 tags: [advanced]
 item: [Pecha Berry, Black Belt]
 ability: [Limber]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Hitmonlee
-setname: Unburden
+setname: a-Unburden
 tags: [advanced]
 item: [Poké Doll, Escape Rope, Tiny Mushroom, Lemonade, Rare Candy, Nugget, Smoke Ball, Damp Mulch, Burn Heal, Honey, Repel, Sacred Ash]
 ability: [Unburden]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Hitmonlee
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Null]
 ability: [Limber]

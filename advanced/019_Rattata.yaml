@@ -1,5 +1,5 @@
 species: Rattata
-setname: Hustle
+setname: a-Hustle
 tags: [advanced]
 item: [Wide Lens]
 ability: [Hustle]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Nest]
 ---
 species: Rattata
-setname: Guts
+setname: a-Guts
 tags: [advanced]
 item: [Flame Orb, Toxic Orb]
 ability: [Guts]

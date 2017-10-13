@@ -1,0 +1,53 @@
+species: Raikou
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Thunder Fang]
+    - [Aura Sphere]
+    - [Iron Head]
+    - [Leer]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Quick]
+nature: Adamant
+ivs: 0
+evs: {hp: 24, atk: 100, def: 0, spA: 0, spD: 0, spe: 44}
+---
+species: Raikou
+setname: Rain Dance
+tags: [standard]
+item: [Null]
+ability: [Volt Absorb]
+moves:
+    - [Discharge]
+    - [Weather Ball]
+    - [Signal Beam]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Safari]
+nature: Adamant
+ivs: 0
+evs: 0
+---
+species: Raikou
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Thunderbolt]
+    - [Extrasensory]
+    - [Hidden Power]
+    - [Magnet Rise]
+happiness: 255
+biddable: False
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: {hp: 2, atk: 3, def: 3, spA: 2, spD: 3, spe: 3}
+evs: 0

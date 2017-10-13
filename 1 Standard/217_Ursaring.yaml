@@ -1,0 +1,56 @@
+species: Ursaring
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Guts]
+moves:
+    - [Slash]
+    - [Cross Chop]
+    - [Shadow Claw]
+    - [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Premier]
+nature: Calm 
+ivs: 5
+evs: 84
+---
+species: Ursaring
+setname: Max Attack
+tags: [standard]
+item: [Null]
+ability: [Quick Feet]
+moves:
+    - [Scratch]
+    - [Lick]
+    - [Bulk Up]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 180}
+---
+species: Ursaring
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Quick Feet]
+moves:
+    - [Uproar]
+    - [Ice Punch]
+    - [Fire Punch]
+    - [Fake Tears]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Timer]
+nature: Modest
+ivs: {hp: 31, atk: 11, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 224, spD: 0, spe: 80}

@@ -1,5 +1,5 @@
 species: Golduck
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Micle Berry, Salac Berry, Liechi Berry, Petaya Berry]
 ability: [Cloud Nine, Damp]
@@ -25,7 +25,7 @@ rarity: 0.5
 ball: [Heal]
 ---
 species: Golduck
-setname: High Stats
+setname: a-High Stats
 tags: [advanced]
 item: [King's Rock, Persim Berry]
 ability: [Cloud Nine]

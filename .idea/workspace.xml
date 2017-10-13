@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35aea243-f6c5-43b6-800b-75b32edb8010" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/001_Bulbasaur.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/002_Ivysaur.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/003_Venusaur.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/004_Charmander.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/005_Charmeleon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/006_Charizard.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/007_Squirtle.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/008_Wartortle.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/009_Blastoise.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/010_Caterpie.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/011_Metapod.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/012_Butterfree.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/013_Weedle.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/014_Kakuna.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/015_Beedrill.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/016_Pidgey.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/017_Pidgeotto.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/018_Pidgeot.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/019_Rattata.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/020_Raticate.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/021_Spearow.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/022_Fearow.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/023_Ekans.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/024_Arbok.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/025_Pikachu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/026_Raichu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/027_Sandshrew.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/028_Sandslash.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/029_Nidoran-F.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/030_nidorina.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/031_Nidoqueen.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/032_Nidoran-M.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/033_Nidorino.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/034_Nidoking.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/035_clefairy.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/036_clefable.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/037_Vulpix.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/038_Ninetales.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/039_Jigglypuff.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/040_Wigglytuff.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/041_Zubat.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/042_Golbat.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/043_Oddish.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/044_Gloom.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/045_Vileplume.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/046_Paras.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/047_Parasect.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/048_Venonat.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/049_Venomoth.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/050_Diglett.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/051_Dugtrio.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/052_Meowth.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/053_Persian.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/054_Psyduck.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/055_Golduck.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/056_Mankey.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/057_Primeape.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/058_Growlithe.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/059_Arcanine.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/060_Poliwag.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/061_Poliwhirl.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/062_Poliwrath.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/063_Abra.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/064_Kadabra.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/065_Alakazam.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/066_Machop.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/067_Machoke.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/068_Machamp.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/069_Bellsprout.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/070_Weepinbell.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/071_Victreebel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/072_Tentacool.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/073_Tentacruel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/074_Geodude.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/075_Graveler.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/076_Golem.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/077_Ponyta.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/078_Rapidash.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/079_Slowpoke.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/080_Slowbro.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/081_Magnemite.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/082_Magneton.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/083_Farfetchd.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/084_Doduo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/085_Dodrio.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/086_Seel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/087_Dewgong.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/088_Grimer.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/089_Muk.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/090_Shellder.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/091_Cloyster.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/092_Gastly.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/093_Haunter.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/094_Gengar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/095_Onix.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/096_Drowzee.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/097_Hypno.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/098_Krabby.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/099_Kingler.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/100_Voltorb.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/101_Electrode.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/102_Exeggcute.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/103_Exeggutor.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/104_Cubone.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/105_Marowak.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/106_Hitmonlee.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/107_Hitmonchan.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/108_Lickitung.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/109_Koffing.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/110_Weezing.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/111_Rhyhorn.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/112_Rhydon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/113_Chansey.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/114_Tangela.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/115_Kangaskhan.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/116_Horsea.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/117_Seadra.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/118_Goldeen.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/119_Seaking.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/120_Staryu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/121_Starmie.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/122_MrMime.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/123_Scyther.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/124_Jynx.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/125_Electabuzz.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/126_Magmar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/127_Pinsir.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/128_Tauros.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/129_Magikarp.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/130_Gyarados.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/131_Lapras.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/132_Ditto.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/133_Eevee.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/134_Vaporeon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/135_Jolteon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/136_Flareon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/137_Porygon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/138_Omanyte.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/139_Omastar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/140_Kabuto.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/141_Kabutops.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/142_Aerodactyl.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/143_Snorlax.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/144_Articuno.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/145_Zapdos.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/146_Moltres.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/147_Dratini.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/148_Dragonair.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/149_Dragonite.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/150_Mewtwo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/151_Mew.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/152_Chikorita.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/153_Bayleef.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/154_Meganium.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/155_Cyndaquil.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/156_Quilava.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/157_Typhlosion.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/158_Totodile.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/159_Croconaw.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/160_Feraligatr.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/161_Sentret.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/162_Furret.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/163_Hoothoot.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/164_Noctowl.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/165_Ledyba.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/166_Ledian.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/167_Spinarak.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/168_Ariados.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/169_Crobat.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/170_Chinchou.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/171_Lanturn.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/172_Pichu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/173_Cleffa.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/174_Igglybuff.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/175_Togepi.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/176_Togetic.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/177_Natu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/178_Xatu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/179_Mareep.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/180_Flaaffy.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/181_Ampharos.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/182_Bellossom.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/183_Marill.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/184_Azumarill.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/185_Sudowoodo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/186_Politoed.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/187_Hoppip.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/188_Skiploom.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/189_Jumpluff.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/190_Aipom.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/191_Sunkern.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/192_Sunflora.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/193_Yanma.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/194_Wooper.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/195_Quagsire.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/196_Espeon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/197_Umbreon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/198_Murkrow.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/199_Slowking.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/200_Misdreavus.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-A.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-B.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-C.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-D.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-E.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-Exclamationmark.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-F.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-G.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-H.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-I.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-J.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-K.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-L.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-M.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-N.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-O.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-P.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-Q.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-Questionmark.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-R.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-S.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-T.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-U.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-V.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-W.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-X.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-Y.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/201_Unown-Z.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/202_Wobbuffet.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/203_Girafarig.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/204_Pineco.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/205_Forretress.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/206_Dunsparce.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/207_Gligar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/208_Steelix.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/209_Snubbull.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/210_Granbull.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/211_Qwilfish.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/212_Scizor.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/213_Shuckle.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/214_Heracross.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/215_Sneasel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/216_Teddiursa.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/217_Ursaring.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/218_Slugma.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/219_Magcargo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/220_Swinub.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/221_Piloswine.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/222_Corsola.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/223_Remoraid.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/224_Octillery.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/225_Delibird.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/226_Mantine.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/227_Skarmory.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/228_Houndour.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/229_Houndoom.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/230_Kingdra.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/231_Phanpy.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/232_Donphan.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/233_Porygon2.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/234_Stantler.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/235_Smeargle.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/236_Tyrogue.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/237_Hitmontop.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/238_Smoochum.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/239_Elekid.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/240_Magby.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/241_Miltank.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/242_Blissey.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/243_Raikou.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/244_Entei.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/245_Suicune.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/246_Larvitar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/247_Pupitar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/248_Tyranitar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/249_Lugia.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/250_Ho-Oh.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/251_Celebi.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/252_Treecko.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/253_Grovyle.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/254_Sceptile.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/255_Torchic.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/256_Combusken.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/257_Blaziken.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/258_Mudkip.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/259_Marshtomp.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/260_Swampert.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/261_Poochyena.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/262_Mightyena.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/263_Zigzagoon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/264_Linoone.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/265_Wurmple.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/266_Silcoon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/267_Beautifly.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/268_Cascoon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/269_Dustox.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/270_Lotad.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/271_Lombre.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/272_Ludicolo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/273_Seedot.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/274_Nuzleaf.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/275_Shiftry.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/276_Taillow.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/277_Swellow.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/278_Wingull.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/279_Pelipper.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/280_Ralts.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/281_Kirlia.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/282_Gardevoir.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/283_Surskit.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/284_Masquerain.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/285_Shroomish.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/286_Breloom.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/287_Slakoth.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/288_Vigoroth.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/289_Slaking.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/290_Nincada.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/291_Ninjask.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/292_Shedinja.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/293_Whismur.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/294_Loudred.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/295_Exploud.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/296_Makuhita.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/297_Hariyama.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/298_Azurill.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/299_Nosepass.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/300_skitty.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/301_Delcatty.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/302_Sableye.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/303_Mawile.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/304_Aron.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/305_Lairon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/306_Aggron.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/307_Meditite.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/308_Medicham.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/309_Electrike.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/310_Manectric.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/311_Plusle.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/312_Minun.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/313_Volbeat.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/314_Illumise.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/315_Roselia.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/316_Gulpin.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/317_Swalot.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/318_Carvanha.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/319_Sharpedo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/320_Wailmer.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/321_Wailord.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/322_Numel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/323_Camerupt.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/324_Torkoal.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/325_Spoink.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/326_Grumpig.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/327_Spinda.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/328_Trapinch.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/329_Vibrava.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/330_Flygon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/331_Cacnea.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/332_Cacturne.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/333_Swablu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/334_Altaria.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/335_Zangoose.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/336_Seviper.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/337_Lunatone.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/338_Solrock.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/339_Barboach.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/340_Whiscash.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/341_Corphish.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/342_Crawdaunt.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/343_Baltoy.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/344_Claydol.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/345_Lileep.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/346_Cradily.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/347_Anorith.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/348_Armaldo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/349_Feebas.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/350_Milotic.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/351_Castform.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/352_Kecleon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/353_Shuppet.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/354_Banette.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/355_Duskull.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/356_Dusclops.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/357_Tropius.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/358_Chimecho.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/359_Absol.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/360_Wynaut.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/361_Snorunt.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/362_Glalie.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/363_Spheal.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/364_Sealeo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/365_Walrein.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/366_Clamperl.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/367_Huntail.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/368_Gorebyss.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/369_Relicanth.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/370_Luvdisc.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/371_Bagon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/372_Shelgon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/373_Salamence.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/374_Beldum.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/375_Metang.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/376_Metagross.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/377_Regirock.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/378_Regice.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/379_Registeel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/380_Latias.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/381_Latios.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/382_Kyogre.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/383_Groudon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/384_Rayquaza.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/385_Jirachi.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/386_Deoxys_Attack.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/386_Deoxys_Defense.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/386_Deoxys_Normal.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/386_Deoxys_Speed.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/387_Turtwig.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/388_Grotle.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/389_Torterra.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/390_Chimchar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/391_Monferno.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/392_Infernape.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/393_Piplup.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/394_Prinplup.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/395_Empoleon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/396_Starly.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/397_Staravia.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/398_Staraptor.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/399_Bidoof.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/400_Bibarel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/401_Kricketot.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/402_Kricketune.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/403_Shinx.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/404_Luxio.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/405_Luxray.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/406_Budew.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/407_Roserade.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/408_Cranidos.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/409_Rampardos.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/410_Shieldon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/411_Bastiodon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/412_Burmy-Plant.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/412_Burmy-Sandy.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/412_Burmy-Trash.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/413_Wormadam-Plant.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/413_Wormadam-Sandy.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/413_Wormadam-Trash.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/414_Mothim.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/415_Combee.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/416_Vespiquen.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/417_Pachirisu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/418_Buizel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/419_Floatzel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/420_Cherubi.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/421_Cherrim.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/422_Shellos-East.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/422_Shellos-West.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/423_Gastrodon-East.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/423_Gastrodon-West.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/424_Ambipom.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/425_Drifloon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/426_Drifblim.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/427_Buneary.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/428_Lopunny.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/429_Mismagius.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/430_Honchkrow.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/431_Glameow.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/432_Purugly.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/433_Chingling.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/434_Stunky.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/435_Skuntank.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/436_Bronzor.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/437_Bronzong.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/438_Bonsly.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/439_MimeJr.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/440_Happiny.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/441_Chatot.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/442_Spiritomb.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/443_Gible.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/444_Gabite.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/445_Garchomp.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/446_Munchlax.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/447_Riolu.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/448_Lucario.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/449_Hippopotas.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/450_Hippowdon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/451_Skorupi.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/452_Drapion.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/453_Croagunk.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/454_Toxicroak.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/455_Carnivine.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/456_Finneon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/457_Lumineon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/458_Mantyke.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/459_Snover.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/460_Abomasnow.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/461_Weavile.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/462_Magnezone.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/463_Lickilicky.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/464_Rhyperior.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/465_Tangrowth.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/466_Electivire.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/467_Magmortar.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/468_Togekiss.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/469_Yanmega.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/470_Leafeon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/471_Glaceon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/472_Gliscor.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/473_Mamoswine.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/474_Porygon-Z.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/475_Gallade.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/476_Probopass.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/477_Dusknoir.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/478_Froslass.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/479_Rotom.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/480_Uxie.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/481_Mesprit.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/482_Azelf.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/483_Dialga.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/484_Palkia.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/485_Heatran.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/486_Regigigas.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/487_Giratina.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/488_Cresselia.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/489_Phione.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/490_Manaphy.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/491_Darkrai.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/492_Shaymin.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Bug.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Dark.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Dragon.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Electric.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Fighting.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Fire.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Flying.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Ghost.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Grass.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Ground.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Ice.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Normal.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Poison.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Psychic.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Rock.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Steel.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/493_Arceus-Water.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 Standard/_standardform.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stadium 2/150_Mewtwo.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stadium 2/249_Lugia.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stadium 2/250_Ho-Oh.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/012_Butterfree.yaml" afterPath="$PROJECT_DIR$/Shiny/012_Butterfree.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/019_Rattata.yaml" afterPath="$PROJECT_DIR$/Shiny/019_Rattata.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/026_Raichu.yaml" afterPath="$PROJECT_DIR$/Shiny/026_Raichu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/035_Clefairy.yaml" afterPath="$PROJECT_DIR$/Shiny/035_Clefairy.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/038_Ninetales.yaml" afterPath="$PROJECT_DIR$/Shiny/038_Ninetales.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/042_Golbat.yaml" afterPath="$PROJECT_DIR$/Shiny/042_Golbat.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/051_Dugtrio.yaml" afterPath="$PROJECT_DIR$/Shiny/051_Dugtrio.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/052_Meowth.yaml" afterPath="$PROJECT_DIR$/Shiny/052_Meowth.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/058_Growlithe.yaml" afterPath="$PROJECT_DIR$/Shiny/058_Growlithe.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/067_Machoke.yaml" afterPath="$PROJECT_DIR$/Shiny/067_Machoke.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/092_Gastly.yaml" afterPath="$PROJECT_DIR$/Shiny/092_Gastly.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/100_Voltorb.yaml" afterPath="$PROJECT_DIR$/Shiny/100_Voltorb.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/102_Exeggcute.yaml" afterPath="$PROJECT_DIR$/Shiny/102_Exeggcute.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/103_Exeggutor.yaml" afterPath="$PROJECT_DIR$/Shiny/103_Exeggutor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/113_Chansey.yaml" afterPath="$PROJECT_DIR$/Shiny/113_Chansey.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/129_Magikarp.yaml" afterPath="$PROJECT_DIR$/Shiny/129_Magikarp.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/131_Lapras.yaml" afterPath="$PROJECT_DIR$/Shiny/131_Lapras.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/132_Ditto.yaml" afterPath="$PROJECT_DIR$/Shiny/132_Ditto.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/133_Eevee.yaml" afterPath="$PROJECT_DIR$/Shiny/133_Eevee.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/139_Omastar.yaml" afterPath="$PROJECT_DIR$/Shiny/139_Omastar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/142_Aerodactyl.yaml" afterPath="$PROJECT_DIR$/Shiny/142_Aerodactyl.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/146_Moltres.yaml" afterPath="$PROJECT_DIR$/Shiny/146_Moltres.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/147_Dratini.yaml" afterPath="$PROJECT_DIR$/Shiny/147_Dratini.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/151_Mew.yaml" afterPath="$PROJECT_DIR$/Shiny/151_Mew.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/155_Cyndaquil.yaml" afterPath="$PROJECT_DIR$/Shiny/155_Cyndaquil.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/166_Ledian.yaml" afterPath="$PROJECT_DIR$/Shiny/166_Ledian.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/174_Igglybuff.yaml" afterPath="$PROJECT_DIR$/Shiny/174_Igglybuff.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/179_Mareep.yaml" afterPath="$PROJECT_DIR$/Shiny/179_Mareep.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/185_Sudowoodo.yaml" afterPath="$PROJECT_DIR$/Shiny/185_Sudowoodo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/188_Skiploom.yaml" afterPath="$PROJECT_DIR$/Shiny/188_Skiploom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/192_Sunflora.yaml" afterPath="$PROJECT_DIR$/Shiny/192_Sunflora.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/200_Misdreavus.yaml" afterPath="$PROJECT_DIR$/Shiny/200_Misdreavus.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/203_Girafarig.yaml" afterPath="$PROJECT_DIR$/Shiny/203_Girafarig.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/208_Steelix.yaml" afterPath="$PROJECT_DIR$/Shiny/208_Steelix.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/211_Piloswine.yaml" afterPath="$PROJECT_DIR$/Shiny/211_Piloswine.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/212_Scizor.yaml" afterPath="$PROJECT_DIR$/Shiny/212_Scizor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/213_Shuckle.yaml" afterPath="$PROJECT_DIR$/Shiny/213_Shuckle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/215_Sneasel.yaml" afterPath="$PROJECT_DIR$/Shiny/215_Sneasel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/216_Teddiursa.yaml" afterPath="$PROJECT_DIR$/Shiny/216_Teddiursa.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/219_Magcargo.yaml" afterPath="$PROJECT_DIR$/Shiny/219_Magcargo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/223_Remoraid.yaml" afterPath="$PROJECT_DIR$/Shiny/223_Remoraid.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/242_Blissey.yaml" afterPath="$PROJECT_DIR$/Shiny/242_Blissey.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/244_Entei.yaml" afterPath="$PROJECT_DIR$/Shiny/244_Entei.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/251_Celebi.yaml" afterPath="$PROJECT_DIR$/Shiny/251_Celebi.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/260_Swampert.yaml" afterPath="$PROJECT_DIR$/Shiny/260_Swampert.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/263_Zigzagoon.yaml" afterPath="$PROJECT_DIR$/Shiny/263_Zigzagoon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/282_Gardevoir.yaml" afterPath="$PROJECT_DIR$/Shiny/282_Gardevoir.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/286_Breloom.yaml" afterPath="$PROJECT_DIR$/Shiny/286_Breloom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/292_Shedinja.yaml" afterPath="$PROJECT_DIR$/Shiny/292_Shedinja.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/299_Nosepass.yaml" afterPath="$PROJECT_DIR$/Shiny/299_Nosepass.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/311_Plusle.yaml" afterPath="$PROJECT_DIR$/Shiny/311_Plusle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/312_Minun.yaml" afterPath="$PROJECT_DIR$/Shiny/312_Minun.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/320_Wailmer.yaml" afterPath="$PROJECT_DIR$/Shiny/320_Wailmer.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/323_Camerupt.yaml" afterPath="$PROJECT_DIR$/Shiny/323_Camerupt.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/328_Trapinch.yaml" afterPath="$PROJECT_DIR$/Shiny/328_Trapinch.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/330_Flygon.yaml" afterPath="$PROJECT_DIR$/Shiny/330_Flygon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/334_Altaria.yaml" afterPath="$PROJECT_DIR$/Shiny/334_Altaria.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/344_Claydol.yaml" afterPath="$PROJECT_DIR$/Shiny/344_Claydol.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/34_Nidoking.yaml" afterPath="$PROJECT_DIR$/Shiny/34_Nidoking.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/351_Castform.yaml" afterPath="$PROJECT_DIR$/Shiny/351_Castform.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/359_Absol.yaml" afterPath="$PROJECT_DIR$/Shiny/359_Absol.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/376_Metagross.yaml" afterPath="$PROJECT_DIR$/Shiny/376_Metagross.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/380_Latias.yaml" afterPath="$PROJECT_DIR$/Shiny/380_Latias.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/382_Kyogre.yaml" afterPath="$PROJECT_DIR$/Shiny/382_Kyogre.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/383_Groudon.yaml" afterPath="$PROJECT_DIR$/Shiny/383_Groudon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/384_Rayquaza.yaml" afterPath="$PROJECT_DIR$/Shiny/384_Rayquaza.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/386_Deoxys_Attack.yaml" afterPath="$PROJECT_DIR$/Shiny/386_Deoxys_Attack.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/395_Empoleon.yaml" afterPath="$PROJECT_DIR$/Shiny/395_Empoleon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/398_Staraptor.yaml" afterPath="$PROJECT_DIR$/Shiny/398_Staraptor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/402_Kricketune.yaml" afterPath="$PROJECT_DIR$/Shiny/402_Kricketune.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/413_Wormadam_trash.yaml" afterPath="$PROJECT_DIR$/Shiny/413_Wormadam_trash.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/426_Driflblim.yml" afterPath="$PROJECT_DIR$/Shiny/426_Driflblim.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/441_Chatot.yaml" afterPath="$PROJECT_DIR$/Shiny/441_Chatot.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/472_Gliscor.yaml" afterPath="$PROJECT_DIR$/Shiny/472_Gliscor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/477_Dusknoir.yaml" afterPath="$PROJECT_DIR$/Shiny/477_Dusknoir.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/479_Rotom.yaml" afterPath="$PROJECT_DIR$/Shiny/479_Rotom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/486_regigigas.yaml" afterPath="$PROJECT_DIR$/Shiny/486_regigigas.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/487_Giratina.yaml" afterPath="$PROJECT_DIR$/Shiny/487_Giratina.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/491_Darkrai.yaml" afterPath="$PROJECT_DIR$/Shiny/491_Darkrai.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/493_Arceus.yaml" afterPath="$PROJECT_DIR$/Shiny/493_Arceus.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shiny/_shinyform.yaml" afterPath="$PROJECT_DIR$/Shiny/_shinyform.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Token/KAPOW.yaml" afterPath="$PROJECT_DIR$/Token/KAPOW.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Token/Metronome.yaml" afterPath="$PROJECT_DIR$/Token/Metronome.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Token/OHKO.yaml" afterPath="$PROJECT_DIR$/Token/OHKO.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/001_Bulbasaur.yaml" afterPath="$PROJECT_DIR$/advanced/001_Bulbasaur.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/002_Ivysaur.yaml" afterPath="$PROJECT_DIR$/advanced/002_Ivysaur.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/003_Venusaur.yaml" afterPath="$PROJECT_DIR$/advanced/003_Venusaur.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/004_Charmander.yaml" afterPath="$PROJECT_DIR$/advanced/004_Charmander.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/005_Charmeleon.yaml" afterPath="$PROJECT_DIR$/advanced/005_Charmeleon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/006_Charizard.yaml" afterPath="$PROJECT_DIR$/advanced/006_Charizard.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/007_Squirtle.yaml" afterPath="$PROJECT_DIR$/advanced/007_Squirtle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/008_Wartortle.yaml" afterPath="$PROJECT_DIR$/advanced/008_Wartortle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/009_Blastoise.yaml" afterPath="$PROJECT_DIR$/advanced/009_Blastoise.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/010_Caterpie.yaml" afterPath="$PROJECT_DIR$/advanced/010_Caterpie.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/011_Metapod.yaml" afterPath="$PROJECT_DIR$/advanced/011_Metapod.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/012_Butterfree.yaml" afterPath="$PROJECT_DIR$/advanced/012_Butterfree.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/013_Weedle.yaml" afterPath="$PROJECT_DIR$/advanced/013_Weedle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/014_Kakuna.yaml" afterPath="$PROJECT_DIR$/advanced/014_Kakuna.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/015_Beedrill.yaml" afterPath="$PROJECT_DIR$/advanced/015_Beedrill.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/016_Pidgey.yaml" afterPath="$PROJECT_DIR$/advanced/016_Pidgey.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/017_Pidgeotto.yaml" afterPath="$PROJECT_DIR$/advanced/017_Pidgeotto.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/018_Pidgeot.yaml" afterPath="$PROJECT_DIR$/advanced/018_Pidgeot.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/019_Rattata.yaml" afterPath="$PROJECT_DIR$/advanced/019_Rattata.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/020_Raticate.yaml" afterPath="$PROJECT_DIR$/advanced/020_Raticate.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/021_Spearow.yaml" afterPath="$PROJECT_DIR$/advanced/021_Spearow.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/022_Fearow.yaml" afterPath="$PROJECT_DIR$/advanced/022_Fearow.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/023_Ekans.yaml" afterPath="$PROJECT_DIR$/advanced/023_Ekans.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/024_Arbok.yaml" afterPath="$PROJECT_DIR$/advanced/024_Arbok.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/025_Pikachu.yaml" afterPath="$PROJECT_DIR$/advanced/025_Pikachu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/026_Raichu.yaml" afterPath="$PROJECT_DIR$/advanced/026_Raichu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/027_Sandshrew.yaml" afterPath="$PROJECT_DIR$/advanced/027_Sandshrew.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/028_Sandslash.yaml" afterPath="$PROJECT_DIR$/advanced/028_Sandslash.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/029_Nidoran-F.yaml" afterPath="$PROJECT_DIR$/advanced/029_Nidoran-F.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/030_Nidorina.yaml" afterPath="$PROJECT_DIR$/advanced/030_Nidorina.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/031_Nidoqueen.yaml" afterPath="$PROJECT_DIR$/advanced/031_Nidoqueen.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/032_Nidoran-M.yaml" afterPath="$PROJECT_DIR$/advanced/032_Nidoran-M.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/033_Nidorino.yaml" afterPath="$PROJECT_DIR$/advanced/033_Nidorino.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/034_Nidoking.yaml" afterPath="$PROJECT_DIR$/advanced/034_Nidoking.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/035_Clefairy.yaml" afterPath="$PROJECT_DIR$/advanced/035_Clefairy.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/036_Clefable.yaml" afterPath="$PROJECT_DIR$/advanced/036_Clefable.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/037_Vulpix.yaml" afterPath="$PROJECT_DIR$/advanced/037_Vulpix.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/038_Ninetales.yaml" afterPath="$PROJECT_DIR$/advanced/038_Ninetales.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/039_Jigglypuff.yaml" afterPath="$PROJECT_DIR$/advanced/039_Jigglypuff.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/040_Wigglytuff.yaml" afterPath="$PROJECT_DIR$/advanced/040_Wigglytuff.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/041_Zubat.yaml" afterPath="$PROJECT_DIR$/advanced/041_Zubat.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/042_Golbat.yaml" afterPath="$PROJECT_DIR$/advanced/042_Golbat.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/043_Oddish.yaml" afterPath="$PROJECT_DIR$/advanced/043_Oddish.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/044_Gloom.yaml" afterPath="$PROJECT_DIR$/advanced/044_Gloom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/045_Vileplume.yaml" afterPath="$PROJECT_DIR$/advanced/045_Vileplume.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/046_Paras.yaml" afterPath="$PROJECT_DIR$/advanced/046_Paras.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/047_Parasect.yaml" afterPath="$PROJECT_DIR$/advanced/047_Parasect.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/048_Venonat.yaml" afterPath="$PROJECT_DIR$/advanced/048_Venonat.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/049_Venomoth.yaml" afterPath="$PROJECT_DIR$/advanced/049_Venomoth.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/050_Diglett.yaml" afterPath="$PROJECT_DIR$/advanced/050_Diglett.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/051_Dugtrio.yaml" afterPath="$PROJECT_DIR$/advanced/051_Dugtrio.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/052_Meowth.yaml" afterPath="$PROJECT_DIR$/advanced/052_Meowth.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/053_Persian.yaml" afterPath="$PROJECT_DIR$/advanced/053_Persian.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/054_Psyduck.yaml" afterPath="$PROJECT_DIR$/advanced/054_Psyduck.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/055_Golduck.yaml" afterPath="$PROJECT_DIR$/advanced/055_Golduck.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/056_Mankey.yaml" afterPath="$PROJECT_DIR$/advanced/056_Mankey.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/057_Primeape.yaml" afterPath="$PROJECT_DIR$/advanced/057_Primeape.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/058_Growlithe.yaml" afterPath="$PROJECT_DIR$/advanced/058_Growlithe.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/059_Arcanine.yaml" afterPath="$PROJECT_DIR$/advanced/059_Arcanine.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/060_Poliwag.yaml" afterPath="$PROJECT_DIR$/advanced/060_Poliwag.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/061_Poliwhirl.yaml" afterPath="$PROJECT_DIR$/advanced/061_Poliwhirl.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/062_Poliwrath.yaml" afterPath="$PROJECT_DIR$/advanced/062_Poliwrath.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/063_Abra.yaml" afterPath="$PROJECT_DIR$/advanced/063_Abra.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/064_Kadabra.yaml" afterPath="$PROJECT_DIR$/advanced/064_Kadabra.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/065_Alakazam.yaml" afterPath="$PROJECT_DIR$/advanced/065_Alakazam.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/066_Machop.yaml" afterPath="$PROJECT_DIR$/advanced/066_Machop.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/067_Machoke.yaml" afterPath="$PROJECT_DIR$/advanced/067_Machoke.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/068_Machamp.yaml" afterPath="$PROJECT_DIR$/advanced/068_Machamp.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/069_Bellsprout.yaml" afterPath="$PROJECT_DIR$/advanced/069_Bellsprout.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/070_Weepinbell.yaml" afterPath="$PROJECT_DIR$/advanced/070_Weepinbell.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/071_Victreebel.yaml" afterPath="$PROJECT_DIR$/advanced/071_Victreebel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/072_Tentacool.yaml" afterPath="$PROJECT_DIR$/advanced/072_Tentacool.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/073_Tentacruel.yaml" afterPath="$PROJECT_DIR$/advanced/073_Tentacruel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/074_Geodude.yaml" afterPath="$PROJECT_DIR$/advanced/074_Geodude.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/075_Graveler.yaml" afterPath="$PROJECT_DIR$/advanced/075_Graveler.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/076_Golem.yaml" afterPath="$PROJECT_DIR$/advanced/076_Golem.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/077_Ponyta.yaml" afterPath="$PROJECT_DIR$/advanced/077_Ponyta.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/078_Rapidash.yaml" afterPath="$PROJECT_DIR$/advanced/078_Rapidash.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/079_Slowpoke.yaml" afterPath="$PROJECT_DIR$/advanced/079_Slowpoke.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/080_Slowbro.yaml" afterPath="$PROJECT_DIR$/advanced/080_Slowbro.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/081_Magnemite.yaml" afterPath="$PROJECT_DIR$/advanced/081_Magnemite.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/082_Magneton.yaml" afterPath="$PROJECT_DIR$/advanced/082_Magneton.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/083_Farfetchd.yaml" afterPath="$PROJECT_DIR$/advanced/083_Farfetchd.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/084_Doduo.yaml" afterPath="$PROJECT_DIR$/advanced/084_Doduo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/085_Dodrio.yaml" afterPath="$PROJECT_DIR$/advanced/085_Dodrio.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/086_Seel.yaml" afterPath="$PROJECT_DIR$/advanced/086_Seel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/087_Dewgong.yaml" afterPath="$PROJECT_DIR$/advanced/087_Dewgong.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/088_Grimer.yaml" afterPath="$PROJECT_DIR$/advanced/088_Grimer.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/089_Muk.yaml" afterPath="$PROJECT_DIR$/advanced/089_Muk.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/090_Shellder.yaml" afterPath="$PROJECT_DIR$/advanced/090_Shellder.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/091_Cloyster.yaml" afterPath="$PROJECT_DIR$/advanced/091_Cloyster.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/092_Gastly.yaml" afterPath="$PROJECT_DIR$/advanced/092_Gastly.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/093_Haunter.yaml" afterPath="$PROJECT_DIR$/advanced/093_Haunter.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/094_Gengar.yaml" afterPath="$PROJECT_DIR$/advanced/094_Gengar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/095_Onix.yaml" afterPath="$PROJECT_DIR$/advanced/095_Onix.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/096_Drowzee.yaml" afterPath="$PROJECT_DIR$/advanced/096_Drowzee.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/097_Hypno.yaml" afterPath="$PROJECT_DIR$/advanced/097_Hypno.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/098_Krabby.yaml" afterPath="$PROJECT_DIR$/advanced/098_Krabby.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/099_Kingler.yaml" afterPath="$PROJECT_DIR$/advanced/099_Kingler.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/100_Voltorb.yaml" afterPath="$PROJECT_DIR$/advanced/100_Voltorb.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/101_Electrode.yaml" afterPath="$PROJECT_DIR$/advanced/101_Electrode.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/102_Exeggcute.yaml" afterPath="$PROJECT_DIR$/advanced/102_Exeggcute.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/103_Exeggutor.yaml" afterPath="$PROJECT_DIR$/advanced/103_Exeggutor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/104_Cubone.yaml" afterPath="$PROJECT_DIR$/advanced/104_Cubone.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/105_Marowak.yaml" afterPath="$PROJECT_DIR$/advanced/105_Marowak.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/106_Hitmonlee.yaml" afterPath="$PROJECT_DIR$/advanced/106_Hitmonlee.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/107_Hitmonchan.yaml" afterPath="$PROJECT_DIR$/advanced/107_Hitmonchan.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/108_Lickitung.yaml" afterPath="$PROJECT_DIR$/advanced/108_Lickitung.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/109_Koffing.yaml" afterPath="$PROJECT_DIR$/advanced/109_Koffing.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/110_Weezing.yaml" afterPath="$PROJECT_DIR$/advanced/110_Weezing.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/111_Rhyhorn.yaml" afterPath="$PROJECT_DIR$/advanced/111_Rhyhorn.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/112_Rhydon.yaml" afterPath="$PROJECT_DIR$/advanced/112_Rhydon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/113_Chansey.yaml" afterPath="$PROJECT_DIR$/advanced/113_Chansey.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/114_Tangela.yaml" afterPath="$PROJECT_DIR$/advanced/114_Tangela.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/115_Kangaskhan.yaml" afterPath="$PROJECT_DIR$/advanced/115_Kangaskhan.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/116_Horsea.yaml" afterPath="$PROJECT_DIR$/advanced/116_Horsea.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/117_Seadra.yaml" afterPath="$PROJECT_DIR$/advanced/117_Seadra.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/118_Goldeen.yaml" afterPath="$PROJECT_DIR$/advanced/118_Goldeen.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/119_Seaking.yaml" afterPath="$PROJECT_DIR$/advanced/119_Seaking.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/120_Staryu.yaml" afterPath="$PROJECT_DIR$/advanced/120_Staryu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/121_Starmie.yaml" afterPath="$PROJECT_DIR$/advanced/121_Starmie.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/122_Mr.Mime.yaml" afterPath="$PROJECT_DIR$/advanced/122_Mr.Mime.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/123_Scyther.yaml" afterPath="$PROJECT_DIR$/advanced/123_Scyther.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/124_Jynx.yaml" afterPath="$PROJECT_DIR$/advanced/124_Jynx.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/125_Electabuzz.yaml" afterPath="$PROJECT_DIR$/advanced/125_Electabuzz.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/126_Magmar.yaml" afterPath="$PROJECT_DIR$/advanced/126_Magmar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/127_Pinsir.yaml" afterPath="$PROJECT_DIR$/advanced/127_Pinsir.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/128_Tauros.yaml" afterPath="$PROJECT_DIR$/advanced/128_Tauros.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/129_Magikarp.yaml" afterPath="$PROJECT_DIR$/advanced/129_Magikarp.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/130_Gyarados.yaml" afterPath="$PROJECT_DIR$/advanced/130_Gyarados.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/131_Lapras.yaml" afterPath="$PROJECT_DIR$/advanced/131_Lapras.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/132_Ditto.yaml" afterPath="$PROJECT_DIR$/advanced/132_Ditto.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/133_Eevee.yaml" afterPath="$PROJECT_DIR$/advanced/133_Eevee.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/134_Vaporeon.yaml" afterPath="$PROJECT_DIR$/advanced/134_Vaporeon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/135_Jolteon.yaml" afterPath="$PROJECT_DIR$/advanced/135_Jolteon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/136_Flareon.yaml" afterPath="$PROJECT_DIR$/advanced/136_Flareon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/137_Porygon.yaml" afterPath="$PROJECT_DIR$/advanced/137_Porygon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/138_Omanyte.yaml" afterPath="$PROJECT_DIR$/advanced/138_Omanyte.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/139_Omastar.yaml" afterPath="$PROJECT_DIR$/advanced/139_Omastar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/140_Kabuto.yaml" afterPath="$PROJECT_DIR$/advanced/140_Kabuto.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/141_Kabutops.yaml" afterPath="$PROJECT_DIR$/advanced/141_Kabutops.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/142_Aerodactyl.yaml" afterPath="$PROJECT_DIR$/advanced/142_Aerodactyl.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/143_Snorlax.yaml" afterPath="$PROJECT_DIR$/advanced/143_Snorlax.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/144_Articuno.yaml" afterPath="$PROJECT_DIR$/advanced/144_Articuno.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/145_Zapdos.yaml" afterPath="$PROJECT_DIR$/advanced/145_Zapdos.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/146_Moltres.yaml" afterPath="$PROJECT_DIR$/advanced/146_Moltres.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/147_Dratini.yaml" afterPath="$PROJECT_DIR$/advanced/147_Dratini.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/148_Dragonair.yaml" afterPath="$PROJECT_DIR$/advanced/148_Dragonair.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/149_Dragonite.yaml" afterPath="$PROJECT_DIR$/advanced/149_Dragonite.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/150_Mewtwo.yaml" afterPath="$PROJECT_DIR$/advanced/150_Mewtwo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/151_Mew.yaml" afterPath="$PROJECT_DIR$/advanced/151_Mew.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/152_Chikorita.yaml" afterPath="$PROJECT_DIR$/advanced/152_Chikorita.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/153_Bayleef.yaml" afterPath="$PROJECT_DIR$/advanced/153_Bayleef.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/154_Meganium.yaml" afterPath="$PROJECT_DIR$/advanced/154_Meganium.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/155_Cyndaquil.yaml" afterPath="$PROJECT_DIR$/advanced/155_Cyndaquil.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/156_Quilava.yaml" afterPath="$PROJECT_DIR$/advanced/156_Quilava.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/157_Typhlosion.yaml" afterPath="$PROJECT_DIR$/advanced/157_Typhlosion.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/158_Totodile.yaml" afterPath="$PROJECT_DIR$/advanced/158_Totodile.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/159_Croconaw.yaml" afterPath="$PROJECT_DIR$/advanced/159_Croconaw.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/160_Feraligatr.yaml" afterPath="$PROJECT_DIR$/advanced/160_Feraligatr.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/161_Sentret.yaml" afterPath="$PROJECT_DIR$/advanced/161_Sentret.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/162_Furret.yaml" afterPath="$PROJECT_DIR$/advanced/162_Furret.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/163_Hoothoot.yaml" afterPath="$PROJECT_DIR$/advanced/163_Hoothoot.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/164_Noctowl.yaml" afterPath="$PROJECT_DIR$/advanced/164_Noctowl.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/165_Ledyba.yaml" afterPath="$PROJECT_DIR$/advanced/165_Ledyba.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/166_Ledian.yaml" afterPath="$PROJECT_DIR$/advanced/166_Ledian.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/167_Spinarak.yaml" afterPath="$PROJECT_DIR$/advanced/167_Spinarak.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/168_Ariados.yaml" afterPath="$PROJECT_DIR$/advanced/168_Ariados.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/170_Chinchou.yaml" afterPath="$PROJECT_DIR$/advanced/170_Chinchou.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/171_Lanturn.yaml" afterPath="$PROJECT_DIR$/advanced/171_Lanturn.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/172_Pichu.yaml" afterPath="$PROJECT_DIR$/advanced/172_Pichu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/173_Cleffa.yaml" afterPath="$PROJECT_DIR$/advanced/173_Cleffa.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/174_Igglybuff.yaml" afterPath="$PROJECT_DIR$/advanced/174_Igglybuff.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/175_Togepi.yaml" afterPath="$PROJECT_DIR$/advanced/175_Togepi.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/176_Togetic.yaml" afterPath="$PROJECT_DIR$/advanced/176_Togetic.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/177_Natu.yaml" afterPath="$PROJECT_DIR$/advanced/177_Natu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/178_Xatu.yaml" afterPath="$PROJECT_DIR$/advanced/178_Xatu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/179_Mareep.yaml" afterPath="$PROJECT_DIR$/advanced/179_Mareep.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/180_Flaaffy.yaml" afterPath="$PROJECT_DIR$/advanced/180_Flaaffy.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/181_Ampharos.yaml" afterPath="$PROJECT_DIR$/advanced/181_Ampharos.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/182_Bellossom.yaml" afterPath="$PROJECT_DIR$/advanced/182_Bellossom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/183_Marill.yaml" afterPath="$PROJECT_DIR$/advanced/183_Marill.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/184_Azumarill.yaml" afterPath="$PROJECT_DIR$/advanced/184_Azumarill.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/185_Sudowoodo.yaml" afterPath="$PROJECT_DIR$/advanced/185_Sudowoodo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/186_Politoed.yaml" afterPath="$PROJECT_DIR$/advanced/186_Politoed.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/187_Hoppip.yaml" afterPath="$PROJECT_DIR$/advanced/187_Hoppip.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/188_Skiploom.yaml" afterPath="$PROJECT_DIR$/advanced/188_Skiploom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/189_Jumpluff.yaml" afterPath="$PROJECT_DIR$/advanced/189_Jumpluff.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/190_Aipom.yaml" afterPath="$PROJECT_DIR$/advanced/190_Aipom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/191_Sunkern.yaml" afterPath="$PROJECT_DIR$/advanced/191_Sunkern.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/192_Sunflora.yaml" afterPath="$PROJECT_DIR$/advanced/192_Sunflora.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/193_Yanma.yaml" afterPath="$PROJECT_DIR$/advanced/193_Yanma.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/194_Wooper.yaml" afterPath="$PROJECT_DIR$/advanced/194_Wooper.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/195_Quagsire.yaml" afterPath="$PROJECT_DIR$/advanced/195_Quagsire.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/198_Murkrow.yaml" afterPath="$PROJECT_DIR$/advanced/198_Murkrow.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/199_Slowking.yaml" afterPath="$PROJECT_DIR$/advanced/199_Slowking.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/200_Misdreavus.yaml" afterPath="$PROJECT_DIR$/advanced/200_Misdreavus.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-A.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-A.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-B.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-B.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-C.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-C.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-D.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-D.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-E.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-E.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-Exclamationmark.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-Exclamationmark.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-F.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-F.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-G.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-G.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-H.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-H.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-I.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-I.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-J.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-J.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-K.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-K.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-L.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-L.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-M.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-M.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-N.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-N.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-O.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-O.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-P.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-P.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-Q.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-Q.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-Questionmark.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-Questionmark.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-R.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-R.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-S.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-S.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-T.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-T.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-U.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-U.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-V.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-V.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-W.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-W.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-X.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-X.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-Y.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-Y.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/201_Unown-Z.yaml" afterPath="$PROJECT_DIR$/advanced/201_Unown-Z.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/202_Wobbuffet.yaml" afterPath="$PROJECT_DIR$/advanced/202_Wobbuffet.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/203_Girafarig.yaml" afterPath="$PROJECT_DIR$/advanced/203_Girafarig.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/204_Pineco.yaml" afterPath="$PROJECT_DIR$/advanced/204_Pineco.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/205_Forretress.yaml" afterPath="$PROJECT_DIR$/advanced/205_Forretress.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/206_Dunsparce.yaml" afterPath="$PROJECT_DIR$/advanced/206_Dunsparce.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/207_Gligar.yaml" afterPath="$PROJECT_DIR$/advanced/207_Gligar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/208_Steelix.yaml" afterPath="$PROJECT_DIR$/advanced/208_Steelix.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/209_Snubbull.yaml" afterPath="$PROJECT_DIR$/advanced/209_Snubbull.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/210_Granbull.yaml" afterPath="$PROJECT_DIR$/advanced/210_Granbull.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/211_Qwilfish.yaml" afterPath="$PROJECT_DIR$/advanced/211_Qwilfish.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/212_Scizor.yaml" afterPath="$PROJECT_DIR$/advanced/212_Scizor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/213_Shuckle.yaml" afterPath="$PROJECT_DIR$/advanced/213_Shuckle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/214_Heracross.yaml" afterPath="$PROJECT_DIR$/advanced/214_Heracross.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/215_Sneasel.yaml" afterPath="$PROJECT_DIR$/advanced/215_Sneasel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/216_Teddiursa.yaml" afterPath="$PROJECT_DIR$/advanced/216_Teddiursa.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/217_Ursaring.yaml" afterPath="$PROJECT_DIR$/advanced/217_Ursaring.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/218_Slugma.yaml" afterPath="$PROJECT_DIR$/advanced/218_Slugma.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/219_Magcargo.yaml" afterPath="$PROJECT_DIR$/advanced/219_Magcargo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/220_Swinub.yaml" afterPath="$PROJECT_DIR$/advanced/220_Swinub.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/221_Piloswine.yaml" afterPath="$PROJECT_DIR$/advanced/221_Piloswine.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/222_Corsola.yaml" afterPath="$PROJECT_DIR$/advanced/222_Corsola.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/223_Remoraid.yaml" afterPath="$PROJECT_DIR$/advanced/223_Remoraid.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/224_Octillery.yaml" afterPath="$PROJECT_DIR$/advanced/224_Octillery.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/225_Delibird.yaml" afterPath="$PROJECT_DIR$/advanced/225_Delibird.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/226_Mantine.yaml" afterPath="$PROJECT_DIR$/advanced/226_Mantine.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/227_Skarmory.yaml" afterPath="$PROJECT_DIR$/advanced/227_Skarmory.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/228_Houndour.yaml" afterPath="$PROJECT_DIR$/advanced/228_Houndour.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/229_Houndoom.yaml" afterPath="$PROJECT_DIR$/advanced/229_Houndoom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/230_Kingdra.yaml" afterPath="$PROJECT_DIR$/advanced/230_Kingdra.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/231_Phanpy.yaml" afterPath="$PROJECT_DIR$/advanced/231_Phanpy.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/232_Donphan.yaml" afterPath="$PROJECT_DIR$/advanced/232_Donphan.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/233_Porygon2.yaml" afterPath="$PROJECT_DIR$/advanced/233_Porygon2.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/234_Stantler.yaml" afterPath="$PROJECT_DIR$/advanced/234_Stantler.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/235_Smeargle.yaml" afterPath="$PROJECT_DIR$/advanced/235_Smeargle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/236_Tyrogue.yaml" afterPath="$PROJECT_DIR$/advanced/236_Tyrogue.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/237_Hitmontop.yaml" afterPath="$PROJECT_DIR$/advanced/237_Hitmontop.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/238_Smoochum.yaml" afterPath="$PROJECT_DIR$/advanced/238_Smoochum.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/239_Elekid.yaml" afterPath="$PROJECT_DIR$/advanced/239_Elekid.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/240_Magby.yaml" afterPath="$PROJECT_DIR$/advanced/240_Magby.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/241_Miltank.yaml" afterPath="$PROJECT_DIR$/advanced/241_Miltank.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/242_Blissey.yaml" afterPath="$PROJECT_DIR$/advanced/242_Blissey.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/243_Raikou.yaml" afterPath="$PROJECT_DIR$/advanced/243_Raikou.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/244_Entei.yaml" afterPath="$PROJECT_DIR$/advanced/244_Entei.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/245_Suicune.yaml" afterPath="$PROJECT_DIR$/advanced/245_Suicune.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/246_Larvitar.yaml" afterPath="$PROJECT_DIR$/advanced/246_Larvitar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/247_Pupitar.yaml" afterPath="$PROJECT_DIR$/advanced/247_Pupitar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/248_Tyranitar.yaml" afterPath="$PROJECT_DIR$/advanced/248_Tyranitar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/249_Lugia.yaml" afterPath="$PROJECT_DIR$/advanced/249_Lugia.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/250_Ho-Oh.yaml" afterPath="$PROJECT_DIR$/advanced/250_Ho-Oh.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/251_Celebi.yaml" afterPath="$PROJECT_DIR$/advanced/251_Celebi.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/252_Treecko.yaml" afterPath="$PROJECT_DIR$/advanced/252_Treecko.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/253_Grovyle.yaml" afterPath="$PROJECT_DIR$/advanced/253_Grovyle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/254_Sceptile.yaml" afterPath="$PROJECT_DIR$/advanced/254_Sceptile.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/255_Torchic.yaml" afterPath="$PROJECT_DIR$/advanced/255_Torchic.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/256_Combusken.yaml" afterPath="$PROJECT_DIR$/advanced/256_Combusken.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/257_Blaziken.yaml" afterPath="$PROJECT_DIR$/advanced/257_Blaziken.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/258_Mudkip.yaml" afterPath="$PROJECT_DIR$/advanced/258_Mudkip.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/259_Marshtomp.yaml" afterPath="$PROJECT_DIR$/advanced/259_Marshtomp.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/260_Swampert.yaml" afterPath="$PROJECT_DIR$/advanced/260_Swampert.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/261_Poochyena.yaml" afterPath="$PROJECT_DIR$/advanced/261_Poochyena.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/262_Mightyena.yaml" afterPath="$PROJECT_DIR$/advanced/262_Mightyena.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/263_Zigzagoon.yaml" afterPath="$PROJECT_DIR$/advanced/263_Zigzagoon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/264_Linoone.yaml" afterPath="$PROJECT_DIR$/advanced/264_Linoone.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/265_Wurmple.yaml" afterPath="$PROJECT_DIR$/advanced/265_Wurmple.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/266_Silcoon.yaml" afterPath="$PROJECT_DIR$/advanced/266_Silcoon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/267_Beautifly.yaml" afterPath="$PROJECT_DIR$/advanced/267_Beautifly.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/268_Cascoon.yaml" afterPath="$PROJECT_DIR$/advanced/268_Cascoon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/269_Dustox.yaml" afterPath="$PROJECT_DIR$/advanced/269_Dustox.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/270_Lotad.yaml" afterPath="$PROJECT_DIR$/advanced/270_Lotad.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/271_Lombre.yaml" afterPath="$PROJECT_DIR$/advanced/271_Lombre.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/272_Ludicolo.yaml" afterPath="$PROJECT_DIR$/advanced/272_Ludicolo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/273_Seedot.yaml" afterPath="$PROJECT_DIR$/advanced/273_Seedot.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/274_Nuzleaf.yaml" afterPath="$PROJECT_DIR$/advanced/274_Nuzleaf.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/275_Shiftry.yaml" afterPath="$PROJECT_DIR$/advanced/275_Shiftry.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/276_Taillow.yaml" afterPath="$PROJECT_DIR$/advanced/276_Taillow.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/277_Swellow.yaml" afterPath="$PROJECT_DIR$/advanced/277_Swellow.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/278_Wingull.yaml" afterPath="$PROJECT_DIR$/advanced/278_Wingull.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/279_Pelipper.yaml" afterPath="$PROJECT_DIR$/advanced/279_Pelipper.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/280_Ralts.yaml" afterPath="$PROJECT_DIR$/advanced/280_Ralts.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/281_Kirlia.yaml" afterPath="$PROJECT_DIR$/advanced/281_Kirlia.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/282_Gardevoir.yaml" afterPath="$PROJECT_DIR$/advanced/282_Gardevoir.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/283_Surskit.yaml" afterPath="$PROJECT_DIR$/advanced/283_Surskit.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/284_Masquerain.yaml" afterPath="$PROJECT_DIR$/advanced/284_Masquerain.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/285_Shroomish.yaml" afterPath="$PROJECT_DIR$/advanced/285_Shroomish.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/286_Breloom.yaml" afterPath="$PROJECT_DIR$/advanced/286_Breloom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/287_Slakoth.yaml" afterPath="$PROJECT_DIR$/advanced/287_Slakoth.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/288_Vigoroth.yaml" afterPath="$PROJECT_DIR$/advanced/288_Vigoroth.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/289_Slaking.yaml" afterPath="$PROJECT_DIR$/advanced/289_Slaking.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/290_Nincada.yaml" afterPath="$PROJECT_DIR$/advanced/290_Nincada.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/291_Ninjask.yaml" afterPath="$PROJECT_DIR$/advanced/291_Ninjask.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/292_Shedinja.yaml" afterPath="$PROJECT_DIR$/advanced/292_Shedinja.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/293_Whismur.yaml" afterPath="$PROJECT_DIR$/advanced/293_Whismur.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/294_Loudred.yaml" afterPath="$PROJECT_DIR$/advanced/294_Loudred.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/295_Exploud.yaml" afterPath="$PROJECT_DIR$/advanced/295_Exploud.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/296_Makuhita.yaml" afterPath="$PROJECT_DIR$/advanced/296_Makuhita.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/297_Hariyama.yaml" afterPath="$PROJECT_DIR$/advanced/297_Hariyama.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/298_Azurill.yaml" afterPath="$PROJECT_DIR$/advanced/298_Azurill.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/299_Nosepass.yaml" afterPath="$PROJECT_DIR$/advanced/299_Nosepass.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/300_Skitty.yaml" afterPath="$PROJECT_DIR$/advanced/300_Skitty.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/301_Delcatty.yaml" afterPath="$PROJECT_DIR$/advanced/301_Delcatty.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/302_Sableye.yaml" afterPath="$PROJECT_DIR$/advanced/302_Sableye.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/303_Mawile.yaml" afterPath="$PROJECT_DIR$/advanced/303_Mawile.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/304_Aron.yaml" afterPath="$PROJECT_DIR$/advanced/304_Aron.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/305_Lairon.yaml" afterPath="$PROJECT_DIR$/advanced/305_Lairon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/306_Aggron.yaml" afterPath="$PROJECT_DIR$/advanced/306_Aggron.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/307_Meditite.yaml" afterPath="$PROJECT_DIR$/advanced/307_Meditite.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/308_Medicham.yaml" afterPath="$PROJECT_DIR$/advanced/308_Medicham.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/309_Electrike.yaml" afterPath="$PROJECT_DIR$/advanced/309_Electrike.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/310_Manectric.yaml" afterPath="$PROJECT_DIR$/advanced/310_Manectric.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/311_Plusle.yaml" afterPath="$PROJECT_DIR$/advanced/311_Plusle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/312_Minun.yaml" afterPath="$PROJECT_DIR$/advanced/312_Minun.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/313_Volbeat.yaml" afterPath="$PROJECT_DIR$/advanced/313_Volbeat.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/314_Illumise.yaml" afterPath="$PROJECT_DIR$/advanced/314_Illumise.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/315_Roselia.yaml" afterPath="$PROJECT_DIR$/advanced/315_Roselia.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/316_Gulpin.yaml" afterPath="$PROJECT_DIR$/advanced/316_Gulpin.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/317_Swalot.yaml" afterPath="$PROJECT_DIR$/advanced/317_Swalot.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/318_Carvanha.yaml" afterPath="$PROJECT_DIR$/advanced/318_Carvanha.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/319_Sharpedo.yaml" afterPath="$PROJECT_DIR$/advanced/319_Sharpedo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/320_Wailmer.yaml" afterPath="$PROJECT_DIR$/advanced/320_Wailmer.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/321_Wailord.yaml" afterPath="$PROJECT_DIR$/advanced/321_Wailord.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/322_Numel.yaml" afterPath="$PROJECT_DIR$/advanced/322_Numel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/323_Camerupt.yaml" afterPath="$PROJECT_DIR$/advanced/323_Camerupt.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/324_Torkoal.yaml" afterPath="$PROJECT_DIR$/advanced/324_Torkoal.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/325_Spoink.yaml" afterPath="$PROJECT_DIR$/advanced/325_Spoink.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/326_Grumpig.yaml" afterPath="$PROJECT_DIR$/advanced/326_Grumpig.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/327_Spinda.yaml" afterPath="$PROJECT_DIR$/advanced/327_Spinda.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/328_Trapinch.yaml" afterPath="$PROJECT_DIR$/advanced/328_Trapinch.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/329_Vibrava.yaml" afterPath="$PROJECT_DIR$/advanced/329_Vibrava.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/330_Flygon.yaml" afterPath="$PROJECT_DIR$/advanced/330_Flygon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/331_Cacnea.yaml" afterPath="$PROJECT_DIR$/advanced/331_Cacnea.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/332_Cacturne.yaml" afterPath="$PROJECT_DIR$/advanced/332_Cacturne.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/333_Swablu.yaml" afterPath="$PROJECT_DIR$/advanced/333_Swablu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/334_Altaria.yaml" afterPath="$PROJECT_DIR$/advanced/334_Altaria.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/335_Zangoose.yaml" afterPath="$PROJECT_DIR$/advanced/335_Zangoose.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/336_Seviper.yaml" afterPath="$PROJECT_DIR$/advanced/336_Seviper.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/337_Lunatone.yaml" afterPath="$PROJECT_DIR$/advanced/337_Lunatone.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/338_Solrock.yaml" afterPath="$PROJECT_DIR$/advanced/338_Solrock.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/339_Barboach.yaml" afterPath="$PROJECT_DIR$/advanced/339_Barboach.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/340_Whiscash.yaml" afterPath="$PROJECT_DIR$/advanced/340_Whiscash.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/341_Corphish.yaml" afterPath="$PROJECT_DIR$/advanced/341_Corphish.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/342_Crawdaunt.yaml" afterPath="$PROJECT_DIR$/advanced/342_Crawdaunt.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/343_Baltoy.yaml" afterPath="$PROJECT_DIR$/advanced/343_Baltoy.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/344_Claydol.yaml" afterPath="$PROJECT_DIR$/advanced/344_Claydol.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/345_Lileep.yaml" afterPath="$PROJECT_DIR$/advanced/345_Lileep.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/346_Cradily.yaml" afterPath="$PROJECT_DIR$/advanced/346_Cradily.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/347_Anorith.yaml" afterPath="$PROJECT_DIR$/advanced/347_Anorith.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/348_Armaldo.yaml" afterPath="$PROJECT_DIR$/advanced/348_Armaldo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/349_Feebas.yaml" afterPath="$PROJECT_DIR$/advanced/349_Feebas.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/350_Milotic.yaml" afterPath="$PROJECT_DIR$/advanced/350_Milotic.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/351_Castform.yaml" afterPath="$PROJECT_DIR$/advanced/351_Castform.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/352_Kecleon.yaml" afterPath="$PROJECT_DIR$/advanced/352_Kecleon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/353_Shuppet.yaml" afterPath="$PROJECT_DIR$/advanced/353_Shuppet.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/354_Banette.yaml" afterPath="$PROJECT_DIR$/advanced/354_Banette.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/355_Duskull.yaml" afterPath="$PROJECT_DIR$/advanced/355_Duskull.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/356_Dusclops.yaml" afterPath="$PROJECT_DIR$/advanced/356_Dusclops.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/357_Tropius.yaml" afterPath="$PROJECT_DIR$/advanced/357_Tropius.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/358_Chimecho.yaml" afterPath="$PROJECT_DIR$/advanced/358_Chimecho.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/359_Absol.yaml" afterPath="$PROJECT_DIR$/advanced/359_Absol.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/360_Wynaut.yaml" afterPath="$PROJECT_DIR$/advanced/360_Wynaut.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/361_Snorunt.yaml" afterPath="$PROJECT_DIR$/advanced/361_Snorunt.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/362_Glalie.yaml" afterPath="$PROJECT_DIR$/advanced/362_Glalie.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/363_Spheal.yaml" afterPath="$PROJECT_DIR$/advanced/363_Spheal.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/364_Sealeo.yaml" afterPath="$PROJECT_DIR$/advanced/364_Sealeo.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/365_Walrein.yaml" afterPath="$PROJECT_DIR$/advanced/365_Walrein.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/366_Clamperl.yaml" afterPath="$PROJECT_DIR$/advanced/366_Clamperl.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/367_Huntail.yaml" afterPath="$PROJECT_DIR$/advanced/367_Huntail.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/368_Gorebyss.yaml" afterPath="$PROJECT_DIR$/advanced/368_Gorebyss.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/369_Relicanth.yaml" afterPath="$PROJECT_DIR$/advanced/369_Relicanth.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/370_Luvdisc.yaml" afterPath="$PROJECT_DIR$/advanced/370_Luvdisc.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/371_Bagon.yaml" afterPath="$PROJECT_DIR$/advanced/371_Bagon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/372_Shelgon.yaml" afterPath="$PROJECT_DIR$/advanced/372_Shelgon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/373_Salamence.yaml" afterPath="$PROJECT_DIR$/advanced/373_Salamence.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/374_Beldum.yaml" afterPath="$PROJECT_DIR$/advanced/374_Beldum.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/375_Metang.yaml" afterPath="$PROJECT_DIR$/advanced/375_Metang.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/376_Metagross.yaml" afterPath="$PROJECT_DIR$/advanced/376_Metagross.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/377_Regirock.yaml" afterPath="$PROJECT_DIR$/advanced/377_Regirock.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/378_Regice.yaml" afterPath="$PROJECT_DIR$/advanced/378_Regice.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/379_Registeel.yaml" afterPath="$PROJECT_DIR$/advanced/379_Registeel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/380_Latias.yaml" afterPath="$PROJECT_DIR$/advanced/380_Latias.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/381_Latios.yaml" afterPath="$PROJECT_DIR$/advanced/381_Latios.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/382_Kyogre.yaml" afterPath="$PROJECT_DIR$/advanced/382_Kyogre.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/383_Groudon.yaml" afterPath="$PROJECT_DIR$/advanced/383_Groudon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/384_Rayquaza.yaml" afterPath="$PROJECT_DIR$/advanced/384_Rayquaza.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/385_Jirachi.yaml" afterPath="$PROJECT_DIR$/advanced/385_Jirachi.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/386_Deoxys_Attack.yaml" afterPath="$PROJECT_DIR$/advanced/386_Deoxys_Attack.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/386_Deoxys_Defense.yaml" afterPath="$PROJECT_DIR$/advanced/386_Deoxys_Defense.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/386_Deoxys_Normal.yaml" afterPath="$PROJECT_DIR$/advanced/386_Deoxys_Normal.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/386_Deoxys_Speed.yaml" afterPath="$PROJECT_DIR$/advanced/386_Deoxys_Speed.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/387_Turtwig.yaml" afterPath="$PROJECT_DIR$/advanced/387_Turtwig.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/388_Grotle.yaml" afterPath="$PROJECT_DIR$/advanced/388_Grotle.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/389_Torterra.yaml" afterPath="$PROJECT_DIR$/advanced/389_Torterra.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/390_Chimchar.yaml" afterPath="$PROJECT_DIR$/advanced/390_Chimchar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/391_Monferno.yaml" afterPath="$PROJECT_DIR$/advanced/391_Monferno.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/392_Infernape.yaml" afterPath="$PROJECT_DIR$/advanced/392_Infernape.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/393_Piplup.yaml" afterPath="$PROJECT_DIR$/advanced/393_Piplup.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/394_Prinplup.yaml" afterPath="$PROJECT_DIR$/advanced/394_Prinplup.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/395_Empoleon.yaml" afterPath="$PROJECT_DIR$/advanced/395_Empoleon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/396_Starly.yaml" afterPath="$PROJECT_DIR$/advanced/396_Starly.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/397_Staravia.yaml" afterPath="$PROJECT_DIR$/advanced/397_Staravia.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/398_Staraptor.yaml" afterPath="$PROJECT_DIR$/advanced/398_Staraptor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/399_Bidoof.yaml" afterPath="$PROJECT_DIR$/advanced/399_Bidoof.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/400_Bibarel.yaml" afterPath="$PROJECT_DIR$/advanced/400_Bibarel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/401_Kricketot.yaml" afterPath="$PROJECT_DIR$/advanced/401_Kricketot.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/401_Kricketune.yaml" afterPath="$PROJECT_DIR$/advanced/401_Kricketune.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/403_Shinx.yaml" afterPath="$PROJECT_DIR$/advanced/403_Shinx.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/404_Luxio.yaml" afterPath="$PROJECT_DIR$/advanced/404_Luxio.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/405_Luxray.yaml" afterPath="$PROJECT_DIR$/advanced/405_Luxray.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/406_Budew.yaml" afterPath="$PROJECT_DIR$/advanced/406_Budew.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/407_Roserade.yaml" afterPath="$PROJECT_DIR$/advanced/407_Roserade.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/408_Cranidos.yaml" afterPath="$PROJECT_DIR$/advanced/408_Cranidos.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/409_Rampardos.yaml" afterPath="$PROJECT_DIR$/advanced/409_Rampardos.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/410_Shieldon.yaml" afterPath="$PROJECT_DIR$/advanced/410_Shieldon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/411_bastiodon.yaml" afterPath="$PROJECT_DIR$/advanced/411_bastiodon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/412_Burmy-Plant.yaml" afterPath="$PROJECT_DIR$/advanced/412_Burmy-Plant.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/412_Burmy-Sandy.yaml" afterPath="$PROJECT_DIR$/advanced/412_Burmy-Sandy.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/412_Burmy-Trash.yaml" afterPath="$PROJECT_DIR$/advanced/412_Burmy-Trash.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/413_Wormadam-Plant.yaml" afterPath="$PROJECT_DIR$/advanced/413_Wormadam-Plant.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/413_Wormadam-Sandy.yaml" afterPath="$PROJECT_DIR$/advanced/413_Wormadam-Sandy.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/413_Wormadam-Trash.yaml" afterPath="$PROJECT_DIR$/advanced/413_Wormadam-Trash.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/414_Mothim.yaml" afterPath="$PROJECT_DIR$/advanced/414_Mothim.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/415_Combee.yaml" afterPath="$PROJECT_DIR$/advanced/415_Combee.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/416_Vespiquen.yaml" afterPath="$PROJECT_DIR$/advanced/416_Vespiquen.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/417_Pachirisu.yaml" afterPath="$PROJECT_DIR$/advanced/417_Pachirisu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/418_Buizel.yaml" afterPath="$PROJECT_DIR$/advanced/418_Buizel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/419_Floatzel.yaml" afterPath="$PROJECT_DIR$/advanced/419_Floatzel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/420_Cherubi.yaml" afterPath="$PROJECT_DIR$/advanced/420_Cherubi.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/421_Cherrim.yaml" afterPath="$PROJECT_DIR$/advanced/421_Cherrim.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/422_Shellos-East.yaml" afterPath="$PROJECT_DIR$/advanced/422_Shellos-East.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/422_Shellos-West.yaml" afterPath="$PROJECT_DIR$/advanced/422_Shellos-West.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/423_Gastrodon-East.yaml" afterPath="$PROJECT_DIR$/advanced/423_Gastrodon-East.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/423_Gastrodon-West.yaml" afterPath="$PROJECT_DIR$/advanced/423_Gastrodon-West.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/424_Ambipom.yaml" afterPath="$PROJECT_DIR$/advanced/424_Ambipom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/425_Drifloon.yaml" afterPath="$PROJECT_DIR$/advanced/425_Drifloon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/426_Drifblim.yaml" afterPath="$PROJECT_DIR$/advanced/426_Drifblim.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/427_Buneary.yaml" afterPath="$PROJECT_DIR$/advanced/427_Buneary.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/428_Lopunny.yaml" afterPath="$PROJECT_DIR$/advanced/428_Lopunny.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/429_Mismagius.yaml" afterPath="$PROJECT_DIR$/advanced/429_Mismagius.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/430_Honchkrow.yaml" afterPath="$PROJECT_DIR$/advanced/430_Honchkrow.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/431_Glameow.yaml" afterPath="$PROJECT_DIR$/advanced/431_Glameow.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/432_Purugly.yaml" afterPath="$PROJECT_DIR$/advanced/432_Purugly.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/433_Chingling.yaml" afterPath="$PROJECT_DIR$/advanced/433_Chingling.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/434_Stunky.yaml" afterPath="$PROJECT_DIR$/advanced/434_Stunky.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/435_Skuntank.yaml" afterPath="$PROJECT_DIR$/advanced/435_Skuntank.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/436_Bronzor.yaml" afterPath="$PROJECT_DIR$/advanced/436_Bronzor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/437_Bronzong.yaml" afterPath="$PROJECT_DIR$/advanced/437_Bronzong.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/438_Bonsly.yaml" afterPath="$PROJECT_DIR$/advanced/438_Bonsly.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/440_Happiny.yaml" afterPath="$PROJECT_DIR$/advanced/440_Happiny.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/441_Chatot.yaml" afterPath="$PROJECT_DIR$/advanced/441_Chatot.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/442_Spiritomb.yaml" afterPath="$PROJECT_DIR$/advanced/442_Spiritomb.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/443_Gible.yaml" afterPath="$PROJECT_DIR$/advanced/443_Gible.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/444_Gabite.yaml" afterPath="$PROJECT_DIR$/advanced/444_Gabite.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/445_Garchomp.yaml" afterPath="$PROJECT_DIR$/advanced/445_Garchomp.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/446_Munchlax.yaml" afterPath="$PROJECT_DIR$/advanced/446_Munchlax.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/447_Riolu.yaml" afterPath="$PROJECT_DIR$/advanced/447_Riolu.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/448_Lucario.yaml" afterPath="$PROJECT_DIR$/advanced/448_Lucario.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/449_Hippopotas.yaml" afterPath="$PROJECT_DIR$/advanced/449_Hippopotas.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/450_Hippowdon.yaml" afterPath="$PROJECT_DIR$/advanced/450_Hippowdon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/451_Skorupi.yaml" afterPath="$PROJECT_DIR$/advanced/451_Skorupi.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/452_Drapion.yaml" afterPath="$PROJECT_DIR$/advanced/452_Drapion.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/453_Croagunk.yaml" afterPath="$PROJECT_DIR$/advanced/453_Croagunk.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/454_Toxicroak.yaml" afterPath="$PROJECT_DIR$/advanced/454_Toxicroak.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/455_Carnivine.yaml" afterPath="$PROJECT_DIR$/advanced/455_Carnivine.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/456_Finneon.yaml" afterPath="$PROJECT_DIR$/advanced/456_Finneon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/457_Lumineon.yaml" afterPath="$PROJECT_DIR$/advanced/457_Lumineon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/458_Mantyke.yaml" afterPath="$PROJECT_DIR$/advanced/458_Mantyke.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/459_Snover.yaml" afterPath="$PROJECT_DIR$/advanced/459_Snover.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/460_Abomasnow.yaml" afterPath="$PROJECT_DIR$/advanced/460_Abomasnow.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/461_Weavile.yaml" afterPath="$PROJECT_DIR$/advanced/461_Weavile.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/462_Magnezone.yaml" afterPath="$PROJECT_DIR$/advanced/462_Magnezone.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/463_Lickilicky.yaml" afterPath="$PROJECT_DIR$/advanced/463_Lickilicky.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/464_Rhyperior.yaml" afterPath="$PROJECT_DIR$/advanced/464_Rhyperior.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/465_Tangrowth.yaml" afterPath="$PROJECT_DIR$/advanced/465_Tangrowth.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/466_Electivire.yaml" afterPath="$PROJECT_DIR$/advanced/466_Electivire.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/467_Magmortar.yaml" afterPath="$PROJECT_DIR$/advanced/467_Magmortar.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/468_Togekiss.yaml" afterPath="$PROJECT_DIR$/advanced/468_Togekiss.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/469_Yanmega.yaml" afterPath="$PROJECT_DIR$/advanced/469_Yanmega.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/470_Leafeon.yaml" afterPath="$PROJECT_DIR$/advanced/470_Leafeon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/471_Glaceon.yaml" afterPath="$PROJECT_DIR$/advanced/471_Glaceon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/472_Gliscor.yaml" afterPath="$PROJECT_DIR$/advanced/472_Gliscor.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/473_Mamoswine.yaml" afterPath="$PROJECT_DIR$/advanced/473_Mamoswine.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/475_Gallade.yaml" afterPath="$PROJECT_DIR$/advanced/475_Gallade.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/476_Probopass.yaml" afterPath="$PROJECT_DIR$/advanced/476_Probopass.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/477_Dusknoir.yaml" afterPath="$PROJECT_DIR$/advanced/477_Dusknoir.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/478_Froslass.yaml" afterPath="$PROJECT_DIR$/advanced/478_Froslass.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/479_Rotom.yaml" afterPath="$PROJECT_DIR$/advanced/479_Rotom.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/480_Uxie.yaml" afterPath="$PROJECT_DIR$/advanced/480_Uxie.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/481_Mesprit.yaml" afterPath="$PROJECT_DIR$/advanced/481_Mesprit.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/482_Azelf.yaml" afterPath="$PROJECT_DIR$/advanced/482_Azelf.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/483_Dialga.yaml" afterPath="$PROJECT_DIR$/advanced/483_Dialga.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/484_Palkia.yaml" afterPath="$PROJECT_DIR$/advanced/484_Palkia.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/485_Heatran.yaml" afterPath="$PROJECT_DIR$/advanced/485_Heatran.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/486_Regigigas.yaml" afterPath="$PROJECT_DIR$/advanced/486_Regigigas.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/487_Giratina.yaml" afterPath="$PROJECT_DIR$/advanced/487_Giratina.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/488_Cresselia.yaml" afterPath="$PROJECT_DIR$/advanced/488_Cresselia.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/489_Phione.yaml" afterPath="$PROJECT_DIR$/advanced/489_Phione.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/490_Manaphy.yaml" afterPath="$PROJECT_DIR$/advanced/490_Manaphy.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/491_Darkrai.yaml" afterPath="$PROJECT_DIR$/advanced/491_Darkrai.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/492_Shaymin.yaml" afterPath="$PROJECT_DIR$/advanced/492_Shaymin.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Bug.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Bug.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Dark.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Dark.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Dragon.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Dragon.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Electric.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Electric.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Fighting.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Fighting.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Fire.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Fire.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Flying.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Flying.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Ghost.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Ghost.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Grass.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Grass.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Ground.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Ground.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Ice.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Ice.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Normal.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Normal.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Poison.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Poison.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Psychic.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Psychic.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Rock.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Rock.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Steel.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Steel.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/493_Arceus-Water.yaml" afterPath="$PROJECT_DIR$/advanced/493_Arceus-Water.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/advanced/_standardform.yaml" afterPath="$PROJECT_DIR$/advanced/_standardform.yaml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="XD_Ampharos.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runmon/XD_Ampharos.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="003_Venusaur.yaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/advanced/003_Venusaur.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XD_Claydol.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runmon/XD_Claydol.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XD_Sharpedo.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runmon/XD_Sharpedo.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XD_Shiftry.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runmon/XD_Shiftry.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <marker date="1507921143912" expanded="true" signature="70:98" ph="item: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="92:97" ph="PP up" />
+                <marker date="1507921143912" expanded="true" signature="99:120" ph="ability: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="109:119" ph="Early Bird" />
+                <marker date="1507921143912" expanded="true" signature="121:201" ph="moves: &lt;4 items&gt;" />
+                <marker date="1507921143912" expanded="true" signature="135:145" ph="Giga Drain" />
+                <marker date="1507921143912" expanded="true" signature="154:165" ph="Bullet Seed" />
+                <marker date="1507921143912" expanded="true" signature="174:186" ph="Secret Power" />
+                <marker date="1507921143912" expanded="true" signature="195:200" ph="Pound" />
+                <marker date="1507921143912" expanded="true" signature="202:213" ph="gender: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="252:255" ph="0.0" />
+                <marker date="1507921143912" expanded="true" signature="256:268" ph="ball: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="263:267" ph="Poké" />
+                <marker date="1507921143912" expanded="true" signature="276:281" ph="False" />
+                <marker date="1507921143912" expanded="true" signature="290:295" ph="Brave" />
+                <marker date="1507921143912" expanded="true" signature="301:303" ph="10" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XD_Swalot.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runmon/XD_Swalot.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding>
+                <marker date="1507921143912" expanded="true" signature="67:100" ph="item: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="89:99" ph="Exp. Share" />
+                <marker date="1507921143912" expanded="true" signature="101:123" ph="ability: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="111:122" ph="Sticky Hold" />
+                <marker date="1507921143912" expanded="true" signature="124:198" ph="moves: &lt;4 items&gt;" />
+                <marker date="1507921143912" expanded="true" signature="138:149" ph="Sludge Bomb" />
+                <marker date="1507921143912" expanded="true" signature="173:183" ph="Shock Wave" />
+                <marker date="1507921143912" expanded="true" signature="192:197" ph="Toxic" />
+                <marker date="1507921143912" expanded="true" signature="199:210" ph="gender: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="249:252" ph="0.0" />
+                <marker date="1507921143912" expanded="true" signature="253:265" ph="ball: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="260:264" ph="Poké" />
+                <marker date="1507921143912" expanded="true" signature="273:278" ph="False" />
+                <marker date="1507921143912" expanded="true" signature="287:292" ph="Quiet" />
+                <marker date="1507921143912" expanded="true" signature="298:300" ph="31" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XD_Walrein.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Runmon/XD_Walrein.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding>
+                <marker date="1507921143912" expanded="true" signature="74:107" ph="item: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="96:106" ph="Ultra Ball" />
+                <marker date="1507921143912" expanded="true" signature="108:128" ph="ability: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="118:127" ph="Thick Fat" />
+                <marker date="1507921143912" expanded="true" signature="129:202" ph="moves: &lt;4 items&gt;" />
+                <marker date="1507921143912" expanded="true" signature="143:151" ph="Blizzard" />
+                <marker date="1507921143912" expanded="true" signature="160:169" ph="Water Gun" />
+                <marker date="1507921143912" expanded="true" signature="178:188" ph="Sheer Cold" />
+                <marker date="1507921143912" expanded="true" signature="197:201" ph="Hail" />
+                <marker date="1507921143912" expanded="true" signature="203:214" ph="gender: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="253:256" ph="0.0" />
+                <marker date="1507921143912" expanded="true" signature="257:269" ph="ball: [1 item]" />
+                <marker date="1507921143912" expanded="true" signature="264:268" ph="Poké" />
+                <marker date="1507921143912" expanded="true" signature="277:282" ph="False" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Starter-Battle.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Token/Starter-Battle.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-862">
+              <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="002_Ivysaur.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stadium 2/002_Ivysaur.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="012_Butterfree.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shiny/012_Butterfree.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Runmon/PY_Dewgong.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/PY_Exeggutor.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/PY_Feraligatr.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/PY_Furret.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/PY_Magneton.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/PY_Magmar.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Charmeleon.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Drowzee.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Flareon.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Lapras.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Nidoking.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Omastar.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Pidgeot.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Rattata.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Venomoth.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/RD_Zapdos.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/SN_Ariados.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/SN_Butterfree.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/SN_Fearow.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/SN_Meowth.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/SN_Raticate.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/VC_Gyarados.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/VC_Pidgey.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/VC_Poliwag.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/VC_Sudowoodo.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/VC_Suicune.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/VC_Tentacruel.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/VC_Togepi.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/VC_Typhlosion.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Absol.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Articuno.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Blastoise.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Charizard.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Cresselia.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Floatzel.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Jynx.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Kyogre.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Mightyena.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/W2_Pidgeot.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/X_Absol.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/X_Charizard.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/X_Garchomp.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/X_Lapras.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/XD_Ampharos.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/XD_Claydol.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/XD_Sharpedo.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/XD_Shiftry.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/XD_Swalot.yaml" />
+        <option value="$PROJECT_DIR$/Runmon/XD_Walrein.yaml" />
+        <option value="$PROJECT_DIR$/Token/Starter-Battle.yaml" />
+        <option value="$PROJECT_DIR$/Shiny/012_Butterfree.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="28" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pbr-movesets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pbr-movesets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pbr-movesets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pbr-movesets" type="462c0819:PsiDirectoryNode" />
+              <item name="advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pbr-movesets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pbr-movesets" type="462c0819:PsiDirectoryNode" />
+              <item name="Token" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35aea243-f6c5-43b6-800b-75b32edb8010" name="Default" comment="" />
+      <created>1507485442157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507485442157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="-1" width="1924" height="1059" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Runmon/PY_Magneton.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/PY_Magmar.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Charmeleon.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Drowzee.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Flareon.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Lapras.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Nidoking.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Omastar.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Pidgeot.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Rattata.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Venomoth.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/RD_Zapdos.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/SN_Ariados.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/SN_Butterfree.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/SN_Fearow.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/SN_Meowth.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/SN_Raticate.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/VC_Gyarados.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/VC_Pidgey.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/VC_Poliwag.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/VC_Sudowoodo.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/VC_Suicune.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/VC_Tentacruel.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/VC_Togepi.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/VC_Typhlosion.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Absol.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Articuno.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Blastoise.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Charizard.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Cresselia.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Floatzel.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Jynx.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Kyogre.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Mightyena.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/W2_Pidgeot.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/X_Absol.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/X_Charizard.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/X_Garchomp.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/X_Lapras.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <marker date="1507921143913" expanded="true" signature="78:110" ph="item: [1 item]" />
+            <marker date="1507921143913" expanded="true" signature="100:109" ph="Zap Plate" />
+            <marker date="1507921143913" expanded="true" signature="111:134" ph="ability: [1 item]" />
+            <marker date="1507921143913" expanded="true" signature="121:133" ph="Water Absorb" />
+            <marker date="1507921143913" expanded="true" signature="135:211" ph="moves: &lt;4 items&gt;" />
+            <marker date="1507921143913" expanded="true" signature="149:153" ph="Surf" />
+            <marker date="1507921143913" expanded="true" signature="162:173" ph="Thunderbolt" />
+            <marker date="1507921143913" expanded="true" signature="182:191" ph="Body Slam" />
+            <marker date="1507921143913" expanded="true" signature="200:210" ph="Sheer Cold" />
+            <marker date="1507921143913" expanded="true" signature="212:223" ph="gender: [1 item]" />
+            <marker date="1507921143913" expanded="true" signature="262:265" ph="0.0" />
+            <marker date="1507921143913" expanded="true" signature="266:278" ph="ball: [1 item]" />
+            <marker date="1507921143913" expanded="true" signature="273:277" ph="Poké" />
+            <marker date="1507921143913" expanded="true" signature="286:291" ph="False" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/XD_Shiftry.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1507921143912" expanded="true" signature="70:98" ph="item: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="92:97" ph="PP up" />
+            <marker date="1507921143912" expanded="true" signature="99:120" ph="ability: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="109:119" ph="Early Bird" />
+            <marker date="1507921143912" expanded="true" signature="121:201" ph="moves: &lt;4 items&gt;" />
+            <marker date="1507921143912" expanded="true" signature="135:145" ph="Giga Drain" />
+            <marker date="1507921143912" expanded="true" signature="154:165" ph="Bullet Seed" />
+            <marker date="1507921143912" expanded="true" signature="174:186" ph="Secret Power" />
+            <marker date="1507921143912" expanded="true" signature="195:200" ph="Pound" />
+            <marker date="1507921143912" expanded="true" signature="202:213" ph="gender: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="252:255" ph="0.0" />
+            <marker date="1507921143912" expanded="true" signature="256:268" ph="ball: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="263:267" ph="Poké" />
+            <marker date="1507921143912" expanded="true" signature="276:281" ph="False" />
+            <marker date="1507921143912" expanded="true" signature="290:295" ph="Brave" />
+            <marker date="1507921143912" expanded="true" signature="301:303" ph="10" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/XD_Swalot.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <marker date="1507921143912" expanded="true" signature="67:100" ph="item: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="89:99" ph="Exp. Share" />
+            <marker date="1507921143912" expanded="true" signature="101:123" ph="ability: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="111:122" ph="Sticky Hold" />
+            <marker date="1507921143912" expanded="true" signature="124:198" ph="moves: &lt;4 items&gt;" />
+            <marker date="1507921143912" expanded="true" signature="138:149" ph="Sludge Bomb" />
+            <marker date="1507921143912" expanded="true" signature="173:183" ph="Shock Wave" />
+            <marker date="1507921143912" expanded="true" signature="192:197" ph="Toxic" />
+            <marker date="1507921143912" expanded="true" signature="199:210" ph="gender: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="249:252" ph="0.0" />
+            <marker date="1507921143912" expanded="true" signature="253:265" ph="ball: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="260:264" ph="Poké" />
+            <marker date="1507921143912" expanded="true" signature="273:278" ph="False" />
+            <marker date="1507921143912" expanded="true" signature="287:292" ph="Quiet" />
+            <marker date="1507921143912" expanded="true" signature="298:300" ph="31" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/XD_Walrein.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <marker date="1507921143912" expanded="true" signature="74:107" ph="item: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="96:106" ph="Ultra Ball" />
+            <marker date="1507921143912" expanded="true" signature="108:128" ph="ability: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="118:127" ph="Thick Fat" />
+            <marker date="1507921143912" expanded="true" signature="129:202" ph="moves: &lt;4 items&gt;" />
+            <marker date="1507921143912" expanded="true" signature="143:151" ph="Blizzard" />
+            <marker date="1507921143912" expanded="true" signature="160:169" ph="Water Gun" />
+            <marker date="1507921143912" expanded="true" signature="178:188" ph="Sheer Cold" />
+            <marker date="1507921143912" expanded="true" signature="197:201" ph="Hail" />
+            <marker date="1507921143912" expanded="true" signature="203:214" ph="gender: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="253:256" ph="0.0" />
+            <marker date="1507921143912" expanded="true" signature="257:269" ph="ball: [1 item]" />
+            <marker date="1507921143912" expanded="true" signature="264:268" ph="Poké" />
+            <marker date="1507921143912" expanded="true" signature="277:282" ph="False" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Token/OHKO.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Token/KAPOW.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Token/Starter-Battle.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-862">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stadium 2/002_Ivysaur.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shiny/012_Butterfree.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/XD_Sharpedo.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/XD_Claydol.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runmon/XD_Ampharos.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/003_Venusaur.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

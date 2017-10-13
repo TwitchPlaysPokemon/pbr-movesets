@@ -1,0 +1,37 @@
+species: Doduo
+setname: Flying
+tags: [standard]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Fly]
+    - [Double Hit]
+    - [Steel Wing]
+    - [Supersonic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Adamant
+evs: {hp: 124, atk: 100, def: 48, spA: 0, spD: 76, spe: 160}
+ivs: 31
+---
+species: Doduo
+setname: Grounded
+tags: [standard]
+item: [Null]
+ability: [Tangled Feet]
+moves:
+    - [Drill Peck]
+    - [Flail]
+    - [Low Kick]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Adamant
+evs: {hp: 148, atk: 108, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31

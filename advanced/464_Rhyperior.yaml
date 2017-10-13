@@ -1,5 +1,5 @@
 species: Rhyperior
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Protector]
 ability: [Lightning Rod]
@@ -20,7 +20,7 @@ ivs: 25
 evs: 84
 ---
 species: Rhyperior
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Hard Stone]
 ability: [Lightning Rod]
@@ -39,7 +39,7 @@ ivs: {hp: 2, atk: 2, def: 3, spA: 31, spD: 2, spe: 30}
 evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 100, spe: 136}
 ---
 species: Rhyperior
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [null]
 ability: [Solid Rock]

@@ -1,5 +1,5 @@
 species: Gliscor
-setname: Poison Heal
+setname: a-Poison Heal
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Poison Heal]
@@ -18,7 +18,7 @@ ivs: {hp: 11, atk: 30, def: 0, spA: 31, spD: 29, spe: 29}
 evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Gliscor
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Razor Claw, Sky Plate]
 ability: [Hyper Cutter]
@@ -43,7 +43,7 @@ ivs: 0
 evs: {hp: 44, atk: 0, def: 144, spA: 0, spD: 220, spe: 100}
 ---
 species: Gliscor
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null]
 ability: [Sand Veil, Hyper Cutter]

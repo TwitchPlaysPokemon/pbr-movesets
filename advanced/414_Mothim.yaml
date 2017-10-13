@@ -1,5 +1,5 @@
 species: Mothim
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Enigma Berry]
 ability: [Tinted Lens]
@@ -18,7 +18,7 @@ rarity: 0.4
 ball: [Net]
 ---
 species: Mothim
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Spooky Plate, Mind Plate]
 ability: [Swarm]
@@ -43,7 +43,7 @@ rarity: 0.6
 ball: [Nest]
 ---
 species: Mothim
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Null]
 ability: [Swarm]

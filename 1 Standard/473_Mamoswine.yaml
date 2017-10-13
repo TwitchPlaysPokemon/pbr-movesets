@@ -1,0 +1,94 @@
+species: Mamoswine
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Snow Cloak]
+moves:
+    - [Ice Fang]
+    - [Earth Power]
+    - [Ancient Power]
+    - [Mist]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 5, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: 0
+---
+species: Mamoswine
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Avalanche]
+    - [Dig]
+    - [Rock Slide]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Modest
+ivs: 0
+evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 60, spe: 60}
+---
+species: Mamoswine
+setname: High Stats
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Icicle Spear]
+    - [Tackle]
+    - [Peck]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Repeat]
+nature: Adamant
+ivs: 31
+evs: {hp: 160, atk: 252, def: 0, spA: 0, spD: 0, spe: 36}
+---
+species: Mamoswine
+setname: Special
+tags: [standard]
+item: [Icy Rock]
+ability: [Snow Cloak]
+moves:
+    - [Blizzard]
+    - [Earth Power]
+    - [Mimic]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 140, spD: 80, spe: 80}
+---
+species: Mamoswine
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Ice Shard]
+    - [Earth Power]
+    - [Stealth Rock]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Quick]
+nature: Serious
+ivs: 15
+evs: {hp: 0, atk: 0, def: 0, spA: 60, spD: 60, spe: 0}

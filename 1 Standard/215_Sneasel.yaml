@@ -1,0 +1,56 @@
+species: Sneasel
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Ice Punch]
+    - [Bite]
+    - [Crush Claw]
+    - [Assist]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Quiet
+ivs: 31
+evs: {hp: 16, atk: 108, def: 16, spA: 252, spD: 16, spe: 16}
+---
+species: Sneasel
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Blizzard]
+    - [Dark Pulse]
+    - [Surf]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dusk]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 96, atk: 0, def: 160, spA: 252, spD: 0, spe: 0}
+---
+species: Sneasel
+setname: Slow
+tags: [standard]
+item: [Iron Ball]
+ability: [Inner Focus]
+moves:
+    - [Ice Shard]
+    - [Avalanche]
+    - [Fling]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 168, atk: 172, def: 84, spA: 0, spD: 84, spe: 0}

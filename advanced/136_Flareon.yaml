@@ -1,5 +1,5 @@
 species: Flareon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Guts]
@@ -16,7 +16,7 @@ ivs: 10
 evs: {hp: 124, atk: 0, def: 128, spA: 64, spD: 128, spe: 64}
 ---
 species: Flareon
-setname: Special
+setname: a-Special
 ability: [Flash Fire]
 moves:
     - [Fire Blast, Overheat, Flamethrower, Heat Wave, Lava Plume]
@@ -35,7 +35,7 @@ ivs: 0
 evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
 ---
 species: Flareon
-setname: Natural Gift
+setname: a-Natural Gift
 tags: [advanced]
 item: [Durin Berry]
 ability: [Flash Fire]

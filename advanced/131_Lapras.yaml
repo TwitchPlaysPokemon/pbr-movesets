@@ -1,5 +1,5 @@
 species: Lapras
-setname: Mixed
+setname: a-Mixed
 ability: [Water Absorb, Shell Armor]
 nature: Lax
 ivs: 9
@@ -20,7 +20,7 @@ rarity: 0.9
 ball: [Dive]
 ---
 species: Lapras
-setname: Physical
+setname: a-Physical
 ability: [Water Absorb, Shell Armor]
 nature: Serious
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -40,7 +40,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Lapras
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Splash Plate, Icicle Plate, Rawst Berry]
 ability: [Water Absorb, Shell Armor]
@@ -68,7 +68,7 @@ rarity: 1.0
 ball: [Poké]
 ---
 species: Lapras
-setname: Yolo
+setname: a-Yolo
 tags: [advanced]
 item: [Black Sludge]
 ability: [Shell Armor]

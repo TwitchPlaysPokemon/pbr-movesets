@@ -1,5 +1,5 @@
 species: Sharpedo
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Wave Incense]
 ability: [Speed Boost]
@@ -18,7 +18,7 @@ ivs: 11
 evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Sharpedo
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Rough Skin]
@@ -40,7 +40,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 108, atk: 56, def: 176, spA: 0, spD: 96, spe: 0}
 ---
 species: Sharpedo
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null, Stone Plate, Toxic Plate]
 ability: [Speed Boost, Rough Skin]

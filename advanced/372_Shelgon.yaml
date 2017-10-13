@@ -1,5 +1,5 @@
 species: Shelgon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Yache Berry, Haban Berry, Charcoal]
 ability: [Rock Head]
@@ -22,7 +22,7 @@ ivs: 31
 evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 148, spe: 20}
 ---
 species: Shelgon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null, Heat Rock, Damp Rock]
 ability: [Rock Head]

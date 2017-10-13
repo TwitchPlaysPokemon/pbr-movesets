@@ -1,5 +1,5 @@
 species: Luxio
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Lum Berry, Chesto Berry, Sitrus Berry, Shuca Berry]
 ability: [Intimidate, Rivalry]
@@ -23,7 +23,7 @@ rarity: 1.0
 ball: [Great]
 ---
 species: Luxio 
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Splash Plate]
 ability: [Rivalry, Intimidate]

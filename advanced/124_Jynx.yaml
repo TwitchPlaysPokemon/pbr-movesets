@@ -1,5 +1,5 @@
 species: Jynx
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Snow Mail, Miracle Seed, Spell Tag]
 ability: [Oblivious, Forewarn]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Jynx
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Null]
 ability: [Oblivious, Forewarn, Dry Skin]

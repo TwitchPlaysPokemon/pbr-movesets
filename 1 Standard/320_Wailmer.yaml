@@ -1,0 +1,56 @@
+species: Wailmer
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Water Veil]
+moves:
+    - [Dive]
+    - [Ice Beam]
+    - [Rollout]
+    - [Aqua Ring]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Premier]
+nature: Serious
+ivs: 31
+evs: {hp: 60, atk: 204, def: 56, spA: 0, spD: 68, spe: 88}
+---
+species: Wailmer
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Water Veil]
+moves:
+    - [Waterfall]
+    - [Earthquake]
+    - [Avalanche]
+    - [Self-Destruct]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Jolly
+ivs: 31
+evs: {hp: 152, atk: 204, def: 0, spA: 0, spD: 0, spe: 152}
+---
+species: Wailmer
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Water Spout]
+    - [Brine]
+    - [Blizzard]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Net]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 188, atk: 0, def: 0, spA: 80, spD: 0, spe: 68}

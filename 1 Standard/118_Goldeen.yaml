@@ -1,0 +1,37 @@
+species: Goldeen
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Water Veil]
+moves:
+    - [Waterfall]
+    - [Double-Edge]
+    - [Horn Drill]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Master]
+nature: Adamant
+evs: {hp: 112, atk: 172, def: 112, spA: 0, spD: 0, spe: 112}
+ivs: 31
+---
+species: Goldeen
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Hidden Power]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Master]
+nature: Quiet
+evs: {hp: 64, atk: 0, def: 36, spA: 252, spD: 156, spe: 0}
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}

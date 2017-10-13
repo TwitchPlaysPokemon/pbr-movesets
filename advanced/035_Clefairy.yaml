@@ -1,5 +1,5 @@
 species: Clefairy
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Flame Orb, Toxic Orb]
 ability: [Magic Guard]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Clefairy
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Cute Charm]

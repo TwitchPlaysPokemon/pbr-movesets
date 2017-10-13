@@ -1,0 +1,94 @@
+species: Floatzel
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Aqua Tail]
+    - [Blizzard]
+    - [Brick Break]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Relaxed
+ivs: {hp: 5, atk: 5, def: 5, spA: 5, spD: 5, spe: 5}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+---
+species: Floatzel
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Focus Blast]
+    - [Hyper Beam]
+    - [Growl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 108, spA: 60, spD: 36, spe: 0}
+---
+species: Floatzel
+setname: Baton Pass
+tags: [standard]
+item: [Starf Berry]
+ability: [Swift Swim]
+moves:
+    - [Brine]
+    - [Slash]
+    - [Bulk  Up]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Gentle
+ivs: {hp: 10, atk: 10, def: 10, spA: 10, spD: 10, spe: 10}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+---
+species: Floatzel
+setname: Slow
+tags: [standard]
+item: [Iron Ball]
+ability: [Water Veil]
+moves:
+    - [Surf]
+    - [Payback]
+    - [Aqua Jet]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Net]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 64, spA: 64, spD: 20, spe: 0}
+---
+species: Floatzel
+setname: Stall
+tags: [standard]
+item: [Jaboca Berry]
+ability: [Water Veil]
+moves:
+    - [Dive]
+    - [Dig]
+    - [Whirlpool]
+    - [Aqua Ring]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Timer]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 204, atk: 0, def: 108, spA: 0, spD: 108, spe: 0}

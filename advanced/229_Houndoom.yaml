@@ -1,5 +1,5 @@
 species: Houndoom
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Magnet]
 ability: [Early Bird]
@@ -18,7 +18,7 @@ ivs: 17
 evs: {hp: 92, atk: 136, def: 148, spA: 40, spD: 92, spe: 0}
 ---
 species: Houndoom
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Charcoal]
 ability: [Early Bird, Flash Fire]
@@ -40,7 +40,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 60, atk: 128, def: 128, spA: 0, spD: 128, spe: 64}
 ---
 species: Houndoom
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silk Scarf, Expert Belt, Shuca Berry, Passho Berry, Charti Berry]
 ability: [Early Bird, Flash Fire]
@@ -64,7 +64,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 29, spe: 29}
 evs: {hp: 64, atk: 64, def: 128, spA: 128, spD: 0, spe: 124}
 ---
 species: Houndoom
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Everstone]
 ability: [Solar Power]

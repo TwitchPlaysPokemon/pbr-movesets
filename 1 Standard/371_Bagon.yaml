@@ -1,0 +1,56 @@
+species: Bagon
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Dragon Rush]
+    - [Brick Break]
+    - [Fire Blast]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poké]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 36, def: 76, spA: 4, spD: 252, spe: 64}
+---
+species: Bagon
+setname: Outrage
+tags: [standard]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Outrage]
+    - [Crunch]
+    - [Rock Slide]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 140, def: 52, spA: 0, spD: 68, spe: 0}
+---
+species: Bagon
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Draco Meteor]
+    - [Fire Blast]
+    - [Hydro Pump]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 0, def: 72, spA: 252, spD: 44, spe: 0}

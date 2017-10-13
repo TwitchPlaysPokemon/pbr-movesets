@@ -1,0 +1,37 @@
+species: Finneon
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Bounce]
+    - [U-Turn]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 160, def: 60, spA: 0, spD: 60, spe: 0}
+---
+species: Finneon
+setname: Special
+tags: [standard]
+item: [Damp Rock]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Hidden Power]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 140, atk: 0, def: 40, spA: 144, spD: 80, spe: 72}

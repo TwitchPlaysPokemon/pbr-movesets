@@ -1,5 +1,5 @@
 species: Slowbro
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Dawn Stone, Mind Plate]
 ability: [Oblivious, Own Tempo]
@@ -23,7 +23,7 @@ rarity: 1.0
 ball: [Repeat]
 ---
 species: Slowbro
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Mystic Water]
 ability: [Oblivious, Own Tempo]
@@ -42,7 +42,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Slowbro
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Oran Berry, Full Incense]
 ability: [Oblivious, Own Tempo]

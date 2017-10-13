@@ -1,0 +1,37 @@
+species: Charmander
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Flare Blitz]
+    - [Dragon Claw]
+    - [Brick Break]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poké]
+nature: Jolly
+evs: {hp: 44, atk: 252, def: 0, spA: 0, spD: 0, spe: 212}
+ivs: 31
+---
+species: Charmander
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Fire Blast]
+    - [Dragon Pulse]
+    - [Ancient Power]
+    - [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poké]
+nature: Modest
+evs: {hp: 76, atk: 0, def: 0, spA: 180, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

@@ -1,5 +1,5 @@
 species: Latios
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Power Weight]
 ability: [Levitate]
@@ -18,7 +18,7 @@ ivs: 0
 evs: 0
 ---
 species: Latios
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Levitate]
@@ -37,7 +37,7 @@ ivs: 0
 evs: 0
 ---
 species: Latios
-setname: Jet Fighter
+setname: a-Jet Fighter
 tags: [advanced]
 item: [Sky Plate]
 ability: [Levitate]

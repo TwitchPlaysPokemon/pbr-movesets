@@ -1,5 +1,5 @@
 species: Raikou
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Aspear Berry, Petaya Berry, Leftovers]
 ability: [Pressure, Volt Absorb]
@@ -39,7 +39,7 @@ ivs: 0
 evs: {hp: 0, atk: 100, def: 20, spA: 0, spD: 0, spe: 20}
 ---
 species: Raikou
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [null]
 ability: [Pressure]

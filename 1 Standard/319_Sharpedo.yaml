@@ -1,0 +1,94 @@
+species: Sharpedo
+setname: Standard
+ball: [Dusk]
+tags: [standard]
+item: [Null]
+ability: [Rough Skin]
+moves:
+    - [Waterfall]
+    - [Payback]
+    - [Taunt]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Calm
+evs: {hp: 180, atk: 0, def: 180, spA: 0, spD: 148, spe: 0}
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 0}
+---
+species: Sharpedo
+setname: Max Attack
+ball: [Net]
+tags: [standard]
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [Thief]
+    - [Aqua Jet]
+    - [Rock Smash]
+    - [Screech]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Brave
+evs: {hp: 84, atk: 252, def: 92, spA: 0, spD: 80, spe: 0}
+ivs: 31
+---
+species: Sharpedo
+setname: Special
+ball: [Dive]
+tags: [standard]
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [Dark Pulse]
+    - [Brine]
+    - [Ancient Power]
+    - [Torment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Serious
+evs: {hp: 132, atk: 0, def: 164, spA: 0, spD: 52, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 4}
+---
+species: Sharpedo
+setname: Slow
+ball: [Heal]
+tags: [standard]
+item: [Iron Ball]
+ability: [Rough Skin]
+moves:
+    - [Assurance]
+    - [Aqua Jet]
+    - [Avalanche]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Sassy
+evs: {hp: 172, atk: 0, def: 84, spA: 0, spD: 164, spe: 0}
+ivs: {hp: 15, atk: 0, def: 15, spA: 15, spD: 15, spe: 0}
+---
+species: Sharpedo
+setname: Mega
+ball: [Premier]
+tags: [standard]
+item: [Everstone]
+ability: [Battle Armor]
+moves:
+    - [Bite]
+    - [Ice Fang]
+    - [Poison Fang]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Serious
+evs: {hp: 0, atk: 160, def: 4, spA: 0, spD: 0, spe: 252}
+ivs: 31

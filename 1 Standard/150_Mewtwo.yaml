@@ -1,0 +1,53 @@
+species: Mewtwo
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Confusion]
+    - [Aqua Tail]
+    - [Mud-Slap]
+    - [Psych Up]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Jolly
+evs: 0
+ivs: 0
+---
+species: Mewtwo
+setname: Me First
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Psycho Cut]
+    - [Me First]
+    - [Disable]
+    - [Miracle Eye]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Premier]
+nature: Hardy
+evs: 48
+ivs: 0
+---
+species: Mewtwo
+setname: Overpowered
+tags: [standard]
+item: [Iron Ball]
+ability: [Pressure]
+moves:
+    - [Psychic]
+    - [Ice Beam]
+    - [Aura Sphere]
+    - [Magic Coat]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Jolly
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}

@@ -1,5 +1,5 @@
 species: Kangaskhan
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Iron Ball]
 ability: [Inner Focus]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Kangaskhan
-setname: Toxic Orb
+setname: a-Toxic Orb
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Early Bird]
@@ -37,7 +37,7 @@ rarity: 0.5
 ball: [Safari]
 ---
 species: Kangaskhan
-setname: RagePunch
+setname: a-RagePunch
 tags: [advanced]
 item: [Wide Lens]
 ability: [Scrappy]
@@ -56,7 +56,7 @@ rarity: 0.5
 ball: [Timer]
 ---
 species: Kangaskhan
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Everstone]
 ability: [Technician]

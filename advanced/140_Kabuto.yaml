@@ -1,5 +1,5 @@
 species: Kabuto
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Dome Fossil, Hard Stone, Sharp Beak, Smooth Rock]
 ability: [Battle Armor, Swift Swim]
@@ -26,7 +26,7 @@ ivs: 31
 evs: {hp: 108, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Kabuto
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Dome Fossil, Sea Incense, Wave Incense, Rose Incense]
 ability: [Battle Armor, Swift Swim]

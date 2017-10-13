@@ -1,0 +1,59 @@
+species: Gastrodon
+setname: West Standard
+tags: [standard]
+item: [Null]
+ability: [Storm Drain]
+moves:
+    - [Brine]
+    - [Mud Bomb]
+    - [Sludge Bomb]
+    - [Acid Armor]
+gender: [m, f]
+form: West
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Net]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 100}
+---
+species: Gastrodon
+setname: West Physical
+tags: [standard]
+item: [Null]
+ability: [Storm Drain]
+moves:
+    - [Dive]
+    - [Dig]
+    - [Toxic]
+    - [Curse]
+gender: [m, f]
+form: West
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Docile
+ivs: 0
+evs: 84
+---
+species: Gastrodon
+setname: West Stockpile
+tags: [standard]
+item: [Null]
+ability: [Storm Drain]
+moves:
+    - [Whirlpool]
+    - [Sludge Bomb]
+    - [Spit Up]
+    - [Stock Pile]
+gender: [m, f]
+form: West
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Heal]
+nature: Modest
+ivs: 0
+evs: 84

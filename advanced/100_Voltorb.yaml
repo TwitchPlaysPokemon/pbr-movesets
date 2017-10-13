@@ -1,5 +1,5 @@
 species: Voltorb
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Starf Berry]
 ability: [aftermath]
@@ -17,7 +17,7 @@ rarity: 1.5
 ball: [Dive]
 ---
 species: Voltorb
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Focus Sash]
 ability: [Static]

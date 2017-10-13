@@ -1,0 +1,56 @@
+species: Duskull
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Night Shade]
+    - [Will-O-Wisp]
+    - [Pain Split]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dusk]
+nature: Impish
+ivs: 27
+evs: {hp: 252, atk: 28, def: 84, spA: 28, spD: 84, spe: 28}
+---
+species: Duskull
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Shadow Force]
+    - [Double-Edge]
+    - [Payback]
+    - [Shadow Sneak]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
+---
+species: Duskull
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Shadow Ball]
+    - [Ice Beam]
+    - [Charge Beam]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Modest
+ivs: 31
+evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}

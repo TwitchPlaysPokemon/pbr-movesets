@@ -1,5 +1,5 @@
 species: Arceus
-setname: Fighting Balanced
+setname: a-Fighting Balanced
 tags: [advanced]
 item: [Fist Plate]
 ability: [Multitype]
@@ -18,7 +18,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Arceus
-setname: Fighting Judgment
+setname: a-Fighting Judgment
 tags: [advanced]
 item: [Fist Plate]
 ability: [Multitype]

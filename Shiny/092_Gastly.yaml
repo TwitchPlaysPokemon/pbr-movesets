@@ -1,5 +1,6 @@
 species: Gastly
 setname: Shiny
+tags: [advanced,standard]
 item: [Focus Sash]
 ability: [Normalize]
 moves:

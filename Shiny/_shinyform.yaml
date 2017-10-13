@@ -1,6 +1,7 @@
 ingamename: SEEL
 species: Seel
 setname: Shiny
+tags: [advanced,standard]
 item: [Rawst Berry, Toxic Orb, Light Ball, NeverMelt-Ice]
 ability: [Thick Fat, Hydration]
 moves:
@@ -24,6 +25,7 @@ evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8}
 ---
 species: 
 setname: Shiny
+tags: [advanced,standard]
 item: [null]
 ability: [null]
 moves:

@@ -1,5 +1,5 @@
 species: Sandslash
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Chilan Berry, Watmel Berry, Smooth Rock, Passho Berry]
 ability: [Sand Veil]
@@ -20,7 +20,7 @@ biddable: true
 ball: [Safari]
 ---
 species: Sandslash
-setname: Earthquake
+setname: a-Earthquake
 tags: [advanced]
 item: [Stable Mulch, Silverpowder, Blackbelt]
 ability: [Sand Veil]

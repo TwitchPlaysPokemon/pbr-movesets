@@ -1,5 +1,5 @@
 species: Bidoof
-setname: Curse
+setname: a-Curse
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Simple]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Bidoof
-setname: Swords Dance
+setname: a-Swords Dance
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Simple]
@@ -40,7 +40,7 @@ ivs: 31
 evs: {hp: 128, atk: 124, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Bidoof
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Petaya Berry]
 ability: [Simple]

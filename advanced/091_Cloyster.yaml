@@ -1,5 +1,5 @@
 species: Cloyster
-setname: Skill Link
+setname: a-Skill Link
 tags: [advanced]
 item: [NeverMelt-Ice]
 ability: [Skill Link]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Timer]
 ---
 species: Cloyster
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Grip Claw, Icicle Plate]
 ability: [Shell Armor]
@@ -46,7 +46,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Cloyster
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Bubble Mail, NeverMelt-Ice, Soft Sand]
 ability: [Shell Armor]

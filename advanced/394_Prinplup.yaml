@@ -1,5 +1,5 @@
 species: Prinplup
-setname: Special 
+setname: a-Special 
 tags: [advanced]
 item: [Salac Berry, Lemonade]
 ability: [Torrent]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Great]
 ---
 species: Prinplup
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Pecha Berry, Light Ball, Oran Berry]
 ability: [Torrent]

@@ -1,5 +1,5 @@
 species: Chansey
-setname: Serene Grace
+setname: a-Serene Grace
 tags: [advanced]
 item: [Lucky Punch]
 ability: [Serene Grace]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Chansey
-setname: Natural Cure
+setname: a-Natural Cure
 tags: [advanced]
 item: [Lucky Punch]
 ability: [Natural Cure]

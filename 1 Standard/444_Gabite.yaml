@@ -1,0 +1,56 @@
+species: Gabite
+setname: Standard
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Dragon Rush]
+    - [Earth Power]
+    - [Fire Blast]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Serious
+evs: {hp: 80, atk: 0, def: 0, spA: 200, spD: 0, spe: 80}
+ivs: 31
+---
+species: Gabite
+setname: Physical
+ball: [Premier]
+tags: [standard]
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Outrage]
+    - [Dig]
+    - [Body Slam]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Brave
+evs: {hp: 104, atk: 0, def: 40, spA: 0, spD: 40, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+---
+species: Gabite
+setname: Special
+ball: [Repeat]
+tags: [standard]
+item: [Null]
+ability: [Rough Skin]
+moves:
+    - [Earth Power]
+    - [Dragon Breath]
+    - [Flamethrower]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+nature: Modest
+evs: {hp: 40, atk: 0, def: 0, spA: 200, spD: 0, spe: 40}
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}

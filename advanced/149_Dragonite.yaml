@@ -1,5 +1,5 @@
 species: Dragonite
-setname: Standard
+setname: a-Standard
 ability: [Inner Focus]
 nature: Modest
 ivs: 0
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Dragonite
-setname: High Stats
+setname: a-High Stats
 tags: [advanced]
 item: [Nomel Berry]
 ability: [Inner Focus]
@@ -35,7 +35,7 @@ rarity: 0.9
 ball: [Safari]
 ---
 species: Dragonite
-setname: Overpowered
+setname: a-Overpowered
 ability: [Inner Focus]
 nature: Modest
 ivs: 0

@@ -1,5 +1,5 @@
 species: Kabutops
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Dome Fossil]
 ability: [Battle Armor]
@@ -16,7 +16,7 @@ ivs: {hp: 7, atk: 7, def: 7, spA: 31, spD: 7, spe: 7}
 evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 0, spe: 88}
 ---
 species: Kabutops
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Null, Silk Scarf, Tamato Berry]
 ability: [Battle Armor]

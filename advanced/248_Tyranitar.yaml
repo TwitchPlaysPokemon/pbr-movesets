@@ -1,5 +1,5 @@
 species: Tyranitar
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sacred Ash, Quick Claw]
 ability: [Sand Stream]
@@ -20,7 +20,7 @@ ivs: 0
 evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 52}
 ---
 species: Tyranitar
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Chople Berry, Passho Berry, Shuca Berry, Hard Stone]
 ability: [Sand Stream]
@@ -45,7 +45,7 @@ ivs: {hp: 3, atk: 2, def: 3, spA: 3, spD: 2, spe: 2}
 evs: {hp: 0, atk: 0, def: 8, spA: 0, spD: 12, spe: 44}
 ---
 species: Tyranitar
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [Tunnel Mail, Hard Stone]
 ability: [Sand Stream]

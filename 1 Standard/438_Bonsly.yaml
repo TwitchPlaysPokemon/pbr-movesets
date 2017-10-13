@@ -1,0 +1,37 @@
+species: Bonsly
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Rock Slide]
+    - [Sucker Punch]
+    - [Curse]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poké]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 176, atk: 160, def: 0, spA: 0, spD: 172, spe: 0}
+---
+species: Bonsly
+setname: Special
+tags: [standard]
+item: [Stone Plate]
+ability: [Sturdy]
+moves:
+    - [Judgment]
+    - [Earth Power]
+    - [Calm Mind]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 96, atk: 0, def: 0, spA: 252, spD: 160, spe: 0}

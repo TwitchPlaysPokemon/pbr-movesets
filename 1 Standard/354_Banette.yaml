@@ -1,0 +1,75 @@
+species: Banette
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Shadow Ball]
+    - [Sucker Punch]
+    - [Taunt]
+    - [Torment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Serious
+ivs: 31
+evs: {hp: 80, atk: 0, def: 0, spA: 76, spD: 0, spe: 0}
+---
+species: Banette
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Frisk]
+moves:
+    - [Shadow Claw]
+    - [Sucker Punch]
+    - [Secret Power]
+    - [Screech]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Mild
+ivs: 11
+evs: 84
+---
+species: Banette
+setname: Max Attack
+tags: [standard]
+item: [Null]
+ability: [Frisk]
+moves:
+    - [Shadow Sneak]
+    - [Frustration]
+    - [Thief]
+    - [Mimic]
+gender: [m, f]
+happiness: 130
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 252, def: 0, spA: 88, spD: 0, spe: 48}
+---
+species: Banette
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Ominous Wind]
+    - [Dark Pulse]
+    - [Night Shade]
+    - [Grudge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 0, spA: 252, spD: 0, spe: 16}

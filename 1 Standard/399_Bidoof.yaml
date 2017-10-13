@@ -1,0 +1,37 @@
+species: Bidoof
+setname: Curse
+tags: [standard]
+item: [Sitrus Berry]
+ability: [Simple]
+moves:
+    - [Super Fang]
+    - [Crunch]
+    - [Quick Attack]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Quick]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 64, atk: 100, def: 64, spA: 0, spD: 190, spe: 0}
+---
+species: Bidoof
+setname: Swords Dance
+tags: [standard]
+item: [Sitrus Berry]
+ability: [Simple]
+moves:
+    - [Hyper Fang]
+    - [Aqua Tail]
+    - [Quick Attack]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poké]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 124, def: 128, spA: 0, spD: 128, spe: 0}

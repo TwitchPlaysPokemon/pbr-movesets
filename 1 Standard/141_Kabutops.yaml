@@ -1,0 +1,37 @@
+species: Kabutops
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Battle Armor]
+moves:
+    - [Aqua Tail]
+    - [Ancient Power]
+    - [X-Scissor]
+    - [Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Modest
+evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 0, spe: 88}
+ivs: {hp: 7, atk: 7, def: 7, spA: 31, spD: 7, spe: 7}
+---
+species: Kabutops
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Battle Armor]
+moves:
+    - [Rock Throw]
+    - [Aqua Jet]
+    - [Thief]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Sassy 
+evs: 0
+ivs: 18

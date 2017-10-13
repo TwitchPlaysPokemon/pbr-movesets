@@ -1,0 +1,56 @@
+species: Drowzee
+setname: Special
+tags: [standard]
+item: [Jaboca Berry]
+ability: [Insomnia]
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Nasty Plot]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Heal]
+nature: Bold
+evs: {hp: 128, atk: 0, def: 252, spA: 128, spD: 0, spe: 0}
+ivs: 31
+---
+species: Drowzee
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Zen Headbutt]
+    - [Brick Break]
+    - [Substitute]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Quick]
+nature: Jolly
+evs: {hp: 124, atk: 132, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+---
+species: Drowzee
+setname: Dream Eater
+tags: [standard]
+item: [Null]
+ability: [Shadow Tag]
+moves:
+    - [Shadow Ball]
+    - [Dream Eater]
+    - [Seismic Toss]
+    - [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Dusk]
+nature: Relaxed
+evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 84, spe: 4}
+ivs: 31

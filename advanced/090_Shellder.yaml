@@ -1,5 +1,5 @@
 species: Shellder
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Wacan Berry]
 ability: [Skill Link]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Repeat]
 ---
 species: Shellder
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Life Orb]
 ability: [Shell Armor]

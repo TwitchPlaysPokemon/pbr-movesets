@@ -1,0 +1,37 @@
+species: Flareon
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Guts]
+moves:
+    - [Fire Fang]
+    - [Superpower]
+    - [Headbutt]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Dusk]
+nature: Serious
+evs: 0
+ivs: {hp: 31, atk: 25, def: 25, spA: 31, spD: 25, spe: 25}
+---
+species: Flareon
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Overheat]
+    - [Shadow Ball]
+    - [Wish]
+    - [Detect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Cherish]
+nature: Bold
+evs: {hp: 100, atk: 0, def: 108, spA: 100, spD: 100, spe: 100}
+ivs: 0

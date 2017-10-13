@@ -1,5 +1,5 @@
 species: Electrode
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Space Mail, Magnet]
 ability: [Soundproof, Static, Aftermath]
@@ -20,7 +20,7 @@ rarity: 1.1
 ball: [Great]
 ---
 species: Electrode
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Static]
@@ -38,7 +38,7 @@ rarity: 0.9
 ball: [Poké]
 ---
 species: Electrode
-setname: Sonic Boom
+setname: a-Sonic Boom
 tags: [advanced]
 item: [Durin Berry]
 ability: [Soundproof]

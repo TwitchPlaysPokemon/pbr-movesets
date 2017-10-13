@@ -1,5 +1,5 @@
 species: Arcanine
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Intimidate]
@@ -27,7 +27,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Arcanine
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null]
 ability: [Flash Fire]

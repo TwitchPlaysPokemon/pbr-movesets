@@ -1,0 +1,37 @@
+species: Elekid
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Vital Spirit]
+moves:
+    - [Thunderbolt]
+    - [Psychic]
+    - [Hidden Power]
+    - [Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 0, def: 36, spA: 128, spD: 128, spe: 88}
+---
+species: Elekid
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunder Punch]
+    - [Hammer Arm]
+    - [Fire Punch]
+    - [Meditate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Cherish]
+nature: Adamant
+ivs: 31
+evs: {hp: 116, atk: 252, def: 24, spA: 0, spD: 0, spe: 116}

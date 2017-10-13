@@ -1,5 +1,5 @@
 species:  Deoxys
-setname: Defense Attack
+setname: a-Defense Attack
 tags: [advanced]
 item: [Tamato Berry]
 ability: [Pressure]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Poke]
 ---
 species: Deoxys
-setname: Defense Counter
+setname: a-Defense Counter
 tags: [advanced]
 item: [Star Piece]
 ability: [Pressure]

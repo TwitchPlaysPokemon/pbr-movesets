@@ -1,5 +1,5 @@
 species: Electivire
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Electirizer, Power Herb]
 ability: [Motor Drive]
@@ -22,7 +22,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
 evs: {hp: 48, atk: 48, def: 48, spA: 252, spD: 48, spe: 48}
 ---
 species: Electivire
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Motor Drive, Vital Spirit]

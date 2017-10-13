@@ -1,0 +1,56 @@
+species: Aipom
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Run Away]
+moves:
+    - [Fake Out]
+    - [Body Slam]
+    - [Gunk Shot]
+    - [Sand Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Quick]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Aipom
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Pickup]
+moves:
+    - [Swift]
+    - [Shadow Ball]
+    - [Grass Knot]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 168, atk: 0, def: 0, spA: 208, spD: 0, spe: 132}
+---
+species: Aipom
+setname: Skill Link
+tags: [standard]
+item: [Null]
+ability: [Skill Link]
+moves:
+    - [Double Slap]
+    - [Brick Break]
+    - [Shadow Claw]
+    - [Tickle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Repeat]
+nature: Impish
+ivs: 31
+evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 84, spe: 84}

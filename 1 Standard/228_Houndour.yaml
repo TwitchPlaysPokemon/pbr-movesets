@@ -1,0 +1,37 @@
+species: Houndour
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Overheat]
+    - [Dark Pulse]
+    - [Solar Beam]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Great]
+nature: Timid
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 168, spD: 0, spe: 168}
+---
+species: Houndour
+setname: Reversal
+tags: [standard]
+item: [Focus Sash]
+ability: [Early Bird]
+moves:
+    - [Crunch]
+    - [Fire Fang]
+    - [Reversal]
+    - [Rage]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

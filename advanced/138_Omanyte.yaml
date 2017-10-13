@@ -1,5 +1,5 @@
 species: Omanyte
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Helix Fossil, Splash Plate, Wide Lens]
 ability: [Shell Armor, Swift Swim]
@@ -23,7 +23,7 @@ ivs: {hp: 31, atk: 3, def: 30, spA: 31, spD: 30, spe: 30}
 evs: {hp: 100, atk: 0, def: 60, spA: 108, spD: 140, spe: 100}
 ---
 species: Omanyte
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Helix Fossil, Splash Plate, Dread Plate, Smooth Rock, Micle Berry]
 ability: [Shell Armor, Swift Swim]

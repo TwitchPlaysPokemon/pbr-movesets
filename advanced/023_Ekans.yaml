@@ -1,5 +1,5 @@
 species: Ekans
-setname: Intimidate
+setname: a-Intimidate
 tags: [advanced]
 item: [Wide Lens]
 ability: [Intimidate]
@@ -18,7 +18,7 @@ rarity: 1.4
 ball: [Safari]
 ---
 species: Ekans
-setname: Shed Skin
+setname: a-Shed Skin
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Shed Skin]

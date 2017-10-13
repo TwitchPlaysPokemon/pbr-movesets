@@ -1,5 +1,5 @@
 species: Quagsire
-setname: Standard
+setname: a-Standard
 ability: [Damp, Unaware, Water Absorb]
 moves:
     - [Muddy Water, Surf, Dive]
@@ -16,7 +16,7 @@ ivs: 14
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Quagsire
-setname: Physical
+setname: a-Physical
 ability: [Damp]
 moves:
     - [Waterfall, Aqua Tail, Earthquake]
@@ -35,7 +35,7 @@ ivs: 31
 evs: {hp: 16, atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
 ---
 species: Quagsire
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Mystic Water, Soft Sand]
 ability: [Damp, Unaware, Water Absorb]

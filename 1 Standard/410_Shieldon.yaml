@@ -1,0 +1,75 @@
+species: Shieldon
+setname: Metal Burst
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Stone Edge]
+    - [Iron Head]
+    - [Fissure]
+    - [Metal Burst]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 142, def: 32, spA: 0, spD: 84, spe: 0}
+---
+species: Shieldon
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Stone Edge]
+    - [Iron Tail]
+    - [Earthquake]
+    - [Counter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 168, atk: 168, def: 0, spA: 0, spD: 0, spe: 172}
+---
+species: Shieldon
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Soundproof]
+moves:
+    - [Flash Cannon]
+    - [Fire Blast]
+    - [Thunder]
+    - [Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Timer]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 172, spD: 84, spe: 0}
+---
+species: Shieldon
+setname: Flinch
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Rock Slide]
+    - [Iron Head]
+    - [Earthquake]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Repeat]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 132, atk: 252, def: 0, spA: 0, spD: 0, spe: 124}

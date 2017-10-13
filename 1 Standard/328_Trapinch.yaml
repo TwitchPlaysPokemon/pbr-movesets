@@ -1,0 +1,37 @@
+species: Trapinch
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Earthquake]
+    - [Crunch]
+    - [Rock Slide]
+    - [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.8
+ball: [Poké]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+---
+species: Trapinch
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Arena Trap]
+moves:
+    - [Earth Power]
+    - [Signal Beam]
+    - [Giga Drain]
+    - [Fissure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 30}
+evs: {hp: 252, atk: 0, def: 52, spA: 152, spD: 52, spe: 0}

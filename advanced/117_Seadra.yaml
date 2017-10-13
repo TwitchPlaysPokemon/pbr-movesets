@@ -1,5 +1,5 @@
 species: Seadra
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Null, Sea Incense, Wave Incense, Dragon Fang]
 ability: [Sniper]
@@ -23,7 +23,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Seadra
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Petaya Berry]
 ability: [Poison Point]
@@ -42,7 +42,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Seadra
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Null]
 ability: [Damp]

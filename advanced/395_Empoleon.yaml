@@ -1,5 +1,5 @@
 species: Empoleon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Torrent]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Empoleon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Zinc, Wave Incense, Sea Incense, Rose Incense, Icicle Plate]
 ability: [Torrent]

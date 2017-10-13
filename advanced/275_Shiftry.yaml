@@ -1,5 +1,5 @@
 species: Shiftry
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Muscle Band]
 ability: [Early Bird]
@@ -18,7 +18,7 @@ ivs: 12
 evs: {hp: 72, atk: 148, def: 72, spA: 72, spD: 72, spe: 72}
 ---
 species: Shiftry
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Green Shard, Scope Lens, Dragon Fang]
 ability: [Early Bird]
@@ -40,7 +40,7 @@ ivs: {hp: 17, atk: 1, def: 17, spA: 19, spD: 19, spe: 17}
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 108}
 ---
 species: Shiftry
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Scope Lens]
 ability: [Chlorophyll]

@@ -1,5 +1,5 @@
 species: Salamence
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Intimidate]
@@ -18,7 +18,7 @@ ivs: 0
 evs: 0
 ---
 species: Salamence
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Scope Lens, Draco Plate]
 ability: [Intimidate]
@@ -41,7 +41,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 2, spe: 3}
 evs: {hp: 0, atk: 28, def: 8, spA: 12, spD: 12, spe: 8}
 ---
 species: Salamence
-setname: High Atk
+setname: a-High Atk
 tags: [advanced]
 item: [Lansat Berry, Grepa Berry, Black Sludge, Toxic Orb]
 ability: [Intimidate]

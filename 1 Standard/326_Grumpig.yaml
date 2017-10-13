@@ -1,0 +1,75 @@
+species: Grumpig
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Extrasensory]
+    - [Grass Knot]
+    - [Bounce]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Luxury]
+nature: Serious
+ivs: 25
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Grumpig
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Gluttony]
+moves:
+    - [Zen Headbutt]
+    - [Drain Punch]
+    - [Thief]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Net]
+nature: Adamant
+ivs: {hp: 17, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 112}
+---
+species: Grumpig
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Psychic]
+    - [Focus Blast]
+    - [Energy Ball]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
+nature: Serious
+ivs: {hp: 13, atk: 13, def: 13, spA: 20, spD: 13, spe: 20}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 84}
+---
+species: Grumpig
+setname: Screens
+tags: [standard]
+item: [Light Clay]
+ability: [Thick Fat]
+moves:
+    - [Extrasensory]
+    - [Payback]
+    - [Reflect]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Cherish]
+nature: Naughty
+ivs: {hp: 15, atk: 31, def: 0, spA: 0, spD: 0, spe: 15}
+evs: {hp: 0, atk: 148, def: 0, spA: 0, spD: 0, spe: 0}

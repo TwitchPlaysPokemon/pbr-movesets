@@ -1,5 +1,5 @@
 species: Raichu
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Magnet, Cornn Berry]
 ability: [Static]
@@ -22,7 +22,7 @@ rarity: 1.2
 ball: [Ultra]
 ---
 species: Raichu
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Berry Juice, Cheri Berry, Shuca Berry, Silverpowder, Poison Barb]
 ability: [Lightningrod]
@@ -46,7 +46,7 @@ rarity: 1.2
 ball: [Heal]
 ---
 species: Raichu
-setname: Mixed
+setname: a-Mixed
 ability: [Static]
 nature: Docile
 ivs: 9

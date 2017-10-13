@@ -1,0 +1,37 @@
+species: Umbreon
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Assurance]
+    - [Psychic]
+    - [Hidden Power]
+    - [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Dusk]
+nature: Quiet
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 0, atk: 180, def: 0, spA: 72, spD: 0, spe: 0}
+---
+species: Umbreon
+setname: Last Resort
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Bite]
+    - [Dig]
+    - [Secret Power]
+    - [Last Resort]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Luxury]
+nature: Serious
+ivs: 15
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 140}

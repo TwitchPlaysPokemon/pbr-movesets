@@ -1,5 +1,5 @@
 species: Luvdisc
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Wide Lens]
 ability: [Hydration, Swift Swim]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 252, atk: 176, def: 16, spA: 0, spD: 0, spe: 64}
 ---
 species: Luvdisc
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Specs]
 ability: [Hydration, Swift Swim]

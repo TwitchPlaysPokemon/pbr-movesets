@@ -1,5 +1,5 @@
 species: Alakazam
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [null]
 ability: [Inner Focus, Magic Guard, Synchronize]
@@ -18,7 +18,7 @@ ivs: {hp: 14, atk: 31, def: 14, spA: 14, spD: 14, spe: 14}
 evs: {hp: 80, atk: 252, def: 40, spA: 0, spD: 0, spe: 0}
 ---
 species: Alakazam
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Metal Coat]
 ability: [Synchronize]

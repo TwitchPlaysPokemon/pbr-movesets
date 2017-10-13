@@ -1,5 +1,5 @@
 species: Ivysaur
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Yache Berry, Occa Berry, Miracle Seed]
 ability: [Chlorophyll]
@@ -19,7 +19,7 @@ gender: [m, f]
 ball: [Great]
 ---
 species: Ivysaur
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Earth Plate, Petaya Berry]
 ability: [Overgrow]

@@ -1,5 +1,5 @@
 species: Horsea
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Lum Berry, Silverpowder]
 ability: [Swift Swim]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Horsea
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Focus Sash]
 ability: [Sniper]

@@ -1,5 +1,5 @@
 species: Baltoy
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Lum Berry, Hard Stone, Leftovers]
 ability: [Levitate]
@@ -24,7 +24,7 @@ ivs: 31
 evs: {hp: 208, atk: 172, def: 64, spA: 0, spD: 64, spe: 0}
 ---
 species: Baltoy
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Levitate]
@@ -42,7 +42,7 @@ ivs: 31
 evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
 ---
 species: Baltoy
-setname: Explosion
+setname: a-Explosion
 tags: [advanced]
 item: [Light Clay]
 ability: [Levitate]

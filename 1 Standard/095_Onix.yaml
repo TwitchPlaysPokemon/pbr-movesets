@@ -1,0 +1,37 @@
+species: Onix
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Flail]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.75
+ball: [Dusk]
+nature: Adamant
+evs: {hp: 60, atk: 220, def: 4, spA: 0, spD: 48, spe: 176}
+ivs: 31
+---
+species: Onix
+setname: Lead
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Rock Tomb]
+    - [Toxic]
+    - [Taunt]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Hasty
+evs: {hp: 176, atk: 80, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}

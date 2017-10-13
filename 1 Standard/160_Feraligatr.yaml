@@ -1,0 +1,56 @@
+species: Feraligatr
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Dive]
+    - [Rock Slide]
+    - [Bite]
+    - [Leer]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Modest
+ivs: 4
+evs: 84
+---
+species: Feraligatr
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Aqua Tail]
+    - [Earthquake]
+    - [Ice Punch]
+    - [Mud Sport]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Modest
+ivs: 11
+evs: 0
+---
+species: Feraligatr
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Water Pulse]
+    - [Dragon Pulse]
+    - [Icy Wind]
+    - [Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Lonely
+ivs: 31
+evs: {hp: 96, atk: 236, def: 0, spA: 120, spD: 0, spe: 56}

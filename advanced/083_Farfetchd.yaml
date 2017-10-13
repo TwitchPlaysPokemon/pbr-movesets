@@ -1,5 +1,5 @@
 species: Farfetch'd
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Stick]
 ability: [Inner Focus, Keen Eye]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Farfetch'd
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Stick]
 ability: [Inner Focus]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Farfetch'd
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [White Herb]
 ability: [Inner Focus]

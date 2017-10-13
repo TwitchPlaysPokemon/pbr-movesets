@@ -1,0 +1,37 @@
+species: Arcanine
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Flame Wheel]
+    - [Crunch]
+    - [Extreme Speed]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Docile
+evs: {hp: 0, atk: 0, def: 16, spA: 0, spD: 72, spe: 0}
+ivs: 23
+---
+species: Arcanine
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Overheat]
+    - [Dragon Pulse]
+    - [Hidden Power]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Cherish]
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 0, spA: 96, spD: 0, spe: 0}
+ivs: {hp: 7, atk: 30, def: 6, spA: 6, spD: 7, spe: 7}

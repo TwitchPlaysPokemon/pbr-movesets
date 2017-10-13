@@ -1,5 +1,5 @@
 species: Magneton 
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Shed Shell, Metal Coat, Magnet]
 ability: [Magnet Pull]
@@ -24,7 +24,7 @@ rarity: 1.0
 ball: [Great]
 ---
 species: Magneton
-setname: ResTalk
+setname: a-ResTalk
 tags: [advanced]
 item: [Chesto Berry, Lum Berry]
 ability: [Sturdy]
@@ -42,7 +42,7 @@ rarity: 0.5
 ball: [Heal]
 ---
 species: Magneton
-setname: PhyStab
+setname: a-PhyStab
 tags: [advanced]
 item: [Shuca Berry, Occa Berry]
 ability: [Magnet Pull]

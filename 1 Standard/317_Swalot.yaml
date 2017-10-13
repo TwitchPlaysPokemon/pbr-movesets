@@ -1,0 +1,56 @@
+species: Swalot
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Liquid Ooze]
+moves:
+    - [Sludge Bomb]
+    - [Earthquake]
+    - [Spit Up]
+    - [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Timer]
+nature: Naughty
+ivs: 31
+evs: {hp: 24, atk: 60, def: 0, spA: 68, spD: 0, spe: 28}
+---
+species: Swalot
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Sticky Hold]
+moves:
+    - [Earthquake]
+    - [Fire Punch]
+    - [Ice Punch]
+    - [Gastro Acid]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 172, def: 0, spA: 0, spD: 0, spe: 36}
+---
+species: Swalot
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Sticky Hold]
+moves:
+    - [Sludge]
+    - [Giga Drain]
+    - [Hyper Beam]
+    - [Amnesia]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Mild
+ivs: {hp: 31, atk: 0, def: 15, spA: 31, spD: 15, spe: 31}
+evs: {hp: 80, atk: 0, def: 0, spA: 212, spD: 0, spe: 0}

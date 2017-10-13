@@ -1,0 +1,94 @@
+species: Tropius
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Giga Drain]
+    - [Aerial Ace]
+    - [Secret Power]
+    - [Mimic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Poké]
+nature: Mild
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 164, spD: 0, spe: 92}
+---
+species: Tropius
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Fly]
+    - [Leaf Blade]
+    - [Outrage]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 104, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Tropius
+setname: Max SpAtt
+tags: [standard]
+item: [Null]
+ability: [Solar Power]
+moves:
+    - [Grass Knot]
+    - [Air Cutter]
+    - [Twister]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 15, atk: 0, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 124}
+---
+species: Tropius
+setname: Chlorophyll
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Solar Beam]
+    - [Air Slash]
+    - [Hidden Power]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Quiet
+ivs: {hp: 2, atk: 2, def: 11, spA: 30, spD: 11, spe: 30}
+evs: 0
+---
+species: Tropius
+setname: Solar Power
+tags: [standard]
+item: [Null]
+ability: [Solar Power]
+moves:
+    - [Solar Beam]
+    - [Hidden Power]
+    - [Tailwind]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Modest
+ivs: {hp: 2, atk: 2, def: 2, spA: 2, spD: 2, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 112, spD: 0, spe: 200}

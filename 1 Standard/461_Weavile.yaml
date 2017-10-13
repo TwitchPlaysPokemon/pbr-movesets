@@ -1,0 +1,94 @@
+species: Weavile
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Ice Punch]
+    - [Night Slash]
+    - [Focus Blast]
+    - [Snatch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 0}
+---
+species: Weavile
+setname: Max Attack
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Ice Shard]
+    - [Pursuit]
+    - [Assist]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Weavile
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Blizzard]
+    - [Dark Pulse]
+    - [Focus Blast]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: 84
+---
+species: Weavile
+setname: Slow
+tags: [standard]
+item: [Iron Ball]
+ability: [Pressure]
+moves:
+    - [Avalanche]
+    - [Assurance]
+    - [Counter]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: Sassy
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 160, atk: 0, def: 212, spA: 0, spD: 0, spe: 0}
+---
+species: Weavile
+setname: PP Stall
+tags: [standard]
+item: [Leppa Berry]
+ability: [Pressure]
+moves:
+    - [Punishment]
+    - [Dig]
+    - [Spite]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 80, atk: 0, def: 160, spA: 0, spD: 80, spe: 0}

@@ -1,5 +1,5 @@
 species: Eevee
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Muscle Band, Salac Berry, Power Herb, Toxic Orb]
 ability: [Adaptability]
@@ -23,7 +23,7 @@ ivs: 31
 evs: {hp: 100, atk: 100, def: 108, spA: 0, spD: 100, spe: 100}
 ---
 species: Eevee
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silk Scarf, Wise Glasses, Sitrus Berry]
 ability: [Adaptability]
@@ -42,7 +42,7 @@ ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
 evs: {hp: 80, atk: 0, def: 24, spA: 252, spD: 24, spe: 128}
 ---
 species: Eevee
-setname: Last Resort
+setname: a-Last Resort
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Adaptability]

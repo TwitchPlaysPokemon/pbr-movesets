@@ -1,5 +1,5 @@
 species: Shuppet
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Kasib Berry, Colbur Berry, Berry Juice]
 ability: [Insomnia]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Shuppet
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [King's Rock, Wide Lens]
 ability: [Insomnia]

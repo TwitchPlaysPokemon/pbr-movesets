@@ -1,5 +1,5 @@
 species: Ninjask
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Macho Brace]
 ability: [Speed Boost]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 124, atk: 20, def: 124, spA: 116, spD: 124, spe: 0}
 ---
 species: Ninjask
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Specs]
 ability: [Speed Boost]
@@ -39,7 +39,7 @@ ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 3}
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ---
 species: Ninjask
-setname: Baton Pass
+setname: a-Baton Pass
 tags: [advanced]
 item: [Apicot Berry, Metal Coat]
 ability: [Speed Boost]

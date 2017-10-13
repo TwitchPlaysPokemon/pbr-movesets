@@ -1,0 +1,37 @@
+species: Kadabra
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Shock Wave]
+    - [Seismic Toss]
+    - [Magic Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Quick]
+nature: Adamant
+evs: {hp: 28, atk: 0, def: 112, spA: 28, spD: 100, spe: 28}
+ivs: 31
+---
+species: Kadabra
+setname: Physical
+tags: [standard]
+item: [Toxic Orb]
+ability: [Magic Guard]
+moves:
+    - [Zen Headbutt]
+    - [Facade]
+    - [Fling]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Heal]
+nature: Adamant
+evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}
+ivs: 31

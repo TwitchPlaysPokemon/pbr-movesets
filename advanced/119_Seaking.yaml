@@ -1,5 +1,5 @@
 species: Seaking
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Null]
 ability: [Water Veil]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Seaking
-setname: Powerhouse
+setname: a-Powerhouse
 tags: [advanced]
 item: [Durin Berry]
 ability: [Water Veil, Swift Swim]

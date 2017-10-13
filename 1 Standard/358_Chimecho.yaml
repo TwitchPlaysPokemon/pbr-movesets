@@ -1,0 +1,56 @@
+species: Chimecho
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Shadow Ball]
+    - [Shock Wave]
+    - [Heal Bell]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Luxury]
+nature: Docile
+ivs: 16
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
+---
+species: Chimecho
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt]
+    - [Secret Power]
+    - [Rollout]
+    - [Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Adamant
+ivs: 31
+evs: {hp: 68, atk: 220, def: 52, spA: 0, spD: 20, spe: 148}
+---
+species: Chimecho
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Hyper Voice]
+    - [Energy Ball]
+    - [Charge Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Heal]
+nature: Timid
+ivs: 31
+evs: {hp: 48, atk: 0, def: 0, spA: 0, spD: 0, spe: 152}

@@ -1,5 +1,5 @@
 species: Trapinch
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Belue Berry, Focus Sash]
 ability: [Arena Trap, Hyper Cutter]
@@ -21,7 +21,7 @@ ivs: 31
 evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
 ---
 species: Trapinch
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Custap Berry, Choice Specs]
 ability: [Arena Trap]

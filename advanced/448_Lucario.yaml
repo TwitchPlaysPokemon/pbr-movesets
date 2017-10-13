@@ -1,5 +1,5 @@
 species: Lucario
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Hondew Berry, Pamtre Berry, Leppa Berry]
 ability: [Inner Focus, Steadfast]
@@ -20,7 +20,7 @@ ivs: 21
 evs: 0
 ---
 species: Lucario
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Inner Focus, Steadfast]
@@ -39,7 +39,7 @@ ivs: 0
 evs: 68
 ---
 species: Lucario
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Steel Mail, Splash Plate]
 ability: [Inner Focus, Steadfast]
@@ -60,7 +60,7 @@ ivs: 0
 evs: {hp: 80, atk: 12, def: 80, spA: 0, spD: 80, spe: 0}
 ---
 species: Lucario
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Power Anklet]
 ability: [Inner Focus]

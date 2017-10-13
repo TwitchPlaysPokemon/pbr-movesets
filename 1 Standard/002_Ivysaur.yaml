@@ -1,0 +1,37 @@
+species: Ivysaur
+setname: Sunny Day
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Power Whip]
+    - [Weather Ball]
+    - [Headbutt]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: Brave
+ivs: 23
+evs: 85
+---
+species: Ivysaur
+setname: Growth
+tags: [standard]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Petal dance]
+    - [Sludge]
+    - [Secret Power]
+    - [Growth]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Great]
+nature: Naive
+ivs: 31
+evs: {hp: 92, atk: 56, def: 100, spA: 200, spD: 32, spe: 28}

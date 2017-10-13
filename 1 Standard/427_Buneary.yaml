@@ -1,0 +1,56 @@
+species: Buneary
+setname: Physical
+tags: [standard]
+item: [Null]
+ball: [Heal]
+ability: [Klutz]
+moves:
+    - [Fake Out]
+    - [Frustration]
+    - [Bounce]
+    - [Flail]
+gender: [m, f]
+happiness: 0
+biddable: True
+rarity: 0.45
+nature: Adamant
+ivs: 31
+evs: {hp: 72, atk: 116, def: 88, spA: 0, spD: 56, spe: 48}
+---
+species: Buneary
+setname: Endure
+tags: [standard]
+item: [Salac Berry]
+ball: [Nest]
+ability: [Limber]
+moves:
+    - [High Jump Kick]
+    - [Ice Punch]
+    - [Flail]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 168, def: 44, spA: 0, spD: 44, spe: 168}
+---
+species: Buneary
+setname: Standard
+tags: [standard]
+item: [Life Orb]
+ball: [Premier]
+ability: [Limber]
+moves:
+    - [Hyper Voice]
+    - [Ice Beam]
+    - [Thunderbolt]
+    - [Fake Tears]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 92, spA: 252, spD: 0, spe: 160}

@@ -1,0 +1,113 @@
+species: Heatran
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Magma Storm]
+    - [Earth Power]
+    - [Crunch]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Heatran
+setname: Physical
+tags: [standard]
+item: [Macho Brace]
+ability: [Flash Fire]
+moves:
+    - [Iron Head]
+    - [Fire Fang]
+    - [Rock Slide]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Serious
+ivs: 10
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 212}
+---
+species: Heatran
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Overheat]
+    - [Hidden Power]
+    - [Solar Beam]
+    - [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Repeat]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 3, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Heatran
+setname: Slow
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Eruption]
+    - [Payback]
+    - [Stealth Rock]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Heal]
+nature: Sassy
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Heatran
+setname: Stall
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Fire Spin]
+    - [Dig]
+    - [Will-O-Wisp]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.1
+ball: [Timer]
+nature: Bold
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Heatran
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Magma Storm]
+    - [Flash Cannon]
+    - [Earth Power]
+    - [Metal Sound]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 3, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

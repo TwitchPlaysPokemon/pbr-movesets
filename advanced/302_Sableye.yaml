@@ -1,5 +1,5 @@
 species: Sableye
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Keen Eye]
@@ -20,7 +20,7 @@ ivs: {hp: 13, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 124, def: 128, spA: 0, spD: 128, spe: 128}
 ---
 species: Sableye
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Oran Berry, Salac Berry, Magnet]
 ability: [Keen Eye]
@@ -43,7 +43,7 @@ ivs: 31
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Sableye
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Cheri Berry, Splash Plate, Stone Plate, Lagging Tail]
 ability: [Stall]
@@ -66,7 +66,7 @@ ivs: 31
 evs: {hp: 252, atk: 0, def: 44, spA: 168, spD: 44, spe: 0}
 ---
 species: Sableye
-setname: Ability Steal
+setname: a-Ability Steal
 tags: [advanced]
 item: [null]
 ability: [Stall]

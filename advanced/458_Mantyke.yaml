@@ -1,5 +1,5 @@
 species: Mantyke
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [DeepSeaScale]
 ability: [Swift Swim]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 100, atk: 0, def: 100, spA: 40, spD: 0, spe: 0}
 ---
 species: Mantyke
-setname: Wall
+setname: a-Wall
 tags: [advanced]
 item: [Big Root]
 ability: [Water Absorb, Water Veil]

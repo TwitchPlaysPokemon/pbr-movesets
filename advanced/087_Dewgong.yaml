@@ -1,5 +1,5 @@
 species: Dewgong 
-setname: Thick Fat
+setname: a-Thick Fat
 tags: [advanced]
 item: [Mystic Water, NeverMelt-Ice]
 ability: [Thick Fat]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Dewgong
-setname: Hydration
+setname: a-Hydration
 tags: [advanced]
 item: [Big Root]
 ability: [Hydration]
@@ -41,7 +41,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Dewgong
-setname: Ice Body
+setname: a-Ice Body
 tags: [advanced]
 item: [Icy Rock]
 ability: [Ice Body]

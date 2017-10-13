@@ -1,5 +1,5 @@
 species: Lanturn
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Blue Flute, Magnet, Twistedspoon, NeverMelt-Ice]
 ability: [Volt Absorb, Water Absorb]
@@ -26,7 +26,7 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 128, spA: 128, spD: 128, spe: 124}
 ---
 species: Lanturn
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Magnet, Belue Berry]
 ability: [Volt Absorb, Water Absorb]

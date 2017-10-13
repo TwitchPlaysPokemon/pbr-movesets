@@ -1,5 +1,5 @@
 species: Turtwig 
-setname: Shell Armor
+setname: a-Shell Armor
 tags: [advanced]
 item: [Sitrus Berry, Razor Claw]
 ability: [Shell Armor]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Poké]
 ---
 species: Turtwig
-setname: Overgrow
+setname: a-Overgrow
 tags: [advanced]
 item: [Salac Berry]
 ability: [Overgrow]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Poké]
 ---
 species: Turtwig
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Lum Berry]
 ability: [Shell Armor]

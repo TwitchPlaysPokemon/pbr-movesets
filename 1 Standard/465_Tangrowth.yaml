@@ -1,0 +1,94 @@
+species: Tangrowth
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Leaf Guard]
+moves:
+    - [Grass Knot]
+    - [Poison Jab]
+    - [Nature Power]
+    - [Growth]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Safari]
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Tangrowth
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Bullet Seed]
+    - [Payback]
+    - [Rock Tomb]
+    - [Power Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Repeat]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 100}
+---
+species: Tangrowth
+setname: Max Attack
+tags: [standard]
+item: [Null]
+ability: [Leaf Guard]
+moves:
+    - [Vine Whip]
+    - [Cut]
+    - [Thief]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Nest]
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 164}
+---
+species: Tangrowth
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Giga Drain]
+    - [Hidden Power]
+    - [Ancient Power]
+    - [Stun Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Net]
+nature: Mild
+ivs: {hp: 2, atk: 2, def: 3, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 40, spe: 0}
+---
+species: Tangrowth
+setname: Sunny Day
+tags: [standard]
+item: [Heat Rock]
+ability: [Chlorophyll]
+moves:
+    - [Solar Beam]
+    - [Hidden Power]
+    - [Rock Slide]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Cherish]
+nature: Serious
+ivs: {hp: 14, atk: 14, def: 15, spA: 14, spD: 15, spe: 14}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 60, spe: 0}

@@ -1,0 +1,53 @@
+species: Arceus
+setname: Ghost Physical
+tags: [standard]
+item: [Spooky Plate]
+ability: [Multitype]
+moves:
+    - [Lick]
+    - [Constrict]
+    - [Confuse Ray]
+    - [Whirlwind]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Dusk]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Ghost Special
+tags: [standard]
+item: [Spooky Plate]
+ability: [Multitype]
+moves:
+    - [Night Shade]
+    - [Razor Wind]
+    - [Magic Coat]
+    - [Perish Song]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Dusk]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Ghost Judgment
+tags: [standard]
+item: [Spooky Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Focus Blast]
+    - [Dark Pulse]
+    - [Will-O-Wisp]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

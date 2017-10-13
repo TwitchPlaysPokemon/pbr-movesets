@@ -1,0 +1,56 @@
+species: Gligar
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Earthquake]
+    - [Cross Poison]
+    - [U-Turn]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Dusk]
+nature: Jolly
+ivs: 9
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+---
+species: Gligar
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Sand Veil]
+moves:
+    - [Earth Power]
+    - [Sludge Bomb]
+    - [Dark Pulse]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Mild
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 100}
+---
+species: Gligar
+setname: Stall
+tags: [standard]
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Dig]
+    - [Rock Slide]
+    - [Toxic]
+    - [Torment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Timer]
+nature: Serious
+ivs: 31
+evs: {hp: 160, atk: 0, def: 112, spA: 0, spD: 112, spe: 124}

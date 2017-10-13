@@ -1,0 +1,75 @@
+species: Mothim
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Swarm]
+moves:
+    - [Air Slash]
+    - [U-Turn]
+    - [Giga Drain]
+    - [Tail Wind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Serious
+evs: {hp: 0, atk: 0, def: 144, spA: 64, spD: 112, spe: 124}
+ivs: 31
+---
+species: Mothim
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Swarm]
+moves:
+    - [Bug Buzz]
+    - [Hidden Power]
+    - [Shadow Ball]
+    - [Poison Powder]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Nest]
+nature: Serious
+evs: {hp: 0, atk: 0, def: 156, spA: 104, spD: 40, spe: 140}
+ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 31}
+---
+species: Mothim
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Swarm]
+moves:
+    - [U-Turn]
+    - [Aerial Ace]
+    - [Facade]
+    - [Swagger]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Quick]
+nature: Adamant
+evs: {hp: 48, atk: 120, def: 52, spA: 0, spD: 56, spe: 80}
+ivs: 31
+---
+species: Mothim
+setname: Tinted Lens
+tags: [standard]
+item: [Null]
+ability: [Tinted Lens]
+moves:
+    - [Air Slash]
+    - [Giga Drain]
+    - [Safe Guard]
+    - [Roost]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Modest
+evs: {hp: 84, atk: 0, def: 48, spA: 56, spD: 64, spe: 72}
+ivs: 31

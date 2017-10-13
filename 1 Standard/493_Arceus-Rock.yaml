@@ -1,0 +1,53 @@
+species: Arceus
+setname: Rock Physical
+tags: [standard]
+item: [Stone Plate]
+ability: [Multitype]
+moves:
+    - [Rock Tomb]
+    - [Astonish]
+    - [Sharpen]
+    - [Stealth Rock]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Cherish]
+nature: Quiet
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Rock Stall
+tags: [standard]
+item: [Stone Plate]
+ability: [Multitype]
+moves:
+    - [Sand Tomb]
+    - [Poison Powder]
+    - [Sandstorm]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Timer]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Rock Judgment
+tags: [standard]
+item: [Stone Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Earthquake]
+    - [Iron Head]
+    - [Sandstorm]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Sassy
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

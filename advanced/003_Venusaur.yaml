@@ -1,5 +1,5 @@
 species: Venusaur
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Qualot Berry]
 ability: [Overgrow]
@@ -16,7 +16,7 @@ rarity: 0.9
 ball: [Ultra]
 ---
 species: Venusaur
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Miracle Seed]
 ability: [Overgrow]
@@ -33,7 +33,7 @@ rarity: 0.9
 ball: [Ultra]
 ---
 species: Venusaur
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Everstone]
 ability: [Thick Fat]

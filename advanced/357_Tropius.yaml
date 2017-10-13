@@ -1,5 +1,5 @@
 species: Tropius
-setname: Solar Power
+setname: a-Solar Power
 tags: [advanced]
 item: [Heat Rock]
 ability: [Solar Power]
@@ -18,7 +18,7 @@ ivs: 11
 evs: 84
 ---
 species: Tropius
-setname: Chlorophyll
+setname: a-Chlorophyll
 tags: [advanced]
 item: [null, Sky Plate]
 ability: [Chlorophyll]
@@ -39,7 +39,7 @@ ivs: {hp: 3, atk: 0, def: 1, spA: 28, spD: 3, spe: 28}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Tropius
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Chlorophyll]

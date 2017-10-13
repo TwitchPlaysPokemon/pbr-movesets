@@ -1,5 +1,5 @@
 species: Meowth
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [King's Rock, Scope Lens]
 ability: [Technician]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Meowth
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Life Orb, Focus Sash]
 ability: [Technician]

@@ -1,0 +1,37 @@
+species: Jynx
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Blizzard]
+    - [Psychic]
+    - [Focus Blast]
+    - [Skill Swap]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Careful
+evs: {hp: 48, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+---
+species: Jynx
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Dry Skin]
+moves:
+    - [Ice Punch]
+    - [Confusion]
+    - [Drain Punch]
+    - [Fake Tears]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dusk]
+nature: Rash
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31

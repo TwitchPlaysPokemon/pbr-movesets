@@ -1,5 +1,5 @@
 species: Nidoqueen
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Poison Barb, NeverMelt-Ice, Magnet]
 ability: [Poison Point, Rivalry]
@@ -20,7 +20,7 @@ biddable: true
 ball: [Safari]
 ---
 species: Nidoqueen
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Specs]
 ability: [Poison Point]

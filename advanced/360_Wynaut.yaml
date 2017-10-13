@@ -1,5 +1,5 @@
 species: Wynaut
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Custap Berry]
 ability: [Shadow Tag]
@@ -19,7 +19,7 @@ ivs: 31
 evs: {hp: 248, atk: 0, def: 100, spA: 0, spD: 160, spe: 0}
 ---
 species: Wynaut
-setname: Attacker
+setname: a-Attacker
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Shadow Tag]

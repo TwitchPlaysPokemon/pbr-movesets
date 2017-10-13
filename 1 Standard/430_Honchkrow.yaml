@@ -1,0 +1,132 @@
+species: Honchkrow
+setname: Standard
+tags: [standard]
+item: [Null]
+ball: [Ultra]
+ability: [Super Luck]
+moves:
+    - [Drill Peck]
+    - [Dark Pulse]
+    - [Heat Wave]
+    - [Captivate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 15}
+evs: 0
+---
+species: Honchkrow
+setname: Max Attack
+tags: [standard]
+item: [Null]
+ball: [Luxury]
+ability: [Super Luck]
+moves:
+    - [Pursuit]
+    - [Peck]
+    - [Mirror Move]
+    - [Snatch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Adamant
+ivs: 31
+evs: {hp: 16, atk: 252, def: 140, spA: 0, spD: 100, spe: 0}
+---
+species: Honchkrow
+setname: Special
+tags: [standard]
+item: [Null]
+ball: [Premier]
+ability: [Insomnia]
+moves:
+    - [Dark Pulse]
+    - [Hidden Power]
+    - [Heat Wave]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Adamant
+ivs: {hp: 31, atk: 0, def: 31, spA: 20, spD: 31, spe: 20}
+evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 0, spe: 0}
+---
+species: Honchkrow
+setname: High Sp. Atk
+tags: [standard]
+item: [Null]
+ball: [Dusk]
+ability: [Super Luck]
+moves:
+    - [Air Cutter]
+    - [Hidden Power]
+    - [Twister]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Rash
+ivs: {hp: 31, atk: 1, def: 29, spA: 29, spD: 31, spe: 9}
+evs: {hp: 40, atk: 0, def: 0, spA: 252, spD: 0, spe: 124}
+---
+species: Honchkrow
+setname: Crit
+tags: [standard]
+item: [Null]
+ball: [Quick]
+ability: [Super Luck]
+moves:
+    - [Sky Attack]
+    - [Night Slash]
+    - [Air Cutter]
+    - [Torment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Modest
+ivs: {hp: 12, atk: 0, def: 12, spA: 12, spD: 12, spe: 12}
+evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 132}
+---
+species: Honchkrow
+setname: Recoil
+tags: [standard]
+item: [Null]
+ball: [Repeat]
+ability: [Insomnia]
+moves:
+    - [Brave Bird]
+    - [Superpower]
+    - [Double-Edge]
+    - [Haze]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Honchkrow
+setname: Slow
+tags: [standard]
+item: [Macho Brace]
+ball: [Timer]
+ability: [Insomnia]
+moves:
+    - [Payback]
+    - [Fly]
+    - [Giga Impact]
+    - [Whirlwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+nature: Bold
+ivs: 20
+evs: 0

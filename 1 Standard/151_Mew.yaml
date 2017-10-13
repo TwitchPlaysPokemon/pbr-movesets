@@ -1,0 +1,431 @@
+species: Mew
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Dig]
+    - [Dragon Breath]
+    - [Skill Swap]
+happiness: 255
+biddable: True
+rarity: 0.11
+ball: [Luxury]
+nature: Adamant
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Accuracy
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Aura Sphere]
+    - [Aerial Ace]
+    - [Feint Attack]
+    - [Shock Wave]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Ultra]
+nature: Adamant
+evs: 0
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+---
+species: Mew
+setname: Blind
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Blizzard]
+    - [Focus Blast]
+    - [Zap Cannon]
+    - [Dynamic Punch]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Dusk]
+nature: Adamant
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Charge
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Hyper Beam]
+    - [Sky Attack]
+    - [Solar Beam]
+    - [Charge Beam]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Quick]
+nature: Brave
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Copy
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Transform]
+    - [Me First]
+    - [Mimic]
+    - [Role Play]
+happiness: 255
+biddable: False
+rarity: 0.04
+ball: [Repeat]
+nature: Serious
+evs: {hp: 0, atk: 76, def: 0, spA: 100, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+---
+species: Mew
+setname: Crit
+tags: [standard]
+item: [Razor Claw]
+ability: [Synchronize]
+moves:
+    - [Sky Attack]
+    - [Shadow Claw]
+    - [Air Cutter]
+    - [Focus Energy]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Premier]
+nature: Serious
+evs: {hp: 0, atk: 0, def: 0, spA: 160, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+---
+species: Mew
+setname: Dance
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Aqua Tail]
+    - [Ice Punch]
+    - [Dragon Dance]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Dive]
+nature: Modest
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Defensive
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Ice Beam]
+    - [Will-O-Wisp]
+    - [Substitute]
+    - [Amnesia]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Timer]
+nature: Adamant
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Flinch
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Fake Out]
+    - [Dark Pulse]
+    - [Iron Head]
+    - [Rock Slide]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Premier]
+nature: Timid
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Hail
+tags: [standard]
+item: [Helix Fossil]
+ability: [Synchronize]
+moves:
+    - [Blizzard]
+    - [Dragon Pulse]
+    - [Hail]
+    - [Magnet Rise]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Cherish]
+nature: Adamant
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Hyper
+tags: [standard]
+item: [Iron Ball]
+ability: [Synchronize]
+moves:
+    - [Hyper Beam]
+    - [Outrage]
+    - [Fire Punch]
+    - [Self-Destruct]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Quick]
+nature: Timid
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Lock
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Uproar]
+    - [Ice Ball]
+    - [Rollout]
+    - [Nasty Plot]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Repeat]
+nature: Modest
+evs: {hp: 0, atk: 0, def: 0, spA: 88, spD: 0, spe: 0}
+ivs: 0
+---
+species: Mew
+setname: Mech
+tags: [standard]
+item: [Electirizer]
+ability: [Synchronize]
+moves:
+    - [Thunderbolt]
+    - [Flamethrower]
+    - [Flash Cannon]
+    - [Barrage]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Quick]
+nature: Adamant
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Priority
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Fake Out]
+    - [Sucker Punch (+3)]
+    - [Vacuum Wave]
+    - [Magic Coat]
+happiness: 255
+biddable: False
+rarity: 0.04
+ball: [Quick]
+nature: Rash
+evs: {hp: 0, atk: 24, def: 0, spA: 252, spD: 0, spe: 232}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+---
+species: Mew
+setname: Rainbow
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Ancient Power]
+    - [Ominous Wind]
+    - [Silver Wind]
+    - [Baton Pass]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Great]
+nature: Quiet
+evs: {hp: 0, atk: 0, def: 0, spA: 192, spD: 0, spe: 0}
+ivs: 0
+---
+species: Mew
+setname: Recoil
+tags: [standard]
+item: [Iron Ball]
+ability: [Synchronize]
+moves:
+    - [Double-Edge]
+    - [Flare Blitz]
+    - [Superpower]
+    - [Psych Up]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Dusk]
+nature: Timid
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 228}
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+---
+species: Mew
+setname: RNG
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Ancient Power]
+    - [Bullet Seed]
+    - [Acupressure]
+    - [Metronome]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Poke]
+nature: Naughty
+evs: {hp: 80, atk: 252, def: 0, spA: 56, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+---
+species: Mew
+setname: Setup
+tags: [standard]
+item: [Iron Ball]
+ability: [Synchronize]
+moves:
+    - [Cut]
+    - [Thief]
+    - [Swords Dance]
+    - [Rock Polish]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Timer]
+nature: Serious
+evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 120}
+ivs: 15
+---
+species: Mew
+setname: Slow
+tags: [standard]
+item: [Iron Ball]
+ability: [Synchronize]
+moves:
+    - [Avalanche]
+    - [Payback]
+    - [Pain Split]
+    - [Counter]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Timer]
+nature: Quiet
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Status
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Zap Cannon]
+    - [Sludge Bomb]
+    - [Facade]
+    - [Will-O-Wisp]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Great]
+nature: Adamant
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Sun
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Flamethrower]
+    - [Solar Beam]
+    - [Earth Power]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Nest]
+nature: Adamant
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Trapper
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Whirlpool]
+    - [Nightmare]
+    - [Hypnosis]
+    - [Taunt]
+happiness: 255
+biddable: False
+rarity: 0.04
+ball: [Timer]
+nature: Hardy
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Zen
+tags: [standard]
+item: [Iron Ball]
+ability: [Synchronize]
+moves:
+    - [Zen Headbutt]
+    - [Energy Ball]
+    - [Vacuum Wave]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 0.04
+ball: [Luxury]
+nature: Modest
+evs: 0
+ivs: 0
+---
+species: Mew
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Ice Beam]
+    - [Aura Sphere]
+    - [Soft Boiled]
+happiness: 255
+biddable: False
+rarity: 0.01
+ball: [Master]
+nature: Adamant
+evs: 0
+ivs: 0

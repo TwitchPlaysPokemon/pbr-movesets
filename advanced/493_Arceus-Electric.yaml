@@ -1,5 +1,5 @@
 species: Arceus
-setname: Electric Balanced
+setname: a-Electric Balanced
 tags: [advanced]
 item: [Zap Plate]
 ability: [Multitype]
@@ -18,7 +18,7 @@ ivs: 0
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 ---
 species: Arceus
-setname: Electric Judgment
+setname: a-Electric Judgment
 tags: [advanced]
 item: [Zap Plate]
 ability: [Multitype]

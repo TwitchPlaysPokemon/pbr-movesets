@@ -1,0 +1,71 @@
+species: Magnezone
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Magnet Pull]
+moves:
+    - [Spark]
+    - [Magnet Bomb]
+    - [Hyper Beam]
+    - [Magnet Rise]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Magnezone
+setname: Physical
+tags: [standard]
+item: [Iron Ball]
+ability: [Sturdy]
+moves:
+    - [Gyro Ball]
+    - [Spark]
+    - [Screech]
+    - [Light Screen]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Quick]
+nature: Lonely
+ivs: 20
+evs: {hp: 0, atk: 220, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Magnezone
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Magnet Pull]
+moves:
+    - [Mirror Shot]
+    - [Shock Wave]
+    - [Tri Attack]
+    - [Metal Sound]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
+nature: Lonely
+ivs: {hp: 15, atk: 0, def: 15, spA: 15, spD: 15, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Magnezone
+setname: High SpAtt
+tags: [standard]
+item: [Null]
+ability: [Magnet Pull]
+moves:
+    - [Hidden Power]
+    - [Thunder Shock]
+    - [Swift]
+    - [Mimic]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Repeat]
+nature: Modest
+ivs: {hp: 15, atk: 1, def: 1, spA: 29, spD: 18, spe: 29}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 12, spe: 0}

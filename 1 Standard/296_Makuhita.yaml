@@ -1,0 +1,37 @@
+species: Makuhita
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Revenge]
+    - [Focus Punch]
+    - [Payback]
+    - [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 132, def: 56, spA: 0, spD: 72, spe: 0}
+---
+species: Makuhita
+setname: Guts
+tags: [standard]
+item: [Flame Orb]
+ability: [Guts]
+moves:
+    - [Fake Out]
+    - [Close Combat]
+    - [Earthquake]
+    - [Rock Tomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 176, def: 40, spA: 0, spD: 40, spe: 252}

@@ -1,5 +1,5 @@
 species: Lileep
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Root Fossil]
 ability: [Suction Cups]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 172}
 ---
 species: Lileep
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Stone Plate, Heat Rock]
 ability: [Suction Cups]

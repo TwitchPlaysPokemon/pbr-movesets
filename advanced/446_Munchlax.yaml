@@ -1,5 +1,5 @@
 species: Munchlax
-setname: Belly Drum
+setname: a-Belly Drum
 tags: [advanced]
 item: [Custap Berry]
 ability: [Gluttony]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
 ---
 species: Munchlax
-setname: Thick Fat
+setname: a-Thick Fat
 tags: [advanced]
 item: [Poison Barb, Mind Plate, Meadow Plate]
 ability: [Thick Fat]
@@ -40,7 +40,7 @@ ivs: 31
 evs: {hp: 252, atk: 0, def: 60, spA: 0, spD: 0, spe: 196}
 ---
 species: Munchlax
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Petaya Berry]
 ability: [Gluttony]

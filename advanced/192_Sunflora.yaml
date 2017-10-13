@@ -1,5 +1,5 @@
 species: Sunflora
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Scope Lens, Watmel Berry]
 ability: [Early Bird, Chlorophyll]
@@ -20,7 +20,7 @@ ivs: 31
 evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 0, spe: 128}
 ---
 species: Sunflora
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Solar Power]

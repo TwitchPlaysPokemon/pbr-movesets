@@ -1,5 +1,5 @@
 species: Parasect
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Cheri Berry, Silverpowder, Power Herb, Scope Lens, Chesto Berry]
 ability: [Dry Skin, Effect Spore]
@@ -29,7 +29,7 @@ rarity: 1.5
 ball: [Net]
 ---
 species: Parasect
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Cheri Berry, Twistedspoon]
 ability: [Dry Skin, Damp]
@@ -51,7 +51,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Parasect
-setname: Fury Cutter
+setname: a-Fury Cutter
 tags: [advanced]
 item: [Metronome, Wide Lens]
 ability: [Dry Skin, Damp]

@@ -1,5 +1,5 @@
 species: Arceus
-setname: Normal Balanced
+setname: a-Normal Balanced
 tags: [advanced]
 item: [Custap Berry]
 ability: [Multitype]
@@ -18,7 +18,7 @@ ivs: 0
 evs: 0
 ---
 species: Arceus
-setname: Normal Judgment
+setname: a-Normal Judgment
 tags: [advanced]
 item: [null]
 ability: [Multitype]

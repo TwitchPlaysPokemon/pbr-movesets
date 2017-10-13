@@ -1,0 +1,75 @@
+species: Mismagius
+setname: Standard
+tags: [standard]
+item: [Null]
+ball: [Luxury]
+ability: [Levitate]
+moves:
+    - [Shadow Ball]
+    - [Psychic]
+    - [Dark Pulse]
+    - [Imprison]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.3
+nature: Adamant
+ivs: 15
+evs: 0
+---
+species: Mismagius
+setname: Physical
+tags: [standard]
+item: [Null]
+ball: [Heal]
+ability: [Levitate]
+moves:
+    - [Shadow Force]
+    - [Secret Power]
+    - [Sucker Punch]
+    - [Me First]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+ivs: 10
+evs: {hp: 0, atk: 132, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mismagius
+setname: Special
+tags: [standard]
+item: [Null]
+ball: [Premier]
+ability: [Levitate]
+moves:
+    - [Ominous Wind]
+    - [Energy Ball]
+    - [Power Gem]
+    - [Grudge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Adamant
+ivs: {hp: 31, atk: 15, def: 31, spA: 31, spD: 0, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 104, spD: 0, spe: 0}
+---
+species: Mismagius
+setname: Witch
+tags: [standard]
+item: [Spell Tag]
+ball: [Dusk]
+ability: [Levitate]
+moves:
+  - [Astonish]
+  - [Will-O-Wisp]
+  - [Confuse Ray]
+  - [Memento]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}

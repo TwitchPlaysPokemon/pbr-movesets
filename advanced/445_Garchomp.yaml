@@ -1,5 +1,5 @@
 species: Garchomp
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Soft Sand, Dragon Fang]
 ability: [Sand Veil]
@@ -21,7 +21,7 @@ ivs: 0
 evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
 ---
 species: Garchomp
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Wide Lens]
 ability: [Rough Skin]
@@ -40,7 +40,7 @@ ivs: 31
 evs: {hp: 168, atk: 0, def: 172, spA: 0, spD: 168, spe: 0}
 ---
 species: Garchomp
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [null]
 ability: [Sand Veil]

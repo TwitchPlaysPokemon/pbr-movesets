@@ -1,5 +1,5 @@
 species: Kricketot
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Focus Sash]
 ability: [No Guard]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Kricketot
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Insect Plate]
 ability: [Speed Boost]

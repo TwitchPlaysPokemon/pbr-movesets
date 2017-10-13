@@ -1,5 +1,5 @@
 species: Abomasnow
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Icicle Plate]
 ability: [Snow Warning]
@@ -18,7 +18,7 @@ ivs: 14
 evs: {hp: 84, atk: 84, def: 104, spA: 84, spD: 84, spe: 68}
 ---
 species: Abomasnow
-setname: High Stats
+setname: a-High Stats
 tags: [advanced]
 item: [Power Herb]
 ability: [Snow Warning]
@@ -37,7 +37,7 @@ ivs: {hp: 31, atk: 30, def: 29, spA: 31, spD: 31, spe: 28}
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Abomasnow
-setname: Rain
+setname: a-Rain
 tags: [advanced]
 item: [Damp Rock]
 ability: [Soundproof]

@@ -1,5 +1,5 @@
 species: Stunky
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Soft Sand]
 ability: [Aftermath]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 96, atk: 160, def: 96, spA: 0, spD: 96, spe: 60}
 ---
 species: Stunky
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Life Orb, Shuca Berry]
 ability: [Aftermath]

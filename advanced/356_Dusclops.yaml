@@ -1,5 +1,5 @@
 species: Dusclops
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Dusk Stone]
 ability: [Pressure, Frisk]
@@ -21,7 +21,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Dusclops
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Zap Plate, Spooky Plate, Dread Plate]
 ability: [Frisk, Pressure]

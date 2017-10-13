@@ -1,5 +1,5 @@
 species: Bibarel
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Power Herb, Sharp Beak, Miracle Seed, Magnet]
 ability: [Unaware, Simple]
@@ -33,7 +33,7 @@ rarity: 1.0
 ball: [Net]
 ---
 species: Bibarel
-setname: Simple
+setname: a-Simple
 tags: [advanced]
 item: [Null]
 ability: [Simple]
@@ -52,7 +52,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Bibarel
-setname: Unaware
+setname: a-Unaware
 tags: [advanced]
 item: [TM87]
 ability: [Unaware]
@@ -73,7 +73,7 @@ rarity: 1.0
 ball: [Master]
 ---
 species: Bibarel
-setname: Swords Dance
+setname: a-Swords Dance
 tags: [advanced]
 item: [null]
 ability: [Simple]
@@ -92,7 +92,7 @@ ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
 evs: {hp: 84, atk: 84, def: 84, spA: 88, spD: 84, spe: 84}
 ---
 species: Bibarel
-setname: Last Resort
+setname: a-Last Resort
 tags: [advanced]
 item: [Salac Berry]
 ability: [Simple]

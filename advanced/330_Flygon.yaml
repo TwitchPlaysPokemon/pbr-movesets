@@ -1,5 +1,5 @@
 species: Flygon
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Muscle Band]
 ability: [Levitate]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 72, atk: 140, def: 40, spA: 200, spD: 20, spe: 36}
 ---
 species: Flygon
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [TM59, Salac Berry]
 ability: [Levitate]
@@ -39,7 +39,7 @@ ivs: 0
 evs: {hp: 108, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Flygon
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Gooey Mulch, Miracle Seed, Spell Tag, Scope Lens]
 ability: [Levitate]
@@ -64,7 +64,7 @@ ivs: 0
 evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ---
 species: Flygon
-setname: Dragon Dance
+setname: a-Dragon Dance
 tags: [advanced]
 item: [Nomel Berry, Hondew Berry]
 ability: [Levitate]

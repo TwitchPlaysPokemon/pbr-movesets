@@ -1,0 +1,75 @@
+species: Houndoom
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Flamethrower]
+    - [Pursuit]
+    - [Thunder Fang]
+    - [Snatch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Adamant
+ivs: 17
+evs: {hp: 92, atk: 136, def: 148, spA: 40, spD: 92, spe: 0}
+---
+species: Houndoom
+setname: Nasty Plot
+tags: [standard]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Ember]
+    - [Hidden Power]
+    - [Solar Beam]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Cherish]
+nature: Serious
+ivs: {hp: 31, atk: 5, def: 15, spA: 13, spD: 13, spe: 15}
+evs: {hp: 0, atk: 0, def: 80, spA: 112, spD: 0, spe: 76}
+---
+species: Houndoom
+setname: Fang
+tags: [standard]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Fire Fang]
+    - [Bite]
+    - [Thunder Fang]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Serious
+ivs: 31
+evs: {hp: 60, atk: 176, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Houndoom
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Solar Power]
+moves:
+    - [Heat Wave]
+    - [Dark Pulse]
+    - [Solar Beam]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Dusk]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 20, spD: 31, spe: 20}
+evs: {hp: 16, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

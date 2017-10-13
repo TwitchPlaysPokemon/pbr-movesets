@@ -1,5 +1,5 @@
 species: Bulbasaur
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Miracle Seed, Chesto Berry, Persim Berry]
 ability: [Overgrow]
@@ -20,7 +20,7 @@ separations:
 gender: [m, f]
 ---
 species: Bulbasaur
-setname: Physical 
+setname: a-Physical 
 tags: [advanced]
 item: [Salac Berry, Power Herb]
 ability: [Overgrow]

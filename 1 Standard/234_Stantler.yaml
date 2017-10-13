@@ -1,0 +1,37 @@
+species: Stantler
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Frisk]
+moves:
+    - [Stomp]
+    - [Extrasensory]
+    - [Double Kick]
+    - [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Great]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
+evs: {hp: 44, atk: 156, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Stantler
+setname: Me First
+tags: [standard]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Facade]
+    - [Shadow Ball]
+    - [Calm Mind]
+    - [Me First]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Quick]
+nature: Hasty
+ivs: {hp: 20, atk: 31, def: 20, spA: 31, spD: 20, spe: 31}
+evs: {hp: 0, atk: 56, def: 0, spA: 200, spD: 0, spe: 252}

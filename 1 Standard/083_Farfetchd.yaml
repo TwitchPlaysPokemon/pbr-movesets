@@ -1,0 +1,56 @@
+species: Farfetch'd
+setname: Standard
+tags: [standard]
+item: [Stick]
+ability: [Keen Eye]
+moves:
+    - [Slash]
+    - [Leaf Blade]
+    - [Night Slash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Luxury]
+nature: Jolly
+evs: {hp: 192, atk: 48, def: 48, spA: 0, spD: 36, spe: 184}
+ivs: 31
+---
+species: Farfetch'd
+setname: Special
+tags: [standard]
+item: [Stick]
+ability: [Inner Focus]
+moves:
+    - [Air Cutter]
+    - [Heat Wave]
+    - [Ominous Wind]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Heal]
+nature: Modest
+evs: {hp: 84, atk: 0, def: 32, spA: 252, spD: 32, spe: 108}
+ivs: 31
+---
+species: Farfetch'd
+setname: Stall
+tags: [standard]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Double-Edge]
+    - [Fly]
+    - [Toxic]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Jolly
+evs: {hp: 136, atk: 0, def: 88, spA: 0, spD: 84, spe: 200}
+ivs: 31

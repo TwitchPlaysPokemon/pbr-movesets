@@ -1,5 +1,5 @@
 species: Solrock
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sun Stone, Hard Stone, Macho Brace, Smooth Rock]
 ability: [Levitate]
@@ -25,7 +25,7 @@ rarity: 1.0
 ball: [Cherish]
 ---
 species: Solrock
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Stone Plate, Mind Plate]
 ability: [Levitate]
@@ -43,7 +43,7 @@ rarity: 1.0
 ball: [Premier]
 ---
 species: Solrock
-setname: Sunny Day
+setname: a-Sunny Day
 tags: [advanced]
 item: [Heat Rock]
 ability: [Levitate]

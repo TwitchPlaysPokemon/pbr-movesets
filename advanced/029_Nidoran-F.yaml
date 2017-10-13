@@ -1,5 +1,5 @@
 species: Nidoran♀
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Hustle]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Nidoran♀
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Poison Point, Rivalry]

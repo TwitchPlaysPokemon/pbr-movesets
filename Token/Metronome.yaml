@@ -1,3 +1,115 @@
+species: Victreebel
+setname: Metronome
+displayname: "Victreebel-M"
+ball: [Nest]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
+ability: Color Change
+nature: Naughty
+ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 52, def: 0, spA: 192, spD: 36, spe: 156}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 128
+biddable: True
+rarity: 0
+---
+species: Rapidash
+setname: Metronome
+displayname: "Rapidash-M"
+ball: [Ultra]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
+ability: Color Change
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 36, atk: 192, def: 0, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 128
+biddable: True
+rarity: 0
+---
+species: Blaziken
+setname: Metronome
+displayname: "Blaziken-M"
+ball: [Luxury]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
+ability: Color Change
+nature: Naughty
+ivs: {hp: 10, atk: 14, def: 0, spA: 31, spD: 18, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 112, spD: 8, spe: 76}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 128
+biddable: True
+rarity: 0
+---
+species: Sharpedo
+setname: Metronome
+displayname: "Sharpedo-M"
+ball: [Dive]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
+ability: Color Change
+nature: Bashful
+ivs: {hp: 30, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
+evs: {hp: 0, atk: 32, def: 116, spA: 232, spD: 128, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 128
+biddable: True
+rarity: 0
+---
+species: Porygon-Z
+setname: Metronome
+displayname: "Porygon-Z-M"
+ball: [Quick]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
+ability: Color Change
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 9, spD: 10, spe: 30}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+happiness: 128
+biddable: True
+rarity: 0
+---
+species: Azelf
+setname: Metronome
+displayname: "Azelf-M"
+ball: [Heal]
+item: [Bluk Berry, Nanab Berry, Wepear Berry, Pinap Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry, Cornn Berry, Magost Berry, Rabuta Berry, Nomel Berry, Spelon Berry, Pamtre Berry]
+ability: Color Change
+nature: Brave
+ivs: {hp: 20, atk: 4, def: 0, spA: 29, spD: 3, spe: 4}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+happiness: 128
+biddable: True
+rarity: 0
+---
 species: Persian
 setname: Metronome
 displayname: "Persian-M"
@@ -14,7 +126,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 happiness: 128
-biddable: True
+biddable: False
 rarity: 0
 ---
 species: Delcatty
@@ -33,7 +145,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 happiness: 128
-biddable: True
+biddable: False
 rarity: 0
 ---
 species: Spinda
@@ -52,7 +164,7 @@ moves:
     - [Metronome (=255)]
 gender: [f]
 happiness: 128
-biddable: True
+biddable: False
 rarity: 0
 ---
 species: Raticate
@@ -71,7 +183,7 @@ moves:
     - [Metronome (=255)]
 gender: [m]
 happiness: 128
-biddable: True
+biddable: False
 rarity: 0
 ---
 species: Ambipom
@@ -90,7 +202,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 happiness: 128
-biddable: True
+biddable: False
 rarity: 0
 ---
 species: Zangoose
@@ -109,5 +221,5 @@ moves:
     - [Metronome (=255)]
 gender: [m]
 happiness: 128
-biddable: True
+biddable: False
 rarity: 0

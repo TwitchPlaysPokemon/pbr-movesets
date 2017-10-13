@@ -1,5 +1,5 @@
 species: Magmortar
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Magmarizer]
 ability: [Vital Spirit]
@@ -18,7 +18,7 @@ ivs: 6
 evs: 84
 ---
 species: Magmortar
-setname: Belly Drum
+setname: a-Belly Drum
 tags: [advanced]
 item: [Liechi Berry, Shell Bell]
 ability: [Vital Spirit]

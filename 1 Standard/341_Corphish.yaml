@@ -1,0 +1,56 @@
+species: Corphish
+setname: Standard
+ball: [Net]
+tags: [standard]
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Crabhammer]
+    - [X-Scissor]
+    - [Rock Slide]
+    - [Dragon Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Careful
+evs: {hp: 85, atk: 85, def: 85, spA: 0, spD: 85, spe: 85}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Corphish
+setname: Physical
+ball: [Dive]
+tags: [standard]
+item: [Null]
+ability: [Adaptability]
+moves:
+    - [Aqua Jet]
+    - [Crunch]
+    - [Aerial Ace]
+    - [Swords Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Adamant
+evs: {hp: 160, atk: 68, def: 100, spA: 0, spD: 164, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Corphish
+setname: Special
+ball: [Nest]
+tags: [standard]
+item: [Null]
+ability: [Adaptability]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Sludge Bomb]
+    - [Guillotine]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+evs: {hp: 80, atk: 0, def: 0, spA: 172, spD: 68, spe: 188}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

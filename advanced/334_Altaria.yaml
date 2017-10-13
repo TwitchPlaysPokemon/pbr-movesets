@@ -1,5 +1,5 @@
 species: Altaria
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Lum Berry]
 ability: [Cloud Nine, Natural Cure]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Altaria
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Air Mail, Dragon Fang, Wide Lens, Iron Plate]
 ability: [Natural Cure, Cloud Nine]
@@ -44,7 +44,7 @@ rarity: 1.0
 ball: [Premier]
 ---
 species: Altaria
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Life Orb]
 ability: [Cloud Nine]

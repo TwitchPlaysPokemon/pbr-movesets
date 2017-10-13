@@ -1,5 +1,5 @@
 species: Aron
-setname: Rock Head
+setname: a-Rock Head
 tags: [advanced]
 item: [Metal Coat]
 ability: [Rock Head]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
 ---
 species: Aron
-setname: Sturdy
+setname: a-Sturdy
 tags: [advanced]
 item: [Salac Berry]
 ability: [Sturdy]

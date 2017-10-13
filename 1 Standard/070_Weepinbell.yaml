@@ -1,0 +1,37 @@
+species: Weepinbell
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Gluttony]
+moves:
+    - [Power Whip]
+    - [Sludge Bomb]
+    - [Sucker Punch]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.67
+ball: [Safari]
+nature: Serious
+evs: {hp: 160, atk: 86, def: 44, spA: 86, spD: 44, spe: 86}
+ivs: 24
+---
+species: Weepinbell
+setname: Dance
+tags: [standard]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Razor Leaf]
+    - [Double-Edge]
+    - [Teeter Dance]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Quick]
+nature: Jolly
+evs: {hp: 92, atk: 76, def: 44, spA: 0, spD: 56, spe: 240}
+ivs: 31

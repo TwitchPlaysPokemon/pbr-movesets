@@ -1,5 +1,5 @@
 species: Cubone
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Thick Club]
 ability: [Battle Armor, Rock Head]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Repeat]
 ---
 species: Cubone
-setname: Boomerang
+setname: a-Boomerang
 tags: [advanced]
 item: [Thick Club]
 ability: [Battle Armor]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Nest]
 ---
 species: Cubone
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Battle Armor]

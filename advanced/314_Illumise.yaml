@@ -1,5 +1,5 @@
 species: Illumise
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Choice Band]
 ability: [Tinted Lens]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 40, atk: 252, def: 44, spA: 0, spD: 44, spe: 128}
 ---
 species: Illumise
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Cheri Berry, Silverpowder]
 ability: [Tinted Lens, Oblivious]

@@ -1,0 +1,37 @@
+species: Illumise
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Tinted Lens]
+moves:
+    - [U-Turn]
+    - [Dynamic Punch]
+    - [Thunder Punch]
+    - [Charm]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 104, atk: 252, def: 36, spA: 0, spD: 40, spe: 56}
+---
+species: Illumise
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Silver Wind]
+    - [Shadow Ball]
+    - [Giga Drain]
+    - [Charge Beam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Net]
+nature: Serious
+ivs: 31
+evs: {hp: 140, atk: 0, def: 0, spA: 244, spD: 0, spe: 28}

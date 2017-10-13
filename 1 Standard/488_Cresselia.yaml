@@ -1,0 +1,94 @@
+species: Cresselia
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Confusion]
+    - [Aurora Beam]
+    - [Grass Knot]
+    - [Lunar Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Heal]
+nature: Mild
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 0}
+---
+species: Cresselia
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psycho Cut]
+    - [Slash]
+    - [Reflect]
+    - [Trick Room]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Cresselia
+setname: Beam
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Hyper Beam]
+    - [Solar Beam]
+    - [Aurora Beam]
+    - [Charge Beam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Cresselia
+setname: Fury Cutter
+tags: [standard]
+item: [Metronome]
+ability: [Levitate]
+moves:
+    - [Swift]
+    - [Fury Cutter]
+    - [Swagger]
+    - [Flash]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Safari]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 140, spD: 0, spe: 0}
+---
+species: Cresselia
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Ice Beam]
+    - [Calm Mind]
+    - [Moonlight]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

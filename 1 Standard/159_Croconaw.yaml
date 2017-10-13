@@ -1,0 +1,37 @@
+species: Croconaw
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Aqua Tail]
+    - [Superpower]
+    - [Aqua Jet]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 104, def: 0, spA: 0, spD: 0, spe: 112}
+---
+species: Croconaw
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Hidden Power]
+    - [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Bold
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 140, atk: 0, def: 0, spA: 196, spD: 116, spe: 56}

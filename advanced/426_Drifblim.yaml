@@ -1,5 +1,5 @@
 species: Drifblim
-setname: Unburden
+setname: a-Unburden
 tags: [advanced]
 item: [Custap Berry, Rabuta Berry, Liechi Berry]
 ability: [Unburden]
@@ -26,7 +26,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Drifblim
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Lum Berry, Damp Rock]
 ability: [Unburden, Aftermath]

@@ -1,5 +1,5 @@
 species: Tyrogue
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Focus Sash, Salac Berry]
 ability: [Steadfast, Vital Spirit]
@@ -24,7 +24,7 @@ ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Tyrogue
-setname: Guts
+setname: a-Guts
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Guts]

@@ -1,5 +1,5 @@
 species: Electabuzz
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Yellow Shard, Charcoal, NeverMelt-Ice, Black Belt]
 ability: [Static, Vital Spirit]
@@ -24,7 +24,7 @@ rarity: 1.0
 ball: [Timer]
 ---
 species: Electabuzz
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Yellow Scarf, SilverPowder, Poison Barb]
 ability: [Static, Vital Spirit]

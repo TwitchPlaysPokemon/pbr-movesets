@@ -1,5 +1,5 @@
 species: Kingdra
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [null, Dragon Fang, Splash Plate]
 ability: [Damp, Swift Swim]
@@ -24,7 +24,7 @@ ivs: 0
 evs: 0
 ---
 species: Kingdra
-setname: Critter
+setname: a-Critter
 tags: [advanced]
 item: [Scope Lens]
 ability: [Sniper]

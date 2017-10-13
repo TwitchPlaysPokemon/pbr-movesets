@@ -1,5 +1,5 @@
 species: Magmar
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Red Scarf, Black Glasses, Passho Berry, Salac Berry]
 ability: [Flame Body, Vital Spirit]
@@ -24,7 +24,7 @@ rarity: 0.8
 ball: [Quick]
 ---
 species: Magmar
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Red Shard]
 ability: [Vital Spirit]
@@ -43,7 +43,7 @@ rarity: 0.8
 ball: [Timer]
 ---
 species: Magmar
-setname: Stall
+setname: a-Stall
 tags: [advanced]
 item: [Flame Plate]
 ability: [Flame Body]

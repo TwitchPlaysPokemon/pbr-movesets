@@ -1,0 +1,125 @@
+species: Mesprit
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Return]
+    - [Ice Beam]
+    - [Healing Wish]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Adamant
+ivs: 8
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mesprit
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Zen Headbutt]
+    - [Thunder Punch]
+    - [U-Turn]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Hasty
+ivs: 5
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 60}
+---
+species: Mesprit
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Ice Beam]
+    - [Grass Knot]
+    - [Magic Coat]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Hardy
+ivs: 0
+evs: {hp: 40, atk: 0, def: 40, spA: 40, spD: 40, spe: 0}
+---
+species: Mesprit
+setname: Elemental
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Ice Beam]
+    - [Energy Ball]
+    - [Fire Punch]
+    - [Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Repeat]
+nature: Adamant
+ivs: 8
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mesprit
+setname: Rain Dance
+tags: [standard]
+item: [Damp Rock]
+ability: [Levitate]
+moves:
+    - [Thunder]
+    - [Hidden Power]
+    - [Grass Knot]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Dive]
+nature: Serious
+ivs: {hp: 3, atk: 2, def: 2, spA: 2, spD: 3, spe: 3}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mesprit
+setname: Stall
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Future Sight]
+    - [Toxic]
+    - [Skill Swap]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mesprit
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Ice Beam]
+    - [Thunderbolt]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: 0

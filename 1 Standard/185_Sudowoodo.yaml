@@ -1,0 +1,56 @@
+species: Sudowoodo
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Head Smash]
+    - [Wood Hammer]
+    - [Hammer Arm]
+    - [Copycat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Safari]
+nature: Serious
+ivs: 16
+evs: 84
+---
+species: Sudowoodo
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Stone Edge]
+    - [Earth Power]
+    - [Fake Tears]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Timer]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Sudowoodo
+setname: Max Atk
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Rock Tomb]
+    - [Slam]
+    - [Feint Attack]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Safari]
+nature: Adamant
+ivs: 31
+evs: {hp: 64, atk: 252, def: 0, spA: 0, spD: 64, spe: 128}

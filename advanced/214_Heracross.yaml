@@ -1,5 +1,5 @@
 species: Heracross
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Black Belt, Toxic Orb]
 ability: [Guts]
@@ -21,7 +21,7 @@ ivs: 10
 evs: {hp: 124, atk: 72, def: 72, spA: 72, spD: 84, spe: 84}
 ---
 species: Heracross
-setname: Powerhouse
+setname: a-Powerhouse
 tags: [advanced]
 item: [Iron Ball]
 ability: [Swarm]
@@ -38,7 +38,7 @@ ivs: 0
 evs: {hp: 0, atk: 4, def: 60, spA: 8, spD: 0, spe: 0}
 ---
 species: Heracross
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silverpowder]
 ability: [Swarm]
@@ -55,7 +55,7 @@ ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 30, spe: 31}
 evs: {hp: 60, atk: 0, def: 80, spA: 252, spD: 40, spe: 8}
 ---
 species: Heracross
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Everstone]
 ability: [Skill Link]

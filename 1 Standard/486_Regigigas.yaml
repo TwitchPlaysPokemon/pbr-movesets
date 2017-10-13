@@ -1,0 +1,89 @@
+species: Regigigas
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Slow Start]
+moves:
+    - [Crush Grip]
+    - [Drain Punch]
+    - [Avalanche]
+    - [Double Team]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Serious
+ivs: 12
+evs: {hp: 100, atk: 0, def: 80, spA: 0, spD: 80, spe: 0}
+---
+species: Regigigas
+setname: Physical
+tags: [standard]
+item: [Iron Ball]
+ability: [Slow Start]
+moves:
+    - [Giga Impact]
+    - [Focus Punch]
+    - [Fling]
+    - [Earthquake]
+happiness: 255
+biddable: False
+rarity: 0.25
+ball: [Repeat]
+nature: Serious
+ivs: 12
+evs: {hp: 100, atk: 0, def: 80, spA: 0, spD: 80, spe: 0}
+---
+species: Regigigas
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Slow Start]
+moves:
+    - [Hyper Beam]
+    - [Thunderbolt]
+    - [Earth Power]
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Quiet
+ivs: 18
+evs: 0
+---
+species: Regigigas
+setname: Golem Master
+tags: [standard]
+item: [Null]
+ability: [Slow Start]
+moves:
+    - [Crush Grip]
+    - [Avalanche]
+    - [Iron Head]
+    - [Rock Slide]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Master]
+nature: Serious
+ivs: 12
+evs: {hp: 100, atk: 0, def: 80, spA: 0, spD: 80, spe: 0}
+---
+species: Regigigas
+setname: Gravity
+tags: [standard]
+item: [Null]
+ability: [Slow Start]
+moves:
+    - [Focus Blast]
+    - [Thunder]
+    - [Stone Edge]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Timer]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

@@ -1,0 +1,75 @@
+species: Beedrill
+setname: Swarm
+tags: [standard]
+item: [Null]
+ability: [Swarm]
+moves:
+    - [X-Scissor]
+    - [Poison Jab]
+    - [Brick Break]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Net]
+nature: Jolly
+evs: {hp: 60, atk: 60, def: 96, spA: 0, spD: 120, spe: 100}
+ivs: {hp: 25, atk: 30, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Beedrill
+setname: Max Atk
+tags: [standard]
+item: [Null]
+ability: [Swarm]
+moves:
+    - [Twineedle]
+    - [Aerial Ace]
+    - [Cut]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Net]
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+---
+species: Beedrill
+setname: Sniper
+tags: [standard]
+item: [Scope Lens]
+ability: [Sniper]
+moves:
+    - [Sludge Bomb]
+    - [Giga Drain]
+    - [Silver Wind]
+    - [Focus Energy]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.19
+ball: [Net]
+nature: Modest
+evs: {hp: 80, atk: 0, def: 116, spA: 188, spD: 0, spe: 124}
+ivs: 31
+---
+species: Beedrill
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Adaptability]
+moves:
+    - [Poison Jab]
+    - [U-turn]
+    - [Bonemerang]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.11
+ball: [Quick]
+nature: Jolly
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31

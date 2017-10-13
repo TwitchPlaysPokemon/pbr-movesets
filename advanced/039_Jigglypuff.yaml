@@ -1,5 +1,5 @@
 species: Jigglypuff
-setname: Gravity
+setname: a-Gravity
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Cute Charm]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Timer]
 ---
 species: Jigglypuff
-setname: Screens
+setname: a-Screens
 tags: [advanced]
 item: [Light Clay]
 ability: [Cute Charm]

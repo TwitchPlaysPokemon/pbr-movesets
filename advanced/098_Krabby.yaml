@@ -1,5 +1,5 @@
 species: Krabby
-setname: Hyper Cutter
+setname: a-Hyper Cutter
 tags: [advanced]
 item: [Berry Juice, Silverpowder, White Herb]
 ability: [Hyper Cutter]
@@ -26,7 +26,7 @@ rarity: 1.0
 ball: [Dive]
 ---
 species: Krabby
-setname: Shell Armor
+setname: a-Shell Armor
 tags: [advanced]
 item: [Lansat Berry]
 ability: [Shell Armor]
@@ -45,7 +45,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Krabby
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Specs]
 ability: [Shell Armor]

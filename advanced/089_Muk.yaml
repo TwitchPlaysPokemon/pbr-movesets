@@ -1,5 +1,5 @@
 species: Muk
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [null]
 ability: [Stench]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Muk
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Full Incense]
 ability: [Sticky Hold]
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Repeat]
 ---
 species: Muk
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Rose Incense, Earth Plate, Zap Plate, Silk Scarf]
 ability: [Sticky Hold]

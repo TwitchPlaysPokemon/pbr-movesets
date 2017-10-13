@@ -1,0 +1,56 @@
+species: Swellow
+setname: Physical
+ball: [Quick]
+tags: [standard]
+item: [Null]
+ability: [Guts]
+moves:
+    - [Facade]
+    - [Wing Attack]
+    - [Steel Wing]
+    - [Mirror Move]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Sassy
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
+ivs: 23
+---
+species: Swellow
+setname: Special
+ball: [Premier]
+tags: [standard]
+item: [Null]
+ability: [Scrappy]
+moves:
+    - [Air Slash]
+    - [Hyper Beam]
+    - [Heat Wave]
+    - [Feather Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Modest
+evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
+ivs: 31
+---
+species: Swellow
+setname: Mixed
+ball: [Timer]
+tags: [standard]
+item: [Null]
+ability: [Guts]
+moves:
+    - [Sky Attack]
+    - [Secret Power]
+    - [U-Turn]
+    - [Twister]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Quiet
+evs: {hp: 84, atk: 84, def: 84, spA: 172, spD: 84, spe: 0}
+ivs: 31

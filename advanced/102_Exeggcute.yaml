@@ -1,5 +1,5 @@
 species: Exeggcute
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Enigma Berry]
 ability: [Chlorophyll]
@@ -18,7 +18,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Exeggcute
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Tanga Berry, Coba Berry]
 ability: [Chlorophyll]
@@ -43,7 +43,7 @@ rarity: 1.0
 ball: [Heal]
 ---
 species: Exeggcute
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sitrus Berry]
 ability: [Chlorophyll]

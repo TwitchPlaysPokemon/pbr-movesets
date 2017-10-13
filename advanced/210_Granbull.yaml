@@ -1,5 +1,5 @@
 species: Granbull
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Enigma Berry, Toxic Orb]
 ability: [Quick Feet]
@@ -24,7 +24,7 @@ ivs: 12
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Granbull
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Zoom Lens]
 ability: [Intimidate]

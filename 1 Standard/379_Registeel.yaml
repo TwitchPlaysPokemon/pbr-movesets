@@ -1,0 +1,71 @@
+species: Registeel
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Metal Claw]
+    - [Thunderbolt]
+    - [Brick Break]
+    - [Sandstorm]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Luxury]
+nature: Hardy
+ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 3, spe: 2}
+evs: {hp: 8, atk: 120, def: 56, spA: 28, spD: 52, spe: 112}
+---
+species: Registeel
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Flash Cannon]
+    - [Focus Blast]
+    - [Thunder]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 5, atk: 5, def: 5, spA: 31, spD: 5, spe: 5}
+evs: {hp: 0, atk: 0, def: 0, spA: 84, spD: 0, spe: 0}
+---
+species: Registeel
+setname: Flinch
+tags: [standard]
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Iron Head]
+    - [Rock Slide]
+    - [Shadow Claw]
+    - [Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Repeat]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 132, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Registeel
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Iron Head]
+    - [Earthquake]
+    - [Ice Punch]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Lonely
+ivs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}

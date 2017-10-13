@@ -1,5 +1,5 @@
 species: Phanpy
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [null]
 ability: [Sand Veil, Pickup]
@@ -24,7 +24,7 @@ ivs: 31
 evs: {hp: 0, atk: 168, def: 60, spA: 0, spD: 80, spe: 200}
 ---
 species: Phanpy
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Hard Stone]
 ability: [Sand Veil, Pickup]

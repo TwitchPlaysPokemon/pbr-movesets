@@ -1,5 +1,5 @@
 species: Arceus
-setname: Dragon Balanced
+setname: a-Dragon Balanced
 tags: [advanced]
 item: [Draco Plate]
 ability: [Multitype]
@@ -18,7 +18,7 @@ ivs: 0
 evs: {hp: 40, atk: 40, def: 40, spA: 40, spD: 40, spe: 40}
 ---
 species: Arceus
-setname: Dragon Judgment
+setname: a-Dragon Judgment
 tags: [advanced]
 item: [Draco Plate]
 ability: [Multitype]

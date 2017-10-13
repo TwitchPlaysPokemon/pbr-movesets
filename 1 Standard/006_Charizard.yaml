@@ -1,0 +1,56 @@
+species: Charizard
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Air Cutter]
+    - [Ember]
+    - [Iron Tail]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Quiet
+evs: {hp: 136, atk: 120, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+---
+species: Charizard
+setname: Belly Drum
+tags: [standard]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Fire Fang]
+    - [Aerial Ace]
+    - [Quick Attack]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Hardy
+evs: {hp: 104, atk: 32, def: 104, spA: 96, spD: 104, spe: 68}
+ivs: 5
+---
+species: Charizard
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Blaze]
+moves:
+    - [Fire Punch]
+    - [Dragon Claw]
+    - [Will-O-Wisp]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Adamant
+evs: 0
+ivs: 0

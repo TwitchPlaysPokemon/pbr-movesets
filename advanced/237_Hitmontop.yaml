@@ -1,5 +1,5 @@
 species: Hitmontop
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [King's Rock, Wide Lens, Kebia Berry]
 ability: [Technician]
@@ -22,7 +22,7 @@ ivs: 29
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Hitmontop
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Dire Hit, Fist Plate, Draco Plate]
 ability: [Technician]

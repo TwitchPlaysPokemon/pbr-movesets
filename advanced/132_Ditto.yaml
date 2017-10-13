@@ -1,5 +1,5 @@
 species: Ditto
-setname: Quick Powder
+setname: a-Quick Powder
 tags: [advanced]
 item: [Quick Powder]
 ability: [Limber]
@@ -14,7 +14,7 @@ ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Ditto
-setname: Metal Powder
+setname: a-Metal Powder
 tags: [advanced]
 item: [Metal Powder]
 ability: [Limber]

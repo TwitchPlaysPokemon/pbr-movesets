@@ -1,0 +1,37 @@
+species: Ledian
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Swarm]
+moves:
+    - [Bug Buzz]
+    - [Brick Break]
+    - [Toxic]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Nest]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 252, def: 92, spA: 164, spD: 0, spe: 0}
+---
+species: Ledian
+setname: Punch
+tags: [standard]
+item: [Null]
+ability: [Iron Fist]
+moves:
+    - [Thunder Punch]
+    - [Ice Punch]
+    - [Drain Punch]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Net]
+nature: Jolly
+ivs: {hp: 20, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 160, spA: 0, spD: 0, spe: 96}

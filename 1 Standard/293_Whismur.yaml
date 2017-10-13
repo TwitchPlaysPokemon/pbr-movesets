@@ -1,0 +1,37 @@
+species: Whismur
+setname: Physical
+ball: [Poke]
+tags: [standard]
+item: [Sitrus Berry]
+ability: [Soundproof]
+moves:
+    - [Double-Edge]
+    - [Hammer Arm]
+    - [Ice Punch]
+    - [Counter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Adamant
+evs: {hp: 128, atk: 252, def: 64, spA: 0, spD: 64, spe: 0}
+ivs: 31
+---
+species: Whismur
+setname: Special
+ball: [Dusk]
+tags: [standard]
+item: [Power Herb]
+ability: [Soundproof]
+moves:
+    - [Hyper Voice]
+    - [Solar Beam]
+    - [Fire Blast]
+    - [Blizzard]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+nature: Modest
+evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
+ivs: 31

@@ -1,5 +1,5 @@
 species: Sunkern
-setname: Staller
+setname: a-Staller
 tags: [advanced]
 item: [Meadow Plate]
 ability: [Early Bird]
@@ -16,7 +16,7 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 128, spA: 0, spD: 128, spe: 252}
 ---
 species: Sunkern
-setname: Endeavor
+setname: a-Endeavor
 tags: [advanced]
 item: [Focus Sash]
 ability: [Chlorophyll]

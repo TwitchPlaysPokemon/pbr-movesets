@@ -1,0 +1,19 @@
+species: Burmy
+setname: Sandy
+tags: [standard]
+item: [Zoom Lens]
+ability: [Huge Power]
+moves:
+    - [U-turn]
+    - [Bonemerang]
+    - [Rock Tomb]
+    - [Recover]
+gender: [m, f]
+form: Sandy
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Safari]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 0, def: 16, spA: 0, spD: 16, spe: 224}

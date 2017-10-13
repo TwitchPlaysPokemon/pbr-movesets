@@ -1,5 +1,5 @@
 species: Beedrill
-setname: Sniper
+setname: a-Sniper
 tags: [advanced]
 item: [Scope Lens]
 ability: [Sniper]
@@ -18,7 +18,7 @@ rarity: 0.4
 ball: [Ultra]
 ---
 species: Beedrill
-setname: Swarm
+setname: a-Swarm
 ability: [Swarm]
 nature: Jolly
 ivs: {hp: 25, atk: 30, def: 31, spA: 31, spD: 31, spe: 31}
@@ -34,7 +34,7 @@ rarity: 0.8
 ball: [Net]
 ---
 species: Beedrill
-setname: Max Atk
+setname: a-Max Atk
 tags: [advanced]
 item: [Bloom Mail, Silverpowder, Blackbelt, Silk Scarf]
 ability: [Swarm]
@@ -56,7 +56,7 @@ rarity: 0.8
 ball: [Net]
 ---
 species: Beedrill  
-setname: Mega
+setname: a-Mega
 tags: [advanced]
 item: [Everstone]
 ability: [Adaptability]

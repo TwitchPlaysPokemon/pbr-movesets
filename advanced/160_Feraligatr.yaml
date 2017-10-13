@@ -1,5 +1,5 @@
 species: Feraligatr
-setname: Standard
+setname: a-Standard
 ability: [Torrent]
 moves:
     - [Dive, Waterfall]
@@ -17,7 +17,7 @@ ivs: 4
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 ---
 species: Feraligatr
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Fresh Water, Scope Lens, Fist Plate]
 ability: [Torrent]
@@ -39,7 +39,7 @@ ivs: 11
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Feraligatr
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Sea Incense, Rock Incense, Blue Shard]
 ability: [Torrent]

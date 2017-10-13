@@ -1,5 +1,5 @@
 species: Staraptor
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Watmel Berry, Sharp Beak, Black Belt]
 ability: [Reckless]
@@ -25,7 +25,7 @@ rarity: 1.0
 ball: [Ultra]
 ---
 species: Staraptor
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Null, Silk Scarf, Scope Lens, King's Rock]
 ability: [Intimidate]

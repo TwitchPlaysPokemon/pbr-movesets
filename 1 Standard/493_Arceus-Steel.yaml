@@ -1,0 +1,53 @@
+species: Arceus
+setname: Steel Physical
+tags: [standard]
+item: [Iron Plate]
+ability: [Multitype]
+moves:
+    - [Gyro Ball (=8)]
+    - [Metal Burst]
+    - [Curse]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Arceus
+setname: Steel Special
+tags: [standard]
+item: [Iron Plate]
+ability: [Multitype]
+moves:
+    - [Doom Desire]
+    - [Whirlpool]
+    - [Cosmic Power]
+    - [Defog]
+happiness: 255
+biddable: True
+rarity: 0.025
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Arceus
+setname: Steel Judgment
+tags: [standard]
+item: [Iron Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Overheat]
+    - [Ice Beam]
+    - [Cosmic Power]
+happiness: 255
+biddable: False
+rarity: 0.005
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

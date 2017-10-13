@@ -1,5 +1,5 @@
 species: Shinx
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Razor Fang]
 ability: [Intimidate]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Quick]
 ---
 species: Shinx
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Silver Powder, NeverMelt-Ice, Salac Berry]
 ability: [Rivalry, Intimidate]

@@ -1,5 +1,5 @@
 species: Pidgey
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Sitrus Berry, Power Herb, Leftovers, Ganlon Berry, Durin Berry]
 ability: [Keen Eye, Tangled Feet]
@@ -28,7 +28,7 @@ rarity: 1.0
 ball: [Poké]
 ---
 species: Pidgey
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Petaya Berry, Focus Sash]
 ability: [Keen Eye, Tangled Feet]

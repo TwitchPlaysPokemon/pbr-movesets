@@ -1,5 +1,5 @@
 species: Armaldo
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Claw Fossil, Watmel Berry]
 ability: [Battle Armor, Swift Swim]
@@ -28,7 +28,7 @@ ivs: 0
 evs: {hp: 124, atk: 0, def: 128, spA: 0, spD: 128, spe: 128}
 ---
 species: Armaldo
-setname: High Attack
+setname: a-High Attack
 tags: [advanced]
 item: [Claw Fossil, Enigma Berry]
 ability: [Battle Armor]
@@ -49,7 +49,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 ---
 species: Armaldo
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Damp Rock]
 ability: [Swift Swim]

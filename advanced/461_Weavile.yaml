@@ -1,5 +1,5 @@
 species: Weavile
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [BlackGlasses, Metal Coat, null]
 ability: [Pressure]
@@ -26,7 +26,7 @@ ivs: 12
 evs: 0
 ---
 species: Weavile
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Red Scarf, Damp Rock]
 ability: [Pressure]
@@ -49,7 +49,7 @@ ivs: 31
 evs: 84
 ---
 species: Weavile
-setname: High Attack
+setname: a-High Attack
 tags: [advanced]
 item: [Razor Fang]
 ability: [Pressure]
@@ -68,7 +68,7 @@ ivs: 31
 evs: {hp: 168, atk: 108, def: 0, spA: 164, spD: 0, spe: 68}
 ---
 species: Weavile
-setname: PP Stall
+setname: a-PP Stall
 tags: [advanced]
 item: [Leftovers]
 ability: [Pressure]

@@ -1,5 +1,5 @@
 species: Togekiss
-setname: Serene Grace
+setname: a-Serene Grace
 tags: [advanced]
 item: [null]
 ability: [Serene Grace]
@@ -18,7 +18,7 @@ ivs: 5
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Togekiss
-setname: Hustle
+setname: a-Hustle
 tags: [advanced]
 item: [null]
 ability: [Hustle]
@@ -43,7 +43,7 @@ ivs: 0
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Togekiss
-setname: Super Luck
+setname: a-Super Luck
 tags: [advanced]
 item: [Lansat Berry]
 ability: [Super Luck]

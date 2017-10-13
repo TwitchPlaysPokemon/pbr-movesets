@@ -1,0 +1,37 @@
+species: Chingling
+setname: Special
+tags: [standard]
+item: [Null]
+ball: [Luxury]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Hyper Voice]
+    - [Shadow Ball]
+    - [Charge Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 144, atk: 0, def: 0, spA: 176, spD: 0, spe: 188}
+---
+species: Chingling
+setname: Screens
+tags: [standard]
+item: [Light Clay]
+ball: [Heal]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Signal Beam]
+    - [Reflect]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 224, atk: 0, def: 44, spA: 44, spD: 44, spe: 152}

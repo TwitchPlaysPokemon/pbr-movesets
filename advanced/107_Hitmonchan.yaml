@@ -1,5 +1,5 @@
 species: Hitmonchan
-setname: Punch
+setname: a-Punch
 tags: [advanced]
 item: [Silk Scarf]
 ability: [Iron Fist]
@@ -24,7 +24,7 @@ rarity: 1.0
 ball: [Luxury]
 ---
 species: Hitmonchan
-setname: Mixed
+setname: a-Mixed
 tags: [advanced]
 item: [Null]
 ability: [Keen Eye, Inner Focus]
@@ -45,7 +45,7 @@ rarity: 0.5
 ball: [Heal]
 ---
 species: Hitmonchan
-setname: Comet
+setname: a-Comet
 tags: [advanced]
 item: [King's Rock]
 ability: [Iron Fist]

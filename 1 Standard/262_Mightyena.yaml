@@ -1,0 +1,56 @@
+species: Mightyena
+setname: Physical
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Sucker Punch]
+    - [Iron Tail]
+    - [Thunder Fang]
+    - [Taunt]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Adamant
+evs: {hp: 80, atk: 32, def: 0, spA: 252, spD: 80, spe: 64}
+ivs: 31
+---
+species: Mightyena
+setname: Special
+ball: [Dusk]
+tags: [standard]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Dark Pulse]
+    - [Shadow Ball]
+    - [Hidden Power]
+    - [Swagger]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Hasty
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 52, spe: 68}
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
+---
+species: Mightyena
+setname: Dog
+ball: [Luxury]
+tags: [standard]
+item: [Rare Bone]
+ability: [Quick Feet]
+moves:
+    - [Bite]
+    - [Return]
+    - [Dig]
+    - [Howl]
+gender: [m,f]
+happiness: 225
+biddable: True
+rarity: 0.2
+nature: Brave
+evs: {hp: 64, atk: 96, def: 48, spA: 0, spD: 48, spe: 252}
+ivs: 31

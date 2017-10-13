@@ -1,0 +1,113 @@
+species: Toxicroak
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Anticipation]
+moves:
+    - [Fake Out]
+    - [Sludge Bomb]
+    - [Drain Punch]
+    - [Torment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Quick]
+nature: Serious
+ivs: 31
+evs: 0
+---
+species: Toxicroak
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Anticipation]
+moves:
+    - [Cross Chop]
+    - [Poison Jab]
+    - [Bullet Punch]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 40}
+---
+species: Toxicroak
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Dry Skin]
+moves:
+    - [Sludge Bomb]
+    - [Mud Bomb]
+    - [Vacuum Wave]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Toxicroak
+setname: Blind
+tags: [standard]
+item: [Null]
+ability: [Dry Skin]
+moves:
+    - [Gunk Shot]
+    - [Focus Blast]
+    - [Dynamic Punch]
+    - [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Timer]
+nature: Modest
+ivs: 15
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Toxicroak
+setname: High Stats
+tags: [standard]
+item: [Null]
+ability: [Dry Skin]
+moves:
+    - [Hidden Power]
+    - [Low Kick]
+    - [Feint Attack]
+    - [Me First]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 28, atk: 30, def: 29, spA: 30, spD: 30, spe: 31}
+evs: {hp: 120, atk: 120, def: 0, spA: 120, spD: 0, spe: 120}
+---
+species: Toxicroak
+setname: Rain Dance
+tags: [standard]
+item: [Damp Rock]
+ability: [Dry Skin]
+moves:
+    - [Sludge Bomb]
+    - [Hidden Power]
+    - [Rain Dance]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Dive]
+nature: Serious
+ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 60, spA: 0, spD: 60, spe: 0}

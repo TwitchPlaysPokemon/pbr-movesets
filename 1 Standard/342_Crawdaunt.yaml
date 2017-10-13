@@ -1,0 +1,56 @@
+species: Crawdaunt
+setname: Standard
+ball: [Dive]
+tags: [standard]
+item: [Null]
+ability: [Hyper Cutter]
+moves:
+    - [Crabhammer]
+    - [Dark Pulse]
+    - [Brick Break]
+    - [Mud Sport]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Timid
+evs: {hp: 168, atk: 56, def: 0, spA: 52, spD: 0, spe: 20}
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
+---
+species: Crawdaunt
+setname: Max Attack
+ball: [Dusk]
+tags: [standard]
+item: [Null]
+ability: [Adaptability]
+moves:
+    - [Aqua Jet]
+    - [Knock Off]
+    - [Metal Claw]
+    - [Dragon Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Timid
+evs: {hp: 200, atk: 44, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Crawdaunt
+setname: Special
+ball: [Net]
+tags: [standard]
+item: [Null]
+ability: [Shell Armor]
+moves:
+    - [Surf]
+    - [Dark Pulse]
+    - [Hidden Power]
+    - [Counter]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.3
+nature: Serious
+evs: {hp: 136, atk: 0, def: 68, spA: 120, spD: 48, spe: 0}
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}

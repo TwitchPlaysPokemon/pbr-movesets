@@ -1,0 +1,56 @@
+species: Combusken
+setname: Physical
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Fire Punch]
+    - [Low Kick]
+    - [Rock Slide]
+    - [Bulk Up]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Hasty
+evs: {hp: 60, atk: 128, def: 0, spA: 0, spD: 64, spe: 252}
+ivs: 20
+---
+species: Combusken
+setname: Special
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [Focus Blast]
+    - [Heat Wave]
+    - [Swift]
+    - [Protect]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.4
+nature: Brave
+ivs: 31
+evs: 84
+---
+species: Combusken
+setname: Baton Pass
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Speed Boost]
+moves:
+    - [Overheat]
+    - [Sky Uppercut]
+    - [Poison Jab]
+    - [Swords Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.2
+nature: Modest
+ivs: 10
+evs: {hp: 172, atk: 0, def: 168, spA: 0, spD: 168, spe: 0}

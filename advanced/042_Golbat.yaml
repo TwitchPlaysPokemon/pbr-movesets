@@ -1,5 +1,5 @@
 species: Golbat
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Dread Plate, Wepear Berry, Spooky Plate, Air Mail]
 ability: [Inner Focus]
@@ -21,7 +21,7 @@ happiness: 255
 ball: [Great]
 ---
 species: Golbat
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Poison Barb, Choice Specs]
 ability: [Inner Focus]

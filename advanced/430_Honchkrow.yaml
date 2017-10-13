@@ -1,5 +1,5 @@
 species: Honchkrow
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Metal Coat]
 ability: [Insomnia]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Honchkrow
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Null, Iron Ball, Scope Lens, Dragon Fang]
 ability: [Insomnia, Super Luck]
@@ -43,7 +43,7 @@ rarity: 1.0
 ball: [Premier]
 ---
 species: Honchkrow
-setname: Critter
+setname: a-Critter
 tags: [advanced]
 item: [Escape Rope, Power Herb]
 ability: [Super Luck]
@@ -64,7 +64,7 @@ rarity: 1.0
 ball: [Dusk]
 ---
 species: Honchkrow
-setname: Max Atk
+setname: a-Max Atk
 tags: [advanced]
 item: [Null]
 ability: [Super Luck]

@@ -1,0 +1,53 @@
+species: Zapdos
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Pluck]
+    - [Thundershock]
+    - [Rock Smash]
+    - [Detect]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Repeat]
+nature: Rash
+evs: 0
+ivs: 27
+---
+species: Zapdos
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Discharge]
+    - [Air Cutter]
+    - [Ancient Power]
+    - [Tailwind]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Timer]
+nature: Brave
+evs: 0
+ivs: 0
+---
+species: Zapdos
+setname: Overpowered
+tags: [standard]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Thunder]
+    - [Drill Peck]
+    - [Heat Wave]
+    - [U-turn]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Sassy
+evs: 0
+ivs: 0

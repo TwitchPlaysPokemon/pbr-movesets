@@ -1,0 +1,37 @@
+species: Paras
+setname: Physical
+tags: [standard]
+item: [Quick Claw]
+ability: [Dry Skin]
+moves:
+    - [Seed Bomb]
+    - [X-Scissor]
+    - [Spore]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Net]
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+---
+species: Paras
+setname: Special
+tags: [standard]
+item: [Focus Sash]
+ability: [Dry Skin]
+moves:
+    - [Energy Ball]
+    - [Sludge Bomb]
+    - [Spore]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Safari]
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 52}
+ivs: 31

@@ -1,0 +1,94 @@
+species: Froslass
+setname: Standard
+tags: [standard]
+item: [Null]
+ability: [Snow Cloak]
+moves:
+    - [Ice Beam]
+    - [Ominous Wind]
+    - [Thunderbolt]
+    - [Confuse Ray]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Poké]
+nature: Serious
+ivs: 22
+evs: 84
+---
+species: Froslass
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Snow Cloak]
+moves:
+    - [Avalanche]
+    - [Astonish]
+    - [Sucker Punch]
+    - [Snatch]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Premier]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 14}
+evs: {hp: 88, atk: 248, def: 80, spA: 0, spD: 92, spe: 0}
+---
+species: Froslass
+setname: Hail
+tags: [standard]
+item: [Null]
+ability: [Snow Cloak]
+moves:
+    - [Shadow Ball]
+    - [Weather Ball]
+    - [Psychic]
+    - [Hail]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dusk]
+nature: Serious
+ivs: 22
+evs: 84
+---
+species: Froslass
+setname: Setup
+tags: [standard]
+item: [Light Clay]
+ability: [Snow Cloak]
+moves:
+    - [Ice Beam]
+    - [Shadow Ball]
+    - [Spikes]
+    - [Light Screen]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Repeat]
+nature: Impish
+ivs: {hp: 31, atk: 15, def: 31, spA: 15, spD: 31, spe: 15}
+evs: {hp: 100, atk: 0, def: 200, spA: 0, spD: 100, spe: 0}
+---
+species: Froslass
+setname: Weather Ball
+tags: [standard]
+item: [Null]
+ability: [Snow Cloak]
+moves:
+    - [Ominous Wind]
+    - [Weather Ball]
+    - [Hail]
+    - [Rain Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Dive]
+nature: Modest
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 188, spD: 0, spe: 0}

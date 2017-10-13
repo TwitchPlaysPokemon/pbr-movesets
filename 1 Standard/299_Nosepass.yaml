@@ -1,0 +1,56 @@
+species: Nosepass
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Stone Edge]
+    - [Earthquake]
+    - [Dynamic Punch]
+    - [Gravity]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Great]
+nature: Adamant
+ivs: 31
+evs: {hp: 176, atk: 252, def: 0, spA: 0, spD: 0, spe: 80}
+---
+species: Nosepass
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Ancient Power]
+    - [Thunder]
+    - [Earth Power]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Nest]
+nature: Modest
+ivs: 31
+evs: {hp: 168, atk: 0, def: 0, spA: 252, spD: 0, spe: 88}
+---
+species: Nosepass
+setname: Mixed
+tags: [standard]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Rock Slide]
+    - [Earth Power]
+    - [Discharge]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Repeat]
+nature: Quiet
+ivs: 31
+evs: {hp: 116, atk: 184, def: 0, spA: 208, spD: 0, spe: 0}

@@ -1,6 +1,7 @@
 ingamename: GOLBA-MK-S
 species: Golbat
 setname: Shiny
+tags: [advanced,standard]
 item: [Red Shard]
 ability: [Intimidate]
 moves:

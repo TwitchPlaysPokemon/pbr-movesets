@@ -1,0 +1,37 @@
+species: Kangaskhan
+setname: Rage
+tags: [standard]
+item: [Null]
+ability: [Scrappy]
+moves:
+    - [Comet Punch]
+    - [Rage]
+    - [Drain Punch]
+    - [Focus Punch]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Timer]
+nature: Adamant
+evs: {hp: 104, atk: 88, def: 100, spA: 0, spD: 100, spe: 116}
+ivs: 31
+---
+species: Kangaskhan
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Technician]
+moves:
+    - [Fake Out]
+    - [Double Hit]
+    - [Double Kick]
+    - [Sucker Punch]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Luxury]
+nature: Quiet
+evs: 0
+ivs: 0

@@ -1,5 +1,5 @@
 species: Regigigas
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Shoal Salt]
 ability: [Slow Start]
@@ -17,7 +17,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
 evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
 ---
 species: Regigigas
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Life Orb]
 ability: [Slow Start]
@@ -40,7 +40,7 @@ ivs: 18
 evs: 0
 ---
 species: Regigigas
-setname: Overpowered
+setname: a-Overpowered
 tags: [advanced]
 item: [null]
 ability: [Slow Start]

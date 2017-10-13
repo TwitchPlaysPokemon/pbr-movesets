@@ -1,5 +1,5 @@
 species: Swellow
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Sharp Beak]
 ability: [Scrappy, Guts]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
 ---
 species: Swellow
-setname: Scrappy
+setname: a-Scrappy
 tags: [advanced]
 item: [Muscle Band]
 ability: [Scrappy]
@@ -37,7 +37,7 @@ ivs: 23
 evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
 ---
 species: Swellow
-setname: Guts
+setname: a-Guts
 tags: [advanced]
 item: [Toxic Orb]
 ability: [Guts]
@@ -57,7 +57,7 @@ ivs: 31
 evs: {hp: 192, atk: 52, def: 52, spA: 0, spD: 72, spe: 24}
 ---
 species: Swellow
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Choice Specs]
 ability: [Scrappy]

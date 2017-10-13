@@ -1,0 +1,56 @@
+species: Seel
+setname: Special
+tags: [standard]
+item: [Null]
+ability: [Ice Body]
+moves:
+    - [Surf]
+    - [Blizzard]
+    - [Toxic]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Net]
+nature: Calm
+evs: {hp: 188, atk: 0, def: 72, spA: 180, spD: 0, spe: 68}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+---
+species: Seel
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Fake Out]
+    - [Aqua Tail]
+    - [Ice Shard]
+    - [Horn Drill]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Adamant
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+ivs: 31
+---
+species: Seel
+setname: Stockpile
+tags: [standard]
+item: [Black Sludge]
+ability: [Hydration]
+moves:
+    - [Water Pulse]
+    - [Rain Dance]
+    - [Stockpile]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.2
+ball: [Timer]
+nature: Quiet
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}

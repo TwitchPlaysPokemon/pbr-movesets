@@ -1,5 +1,5 @@
 species: Wartortle
-setname: Torrent
+setname: a-Torrent
 tags: [advanced]
 item: [Wave Incense, Light Ball, Berry Juice, Liechi Berry, Sitrus Berry]
 ability: [Torrent]
@@ -22,7 +22,7 @@ rarity: 0.8
 ball: [Great]
 ---
 species: Wartortle
-setname: Rain Dish
+setname: a-Rain Dish
 tags: [advanced]
 item: [Damp Rock]
 ability: [Rain Dish]

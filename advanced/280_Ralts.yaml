@@ -1,5 +1,5 @@
 species: Ralts
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Focus Sash]
 ability: [Synchronize]
@@ -18,7 +18,7 @@ ivs: 31
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Ralts
-setname: Utility
+setname: a-Utility
 tags: [advanced]
 item: [Focus Sash]
 ability: [Trace, Synchronize]

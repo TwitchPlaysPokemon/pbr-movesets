@@ -1,5 +1,5 @@
 species: Lickitung
-setname: Standard
+setname: a-Standard
 tags: [advanced]
 item: [Null, Spooky Plate]
 ability: [Cloud Nine]
@@ -20,7 +20,7 @@ rarity: 1.0
 ball: [Safari]
 ---
 species: Lickitung
-setname: Physical
+setname: a-Physical
 tags: [advanced]
 item: [Null]
 ability: [Cloud Nine, Own Tempo]
@@ -43,7 +43,7 @@ rarity: 1.0
 ball: [Great]
 ---
 species: Lickitung
-setname: Special
+setname: a-Special
 tags: [advanced]
 item: [Null]
 ability: [Oblivious, Own Tempo]
