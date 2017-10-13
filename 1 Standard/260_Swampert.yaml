@@ -1,6 +1,7 @@
 species: Swampert
 setname: Standard
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:
@@ -19,6 +20,7 @@ ivs: 0
 species: Swampert
 setname: Physical
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:
@@ -37,6 +39,7 @@ ivs: 0
 species: Swampert
 setname: Special
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Damp]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 15, atk: 0, def: 15, spA: 15, spD: 15, spe: 15}
 species: Swampert
 setname: Mega
 ball: [Ultra]
+tags: [standard]
 item: [Everstone]
 ability: [Swift Swim]
 moves:

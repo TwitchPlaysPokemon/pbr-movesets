@@ -1,6 +1,7 @@
 species: Linoone
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Pickup]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Linoone
 setname: Mixed
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Pickup]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Linoone
 setname: Rain Dance
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Pickup]
 moves:

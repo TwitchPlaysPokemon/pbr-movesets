@@ -1,5 +1,6 @@
 species: Skitty
 setname: Standard
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Cute Charm]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 192, atk: 252, def: 36, spA: 0, spD: 28, spe: 0}
 ---
 species: Skitty
 setname: Special
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Cute Charm]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 84, atk: 0, def: 8, spA: 252, spD: 20, spe: 144}
 ---
 species: Skitty
 setname: Sleep
+tags: [standard]
 item: [Zoom Lens]
 ability: [Cute Charm]
 moves:

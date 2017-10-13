@@ -1,5 +1,6 @@
 species: Piplup
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Piplup
 setname: Physical
+tags: [standard]
 item: [Liechi Berry]
 ability: [Torrent]
 moves:
@@ -36,6 +38,7 @@ ivs: 31
 ---
 species: Piplup
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:

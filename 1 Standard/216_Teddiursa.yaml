@@ -1,5 +1,6 @@
 species: Teddiursa
 setname: Bulk Up
+tags: [standard]
 item: [Null]
 ability: [Quick Feet]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
 ---
 species: Teddiursa
 setname: Facade
+tags: [standard]
 item: [Toxic Orb]
 ability: [Quick Feet]
 moves:

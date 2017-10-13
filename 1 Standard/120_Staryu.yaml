@@ -1,5 +1,6 @@
 species: Staryu
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -17,6 +18,7 @@ ivs: 31
 ---
 species: Staryu
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:

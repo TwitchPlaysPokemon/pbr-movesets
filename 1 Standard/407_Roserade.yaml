@@ -1,5 +1,6 @@
 species: Roserade
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Poison Point]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 140, atk: 216, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Roserade
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 108, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Roserade
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 252, def: 208, spA: 0, spD: 0, spe: 48}
 ---
 species: Roserade
 setname: Flinch
+tags: [standard]
 item: [Razor Fang]
 ability: [Technician]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 112, def: 0, spA: 0, spD: 0, spe: 125}
 ---
 species: Roserade
 setname: Technician
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:
@@ -90,6 +95,7 @@ evs: {hp: 0, atk: 252, def: 132, spA: 44, spD: 0, spe: 80}
 ---
 species: Roserade
 setname: Weather Ball
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:

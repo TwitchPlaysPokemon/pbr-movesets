@@ -1,5 +1,6 @@
 species: Meowth
 setname: Shiny
+tags: [advanced,standard]
 item: [Amulet Coin]
 ability: [Shadow Tag]
 moves:

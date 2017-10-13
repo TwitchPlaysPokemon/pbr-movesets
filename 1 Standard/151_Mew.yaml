@@ -1,5 +1,6 @@
 species: Mew
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -17,6 +18,7 @@ ivs: 0
 ---
 species: Mew
 setname: Accuracy
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -34,6 +36,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
 ---
 species: Mew
 setname: Blind
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -51,6 +54,7 @@ ivs: 0
 ---
 species: Mew
 setname: Charge
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -68,6 +72,7 @@ ivs: 0
 ---
 species: Mew
 setname: Copy
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -85,6 +90,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
 ---
 species: Mew
 setname: Crit
+tags: [standard]
 item: [Razor Claw]
 ability: [Synchronize]
 moves:
@@ -102,6 +108,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
 ---
 species: Mew
 setname: Dance
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -119,6 +126,7 @@ ivs: 0
 ---
 species: Mew
 setname: Defensive
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -136,6 +144,7 @@ ivs: 0
 ---
 species: Mew
 setname: Flinch
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -153,6 +162,7 @@ ivs: 0
 ---
 species: Mew
 setname: Hail
+tags: [standard]
 item: [Helix Fossil]
 ability: [Synchronize]
 moves:
@@ -170,6 +180,7 @@ ivs: 0
 ---
 species: Mew
 setname: Hyper
+tags: [standard]
 item: [Iron Ball]
 ability: [Synchronize]
 moves:
@@ -187,6 +198,7 @@ ivs: 0
 ---
 species: Mew
 setname: Lock
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -204,6 +216,7 @@ ivs: 0
 ---
 species: Mew
 setname: Mech
+tags: [standard]
 item: [Electirizer]
 ability: [Synchronize]
 moves:
@@ -221,6 +234,7 @@ ivs: 0
 ---
 species: Mew
 setname: Priority
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -238,6 +252,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
 ---
 species: Mew
 setname: Rainbow
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -255,6 +270,7 @@ ivs: 0
 ---
 species: Mew
 setname: Recoil
+tags: [standard]
 item: [Iron Ball]
 ability: [Synchronize]
 moves:
@@ -272,6 +288,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 ---
 species: Mew
 setname: RNG
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -289,6 +306,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
 ---
 species: Mew
 setname: Setup
+tags: [standard]
 item: [Iron Ball]
 ability: [Synchronize]
 moves:
@@ -306,6 +324,7 @@ ivs: 15
 ---
 species: Mew
 setname: Slow
+tags: [standard]
 item: [Iron Ball]
 ability: [Synchronize]
 moves:
@@ -323,6 +342,7 @@ ivs: 0
 ---
 species: Mew
 setname: Status
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -340,6 +360,7 @@ ivs: 0
 ---
 species: Mew
 setname: Sun
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -357,6 +378,7 @@ ivs: 0
 ---
 species: Mew
 setname: Trapper
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -374,6 +396,7 @@ ivs: 0
 ---
 species: Mew
 setname: Zen
+tags: [standard]
 item: [Iron Ball]
 ability: [Synchronize]
 moves:
@@ -391,6 +414,7 @@ ivs: 0
 ---
 species: Mew
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:

@@ -1,5 +1,6 @@
 species: Blastoise
 setname: Cannon
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:
@@ -18,6 +19,7 @@ ivs: 4
 ---
 species: Blastoise
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:
@@ -36,6 +38,7 @@ ivs: 0
 ---
 species: Blastoise
 setname: Mega
+tags: [standard]
 item: [Everstone]
 ability: [Torrent]
 moves:

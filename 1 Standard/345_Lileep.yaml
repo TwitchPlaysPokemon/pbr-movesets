@@ -1,6 +1,7 @@
 species: Lileep
 setname: Standard
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Suction Cups]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Lileep
 setname: Physical
 ball: [Timer]
+tags: [standard]
 item: [Null]
 ability: [Storm Drain]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Lileep
 setname: Special
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Suction Cups]
 moves:

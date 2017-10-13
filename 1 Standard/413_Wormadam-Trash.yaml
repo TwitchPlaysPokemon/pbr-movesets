@@ -1,5 +1,6 @@
 species: Wormadam
 setname: Trash Physical
+tags: [standard]
 item: [Iron Ball]
 ability: [Anticipation]
 moves:
@@ -19,6 +20,7 @@ ivs: 17
 ---
 species: Wormadam
 setname: Trash Special
+tags: [standard]
 item: [Null]
 ability: [Anticipation]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 160, atk: 0, def: 116, spA: 108, spD: 64, spe: 0}
 ---
 species: Wormadam
 setname: Trash Mixed
+tags: [standard]
 item: [Null]
 ability: [Anticipation]
 moves:

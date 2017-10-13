@@ -1,5 +1,6 @@
 species: Abra
 setname: Special
+tags: [standard]
 item: [Flame Orb]
 ability: [Magic Guard]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Abra
 setname: Sleep
+tags: [standard]
 item: [Focus Sash]
 ability: [Synchronize]
 moves:

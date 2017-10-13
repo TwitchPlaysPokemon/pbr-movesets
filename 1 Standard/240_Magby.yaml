@@ -1,5 +1,6 @@
 species: Magby
 setname: Power Swap
+tags: [standard]
 item: [Null]
 ability: [Flame Body]
 moves:
@@ -18,6 +19,7 @@ evs: 84
 ---
 species: Magby
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Flame Body]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 124, atk: 0, def: 0, spA: 128, spD: 128, spe: 128}
 ---
 species: Magby
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Vital Spirit]
 moves:

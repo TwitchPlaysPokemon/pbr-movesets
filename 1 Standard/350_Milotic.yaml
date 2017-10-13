@@ -1,5 +1,6 @@
 species: Milotic
 setname: Standard
+tags: [standard]
 item: [Null]
 ball: [Dive]
 ability: [Marvel Scale]
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Milotic
 setname: Physical
+tags: [standard]
 item: [Null]
 ball: [Dusk]
 ability: [Cute Charm]
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Milotic
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Ultra]
 ability: [Marvel Scale]

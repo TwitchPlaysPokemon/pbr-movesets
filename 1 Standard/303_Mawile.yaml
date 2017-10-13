@@ -1,5 +1,6 @@
 species: Mawile
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 84, atk: 108, def: 0, spA: 0, spD: 0, spe: 140}
 ---
 species: Mawile
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Hyper Cutter]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 40, atk: 52, def: 0, spA: 0, spD: 0, spe: 112}
 ---
 species: Mawile
 setname: Max Attack
+tags: [standard]
 item: [Null]
 ability: [Hyper Cutter]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 112, atk: 252, def: 0, spA: 0, spD: 0, spe: 144}
 ---
 species: Mawile
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 96, atk: 0, def: 0, spA: 252, spD: 0, spe: 160}
 ---
 species: Mawile
 setname: Mega
+tags: [standard]
 item: [Everstone]
 ability: [Huge Power]
 moves:

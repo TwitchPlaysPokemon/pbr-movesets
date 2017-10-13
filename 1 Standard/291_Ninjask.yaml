@@ -1,6 +1,7 @@
 species: Ninjask
 setname: Physical
 ball: [Timer]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 species: Ninjask
 setname: Special
 ball: [Quick]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:

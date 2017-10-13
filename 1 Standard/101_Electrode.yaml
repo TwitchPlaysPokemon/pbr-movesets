@@ -1,5 +1,6 @@
 species: Electrode
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Soundproof]
 moves:
@@ -17,6 +18,7 @@ ivs: {hp: 11, atk: 11, def: 11, spA: 11, spD: 10, spe: 11}
 ---
 species: Electrode
 setname: Physical
+tags: [standard]
 item: [Toxic Orb]
 ability: [Static]
 moves:
@@ -34,6 +36,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 15, spe: 14}
 ---
 species: Electrode
 setname: Mixed
+tags: [standard]
 item: [Null]
 ability: [Aftermath]
 moves:

@@ -1,5 +1,6 @@
 species: Shieldon
 setname: Metal Burst
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 252, atk: 142, def: 32, spA: 0, spD: 84, spe: 0}
 ---
 species: Shieldon
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 168, atk: 168, def: 0, spA: 0, spD: 0, spe: 172}
 ---
 species: Shieldon
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Soundproof]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 252, atk: 0, def: 0, spA: 172, spD: 84, spe: 0}
 ---
 species: Shieldon
 setname: Flinch
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:

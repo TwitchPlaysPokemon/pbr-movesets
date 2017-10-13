@@ -1,6 +1,7 @@
 species: Lucario
 setname: Standard
 ball: [Luxury]
+tags: [standard]
 item: [Null]
 ability: [Steadfast]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 17, atk: 17, def: 17, spA: 17, spD: 17, spe: 7}
 species: Lucario
 setname: Physical
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Steadfast]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 20, atk: 0, def: 20, spA: 20, spD: 20, spe: 20}
 species: Lucario
 setname: Aura
 ball: [Cherish]
+tags: [standard]
 item: [Null]
 ability: [Inner Focus]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 22, atk: 22, def: 22, spA: 2, spD: 23, spe: 18}
 species: Lucario
 setname: Priority
 ball: [Quick]
+tags: [standard]
 item: [Null]
 ability: [Steadfast]
 moves:
@@ -73,6 +77,7 @@ ivs: {hp: 15, atk: 0, def: 15, spA: 31, spD: 15, spe: 31}
 species: Lucario
 setname: Stall
 ball: [Timer]
+tags: [standard]
 item: [Oran Berry]
 ability: [Inner Focus]
 moves:
@@ -91,6 +96,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
 species: Lucario
 setname: Mega
 ball: [Repeat]
+tags: [standard]
 item: [Everstone]
 ability: [Adaptability]
 moves:

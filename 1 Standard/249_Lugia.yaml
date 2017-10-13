@@ -1,5 +1,6 @@
 species: Lugia
 setname: Standard
+tags: [standard]
 item: [Iron Ball]
 ability: [Pressure]
 moves:
@@ -17,6 +18,7 @@ evs: 0
 ---
 species: Lugia
 setname: Rain Dance
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -34,6 +36,7 @@ evs: 0
 ---
 species: Lugia
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:

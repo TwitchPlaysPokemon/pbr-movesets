@@ -1,5 +1,6 @@
 species: Tyrogue
 setname: Standard
+tags: [standard]
 item: [Toxic Orb]
 ability: [Guts]
 moves:

@@ -1,5 +1,6 @@
 species: Sudowoodo
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Rock Head]
 moves:
@@ -18,6 +19,7 @@ evs: 84
 ---
 species: Sudowoodo
 setname: Mixed
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
 ---
 species: Sudowoodo
 setname: Max Atk
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:

@@ -1,5 +1,6 @@
 species: Machoke
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [No Guard]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Machoke
 setname: Fighter
+tags: [standard]
 item: [Null]
 ability: [Guts]
 moves:
@@ -36,6 +38,7 @@ ivs: 31
 ---
 species: Machoke
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [No Guard]
 moves:

@@ -1,5 +1,6 @@
 species: Azurill
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Huge Power]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 168, atk: 252, def: 12, spA: 0, spD: 76, spe: 0}
 ---
 species: Azurill
 setname: Special
+tags: [standard]
 item: [Leftovers]
 ability: [No Guard]
 moves:

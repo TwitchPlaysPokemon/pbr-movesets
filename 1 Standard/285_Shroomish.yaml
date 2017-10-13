@@ -1,6 +1,7 @@
 species: Shroomish
 setname: Physical
 ball: [Heal]
+tags: [standard]
 item: [Toxic Orb]
 ability: [Poison Heal]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Shroomish
 setname: Special
 ball: [Quick]
+tags: [standard]
 item: [Null]
 ability: [Quick Feet]
 moves:

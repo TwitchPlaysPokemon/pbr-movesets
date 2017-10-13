@@ -1,5 +1,6 @@
 species: Flaaffy
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Static]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 76, atk: 128, def: 76, spA: 76, spD: 76, spe: 76}
 ---
 species: Flaaffy
 setname: Screens
+tags: [standard]
 item: [Null]
 ability: [Static]
 moves:

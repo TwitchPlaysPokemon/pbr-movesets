@@ -1,5 +1,6 @@
 species: Honchkrow
 setname: Standard
+tags: [standard]
 item: [Null]
 ball: [Ultra]
 ability: [Super Luck]
@@ -18,6 +19,7 @@ evs: 0
 ---
 species: Honchkrow
 setname: Max Attack
+tags: [standard]
 item: [Null]
 ball: [Luxury]
 ability: [Super Luck]
@@ -36,6 +38,7 @@ evs: {hp: 16, atk: 252, def: 140, spA: 0, spD: 100, spe: 0}
 ---
 species: Honchkrow
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Premier]
 ability: [Insomnia]
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 0, spe: 0}
 ---
 species: Honchkrow
 setname: High Sp. Atk
+tags: [standard]
 item: [Null]
 ball: [Dusk]
 ability: [Super Luck]
@@ -72,6 +76,7 @@ evs: {hp: 40, atk: 0, def: 0, spA: 252, spD: 0, spe: 124}
 ---
 species: Honchkrow
 setname: Crit
+tags: [standard]
 item: [Null]
 ball: [Quick]
 ability: [Super Luck]
@@ -90,6 +95,7 @@ evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 132}
 ---
 species: Honchkrow
 setname: Recoil
+tags: [standard]
 item: [Null]
 ball: [Repeat]
 ability: [Insomnia]
@@ -108,6 +114,7 @@ evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Honchkrow
 setname: Slow
+tags: [standard]
 item: [Macho Brace]
 ball: [Timer]
 ability: [Insomnia]

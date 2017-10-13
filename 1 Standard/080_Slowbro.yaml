@@ -1,5 +1,6 @@
 species: Slowbro
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:
@@ -18,6 +19,7 @@ ivs: 8
 ---
 species: Slowbro
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -36,6 +38,7 @@ ivs: 0
 ---
 species: Slowbro
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:

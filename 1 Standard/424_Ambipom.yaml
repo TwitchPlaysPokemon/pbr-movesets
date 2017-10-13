@@ -1,5 +1,6 @@
 species: Ambipom
 setname: Skill Link
+tags: [standard]
 item: [Null]
 ball: [Repeat]
 ability: [Skill Link]
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 88, spA: 0, spD: 100, spe: 0}
 ---
 species: Ambipom
 setname: Max Attack
+tags: [standard]
 item: [Null]
 ball: [Dusk]
 ability: [Pickup]
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 8, spD: 0, spe: 248}
 ---
 species: Ambipom
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Premier]
 ability: [Technician]
@@ -54,6 +57,7 @@ evs: {hp: 4, atk: 0, def: 126, spA: 248, spD: 132, spe: 0}
 ---
 species: Ambipom
 setname: Technician
+tags: [standard]
 item: [Null]
 ball: [Nest]
 ability: [Technician]
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 12, spe: 24}
 ---
 species: Ambipom
 setname: Snore
+tags: [standard]
 item: [Null]
 ball: [Heal]
 ability: [Technician]

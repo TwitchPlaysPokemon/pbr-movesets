@@ -1,5 +1,6 @@
 species: Pidgeot
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Tangled Feet]
 moves:
@@ -18,6 +19,7 @@ ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
 ---
 species: Pidgeot
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Tangled Feet]
 moves:
@@ -36,6 +38,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 ---
 species: Pidgeot
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Keen Eye]
 moves:
@@ -54,6 +57,7 @@ ivs: 10
 ---
 species: Pidgeot
 setname: Mega
+tags: [standard]
 item: [Everstone]
 ability: [No Guard]
 moves:

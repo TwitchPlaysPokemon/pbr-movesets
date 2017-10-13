@@ -1,5 +1,6 @@
 species: Magneton
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Magnet Pull]
 moves:
@@ -17,6 +18,7 @@ ivs: 11
 ---
 species: Magneton
 setname: Slow
+tags: [standard]
 item: [Macho Brace]
 ability: [Sturdy]
 moves:
@@ -34,6 +36,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 ---
 species: Magneton
 setname: ResTalk
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:

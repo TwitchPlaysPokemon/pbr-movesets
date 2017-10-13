@@ -1,5 +1,6 @@
 species: Bronzor
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 128, atk: 0, def: 64, spA: 252, spD: 64, spe: 0}
 ---
 species: Bronzor
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Heatproof]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 160, atk: 252, def: 0, spA: 0, spD: 96, spe: 0}
 ---
 species: Bronzor
 setname: Support
+tags: [standard]
 item: [Light Clay]
 ability: [Levitate]
 moves:

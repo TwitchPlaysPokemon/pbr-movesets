@@ -1,5 +1,6 @@
 species: Abomasnow
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Snow Warning]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 60}
 ---
 species: Abomasnow
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Snow Warning]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 40, atk: 0, def: 0, spA: 120, spD: 0, spe: 0}
 ---
 species: Abomasnow
 setname: High Stats
+tags: [standard]
 item: [Null]
 ability: [Snow Warning]
 moves:
@@ -54,6 +57,7 @@ evs: 84
 ---
 species: Abomasnow
 setname: Rain Dance
+tags: [standard]
 item: [Null]
 ability: [Soundproof]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 128, spe: 124}
 ---
 species: Abomasnow
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Snow Warning]
 moves:
@@ -90,6 +95,7 @@ evs: {hp: 200, atk: 0, def: 152, spA: 0, spD: 156, spe: 0}
 ---
 species: Abomasnow
 setname: Mega
+tags: [standard]
 item: [Macho Brace]
 ability: [Snow Warning]
 moves:

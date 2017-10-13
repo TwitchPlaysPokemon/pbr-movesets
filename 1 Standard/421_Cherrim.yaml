@@ -1,5 +1,6 @@
 species: Cherrim
 setname: Physical
+tags: [standard]
 item: [Watmel Berry]
 ability: [Flower Gift]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 44}
 ---
 species: Cherrim
 setname: Mixed
+tags: [standard]
 item: [Null]
 ability: [Flower Gift]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Cherrim
 setname: Summer
+tags: [standard]
 item: [Heat Rock]
 ability: [Flower Gift]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 236, def: 0, spA: 0, spD: 48, spe: 120}
 ---
 species: Cherrim
 setname: Autumn
+tags: [standard]
 item: [Smooth Rock]
 ability: [Flower Gift]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 236, def: 0, spA: 0, spD: 48, spe: 120}
 ---
 species: Cherrim
 setname: Winter
+tags: [standard]
 item: [Icy Rock]
 ability: [Flower Gift]
 moves:
@@ -90,6 +95,7 @@ evs: {hp: 0, atk: 236, def: 0, spA: 0, spD: 48, spe: 120}
 ---
 species: Cherrim
 setname: Spring
+tags: [standard]
 item: [Damp Rock]
 ability: [Flower Gift]
 moves:

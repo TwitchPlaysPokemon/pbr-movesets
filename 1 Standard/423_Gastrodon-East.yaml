@@ -1,5 +1,6 @@
 species: Gastrodon
 setname: East Physical
+tags: [standard]
 item: [Null]
 ability: [Sticky Hold]
 moves:
@@ -19,6 +20,7 @@ evs: {hp: 0, atk: 12, def: 20, spA: 0, spD: 20, spe: 140}
 ---
 species: Gastrodon
 setname: East Special
+tags: [standard]
 item: [Null]
 ability: [Sticky Hold]
 moves:

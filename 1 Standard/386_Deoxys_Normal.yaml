@@ -1,5 +1,6 @@
 species: Deoxys
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 nature: Brave
@@ -17,6 +18,7 @@ ball: [Poke]
 ---
 species: Deoxys
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 nature: Impish
@@ -34,6 +36,7 @@ ball: [Great]
 ---
 species: Deoxys
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 nature: Brave

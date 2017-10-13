@@ -1,5 +1,6 @@
 species: Cubone
 setname: Standard
+tags: [standard]
 item: [Thick Club]
 ability: [Rock Head]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Cubone
 setname: Bonemerang
+tags: [standard]
 item: [Thick Club]
 ability: [Battle Armor]
 moves:
@@ -36,6 +38,7 @@ ivs: 31
 ---
 species: Cubone
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Battle Armor]
 moves:

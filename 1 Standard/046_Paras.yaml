@@ -1,5 +1,6 @@
 species: Paras
 setname: Physical
+tags: [standard]
 item: [Quick Claw]
 ability: [Dry Skin]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Paras
 setname: Special
+tags: [standard]
 item: [Focus Sash]
 ability: [Dry Skin]
 moves:

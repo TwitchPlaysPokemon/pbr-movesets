@@ -1,5 +1,6 @@
 species: Raticate
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Guts]
 moves:
@@ -18,6 +19,7 @@ ivs: 15
 ---
 species: Raticate
 setname: Special
+tags: [standard]
 item: [Petaya Berry]
 ability: [Run Away]
 moves:

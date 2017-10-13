@@ -1,5 +1,6 @@
 species: Togetic
 setname: Serene Grace
+tags: [standard]
 item: [Null]
 ability: [Serene Grace]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 120, atk: 0, def: 0, spA: 148, spD: 0, spe: 0}
 ---
 species: Togetic
 setname: Hustle
+tags: [standard]
 item: [Null]
 ability: [Hustle]
 moves:

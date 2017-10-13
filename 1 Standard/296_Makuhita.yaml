@@ -1,5 +1,6 @@
 species: Makuhita
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 248, atk: 132, def: 56, spA: 0, spD: 72, spe: 0}
 ---
 species: Makuhita
 setname: Guts
+tags: [standard]
 item: [Flame Orb]
 ability: [Guts]
 moves:

@@ -1,5 +1,6 @@
 species: Sableye
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Keen Eye]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 68, atk: 84, def: 0, spA: 0, spD: 0, spe: 140}
 ---
 species: Sableye
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Keen Eye]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 100, spA: 160, spD: 84, spe: 68}
 ---
 species: Sableye
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Stall]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 40, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Sableye
 setname: Role Play
+tags: [standard]
 item: [Null]
 ability: [Stall]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 144, atk: 104, def: 0, spA: 0, spD: 100, spe: 160}
 ---
 species: Sableye
 setname: Mega
+tags: [standard]
 item: [Everstone]
 ability: [Magic Guard]
 moves:

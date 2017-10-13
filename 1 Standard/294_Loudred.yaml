@@ -1,6 +1,7 @@
 species: Loudred
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Scrappy]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Loudred
 setname: Special
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Soundproof]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Loudred
 setname: Mixed
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Soundproof]
 moves:

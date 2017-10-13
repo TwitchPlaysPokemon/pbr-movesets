@@ -1,5 +1,6 @@
 species: Aron
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 208, atk: 64, def: 0, spA: 200, spD: 36, spe: 0}
 ---
 species: Aron
 setname: Rock Head
+tags: [standard]
 item: [Null]
 ability: [Rock Head]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 92, atk: 136, def: 0, spA: 0, spD: 28, spe: 252}
 ---
 species: Aron
 setname: Flinch
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:

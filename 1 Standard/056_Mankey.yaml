@@ -1,5 +1,6 @@
 species: Mankey
 setname: Anger Point
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Anger Point]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Mankey
 setname: Sash
+tags: [standard]
 item: [Focus Sash]
 ability: [Vital Spirit]
 moves:

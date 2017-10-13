@@ -1,6 +1,7 @@
 species: Pelipper
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Rain Dish]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Pelipper
 setname: Special
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Keen Eye]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
 species: Pelipper
 setname: Mixed
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Drizzle]
 moves:

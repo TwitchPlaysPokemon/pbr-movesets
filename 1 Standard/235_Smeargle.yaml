@@ -1,5 +1,6 @@
 species: Smeargle
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 112, atk: 252, def: 80, spA: 0, spD: 64, spe: 0}
 ---
 species: Smeargle
 setname: Crit
+tags: [standard]
 item: [Scope Lens]
 ability: [Own Tempo]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 104, spA: 252, spD: 60, spe: 92}
 ---
 species: Smeargle
 setname: Coin Flip
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Own Tempo]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 116, atk: 252, def: 52, spA: 52, spD: 36, spe: 0}
 ---
 species: Smeargle
 setname: Belly Drum
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:

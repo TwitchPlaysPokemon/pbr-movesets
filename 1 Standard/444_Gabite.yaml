@@ -1,6 +1,7 @@
 species: Gabite
 setname: Standard
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Sand Veil]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Gabite
 setname: Physical
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Sand Veil]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 species: Gabite
 setname: Special
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Rough Skin]
 moves:

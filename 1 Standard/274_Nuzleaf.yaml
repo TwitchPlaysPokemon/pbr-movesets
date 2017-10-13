@@ -1,6 +1,7 @@
 species: Nuzleaf
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Early Bird]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Nuzleaf
 setname: Special
 ball: [Dusk]
+tags: [standard]
 item: [Null]
 ability: [Early Bird]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Nuzleaf
 setname: Mixed
 ball: [Safari]
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:

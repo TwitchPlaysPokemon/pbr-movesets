@@ -1,5 +1,6 @@
 species: Misdreavus
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 80, spD: 0, spe: 80}
 ---
 species: Misdreavus
 setname: Perish Song
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 60, atk: 0, def: 80, spA: 0, spD: 60, spe: 60}
 ---
 species: Misdreavus
 setname: Physical
+tags: [standard]
 item: [Choice Band]
 ability: [Levitate]
 moves:

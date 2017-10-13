@@ -1,5 +1,6 @@
 species: Unown
 setname: Observe
+tags: [standard]
 item: [Wide Lens]
 ability: [Frisk]
 moves:

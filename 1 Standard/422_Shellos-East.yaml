@@ -1,5 +1,6 @@
 species: Shellos
 setname: East Physical
+tags: [standard]
 item: [Null]
 ability: [Sticky Hold]
 moves:
@@ -19,6 +20,7 @@ evs: {hp: 36, atk: 200, def: 80, spA: 0, spD: 80, spe: 112}
 ---
 species: Shellos
 setname: East Special
+tags: [standard]
 item: [Null]
 ability: [Storm Drain]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 0, atk: 0, def: 128, spA: 124, spD: 128, spe: 128}
 ---
 species: Shellos
 setname: East RestTalk
+tags: [standard]
 item: [Null]
 ability: [Sticky Hold]
 moves:

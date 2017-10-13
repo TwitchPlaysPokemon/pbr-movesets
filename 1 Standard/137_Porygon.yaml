@@ -1,5 +1,6 @@
 species: Porygon
 setname: Conversion2
+tags: [standard]
 item: [Null]
 ability: [Download]
 moves:
@@ -17,6 +18,7 @@ ivs: 31
 ---
 species: Porygon
 setname: Gravity
+tags: [standard]
 item: [Null]
 ability: [Download]
 moves:

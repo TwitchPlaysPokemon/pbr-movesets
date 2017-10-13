@@ -1,6 +1,7 @@
 species: Nincada
 setname: Physical
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Compound Eyes]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Nincada
 setname: Stall
 ball: [Great]
+tags: [standard]
 item: [Leftovers]
 ability: [Compound Eyes]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Nincada
 setname: Special
 ball: [Nest]
+tags: [standard]
 item: [Salac Berry]
 ability: [Compound Eyes]
 moves:

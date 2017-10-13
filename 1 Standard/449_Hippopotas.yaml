@@ -1,6 +1,7 @@
 species: Hippopotas
 setname: Standard
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Sand Stream]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Hippopotas
 setname: Special
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Sand Stream]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Hippopotas
 setname: Stall
 ball: [Timer]
+tags: [standard]
 item: [Null]
 ability: [Sand Stream]
 moves:

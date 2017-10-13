@@ -1,6 +1,7 @@
 species: Combusken
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Blaze]
 moves:
@@ -19,6 +20,7 @@ ivs: 20
 species: Combusken
 setname: Special
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:
@@ -37,6 +39,7 @@ evs: 84
 species: Combusken
 setname: Baton Pass
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:

@@ -1,5 +1,6 @@
 species: Starmie
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -17,6 +18,7 @@ ivs: 0
 ---
 species: Starmie
 setname: Slow
+tags: [standard]
 item: [Iron Ball]
 ability: [Natural Cure]
 moves:
@@ -34,6 +36,7 @@ ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
 ---
 species: Starmie
 setname: Camouflage
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:

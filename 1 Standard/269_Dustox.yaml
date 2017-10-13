@@ -1,6 +1,7 @@
 species: Dustox
 setname: Physical
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Shield Dust]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Dustox
 setname: Special
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Shield Dust]
 moves:

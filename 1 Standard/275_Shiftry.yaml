@@ -1,6 +1,7 @@
 species: Shiftry
 setname: Physical
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Early Bird]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Shiftry
 setname: Special
 ball: [Dusk]
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 17, atk: 1, def: 17, spA: 19, spD: 19, spe: 17}
 species: Shiftry
 setname: Mixed
 ball: [Safari]
+tags: [standard]
 item: [Null]
 ability: [Early Bird]
 moves:
@@ -55,6 +58,7 @@ ivs: 15
 species: Shiftry
 setname: Tree
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:

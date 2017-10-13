@@ -1,5 +1,6 @@
 species: Octillery
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Suction Cups]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 96}
 ---
 species: Octillery
 setname: Sniper
+tags: [standard]
 item: [Scope Lens]
 ability: [Sniper]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Octillery
 setname: Water Spout
+tags: [standard]
 item: [Null]
 ability: [Suction Cups]
 moves:

@@ -1,6 +1,7 @@
 species: Carvanha
 setname: Standard
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Carvanha
 setname: Rough Skin
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Rough Skin]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Carvanha
 setname: Special
 ball: [Luxury]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:

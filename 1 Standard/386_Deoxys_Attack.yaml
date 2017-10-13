@@ -1,5 +1,6 @@
 species: Deoxys
 setname: Attack Standard
+tags: [standard]
 item: [Power Herb]
 ability: [Pressure]
 nature: Impish 
@@ -18,6 +19,7 @@ ball: [poke]
 ---
 species: Deoxys
 setname: Attack Punch
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 nature: Impish 
@@ -36,6 +38,7 @@ ball: [Repeat]
 ---
 species: Deoxys
 setname: Attack Overpowered
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 nature: Serious 

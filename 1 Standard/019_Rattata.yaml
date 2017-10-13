@@ -1,5 +1,6 @@
 species: Rattata
 setname: Hustle
+tags: [standard]
 item: [Wide Lens]
 ability: [Hustle]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Rattata
 setname: Guts
+tags: [standard]
 item: [Toxic Orb]
 ability: [Guts]
 moves:

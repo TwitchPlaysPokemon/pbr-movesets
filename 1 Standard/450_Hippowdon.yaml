@@ -1,6 +1,7 @@
 species: Hippowdon
 setname: Standard
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Sand Stream]
 moves:
@@ -19,6 +20,7 @@ ivs: 0
 species: Hippowdon
 setname: Physical
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Sand Stream]
 moves:
@@ -37,6 +39,7 @@ ivs: 0
 species: Hippowdon
 setname: Special
 ball: [Dive]
+tags: [standard]
 item: [Mystic Water]
 ability: [Sand Stream]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 2, atk: 2, def: 3, spA: 3, spD: 2, spe: 2}
 species: Hippowdon
 setname: Stall
 ball: [Timer]
+tags: [standard]
 item: [Null]
 ability: [Sand Stream]
 moves:
@@ -73,6 +77,7 @@ ivs: 31
 species: Hippowdon
 setname: Stockpile
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Sand Stream]
 moves:

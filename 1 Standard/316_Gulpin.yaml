@@ -1,5 +1,6 @@
 species: Gulpin
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Gluttony]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 180, atk: 0, def: 48, spA: 252, spD: 28, spe: 0}
 ---
 species: Gulpin
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Liquid Ooze]
 moves:

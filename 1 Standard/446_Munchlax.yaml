@@ -1,6 +1,7 @@
 species: Munchlax
 setname: Standard
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 species: Munchlax
 setname: Physical
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Pickup]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Munchlax
 setname: Special
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -55,6 +58,7 @@ ivs: 31
 species: Munchlax
 setname: Mixed
 ball: [Safari]
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -73,6 +77,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 species: Munchlax
 setname: Belly Drum
 ball: [Cherish]
+tags: [standard]
 item: [Salac Berry]
 ability: [Gluttony]
 moves:

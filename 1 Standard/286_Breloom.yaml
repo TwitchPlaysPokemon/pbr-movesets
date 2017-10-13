@@ -1,6 +1,7 @@
 species: Breloom
 setname: Physical
 ball: [Safari]
+tags: [standard]
 item: [Null]
 ability: [Effect Spore]
 moves:
@@ -19,6 +20,7 @@ ivs: 0
 species: Breloom
 setname: Special
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Poison Heal]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Breloom
 setname: Mixed
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 15, atk: 30, def: 15, spA: 31, spD: 15, spe: 31}
 species: Breloom
 setname: Technician
 ball: [Safari]
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:
@@ -73,6 +77,7 @@ ivs: {hp: 15, atk: 0, def: 15, spA: 31, spD: 31, spe: 15}
 species: Breloom
 setname: Spore
 ball: [Safari]
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:

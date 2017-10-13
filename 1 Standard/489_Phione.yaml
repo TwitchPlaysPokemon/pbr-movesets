@@ -1,5 +1,6 @@
 species: Phione
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Hydration]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 60, def: 100, spA: 0, spD: 40, spe: 0}
 ---
 species: Phione
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Hydration]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Phione
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Hydration]
 moves:

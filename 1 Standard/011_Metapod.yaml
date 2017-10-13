@@ -1,5 +1,6 @@
 species: Metapod
 setname: Standard
+tags: [standard]
 item: [Insect Plate]
 ability: [Adaptability]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Metapod
 setname: Perish Song
+tags: [standard]
 item: [Chesto Berry]
 ability: [Shadow Tag]
 moves:

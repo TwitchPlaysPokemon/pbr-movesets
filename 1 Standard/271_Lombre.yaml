@@ -1,6 +1,7 @@
 species: Lombre
 setname: Standard
 ball: [Poké]
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Lombre
 setname: Physical
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Lombre
 setname: Special
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -55,6 +58,7 @@ ivs: 31
 species: Lombre
 setname: Flinch
 ball: [Quick]
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:

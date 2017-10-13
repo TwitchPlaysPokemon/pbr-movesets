@@ -1,6 +1,7 @@
 species: Slakoth
 setname: Physical
 ball: [Premier]
+tags: [standard]
 item: [Life Orb]
 ability: [Truant]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Slakoth
 setname: Choice Band
 ball: [Luxury]
+tags: [standard]
 item: [Choice Band]
 ability: [Truant]
 moves:

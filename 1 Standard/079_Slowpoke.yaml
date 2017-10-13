@@ -1,5 +1,6 @@
 species: Slowpoke
 setname: Standard
+tags: [standard]
 item: [Leftovers]
 ability: [Oblivious]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Slowpoke
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:

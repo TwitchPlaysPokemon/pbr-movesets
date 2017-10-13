@@ -1,5 +1,6 @@
 species: Toxicroak
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Anticipation]
 moves:
@@ -18,6 +19,7 @@ evs: 0
 ---
 species: Toxicroak
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Anticipation]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 40}
 ---
 species: Toxicroak
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Dry Skin]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Toxicroak
 setname: Blind
+tags: [standard]
 item: [Null]
 ability: [Dry Skin]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Toxicroak
 setname: High Stats
+tags: [standard]
 item: [Null]
 ability: [Dry Skin]
 moves:
@@ -90,6 +95,7 @@ evs: {hp: 120, atk: 120, def: 0, spA: 120, spD: 0, spe: 120}
 ---
 species: Toxicroak
 setname: Rain Dance
+tags: [standard]
 item: [Damp Rock]
 ability: [Dry Skin]
 moves:

@@ -1,6 +1,7 @@
 species: Solrock
 setname: Standard
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -18,6 +19,7 @@ ivs: {hp: 20, atk: 31, def: 20, spA: 31, spD: 20, spe: 31}
 species: Solrock
 setname: Physical
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -35,6 +37,7 @@ ivs: {hp: 13, atk: 13, def: 13, spA: 13, spD: 13, spe: 13}
 species: Solrock
 setname: Recoil
 ball: [Heal]
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -52,6 +55,7 @@ ivs: {hp: 14, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 species: Solrock
 setname: Sun
 ball: [Cherish]
+tags: [standard]
 item: [Sun Stone]
 ability: [Levitate]
 moves:

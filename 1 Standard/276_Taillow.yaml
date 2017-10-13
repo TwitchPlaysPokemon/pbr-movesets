@@ -1,6 +1,7 @@
 species: Taillow
 setname: Physical
 ball: [Cherish]
+tags: [standard]
 item: [Null]
 ability: [Scrappy]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Taillow
 setname: Guts
 ball: [Ultra]
+tags: [standard]
 item: [Flame Orb]
 ability: [Guts]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Taillow
 setname: Scrappy
 ball: [Luxury]
+tags: [standard]
 item: [Power Herb]
 ability: [Scrappy]
 moves:

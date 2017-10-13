@@ -1,5 +1,6 @@
 species: Metang
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:
@@ -17,6 +18,7 @@ evs: 85
 ---
 species: Metang
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 64, atk: 96, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Metang
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:
@@ -51,6 +54,7 @@ evs: {hp: 48, atk: 0, def: 0, spA: 200, spD: 36, spe: 0}
 ---
 species: Metang
 setname: Flinch
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:

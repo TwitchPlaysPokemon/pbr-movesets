@@ -1,5 +1,6 @@
 species: Tropius
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 164, spD: 0, spe: 92}
 ---
 species: Tropius
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 104, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Tropius
 setname: Max SpAtt
+tags: [standard]
 item: [Null]
 ability: [Solar Power]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 124}
 ---
 species: Tropius
 setname: Chlorophyll
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:
@@ -72,6 +76,7 @@ evs: 0
 ---
 species: Tropius
 setname: Solar Power
+tags: [standard]
 item: [Null]
 ability: [Solar Power]
 moves:

@@ -1,5 +1,6 @@
 species: Torkoal
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [White Smoke]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 48, def: 0, spA: 64, spD: 0, spe: 0}
 ---
 species: Torkoal
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Drought]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 112, spe: 0}
 ---
 species: Torkoal
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Shell Armor]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 212}
 ---
 species: Torkoal
 setname: Eruption
+tags: [standard]
 item: [Null]
 ability: [Drought]
 moves:
@@ -72,6 +76,7 @@ evs: 0
 ---
 species: Torkoal
 setname: Stall
+tags: [standard]
 item: [Grip Claw]
 ability: [Drought]
 moves:

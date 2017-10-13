@@ -1,6 +1,7 @@
 species: Ralts
 setname: Special
 ball: [Heal]
+tags: [standard]
 item: [Focus Sash]
 ability: [Trace]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Ralts
 setname: Trick Room
 ball: [Poké]
+tags: [standard]
 item: [Petaya Berry]
 ability: [Synchronize]
 moves:

@@ -1,6 +1,7 @@
 species: Whismur
 setname: Physical
 ball: [Poke]
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Soundproof]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Whismur
 setname: Special
 ball: [Dusk]
+tags: [standard]
 item: [Power Herb]
 ability: [Soundproof]
 moves:

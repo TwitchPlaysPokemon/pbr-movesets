@@ -1,5 +1,6 @@
 species: Latias
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Latias
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Latias
 setname: Soul Dew
+tags: [standard]
 item: [Soul Dew]
 ability: [Levitate]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Latias
 setname: Airplane
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Latias
 setname: Overpowered
+tags: [standard]
 item: [Black Sludge]
 ability: [Levitate]
 moves:

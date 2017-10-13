@@ -1,5 +1,6 @@
 species: Weavile
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 0}
 ---
 species: Weavile
 setname: Max Attack
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Weavile
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -54,6 +57,7 @@ evs: 84
 ---
 species: Weavile
 setname: Slow
+tags: [standard]
 item: [Iron Ball]
 ability: [Pressure]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 160, atk: 0, def: 212, spA: 0, spD: 0, spe: 0}
 ---
 species: Weavile
 setname: PP Stall
+tags: [standard]
 item: [Leppa Berry]
 ability: [Pressure]
 moves:

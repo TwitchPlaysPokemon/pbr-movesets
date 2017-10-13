@@ -1,5 +1,6 @@
 species: Wooper
 setname: Standard
+tags: [standard]
 item: [Leftovers]
 ability: [Water Absorb]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 148, atk: 192, def: 0, spA: 0, spD: 168, spe: 0}
 ---
 species: Wooper
 setname: Unaware
+tags: [standard]
 item: [Null]
 ability: [Damp]
 moves:

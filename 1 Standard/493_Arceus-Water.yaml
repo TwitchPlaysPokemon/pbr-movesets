@@ -1,5 +1,6 @@
 species: Arceus
 setname: Water Physical
+tags: [standard]
 item: [Splash Plate]
 ability: [Multitype]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Arceus
 setname: Water Special
+tags: [standard]
 item: [Splash Plate]
 ability: [Multitype]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Arceus
 setname: Water Judgment
+tags: [standard]
 item: [Splash Plate]
 ability: [Multitype]
 moves:

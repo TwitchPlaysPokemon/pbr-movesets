@@ -1,5 +1,6 @@
 species: Budew
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 128, atk: 252, def: 0, spA: 0, spD: 0, spe: 128}
 ---
 species: Budew
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Poison Point]
 moves:

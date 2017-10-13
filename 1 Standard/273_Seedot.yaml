@@ -1,6 +1,7 @@
 species: Seedot
 setname: Standard
 ball: [Poké]
+tags: [standard]
 item: [Life Orb]
 ability: [Chlorophyll]
 moves:

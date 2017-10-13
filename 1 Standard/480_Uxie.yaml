@@ -1,5 +1,6 @@
 species: Uxie
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 32, spD: 0, spe: 0}
 ---
 species: Uxie
 setname: Yawn
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 24, spD: 0, spe: 0}
 ---
 species: Uxie
 setname: Calm Mind
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -51,6 +54,7 @@ evs: {hp: 112, atk: 0, def: 0, spA: 112, spD: 0, spe: 0}
 ---
 species: Uxie
 setname: Trick Room
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -68,6 +72,7 @@ evs: {hp: 36, atk: 56, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Uxie
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -85,6 +90,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 108, spD: 0, spe: 0}
 ---
 species: Uxie
 setname: Smogon
+tags: [standard]
 item: [Light Clay]
 ability: [Levitate]
 moves:
@@ -102,6 +108,7 @@ evs: {hp: 96, atk: 252, def: 0, spA: 0, spD: 0, spe: 160}
 ---
 species: Uxie
 setname: Lead
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -119,6 +126,7 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Uxie
 setname: Sunny Day
+tags: [standard]
 item: [Heat Rock]
 ability: [Levitate]
 moves:

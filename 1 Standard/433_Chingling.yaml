@@ -1,5 +1,6 @@
 species: Chingling
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Luxury]
 ability: [Levitate]
@@ -18,6 +19,7 @@ evs: {hp: 144, atk: 0, def: 0, spA: 176, spD: 0, spe: 188}
 ---
 species: Chingling
 setname: Screens
+tags: [standard]
 item: [Light Clay]
 ball: [Heal]
 ability: [Levitate]

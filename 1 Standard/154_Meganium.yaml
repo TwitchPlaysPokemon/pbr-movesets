@@ -1,5 +1,6 @@
 species: Meganium
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
@@ -18,6 +19,7 @@ evs: 84
 ---
 species: Meganium
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
@@ -36,6 +38,7 @@ evs: 84
 ---
 species: Meganium
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:

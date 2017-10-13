@@ -1,6 +1,7 @@
 species: Swablu
 setname: Physical
 ball: [Timer]
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 species: Swablu
 setname: Special
 ball: [Heal]
+tags: [standard]
 item: [Null]
 ability: [Cloud Nine]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 species: Swablu
 setname: Elemental
 ball: [Luxury]
+tags: [standard]
 item: [Power Herb]
 ability: [Cloud Nine]
 moves:

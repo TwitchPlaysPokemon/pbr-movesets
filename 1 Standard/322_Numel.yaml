@@ -1,5 +1,6 @@
 species: Numel
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Simple]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 200, def: 24, spA: 0, spD: 32, spe: 252}
 ---
 species: Numel
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Simple]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 56, spA: 200, spD: 0, spe: 252}
 ---
 species: Numel
 setname: Mixed
+tags: [standard]
 item: [Null]
 ability: [Simple]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 204, atk: 0, def: 100, spA: 0, spD: 136, spe: 68}
 ---
 species: Numel
 setname: Eruption
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:

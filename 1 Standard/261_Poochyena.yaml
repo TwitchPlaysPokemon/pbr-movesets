@@ -1,6 +1,7 @@
 species: Poochyena
 setname: Standard
 ball: [Poké]
+tags: [standard]
 item: [Focus Sash]
 ability: [Quick Feet]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Poochyena
 setname: Yawn
 ball: [Poké]
+tags: [standard]
 item: [Leftovers]
 ability: [Quick Feet]
 moves:

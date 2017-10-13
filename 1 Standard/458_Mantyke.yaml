@@ -1,5 +1,6 @@
 species: Mantyke
 setname: Physical
+tags: [standard]
 item: [Power Herb]
 ability: [Swift Swim]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 140, atk: 252, def: 0, spA: 0, spD: 0, spe: 116}
 ---
 species: Mantyke
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 180, atk: 0, def: 52, spA: 252, spD: 0, spe: 24}
 ---
 species: Mantyke
 setname: Stall
+tags: [standard]
 item: [Leftovers]
 ability: [Water Absorb]
 moves:

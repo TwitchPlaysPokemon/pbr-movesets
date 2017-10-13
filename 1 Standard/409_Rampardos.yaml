@@ -1,5 +1,6 @@
 species: Rampardos
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Mold Breaker]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 88, spA: 0, spD: 56, spe: 72}
 ---
 species: Rampardos
 setname: Flinch
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 108, atk: 16, def: 100, spA: 100, spD: 100, spe: 100}
 ---
 species: Rampardos
 setname: Max Atk
+tags: [standard]
 item: [Null]
 ability: [Mold Breaker]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 88, atk: 252, def: 24, spA: 0, spD: 16, spe: 84}
 ---
 species: Rampardos
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Mold Breaker]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
 ---
 species: Rampardos
 setname: Power
+tags: [standard]
 item: [Null]
 ability: [Mold Breaker]
 moves:
@@ -90,6 +95,7 @@ evs: {hp: 56, atk: 0, def: 80, spA: 252, spD: 104, spe: 16}
 ---
 species: Rampardos
 setname: Rock
+tags: [standard]
 item: [King's Rock]
 ability: [Mold Breaker]
 moves:

@@ -1,5 +1,6 @@
 species: Roselia
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 84, atk: 136, def: 0, spA: 0, spD: 0, spe: 112}
 ---
 species: Roselia
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Poison Point]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 56, atk: 0, def: 208, spA: 0, spD: 36, spe: 184}
 ---
 species: Roselia
 setname: Spikes
+tags: [standard]
 item: [Null]
 ability: [Poison Point]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 100, atk: 0, def: 160, spA: 0, spD: 16, spe: 144}
 ---
 species: Roselia
 setname: Growth
+tags: [standard]
 item: [Bloom Mail]
 ability: [Poison Point]
 moves:

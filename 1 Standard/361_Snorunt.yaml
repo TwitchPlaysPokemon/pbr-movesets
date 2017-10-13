@@ -1,5 +1,6 @@
 species: Snorunt
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Ice Body]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 136, atk: 160, def: 68, spA: 144, spD: 0, spe: 0}
 ---
 species: Snorunt
 setname: Physical
+tags: [standard]
 item: [Zoom Lens]
 ability: [Inner Focus]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 252, atk: 136, def: 60, spA: 0, spD: 60, spe: 0}
 ---
 species: Snorunt
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Inner Focus]
 moves:

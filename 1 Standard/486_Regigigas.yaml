@@ -1,5 +1,6 @@
 species: Regigigas
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Slow Start]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 100, atk: 0, def: 80, spA: 0, spD: 80, spe: 0}
 ---
 species: Regigigas
 setname: Physical
+tags: [standard]
 item: [Iron Ball]
 ability: [Slow Start]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 100, atk: 0, def: 80, spA: 0, spD: 80, spe: 0}
 ---
 species: Regigigas
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Slow Start]
 moves:
@@ -51,6 +54,7 @@ evs: 0
 ---
 species: Regigigas
 setname: Golem Master
+tags: [standard]
 item: [Null]
 ability: [Slow Start]
 moves:
@@ -68,6 +72,7 @@ evs: {hp: 100, atk: 0, def: 80, spA: 0, spD: 80, spe: 0}
 ---
 species: Regigigas
 setname: Gravity
+tags: [standard]
 item: [Null]
 ability: [Slow Start]
 moves:

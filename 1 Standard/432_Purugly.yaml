@@ -1,5 +1,6 @@
 species: Purugly
 setname: Standard
+tags: [standard]
 item: [Null]
 ball: [Repeat]
 ability: [Thick Fat]
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 232, spD: 0, spe: 0}
 ---
 species: Purugly
 setname: Physical
+tags: [standard]
 item: [Null]
 ball: [Nest]
 ability: [Own Tempo]
@@ -36,6 +38,7 @@ evs: 0
 ---
 species: Purugly
 setname: Assist
+tags: [standard]
 item: [Null]
 ball: [Premier]
 ability: [Thick Fat]

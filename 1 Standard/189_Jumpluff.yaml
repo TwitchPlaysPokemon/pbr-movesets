@@ -1,5 +1,6 @@
 species: Jumpluff
 setname: Offensive
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
 ---
 species: Jumpluff
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:
@@ -36,6 +38,7 @@ evs: 24
 ---
 species: Jumpluff
 setname: Leaf Guard
+tags: [standard]
 item: [Heat Rock]
 ability: [Leaf Guard]
 moves:

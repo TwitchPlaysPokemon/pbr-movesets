@@ -1,6 +1,7 @@
 species: Corphish
 setname: Standard
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Hyper Cutter]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 species: Corphish
 setname: Physical
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Adaptability]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 species: Corphish
 setname: Special
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Adaptability]
 moves:

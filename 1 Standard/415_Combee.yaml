@@ -1,5 +1,6 @@
 species: Combee
 setname: Standard
+tags: [standard]
 item: [Focus Sash]
 ability: [Hustle]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 148, atk: 240, def: 0, spA: 0, spD: 0, spe: 120}
 ---
 species: Combee
 setname: Special
+tags: [standard]
 item: [Focus Sash]
 ability: [Serene Grace]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 52, atk: 0, def: 0, spA: 240, spD: 0, spe: 216}
 ---
 species: Combee
 setname: Physical
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Hustle]
 moves:

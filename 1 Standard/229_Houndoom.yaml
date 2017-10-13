@@ -1,5 +1,6 @@
 species: Houndoom
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Early Bird]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 92, atk: 136, def: 148, spA: 40, spD: 92, spe: 0}
 ---
 species: Houndoom
 setname: Nasty Plot
+tags: [standard]
 item: [Null]
 ability: [Early Bird]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 80, spA: 112, spD: 0, spe: 76}
 ---
 species: Houndoom
 setname: Fang
+tags: [standard]
 item: [Null]
 ability: [Flash Fire]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 60, atk: 176, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Houndoom
 setname: Mega
+tags: [standard]
 item: [Everstone]
 ability: [Solar Power]
 moves:

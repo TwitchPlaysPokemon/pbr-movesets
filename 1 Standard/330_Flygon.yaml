@@ -1,5 +1,6 @@
 species: Flygon
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -18,6 +19,7 @@ evs: 0
 ---
 species: Flygon
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 108, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Flygon
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 176, spD: 0, spe: 0}
 ---
 species: Flygon
 setname: High Stats
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 216, def: 0, spA: 228, spD: 0, spe: 0}
 ---
 species: Flygon
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:

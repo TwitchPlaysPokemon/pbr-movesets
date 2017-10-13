@@ -1,5 +1,6 @@
 species: Growlithe
 setname: Physical
+tags: [standard]
 item: [Power Herb]
 ability: [Intimidate]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Growlithe
 setname: Special
+tags: [standard]
 item: [White Herb]
 ability: [Flash Fire]
 moves:

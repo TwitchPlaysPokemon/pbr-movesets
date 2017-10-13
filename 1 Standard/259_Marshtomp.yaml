@@ -1,6 +1,7 @@
 species: Marshtomp
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Damp]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Marshtomp
 setname: Special
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:

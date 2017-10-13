@@ -1,5 +1,6 @@
 species: Porygon-Z
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Download]
 moves:
@@ -17,6 +18,7 @@ evs: 0
 ---
 species: Porygon-Z
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Adaptability]
 moves:
@@ -34,6 +36,7 @@ evs: 0
 ---
 species: Porygon-Z
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Adaptability]
 moves:
@@ -51,6 +54,7 @@ evs: 0
 ---
 species: Porygon-Z
 setname: Analytic
+tags: [standard]
 item: [Iron Ball]
 ability: [Magic Guard]
 moves:
@@ -68,6 +72,7 @@ evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Porygon-Z
 setname: Download
+tags: [standard]
 item: [Null]
 ability: [Download]
 moves:
@@ -85,6 +90,7 @@ evs: {hp: 0, atk: 68, def: 60, spA: 12, spD: 60, spe: 60}
 ---
 species: Porygon-Z
 setname: Last Resort
+tags: [standard]
 item: [Chilan Berry]
 ability: [Adaptability]
 moves:
@@ -102,6 +108,7 @@ evs: {hp: 10, atk: 110, def: 11, spA: 100, spD: 1, spe: 110}
 ---
 species: Porygon-Z
 setname: Conversion
+tags: [standard]
 item: [Lum Berry]
 ability: [Adaptability]
 moves:

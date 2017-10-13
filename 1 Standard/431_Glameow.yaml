@@ -1,5 +1,6 @@
 species: Glameow
 setname: Physical
+tags: [standard]
 item: [Null]
 ball: [Heal]
 ability: [Own Tempo]
@@ -18,6 +19,7 @@ evs: {hp: 80, atk: 252, def: 24, spA: 0, spD: 24, spe: 128}
 ---
 species: Glameow
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Premier]
 ability: [Limber]
@@ -36,6 +38,7 @@ evs: {hp: 64, atk: 0, def: 32, spA: 252, spD: 32, spe: 128}
 ---
 species: Glameow
 setname: Critical
+tags: [standard]
 item: [Razor Claw]
 ball: [Repeat]
 ability: [Keen Eye]
@@ -54,6 +57,7 @@ evs: {hp: 64, atk: 252, def: 60, spA: 0, spD: 80, spe: 52}
 ---
 species: Glameow
 setname: Last Resort
+tags: [standard]
 item: [Null]
 ball: [Cherish]
 ability: [Keen Eye]
@@ -70,6 +74,7 @@ evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
 ---
 species: Glameow
 setname: Flail
+tags: [standard]
 item: [Liechi Berry]
 ball: [Timer]
 ability: [Limber]

@@ -1,5 +1,6 @@
 species: Bidoof
 setname: Curse
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Simple]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 64, atk: 100, def: 64, spA: 0, spD: 190, spe: 0}
 ---
 species: Bidoof
 setname: Swords Dance
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Simple]
 moves:

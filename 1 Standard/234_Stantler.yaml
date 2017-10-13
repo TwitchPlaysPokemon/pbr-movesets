@@ -1,5 +1,6 @@
 species: Stantler
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Frisk]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 44, atk: 156, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Stantler
 setname: Me First
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:

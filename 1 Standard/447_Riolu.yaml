@@ -1,6 +1,7 @@
 species: Riolu
 setname: Standard
 ball: [Dusk]
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Steadfast]
 moves:
@@ -19,6 +20,7 @@ ivs: 0
 species: Riolu
 setname: Physical
 ball: [Luxury]
+tags: [standard]
 item: [Null]
 ability: [Inner Focus]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Riolu
 setname: Special
 ball: [Cherish]
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Steadfast]
 moves:
@@ -55,6 +58,7 @@ ivs: 31
 species: Riolu
 setname: Reversal
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Steadfast]
 moves:

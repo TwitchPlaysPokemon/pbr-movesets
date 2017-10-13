@@ -1,5 +1,6 @@
 species: Deoxys
 setname: Speed Screens
+tags: [standard]
 item: [Light Clay]
 ability: [Pressure]
 nature: Hardy
@@ -18,6 +19,7 @@ ball: [Quick]
 ---
 species: Deoxys
 setname: Speed Smogon
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 nature: Hardy
@@ -36,6 +38,7 @@ ball: [Cherish]
 ---
 species: Deoxys
 setname: Speed Slow
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 nature: Brave

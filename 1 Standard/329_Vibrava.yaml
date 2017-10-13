@@ -1,5 +1,6 @@
 species: Vibrava
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 104, atk: 104, def: 104, spA: 0, spD: 104, spe: 92}
 ---
 species: Vibrava
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 48, atk: 64, def: 48, spA: 252, spD: 48, spe: 48}
 ---
 species: Vibrava
 setname: Mixed
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:

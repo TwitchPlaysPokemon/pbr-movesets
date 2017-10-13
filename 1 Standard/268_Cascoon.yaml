@@ -1,6 +1,7 @@
 species: Cascoon
 setname: Standard
 ball: [Net]
+tags: [standard]
 item: [King's Rock]
 ability: [Skill Link]
 moves:

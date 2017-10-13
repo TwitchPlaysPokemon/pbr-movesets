@@ -1,5 +1,6 @@
 species: Grimer
 setname: Physical
+tags: [standard]
 item: [Zoom Lens]
 ability: [Sticky Hold]
 moves:
@@ -18,6 +19,7 @@ ivs: 24
 ---
 species: Grimer
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Stench]
 moves:

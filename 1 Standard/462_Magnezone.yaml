@@ -1,5 +1,6 @@
 species: Magnezone
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Magnet Pull]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Magnezone
 setname: Physical
+tags: [standard]
 item: [Iron Ball]
 ability: [Sturdy]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 220, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Magnezone
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Magnet Pull]
 moves:
@@ -51,6 +54,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Magnezone
 setname: High SpAtt
+tags: [standard]
 item: [Null]
 ability: [Magnet Pull]
 moves:

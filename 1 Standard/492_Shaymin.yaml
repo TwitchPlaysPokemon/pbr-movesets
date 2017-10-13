@@ -1,5 +1,6 @@
 species: Shaymin
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Shaymin
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Shaymin
 setname: Setup
+tags: [standard]
 item: [Razor Fang]
 ability: [Natural Cure]
 moves:
@@ -51,6 +54,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Shaymin
 setname: Sky
+tags: [standard]
 item: [Null]
 ability: [Serene Grace]
 moves:
@@ -68,6 +72,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Shaymin
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:

@@ -1,5 +1,6 @@
 species: Finneon
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 200, atk: 160, def: 60, spA: 0, spD: 60, spe: 0}
 ---
 species: Finneon
 setname: Special
+tags: [standard]
 item: [Damp Rock]
 ability: [Swift Swim]
 moves:

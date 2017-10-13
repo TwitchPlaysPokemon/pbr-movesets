@@ -1,6 +1,7 @@
 species: Mudkip
 setname: Standard
 ball: [Poké]
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Mudkip
 setname: Physical
 ball: [Poké]
+tags: [standard]
 item: [Null]
 ability: [Torrent]
 moves:
@@ -37,6 +39,7 @@ evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 species: Mudkip
 setname: Special
 ball: [Poké]
+tags: [standard]
 item: [Zoom Lens]
 ability: [Torrent]
 moves:

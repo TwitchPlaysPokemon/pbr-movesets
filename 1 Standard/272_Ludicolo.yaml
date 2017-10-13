@@ -1,6 +1,7 @@
 species: Ludicolo
 setname: Physical
 ball: [Dive]
+tags: [standard]
 item: [King's Rock]
 ability: [Swift Swim]
 moves:
@@ -19,6 +20,7 @@ ivs: 20
 species: Ludicolo
 setname: Special
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
 species: Ludicolo
 setname: Sunny Day
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:
@@ -55,6 +58,7 @@ ivs: 23
 species: Ludicolo
 setname: HM Slave
 ball: [Poké]
+tags: [standard]
 item: [Null]
 ability: [Rain Dish]
 moves:

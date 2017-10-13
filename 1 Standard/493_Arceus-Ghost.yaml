@@ -1,5 +1,6 @@
 species: Arceus
 setname: Ghost Physical
+tags: [standard]
 item: [Spooky Plate]
 ability: [Multitype]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Arceus
 setname: Ghost Special
+tags: [standard]
 item: [Spooky Plate]
 ability: [Multitype]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Arceus
 setname: Ghost Judgment
+tags: [standard]
 item: [Spooky Plate]
 ability: [Multitype]
 moves:

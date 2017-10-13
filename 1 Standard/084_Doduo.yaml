@@ -1,5 +1,6 @@
 species: Doduo
 setname: Flying
+tags: [standard]
 item: [Null]
 ability: [Early Bird]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Doduo
 setname: Grounded
+tags: [standard]
 item: [Null]
 ability: [Tangled Feet]
 moves:

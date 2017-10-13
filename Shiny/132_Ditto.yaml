@@ -1,6 +1,7 @@
 ingamename: Ditto-S
 species: Ditto
 setname: Shiny
+tags: [advanced,standard]
 item: [Quick Powder]
 ability: [Wonder Guard]
 moves:
@@ -20,6 +21,7 @@ evs: {hp: 252, atk: 0, def: 112, spA: 0, spD: 112, spe: 32}
 ingamename: Ditto-S
 species: Ditto
 setname: Shiny 2
+tags: [advanced,standard]
 item: [Metal Powder]
 ability: [Huge Power]
 moves:

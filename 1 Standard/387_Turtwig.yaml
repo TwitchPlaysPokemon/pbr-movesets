@@ -1,5 +1,6 @@
 species: Turtwig
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Turtwig
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
@@ -36,6 +38,7 @@ ivs: 31
 ---
 species: Turtwig
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
@@ -54,6 +57,7 @@ ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
 ---
 species: Turtwig
 setname: Shell Armor
+tags: [standard]
 item: [Null]
 ability: [Shell Armor]
 moves:
@@ -72,6 +76,7 @@ ivs: 31
 ---
 species: Turtwig
 setname: Stall
+tags: [standard]
 item: [Big Root]
 ability: [Shell Armor]
 moves:

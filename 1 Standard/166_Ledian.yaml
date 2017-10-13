@@ -1,5 +1,6 @@
 species: Ledian
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Swarm]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 252, def: 92, spA: 164, spD: 0, spe: 0}
 ---
 species: Ledian
 setname: Punch
+tags: [standard]
 item: [Null]
 ability: [Iron Fist]
 moves:

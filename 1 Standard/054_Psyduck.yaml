@@ -1,5 +1,6 @@
 species: Psyduck
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Damp]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Psyduck
 setname: Physical
+tags: [standard]
 item: [Zoom Lens]
 ability: [Cloud Nine]
 moves:
@@ -36,6 +38,7 @@ ivs: 31
 ---
 species: Psyduck
 setname: Swift Swim
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:

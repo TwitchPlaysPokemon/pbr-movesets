@@ -1,6 +1,7 @@
 species: Vigoroth
 setname: Standard
 ball: [Safari]
+tags: [standard]
 item: [Null]
 ability: [Vital Spirit]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Vigoroth
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Vital Spirit]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 species: Vigoroth
 setname: Mixed
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Vital Spirit]
 moves:

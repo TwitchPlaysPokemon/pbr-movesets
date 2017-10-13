@@ -1,6 +1,7 @@
 species: Altaria
 setname: Standard
 ball: [Heal]
+tags: [standard]
 item: [Null]
 ability: [Cloud Nine]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 20, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
 species: Altaria
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Natural Cure]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 species: Altaria
 setname: Special
 ball: [Luxury]
+tags: [standard]
 item: [Null]
 ability: [Cloud Nine]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 15}
 species: Altaria
 setname: Dance
 ball: [Timer]
+tags: [standard]
 item: [Null]
 ability: [Cloud Nine]
 moves:

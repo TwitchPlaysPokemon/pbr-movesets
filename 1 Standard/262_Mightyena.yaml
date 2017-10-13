@@ -1,6 +1,7 @@
 species: Mightyena
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Mightyena
 setname: Special
 ball: [Dusk]
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 30}
 species: Mightyena
 setname: Dog
 ball: [Luxury]
+tags: [standard]
 item: [Rare Bone]
 ability: [Quick Feet]
 moves:

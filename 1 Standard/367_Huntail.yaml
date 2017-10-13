@@ -1,5 +1,6 @@
 species: Huntail
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 68, atk: 112, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Huntail
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Water Veil]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 128, atk: 88, def: 0, spA: 0, spD: 120, spe: 172}
 ---
 species: Huntail
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Huntail
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Water Veil]
 moves:

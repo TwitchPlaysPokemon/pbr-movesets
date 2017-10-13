@@ -1,5 +1,6 @@
 species: Dragonair
 setname: Shed Skin
+tags: [standard]
 item: [Null]
 ability: [Shed Skin]
 moves:
@@ -18,6 +19,7 @@ ivs: 16
 ---
 species: Dragonair
 setname: Marvel Scale
+tags: [standard]
 item: [Null]
 ability: [Marvel Scale]
 moves:

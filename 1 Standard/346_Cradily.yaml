@@ -1,6 +1,7 @@
 species: Cradily
 setname: Standard
 ball: [Luxury]
+tags: [standard]
 item: [Null]
 ability: [Storm Drain]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 0, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
 species: Cradily
 setname: Physical
 ball: [Safari]
+tags: [standard]
 item: [Null]
 ability: [Storm Drain]
 moves:
@@ -37,6 +39,7 @@ ivs: 3
 species: Cradily
 setname: Special
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Suction Cups]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 0, atk: 0, def: 13, spA: 31, spD: 13, spe: 31}
 species: Cradily
 setname: Sunny Day
 ball: [Dusk]
+tags: [standard]
 item: [Null]
 ability: [Suction Cups]
 moves:

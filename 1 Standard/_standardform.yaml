@@ -1,6 +1,7 @@
 ingamename: SEEL-PH
 species: Seel
 setname: Physical
+tags: [standard]
 item: [Rawst Berry, Toxic Orb, Light Ball, NeverMelt-Ice]
 ability: [Thick Fat, Hydration]
 nature: Adamant
@@ -30,6 +31,7 @@ level: 100
 ---
 species: 
 setname: 
+tags: [standard]
 item: []
 ability: []
 moves:

@@ -1,5 +1,6 @@
 species: Clefairy
 setname: Special
+tags: [standard]
 item: [Toxic Orb]
 ability: [Magic Guard]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Clefairy
 setname: Physical
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Cute Charm]
 moves:

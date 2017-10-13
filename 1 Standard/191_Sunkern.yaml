@@ -1,5 +1,6 @@
 species: Sunkern
 setname: Stall
+tags: [standard]
 item: [Big Root]
 ability: [Early Bird]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 136, spA: 0, spD: 120, spe: 252}
 ---
 species: Sunkern
 setname: Endeavor
+tags: [standard]
 item: [Focus Sash]
 ability: [Chlorophyll]
 moves:

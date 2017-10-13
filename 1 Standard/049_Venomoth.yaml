@@ -1,5 +1,6 @@
 species: Venomoth
 setname: Shield Dust
+tags: [standard]
 item: [Null]
 ability: [Shield Dust]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Venomoth
 setname: Disable
+tags: [standard]
 item: [Null]
 ability: [Tinted Lens]
 moves:
@@ -36,6 +38,7 @@ ivs: 12
 ---
 species: Venomoth
 setname: Sleep
+tags: [standard]
 item: [Null]
 ability: [Tinted Lens]
 moves:

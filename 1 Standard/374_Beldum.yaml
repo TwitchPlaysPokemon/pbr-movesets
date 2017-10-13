@@ -1,5 +1,6 @@
 species: Beldum
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 ---
 species: Beldum
 setname: Choice Band
+tags: [standard]
 item: [Choice Band]
 ability: [Clear Body]
 moves:

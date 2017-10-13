@@ -1,5 +1,6 @@
 species: Castform
 setname: Shiny
+tags: [advanced,standard]
 item: [Damp Rock, Heat Rock, Icy Rock, Smooth Rock]
 ability: [Drizzle, Drought, Snow Warning, Sand Stream]
 moves:

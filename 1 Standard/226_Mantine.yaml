@@ -1,5 +1,6 @@
 species: Mantine
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Water Veil]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Mantine
 setname: Rain Dance
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 40, spD: 0, spe: 0}
 ---
 species: Mantine
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Water Absorb]
 moves:

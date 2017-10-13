@@ -1,5 +1,6 @@
 species: Rapidash
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Flash Fire]
 moves:
@@ -18,6 +19,7 @@ ivs: 0
 ---
 species: Rapidash
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Flame Body]
 moves:

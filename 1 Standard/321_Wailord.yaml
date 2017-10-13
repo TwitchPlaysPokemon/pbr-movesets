@@ -1,5 +1,6 @@
 species: Wailord
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Water Veil]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 120, atk: 88, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Wailord
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 124}
 ---
 species: Wailord
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:

@@ -1,6 +1,7 @@
 species: Gardevoir
 setname: Standard
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 15, atk: 31, def: 15, spA: 0, spD: 15, spe: 0}
 species: Gardevoir
 setname: Physical
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Trace]
 moves:
@@ -37,6 +39,7 @@ ivs: 12
 species: Gardevoir
 setname: High Stats
 ball: [Heal]
+tags: [standard]
 item: [Null]
 ability: [Trace]
 moves:

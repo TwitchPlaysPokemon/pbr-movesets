@@ -1,5 +1,6 @@
 species: Walrein
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 168, def: 0, spA: 100, spD: 0, spe: 72}
 ---
 species: Walrein
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 36, atk: 92, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Walrein
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Ice Body]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 56, spD: 0, spe: 52}
 ---
 species: Walrein
 setname: Belly Drum
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:

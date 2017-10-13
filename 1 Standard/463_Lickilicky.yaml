@@ -1,5 +1,6 @@
 species: Lickilicky
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Lickilicky
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 8, spA: 0, spD: 0, spe: 0}
 ---
 species: Lickilicky
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 8, spA: 8, spD: 0, spe: 72}
 ---
 species: Lickilicky
 setname: Belly Drum
+tags: [standard]
 item: [Null]
 ability: [Own Tempo]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
 ---
 species: Lickilicky
 setname: Gyro Ball
+tags: [standard]
 item: [Null]
 ability: [Cloud Nine]
 moves:
@@ -90,6 +95,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Lickilicky
 setname: Me First
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:

@@ -1,5 +1,6 @@
 species: Umbreon
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 180, def: 0, spA: 72, spD: 0, spe: 0}
 ---
 species: Umbreon
 setname: Last Resort
+tags: [standard]
 item: [Null]
 ability: [Inner Focus]
 moves:

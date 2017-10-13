@@ -1,5 +1,6 @@
 species: Kyogre
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Drizzle]
 moves:
@@ -17,6 +18,7 @@ evs: 0
 ---
 species: Kyogre
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Drizzle]
 moves:
@@ -34,6 +36,7 @@ evs: 0
 ---
 species: Kyogre
 setname: Hail
+tags: [standard]
 item: [Null]
 ability: [Drizzle]
 moves:
@@ -51,6 +54,7 @@ evs: 0
 ---
 species: Kyogre
 setname: Max Sp. Att
+tags: [standard]
 item: [Null]
 ability: [Drizzle]
 moves:
@@ -68,6 +72,7 @@ evs: {hp: 112, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Kyogre
 setname: Overpowered
+tags: [standard]
 item: [Water Stone]
 ability: [Flash Fire]
 moves:

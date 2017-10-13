@@ -1,6 +1,7 @@
 species: Blaziken
 setname: Physical
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Blaze]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 15, atk: 0, def: 15, spA: 31, spD: 15, spe: 0}
 species: Blaziken
 setname: Mixed
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Blaze]
 moves:
@@ -37,6 +39,7 @@ evs: 0
 species: Blaziken
 setname: High Stats
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:

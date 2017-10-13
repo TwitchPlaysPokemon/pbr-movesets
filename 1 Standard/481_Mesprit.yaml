@@ -1,5 +1,6 @@
 species: Mesprit
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Mesprit
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 60}
 ---
 species: Mesprit
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -51,6 +54,7 @@ evs: {hp: 40, atk: 0, def: 40, spA: 40, spD: 40, spe: 0}
 ---
 species: Mesprit
 setname: Elemental
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -68,6 +72,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Mesprit
 setname: Rain Dance
+tags: [standard]
 item: [Damp Rock]
 ability: [Levitate]
 moves:
@@ -85,6 +90,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Mesprit
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -102,6 +108,7 @@ evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Mesprit
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:

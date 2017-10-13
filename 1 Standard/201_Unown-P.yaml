@@ -1,5 +1,6 @@
 species: Unown
 setname: Perform
+tags: [standard]
 item: [Twistedspoon]
 ability: [Serene Grace]
 moves:

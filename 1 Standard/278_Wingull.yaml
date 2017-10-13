@@ -1,6 +1,7 @@
 species: Wingull
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Focus Sash]
 ability: [Drizzle]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Wingull
 setname: Special
 ball: [Net]
+tags: [standard]
 item: [Focus Sash]
 ability: [Hydration]
 moves:

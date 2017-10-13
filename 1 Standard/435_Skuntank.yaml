@@ -1,5 +1,6 @@
 species: Skuntank
 setname: Standard
+tags: [standard]
 item: [Null]
 ball: [Dusk]
 ability: [Stench]
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 80, def: 0, spA: 60, spD: 0, spe: 0}
 ---
 species: Skuntank
 setname: Physical
+tags: [standard]
 item: [Null]
 ball: [Quick]
 ability: [Stench]
@@ -36,6 +38,7 @@ evs: 0
 ---
 species: Skuntank
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Premier]
 ability: [Aftermath]
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 156, spD: 0, spe: 40}
 ---
 species: Skuntank
 setname: Stall
+tags: [standard]
 item: [Null]
 ball: [Timer]
 ability: [Aftermath]

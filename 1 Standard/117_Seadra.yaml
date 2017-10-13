@@ -1,5 +1,6 @@
 species: Seadra
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Sniper]
 moves:
@@ -18,6 +19,7 @@ ivs: 13
 ---
 species: Seadra
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Damp]
 moves:

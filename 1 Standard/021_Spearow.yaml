@@ -1,5 +1,6 @@
 species: Spearow
 setname: Physical
+tags: [standard]
 item: [Power Herb]
 ability: [Sniper]
 moves:

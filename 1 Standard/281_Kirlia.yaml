@@ -1,6 +1,7 @@
 species: Kirlia
 setname: Physical
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Trace]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Kirlia
 setname: Special
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Synchronize]
 moves:

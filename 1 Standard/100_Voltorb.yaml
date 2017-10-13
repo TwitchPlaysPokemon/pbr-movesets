@@ -1,5 +1,6 @@
 species: Voltorb
 setname: Rain Dance
+tags: [standard]
 item: [Null]
 ability: [Aftermath]
 moves:
@@ -17,6 +18,7 @@ ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
 ---
 species: Voltorb
 setname: Magnet Rise
+tags: [standard]
 item: [Null]
 ability: [Soundproof]
 moves:

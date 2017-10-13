@@ -1,5 +1,6 @@
 species: Onix
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Onix
 setname: Lead
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:

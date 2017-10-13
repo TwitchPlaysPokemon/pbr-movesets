@@ -1,5 +1,6 @@
 species: Relicanth
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:
@@ -18,6 +19,7 @@ evs: 0
 ---
 species: Relicanth
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 76, atk: 0, def: 112, spA: 192, spD: 128, spe: 0}
 ---
 species: Relicanth
 setname: Rain Dance
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 72}
 ---
 species: Relicanth
 setname: Sandstorm
+tags: [standard]
 item: [Smooth Rock]
 ability: [Rock Head]
 moves:

@@ -1,6 +1,7 @@
 species: Whiscash
 setname: Standard
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 31, atk: 31, def: 20, spA: 31, spD: 20, spe: 31}
 species: Whiscash
 setname: Physical
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 species: Whiscash
 setname: Special
 ball: [Luxury]
+tags: [standard]
 item: [Null]
 ability: [Anticipation]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 31}
 species: Whiscash
 setname: Dance
 ball: [Quick]
+tags: [standard]
 item: [Null]
 ability: [Hydration]
 moves:

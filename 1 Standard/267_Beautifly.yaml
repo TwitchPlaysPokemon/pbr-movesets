@@ -1,6 +1,7 @@
 species: Beautifly
 setname: Physical
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Rivalry]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Beautifly
 setname: Special
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Swarm]
 moves:

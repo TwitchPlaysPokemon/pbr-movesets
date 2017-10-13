@@ -1,5 +1,6 @@
 species: Ampharos
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Static]
 moves:
@@ -18,6 +19,7 @@ evs: 84
 ---
 species: Ampharos
 setname: Rest
+tags: [standard]
 item: [Silk Scarf]
 ability: [Static]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 100, spe: 0}
 ---
 species: Ampharos
 setname: Mega
+tags: [standard]
 item: [Fluffy Tail]
 ability: [Mold Breaker]
 moves:

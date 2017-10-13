@@ -1,6 +1,7 @@
 species: Wurmple
 setname: Standard
 ball: [Nest]
+tags: [standard]
 item: [Custap Berry]
 ability: [Serene Grace]
 moves:

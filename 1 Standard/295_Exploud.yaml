@@ -1,6 +1,7 @@
 species: Exploud
 setname: Standard
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Soundproof]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Exploud
 setname: Special
 ball: [Heal]
+tags: [standard]
 item: [Null]
 ability: [Scrappy]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 31, atk: 0, def: 15, spA: 31, spD: 15, spe: 15}
 species: Exploud
 setname: Flinch
 ball: [Quick]
+tags: [standard]
 item: [Null]
 ability: [Soundproof]
 moves:

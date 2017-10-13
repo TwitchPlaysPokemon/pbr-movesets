@@ -1,5 +1,6 @@
 species: Staraptor
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Reckless]
 moves:
@@ -18,6 +19,7 @@ ivs: 0
 ---
 species: Staraptor
 setname: Max Attack
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:
@@ -36,6 +38,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Staraptor
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:
@@ -54,6 +57,7 @@ ivs: {hp: 15, atk: 0, def: 15, spA: 31, spD: 31, spe: 15}
 ---
 species: Staraptor
 setname: Immobilise
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:

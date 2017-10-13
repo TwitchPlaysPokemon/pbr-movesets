@@ -1,5 +1,6 @@
 species: Lopunny
 setname: Standard
+tags: [standard]
 item: [Choice Scarf]
 ball: [Quick]
 ability: [Klutz]
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 148, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Lopunny
 setname: Physical
+tags: [standard]
 item: [Null]
 ball: [Ultra]
 ability: [Limber]
@@ -36,6 +38,7 @@ evs: {hp: 72, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Lopunny
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Premier]
 ability: [Klutz]
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Lopunny
 setname: Baton Pass
+tags: [standard]
 item: [Salac Berry]
 ball: [Timer]
 ability: [Cute Charm]
@@ -72,6 +76,7 @@ evs: {hp: 132, atk: 0, def: 40, spA: 252, spD: 0, spe: 84}
 ---
 species: Lopunny
 setname: Sunny Day
+tags: [standard]
 item: [Null]
 ball: [Repeat]
 ability: [Cute Charm]
@@ -90,6 +95,7 @@ evs: {hp: 0, atk: 148, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Lopunny
 setname: Mega
+tags: [standard]
 item: [Everstone]
 ball: [Heal]
 ability: [Scrappy]

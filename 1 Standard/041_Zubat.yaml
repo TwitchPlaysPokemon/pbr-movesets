@@ -1,5 +1,6 @@
 species: Zubat
 setname: Physical
+tags: [standard]
 item: [Life Orb]
 ability: [Inner Focus]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Zubat
 setname: Special
+tags: [standard]
 item: [Focus Sash]
 ability: [Inner Focus]
 moves:

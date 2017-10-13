@@ -1,5 +1,6 @@
 species: Hoppip
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Hoppip
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Chlorophyll]
 moves:

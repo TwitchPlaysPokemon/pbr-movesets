@@ -1,6 +1,7 @@
 species: Lunatone
 setname: Moon
 ball: [Heal]
+tags: [standard]
 item: [Moon Stone]
 ability: [Levitate]
 moves:
@@ -18,6 +19,7 @@ ivs: {hp: 15, atk: 30, def: 29, spA: 31, spD: 15, spe: 30}
 species: Lunatone
 setname: Physical
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -35,6 +37,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 species: Lunatone
 setname: Flinch
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:
@@ -52,6 +55,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 15}
 species: Lunatone
 setname: Sleep
 ball: [Dusk]
+tags: [standard]
 item: [Null]
 ability: [Levitate]
 moves:

@@ -1,5 +1,6 @@
 species: Registeel
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:
@@ -17,6 +18,7 @@ evs: {hp: 8, atk: 120, def: 56, spA: 28, spD: 52, spe: 112}
 ---
 species: Registeel
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:
@@ -34,6 +36,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 84, spD: 0, spe: 0}
 ---
 species: Registeel
 setname: Flinch
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:
@@ -51,6 +54,7 @@ evs: {hp: 0, atk: 132, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Registeel
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Clear Body]
 moves:

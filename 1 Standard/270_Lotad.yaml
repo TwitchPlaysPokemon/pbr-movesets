@@ -1,6 +1,7 @@
 species: Lotad
 setname: Standard
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:

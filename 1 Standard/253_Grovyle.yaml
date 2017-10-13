@@ -1,6 +1,7 @@
 species: Grovyle
 setname: Physical
 ball: [Great]
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Grovyle
 setname: Special
 ball: [Great]
+tags: [standard]
 item: [Power Herb]
 ability: [Unburden]
 moves:

@@ -1,5 +1,6 @@
 species: Rhyperior
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Reckless]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 40, spe: 0}
 ---
 species: Rhyperior
 setname: Max Attack
+tags: [standard]
 item: [Null]
 ability: [Lightning Rod]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 40, spe: 0}
 ---
 species: Rhyperior
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Reckless]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 80, spe: 0}
 ---
 species: Rhyperior
 setname: RNG
+tags: [standard]
 item: [Null]
 ability: [Lightning Rod]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 40, spe: 0}
 ---
 species: Rhyperior
 setname: Rock
+tags: [standard]
 item: [Null]
 ability: [Solid Rock]
 moves:

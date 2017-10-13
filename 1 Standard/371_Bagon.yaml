@@ -1,5 +1,6 @@
 species: Bagon
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Rock Head]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 76, atk: 36, def: 76, spA: 4, spD: 252, spe: 64}
 ---
 species: Bagon
 setname: Outrage
+tags: [standard]
 item: [Null]
 ability: [Rock Head]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 248, atk: 140, def: 52, spA: 0, spD: 68, spe: 0}
 ---
 species: Bagon
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Rock Head]
 moves:

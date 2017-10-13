@@ -1,5 +1,6 @@
 species: Politoed
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Damp]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 100, atk: 8, def: 100, spA: 100, spD: 100, spe: 100}
 ---
 species: Politoed
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Water Absorb]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 ---
 species: Politoed
 setname: Trapper
+tags: [standard]
 item: [Grip Claw]
 ability: [Drizzle]
 moves:

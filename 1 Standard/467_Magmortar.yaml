@@ -1,5 +1,6 @@
 species: Magmortar
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Flame Body]
 moves:
@@ -18,6 +19,7 @@ evs: 85
 ---
 species: Magmortar
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Flame Body]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 60, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Magmortar
 setname: Special
+tags: [standard]
 item: [Iron Ball]
 ability: [Null]
 moves:
@@ -54,6 +57,7 @@ evs: 0
 ---
 species: Magmortar
 setname: High Sp. Atk
+tags: [standard]
 item: [Null]
 ability: [Flame Body]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 56, atk: 0, def: 196, spA: 252, spD: 0, spe: 4}
 ---
 species: Magmortar
 setname: Belly Drum
+tags: [standard]
 item: [Null]
 ability: [Vital Spirit]
 moves:

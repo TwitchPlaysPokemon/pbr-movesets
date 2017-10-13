@@ -1,6 +1,7 @@
 species: Slaking
 setname: Standard
 ball: [Ultra]
+tags: [standard]
 item: [Null]
 ability: [Truant]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 10}
 species: Slaking
 setname: Special
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Truant]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 0, atk: 31, def: 15, spA: 0, spD: 15, spe: 0}
 species: Slaking
 setname: Mixed
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Truant]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 12}
 species: Slaking
 setname: Overpowered
 ball: [Master]
+tags: [standard]
 item: [Null]
 ability: [Truant]
 moves:

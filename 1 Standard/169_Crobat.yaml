@@ -1,5 +1,6 @@
 species: Crobat
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Inner Focus]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 136, def: 0, spA: 40, spD: 0, spe: 0}
 ---
 species: Crobat
 setname: Fang
+tags: [standard]
 item: [Null]
 ability: [Inner Focus]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Crobat
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Inner Focus]
 moves:

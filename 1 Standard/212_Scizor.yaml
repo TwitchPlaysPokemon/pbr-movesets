@@ -1,5 +1,6 @@
 species: Scizor
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Scizor
 setname: Swarm
+tags: [standard]
 item: [Null]
 ability: [Swarm]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 40, spe: 208}
 ---
 species: Scizor
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 48, atk: 0, def: 0, spA: 252, spD: 160, spe: 48}
 ---
 species: Scizor
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:

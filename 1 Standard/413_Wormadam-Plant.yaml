@@ -1,5 +1,6 @@
 species: Wormadam
 setname: Plant Physical
+tags: [standard]
 item: [Null]
 ability: [Anticipation]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 ---
 species: Wormadam
 setname: Plant Special
+tags: [standard]
 item: [Jaboca Berry]
 ability: [Anticipation]
 moves:
@@ -38,6 +40,7 @@ evs: {hp: 84, atk: 0, def: 84, spA: 172, spD: 84, spe: 84}
 ---
 species: Wormadam
 setname: Plant Stall
+tags: [standard]
 item: [Null]
 ability: [Anticipation]
 moves:
@@ -57,6 +60,7 @@ ivs: 22
 ---
 species: Wormadam
 setname: Plant Sun
+tags: [standard]
 item: [Null]
 ability: [Anticipation]
 moves:

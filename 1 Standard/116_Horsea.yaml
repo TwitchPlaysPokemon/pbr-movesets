@@ -1,5 +1,6 @@
 species: Horsea
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Horsea
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Sniper]
 moves:

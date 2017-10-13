@@ -1,5 +1,6 @@
 species: Magikarp
 setname: Shiny
+tags: [advanced,standard]
 item: [Splash Plate]
 ability: [Wonder Guard]
 moves:

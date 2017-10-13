@@ -1,5 +1,6 @@
 species: Sealeo
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 88, atk: 180, def: 0, spA: 108, spD: 0, spe: 116}
 ---
 species: Sealeo
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 252, def: 48, spA: 0, spD: 48, spe: 0}
 ---
 species: Sealeo
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 52, atk: 0, def: 4, spA: 48, spD: 0, spe: 160}
 ---
 species: Sealeo
 setname: Stall
+tags: [standard]
 item: [Icy Rock]
 ability: [Ice Body]
 moves:

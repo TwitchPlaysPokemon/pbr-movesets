@@ -1,5 +1,6 @@
 species: Articuno
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -17,6 +18,7 @@ ivs: 5
 ---
 species: Articuno
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -34,6 +36,7 @@ ivs: 31
 ---
 species: Articuno
 setname: Overpowered
+tags: [standard]
 item: [Null]
 ability: [Snow Cloak]
 moves:

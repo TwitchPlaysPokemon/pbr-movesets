@@ -1,5 +1,6 @@
 species: Swalot
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Liquid Ooze]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 24, atk: 60, def: 0, spA: 68, spD: 0, spe: 28}
 ---
 species: Swalot
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Sticky Hold]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 172, def: 0, spA: 0, spD: 0, spe: 36}
 ---
 species: Swalot
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Sticky Hold]
 moves:

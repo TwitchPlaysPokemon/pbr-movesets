@@ -1,5 +1,6 @@
 species: Jolteon
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Volt Absorb]
 moves:
@@ -18,6 +19,7 @@ ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 0, spe: 0}
 ---
 species: Jolteon
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Volt Absorb]
 moves:

@@ -1,5 +1,6 @@
 species: Kricketune
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Swarm]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 212, atk: 0, def: 0, spA: 252, spD: 0, spe: 44}
 ---
 species: Kricketune
 setname: Swords Dance
+tags: [standard]
 item: [Null]
 ability: [Swarm]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 136, atk: 0, def: 92, spA: 0, spD: 88, spe: 0}
 ---
 species: Kricketune
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 156, def: 100, spA: 0, spD: 100, spe: 152}
 ---
 species: Kricketune 
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Technician]
 moves:

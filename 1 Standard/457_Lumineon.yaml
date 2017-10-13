@@ -1,5 +1,6 @@
 species: Lumineon
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Lumineon
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Water Veil]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 116, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Lumineon
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Storm Drain]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 108, spD: 0, spe: 0}
 ---
 species: Lumineon
 setname: Neon
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 ---
 species: Lumineon
 setname: Wind
+tags: [standard]
 item: [Null]
 ability: [Water Veil]
 moves:

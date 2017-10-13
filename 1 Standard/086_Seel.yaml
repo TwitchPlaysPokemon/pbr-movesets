@@ -1,5 +1,6 @@
 species: Seel
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Ice Body]
 moves:
@@ -18,6 +19,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 ---
 species: Seel
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -36,6 +38,7 @@ ivs: 31
 ---
 species: Seel
 setname: Stockpile
+tags: [standard]
 item: [Black Sludge]
 ability: [Hydration]
 moves:

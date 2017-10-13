@@ -1,5 +1,6 @@
 species: Mamoswine
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Snow Cloak]
 moves:
@@ -18,6 +19,7 @@ evs: 0
 ---
 species: Mamoswine
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 60, spe: 60}
 ---
 species: Mamoswine
 setname: High Stats
+tags: [standard]
 item: [Null]
 ability: [Thick Fat]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 160, atk: 252, def: 0, spA: 0, spD: 0, spe: 36}
 ---
 species: Mamoswine
 setname: Special
+tags: [standard]
 item: [Icy Rock]
 ability: [Snow Cloak]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 140, spD: 80, spe: 80}
 ---
 species: Mamoswine
 setname: Mixed
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:

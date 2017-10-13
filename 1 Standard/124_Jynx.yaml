@@ -1,5 +1,6 @@
 species: Jynx
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Oblivious]
 moves:
@@ -18,6 +19,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
 ---
 species: Jynx
 setname: Mixed
+tags: [standard]
 item: [Null]
 ability: [Dry Skin]
 moves:

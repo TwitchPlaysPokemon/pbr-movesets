@@ -1,6 +1,7 @@
 species: Sharpedo
 setname: Standard
 ball: [Dusk]
+tags: [standard]
 item: [Null]
 ability: [Rough Skin]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 0}
 species: Sharpedo
 setname: Max Attack
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Sharpedo
 setname: Special
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 4}
 species: Sharpedo
 setname: Slow
 ball: [Heal]
+tags: [standard]
 item: [Iron Ball]
 ability: [Rough Skin]
 moves:
@@ -73,6 +77,7 @@ ivs: {hp: 15, atk: 0, def: 15, spA: 15, spD: 15, spe: 0}
 species: Sharpedo
 setname: Mega
 ball: [Premier]
+tags: [standard]
 item: [Everstone]
 ability: [Battle Armor]
 moves:

@@ -1,6 +1,7 @@
 species: Zigzagoon
 setname: Belly Drum
 ball: [Quick]
+tags: [standard]
 item: [Sitrus Berry]
 ability: [Pickup]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Zigzagoon
 setname: Quick Feet
 ball: [Quick]
+tags: [standard]
 item: [Toxic Orb]
 ability: [Quick Feet]
 moves:

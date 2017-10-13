@@ -1,5 +1,6 @@
 species: Stunky
 setname: Standard
+tags: [standard]
 item: [Null]
 ball: [Nest]
 ability: [Aftermath]
@@ -18,6 +19,7 @@ evs: {hp: 76, atk: 84, def: 0, spA: 252, spD: 44, spe: 52}
 ---
 species: Stunky
 setname: Physical
+tags: [standard]
 item: [Null]
 ball: [Quick]
 ability: [Aftermath]
@@ -36,6 +38,7 @@ evs: {hp: 136, atk: 252, def: 40, spA: 0, spD: 40, spe: 40}
 ---
 species: Stunky
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Premier]
 ability: [Aftermath]
@@ -54,6 +57,7 @@ evs: {hp: 96, atk: 0, def: 0, spA: 252, spD: 0, spe: 160}
 ---
 species: Stunky
 setname: Punishment
+tags: [standard]
 item: [Null]
 ball: [Dusk]
 ability: [Aftermath]

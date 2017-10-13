@@ -1,5 +1,6 @@
 species: Wartortle
 setname: Flinch
+tags: [standard]
 item: [Light Ball]
 ability: [Torrent]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Wartortle
 setname: Rain Dish
+tags: [standard]
 item: [Damp Rock]
 ability: [Rain Dish]
 moves:

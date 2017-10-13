@@ -1,6 +1,7 @@
 species: Torchic
 setname: Physical
 ball: [Poké]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Torchic
 setname: Special
 ball: [Poké]
+tags: [standard]
 item: [Null]
 ability: [Speed Boost]
 moves:

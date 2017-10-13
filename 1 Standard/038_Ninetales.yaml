@@ -1,5 +1,6 @@
 species: Ninetales
 setname: Power Swap
+tags: [standard]
 item: [Null]
 ability: [Drought]
 moves:
@@ -18,6 +19,7 @@ ivs: {hp: 0, atk: 31, def: 31, spA: 0, spD: 0, spe: 31}
 ---
 species: Ninetales
 setname: Role Play
+tags: [standard]
 item: [Null]
 ability: [Drought]
 moves:

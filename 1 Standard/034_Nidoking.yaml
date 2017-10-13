@@ -1,5 +1,6 @@
 species: Nidoking
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Poison Point]
 moves:
@@ -18,6 +19,7 @@ ivs: 21
 ---
 species: Nidoking
 setname: Mixed
+tags: [standard]
 item: [Null]
 ability: [Rivalry]
 moves:

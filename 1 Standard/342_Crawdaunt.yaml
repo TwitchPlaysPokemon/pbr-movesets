@@ -1,6 +1,7 @@
 species: Crawdaunt
 setname: Standard
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Hyper Cutter]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
 species: Crawdaunt
 setname: Max Attack
 ball: [Dusk]
+tags: [standard]
 item: [Null]
 ability: [Adaptability]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 species: Crawdaunt
 setname: Special
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Shell Armor]
 moves:

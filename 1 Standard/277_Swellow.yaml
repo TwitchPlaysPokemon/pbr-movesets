@@ -1,6 +1,7 @@
 species: Swellow
 setname: Physical
 ball: [Quick]
+tags: [standard]
 item: [Null]
 ability: [Guts]
 moves:
@@ -19,6 +20,7 @@ ivs: 23
 species: Swellow
 setname: Special
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Scrappy]
 moves:
@@ -37,6 +39,7 @@ ivs: 31
 species: Swellow
 setname: Mixed
 ball: [Timer]
+tags: [standard]
 item: [Null]
 ability: [Guts]
 moves:

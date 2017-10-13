@@ -1,6 +1,7 @@
 species: Masquerain
 setname: Physical
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Masquerain
 setname: Special
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:
@@ -37,6 +39,7 @@ ivs: 23
 species: Masquerain
 setname: Beam
 ball: [Premier]
+tags: [standard]
 item: [Power Herb]
 ability: [Intimidate]
 moves:
@@ -55,6 +58,7 @@ ivs: 31
 species: Masquerain
 setname: Airbender
 ball: [Cherish]
+tags: [standard]
 item: [Null]
 ability: [Intimidate]
 moves:

@@ -1,5 +1,6 @@
 species: Drifblim
 setname: Standard
+tags: [standard]
 item: [Null]
 ball: [Dusk]
 ability: [Aftermath]
@@ -18,6 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 24, spD: 0, spe: 0}
 ---
 species: Drifblim
 setname: Physical
+tags: [standard]
 item: [Null]
 ball: [Repeat]
 ability: [Aftermath]
@@ -36,6 +38,7 @@ evs: 0
 ---
 species: Drifblim
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Safari]
 ability: [Aftermath]
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 112, spA: 60, spD: 0, spe: 60}
 ---
 species: Drifblim
 setname: Rain Dance
+tags: [standard]
 item: [Damp Rock]
 ball: [Dive]
 ability: [Aftermath]
@@ -72,6 +76,7 @@ evs: {hp: 12, atk: 0, def: 0, spA: 40, spD: 0, spe: 96}
 ---
 species: Drifblim
 setname: Unburden
+tags: [standard]
 item: [Custap Berry]
 ball: [Quick]
 ability: [Unburden]
@@ -90,6 +95,7 @@ evs: {hp: 0, atk: 164, def: 68, spA: 0, spD: 68, spe: 0}
 ---
 species: Drifblim
 setname: Weather Ball
+tags: [standard]
 item: [Null]
 ball: [Cherish]
 ability: [Aftermath]

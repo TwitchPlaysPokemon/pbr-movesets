@@ -1,6 +1,7 @@
 species: Rattata
 setname: Shiny
 level: 1
+tags: [advanced,standard]
 item: [Focus Sash]
 ability: [Magic Guard]
 moves:

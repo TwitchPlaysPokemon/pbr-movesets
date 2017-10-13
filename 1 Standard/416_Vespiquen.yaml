@@ -1,5 +1,6 @@
 species: Vespiquen
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -18,6 +19,7 @@ evs: {hp: 32, atk: 32, def: 32, spA: 128, spD: 32, spe: 252}
 ---
 species: Vespiquen
 setname: Physical
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -36,6 +38,7 @@ evs: {hp: 72, atk: 60, def: 0, spA: 0, spD: 0, spe: 112}
 ---
 species: Vespiquen
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 40, spA: 104, spD: 0, spe: 204}
 ---
 species: Vespiquen
 setname: Bee
+tags: [standard]
 item: [Honey]
 ability: [Pressure]
 moves:
@@ -72,6 +76,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 76}
 ---
 species: Vespiquen
 setname: PP Stall
+tags: [standard]
 item: [Null]
 ability: [Pressure]
 moves:

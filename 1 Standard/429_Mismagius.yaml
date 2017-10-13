@@ -1,5 +1,6 @@
 species: Mismagius
 setname: Standard
+tags: [standard]
 item: [Null]
 ball: [Luxury]
 ability: [Levitate]
@@ -18,6 +19,7 @@ evs: 0
 ---
 species: Mismagius
 setname: Physical
+tags: [standard]
 item: [Null]
 ball: [Heal]
 ability: [Levitate]
@@ -36,6 +38,7 @@ evs: {hp: 0, atk: 132, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Mismagius
 setname: Special
+tags: [standard]
 item: [Null]
 ball: [Premier]
 ability: [Levitate]
@@ -54,6 +57,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 104, spD: 0, spe: 0}
 ---
 species: Mismagius
 setname: Witch
+tags: [standard]
 item: [Spell Tag]
 ball: [Dusk]
 ability: [Levitate]

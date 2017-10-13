@@ -1,5 +1,6 @@
 species: Venonat
 setname: Tinted Lens
+tags: [standard]
 item: [Lansat Berry]
 ability: [Tinted Lens]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 ---
 species: Venonat
 setname: Compound Eyes
+tags: [standard]
 item: [Poison Barb]
 ability: [Compound Eyes]
 moves:

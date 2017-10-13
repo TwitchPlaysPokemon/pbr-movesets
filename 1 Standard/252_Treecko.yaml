@@ -1,6 +1,7 @@
 species: Treecko
 setname: Physical
 ball: [Poké]
+tags: [standard]
 item: [Focus Sash]
 ability: [Unburden]
 moves:
@@ -19,6 +20,7 @@ evs: {hp: 100, atk: 252, def: 0, spA: 0, spD: 0, spe: 156}
 species: Treecko
 setname: Special
 ball: [Poké]
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
@@ -37,6 +39,7 @@ evs: {hp: 24, atk: 0, def: 28, spA: 252, spD: 0, spe: 204}
 species: Treecko
 setname: Mixed
 ball: [Poké]
+tags: [standard]
 item: [Hard Stone]
 ability: [Unburden]
 moves:

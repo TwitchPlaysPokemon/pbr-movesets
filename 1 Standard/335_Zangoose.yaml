@@ -1,6 +1,7 @@
 species: Zangoose
 setname: Standard
 ball: [Premier]
+tags: [standard]
 item: [Null]
 ability: [Immunity]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 31, atk: 5, def: 31, spA: 31, spD: 31, spe: 31}
 species: Zangoose
 setname: Physical
 ball: [Dusk]
+tags: [standard]
 item: [Toxic Orb]
 ability: [Immunity]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
 species: Zangoose
 setname: Sunny Day
 ball: [Nest]
+tags: [standard]
 item: [Power Herb]
 ability: [Immunity]
 moves:

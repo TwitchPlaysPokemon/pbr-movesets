@@ -1,5 +1,6 @@
 species: Unown
 setname: Quicken
+tags: [standard]
 item: [Quick Powder]
 ability: [Speed Boost]
 moves:

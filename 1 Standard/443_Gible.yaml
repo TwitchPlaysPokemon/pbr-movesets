@@ -1,6 +1,7 @@
 species: Gible
 setname: Physical
 ball: [Poke]
+tags: [standard]
 item: [Null]
 ability: [Rough Skin]
 moves:
@@ -19,6 +20,7 @@ ivs: 31
 species: Gible
 setname: Special
 ball: [Repeat]
+tags: [standard]
 item: [Null]
 ability: [Sand Veil]
 moves:

@@ -1,5 +1,6 @@
 species: Magnemite
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Magnet Pull]
 moves:
@@ -17,6 +18,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
 ---
 species: Magnemite
 setname: Physical
+tags: [standard]
 item: [Iron Ball]
 ability: [Sturdy]
 moves:

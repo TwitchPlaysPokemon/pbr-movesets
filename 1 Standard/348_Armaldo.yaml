@@ -1,6 +1,7 @@
 species: Armaldo
 setname: Standard
 ball: [Poke]
+tags: [standard]
 item: [Null]
 ability: [Battle Armor]
 moves:
@@ -19,6 +20,7 @@ ivs: {hp: 10, atk: 0, def: 0, spA: 10, spD: 10, spe: 10}
 species: Armaldo
 setname: Physical
 ball: [nest]
+tags: [standard]
 item: [Null]
 ability: [Battle Armor]
 moves:
@@ -37,6 +39,7 @@ ivs: {hp: 10, atk: 0, def: 10, spA: 10, spD: 10, spe: 10}
 species: Armaldo
 setname: Max Attack
 ball: [Luxury]
+tags: [standard]
 item: [Null]
 ability: [Battle Armor]
 moves:
@@ -55,6 +58,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 species: Armaldo
 setname: Special
 ball: [Net]
+tags: [standard]
 item: [Null]
 ability: [Battle Armor]
 moves:
@@ -73,6 +77,7 @@ ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 30, spe: 31}
 species: Armaldo
 setname: Rain Dance
 ball: [Dive]
+tags: [standard]
 item: [Null]
 ability: [Swift Swim]
 moves:

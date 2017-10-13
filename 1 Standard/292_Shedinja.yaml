@@ -1,6 +1,7 @@
 species: Shedinja
 setname: Standard
 ball: [Net]
+tags: [standard]
 item: [Focus Band]
 ability: [Wonder Guard]
 moves:
@@ -18,6 +19,7 @@ ivs: 31
 species: Shedinja
 setname: Swords Dance
 ball: [Dusk]
+tags: [standard]
 item: [Null]
 ability: [Wonder Guard]
 moves:
@@ -35,6 +37,7 @@ ivs: 31
 species: Shedinja
 setname: Special
 ball: [Nest]
+tags: [standard]
 item: [Null]
 ability: [Wonder Guard]
 moves:
@@ -52,6 +55,7 @@ ivs: 31
 species: Shedinja
 setname: Token Lum
 ball: [Premier]
+tags: [standard]
 item: [Lum Berry]
 ability: [Wonder Guard]
 moves:
@@ -69,6 +73,7 @@ ivs: 31
 species: Shedinja
 setname: Token Sash
 ball: [Quick]
+tags: [standard]
 item: [Focus Sash]
 ability: [Wonder Guard]
 moves:
@@ -86,6 +91,7 @@ ivs: 31
 species: Shedinja
 setname: Token Shed
 ball: [Dusk]
+tags: [standard]
 item: [Shed Shell]
 ability: [Wonder Guard]
 moves:

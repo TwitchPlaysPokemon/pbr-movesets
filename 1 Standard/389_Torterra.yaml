@@ -1,5 +1,6 @@
 species: Torterra
 setname: Standard
+tags: [standard]
 item: [Null]
 ability: [Shell Armor]
 moves:
@@ -18,6 +19,7 @@ ivs: 25
 ---
 species: Torterra
 setname: Special
+tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
@@ -36,6 +38,7 @@ ivs: 0
 ---
 species: Torterra
 setname: Flinch
+tags: [standard]
 item: [King's Rock]
 ability: [Overgrow]
 moves:
@@ -54,6 +57,7 @@ ivs: {hp: 10, atk: 31, def: 10, spA: 10, spD: 10, spe: 20}
 ---
 species: Torterra
 setname: Stall
+tags: [standard]
 item: [Null]
 ability: [Shell Armor]
 moves:
