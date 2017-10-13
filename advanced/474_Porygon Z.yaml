@@ -1,5 +1,5 @@
 species: Porygon-Z
-setname: Adaptability
+setname: a-Adaptability
 tags: [advanced]
 item: [null]
 ability: [Adaptability]
@@ -17,7 +17,7 @@ ivs: {hp: 23, atk: 3, def: 22, spA: 23, spD: 22, spe: 23}
 evs: {hp: 8, atk: 0, def: 12, spA: 8, spD: 12, spe: 8}
 ---
 species: Porygon-Z
-setname: Download
+setname: a-Download
 tags: [advanced]
 item: [null]
 ability: [Download]
