@@ -8,6 +8,7 @@ moves:
     - [Shadow Sneak]
     - [Psychic]
     - [Destiny Bond]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.35
@@ -26,6 +27,7 @@ moves:
     - [Shadow Sneak]
     - [Pursuit]
     - [Will-o-wisp]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.35
@@ -44,6 +46,7 @@ moves:
     - [Silver Wind]
     - [Icy Wind]
     - [Spite]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3
