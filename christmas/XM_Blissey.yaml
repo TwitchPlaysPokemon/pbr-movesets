@@ -1,0 +1,26 @@
+species: Blissey
+ingamename: Xmas 2011
+displayname: Xmas 2011
+setname: Christmas
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+item: Silk Scarf
+ability: Shadow Tag
+moves:
+    - [Pound]
+    - [Leer]
+    - [Growl]
+    - [Refresh]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
+hidden: false

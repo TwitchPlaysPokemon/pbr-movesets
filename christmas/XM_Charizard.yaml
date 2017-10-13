@@ -1,0 +1,26 @@
+species: Charizard
+ingamename: Charizzard
+displayname: Charizzard
+setname: Christmas
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+item: Wide Lens
+ability: Snow Cloak
+moves:
+    - [Dig]
+    - [Powder Snow]
+    - [Seismic toss]
+    - [Copycat]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Serious
+ivs: {hp: 15, atk: 31, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 0, atk: 252, def: 0, spA: 120, spD: 0, spe: 0}
+hidden: false

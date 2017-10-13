@@ -1,0 +1,24 @@
+species: Charmander
+ingamename: Snowmander
+displayname: Snowmander
+setname: Christmas
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+item: Shuca Berry
+ability: Snow Warning
+moves:
+    - [Flamethrower]
+    - [Blizzard]
+    - [Earth Power]
+    - [Nasty Plot]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 80, atk: 0, def: 0, spA: 176, spD: 0, spe: 252}
+hidden: false

@@ -1,0 +1,26 @@
+species: Alakazam
+ingamename: Melchior
+displayname: Melchior
+setname: Christmas
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+tags: [christmas]
+item: Amulet Coin
+ability: Technician
+moves:
+    - [Draco Meteor]
+    - [Pay Day]
+    - [Present]
+    - [Trick]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 244, def: 160, spA: 4, spD: 0, spe: 0}
+hidden: false
