@@ -53,7 +53,7 @@ ivs: 31
 evs: 84
 ---
 species: Abomasnow
-setname: Rain
+setname: Rain Dance
 item: [Null]
 ability: [Soundproof]
 moves:
