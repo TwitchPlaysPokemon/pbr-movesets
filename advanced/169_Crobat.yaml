@@ -1,5 +1,5 @@
 species: Crobat
-setname: Standard
+setname: a=Standard
 ability: [Inner Focus]
 moves:
     - [Cross Poison, Sludge Bomb]
@@ -14,7 +14,7 @@ ivs: 9
 evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Crobat
-setname: Curse
+setname: a-Curse
 ability: [Inner Focus]
 moves:
     - [Poison Fang]
