@@ -1,0 +1,84 @@
+species: Manaphy
+setname: TailGlow
+item: [Salac Berry, Rindo Berry, Wacan Berry]
+ability: [Hydration]
+moves:
+    - [Surf]
+    - [Ice Beam, Psychic, Shadow Ball]
+    - [Grass Knot, Hidden Power]
+    - [Tail Glow]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 0, spA: 240, spD: 0, spe: 188}
+---
+species: Manaphy
+setname: Defensive
+item: [Damp Rock]
+ability: [Hydration]
+moves:
+    - [Surf]
+    - [Toxic]
+    - [Rain Dance]
+    - [Rest]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 0, spA: 164, spD: 104, spe: 0}
+---
+species: Manaphy
+setname: HeartSwap
+item: [Life Orb]
+ability: [Hydration]
+moves:
+    - [Surf]
+    - [Ice Beam, Psychic, Shadow Ball]
+    - [Grass Knot, Hidden Power, Energy Ball]
+    - [Heart Swap]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 32, atk: 0, def: 0, spA: 252, spD: 8, spe: 216}
+---
+species: Manaphy
+setname: Screens
+item: [Light Clay]
+ability: [Hydration]
+moves:
+    - [Surf]
+    - [Reflect]
+    - [Light Screen]
+    - [U-turn]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Dive]
+nature: Sassy
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe:0}
+evs: {hp: 240, atk: 0, def: 164, spA: 0, spD: 104, spe: 0}
+---
+species: Manaphy
+setname: Calm Mind
+item: [Ganlon Berry]
+ability: [Hydration]
+moves:
+    - [Surf]
+    - [Calm Mind]
+    - [Rain Dance]
+    - [Rest]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 80, spA: 0, spD: 0, spe: 176}

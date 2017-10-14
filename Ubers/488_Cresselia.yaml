@@ -1,0 +1,35 @@
+species: Cresselia
+setname: Wall
+item: [Leftovers]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Ice Beam, Ice Beam, Grass Knot]
+    - [Thunder Wave, Trick Room]
+    - [Lunar Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Heal]
+nature: 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Cresselia
+setname: CalmMind
+item: [Ganlon Berry]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Ice Beam, Grass Knot, Hidden Power, Signal Beam, Shadow Ball]
+    - [Calm Mind]
+    - [Moonlight]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Heal]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 112, atk: 0, def: 144, spA: 252, spD: 0, spe: 0}
