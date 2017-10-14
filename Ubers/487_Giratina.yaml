@@ -1,0 +1,55 @@
+species: Giratina
+setname: Wall
+item: [Zoom Lens]
+ability: [Pressure]
+moves:
+    - [Shadow Force, Shadow Ball]
+    - [Dragon Pulse, Dragon Claw]
+    - [Will-o-wisp, Swagger, Toxic, Will-o-Wisp]
+    - [Protect, Heal Block, Spite, Magic Coat]
+separations:
+	- [Shadow Force, Protect]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dusk]
+nature: Sassy
+ivs: 31
+evs: {hp: 252, atk: 0, def: 120, spA: 0, spD: 136, spe: 0}
+---
+species: Giratina
+setname: Origin
+item: [Spooky Plate, Draco Plate]
+ability: [Levitate]
+moves:
+    - [Shadow Force, Draco Meteor]
+    - [Dragon Claw, Shadow Ball]
+    - [Shadow Sneak]
+    - [Aura Sphere, Hidden Power, Destiny Bond, Psych Up]
+combinations:
+	- [Spooky Plate, Draco Meteor, Shadow Ball]
+	- [Draco Plate, Shadow Force, Dragon Claw]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Dusk]
+nature: Lonely
+ivs: {hp: 3, atk: 30, def: 27, spA: 30, spD: 3, spe: 30}
+evs: {hp: 0, atk: 252, def: 0, spA: 224, spD: 0, spe: 252}
+---
+species: Giratina
+setname: CalmMind
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Dragon Pulse]
+    - [Shadow Ball, Will-o-Wisp, Roar]
+    - [Calm Mind]
+    - [Substitute]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dusk]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 252, spA: 16, spD: 0, spe: 0}
