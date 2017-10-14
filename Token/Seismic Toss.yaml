@@ -1,3 +1,231 @@
+species: Diglett
+displayname: "Diglett-ST"
+setname: ST
+ability: [Arena Trap]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 1}
+evs: {hp: 76, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Sassy
+---
+species: Pichu
+displayname: "Pichu-ST"
+setname: ST
+ability: [Lightning Rod]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 30, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
+species: Ralts
+displayname: "Ralts-ST"
+setname: ST
+ability: [Synchronize]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 14, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 240}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
+species: Mime Jr.
+displayname: "Mime Jr.-ST"
+setname: ST
+ability: [Filter]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 30, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
+species: Abra
+displayname: "Abra-ST"
+setname: ST
+ability: [Synchronize]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 20, atk: 0, def: 0, spA: 0, spD: 0, spe: 11}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Sassy
+---
+species: Magikarp
+displayname: "Magikarp-ST"
+setname: ST
+ability: [Swift Swim]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 30, atk: 0, def: 0, spA: 0, spD: 0, spe: 11}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
+species: Magnemite
+displayname: "Magnemite-ST"
+setname: ST
+ability: [Magnet Pull]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 20, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
+species: Krabby
+displayname: "Krabby-ST"
+setname: ST
+ability: []
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 10, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
+species: Kabuto
+displayname: "Kabuto-ST"
+setname: ST
+ability: [Swift Swim]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 10, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
+species: Omanyte
+displayname: "Omanyte-ST"
+setname: ST
+ability: [Shell Armor]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 216}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Naive
+---
+species: Meditite
+displayname: "Meditite-ST"
+setname: ST
+ability: [Huge Power]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 10, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
+species: Onix
+displayname: "Onix-ST"
+setname: ST
+ability: [Rock Head]
+item: Leftovers
+moves:
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+    - [Seismic Toss]
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Timer]
+nature: Serious
+---
 species: Registeel
 displayname: "Registeel-ST"
 setname: ST
@@ -11,6 +239,7 @@ ivs: 30
 evs: 0
 happiness: 255
 biddable: True
+hidden: True
 rarity: 0
 ball: [Master]
 nature: Hardy
@@ -29,7 +258,8 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Nest]
 nature: Jolly
@@ -47,7 +277,8 @@ ivs: 31
 evs: 52
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Dive]
 nature: Quirky
@@ -66,7 +297,8 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Dusk]
 nature: Jolly
@@ -85,7 +317,8 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Ultra]
 nature: Jolly
@@ -103,7 +336,8 @@ ivs: 28
 evs: 0
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Timer]
 nature: Jolly
@@ -122,7 +356,8 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 164}
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Cherish]
 nature: Jolly
@@ -140,7 +375,8 @@ ivs: 26
 evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Safari]
 nature: Brave
@@ -158,7 +394,8 @@ ivs: 20
 evs: 80
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Net]
 nature: Hardy
@@ -177,7 +414,8 @@ ivs: 10
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 28}
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Heal]
 nature: Timid
@@ -196,7 +434,8 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 240}
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Premier]
 nature: Jolly
@@ -214,7 +453,8 @@ ivs: 26
 evs: 0
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Repeat]
 nature: Brave
@@ -233,7 +473,8 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 164}
 gender: [f]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0
 ball: [Premier]
 nature: Jolly
