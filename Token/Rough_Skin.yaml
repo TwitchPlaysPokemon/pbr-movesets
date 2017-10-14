@@ -5,10 +5,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
 ivs: {hp: 24, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 nature: Serious
@@ -26,10 +26,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
 ivs: {hp: 31, atk: 4, def: 0, spA: 0, spD: 0, spe: 31}
 nature: Bold
@@ -131,10 +131,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
 evs: {hp: 36, atk: 0, def: 0, spA: 0, spD: 0, spe: 112}
 ivs: {hp: 31, atk: 0, def: 20, spA: 0, spD: 0, spe: 31}
 nature: Modest
@@ -173,10 +173,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
 evs: {hp: 36, atk: 0, def: 60, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 1}
 nature: Modest
@@ -194,10 +194,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
 evs: {hp: 36, atk: 0, def: 76, spA: 0, spD: 0, spe: 160}
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}
 nature: Modest
@@ -215,10 +215,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
 evs: {hp: 116, atk: 0, def: 36, spA: 0, spD: 0, spe: 160}
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}
 nature: Bold
