@@ -9,7 +9,7 @@ moves:
     - [Will-o-wisp, Swagger, Toxic, Will-o-Wisp]
     - [Protect, Heal Block, Spite, Magic Coat]
 separations:
-	- [Shadow Force, Protect]
+    - [Shadow Force, Protect]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -29,8 +29,8 @@ moves:
     - [Shadow Sneak]
     - [Aura Sphere, Hidden Power, Destiny Bond, Psych Up]
 combinations:
-	- [Spooky Plate, Draco Meteor, Shadow Ball]
-	- [Draco Plate, Shadow Force, Dragon Claw]
+    - [Spooky Plate, Draco Meteor, Shadow Ball]
+    - [Draco Plate, Shadow Force, Dragon Claw]
 happiness: 255
 biddable: True
 rarity: 0.45

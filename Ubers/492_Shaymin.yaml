@@ -27,7 +27,7 @@ moves:
     - [Psychic, Hidden Power]
     - [Rest, Air Slash]
 separations:
-	- [Rest, Choice Specs]
+    - [Rest, Choice Specs]
 happiness: 255
 biddable: True
 rarity: 0.25
