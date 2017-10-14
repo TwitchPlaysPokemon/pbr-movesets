@@ -20,6 +20,7 @@ evs: {hp: 252, atk: 0, def: 120, spA: 0, spD: 136, spe: 0}
 ---
 species: Giratina
 setname: Origin
+tags: [ubers]
 item: [Spooky Plate, Draco Plate]
 ability: [Levitate]
 moves:
@@ -40,6 +41,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 224, spD: 0, spe: 252}
 ---
 species: Giratina
 setname: CalmMind
+tags: [ubers]
 item: [Leftovers]
 ability: [Pressure]
 moves:
