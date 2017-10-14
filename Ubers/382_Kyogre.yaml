@@ -1,0 +1,81 @@
+species: Kyogre
+setname: Scarf
+tags: [ubers]
+item: [Choice Specs]
+ability: [Drizzle]
+moves:
+    - [Water Spout]
+    - [Hydro Pump, Surf]
+    - [Thunder]
+    - [Ice Beam, Ice Beam, Signal Beam, Sheer Cold]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 40, spA: 0, spD: 40, spe: 44}
+---
+species: Kyogre
+setname: Mixed
+tags: [ubers]
+item: [Muscle Band]
+ability: [Drizzle]
+moves:
+    - [Surf]
+    - [Waterfall]
+    - [Earthquake, Earthquake, Double Edge]
+    - [Thunder, Ice Beam]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 216, def: 0, spA: 36, spD: 0, spe: 252}
+---
+species: Kyogre
+setname: Calm Mind
+tags: [ubers]
+item: [Wide Lens, Silverpowder]
+ability: [Drizzle]
+moves:
+    - [Surf, Surf, Hydro Pump]
+    - [Thunder]
+    - [Ice Beam, Signal Beam]
+    - [Calm Mind]
+combinations:
+    - [Wide Lens, Hydro Pump]
+    - [Silverpowder, Signal Beam]
+separations:
+    - [Hydro Pump, Signal Beam]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Kyogre
+setname: Tank
+tags: [ubers]
+item: [Leftovers]
+ability: [Drizzle]
+moves:
+    - [Surf]
+    - [Ice Beam, Thunder]
+    - [Substitute, Thunder Wave, Safeguard, Block]
+    - [Calm Mind, Toxic]
+combinations:
+    - [Block, Calm Mind]
+separations:
+    - [Thunder, Thunder Wave]
+    - [Thunder Wave, Toxic]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}

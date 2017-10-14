@@ -1,0 +1,38 @@
+species: Azelf
+setname: NastyPlot
+tags: [ubers]
+item: [Focus Sash]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Flamethrower, Thunderbolt]
+    - [Grass Knot, Shadow Ball]
+    - [Nasty Plot]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Timer]
+nature: Timid
+ivs: {hp: 29, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Azelf
+setname: Support
+tags: [ubers]
+item: [Focus Sash]
+ability: [Levitate]
+moves:
+    - [Fire Blast, Ice Beam, Psychic]
+    - [Taunt, Reflect, Light Screen]
+    - [Stealth Rock, Reflect, Light Screen]
+    - [Explosion]
+separations:
+    - [Reflect, Reflect]
+    - [Light Screen, Light Screen]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Timer]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}

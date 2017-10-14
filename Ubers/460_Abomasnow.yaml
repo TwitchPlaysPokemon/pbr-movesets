@@ -1,0 +1,37 @@
+species: Abomasnow
+setname: Defensive
+tags: [ubers]
+item: [Leftovers]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Giga Drain]
+    - [Ice Shard]
+    - [Leech Seed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 88, spD: 168, spe: 0}
+---
+species: Abomasnow
+setname: Offensive
+tags: [ubers]
+item: [Life Orb]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Grass Knot, Wood Hammer]
+    - [Earthquake, Hidden Power]
+    - [Ice Shard]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Quiet
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 4, spe: 0}

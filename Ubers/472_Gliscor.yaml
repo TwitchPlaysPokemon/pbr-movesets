@@ -1,0 +1,37 @@
+species: Gliscor
+setname: PoisonHeal
+tags: [ubers]
+item: [Toxic Orb]
+ability: [Poison Heal]
+moves:
+    - [Earthquake]
+    - [Ice Fang, Rock Slide, Facade]
+    - [Swords Dance, Toxic]
+    - [Protect, Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Dusk]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 40, spA: 0, spD: 0, spe: 224}
+---
+species: Gliscor
+setname: BatonPass
+tags: [ubers]
+item: [Yache Berry]
+ability: [Sand Veil, Hyper Cutter]
+moves:
+    - [Earthquake]
+    - [Aerial Ace, Stone Edge, Ice Fang, Night Slash]
+    - [Rock Polish, Swords Dance]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dusk]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 0, def: 0, spA: 0, spD: 208, spe: 52}

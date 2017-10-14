@@ -1,0 +1,38 @@
+species: Bronzong
+setname: Wall
+tags: [ubers]
+item: [Leftovers, Macho Brace]
+ability: [Levitate]
+moves:
+    - [Gyro Ball, Psywave]
+    - [Earthquake, Hidden Power]
+    - [Toxic, Explosion]
+    - [Stealth Rock, Trick Room, Trick]
+separations:
+    - [Trick, Gyro Ball]
+    - [Trick, Leftovers]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Dusk]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 2}
+evs: {hp: 252, atk: 84, def: 80, spA: 0, spD: 92, spe: 0}
+---
+species: Bronzong
+setname: TrickRoom
+tags: [ubers]
+item: [Life Orb, Macho Brace]
+ability: [Levitate, Heatproof]
+moves:
+    - [Gyro Ball]
+    - [Earthquake]
+    - [Explosion, Psychic, Hidden Power]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Dusk]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 2}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}

@@ -1,0 +1,39 @@
+species: Roserade
+setname: Standard
+tags: [ubers]
+item: [Focus Sash]
+ability: [Poison Point, Natural Cure]
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb]
+    - [Hidden Power, Sleep Powder, Stun Spore]
+    - [Toxic Spikes, Sleep Powder]
+separations:
+    - [Sleep Powder, Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Poké]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Roserade
+setname: SubSeed
+tags: [ubers]
+item: [Leftovers]
+ability: [Poison Point, Natural Cure]
+moves:
+    - [Sludge Bomb]
+    - [Grass Knot, Giga Drain, Shadow Ball, Hidden Power, Hidden Power]
+    - [Leech Seed]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Poké]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 236, atk: 0, def: 0, spA: 0, spD: 44, spe: 232}

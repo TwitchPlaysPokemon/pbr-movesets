@@ -1,0 +1,37 @@
+species: Deoxys
+setname: Attacker
+tags: [ubers]
+item: [White Herb]
+ability: [Pressure]
+moves:
+    - [Psycho Boost]
+    - [Superpower, Low Kick]
+    - [Shadow Ball, Thunder, Rock Slide, Fire Punch]
+    - [Grass Knot, Ice Beam, Extremespeed, Signal Beam]
+form: Attack
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Ultra]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 44, def: 0, spA: 212, spD: 0, spe: 252}
+---
+species: Deoxys
+setname: Hazards
+tags: [ubers]
+item: [Focus Sash]
+ability: [Pressure]
+moves:
+    - [Psycho Boost]
+    - [Superpower]
+    - [Extremespeed]
+    - [Stealth Rock]
+form: Attack
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 44, def: 0, spA: 212, spD: 0, spe: 252}

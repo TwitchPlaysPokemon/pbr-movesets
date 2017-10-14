@@ -1,0 +1,37 @@
+species: Mamoswine
+setname: Sash
+tags: [ubers]
+item: [Focus Sash]
+ability: [Thick Fat]
+moves:
+    - [Earthquake]
+    - [Ice Shard]
+    - [Stone Edge]
+    - [Stealth Rock, Endeavor]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.55
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Mamoswine
+setname: Attacker
+tags: [ubers]
+item: [Life Orb]
+ability: [Thick Fat]
+moves:
+    - [Earthquake]
+    - [Superpower, Ice Fang]
+    - [Stone Edge]
+    - [Ice Shard]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

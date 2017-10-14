@@ -1,0 +1,37 @@
+species: Deoxys
+setname: Wall
+tags: [ubers]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Night Shade, Seismic Toss]
+    - [Toxic, Taunt]
+    - [Spikes]
+    - [Recover]
+form: Defense
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Heal]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 32, spA: 0, spD: 176, spe: 48}
+---
+species: Deoxys
+setname: NastyPlot
+tags: [ubers]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Psychic]
+    - [Shadow Ball, Hidden Power, Focus Blast, Ice Beam]
+    - [Nasty Plot]
+    - [Recover]
+form: Defense
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Heal]
+nature: Calm
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 252, atk: 0, def: 176, spA: 0, spD: 32, spe: 48}

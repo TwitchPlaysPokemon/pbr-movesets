@@ -1,0 +1,39 @@
+species: Weaveile
+setname: Attacker
+tags: [ubers]
+item: [Focus Sash]
+ability: [Pressure]
+moves:
+    - [Ice Punch]
+    - [Night Slash]
+    - [Ice Shard, Low Kick]
+    - [Pursuit, Low Kick, Swords Dance]
+separations:
+    - [Low Kick, Low Kick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Luxury]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Weaveile
+setname: Band
+tags: [ubers]
+item: [Choice Band]
+ability: [Pressure]
+moves:
+    - [Ice Punch]
+    - [Night Slash]
+    - [Ice Shard]
+    - [Pursuit]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Luxury]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}

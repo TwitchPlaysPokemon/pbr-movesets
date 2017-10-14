@@ -1,0 +1,59 @@
+species: Rhyperior
+setname: Tank
+tags: [ubers]
+item: [Leftovers]
+ability: [Solid Rock]
+moves:
+    - [Earthquake, Rock Wrecker]
+    - [Rock Blast, Megahorn]
+    - [Avalanche, Counter]
+    - [Roar, Stealth Rock]
+separations:
+    - [Rock Wrecker, Rock Blast]
+    - [Megahorn, Counter]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Ultra]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 20, spA: 0, spD: 236, spe: 0}
+---
+species: Rhyperior
+setname: Band
+tags: [ubers]
+item: [Choice Band]
+ability: [Solid Rock]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Hammer Arm, Megahorn, Aqua Tail, Crunch]
+    - [Ice Punch, Fire Punch, Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 184, atk: 252, def: 0, spA: 0, spD: 0, spe: 72}
+---
+species: Rhyperior
+setname: RockPolish
+tags: [ubers]
+item: [Rowap Berry, Passho Berry, Shell Bell]
+ability: [Solid Rock]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Crunch, Thunder Punch, Swords Dance]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

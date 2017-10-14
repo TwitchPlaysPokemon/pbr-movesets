@@ -1,0 +1,95 @@
+species: Jirachi
+setname: Wish
+tags: [ubers]
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Iron Head]
+    - [Body Slam]
+    - [U-Turn]
+    - [Wish]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 88, spA: 0, spD: 128, spe: 40}
+---
+species: Jirachi
+setname: CalmMind
+tags: [ubers]
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Psychic, Flash Cannon]
+    - [Thunder, Grass Knot]
+    - [Calm Mind]
+    - [Substitute, Wish]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Jirachi
+setname: Scarf
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Serene Grace]
+moves:
+    - [Iron Head, Iron Head, Zen Headbutt]
+    - [Ice Punch, Fire Punch, Thunder Punch]
+    - [U-Turn]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Jirachi
+setname: Physical
+tags: [ubers]
+item: [Metronome]
+ability: [Serene Grace]
+moves:
+    - [Meteor Mash]
+    - [Zen Headbutt]
+    - [Thunder Punch, Fire Punch, Ice Punch]
+    - [Body Slam, Thunder Punch, Fire Punch, Ice Punch]
+separations:
+    - [Thunder Punch, Thunder Punch]
+    - [Fire Punch, Fire Punch]
+    - [Ice Punch, Ice Punch]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Jirachi
+setname: Mixed
+tags: [ubers]
+item: [Expert Belt]
+ability: [Serene Grace]
+moves:
+    - [Iron Head]
+    - [Thunderbolt, Grass Knot, Grass Knot, Thunder]
+    - [Fire Punch, Hidden Power]
+    - [Icy Wind, Draco Meteor]
+combinations:
+    - [Draco Meteor, Grass Knot]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Cherish]
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 0, atk: 132, def: 0, spA: 160, spD: 0, spe: 216}

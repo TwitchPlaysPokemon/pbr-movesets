@@ -1,0 +1,96 @@
+species: Deoxys
+setname: Hazards
+tags: [ubers]
+item: [Focus Sash]
+ability: [Pressure]
+moves:
+    - [Psycho Boost]
+    - [Superpower, Low Kick]
+    - [Stealth Rock]
+    - [Spikes, Magic Coat]
+Form: Speed
+happiness: 255
+biddable: True
+rarity: 0.21
+ball: [Quick]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 184, def: 0, spA: 200, spD: 0, spe: 124}
+---
+species: Deoxys
+setname: Screens
+tags: [ubers]
+item: [Light Clay]
+ability: [Pressure]
+moves:
+    - [Ice Beam, Night Shade]
+    - [Thunderbolt, Knock Off]
+    - [Reflect]
+    - [Light Screen]
+combinations:
+    - [Night Shade, Knock Off]
+Form: Speed
+happiness: 255
+biddable: True
+rarity: 0.21
+ball: [Quick]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 120, spA: 0, spD: 120, spe: 16}
+---
+species: Deoxys
+setname: Attacker
+tags: [ubers]
+item: [Life Orb, Focus Sash]
+ability: [Pressure]
+moves:
+    - [Psycho Boost]
+    - [Superpower, Low Kick]
+    - [Ice Beam, Shadow Ball, Thunder]
+    - [Grass Knot, Snatch, Taunt, Magic Coat, Swagger]
+Form: Speed
+happiness: 255
+biddable: True
+rarity: 0.21
+ball: [Quick]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 100, def: 0, spA: 176, spD: 0, spe: 236}
+---
+species: Deoxys
+setname: NastyPlot
+tags: [ubers]
+item: [Life Orb]
+ability: [Pressure]
+moves:
+    - [Psychic]
+    - [Focus Blast, Dark Pulse]
+    - [Energy Ball, Ice Beam, Thunderbolt]
+    - [Nasty Plot]
+Form: Speed
+happiness: 255
+biddable: True
+rarity: 0.21
+ball: [Quick]
+nature: Timid
+ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Deoxys
+setname: Scarf
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Pressure]
+moves:
+    - [Psycho Boost]
+    - [Dark Pulse, Focus Blast, Thunderbolt, Ice Beam, Dark Pulse]
+    - [Disable]
+    - [Trick]
+Form: Speed
+happiness: 255
+biddable: True
+rarity: 0.16
+ball: [Quick]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 0, def: 0, spA: 176, spD: 0, spe: 216}

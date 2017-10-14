@@ -1,0 +1,39 @@
+species: Dusknoir
+setname: Wall
+tags: [ubers]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Earthquake, Fire Punch]
+    - [Ice Punch, Thunder Punch]
+    - [Will-O-Wisp]
+    - [Protect, Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 28, def: 228, spA: 0, spD: 0, spe: 0}
+---
+species: Dusknoir
+setname: TrickRoom
+tags: [ubers]
+item: [Expert Belt]
+ability: [Pressure]
+moves:
+    - [Earthquake, Shadow Punch]
+    - [Ice Punch, Thunder Punch, Shadow Punch]
+    - [Will-O-Wisp, Memento]
+    - [Trick Room]
+separations:
+    - [Shadow Punch, Shadow Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}

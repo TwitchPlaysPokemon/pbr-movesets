@@ -1,0 +1,98 @@
+species: Heatran
+setname: SunnyDay
+tags: [ubers]
+item: [Shuca Berry, Chople Berry]
+ability: [Flash Fire]
+moves:
+    - [Magma Storm]
+    - [Solar Beam]
+    - [Earth Power]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Heatran
+setname: Attacker
+tags: [ubers]
+item: [Wise Glasses, Power Herb]
+ability: [Flash Fire]
+moves:
+    - [Fire Blast, Magma Storm]
+    - [Flash Cannon, Hidden Power, Solar Beam]
+    - [Earth Power]
+    - [Explosion, Taunt, Stealth Rock, Will-O-Wisp, Dragon Pulse]
+combinations:
+    - [Power Herb, Solar Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Heatran
+setname: Choice
+tags: [ubers]
+item: [Choice Specs, Choice Scarf]
+ability: [Flame Body]
+moves:
+    - [Eruption, Overheat, Magma Storm]
+    - [Flash Cannon, Flamethrower]
+    - [Earth Power, Dragon Pulse]
+    - [Hidden Power, Dark Pulse, Explosion, Explosion]
+separations:
+    - [Choice Specs, Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Naive
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 8, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Heatran
+setname: Wall
+tags: [ubers]
+item: [Leftovers, Shuca Berry]
+ability: [Flash Fire]
+moves:
+    - [Lava Plume]
+    - [Earth Power]
+    - [Toxic]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Timer]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 0, spA: 0, spD: 108, spe: 156}
+---
+species: Heatran
+setname: TormenTran
+tags: [ubers]
+item: [Leftovers]
+ability: [Flash Fire]
+moves:
+    - [Lava Plume]
+    - [Torment]
+    - [Substitute]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 0.2
+ball: [Timer]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 0, spA: 0, spD: 16, spe: 248}

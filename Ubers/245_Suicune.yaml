@@ -8,7 +8,6 @@ moves:
     - [Sleep Talk]
     - [Calm Mind]
     - [Rest]
-gender: [m, f]
 happiness: 255
 biddable: False
 rarity: 0.7
@@ -27,7 +26,6 @@ moves:
     - [Ice Beam]
     - [Hidden Power]
     - [Calm Mind]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3

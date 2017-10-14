@@ -1,0 +1,74 @@
+species: Palkia
+setname: Mixed
+tags: [ubers]
+item: [Haban Berry]
+ability: [Pressure]
+moves:
+    - [Draco Meteor]
+    - [Aqua Tail, Waterfall]
+    - [Thunder, Focus Punch]
+    - [Heal Block, Substitute, Psych Up]
+separations:
+    - [Focus Punch, Heal Block]
+    - [Focus Punch, Psych Up]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Heal]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Palkia
+setname: TrickRoom
+tags: [ubers]
+item: [Lustrous Orb]
+ability: [Pressure]
+moves:
+    - [Spacial Rend]
+    - [Outrage, Aqua Tail]
+    - [Surf, Hydro Pump]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Heal]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 248, atk: 128, def: 0, spA: 132, spD: 0, spe: 0}
+---
+species: Palkia
+setname: Bulk Up
+tags: [ubers]
+item: [Lustrous Orb]
+ability: [Pressure]
+moves:
+    - [Outrage]
+    - [Aqua Tail]
+    - [Earthquake, Earthquake, Dragon Claw]
+    - [Bulk Up]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 176, def: 0, spA: 0, spD: 156, spe: 176}
+---
+species: Palkia
+setname: RainDance
+tags: [ubers]
+item: [Damp Rock]
+ability: [Pressure]
+moves:
+    - [Hydro Pump, Hydro Pump, Surf]
+    - [Thunder]
+    - [Ice Beam, Earth Power, Aura Sphere]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Heal]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

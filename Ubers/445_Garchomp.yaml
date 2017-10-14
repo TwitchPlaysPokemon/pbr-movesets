@@ -1,0 +1,79 @@
+species: Garchomp
+setname: SwordsDance
+tags: [ubers]
+item: [Salac Berry, Lum Berry]
+ability: [Rough Skin, Sand Veil]
+moves:
+    - [Outrage, Dragon Claw]
+    - [Earthquake]
+    - [Substitute, Fire Fang, Stone Edge, Aqua Tail]
+    - [Swords Dance]
+combinations:
+    - [Salac Berry, Substitute, Sand Veil]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Great]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 12, atk: 244, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Garchomp
+setname: Scarf
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Rough Skin, Sand Veil]
+moves:
+    - [Outrage]
+    - [Earthquake]
+    - [Dragon Claw, Aqua Tail, Aqua Tail]
+    - [Stone Edge, Fire Fang]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Great]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Garchomp
+setname: Tank
+tags: [ubers]
+item: [Leftovers, Jaboca Berry]
+ability: [Rough Skin]
+moves:
+    - [Earthquake]
+    - [Dragon Claw]
+    - [Fire Blast, Stone Edge, Endure]
+    - [Stealth Rock, Toxic, Roar]
+combinations:
+    - [Endure, Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Great]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 108, spA: 0, spD: 0, spe: 160}
+---
+species: Garchomp
+setname: Mixed
+tags: [ubers]
+item: [Life Orb]
+ability: [Rough Skin]
+moves:
+    - [Draco Meteor]
+    - [Earthquake]
+    - [Fire Blast]
+    - [Stealth Rock, Stone Edge, Outrage]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Great]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}

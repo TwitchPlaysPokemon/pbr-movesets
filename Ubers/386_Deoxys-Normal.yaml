@@ -1,0 +1,39 @@
+species: Deoxys
+setname: Band
+tags: [ubers]
+item: [Choice Band]
+ability: [Pressure]
+moves:
+    - [Superpower]
+    - [Extremespeed, Fire Punch, Ice Punch, Thunder Punch]
+    - [Fire Punch, Fire Punch, Ice Punch, Thunder Punch]
+    - [Trick, Pursuit]
+separations:
+    - [Fire Punch, Fire Punch]
+    - [Ice Punch, Ice Punch]
+    - [Ice Punch, Ice Punch]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Deoxys
+setname: Specs
+tags: [ubers]
+item: [Choice Specs]
+ability: [Pressure]
+moves:
+    - [Ice Beam]
+    - [Thunderbolt]
+    - [Shadow Ball, Focus Blast, Hidden Power]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Safari]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

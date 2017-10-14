@@ -1,0 +1,92 @@
+species: Rayquaza
+setname: AirLock
+tags: [ubers]
+item: [Yache Berry, Charti Berry]
+ability: [Air Lock]
+moves:
+    - [Draco Meteor]
+    - [Outrage]
+    - [Surf, Thunder]
+    - [Extremespeed]
+combinations:
+    - [Thunder, Yache Berry]
+    - [Surf, Charti Berry]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Master]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 188, def: 0, spA: 64, spD: 40, spe: 216}
+---
+species: Rayquaza
+setname: SwordsDance
+tags: [ubers]
+item: [Silk Scarf]
+ability: [Air Lock]
+moves:
+    - [Dragon Claw]
+    - [Extremespeed]
+    - [Crunch, Waterfall, Brick Break]
+    - [Swords Dance]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Master]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 8, spD: 0, spe: 248}
+---
+species: Rayquaza
+setname: Special
+tags: [ubers]
+item: [Sky Plate]
+ability: [Air Lock]
+moves:
+    - [Draco Meteor]
+    - [Air Slash]
+    - [Flamethrower, Earth Power, Focus Blast]
+    - [Energy Ball, Sleep Talk, Surf, Mimic]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Master]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Rayquaza
+setname: SkyAttack
+tags: [ubers]
+item: [Power Herb]
+ability: [Air Lock]
+moves:
+    - [Sky Attack]
+    - [Dragon Claw]
+    - [Earthquake, Waterfall]
+    - [Dragon Dance, Roar]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Master]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Rayquaza
+setname: Mixed
+tags: [ubers]
+item: [Sky Plate]
+ability: [Air Lock]
+moves:
+    - [Fly]
+    - [Draco Meteor]
+    - [Fire Blast, Earthquake]
+    - [Extremespeed, Psych Up, Substitute]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Master]
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
