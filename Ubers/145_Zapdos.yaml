@@ -21,7 +21,7 @@ evs: {hp: 248, atk: 0, def: 228, spA: 0, spD: 0, spe: 32}
 species: Zapdos
 setname: BatonPass
 tags: [ubers]
-item: [Petaya]
+item: [Petaya Berry]
 ability: [Static]
 moves:
     - [Thunderbolt]

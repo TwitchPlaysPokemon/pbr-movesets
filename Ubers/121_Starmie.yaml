@@ -8,7 +8,6 @@ moves:
     - [Thunderbolt]
     - [Ice Beam]
     - [Trick]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.25
@@ -30,7 +29,6 @@ moves:
 combinations:
     - [Trick, Choice Specs]
     - [Gravity, Thunder, Blizzard, Hydro Pump, Life Orb]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.45
@@ -49,7 +47,6 @@ moves:
     - [Ice Beam]
     - [Rapid Spin, Thunder Wave, Protect]
     - [Recover]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3

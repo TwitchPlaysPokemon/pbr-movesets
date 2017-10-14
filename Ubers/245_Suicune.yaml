@@ -26,7 +26,7 @@ moves:
     - [Hydro Pump, Surf]
     - [Ice Beam]
     - [Hidden Power]
-	- [Calm Mind]
+    - [Calm Mind]
 gender: [m, f]
 happiness: 255
 biddable: True

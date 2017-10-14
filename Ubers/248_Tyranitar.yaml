@@ -2,7 +2,7 @@ species: Tyranitar
 setname: Tank
 tags: [ubers]
 item: [Chople Berry, Leftovers]
-ability: [Safari]
+ability: [Sand Stream]
 moves:
     - [Stone Edge]
     - [Crunch, Crunch, Payback]
@@ -24,7 +24,7 @@ species: Tyranitar
 setname: Choice
 tags: [ubers]
 item: [Choice Scarf, Choice Band]
-ability: [Safari]
+ability: [Sand Stream]
 moves:
     - [Stone Edge]
     - [Crunch]
@@ -43,7 +43,7 @@ species: Tyranitar
 setname: TyraniBoar
 tags: [ubers]
 item: [Leftovers]
-ability: [Safari]
+ability: [Sand Stream]
 moves:
     - [Dark Pulse, Crunch]
     - [Flamethrower, Ice Beam, Thunderbolt]
@@ -62,7 +62,7 @@ species: Tyranitar
 setname: Mixed
 tags: [ubers]
 item: [Expert Belt]
-ability: [Safari]
+ability: [Sand Stream]
 moves:
     - [Stone Edge, Crunch]
     - [Dark Pulse, Flamethrower]
@@ -84,7 +84,7 @@ species: Tyranitar
 setname: Dragon Dance
 tags: [ubers]
 item: [Shuca Berry, Babiri Berry, Lum Berry]
-ability: [Safari]
+ability: [Sand Stream]
 moves:
     - [Stone Edge, Rock Slide]
     - [Crunch]

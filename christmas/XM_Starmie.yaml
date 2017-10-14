@@ -10,7 +10,6 @@ moves:
     - [Secret Power]
     - [Knock Off]
     - [Cosmic Power]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

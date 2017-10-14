@@ -48,8 +48,8 @@ moves:
     - [Trick]
 separations:
     - [Psycho Boost, Roost]
+    - [Thunderbolt, Thunderbolt]
     - [Hydro Pump, Surf]
-	- [Thunderbolt, Thunderbolt]
 happiness: 255
 biddable: True
 rarity: 0.2
