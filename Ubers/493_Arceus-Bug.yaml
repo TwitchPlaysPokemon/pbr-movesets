@@ -1,0 +1,17 @@
+species: Arceus
+setname: Bug-Paleozoic
+tags: [ubers]
+item: [Insect Plate]
+ability: [Multitype]
+moves:
+    - [Judgment, U-turn]
+    - [Blaze Kick, Iron Head]
+    - [Ice Beam, Thunderbolt]
+    - [Extremespeed, Explosion]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 200}

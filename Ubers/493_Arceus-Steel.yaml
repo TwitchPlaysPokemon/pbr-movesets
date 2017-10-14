@@ -1,0 +1,17 @@
+species: Arceus
+setname: Steel-Sunne
+tags: [ubers]
+item: [Iron Plate]
+ability: [Multitype]
+moves:
+    - [Meteor Mash]
+    - [Flare Blitz, Zen Headbutt]
+    - [Earthquake, Stone Edge]
+    - [Toxic]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 136, atk: 252, def: 0, spA: 0, spD: 0, spe: 68}

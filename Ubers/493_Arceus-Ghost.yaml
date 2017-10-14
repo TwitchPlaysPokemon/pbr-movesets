@@ -1,0 +1,20 @@
+species: Arceus
+setname: Ghost-RoyalSword
+tags: [ubers]
+item: [Spooky Plate]
+ability: [Multitype]
+moves:
+    - [Shadow Sneak, Shadow Claw, Shadow Ball]
+    - [Iron Head, Flash Cannon]
+    - [Swords Dance, Toxic]
+    - [Protect]
+separations:
+    - [Shadow Ball, Swords Dance]
+    - [Flash Cannon, Swords Dance]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 252, spA: 0,spD: 252, spe: 0}

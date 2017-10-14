@@ -1,0 +1,17 @@
+species: Arceus
+setname: Psychic-Moone
+tags: [ubers]
+item: [Mind Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Shadow Ball]
+    - [Focus Blast]
+    - [Ice Beam, Thunder]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 10, spA: 31, spD: 31, spe: 31}
+evs: {hp: 72, atk: 0, def: 0, spA: 252, spD: 0, spe: 184}

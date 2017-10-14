@@ -1,0 +1,17 @@
+species: Arceus
+setname: Ground-Abundance
+tags: [ubers]
+item: [Earth Plate]
+ability: [Multitype]
+moves:
+    - [Earthquake]
+    - [Stone Edge, Stone Edge, Hidden Power]
+    - [U-turn]
+    - [Stealth Rock, Knock Off]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 0, atk: 196, def: 252, spA: 0, spD: 0, spe: 0}

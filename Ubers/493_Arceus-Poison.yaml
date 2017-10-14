@@ -1,0 +1,17 @@
+species: Arceus
+setname: Poison-Parasite
+tags: [ubers]
+item: [Toxic Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Power Gem]
+    - [Hidden Power, Thunderbolt, Psychic]
+    - [Stealth Rock, Toxic Spikes]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 232, spD: 88, spe: 116}

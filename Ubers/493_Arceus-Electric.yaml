@@ -1,0 +1,17 @@
+species: Arceus
+setname: Electric-BoltStrike
+tags: [ubers]
+item: [Zap Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Hidden Power]
+    - [Focus Blast, Taunt]
+    - [Nasty Plot, Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Timid
+ivs: {hp: 30, atk: 31, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 180}

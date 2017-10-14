@@ -1,0 +1,17 @@
+species: Arceus
+setname: Dragon-Brutal
+tags: [ubers]
+item: [Draco Plate]
+ability: [Multitype]
+moves:
+    - [Draco Meteor]
+    - [Dark Pulse]
+    - [Superpower, Fire Blast, Earth Power]
+    - [U-turn, Roost]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 168, spD: 0, spe: 192}

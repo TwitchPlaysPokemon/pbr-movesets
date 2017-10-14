@@ -1,0 +1,19 @@
+species: Arceus
+setname: Ice-Boundary
+tags: [ubers]
+item: [Icicle Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Dragon Claw, Outrage]
+    - [Volt Tackle, Volt Tackle, Substitute]
+    - [Earth Power, Iron Head, Roost]
+combinations:
+    - [Substitute, Roost]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Master]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 244, def: 0, spA: 212, spD: 0, spe: 52}
