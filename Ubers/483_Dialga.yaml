@@ -1,7 +1,7 @@
 species: Dialga
 setname: TrickRoom
 tags: [ubers]
-item: [Expert Belt, Adamant Orb, Focus]
+item: [Expert Belt, Adamant Orb, Focus Sash]
 ability: [Pressure]
 moves:
     - [Dragon Pulse, Iron Head]
@@ -43,7 +43,7 @@ evs: {hp: 116, atk: 252, def: 0, spA: 0, spD: 0, spe: 140}
 species: Dialga
 setname: RoT
 tags: [ubers]
-item: [Adamant]
+item: [Adamant Orb]
 ability: [Pressure]
 moves:
     - [Roar Of Time]

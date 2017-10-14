@@ -8,7 +8,7 @@ moves:
     - [Superpower, Low Kick]
     - [Stealth Rock]
     - [Spikes, Magic Coat]
-Form: Speed
+form: Speed
 happiness: 255
 biddable: True
 rarity: 0.21
@@ -29,7 +29,7 @@ moves:
     - [Light Screen]
 combinations:
     - [Night Shade, Knock Off]
-Form: Speed
+form: Speed
 happiness: 255
 biddable: True
 rarity: 0.21
@@ -48,7 +48,7 @@ moves:
     - [Superpower, Low Kick]
     - [Ice Beam, Shadow Ball, Thunder]
     - [Grass Knot, Snatch, Taunt, Magic Coat, Swagger]
-Form: Speed
+form: Speed
 happiness: 255
 biddable: True
 rarity: 0.21
@@ -67,7 +67,7 @@ moves:
     - [Focus Blast, Dark Pulse]
     - [Energy Ball, Ice Beam, Thunderbolt]
     - [Nasty Plot]
-Form: Speed
+form: Speed
 happiness: 255
 biddable: True
 rarity: 0.21
@@ -86,7 +86,7 @@ moves:
     - [Dark Pulse, Focus Blast, Thunderbolt, Ice Beam, Dark Pulse]
     - [Disable]
     - [Trick]
-Form: Speed
+form: Speed
 happiness: 255
 biddable: True
 rarity: 0.16
