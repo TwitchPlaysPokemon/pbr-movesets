@@ -1,0 +1,52 @@
+species: Shaymin
+setname: Defensive
+item: [Leftovers]
+ability: [Natural Cure]
+moves:
+    - [Seed Flare]
+    - [Earth Power]
+    - [Leech Seed]
+    - [Rest]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Cherish]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 120, spe: 136}
+---
+species: Shaymin
+setname: Offensive
+item: [Life Orb, Choice Specs]
+ability: [Natural Cure]
+moves:
+    - [Seed Flare]
+    - [Earth Power]
+    - [Psychic, Hidden Power]
+    - [Rest, Air Slash]
+separations:
+	- [Rest, Choice Specs]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Shaymin
+setname: Sky
+item: [Sky Plate]
+ability: [Serene Grace]
+moves:
+    - [Seed Flare]
+    - [Air Slash]
+    - [Earth Power, Psychic]
+    - [Growth, Leech Seed]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 5, spe: 252}
