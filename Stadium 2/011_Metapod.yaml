@@ -4,7 +4,7 @@ ability: null
 moves:
     - Harden (=5)
 gender: [m]
-rarity: 0.0
+rarity: 1.0
 nature: Serious
 biddable: False
 hidden: True

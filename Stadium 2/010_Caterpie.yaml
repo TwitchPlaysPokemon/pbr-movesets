@@ -5,7 +5,7 @@ moves:
     - Tackle
     - String Shot
 gender: [m]
-rarity: 0.0
+rarity: 1.0
 nature: Bashful
 biddable: False
 hidden: True

@@ -3,7 +3,7 @@ setname: Stadium 2
 moves:
     - Hidden Power
 happiness: 255
-rarity: 0.0
+rarity: 1.0
 nature: Docile
 ivs: {hp: 30, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 156, atk: 200, def: 192, spA: 200, spD: 200, spe: 192}

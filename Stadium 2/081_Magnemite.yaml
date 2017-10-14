@@ -6,7 +6,7 @@ moves:
     - Supersonic
     - Thunder Wave
 happiness: 40
-rarity: 0.0
+rarity: 1.0
 nature: Docile
 ivs: 31
 evs: {hp: 160, atk: 160, def: 168, spA: 160, spD: 160, spe: 168}

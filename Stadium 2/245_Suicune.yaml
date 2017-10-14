@@ -6,7 +6,7 @@ moves:
     - Mist
     - Roar
 happiness: 255
-rarity: 0.0
+rarity: 1.0
 nature: Docile
 ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
 evs: {hp: 8, atk: 8, def: 8, spA: 132, spD: 132, spe: 132}

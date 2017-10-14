@@ -7,7 +7,7 @@ moves:
     - Sand-Attack
 gender: [m]
 happiness: 255
-rarity: 0.0
+rarity: 1.0
 nature: Docile
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 6}
 evs: {hp: 56, atk: 64, def: 64, spA: 56, spD: 56, spe: 156}

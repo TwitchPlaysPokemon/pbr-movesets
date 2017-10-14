@@ -7,7 +7,7 @@ moves:
     - Steel Wing
     - Whirlwind
 gender: [f]
-rarity: 0.0
+rarity: 1.0
 nature: Serious
 ivs: 31
 evs: {hp: 72, atk: 80, def: 80, spA: 72, spD: 72, spe: 72}

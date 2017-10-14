@@ -7,7 +7,7 @@ moves:
     - Attract
 gender: [m]
 happiness: 255
-rarity: 0.0
+rarity: 1.0
 nature: Hardy
 ivs: 31
 evs: {hp: 212, atk: 212, def: 212, spA: 228, spD: 228, spe: 220}

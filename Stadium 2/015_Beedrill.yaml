@@ -7,7 +7,7 @@ moves:
     - Pursuit
     - Focus Energy
 gender: [m]
-rarity: 0.0
+rarity: 1.0
 nature: Hardy
 ivs: 31
 evs: {hp: 132, atk: 140, def: 132, spA: 132, spD: 132, spe: 132}

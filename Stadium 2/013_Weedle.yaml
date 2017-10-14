@@ -5,7 +5,7 @@ moves:
     - Poison Sting
     - String Shot
 gender: [m]
-rarity: 0.0
+rarity: 1.0
 nature: Docile
 biddable: False
 hidden: True

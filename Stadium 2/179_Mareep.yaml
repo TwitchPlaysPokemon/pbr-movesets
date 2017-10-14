@@ -7,7 +7,7 @@ moves:
     - Thunder Wave
 gender: [m, f]
 happiness: 255
-rarity: 0.0
+rarity: 1.0
 nature: Bashful
 ivs: 31
 evs: {hp: 188, atk: 188, def: 196, spA: 188, spD: 188, spe: 188}

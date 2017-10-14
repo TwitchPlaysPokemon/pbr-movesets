@@ -9,7 +9,7 @@ moves:
     - Safeguard
 gender: [m, f]
 happiness: 255
-rarity: 0.0
+rarity: 1.0
 nature: Adamant
 ivs: 31 (See stadiumspread.txt in folder)
 evs: {hp: 8, atk: 252, def: 120, spA: 0, spD: 120, spe: 8} (See stadiumspread.txt in folder)
@@ -23,7 +23,7 @@ moves:
     - 
 gender: [m, f]
 happiness: 255
-rarity: 0.0
+rarity: 1.0
 nature: 
 ivs: 31
 evs: {hp: , atk: , def: , spA: , spD: , spe: }
