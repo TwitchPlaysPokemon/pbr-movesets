@@ -124,7 +124,6 @@ moves:
     - [Seismic Toss]
 ivs: {hp: 20, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0
@@ -134,7 +133,7 @@ nature: Serious
 species: Krabby
 displayname: "Krabby-ST"
 setname: ST
-ability: []
+ability: [Hyper Cutter]
 item: Leftovers
 moves:
     - [Seismic Toss]
@@ -238,7 +237,7 @@ moves:
 ivs: 30
 evs: 0
 happiness: 255
-biddable: True
+biddable: False
 hidden: True
 rarity: 0
 ball: [Master]
