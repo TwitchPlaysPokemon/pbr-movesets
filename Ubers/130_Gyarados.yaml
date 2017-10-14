@@ -1,0 +1,39 @@
+species: Gyarados
+setname: Offensive
+tags: [ubers]
+item: [Sky Plate, Charti Berry, Wacan Berry]
+ability: [Intimidate]
+moves:
+    - [Waterfall]
+    - [Bounce, Earthquake]
+    - [Stone Edge, Outrage]
+    - [Dragon Dance]
+separations:
+    - [Sky Plate, Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Dive]
+nature: 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Gyarados
+setname: Bulky DD
+tags: [ubers]
+item: [Chesto Berry]
+ability: [Intimidate]
+moves:
+    - [Waterfall]
+    - [Bounce]
+    - [Dragon Dance]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 152, spA: 0, spD: 96, spe: 8}

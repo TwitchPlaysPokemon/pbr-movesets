@@ -1,0 +1,37 @@
+species: Breloom
+setname: Technician
+tags: [ubers]
+item: [Black Belt]
+ability: [Technician]
+moves:
+    - [Seed Bomb]
+    - [Mach Punch]
+    - [Rock Tomb, Swords Dance, Swords Dance]
+    - [Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poké]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 12, atk: 248, def: 0, spA: 0, spD: 0, spe: 248}
+---
+species: Breloom
+setname: SubPunch
+tags: [ubers]
+item: [Toxic Orb]
+ability: [Poison Heal]
+moves:
+    - [Focus Punch]
+    - [Seed Bomb, Stone Edge]
+    - [Substitute]
+    - [Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poké]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 12, atk: 252, def: 0, spA: 0, spD: 0, spe: 244}

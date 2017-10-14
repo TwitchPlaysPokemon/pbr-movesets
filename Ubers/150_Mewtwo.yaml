@@ -1,0 +1,83 @@
+species: Mewtwo
+setname: Breaker
+tags: [ubers]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Psychic, Aura Sphere]
+    - [Ice Beam, Shadow Ball, Flamethrower, Thunderbolt]
+    - [Taunt, Embargo, Substitute, Will-O-Wisp, Torment]
+    - [Calm Mind, Recover, Disable, Psych Up]
+separations:
+    - [Aura Sphere, Recover]
+    - [Substitute, Recover]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Master]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 204, atk: 0, def: 0, spA: 52, spD: 0, spe: 252}
+---
+species: Mewtwo
+setname: Attacker
+tags: [ubers]
+item: [Expert Belt]
+ability: [Pressure]
+moves:
+    - [Psychic]
+    - [Thunderbolt, Ice Beam, Focus Punch, Low Kick]
+    - [Flamethrower, Grass Knot, Shadow Claw]
+    - [Selfdestruct, Me First, Psych Up, Snatch]
+separations:
+    - [Ice Beam, Grass Knot]
+    - [Focus Punch, Shadow Claw]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Master]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 24, atk: 80, def: 0, spA: 152, spD: 0, spe: 252}
+---
+species: Mewtwo
+setname: TrickRoom
+tags: [ubers]
+item: [Iron Ball]
+ability: [Pressure]
+moves:
+    - [Thunder, Blizzard, Fire Blast, Grass Knot, Focus Blast]
+    - [Energy Ball, Thunderbolt, Ice Beam, Aura Sphere, Flamethrower]
+    - [Fling, Selfdestruct]
+    - [Trick Room]
+separations:
+    - [Thunder, Thunderbolt]
+    - [Blizzard, Ice Beam]
+    - [Fire Blast, Flamethrower]
+    - [Focus Blast, Aura Sphere]
+    - [Grass Knot, Energy Ball]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Master]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 4, spe: 0}
+---
+species: Mewtwo
+setname: BulkUp
+tags: [ubers]
+item: [Muscle Band, Expert Belt]
+ability: [Pressure]
+moves:
+    - [Zen Headbutt]
+    - [Earthquake, Aqua Tail, Stone Edge, Poison Jab, Low Kick]
+    - [Fire Punch, Ice Punch, Thunder Punch, Drain Punch, Recover]
+    - [Bulk Up]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Master]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

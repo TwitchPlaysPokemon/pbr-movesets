@@ -1,0 +1,56 @@
+species: Heracross
+setname: Scarf
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Guts]
+moves:
+    - [Close Combat]
+    - [Megahorn]
+    - [Night Slash, Facade, Stone Edge]
+    - [Sleep Talk]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Safari]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 20, atk: 252, def: 0, spA: 0, spD: 0, spe: 236}
+---
+species: Heracross
+setname: SubSalac
+tags: [ubers]
+item: [Salac Berry]
+ability: [Swarm]
+moves:
+    - [Megahorn]
+    - [Reversal, Focus Punch]
+    - [Stone Edge, Earthquake]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Safari]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 24, spe: 232}
+---
+species: Heracross
+setname: Guts
+tags: [ubers]
+item: [Toxic Orb]
+ability: [Guts]
+moves:
+    - [Close Combat]
+    - [Megahorn]
+    - [Facade]
+    - [Swords Dance, Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Safari]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}

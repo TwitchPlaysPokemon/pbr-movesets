@@ -1,0 +1,77 @@
+species: Kingdra
+setname: Mixed
+tags: [ubers]
+item: [Life Orb, Haban Berry]
+ability: [Swift Swim]
+moves:
+    - [Draco Meteor]
+    - [Outrage, Hydro Pump]
+    - [Waterfall]
+    - [Dragon Dance, Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 80, spD: 0, spe: 176}
+---
+species: Kingdra
+setname: Specs
+tags: [ubers]
+item: [Choice Specs]
+ability: [Swift Swim]
+moves:
+    - [Draco Meteor]
+    - [Hydro Pump]
+    - [Surf, Dragon Pulse]
+    - [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Kingdra
+setname: DragonDance
+tags: [ubers]
+item: [Chesto Berry, Sitrus Berry]
+ability: [Swift Swim]
+moves:
+    - [Outrage]
+    - [Waterfall]
+    - [Dragon Dance]
+    - [Rest, Yawn]
+combinations:
+    - [Chesto Berry, Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 216, atk: 108, def: 44, spA: 0, spD: 0, spe: 140}
+---
+species: Kingdra
+setname: RainDance
+tags: [ubers]
+item: [Splash Plate]
+ability: [Swift Swim]
+moves:
+    - [Hydro Pump]
+    - [Dragon Pulse]
+    - [Surf, Ice Beam]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

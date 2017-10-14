@@ -1,0 +1,37 @@
+species: Azumarill
+setname: BellyDrum
+tags: [ubers]
+item: [Sitrus Berry]
+ability: [Huge Power]
+moves:
+    - [Waterfall]
+    - [Ice Punch, Superpower, Body Slam]
+    - [Aqua Jet]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.65
+ball: [Great]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+---
+species: Azumarill
+setname: Band
+tags: [ubers]
+item: [Choice Band]
+ability: [Huge Power]
+moves:
+    - [Aqua Tail]
+    - [Superpower, Ice Punch]
+    - [Return]
+    - [Aqua Jet]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Great]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}

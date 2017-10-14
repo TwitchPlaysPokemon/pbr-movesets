@@ -1,0 +1,45 @@
+species: Snorlax
+setname: Curse
+tags: [ubers]
+item: [Sitrus Berry, Leftovers]
+ability: [Thick Fat]
+moves:
+    - [Body Slam]
+    - [Crunch, Earthquake, Brick Break]
+    - [Recycle, Protect]
+    - [Curse]
+combinations:
+    - [Recycle, Sitrus Berry]
+    - [Protect, Leftovers]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Ultra]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 188, atk: 0, def: 104, spA: 0, spD: 216, spe: 0}
+---
+species: Snorlax
+setname: Tank
+tags: [ubers]
+item: [Expert Belt, Ganlon Berry]
+ability: [Immunity, Thick Fat, Gluttony]
+moves:
+    - [Body Slam, Return]
+    - [Crunch, Earthquake, Fire Punch, Ice Punch]
+    - [Earthquake, Pursuit]
+    - [Selfdestruct]
+combinations:
+    - [Ganlon Berry, Gluttony]
+separations:
+    - [Earthquake, Earthquake]
+    - [Crunch, Pursuit]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 252, spe: 0}

@@ -1,0 +1,59 @@
+species: Lugia
+setname: Wall
+tags: [ubers]
+item: [Jacoba Berry, Leftovers]
+ability: [Pressure]
+moves:
+    - [Ice Beam, Ice Beam, Aeroblast (=8)]
+    - [Earth Power, Thunderbolt]
+    - [Toxic, Skill Swap, Tailwind, Psych Up, Safeguard]
+    - [Recover, Feather Dance]
+separations:
+    - [Leftovers, Feather Dance]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 64, spA: 0, spD: 0, spe: 192}
+---
+species: Lugia
+setname: CalmMind
+tags: [ubers]
+item: [Sharp Beak]
+ability: [Pressure]
+moves:
+    - [Aeroblast]
+    - [Earth Power, Hydro Pump, Thunderbolt, Extrasensory, Ice Beam]
+    - [Calm Mind]
+    - [Safeguard, Safeguard, Recover]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 0, spA: 116, spD: 0, spe: 192}
+---
+species: Lugia
+setname: Specs
+tags: [ubers]
+item: [Choice Specs]
+ability: [Pressure]
+moves:
+    - [Psycho Boost, Aeroblast]
+    - [Ice Beam, Thunderbolt, Hydro Pump, Dragon Pulse]
+    - [Roost, Surf, Thunderbolt]
+    - [Trick]
+separations:
+    - [Psycho Boost, Roost]
+    - [Hydro Pump, Surf]
+	- [Thunderbolt, Thunderbolt]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 0, spA: 104, spD: 0, spe: 204}

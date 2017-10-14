@@ -1,0 +1,91 @@
+species: Celebi
+setname: Defensive
+tags: [ubers]
+item: [Enigma Berry]
+ability: [Natural Cure]
+moves:
+    - [Grass Knot]
+    - [Psychic, U-Turn, Earth Power]
+    - [Thunder Wave, Leech Seed, Heal Bell]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Nest]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 156, spe: 100}
+---
+species: Celebi
+setname: BatonPass
+tags: [ubers]
+item: [Yache Berry, Apicot Berry]
+ability: [Natural Cure]
+moves:
+    - [Grass Knot, Psychic]
+    - [Earth Power, Signal Beam]
+    - [Calm Mind, Nasty Plot]
+    - [Baton Pass]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Nest]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 76, spA: 0, spD: 176, spe: 4}
+---
+species: Celebi
+setname: SwordsDance
+tags: [ubers]
+item: [Occa Berry, Yache Berry]
+ability: [Natural Cure]
+moves:
+    - [Seed Bomb]
+    - [Zen Headbutt]
+    - [Baton Pass, Sucker Punch]
+    - [Swords Dance]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Nest]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 68, atk: 252, def: 0, spA: 0, spD: 0, spe: 188}
+---
+species: Celebi
+setname: Scarf
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Natural Cure]
+moves:
+    - [Leaf Storm]
+    - [Psychic]
+    - [Earth Power, U-Turn, Hidden Power]
+    - [Trick, Healing Wish, U-Turn]
+separations:
+    - [U-Turn, U-Turn]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Nest]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Celebi
+setname: Tinkerbell
+tags: [ubers]
+item: [Life Orb]
+ability: [Natural Cure]
+moves:
+    - [Leaf Storm]
+    - [Psychic, Hidden Power]
+    - [Thunder Wave]
+    - [Recover, Rest]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 232, atk: 0, def: 0, spA: 240, spD: 0, spe: 36}

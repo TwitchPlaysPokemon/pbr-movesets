@@ -1,0 +1,55 @@
+species: Metagross
+setname: Band
+tags: [ubers]
+item: [Choice Band]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash, Zen Headbutt]
+    - [Earthquake, Hammer Arm, Bullet Punch]
+    - [Bullet Punch, Ice Punch, Thunder Punch]
+    - [Trick, Explosion, Rollout, Pursuit]
+separations:
+    - [Bullet Punch, Bullet Punch]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 0, spe: 8}
+---
+species: Metagross
+setname: Tank
+tags: [ubers]
+item: [Shuca Berry, Occa Berry]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash]
+    - [Earthquake, Zen Headbutt]
+    - [Bullet Punch]
+    - [Stealth Rock]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 160, def: 0, spA: 0, spD: 96, spe: 0}
+---
+species: Metagross
+setname: AgilityGross
+tags: [ubers]
+item: [Metronome]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash]
+    - [Earthquake]
+    - [Thunder Punch, Ice Punch, Zen Headbutt, Explosion]
+    - [Agility]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Nest]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 252, def: 0, spA: 0, spD: 0, spe: 196}

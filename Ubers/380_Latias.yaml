@@ -1,0 +1,56 @@
+species: Latias
+setname: Tank
+tags: [ubers]
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+    - [Dragon Pulse, Dragon Pulse, Psychic]
+    - [Hidden Power, Surf, Thunderbolt]
+    - [Toxic]
+    - [Roost, Refresh, Recover]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Heal]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 248, atk: 0, def: 64, spA: 0, spD: 0, spe: 196}
+---
+species: Latias
+setname: Calm Mind
+tags: [ubers]
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Wish, Refresh]
+    - [Calm Mind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Heal]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 112, atk: 0, def: 0, spA: 204, spD: 0, spe: 192}
+---
+species: Latias
+setname: Screens
+tags: [ubers]
+item: [Light Clay]
+ability: [Levitate]
+moves:
+    - [Dragon Pulse (=16)]
+    - [Reflect]
+    - [Light Screen]
+    - [Healing Wish]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Heal]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}

@@ -1,0 +1,63 @@
+species: Zapdos
+setname: Defensive
+tags: [ubers]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Discharge, Thunderbolt]
+    - [Toxic, Hidden Power]
+    - [Substitute]
+    - [Roost]
+separations:
+    - [Toxic, Discharge]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Bold
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 0, def: 228, spA: 0, spD: 0, spe: 32}
+---
+species: Zapdos
+setname: BatonPass
+tags: [ubers]
+item: [Petaya]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Heat Wave, Hidden Power]
+    - [Agility]
+    - [Baton Pass]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 160, spD: 0, spe: 96}
+---
+species: Zapdos
+setname: Offensive
+tags: [ubers]
+item: [Yache Berry, Icicle Plate, Sky Plate, Wide Lens]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Heat Wave, Hidden Power]
+    - [Hidden Power, Air Cutter, Signal Beam]
+    - [U-Turn, Tailwind, Metal Sound, Charge Beam]
+combinations:
+    - [Wide Lens, Heat Wave]
+    - [Wide Lens, Metal Sound]
+    - [Wide Lens, Charge Beam]
+separations:
+    - [Icicle Plate, Air Cutter]
+    - [Sky Plate, Hidden Power]
+    - [Hidden Power, Hidden Power]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}

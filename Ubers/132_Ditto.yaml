@@ -1,0 +1,17 @@
+species: Ditto
+setname: Imposter
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Wonder Guard]
+moves:
+    - [Transform]
+    - []
+    - []
+    - []
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}

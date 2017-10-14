@@ -1,0 +1,37 @@
+species: Blissey
+setname: Wall
+tags: [ubers]
+item: [Leftovers]
+ability: [Natural Cure]
+moves:
+    - [Seismic Toss]
+    - [Fire Blast]
+    - [Toxic, Thunder Wave, Snatch]
+    - [Wish, Wish, Heal Bell]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Safari]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 0}
+---
+species: Blissey
+setname: CalmMind
+tags: [ubers]
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Ice Beam, Psychic, Shadow Ball]
+    - [Fire Blast, Thunder]
+    - [Calm Mind]
+    - [Softboiled]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Safari]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 0}

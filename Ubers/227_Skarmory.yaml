@@ -1,0 +1,37 @@
+species: Skarmory
+setname: MixedWall
+tags: [ubers]
+item: [Leftovers]
+ability: [Sturdy]
+moves:
+    - [Brave Bird, Drill Peck]
+    - [Roost]
+    - [Stealth Rock, Spikes, Toxic, Counter]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Quick]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 240, spe: 16}
+---
+species: Skarmory
+setname: PhysicalWall
+tags: [ubers]
+item: [Leftovers]
+ability: [Sturdy]
+moves:
+    - [Brave Bird, Drill Peck]
+    - [Roost]
+    - [Stealth Rock, Spikes, Toxic, Counter]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Quick]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 172, spA: 0, spD: 0, spe: 84}

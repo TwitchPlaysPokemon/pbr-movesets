@@ -1,0 +1,39 @@
+species: Blaziken
+setname: BatonPass
+tags: [ubers]
+item: [Focus Sash, Life Orb]
+ability: [Speed Boost]
+moves:
+    - [Low Kick, Flare Blitz]
+    - [Protect]
+    - [Swords Dance]
+    - [Baton Pass]
+combinations:
+    - [Flare Blitz, Life Orb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poké]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Blaziken
+setname: Attacker
+tags: [ubers]
+item: [Life Orb]
+ability: [Speed Boost]
+moves:
+    - [Flare Blitz]
+    - [Low Kick]
+    - [Swords Dance, Stone Edge, Hidden Power]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poké]
+nature: Naughty
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}

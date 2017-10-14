@@ -1,0 +1,77 @@
+species: Salamence
+setname: MixMence
+tags: [ubers]
+item: [Life Orb]
+ability: [Intimidate]
+moves:
+    - [Draco Meteor]
+    - [Outrage]
+    - [Earthquake, Brick Break]
+    - [Dragon Dance, Fire Blast, Flamethrower]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Great]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+---
+species: Salamence
+setname: DragonDance
+tags: [ubers]
+item: [Yache Berry, Focus Sash]
+ability: [Intimidate]
+moves:
+    - [Outrage]
+    - [Earthquake]
+    - [Aqua Tail, Fire Fang, Fly]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Salamence
+setname: Specs
+tags: [ubers]
+item: [Choice Specs]
+ability: [Intimidate]
+moves:
+    - [Draco Meteor]
+    - [Dragon Pulse, Hidden Power]
+    - [Fire Blast, Flamethrower]
+    - [Hydro Pump]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Great]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Salamence
+setname: Defensive
+tags: [ubers]
+item: [Leftovers]
+ability: [Intimidate]
+moves:
+    - [Dragon Pulse]
+    - [Flamethrower, Hydro Pump]
+    - [Toxic, Wish]
+    - [Roost, Protect]
+separations:
+    - [Wish, Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Great]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 0, def: 220, spA: 0, spD: 8, spe: 32}

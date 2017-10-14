@@ -1,0 +1,41 @@
+species: Gengar
+setname: Substitute
+tags: [ubers]
+item: [Leftovers]
+ability: [Levitate]
+moves:
+    - [Shadow Ball]
+    - [Sludge Bomb, Will-O-Wisp]
+    - [Taunt, Pain Split, Disable]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Gengar
+setname: Attacker
+tags: [ubers]
+item: [Choice Specs, Choice Scarf, Life Orb]
+ability: [Levitate]
+moves:
+    - [Shadow Ball]
+    - [Sludge Bomb, Thunderbolt]
+    - [Focus Blast, Icy Wind, Energy Ball]
+    - [Trick, Destiny Bond, Explosion]
+separations:
+    - [Icy Wind, Choice Scarf]
+    - [Trick, Life Orb]
+    - [Explosion, Choice Specs]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

@@ -1,0 +1,79 @@
+species: Ho-Oh
+setname: Tank
+tags: [ubers]
+item: [Shuca Berry, Leftovers]
+ability: [Pressure]
+moves:
+    - [Sacred Fire]
+    - [Fly, Fly, Brave Bird]
+    - [Substitute, Safeguard, Whirlwind]
+    - [Roost, Light Screen]
+combinations:
+    - [Shuca Berry, Roost]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Luxury]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 56, atk: 128, def: 156, spA: 0, spD: 0, spe: 168}
+---
+species: Ho-Oh
+setname: Attacker
+tags: [ubers]
+item: [Muscle Band]
+ability: [Pressure]
+moves:
+    - [Sacred Fire]
+    - [Brave Bird, Brave Bird, Zen Headbutt]
+    - [Earthquake, Iron Head]
+    - [Tailwind, Tailwind, Sleep Talk]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 252, def: 0, spA: 0, spD: 0, spe: 216}
+---
+species: Ho-Oh
+setname: Mixed
+tags: [ubers]
+item: [Life Orb, Power Herb, Meadow Plate, White Herb]
+ability: [Pressure]
+moves:
+    - [Overheat, Fire Blast]
+    - [Sky Attack, Brave Bird]
+    - [Solar Beam, Earthquake, Giga Drain]
+    - [Sunny Day, Thunder]
+combinations:
+    - [Power Herb, Sky Attack]
+	- [Meadow Plate, Giga Drain]
+separations:
+    - [Solar Beam, Thunder, Life Orb]
+    - [White Herb, Fire Blast]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Luxury]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 24, atk: 76, def: 0, spA: 252, spD: 0, spe: 156}
+---
+species: Ho-Oh
+setname: Scarf
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Pressure]
+moves:
+    - [Brave Bird]
+    - [Sacred Fire]
+    - [Earthquake, Punishment, Iron Head]
+    - [U-Turn]
+happiness: 255
+biddable: True
+rarity: 0.15
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 52, spA: 0, spD: 0, spe: 204}

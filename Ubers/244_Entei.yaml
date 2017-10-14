@@ -1,0 +1,53 @@
+species: Entei
+setname: Physical
+tags: [ubers]
+item: [Charcoal]
+ability: [Pressure]
+moves:
+    - [Flare Blitz]
+    - [Extremespeed]
+    - [Stone Edge, Iron Head]
+    - [Sleep Talk]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Entei
+setname: Specs
+tags: [ubers]
+item: [Choice Specs]
+ability: [Pressure]
+moves:
+    - [Eruption]
+    - [Overheat]
+    - [Shadow Ball]
+    - [Extrasensory, Hidden Power]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Entei
+setname: Howl
+tags: [ubers]
+item: [Life Orb]
+ability: [Pressure, Flash Fire]
+moves:
+    - [Sacred Fire]
+    - [Frustration]
+    - [Stone Edge, Iron Head]
+    - [Howl]
+happiness: 0
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}

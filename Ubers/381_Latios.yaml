@@ -1,0 +1,75 @@
+species: Latios
+setname: Attacker
+tags: [ubers]
+item: [Life Orb]
+ability: [Levitate]
+moves:
+    - [Draco Meteor]
+    - [Surf, Psychic, Surf]
+    - [Grass Knot, Thunder]
+    - [Calm Mind, Roost, Heal Block]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Great]
+nature: Timid
+ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Latios
+setname: Dragon Dance
+tags: [ubers]
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+    - [Dragon Pulse]
+    - [Psychic, Thunder, Grass Knot]
+    - [Earthquake, Waterfall]
+    - [Dragon Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Latios
+setname: Tailwind
+tags: [ubers]
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+    - [Draco Meteor]
+    - [Surf]
+    - [Tailwind]
+    - [Memento]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Great]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 120, spA: 136, spD: 0, spe: 252}
+---
+species: Latios
+setname: Screens
+tags: [ubers]
+item: [Light Clay]
+ability: [Levitate]
+moves:
+    - [Draco Meteor (=8)]
+    - [Reflect]
+    - [Light Screen]
+    - [Memento]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Great]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 4, spD: 0, spe: 252}

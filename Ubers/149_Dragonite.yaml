@@ -1,0 +1,77 @@
+species: Dragonite
+setname: Mixed
+tags: [ubers]
+item: [Life Orb]
+ability: [Filter]
+moves:
+    - [Draco Meteor, Draco Meteor, Outrage]
+    - [Fire Blast, Flamethrower]
+    - [Superpower, Earthquake]
+    - [Roost, Extremespeed, Extremespeed, Dragon Dance]
+separations:
+    - [Dragon Dance, Draco Meteor]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 56, def: 0, spA: 252, spD: 0, spe: 200}
+---
+species: Dragonite
+setname: Bulky DD
+tags: [ubers]
+item: [Leftovers]
+ability: [Filter]
+moves:
+    - [Dragon Claw]
+    - [Fire Punch, Earthquake]
+    - [Dragon Dance]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 184, atk: 108, def: 0, spA: 0, spD: 0, spe: 216}
+---
+species: Dragonite
+setname: Band
+tags: [ubers]
+item: [Choice Band]
+ability: [Filter]
+moves:
+    - [Outrage]
+    - [Dragon Claw, Fire Punch, Aqua Tail]
+    - [Earthquake, Thunder Punch, Earthquake]
+    - [Extremespeed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 224, def: 0, spA: 0, spD: 0, spe: 164}
+---
+species: Dragonite
+setname: Fly
+tags: [ubers]
+item: [Leftovers]
+ability: [Filter]
+moves:
+    - [Fly]
+    - [Dragon Dance]
+    - [Substitute, Thunder Wave]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 116, spA: 0, spD: 0, spe: 140}

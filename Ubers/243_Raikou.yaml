@@ -1,0 +1,40 @@
+species: Raikou
+setname: CalmMind
+tags: [ubers]
+item: [Leftovers, Wise Glasses]
+ability: [Pressure, Volt Absorb]
+moves:
+    - [Thunderbolt]
+    - [Hidden Power, Aura Sphere, Shadow Ball]
+    - [Substitute, Aura Sphere, Shadow Ball]
+    - [Calm Mind]
+separations:
+    - [Shadow Ball, Shadow Ball]
+    - [Aura Sphere, Aura Sphere]
+    - [Shadow Ball, Aura Sphere]
+    - [Wise Glasses, Substitute]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Raikou
+setname: RainDance
+tags: [ubers]
+item: [Expert Belt]
+ability: [Pressure]
+moves:
+    - [Thunder]
+    - [Aura Sphere, Shadow Ball, Signal Beam]
+    - [Weather Ball]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}

@@ -1,0 +1,59 @@
+species: Starmie
+setname: Scarf
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Natural Cure]
+moves:
+    - [Surf, Hydro Pump]
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Starmie
+setname: Offensive
+tags: [ubers]
+item: [Life Orb, Choice Specs]
+ability: [Natural Cure]
+moves:
+    - [Surf, Hydro Pump]
+    - [Thunderbolt, Thunder]
+    - [Ice Beam, Blizzard]
+    - [Rapid Spin, Trick, Gravity]
+combinations:
+    - [Trick, Choice Specs]
+    - [Gravity, Thunder, Blizzard, Hydro Pump, Life Orb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Starmie
+setname: Defensive
+tags: [ubers]
+item: [Leftovers]
+ability: [Natural Cure]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Rapid Spin, Thunder Wave, Protect]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 100, spA: 0, spD: 0, spe: 156}

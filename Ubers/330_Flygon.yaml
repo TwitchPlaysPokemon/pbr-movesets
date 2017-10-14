@@ -1,0 +1,63 @@
+species: Flygon
+setname: Offensive
+tags: [ubers]
+item: [Choice Scarf, Life Orb, Choice Band]
+ability: [Levitate]
+moves:
+    - [Outrage, Dragon Claw]
+    - [Earthquake]
+    - [Stone Edge, Thunder Punch, Fire Punch]
+    - [U-Turn, Dragon Dance, Roost]
+separations:
+    - [Outrage, Roost]
+    - [Life Orb, U-Turn]
+    - [Choice Scarf, Dragon Dance]
+    - [Choice Band, Dragon Dance]
+    - [Choice Scarf, Roost]
+    - [Choice Band, Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Safari]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Flygon
+setname: Defensive
+tags: [ubers]
+item: [Leftovers]
+ability: [Levitate]
+moves:
+    - [Earthquake]
+    - [Fire Blast]
+    - [Toxic]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Safari]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 176, spA: 0, spD: 0, spe: 80}
+---
+species: Flygon
+setname: Mixed
+tags: [ubers]
+item: [Life Orb]
+ability: [Levitate]
+moves:
+    - [Draco Meteor]
+    - [Earthquake]
+    - [Fire Blast]
+    - [Roost, U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Safari]
+nature: Rash
+ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 0, spe: 176}

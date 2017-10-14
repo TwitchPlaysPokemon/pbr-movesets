@@ -1,0 +1,106 @@
+species: Mew
+setname: BatonPass
+tags: [ubers]
+item: [Leftovers, Sitrus Berry]
+ability: [Synchronize]
+moves:
+    - [Psychic, Zen Headbutt]
+    - [Nasty Plot, Swords Dance]
+    - [Rock Polish]
+    - [Baton Pass]
+combinations:
+    - [Psychic, Nasty Plot]
+    - [Zen Headbutt, Swords Dance]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 76, spA: 0, spD: 176, spe: 4}
+---
+species: Mew
+setname: Multitype
+tags: [ubers]
+item: [Life Orb, Expert Belt]
+ability: [Synchronize]
+moves:
+    - [Dragon Pulse, Aura Sphere, Dark Pulse, Earth Power, Energy Ball, Fire Blast, Flash Cannon, Ice Beam, Shadow Ball, Signal Bomb, Sludge Bomb, Surf, Thunderbolt]
+    - [Thunder, Zap Cannon, Overheat, Focus Blast, Blizzard]
+    - [Low Kick, Aqua Tail, Bounce, Dragon Claw, Superpower, Earthquake, Ice Punch, Thunder Punch, Fire Punch, Gunk Shot, Iron Head, Stone Edge, Seed Bomb, Shadow Claw, Sucker Punch, X-Scissor]
+    - [Explosion, U-Turn, Dynamic Punch, Metronome]
+separations:
+    - [Aura Sphere, Focus Blast]
+    - [Aura Sphere, Low Kick]
+    - [Aura Sphere, Superpower]
+    - [Aura Sphere, Dynamic Punch]
+    - [Low Kick, Dynamic Punch]
+    - [Superpower, Dynamic Punch]
+    - [Dark Pulse, Sucker Punch]
+    - [Dragon Pulse, Dragon Claw]
+    - [Earth Power, Earthquake]
+    - [Energy Ball, Seed Bomb]
+    - [Fire Blast, Overheat]
+    - [Fire Blast, Fire Punch]
+    - [Overheat, Fire Punch]
+    - [Flash Cannon, Iron Head]
+    - [Ice Beam, Blizzard]
+    - [Ice Beam, Ice Punch]
+    - [Blizzard, Ice Punch]
+    - [Shadow Ball, Shadow Claw]
+    - [Signal Beam, X-Scissor]
+    - [Signal Beam, U-Turn]
+    - [X-Scissor, U-Turn]
+    - [Sludge Bomb, Gunk Shot]
+    - [Surf, Aqua Tail]
+    - [Thunderbolt, Thunder]
+    - [Thunderbolt, Zap Cannon]
+    - [Thunderbotl, Thunder Punch]
+    - [Zap Cannon, Thunder Punch]
+    - [Focus Blast, Low Kick]
+    - [Focus Blast, Superpower]
+    - [Focus Blast, Dynamic Punch]
+    - [Zap Cannon, Thunder Punch]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Serious
+ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 144, def: 0, spA: 144, spD: 0, spe: 220}
+---
+species: Mew
+setname: Scarf
+tags: [ubers]
+item: [Choice Scarf]
+ability: [Synchronize]
+moves:
+    - [Zen Headbutt]
+    - [Explosion, U-Turn]
+    - [Transform]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Premier]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Mew
+setname: Stallbreaker
+tags: [ubers]
+item: [Leftovers]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Will-O-Wisp, Toxic, Flamethrower, Knock Off]
+    - [Taunt]
+    - [Roost, Softboiled]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 72, spA: 0, spD: 140, spe: 56}
