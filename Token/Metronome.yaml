@@ -127,6 +127,7 @@ moves:
     - [Metronome (=255)]
 happiness: 128
 biddable: False
+hidden: True
 rarity: 0
 ---
 species: Delcatty
@@ -146,6 +147,7 @@ moves:
     - [Metronome (=255)]
 happiness: 128
 biddable: False
+hidden: True
 rarity: 0
 ---
 species: Spinda
@@ -165,6 +167,7 @@ moves:
 gender: [f]
 happiness: 128
 biddable: False
+hidden: True
 rarity: 0
 ---
 species: Raticate
@@ -184,6 +187,7 @@ moves:
 gender: [m]
 happiness: 128
 biddable: False
+hidden: True
 rarity: 0
 ---
 species: Ambipom
@@ -203,6 +207,7 @@ moves:
     - [Metronome (=255)]
 happiness: 128
 biddable: False
+hidden: True
 rarity: 0
 ---
 species: Zangoose
@@ -222,4 +227,5 @@ moves:
 gender: [m]
 happiness: 128
 biddable: False
+hidden: True
 rarity: 0
