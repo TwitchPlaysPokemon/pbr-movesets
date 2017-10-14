@@ -3,7 +3,6 @@ ingamename: Easter
 displayname: Easter
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Lucky Egg
 ability: Pickup
 moves:
@@ -27,7 +26,6 @@ ingamename: AprilFools
 displayname: AprilFools
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Choice Band
 ability: Simple
 moves:
@@ -51,7 +49,6 @@ ingamename: MidSummer
 displayname: MidSummer
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Heat Rock
 ability: Flower Gift
 moves:
@@ -75,7 +72,6 @@ ingamename: MidWinter
 displayname: MidWinter
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Icy Rock
 ability: Snow Cloak
 moves:
@@ -99,7 +95,6 @@ ingamename: AllSaints
 displayname: AllSaints
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Rabuta Berry
 ability: Serene Grace
 moves:
@@ -123,7 +118,6 @@ ingamename: Independen
 displayname: Independen
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Pinap Berry
 ability: Multitype
 moves:
