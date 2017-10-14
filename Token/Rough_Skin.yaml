@@ -1,3 +1,255 @@
+species: Metapod
+displayname: "Metapod-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
+ivs: {hp: 24, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+nature: Serious
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Kakuna
+displayname: "Kakuna-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
+ivs: {hp: 31, atk: 4, def: 0, spA: 0, spD: 0, spe: 31}
+nature: Bold
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Mime Jr.
+displayname: "Mime Jr.-RS"
+level: 10
+setname: Rough Skin
+ability: [Trace]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 196, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 4, def: 20, spA: 0, spD: 0, spe: 11}
+nature: Modest
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Magikarp
+displayname: "Magikarp-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+    - [Fury Attack]
+evs: {hp: 196, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 20, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Sassy
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Kricketot
+displayname: "Kricketot-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
+ivs: {hp: 31, atk: 4, def: 31, spA: 0, spD: 0, spe: 31}
+nature: Calm
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Spoink
+displayname: "Spoink-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 0, atk: 0, def: 36, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 4, def: 31, spA: 0, spD: 0, spe: 11}
+nature: Modest
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Burmy
+displayname: "Burmy-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 36, atk: 0, def: 0, spA: 0, spD: 0, spe: 112}
+ivs: {hp: 31, atk: 0, def: 20, spA: 0, spD: 0, spe: 31}
+nature: Modest
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Chingling
+displayname: "Chingling-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 36}
+ivs: {hp: 0, atk: 0, def: 10, spA: 0, spD: 0, spe: 31}
+nature: Modest
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Surskit
+displayname: "Surski-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 36, atk: 0, def: 60, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 1}
+nature: Modest
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Lotad
+displayname: "Lotad-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 36, atk: 0, def: 76, spA: 0, spD: 0, spe: 160}
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}
+nature: Modest
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Sunkern
+displayname: "Sunkern-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 116, atk: 0, def: 36, spA: 0, spD: 0, spe: 160}
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}
+nature: Bold
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
+species: Caterpie
+displayname: "Caterpie-RS"
+level: 10
+setname: Rough Skin
+ability: [Rough Skin]
+item: [Life Orb]
+moves:
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+    - [Double Slap]
+evs: {hp: 0, atk: 0, def: 36, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}
+nature: Timid
+happiness: 255
+ball: [Luxury]
+biddable: True
+hidden: False
+rarity: 0
+gender: [m, f]
+---
 species: Magnezone
 displayname: "Magnezone-RS"
 setname: Rough Skin
