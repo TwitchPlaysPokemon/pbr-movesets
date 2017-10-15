@@ -19,6 +19,7 @@ ball: [Ultra]
 ---
 species: Beedrill
 setname: a-Swarm
+tags: [advanced]
 ability: [Swarm]
 nature: Jolly
 ivs: {hp: 25, atk: 30, def: 31, spA: 31, spD: 31, spe: 31}
