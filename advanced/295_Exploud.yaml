@@ -22,15 +22,13 @@ evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
 species: Exploud
 setname: a-Physical
 tags: [advanced]
-item: [Cheri Berry, Light Ball]
+item: [Light Ball]
 ability: [Scrappy]
 moves:
-    - [Stomp, Smelling Salts]
+    - [Smelling Salts]
     - [Ice Fang, Fire Fang, Thunder Fang]
-    - [Icy Wind, Fling]
-    - [Screech, Mimic, Howl]
-combinations:
-    - [Light Ball, Smelling Salts, Fling]
+    - [Fling]
+    - [Screech, Howl]
 gender: [m, f]
 happiness: 255
 biddable: True
