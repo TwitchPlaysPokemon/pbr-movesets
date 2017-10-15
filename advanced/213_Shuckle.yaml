@@ -61,6 +61,8 @@ moves:
     - [Acupressure]
     - [Sandstorm, Mimic, Safeguard, Encore]
 gender: [m, f]
+biddable: False
+hidden: True
 rarity: 1.0
 ball: [Nest]
 nature: Brave
