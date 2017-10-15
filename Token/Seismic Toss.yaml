@@ -361,25 +361,6 @@ rarity: 0
 ball: [Cherish]
 nature: Jolly
 ---
-species: Pichu
-displayname: "Pichu-ST"
-setname: ST
-ability: [Lightningrod]
-moves:
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
-ivs: 26
-evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-gender: [m, f]
-happiness: 255
-biddable: False
-hidden: True
-rarity: 0
-ball: [Safari]
-nature: Brave
----
 species: Octillery
 displayname: "Octillery-ST"
 setname: ST
