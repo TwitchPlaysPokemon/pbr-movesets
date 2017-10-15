@@ -10,7 +10,7 @@ moves:
     - [Defend Order]
 happiness: 255
 biddable: True
-rarity: 0.025
+rarity: 
 ball: [Net]
 nature: Brave
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
