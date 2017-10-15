@@ -67,8 +67,6 @@ moves:
     - [Ice Beam, Thunder]
     - [Substitute, Thunder Wave, Safeguard, Block]
     - [Calm Mind, Toxic]
-combinations:
-    - [Block, Calm Mind]
 separations:
     - [Thunder, Thunder Wave]
     - [Thunder Wave, Toxic]
