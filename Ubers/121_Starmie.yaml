@@ -28,7 +28,7 @@ moves:
     - [Rapid Spin, Trick, Gravity]
 combinations:
     - [Trick, Choice Specs]
-    - [Gravity, Thunder, Blizzard, Hydro Pump, Life Orb]
+    - [Gravity, Thunder, Blizzard, Hydro Pump]
 happiness: 255
 biddable: True
 rarity: 0.45
