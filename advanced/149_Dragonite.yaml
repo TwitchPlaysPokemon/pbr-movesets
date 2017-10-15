@@ -1,5 +1,6 @@
 species: Dragonite
 setname: a-Standard
+tags: [advanced]
 ability: [Inner Focus]
 nature: Modest
 ivs: 0
@@ -36,6 +37,7 @@ ball: [Safari]
 ---
 species: Dragonite
 setname: a-Overpowered
+tags: [advanced]
 ability: [Inner Focus]
 nature: Modest
 ivs: 0
