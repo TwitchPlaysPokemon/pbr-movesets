@@ -28,12 +28,10 @@ tags: [advanced]
 item: [Life Orb]
 ability: [Cute Charm]
 moves:
-    - [Fake Out, Hyper Voice]
+    - [Hyper Voice]
     - [Shadow Ball, Thunderbolt]
     - [Grass Knot, Ice Beam]
-    - [Cosmic Power, Calm Mind, Charm, Copycat, Assist]
-combinations:
-    - [Hyper Voice, Calm Mind]
+    - [Copycat, Assist, Calm Mind]
 gender: [m, f]
 happiness: 255
 biddable: True
