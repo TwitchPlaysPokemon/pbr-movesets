@@ -1,15 +1,13 @@
 species: Poliwrath
 setname: a-Standard
 tags: [advanced]
-item: [Leppa Berry, Sitrus Berry]
+item: [Leppa Berry]
 ability: [Damp]
 moves:
     - [Hydro Pump]
     - [Dynamic Punch]
     - [Mind Reader]
-    - [Refresh, Metronome, Belly Drum, Mimic]
-combinations:
-    - [Sitrus Berry, Belly Drum]
+    - [Refresh, Metronome, Mimic]
 gender: [m, f]
 happiness: 255
 biddable: True
