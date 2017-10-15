@@ -1,5 +1,6 @@
 species: Umbreon
 setname: a-Standard
+tags: [advanced]
 ability: [Synchronize, Inner Focus]
 moves:
     - [Assurance, Bite, Feint Attack, Sucker Punch, Dark Pulse, Payback]

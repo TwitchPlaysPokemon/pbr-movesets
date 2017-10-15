@@ -1,5 +1,6 @@
 species: Espeon
-setname: Standard
+setname: a-Standard
+tags: [advanced]
 ability: [Synchronize]
 moves:
     - [Psybeam, Psycho Cut]
