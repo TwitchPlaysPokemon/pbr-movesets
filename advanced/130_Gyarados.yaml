@@ -42,6 +42,7 @@ evs: {hp: 0, atk: 136, def: 0, spA: 60, spD: 0, spe: 0}
 ---
 species: Gyarados
 setname: a-Overpowered
+tags: [advanced]
 ability: [Intimidate]
 moves:
     - [Waterfall, Aqua Tail]
