@@ -48,12 +48,12 @@ moves:
     - [U-Turn, Tailwind, Metal Sound, Charge Beam]
 combinations:
     - [Wide Lens, Heat Wave]
-    - [Wide Lens, Metal Sound]
-    - [Wide Lens, Charge Beam]
 separations:
     - [Icicle Plate, Air Cutter]
     - [Sky Plate, Hidden Power]
     - [Hidden Power, Hidden Power]
+    - [Wide Lens, U-Turn]
+    - [Wide Lens, Tailwind]
 happiness: 255
 biddable: True
 rarity: 0.3
