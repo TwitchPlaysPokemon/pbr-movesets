@@ -42,7 +42,7 @@ tags: [advanced]
 item: [Sky Plate]
 ability: [Levitate]
 moves:
-    - [Twister, Energy Ball, Icy Wind]
+    - [Energy Ball]
     - [Aerial Ace]
     - [Last Resort]
     - [Dragon Dance]
@@ -52,5 +52,5 @@ biddable: True
 rarity: 0.8
 ball: [Premier]
 nature: Modest
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
-evs: {hp: 0, atk: 100, def: 0, spA: 100, spD: 0, spe: 100}
+ivs: {hp: 0, atk: 0, def: 1, spA: 13, spD: 31, spe: 0}
+evs: {hp: 0, atk: 172, def: 0, spA: 0, spD: 36, spe: 0}
