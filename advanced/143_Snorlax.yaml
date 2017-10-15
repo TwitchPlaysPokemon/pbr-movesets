@@ -1,5 +1,6 @@
 species: Snorlax
 setname: a-Physical
+tags: [advanced]
 ability: [Immunity]
 moves:
     - [Mega Punch, Strength, Rock Climb]
@@ -36,6 +37,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 252, spe: 4}
 ---
 species: Snorlax
 setname: a-Special
+tags: [advanced]
 ability: [Immunity]
 moves:
     - [Hyper Beam, Hyper Voice]
