@@ -2,6 +2,7 @@ species: Slaking
 ingamename: Slaking
 displayname: Slaking
 setname: TEEX
+tags: [runmon]
 item: [Null]
 ability: [Truant]
 moves:

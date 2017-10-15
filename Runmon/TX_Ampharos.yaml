@@ -2,6 +2,7 @@ species: Ampharos
 ingamename: Ampharos
 displayname: Ampharos
 setname: TEEX
+tags: [runmon]
 item: [Fluffy Tail]
 ability: [Static]
 moves:
