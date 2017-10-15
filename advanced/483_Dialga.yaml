@@ -19,21 +19,18 @@ evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 8}
 species: Dialga
 setname: a-Physical
 tags: [advanced]
-item: [Choice Specs]
+item: [Lagging Tail]
 ability: [Pressure]
 moves:
     - [Iron Head]
     - [Dragon Claw]
     - [Earthquake, Brick Break]
-    - [Aerial Ace, Giga Impact, Rock Tomb, Rock Slide]
-separations:
-    - [Earthquake, Rock Tomb]
-    - [Earthquake, Rock Slide]
+    - [Aerial Ace, Giga Impact, Rock Slide]
 happiness: 255
 biddable: True
 rarity: 0.3
 ball: [Timer]
-nature: Sassy
+nature: Timid
 ivs: 0
 evs: 0
 ---
