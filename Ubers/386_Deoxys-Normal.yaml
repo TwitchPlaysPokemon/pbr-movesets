@@ -1,5 +1,5 @@
 species: Deoxys
-setname: Band
+setname: U-Band
 tags: [ubers]
 item: [Choice Band]
 ability: [Pressure]
@@ -21,7 +21,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Deoxys
-setname: Specs
+setname: U-Specs
 tags: [ubers]
 item: [Choice Specs]
 ability: [Pressure]

@@ -1,5 +1,5 @@
 species: Jirachi
-setname: Wish
+setname: U-Wish
 tags: [ubers]
 item: [Leftovers]
 ability: [Serene Grace]
@@ -17,7 +17,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 88, spA: 0, spD: 128, spe: 40}
 ---
 species: Jirachi
-setname: CalmMind
+setname: U-CalmMind
 tags: [ubers]
 item: [Leftovers]
 ability: [Serene Grace]
@@ -35,7 +35,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
 ---
 species: Jirachi
-setname: Scarf
+setname: U-Scarf
 tags: [ubers]
 item: [Choice Scarf]
 ability: [Serene Grace]
@@ -53,7 +53,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Jirachi
-setname: Physical
+setname: U-Physical
 tags: [ubers]
 item: [Metronome]
 ability: [Serene Grace]
@@ -78,7 +78,7 @@ species: Jirachi
 setname: Mixed
 tags: [ubers]
 item: [Expert Belt]
-ability: [Serene Grace]
+ability: U-[Serene Grace]
 moves:
     - [Iron Head]
     - [Thunderbolt, Grass Knot, Grass Knot, Thunder]

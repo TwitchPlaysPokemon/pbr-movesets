@@ -1,5 +1,5 @@
 species: Deoxys
-setname: Wall
+setname: U-Wall Defense
 tags: [ubers]
 item: [Leftovers]
 ability: [Pressure]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 32, spA: 0, spD: 176, spe: 48}
 ---
 species: Deoxys
-setname: NastyPlot
+setname: U-NastyPlot Defense
 tags: [ubers]
 item: [Leftovers]
 ability: [Pressure]
