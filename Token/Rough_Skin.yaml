@@ -26,10 +26,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
 ivs: {hp: 31, atk: 4, def: 0, spA: 0, spD: 0, spe: 31}
 nature: Bold
@@ -44,7 +44,7 @@ species: Mime Jr.
 displayname: "Mime Jr.-RS"
 level: 10
 setname: Rough Skin
-ability: [Trace]
+ability: [Rough Skin]
 item: [Life Orb]
 moves:
     - [Double Slap]
@@ -89,10 +89,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
 evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
 ivs: {hp: 31, atk: 4, def: 31, spA: 0, spD: 0, spe: 31}
 nature: Calm
@@ -131,10 +131,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
 evs: {hp: 36, atk: 0, def: 0, spA: 0, spD: 0, spe: 112}
 ivs: {hp: 31, atk: 0, def: 20, spA: 0, spD: 0, spe: 31}
 nature: Modest
@@ -173,10 +173,10 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
+    - [Comet Punch]
 evs: {hp: 36, atk: 0, def: 60, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 1}
 nature: Modest
