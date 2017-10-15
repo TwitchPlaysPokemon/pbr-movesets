@@ -22,6 +22,7 @@ evs: {hp: 240, atk: 0, def: 108, spA: 0, spD: 108, spe: 52}
 ---
 species: Murkrow
 setname: a-Physical
+tags: [advanced]
 ability: [Super Luck, Insomnia]
 moves:
     - [Drill Peck, Fly]
