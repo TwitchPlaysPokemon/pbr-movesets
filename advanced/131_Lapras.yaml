@@ -1,5 +1,6 @@
 species: Lapras
 setname: a-Mixed
+tags: [advanced]
 ability: [Water Absorb, Shell Armor]
 nature: Lax
 ivs: 9
@@ -21,6 +22,7 @@ ball: [Dive]
 ---
 species: Lapras
 setname: a-Physical
+tags: [advanced]
 ability: [Water Absorb, Shell Armor]
 nature: Serious
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
