@@ -1,0 +1,19 @@
+species: Kingdra
+setname: Shiny
+tags: [advanced,standard]
+item: [Scope Lens]
+ability: [Sniper]
+moves:
+    - [Spacial Rend]
+    - [Crabhammer]
+    - [Aeroblast]
+    - [Focus Energy]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Cherish]
+nature: Careful
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 10, spe: 0}
+evs: {hp: 40, atk: 0, def: 40, spA: 0, spD: 36, spe: 0}
