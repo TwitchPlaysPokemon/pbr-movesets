@@ -57,14 +57,14 @@ moves:
     - [Blizzard]
     - [Thief]
     - [Fling]
-    - [Assist, Mimic]
+    - [Assist]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.4
 ball: [Ultra]
 nature: Brave
-ivs: 31
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
 evs: {hp: 168, atk: 108, def: 0, spA: 164, spD: 0, spe: 68}
 ---
 species: Weavile
