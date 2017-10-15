@@ -1,5 +1,6 @@
 species: Girafarig
 setname: a-Physical
+tags: [advanced]
 ability: [Inner Focus]
 moves:
     - [Body Slam, Double-Edge, Return]

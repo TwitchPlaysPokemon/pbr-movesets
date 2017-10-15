@@ -1,5 +1,6 @@
 species: Ursaring
 setname: a-Physical
+tags: [advanced]
 ability: [Guts, Quick Feet]
 moves:
     - [Facade, Mega Punch, Slash, Thrash]

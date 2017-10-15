@@ -1,5 +1,6 @@
 species: Shuckle
 setname: a-Physical
+tags: [advanced]
 ability: [Sturdy]
 moves:
     - [Stone Edge]
