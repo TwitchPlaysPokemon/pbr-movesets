@@ -3,7 +3,7 @@ setname: Input War
 displayname: "Persian-I"
 ball: [Master]
 item: null
-ability: null
+ability: No Guard
 nature: Brave
 gender: [m]
 ivs: {hp: 20, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
@@ -11,8 +11,8 @@ evs: {hp: 0, atk: 176, def: 52, spA: 0, spD: 0, spe: 0}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=5)]
-    - [Splash (=5)]
+    - [Swords Dance (=8)]
+    - [Swords Dance (=8)]
 happiness: 128
 biddable: True
 hidden: False
@@ -23,7 +23,7 @@ setname: Input War
 displayname: "Delcatty-I"
 ball: [Master]
 item: null
-ability: null
+ability: No Guard
 nature: Brave
 gender: [f]
 ivs: {hp: 10, atk: 31, def: 2, spA: 0, spD: 0, spe: 31}
@@ -31,8 +31,8 @@ evs: {hp: 0, atk: 212, def: 0, spA: 0, spD: 0, spe: 76}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=5)]
-    - [Splash (=5)]
+    - [Swords Dance (=8)]
+    - [Swords Dance (=8)]
 happiness: 128
 biddable: True
 hidden: False
@@ -43,15 +43,15 @@ setname: Input War
 displayname: "Spinda-I"
 ball: [Master]
 item: null
-ability: null
+ability: No Guard
 nature: Naughty
 ivs: {hp: 30, atk: 31, def: 12, spA: 31, spD: 29, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 220}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=5)]
-    - [Splash (=5)]
+    - [Swords Dance (=8)]
+    - [Swords Dance (=8)]
 gender: [f]
 happiness: 128
 biddable: True
@@ -63,15 +63,15 @@ setname: Input War
 displayname: "Raticate-I"
 ball: [Master]
 item: null
-ability: null
+ability: No Guard
 nature: Rash
 ivs: {hp: 31, atk: 31, def: 1, spA: 0, spD: 0, spe: 0}
 evs: {hp: 36, atk: 168, def: 44, spA: 0, spD: 0, spe: 48}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=5)]
-    - [Splash (=5)]
+    - [Swords Dance (=8)]
+    - [Swords Dance (=8)]
 gender: [m]
 happiness: 128
 biddable: True
@@ -83,7 +83,7 @@ setname: Input War
 displayname: "Ambipom-I"
 ball: [Master]
 item: null
-ability: null
+ability: No Guard
 gender: [f]
 nature: Quiet
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
@@ -91,8 +91,8 @@ evs: {hp: 0, atk: 16, def: 0, spA: 0, spD: 0, spe: 0}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=5)]
-    - [Splash (=5)]
+    - [Swords Dance (=8)]
+    - [Swords Dance (=8)]
 happiness: 128
 biddable: True
 hidden: False
@@ -103,15 +103,15 @@ setname: Input
 displayname: "Zangoose-I"
 ball: [Master]
 item: null
-ability: null
+ability: No Guard
 nature: Modest
 ivs: {hp: 4, atk: 31, def: 12, spA: 0, spD: 12, spe: 26}
 evs: {hp: 0, atk: 4, def: 0, spA: 0, spD: 0, spe: 0}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=5)]
-    - [Splash (=5)]
+    - [Swords Dance (=8)]
+    - [Swords Dance (=8)]
 gender: [m]
 happiness: 128
 biddable: True
