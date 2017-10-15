@@ -6,34 +6,27 @@ ability: [Super Luck]
 moves:
     - [Night Slash]
     - [Superpower, Psycho Cut]
-    - [Will-O-Wisp, Thunder Wave, Perish Song]
-    - [Leer, Hail, Sandstorm, Flash, Mean Look]
-combinations:
-    - [Perish Song, Mean Look]
+    - [Flamethrower, Ice Beam, Thunderbolt]
+    - [Leer, Will-o-wisp, Perish Song]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Premier]
 nature: Calm
-ivs: 12
-evs: {hp: 92, atk: 28, def: 92, spA: 0, spD: 164, spe: 132}
+ivs: {hp: 31, atk: 19, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 16, atk: 0, def: 0, spA: 76, spD: 88, spe: 60}
 ---
 species: Absol
 setname: a-Pressure
 tags: [advanced]
-item: [Dread Plate, Black Flute, null]
+item: [Dread Plate]
 ability: [Pressure]
 moves:
-    - [Feint Attack, Payback, Bite, Punishment, Assurance, Sucker Punch]
-    - [Megahorn, Stone Edge, Iron Tail]
-    - [Zen Headbutt, Bounce, Body Slam]
-    - [Detect, Thief, Attract, Magic Coat, Swagger]
-combinations:
-    - [Black Flute, Sucker Punch]
-    - [null, Payback, Thief]
-    - [Zen Headbutt, Attract]
-    - [Assurance, Swagger]
+    - [Punishment]
+    - [X-scissor, Zen Headbutt, Bounce]
+    - [Wish]
+    - [Detect]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -46,15 +39,13 @@ evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 species: Absol
 setname: a-Special
 tags: [advanced]
-item: [Dragon Fang]
-ability: [Super Luck, Pressure]
+item: [Expert Belt]
+ability: [Super Luck]
 moves:
     - [Dark Pulse]
     - [Thunderbolt, Ice Beam, Fire Blast]
     - [Me First]
-    - [Torment, Thunder Wave, Spite]
-combinations:
-    - [Pressure, Spite]
+    - [Torment, Thunder Wave]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -62,7 +53,7 @@ rarity: 0.6
 ball: [Timer]
 nature: Timid
 ivs: 31
-evs: {hp: 84, atk: 88, def: 84, spA: 84, spD: 84, spe: 84}
+evs: {hp: 84, atk: 0, def: 84, spA: 84, spD: 84, spe: 172}
 ---
 species: Absol
 setname: a-Baton Pass
@@ -70,7 +61,7 @@ tags: [advanced]
 item: [Ganlon Berry]
 ability: [Pressure]
 moves:
-    - [Pursuit]
+    - [Dark Pulse]
     - [Shock Wave, Water Pulse, Icy Wind]
     - [Calm Mind]
     - [Baton Pass]
@@ -79,6 +70,6 @@ happiness: 255
 biddable: True
 rarity: 0.4
 ball: [Heal]
-nature: Bold
+nature: Timid
 ivs: 31
-evs: {hp: 88, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+evs: {hp: 148, atk: 0, def: 136, spA: 56, spD: 16, spe: 152}
