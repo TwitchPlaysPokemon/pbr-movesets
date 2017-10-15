@@ -17,6 +17,7 @@ evs: 0
 ---
 species: Vaporeon
 setname: a-Physical
+tags: [advanced]
 ability: [Hydration]
 moves:
     - [Waterfall, Aqua Tail]
