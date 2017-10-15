@@ -1,0 +1,20 @@
+species: Blaziken
+ingamename: AAABBijjlt
+displayname: AAABBijjlt
+setname: TEEX
+item: [Potion]
+ability: [Blaze]
+moves:
+    - [Rock Smash]
+    - [Low Kick]
+    - [Bulk Up]
+    - [Sand-Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Gentle
+ivs: {hp: 23, atk: 12, def: 6, spA: 3, spD: 6, spe: 27}
+evs: {hp: 43, atk: 60, def: 31, spA: 45, spD: 28, spe: 81}

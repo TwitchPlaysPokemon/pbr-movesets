@@ -1,0 +1,20 @@
+species: Sharpedo
+ingamename: ABBQS
+displayname: ABBQS
+setname: TEEX
+item: [Null]
+ability: [Rough Skin]
+moves:
+    - [Crunch]
+    - [Skull Bash]
+    - [Poison Fang]
+    - [Taunt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Brave
+ivs: {hp: 5, atk: 16, def: 0, spA: 2, spD: 15, spe: 4}
+evs: {hp: 60, atk: 133, def: 81, spA: 100, spD: 40, spe: 95}

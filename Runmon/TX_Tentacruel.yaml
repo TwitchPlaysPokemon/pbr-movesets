@@ -1,0 +1,20 @@
+species: Tentacruel
+ingamename: AAaggmmn
+displayname: AAaggmmn
+setname: TEEX
+item: [Null]
+ability: [Liquid Ooze]
+moves:
+    - [Hydro Pump]
+    - [Surf]
+    - [Wring Out]
+    - [Screech]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Premier]
+shiny: False
+nature: Mild
+ivs: {hp: 16, atk: 0, def: 24, spA: 11, spD: 6, spe: 13}
+evs: {hp: 35, atk: 42, def: 19, spA: 11, spD: 27, spe: 13}
