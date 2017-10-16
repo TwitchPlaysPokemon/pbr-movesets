@@ -27,7 +27,7 @@ ability: No Guard
 nature: Brave
 gender: [f]
 ivs: {hp: 10, atk: 31, def: 2, spA: 0, spD: 0, spe: 31}
-evs: {hp: 0, atk: 212, def: 0, spA: 0, spD: 0, spe: 76}
+evs: {hp: 0, atk: 212, def: 0, spA: 0, spD: 0, spe: 236}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
