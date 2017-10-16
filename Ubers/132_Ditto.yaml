@@ -5,9 +5,6 @@ item: [Choice Scarf]
 ability: [Wonder Guard]
 moves:
     - [Transform]
-    - []
-    - []
-    - []
 happiness: 255
 biddable: True
 rarity: 1.0
