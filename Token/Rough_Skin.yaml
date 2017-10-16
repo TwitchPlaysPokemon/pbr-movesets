@@ -158,7 +158,7 @@ moves:
     - [Double Slap]
     - [Double Slap]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 36}
-ivs: {hp: 0, atk: 0, def: 10, spA: 0, spD: 0, spe: 31}
+ivs: {hp: 31, atk: 0, def: 10, spA: 0, spD: 0, spe: 31}
 nature: Modest
 happiness: 255
 ball: [Luxury]
