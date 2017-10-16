@@ -52,7 +52,7 @@ happiness: 255
 biddable: True
 rarity: 0.2
 nature: Adamant
-ivs: {hp: 31, atk: 0, def: 31, spA: 20, spD: 31, spe: 20}
+ivs: {hp: 31, atk: 0, def: 31, spA: 19, spD: 31, spe: 23}
 evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 0, spe: 0}
 ---
 species: Honchkrow
