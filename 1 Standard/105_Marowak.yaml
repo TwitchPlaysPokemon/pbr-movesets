@@ -20,7 +20,7 @@ ivs: 31
 species: Marowak
 setname: Thick Club
 tags: [standard]
-item: [Null]
+item: [Thick Club]
 ability: [Battle Armor]
 moves:
     - [Earth Power]
