@@ -21,7 +21,7 @@ species: Wooper
 setname: Unaware
 tags: [standard]
 item: [Null]
-ability: [Damp]
+ability: [Unaware]
 moves:
     - [Earthquake]
     - [Waterfall]
