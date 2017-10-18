@@ -45,7 +45,8 @@ moves:
     - [Stone Edge]
     - [Flamethrower]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0.005
 ball: [Master]
 nature: Sassy

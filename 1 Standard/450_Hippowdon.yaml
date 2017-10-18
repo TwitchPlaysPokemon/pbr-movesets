@@ -69,6 +69,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 0.2
 nature: Brave
 evs: {hp: 128, atk: 252, def: 0, spA: 0, spD: 128, spe: 0}
@@ -88,6 +89,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 0.05
 nature: Hasty
 evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 128, spe: 252}

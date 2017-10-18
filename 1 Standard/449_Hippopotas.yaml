@@ -31,6 +31,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 0.4
 nature: Modest
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}

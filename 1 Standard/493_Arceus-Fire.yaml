@@ -27,7 +27,8 @@ moves:
     - [Will-O-Wisp]
     - [Sunny Day]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0.025
 ball: [Timer]
 nature: Quiet
@@ -46,6 +47,7 @@ moves:
     - [Perish Song]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 0.005
 ball: [Master]
 nature: Adamant

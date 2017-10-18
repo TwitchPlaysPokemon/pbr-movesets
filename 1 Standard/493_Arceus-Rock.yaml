@@ -27,7 +27,8 @@ moves:
     - [Sandstorm]
     - [Gravity]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0.025
 ball: [Timer]
 nature: Impish
@@ -46,6 +47,7 @@ moves:
     - [Sandstorm]
 happiness: 255
 biddable: False
+hidden: True
 rarity: 0.005
 ball: [Master]
 nature: Sassy

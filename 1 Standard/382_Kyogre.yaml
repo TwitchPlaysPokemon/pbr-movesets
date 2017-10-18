@@ -81,7 +81,8 @@ moves:
     - [Blizzard]
     - [Sheer Cold]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0.05
 ball: [Master]
 nature: Adamant

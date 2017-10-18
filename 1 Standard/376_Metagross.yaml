@@ -99,7 +99,8 @@ moves:
     - [Ice Punch]
     - [Bullet Punch]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0.1
 ball: [Cherish]
 nature: Modest
