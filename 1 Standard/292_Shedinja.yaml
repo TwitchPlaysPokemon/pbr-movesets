@@ -11,7 +11,6 @@ moves:
     - [Confuse Ray]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.4
 nature: Naughty
 evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
@@ -30,7 +29,6 @@ moves:
     - [Swords Dance]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.35
 nature: Hasty
 evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
@@ -49,7 +47,6 @@ moves:
     - [Sunny Day]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.25
 nature: Rash
 evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}

@@ -87,7 +87,6 @@ moves:
 gender: [f]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.05
 ball: [Master]
 nature: Adamant

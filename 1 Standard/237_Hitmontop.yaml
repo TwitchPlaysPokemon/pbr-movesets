@@ -49,7 +49,6 @@ moves:
 gender: [m]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.2
 ball: [Timer]
 nature: Mild

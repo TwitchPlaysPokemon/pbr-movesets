@@ -69,7 +69,6 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.1
 nature: Bold
 ivs: 10

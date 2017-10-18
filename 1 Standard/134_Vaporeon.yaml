@@ -49,7 +49,6 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.1
 ball: [Luxury]
 nature: Timid

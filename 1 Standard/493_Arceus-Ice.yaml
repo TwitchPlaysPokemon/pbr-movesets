@@ -46,7 +46,6 @@ moves:
     - [Ancient Power]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.005
 ball: [Master]
 nature: Adamant

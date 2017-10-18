@@ -12,7 +12,6 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.3
 nature: Adamant
 ivs: 15

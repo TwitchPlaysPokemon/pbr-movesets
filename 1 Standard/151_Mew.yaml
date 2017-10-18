@@ -82,7 +82,6 @@ moves:
     - [Role Play]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.04
 ball: [Repeat]
 nature: Serious
@@ -245,7 +244,6 @@ moves:
     - [Magic Coat]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.04
 ball: [Quick]
 nature: Rash
@@ -390,7 +388,6 @@ moves:
     - [Taunt]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.04
 ball: [Timer]
 nature: Hardy
@@ -427,7 +424,6 @@ moves:
     - [Soft Boiled]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.01
 ball: [Master]
 nature: Adamant

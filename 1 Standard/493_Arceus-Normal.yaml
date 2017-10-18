@@ -64,7 +64,6 @@ moves:
     - [Fly]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.01
 ball: [Master]
 nature: Adamant
@@ -119,7 +118,6 @@ moves:
     - [Recover]
 happiness: 255
 biddable: False
-hidden: True
 rarity: 0.001
 ball: [Master]
 nature: Modest
