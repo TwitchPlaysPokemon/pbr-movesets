@@ -27,7 +27,7 @@ moves:
     - [Sandstorm]
     - [Gravity]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.025
 ball: [Timer]
 nature: Impish

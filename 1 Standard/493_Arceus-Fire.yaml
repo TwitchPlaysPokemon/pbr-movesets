@@ -27,7 +27,7 @@ moves:
     - [Will-O-Wisp]
     - [Sunny Day]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.025
 ball: [Timer]
 nature: Quiet

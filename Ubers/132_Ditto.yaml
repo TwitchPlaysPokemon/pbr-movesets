@@ -6,7 +6,7 @@ ability: [Wonder Guard]
 moves:
     - [Transform]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 1.0
 ball: [Master]
 nature: Relaxed
