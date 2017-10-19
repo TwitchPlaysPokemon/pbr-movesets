@@ -53,7 +53,7 @@ biddable: True
 rarity: 0.25
 nature: Serious
 evs: {hp: 0, atk: 0, def: 0, spA: 24, spD: 0, spe: 0}
-ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 15}
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 30}
 ---
 species: Altaria
 setname: Dance
