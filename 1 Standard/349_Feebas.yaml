@@ -15,7 +15,7 @@ biddable: True
 rarity: 0.5
 nature: Modest
 ivs: 31
-evs: {hp: 52, atk: 0, def: 252, spA: 0, spD: 0, spe: 204}
+evs: {hp: 52, atk: 0, def: 252, spA: 252, spD: 0, spe: 204}
 ---
 species: Feebas
 setname: Physical
