@@ -18,7 +18,7 @@ evs: {hp: 236, atk: 0, def: 16, spA: 128, spD: 0, spe: 128}
 ivs: 31
 ---
 species: Oddish
-setname: Physcial
+setname: Physical
 tags: [standard]
 item: [Wide Lens]
 ability: [Chlorophyll]
