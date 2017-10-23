@@ -45,7 +45,7 @@ ability: [Natural Cure]
 moves:
     - [Surf]
     - [Ice Beam]
-    - [Rapid Spin, Thunder Wave, Protect]
+    - [Rapid Spin, Thunder Wave, Reflect]
     - [Recover]
 happiness: 255
 biddable: True
