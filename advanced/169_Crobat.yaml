@@ -1,5 +1,6 @@
 species: Crobat
 setname: a-Standard
+tags: [advanced]
 ability: [Inner Focus]
 moves:
     - [Cross Poison, Sludge Bomb]
@@ -15,6 +16,7 @@ evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 ---
 species: Crobat
 setname: a-Curse
+tags: [advanced]
 ability: [Inner Focus]
 moves:
     - [Poison Fang]
