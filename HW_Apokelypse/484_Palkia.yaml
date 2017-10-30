@@ -8,8 +8,8 @@ ability: Slow Start
 moves:
     - [Spacial Rend]
     - [Judgement]
-    - [Metal Burst]
-    - [Trick Room]
+    - [Growth]
+    - [Dark Void]
 happiness: 255
 biddable: True
 rarity: 1.0

@@ -10,7 +10,7 @@ moves:
     - [Outrage]
     - [Thunder Punch]
     - [Dragon Dance]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

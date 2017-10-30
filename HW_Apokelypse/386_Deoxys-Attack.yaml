@@ -10,6 +10,7 @@ moves:
     - [Flare Blitz]
     - [Wood Hammer]
     - [Volt Tackle]
+form: Attack
 happiness: 255
 biddable: True
 rarity: 1.0

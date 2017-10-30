@@ -40,7 +40,7 @@ rarity: 0.0
 ball: [Dusk]
 shiny: True
 nature: Naughty
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 10, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 180, def: 162, spA: 92, spD: 0, spe: 120}
 hidden: False
 ---
@@ -132,6 +132,6 @@ rarity: 0.0
 ball: [Dusk]
 shiny: True
 nature: Naughty
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 25}
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 25}
 evs: {hp: 236, atk: 248, def: 160, spA: 0, spD: 0, spe: 0}
 hidden: False
