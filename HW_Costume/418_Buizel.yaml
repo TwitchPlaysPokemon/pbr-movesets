@@ -1,0 +1,22 @@
+species: Buizel
+ingamename: Scraggy
+displayname: Scraggy
+setname: Costume
+tags: [Costume]
+item: [Black Belt]
+ability: [Shed Skin]
+moves:
+    - [Drain Punch]
+    - [Crunch]
+    - [Bulk Up]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 0, def: 0, spA: 0, spD: 116, spe: 76}
+level: 5
