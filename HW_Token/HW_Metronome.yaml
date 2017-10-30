@@ -41,7 +41,7 @@ ball: [Dusk]
 shiny: True
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 0, def: 120, spA: 0, spD: 124, spe: 252}
+evs: {hp: 0, atk: 120, def: 0, spA: 124, spD: 0, spe: 252}
 hidden: False
 ---
 species: Rotom
