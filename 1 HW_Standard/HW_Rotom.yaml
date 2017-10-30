@@ -10,7 +10,6 @@ moves:
     - [Sucker Punch]
     - [Confuse Ray]
     - [Trick Room]
-gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -33,7 +32,6 @@ moves:
     - [Ominous Wind]
     - [Charge]
     - [Reflect]
-gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0

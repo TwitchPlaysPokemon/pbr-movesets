@@ -10,7 +10,6 @@ moves:
     - [Meteor Mash]
     - [Fly]
     - [Mean Look]
-gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0
