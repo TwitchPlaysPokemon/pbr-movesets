@@ -20,3 +20,4 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 76, atk: 76, def: 76, spA: 0, spD: 76, spe: 0}
 level: 5
+hidden: false
