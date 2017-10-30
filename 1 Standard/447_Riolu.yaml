@@ -15,7 +15,7 @@ biddable: True
 rarity: 0.2
 nature: Lonely
 evs: {hp: 80, atk: 100, def: 16, spA: 200, spD: 8, spe: 104}
-ivs: 0
+ivs: 31
 ---
 species: Riolu
 setname: Physical
