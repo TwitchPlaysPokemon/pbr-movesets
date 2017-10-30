@@ -1,0 +1,22 @@
+species: Ivysaur
+ingamename: Poison Ivy
+displayname: Poison Ivy
+setname: Halloween
+tags: [halloween]
+item: Black Sludge
+ability: Effect Spore
+moves:
+    - [Petal Dance]
+    - [Sludge Bomb]
+    - [Lovely Kiss]
+    - [Charm]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 40, spA: 160, spD: 40, spe: 100}
+hidden: false

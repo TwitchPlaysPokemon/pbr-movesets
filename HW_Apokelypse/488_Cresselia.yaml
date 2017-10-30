@@ -1,0 +1,22 @@
+species: Cresselia
+ingamename: Eclipse
+displayname: Eclipse
+setname: Halloween
+tags: [pokelypse]
+item: [Leftovers]
+ability: Solid Rock
+moves:
+    - [Mist Ball]
+    - [Sacred Fire]
+    - [Fly]
+    - [Moonlight]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Sassy
+ivs: 31
+evs: {hp: 252, atk: 80, def: 200, spA: 60, spD: 200, spe: 0}
+hidden: false

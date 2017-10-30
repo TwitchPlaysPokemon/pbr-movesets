@@ -1,0 +1,21 @@
+species: Igglybuff
+ingamename: Solosis
+displayname: Solosis
+setname: Costume
+tags: [costume]
+item: [Mind Plate]
+ability: [Magic Guard]
+moves:
+    - [Psychic]
+    - [Signal Beam]
+    - [Calm Mind]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 0, def: 156, spA: 36, spD: 0, spe: 0}
+level: 5

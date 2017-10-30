@@ -1,0 +1,22 @@
+species: Swalot
+ingamename: Swalloween
+displayname: Swalloween
+setname: Halloween
+tags: [halloween]
+item: Sitrus Berry
+ability: Gluttony
+moves:
+    - [Shadow Force]
+    - [Lava Plume]
+    - [Swallow]
+    - [Stockpile]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 6, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 44, def: 0, spA: 164, spD: 0, spe: 0}
+hidden: false

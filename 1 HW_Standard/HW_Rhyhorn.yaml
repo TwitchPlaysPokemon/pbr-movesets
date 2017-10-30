@@ -1,0 +1,22 @@
+species: Rhyhorn
+ingamename: Dry Bones
+displayname: Dry Bones
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Rare Bone
+ability: Dry Skin
+moves:
+    - [Bone Rush]
+    - [Bounce]
+    - [Shadow Punch]
+    - [Glare]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 168, spe: 0}
+nature: Serious
+hidden: false

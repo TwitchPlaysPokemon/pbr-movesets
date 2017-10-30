@@ -1,0 +1,45 @@
+species: Mightyena
+ingamename: Werewolf
+displayname: Werewolf
+setname: Halloween
+tags: [halloween]
+item: Dusk Stone
+ability: Shed Skin
+moves:
+    - [Superpower]
+    - [Shadow Claw]
+    - [Night Slash]
+    - [Howl]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 160, def: 0, spA: 0, spD: 0, spe: 116}
+hidden: false
+---
+species: Mightyena
+ingamename: Scooby-Doo
+displayname: Scooby-Doo
+setname: Halloween2
+tags: [halloween]
+item: Lava Cookie
+ability: Run Away
+moves:
+    - [Extremespeed]
+    - [Chatter]
+    - [Flatter]
+    - [Camouflage]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 252, def: 100, spA: 252, spD: 100, spe: 252}
+hidden: false

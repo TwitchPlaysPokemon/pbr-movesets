@@ -1,0 +1,21 @@
+species: Groudon
+ingamename: Drowned
+displayname: Drowned
+setname: Halloween
+tags: [halloween]
+item: Damp Rock
+ability: Drizzle
+moves:
+    - [Judgment]
+    - [Bubblebeam]
+    - [Thunder]
+    - [Aqua Ring]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

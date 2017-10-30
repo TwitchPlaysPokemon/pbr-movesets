@@ -1,0 +1,22 @@
+species: Drowzee
+ingamename: Creepy Man
+displayname: Creepy Man 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Spell Tag
+ability: Bad Dreams
+moves:
+    - [Astonish]
+    - [Pursuit]
+    - [Scary Face]
+    - [Dark Void]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 184, atk: 200, def: 124, spA: 0, spD: 0, spe: 0}
+nature: Brave
+hidden: false

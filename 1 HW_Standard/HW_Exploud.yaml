@@ -1,0 +1,22 @@
+species: Exploud
+ingamename: Predator
+displayname: Predator
+setname: Halloween
+tags: [halloween]
+item: Iron Ball
+ability: Unburden
+moves:
+    - [Fling]
+    - [Superpower]
+    - [Slash]
+    - [Leer]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 5, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 48, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

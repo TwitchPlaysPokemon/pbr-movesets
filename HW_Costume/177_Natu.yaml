@@ -1,0 +1,21 @@
+species: Natu
+ingamename: Phantump
+displayname: Phantump
+setname: Costume
+tags: [costume]
+item: [Spooky Plate]
+ability: [Frisk]
+moves:
+    - [Wood Hammer]
+    - [Shadow Force]
+    - [Will-o-Wisp]
+    - [Grudge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 36, atk: 36, def: 0, spA: 0, spD: 0, spe: 0}
+level: 5

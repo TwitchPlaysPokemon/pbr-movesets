@@ -1,0 +1,45 @@
+species: Mismagius
+ingamename: Witch
+displayname: Witch
+setname: Halloween
+tags: [halloween]
+item: Stick
+ability: Keen Eye
+moves:
+    - [Dark Pulse]
+    - [Future Sight]
+    - [Nasty Plot]
+    - [Moonlight]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 10, atk: 0, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 100, spA: 40, spD: 0, spe: 80}
+hidden: false
+---
+species: Mismagius
+ingamename: Banshee
+displayname: Banshee
+setname: Halloween2
+tags: [halloween]
+item: Oran Berry
+ability: Soundproof
+moves:
+    - [Shadow Force]
+    - [Screech]
+    - [Sing]
+    - [Perish Song]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 6}
+evs: {hp: 156, atk: 0, def: 68, spA: 0, spD: 0, spe: 0}
+hidden: false

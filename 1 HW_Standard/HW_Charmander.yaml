@@ -1,0 +1,22 @@
+species: Charmander
+ingamename: Quenched
+displayname: Quenched Flame
+setname: Halloween
+tags: [halloween]
+item: Life Orb
+ability: Ice Body
+moves:
+    - [Shadow Force]
+    - [Revenge]
+    - [Dig]
+    - [Memento]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 200}
+hidden: false

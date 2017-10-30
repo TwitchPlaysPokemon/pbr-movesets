@@ -1,0 +1,68 @@
+species: Sableye
+ingamename: ShadowStal
+displayname: Shadow Stalker
+setname: Halloween
+tags: [halloween]
+item: Power Anklet
+ability: Speed Boost
+moves:
+    - [Dark Pulse]
+    - [Future Sight]
+    - [Nasty Plot]
+    - [Baton Pass]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 0, spA: 152, spD: 0, spe: 120}
+hidden: false
+---
+species: Sableye
+ingamename: Bejeweled
+displayname: Bejeweled
+setname: Halloween2
+tags: [halloween]
+item: Hard Stone
+ability: Solid Rock
+moves:
+    - [Shadow Punch]
+    - [Thief]
+    - [Power Gem]
+    - [Snatch]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 188, def: 0, spA: 220, spD: 0, spe: 0}
+hidden: false
+---
+species: Sableye
+ingamename: SDS Greed
+displayname: SDS Greed
+setname: Halloween3
+tags: [halloween]
+item: Wide Lens
+ability: Simple
+moves:
+    - [Drain Punch]
+    - [Me First]
+    - [Cosmic Power]
+    - [Dragon Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 60, def: 0, spA: 120, spD: 0, spe: 0}
+hidden: false

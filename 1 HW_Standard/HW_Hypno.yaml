@@ -1,0 +1,22 @@
+species: Hypno
+ingamename: Stalker
+displayname: Dream Stalker
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Flame Orb
+ability: Bad Dreams
+moves:
+    - [Dream Eater]
+    - [Night Shade]
+    - [Metronome]
+    - [Dark Void]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 24, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 100, spA: 0, spD: 0, spe: 0}
+nature: Serious
+hidden: false

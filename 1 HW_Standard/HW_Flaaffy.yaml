@@ -1,0 +1,22 @@
+species: Flaaffy
+ingamename: Red Riding
+displayname: Red Riding Hood
+setname: Halloween
+tags: [halloween]
+item: Lava Cookie
+ability: Pure Power
+moves:
+    - [Present]
+    - [Icy Wind]
+    - [Flatter]
+    - [Screech]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 180, def: 40, spA: 0, spD: 40, spe: 140}
+hidden: false

@@ -1,0 +1,45 @@
+species: Slaking
+ingamename: King Kong
+displayname: King Kong
+setname: Halloween
+tags: [halloween]
+item: Oran Berry
+ability: Slow Start
+moves:
+    - [Arm Thrust]
+    - [Assurance]
+    - [Belly Drum]
+    - [Healing Wish]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 160, spA: 0, spD: 160, spe: 88}
+hidden: false
+---
+species: Slaking
+ingamename: SDS Sloth
+displayname: SDS Sloth
+setname: Halloween2
+tags: [halloween]
+item: Lax incense
+ability: Slow Start
+moves:
+    - [Snore]
+    - [Odor Sleuth]
+    - [Rest]
+    - [Yawn]
+gender: [m,f]
+happiness: 255
+biddable: false
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Mild
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 60, spD: 0, spe: 100}
+hidden: false

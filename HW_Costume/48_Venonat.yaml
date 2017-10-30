@@ -1,0 +1,21 @@
+species: Venonat
+ingamename: Bergmite
+displayname: Bergmite
+setname: Costume
+tags: [costume]
+item: [Nevermeltice]
+ability: [Ice Body]
+moves:
+    - [Icy Wind]
+    - [Rock Tomb]
+    - [Mirror Coat]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 156, def: 36, spA: 0, spD: 76, spe: 0}
+level: 5

@@ -1,0 +1,45 @@
+species: Gengar
+ingamename: Cheshire
+displayname: Cheshire 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Rowap Berry
+ability: Adaptability
+moves:
+    - [Shadow Claw]
+    - [Punishment]
+    - [Taunt]
+    - [Conversion]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 132, atk: 132, def: 0, spA: 0, spD: 0, spe: 100}
+nature: Adamant
+hidden: false
+---
+species: Gengar
+ingamename: Poltergeis
+displayname: Poltergeist
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Toxic Orb
+ability: Slow Start
+moves:
+    - [Shadow Ball]
+    - [Sludge Bomb]
+    - [Trick]
+    - [Trick Room]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 10, spD: 31, spe: 0}
+evs: {hp: 112, atk: 0, def: 96, spA: 0, spD: 40, spe: 0}
+nature: Serious
+hidden: false

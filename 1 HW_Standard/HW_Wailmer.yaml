@@ -1,0 +1,22 @@
+species: Wailmer
+ingamename: Candy Jar
+displayname: Candy Jar
+setname: Halloween
+tags: [halloween]
+item: Meadow Plate
+ability: Clear Body
+moves:
+    - [Judgment]
+    - [Wring Out]
+    - [Stockpile]
+    - [Aqua Ring]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 120, spA: 176, spD: 120, spe: 0}
+hidden: false

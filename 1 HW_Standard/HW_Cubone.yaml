@@ -1,0 +1,45 @@
+species: Cubone
+ingamename: Giygas
+displayname: Giygas
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Metal Coat
+ability: Bad Dreams
+moves:
+    - [Meteor Mash]
+    - [Spacial Rend]
+    - [Dream Eater]
+    - [Dark Void]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 10, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 252, def: 0, spA: 252, spD: 200, spe: 0}
+nature: Quiet
+hidden: false
+---
+species: Cubone
+ingamename: BibleThump
+displayname: BibleThump 
+setname: Halloween2
+ball: [Cherish]
+tags: [halloween]
+item: Skull Fossil
+ability: Pure Power
+moves:
+    - [Fling]
+    - [Curse]
+    - [Recycle]
+    - [Fake Tears]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
+nature: Brave
+hidden: false

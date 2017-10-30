@@ -1,0 +1,21 @@
+species: Claydol
+ingamename: HaunteDoll
+displayname: Haunted Doll
+setname: Halloween
+tags: [halloween]
+item: Poke Doll
+ability: Shadow Tag
+moves:
+    - [Gyro Ball]
+    - [Bounce]
+    - [Curse]
+    - [Spite]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 100, atk: 40, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

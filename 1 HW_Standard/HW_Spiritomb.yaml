@@ -1,0 +1,45 @@
+species: Spiritomb
+ingamename: HalwdSton
+displayname: Hallowed Stone
+setname: Halloween
+tags: [halloween]
+item: Toxic Orb
+ability: Wonder Guard
+moves:
+    - [Curse]
+    - [Perish Song]
+    - [Torment]
+    - [Pain Split]
+gender: [m,f]
+happiness: 255
+biddable: false
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 1, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+hidden: false
+---
+species: Spiritomb
+ingamename: SplitSton
+displayname: Split Stone
+setname: Halloween2
+tags: [halloween]
+item: Odd Keystone
+ability: Unburden
+moves:
+    - [Dark Pulse]
+    - [Psychic]
+    - [Fissure]
+    - [Spite]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 20, spA: 31, spD: 20, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 204, spD: 0, spe: 0}
+hidden: false

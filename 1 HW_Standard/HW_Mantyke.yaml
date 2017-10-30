@@ -1,0 +1,22 @@
+species: Mantyke
+ingamename: Spaceship
+displayname: Spaceship
+setname: Halloween
+tags: [halloween]
+item: Enigma Berry
+ability: Huge Power
+moves:
+    - [Fly]
+    - [Draco Meteor]
+    - [Earthquake]
+    - [Seismic Toss]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 104, atk: 188, def: 168, spA: 252, spD: 0, spe: 212}
+hidden: false

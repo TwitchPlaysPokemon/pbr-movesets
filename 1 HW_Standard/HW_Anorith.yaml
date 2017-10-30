@@ -1,0 +1,22 @@
+species: Anorith
+ingamename: Facehugger
+displayname: Facehugger
+setname: Halloween
+tags: [halloween]
+item: Grip Claw
+ability: Suction Cups
+moves:
+    - [Dig]
+    - [Vice Grip]
+    - [Magma Storm]
+    - [Gastro Acid]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: 252
+hidden: false

@@ -1,0 +1,22 @@
+species: Aggron
+ingamename: Pulgasari
+displayname: Pulgasari
+setname: Halloween
+tags: [halloween]
+item: King's Rock
+ability: Iron Fist
+moves:
+    - [Meteor Mash]
+    - [Hammer Arm]
+    - [Crunch]
+    - [Ice Punch]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Gentle
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

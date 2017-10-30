@@ -1,0 +1,21 @@
+species: Chimchar
+ingamename: Mienfoo
+displayname: Mienfoo
+setname: Costume
+tags: [costume]
+item: [Blackbelt]
+ability: [Reckless]
+moves:
+    - [Fake Out]
+    - [High Jump Kick]
+    - [Bounce]
+    - [U-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 84, atk: 52, def: 0, spA: 0, spD: 0, spe: 108}
+level: 5

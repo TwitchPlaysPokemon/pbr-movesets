@@ -1,0 +1,45 @@
+species: Gastly
+ingamename: Miasma
+displayname: Miasma 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Focus Sash
+ability: Inner Focus
+moves:
+    - [Shadow Force]
+    - [Explosion]
+    - [Toxic Spikes]
+    - [Disable]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 200, spA: 0, spD: 200, spe: 252}
+nature: Adamant
+hidden: false
+---
+species: Gastly
+ingamename: EyeSurgery
+displayname: Bad Eye Surgery 
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Choice Specs
+ability: Compound Eyes
+moves:
+    - [Shadow Ball]
+    - [Sludge Bomb]
+    - [Zap Cannon]
+    - [Trick]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 112, spA: 40, spD: 136, spe: 80}
+nature: Serious
+hidden: false

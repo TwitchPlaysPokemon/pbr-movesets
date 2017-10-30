@@ -1,0 +1,45 @@
+species: Castform
+ingamename: Casper
+displayname: Casper
+setname: Halloween
+tags: [halloween]
+item: Power Herb
+ability: Unburden
+moves:
+    - [Shadow Force]
+    - [Fly]
+    - [Return]
+    - [Tickle]
+gender: [m]
+happiness: 225
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 40, spA: 0, spD: 40, spe: 100}
+hidden: false
+---
+species: Castform
+ingamename: Harvest
+displayname: Harvest Festival
+setname: Halloween2
+tags: [halloween]
+item: Miracle Seed
+ability: Chlorophyll
+moves:
+    - [Solarbeam]
+    - [Sacred Fire]
+    - [Pluck]
+    - [Sunny Day]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 100, def: 0, spA: 100, spD: 0, spe: 0}
+hidden: false

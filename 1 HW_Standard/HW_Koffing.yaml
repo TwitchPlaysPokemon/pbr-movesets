@@ -1,0 +1,22 @@
+species: Koffing
+ingamename: Whoa-ho-ho
+displayname: Whoa-ho-ho!
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Black Sludge
+ability: Levitate
+moves:
+    - [Payback]
+    - [Toxic]
+    - [Will-O-Wisp]
+    - [Whirlwind]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 116, spe: 0}
+nature: Brave
+hidden: false

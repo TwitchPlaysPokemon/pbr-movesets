@@ -1,0 +1,45 @@
+species: Ursaring
+ingamename: MonsterInc
+displayname: Monsters Inc
+setname: Halloween
+tags: [halloween]
+item: Spooky Plate
+ability: Technician
+moves:
+    - [Astonish]
+    - [Pursuit]
+    - [Pay Day]
+    - [Roar]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 10, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 92, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false
+---
+species: Ursaring
+ingamename: Sasquatch
+displayname: Sasquatch
+setname: Halloween
+tags: [halloween]
+item: Brightpowder
+ability: Thick fat
+moves:
+    - [Stomp]
+    - [Ice Fang]
+    - [Rolling Kick]
+    - [Roar]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 13, atk: 31, def: 14, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 0, spe: 36}
+hidden: false

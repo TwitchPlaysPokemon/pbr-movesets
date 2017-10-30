@@ -1,0 +1,45 @@
+species: Haunter
+ingamename: Nightmare
+displayname: Nightmare 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Spell Tag
+ability: Shadow Tag
+moves:
+    - [Lick]
+    - [Hypnosis]
+    - [Nightmare]
+    - [Torment]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 252, def: 108, spA: 0, spD: 200, spe: 68}
+nature: Naughty
+hidden: false
+---
+species: Haunter
+ingamename: Jump Scare
+displayname: Jump Scare
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Spooky Plate
+ability: Huge Power
+moves:
+    - [Astonish]
+    - [Bounce]
+    - [Confuse Ray]
+    - [Flash]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 176, atk: 188, def: 72, spA: 0, spD: 92, spe: 160}
+nature: Serious
+hidden: false

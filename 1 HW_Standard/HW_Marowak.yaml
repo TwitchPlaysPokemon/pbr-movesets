@@ -1,0 +1,45 @@
+species: Marowak
+ingamename: Restless
+displayname: Restless
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Sitrus Berry
+ability: Adaptability
+moves:
+    - [Shadow Punch]
+    - [Fire Punch]
+    - [Conversion]
+    - [Curse]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 48, atk: 200, def: 0, spA: 0, spD: 0, spe: 100}
+nature: Adamant
+hidden: false
+---
+species: Marowak
+ingamename: Lavender
+displayname: Lavender Ghost 
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Skull Fossil
+ability: Wonder Guard
+moves:
+    - [Bonemerang (=2)]
+    - [Take Down (=1)]
+    - [Perish Song (=1)]
+    - [Memento]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 2, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 88, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Hardy
+hidden: false

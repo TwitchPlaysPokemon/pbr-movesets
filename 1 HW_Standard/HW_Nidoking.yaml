@@ -1,0 +1,22 @@
+species: Nidoking
+ingamename: Kraid
+displayname: Kraid
+setname: Halloween
+tags: [halloween]
+item: Leftovers
+ability: Scrappy
+moves:
+    - [Pin Missile]
+    - [Hyper Beam]
+    - [Spit Up]
+    - [Stockpile]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 68, atk: 244, def: 0, spA: 92, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,22 @@
+species: Kabuto
+ingamename: Cockroach
+displayname: Cockroach 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Silverpowder
+ability: Filter
+moves:
+    - [Attack Order]
+    - [Dive]
+    - [Bite]
+    - [Scary Face]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 200, spA: 0, spD: 200, spe: 0}
+nature: Careful
+hidden: false

@@ -1,0 +1,22 @@
+species: Alakazam
+ingamename: Exorcist
+displayname: Exorcist
+setname: Halloween
+tags: [halloween]
+item: Helix Fossil
+ability: Forewarn
+moves:
+    - [Psycho Cut]
+    - [Fling]
+    - [Water Gun]
+    - [Taunt]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 220, atk: 252, def: 220, spA: 252, spD: 0, spe: 0}
+hidden: false

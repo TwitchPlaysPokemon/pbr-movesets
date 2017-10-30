@@ -1,0 +1,43 @@
+species: Arceus
+ingamename: Rapture
+displayname: Rapture
+setname: Halloween
+tags: [halloween]
+item: Spooky Plate
+ability: Multitype
+moves:
+    - [Ominous Wind]
+    - [Assurance]
+    - [Hail]
+    - [Perish Song]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: {hp: 0, atk: 21, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+hidden: false
+---
+species: Arceus
+ingamename: Death God
+displayname: Death God
+setname: Halloween2
+tags: [halloween]
+item: Lagging Tail
+ability: Mold Breaker
+moves:
+    - [Guillotine]
+    - [Lock-On]
+    - [Odor Sleuth]
+    - [Perish Song]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,21 @@
+species: Shaymin
+ingamename: Triffid
+displayname: Triffid
+setname: Halloween
+tags: [pokelypse]
+item: [Big Root]
+ability: Intimidate
+moves:
+    - [Seed Flare (=8)]
+    - [Leech Seed]
+    - [Spore]
+    - [Substitute]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 200, spA: 0, spD: 200, spe: 252}
+hidden: false

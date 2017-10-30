@@ -1,0 +1,45 @@
+species: Aerodactyl
+ingamename: Ridley
+displayname: Ridley 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: King's Rock
+ability: Intimidate
+moves:
+    - [Outrage]
+    - [Crunch]
+    - [Karate Chop]
+    - [Scary Face]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 31, def: 15, spA: 0, spD: 15, spe: 31}
+evs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 0, spe: 32}
+nature: Adamant
+hidden: false
+---
+species: Aerodactyl
+ingamename: Pterrorfy
+displayname: Pterrorfying
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Razor Fang
+ability: Technician
+moves:
+    - [Astonish]
+    - [Ancient Power]
+    - [Spite]
+    - [Scary Face]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+nature: Naughty
+hidden: false

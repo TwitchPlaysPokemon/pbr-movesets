@@ -1,0 +1,22 @@
+species: Bayleef
+ingamename: FallenLeaf
+displayname: Fallen Leaves
+setname: Halloween
+tags: [halloween]
+item: Power Herb
+ability: Drizzle
+moves:
+    - [Leaf Storm]
+    - [Razor Wind]
+    - [Ominous Wind]
+    - [Whirlwind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 232, spD: 0, spe: 128}
+hidden: false

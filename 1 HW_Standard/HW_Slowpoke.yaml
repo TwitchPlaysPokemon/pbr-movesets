@@ -1,0 +1,22 @@
+species: Slowpoke
+ingamename: tpSlowpoke
+displayname: tppSlowpoke
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Spooky Plate
+ability: Speedboost
+moves:
+    - [Judgment]
+    - [Punishment]
+    - [Fly]
+    - [Slack Off]
+gender: [m]
+happiness: 0
+biddable: True
+rarity: 1.0
+shiny: True
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 120, def: 0, spA: 160, spD: 140, spe: 0}
+hidden: false

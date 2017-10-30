@@ -1,0 +1,22 @@
+species: Exeggutor
+ingamename: HauntTree
+displayname: Haunted Tree
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Miracle Seed
+ability: Adaptability
+moves:
+    - [Shadow Claw]
+    - [Curse]
+    - [Conversion]
+    - [Confuse Ray]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 17, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 116, def: 0, spA: 0, spD: 0, spe: 252}
+nature: Adamant
+hidden: false

@@ -1,0 +1,21 @@
+species: Darkrai
+ingamename: Lucifer
+displayname: Lucifer
+setname: Halloween
+tags: [pokelypse]
+item: [Choice Scarf]
+ability: Huge Power
+moves:
+    - [Sacred Fire]
+    - [Dragon Claw]
+    - [Dark Void]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 140, atk: 40, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false

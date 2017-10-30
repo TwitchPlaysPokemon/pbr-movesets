@@ -1,0 +1,22 @@
+species: Politoed
+ingamename: Kappa 
+displayname: Kappa 
+setname: Halloween
+tags: [halloween]
+item: Grip Claw
+ability: Sticky Hold
+moves:
+    - [Wrap]
+    - [Dive]
+    - [Muddy Water]
+    - [Pursuit]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 25, spA: 25, spD: 20, spe: 31}
+evs: {hp: 0, atk: 216, def: 0, spA: 0, spD: 0, spe: 140}
+hidden: false

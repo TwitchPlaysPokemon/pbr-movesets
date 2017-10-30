@@ -1,0 +1,22 @@
+species: Shroomish
+ingamename: MushDoom
+displayname: MushDoom
+setname: Halloween
+tags: [halloween]
+item: Big Mushroom
+ability: Technician
+moves:
+    - [Giga Drain]
+    - [Ominous Wind]
+    - [Cotton Spore]
+    - [Spore]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 96, spA: 252, spD: 96, spe: 64}
+hidden: false

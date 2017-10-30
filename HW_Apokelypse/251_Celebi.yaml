@@ -1,0 +1,22 @@
+species: Celebi
+ingamename: Dryad
+displayname: Dryad
+setname: Halloween
+tags: ubers
+tags: [pokelypse]
+item: Leftovers
+ability: Magic Guard
+moves:
+    - [Leech Seed]
+    - [Toxic]
+    - [Wish]
+    - [Protect]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 236, atk: 0, def: 132, spA: 0, spD: 164, spe: 0}
+hidden: false

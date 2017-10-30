@@ -1,0 +1,22 @@
+species: Lucario
+ingamename: Goku
+displayname: Goku
+setname: Halloween
+tags: [pokelypse]
+item: [Sitrus Berry]
+ability: Iron Fist
+moves:
+    - [Close Combat]
+    - [Outrage]
+    - [Thunder Punch]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 40, spA: 0, spD: 60, spe: 180}
+hidden: false

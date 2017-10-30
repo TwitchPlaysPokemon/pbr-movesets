@@ -1,0 +1,22 @@
+species: Cradily
+ingamename: Zombarncle
+displayname: Zombie Barnacle
+setname: Halloween
+tags: [halloween]
+item: Big Root
+ability: Suction Cups
+moves:
+    - [Crush Grip]
+    - [Clamp]
+    - [Bulk Up]
+    - [Leech Seed]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

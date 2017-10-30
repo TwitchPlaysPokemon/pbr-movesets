@@ -1,0 +1,22 @@
+species: Grimer
+ingamename: Caramel
+displayname: Caramel 
+setname: Halloween
+ball: [Heal]
+tags: [halloween]
+item: Lava Cookie
+ability: Flame Body
+moves:
+    - [Surf]
+    - [Lava Plume]
+    - [Smelling Salts]
+    - [Sweet Scent]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 252, def: 188, spA: 252, spD: 204, spe: 0}
+nature: Quiet
+hidden: false

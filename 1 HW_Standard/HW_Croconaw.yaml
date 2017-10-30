@@ -1,0 +1,22 @@
+species: Croconaw
+ingamename: Crocomire
+displayname: Crocomire
+setname: Halloween
+tags: [halloween]
+item: Razor Fang
+ability: Flame Body
+moves:
+    - [Eruption]
+    - [Arm Thrust]
+    - [Knock Off]
+    - [Swagger]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 160, def: 76, spA: 252, spD: 104, spe: 0}
+hidden: false

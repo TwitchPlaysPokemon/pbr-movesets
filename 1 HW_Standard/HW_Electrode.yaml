@@ -1,0 +1,21 @@
+species: Electrode
+ingamename: King Boo
+displayname: King Boo
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: King's Rock
+ability: Truant
+moves:
+    - [Astonish]
+    - [Lick]
+    - [Aura Sphere]
+    - [Skill Swap]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 252, def: 0, spA: 96, spD: 0, spe: 0}
+nature: Naughty
+hidden: false

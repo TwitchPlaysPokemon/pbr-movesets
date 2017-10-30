@@ -1,0 +1,21 @@
+species: Pidgey
+ingamename: Pidove
+displayname: Pidove
+setname: Costume
+tags: [costume]
+item: [Scope Lens]
+ability: [Super Luck]
+moves:
+    - [Facade]
+    - [Aerial Ace]
+    - [Night Slash]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 36, atk: 76, def: 36, spA: 0, spD: 76, spe: 148}
+level: 5

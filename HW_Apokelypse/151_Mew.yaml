@@ -1,0 +1,22 @@
+species: Mew
+ingamename: PotOfGreed
+displayname: PotOfGreed
+setname: Halloween
+tags: ubers
+tags: [pokelypse]
+item: Leftovers
+ability: Simple
+moves:
+    - [Dragon Pulse]
+    - [Acupressure]
+    - [Wish]
+    - [Refresh]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Docile
+ivs: 31
+evs: 252
+hidden: false

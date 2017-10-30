@@ -1,0 +1,21 @@
+species: Entei
+ingamename: Guy Fawkes
+displayname: Guy Fawkes
+setname: Halloween
+tags: [halloween]
+item: Charcoal
+ability: Reckless
+moves:
+    - [Explosion]
+    - [Mud Bomb]
+    - [Nasty Plot]
+    - [Will-O-Wisp]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 26, atk: 31, def: 0, spA: 31, spD: 1, spe: 31}
+evs: {hp: 0, atk: 240, def: 0, spA: 184, spD: 0, spe: 0}
+hidden: false

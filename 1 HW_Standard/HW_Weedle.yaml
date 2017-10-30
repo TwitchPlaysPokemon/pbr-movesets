@@ -1,0 +1,22 @@
+species: Weedle
+ingamename: Fudge
+displayname: Fudge
+setname: Halloween
+tags: [halloween]
+item: Sitrus Berry
+ability: Simple
+moves:
+    - [Present]
+    - [Attract]
+    - [Fissure]
+    - [Aromatherapy]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
+hidden: false

@@ -1,0 +1,123 @@
+species: Jynx
+ingamename: NghtmareEx
+displayname: Nightmare Ex
+setname: Nightmare
+tags: [nightmare]
+item: Black Sludge
+ability: Bad Dreams
+moves:
+    - [Dark Void]
+    - [Nightmare]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Impish
+ivs: {hp: 4, atk: 0, def: 0, spA: 0, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 252, spA: 0, spD: 0, spe: 116}
+hidden: False
+---
+species: Entei
+ingamename: NakedAtSkl
+displayname: Naked At School
+setname: Nightmare
+tags: [nightmare]
+item: Black Sludge
+ability: Bad Dreams
+moves:
+    - [Dark Void]
+    - [Nightmare]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Bashful
+ivs: {hp: 4, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 76}
+hidden: False
+---
+species: Deoxys
+ingamename: WrngOutfit
+displayname: Wrong Outfit
+setname: Nightmare
+tags: [nightmare]
+item: Black Sludge
+ability: Bad Dreams
+moves:
+    - [Dark Void]
+    - [Nightmare]
+form: Defense
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Bashful
+ivs: {hp: 30, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 156}
+hidden: False
+---
+species: Gliscor
+ingamename: EatenAlive
+displayname: Eaten Alive
+setname: Nightmare
+tags: [nightmare]
+item: Black Sludge
+ability: Bad Dreams
+moves:
+    - [Dark Void]
+    - [Nightmare]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: {hp: 4, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 88, spe: 116}
+hidden: False
+---
+species: Froslass
+ingamename: FRZwthFear
+displayname: Frozen With Fear
+setname: Nightmare
+tags: [nightmare]
+item: Black Sludge
+ability: Bad Dreams
+moves:
+    - [Dark Void]
+    - [Nightmare]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 30, atk: 0, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 0, atk: 0, def: 76, spA: 0, spD: 76, spe: 0}
+hidden: False
+---
+species: Darkrai
+ingamename: WetTheBed
+displayname: Wet The Bed
+setname: Nightmare
+tags: [nightmare]
+item: Black Sludge
+ability: Bad Dreams
+moves:
+    - [Dark Void]
+    - [Nightmare]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Bashful
+ivs: {hp: 6, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 108, spA: 0, spD: 104, spe: 0}
+hidden: False

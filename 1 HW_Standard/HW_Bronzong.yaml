@@ -1,0 +1,43 @@
+species: Bronzong
+ingamename: ChurchBell
+displayname: Church Bell
+setname: Halloween
+tags: [halloween]
+item: Shell Bell
+ability: Shell Armor
+moves:
+    - [Ancient Power (=8)]
+    - [Uproar]
+    - [Morning Sun]
+    - [Heal Bell]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
+species: Bronzong
+ingamename: Aegislash
+displayname: Aegislash-Shield
+setname: Halloween2
+tags: [halloween]
+item: Iron Ball
+ability: No Guard
+moves:
+    - [Gyro Ball]
+    - [Pursuit]
+    - [Toxic]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

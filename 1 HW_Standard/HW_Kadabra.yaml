@@ -1,0 +1,22 @@
+species: Kadabra
+ingamename: Dimentio
+displayname: Dimentio
+setname: Halloween
+tags: [halloween]
+item: Iron Ball
+ability: Scrappy
+moves:
+    - [Trump Card (=2)]
+    - [Power Gem]
+    - [Nasty Plot]
+    - [Trick Room]
+gender: [m]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 40, spD: 120, spe: 0}
+hidden: false

@@ -1,0 +1,22 @@
+species: Murkrow
+ingamename: NightThief
+displayname: Night's Thief
+setname: Halloween
+tags: [halloween]
+item: Power Herb
+ability: Early Bird
+moves:
+    - [Sky Attack]
+    - [Thief]
+    - [Roost]
+    - [Snatch]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 180, def: 44, spA: 0, spD: 44, spe: 116}
+hidden: false

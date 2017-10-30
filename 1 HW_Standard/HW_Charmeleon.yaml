@@ -1,0 +1,22 @@
+species: Charmeleon
+ingamename: Hammer Bro
+displayname: Hammer Bro
+setname: Halloween
+tags: [halloween]
+item: Thick Club
+ability: Huge Power
+moves:
+    - [Hammer Arm]
+    - [Fling]
+    - [Swords Dance]
+    - [Recycle]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 40, spA: 0, spD: 40, spe: 0}
+hidden: false

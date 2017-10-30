@@ -1,0 +1,22 @@
+species: Growlithe
+ingamename: ExorcisDog
+displayname: Exorcists Dog
+setname: Halloween
+tags: [halloween]
+item: Helix Fossil
+ability: Anticipation
+moves:
+    - [Fire Fang]
+    - [Fling]
+    - [Extreme Speed]
+    - [Roar]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 140, def: 100, spA: 0, spD: 100, spe: 200}
+hidden: false

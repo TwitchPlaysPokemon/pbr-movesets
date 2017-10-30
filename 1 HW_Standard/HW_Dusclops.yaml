@@ -1,0 +1,68 @@
+species: Dusclops
+ingamename: HollowGhst
+displayname: Hollow Ghost
+setname: Halloween
+tags: [halloween]
+item: Zoom Lens
+ability: Oblivious
+moves:
+    - [Shadow Punch]
+    - [Dream Eater]
+    - [Hypnosis]
+    - [Curse]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 1, spA: 31, spD: 1, spe: 31}
+evs: {hp: 20, atk: 200, def: 0, spA: 144, spD: 0, spe: 0}
+hidden: false
+---
+species: Dusclops
+ingamename: HungryGhst
+displayname: Hungry Ghost
+setname: Halloween2
+tags: [halloween]
+item: Leftovers
+ability: Gluttony
+moves:
+    - [Crunch]
+    - [Spit Up]
+    - [Stockpile]
+    - [Swallow]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 44, atk: 184, def: 40, spA: 136, spD: 40, spe: 0}
+hidden: false
+---
+species: Dusclops
+ingamename: Phantoon
+displayname: Phantoon
+setname: Halloween3
+tags: [halloween]
+item: Electirizer
+ability: Shadow Tag
+moves:
+    - [Dive]
+    - [Faint Attack]
+    - [Flame Wheel]
+    - [Will-O-Wisp]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 196, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,21 @@
+species: Registeel
+ingamename: Golurk
+displayname: Golurk
+setname: Halloween
+tags: [halloween]
+item: Spooky Plate
+ability: No Guard
+moves:
+    - [Shadow Punch]
+    - [Earthquake]
+    - [Fly]
+    - [Conversion]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 160, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

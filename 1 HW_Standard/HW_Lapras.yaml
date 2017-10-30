@@ -1,0 +1,22 @@
+species: Lapras
+ingamename: Nessie
+displayname: Nessie
+setname: Halloween
+ball: [Net]
+tags: [halloween]
+item: Mystic Water
+ability: Drizzle
+moves:
+    - [Whirlpool]
+    - [Dragon Breath]
+    - [Bide]
+    - [Rest]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 0, def: 6, spA: 31, spD: 0, spe: 6}
+evs: {hp: 0, atk: 0, def: 0, spA: 208, spD: 0, spe: 0}
+nature: Modest
+hidden: false

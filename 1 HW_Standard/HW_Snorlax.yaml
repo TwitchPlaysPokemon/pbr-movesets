@@ -1,0 +1,22 @@
+species: Snorlax
+ingamename: Gluttony
+displayname: SDS Gluttony 
+setname: Halloween
+ball: [Repeat]
+tags: [halloween]
+item: Sitrus Berry
+ability: Gluttony
+moves:
+    - [Pluck]
+    - [Bug Bite]
+    - [Swallow]
+    - [Stockpile]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 6, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 84, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Brave
+hidden: false

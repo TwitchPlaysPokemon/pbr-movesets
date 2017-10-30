@@ -1,0 +1,22 @@
+species: Lanturn
+ingamename: JckOLantrn
+displayname: Jack-o'-Lanturn
+setname: Halloween
+tags: [halloween]
+item: Lustrous Orb
+ability: Illuminate
+moves:
+    - [Flash Cannon]
+    - [Rollout]
+    - [Will-O-Wisp]
+    - [Flash]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 192, def: 8, spA: 220, spD: 0, spe: 0}
+hidden: false

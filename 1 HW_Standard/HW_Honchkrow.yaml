@@ -1,0 +1,22 @@
+species: Honchkrow
+ingamename: BwtchdCrow
+displayname: Bewitched Crow
+setname: Halloween
+tags: [halloween]
+item: Spell Tag
+ability: Shadow Tag
+moves:
+    - [Hyper Voice]
+    - [Astonish]
+    - [Perish Song]
+    - [Sing]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 252, def: 0, spA: 60, spD: 0, spe: 160}
+hidden: false

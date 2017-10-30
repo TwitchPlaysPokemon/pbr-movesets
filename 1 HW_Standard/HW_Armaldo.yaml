@@ -1,0 +1,22 @@
+species: Armaldo
+ingamename: MagerHein
+displayname: Magere Hein
+setname: Halloween
+tags: [halloween]
+item: Reaper Cloth
+ability: Pressure
+moves:
+    - [X-Scissor]
+    - [Night Slash]
+    - [Guillotine]
+    - [Destiny Bond]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 15, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

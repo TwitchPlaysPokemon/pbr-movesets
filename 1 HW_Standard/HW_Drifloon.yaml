@@ -1,0 +1,45 @@
+species: Drifloon
+ingamename: LostBlloon
+displayname: Lost Balloon
+setname: Halloween
+tags: [halloween]
+item: Sticky Barb
+ability: Drizzle
+moves:
+    - [Fly]
+    - [Water Spout]
+    - [Thunder]
+    - [Whirlwind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 252, def: 140, spA: 140, spD: 140, spe: 200}
+hidden: false
+---
+species: Drifloon
+ingamename: BrstBlloon
+displayname: BurstBalloon
+setname: Halloween2
+tags: [halloween]
+item: Starf Berry
+ability: Unburden
+moves:
+    - [Shadow Force]
+    - [Dig]
+    - [Will-O-Wisp]
+    - [Gravity]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 180, def: 100, spA: 0, spD: 180, spe: 112}
+hidden: false

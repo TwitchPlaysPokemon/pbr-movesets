@@ -1,0 +1,22 @@
+species: Chansey
+ingamename: Evil Nurse
+displayname: Evil Nurse
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Razor Fang
+ability: Huge Power
+moves:
+    - [Wake-Up-Slap]
+    - [Shadow Claw]
+    - [Lovely Kiss]
+    - [Confuse Ray]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 100, atk: 240, def: 168, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false

@@ -1,0 +1,22 @@
+species: Kecleon
+ingamename: Creeper
+displayname: SSSsss 
+setname: Halloween
+tags: [halloween]
+item: Metal Powder
+ability: Scrappy
+moves:
+    - [Explosion]
+    - [Astonish]
+    - [Brick Break]
+    - [Glare]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 10, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+hidden: false

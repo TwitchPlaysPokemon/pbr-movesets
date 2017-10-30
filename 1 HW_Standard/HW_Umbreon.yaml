@@ -1,0 +1,22 @@
+species: Umbreon
+ingamename: Witchs Cat
+displayname: Witch's Cat
+setname: Halloween
+tags: [halloween]
+item: Razor Fang
+ability: Skill Link
+moves:
+    - [Faint Attack]
+    - [Furry Swipes]
+    - [Tail Whip]
+    - [Transform]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 104, def: 0, spA: 0, spD: 0, spe: 144}
+hidden: false

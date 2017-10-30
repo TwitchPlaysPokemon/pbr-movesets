@@ -1,0 +1,22 @@
+species: Carnivine
+ingamename: Petey
+displayname: Petey Piranha
+setname: Halloween
+tags: [halloween]
+item: Big Root
+ability: Rough Skin
+moves:
+    - [Crunch]
+    - [Flamethrower]
+    - [Leech Seed]
+    - [Teeter Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 84, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

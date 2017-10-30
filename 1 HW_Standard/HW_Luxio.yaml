@@ -1,0 +1,22 @@
+species: Luxio
+ingamename: Sphinx
+displayname: Sphinx
+setname: Halloween
+tags: [halloween]
+item: Stone Plate
+ability: Sand Stream
+moves:
+    - [Judgment]
+    - [Fissure]
+    - [Sing]
+    - [Mind Reader]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 180, atk: 0, def: 128, spA: 72, spD: 128, spe: 0}
+hidden: false

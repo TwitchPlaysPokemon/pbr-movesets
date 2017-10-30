@@ -1,0 +1,22 @@
+species: Mamoswine
+ingamename: SkeleMoth
+displayname: SkeleMammoth
+setname: Halloween
+tags: [halloween]
+item: Life Orb
+ability: Snow Warning
+moves:
+    - [Ice Fang]
+    - [Sand Tomb]
+    - [Shadow Claw]
+    - [Conversion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 10, atk: 0, def: 10, spA: 31, spD: 31, spe: 10}
+evs: {hp: 0, atk: 60, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

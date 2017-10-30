@@ -1,0 +1,22 @@
+species: Gliscor
+ingamename: VampreLord
+displayname: Vampire Lord
+setname: Halloween
+tags: [halloween]
+item: King's Rock
+ability: Arena Trap
+moves:
+    - [Attack Order]
+    - [Astonish]
+    - [Pursuit]
+    - [Teeter Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 0, spe: 72}
+hidden: false

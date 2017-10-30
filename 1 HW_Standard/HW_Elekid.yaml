@@ -1,0 +1,20 @@
+species: Elekid
+ingamename: Egging
+displayname: Egging
+setname: Halloween
+tags: [halloween]
+item: Silk Scarf
+ability: Scrappy
+moves:
+    - [Egg Bomb]
+    - [Softboiled]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 192, spA: 0, spD: 160, spe: 60}
+hidden: false

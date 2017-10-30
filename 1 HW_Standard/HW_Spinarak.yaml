@@ -1,0 +1,22 @@
+species: Spinarak
+ingamename: Arachnopho
+displayname: Arachnophobia
+setname: Halloween
+tags: [halloween]
+item: Spooky Plate
+ability: Intimidate
+moves:
+    - [Astonish]
+    - [Pursuit]
+    - [Agility]
+    - [Toxic]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 152, atk: 252, def: 100, spA: 0, spD: 212, spe: 252}
+hidden: false

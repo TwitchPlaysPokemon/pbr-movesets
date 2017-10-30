@@ -1,0 +1,45 @@
+species: Tentacruel
+ingamename: Jellicent
+displayname: Jellicent
+setname: Halloween2
+tags: [halloween]
+item: [Null]
+ability: Water Absorb
+moves:
+    - [Brine]
+    - [Will-O-Wisp]
+    - [Trick Room]
+    - [Protect]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lax
+ivs: {hp: 31, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 60, atk: 0, def: 0, spA: 60, spD: 0, spe: 0}
+hidden: false
+---
+species: Tentacruel
+ingamename: Metroid
+displayname: Metroid
+setname: Halloween
+tags: [halloween]
+item: Big Root
+ability: Levitate
+moves:
+    - [Giga Drain]
+    - [Fly]
+    - [Pursuit]
+    - [Dragon Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 188, def: 68, spA: 252, spD: 0, spe: 0}
+hidden: false

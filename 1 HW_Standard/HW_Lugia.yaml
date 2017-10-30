@@ -1,0 +1,21 @@
+species: Lugia
+ingamename: Luigi
+displayname: Luigi
+setname: Halloween
+tags: [halloween]
+item: Black Belt
+ability: Super Luck
+moves:
+    - [Jump Kick]
+    - [Ember]
+    - [Ice Ball]
+    - [Assist]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Rash
+ivs: {hp: 0, atk: 20, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

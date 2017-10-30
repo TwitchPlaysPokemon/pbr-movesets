@@ -1,0 +1,22 @@
+species: Togepi
+ingamename: DR. EGGCS
+displayname: DR. EGGCS
+setname: Halloween
+tags: [halloween]
+item: Lucky Egg
+ability: Pure Power
+moves:
+    - [Frustration]
+    - [Shadow Force]
+    - [Head Smash]
+    - [Soft-boiled]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 220, atk: 252, def: 160, spA: 0, spD: 160, spe: 252}
+hidden: false

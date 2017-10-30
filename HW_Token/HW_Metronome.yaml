@@ -1,0 +1,136 @@
+species: Haunter
+ingamename: Brow Bills
+displayname: Brow Bills
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 172, def: 236, spA: 0, spD: 236, spe: 16}
+hidden: False
+---
+species: Sableye
+ingamename: SkullMoney
+displayname: Skull Money
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 120, spA: 0, spD: 124, spe: 252}
+hidden: False
+---
+species: Rotom
+ingamename: Dome Dosh
+displayname: Dome Dosh
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 23, atk: 31, def: 25, spA: 30, spD: 25, spe: 12}
+evs: {hp: 0, atk: 208, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: False
+---
+species: Banette
+ingamename: CrniumCash
+displayname: Cranium Cash
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 14, def: 31, spA: 14, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 16, spA: 0, spD: 12, spe: 132}
+hidden: False
+---
+species: Dusclops
+ingamename: NoggiNotes
+displayname: Noggin Notes
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 204, def: 0, spA: 204, spD: 0, spe: 252}
+hidden: False
+---
+species: Mismagius
+ingamename: CrownCoins
+displayname: Crown Coins
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 6, spA: 31, spD: 6, spe: 31}
+evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 12}
+hidden: False

@@ -1,0 +1,45 @@
+species: unown
+ingamename: Popping
+displayname: Popping Candy
+setname: Halloween
+tags: [halloween]
+item: Sitrus Berry
+ability: Pure Power
+moves:
+    - [Punishment]
+    - [Present]
+    - [Explosion]
+    - [Taunt]
+form: 26
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 208, atk: 148, def: 140, spA: 0, spD: 140, spe: 252}
+hidden: false
+---
+species: unown
+ingamename: Yamask
+displayname: Yamask
+setname: Halloween2
+tags: [halloween]
+item: Sitrus Berry
+ability: Aftermath
+moves:
+    - [Shadow Ball]
+    - [Knock Off]
+    - [Will-O-Wisp]
+    - [Toxic Spikes]
+form: 24
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
+hidden: false

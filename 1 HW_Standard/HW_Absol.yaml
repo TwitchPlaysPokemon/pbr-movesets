@@ -1,0 +1,22 @@
+species: Absol
+ingamename: The Grim
+displayname: The Grim
+setname: Halloween
+tags: [halloween]
+item: Sitrus Berry
+ability: Aftermath
+moves:
+    - [Assurance]
+    - [Doom Desire]
+    - [Guillotine]
+    - [Taunt]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 148, def: 0, spA: 164, spD: 0, spe: 116}
+hidden: false

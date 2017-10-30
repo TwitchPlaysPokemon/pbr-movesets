@@ -1,0 +1,45 @@
+species: Smeargle
+ingamename: BLOOD
+displayname: BLOOD
+setname: Halloween
+tags: [halloween]
+item: Big Root
+ability: Technician
+moves:
+    - [Giga Drain]
+    - [Bind]
+    - [Nasty Plot]
+    - [Dark Void]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 172, atk: 0, def: 252, spA: 212, spD: 200, spe: 0}
+hidden: false
+---
+species: Smeargle
+ingamename: SDS Envy
+displayname: SDS Envy
+setname: Halloween
+tags: [halloween]
+item: Scope Lens
+ability: Pressure
+moves:
+    - [Dark Pulse]
+    - [Copycat]
+    - [Snatch]
+    - [Nasty Plot]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: 252
+hidden: false

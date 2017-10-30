@@ -1,0 +1,22 @@
+species: Weezing
+ingamename: Frankstein
+displayname: Frankenstein
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Spooky Plate
+ability: Dry Skin
+moves:
+    - [Payback]
+    - [Astonish]
+    - [Pain Split]
+    - [Scary Face]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 192, def: 0, spA: 0, spD: 0, spe: 136}
+nature: Serious
+hidden: false

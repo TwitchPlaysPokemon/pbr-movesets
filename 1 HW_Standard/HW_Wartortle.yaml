@@ -1,0 +1,22 @@
+species: Wartortle
+ingamename: Wargtortle
+displayname: Wargtortle
+setname: Halloween
+tags: [halloween]
+item: Mental Herb
+ability: Trace
+moves:
+    - [Transform]
+    - [Me First]
+    - [Snatch]
+    - [Mind Reader]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 136, atk: 64, def: 0, spA: 56, spD: 0, spe: 252}
+hidden: false

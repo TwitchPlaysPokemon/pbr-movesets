@@ -1,0 +1,45 @@
+species: Rotom
+ingamename: Plsmageist
+displayname: Plasmageist
+setname: Halloween
+tags: [halloween]
+item: Electirizer
+ability: Snow Warning
+moves:
+    - [Astonish]
+    - [Sucker Punch]
+    - [Confuse Ray]
+    - [Trick Room]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
+hidden: false
+---
+species: Rotom
+ingamename: Phntplsml
+displayname: Phantplasmal
+setname: Halloween2
+tags: [halloween]
+item: Spell Tag
+ability: Static
+moves:
+    - [Discharge]
+    - [Ominous Wind]
+    - [Charge]
+    - [Reflect]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 0, spA: 80, spD: 0, spe: 28}
+hidden: false

@@ -1,0 +1,22 @@
+species: Empoleon
+ingamename: SDS Pride
+displayname: SDS Pride
+setname: Halloween
+tags: [halloween]
+item: Big Root
+ability: Guts
+moves:
+    - [Dynamic Punch (=8)]
+    - [Knock Off]
+    - [Ingrain]
+    - [Bulk Up]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 44, atk: 252, def: 0, spA: 0, spD: 0, spe: 160}
+hidden: false

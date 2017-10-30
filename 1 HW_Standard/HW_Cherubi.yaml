@@ -1,0 +1,20 @@
+species: Cherubi
+ingamename: AppleBobb
+displayname: AppleBobbing
+setname: Halloween
+ability: Sticky Hold
+moves:
+    - [Water Spout]
+    - [Thief]
+    - [Barrage]
+    - [Lovely Kiss]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: 252
+hidden: false

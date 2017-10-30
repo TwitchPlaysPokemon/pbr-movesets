@@ -1,0 +1,22 @@
+species: Magnezone
+ingamename: UFO
+displayname: UFO
+setname: Halloween
+tags: [halloween]
+item: Stardust
+ability: Levitate
+moves:
+    - [Psywave]
+    - [Fly]
+    - [Cosmic Power]
+    - [Confuse Ray]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 10, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

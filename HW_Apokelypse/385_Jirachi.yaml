@@ -1,0 +1,21 @@
+species: Jirachi
+ingamename: Imposter
+displayname: Imposter
+setname: Halloween
+tags: [pokelypse]
+item: [Leftovers]
+ability: Compound Eyes
+moves:
+    - [Doom Desire]
+    - [Nasty Plot]
+    - [Wish]
+    - [Protect]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 100, spA: 252, spD: 100, spe: 0}
+hidden: false

@@ -1,0 +1,22 @@
+species: Mantine
+ingamename: Ocean's
+displayname: Ocean's Deadliest
+setname: Halloween
+tags: [halloween]
+item: Poison Barb
+ability: Poison Point
+moves:
+    - [Twineedle]
+    - [Poison Tail]
+    - [Horn Drill]
+    - [Perish Song]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 60, atk: 252, def: 0, spA: 0, spD: 0, spe: 60}
+hidden: false

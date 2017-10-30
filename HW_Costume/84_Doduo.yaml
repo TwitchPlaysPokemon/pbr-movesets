@@ -1,0 +1,21 @@
+species: Doduo
+ingamename: Archen
+displayname: Archen
+setname: Costume
+tags: [costume]
+item: [Oran Berry]
+ability: [Slow Start]
+moves:
+    - [Head Smash]
+    - [Wing Attack]
+    - [Dragon Claw]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 236, def: 76, spA: 0, spD: 60, spe: 156}
+level: 5

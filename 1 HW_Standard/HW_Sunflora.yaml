@@ -1,0 +1,22 @@
+species: Sunflora
+ingamename: Flowey
+displayname: Flowey
+setname: Halloween
+tags: [halloween]
+item: Spell Tag
+ability: Intimidate
+moves:
+    - [Astonish]
+    - [Doom Desire]
+    - [Mean Look]
+    - [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 96, atk: 56, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: false

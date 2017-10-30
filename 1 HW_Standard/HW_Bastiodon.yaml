@@ -1,0 +1,22 @@
+species: Bastiodon
+ingamename: HntdCastle
+displayname: Haunted Castle
+setname: Halloween
+tags: [halloween]
+item: Spell Tag
+ability: Arena Trap
+moves:
+    - [Shadow Sneak]
+    - [Brick Break]
+    - [Fissure]
+    - [Captivate]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

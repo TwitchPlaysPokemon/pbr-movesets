@@ -1,0 +1,22 @@
+species: Arcanine
+ingamename: Cerberus
+displayname: Cerberus
+setname: Halloween
+tags: [halloween]
+item: Claw Fossil
+ability: Flash Fire
+moves:
+    - [Sacred Fire]
+    - [Crunch]
+    - [Triple Kick]
+    - [Howl]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

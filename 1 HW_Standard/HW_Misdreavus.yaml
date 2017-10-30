@@ -1,0 +1,45 @@
+species: Misdreavus
+ingamename: Prankster
+displayname: Prankster
+setname: Halloween
+tags: [halloween]
+item: Flame Orb
+ability: Guts
+moves:
+    - [Astonish]
+    - [Sucker Punch]
+    - [Trick]
+    - [Perish Song]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 188, atk: 252, def: 80, spA: 0, spD: 64, spe: 180}
+hidden: false
+---
+species: Misdreavus
+ingamename: Misdream
+displayname: Misdreameavor
+setname: Halloween2
+tags: [halloween]
+item: Sitrus Berry
+ability: Trace
+moves:
+    - [Shadow Ball]
+    - [Dark Pulse]
+    - [Aura Sphere]
+    - [Nasty Plot]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 180, atk: 0, def: 32, spA: 96, spD: 0, spe: 80}
+hidden: false

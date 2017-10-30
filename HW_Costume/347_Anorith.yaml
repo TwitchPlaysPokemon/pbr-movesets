@@ -1,0 +1,21 @@
+species: Anorith
+ingamename: Larvesta
+displayname: Larvesta
+setname: Costume
+tags: [costume]
+item: [Charcoal]
+ability: [Flame Body]
+moves:
+    - [Flare Blitz]
+    - [Bug Bite]
+    - [Amnesia]
+    - [Morning Sun]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 5

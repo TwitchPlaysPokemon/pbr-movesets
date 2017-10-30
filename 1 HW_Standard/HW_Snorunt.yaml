@@ -1,0 +1,22 @@
+species: Snorunt
+ingamename: Witchs Hat
+displayname: Witch's Hat
+setname: Halloween
+tags: [halloween]
+item: Wise Glasses
+ability: Serene Grace
+moves:
+    - [Icy Wind]
+    - [Psychic]
+    - [Ominous Wind]
+    - [Nasty Plot]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 144, atk: 0, def: 144, spA: 252, spD: 200, spe: 252}
+hidden: false

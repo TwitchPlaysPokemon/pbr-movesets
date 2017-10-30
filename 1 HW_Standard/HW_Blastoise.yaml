@@ -1,0 +1,22 @@
+species: Blastoise
+ingamename: Bowser
+displayname: Bowser
+setname: Halloween
+tags: [halloween]
+item: Lagging Tail
+ability: Rough Skin
+moves:
+    - [Flamethrower]
+    - [Spike Cannon]
+    - [Bounce]
+    - [Withdraw]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 44, atk: 160, def: 0, spA: 100, spD: 0, spe: 0}
+hidden: false

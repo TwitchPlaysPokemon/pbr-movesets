@@ -1,0 +1,21 @@
+species: Suicune
+ingamename: Tom Percy
+displayname: Thomas Percy
+setname: Halloween
+tags: [halloween]
+item: Smoke Ball
+ability: Reckless
+moves:
+    - [Explosion]
+    - [Ember]
+    - [Nasty Plot]
+    - [Brick Break]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Rash
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

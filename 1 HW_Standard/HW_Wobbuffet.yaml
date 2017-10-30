@@ -1,0 +1,22 @@
+species: Wobbuffet
+ingamename: Soothsayer
+displayname: Soothsayer
+setname: Halloween
+tags: [halloween]
+item: Spooky Plate
+ability: Forewarn
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Detect]
+    - [Calm Mind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 12, spA: 252, spD: 32, spe: 0}
+hidden: false

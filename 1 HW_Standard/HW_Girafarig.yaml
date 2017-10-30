@@ -1,0 +1,22 @@
+species: Girafarig
+ingamename: ChainChomp
+displayname: Chain Chomp
+setname: Halloween
+tags: [halloween]
+item: Lum Berry
+ability: Speed Boost
+moves:
+    - [Bite]
+    - [Thrash]
+    - [Thunder Fang]
+    - [Baton Pass]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 100, def: 60, spA: 0, spD: 60, spe: 0}
+hidden: false

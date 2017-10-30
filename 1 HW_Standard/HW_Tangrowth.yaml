@@ -1,0 +1,45 @@
+species: Tangrowth
+ingamename: CandyWrapr
+displayname: Candy Wrappers
+setname: Halloween
+tags: [halloween]
+item: Shed Shell
+ability: Sticky Hold
+moves:
+    - [Fly]
+    - [Wrap]
+    - [Icy Wind]
+    - [Trump Card (=3)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 176, def: 0, spA: 0, spD: 92, spe: 92}
+hidden: false
+---
+species: Tangrowth
+ingamename: Mummy
+displayname: Mummy
+setname: Halloween2
+tags: [halloween]
+item: Escape Rope
+ability: Pure Power
+moves:
+    - [Wrap]
+    - [Pursuit]
+    - [Glare]
+    - [Destiny Bond]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

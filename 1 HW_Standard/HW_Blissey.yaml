@@ -1,0 +1,22 @@
+species: Blissey
+ingamename: KindlyGran
+displayname: Kindly Granny
+setname: Halloween
+tags: [halloween]
+item: Leftovers
+ability: No Guard
+moves:
+    - [Present]
+    - [Magma Storm]
+    - [Assist]
+    - [Sweet Kiss]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 236, def: 40, spA: 120, spD: 0, spe: 0}
+hidden: false

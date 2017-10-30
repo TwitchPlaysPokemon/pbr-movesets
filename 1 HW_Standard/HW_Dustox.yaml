@@ -1,0 +1,45 @@
+species: Dustox
+ingamename: CountBleck
+displayname: Count Bleck
+setname: Halloween
+tags: [halloween]
+item: Iron Ball
+ability: Pressure
+moves:
+    - [Judgment]
+    - [Dark Pulse]
+    - [Nasty Plot]
+    - [Trick Room]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
+species: Dustox
+ingamename: Luna Moth
+displayname: Luna Moth
+setname: Halloween2
+tags: [halloween]
+item: Moon Stone
+ability: Illuminate
+moves:
+    - [Ominous Wind]
+    - [Bug Bite]
+    - [Flash]
+    - [Confuse Ray]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: false

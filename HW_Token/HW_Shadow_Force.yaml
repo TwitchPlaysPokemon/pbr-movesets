@@ -1,0 +1,137 @@
+species: Zubat
+ingamename: Vampire
+displayname: Vampire
+setname: Shadow Force
+tags: [shadowforce]
+item: Spooky Plate
+ability: Huge Power
+moves:
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 204, def: 244, spA: 0, spD: 200, spe: 16}
+hidden: False
+---
+species: Drowzee
+ingamename: Zombie
+displayname: Zombie
+setname: Shadow Force
+tags: [shadowforce]
+item: Spooky Plate
+ability: Huge Power
+moves:
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 180, def: 162, spA: 92, spD: 0, spe: 120}
+hidden: False
+---
+species: Cubone
+ingamename: Skeleton
+displayname: Skeleton
+setname: Shadow Force
+tags: [shadowforce]
+item: Spooky Plate
+ability: Huge Power
+moves:
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 27, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 164, def: 0, spA: 0, spD: 156, spe: 176}
+hidden: False
+---
+species: Poochyena
+ingamename: Werewolf
+displayname: Werewolf
+setname: Shadow Force
+tags: [shadowforce]
+item: Spooky Plate
+ability: Huge Power
+moves:
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Gentle
+ivs: {hp: 31, atk: 31, def: 14, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 192, def: 0, spA: 0, spD: 220, spe: 176}
+hidden: False
+---
+species: Duskull
+ingamename: Mummy
+displayname: Mummy
+setname: Shadow Force
+tags: [shadowforce]
+item: Spooky Plate
+ability: Huge Power
+moves:
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 21, spA: 31, spD: 0, spe: 31}
+evs: {hp: 176, atk: 56, def: 0, spA: 0, spD: 0, spe: 204}
+hidden: False
+---
+species: Mime Jr.
+ingamename: ScaryClown
+displayname: Scary Clown
+setname: Shadow Force
+tags: [shadowforce]
+item: Choice Band
+ability: Huge Power
+moves:
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 25}
+evs: {hp: 236, atk: 248, def: 160, spA: 0, spD: 0, spe: 0}
+hidden: False

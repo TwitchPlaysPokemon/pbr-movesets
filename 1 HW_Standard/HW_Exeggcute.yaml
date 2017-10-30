@@ -1,0 +1,22 @@
+species: Exeggcute
+ingamename: WereLegion
+displayname: We Are Legion
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Wiki Berry
+ability: Reckless
+moves:
+    - [Attack Order]
+    - [Psychic]
+    - [Double Team]
+    - [Nasty Plot]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 252, def: 140, spA: 252, spD: 252, spe: 0}
+nature: Serious
+hidden: false

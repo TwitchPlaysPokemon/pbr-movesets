@@ -1,0 +1,22 @@
+species: Chatot
+ingamename: Phancero
+displayname: Phancero
+setname: Halloween
+tags: [halloween]
+item: Mystic Water
+ability: Filter
+moves:
+    - [Water Gun]
+    - [Water Gun]
+    - [Shadow Claw]
+    - [Struggle]
+gender: [m,f]
+happiness: 255
+biddable: false
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 140, spA: 252, spD: 140, spe: 252}
+hidden: false

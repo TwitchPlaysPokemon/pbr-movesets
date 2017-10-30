@@ -1,0 +1,68 @@
+species: Dusknoir
+ingamename: Reaper
+displayname: Reaper
+setname: Halloween
+tags: [halloween]
+item: Reaper Cloth
+ability: Shadow Tag
+moves:
+    - [Shadow Punch]
+    - [Close Combat]
+    - [Pursuit]
+    - [Destiny Bond]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 112, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Dusknoir
+ingamename: DeathsGrip
+displayname: Deaths Grip
+setname: Halloween2
+tags: [halloween]
+item: Grip Claw
+ability: Levitate
+moves:
+    - [Shadow Sneak]
+    - [Fly]
+    - [Wrap]
+    - [Protect]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Dusknoir
+ingamename: Davy Jones
+displayname: Davy Jones
+setname: Halloween3
+tags: [halloween]
+item: Odd Keystone
+ability: Suction Cups
+moves:
+    - [Crabhammer]
+    - [Cross Chop]
+    - [Mean Look]
+    - [Curse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,43 @@
+species: Ditto
+ingamename: Doppelgang
+displayname: Doppelganger
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Quick Powder
+ability: Wonder Guard
+moves:
+    - [Transform]
+    - [Aqua Ring (=1)]
+    - [Ingrain (=1)]
+    - [Leech Seed (=1)]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 164, atk: 0, def: 72, spA: 0, spD: 68, spe: 100}
+nature: Serious
+hidden: false
+---
+species: Ditto
+ingamename: Guiser
+displayname: Guiser
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Zoom Lens
+ability: Color Change
+moves:
+    - [Pay Day]
+    - [Sky Uppercut]
+    - [Sing]
+    - [Foresight]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 252, def: 136, spA: 0, spD: 136, spe: 156}
+nature: Adamant
+hidden: false

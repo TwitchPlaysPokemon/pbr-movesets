@@ -1,0 +1,22 @@
+species: Omanyte
+ingamename: CorruptGod
+displayname: Corrupted God 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Spooky Plate
+ability: Pressure
+moves:
+    - [Judgment]
+    - [Ancient Power]
+    - [Metronome]
+    - [Pain Split]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 100, spA: 200, spD: 200, spe: 200}
+nature: Brave
+hidden: false

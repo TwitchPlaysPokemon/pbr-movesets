@@ -1,0 +1,22 @@
+species: Machamp
+ingamename: Hulk
+displayname: Hulk
+setname: Halloween
+tags: [halloween]
+item: [Null]
+ability: Anger Point
+moves:
+    - [Rock Smash]
+    - [Sucker Punch]
+    - [Bounce]
+    - [Howl]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 208, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

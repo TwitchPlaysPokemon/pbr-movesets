@@ -1,0 +1,22 @@
+species: Venusaur
+ingamename: Ankylosaur
+displayname: Zombie Ankylosaur
+setname: Halloween
+tags: [halloween]
+item: Armor Fossil
+ability: Adaptability
+moves:
+    - [Shadow Force]
+    - [Earthquake]
+    - [Nature Power]
+    - [Curse]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 20, def: 31, spA: 0, spD: 31, spe: 10}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

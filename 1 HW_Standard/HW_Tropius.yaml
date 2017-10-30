@@ -1,0 +1,22 @@
+species: Tropius
+ingamename: Fall
+displayname: Fall
+setname: Halloween
+tags: [halloween]
+item: Lum Berry
+ability: Drizzle
+moves:
+    - [Weather Ball]
+    - [Icy Wind]
+    - [Dig]
+    - [Hail]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Serious
+ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 160, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,22 @@
+species: Sandslash
+ingamename: Pukwudgie
+displayname: Pukwudgie
+setname: Halloween
+tags: [halloween]
+item: Petaya Berry
+ability: Synchronize
+moves:
+    - [Dark Pulse]
+    - [Aura Sphere]
+    - [Nasty Plot]
+    - [Trick Room]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 0, def: 0, spA: 31, spD: 31, spe: 0}
+evs: {hp: 100, atk: 0, def: 0, spA: 252, spD: 156, spe: 0}
+hidden: false

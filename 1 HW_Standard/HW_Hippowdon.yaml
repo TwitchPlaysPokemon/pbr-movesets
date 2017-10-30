@@ -1,0 +1,22 @@
+species: Hippowdon
+ingamename: Bunyip
+displayname: Bunyip
+setname: Halloween
+tags: [halloween]
+item: Lagging Tail
+ability: Sand Stream
+moves:
+    - [Muddy Water]
+    - [Ice Fang]
+    - [Payback]
+    - [Trick]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 60}
+hidden: false

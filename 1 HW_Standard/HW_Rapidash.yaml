@@ -1,0 +1,22 @@
+species: Rapidash
+ingamename: Beheaded
+displayname: Beheaded Rider
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Dome Fossil
+ability: Rock Head
+moves:
+    - [Headbutt]
+    - [Fling]
+    - [Guillotine]
+    - [Recycle]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 224, def: 0, spA: 0, spD: 0, spe: 100}
+hidden: false

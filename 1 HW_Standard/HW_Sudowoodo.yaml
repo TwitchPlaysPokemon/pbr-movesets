@@ -1,0 +1,45 @@
+species: Sudowoodo
+ingamename: Spooky For
+displayname: Spooky Forrest
+setname: Halloween
+tags: [halloween]
+item: Big Root
+ability: Sand Stream
+moves:
+    - [Wood Hammer]
+    - [Shadow Claw]
+    - [Leech Seed]
+    - [Double Team]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 23, spe: 0}
+evs: {hp: 4, atk: 80, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Sudowoodo
+ingamename: Trevenant
+displayname: Trevenant
+setname: Halloween2
+tags: [halloween]
+item: Big Root
+ability: Natural Cure
+moves:
+    - [Wood Hammer]
+    - [Shadow Claw]
+    - [Leech Seed]
+    - [Conversion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Careful
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 156, spe: 0}
+hidden: false

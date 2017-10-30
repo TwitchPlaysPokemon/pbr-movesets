@@ -1,0 +1,22 @@
+species: Omastar
+ingamename: Cthulhu
+displayname: Cthulhu 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: King's Rock
+ability: Suction Cups
+moves:
+    - [Water Spout]
+    - [Dive]
+    - [Poison Tail]
+    - [Dragon Dance]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 160, def: 0, spA: 60, spD: 0, spe: 60}
+nature: Serious
+hidden: false

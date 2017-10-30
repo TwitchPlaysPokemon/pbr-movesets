@@ -1,0 +1,22 @@
+species: Swampert
+ingamename: Swamp Mons
+displayname: Swamp Monster
+setname: Halloween
+tags: [halloween]
+item: Honey
+ability: Stench
+moves:
+    - [Muddy Water]
+    - [Gunk Shot]
+    - [Stomp]
+    - [Mud Slap]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 20, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 40, def: 0, spA: 80, spD: 0, spe: 0}
+hidden: false

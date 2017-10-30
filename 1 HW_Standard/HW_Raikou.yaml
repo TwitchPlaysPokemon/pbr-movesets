@@ -1,0 +1,21 @@
+species: Raikou
+ingamename: RobCatesby
+displayname: Robert Catesby
+setname: Halloween
+tags: [halloween]
+item: Flame Mail
+ability: Reckless
+moves:
+    - [Explosion]
+    - [Chatter]
+    - [Nasty Plot]
+    - [Follow Me]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 100, spD: 0, spe: 0}
+hidden: false

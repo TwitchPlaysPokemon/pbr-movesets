@@ -1,0 +1,21 @@
+species: Magneton
+ingamename: RoboRevolt
+displayname: Robot Revolt 
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Dubious Disc
+ability: Download
+moves:
+    - [Attack Order]
+    - [Doom Desire]
+    - [Metal Sound]
+    - [Explosion]
+happiness: 0
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+nature: Mild
+hidden: false

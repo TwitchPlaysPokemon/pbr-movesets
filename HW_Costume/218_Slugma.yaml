@@ -1,0 +1,21 @@
+species: Slugma
+ingamename: Salandit
+displayname: Salandit
+setname: Costume
+tags: [costume]
+item: [Charcoal]
+ability: [Oblivious]
+moves:
+    - [Sludge Bomb]
+    - [Ember]
+    - [Dragon Pulse]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Luxury]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 36, atk: 0, def: 36, spA: 196, spD: 36, spe: 196}
+level: 5

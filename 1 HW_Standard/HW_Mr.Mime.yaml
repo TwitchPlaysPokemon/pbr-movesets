@@ -1,0 +1,45 @@
+species: Mr. Mime
+ingamename: Joker
+displayname: Joker
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Smoke Ball
+ability: Filter
+moves:
+    - [Trump Card (=3)]
+    - [Punishment]
+    - [Swagger]
+    - [Nasty Plot]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 120, spD: 0, spe: 136}
+nature: Serious
+hidden: false
+---
+species: Mr. Mime
+ingamename: Evil Clown
+displayname: Evil Clown
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Silverpowder
+ability: Hustle
+moves:
+    - [Shadow Claw]
+    - [Low Kick]
+    - [Tickle]
+    - [Scary Face]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 200, atk: 252, def: 200, spA: 0, spD: 0, spe: 252}
+nature: Adamant
+hidden: false

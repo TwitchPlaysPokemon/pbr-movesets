@@ -1,0 +1,22 @@
+species: Scizor
+ingamename: Dentist
+displayname: Dentist
+setname: Halloween
+tags: [halloween]
+item: Silk Scarf
+ability: Technician
+moves:
+    - [Brick Break]
+    - [Pluck]
+    - [False Swipe]
+    - [Mean Look]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 28, def: 0, spA: 0, spD: 0, spe: 112}
+hidden: false

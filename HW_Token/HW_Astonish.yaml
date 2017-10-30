@@ -1,0 +1,137 @@
+species: Gastly
+ingamename: WutFace 1
+displayname: WutFace 1
+setname: Astonish
+tags: [astonish]
+item: Choice Band
+ability: Serene Grace
+moves:
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 200, def: 116, spA: 0, spD: 0, spe: 24}
+hidden: False
+---
+species: Haunter
+ingamename: WutFace 2
+displayname: WutFace 2
+setname: Astonish
+tags: [astonish]
+item: Choice Band
+ability: Serene Grace
+moves:
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 30, atk: 31, def: 31, spA: 31, spD: 31, spe: 7}
+evs: {hp: 0, atk: 76, def: 52, spA: 0, spD: 0, spe: 0}
+hidden: False
+---
+species: Gengar
+ingamename: WutFace 3
+displayname: WutFace 3
+setname: Astonish
+tags: [astonish]
+item: Choice Band
+ability: Serene Grace
+moves:
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: False
+---
+species: Misdreavus
+ingamename: WutFace 4
+displayname: WutFace 4
+setname: Astonish
+tags: [astonish]
+item: Choice Band
+ability: Serene Grace
+moves:
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 27}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: False
+---
+species: Drifloon
+ingamename: WutFace 5
+displayname: WutFace 5
+setname: Astonish
+tags: [astonish]
+item: Choice Band
+ability: Serene Grace
+moves:
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 80, def: 104, spA: 0, spD: 0, spe: 104}
+hidden: False
+---
+species: Mismagius
+ingamename: WutFace 6
+displayname: WutFace 6
+setname: Astonish
+tags: [astonish]
+item: Choice Band
+ability: Serene Grace
+moves:
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 10}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: False

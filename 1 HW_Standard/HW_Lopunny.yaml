@@ -1,0 +1,22 @@
+species: Lopunny
+ingamename: Succubus
+displayname: Succubus
+setname: Halloween
+tags: [halloween]
+item: Destiny Knot
+ability: Cute Charm
+moves:
+    - [Shadow Claw]
+    - [Bite]
+    - [Lovely Kiss]
+    - [Conversion]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 20, spA: 31, spD: 20, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 116}
+hidden: false

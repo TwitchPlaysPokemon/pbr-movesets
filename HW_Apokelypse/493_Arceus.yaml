@@ -1,0 +1,21 @@
+species: Arceus
+ingamename: BlessRNG
+displayname: BlessRNG
+setname: Halloween
+tags: [pokelypse]
+item: [Leftovers]
+ability: Serene Grace
+moves:
+    - [Metronome (=40)]
+    - [Acupressure]
+    - [Confuse Ray]
+    - [Wish]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Serious
+ivs: 31
+evs: 252
+hidden: false

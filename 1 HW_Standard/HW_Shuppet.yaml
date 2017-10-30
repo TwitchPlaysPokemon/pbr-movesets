@@ -1,0 +1,45 @@
+species: Shuppet
+ingamename: Old Puppet
+displayname: Old Puppet
+setname: Halloween
+tags: [halloween]
+item: Wise Glasses
+ability: Serene Grace
+moves:
+    - [Ominous Wind]
+    - [Aura Sphere]
+    - [Ancient Power]
+    - [Nasty Plot]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 220, spA: 100, spD: 220, spe: 252}
+hidden: false
+---
+species: Shuppet
+ingamename: Jealous
+displayname: Jealous Head
+setname: Halloween2
+tags: [halloween]
+item: Soul Dew
+ability: Unaware
+moves:
+    - [Shadow Force]
+    - [Head Smash]
+    - [Guillotine]
+    - [Scary Face]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 120, def: 220, spA: 0, spD: 220, spe: 160}
+hidden: false

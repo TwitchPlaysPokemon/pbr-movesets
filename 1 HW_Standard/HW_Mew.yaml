@@ -1,0 +1,21 @@
+species: Mew
+ingamename: ET
+displayname: E.T.
+setname: Halloween
+ball: [Net]
+tags: [halloween]
+item: Oran Berry
+ability: Dry Skin
+moves:
+    - [Hyper Voice]
+    - [Fly]
+    - [Mimic]
+    - [Helping Hand]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 31, def: 20, spA: 31, spD: 20, spe: 10}
+evs: {hp: 0, atk: 40, def: 0, spA: 40, spD: 0, spe: 0}
+nature: Serious
+hidden: false

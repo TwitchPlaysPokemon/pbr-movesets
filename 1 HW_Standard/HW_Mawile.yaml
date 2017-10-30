@@ -1,0 +1,45 @@
+species: Mawile
+ingamename: PunOko 
+displayname: PunOko 
+setname: Halloween
+tags: [halloween]
+item: Destiny Knot
+ability: Rough skin
+moves:
+    - [Dynamic Punch]
+    - [Frustration]
+    - [Shadow Punch]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Mawile
+ingamename: Gourgeist
+displayname: Gourgeist
+setname: Halloween2
+tags: [halloween]
+item: Miracle Seed
+ability: Intimidate
+moves:
+    - [Doom Desire]
+    - [Shadow Ball]
+    - [Seed Bomb]
+    - [Conversion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 152, atk: 100, def: 56, spA: 252, spD: 152, spe: 220}
+hidden: false

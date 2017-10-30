@@ -1,0 +1,21 @@
+species: Celebi
+ingamename: CarmlOnion
+displayname: Caramel Onion
+setname: Halloween
+tags: [halloween]
+item: Shoal Salts
+ability: Filter
+moves:
+    - [Heat Wave]
+    - [Smelling Salt]
+    - [Mirror Coat]
+    - [Fake Tears]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

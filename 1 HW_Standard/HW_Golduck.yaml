@@ -1,0 +1,22 @@
+species: Golduck
+ingamename: Ghoulduck
+displayname: Ghoulduck
+setname: Halloween
+tags: [halloween]
+item: Rare Bone
+ability: Stench
+moves:
+    - [Dig]
+    - [Ominous Wind]
+    - [Sand Attack]
+    - [Ingrain]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 15, spe: 31}
+evs: {hp: 40, atk: 160, def: 0, spA: 224, spD: 0, spe: 40}
+hidden: false

@@ -1,0 +1,21 @@
+species: Manaphy
+ingamename: Sea Demon
+displayname: Sea Demon
+setname: Halloween
+tags: [pokelypse]
+item: [Life Orb]
+ability: Volt Absorb
+moves:
+    - [Surf]
+    - [Thunder]
+    - [Blizzard]
+    - [Dark Void]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 232, atk: 0, def: 20, spA: 252, spD: 20, spe: 20}
+hidden: false

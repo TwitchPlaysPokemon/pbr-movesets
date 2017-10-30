@@ -1,0 +1,65 @@
+species: Giratina
+ingamename: Devil
+displayname: Devil
+setname: Halloween
+tags: [halloween]
+item: Black Glasses
+ability: Drought
+moves:
+    - [Ominous Wind]
+    - [Punishment]
+    - [Bind]
+    - [Follow Me]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Giratina
+ingamename: Hades
+displayname: Hades
+setname: Halloween2
+tags: [halloween]
+item: Iron Ball
+ability: Intimidate
+moves:
+    - [Shadow Sneak]
+    - [Me First]
+    - [Curse]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 1, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Giratina
+ingamename: Draygon
+displayname: Draygon
+setname: Halloween3
+tags: [halloween]
+item: Electirizer
+ability: Scrappy
+moves:
+    - [Hyper Beam]
+    - [Zap Cannon]
+    - [Seismic Toss]
+    - [Agility]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

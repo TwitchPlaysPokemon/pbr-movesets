@@ -1,0 +1,22 @@
+species: Torterra
+ingamename: GigaBowser
+displayname: GigaBowser
+setname: Halloween
+tags: [halloween]
+item: Razor Fang
+ability: Blaze
+moves:
+    - [Shadow Claw]
+    - [Flamethrower]
+    - [Bounce]
+    - [Low Kick]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 180, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
