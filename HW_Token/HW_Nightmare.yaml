@@ -8,6 +8,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
+    - [Dark Void]
+    - [Nightmare]
 gender: [f]
 happiness: 255
 biddable: True
@@ -29,6 +31,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
+    - [Dark Void]
+    - [Nightmare]
 happiness: 255
 biddable: True
 rarity: 0.0
@@ -47,6 +51,8 @@ tags: [nightmare]
 item: Black Sludge
 ability: Bad Dreams
 moves:
+    - [Dark Void]
+    - [Nightmare]
     - [Dark Void]
     - [Nightmare]
 form: Defense
@@ -70,6 +76,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
+    - [Dark Void]
+    - [Nightmare]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -91,6 +99,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
+    - [Dark Void]
+    - [Nightmare]
 gender: [f]
 happiness: 255
 biddable: True
@@ -110,6 +120,8 @@ tags: [nightmare]
 item: Black Sludge
 ability: Bad Dreams
 moves:
+    - [Dark Void]
+    - [Nightmare]
     - [Dark Void]
     - [Nightmare]
 happiness: 255
