@@ -13,7 +13,7 @@ moves:
     - [Toxic]
 gender: [m]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 1.0
 ball: [Master]
 shiny: True
