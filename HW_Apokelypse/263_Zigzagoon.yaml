@@ -21,4 +21,4 @@ level: 1
 nature: Adamant
 ivs: 31
 evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 0, spe: 0}
-hidden: false
+hidden: true
