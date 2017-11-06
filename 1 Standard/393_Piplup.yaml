@@ -30,7 +30,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.33
 ball: [Dive]
 nature: Adamant
 evs: {hp: 8, atk: 252, def: 80, spA: 0, spD: 80, spe: 88}
