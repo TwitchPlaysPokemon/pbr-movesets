@@ -52,8 +52,8 @@ happiness: 255
 biddable: True
 rarity: 0.15
 nature: Modest
-evs: {hp: 0, atk: 0, def: 0, spA: 220, spD: 0, spe: 16}
-ivs: {hp: 15, atk: 30, def: 15, spA: 31, spD: 15, spe: 31}
+evs: {hp: 8, atk: 4, def: 12, spA: 220, spD: 0, spe: 24}
+ivs: {hp: 13, atk: 29, def: 12, spA: 31, spD: 15, spe: 29}
 ---
 species: Breloom
 setname: Technician

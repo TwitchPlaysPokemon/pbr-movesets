@@ -89,9 +89,9 @@ happiness: 255
 biddable: True
 rarity: 0.15
 ball: [Heal]
-nature: Adamant 
-ivs: {hp: 5, atk: 31, def: 31, spA: 31, spD: 5, spe: 31}
-evs: {hp: 0, atk: 252, def: 132, spA: 44, spD: 0, spe: 80}
+nature: Adamant
+ivs: {hp: 29, atk: 29, def: 29, spA: 31, spD: 7, spe: 29}
+evs: {hp: 0, atk: 252, def: 132, spA: 40, spD: 0, spe: 76}
 ---
 species: Roserade
 setname: Weather Ball

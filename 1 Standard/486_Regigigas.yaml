@@ -49,7 +49,7 @@ biddable: True
 rarity: 0.2
 ball: [Cherish]
 nature: Quiet
-ivs: 18
+ivs: {hp: 18, atk: 18, def: 19, spA: 19, spD: 18, spe: 18}
 evs: 0
 ---
 species: Regigigas

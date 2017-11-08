@@ -52,8 +52,8 @@ biddable: True
 rarity: 0.2
 ball: [Cherish]
 nature: Naughty
-ivs: {hp: 0, atk: 28, def: 1, spA: 1, spD: 3, spe: 0}
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 29, def: 1, spA: 1, spD: 3, spe: 0}
+evs: {hp: 0, atk: 152, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Latias
 setname: Airplane

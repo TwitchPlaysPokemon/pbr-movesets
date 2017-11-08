@@ -71,5 +71,5 @@ biddable: True
 rarity: 0.25
 ball: [Luxury]
 nature: Rash
-ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 0, spe: 31}
-evs: {hp: 28, atk: 80, def: 128, spA: 200, spD: 0, spe: 24}
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 3, spe: 31}
+evs: {hp: 28, atk: 76, def: 132, spA: 200, spD: 0, spe: 24}
