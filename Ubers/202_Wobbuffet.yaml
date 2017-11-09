@@ -10,9 +10,10 @@ moves:
     - [Encore, Safeguard]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 1.0
 ball: [Heal]
 nature: Calm
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 28, atk: 0, def: 228, spA: 0, spD: 252, spe: 0}
+hidden: True
