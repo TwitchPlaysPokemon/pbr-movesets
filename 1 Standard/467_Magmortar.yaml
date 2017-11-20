@@ -40,7 +40,7 @@ species: Magmortar
 setname: Special
 tags: [standard]
 item: [Iron Ball]
-ability: [Null]
+ability: [Vital Spirit]
 moves:
     - [Flamethrower]
     - [Thunderbolt]
