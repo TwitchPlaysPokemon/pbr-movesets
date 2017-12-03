@@ -4,9 +4,9 @@ tags: [standard]
 item: [Null]
 ability: [Tinted Lens]
 moves:
-    - [Air Slash]
-    - [Psywave]
-    - [Sleep Powder]
+    - [Signal Beam]
+    - [Air Cutter]
+    - [Giga Drain]
     - [Supersonic]
 gender: [m, f]
 happiness: 255
@@ -23,10 +23,10 @@ tags: [standard]
 item: [Null]
 ability: [Tinted Lens]
 moves:
+    - [Fly]
     - [Bug Bite]
-    - [Giga Impact]
-    - [Toxic]
-    - [Roost]
+    - [Secret Power]
+    - [Thief]
 gender: [m, f]
 happiness: 255
 biddable: True
