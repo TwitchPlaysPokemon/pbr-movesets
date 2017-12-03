@@ -6,8 +6,8 @@ item: [Toxic Orb]
 ability: [Poison Heal]
 moves:
     - [Seed Bomb]
-    - [Facade]
-    - [Leech Seed]
+    - [Double Edge]
+    - [Swords Dance]
     - [Protect]
 gender: [m,f]
 happiness: 255
