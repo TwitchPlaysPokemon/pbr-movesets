@@ -20,13 +20,13 @@ evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 0}
 species: Blissey
 setname: CalmMind
 tags: [ubers]
-item: [Leftovers]
+item: [Sitrus Berry]
 ability: [Serene Grace]
 moves:
     - [Ice Beam, Psychic, Shadow Ball]
     - [Fire Blast, Thunder]
     - [Calm Mind]
-    - [Softboiled]
+    - [Heal Bell]
 gender: [m, f]
 happiness: 255
 biddable: True
