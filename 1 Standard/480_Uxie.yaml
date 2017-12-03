@@ -24,8 +24,8 @@ ability: [Levitate]
 moves:
     - [Confusion]
     - [Charge Beam]
+    - [Dream Eater]
     - [Yawn]
-    - [Block]
 happiness: 255
 biddable: True
 rarity: 0.25
