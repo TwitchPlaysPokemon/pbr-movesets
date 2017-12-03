@@ -1,13 +1,13 @@
 species: Ho-Oh
 setname: Tank
 tags: [ubers]
-item: [Shuca Berry, Leftovers]
+item: [Charti Berry]
 ability: [Pressure]
 moves:
     - [Sacred Fire]
-    - [Fly, Fly, Brave Bird]
-    - [Substitute, Safeguard, Whirlwind]
-    - [Roost, Light Screen]
+    - [Fly]
+    - [Substitute]
+    - [Light Screen]
 combinations:
     - [Shuca Berry, Roost]
 happiness: 255
