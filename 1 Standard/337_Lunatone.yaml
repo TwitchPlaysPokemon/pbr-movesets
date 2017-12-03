@@ -24,9 +24,9 @@ item: [Null]
 ability: [Levitate]
 moves:
     - [Stone Edge]
+    - [Zen Headbutt]
     - [Earthquake]
-    - [Will-O-Wisp]
-    - [Selfdestruct]
+    - [Heal Block]
 happiness: 255
 biddable: True
 rarity: 0.2
