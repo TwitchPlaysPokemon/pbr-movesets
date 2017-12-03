@@ -1,21 +1,21 @@
 species: Venonat
 setname: Tinted Lens
 tags: [standard]
-item: [Lansat Berry]
+item: [null]
 ability: [Tinted Lens]
 moves:
     - [Signal Beam]
+    - [Sludge Bomb]
+    - [Hidden Power]
     - [Sleep Powder]
-    - [Double Team]
-    - [Baton Pass]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Safari]
-nature: Modest
-evs: {hp: 84, atk: 0, def: 84, spA: 172, spD: 84, spe: 84}
-ivs: 31
+nature: Timid
+evs: {hp: 44, atk: 0, def: 84, spA: 240, spD: 52, spe: 88}
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
 ---
 species: Venonat
 setname: Compound Eyes
