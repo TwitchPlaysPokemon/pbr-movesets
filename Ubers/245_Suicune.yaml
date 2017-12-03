@@ -10,6 +10,7 @@ moves:
     - [Rest]
 happiness: 255
 biddable: False
+Hidden: true
 rarity: 0.7
 ball: [Ultra]
 nature: Bold
