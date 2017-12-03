@@ -5,9 +5,9 @@ item: [Leftovers]
 ability: [Natural Cure]
 moves:
     - [Seismic Toss]
-    - [Fire Blast]
-    - [Toxic, Thunder Wave, Snatch]
-    - [Wish, Wish, Heal Bell]
+    - [Flamethrower]
+    - [Toxic]
+    - [Protect, Snatch]
 gender: [m, f]
 happiness: 255
 biddable: True
