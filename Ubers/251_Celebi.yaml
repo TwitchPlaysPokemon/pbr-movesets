@@ -6,8 +6,8 @@ ability: [Natural Cure]
 moves:
     - [Grass Knot]
     - [Psychic, U-Turn, Earth Power]
-    - [Thunder Wave, Leech Seed, Heal Bell]
-    - [Recover]
+    - [Thunder Wave]
+    - [Leech Seed]
 happiness: 255
 biddable: True
 rarity: 0.3
