@@ -1,20 +1,20 @@
 species: Poliwag
 setname: Physical
 tags: [standard]
-item: [King's Rock]
-ability: [Swift Swim]
+item: [null]
+ability: [Damp]
 moves:
-    - [Waterfall]
-    - [Body Slam]
-    - [Double-Slap]
-    - [Rain Dance]
+    - [Dive]
+    - [Facade]
+    - [Wake-Up Slap]
+    - [Belly Drum]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Dive]
-nature: Adamant
-evs: {hp: 132, atk: 252, def: 0, spA: 0, spD: 0, spe: 124}
+nature: Jolly
+evs: {hp: 248, atk: 16, def: 96, spA: 0, spD: 88, spe: 60}
 ivs: 31
 ---
 species: Poliwag
