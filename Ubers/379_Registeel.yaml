@@ -15,21 +15,3 @@ ball: [Dusk]
 nature: Careful
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 24, def: 80, spA: 0, spD: 152, spe: 0}
----
-species: Registeel
-setname: Curse
-tags: [ubers]
-item: [Leftovers]
-ability: [Clear Body]
-moves:
-    - [Iron Head]
-    - [Sleep Talk]
-    - [Curse]
-    - [Rest]
-happiness: 255
-biddable: True
-rarity: 0.4
-ball: [Dusk]
-nature: Careful
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
