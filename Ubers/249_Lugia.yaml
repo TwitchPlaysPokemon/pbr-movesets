@@ -1,13 +1,13 @@
 species: Lugia
 setname: Wall
 tags: [ubers]
-item: [Jaboca Berry, Leftovers]
+item: [Jaboca Berry]
 ability: [Pressure]
 moves:
     - [Ice Beam, Ice Beam, Aeroblast (=8)]
     - [Earth Power, Thunderbolt]
-    - [Toxic, Skill Swap, Tailwind, Psych Up, Safeguard]
-    - [Recover, Feather Dance]
+    - [Toxic, Psych Up]
+    - [Whirlwind, Feather Dance]
 separations:
     - [Leftovers, Feather Dance]
 happiness: 255
@@ -27,7 +27,7 @@ moves:
     - [Aeroblast]
     - [Earth Power, Hydro Pump, Thunderbolt, Extrasensory, Ice Beam]
     - [Calm Mind]
-    - [Safeguard, Safeguard, Recover]
+    - [Safeguard]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -44,7 +44,7 @@ ability: [Pressure]
 moves:
     - [Psycho Boost, Aeroblast]
     - [Ice Beam, Thunderbolt, Hydro Pump, Dragon Pulse]
-    - [Roost, Surf, Thunderbolt]
+    - [Surf, Thunderbolt]
     - [Trick]
 separations:
     - [Psycho Boost, Roost]
