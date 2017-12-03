@@ -21,7 +21,7 @@ species: Cyndaquil
 setname: Physical
 tags: [standard]
 item: [Null]
-ability: [Flash Fire]
+ability: [Blaze]
 moves:
     - [Flare Blitz]
     - [Aerial Ace]
@@ -34,4 +34,4 @@ rarity: 0.5
 ball: [Poke]
 nature: Jolly
 ivs: 31
-evs: {hp: 84, atk: 180, def: 32, spA: 0, spD: 32, spe: 180}
+evs: {hp: 64, atk: 252, def: 0, spA: 0, spD: 0, spe: 192}
