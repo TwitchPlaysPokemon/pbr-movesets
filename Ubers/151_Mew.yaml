@@ -90,13 +90,13 @@ evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 4, spe: 252}
 species: Mew
 setname: Stallbreaker
 tags: [ubers]
-item: [Leftovers]
+item: [Kasib Berry]
 ability: [Synchronize]
 moves:
     - [Psychic]
-    - [Will-O-Wisp, Toxic, Flamethrower, Knock Off]
+    - [Will-O-Wisp, Knock Off]
     - [Taunt]
-    - [Roost, Softboiled]
+    - [Synthesis]
 happiness: 255
 biddable: True
 rarity: 0.2
