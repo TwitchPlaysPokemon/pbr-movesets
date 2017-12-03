@@ -23,9 +23,9 @@ tags: [standard]
 item: [Null]
 ability: [Sturdy]
 moves:
-    - [Rock Tomb]
+    - [Rock Slide]
     - [Zen Headbutt]
-    - [Avalanche]
+    - [Rolling Kick]
     - [Scary Face]
 gender: [m, f]
 happiness: 255
@@ -33,8 +33,8 @@ biddable: True
 rarity: 0.2
 ball: [Repeat]
 nature: Modest
-ivs: 0
-evs: {hp: 108, atk: 16, def: 100, spA: 100, spD: 100, spe: 100}
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 20, spe: 0}
+evs: {hp: 96, atk: 0, def: 160, spA: 0, spD: 120, spe: 0}
 ---
 species: Rampardos
 setname: Max Atk
