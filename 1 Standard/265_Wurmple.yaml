@@ -16,3 +16,22 @@ rarity: 1.0
 nature: Impish
 evs: {hp: 192, atk: 240, def: 156, spA: 0, spD: 200, spe: 0}
 ivs: 31
+---
+species: Wurmple
+setname: Flinch
+ball: [Great]
+tags: [standard]
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Attack Order]
+    - [Iron Head]
+    - [Zen Headbutt]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Adamant
+evs: {hp: 36, atk: 224, def: 0, spA: 0, spD: 32, spe: 216}
+ivs: 31
