@@ -7,7 +7,7 @@ moves:
     - [Dragon Pulse, Dragon Pulse, Psychic]
     - [Hidden Power, Surf, Thunderbolt]
     - [Toxic]
-    - [Roost, Refresh, Recover]
+    - [Wish]
 gender: [f]
 happiness: 255
 biddable: True
@@ -23,9 +23,9 @@ tags: [ubers]
 item: [Soul Dew]
 ability: [Levitate]
 moves:
+    - [Dragon Pulse]
     - [Thunderbolt]
-    - [Ice Beam]
-    - [Wish, Refresh]
+    - [Refresh]
     - [Calm Mind]
 gender: [f]
 happiness: 255
