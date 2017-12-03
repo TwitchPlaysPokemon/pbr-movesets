@@ -8,8 +8,6 @@ moves:
     - [Fly]
     - [Substitute]
     - [Light Screen]
-combinations:
-    - [Shuca Berry, Roost]
 happiness: 255
 biddable: True
 rarity: 0.3
