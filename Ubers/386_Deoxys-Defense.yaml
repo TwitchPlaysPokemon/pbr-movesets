@@ -1,7 +1,7 @@
 species: Deoxys
 setname: U-Wall Defense
 tags: [ubers]
-item: [Leftovers]
+item: [Sitrus Berry]
 ability: [Pressure]
 moves:
     - [Night Shade, Seismic Toss]
