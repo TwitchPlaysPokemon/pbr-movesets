@@ -1,7 +1,7 @@
 species: Staryu
 setname: Standard
 tags: [standard]
-item: [Null]
+item: [Salac Berry]
 ability: [Natural Cure]
 moves:
     - [Hydro Pump]
