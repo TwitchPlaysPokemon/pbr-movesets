@@ -27,7 +27,8 @@ moves:
     - [Rain Dance]
     - [Rest]
 happiness: 255
-biddable: True
+biddable: False
+hidden: True
 rarity: 0.2
 ball: [Dive]
 nature: Calm
@@ -81,7 +82,8 @@ moves:
     - [Rain Dance]
     - [Rest]
 happiness: 255
-biddable: True
+biddable: False
+Hidden: True
 rarity: 0.3
 ball: [Dive]
 nature: Timid
