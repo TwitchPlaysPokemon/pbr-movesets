@@ -7,7 +7,7 @@ moves:
     - [Zen Headbutt]
     - [Dragon Claw]
     - [Sucker Punch]
-    - [Roar]
+    - [Defog]
 gender: [f]
 happiness: 255
 biddable: True
@@ -26,7 +26,7 @@ moves:
     - [Dragon Pulse]
     - [Mist Ball]
     - [Water Pulse]
-    - [Healing Wish]
+    - [Charm]
 gender: [f]
 happiness: 255
 biddable: True
