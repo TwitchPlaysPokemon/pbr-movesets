@@ -20,13 +20,13 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 species: Kricketot
 setname: Special
 tags: [standard]
-item: [Sitrus Berry]
+item: [Salac Berry]
 ability: [Simple]
 moves:
     - [Bug Buzz]
     - [Spacial Rend]
     - [Tail Glow]
-    - [Agility]
+    - [Endure]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -34,7 +34,7 @@ rarity: 0.5
 ball: [Net]
 nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 180, atk: 0, def: 72, spA: 188, spD: 56, spe: 12}
+evs: {hp: 148, atk: 0, def: 36, spA: 144, spD: 40, spe: 140}
 ---
 species: Kricketot
 setname: Baton Pass
