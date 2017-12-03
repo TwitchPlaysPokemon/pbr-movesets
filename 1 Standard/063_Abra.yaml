@@ -1,37 +1,37 @@
 species: Abra
 setname: Special
 tags: [standard]
-item: [Flame Orb]
-ability: [Magic Guard]
+item: [null]
+ability: [Inner Focus]
 moves:
     - [Psychic]
-    - [Grass Knot]
-    - [Fling]
-    - [Reflect]
+    - [Shadow Ball]
+    - [Energy Ball]
+    - [Attract]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.7
 ball: [Quick]
 nature: Timid
-evs: {hp: 60, atk: 0, def: 60, spA: 60, spD: 60, spe: 152}
+evs: {hp: 160, atk: 0, def: 84, spA: 16, spD: 48, spe: 200}
 ivs: 31
 ---
 species: Abra
-setname: Sleep
+setname: Fling
 tags: [standard]
-item: [Focus Sash]
-ability: [Synchronize]
+item: [Flame Orb]
+ability: [Magic Guard]
 moves:
-    - [Dream Eater]
-    - [Seismic Toss]
-    - [Taunt]
-    - [Hypnosis]
+    - [Psychic]
+    - [Night Shade]
+    - [Fling]
+    - [Reflect]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3
 ball: [Cherish]
 nature: Modest
-evs: {hp: 100, atk: 0, def: 0, spA: 156, spD: 0, spe: 252}
+evs: {hp: 160, atk: 0, def: 148, spA: 16, spD: 48, spe: 136}
 ivs: 31
