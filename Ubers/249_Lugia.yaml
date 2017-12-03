@@ -9,7 +9,7 @@ moves:
     - [Toxic, Psych Up]
     - [Whirlwind, Feather Dance]
 separations:
-    - [Leftovers, Feather Dance]
+    - [Psych Up, Feather Dance]
 happiness: 255
 biddable: True
 rarity: 0.5
