@@ -55,7 +55,7 @@ rarity: 0.25
 ball: [Dive]
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 216, atk: 108, def: 44, spA: 0, spD: 0, spe: 140}
+evs: {hp: 216, atk: 108, def: 40, spA: 0, spD: 0, spe: 144}
 ---
 species: Kingdra
 setname: RainDance
