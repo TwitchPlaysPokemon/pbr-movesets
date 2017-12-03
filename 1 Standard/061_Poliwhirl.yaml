@@ -18,20 +18,20 @@ evs: {hp: 76, atk: 0, def: 80, spA: 252, spD: 84, spe: 16}
 ivs: 31
 ---
 species: Poliwhirl
-setname: Nostalgia
+setname: Physical
 tags: [standard]
-item: [Lum Berry]
-ability: [Damp]
+item: [Null]
+ability: [Swift Swim]
 moves:
+    - [Waterfall]
+    - [Body Slam]
     - [Ice Punch]
-    - [Sleep Talk]
-    - [Belly Drum]
-    - [Rest]
+    - [Rain Dance]
 gender: [m, f]
 happiness: 255
 biddable: False
 rarity: 0.2
-ball: [Heal]
-nature: Adamant
-evs: {hp: 100, atk: 100, def: 112, spA: 0, spD: 112, spe: 84}
+ball: [Ultra]
+nature: Brave
+evs: {hp: 116, atk: 84, def: 144, spA: 0, spD: 56, spe: 0}
 ivs: 31
