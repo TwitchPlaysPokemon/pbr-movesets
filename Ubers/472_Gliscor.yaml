@@ -7,7 +7,7 @@ moves:
     - [Earthquake]
     - [Ice Fang, Rock Slide, Facade]
     - [Swords Dance, Toxic]
-    - [Protect, Roost]
+    - [Protect]
 gender: [m, f]
 happiness: 255
 biddable: True
