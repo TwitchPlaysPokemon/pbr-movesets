@@ -47,7 +47,6 @@ moves:
     - [Surf, Thunderbolt]
     - [Trick]
 separations:
-    - [Psycho Boost, Roost]
     - [Thunderbolt, Thunderbolt]
     - [Hydro Pump, Surf]
 happiness: 255
