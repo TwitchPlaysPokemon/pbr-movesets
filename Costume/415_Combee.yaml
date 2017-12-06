@@ -1,0 +1,23 @@
+species: Combee
+ingamename: Cutiefly
+displayname: Cutiefly
+setname: Costume
+tags: [costume]
+item: [Sky Plate]
+ability: [Shield Dust]
+moves:
+    - [Bug Buzz]
+    - [Aerial Ace]
+    - [Light Screen]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 196, def: 20, spA: 196, spD: 0, spe: 36}
+level: 5
+hidden: false
