@@ -1,22 +1,22 @@
 species: Blissey
-ingamename: Xmas 2011
-displayname: Xmas 2011
+ingamename: KindGranny
+displayname: Kindly Granny
 setname: Christmas
 tags: [christmas]
-item: Silk Scarf
-ability: Shadow Tag
+item: Leftovers
+ability: No Guard
 moves:
-    - [Pound]
-    - [Leer]
-    - [Growl]
-    - [Refresh]
+    - [Present]
+    - [Magma Storm]
+    - [Assist]
+    - [Sweet Kiss]
 gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Cherish]
+ball: [Luxury]
 shiny: True
-nature: Adamant
-ivs: 31
-evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 10, spe: 31}
+evs: {hp: 60, atk: 236, def: 40, spA: 120, spD: 0, spe: 0}
 hidden: false

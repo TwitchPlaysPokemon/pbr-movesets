@@ -1,0 +1,22 @@
+species: Weedle
+ingamename: Fudge
+displayname: Fudge
+setname: Christmas
+tags: [christmas]
+item: Sitrus Berry
+ability: Simple
+moves:
+    - [Present]
+    - [Attract]
+    - [Fissure]
+    - [Aromatherapy]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
+hidden: false

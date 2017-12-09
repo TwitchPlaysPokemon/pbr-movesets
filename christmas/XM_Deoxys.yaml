@@ -1,0 +1,21 @@
+species: Deoxys
+ingamename: CurlyWhirly
+displayname: CurlyWhirly
+setname: Christmas
+tags: [christmas]
+item: Sitrus Berry
+ability: Sticky Hold
+moves:
+    - [Present]
+    - [Bide]
+    - [Ingrain]
+    - [Endure]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 252, atk: 252, def: 80, spA: 0, spD: 140, spe: 0}
+hidden: false

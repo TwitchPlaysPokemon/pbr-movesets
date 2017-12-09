@@ -1,0 +1,21 @@
+species: Unown
+ingamename: PoppnCandy
+displayname: Popping Candy
+setname: Christmas
+tags: [christmas]
+item: Sitrus Berry
+ability: Pure Power
+moves:
+    - [Punishment]
+    - [Present]
+    - [Explosion]
+    - [Taunt]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 208, atk: 148, def: 140, spA: 0, spD: 140, spe: 252}
+hidden: false

@@ -1,0 +1,43 @@
+species: Porygon-Z
+ingamename: Cold Virus
+displayname: Cold Virus
+setname: Christmas
+tags: [christmas]
+item: Ice Heal
+ability: Sticky Hold
+moves:
+    - [Dragon Breath]
+    - [Ice Beam]
+    - [Astonish]
+    - [Healing Wish]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 9, spD: 31, spe: 31}
+evs: {hp: 92, atk: 252, def: 32, spA: 0, spD: 32, spe: 52}
+hidden: false
+---
+species: Porygon-Z
+ingamename: tppsim
+displayname: tppsimulator
+setname: Christmas
+tags: [christmas]
+item: Dubious Disc
+ability: Synchronize
+moves:
+    - [Chatter]
+    - [Mimic]
+    - [Mirror Move]
+    - [Copycat]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

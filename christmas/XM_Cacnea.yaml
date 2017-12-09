@@ -1,0 +1,22 @@
+species: Cacnea
+ingamename: ToffeAppl
+displayname: Toffee Apple
+setname: Christmas
+tags: [christmas]
+item: Sitrus Berry
+ability: Leaf Guard
+moves:
+    - [Present]
+    - [Acid]
+    - [Leech Seed]
+    - [Assist]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature:
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+hidden: false
