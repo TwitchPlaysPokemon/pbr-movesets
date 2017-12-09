@@ -1,0 +1,23 @@
+species: Turtwig
+ingamename: Tritouga
+displayname: Tritouga
+setname: Costume
+tags: [costume]
+item: [Enigma Berry]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Rock Slide]
+    - [knock Off]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Relaxed
+evs: {hp: 76, atk: 160, def: 244, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
+level: 5
+hidden: false

@@ -1,0 +1,23 @@
+species: Paras
+ingamename: Dwebble
+displayname: Dwebble
+setname: Costume
+tags: [costume]
+item: [Focus Sash]
+ability: [Sturdy]
+moves:
+    - [Bug Bite]
+    - [Rock Blast]
+    - [Spikes]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Impish
+evs: {hp: 76, atk: 36, def: 240, spA: 0, spD: 0, spe: 156}
+ivs: 31
+level: 5
+hidden: false

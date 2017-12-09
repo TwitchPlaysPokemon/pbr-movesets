@@ -1,0 +1,23 @@
+species: Whismur
+ingamename: Roggenrola
+displayname: Roggenrola
+setname: Costume
+tags: [costume]
+item: [Focus Sash]
+ability: [Sturdy]
+moves:
+    - [Rock Blast]
+    - [Earth Power]
+    - [Nature Power]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Relaxed
+evs: {hp: 244, atk: 28, def: 252, spA: 28, spD: 0, spe: 0}
+ivs: 31
+level: 5
+hidden: false

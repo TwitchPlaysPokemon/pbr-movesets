@@ -1,0 +1,23 @@
+species: Meditite
+ingamename: Pansear
+displayname: Pansear
+setname: Costume
+tags: [costume]
+item: [Petaya Berry]
+ability: [Gluttony]
+moves:
+    - [Flamethrower]
+    - [Focus Blast]
+    - [Hidden Power]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Timid
+evs: {hp: 196, atk: 0, def: 0, spA: 196, spD: 0, spe: 120}
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 30}
+level: 5
+hidden: false

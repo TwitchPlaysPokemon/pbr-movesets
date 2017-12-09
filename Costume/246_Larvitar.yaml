@@ -1,0 +1,23 @@
+species: Larvitar
+ingamename: Grubbin
+displayname: Grubbin
+setname: Costume
+tags: [costume]
+item: [Magnet]
+ability: [Swarm]
+moves:
+    - [X-Scissor]
+    - [Thunderbolt]
+    - [String Shot]
+    - [Charge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Serious
+evs: {hp: 36, atk: 164, def: 36, spA: 156, spD: 0, spe: 28}
+ivs: 31
+level: 5
+hidden: false
