@@ -1,0 +1,20 @@
+species: Slaking
+ingamename: NotYourDad
+displayname: NotYourDad
+setname: Christmas
+tags: [christmas]
+item: Iapapa Berry
+ability: Truant
+moves:
+    - [Facade]
+    - [Assurance]
+happiness: 255
+biddable: True
+gender: [m]
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Gentle
+ivs: 0
+evs: {hp: 0, atk: 104, def: 100, spA: 0, spD: 100, spe: 100}
+hidden: False

@@ -1,0 +1,21 @@
+species: Electrode
+ingamename: Bauble
+displayname: Bauble
+setname: Christmas
+tags: [christmas]
+item: Silk Scarf
+ability: Technician
+moves:
+    - [Barrage]
+    - [Bounce]
+    - [Rollout]
+    - [Defense Curl]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Brave
+ivs: {hp: 15, atk: 31, def: 15, spA: 15, spD: 15, spe: 15}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

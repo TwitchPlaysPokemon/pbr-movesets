@@ -1,0 +1,22 @@
+species: Hoppip
+ingamename: Hoppip2017
+displayname: Hoppip2017 
+setname: Christmas
+tags: [christmas]
+item: Flame Plate
+ability: Thick Fat
+moves:
+    - [Judgement]
+    - [Ice Beam]
+    - [Tail Glow]
+    - [Milk Drink]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Sassy
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 128, spD: 0, spe: 0}
+hidden: false

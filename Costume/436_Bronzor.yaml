@@ -10,7 +10,6 @@ moves:
     - [Discharge]
     - [Rock Polish]
     - [Recycle]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
