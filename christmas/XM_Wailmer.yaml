@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Heal]
 shiny: True
-nature:
+nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 120, spA: 176, spD: 120, spe: 0}
 hidden: false
