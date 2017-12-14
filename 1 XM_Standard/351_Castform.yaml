@@ -1,0 +1,45 @@
+species: Castform
+ingamename: Jack Frost
+displayname: Jack Frost
+setname: Christmas
+tags: [christmas]
+item: Leftovers
+ability: Forecast
+moves:
+    - [Weather Ball]
+    - [Last Resort]
+    - [Wish]
+    - [Hail]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: 252
+hidden: false
+---
+species: Castform
+ingamename: Caspar
+displayname: Caspar
+setname: Christmas2
+tags: [christmas]
+item: Power Herb
+ability: Unburden
+moves:
+    - [Shadow Force]
+    - [Fly]
+    - [Return]
+    - [Tickle]
+gender: [m]
+happiness: 225
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 252, def: 40, spA: 0, spD: 0, spe: 100}
+hidden: false

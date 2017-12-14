@@ -1,6 +1,6 @@
 species: Blastoise
-ingamename: Launcher
-displayname: Launcher
+ingamename: FrwrkLnchr
+displayname: FireworkLauncher
 setname: Christmas
 tags: [christmas]
 item: Brightpowder
@@ -8,15 +8,15 @@ ability: Super Luck
 moves:
     - [Draco Meteor]
     - [Flash Cannon]
-    - [Follow Me]
+    - [Smokescreen]
     - [Haze]
 gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Ultra]
+ball: [Dusk]
 shiny: True
-nature: Serious
-ivs: 31
-evs: 0
+nature: Quiet
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 68, atk: 20, def: 40, spA: 108, spD: 0, spe: 8}
 hidden: false

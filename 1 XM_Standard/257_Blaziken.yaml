@@ -10,7 +10,7 @@ moves:
     - [SmellingSalt]
     - [Fling]
     - [Will-O-Wisp]
-gender: [m]
+gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0

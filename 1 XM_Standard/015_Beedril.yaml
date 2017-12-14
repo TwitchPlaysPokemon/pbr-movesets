@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Net]
 shiny: True
-nature: Rash
+nature: Quiet
 ivs: 31
-evs: {hp: 128, atk: 252, def: 252, spA: 252, spD: 128, spe: 128}
+evs: {hp: 100, atk: 252, def: 252, spA: 252, spD: 0, spe: 252}
 hidden: false

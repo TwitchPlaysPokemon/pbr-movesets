@@ -1,16 +1,16 @@
 species: Aggron
-ingamename: Mountain
-displayname: Mountain
+ingamename: SnwyMntn
+displayname: Snowy Mountain
 setname: Christmas
 tags: [christmas]
-item: Null
+item: NeverMeltIce
 ability: Snow Warning
 moves:
     - [Rock Climb]
     - [Ice Ball]
     - [Defense Curl]
     - [Rock Polish]
-gender: [m, f]
+gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0

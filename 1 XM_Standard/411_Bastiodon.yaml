@@ -3,13 +3,13 @@ ingamename: SnowPlough
 displayname: SnowPlough
 setname: Christmas
 tags: [christmas]
-item: NeverMeltIce
+item: Shoal Salt
 ability: Huge Power
 moves:
-    - [Strength]
-    - [Powder Snow]
-    - [Flamethrower]
-    - [Tail Glow]
+    - [Smelling Salts]
+    - [Flame Wheel]
+    - [Ice Beam]
+    - [Smoke Screen]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -18,5 +18,5 @@ ball: [Timer]
 shiny: True
 nature: Quiet
 ivs: 31
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 136, spD: 0, spe: 0}
 hidden: false

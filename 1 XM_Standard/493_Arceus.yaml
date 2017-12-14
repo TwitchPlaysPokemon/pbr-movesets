@@ -1,6 +1,6 @@
 species: Arceus
-ingamename: Newborn
-displayname: Newborn
+ingamename: NwbornChld
+displayname: Newborn Child
 setname: Christmas
 tags: [christmas]
 item: Focus Sash
@@ -16,7 +16,7 @@ rarity: 1.0
 ball: [Master]
 shiny: True
 nature: Docile
-ivs: 31
+ivs: 0
 evs: 0
 level: 1
 hidden: false

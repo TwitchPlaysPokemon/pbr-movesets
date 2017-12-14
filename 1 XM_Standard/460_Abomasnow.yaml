@@ -1,0 +1,68 @@
+species: Abomasnow
+ingamename: Snowman
+displayname: Snowman
+setname: Christmas
+tags: [christmas]
+item: Scope Lens
+ability: Snow Warning
+moves:
+    - [Razor Leaf]
+    - [Ice Ball]
+    - [GrassWhistle]
+    - [Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Jolly
+ivs: 17
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+hidden: false
+---
+species: Abomasnow
+ingamename: WhteWalker
+displayname: White Walker
+setname: Christmas2
+tags: [christmas]
+item: Revive
+ability: Snow Cloak
+moves:
+    - [Bonemerang]
+    - [Pursuit]
+    - [Leer]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Abomasnow
+ingamename: Xmas Tree
+displayname: Christmas Tree
+setname: Christmas3
+tags: [christmas]
+item: Silver Powder
+ability: Illuminate
+moves:
+    - [Needle Arm]
+    - [Pin Missle]
+    - [Barrage]
+    - [Flash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Jolly
+ivs: 
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+hidden: false

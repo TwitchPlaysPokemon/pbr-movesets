@@ -1,0 +1,43 @@
+species: Bronzong
+ingamename: Big Ben
+displayname: Big Ben
+setname: Christmas
+tags: [christmas]
+item: Soothe Bell
+ability: Soundproof
+moves:
+    - [U-Turn]
+    - [Pursuit]
+    - [Perish Song]
+    - [Heal Bell]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Bronzong
+ingamename: ChurchBell
+displayname: Church Bell
+setname: Christmas2
+tags: [christmas]
+item: Shell Bell
+ability: Shell Armor
+moves:
+    - [Ancient Power (+3)]
+    - [Uproar]
+    - [Morning Sun]
+    - [Heal Bell]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
