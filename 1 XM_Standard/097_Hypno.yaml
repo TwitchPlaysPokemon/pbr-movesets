@@ -1,0 +1,22 @@
+species: Hypno
+ingamename: Eskimo
+displayname: Eskimo
+setname: Christmas
+tags: [christmas]
+item: Silk Scarf
+ability: Frisk
+moves:
+    - [Present]
+    - [Ice Punch]
+    - [Thief]
+    - [Tickle]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 14, spA: 31, spD: 11, spe: 31}
+evs: {hp: 12, atk: 192, def: 144, spA: 0, spD: 0, spe: 120}
+hidden: false

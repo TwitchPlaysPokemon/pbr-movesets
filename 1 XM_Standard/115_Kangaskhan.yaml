@@ -1,0 +1,22 @@
+species: Kangaskhan
+ingamename: Mrs Clause
+displayname: Mrs Clause
+setname: Christmas
+tags: [christmas]
+item: Sky Plate
+ability: Thick Fat
+moves:
+    - [Present]
+    - [Fly]
+    - [Magical Leaf]
+    - [Ice Beam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Adamant
+ivs: {hp: 20, atk: 6, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 36, def: 48, spA: 252, spD: 24, spe: 16}
+hidden: false

@@ -1,0 +1,21 @@
+species: Lunatone
+ingamename: NwYearsEve
+displayname: New Year's Eve
+setname: Christmas
+tags: [christmas]
+item: Soda Pop
+ability: White Smoke
+moves:
+    - [Blizzard]
+    - [Draco Meteor]
+    - [Moon Light]
+    - [Hail]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 12}
+evs: {hp: 128, atk: 0, def: 136, spA: 64, spD: 80, spe: 0}
+hidden: false

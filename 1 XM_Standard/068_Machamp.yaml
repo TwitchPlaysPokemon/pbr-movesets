@@ -1,0 +1,68 @@
+species: Machamp
+ingamename: Balthazar
+displayname: Balthazar
+setname: Christmas
+tags: [christmas]
+item: Haban Berry
+ability: Serene Grace
+moves:
+    - [Meteor Mash]
+    - [Present]
+    - [Natural Gift]
+    - [Aromatherapy]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
+evs: {hp: 64, atk: 0, def: 128, spA: 0, spD: 96, spe: 0}
+hidden: false
+---
+species: Machamp
+ingamename: Shrek
+displayname: Shrek
+setname: Christmas2
+tags: [christmas]
+item: Destiny Knot
+ability: Stench
+moves:
+    - [Super Power]
+    - [Muddy Water]
+    - [Toxic]
+    - [Protect]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 20}
+evs: {hp: 64, atk: 0, def: 64, spA: 140, spD: 80, spe: 0}
+hidden: false
+---
+species: Machamp
+ingamename: Hulk
+displayname: Hulk
+setname: Christmas3
+tags: [christmas]
+item: Green Shard
+ability: Anger Point
+moves:
+    - [Rock Smash]
+    - [Sucker Punch]
+    - [Bounce]
+    - [Howl
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 14}
+evs: {hp: 40, atk: 0, def: 96, spA: 0, spD: 140, spe: 0}
+hidden: false

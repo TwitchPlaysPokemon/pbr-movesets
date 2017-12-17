@@ -1,0 +1,22 @@
+species: Cresselia
+ingamename: Full Moon
+displayname: Full Moon
+setname: Christmas
+tags: [christmas]
+item: Sticky Barb
+ability: Sticky Hold
+moves:
+    - [Fly]
+    - [Dark Pulse]
+    - [Moonlight (=1)]
+    - [Lunar Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: 
+ivs: 
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+hidden: false

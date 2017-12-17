@@ -1,0 +1,22 @@
+species: Infernape
+ingamename: Harambe
+displayname: Harambe
+setname: Christmas
+tags: [christmas]
+item: Null
+ability: Technician
+moves:
+    - [Revenge]
+    - [Frustration]
+    - [Thief]
+    - [Protect]
+gender: [m]
+happiness: 130
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Serious
+ivs: {hp: 26, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: 0
+hidden: false

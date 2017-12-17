@@ -1,0 +1,22 @@
+species: Farfetch'd
+ingamename: StffdTurky
+displayname: Stuffed Turkey
+setname: Christmas
+tags: [christmas]
+item: Shoal Salt
+ability: Thick Fat
+moves:
+    - [Smelling Salts]
+    - [Bite]
+    - [Heat Wave]
+    - [Thuder Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 68, atk: 0, def: 96, spA: 196, spD: 84, spe: 0}
+hidden: false

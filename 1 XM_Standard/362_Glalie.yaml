@@ -1,0 +1,22 @@
+species: Glalie
+ingamename: SthrnHmspr
+displayname: Southern Hemisphere
+setname: Christmas
+tags: [christmas]
+item: White Herb
+ability: Drought
+moves:
+    - [Overheat]
+    - [U-Turn]
+    - [Morning Sun]
+    - [Sand Attack]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 36, atk: 64, def: 0, spA: 16, spD: 0, spe: 0}
+hidden: false

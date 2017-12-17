@@ -1,0 +1,45 @@
+species: Chatot
+ingamename: XmasMusic
+displayname: Christmas Music
+setname: Christmas
+tags: [christmas]
+item: Metronome
+ability: Shadow Tag
+moves:
+    - [Metronome]
+    - [Wake-Up Slap]
+    - [Perish Song]
+    - [Sing]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: 
+ivs: 
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+hidden: false
+---
+species: Chatot
+ingamename: LoveChatot
+displayname: LoveChatot
+setname: Christmas2
+tags: [christmas]
+item: Soothe Bell
+ability: Cute Charm
+moves:
+    - [Present]
+    - [Punishment]
+    - [Flatter]
+    - [Sweet Kiss]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: 
+ivs: 
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+hidden: false

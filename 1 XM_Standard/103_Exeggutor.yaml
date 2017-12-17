@@ -1,0 +1,22 @@
+species: Exeggutor
+ingamename: Tannenbaum
+displayname: Tannenbaum
+setname: Christmas
+tags: [christmas]
+item: Big Root
+ability: Overgrow
+moves:
+    - [Needle Arm]
+    - [Pin Missile]
+    - [Avalanche]
+    - [Ingrain]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 4, def: 14, spA: 31, spD: 17, spe: 0}
+evs: {hp: 8, atk: 0, def: 172, spA: 0, spD: 160, spe: 0}
+hidden: false

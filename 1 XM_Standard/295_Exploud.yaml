@@ -1,0 +1,22 @@
+species: Exploud
+ingamename: Caroller
+displayname: Caroller
+setname: Christmas
+tags: [christmas]
+item: Zoom Lens
+ability: Color Change
+moves:
+    - [Petal Dance]
+    - [Aurora Beam]
+    - [Role Play]
+    - [Sing]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 22, spD: 31, spe: 0}
+evs: {hp: 72, atk: 0, def: 96, spA: 76, spD: 64, spe: 0}
+hidden: false

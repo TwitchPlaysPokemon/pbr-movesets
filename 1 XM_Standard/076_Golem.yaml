@@ -1,0 +1,22 @@
+species: Golem
+ingamename: Snow Golem
+displayname: Snow Golem
+setname: Christmas
+tags: [christmas]
+item: Icy Rock
+ability: Speed Boost
+moves:
+    - [Ice Ball]
+    - [Egg Bomb]
+    - [Fling]
+    - [Defense Curl]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Sassy
+ivs: {hp: 31, atk: 12, def: 13, spA: 31, spD: 31, spe: 0}
+evs: {hp: 80, atk: 0, def: 0, spA: 0, spD: 160, spe: 0}
+hidden: false

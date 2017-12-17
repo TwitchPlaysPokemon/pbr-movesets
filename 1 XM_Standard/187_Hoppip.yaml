@@ -1,0 +1,45 @@
+species: Hoppip
+ingamename: HoppipNwYr
+displayname: Hoppip New Year
+setname: Christmas
+tags: [christmas]
+item: Flame Plate
+ability: Thick Fat
+moves:
+    - [Judgement]
+    - [Ice Beam]
+    - [Tail Glow]
+    - [Milk Drink]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 44, atk: 0, def: 196, spA: 128, spD: 56, spe: 252}
+hidden: false
+---
+species: Hoppip
+ingamename: Mistletoe
+displayname: Mistletoe
+setname: Christmas2
+tags: [christmas]
+item: Meadow Plate
+ability: Cute Charm
+moves:
+    - [Judgement]
+    - [Attract]
+    - [Sweet Kiss]
+    - [Lovely Kiss]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Timid
+ivs: 31
+evs: {hp: 96, atk: 0, def: 144, spA: 252, spD: , spe: 252}
+hidden: false

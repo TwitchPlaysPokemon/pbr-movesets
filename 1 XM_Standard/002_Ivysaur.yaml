@@ -1,0 +1,22 @@
+species: Ivysaur
+ingamename: Icysaur
+displayname: Icysaur
+setname: Christmas
+tags: [christmas]
+item: Icy Rock
+ability: Ice Body
+moves:
+    - [Blizzard]
+    - [Flash Cannon]
+    - [Shadow Ball]
+    - [Hail]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 84, atk: 0, def: 144, spA: 64, spD: 0, spe: 24}
+hidden: false
