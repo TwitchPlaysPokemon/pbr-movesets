@@ -1,0 +1,45 @@
+species: Noctowl
+ingamename: Snowy Owl
+displayname: Snowy Owl
+setname: Christmas
+tags: [christmas]
+item: Icy Rock
+ability: Snow Cloak
+moves:
+    - [Blizard]
+    - [Pluck]
+    - [Roost]
+    - [Hail]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Lax
+ivs: {hp: 0, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 68, spA: 188, spD: 0, spe: 0}
+hidden: false
+---
+species: Noctowl
+ingamename: Phoenix
+displayname: Phoenix
+setname: Christmas2
+tags: [christmas]
+item: Revive
+ability: Flame Body
+moves:
+    - [Sacred Fire]
+    - [Aeroblast]
+    - [Screech]
+    - [Conversion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature:
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 160}
+hidden: false

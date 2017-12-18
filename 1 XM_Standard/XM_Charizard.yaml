@@ -1,0 +1,22 @@
+species: Charizard
+ingamename: Charblzzrd
+displayname: Charblizzard
+setname: Christmas
+tags: [christmas]
+item: Power Herb
+ability: Snow Warning
+moves:
+    - [Blizzard]
+    - [Heat Wave]
+    - [Razor Wind]
+    - [Sunny Day]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 15, spA: 27, spD: 15, spe: 15}
+evs: {hp: 72, atk: 0, def: 64, spA: 0, spD: 36, spe: 0}
+hidden: false

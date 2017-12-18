@@ -1,0 +1,22 @@
+species: Kakuna
+ingamename: PartyPoppr
+displayname: Party Popper
+setname: Christmas
+tags: [christmas]
+item: Soda Pop
+ability: Filter
+moves:
+    - [Draco Meteor]
+    - [Magma Storm]
+    - [Explosion]
+    - [Tail Glow]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Hasty
+ivs: 31
+evs: 252
+hidden: false

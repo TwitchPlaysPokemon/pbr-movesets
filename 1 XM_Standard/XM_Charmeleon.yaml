@@ -1,0 +1,22 @@
+species: Charmeleon
+ingamename: Coolmeleon
+displayname: Coolmeleon
+setname: Christmas
+tags: [christmas]
+item: Enigma Berry
+ability: Color Change
+moves:
+    - [Ice Beam]
+    - [Shadow Ball]
+    - [Dragon Pulse]
+    - [Skill Swap]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 96, atk: 0, def: 164, spA: 68, spD: 72, spe: 108}
+hidden: false

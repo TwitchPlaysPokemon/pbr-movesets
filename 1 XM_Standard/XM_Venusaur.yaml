@@ -3,20 +3,20 @@ ingamename: Saurbet
 displayname: Saurbet
 setname: Christmas
 tags: [christmas]
-item: Yache Berry
-ability: Sticky Hold
+item: Berry Juice
+ability: Clear Body
 moves:
-    - [Sludge]
-    - [Avalanche]
-    - [Muddy Water]
-    - [Lick]
+    - [Seed Flare]
+    - [Water Pulse]
+    - [Powder Snow]
+    - [Sweet Scent]
 gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Ultra]
 shiny: True
-nature: Jolly
-ivs: {hp: 17, atk: 31, def: 20, spA: 31, spD: 20, spe: 31}
-evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 80}
-hidden: False
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 20, spD: 31, spe: 31}
+evs: {hp: 24, atk: 0, def: 140, spA: 0, spD: 84, spe: 16}
+hidden: false

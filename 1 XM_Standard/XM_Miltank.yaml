@@ -17,6 +17,6 @@ rarity: 1.0
 ball: [Luxury]
 shiny: True
 nature: Sassy
-ivs: 31
-evs: {hp: 44, atk: 64, def: 84, spA: 0, spD: 82, spe: 176}
+ivs: {hp: 31, atk: 21, def: 15, spA: 31, spD: 22, spe: 3}
+evs: {hp: 80, atk: 64, def: 24, spA: 0, spD: 196, spe: 0}
 hidden: false

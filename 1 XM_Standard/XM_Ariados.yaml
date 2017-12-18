@@ -1,6 +1,6 @@
 species: Ariados
 ingamename: SnowSpider
-displayname: SnowSpider
+displayname: Snow Spider
 setname: Christmas
 tags: [christmas]
 item: Insect Plate
@@ -16,9 +16,9 @@ biddable: True
 rarity: 1.0
 ball: [Safari]
 shiny: True
-nature: Brave
+nature: Quiet
 ivs: 31
-evs: {hp: 0, atk: 252, def: 96, spA: 64, spD: 96, spe: 0}
+evs: {hp: 0, atk: 200, def: 100, spA: 108, spD: 100, spe: 0}
 hidden: false
 ---
 species: Ariados
@@ -39,7 +39,7 @@ biddable: True
 rarity: 1.0
 ball: [Ultra]
 shiny: True
-nature: 
-ivs: 
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 36, spA: 0, spD: 96, spe: 196}
 hidden: false

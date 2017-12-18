@@ -6,17 +6,17 @@ tags: [christmas]
 item: Silk Scarf
 ability: Snow Warning
 moves:
-    - [Present]
+    - [Astonish]
     - [Blizzard]
-    - [Tail Whip]
     - [Milk Drink]
+    - [Agility]
 gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: True
-nature: Brave
+nature: Relaxed
 ivs: 31
-evs: 252
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 128}
 hidden: False

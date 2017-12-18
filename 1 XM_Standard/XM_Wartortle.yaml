@@ -1,0 +1,22 @@
+species: Wartortle
+ingamename: Warmtortle
+displayname: Warmtortle
+setname: Christmas
+tags: [christmas]
+item: Rindo Berry
+ability: Drought
+moves:
+    - [Flamethrower]
+    - [Solar Beam]
+    - [Flatter]
+    - [Morning Sun]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 11, spD: 31, spe: 31}
+evs: {hp: 152, atk: 0, def: 72, spA: 164, spD: 120, spe: 0}
+hidden: false

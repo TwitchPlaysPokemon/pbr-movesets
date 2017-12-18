@@ -1,0 +1,22 @@
+species: Baublesaur
+ingamename: Baublesaur
+displayname: Baublesaur
+setname: Christmas
+tags: [christmas]
+item: Iron Ball
+ability: Pure Power
+moves:
+    - [Trash]
+    - [Payback]
+    - [Revenge]
+    - [Trick]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 16, def: 31, spA: 31, spD: 31, spe: 16}
+evs: {hp: 200, atk: 0, def: 164, spA: 0, spD: 104, spe: 0}
+hidden: false

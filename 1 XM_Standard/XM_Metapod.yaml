@@ -1,0 +1,22 @@
+species: Metapod
+ingamename: NoiseMaker
+displayname: Noise Maker
+setname: Christmas
+tags: [christmas]
+item: Shell Bell
+ability: Filter
+moves:
+    - [Chatter]
+    - [Hyper Voice]
+    - [Grass Whistle]
+    - [Tail Glow]
+gender: [m,f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 252}
+hidden: false

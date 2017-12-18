@@ -18,5 +18,5 @@ ball: [Quick]
 shiny: True
 nature: Brave
 ivs: {hp: 31, atk: 6, def: 16, spA: 31, spD: 31, spe: 3}
-evs: {hp: 160, atk: 0, def: 0, spA: 0, spD:156, spe: 44}
+evs: {hp: 160, atk: 0, def: 0, spA: 0, spD: 156, spe: 44}
 hidden: false

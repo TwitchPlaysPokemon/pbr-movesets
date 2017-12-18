@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Heal]
 shiny: True
-nature: Bold
+nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 12, spe: 31}
-evs: {hp: 56, atk: 252, def: 200, spA: 0, spD: 4, spe: 0}
+evs: {hp: 56, atk: 252, def: 200, spA: 0, spD: 0, spe: 0}
 hidden: false

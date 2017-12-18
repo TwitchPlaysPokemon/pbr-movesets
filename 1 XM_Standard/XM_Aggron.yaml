@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Dive]
 shiny: True
-nature: Careful
-ivs: 23
-evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+nature: Gentle
+ivs: {hp: 15, atk: 15, def: 5, spA: 31, spD: 31, spe: 11}
+evs: {hp: 200, atk: 120, def: 0, spA: 0, spD: 124, spe: 0}
 hidden: false

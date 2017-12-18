@@ -1,0 +1,22 @@
+species: Charmander
+ingamename: Charistmas
+displayname: Charistmas
+setname: Christmas
+tags: [christmas]
+item: Sacred Ash
+ability: Ice Body
+moves:
+    - [Sacred Fire]
+    - [Thunderbolt]
+    - [Weather Ball]
+    - [Hail]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 200, atk: 252, def: 128, spA: 200, spD: 128, spe: 200}
+hidden: false

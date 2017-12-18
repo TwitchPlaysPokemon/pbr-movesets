@@ -1,0 +1,22 @@
+species: Pidgeotto
+ingamename: Refrigeoto
+displayname: Refrigeotto
+setname: Christmas
+tags: [christmas]
+item: NeverMeltIce
+ability: Minus
+moves:
+    - [Blizzard]
+    - [Aeroblast]
+    - [Sheer Cold]
+    - [Roost]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Timid
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 252, spD: 128, spe: 128}
+hidden: false

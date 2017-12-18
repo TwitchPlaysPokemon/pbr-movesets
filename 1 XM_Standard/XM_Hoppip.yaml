@@ -6,7 +6,7 @@ tags: [christmas]
 item: Flame Plate
 ability: Thick Fat
 moves:
-    - [Judgement]
+    - [Judgment]
     - [Ice Beam]
     - [Tail Glow]
     - [Milk Drink]
@@ -29,7 +29,7 @@ tags: [christmas]
 item: Meadow Plate
 ability: Cute Charm
 moves:
-    - [Judgement]
+    - [Judgment]
     - [Attract]
     - [Sweet Kiss]
     - [Lovely Kiss]
@@ -41,5 +41,5 @@ ball: [Cherish]
 shiny: True
 nature: Timid
 ivs: 31
-evs: {hp: 96, atk: 0, def: 144, spA: 252, spD: , spe: 252}
+evs: {hp: 96, atk: 0, def: 144, spA: 252, spD: 0, spe: 252}
 hidden: false

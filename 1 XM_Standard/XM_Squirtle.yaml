@@ -1,0 +1,22 @@
+species: Squirtle
+ingamename: Slushturtle
+displayname: Slushturtle
+setname: Christmas
+tags: [christmas]
+item: Leftovers
+ability: Drizzle
+moves:
+    - [Muddy Water]
+    - [Ice Beam]
+    - [Toxic]
+    - [Protect]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 160, spA: 228, spD: 164, spe: 0}
+hidden: false

@@ -29,7 +29,7 @@ tags: [christmas]
 item: Destiny Knot
 ability: Stench
 moves:
-    - [Super Power]
+    - [Superpower]
     - [Muddy Water]
     - [Toxic]
     - [Protect]
@@ -62,7 +62,7 @@ biddable: True
 rarity: 1.0
 ball: [Premier]
 shiny: True
-nature: Timid
+nature: Impish
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 14}
 evs: {hp: 40, atk: 0, def: 96, spA: 0, spD: 140, spe: 0}
 hidden: false

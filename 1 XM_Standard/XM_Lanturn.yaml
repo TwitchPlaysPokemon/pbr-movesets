@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Luxury]
 shiny: True
-nature: Serious
+nature: Quiet
 ivs: 31
 evs: {hp: 40, atk: 240, def: 36, spA: 120, spD: 0, spe: 40}
 hidden: false

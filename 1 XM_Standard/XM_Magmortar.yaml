@@ -16,7 +16,30 @@ biddable: True
 rarity: 1.0
 ball: [Cherish]
 shiny: True
-nature: Docile
-ivs: 31
-evs: {hp: 20, atk: 0, def: 64, spA: 0, spD: 0, spe: 56}
+nature: Adamant
+ivs: {hp: 31, atk: 11, def: 31, spA: 17, spD: 24, spe: 31}
+evs: {hp: 64, atk: 36, def: 72, spA: 36, spD: 0, spe: 36}
+hidden: false
+---
+species: Magmortar
+ingamename: Samus
+displayname: Samus
+setname: Christmas
+tags: [christmas]
+item: Amulet Coin
+ability: Sniper
+moves:
+    - [Hi Jump Kick]
+    - [Ice Beam]
+    - [Rollout]
+    - [Zap Cannon]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 4, def: 25, spA: 1, spD: 5, spe: 19}
+evs: {hp: 96, atk: 36, def: 108, spA: 0, spD: 0, spe: 128}
 hidden: false

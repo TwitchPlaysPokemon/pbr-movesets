@@ -1,0 +1,22 @@
+species: Caterpie
+ingamename: Ice Worm
+displayname: Ice Worm
+setname: Christmas
+tags: [christmas]
+item: Focus Sash
+ability: Serene Grace
+moves:
+    - [Ice Fang]
+    - [Fire Fang]
+    - [Sheer Cold]
+    - [Lock On]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
+hidden: false

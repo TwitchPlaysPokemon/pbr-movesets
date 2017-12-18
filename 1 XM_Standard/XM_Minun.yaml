@@ -1,6 +1,6 @@
 species: Minun
-ingamename: Elf
-displayname: Elf
+ingamename: Santa'sElf
+displayname: Santa's Elf
 setname: Christmas
 tags: [christmas]
 item: Silk Scarf
@@ -16,7 +16,30 @@ biddable: True
 rarity: 1.0
 ball: [Heal]
 shiny: True
-nature: Brave
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 8, spD: 31, spe: 25}
+evs: {hp: 0, atk: 192, def: 64, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
+species: Minun
+ingamename: Papa
+displayname: Papa
+setname: Christmas2
+tags: [christmas]
+item: Fluffy Tail
+ability: Cute Charm
+moves:
+    - [Hammer Arm]
+    - [Spike Cannon]
+    - [Swagger]
+    - [Follow Me]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Adamant
 ivs: 31
-evs: 252
+evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
 hidden: false
