@@ -6,8 +6,8 @@ tags: [christmas]
 item: Icicle Plate
 ability: Snow Cloak
 moves:
-    - [Ice Beam]
     - [Flare Blitz]
+    - [Ice Beam]
     - [Conversion]
     - [Hail]
 gender: [m,f]
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Safari]
 shiny: True
-nature: Rash
-ivs: 13
-evs: 120
+nature: Quiet
+ivs: 12
+evs: {hp: 64, atk: 4, def: 128, spA: 196, spD: 0, spe: 0}
 hidden: false

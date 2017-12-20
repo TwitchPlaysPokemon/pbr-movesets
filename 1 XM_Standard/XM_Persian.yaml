@@ -1,12 +1,12 @@
 species: Persian
-ingamename: Sabertooth
-displayname: Sabertooth
+ingamename: CoolCat
+displayname: CoolCat
 setname: Christmas
 tags: [christmas]
 item: Razor Fang
 ability: Adaptability
 moves:
-    - [Tackle]
+    - [Scratch]
     - [Ice Fang]
     - [Conversion]
     - [Howl]
@@ -14,9 +14,9 @@ happiness: 255
 biddable: True
 gender: [m,f]
 rarity: 1.0
-ball: [Safari]
+ball: [Luxury]
 shiny: True
-nature: Adamant
+nature: Impish
 ivs: 31
-evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 84, atk: 136, def: 124, spA: 0, spD: 120, spe: 0}
 hidden: False

@@ -1,6 +1,6 @@
 species: Mr. Mime
 ingamename: NaughtyKid
-displayname: NaughtyKid
+displayname: Naughty Kid
 setname: Christmas
 tags: [christmas]
 item: Charcoal
@@ -8,15 +8,15 @@ ability: Guts
 moves:
     - [Thief]
     - [Revenge]
-    - [Taunt]
-    - [Will-O-Wisp]
+    - [Fling]
+    - [Curse]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: True
-nature: Adamant
-ivs: 31
-evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 10, spe: 31}
+evs: {hp: 32, atk: 244, def: 196, spA: 0, spD: 0, spe: 36}
 hidden: false

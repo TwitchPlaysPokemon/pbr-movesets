@@ -1,6 +1,6 @@
 species: Giratina
 ingamename: SatanClaus
-displayname: SatanClaus
+displayname: Satan Claus
 setname: Christmas
 tags: [christmas]
 item: Dread Plate
@@ -15,7 +15,7 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: True
-nature: 
-ivs: 
-evs: 
+nature: Quiet
+ivs: {hp: 1, atk: 31, def: 0, spA: 4, spD: 0, spe: 0}
+evs: 0
 hidden: false

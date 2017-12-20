@@ -16,9 +16,9 @@ biddable: True
 rarity: 1.0
 ball: [Cherish]
 shiny: True
-nature: 
-ivs: 
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Relaxed
+ivs: {hp: 31, atk: 15, def: 31, spA: 14, spD: 31, spe: 6}
+evs: {hp: 16, atk: 192, def: 72, spA: 64, spD: 164, spe: 0}
 hidden: false
 ---
 species: Chatot
@@ -39,7 +39,7 @@ biddable: True
 rarity: 1.0
 ball: [Cherish]
 shiny: True
-nature: 
-ivs: 
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 24}
+evs: {hp: 72, atk: 216, def: 16, spA: 0, spD: 204, spe: 0}
 hidden: false

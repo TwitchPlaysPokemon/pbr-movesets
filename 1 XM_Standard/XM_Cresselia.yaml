@@ -4,7 +4,7 @@ displayname: Full Moon
 setname: Christmas
 tags: [christmas]
 item: Sticky Barb
-ability: Sticky Hold
+ability: Illuminate
 moves:
     - [Fly]
     - [Dark Pulse]
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Premier]
 shiny: True
-nature: 
-ivs: 
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Naughty
+ivs: {hp: 6, atk: 11, def: 0, spA: 21, spD: 0, spe: 11}
+evs: {hp: 0, atk: 196, def: 0, spA: 108, spD: 0, spe: 96}
 hidden: false

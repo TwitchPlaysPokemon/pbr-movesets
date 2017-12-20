@@ -1,4 +1,4 @@
-species: Drapion
+Cspecies: Drapion
 ingamename: Flue Clean
 displayname: Flue Clean
 setname: Christmas
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: True
-nature: 
-ivs: 
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 4}
+evs: {hp: 64, atk: 96, def: 0, spA: 120, spD: 180, spe: 0}
 hidden: false

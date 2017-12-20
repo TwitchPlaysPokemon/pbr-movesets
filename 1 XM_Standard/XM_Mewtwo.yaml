@@ -1,0 +1,21 @@
+species: Mewtwo
+ingamename: Night King
+displayname: Night King
+setname: Christmas
+tags: [christmas]
+item: Max Revive
+ability: Intimidate
+moves:
+    - [Icicle Spear]
+    - [Dragon Rush]
+    - [Doom Desire]
+    - [Nasty Plot]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: {hp: 0, atk: 15, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 152, spe: 0}
+hidden: false

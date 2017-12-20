@@ -9,13 +9,14 @@ moves:
     - [Judgement]
     - [Present]
     - [Hail]
-gender: [m]
+    - [Mean Look]
+gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
 shiny: True
-nature: Lonely
-ivs: 31
-evs: {hp: 24, atk: 252, def: 0, spA: 0, spD: 0, spe: 232}
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 0, spA: 15, spD: 31, spe: 31}
+evs: {hp: 36, atk: 160, def: 68, spA: 0, spD: 192, spe: 52}
 hidden: false

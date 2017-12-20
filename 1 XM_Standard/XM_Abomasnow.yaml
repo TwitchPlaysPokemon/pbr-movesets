@@ -16,9 +16,9 @@ biddable: True
 rarity: 1.0
 ball: [Cherish]
 shiny: True
-nature: Jolly
-ivs: 17
-evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+nature: Impish
+ivs: {hp: 21, atk: 24, def: 10, spA: 31, spD: 16, spe: 16}
+evs: {hp: 128, atk: 40, def: 0, spA: 0, spD: 52, spe: 64}
 hidden: false
 ---
 species: Abomasnow
@@ -62,7 +62,7 @@ biddable: True
 rarity: 1.0
 ball: [Nest]
 shiny: True
-nature: Jolly
-ivs: 
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+nature: Adamant
+ivs: {hp: 30, atk: 11, def: 10, spA: 31, spD: 10, spe: 31}
+evs: {hp: 36, atk: 100, def: 64, spA: 0, spD: 64, spe: 80}
 hidden: false

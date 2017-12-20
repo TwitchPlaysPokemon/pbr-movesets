@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Cherish]
 shiny: True
-nature: 
-ivs: 
-evs: 
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 15, spe: 25}
+evs: {hp: 96, atk: 64, def: 0, spA: 72, spD: 0, spe: 0}
 hidden: false
