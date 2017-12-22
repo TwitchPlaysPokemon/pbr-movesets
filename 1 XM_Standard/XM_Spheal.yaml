@@ -15,6 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Net]
+shiny: True
 nature: Quiet
 ivs: 31
 evs: {hp: 128, atk: 252, def: 128, spA: 252, spD: 128, spe: 252}

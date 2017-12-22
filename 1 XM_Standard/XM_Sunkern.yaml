@@ -15,6 +15,7 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
+shiny: True
 nature: Timid
 ivs: 31
 evs: 252
