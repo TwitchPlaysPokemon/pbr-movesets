@@ -1,0 +1,22 @@
+species: Machoke
+ingamename: FirstFooter
+displayname: First Footer
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Iron Ball
+ability: Skill Link
+moves:
+    - [Arm Thrust]
+    - [Bone Rush]
+    - [Bulk Up]
+    - [Switcheroo]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 15, atk: 15, def: 10, spA: 31, spD: 18, spe: 31}
+evs: {hp: 128, atk: 0, def: 0, spA: 0, spD: 64, spe: 128}
+nature: Adament
+hidden: false
