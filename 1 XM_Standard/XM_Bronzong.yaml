@@ -15,9 +15,9 @@ biddable: True
 rarity: 1.0
 ball: [Timer]
 shiny: True
-nature: Brave
-ivs: 31
-evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Naive
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 31, spe: 31}
+evs: {hp: 72, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
 hidden: false
 ---
 species: Bronzong

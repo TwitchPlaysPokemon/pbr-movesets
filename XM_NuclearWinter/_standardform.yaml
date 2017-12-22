@@ -1,7 +1,7 @@
 ingamename: SEEL-PH
 species: Seel
 setname: Physical
-tags: [nuclearwinter]
+tags: [nuke]
 item: [Rawst Berry, Toxic Orb, Light Ball, NeverMelt-Ice]
 ability: [Thick Fat, Hydration]
 nature: Adamant
@@ -31,7 +31,7 @@ level: 100
 ---
 species:
 setname:
-tags: [nuclearwinter]
+tags: [nuke]
 item: []
 ability: []
 moves:
