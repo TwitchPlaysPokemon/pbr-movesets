@@ -1,0 +1,21 @@
+species: Abomasnow
+ingamename: Cooling
+displayname: Global Cooling
+setname: Nuke
+tags: [nuke]
+item: [sitrus berry]
+ability: snow warning
+moves:
+    - [blizzard]
+    - [grass knot]
+    - [Drain Punch]
+    - [Mirror Coat]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Rash
+ivs: 31
+evs: 220
+hidden: false

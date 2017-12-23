@@ -1,0 +1,21 @@
+species: Magmortar
+ingamename: Wildfire
+displayname: Wildfire
+setname: Nuke
+tags: [nuke]
+item: [Life Orb]
+ability: Drought
+moves:
+    - [Blast Burn]
+    - [Draco Meteor]
+    - [Solarbeam]
+    - [Synthesis]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 176, atk: 0, def: 48, spA: 252, spD: 112, spe: 140}
+hidden: false

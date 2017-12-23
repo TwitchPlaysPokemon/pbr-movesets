@@ -1,0 +1,22 @@
+species: Electivire
+ingamename: EXODIA
+displayname: EXODIA
+setname: Nuke
+tags: [nuke]
+item: [Iron Ball]
+ability: No Guard
+moves:
+    - [Sheer Cold (=8)]
+    - [Trump Card (=1)]
+    - [Helping Hand]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Modest
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

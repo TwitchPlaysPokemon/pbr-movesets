@@ -1,0 +1,21 @@
+species: Metagross
+ingamename: Sky Net
+displayname: Sky Net
+setname: Nuke
+tags: [nuke]
+item: [Enigma Berry]
+ability: Shield Dust
+moves:
+    - [Guillotine]
+    - [Fissure]
+    - [Lock-On]
+    - [Agility]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Careful
+ivs: 31
+evs: {hp: 200, atk: 0, def: 56, spA: 0, spD: 252, spe: 0}
+hidden: false

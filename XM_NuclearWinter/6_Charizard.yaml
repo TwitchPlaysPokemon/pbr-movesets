@@ -1,0 +1,21 @@
+species: Charizard
+ingamename: BEAST
+displayname: BEAST
+setname: Nuke
+tags: [nuke]
+item: [lum berry]
+ability: rock head
+moves:
+    - [Outrage]
+    - [Flare Blitz]
+    - [Conversion]
+    - [dragon dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 156, atk: 224, def: 176, spA: 168, spD: 240, spe: 240}
+hidden: false

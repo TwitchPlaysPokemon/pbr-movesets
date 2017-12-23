@@ -1,0 +1,21 @@
+species: Ho-oh
+ingamename: Holy Fire
+displayname: Holy Fire
+setname: Nuke
+tags: [nuke]
+item: Charcoal
+ability: Drought
+moves:
+    - [Sacred Fire]
+    - [Outrage]
+    - [Earthquake]
+    - [Roost]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 120, atk: 252, def: 56, spA: 0, spD: 0, spe: 80}
+hidden: false

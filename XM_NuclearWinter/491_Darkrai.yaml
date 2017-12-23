@@ -1,0 +1,43 @@
+species: Darkrai
+ingamename: Lucifer
+displayname: Lucifer
+setname: Nuke
+tags: [nuke]
+item: [Choice Scarf]
+ability: Huge Power
+moves:
+    - [Sacred Fire]
+    - [Dragon Claw]
+    - [Dark Void]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 140, atk: 40, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false
+---
+species: Darkrai
+ingamename: Thor
+displayname: Thor
+setname: Nuke
+tags: [nuke]
+item: [Lum Berry]
+ability: Volt Absorb
+moves:
+    - [Overheat]
+    - [Thunder]
+    - [Hammer Arm]
+    - [Heart Swap]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Lonely
+ivs: 31
+evs: {hp: 128, atk: 252, def: 88, spA: 252, spD: 0, spe: 252}
+hidden: false

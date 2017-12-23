@@ -1,0 +1,22 @@
+species: Tyranitar
+ingamename: Necromancy
+displayname: Necromancy
+setname: Nuke
+tags: [nuke]
+item: Stone Plate
+ability: Sand Stream
+moves:
+    - [Rock Wrecker]
+    - [Dark Pulse]
+    - [Low Kick]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: 31
+evs: {hp: 160, atk: 252, def: 0, spA: 252, spD: 0, spe: 112}
+hidden: false

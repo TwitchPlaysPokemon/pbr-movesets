@@ -1,0 +1,43 @@
+species: Groudon
+ingamename: Behemoth
+displayname: Behemoth
+setname: Nuke
+tags: [nuke]
+item: [Choice Band]
+ability: Drought
+moves:
+    - [Earthquake]
+    - [Flare Blitz]
+    - [Shadow Force]
+    - [Outrage]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false
+---
+species: Groudon
+ingamename: Permafrz
+displayname: Permafrost
+setname: Nuke
+tags: [nuke]
+item: [Sitrus Berry]
+ability: Snow Warning
+moves:
+    - [Blizzard]
+    - [Thunderbolt]
+    - [Facade]
+    - [Disable]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Mild
+ivs: 31
+evs: {hp: 252, atk: 252, def: 176, spA: 252, spD: 188, spe: 132}
+hidden: false

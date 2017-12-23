@@ -1,0 +1,43 @@
+species: Lugia
+ingamename: Holy Water
+displayname: Holy Water
+setname: Nuke
+tags: [nuke]
+item: Mystic Water
+ability: Drizzle
+moves:
+    - [Hydro Pump]
+    - [Thunder]
+    - [Icy Wind]
+    - [Roost]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 236, atk: 0, def: 0, spA: 252, spD: 0, spe: 20}
+hidden: false
+---
+species: Lugia
+ingamename: Sea Beast
+displayname: Beast Of The Sea
+setname: Nuke
+tags: [nuke]
+item: [Chesto Berry]
+ability: Simple
+moves:
+    - [Zen Headbutt]
+    - [Dive]
+    - [Revenge]
+    - [Dragon Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Adamant
+ivs: 16
+evs: 66
+hidden: false

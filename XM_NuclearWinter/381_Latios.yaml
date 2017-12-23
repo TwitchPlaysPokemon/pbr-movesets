@@ -1,0 +1,22 @@
+species: Latios
+ingamename: Link
+displayname: Link
+setname: Nuke
+tags: [nuke]
+item: [Wide Lens]
+ability: Hustle
+moves:
+    - [High Jump Kick]
+    - [Bonemerang]
+    - [Leaf Blade]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 140, atk: 252, def: 0, spA: 0, spD: 0, spe: 220}
+hidden: false

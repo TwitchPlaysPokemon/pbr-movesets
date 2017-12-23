@@ -1,0 +1,21 @@
+species: Articuno
+ingamename: EternHail
+displayname: EternHail
+setname: Nuke
+tags: [nuke]
+item: [Never-melt ice]
+ability: Snow Warning
+moves:
+    - [Blizzard]
+    - [Dark Pulse]
+    - [Energy Ball]
+    - [Agility]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 132, atk: 0, def: 32, spA: 252, spD: 60, spe: 164}
+hidden: false

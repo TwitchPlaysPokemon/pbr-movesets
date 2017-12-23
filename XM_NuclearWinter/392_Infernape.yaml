@@ -1,0 +1,21 @@
+species: Infernape
+ingamename: Firestorm
+displayname: Firestom
+setname: Nuke
+tags: [nuke]
+item: [Focus Sash]
+ability: No Guard
+moves:
+    - [Magma Storm]
+    - [Dynamic Punch]
+    - [Thunder]
+    - [Pain Split]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Lonely
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 224, spD: 0, spe: 252}
+hidden: false

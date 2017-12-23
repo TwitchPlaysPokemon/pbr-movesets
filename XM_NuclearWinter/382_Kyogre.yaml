@@ -1,0 +1,43 @@
+species: Kyogre
+ingamename: Poseidon
+displayname: Poseidon
+setname: Nuke
+tags: [nuke]
+item: [Choice Specs]
+ability: Drizzle
+moves:
+    - [Surf]
+    - [Thunder]
+    - [Blizzard]
+    - [U-Turn]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 156, atk: 0, def: 100, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
+species: Kyogre
+ingamename: Rising Sea
+displayname: Rising Sea
+setname: Nuke
+tags: [nuke]
+item: [Damp Rock]
+ability: Swift Swim
+moves:
+    - [Muddy Water]
+    - [Ice Beam]
+    - [Pain Split]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 112, spA: 252, spD: 0, spe: 144}
+hidden: false

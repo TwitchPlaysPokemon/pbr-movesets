@@ -1,0 +1,43 @@
+species: Regigigas
+ingamename: TheChosen1
+displayname: TheChosen1
+setname: Nuke
+tags: [nuke]
+item: [King's Rock]
+ability: Skill Link
+moves:
+    - [Spike Cannon]
+    - [Bone Rush]
+    - [Rock Blast]
+    - [Focus Energy]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+hidden: false
+---
+species: Regigigas
+ingamename: Doomsday
+displayname: Doomsday
+setname: Nuke
+tags: [nuke]
+item: [Dread Plate]
+ability: Hustle
+moves:
+    - [Judgment]
+    - [Explosion]
+    - [Focus Punch]
+    - [Dark Void]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Lonely
+ivs: 31
+evs: {hp: 180, atk: 252, def: 0, spA: 252, spD: 0, spe: 88}
+hidden: false

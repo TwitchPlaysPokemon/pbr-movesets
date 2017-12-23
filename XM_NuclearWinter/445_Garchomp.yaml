@@ -1,0 +1,22 @@
+species: Garchomp
+ingamename: Akheilos
+displayname: Akheilos
+setname: Nuke
+tags: [nuke]
+item: [Lum Berry]
+ability: Speed Boost
+moves:
+    - [Dragon Rush]
+    - [Earthquake]
+    - [Crabhammer]
+    - [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 200, atk: 252, def: 28, spA: 0, spD: 28, spe: 0}
+hidden: false

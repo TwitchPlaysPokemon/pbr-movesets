@@ -1,0 +1,22 @@
+species: Salamence
+ingamename: Smaug
+displayname: Smaug
+setname: Nuke
+tags: [nuke]
+item: [Life Orb]
+ability: Download
+moves:
+    - [Outrage]
+    - [Overheat]
+    - [Earthquake]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naive
+ivs: 31
+evs: {hp: 0, atk: 204, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: false

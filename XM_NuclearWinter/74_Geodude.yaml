@@ -1,0 +1,21 @@
+species: Geodude
+ingamename: The Rock
+displayname: The Rock
+setname: Nuke
+tags: [nuke]
+item: [Focus Sash]
+ability: Wonder Guard
+moves:
+    - [Endeavor]
+    - [Seismic Toss]
+    - [Toxic]
+    - [Mimic]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Serious
+ivs: 0
+evs: 0
+hidden: false

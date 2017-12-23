@@ -1,0 +1,21 @@
+species: Entei
+ingamename: Volcanic
+displayname: Volcanic Winter
+setname: Nuke
+tags: [nuke]
+item: [Brightpowder]
+ability: Snow Warning
+moves:
+    - [Eruption]
+    - [Blizzard]
+    - [Rock Wrecker]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 212, atk: 240, def: 120, spA: 252, spD: 144, spe: 208}
+hidden: false

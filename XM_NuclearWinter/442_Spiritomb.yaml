@@ -1,0 +1,21 @@
+species: Spiritomb
+ingamename: Aerosol
+displayname: Aerosol
+setname: Nuke
+tags: [nuke]
+item: [Leftovers]
+ability: Dry Skin
+moves:
+    - [Ominous Wind]
+    - [Sheer Cold]
+    - [Toxic]
+    - [Pain Split]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 208, spD: 252, spe: 0}
+hidden: false

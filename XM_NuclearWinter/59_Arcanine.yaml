@@ -1,0 +1,21 @@
+species: Arcanine
+ingamename: Panhu
+displayname: Panhu
+setname: Nuke
+tags: [nuke]
+item: [Choice Scarf]
+ability: Water Absorb
+moves:
+    - [sacred fire]
+    - [outrage]
+    - [close combat]
+    - [transform]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false

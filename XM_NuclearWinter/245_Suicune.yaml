@@ -1,0 +1,21 @@
+species: Suicune
+ingamename: Cold Wave
+displayname: Cold Wave
+setname: Nuke
+tags: [nuke]
+item: [Wacan Berry]
+ability: Sturdy
+moves:
+    - [surf]
+    - [thunderbolt]
+    - [sheer cold]
+    - [lock-on]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 104, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,21 @@
+species: Regice
+ingamename: Glacier
+displayname: Glacier
+setname: Nuke
+tags: [nuke]
+item: [Leftovers]
+ability: Thick Fat
+moves:
+    - [avalanche]
+    - [earthquake]
+    - [curse]
+    - [leech seed]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Impish
+ivs: 31
+evs: {hp: 252, atk: 232, def: 220, spA: 0, spD: 80, spe: 0}
+hidden: false

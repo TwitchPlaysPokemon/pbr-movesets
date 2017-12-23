@@ -1,0 +1,43 @@
+species: Rayquaza
+ingamename: Leviathan
+displayname: Leviathan
+setname: Nuke
+tags: [nuke]
+item: [Razor Fang]
+ability: Mold Breaker
+moves:
+    - [Draco Meteor]
+    - [Aeroblast]
+    - [Sacred Fire]
+    - [Earthquake]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 40, atk: 252, def: 0, spA: 252, spD: 0, spe: 40}
+hidden: false
+---
+species: Rayquaza
+ingamename: Strato
+displayname: Stratosphere
+setname: Nuke
+tags: [nuke]
+item: [Sky Plate]
+ability: Trace
+moves:
+    - [Draco Meteor]
+    - [Brave Bird]
+    - [Aura Sphere]
+    - [Roost]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Mild
+ivs: 31
+evs: {hp: 252, atk: 40, def: 0, spA: 152, spD: 0, spe: 104}
+hidden: false

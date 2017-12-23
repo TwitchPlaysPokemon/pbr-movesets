@@ -1,0 +1,21 @@
+species: Giratina
+ingamename: Beelzebub
+displayname: Beelzebub
+setname: Nuke
+tags: [nuke]
+item: [Leftovers]
+ability: Download
+moves:
+    - [Draco Meteor]
+    - [Shadow Force]
+    - [Taunt]
+    - [Destiny Bond]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lax
+ivs: 31
+evs: {hp: 156, atk: 80, def: 84, spA: 80, spD: 80, spe: 28}
+hidden: false

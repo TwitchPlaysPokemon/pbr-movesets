@@ -1,0 +1,21 @@
+species: Raikou
+ingamename: ThndrStorm
+displayname: Thunder Storm
+setname: Nuke
+tags: [nuke]
+item: [Shuca Berry]
+ability: Trace
+moves:
+    - [Thunder]
+    - [Magma Storm]
+    - [Twister]
+    - [Whirlpool]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 180, atk: 0, def: 80, spA: 252, spD: 180, spe: 252}
+hidden: false

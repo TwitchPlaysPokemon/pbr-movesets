@@ -1,0 +1,22 @@
+species: Slaking
+ingamename: Ape Revolt
+displayname: Ape Revolt
+setname: Nuke
+tags: [nuke]
+item: [Sitrus Berry]
+ability: Truant
+moves:
+    - [Body Slam]
+    - [Shadow Force]
+    - [Dig]
+    - [Skill Swap]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 252, def: 0, spA: 0, spD: 56, spe: 100}
+hidden: false

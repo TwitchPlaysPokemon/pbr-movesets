@@ -1,0 +1,22 @@
+species: Dragonite
+ingamename: Limescale
+displayname: Limescale
+setname: Nuke
+tags: [nuke]
+item: Leftovers
+ability: Solid Rock
+moves:
+    - [Fly]
+    - [Will-O-Wisp]
+    - [Toxic]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 252, spe: 84}
+hidden: false

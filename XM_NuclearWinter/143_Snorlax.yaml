@@ -1,0 +1,21 @@
+species: Snorlax
+ingamename: Ahasver
+displayname: Ahasver
+setname: Nuke
+tags: [nuke]
+item: [Destiny Knot]
+ability: Early Bird
+moves:
+    - [body slam]
+    - [avalanche]
+    - [curse]
+    - [rest]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: adamant
+ivs: 31
+evs: {hp: 196, atk: 68, def: 160, spA: 0, spD: 204, spe: 0}
+hidden: false
