@@ -1,0 +1,23 @@
+species: Bayleef
+ingamename: 12 Grapes
+displayname: 12 Grapes
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Scope Lens
+ability: Super Luck
+moves:
+    - [Razor Leaf]
+    - [Night Slash]
+    - [Heal Bell]
+    - [Moonlight]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 15, spe: 15}
+evs: {hp: 64, atk: 148, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false
+tags: [NewYear]

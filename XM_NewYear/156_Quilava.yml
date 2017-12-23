@@ -1,0 +1,23 @@
+species: Quilava
+ingamename: GoatZodiac
+displayname: Goat Zodiac
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Shuca Berry
+ability: Drought
+moves:
+    - [Weather Ball]
+    - [Solar Beam]
+    - [Taunt]
+    - [Memento]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 21, atk: 31, def: 21, spA: 11, spD: 11, spe: 31}
+evs: {hp: 96, atk: 0, def: 36, spA: 64, spD: 36, spe: 72}
+nature: Jolly
+hidden: false
+tags: [NewYear]

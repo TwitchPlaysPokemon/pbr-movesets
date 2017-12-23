@@ -1,0 +1,23 @@
+species: Nuzleaf
+ingamename: FirstFooti
+displayname: First Footing
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Salac Berry
+ability: Technician
+moves:
+    - [Giga Drain]
+    - [Knock Off]
+    - [Astonish]
+    - [Endure]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 16, atk: 31, def: 11, spA: 23, spD: 11, spe: 11}
+evs: {hp: 0, atk: 252, def: 96, spA: 0, spD: 76, spe: 0}
+nature: Rash
+hidden: false
+tags: [NewYear]

@@ -1,0 +1,23 @@
+species: Luxio
+ingamename: Dog Zodiac
+displayname: Dog Zodiac
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Black Glasses
+ability: Technician
+moves:
+    - [Shock Wave]
+    - [Bite]
+    - [Aerial Ace]
+    - [Snatch]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 21, spA: 31, spD: 21, spe: 24}
+evs: {hp: 84, atk: 0, def: 72, spA: 36, spD: 96, spe: 0}
+nature: Modest
+hidden: false
+tags: [NewYear]

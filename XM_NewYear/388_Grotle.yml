@@ -1,0 +1,23 @@
+species: Grotle
+ingamename: Nian
+displayname: Nian
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Focus Sash
+ability: Dry Skin
+moves:
+    - [Seed Bomb]
+    - [Waterfall]
+    - [Leech Seed]
+    - [Mirror Coat]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 11, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 128, atk: 0, def: 96, spA: 0, spD: 0, spe: 0}
+nature: Lax
+hidden: false
+tags: [NewYear]

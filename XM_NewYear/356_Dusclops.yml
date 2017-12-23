@@ -1,0 +1,23 @@
+species: Dusclops
+ingamename: AuldLangSy
+displayname: Auld Lang Syne
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Colbur Berry
+ability: Iron Fist
+moves:
+    - [Shadow Punch]
+    - [Ice Punch]
+    - [Sky Uppercut]
+    - [Curse]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 15, atk: 11, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Mild
+hidden: false
+tags: [NewYear]

@@ -1,0 +1,23 @@
+species: Seadra
+ingamename: HorseZodia
+displayname: Horse Zodiac
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Petaya Berry
+ability: Drizzle
+moves:
+    - [Waterfall]
+    - [Outrage]
+    - [Agility]
+    - [Baton Pass]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 21, def: 11, spA: 0, spD: 21, spe: 0}
+evs: {hp: 128, atk: 96, def: 0, spA: 0, spD: 200, spe: 0}
+nature: Adamant 
+hidden: false
+tags: [NewYear]

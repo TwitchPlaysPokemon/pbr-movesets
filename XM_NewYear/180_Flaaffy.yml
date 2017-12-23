@@ -1,0 +1,23 @@
+species: Flaaffy
+ingamename: StBasilDay
+displayname: St. Basil's Day
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Nugget
+ability: Motor Drive
+moves:
+    - [Shock Wave]
+    - [Bubble Beam]
+    - [Trump Card 3PP]
+    - [Tail Glow]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 21, atk: 31, def: 31, spA: 1, spD: 31, spe: 11}
+evs: {hp: 84, atk: 0, def: 160, spA: 0, spD: 164, spe: 0}
+nature: Modest
+hidden: false
+tags: [NewYear]

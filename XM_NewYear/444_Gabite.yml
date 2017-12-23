@@ -1,0 +1,23 @@
+species: Gabite
+ingamename: DragonZodi
+displayname: Dragon Zodiac
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Yache Berry
+ability: Levitate
+moves:
+    - [Dragon Claw]
+    - [Flash Cannon]
+    - [Flamethrower]
+    - [Conversion]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 15, atk: 0, def: 12, spA: 31, spD: 21, spe: 11}
+evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 64, spe: 0}
+nature: Modest
+hidden: false
+tags: [NewYear]

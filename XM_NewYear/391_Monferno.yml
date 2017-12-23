@@ -1,0 +1,23 @@
+species: Monferno
+ingamename: MonkeyZodi
+displayname: Monkey Zodiac
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Flame Orb
+ability: Own Tempo
+moves:
+    - [Flamethrower]
+    - [Sucker Punch]
+    - [Taunt]
+    - [Trick]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 0, def: 31, spA: 11, spD: 11, spe: 14}
+evs: {hp: 76, atk: 64, def: 128, spA: 0, spD: 0, spe: 0}
+nature: Brave
+hidden: false
+tags: [NewYear]

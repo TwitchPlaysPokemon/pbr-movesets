@@ -1,0 +1,23 @@
+species: Croconaw
+ingamename: CroconewYe
+displayname: Croconew Year
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Magnet
+ability: Drizzle
+moves:
+    - [Surf]
+    - [Thunder]
+    - [Crunch]
+    - [Scary Face]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 24, atk: 11, def: 21, spA: 23, spD: 31, spe: 11}
+evs: {hp: 0, atk: 36, def: 72, spA: 36, spD: 64, spe: 0}
+nature: Lonely
+hidden: false
+tags: [NewYear]

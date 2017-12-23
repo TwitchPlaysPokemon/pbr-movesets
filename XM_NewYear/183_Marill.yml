@@ -1,0 +1,23 @@
+species: Marill
+ingamename: PolkaDots
+displayname: Polka Dots
+setname: NewYear
+level: 50
+ball: [Premier]
+item: King's Rock
+ability: Huge Power
+moves:
+    - [Waterfall]
+    - [Rock Blast]
+    - [Fling]
+    - [Trick Room]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 72, atk: 64, def: 100, spA: 0, spD: 100, spe: 0}
+nature: Brave
+hidden: false
+tags: [NewYear]

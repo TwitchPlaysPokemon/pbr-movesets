@@ -1,0 +1,23 @@
+species: Skiploom
+ingamename: Leap Year
+displayname: Leap Year
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Wide Lens
+ability: Limber
+moves:
+    - [Bounce]
+    - [Doom Desire]
+    - [Leech Seed]
+    - [Confuse Ray]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 11, def: 31, spA: 25, spD: 15, spe: 31}
+evs: {hp: 152, atk: 172, def: 56, spA: 128, spD: 0, spe: 0}
+nature: Quiet
+hidden: false
+tags: [NewYear]

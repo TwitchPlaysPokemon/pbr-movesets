@@ -1,0 +1,23 @@
+species: Chansey
+ingamename: WeightLoss
+displayname: Weight Loss Resolution 
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Lucky Punch
+ability: Thick Fat
+moves:
+    - [Extreme Speed]
+    - [High Jump Kick]
+    - [Sharpen]
+    - [Foresight]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 100, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}
+nature: Adament
+hidden: false
+tags: [NewYear]

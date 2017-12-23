@@ -1,0 +1,23 @@
+species: Electabuzz
+ingamename: TigerZodia
+displayname: Tiger Zodiac
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Leftovers
+ability: Levitate
+moves:
+    - [Discharge]
+    - [HP Ice 70]
+    - [Stealth Rock]
+    - [Roar]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 0, def: 21, spA: 0, spD: 0, spe: 0}
+evs: {hp: 107, atk: 0, def: 252, spA: 0, spD: 0, spe: 0}
+nature: Impish
+hidden: false
+tags: [NewYear]
