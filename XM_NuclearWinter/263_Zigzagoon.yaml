@@ -3,7 +3,7 @@ ingamename: RandyOrton
 displayname: RandyOrton
 setname: Nuke
 tags: [nuke]
-item: Focus Sash
+item: Focus Band
 ability: Wonder Guard
 moves:
     - [Endeavor]
