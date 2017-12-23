@@ -1,0 +1,22 @@
+species: Breloom
+ingamename: Captn Toad
+displayname: Captain Toad
+setname: Christmas
+tags: [christmas]
+item: Hard Stone
+ability: Run Away
+moves:
+    - [Brave Bird]
+    - [Power Gem]
+    - [Agility]
+    - [Flash]
+happiness: 255
+biddable: True
+gender: [m]
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 0, def: 15, spA: 31, spD: 31, spe: 13}
+evs: {hp: 252, atk: 0, def: 0, spA: 196, spD: 40, spe: 0}
+hidden: False

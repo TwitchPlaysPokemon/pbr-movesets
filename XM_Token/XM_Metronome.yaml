@@ -161,7 +161,7 @@ biddable: True
 rarity: 0.0
 ball: [Cherish]
 shiny: True
-nature: 
+nature: Modest
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false

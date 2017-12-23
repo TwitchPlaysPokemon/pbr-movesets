@@ -1,0 +1,22 @@
+species: Taillow
+ingamename: Tailsnow
+displayname: Tailsnow
+setname: Christmas
+tags: [christmas]
+item: Focus Sash
+ability: Adaptability
+moves:
+    - [blizzard]
+    - [Air Slash]
+    - [Conversion]
+    - [Hail]
+happiness: 255
+biddable: True
+gender: [m,f]
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 96, atk: 0, def: 0, spA: 252, spD: 0, spe: 162}
+hidden: False

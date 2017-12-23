@@ -1,0 +1,22 @@
+species: Pelipper
+ingamename: Xmas Card
+displayname: Christmas Card
+setname: Christmas
+tags: [christmas]
+item: Snow Mail
+ability: Pickup
+moves:
+    - [Trump Card]
+    - [U-Turn]
+    - [Wish]
+    - [Memento]
+happiness: 255
+biddable: True
+gender: [m,f]
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 31, spe: 16}
+evs: {hp: 252, atk: 136, def: 0, spA: 84, spD: 36, spe: 0}
+hidden: False
