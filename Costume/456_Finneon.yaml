@@ -9,7 +9,7 @@ moves:
     - [Psychic]
     - [Air Slash]
     - [Calm Mind]
-    - [Attact]
+    - [Attract]
 gender: [m, f]
 happiness: 255
 biddable: True

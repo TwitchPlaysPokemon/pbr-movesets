@@ -1,0 +1,45 @@
+species: Jigglypuff
+ingamename: Kirby
+displayname: Kirby
+setname: Christmas
+tags: [christmas]
+item: Leftovers
+ability: Huge Power
+moves:
+    - [Body Slam]
+    - [Fly]
+    - [Swallow]
+    - [Stockpile]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Relaxed
+ivs: 31
+evs: {hp: 252, atk: 92, def: 84, spA: 0, spD: 80, spe: 0}
+hidden: false
+---
+species: Jigglypuff
+ingamename: LetItSnow
+displayname: Let It Snow
+setname: Christmas2
+tags: [christmas]
+item: NeverMeltIce
+ability: Snow Warning
+moves:
+    - [Blizzard]
+    - [Hyper Voice]
+    - [Sing]
+    - [Conversion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Rash
+ivs: 31
+evs: {hp: 60, atk: 0, def: 64, spA: 252, spD: 68, spe: 64}
+hidden: false

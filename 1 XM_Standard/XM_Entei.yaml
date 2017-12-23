@@ -1,0 +1,21 @@
+species: Entei
+ingamename: MrFezziwig
+displayname: Mr. Fezziwig
+setname: Christmas
+tags: [christmas]
+item: Amulet Coin
+ability:
+moves:
+    - [Chatter]
+    - [Pay Day]
+    - [Tickle]
+    - [Howl]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Calm
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 18, spe: 14}
+evs: {hp: 0, atk: 16, def: 120, spA: 36, spD: 96, spe: 0}
+hidden: false

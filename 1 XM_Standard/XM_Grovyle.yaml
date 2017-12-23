@@ -1,0 +1,22 @@
+species: Grovyle
+ingamename: PMDGrovyle
+displayname: PMD Grovyle
+setname: Christmas
+tags: [christmas]
+item: Hard Stone
+ability: Technician
+moves:
+    - [Thief]
+    - [Future Sight]
+    - [Power Gem]
+    - [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Naughty
+ivs: 31
+evs: {hp: 0, atk: 252, def: 120, spA: 60, spD: 40, spe: 36}
+hidden: false

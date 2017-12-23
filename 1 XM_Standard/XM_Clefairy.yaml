@@ -1,0 +1,22 @@
+species: Clefairy
+ingamename: ToothFairy
+displayname: Tooth Fairy
+setname: Christmas
+tags: [christmas]
+item: DeepSeaTooth
+ability: Huge Power
+moves:
+    - [Brick Break]
+    - [Head Smash]
+    - [False Swipe]
+    - [Fling]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Docile
+ivs: 31
+evs: {hp: 0, atk: 140, def: 252, spA: 0, spD: 116, spe: 0}
+hidden: false

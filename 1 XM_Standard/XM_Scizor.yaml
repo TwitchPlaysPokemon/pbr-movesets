@@ -1,0 +1,22 @@
+species: Scizor
+ingamename: Iron Man
+displayname: Iron Man
+setname: Christmas
+tags: [christmas]
+item: Amulet Coin
+ability: Motor Drive
+moves:
+    - [Zap Cannon]
+    - [Metal Claw]
+    - [Fly]
+    - [Selfdestruct]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Modest
+ivs: {hp: 16, atk: 10, def: 5, spA: 31, spD: 15, spe: 16}
+evs: {hp: 80, atk: 24, def: 0, spA: 180, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,137 @@
+species: Pichu
+ingamename: Powder
+displayname: Powder
+setname: Snowball
+tags: [snowball]
+item: Brightpowder
+ability: Rough Skin
+moves:
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Nest]
+shiny: True
+nature: Impish
+ivs: 31
+evs: {hp: 252, atk: 96, def: 252, spA: 0, spD: 0, spe: 76}
+hidden: false
+---
+species: Smoochum
+ingamename: Ice
+displayname: Ice
+setname: Snowball
+tags: [snowball]
+item: Brightpowder
+ability: Rough Skin
+moves:
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Nest]
+shiny: True
+nature: Impish
+ivs: {hp: 31, atk: 25, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 52, atk: 0, def: 252, spA: 0, spD: 0, spe: 36}
+hidden: false
+---
+species: Elekid
+ingamename: Packed
+displayname: Packed
+setname: Snowball
+tags: [snowball]
+item: Brightpowder
+ability: Rough Skin
+moves:
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Nest]
+shiny: True
+nature: Relaxed
+ivs: {hp: 31, atk: 9, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 52, atk: 0, def: 76, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Magby
+ingamename: Slush
+displayname: Slush
+setname: Snowball
+tags: [snowball]
+item: Brightpowder
+ability: Rough Skin
+moves:
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Nest]
+shiny: True
+nature: Bold
+ivs: {hp: 31, atk: 1, def: 31, spA: 31, spD: 31, spe: 4}
+evs: {hp: 52, atk: 0, def: 76, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Budew
+ingamename: Artificial
+displayname: Artificial
+setname: Snowball
+tags: [snowball]
+item: Brightpowder
+ability: Rough Skin
+moves:
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Nest]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 92, atk: 128, def: 140, spA: 0, spD: 0, spe: 116}
+hidden: false
+---
+species: Chingling
+ingamename: Flake
+displayname: Flake
+setname: Snowball
+tags: [snowball]
+item: Brightpowder
+ability: Rough Skin
+moves:
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+    - [Ice Ball]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Nest]
+shiny: True
+nature: Quirky
+ivs: 31
+evs: {hp: 52, atk: 176, def: 20, spA: 0, spD: 0, spe: 196}
+hidden: false

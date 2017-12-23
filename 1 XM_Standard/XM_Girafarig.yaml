@@ -1,0 +1,20 @@
+species: Girafarig
+ingamename: Rudolph
+displayname: Rudolph
+setname: Christmas
+tags: [christmas]
+item: Sharp Beak
+ability: Illuminate
+moves:
+    - [Fly]
+    - [Swift]
+    - [Flash]
+    - [Wish]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 13, spD: 31, spe: 19}
+evs: {hp: 252, atk: 16, def: 40, spA: 28, spD: 40, spe: 24}

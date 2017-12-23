@@ -1,0 +1,21 @@
+species: Raikou
+ingamename: JacobMarly
+displayname: Jacob Marley
+setname: Christmas
+tags: [christmas]
+item: Spell Tag
+ability: Color Change
+moves:
+    - [Chatter]
+    - [Shadow Punch]
+    - [Mean Look]
+    - [Destiny Bond]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: {hp: 16, atk: 31, def: 31, spA: 12, spD: 0, spe: 0}
+evs: {hp: 76, atk: 96, def: 24, spA: 0, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,22 @@
+species: Wigglytuff
+ingamename: Waddle Dee
+displayname: Waddle Dee
+setname: Christmas
+tags: [christmas]
+item: Fluffy Tail
+ability: Cute Charm
+moves:
+    - [Slam]
+    - [Sucker Punch]
+    - [Copycat]
+    - [Metronome]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Quiet
+ivs: 31
+evs: {hp: 0, atk: 128, def: 192, spA: 0, spD: 188, spe: 0}
+hidden: false

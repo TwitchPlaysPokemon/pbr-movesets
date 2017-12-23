@@ -1,0 +1,22 @@
+species: Diglett
+ingamename: LolaDiglet
+displayname: Alolan Diglett
+setname: Christmas
+tags: [christmas]
+item: Salac Berry
+ability: Adaptability
+moves:
+    - [Mud Slap]
+    - [Metal Claw]
+    - [Conversion]
+    - [Fissure]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 15}
+evs: {hp: 60, atk: 164, def: 200, spA: 252, spD: 84, spe: 0}
+hidden: false

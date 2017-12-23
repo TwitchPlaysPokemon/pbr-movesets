@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Luxury]
 shiny: True
-nature: Naughty
+nature: Brave
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 14}
 evs: {hp: 64, atk: 106, def: 64, spA: 0, spD: 64, spe: 0}
 hidden: false

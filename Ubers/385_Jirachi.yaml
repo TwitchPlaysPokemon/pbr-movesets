@@ -78,7 +78,7 @@ species: Jirachi
 setname: Mixed
 tags: [ubers]
 item: [Expert Belt]
-ability: U-[Serene Grace]
+ability: [Serene Grace]
 moves:
     - [Iron Head]
     - [Thunderbolt, Grass Knot, Grass Knot, Thunder]

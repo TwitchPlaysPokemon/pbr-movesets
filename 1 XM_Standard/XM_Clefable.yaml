@@ -1,0 +1,22 @@
+species: Clefable
+ingamename: TinkerBell
+displayname: Tinker Bell
+setname: Christmas
+tags: [christmas]
+item: Power Herb
+ability: Magic Guard
+moves:
+    - [Fly]
+    - [Shadow Force]
+    - [Encore]
+    - [Stun Spore]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 128, spe: 124}
+hidden: false

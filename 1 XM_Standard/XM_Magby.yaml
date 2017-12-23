@@ -1,0 +1,22 @@
+species: Magby
+ingamename: Birdo
+displayname: Birdo
+setname: Christmas
+tags: [christmas]
+item: Lucky Egg
+ability: Cute Charm
+moves:
+    - [Egg Bomb]
+    - [Gunk Shot]
+    - [Sweet Kiss]
+    - [Fling]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Impish
+ivs: 31
+evs: {hp: 96, atk: 184, def: 164, spA: 0, spD: 0, spe: 64}
+hidden: false

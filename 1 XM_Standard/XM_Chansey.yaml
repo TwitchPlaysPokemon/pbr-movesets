@@ -1,0 +1,22 @@
+species: Chansey
+ingamename: AngryDntst
+displayname: Angry Dentist
+setname: Christmas
+tags: [christmas]
+item: Rare Candy
+ability: Huge Power
+moves:
+    - [Hammer Arm]
+    - [Head Smash]
+    - [Fling]
+    - [Curse]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 10, spe: 0}
+evs: {hp: 100, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+hidden: false

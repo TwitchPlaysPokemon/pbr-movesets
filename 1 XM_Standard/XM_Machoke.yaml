@@ -1,0 +1,22 @@
+species: Machoke
+ingamename: Grinch
+displayname: Grinch
+setname: Christmas
+tags: [christmas]
+item: Null
+ability: Anger Point
+moves:
+    - [Frustration]
+    - [Thief]
+    - [Taunt]
+    - [Destiny Bond]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Timid
+ivs: 31
+evs: {hp: 80, atk: 64, def: 0, spA: 0, spD: 96, spe: 200}
+hidden: false

@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Repeat]
 shiny: True
-nature: Serious
-ivs: 31
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 15, spD: 31, spe: 20}
 evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
 hidden: False

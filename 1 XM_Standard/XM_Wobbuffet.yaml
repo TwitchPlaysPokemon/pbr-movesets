@@ -1,0 +1,22 @@
+species: Wobbuffet
+ingamename: XmasBuffet
+displayname: Christmas Buffet
+setname: Christmas
+tags: [christmas]
+item: Sitrus Berry
+ability: Gluttony
+moves:
+    - [Gunk Shot]
+    - [Crunch]
+    - [Spit Up]
+    - [Stockpile]
+gender: [m,f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Quiet
+ivs: 31
+evs: {hp: 0, atk: 252, def: 40, spA: 176, spD: 40, spe: 0}
+hidden: true

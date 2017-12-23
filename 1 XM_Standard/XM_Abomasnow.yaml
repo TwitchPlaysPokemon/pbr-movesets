@@ -53,7 +53,7 @@ item: Silver Powder
 ability: Illuminate
 moves:
     - [Needle Arm]
-    - [Pin Missle]
+    - [Pin Missile]
     - [Barrage]
     - [Flash]
 gender: [m, f]

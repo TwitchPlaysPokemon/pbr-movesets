@@ -9,7 +9,7 @@ moves:
     - [Smelling Salts]
     - [Bite]
     - [Heat Wave]
-    - [Thuder Wave]
+    - [Thunder Wave]
 gender: [m, f]
 happiness: 255
 biddable: True
