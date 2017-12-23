@@ -1,0 +1,22 @@
+species: Unown
+form: 16
+ingamename: Doughnut
+displayname: Doughnut
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Old Gateau
+ability: Gluttony
+moves:
+    - [Egg Bomb]
+    - [Bug Bite]
+    - [Sleep Powder]
+    - [Stockpile]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 164, atk: 48, def: 0, spA: 0, spD: 0, spe: 52}
+nature: Adamant
+hidden: false

@@ -1,0 +1,22 @@
+species: Unown
+form: 24
+ingamename: Spatula
+displayname: Spatula
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Twisted Spoon
+ability: Flame Body
+moves:
+    - [Tri Attack]
+    - [Seismic Toss]
+    - [Heat Wave]
+    - [Wood Hammer]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 108, atk: 0, def: 0, spA: 0, spD: 0, spe: 64}
+nature: Serious
+hidden: false

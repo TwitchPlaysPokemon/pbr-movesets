@@ -1,0 +1,22 @@
+species: Unown
+form: 17
+ingamename: Spoon
+displayname: Spoon
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Power Herb
+ability: Water Absorb
+moves:
+    - [Dig]
+    - [Dive]
+    - [Crush Grip]
+    - [Water Sport]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 96, atk: 24, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Serious
+hidden: false

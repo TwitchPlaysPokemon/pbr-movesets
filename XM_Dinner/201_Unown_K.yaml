@@ -1,0 +1,22 @@
+species: Unown
+form: 12
+ingamename: Knife
+displayname: Knife
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Twisted Spoon
+ability: Rough Skin
+moves:
+    - [Cut]
+    - [Head Smash]
+    - [Horn Drill]
+    - [Sharpen]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 252, atk: 52, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Mild
+hidden: false

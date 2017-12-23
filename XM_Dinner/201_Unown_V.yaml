@@ -1,0 +1,22 @@
+species: Unown
+form: 23
+ingamename: FortCookie
+displayname: Fortune Cookie
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Toxic Orb
+ability: Super Luck
+moves:
+    - [Luster Purge]
+    - [Acupressure]
+    - [Wish]
+    - [Heal Bell]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 28, atk: 28, def: 28, spA: 28, spD: 28, spe: 28}
+nature: Serious
+hidden: false

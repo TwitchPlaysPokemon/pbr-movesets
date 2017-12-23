@@ -1,0 +1,22 @@
+species: Unown
+form: 26
+ingamename: Lollipop
+displayname: Lollipop
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Stick
+ability: Serene Grace
+moves:
+    - [Lick]
+    - [Crunch]
+    - [Horn Drill]
+    - [Sweet Scent]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false

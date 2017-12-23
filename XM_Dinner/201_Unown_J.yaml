@@ -1,0 +1,22 @@
+species: Unown
+form: 11
+ingamename: CandyStick
+displayname: Candy Stick
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Stick
+ability: Gluttony
+moves:
+    - [Lick]
+    - [Bite]
+    - [Fling]
+    - [Dragon Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 60, atk: 224, def: 0, spA: 0, spD: 0, spe: 80}
+nature: Adamant
+hidden: false
