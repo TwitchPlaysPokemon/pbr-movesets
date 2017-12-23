@@ -1,0 +1,22 @@
+species: Wartortle
+ingamename: Yemoja
+displayname: Yemoja
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Big Root
+ability: Anger Point
+moves:
+    - [Surf]
+    - [Return]
+    - [Attract]
+    - [Aqua Ring]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 11, spD: 31, spe: 11}
+evs: {hp: 72, atk: 0, def: 64, spA: 160, spD: 64, spe: 0}
+nature: Modest
+hidden: false

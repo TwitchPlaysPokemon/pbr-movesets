@@ -1,0 +1,22 @@
+species: Poliwhirl
+ingamename: Champagne
+displayname: Champagne
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Metal Coat
+ability: Water Absorb
+moves:
+    - [Brine]
+    - [Flash Cannon]
+    - [Pain Split]
+    - [Calm Mind]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 31, def: 15, spA: 31, spD: 15, spe: 31}
+evs: {hp: 0, atk: 0, def: 36, spA: 172, spD: 84, spe: 72}
+nature: Modest
+hidden: false

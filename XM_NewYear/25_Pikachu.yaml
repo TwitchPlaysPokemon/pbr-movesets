@@ -1,0 +1,22 @@
+species: Pikachu
+ingamename: RabbZodiac
+displayname: Rabbit Zodiac
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Focus Sash
+ability: Rock Head
+moves:
+    - [Volt Tackle]
+    - [Wood Hammer]
+    - [Bounce]
+    - [Swagger]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 11, spA: 31, spD: 11, spe: 11}
+evs: {hp: 120, atk: 224, def: 0, spA: 0, spD: 0, spe: 164}
+nature: Adamant
+hidden: false

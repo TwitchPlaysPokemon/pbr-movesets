@@ -1,0 +1,22 @@
+species: Clefairy
+ingamename: NY Kiss
+displayname: New Years' Kiss
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Big Root
+ability: Cute Charm
+moves:
+    - [Hyper Voice]
+    - [Dream Eater]
+    - [Sweet Kiss]
+    - [Lovely Kiss]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 176, atk: 0, def: 128, spA: 120, spD: 84, spe: 0}
+nature: Modest
+hidden: false

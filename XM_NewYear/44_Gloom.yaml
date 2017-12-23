@@ -1,0 +1,22 @@
+species: Gloom
+ingamename: LastDayOff
+displayname: Last Day Off
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Miracle Seed
+ability: Bad Dreams
+moves:
+    - [Energy Ball]
+    - [Doom Desire]
+    - [Nightmare]
+    - [Sleep Powder]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 14, atk: 31, def: 14, spA: 31, spD: 14, spe: 20}
+evs: {hp: 72, atk: 0, def: 48, spA: 0, spD: 36, spe: 0}
+nature: Quiet
+hidden: false

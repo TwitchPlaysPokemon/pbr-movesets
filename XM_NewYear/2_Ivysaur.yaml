@@ -1,0 +1,22 @@
+species: Ivysaur
+ingamename: Oshosi
+displayname: Oshosi
+setname: NewYear
+level: 50
+ball: [Premier]
+item: Payapa Berry
+ability: Serene Grace
+moves:
+    - [Seed Flare]
+    - [Dark Pulse]
+    - [Icy Wind]
+    - [Charge Beam]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 11, atk: 0, def: 11, spA: 13, spD: 11, spe: 18}
+evs: {hp: 200, atk: 0, def: 128, spA: 36, spD: 64, spe: 0}
+nature: Quiet
+hidden: false
