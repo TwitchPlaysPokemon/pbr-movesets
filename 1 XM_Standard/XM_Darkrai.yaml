@@ -1,0 +1,21 @@
+species: Darkrai
+ingamename: Thor
+displayname: Thor
+setname: Christmas
+tags: [christmas]
+item: Stick
+ability: Volt Absorb
+moves:
+    - [Thunder]
+    - [Hammer Arm]
+    - [Fling]
+    - [Bulk Up]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Adamant
+ivs: 0
+evs: 0
+hidden: False
