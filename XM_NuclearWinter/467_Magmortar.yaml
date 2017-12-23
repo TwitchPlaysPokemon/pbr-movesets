@@ -10,6 +10,7 @@ moves:
     - [Draco Meteor]
     - [Solarbeam]
     - [Synthesis]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

@@ -10,6 +10,7 @@ moves:
     - [Seismic Toss]
     - [Toxic]
     - [Mimic]
+gender: [m]
 happiness: 255
 biddable: False
 rarity: 1.0

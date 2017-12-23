@@ -10,6 +10,7 @@ moves:
     - [Dynamic Punch]
     - [Thunder]
     - [Pain Split]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

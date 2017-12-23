@@ -10,6 +10,7 @@ moves:
     - [Flare Blitz]
     - [Conversion]
     - [dragon dance]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

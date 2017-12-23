@@ -10,6 +10,7 @@ moves:
     - [Stone Edge]
     - [Icy Wind]
     - [Stealth Rock]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

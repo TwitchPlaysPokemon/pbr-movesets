@@ -33,6 +33,7 @@ moves:
     - [Water Spout]
     - [Earthquake]
     - [Explosion]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
