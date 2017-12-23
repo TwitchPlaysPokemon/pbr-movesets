@@ -18,5 +18,5 @@ ball: [master]
 shiny: True
 nature: Lonely
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 180, atk: 84, def: , spA: , spD: , spe: 252}
+evs: {hp: 180, atk: 84, def: 0, spA: 0, spD: 0, spe: 252}
 hidden: false
