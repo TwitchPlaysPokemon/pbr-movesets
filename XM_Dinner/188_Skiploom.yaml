@@ -1,0 +1,22 @@
+species: Skiploom
+ingamename: Cake
+displayname: Cake
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Icicle Plate
+ability: Effect Spore
+moves:
+    - [Ice Fang]
+    - [Stone Edge]
+    - [Double Edge]
+    - [Recover]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 11
+evs: {hp: 104, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false

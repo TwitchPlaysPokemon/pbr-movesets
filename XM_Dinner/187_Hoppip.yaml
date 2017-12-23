@@ -1,0 +1,22 @@
+species: Hoppip
+ingamename: Vegetable
+displayname: Vegetable
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Revival Herb
+ability: Huge Power
+moves:
+    - [Vital Throw]
+    - [Rock Throw]
+    - [Strength]
+    - [Dig]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 200, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false

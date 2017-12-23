@@ -1,0 +1,22 @@
+species: Politoed
+ingamename: Frogs Legs
+displayname: Frog's Legs
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Moon Stone
+ability: Cute Charm
+moves:
+    - [Mega Kick]
+    - [Bounce]
+    - [Jump Kick]
+    - [Tail Whip]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 7
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Modest
+hidden: false

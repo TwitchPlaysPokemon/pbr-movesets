@@ -1,0 +1,22 @@
+species: Chikorita
+ingamename: Spinach
+displayname: Spinach
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Meadow Plate
+ability: Pure Power
+moves:
+    - [Superpower]
+    - [Strength]
+    - [Rock Throw]
+    - [Bulk Up]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 40}
+nature: Serious
+hidden: false

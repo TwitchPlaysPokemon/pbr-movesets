@@ -1,0 +1,22 @@
+species: Cleffa
+ingamename: Trifle
+displayname: Trifle
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Rare Candy
+ability: Simple
+moves:
+    - [Egg Bomb]
+    - [Spark]
+    - [Sweet Kiss]
+    - [Double Team]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 52, atk: 252, def: 0, spA: 0, spD: 0, spe: 204}
+nature: Serious
+hidden: false

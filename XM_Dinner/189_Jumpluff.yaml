@@ -1,0 +1,22 @@
+species: Jumpluff
+ingamename: CotonCandy
+displayname: Cotton Candy
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Fluffy Tail
+ability: Effect Spore
+moves:
+    - [Lick]
+    - [Razor Wind]
+    - [Leech Seed]
+    - [Cotton Spore]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 252, spD: 0, spe: 128}
+nature: Rash
+hidden: false

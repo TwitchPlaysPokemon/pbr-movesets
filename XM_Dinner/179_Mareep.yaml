@@ -1,0 +1,22 @@
+species: Mareep
+ingamename: Lamb
+displayname: Lamb
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Fluffy Tail
+ability: Early Bird
+moves:
+    - [Hi Jump Kick]
+    - [Bounce]
+    - [Sleep Talk]
+    - [Rest]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 0, spe: 168}
+nature: Serious
+hidden: false

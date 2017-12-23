@@ -1,0 +1,22 @@
+species: Togepi
+ingamename: Egg Nog
+displayname: Egg Nog
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Aguav Berry
+ability: Tangled Feet
+moves:
+    - [Egg Bomb]
+    - [Sludge Bomb]
+    - [Teeter Dance]
+    - [Milk Drink]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 220, spD: 0, spe: 36}
+nature: Naughty
+hidden: false

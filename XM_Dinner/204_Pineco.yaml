@@ -1,0 +1,22 @@
+species: Pineco
+ingamename: Pineapple
+displayname: Pineapple
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Pinap Berry
+ability: Rough Skin
+moves:
+    - [Egg Bomb]
+    - [Flame Wheel]
+    - [Bounce]
+    - [Dive]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 36, atk: 76, def: 0, spA: 0, spD: 36, spe: 128}
+nature: Lonely
+hidden: false

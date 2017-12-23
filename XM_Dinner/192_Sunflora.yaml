@@ -1,0 +1,22 @@
+species: Sunflora
+ingamename: Stroopwafl
+displayname: Stroopwafel
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Honey
+ability: Sticky Hold
+moves:
+    - [Sludge Bomb]
+    - [Crunch]
+    - [Sweet Scent]
+    - [Stockpile]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 18
+evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Serious
+hidden: false

@@ -1,0 +1,22 @@
+species: Igglybuff
+ingamename: Strawberry
+displayname: Strawberry
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Rawst Berry
+ability: Simple
+moves:
+    - [Egg Bomb]
+    - [Bounce]
+    - [Swords Dance]
+    - [Bulk Up]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 20, atk: 20, def: 0, spA: 0, spD: 0, spe: 80}
+nature: Serious
+hidden: false

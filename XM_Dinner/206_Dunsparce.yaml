@@ -1,0 +1,22 @@
+species: Dunsparce
+ingamename: Pancake
+displayname: Pancake
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Honey
+ability: Serene Grace
+moves:
+    - [Muddy Water]
+    - [Powder Snow]
+    - [Rollout]
+    - [Hail]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 10
+evs: {hp: 0, atk: 68, def: 0, spA: 60, spD: 0, spe: 88}
+nature: Serious
+hidden: false
