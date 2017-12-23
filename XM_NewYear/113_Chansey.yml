@@ -2,6 +2,7 @@ species: Chansey
 ingamename: WeightLoss
 displayname: Weight Loss Resolution 
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Lucky Punch
@@ -20,4 +21,3 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
 evs: {hp: 100, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}
 nature: Adament
 hidden: false
-tags: [NewYear]

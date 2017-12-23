@@ -2,6 +2,7 @@ species: Shelgon
 ingamename: GoatZodiac
 displayname: Goat Zodiac
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Sitrus Berry
@@ -20,4 +21,3 @@ ivs: {hp: 4, atk: 0, def: 31, spA: 0, spD: 21, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 nature: Bold
 hidden: false
-tags: [NewYear]

@@ -2,6 +2,7 @@ species: Seadra
 ingamename: HorseZodia
 displayname: Horse Zodiac
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Petaya Berry
@@ -20,4 +21,3 @@ ivs: {hp: 31, atk: 21, def: 11, spA: 0, spD: 21, spe: 0}
 evs: {hp: 128, atk: 96, def: 0, spA: 0, spD: 200, spe: 0}
 nature: Adamant 
 hidden: false
-tags: [NewYear]

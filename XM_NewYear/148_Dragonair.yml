@@ -2,6 +2,7 @@ species: Dragonair
 ingamename: SnakeZodia
 displayname: Snake Zodiac
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Haban Berry
@@ -20,4 +21,3 @@ ivs: {hp: 11, atk: 11, def: 11, spA: 11, spD: 11, spe: 11}
 evs: {hp: 48, atk: 44, def: 0, spA: 64, spD: 0, spe: 0}
 nature: Modest
 hidden: false
-tags: [NewYear]

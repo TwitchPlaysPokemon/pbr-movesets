@@ -2,6 +2,7 @@ species: Monferno
 ingamename: MonkeyZodi
 displayname: Monkey Zodiac
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Flame Orb
@@ -20,4 +21,3 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 11, spD: 11, spe: 14}
 evs: {hp: 76, atk: 64, def: 128, spA: 0, spD: 0, spe: 0}
 nature: Brave
 hidden: false
-tags: [NewYear]

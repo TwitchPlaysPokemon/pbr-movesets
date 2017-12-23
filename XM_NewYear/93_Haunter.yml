@@ -2,6 +2,7 @@ species: Haunter
 ingamename: NewYearSpo
 displayname: New Year's Spook
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Papaya Berry
@@ -20,4 +21,3 @@ ivs: {hp: 21, atk: 31, def: 31, spA: 31, spD: 31, spe: 14}
 evs: {hp: 96, atk: 228, def: 84, spA: 0, spD: 0, spe: 64}
 nature: Adamant
 hidden: false
-tags: [NewYear]

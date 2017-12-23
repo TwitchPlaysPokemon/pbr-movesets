@@ -2,6 +2,7 @@ species: Magneton
 ingamename: Light Show
 displayname: Light Show
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Shuca Berry
@@ -20,4 +21,3 @@ ivs: {hp: 5, atk: 31, def: 5, spA: 0, spD: 5, spe: 0}
 evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 0}
 nature: Careful
 hidden: false
-tags: [NewYear]

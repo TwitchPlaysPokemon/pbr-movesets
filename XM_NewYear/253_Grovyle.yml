@@ -2,6 +2,7 @@ species: Grovyle
 ingamename: Shogatsu
 displayname: Shogatsu
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Ganlon Berry
@@ -20,4 +21,3 @@ ivs: {hp: 11, atk: 11, def: 31, spA: 11, spD: 11, spe: 11}
 evs: {hp: 128, atk: 36, def: 128, spA: 120, spD: 0, spe: 0}
 nature: Adamant
 hidden: false
-tags: [NewYear]

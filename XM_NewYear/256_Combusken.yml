@@ -2,6 +2,7 @@ species: Combusken
 ingamename: RoosterZod
 displayname: Rooster Zodiac
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Lansat Berry
@@ -20,4 +21,3 @@ ivs: {hp: 11, atk: 6, def: 11, spA: 11, spD: 21, spe: 8}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 nature: Careful
 hidden: false
-tags: [NewYear]

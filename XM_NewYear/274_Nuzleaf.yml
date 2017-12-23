@@ -2,6 +2,7 @@ species: Nuzleaf
 ingamename: FirstFooti
 displayname: First Footing
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Salac Berry
@@ -20,4 +21,3 @@ ivs: {hp: 16, atk: 31, def: 11, spA: 23, spD: 11, spe: 11}
 evs: {hp: 0, atk: 252, def: 96, spA: 0, spD: 76, spe: 0}
 nature: Rash
 hidden: false
-tags: [NewYear]

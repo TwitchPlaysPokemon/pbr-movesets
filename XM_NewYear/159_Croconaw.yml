@@ -2,6 +2,7 @@ species: Croconaw
 ingamename: CroconewYe
 displayname: Croconew Year
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Magnet
@@ -20,4 +21,3 @@ ivs: {hp: 24, atk: 11, def: 21, spA: 23, spD: 31, spe: 11}
 evs: {hp: 0, atk: 36, def: 72, spA: 36, spD: 64, spe: 0}
 nature: Lonely
 hidden: false
-tags: [NewYear]

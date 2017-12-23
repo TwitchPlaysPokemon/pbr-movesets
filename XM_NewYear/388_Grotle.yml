@@ -2,6 +2,7 @@ species: Grotle
 ingamename: Nian
 displayname: Nian
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Focus Sash
@@ -20,4 +21,3 @@ ivs: {hp: 31, atk: 11, def: 31, spA: 0, spD: 0, spe: 0}
 evs: {hp: 128, atk: 0, def: 96, spA: 0, spD: 0, spe: 0}
 nature: Lax
 hidden: false
-tags: [NewYear]

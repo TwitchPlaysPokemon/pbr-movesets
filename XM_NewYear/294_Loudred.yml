@@ -2,6 +2,7 @@ species: Loudred
 ingamename: Shou Sui
 displayname: Shou Sui
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Zoom Lens
@@ -20,4 +21,3 @@ ivs: {hp: 11, atk: 0, def: 24, spA: 24, spD: 21, spe: 0}
 evs: {hp: 84, atk: 0, def: 160, spA: 64, spD: 128, spe: 0}
 nature: Quiet
 hidden: false
-tags: [NewYear]

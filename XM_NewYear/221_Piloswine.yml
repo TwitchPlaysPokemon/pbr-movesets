@@ -2,6 +2,7 @@ species: Piloswine
 ingamename: PigZodiac
 displayname: Pig Zodiac
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: Sitrus Berry
@@ -20,4 +21,3 @@ ivs: {hp: 11, atk: 16, def: 11, spA: 31, spD: 21, spe: 15}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 36, spe: 0}
 nature: Modest
 hidden: false
-tags: [New Year]

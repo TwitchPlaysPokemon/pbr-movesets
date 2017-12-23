@@ -2,6 +2,7 @@ species: Marill
 ingamename: PolkaDots
 displayname: Polka Dots
 setname: NewYear
+tags: [newyear]
 level: 50
 ball: [Premier]
 item: King's Rock
@@ -20,4 +21,3 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 72, atk: 64, def: 100, spA: 0, spD: 100, spe: 0}
 nature: Brave
 hidden: false
-tags: [NewYear]
