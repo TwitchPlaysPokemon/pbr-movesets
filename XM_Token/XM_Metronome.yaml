@@ -1,0 +1,311 @@
+species: Lopunny
+ingamename: Easter
+displayname: Easter
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Lucky Egg
+ability: Pickup
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Rash
+ivs: 0
+evs: {hp: 0, atk: 132, def: 0, spA: 168, spD: 0, spe: 0}
+hidden: false
+---
+species: Psyduck
+ingamename: AprilFools
+displayname: April Fools
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Choice Band
+ability: Simple
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Naive
+ivs: 31
+evs: {hp: 124, atk: 0, def: 48, spA: 160, spD: 48, spe: 128}
+hidden: false
+---
+species: Cherrim
+ingamename: MidSummer
+displayname: MidSummer
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Heat Rock
+ability: Flower Gift
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Quirky
+ivs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 68, spD: 0, spe: 0}
+hidden: false
+---
+species: Froslass
+ingamename: MidWinter
+displayname: MidWinter
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Icy Rock
+ability: Snow Cloak
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 64, def: 0, spA: 64, spD: 0, spe: 0}
+hidden: false
+---
+species: Gardevoir
+ingamename: AllSaints
+displayname: All Saints
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Rabuta Berry
+ability: Serene Grace
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 0
+evs: 0
+hidden: false
+---
+species: Dugtrio
+ingamename: Independen
+displayname: Independence Day
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Pinap Berry
+ability: Multitype
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: Sassy
+ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
+species: Snorlax
+ingamename: Thanksgiv
+displayname: Thanksgiving
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Starf Berry
+ability: Gluttony
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Cherish]
+shiny: True
+nature: 
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Haunter
+ingamename: Halloween
+displayname: Halloween
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Reaper Cloth
+ability: Bad Dreams
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 170, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Nidoqueen
+ingamename: MothersDay
+displayname: Mother's Day
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Destiny Knot
+ability: Rivalry
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Ultra]
+shiny: True
+nature: Serious
+ivs: 12
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Nidoking
+ingamename: FathersDay
+displayname: Father's Day
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Destiny Knot
+ability: Rivalry
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Ultra]
+shiny: True
+nature: Serious
+ivs: 8
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Spiritomb
+ingamename: NewYears
+displayname: New Year's Day
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Meadow Plate
+ability: Unaware
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Quick]
+shiny: True
+nature: Timid
+ivs: 1
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Luvdisc
+ingamename: Valentines
+displayname: Valentine's Day
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: Soothe Bell
+ability: Cute Charm
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Luxury]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 200, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
+species: 
+ingamename: 
+displayname: 
+setname: c-Metronome
+tags: [christmasmetronome]
+tags: [christmas]
+item: 
+ability: 
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: True
+nature: 
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
