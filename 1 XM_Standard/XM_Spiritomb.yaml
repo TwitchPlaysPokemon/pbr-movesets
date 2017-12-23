@@ -7,7 +7,7 @@ item: Smoke Ball
 ability: White Smoke
 moves:
     - [Magma Storm]
-    - [Smog]
+    - [Draco Meteor]
     - [Smokescreen]
     - [Explosion]
 gender: [m,f]
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: True
-nature: Serious
-ivs: 20
-evs: {hp: 44, atk: 128, def: 0, spA: 128, spD: 0, spe: 184}
+nature: Quiet
+ivs: {hp: 31, atk: 3, def: 5, spA: 31, spD: 5, spe: 14}
+evs: {hp: 160, atk: 0, def: 0, spA: 72, spD: 0, spe: 0}
 hidden: False

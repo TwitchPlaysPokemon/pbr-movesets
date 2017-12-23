@@ -3,7 +3,7 @@ ingamename: Yeti
 displayname: Yeti
 setname: Christmas
 tags: [christmas]
-item: Power Herb
+item: Black Sludge
 ability: Snow Warning
 moves:
     - [Skull Bash]
@@ -12,7 +12,7 @@ moves:
     - [Baton Pass]
 happiness: 255
 biddable: False
-rarity: 0.9
+rarity: 1.0
 ball: [Timer]
 shiny: True
 nature: Naughty

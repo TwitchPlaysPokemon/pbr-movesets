@@ -15,7 +15,7 @@ biddable: True
 rarity: 1.0
 ball: [Luxury]
 shiny: True
-nature: Serious
-ivs: 31
-evs: {hp: 0, atk: 216, def: 0, spA: 156, spD: 0, spe: 136}
+nature: Adamant
+ivs: {hp: 22, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 96, atk: 76, def: 72, spA: 76, spD: 100, spe: 8}
 hidden: False

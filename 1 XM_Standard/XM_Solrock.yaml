@@ -1,21 +1,21 @@
 species: Solrock
-ingamename: January1
-displayname: January1
+ingamename: NewYearDay
+displayname: New Year's Day
 setname: Christmas
 tags: [christmas]
-item: Sun Stone
+item: Fresh Water
 ability: Illuminate
 moves:
+    - [Gunk Shot]
     - [Icy Wind]
-    - [Sweet Scent]
-    - [Supersonic]
-    - [Morning Sun]
+    - [Snore]
+    - [Rest]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Cherish]
+ball: [Repeat]
 shiny: True
-nature: Modest
-ivs: 31
+nature: Quiet
+ivs: {hp: 31, atk: 24, def: 15, spA: 31, spD: 31, spe: 27}
 evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 128, spe: 0}
 hidden: False

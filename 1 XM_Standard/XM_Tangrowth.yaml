@@ -1,6 +1,6 @@
 species: Tangrowth
 ingamename: Mom'sPasta
-displayname: Mom'sPasta
+displayname: Mom's Spaghetti
 setname: Christmas
 tags: [christmas]
 item: Grip Claw
@@ -16,7 +16,30 @@ biddable: True
 rarity: 1.0
 ball: [Nest]
 shiny: True
-nature: Adamant
-ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 31, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 96, spe: 0}
+nature: Mild
+ivs: {hp: 7, atk: 31, def: 24, spA: 15, spD: 31, spe: 16}
+evs: {hp: 64, atk: 0, def: 36, spA: 52, spD: 64, spe: 0}
+hidden: False
+---
+species: Tangrowth
+ingamename: CndyWraprs
+displayname: Candy Wrappers
+setname: Christmas2
+tags: [christmas]
+item: Shed Shell
+ability: Sticky Hold
+moves:
+    - [Fly]
+    - [Wrap]
+    - [Icy Wind]
+    - [Trump Card (=3)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 176, def: 0, spA: 0, spD: 92, spe: 92}
 hidden: False

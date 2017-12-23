@@ -1,6 +1,6 @@
 species: Stantler
-ingamename: Raindeer
-displayname: Raindeer
+ingamename: Reindeer
+displayname: Reindeer
 setname: Christmas
 tags: [christmas]
 item: Silk Scarf
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Cherish]
 shiny: True
-nature: Adamant
-ivs: 31
-evs: {hp: 88, atk: 128, def: 88, spA: 0, spD: 88, spe: 116}
+nature: Jolly
+ivs: {hp: 31, atk: 24, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 96, atk: 24, def: 128, spA: 0, spD: 144, spe: 0}
 hidden: False

@@ -1,6 +1,6 @@
 species: Snorlax
 ingamename: XmasDinner
-displayname: XmasDinner
+displayname: Christmas Dinner
 setname: Christmas
 tags: [christmas]
 item: Liechi Berry
@@ -16,7 +16,30 @@ biddable: True
 rarity: 1.0
 ball: [Timer]
 shiny: True
-nature: Serious
-ivs: 31
-evs: 0
+nature: Lax
+ivs: {hp: 18, atk: 5, def: 11, spA: 31, spD: 3, spe: 0}
+evs: {hp: 204, atk: 0, def: 120, spA: 0, spD: 0, spe: 0}
 hidden: False
+---
+species: Snorlax
+ingamename: Winter Slp
+displayname: Winter Sleep
+setname: Christmas2
+tags: [christmas]
+item: Black Sludge
+ability: Scrappt
+moves:
+    - [Wake-Up-Slap]
+    - [Sleep Talk]
+    - [Sing]
+    - [Rest]
+gender: [m,f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Naive
+ivs: {hp: 31, atk: 20, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 100, spA: 0, spD: 0, spe: 0}
+hidden: True

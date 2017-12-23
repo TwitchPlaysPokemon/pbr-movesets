@@ -6,7 +6,7 @@ tags: [christmas]
 item: Icicle Plate
 ability: Own Tempo
 moves:
-    - [Judgement]
+    - [Judgment]
     - [Earthquake]
     - [Seismic Toss]
     - [Sketch (=0)]
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Cherish]
 shiny: True
-nature: Naughty 
+nature: Rash
 ivs: 31
-evs: 252
+evs: {hp: 96, atk: 252, def: 72, spA: 252, spD: 24, spe: 160}
 hidden: False

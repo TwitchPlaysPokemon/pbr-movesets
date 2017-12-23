@@ -9,7 +9,7 @@ moves:
     - [X-scissor]
     - [Future Sight]
     - [Mean Look]
-    - [Curse, Memento]
+    - [Curse]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -17,5 +17,5 @@ ball: [Dusk]
 shiny: True
 nature: Mild
 ivs: 31
-evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+evs: {hp: 0, atk: 108, def: 0, spA: 252, spD: 0, spe: 148}
 hidden: False

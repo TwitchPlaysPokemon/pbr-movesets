@@ -8,14 +8,14 @@ ability: Technician
 moves:
     - [Present]
     - [Fling]
-    - [Helping Hand]
+    - [Recycle]
     - [Follow Me]
 happiness: 255
 biddable: False
 rarity: 1.0
 ball: [Heal]
 shiny: True
-nature: Adamant
-ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+nature: Modest
+ivs: {hp: 11, atk: 0, def: 17, spA: 31, spD: 17, spe: 1}
+evs: {hp: 96, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: True

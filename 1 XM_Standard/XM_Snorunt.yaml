@@ -1,6 +1,6 @@
 species: Snorunt
 ingamename: Fortune
-displayname: Fortune
+displayname: Fortune Cookie
 setname: Christmas
 tags: [christmas]
 item: Lava Cookie
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Cherish]
 shiny: True
-nature: Modest
+nature: Timid
 ivs: 31
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+evs: {hp: 180, atk: 0, def: 144, spA: 204, spD: 144, spe: 120}
 hidden: False

@@ -14,9 +14,9 @@ happiness: 255
 biddable: True
 rarity: 1.0
 gender: [m,f]
-ball: [Cherish]
+ball: [Dive]
 shiny: True
-nature: Relaxed
-ivs: 31
-evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 128, spe: 0}
+nature: Quiet
+ivs: {hp: 15, atk: 0, def: 0, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 24, spA: 72, spD: 0, spe: 0}
 hidden: False

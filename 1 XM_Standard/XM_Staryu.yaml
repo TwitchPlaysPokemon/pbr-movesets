@@ -4,18 +4,18 @@ displayname: Twinkle
 setname: Christmas
 tags: [christmas]
 item: Star Piece
-ability: Serene Grace
+ability: Compoundeyes
 moves:
-    - [Luster Purge]
-    - [Bounce]
-    - [Astonish]
+    - [Shadow Force]
+    - [Fly]
     - [Acupressure]
+    - [Sing]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Luxury]
 shiny: True
-nature: Brave
+nature: Adamant
 ivs: 31
-evs: {hp: 252, atk: 252, def: 136, spA: 252, spD: 136, spe: 0}
+evs: {hp: 176, atk: 228, def: 144, spA: 0, spD: 128, spe: 32}
 hidden: False

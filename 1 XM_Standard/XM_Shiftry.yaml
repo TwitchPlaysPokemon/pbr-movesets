@@ -1,14 +1,14 @@
 species: Shiftry
 ingamename: ColdBreeze
-displayname: ColdBreeze
+displayname: Cold Breeze
 setname: Christmas
 tags: [christmas]
-item: Power Herb
+item: Icicle Plate
 ability: Snow Warning
 moves:
     - [Icy Wind]
+    - [Dragon Breath]
     - [Razor Wind]
-    - [Pluck]
     - [Mirror Move]
 gender: [m, f]
 happiness: 255
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Premier]
 shiny: True
-nature: Mild
-ivs: 31
-evs: {hp: 0, atk: 176, def: 0, spA: 252, spD: 0, spe: 80}
+nature: Naive
+ivs: {hp: 16, atk: 14, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 80, spA: 232, spD: 120, spe: 76}
 hidden: False

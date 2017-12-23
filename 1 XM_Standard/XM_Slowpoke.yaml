@@ -1,6 +1,6 @@
 species: Slowpoke
 ingamename: tppSlowpok
-displayname: tppSlowPoke
+displayname: tppSlowpoke
 setname: Christmas
 tags: [christmas]
 item: Icicle Plate
@@ -17,6 +17,6 @@ rarity: 1.0
 ball: [Quick]
 shiny: True
 nature: Quiet
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
-evs: {hp: 0, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
+ivs: 31
+evs: {hp: 0, atk: 36, def: 0, spA: 252, spD: 128, spe: 92}
 hidden: False
