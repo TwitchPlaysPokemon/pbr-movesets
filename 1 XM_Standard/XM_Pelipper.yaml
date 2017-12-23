@@ -14,7 +14,7 @@ happiness: 255
 biddable: True
 gender: [m,f]
 rarity: 1.0
-ball: [Luxury]
+ball: [Premier]
 shiny: True
 nature: Sassy
 ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 31, spe: 16}

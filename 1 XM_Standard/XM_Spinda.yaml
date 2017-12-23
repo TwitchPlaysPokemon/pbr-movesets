@@ -1,0 +1,22 @@
+species: Spinda
+ingamename: Drunk
+displayname: Drunk
+setname: Christmas
+tags: [christmas]
+item: Aguav Berry
+ability: Tangled Feet
+moves:
+    - [gunk shot]
+    - [chatter]
+    - [teeter dance]
+    - [gastro acid]
+happiness: 255
+biddable: True
+gender: [m,f]
+rarity: 1.0
+ball: []
+shiny: True
+nature: Rash
+ivs: 31
+evs: {hp: 84, atk: 64, def: 72, spA: 72, spD: 116, spe: 100}
+hidden: False

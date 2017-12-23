@@ -1,0 +1,22 @@
+species: Trapinch
+ingamename: Ant Man
+displayname: Ant Man
+setname: Christmas
+tags: [christmas]
+item: Focus Sash
+ability: Simple
+moves:
+    - [hidden power]
+    - [wring out]
+    - [minimize]
+    - [growth]
+happiness: 255
+biddable: True
+gender: [m]
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 96, atk: 0, def: 100, spA: 228, spD: 84, spe: 0}
+hidden: False

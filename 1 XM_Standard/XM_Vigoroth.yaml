@@ -1,0 +1,22 @@
+species: Vigoroth
+ingamename: FrostTroll
+displayname: Frost Troll
+setname: Christmas
+tags: [christmas]
+item: Never-melt ice
+ability: Thick Fat
+moves:
+    - [Ice Punch]
+    - [Pursuit]
+    - [Sleep Talk]
+    - [Rest]
+happiness: 255
+biddable: True
+gender: [m,f]
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Careful
+ivs: 31
+evs: {hp: 72, atk: 100, def: 64, spA: 0, spD: 160, spe: 36}
+hidden: False

@@ -1,0 +1,22 @@
+species: Slakoth
+ingamename: Snow Angel
+displayname: Snow Angel
+setname: Christmas
+tags: [christmas]
+item: Power Herb
+ability: Snow Cloak
+moves:
+    - [Ice Ball]
+    - [Fly]
+    - [Dig]
+    - [Defense Curl]
+happiness: 255
+biddable: True
+gender: [m,f]
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 64, atk: 240, def: 72, spA: 0, spD: 224, spe: 252}
+hidden: False
