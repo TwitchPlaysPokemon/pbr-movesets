@@ -1,0 +1,22 @@
+species: Roserade
+ingamename: Xmas Bouquet
+displayname: Christmas Bouquet
+setname: Christmas
+tags: [christmas]
+item: Honey
+ability: Flower Gift
+moves:
+    - [Frenzy Plant]
+    - [Water Spout]
+    - [Sweet Scent]
+    - [Follow Me]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 1, spD: 11, spe: 14}
+evs: {hp: 108, atk: 120, def: 96, spA: 0, spD: 0, spe: 36}
+hidden: false

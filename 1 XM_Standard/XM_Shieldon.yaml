@@ -1,0 +1,22 @@
+species: Shieldon
+ingamename: CapnMerica
+displayname: Captain America
+setname: Christmas
+tags: [christmas]
+item: Metal Coat
+ability: Huge Power
+moves:
+    - [Bounce]
+    - [Rolling Kick]
+    - [Fling]
+    - [Curse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 19, spA: 31, spD: 31, spe: 31}
+evs: {hp: 220, atk: 0, def: 0, spA: 0, spD: 84, spe: 0}
+hidden: false

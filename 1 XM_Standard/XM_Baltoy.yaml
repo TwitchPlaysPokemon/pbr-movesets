@@ -1,0 +1,21 @@
+species: Baltoy
+ingamename: Xmas Toy
+displayname: Christmas Toy
+setname: Christmas
+tags: [christmas]
+item: Poke Doll
+ability: Rough Skin
+moves:
+    - [Return]
+    - [Punishment]
+    - [Sing]
+    - [Iron Defense]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 200, atk: 220, def: 86, spA: 0, spD: 0, spe: 0}
+hidden: false

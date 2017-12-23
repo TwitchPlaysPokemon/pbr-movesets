@@ -1,0 +1,22 @@
+species: Whiscash
+ingamename: Gr8 Zapfish
+displayname: Great Zapfish
+setname: Christmas
+tags: [christmas]
+item: Electrizer
+ability: Volt Absorb
+moves:
+    - [Discharge]
+    - [Gunk Shot]
+    - [Charge]
+    - [Explosion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 24, def: 21, spA: 27, spD: 22, spe: 20}
+evs: {hp: 80, atk: 72, def: 80, spA: 96, spD: 128, spe: 0}
+hidden: false

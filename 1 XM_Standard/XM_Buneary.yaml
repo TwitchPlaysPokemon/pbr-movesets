@@ -1,0 +1,22 @@
+species: Buneary
+ingamename: Snowshoe Hare
+displayname: Snowshoe Hare
+setname: Christmas
+tags: [christmas]
+item: Fluffy Tail
+ability: Color Change
+moves:
+    - [Ice Fang]
+    - [Jump Kick]
+    - [Bounce]
+    - [Skill Swap]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 80, atk: 200, def: 108, spA: 0, spD: 80, spe: 40}
+hidden: false

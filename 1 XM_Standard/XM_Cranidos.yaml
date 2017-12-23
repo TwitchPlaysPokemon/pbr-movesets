@@ -1,0 +1,22 @@
+species: Cranidos
+ingamename: Red Yoshi
+displayname: Red Yoshi
+setname: Christmas
+tags: [christmas]
+item: Lucky Egg
+ability: Gluttony
+moves:
+    - [Egg Bomb]
+    - [Lick]
+    - [Rolling Kick]
+    - [Agility]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Careful
+ivs: 31
+evs: {hp: 0, atk: 28, def: 240, spA: 0, spD: 240, spe: 0}
+hidden: false

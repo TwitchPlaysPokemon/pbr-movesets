@@ -1,0 +1,21 @@
+species: Shaymin
+ingamename: Sonic
+displayname: Sonic
+setname: Christmas
+tags: [christmas]
+item: Quick Powder
+ability: Speed Boost
+moves:
+    - [Extreme Speed]
+    - [Bounce]
+    - [Taunt]
+    - [Rapid Spin]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Hasty
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false

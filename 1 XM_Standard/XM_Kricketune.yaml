@@ -1,0 +1,22 @@
+species: Kricketune
+ingamename: Xmas Singer
+displayname: Christmas Singer
+setname: Christmas
+tags: [christmas]
+item: Flame Orb
+ability: No Guard
+moves:
+    - [Wake-Up-Slap]
+    - [Uproar]
+    - [Sing]
+    - [Dragon Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Naive
+ivs: 31
+evs: {hp: 64, atk: 252, def: 84, spA: 252, spD: 84, spe: 84}
+hidden: false

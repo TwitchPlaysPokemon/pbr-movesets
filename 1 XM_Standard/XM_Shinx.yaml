@@ -1,0 +1,22 @@
+species: Shinx
+ingamename: Cute
+displayname: Cute
+setname: Christmas
+tags: [christmas]
+item: Black Sludge
+ability: Wonder Guard
+moves:
+    - [Volt Tackle]
+    - [Double Edge]
+    - [Brave Bird]
+    - [Howl]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Hasty
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false

@@ -1,0 +1,22 @@
+species: Luxio
+ingamename: YellowSnow
+displayname: Yellow Snow
+setname: Christmas
+tags: [christmas]
+item: Yellow Plate
+ability: Gluttony
+moves:
+    - [Bite]
+    - [Lick]
+    - [Swallow]
+    - [Stockpile]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 36, atk: 160, def: 96, spA: 0, spD: 96, spe: 120}
+hidden: false

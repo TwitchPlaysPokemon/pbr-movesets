@@ -1,0 +1,22 @@
+species: Ambipom
+ingamename: WintrGlovs
+displayname: Winter Gloves
+setname: Christmas
+tags: [christmas]
+item: Metronome
+ability: Iron Fist
+moves:
+    - [Fire Punch]
+    - [Ice Punch]
+    - [Assist]
+    - [Metronome]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 27, def: 31, spA: 31, spD: 31, spe: 13}
+evs: {hp: 72, atk: 0, def: 128, spA: 80, spD: 64, spe: 0}
+hidden: false

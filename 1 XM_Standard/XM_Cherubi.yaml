@@ -1,0 +1,22 @@
+species: Cherubi
+ingamename: JinglBalls
+displayname: Jingle Balls
+setname: Christmas
+tags: [christmas]
+item: Iron Ball
+ability: Unburden
+moves:
+    - [Stomp]
+    - [Bounce]
+    - [Fling]
+    - [Barrage]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 116, atk: 252, def: 160, spA: 0, spD: 96, spe: 56}
+hidden: false
