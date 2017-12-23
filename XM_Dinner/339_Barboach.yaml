@@ -1,0 +1,22 @@
+species: Barboach
+ingamename: Sushi Roll
+displayname: Sushi Roll
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Dive Ball
+ability: Huge Power
+moves:
+    - [Clamp]
+    - [Giga Drain]
+    - [Rollout]
+    - [Wrap]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 44, atk: 0, def: 80, spA: 96, spD: 80, spe: 208}
+nature: Modest
+hidden: false

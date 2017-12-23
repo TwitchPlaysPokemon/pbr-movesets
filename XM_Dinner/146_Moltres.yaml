@@ -1,0 +1,21 @@
+species: Moltres
+ingamename: KFC
+displayname: KFC
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Liechi Berry
+ability: Thick Fat
+moves:
+    - [Smelling Salts]
+    - [Magical Leaf]
+    - [Swallow]
+    - [Gastro Acid]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Hasty
+hidden: false

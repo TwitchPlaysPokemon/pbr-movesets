@@ -1,0 +1,22 @@
+species: Meowth
+ingamename: Tompouce
+displayname: Tompouce
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Old Gateau
+ability: Thick Fat
+moves:
+    - [Bounce]
+    - [Earthquake]
+    - [Lick]
+    - [Sweet Scent]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 212, atk: 252, def: 0, spA: 0, spD: 0, spe: 44}
+nature: Adamant
+hidden: false

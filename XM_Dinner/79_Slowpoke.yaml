@@ -1,0 +1,22 @@
+species: Slowpoke
+ingamename: Slowpktail
+displayname: Slowpoketail
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Fluffy Tail
+ability: Oblivious
+moves:
+    - [Aqua Tail]
+    - [Poison Tail]
+    - [Iron Tail]
+    - [Tail Whip]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 84, atk: 160, def: 0, spA: 0, spD: 52, spe: 0}
+nature: Serious
+hidden: false

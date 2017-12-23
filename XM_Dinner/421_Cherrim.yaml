@@ -1,0 +1,22 @@
+species: Cherrim
+ingamename: Garnish
+displayname: Garnish
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Revival Herb
+ability: Rain Dish
+moves:
+    - [Leaf Storm]
+    - [Nature Power]
+    - [Charm]
+    - [Rain Dance]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false

@@ -1,0 +1,22 @@
+species: Omanyte
+ingamename: Escargot
+displayname: Escargot
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Salt
+ability: Speed Boost
+moves:
+    - [Overheat]
+    - [Sludge Bomb]
+    - [Smelling Salts]
+    - [Agility]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 112, atk: 252, def: 0, spA: 112, spD: 32, spe: 0}
+nature: Lonely
+hidden: false

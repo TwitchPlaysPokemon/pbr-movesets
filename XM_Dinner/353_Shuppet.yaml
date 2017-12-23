@@ -1,0 +1,22 @@
+species: Shuppet
+ingamename: Napkin
+displayname: Napkin
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Silk Scarf
+ability: Technician
+moves:
+    - [Razor Leaf]
+    - [Cut]
+    - [False Swipe]
+    - [Wring Out]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 128, def: 128, spA: 0, spD: 128, spe: 128}
+nature: Serious
+hidden: false

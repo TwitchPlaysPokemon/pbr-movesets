@@ -1,0 +1,22 @@
+species: Bellsprout
+ingamename: BrusSprout
+displayname: Brussel Sprouts
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Growth Mulch
+ability: Stench
+moves:
+    - [Magical Leaf]
+    - [Rollout]
+    - [Barrage]
+    - [Defense Curl]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 112, atk: 252, def: 80, spA: 224, spD: 80, spe: 224}
+nature: Naughty
+hidden: false

@@ -1,0 +1,22 @@
+species: Magikarp
+ingamename: CookedFish
+displayname: Cooked Fish
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Burn Heal
+ability: Compoundeyes
+moves:
+    - [Sacred Fire]
+    - [Hydro Pump]
+    - [Smelling Salts]
+    - [Leech Seed]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: 220
+nature: Modest
+hidden: false

@@ -1,0 +1,21 @@
+species: Voltorb
+ingamename: Coconut
+displayname: Coconut
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Moomoo Milk
+ability: Hydration
+moves:
+    - [Egg Bomb]
+    - [Surf]
+    - [Withdraw]
+    - [Milk Drink]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 180, atk: 236, def: 200, spA: 200, spD: 0, spe: 100}
+nature: Serious
+hidden: false

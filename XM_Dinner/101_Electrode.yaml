@@ -1,0 +1,21 @@
+species: Electrode
+ingamename: Oliebol
+displayname: Oliebol
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Energy Powder
+ability: Thick Fat
+moves:
+    - [Blizzard]
+    - [Bounce]
+    - [Rollout]
+    - [Hail]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 22
+evs: {hp: 140, atk: 252, def: 0, spA: 28, spD: 0, spe: 0}
+nature: Lonely
+hidden: false

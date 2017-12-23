@@ -1,0 +1,22 @@
+species: Machop
+ingamename: Gingrbread
+displayname: Gingerbread Man
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Stick
+ability: Run Away
+moves:
+    - [Crush Grip]
+    - [Night Slash]
+    - [Fling]
+    - [Dragon Dance]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 124, def: 0, spA: 0, spD: 124, spe: 212}
+nature: Adamant
+hidden: false

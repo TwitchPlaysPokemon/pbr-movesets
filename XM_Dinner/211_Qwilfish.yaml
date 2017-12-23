@@ -1,0 +1,22 @@
+species: Qwilfish
+ingamename: Fugu
+displayname: Fugu
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Sticky Barb
+ability: Poison Point
+moves:
+    - [Twineedle]
+    - [Pin Missile]
+    - [Smelling Salts]
+    - [Bulk Up]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Serious
+hidden: false

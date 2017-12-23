@@ -1,0 +1,22 @@
+species: Kakuna
+ingamename: Croquette
+displayname: Croquette
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Black Sludge
+ability: Shell Armor
+moves:
+    - [Crunch]
+    - [Sludge Bomb]
+    - [Spit Up]
+    - [Stockpile]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 164, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+nature: Hasty
+hidden: false

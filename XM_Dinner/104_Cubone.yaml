@@ -1,0 +1,22 @@
+species: Cubone
+ingamename: Spare Rib
+displayname: Spare Rib
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Rare Bone
+ability: Aftermath
+moves:
+    - [Smelling Salts]
+    - [Fire Fang]
+    - [Fling]
+    - [Bubblebeam]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 252, def: 0, spA: 252, spD: 88, spe: 0}
+nature: Serious
+hidden: false

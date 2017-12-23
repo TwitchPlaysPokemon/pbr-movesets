@@ -1,0 +1,22 @@
+species: Tangrowth
+ingamename: NoodleSoup
+displayname: Noodle Soup
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Big Root
+ability: Tangled Feet
+moves:
+    - [Constrict]
+    - [Gust]
+    - [Bubble]
+    - [Tail Glow]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+nature: Gentle
+hidden: false

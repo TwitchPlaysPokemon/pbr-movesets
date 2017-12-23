@@ -1,0 +1,22 @@
+species: Wormadam
+ingamename: SaladDress
+displayname: Salad Dressing
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Meadow Plate
+ability: Drizzle
+moves:
+    - [Surf]
+    - [Acid]
+    - [Charm]
+    - [String Shot]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 0, spe: 132}
+nature: Docile
+hidden: false

@@ -1,0 +1,22 @@
+species: Poliwag
+ingamename: SwirlCandy
+displayname: Swirl Candy
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Metronome
+ability: Gluttony
+moves:
+    - [Whirlpool]
+    - [Crunch]
+    - [Teeter Dance]
+    - [Hypnosis]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 96, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+nature: Brave
+hidden: false

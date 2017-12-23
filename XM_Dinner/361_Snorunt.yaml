@@ -1,0 +1,45 @@
+species: Snorunt
+ingamename: Rice Ball
+displayname: Rice Ball
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Bell
+ability: Simple
+moves:
+    - [Egg Bomb]
+    - [Ice Ball]
+    - [Rollout]
+    - [Defense Curl]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 252, spe: 252}
+nature: Jolly
+hidden: false
+---
+species: Snorunt
+ingamename: DoritoChip
+displayname: Doritos Chip
+setname: Dinner2
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Salt
+ability: Gluttony
+moves:
+    - [Tri Attack]
+    - [Smelling Salts]
+    - [Crunch]
+    - [Poison Powder]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 252, def: 128, spA: 252, spD: 128, spe: 128}
+nature: Serious
+hidden: false

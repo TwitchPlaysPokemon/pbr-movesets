@@ -1,0 +1,22 @@
+species: Geodude
+ingamename: BrownyCake
+displayname: Brownie Cake
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Old Gateau
+ability: Filter
+moves:
+    - [Gunk Shot]
+    - [Eruption]
+    - [Sweet Scent]
+    - [Stockpile]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: 180
+nature: Quiet
+hidden: false

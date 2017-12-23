@@ -1,0 +1,22 @@
+species: Tauros
+ingamename: OxtailSoup
+displayname: Oxtail Soup
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Salt
+ability: Damp
+moves:
+    - [Poison Tail]
+    - [Aqua Tail]
+    - [Iron Tail]
+    - [Tail Whip]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 11
+evs: {hp: 0, atk: 52, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Quiet
+hidden: false

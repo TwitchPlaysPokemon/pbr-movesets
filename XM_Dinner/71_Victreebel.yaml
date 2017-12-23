@@ -1,0 +1,22 @@
+species: Victreebel
+ingamename: Fondue
+displayname: Fondue
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Stick
+ability: Slow Start
+moves:
+    - [Bubble Beam]
+    - [Heat Wave]
+    - [Will-O-Wisp]
+    - [Sweet Scent]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 44, atk: 0, def: 0, spA: 116, spD: 0, spe: 84}
+nature: Serious
+hidden: false

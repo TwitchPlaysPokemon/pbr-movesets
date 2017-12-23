@@ -1,0 +1,22 @@
+species: Finneon
+ingamename: SmokeSalmn
+displayname: Smoked Salmon
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Charcoal
+ability: White Smoke
+moves:
+    - [Ember]
+    - [Bite]
+    - [Smokescreen]
+    - [Splash]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 252, def: 128, spA: 252, spD: 128, spe: 252}
+nature: Rash
+hidden: false

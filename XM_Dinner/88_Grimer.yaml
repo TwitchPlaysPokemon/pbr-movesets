@@ -1,0 +1,44 @@
+species: Grimer
+ingamename: MashPotato
+displayname: Mashed Potato
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Damp Mulch
+ability: Dry Skin
+moves:
+    - [Meteor Mash]
+    - [Crush Grip]
+    - [Stomp]
+    - [Minimize]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 164, atk: 164, def: 0, spA: 0, spD: 96, spe: 0}
+nature: Serious
+hidden: false
+---
+species: Grimer
+ingamename: Mayonnaise
+displayname: Mayonnaise
+setname: Dinner2
+ball: [Cherish]
+item: Gooey Mulch
+ability: Thick Fat
+moves:
+    - [Muddy Water]
+    - [Sludge]
+    - [Swallow]
+    - [Stockpile]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 180, spA: 252, spD: 180, spe: 0}
+nature: Serious
+hidden: false

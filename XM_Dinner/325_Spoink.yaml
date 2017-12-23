@@ -1,0 +1,22 @@
+species: Spoink
+ingamename: Ham
+displayname: Ham
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Burn Heal
+ability: Thick Fat
+moves:
+    - [Double Edge]
+    - [Overheat]
+    - [Bubblebeam]
+    - [Bulk Up]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}
+nature: Impish
+hidden: false

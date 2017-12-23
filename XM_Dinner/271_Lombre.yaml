@@ -1,0 +1,22 @@
+species: Lombre
+ingamename: Gourmet
+displayname: Dutch Gourmet
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Burn Heal
+ability: Flame Body
+moves:
+    - [Heat Wave]
+    - [Metal Claw]
+    - [Smokescreen]
+    - [Sunny Day]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 28, atk: 128, def: 88, spA: 88, spD: 88, spe: 88}
+nature: Adamant
+hidden: false

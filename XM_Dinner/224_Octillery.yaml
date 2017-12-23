@@ -1,0 +1,22 @@
+species: Octillery
+ingamename: SquidRings
+displayname: Squid Rings
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Salt
+ability: Suction Cups
+moves:
+    - [Needle Arm]
+    - [Hammer Arm]
+    - [Crunch]
+    - [Wring Out]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 64, atk: 0, def: 64, spA: 0, spD: 64, spe: 0}
+nature: Serious
+hidden: false

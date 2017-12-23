@@ -1,0 +1,22 @@
+species: Nuzleaf
+ingamename: Seasoning
+displayname: Seasoning
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Energy Powder
+ability: Filter
+moves:
+    - [Smelling Salts]
+    - [Flamethrower]
+    - [Stun Spore]
+    - [Recover]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+nature: Serious
+hidden: false

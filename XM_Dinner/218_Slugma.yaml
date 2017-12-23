@@ -1,0 +1,22 @@
+species: Slugma
+ingamename: PastaSauce
+displayname: Spaghetti Sauce
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Tiny Mushroom
+ability: Water Absorb
+moves:
+    - [Surf]
+    - [Razor Leaf]
+    - [Sweet Scent]
+    - [Defense Curl]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 128, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
+nature: Brave
+hidden: false

@@ -1,0 +1,22 @@
+species: Wigglytuff
+ingamename: GigaPuding
+displayname: Giga Pudding
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Gooey Mulch
+ability: Liquid Ooze
+moves:
+    - [Brine]
+    - [Sludge Bomb]
+    - [Seismic Toss]
+    - [Growth]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Naive
+hidden: false

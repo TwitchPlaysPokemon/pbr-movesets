@@ -1,0 +1,22 @@
+species: Tangela
+ingamename: Spaghetti
+displayname: Spaghetti
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Carbon
+ability: Tangled Feet
+moves:
+    - [Bubblebeam]
+    - [Heat Wave]
+    - [Smelling Salts]
+    - [Growth]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 24
+evs: {hp: 0, atk: 200, def: 0, spA: 60, spD: 0, spe: 112}
+nature: Serious
+hidden: false

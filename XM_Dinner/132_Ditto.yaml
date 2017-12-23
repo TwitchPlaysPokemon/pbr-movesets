@@ -1,0 +1,21 @@
+species: Ditto
+ingamename: Pudding
+displayname: Pudding
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Old Gateau
+ability: Sticky Hold
+moves:
+    - [Bounce]
+    - [Sludge Bomb]
+    - [Earthquake]
+    - [Harden]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 140, atk: 200, def: 0, spA: 200, spD: 0, spe: 252}
+nature: Serious
+hidden: false

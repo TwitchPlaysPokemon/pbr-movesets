@@ -1,0 +1,44 @@
+species: Farfetch'd
+ingamename: Turkey
+displayname: Turkey
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Salt
+ability: Flame Body
+moves:
+    - [Smelling Salts]
+    - [Heat Wave]
+    - [Brine]
+    - [Crunch]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 56, atk: 104, def: 200, spA: 0, spD: 0, spe: 56}
+nature: Serious
+hidden: false
+---
+species: Farfetch'd
+ingamename: GrillLeaks
+displayname: Grilled Leeks
+setname: Dinner2
+ball: [Cherish]
+item: Miracle Seed
+ability: Overgrow
+moves:
+    - [Leaf Blade]
+    - [Flame Wheel]
+    - [Bonemerang]
+    - [Sharpen]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 48, atk: 252, def: 0, spA: 0, spD: 0, spe: 128}
+nature: Adamant
+hidden: false

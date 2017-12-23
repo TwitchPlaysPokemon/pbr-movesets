@@ -1,0 +1,66 @@
+species: Muk
+ingamename: SplPeaSoup
+displayname: Split Pea Soup
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Gooey Mulch
+ability: Stench
+moves:
+    - [Whirlpool]
+    - [Barrage]
+    - [Toxic]
+    - [Gastro Acid]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: 156
+nature: Serious
+hidden: false
+---
+species: Muk
+ingamename: DubiouFood
+displayname: Dubious Food
+setname: Dinner2
+ball: [Cherish]
+item: Flame Orb
+ability: Stench
+moves:
+    - [Struggle]
+    - [Spit Up]
+    - [Stockpile]
+    - [Pain Split]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 208, def: 208, spA: 208, spD: 208, spe: 0}
+nature: Rash
+hidden: false
+---
+species: Muk
+ingamename: Gravy
+displayname: Gravy
+setname: Dinner3
+ball: [Cherish]
+item: Mystic Water
+ability: Damp
+moves:
+    - [Water Gun]
+    - [Ember]
+    - [Water Sport]
+    - [Sunny Day]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 0
+evs: {hp: 100, atk: 0, def: 100, spA: 252, spD: 100, spe: 0}
+nature: Modest
+hidden: false

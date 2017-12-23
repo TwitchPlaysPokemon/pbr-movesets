@@ -1,0 +1,22 @@
+species: Bonsly
+ingamename: Licorice
+displayname: Licorice Root
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Big Root
+ability: Tangled Feet
+moves:
+    - [Thunder Fang]
+    - [Ice Fang]
+    - [Fire Fang]
+    - [Bite]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 128, def: 124, spA: 0, spD: 128, spe: 0}
+nature: Sassy
+hidden: false

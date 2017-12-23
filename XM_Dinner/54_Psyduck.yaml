@@ -1,0 +1,22 @@
+species: Psyduck
+ingamename: Roast Duck
+displayname: Roasted Duck
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Burn Heal
+ability: Flame Body
+moves:
+    - [Fly]
+    - [Dive]
+    - [Heat Wave]
+    - [Feather Dance]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 72, atk: 180, def: 0, spA: 180, spD: 0, spe: 76}
+nature: Serious
+hidden: false

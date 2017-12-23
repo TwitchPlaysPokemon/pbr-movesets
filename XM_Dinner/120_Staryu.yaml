@@ -1,0 +1,22 @@
+species: Staryu
+ingamename: StarStick
+displayname: Starfish on a Stick
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Stick
+ability: Suction Cups
+moves:
+    - [Leaf Blade]
+    - [Poison Tail]
+    - [Fling]
+    - [Milk Drink]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 196, atk: 252, def: 0, spA: 0, spD: 0, spe: 60}
+nature: Adamant
+hidden: false

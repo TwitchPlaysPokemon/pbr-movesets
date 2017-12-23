@@ -1,0 +1,22 @@
+species: Chimecho
+ingamename: BaconStrip
+displayname: Bacon Strip
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Burn Heal
+ability: Thick Fat
+moves:
+    - [Eruption]
+    - [Trump Card (=3)]
+    - [Razor Leaf]
+    - [Crunch]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 96, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false

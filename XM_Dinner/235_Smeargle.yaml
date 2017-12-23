@@ -1,0 +1,22 @@
+species: Smeargle
+ingamename: CranbSauce
+displayname: Cranberry Sauce
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Fresh Water
+ability: Liquid Ooze
+moves:
+    - [Surf]
+    - [Sludge Bomb]
+    - [Tail Glow]
+    - [Milk Drink]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 252, spe: 0}
+nature: Modest
+hidden: false

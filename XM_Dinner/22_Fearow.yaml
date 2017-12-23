@@ -1,0 +1,22 @@
+species: Fearow
+ingamename: Pheasant
+displayname: Roast Pheasant
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Salt
+ability: Flame Body
+moves:
+    - [Leaf Blade]
+    - [Bug Bite]
+    - [Fire Fang]
+    - [Haze]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: 
+hidden: false

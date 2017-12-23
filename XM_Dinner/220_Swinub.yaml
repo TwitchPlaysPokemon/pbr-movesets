@@ -1,0 +1,22 @@
+species: Swinub
+ingamename: Poffertje
+displayname: Poffertje
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Honey
+ability: Thick Fat
+moves:
+    - [Powder Snow]
+    - [Bite]
+    - [Leech Seed]
+    - [Hail]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+nature: Mild
+hidden: false

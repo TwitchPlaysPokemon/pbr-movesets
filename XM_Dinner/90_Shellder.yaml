@@ -1,0 +1,44 @@
+species: Shellder
+ingamename: Clam Soup
+displayname: Clam Soup
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Pearl
+ability: Liquid Ooze
+moves:
+    - [Sludge Bomb]
+    - [Clamp]
+    - [Teeter Dance]
+    - [Poison Powder]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 168, atk: 68, def: 68, spA: 68, spD: 68, spe: 68}
+nature: Sassy
+hidden: false
+---
+species: Shellder
+ingamename: Mussel
+displayname: Mussel
+setname: Dinner2
+ball: [Cherish]
+item: Revival Herb
+ability: Liquid Ooze
+moves:
+    - [Overheat]
+    - [Bubblebeam]
+    - [Smelling Salts]
+    - [Clamp]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 200, atk: 108, def: 0, spA: 224, spD: 48, spe: 0}
+nature: Mild
+hidden: false

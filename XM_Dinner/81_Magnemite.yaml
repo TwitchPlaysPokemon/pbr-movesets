@@ -1,0 +1,21 @@
+species: Magnemite
+ingamename: Microwave
+displayname: Microwave
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Dubious Disc
+ability: Plus
+moves:
+    - [Overheat]
+    - [Metronome]
+    - [Fling]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: 172
+nature: Careful
+hidden: false

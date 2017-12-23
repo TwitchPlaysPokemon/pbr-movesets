@@ -1,0 +1,22 @@
+species: Exeggcute
+ingamename: Omelets
+displayname: Omelets
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Lucky Egg
+ability: Huge Power
+moves:
+    - [Egg Bomb]
+    - [Overheat]
+    - [Sludge Bomb]
+    - [Explosion]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 96, atk: 160, def: 0, spA: 252, spD: 0, spe: 0}
+nature: Serious
+hidden: false

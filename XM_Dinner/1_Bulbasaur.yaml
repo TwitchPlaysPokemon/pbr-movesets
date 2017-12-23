@@ -1,0 +1,22 @@
+species: Bulbasaur
+ingamename: Garlic
+displayname: Garlic
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Energy Powder
+ability: Stench
+moves:
+    - [Air Cutter]
+    - [Silver Wind]
+    - [Sweet Scent]
+    - [Fake Tears]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 204, atk: 0, def: 64, spA: 52, spD: 0, spe: 188}
+nature: Timid
+hidden: false

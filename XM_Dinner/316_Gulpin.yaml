@@ -1,0 +1,22 @@
+species: Gulpin
+ingamename: Peas
+displayname: Peas
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Oran Berry
+ability: Stench
+moves:
+    - [Bounce]
+    - [Rollout]
+    - [Barrage]
+    - [Defense Curl]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 196, def: 128, spA: 0, spD: 128, spe: 0}
+nature: Serious
+hidden: false

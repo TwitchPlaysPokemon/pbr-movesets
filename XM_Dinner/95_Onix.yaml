@@ -1,0 +1,22 @@
+species: Onix
+ingamename: Rock Salt
+displayname: Rock Salt
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Salt
+ability: Slow Start
+moves:
+    - [Smelling Salts]
+    - [Hammer Arm]
+    - [Crush Grip]
+    - [Belly Drum]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 19
+evs: {hp: 244, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Sassy
+hidden: false

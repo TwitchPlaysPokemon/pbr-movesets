@@ -1,0 +1,22 @@
+species: Solrock
+ingamename: FrenchFry
+displayname: French Fries
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Shoal Salt
+ability: Thick Fat
+moves:
+    - [Spike Cannon]
+    - [Twineedle]
+    - [Icicle Spear]
+    - [Focus Energy]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Careful
+hidden: false

@@ -1,0 +1,22 @@
+species: Clamperl
+ingamename: OysterStew
+displayname: Oyster Stew
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Big Pearl
+ability: Sticky Hold
+moves:
+    - [Sludge]
+    - [Ember]
+    - [Stockpile]
+    - [Gastro Acid]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 40, spA: 0, spD: 216, spe: 0}
+nature: Hardy
+hidden: false

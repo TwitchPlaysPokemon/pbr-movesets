@@ -1,0 +1,22 @@
+species: Kabuto
+ingamename: Cookie
+displayname: Cookie
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Lava Cookie
+ability: Gluttony
+moves:
+    - [Bite]
+    - [Rolling Kick]
+    - [Flame Wheel]
+    - [Harden]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 108, atk: 252, def: 0, spA: 0, spD: 60, spe: 196}
+nature: Adamant
+hidden: false
