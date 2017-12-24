@@ -4,7 +4,7 @@ displayname: Mr. Fezziwig
 setname: Christmas
 tags: [christmas]
 item: Amulet Coin
-ability:
+ability: Color Change
 moves:
     - [Chatter]
     - [Pay Day]
