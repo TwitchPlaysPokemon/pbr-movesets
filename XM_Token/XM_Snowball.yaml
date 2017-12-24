@@ -39,9 +39,9 @@ biddable: True
 rarity: 0.0
 ball: [Nest]
 shiny: True
-nature: Impish
-ivs: {hp: 31, atk: 25, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 52, atk: 0, def: 252, spA: 0, spD: 0, spe: 36}
+nature: Serious
+ivs: {hp: 31, atk: 28, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 52, atk: 0, def: 16, spA: 0, spD: 0, spe: 36}
 hidden: false
 ---
 species: Elekid
@@ -85,9 +85,9 @@ biddable: True
 rarity: 0.0
 ball: [Nest]
 shiny: True
-nature: Bold
-ivs: {hp: 31, atk: 1, def: 31, spA: 31, spD: 31, spe: 4}
-evs: {hp: 52, atk: 0, def: 76, spA: 0, spD: 0, spe: 0}
+nature: Modest
+ivs: {hp: 20, atk: 0, def: 0, spA: 31, spD: 31, spe: 4}
+evs: 0
 hidden: false
 ---
 species: Budew
@@ -108,9 +108,9 @@ biddable: True
 rarity: 0.0
 ball: [Nest]
 shiny: True
-nature: Adamant
+nature: Impish
 ivs: 31
-evs: {hp: 92, atk: 128, def: 140, spA: 0, spD: 0, spe: 116}
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 0, spe: 116}
 hidden: false
 ---
 species: Chingling
