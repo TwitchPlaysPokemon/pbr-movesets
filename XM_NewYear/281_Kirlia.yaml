@@ -1,0 +1,23 @@
+species: Kirlia
+ingamename: Lakshmi
+displayname: Lakshmi
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Enigma Berry
+ability: Trace
+moves:
+    - [Psybeam]
+    - [Surf]
+    - [Tri Attack]
+    - [Conversion]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 5}
+evs: {hp: 128, atk: 0, def: 200, spA: 0, spD: 96, spe: 68}
+nature: Modest
+hidden: false

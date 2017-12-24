@@ -1,0 +1,23 @@
+species: Lairon
+ingamename: BrokenDish
+displayname: Broken Dishes
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Chople Berry
+ability: Slow Start
+moves:
+    - [Flash Cannon]
+    - [Shadow Ball]
+    - [Metal Burst]
+    - [Conversion]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 15, atk: 0, def: 0, spA: 7, spD: 0, spe: 31}
+evs: {hp: 132, atk: 0, def: 0, spA: 124, spD: 0, spe: 252}
+nature: Mild
+hidden: false

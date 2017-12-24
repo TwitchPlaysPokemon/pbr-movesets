@@ -1,0 +1,23 @@
+species: Porygon2
+ingamename: Lai See
+displayname: Lai See
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Kasib Berry
+ability: Levitate
+moves:
+    - [Pay Day]
+    - [Ominous wind]
+    - [Conversion]
+    - [Curse]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 0
+evs: 0
+nature: Jolly
+hidden: false

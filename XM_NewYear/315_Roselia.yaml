@@ -1,0 +1,23 @@
+species: Roselia
+ingamename: Chrysanth
+displayname: Chrysanthemum
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Miracle seed
+ability: skill link
+moves:
+    - [bullet seed]
+    - [poison fang]
+    - [arm thrust]
+    - [sweet kiss]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 26, atk: 31, def: 5, spA: 31, spD: 0, spe: 14}
+evs: {hp: 68, atk: 252, def: 160, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false

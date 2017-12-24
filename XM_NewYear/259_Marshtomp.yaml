@@ -1,0 +1,23 @@
+species: Marshtomp
+ingamename: PlumBlosom
+displayname: Plum Blossom
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Rindo Berry
+ability: Battle Armor
+moves:
+    - [Muddy Water]
+    - [Sucker Punch]
+    - [Nature Power]
+    - [Counter]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 21, def: 1, spA: 12, spD: 11, spe: 11}
+evs: {hp: 120, atk: 0, def: 0, spA: 120, spD: 0, spe: 0}
+nature: Timid
+hidden: false

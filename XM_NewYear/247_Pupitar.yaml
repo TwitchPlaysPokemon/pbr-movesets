@@ -1,0 +1,23 @@
+species: Pupitar
+ingamename: Mochi
+displayname: Mochi
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Rindo Berry
+ability: Dry Skin
+moves:
+    - [Power Gem]
+    - [Lava Plume]
+    - [Skill swap]
+    - [sunny day]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 0
+evs: {hp: 0, atk: 0, def: 96, spA: 96, spD: 64, spe: 240}
+nature: Timid
+hidden: false

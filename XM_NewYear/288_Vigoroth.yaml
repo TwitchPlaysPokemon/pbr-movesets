@@ -1,0 +1,23 @@
+species: Vigoroth
+ingamename: New Years
+displayname: New Year's Day
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Apicot Berry
+ability: Intimidate
+moves:
+    - [Crush Grip]
+    - [Psywave]
+    - [Sleep Talk]
+    - [Rest]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 21, atk: 10, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 120, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Quiet
+hidden: false

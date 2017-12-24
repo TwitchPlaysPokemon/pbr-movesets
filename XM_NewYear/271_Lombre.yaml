@@ -1,0 +1,23 @@
+species: Lombre
+ingamename: Nowruz
+displayname: Nowruz
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Miracle Seed
+ability: Drought
+moves:
+    - [Giga Drain]
+    - [Weather Ball]
+    - [Teeter Dance]
+    - [Rain Dance]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 14, spD: 21, spe: 16}
+evs: {hp: 36, atk: 0, def: 86, spA: 76, spD: 0, spe: 64}
+nature: Modest
+hidden: false
