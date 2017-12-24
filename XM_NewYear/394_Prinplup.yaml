@@ -1,0 +1,23 @@
+species: Prinplup
+ingamename: Reveillon
+displayname: Reveillon
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Wacan Berry
+ability: Speed Boost
+moves:
+    - [water spout]
+    - [thunder punch]
+    - [mirror move]
+    - [protect]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 16, atk: 31, def: 23, spA: 15, spD: 0, spe: 31}
+evs: {hp: 0, atk: 76, def: 64, spA: 0, spD: 64, spe: 36}
+nature: Jolly
+hidden: false

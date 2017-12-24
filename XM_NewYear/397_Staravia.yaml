@@ -1,0 +1,23 @@
+species: Staravia
+ingamename: DoveReleas
+displayname: Dove Release
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: charti berry
+ability: mold breaker
+moves:
+    - [aerial ace]
+    - [earth power]
+    - [me first]
+    - [dragon dance]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 18, def: 31, spA: 24, spD: 31, spe: 3}
+evs: {hp: 36, atk: 0, def: 96, spA: 200, spD: 176, spe: 0}
+nature: Quiet
+hidden: false

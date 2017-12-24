@@ -1,0 +1,22 @@
+species: Metang
+ingamename: Narcissus
+displayname: Narcissus
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Shuca Berry
+ability: Rock Head
+moves:
+    - [Meteor mash]
+    - [volt tackle]
+    - [fire punch]
+    - [agility]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 52, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Modest
+hidden: false

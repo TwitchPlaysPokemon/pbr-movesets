@@ -1,0 +1,23 @@
+species: Sealeo
+ingamename: South Lion
+displayname: Southern Lion
+setname: NewYear
+tags: [newyear]
+level: 50
+ball: [Premier]
+item: Leftovers
+ability: Shield Dust
+moves:
+    - [avalanche]
+    - [waterfall]
+    - [bulk up]
+    - [magic coat]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 15, atk: 31, def: 11, spA: 31, spD: 0, spe: 15}
+evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Adamant
+hidden: false
