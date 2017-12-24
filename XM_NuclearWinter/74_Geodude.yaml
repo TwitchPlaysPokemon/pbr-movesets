@@ -16,6 +16,7 @@ biddable: False
 rarity: 1.0
 ball: [master]
 shiny: True
+level: 1
 nature: Serious
 ivs: 0
 evs: 0
