@@ -3,7 +3,6 @@ ingamename: Easter
 displayname: Easter
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Lucky Egg
 ability: Pickup
 moves:
@@ -27,7 +26,6 @@ ingamename: AprilFools
 displayname: April Fools
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Choice Band
 ability: Simple
 moves:
@@ -51,7 +49,6 @@ ingamename: MidSummer
 displayname: MidSummer
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Heat Rock
 ability: Flower Gift
 moves:
@@ -75,7 +72,6 @@ ingamename: MidWinter
 displayname: MidWinter
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Icy Rock
 ability: Snow Cloak
 moves:
@@ -99,7 +95,6 @@ ingamename: AllSaints
 displayname: All Saints
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Rabuta Berry
 ability: Serene Grace
 moves:
@@ -123,7 +118,6 @@ ingamename: Independen
 displayname: Independence Day
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Pinap Berry
 ability: Multitype
 moves:
@@ -147,7 +141,6 @@ ingamename: Thanksgiv
 displayname: Thanksgiving
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Starf Berry
 ability: Gluttony
 moves:
@@ -171,7 +164,6 @@ ingamename: Halloween
 displayname: Halloween
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Reaper Cloth
 ability: Bad Dreams
 moves:
@@ -195,7 +187,6 @@ ingamename: MothersDay
 displayname: Mother's Day
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Destiny Knot
 ability: Rivalry
 moves:
@@ -219,7 +210,6 @@ ingamename: FathersDay
 displayname: Father's Day
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Destiny Knot
 ability: Rivalry
 moves:
@@ -243,7 +233,6 @@ ingamename: NewYears
 displayname: New Year's Day
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Meadow Plate
 ability: Unaware
 moves:
@@ -267,7 +256,6 @@ ingamename: Valentines
 displayname: Valentine's Day
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Soothe Bell
 ability: Cute Charm
 moves:
@@ -291,7 +279,6 @@ ingamename: Memorial
 displayname: Memorial Day
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Skull Fossil
 ability: Aftermath
 moves:
@@ -315,7 +302,6 @@ ingamename: St Patrick
 displayname: St. Patrick's Day
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: 
 ability: Insomnia
 moves:
@@ -338,7 +324,6 @@ ingamename: Arbor Day
 displayname: Arbor Day
 setname: c-Metronome
 tags: [christmasmetronome]
-tags: [christmas]
 item: Big Root
 ability: Overgrow
 moves:
