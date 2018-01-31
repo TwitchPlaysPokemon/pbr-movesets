@@ -11,7 +11,8 @@ moves:
 separations:
     - [Fire Punch, Fire Punch]
     - [Ice Punch, Ice Punch]
-    - [Ice Punch, Ice Punch]
+    - [Thunder Punch, Thunder Punch]
+    
 happiness: 255
 biddable: True
 rarity: 0.5
