@@ -81,7 +81,7 @@ moves:
 combinations:
     - [Shadow Claw, Will-O-Wisp]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.0
 ball: [Timer]
 nature: Jolly
