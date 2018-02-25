@@ -1,0 +1,21 @@
+species: Venusaur
+ingamename: UUUVVX;:UL
+displayname: UUUVVX;:UL
+setname: Dual BlueRed
+tags: [runmon]
+item: [Null]
+ability: [Null]
+moves:
+    - [Solar Beam]
+    - [Vine Whip]
+    - [Cut]
+    - [Sleep Powder]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: 31
+evs: {hp: 232, atk: 252, def: 0, spA: 0, spD: 24, spe: 0}

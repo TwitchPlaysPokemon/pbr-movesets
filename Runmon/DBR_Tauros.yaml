@@ -1,0 +1,21 @@
+species: Tauros
+ingamename: -??CCCAAA-
+displayname: -??CCCAAA-
+setname: Dual BlueRed
+tags: [runmon]
+item: [Null]
+ability: [Null]
+moves:
+    - [Stomp]
+    - [Strength]
+    - [Hyper Beam]
+    - [Double Team]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Rash
+ivs: 31
+evs: {hp: 0, atk: 64, def: 0, spA: 252, spD: 0, spe: 192}

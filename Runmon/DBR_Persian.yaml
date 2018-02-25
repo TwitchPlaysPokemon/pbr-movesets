@@ -1,0 +1,21 @@
+species: Persian
+ingamename: CCLLUU)))
+displayname: CCLLUU)))
+setname: Dual BlueRed
+tags: [runmon]
+item: [Null]
+ability: [Null]
+moves:
+    - [Slash]
+    - [Bite]
+    - [Fury Swipes]
+    - [Scratch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Careful
+ivs: 31
+evs: {hp: 248, atk: 248, def: 0, spA: 0, spD: 12, spe: 0}

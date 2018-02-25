@@ -1,0 +1,21 @@
+species: Alakazam
+ingamename: VVDDD-
+displayname: VVDDD-
+setname: Dual BlueRed
+tags: [runmon]
+item: [Null]
+ability: [Null]
+moves:
+    - [Psychic]
+    - [Confusion]
+    - [Dig]
+    - [Metronome]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}

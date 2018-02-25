@@ -1,0 +1,21 @@
+species: Dugtrio
+ingamename: DDDDDDDDDD
+displayname: DDDDDDDDDD
+setname: Dual BlueRed
+tags: [runmon]
+item: [Null]
+ability: [Null]
+moves:
+    - [Earthquake]
+    - [Dig]
+    - [Rock Slide]
+    - [Double Team]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Sassy
+ivs: 31
+evs: {hp: 148, atk: 108, def: 0, spA: 0, spD: 252, spe: 0}

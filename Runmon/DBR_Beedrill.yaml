@@ -1,0 +1,21 @@
+species: Beedrill
+ingamename: ?!♂♂♀AAABa
+displayname: ?!♂♂♀AAABa
+setname: Dual BlueRed
+tags: [runmon]
+item: [Null]
+ability: [Null]
+moves:
+    - [Twineedle]
+    - [Cut]
+    - [Hyper Beam]
+    - [Mega Drain]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}

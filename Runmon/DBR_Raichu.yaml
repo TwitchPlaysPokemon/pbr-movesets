@@ -1,0 +1,21 @@
+species: Raichu
+ingamename: QPPQQRRQPj
+displayname: QPPQQRRQPj
+setname: Dual BlueRed
+tags: [runmon]
+item: [Null]
+ability: [Null]
+moves:
+    - [Thunder]
+    - [Mega Kick]
+    - [Swift]
+    - [Thunder Wave]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: 31
+evs: {hp: 0, atk: 248, def: 248, spA: 0, spD: 0, spe: 12}
