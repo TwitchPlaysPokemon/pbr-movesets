@@ -6,9 +6,9 @@ tags: [runmon]
 item: [Null]
 ability: [Null]
 moves:
-    - [Acid]
-    - [Strength]
     - [Poison Sting]
+    - [Earthquake]
+    - [Strength]
     - [Wrap]
 gender: [f]
 happiness: 255
@@ -18,4 +18,4 @@ ball: [Poke]
 shiny: False
 nature: Brave
 ivs: 31
-evs: {hp: 8, atk: 252, def: 184, spA: 64, spD: 0, spe: 0}
+evs: {hp: 8, atk: 252, def: 184, spA: 0, spD: 64, spe: 0}

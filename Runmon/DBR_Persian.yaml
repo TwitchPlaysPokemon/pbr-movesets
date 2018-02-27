@@ -8,8 +8,8 @@ ability: [Null]
 moves:
     - [Slash]
     - [Bite]
+    - [Thunder]
     - [Fury Swipes]
-    - [Scratch]
 gender: [m]
 happiness: 255
 biddable: True
@@ -18,4 +18,4 @@ ball: [Poke]
 shiny: False
 nature: Careful
 ivs: 31
-evs: {hp: 248, atk: 248, def: 0, spA: 0, spD: 12, spe: 0}
+evs: {hp: 124, atk: 132, def: 0, spA: 252, spD: 0, spe: 0}
