@@ -69,7 +69,7 @@ gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.15
-ball: [Dive]
+ball: [Repeat]
 nature: Brave
 ivs: {hp: 20, atk: 31, def: 0, spA: 31, spD: 31, spe: 0}
 evs: 0
