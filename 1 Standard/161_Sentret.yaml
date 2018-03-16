@@ -1,13 +1,13 @@
 species: Sentret
 setname: Physical
 tags: [standard]
-item: [Lagging Tail]
+item: [Sitrus Berry]
 ability: [Keen Eye]
 moves:
     - [Return]
     - [Dynamic Punch]
     - [Aqua Tail]
-    - [Trick]
+    - [Baton Pass]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -15,4 +15,4 @@ rarity: 1.0
 ball: [Repeat]
 nature: Adamant
 ivs: 31
-evs: {hp: 192, atk: 252, def: 48, spA: 0, spD: 16, spe: 0}
+evs: {hp: 148, atk: 252, def: 16, spA: 0, spD: 0, spe: 92}
