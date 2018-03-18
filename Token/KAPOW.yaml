@@ -13,8 +13,8 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Lonely
 happiness: 255
 ball: [Dusk]
-biddable: True
-hidden: False
+biddable: Flase
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -33,8 +33,8 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
 nature: Lonely
 happiness: 255
 ball: [Dive]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -53,8 +53,8 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Lonely
 happiness: 255
 ball: [Timer]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -73,8 +73,8 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Lonely
 happiness: 255
 ball: [Nest]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -93,8 +93,8 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Lonely
 happiness: 255
 ball: [Quick]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 ---
 species: Qwilfish
@@ -112,8 +112,8 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Lonely
 happiness: 255
 ball: [Net]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -132,8 +132,8 @@ ivs: 0
 nature: Lonely
 happiness: 255
 ball: [Premier]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -152,8 +152,8 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 nature: Hasty
 happiness: 255
 ball: [Cherish]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -172,8 +172,8 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 nature: Hasty
 happiness: 255
 ball: [Safari]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [f]
 ---
@@ -192,8 +192,8 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 nature: Timid
 happiness: 255
 ball: [Nest]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
 ---
@@ -212,7 +212,7 @@ ivs: 31
 nature: Naive
 happiness: 255
 ball: [Nest]
-biddable: True
-hidden: False
+biddable: False
+hidden: True
 rarity: 0
 gender: [m, f]
