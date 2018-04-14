@@ -1,0 +1,59 @@
+species: Wartortle
+setname: Curse
+tags: [middlecup]
+item: [Damp Rock]
+ability: [Rain Dish]
+moves:
+    - [Dive]
+    - [Curse]
+    - [Rest]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+level: 50
+---
+species: Wartortle
+setname: SubPunch
+tags: [middlecup]
+item: [Sitrus Berry, Leichi Berry]
+ability: [Torrent]
+moves:
+    - [Waterfall]
+    - [Focus Punch]
+    - [Substitute]
+    - [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 236, atk: 132, def: 0, spA: 0, spD: 140, spe: 0}
+level: 50
+---
+species: Wartortle
+setname: Stall
+tags: [middlecup]
+item: [Leftovers]
+ability: [Torrent]
+moves:
+    - [Dive]
+    - [Toxic]
+    - [Haze]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+level: 50

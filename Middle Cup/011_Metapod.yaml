@@ -1,0 +1,19 @@
+species: metapod
+setname: Spikes
+tags: [middlecup]
+item: [Custap Berry]
+ability: [Shield Dust]
+moves:
+    - [bug buzz]
+    - [discharge]
+    - [memento]
+    - [spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 156, spe: 100}
+level: 50

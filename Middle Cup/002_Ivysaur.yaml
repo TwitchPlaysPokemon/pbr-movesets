@@ -1,0 +1,59 @@
+species: Ivysaur
+setname: Offensive
+tags: [middlecup]
+item: [Wise Glasses]
+ability: [Overgrow]
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb]
+    - [Hidden Power]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 28, atk: 0, def: 48, spA: 184, spD: 0, spe: 248}
+level: 50
+---
+species: Ivysaur
+setname: Defensive
+tags: [middlecup]
+item: [Coba Berry, Payapa Berry]
+ability: [Thick Fat]
+moves:
+    - [Sludge Bomb]
+    - [Giga Drain]
+    - [Leech Seed]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
+level: 50
+---
+species: Ivysaur
+setname: SunnyDay
+tags: [middlecup]
+item: [Heat Rock]
+ability: [Chorophyll]
+moves:
+    - [Solarbeam]
+    - [Weather ball]
+    - [Growth]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 172, atk: 0, def: 52, spA: 164, spD: 68, spe: 52}
+level: 50

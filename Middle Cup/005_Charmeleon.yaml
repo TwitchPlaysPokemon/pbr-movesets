@@ -1,0 +1,66 @@
+species: charmeleon
+setname: Physical
+tags: [middlecup]
+item: [muscle band, Salac Berry]
+ability: [blaze]
+moves:
+    - [flare blitz, fire punch]
+    - [thunder punch, brick break]
+    - [crunch, dragon claw, rock slide, substitute]
+    - [Dragon Dance, Swords Dance, Belly Drum]
+combinations:
+    - [Salac Berry, Belly Drum]
+separations:
+    - [Flare blitz, Belly Drum]
+    - [Flare blitz, substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 52, spA: 0, spD: 48, spe: 156}
+level: 50
+---
+species: charmeleon
+setname: Defensive
+tags: [middlecup]
+item: [Grip Claw]
+ability: [blaze]
+moves:
+    - [Fire Spin]
+    - [dragon rage]
+    - [will-o-wisp]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 56, spA: 0, spD: 196, spe: 4}
+level: 50
+---
+species: charmeleon
+setname: Special
+tags: [middlecup]
+item: [Sitrus Berry]
+ability: [solar power]
+moves:
+    - [flamethrower]
+    - [solarbeam, focus blast]
+    - [dragon pulse, hidden power]
+    - [sunny day]
+separations:
+    - [solarbeam, hidden power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 76, atk: 0, def: 20, spA: 160, spD: 0, spe: 252}
+level: 50

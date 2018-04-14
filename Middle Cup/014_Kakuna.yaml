@@ -1,0 +1,19 @@
+species: Kakuna
+setname: ToxicSpikes
+tags: [middlecup]
+item: [Leftovers]
+ability: [Shield dust]
+moves:
+    - [sludge bomb]
+    - [u-turn]
+    - [toxic spikes]
+    - [protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 4}
+level: 50
