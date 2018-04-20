@@ -1,0 +1,16 @@
+species: Venusaur
+setname: May-Venusaur
+ability: [Thick Fat]
+item: [Miracle Seed]
+ball: [Poke]
+moves:
+    - [Petal Dance]
+    - [Razor Leaf]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Gentle
+evs: 31
+ivs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+tags: [may], [anime]

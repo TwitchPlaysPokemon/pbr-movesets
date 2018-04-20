@@ -1,0 +1,17 @@
+species: Marshtomp
+setname: Brock-Marshtomp
+ability: [Adaptability]
+item: [Mystic Water]
+ball: [Poke]
+moves:
+    - [Mud Shot]
+    - [Water Gun]
+    - [Protect]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [brock], [anime]

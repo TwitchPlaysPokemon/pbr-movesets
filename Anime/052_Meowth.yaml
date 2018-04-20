@@ -1,0 +1,17 @@
+species: Meowth
+setname: Rocket-Meowth
+ability: [Technician]
+item: [Amulet Coin]
+ball: [Poke]
+moves:
+    - [Fury Swipes]
+    - [Scratch]
+    - [Bite]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Adamant
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [rocket], [anime]

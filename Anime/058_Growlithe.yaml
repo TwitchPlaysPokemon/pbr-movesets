@@ -1,0 +1,37 @@
+species: Growlithe
+setname: Rocket-Growlithe
+displayname: Growlie
+ingamename: Growlie
+ability: [Intimidate]
+item: [Null]
+ball: [Great]
+moves:
+    - [Flamethrower]
+    - [Dig]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Brave
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [rocket], [anime]
+---
+species: Growlithe
+setname: Morrison-Growlithe
+ability: [Flash Fire]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Flamethrower]
+    - [Bite]
+    - [Take Down]
+    - [Agility]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naughty
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [morrison], [anime]

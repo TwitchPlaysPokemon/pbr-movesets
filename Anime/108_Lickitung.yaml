@@ -1,0 +1,18 @@
+species: Lickitung
+setname: Rocket-Lickitung
+ability: [Own Tempo]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Slam]
+    - [Lick]
+    - [Wrap]
+    - [Supersonic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Adamant
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [rocket], [anime]

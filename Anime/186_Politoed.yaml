@@ -1,0 +1,18 @@
+species: Politoed
+setname: Misty-Politoed
+ability: [Damp]
+item: [King's Rock]
+ball: [Poke]
+moves:
+    - [Water Gun]
+    - [Body Slam]
+    - [DoubleSlap]
+    - [Swagger]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naive
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+ivs: 31
+tags: [misty], [anime]

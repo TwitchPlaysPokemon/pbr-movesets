@@ -1,0 +1,17 @@
+species: Lapras
+setname: Ash-Lapras
+ability: [Water Absorb]
+item: [Sea Incense]
+ball: [Poke]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Water Gun]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Modest
+evs: 31
+ivs: {hp: 24, atk: 0, def: 176, spA: 252, spD: 56, spe: 0}
+tags: [ash], [anime]

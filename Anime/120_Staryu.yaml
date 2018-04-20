@@ -1,0 +1,17 @@
+species: Staryu
+setname: Misty-Staryu
+ability: [Natural Cute]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Bubblebeam]
+    - [Swift]
+    - [Double-Edge]
+    - [Rapid Spin]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Lonely
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [misty], [anime]

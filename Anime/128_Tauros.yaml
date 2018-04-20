@@ -1,0 +1,18 @@
+species: Tauros
+setname: Ash-Tauros
+ability: [Intimidate]
+item: [Null]
+ball: [Safari]
+moves:
+    - [Take Down]
+    - [Horn Attack]
+    - [Fissure]
+    - [Double Team]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Jolly
+evs: 31
+ivs: {hp: 64, atk: 248, def: 0, spA: 0, spD: 0, spe: 196}
+tags: [ash], [anime]

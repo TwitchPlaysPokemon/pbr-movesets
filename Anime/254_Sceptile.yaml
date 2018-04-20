@@ -1,0 +1,18 @@
+species: Sceptile
+setname: Ash-Sceptile
+ability: [Overgrow]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Leaf Storm]
+    - [Leaf Blade]
+    - [Bullet Seed]
+    - [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Lax
+evs: {hp: 4, atk: 144, def: 64, spA: 0, spD: 68, spe: 228}
+ivs: 31
+tags: [ash], [anime]

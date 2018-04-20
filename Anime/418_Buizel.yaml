@@ -1,0 +1,18 @@
+species: Buizel
+setname: Ash-Buizel
+ability: [Swift Swim]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Water Pulse]
+    - [Ice Punch]
+    - [Aqua Jet]
+    - [Sonicboom]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Hasty
+evs: {hp: 0, atk: 144, def: 0, spA: 252, spD: 0, spe: 112}
+ivs: 31
+tags: [ash], [anime]

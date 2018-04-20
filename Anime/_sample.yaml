@@ -1,0 +1,18 @@
+species:
+setname:
+ability: []
+item: []
+ball: []
+moves:
+    - []
+    - []
+    - []
+    - []
+gender: []
+happiness: 255
+biddable: True
+rarity: 1.0
+nature:
+evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: {hp: , atk: , def: , spA: , spD: , spe: }
+tags: [], [anime]

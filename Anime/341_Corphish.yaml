@@ -1,0 +1,18 @@
+species: Corphish
+setname: Ash-Corphish
+ability: [Shell Armor]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Crabhammer]
+    - [Bubble Beam]
+    - [Vice Grip]
+    - [Harden]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 56, def: 0, spA: 252, spD: 0, spe: 200}
+ivs: 31
+tags: [ash], [anime]

@@ -1,0 +1,18 @@
+species: Arbok
+setname: Rocket-Arbok
+ability: [Intimidate]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Acid]
+    - [Dig]
+    - [Wrap]
+    - [Toxic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Rash
+evs: {hp: 76, atk: 180, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [rocket], [anime]

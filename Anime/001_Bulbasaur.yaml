@@ -1,0 +1,18 @@
+species: Bulbasaur
+setname: Ash-Bulbasaur
+ability: [Overgrow]
+item: [Miracle Seed]
+ball: [Poke]
+moves:
+    - [Solar Beam]
+    - [Razor Leaf]
+    - [Leech Seed]
+    - [Sleep Powder]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Relaxed
+evs: 31
+ivs: {hp: 216, atk: 0, def: 40, spA: 116, spD: 136, spe: 0}
+tags: [ash], [anime]

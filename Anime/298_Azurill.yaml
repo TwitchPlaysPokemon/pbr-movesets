@@ -1,0 +1,17 @@
+species: Azruill
+setname: Misty-Azurill
+ability: [Huge Power]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Body Slam]
+    - [Bubble]
+    - [Refresh]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Lonely
+evs: 252
+ivs: 31
+tags: [misty], [anime]

@@ -1,0 +1,17 @@
+species: Horsea
+setname: Misty-Horsea
+ability: [Sniper]
+item: [Scope Lens]
+ball: [Poke]
+moves:
+    - [Bubblebeam]
+    - [Focus Energy]
+    - [Smokescreen]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Modest
+evs: {hp: 252, atk: , def: 252, spA: 252, spD: 252, spe: 252}
+ivs: 31
+tags: [misty], [anime]

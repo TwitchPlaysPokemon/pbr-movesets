@@ -1,0 +1,18 @@
+species: Squirtle
+setname: Ash-Squirtle
+ability: [Torrent]
+item: [Blackglasses]
+ball: [Poke]
+moves:
+    - [Hydro Pump]
+    - [Bubblebeam]
+    - [Skull Bash]
+    - [Rapid Spin]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Bold
+evs: 31
+ivs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
+tags: [ash], [anime]

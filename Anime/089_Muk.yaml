@@ -1,0 +1,16 @@
+species: Muk
+setname: Ash-Muk
+ability: [Stench]
+item: [Black Sludge]
+ball: [Poke]
+moves:
+    - [Sludge Bomb]
+    - [Body Slam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naughty
+evs: 31
+ivs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 0, spe: 8}
+tags: [ash], [anime]

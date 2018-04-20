@@ -1,0 +1,37 @@
+species: Torterra
+setname: Ash-Torterra
+ability: [Overgrow]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Leaf Storm]
+    - [Energy Ball]
+    - [Rock Climb]
+    - [Synthesis]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naive
+evs: {hp: 24, atk: 100, def: 116, spA: 252, spD: 0, spe: 16}
+ivs: 31
+tags: [ash], [anime]
+---
+species: Torterra
+setname: Paul-Torterra
+ability: [Overgrow]
+item: [Blackglasses]
+ball: [Poke]
+moves:
+    - [Frenzy Plant]
+    - [Giga Drain]
+    - [Crunch]
+    - [Stone Edge]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Quiet
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 252, spe: 0}
+ivs: 31
+tags: [paul], [anime]

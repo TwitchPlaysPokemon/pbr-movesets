@@ -1,0 +1,58 @@
+species: Butterfree
+setname: Ash-Butterfree
+ability: [Pure Power]
+item: [Yellow Scarf]
+ball: [Poke]
+moves:
+    - [Tackle]
+    - [Sleep Powder]
+    - [Stun Spore]
+    - [Whirlwind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Adamant
+evs: 31
+ivs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
+tags: [ash], [anime]
+---
+species: Butterfree
+setname: Drew-Butterfree
+ability: [Tinted Lens]
+item: [Sharp Beak]
+ball: [Poke]
+moves:
+    - [Silver Wind]
+    - [Gust]
+    - [Psybeam]
+    - [Protect]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Modest
+evs: 31
+ivs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 252, spe: 252}
+tags: [drew], [anime]
+---
+species: Butterfree
+ingamename: Happy
+displayname: Happy
+setname: Ritchie-Happy
+ability: [Compound Eyes]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Signal Beam]
+    - [Psychic]
+    - [Sleep Powder]
+    - [Whirlwind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Hasty
+evs: 31
+ivs: {hp: 0, atk: 232, def: 0, spA: 24, spD: 0, spe: 252}
+tags: [ritchie], [anime]
