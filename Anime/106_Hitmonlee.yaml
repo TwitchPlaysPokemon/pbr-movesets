@@ -1,0 +1,18 @@
+species: Hitmonlee
+setname: Barry-Hitmonlee
+ability: [Limber]
+item: [Null]
+ball: [Poke]
+moves:
+    - [High Jump Kick]
+    - [Close Combat]
+    - [Blaze Kick]
+    - [Mega Kick]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [barry], [anime]

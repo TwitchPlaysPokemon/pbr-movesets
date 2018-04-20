@@ -1,0 +1,17 @@
+species: Froslass
+setname: Paul-Froslass
+ability: [Snow Cloak]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Ice Beam]
+    - [Ice Shard]
+    - [Hail]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naive
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 80, spe: 4}
+ivs: 31
+tags: [paul], [anime]

@@ -1,0 +1,17 @@
+species: Hariyama
+setname: Paul-Hariyama
+ability: [Guts]
+item: [Toxic Orb]
+ball: [Poke]
+moves:
+    - [Force Palm]
+    - [Earthquake]
+    - [Arm Thrust]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 252}
+ivs: 31
+tags: [paul], [anime]

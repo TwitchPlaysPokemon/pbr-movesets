@@ -1,0 +1,37 @@
+species: Blaziken
+setname: May-Blaziken
+ability: [Blaze]
+item: [Red Scarf]
+ball: [Poke]
+moves:
+    - [Overheat]
+    - [Sky Uppercut]
+    - [Blaze Kick]
+    - [Mega Kick]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Rash
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+ivs: 31
+tags: [may], [anime]
+---
+species: Blaziken
+setname: Harrison-Blaziken
+ability: [Blaze]
+item: [Scope Lens]
+ball: [Poke]
+moves:
+    - [Flamethrower]
+    - [Fire Punch]
+    - [Blaze Kick]
+    - [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Rash
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [harrison], [anime]

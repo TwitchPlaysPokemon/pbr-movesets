@@ -1,0 +1,20 @@
+species: Pupitar
+setname: Ritchie-Pupitar
+ingamename: Cruise
+displayname: Cruise
+ability: [Shed Skin]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Rock Slide]
+    - [Headbutt]
+    - [Take Down]
+    - [Sandstorm]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Careful
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [ritchie], [anime]

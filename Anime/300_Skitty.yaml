@@ -1,0 +1,17 @@
+species: Skitty
+setname: May-Skitty
+ability: [Cute Charm]
+item: [Yellow Scarf]
+ball: [Poke]
+moves:
+    - [DoubleSlap]
+    - [Blizzard]
+    - [Assist]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Hasty
+evs: 252
+ivs: 31
+tags: [may], [anime]

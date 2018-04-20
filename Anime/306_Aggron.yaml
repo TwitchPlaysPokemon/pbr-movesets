@@ -1,0 +1,37 @@
+species: Aggron
+setname: Paul-Aggron
+ability: [Rock Head]
+item: [Wise Glasses]
+ball: [Poke]
+moves:
+    - [Flash Cannon]
+    - [Double-Edge]
+    - [Metal Sound]
+    - [Iron Defense]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Mild
+evs: {hp: 0, atk: 4, def: 16, spA: 252, spD: 236, spe: 0}
+ivs: 31
+tags: [paul], [anime]
+---
+species: Aggron
+setname: Conway-Aggron
+ability: [Rock Head]
+item: [Life Orb]
+ball: [Poke]
+moves:
+    - [Head Smash]
+    - [Iron Head]
+    - [Zen Headbutt]
+    - [Headbutt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Sassy
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [conway], [anime]

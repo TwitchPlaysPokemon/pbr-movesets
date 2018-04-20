@@ -1,0 +1,18 @@
+species: Absol
+setname: Drew-Absol
+ability: [Pressure]
+item: [Metal Coat]
+ball: [Poke]
+moves:
+    - [Iron Tail]
+    - [Water Pulse]
+    - [Razor Wind]
+    - [Flash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Rash
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 72, spe: 184}
+ivs: 31
+tags: [drew], [anime]

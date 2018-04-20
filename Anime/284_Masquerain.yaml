@@ -1,0 +1,18 @@
+species: Masquerain
+setname: Drew-Masquerain
+ability: [Intimidate]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+    - [Silver Wind]
+    - [Ice Beam]
+    - [Hidden Power]
+    - [Quick Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naughty
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+tags: [drew], [anime]

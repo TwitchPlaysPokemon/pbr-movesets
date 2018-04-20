@@ -1,0 +1,18 @@
+species: Glaceon
+setname: May-Glaceon
+ability: [Snow Cloak]
+item: [Blue Scarf]
+ball: [Poke]
+moves:
+    - [Ice Beam]
+    - [Shadow Ball]
+    - [Ice Shard]
+    - [Mirror Coat]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Jolly
+evs: {hp: 100, atk: 160, def: 52, spA: 12, spD: 172, spe: 12}
+ivs: 31
+tags: [may], [anime]

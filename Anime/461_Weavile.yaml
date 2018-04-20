@@ -1,0 +1,18 @@
+species: Weavile
+setname: Paul-Weavile
+ability: [Pressure]
+item: [NeverMeltIce]
+ball: [Poke]
+moves:
+    - [Blizzard]
+    - [Ice Shard]
+    - [Metal Claw]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Quiet
+evs: {hp: 8, atk: 56, def: 0, spA: 252, spD: 0, spe: 192}
+ivs: 31
+tags: [paul], [anime]

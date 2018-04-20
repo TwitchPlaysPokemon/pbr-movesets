@@ -1,0 +1,17 @@
+species: Ambipom
+setname: Dawn-Ambipom
+ability: [Technician]
+item: [Scope Lens]
+ball: [Poke]
+moves:
+    - [Double Hit]
+    - [Focus Punch]
+    - [Double Team]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naive
+evs: {hp: 100, atk: 252, def: 0, spA: 0, spD: 0, spe: 156}
+ivs: 31
+tags: [dawn], [anime]

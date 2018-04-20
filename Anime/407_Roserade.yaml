@@ -1,0 +1,36 @@
+species: Roserade
+setname: Drew-Roserade
+ability: [Technician]
+item: [Miracle Seed]
+ball: [Poke]
+moves:
+    - [Petal Dance]
+    - [Mega Drain]
+    - [Magical Leaf]
+    - [Stun Spore]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Modest
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 40, spe: 216}
+ivs: 31
+tags: [drew], [anime]
+---
+species: Roserade
+setname: Barry-Roserade
+ability: [Technician]
+item: [Poison Barb]
+ball: [Poke]
+moves:
+    - [Poison Jab]
+    - [Bullet Seed]
+    - [Ingrain]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Careful
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 31
+tags: [barry], [anime]

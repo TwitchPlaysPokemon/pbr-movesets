@@ -1,0 +1,17 @@
+species: Nidoking
+setname: Paul-Nidoking
+ability: [Poison Point]
+item: [Black Belt]
+ball: [Poke]
+moves:
+    - [Earth Power]
+    - [Thunderbolt]
+    - [Double Kick]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Rash
+evs: {hp: 212, atk: 252, def: 0, spA: 44, spD: 0, spe: 0}
+ivs: 31
+tags: [paul], [anime]

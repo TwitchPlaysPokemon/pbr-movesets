@@ -1,0 +1,18 @@
+species: Togekiss
+setname: Dawn-Togekiss
+ability: [Serene Grace]
+item: [Power Herb]
+ball: [Master]
+moves:
+    - [Sky Attack]
+    - [Air Slash]
+    - [Aura Sphere]
+    - [Safeguard]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Brave
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [], [anime]

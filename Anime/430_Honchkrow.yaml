@@ -1,0 +1,18 @@
+species: Honchkrow
+setname: Paul-Honchkrow
+ability: [Super Luck]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Aerial Ace]
+    - [Night Slash]
+    - [Shadow Ball]
+    - [Haze]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naive
+evs: {hp: 8, atk: 16, def: 0, spA: 236, spD: 0, spe: 248}
+ivs: 31
+tags: [paul], [anime]

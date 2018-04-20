@@ -1,0 +1,18 @@
+species: Mamoswine
+setname: Dawn-Mamoswine
+ability: [Oblivious]
+item: [Wide Lens]
+ball: [Repeat]
+moves:
+    - [Ice Fang]
+    - [Hidden Power]
+    - [Ancient Power]
+    - [Ice Shard]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Hasty
+evs: {hp: 16, atk: 0, def: 0, spA: 252, spD: 144, spe: 96}
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+tags: [dawn], [anime]
