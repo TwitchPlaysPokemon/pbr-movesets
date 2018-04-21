@@ -1,0 +1,39 @@
+species: Gloom
+setname: SunnyDay
+tags: [middlecup]
+item: [Heat Rock]
+ability: [Chlorophyll]
+moves:
+    - [sludge bomb]
+    - [Energy Ball]
+    - [Synthesis]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [great]
+nature: calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 80, spA: 0, spD: 76, spe: 100}
+level: 50
+---
+species: Gloom
+setname: Offensive
+tags: [middlecup]
+item: [Life Orb]
+ability: [Chlorophyll]
+moves:
+    - [sludge bomb]
+    - [Giga Drain]
+    - [Hidden Power]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [great]
+nature: modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 108, atk: 0, def: 0, spA: 224, spD: 0, spe: 176}
+level: 50

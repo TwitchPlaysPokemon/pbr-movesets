@@ -1,0 +1,39 @@
+species: Pidgeotto
+setname: Utility
+tags: [middlecup]
+item: [Wacan Berry]
+ability: [Tangled Feet]
+moves:
+    - [Brave Bird, Return]
+    - [U-Turn]
+    - [Feather Dance, Toxic]
+    - [Roost, Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Timer]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 84, spA: 0, spD: 0, spe: 180}
+level: 50
+---
+species: Pidgeotto
+setname: Agility
+tags: [middlecup]
+item: [Life Orb]
+ability: [Keen Eye]
+moves:
+    - [Double Edge]
+    - [Air Slash]
+    - [Heat Wave, Hidden Power]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Timer]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 0, atk: 156, def: 56, spA: 224, spD: 0, spe: 72}
+level: 50

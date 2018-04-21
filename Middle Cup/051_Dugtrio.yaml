@@ -1,0 +1,19 @@
+species: Dugtrio
+setname: Sash
+tags: [middlecup]
+item: [Focus Sash]
+ability: [Arena Trap]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Reversal]
+    - [Memento, Toxic, Fissure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Great]
+nature: Jolly
+ivs: {hp: 21, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 50

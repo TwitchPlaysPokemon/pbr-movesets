@@ -1,0 +1,39 @@
+species: Clefairy
+setname: Wall
+tags: [middlecup]
+item: [Sitrus Berry]
+ability: [Magic Guard]
+moves:
+    - [Hyper Voice]
+    - [Psychic]
+    - [Thunder Wave]
+    - [Softboiled, Wish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [heal]
+nature: sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 60, spA: 0, spD: 196, spe: 0}
+level: 50
+---
+species: Clefairy
+setname: Calm Mind
+tags: [middlecup]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Hyper Voice]
+    - [Flamethrower, Thunderbolt]
+    - [Knock Off, psychic, Ice Beam]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [heal]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+level: 50

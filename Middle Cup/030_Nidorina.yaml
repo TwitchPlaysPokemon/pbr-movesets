@@ -1,0 +1,39 @@
+species: Nidorina
+setname: ToxicSpikes
+tags: [middlecup]
+item: [Sitrus Berry]
+ability: [poison point]
+moves:
+    - [sludge bomb]
+    - [ice beam, thunderbolt]
+    - [counter, superfang, roar]
+    - [toxic spikes]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 180, spA: 4, spD: 76, spe: 4}
+level: 50
+---
+species: Nidorina
+setname: Tank
+tags: [middlecup]
+item: [Leftovers]
+ability: [Rivalry]
+moves:
+    - [poison jab]
+    - [ice beam]
+    - [thunderbolt, crunch]
+    - [return, hidden power]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Great]
+nature: brave
+ivs: {hp: 31, atk: 30, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 116, atk: 144, def: 76, spA: 172, spD: 0, spe: 0}
+level: 50

@@ -1,0 +1,66 @@
+species: Golbat
+setname: Utility
+tags: [middlecup]
+item: [Wacan Berry, Charti Berry]
+ability: [Inner Focus]
+moves:
+    - [Superfang]
+    - [Brave bird, Cross Poison]
+    - [U-Turn]
+    - [Taunt, Haze]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 12, spA: 0, spD: 0, spe: 252}
+level: 50
+---
+species: Golbat
+setname: NastyPlot
+tags: [middlecup]
+item: [Sky Plate, Meadow Plate, Spooky Plate]
+ability: [Inner Focus]
+moves:
+    - [Sludge Bomb]
+    - [Air Slash]
+    - [Heat Wave, Giga Drain, Shadow Ball]
+    - [Nasty Plot]
+combinations:
+    - [Sky Plate, Heat Wave]
+    - [Giga Drain, Meadow Plate]
+    - [shadow ball, spooky plate]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 50
+---
+species: Golbat
+setname: Weather
+tags: [middlecup]
+item: [Damp Rock, Heat Rock]
+ability: [Inner Focus]
+moves:
+    - [Brave Bird]
+    - [Heat Wave, Sludge Bomb]
+    - [Rain Dance, Sunny Day]
+    - [U-Turn]
+combinations:
+    - [damp rock, rain dance, sludge bomb]
+    - [heat rock, sunny day, heat wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
+level: 50

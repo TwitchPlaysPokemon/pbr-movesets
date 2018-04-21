@@ -1,0 +1,43 @@
+species: Jigglypuff
+setname: Support
+tags: [middlecup]
+item: [Heat Rock, Damp Rock, Sitrus Berry]
+ability: [Cute Charm]
+moves:
+    - [Fire Blast, Hydro Pump, Zap Cannon]
+    - [Solarbeam, Thunder, Blizzard]
+    - [Perish Song, Wish]
+    - [Sunny Day, Rain Dance, Gravity]
+combinations:
+    - [fire blast, solarbeam, sunny day, heat rock]
+    - [hydro pump, thunder, rain dance, damp rock]
+    - [zap cannon, blizzard, gravity, sitrus berry]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [heal]
+nature: calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+level: 50
+---
+species: Jigglypuff
+setname: Screens
+tags: [middlecup]
+item: [Light Clay]
+ability: [Cute Charm]
+moves:
+    - [Hyper voice]
+    - [shadow ball]
+    - [reflect]
+    - [light screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [heal]
+nature: calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+level: 50

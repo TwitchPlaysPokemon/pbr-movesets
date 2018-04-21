@@ -1,0 +1,39 @@
+species: Nidorino
+setname: ToxicSpikes
+tags: [middlecup]
+item: [toxic plate]
+ability: [Hustle]
+moves:
+    - [poison jab]
+    - [return, double kick]
+    - [sucker punch]
+    - [toxic spikes]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [great]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 50
+---
+species: Nidorino
+setname: Mixed
+tags: [middlecup]
+item: [life orb]
+ability: [Rivalry]
+moves:
+    - [poison jab]
+    - [earth power, hidden fire]
+    - [sucker punch, superpower]
+    - [ice beam, thunderbolt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [great]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 208, def: 0, spA: 76, spD: 0, spe: 224}
+level: 50

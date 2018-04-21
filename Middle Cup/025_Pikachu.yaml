@@ -1,0 +1,39 @@
+species: Pikachu
+setname: Physical
+tags: [middlecup]
+item: [light ball]
+ability: [Static]
+moves:
+    - [volt tackle]
+    - [Surf]
+    - [Signal Beam, Hidden Power]
+    - [Brick Break, Extremespeed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 30}
+evs: {hp: 0, atk: 116, def: 0, spA: 144, spD: 0, spe: 248}
+level: 50
+---
+species: Pikachu
+setname: Special
+tags: [middlecup]
+item: [Light Ball]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Meteor Mash]
+    - [Fly]
+    - [Hidden Power, Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Quick]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 0, atk: 60, def: 0, spA: 196, spD: 0, spe: 252}
+level: 50
