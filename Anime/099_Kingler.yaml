@@ -13,6 +13,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Lax
-evs: 31
-ivs: {hp: 0, atk: 32, def: 224, spA: 0, spD: 0, spe: 252}
+ivs: 31
+evs: {hp: 0, atk: 32, def: 224, spA: 0, spD: 0, spe: 252}
 tags: [ash], [anime]

@@ -1,0 +1,18 @@
+species: Kecleon
+setname: Harrison-Kecleon
+ability: [Color Change]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+    - [Slash]
+    - [Psybeam]
+    - [Sucker Punch]
+    - [Lick]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Hasty
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [harrison], [anime]

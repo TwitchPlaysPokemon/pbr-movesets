@@ -13,6 +13,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Gentle
-evs: 31
-ivs: {hp: 0, atk: 216, def: 0, spA: 240, spD: 0, spe: 52}
+ivs: 31
+evs: {hp: 0, atk: 216, def: 0, spA: 240, spD: 0, spe: 52}
 tags: [may], [anime]

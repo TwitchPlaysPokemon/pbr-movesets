@@ -13,6 +13,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Bold
-evs: 31
-ivs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
 tags: [ash], [anime]

@@ -1,0 +1,18 @@
+species: Flareon
+setname: Ursula-Flareon
+ability: [Flash Fire]
+item: [Metal Coat]
+ball: [Repeat]
+moves:
+    - [Fire Fang]
+    - [Hidden Power]
+    - [Iron Tail]
+    - [Fire Spin]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Bashful
+evs: {hp: 0, atk: 252, def: 252, spA: 252, spD: 132, spe: 160}
+ivs: {hp: 31, atk: 22, def: 30, spA: 30, spD: 31, spe: 31}
+tags: [ursula], [anime]

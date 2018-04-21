@@ -1,0 +1,18 @@
+species: Minun
+setname: Ursula-Minun
+ability: [Lighting Rod]
+item: [Magnet]
+ball: [Heal]
+moves:
+    - [Charge Beam]
+    - [Spark]
+    - [Encore]
+    - [Helping Hand]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Lonely
+evs: {hp: 252, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [ursula], [anime]

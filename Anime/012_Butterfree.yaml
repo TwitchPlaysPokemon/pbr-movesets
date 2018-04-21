@@ -13,8 +13,8 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Adamant
-evs: 31
-ivs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
 tags: [ash], [anime]
 ---
 species: Butterfree
@@ -32,8 +32,8 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Modest
-evs: 31
-ivs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 252, spe: 252}
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 252, spe: 252}
 tags: [drew], [anime]
 ---
 species: Butterfree
@@ -53,6 +53,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Hasty
-evs: 31
-ivs: {hp: 0, atk: 232, def: 0, spA: 24, spD: 0, spe: 252}
+ivs: 31
+evs: {hp: 0, atk: 232, def: 0, spA: 24, spD: 0, spe: 252}
 tags: [ritchie], [anime]

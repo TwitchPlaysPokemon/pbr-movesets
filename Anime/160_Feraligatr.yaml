@@ -1,0 +1,19 @@
+species: Feraligatr
+setname: Marina-Feraligatr
+displayname: Wani-Wani
+ingamename: Wani-Wani
+ability: [Torrent]
+item: [Icicle Plate]
+ball: [Poke]
+moves:
+    - [Aqua Tail]
+    - [Ice Punch]
+    - [Crunch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Adamant
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
+ivs: 31
+tags: [marina], [anime]

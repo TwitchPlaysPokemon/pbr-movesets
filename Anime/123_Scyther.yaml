@@ -1,0 +1,18 @@
+species: Scyther
+setname: Tracey-Scyther
+ability: [Simple]
+item: [Life Orb]
+ball: [Poke]
+moves:
+    - [Slash]
+    - [Quick Attack]
+    - [Double Team]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 40, spe: 216}
+ivs: 31
+tags: [tracey], [anime]

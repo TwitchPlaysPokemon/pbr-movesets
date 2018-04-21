@@ -13,8 +13,8 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Naive
-evs: 31
-ivs: {hp: 12, atk: 176, def: 0, spA: 136, spD: 0, spe: 184}
+ivs: 31
+evs: {hp: 12, atk: 176, def: 0, spA: 136, spD: 0, spe: 184}
 tags: [ash], [anime]
 ---
 species: Pikachu
@@ -33,6 +33,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Hasty
-evs: 31
-ivs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 tags: [ritchie], [anime]

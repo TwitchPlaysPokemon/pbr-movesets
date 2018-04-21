@@ -1,0 +1,17 @@
+species: Beedrill
+setname: Jimmy-Beedrill
+ability: [Pure Power]
+item: [Silverpowder]
+ball: [Poke]
+moves:
+    - [Twinneedle]
+    - [Pin Missile]
+    - [Agility]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 252, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [jimmy], [anime]

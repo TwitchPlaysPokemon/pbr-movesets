@@ -13,6 +13,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Lonely
-evs: 31
-ivs: {hp: 4, atk: 204, def: 0, spA: 204, spD: 0, spe: 96}
+ivs: 31
+evs: {hp: 4, atk: 204, def: 0, spA: 204, spD: 0, spe: 96}
 tags: [ash], [anime]

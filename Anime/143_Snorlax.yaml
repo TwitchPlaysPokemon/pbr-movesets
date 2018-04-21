@@ -13,6 +13,6 @@ happiness: 255
 biddable: True
 rarity: 1.0
 nature: Quiet
-evs: 31
-ivs: {hp: 252, atk: 8, def: 0, spA: 248, spD: , spe: }
+ivs: 31
+evs: {hp: 252, atk: 8, def: 0, spA: 248, spD: , spe: }
 tags: [ash], [anime]

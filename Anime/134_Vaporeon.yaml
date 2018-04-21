@@ -1,0 +1,18 @@
+species: Vaporeon
+setname: Ursula-Vaporeon
+ability: [Water Absorb]
+item: [Metal Coat]
+ball: [Dive]
+moves:
+    - [Hidden Power]
+    - [Ice Fang]
+    - [Iron Tail]
+    - [Whirlpool]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Brave
+evs: {hp: 0, atk: 252, def: 252, spA: 132, spD: 252, spe: 252}
+ivs: {hp: 1, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+tags: [ursula], [anime]

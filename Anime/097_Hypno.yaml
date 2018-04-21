@@ -1,0 +1,18 @@
+species: Hypno
+setname: Harrison-Hypno
+ability: [Insomnia]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Psychic]
+    - [Pound]
+    - [Dream Eater]
+    - [Hypnosis]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Lax
+evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [harrison], [anime]
