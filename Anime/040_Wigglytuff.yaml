@@ -1,0 +1,18 @@
+species: Wigglytuff
+setname: Harley-Wigglytuff
+ability: [Intimidate]
+item: [Silk Scarf]
+ball: [Heal]
+moves:
+    - [Body Slam]
+    - [DoubleSlap]
+    - [Foresight]
+    - [Bulk Up]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+ivs: 31
+tags: [harley], [anime]

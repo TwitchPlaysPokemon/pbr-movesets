@@ -1,0 +1,18 @@
+species: Dusknoir
+setname: Conway-Dusknoir
+ability: [Pressure]
+item: [Null]
+ball: [Poke]
+moves:
+    - [Shadow Punch]
+    - [Thunder Punch]
+    - [Mean Look]
+    - [Trick Room]
+gender: []
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Brave
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [conway], [anime]

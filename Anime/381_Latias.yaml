@@ -1,0 +1,18 @@
+species: Latios
+setname: Tobias-Latios
+ability: [Slow Start]
+item: [Soul Dew]
+ball: [Master]
+moves:
+    - [Luster Purge]
+    - [Giga Impact]
+    - [Light Screen]
+    - [Reflect]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naughty
+evs: {hp: 80, atk: 248, def: 0, spA: 0, spD: 4, spe: 176}
+ivs: 31
+tags: [tobias], [anime]

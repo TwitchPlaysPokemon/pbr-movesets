@@ -1,0 +1,18 @@
+species: Girafarig
+setname: Morrison-Girafarig
+ability: [Technician]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+    - [Tackle]
+    - [Psychic]
+    - [Iron Tail]
+    - [Light Screen]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naive
+evs: {hp: 76, atk: 252, def: 0, spA: 64, spD: 0, spe: 192}
+ivs: 31
+tags: [morrison], [anime]

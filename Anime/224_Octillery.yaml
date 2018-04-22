@@ -1,0 +1,18 @@
+species: Octillery
+setname: Harley-Octillery
+ability: [Sticky Hold]
+item: [Chesto Berry]
+ball: [Dive]
+moves:
+    - [Octazooka]
+    - [Fire Blast]
+    - [Sludge Bomb]
+    - [Rest]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Sassy
+evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 172, spe: 0}
+ivs: 31
+tags: [harley], [anime]
