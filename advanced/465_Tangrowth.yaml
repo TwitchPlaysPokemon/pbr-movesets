@@ -20,13 +20,16 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 240, spe: 120}
 species: Tangrowth
 setname: a-Physical
 tags: [advanced]
-item: [Expert Belt]
+item: [Expert Belt, Shell Bell, Leichi Berry]
 ability: [Chlorophyll]
 moves:
     - [Vine Whip]
-    - [Rock Tomb]
-    - [Mimic]
+    - [Rock Tomb, Natural Gift, Submission]
+    - [Mimic, Low Kick, Thief]
     - [Swords Dance]
+combinations:
+    - [Shell Bell, Submission, Low Kick]
+    - [Leichi Berry, Natural Gift]
 gender: [m, f]
 happiness: 255
 biddable: True
