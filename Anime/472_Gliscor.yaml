@@ -1,5 +1,5 @@
 species: Gliscor
-setname: Ash-Gliscor
+setname: Ash
 ability: [Hyper Cutter]
 item: [Hard Stone]
 ball: [Poke]
@@ -18,7 +18,7 @@ ivs: 31
 tags: [ash], [anime]
 ---
 species: Gliscor
-setname: Paul-Gliscor
+setname: Paul
 ability: [Sand Veil]
 item: [Smooth Rock]
 ball: [Poke]

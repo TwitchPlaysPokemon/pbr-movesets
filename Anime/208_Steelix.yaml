@@ -1,5 +1,5 @@
 species: Steelix
-setname: Brock-Steelix
+setname: Brock
 ability: [Heatproof]
 item: [Occa Berry]
 ball: [Poke]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 tags: [brock], [anime]
 ---
 species: Steelix
-setname: Harrison-Steelix
+setname: Harrison
 ability: [Sturdy]
 item: [Grip Claw]
 ball: [Poke]
@@ -37,7 +37,7 @@ ivs: 31
 tags: [harrison], [anime]
 ---
 species: Steelix
-setname: Morrison-Steelix
+setname: Morrison
 ability: [Sturdy]
 item: [Dragon Fang]
 ball: [Poke]

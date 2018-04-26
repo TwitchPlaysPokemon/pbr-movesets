@@ -1,5 +1,5 @@
 species: Jigglypuff
-setname: Marina-Jigglypuff
+setname: Marina
 displayname: Pink
 ingamename: Pink
 ability: [Skill Link]
@@ -19,7 +19,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 tags: [marina], [anime]
 ---
 species: Jigglypuff
-setname: Ursula-Jigglypuff
+setname: Ursula
 ability: [Cute Charm]
 item: [Iron Ball]
 ball: [Poke]

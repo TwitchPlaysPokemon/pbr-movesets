@@ -1,5 +1,5 @@
 species: Quilava
-setname: Ash-Quilava
+setname: Ash
 ability: [Blaze]
 item: [Sky Plate]
 ball: [Poke]
@@ -18,7 +18,7 @@ ivs: 31
 tags: [ash], [anime]
 ---
 species: Quilava
-setname: Dawn-Quilava
+setname: Dawn
 ability: [Flash Fire]
 item: [Charcoal]
 ball: [Poke]

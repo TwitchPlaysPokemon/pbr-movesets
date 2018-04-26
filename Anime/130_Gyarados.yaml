@@ -1,5 +1,5 @@
 species: Gyarados
-setname: Rocket-Gyarados
+setname: Rocket
 ability: [Intimidate]
 item: [Dragon Fang]
 ball: [Poke]
@@ -18,7 +18,7 @@ ivs: 31
 tags: [rocket], [anime]
 ---
 species: Gyarados
-setname: Misty-Gyarados
+setname: Misty
 ability: [Intimidate]
 item: [Wacan Berry]
 ball: [Poke]

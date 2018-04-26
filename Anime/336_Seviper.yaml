@@ -1,5 +1,5 @@
 species: Seviper
-setname: Rocket-Seviper
+setname: Rocket
 ability: [Shed Skin]
 item: [Null]
 ball: [Poke]
@@ -8,7 +8,7 @@ moves:
     - [Bite]
     - [Wrap]
     - [Haze]
-gender: []
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

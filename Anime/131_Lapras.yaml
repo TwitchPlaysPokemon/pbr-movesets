@@ -1,5 +1,5 @@
 species: Lapras
-setname: Ash-Lapras
+setname: Ash
 ability: [Water Absorb]
 item: [Sea Incense]
 ball: [Poke]
@@ -17,7 +17,7 @@ evs: {hp: 24, atk: 0, def: 176, spA: 252, spD: 56, spe: 0}
 tags: [ash], [anime]
 ---
 species: Lapras
-setname: Solidad-Lapras
+setname: Solidad
 ability: [Shell Armor]
 item: [Fist Plate]
 ball: [Poke]

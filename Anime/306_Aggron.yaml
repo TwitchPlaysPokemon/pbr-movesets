@@ -1,5 +1,5 @@
 species: Aggron
-setname: Paul-Aggron
+setname: Paul
 ability: [Rock Head]
 item: [Wise Glasses]
 ball: [Poke]
@@ -18,7 +18,7 @@ ivs: 31
 tags: [paul], [anime]
 ---
 species: Aggron
-setname: Conway-Aggron
+setname: Conway
 ability: [Rock Head]
 item: [Life Orb]
 ball: [Poke]

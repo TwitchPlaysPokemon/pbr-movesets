@@ -1,5 +1,5 @@
 species: Staraptor
-setname: Ash-Staraptor
+setname: Ash
 ability: [Intimidate]
 item: [Null]
 ball: [Poke]
@@ -18,7 +18,7 @@ ivs: 31
 tags: [ash], [anime]
 ---
 species: Staraptor
-setname: Barry-Staraptor
+setname: Barry
 ability: [Intimidate]
 item: [Silk Scarf]
 ball: [Poke]

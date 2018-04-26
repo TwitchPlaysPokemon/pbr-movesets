@@ -1,5 +1,5 @@
 species: Dusknoir
-setname: Conway-Dusknoir
+setname: Conway
 ability: [Pressure]
 item: [Null]
 ball: [Poke]
@@ -8,7 +8,7 @@ moves:
     - [Thunder Punch]
     - [Mean Look]
     - [Trick Room]
-gender: []
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

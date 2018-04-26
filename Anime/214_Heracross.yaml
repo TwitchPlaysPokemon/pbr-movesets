@@ -1,5 +1,5 @@
 species: Heracross
-setname: Ash-Heracross
+setname: Ash
 ability: [Guts]
 item: [Silk Scarf]
 ball: [Poke]
@@ -18,7 +18,7 @@ ivs: 31
 tags: [ash], [anime]
 ---
 species: Heracross
-setname: Barry-Heracross
+setname: Barry
 ability: [Guts]
 item: [Silk Scarf]
 ball: [Poke]
@@ -37,7 +37,7 @@ ivs: 31
 tags: [barry], [anime]
 ---
 species: Heracross
-setname: Conway-Heracross
+setname: Conway
 ability: [Swarm]
 item: [Black Belt]
 ball: [Poke]

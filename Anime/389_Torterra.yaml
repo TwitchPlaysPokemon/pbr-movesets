@@ -1,5 +1,5 @@
 species: Torterra
-setname: Ash-Torterra
+setname: Ash
 ability: [Overgrow]
 item: [Null]
 ball: [Poke]
@@ -18,7 +18,7 @@ ivs: 31
 tags: [ash], [anime]
 ---
 species: Torterra
-setname: Paul-Torterra
+setname: Paul
 ability: [Overgrow]
 item: [Blackglasses]
 ball: [Poke]

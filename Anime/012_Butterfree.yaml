@@ -1,5 +1,5 @@
 species: Butterfree
-setname: Ash-Butterfree
+setname: Ash
 ability: [Pure Power]
 item: [Yellow Scarf]
 ball: [Poke]
@@ -18,7 +18,7 @@ evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
 tags: [ash], [anime]
 ---
 species: Butterfree
-setname: Drew-Butterfree
+setname: Drew
 ability: [Tinted Lens]
 item: [Sharp Beak]
 ball: [Poke]
@@ -39,7 +39,7 @@ tags: [drew], [anime]
 species: Butterfree
 ingamename: Happy
 displayname: Happy
-setname: Ritchie-Butterfree
+setname: Ritchie
 ability: [Compound Eyes]
 item: [Null]
 ball: [Poke]

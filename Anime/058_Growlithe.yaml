@@ -1,5 +1,5 @@
 species: Growlithe
-setname: Rocket-Growlithe
+setname: Rocket
 displayname: Growlie
 ingamename: Growlie
 ability: [Intimidate]
@@ -18,7 +18,7 @@ ivs: 31
 tags: [rocket], [anime]
 ---
 species: Growlithe
-setname: Morrison-Growlithe
+setname: Morrison
 ability: [Flash Fire]
 item: [Null]
 ball: [Poke]
