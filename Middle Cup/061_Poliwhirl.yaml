@@ -1,0 +1,41 @@
+species: Poliwhirl
+setname: BellyDrum
+tags: [middlecup]
+item: [Lum Berry]
+ability: [Damp]
+moves:
+    - [Waterfall]
+    - [Earthquake, brick break, ice punch]
+    - [hypnosis]
+    - [belly drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 20, atk: 4, def: 116, spA: 0, spD: 116, spe: 252}
+level: 50
+---
+species: Poliwhirl
+setname: RainDance
+tags: [middlecup]
+item: [Damp Rock]
+ability: [Swift Swim]
+moves:
+    - [Hydro Pump, Waterfall]
+    - [Earthquake, Brick Break, Body Slam]
+    - [Psychic, Ice Beam, Ice Punch]
+    - [Rain Dance]
+separations:
+	- [waterfall, ice punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 248, def: 0, spA: 252, spD: 0, spe: 4}
+level: 50

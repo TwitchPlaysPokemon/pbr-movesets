@@ -1,0 +1,66 @@
+species: Rhydon
+setname: Defensive
+tags: [middlecup]
+ability: [Rock Head]
+moves:
+    - [Rock Blast]
+    - [Thief]
+    - [Roar, Metal Burst, Counter]
+    - [Stealth Rock, Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [safari]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 50
+---
+species: Rhydon
+setname: Offensive
+tags: [middlecup]
+item: [Power Herb, Poison Barb, Black Belt]
+ability: [Rock Head]
+moves:
+    - [Earth Power]
+    - [Skull Bash, Focus Punch, Iron Tail, Dragon Rush]
+    - [Ice Fang, Thunder Fang, Fire Fang]
+    - [Thief, Fling, Substitute]
+combinations:
+    - [Power Herb, Skull Bash, Thief]
+    - [Black Belt, Focus Punch, Substitute]
+separations:
+    - [Fling, Black belt]
+    - [Fling, Power Herb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [safari]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 252, spe: 0}
+level: 50
+---
+species: Rhydon
+setname: DoubleDance
+tags: [middlecup]
+item: [Hard Stone]
+ability: [Rock Head]
+moves:
+    - [Rock Tomb, Magntiude]
+    - [Double Edge, Crunch]
+    - [Swords Dance]
+    - [Rock Polish]
+separations:
+    - [magnitude, double edge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [safari]
+nature: Gentle
+ivs: {hp: 31, atk: 0, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+level: 50

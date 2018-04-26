@@ -1,0 +1,39 @@
+species: Weepinbell
+setname: Dance
+tags: [middlecup]
+item: [Salac Berry]
+ability: [Chorophyll]
+moves:
+    - [Leaf Blade]
+    - [Poison Jab]
+    - [Sucker Punch, Sleep Powder]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+level: 50
+---
+species: Weepinbell
+setname: Sun
+tags: [middlecup]
+item: [Heat Rock]
+ability: [Chorophyll]
+moves:
+    - [solarbeam]
+    - [weather ball]
+    - [sleep powder]
+    - [sunny day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 36, atk: 0, def: 4, spA: 252, spD: 12, spe: 204}
+level: 50

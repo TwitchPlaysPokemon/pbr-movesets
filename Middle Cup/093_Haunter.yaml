@@ -1,0 +1,43 @@
+species: Haunter
+setname: Offensive
+tags: [middlecup]
+item: [Choice Scarf, Life Orb]
+ability: [levitate]
+moves:
+    - [sludge bomb]
+    - [shadow ball]
+    - [Thunderbolt, energy ball, psychic, destiny bond]
+    - [trick, explosion]
+separations:
+    - [trick, life orb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [dusk]
+nature: timid
+ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 50
+---
+species: Haunter
+setname: Utility
+tags: [middlecup]
+item: [Black Sludge]
+ability: [levitate]
+moves:
+    - [sludge bomb]
+    - [shadow ball]
+    - [Will-o-wisp, disable]
+    - [Taunt, Substitute]
+separations:
+    - [disable, taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [dusk]
+nature: timid
+ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 50

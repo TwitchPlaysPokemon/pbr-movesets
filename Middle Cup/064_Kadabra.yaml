@@ -1,0 +1,39 @@
+species: Kadabra
+setname: Offensive
+tags: [middlecup]
+item: [Focus Sash]
+ability: [Magic Guard]
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Thunder Wave, Taunt]
+    - [Encore, Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Quick]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 50
+---
+species: Kadabra
+setname: Scarf
+tags: [middlecup]
+item: [Choice Scarf]
+ability: [Magic Guard]
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Energy Ball, Hidden Power]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Quick]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 4, atk: 0, def: 4, spA: 248, spD: 0, spe: 252}
+level: 50

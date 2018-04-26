@@ -1,0 +1,43 @@
+species: Magneton
+setname: Tank
+tags: [middlecup]
+item: [Wide Lens, Light Clay, Berry Juice]
+ability: [magnet pull]
+moves:
+    - [Shock Wave]
+    - [Mirror Shot]
+    - [Toxic, Metal Sound]
+    - [Magic Coat, Swagger, Reflect, Light Screen, Recycle]
+combinations:
+    - [berry juice, recycle]
+    - [light clay, reflect]
+    - [light clay, light screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 96, spA: 0, spD: 96, spe: 0}
+level: 50
+---
+species: Magneton
+setname: Gravity
+tags: [middlecup]
+item: [Iron Plate]
+ability: [magnet pull]
+moves:
+    - [Zap Cannon, Thunder]
+    - [Mirror Shot]
+    - [Hidden Power]
+    - [Gravity]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 0, def: 60, spA: 4, spD: 76, spe: 252}
+level: 50

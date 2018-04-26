@@ -1,0 +1,41 @@
+species: Electabuzz
+setname: RainDance
+tags: [middlecup]
+item: [Damp Rock]
+ability: [Static]
+moves:
+    - [Thunder]
+    - [Hidden Power]
+    - [Thunder Wave, Light Screen]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [quick]
+nature: Timid
+ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 156, atk: 0, def: 0, spA: 100, spD: 0, spe: 252}
+level: 50
+---
+species: Electabuzz
+setname: Mixed
+tags: [middlecup]
+item: [Expert Belt]
+ability: [Motor drive]
+moves:
+    - [Thunderbolt]
+    - [Focus Blast, cross chop, psychic]
+    - [Ice Punch, Fire Punch]
+    - [Hidden Power]
+separations:
+    - [psychic, ice punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [quick]
+nature: hasty
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 92, def: 0, spA: 164, spD: 0, spe: 252}
+level: 50

@@ -1,0 +1,63 @@
+species: Seadra
+setname: DragonDance
+tags: [middlecup]
+item: [Leichi Berry]
+ability: [Sniper]
+moves:
+    - [waterfall]
+    - [outrage, bounce]
+    - [substitute]
+    - [dragon dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Dive]
+nature: adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 236, atk: 252, def: 4, spA: 0, spD: 12, spe: 4}
+level: 50
+---
+species: Seadra
+setname: Special
+tags: [middlecup]
+item: [Nevermeltice, scope lens, cheri berry]
+ability: [poison point, sniper, damp]
+moves:
+    - [surf]
+    - [blizzard, ice beam]
+    - [dragon pulse, flash cannon, signal beam]
+    - [hail, focus energy, agility]
+combinations:
+    - [focus energy, scope lens]
+    - [nevermeltice, hail, blizzard]
+    - [cheri berry, agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 144, atk: 0, def: 0, spA: 92, spD: 100, spe: 172}
+level: 50
+---
+species: Seadra
+setname: Defensive
+tags: [middlecup]
+item: [Jaboca Berry]
+ability: [Poison Point]
+moves:
+    - [Dive, Brine]
+    - [Bounce, Icy Wind]
+    - [dragon rage]
+    - [haze]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Dive]
+nature: lax
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 4}
+level: 50

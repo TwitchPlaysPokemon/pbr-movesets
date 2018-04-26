@@ -1,0 +1,65 @@
+species: Machoke
+setname: NoGuard
+tags: [middlecup]
+item: [lum berry]
+ability: [No Guard]
+moves:
+    - [Dynamic Punch]
+    - [Payback]
+    - [Bullet Punch, Thunderpunch]
+    - [Substitute, Thunderpunch]
+separations:
+    - [thunderpunch, thunderpunch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [timer]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 92, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 50
+---
+species: Machoke
+setname: Guts
+tags: [middlecup]
+item: [toxic orb]
+ability: [guts]
+moves:
+    - [Brick Break]
+    - [Earthquake, Rock Slide, Poison Jab, Ice Punch]
+    - [Bullet Punch]
+    - [Bulk up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [timer]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 0, spD: 252, spe: 252}
+level: 50
+---
+species: Machoke
+setname: SubPunch
+tags: [middlecup]
+item: [leftovers]
+ability: [Steadfast]
+moves:
+    - [Focus Punch]
+    - [Fire Punch, thunderpunch, ice punch]
+    - [Fire Punch, thunderpunch, ice punch]
+    - [Substitute]
+separations:
+    - [thunderpunch, thunderpunch]
+    - [Fire Punch, Fire Punch]
+    - [Ice Punch, ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [timer]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 80, spA: 0, spD: 76, spe: 100}
+level: 50

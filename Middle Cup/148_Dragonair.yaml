@@ -1,0 +1,66 @@
+species: Dragonair
+setname: DragonDance
+tags: [middlecup]
+item: [Leftovers]
+ability: [Shed Skin]
+moves:
+    - [Outrage]
+    - [Waterfall]
+    - [Substitute]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 68, atk: 252, def: 36, spA: 0, spD: 12, spe: 140}
+level: 50
+---
+species: Dragonair
+setname: Specs
+tags: [middlecup]
+item: [Choice Specs]
+ability: [Marvel Scale]
+moves:
+    - [Draco Meteor]
+    - [dragon Pulse]
+    - [Flamethrower, Ice Beam, Thunderbolt, Surf]
+    - [Flamethrower, Ice Beam, Thunderbolt, Surf]
+separations:
+    - [Flamethrower, Flamethrower]
+    - [Ice Beam, Ice Beam]
+    - [Thunderbolt, Thunderbolt]
+    - [Surf, Surf]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 116, spA: 0, spD: 140, spe: 252}
+level: 50
+---
+species: Dragonair
+setname: Mixed
+tags: [middlecup]
+item: [Muscle Band]
+ability: [Shed Skin, Marvel Scale]
+moves:
+    - [Draco Meteor]
+    - [Aqua Tail, Fire Blast]
+    - [Extremespeed]
+    - [Aqua Jet, Thunderbolt]
+separations:
+    - [aqua jet, aqua tail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 20, atk: 164, def: 36, spA: 196, spD: 20, spe: 68}
+level: 50

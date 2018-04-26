@@ -1,0 +1,39 @@
+species: Graveler
+setname: Rollout
+tags: [middlecup]
+item: [Stone Plate]
+ability: [Sand Veil]
+moves:
+    - [Magnitude]
+    - [Rollout]
+    - [defense Curl]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Timer]
+nature: adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 156, atk: 252, def: 0, spA: 0, spD: 0, spe: 100}
+level: 50
+---
+species: Graveler
+setname: Rocks
+tags: [middlecup]
+item: [Custap Berry]
+ability: [Sand Veil]
+moves:
+    - [Earthquake]
+    - [Rock Blast]
+    - [Stealth Rock]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Timer]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 108, def: 0, spA: 0, spD: 148, spe: 0}
+level: 50
