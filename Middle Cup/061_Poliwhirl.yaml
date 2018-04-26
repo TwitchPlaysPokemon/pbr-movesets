@@ -29,7 +29,7 @@ moves:
     - [Psychic, Ice Beam, Ice Punch]
     - [Rain Dance]
 separations:
-	- [waterfall, ice punch]
+    - [waterfall, ice punch]
 gender: [m, f]
 happiness: 255
 biddable: True
