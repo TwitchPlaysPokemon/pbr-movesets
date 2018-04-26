@@ -1,0 +1,42 @@
+species: Combusken
+setname: BatonPass
+tags: [middlecup]
+item: [Leichi Berry]
+ability: [Speed Boost]
+moves:
+    - [Flare Blitz]
+    - [High Jump Kick]
+    - [Substitute, Swords Dance]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 92, atk: 4, def: 156, spA: 0, spD: 140, spe: 116}
+level: 50
+---
+species: Combusken
+setname: Mixed
+tags: [middlecup]
+item: [Life Orb]
+ability: [Speed Boost, Blaze]
+moves:
+    - [Focus Blast]
+    - [Flare Blitz]
+    - [Thunderpunch, Rock Slide, Night Slash, Hidden Power]
+    - [Protect]
+combinations:
+    - [speed boost, protect]
+    - [blaze, agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poke]
+nature: Rash
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 224, def: 0, spA: 124, spD: 0, spe: 156}
+level: 50

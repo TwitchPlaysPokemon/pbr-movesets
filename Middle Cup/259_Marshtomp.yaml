@@ -1,0 +1,41 @@
+species: Marshtomp
+setname: Curse
+tags: [middlecup]
+item: [Rindo Berry]
+ability: [Torrent]
+moves:
+    - [Earthquake]
+    - [Aqua Tail, Waterfall]
+    - [Avalanche, Brick Break, Rock Slide]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 124, atk: 76, def: 76, spA: 0, spD: 228, spe: 4}
+level: 50
+---
+species: Marshtomp
+setname: Defensive
+tags: [middlecup]
+item: [Leftovers]
+ability: [Torrent]
+moves:
+    - [Earthquake, Earth Power]
+    - [Surf, Waterfall]
+    - [Endeavor, Yawn]
+    - [Toxic, counter, mirror coat, stealth rock]
+separations:
+    - [yawn, toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 188, spA: 0, spD: 76, spe: 0}
+level: 50

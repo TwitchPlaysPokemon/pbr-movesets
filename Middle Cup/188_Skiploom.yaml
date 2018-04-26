@@ -1,0 +1,39 @@
+species: Skiploom
+setname: Special
+tags: [middlecup]
+item: [Meadow Plate]
+ability: [Chorophyll]
+moves:
+    - [Solarbeam]
+    - [Hidden Power]
+    - [Silver Wind, Confusion]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Timid
+ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 31}
+evs: {hp: 176, atk: 0, def: 0, spA: 252, spD: 0, spe: 80}
+level: 50
+---
+species: Skiploom
+setname: Physical
+tags: [middlecup]
+item: [Focus Sash]
+ability: [Leaf Guard]
+moves:
+    - [Seed Bomb]
+    - [Return]
+    - [Swords Dance]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+level: 50

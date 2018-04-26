@@ -1,0 +1,22 @@
+species: Silcoon
+setname: BatonPass
+tags: [middlecup]
+item: [Leftovers]
+ability: [Speed Boost]
+moves:
+    - [Attack Order, Bug Buzz]
+    - [Bulk Up, Calm Mind]
+    - [Protect]
+    - [Baton Pass]
+combinations:
+    - [attack order, bulk up]
+    - [bug buzz, calm mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 4, spe: 252}
+level: 50

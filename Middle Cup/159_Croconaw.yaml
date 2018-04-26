@@ -1,0 +1,59 @@
+species: Croconaw
+setname: DragonDance
+tags: [middlecup]
+item: [Expert Belt]
+ability: [Torrent]
+moves:
+    - [Waterfall]
+    - [Crunch, Rock Slide]
+    - [Ice Punch]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 56, atk: 252, def: 0, spA: 0, spD: 52, spe: 148}
+level: 50
+---
+species: Croconaw
+setname: SwordsDance
+tags: [middlecup]
+item: [Splash Plate]
+ability: [Torrent]
+moves:
+    - [Aqua Tail]
+    - [Superpower, double edge]
+    - [Aqua Jet]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116, atk: 252, def: 0, spA: 0, spD: 0, spe: 140}
+level: 50
+---
+species: Croconaw
+setname: Mixed
+tags: [middlecup]
+item: [Expert Belt]
+ability: [Torrent]
+moves:
+    - [Hydro Pump]
+    - [Superpower]
+    - [Ice Beam, Dragon Claw]
+    - [Crunch, Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Poke]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 84, def: 4, spA: 248, spD: 0, spe: 172}
+level: 50

@@ -1,0 +1,43 @@
+species: Quilava
+setname: Scarf
+tags: [middlecup]
+item: [Choice Scarf]
+ability: [Blaze]
+moves:
+    - [Eruption]
+    - [Flare Blitz]
+    - [Double edge, brick Break]
+    - [extrasensory, hidden power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Naive
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 76, spD: 0, spe: 180}
+level: 50
+---
+species: Quilava
+setname: Mixed
+tags: [middlecup]
+item: [Leftovers, Shell Bell]
+ability: [Blaze]
+moves:
+    - [Lava Plume]
+    - [Dig, nature power, extrasensory]
+    - [rollout, focus punch, quick attack]
+    - [defense curl, howl, substitute]
+combinations:
+    - [rollout, defense curl]
+    - [substitute, focus punch]
+    - [howl, quick attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 76, spD: 0, spe: 180}
+level: 50

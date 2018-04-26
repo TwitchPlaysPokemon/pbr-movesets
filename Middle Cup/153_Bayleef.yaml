@@ -1,0 +1,63 @@
+species: Bayleef
+setname: Special
+tags: [middlecup]
+item: [Life Orb, Choice Specs]
+ability: [Overgrow]
+moves:
+    - [Leaf Storm]
+    - [Wring Out]
+    - [Ancientpower, Energy Ball]
+    - [Synthesis, hidden power]
+separations:
+    - [choice specs, synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 188, atk: 0, def: 4, spA: 216, spD: 76, spe: 24}
+level: 50
+---
+species: Bayleef
+setname: Defensive
+tags: [middlecup]
+item: [Light Clay, Big Root]
+ability: [Overgrow]
+moves:
+    - [Giga Drain]
+    - [Ancientpower, hidden power]
+    - [Reflect, Light Screen]
+    - [Leech Seed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 148, atk: 0, def: 196, spA: 52, spD: 108, spe: 4}
+level: 50
+---
+species: Bayleef
+setname: SwordsDance
+tags: [middlecup]
+item: [Salac Berry, Miracle Seed]
+ability: [Overgrow]
+moves:
+    - [Seed Bomb]
+    - [Return, Body Slam]
+    - [Substitute, Natural gift, Grasswhistle]
+    - [Swords Dance]
+combinations:
+    - [salac berry, natural gift, body slam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 60, spA: 0, spD: 60, spe: 132}
+level: 50

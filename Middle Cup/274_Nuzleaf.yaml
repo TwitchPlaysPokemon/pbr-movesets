@@ -1,0 +1,39 @@
+species: Nuzleaf
+setname: SwordsDance
+tags: [middlecup]
+item: [Life Orb]
+ability: [Chlorophyll]
+moves:
+    - [Leaf Blade]
+    - [Sucker Punch]
+    - [Brick Break, Rock Slide]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 50
+---
+species: Nuzleaf
+setname: NastyPlot
+tags: [middlecup]
+item: [Life Orb]
+ability: [Chlorophyll]
+moves:
+    - [Energy Ball]
+    - [Dark Pulse]
+    - [Extrasensory, Hidden Power]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Timid
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 50

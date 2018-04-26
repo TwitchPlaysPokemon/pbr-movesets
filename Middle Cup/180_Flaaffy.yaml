@@ -1,0 +1,39 @@
+species: Flaaffy
+setname: Agility
+tags: [middlecup]
+item: [Zap Plate]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Signal Beam, Focus Blast]
+    - [Hidden Power, Dragon Pulse]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 0, spA: 252, spD: 0, spe: 96}
+level: 50
+---
+species: Flaaffy
+setname: Support
+tags: [middlecup]
+item: [Leftovers]
+ability: [Static]
+moves:
+    - [Discharge]
+    - [hidden power]
+    - [Reflect, Light Screen]
+    - [Wish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Repeat]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 76, spA: 48, spD: 76, spe: 56}
+level: 50

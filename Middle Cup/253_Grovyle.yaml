@@ -1,0 +1,41 @@
+species: Grovyle
+setname: SubSeed
+tags: [middlecup]
+item: [Leftovers, Petaya Berry]
+ability: [Overgrow, unburden]
+moves:
+    - [Energy Ball]
+    - [Hidden Power]
+    - [Leech Seed, Endeavor]
+    - [Substitute]
+combinations:
+    - [petaya berry, unburden]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 28, atk: 0, def: 4, spA: 252, spD: 4, spe: 220}
+level: 50
+---
+species: Grovyle
+setname: PowerHerb
+tags: [middlecup]
+item: [Power Herb]
+ability: [Overgrow]
+moves:
+    - [Solarbeam]
+    - [Brick Break, Hidden Power]
+    - [Thunderpunch, Rock Slide]
+    - [Giga Drain, Pursuit, Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 232, def: 0, spA: 128, spD: 0, spe: 148}
+level: 50

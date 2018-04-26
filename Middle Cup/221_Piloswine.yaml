@@ -1,0 +1,39 @@
+species: Piloswine
+setname: Rocks
+tags: [middlecup]
+item: [Rindo Berry]
+ability: [Thick Fat]
+moves:
+    - [Earthquake]
+    - [Superpower, Stone Edge]
+    - [Ice Shard]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Premier]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 196, atk: 76, def: 36, spA: 0, spD: 36, spe: 0}
+level: 50
+---
+species: Piloswine
+setname: Hail
+tags: [middlecup]
+item: [Icy Rock]
+ability: [Snow Cloak]
+moves:
+    - [Blizzard]
+    - [Earth Power]
+    - [Substitute]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Premier]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 212, atk: 0, def: 36, spA: 224, spD: 36, spe: 0}
+level: 50

@@ -1,0 +1,39 @@
+species: Marill
+setname: Belly Drum
+tags: [middlecup]
+item: [Sitrus Berry]
+ability: [Huge Power]
+moves:
+    - [Aqua Tail, Waterfall]
+    - [Ice Punch, superpower, body slam]
+    - [Aqua Jet]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 164, atk: 252, def: 44, spA: 0, spD: 44, spe: 4}
+level: 50
+---
+species: Marill
+setname: Band
+tags: [middlecup]
+item: [Choice Band]
+ability: [Huge Power]
+moves:
+    - [Waterfall, Aqua Tail]
+    - [Superpower, ice punch]
+    - [return]
+    - [Aqua Jet]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Dive]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 192, def: 0, spA: 0, spD: 0, spe: 252}
+level: 50

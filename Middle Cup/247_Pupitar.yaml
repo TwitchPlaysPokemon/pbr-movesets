@@ -1,0 +1,43 @@
+species: Pupitar
+setname: DragonDance
+tags: [middlecup]
+item: [White Herb]
+ability: [Shed Skin]
+moves:
+    - [Stone Edge, Rock Slide]
+    - [Earthquake, Crunch]
+    - [Superpower, taunt, iron head]
+    - [Dragon Dance]
+separations:
+    - [Rock slide, Crunch]
+combinations:
+    - [taunt, earthquake]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 44, spA: 0, spD: 44, spe: 84}
+level: 50
+---
+species: Pupitar
+setname: Sandstorm
+tags: [middlecup]
+item: [Smooth Rock]
+ability: [Shed Skin]
+moves:
+    - [Dig]
+    - [Rock Tomb, Stone Edge]
+    - [Torment, Toxic, Iron defense]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 12, spA: 0, spD: 236, spe: 4}
+level: 50

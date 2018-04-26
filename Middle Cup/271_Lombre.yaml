@@ -1,0 +1,61 @@
+species: Lombre
+setname: SwiftSwim
+tags: [middlecup]
+item: [Expert Belt]
+ability: [Swift Swim]
+moves:
+    - [Hydro Pump]
+    - [Energy Ball]
+    - [Ice Beam]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 116, spA: 252, spD: 72, spe: 68}
+level: 50
+---
+species: Lombre
+setname: RainDish
+tags: [middlecup]
+item: [Damp Rock]
+ability: [Rain Dish]
+moves:
+    - [Dive]
+    - [Giga Drain]
+    - [Leech]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 204, atk: 4, def: 140, spA: 4, spD: 156, spe: 0}
+level: 50
+---
+species: Lombre
+setname: Mixed
+tags: [middlecup]
+item: [Life Orb]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Energy Ball]
+    - [Ice Beam, Zen Headbutt, nature power]
+    - [fire punch, ice punch, thuderpunch]
+separations:
+    - [Ice Beam, Ice punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 28, atk: 252, def: 0, spA: 56, spD: 0, spe: 172}
+level: 50

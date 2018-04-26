@@ -1,0 +1,93 @@
+species: Porygon2
+setname: Support
+tags: [middlecup]
+item: [Enigma Berry]
+ability: [Trace]
+moves:
+    - [Tri Attack]
+    - [Shadow Ball, Zen Headbutt, Iron Tail]
+    - [Conversion2]
+    - [Thunder Wave, Magic Coat]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 220, atk: 116, def: 36, spA: 0, spD: 60, spe: 0}
+level: 50
+---
+species: Porygon2
+setname: Terrain
+tags: [middlecup]
+item: [Wise Glasses]
+ability: [Download]
+moves:
+    - [Blizzard, Ice Beam, Psychic]
+    - [Zap Cannon, Charge Beam, Thunderbolt, Shadow Ball]
+    - [Swagger, toxic, Iron Tail, Secret Power]
+    - [Gravity, Trick Room]
+combinations:
+    - [secret power, trick room]
+separations:
+    - [toxic, zap cannon]
+    - [trick room, blizzard]
+    - [trick room, zap cannon]
+    - [trick room, Charge Beam
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+level: 50
+---
+species: Porygon2
+setname: Conversion
+tags: [middlecup]
+item: [Spooky Plate, Mind Plate, Zap Plate, Icicle Plate, Insect Plate]
+ability: [Download, Trace]
+moves:
+    - [Shadow Ball, Psychic, Thunderbolt, Ice Beam, Signal Beam]
+    - [Return]
+    - [Sharpen]
+    - [Conversion]
+combinations:
+    - [Spooky Plate, Shadow Ball]
+    - [Mind Plate, Psychic]
+    - [zap plate, thunderbolt]
+    - [icicle plate, ice beam]
+    - [insect plate, signal beam]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 192, def: 0, spA: 0, spD: 0, spe: 236}
+level: 50
+---
+species: Porygon2
+setname: Scarf
+tags: [middlecup]
+item: [Choice Scarf]
+ability: [Download]
+moves:
+    - [Secret Power, Facade]
+    - [Thunderbolt, Ice Beam, PSychic, Shadow Ball]
+    - [Thunderbolt, Ice Beam, PSychic, Shadow Ball]
+    - [Trick]
+separations:
+    - [thunderbolt, thunderbolt]
+    - [ice beam, ice beam]
+    - [psychic, psychic]
+    - [shadow ball, shadow ball]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 36, def: 0, spA: 36, spD: 0, spe: 252}
+level: 50
