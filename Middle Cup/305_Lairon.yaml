@@ -1,0 +1,41 @@
+species: Lairon
+setname: Rock Polish
+tags: [middlecup]
+item: [Lum Berry]
+ability: [Rock Head]
+moves:
+    - [Head Smash]
+    - [Iron Head, Double Edge, Earthquake]
+    - [Double Edge, Superpower, Dragon Rush]
+    - [Rock Polish]
+separations:
+    - [double edge, double edge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 132, atk: 120, def: 0, spA: 0, spD: 116, spe: 140}
+level: 50
+---
+species: Lairon
+setname: Tank
+tags: [middlecup]
+item: [Shuca Berry, Chople Berry]
+ability: [Rock Head]
+moves:
+    - [Head Smash]
+    - [Iron Head]
+    - [Stealth Rock, Toxic]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 28, spA: 0, spD: 228, spe: 0}
+level: 50

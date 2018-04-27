@@ -1,0 +1,61 @@
+species: Vibrava
+setname: Choice
+tags: [middlecup]
+item: [Choice Scarf, Choice Band]
+ability: [Levitate]
+moves:
+    - [Outrage]
+    - [Earthquake]
+    - [Fire Blast, Stone Edge]
+    - [U-Turn]
+separations:
+    - [Choice Band, Fire Blast]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+level: 50
+---
+species: Vibrava
+setname: Stall
+tags: [middlecup]
+item: [Leftovers]
+ability: [Levitate]
+moves:
+    - [Earthquake]
+    - [Fire Blast]
+    - [Toxic]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Great]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 164, spA: 4, spD: 20, spe: 68}
+level: 50
+---
+species: Vibrava
+setname: Mixed
+tags: [middlecup]
+item: [Life Orb]
+ability: [Levitate]
+moves:
+    - [Draco Meteor]
+    - [Earthquake]
+    - [Fire Blast]
+    - [U-Turn, Stone Edge]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 50

@@ -1,0 +1,39 @@
+species: Kirlia
+setname: Specs
+tags: [middlecup]
+item: [Choice Specs]
+ability: [Trace]
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [heal]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 50
+---
+species: Kirlia
+setname: Sash
+tags: [middlecup]
+item: [Focus Sash]
+ability: [Trace]
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Encore, Thunder Wave]
+    - [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [heal]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 50

@@ -1,0 +1,39 @@
+species: Loudred
+setname: Mixed
+tags: [middlecup]
+item: [Life Orb]
+ability: [Scrappy]
+moves:
+    - [Hyper Voice, Return]
+    - [Hammer Arm]
+    - [Fire Blast, Fire Punch]
+    - [Surf]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 60, spA: 164, spD: 32, spe: 0}
+level: 50
+---
+species: Loudred
+setname: Salts
+tags: [middlecup]
+item: [Light Ball]
+ability: [Scrappy]
+moves:
+    - [Smelling Salts]
+    - [Rock Slide]
+    - [Force Palm]
+    - [Fling]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Heal]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+level: 50

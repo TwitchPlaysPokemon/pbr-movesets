@@ -1,0 +1,39 @@
+species: Vigoroth
+setname: Choice
+tags: [middlecup]
+item: [Choice Scarf, Choice Band]
+ability: [Vital Spirit]
+moves:
+    - [Double Edge]
+    - [Earthquake]
+    - [Hammer Arm, Focus Punch]
+    - [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+level: 50
+---
+species: Vigoroth
+setname: Support
+tags: [middlecup]
+item: [Chople berry, sitrus berry]
+ability: [Vital Spirit]
+moves:
+    - [Facade]
+    - [Night Slash]
+    - [Yawn]
+    - [Slack Off]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Premier]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 108, spA: 0, spD: 140, spe: 8}
+level: 50

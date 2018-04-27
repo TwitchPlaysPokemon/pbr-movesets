@@ -1,0 +1,49 @@
+species: Roselia
+setname: Swords
+tags: [middlecup]
+item: [Berry Juice, Hondew Berry]
+ability: [Natural Cure]
+moves:
+    - [Poison Jab, Seed bomb]
+    - [Razor Leaf, Secret Power, Natural Gift]
+    - [Swords Dance]
+    - [Sleep Powder]
+combinations:
+    - [natural gift, hondew berry]
+separations:
+    - [razor leaf, seed bomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Cherish]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+level: 50
+---
+species: Roselia
+setname: Special
+tags: [middlecup]
+item: [Expert Belt]
+ability: [Natural Cure, Poison Point, Leaf Guard]
+moves:
+    - [Giga Drain, solarbeam, energy Ball]
+    - [Sludge Bomb]
+    - [Shadow Ball, weather ball, extrasensory]
+    - [Spikes, Rest, Sunny Day, Rain Dance]
+combinations:
+    - [sunny day, leaf guard, solarbeam]
+separations:
+    - [rest, poison point]
+    - [weather ball, spikes]
+    - [weather ball, rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 0, def: 116, spA: 0, spD: 0, spe: 252}
+level: 50
