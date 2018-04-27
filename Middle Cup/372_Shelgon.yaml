@@ -1,0 +1,59 @@
+species: Shelgon
+setname: Dance
+tags: [middlecup]
+item: [Perism Berry]
+ability: [Rock Head]
+moves:
+    - [Outrage]
+    - [Double Edge]
+    - [Substitute]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 4, def: 156, spA: 0, spD: 4, spe: 144}
+level: 50
+---
+species: Shelgon
+setname: Specs
+tags: [middlecup]
+item: [Choice Specs]
+ability: [Rock Head]
+moves:
+    - [Draco Meteor]
+    - [Fire Blast]
+    - [Hydro Pump]
+    - [Hidden Power, hyper voice]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Ultra]
+nature: Calm
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 76, atk: 0, def: 4, spA: 188, spD: 156, spe: 84}
+level: 50
+---
+species: Shelgon
+setname: Defensive
+tags: [middlecup]
+item: [Lum Berry]
+ability: [Rock Head]
+moves:
+    - [Dragon Rage]
+    - [Toxic]
+    - [Substitute, roar]
+    - [wish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 156, spA: 0, spD: 236, spe: 76}
+level: 50

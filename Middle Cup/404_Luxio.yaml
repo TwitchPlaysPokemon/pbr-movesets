@@ -1,0 +1,39 @@
+species: Luxio
+setname: Defensive
+tags: [middlecup]
+item: [leftovers]
+ability: [Intimidate]
+moves:
+    - [discharge]
+    - [Hidden Power]
+    - [Toxic]
+    - [Protect, Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Quick]
+nature: Timid
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 192, atk: 0, def: 68, spA: 0, spD: 132, spe: 40}
+level: 50
+---
+species: Luxio
+setname: Mixed
+tags: [middlecup]
+item: [Expert Belt]
+ability: [Intimidate]
+moves:
+    - [thunderbolt]
+    - [crunch]
+    - [ice fang]
+    - [hidden power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Quick]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 104, def: 0, spA: 248, spD: 0, spe: 156}
+level: 50

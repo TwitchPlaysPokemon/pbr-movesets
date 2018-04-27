@@ -1,0 +1,59 @@
+species: Dusclops
+setname: CalmMind
+tags: [middlecup]
+item: [Spooky Plate]
+ability: [Pressure]
+moves:
+    - [Shadow Ball]
+    - [Ice Beam, Hidden Power]
+    - [Will-O-Wisp]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Modest
+ivs: {hp: 30, atk: 30, def: 31, spA: 30, spD: 30, spe: 30}
+evs: {hp: 248, atk: 0, def: 12, spA: 88, spD: 16, spe: 0}
+level: 50
+---
+species: Dusclops
+setname: Wall
+tags: [middlecup]
+item: [Berry Juice]
+ability: [Pressure]
+moves:
+    - [Shadow Ball]
+    - [Seismic Toss]
+    - [Will-O-Wisp]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 180, spA: 76, spD: 252, spe: 0}
+level: 50
+---
+species: Dusclops
+setname: TrickRoom
+tags: [middlecup]
+item: [Life Orb, Expert Belt]
+ability: [Pressure]
+moves:
+    - [Shadow Punch]
+    - [Earthquake, Brick Break]
+    - [ice punch, fire punch, thunderpunch]
+    - [trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dusk]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 28, atk: 252, def: 36, spA: 0, spD: 36, spe: 0}
+level: 50

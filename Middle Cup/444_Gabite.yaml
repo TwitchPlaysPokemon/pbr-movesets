@@ -1,0 +1,61 @@
+species: Gabite
+setname: SwordsDance
+tags: [middlecup]
+item: [Lum Berry, Yache Berry]
+ability: [Sand Veil]
+moves:
+    - [Earthquake]
+    - [dragon claw]
+    - [Shadow Claw, Stone Edge]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 76, def: 84, spA: 0, spD: 92, spe: 252}
+level: 50
+---
+species: Gabite
+setname: Scarf
+tags: [middlecup]
+item: [Choice Scarf]
+ability: [Sand veil]
+moves:
+    - [Outrage, Draco Meteor]
+    - [Earthquake]
+    - [Stone Edge, Fire Blast]
+    - [Fire Fang, Double Edge]
+separations:
+    - [fire fang, fire blast]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Ultra]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 116, def: 0, spA: 236, spD: 0, spe: 156}
+level: 50
+---
+species: Gabite
+setname: Defensive
+tags: [middlecup]
+item: [Jaboca Berry]
+ability: [Rough Skin]
+moves:
+    - [Dragon Claw]
+    - [Dig]
+    - [Toxic]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 172, spA: 0, spD: 0, spe: 84}
+level: 50

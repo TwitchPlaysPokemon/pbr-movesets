@@ -1,0 +1,44 @@
+species: Metang
+setname: Agility
+tags: [middlecup]
+item: [Wide Lens, Fist Plate, Zap Plate, Icicle Plate, Stone Plate]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash]
+    - [Zen Headbutt]
+    - [Earthquake, Brick Break, Thunderpunch, Ice Punch, Rock slide]
+    - [Agility]
+combinations:
+    - [fist plate, brick break]
+    - [zap plate, thunderpunch]
+    - [ice punch, icicle plate]
+    - [stone plate, rock slide]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 108, atk: 252, def: 0, spA: 0, spD: 0, spe: 148}
+level: 50
+---
+species: Metang
+setname: Tank
+tags: [middlecup]
+item: [Occa Berry, Shuca Berry]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash]
+    - [Earthquake, Zen Headbutt, ThunderPunch]
+    - [Bullet Punch]
+    - [stealth rock, toxic, explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 76, spA: 0, spD: 176, spe: 0}
+level: 50

@@ -1,0 +1,68 @@
+species: Sealeo
+setname: Hail
+tags: [middlecup]
+item: [Icy Rock]
+ability: [Ice Body]
+moves:
+    - [Blizzard]
+    - [Dive, Surf]
+    - [Signal Beam, Hidden Power]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Quiet
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 0, spe: 0}
+level: 50
+---
+species: Sealeo
+setname: Defensive
+tags: [middlecup]
+item: [Ganlon Berry, Apicot Berry]
+ability: [Thick Fat]
+moves:
+    - [Brine]
+    - [Icy Wind, spit up]
+    - [Super Fang, Swallow]
+    - [yawn, stockpile, endure]
+separations:
+    - [spit up, yawn]
+    - [spit up, endure]
+    - [swallow, endure]
+    - [swallow, yawn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 76, spA: 76, spD: 76, spe: 0}
+level: 50
+---
+species: Sealeo
+setname: Physical
+tags: [middlecup]
+item: [Berry Juice]
+ability: [Thick Fat]
+moves:
+    - [Aqua tail]
+    - [Ice Ball, return]
+    - [earthquake, rock slide, body slam, rollout]
+    - [defense curl, curse]
+separations:
+    - [return, body slam]
+    - [rollout, curse]
+    - [return, defense curl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Dive]
+nature: Quiet
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 0, spe: 0}
+level: 50

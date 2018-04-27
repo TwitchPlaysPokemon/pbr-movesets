@@ -1,0 +1,59 @@
+species: Grotle
+setname: Curse
+tags: [middlecup]
+item: [Quick Claw]
+ability: [Shell Armor]
+moves:
+    - [Seed Bomb]
+    - [Crunch, Body Slam]
+    - [Leech Seed]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+level: 50
+---
+species: Grotle
+setname: SwordsDance
+tags: [middlecup]
+item: [Salac Berry]
+ability: [Overgrow]
+moves:
+    - [Seed Bomb]
+    - [Superpower, Return]
+    - [Crunch]
+    - [Swords dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 180, def: 0, spA: 0, spD: 76, spe: 252}
+level: 50
+---
+species: Grotle
+setname: Defensive
+tags: [middlecup]
+item: [Occa Berry, Kebia Berry]
+ability: [Shell Armor]
+moves:
+    - [Seed Bomb]
+    - [Earth power, superpower]
+    - [Synthesis]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 28, def: 76, spA: 76, spD: 76, spe: 0}
+level: 50

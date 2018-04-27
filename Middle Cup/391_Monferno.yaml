@@ -1,0 +1,59 @@
+species: Monferno
+setname: Band
+tags: [middlecup]
+item: [Choice Band]
+ability: [Iron fist]
+moves:
+    - [Fire Punch]
+    - [mach punch, sky uppercut]
+    - [thunderpunch, rock slide, shadow claw]
+    - [u-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+level: 50
+---
+species: Monferno
+setname: Mixed
+tags: [middlecup]
+item: [Life Orb]
+ability: [Blaze]
+moves:
+    - [Close combat]
+    - [Flamethrower]
+    - [hidden power, vacuum wave]
+    - [nasty plot, u-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Poke]
+nature: Naive
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 92, def: 0, spA: 164, spD: 0, spe: 252}
+level: 50
+---
+species: Monferno
+setname: Defensive
+tags: [middlecup]
+item: [Leftovers]
+ability: [Blaze]
+moves:
+    - [Blaze Kick, Brick Break]
+    - [will-o-wisp]
+    - [taunt]
+    - [slack off]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 0, def: 88, spA: 0, spD: 124, spe: 48}
+level: 50
