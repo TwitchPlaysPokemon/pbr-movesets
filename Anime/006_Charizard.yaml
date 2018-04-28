@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Lonely
 ivs: 31
 evs: {hp: 4, atk: 204, def: 0, spA: 204, spD: 0, spe: 96}
-tags: [ash], [anime]
+tags: [ash, anime]

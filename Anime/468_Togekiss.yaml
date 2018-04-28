@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Brave
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ivs: 31
-tags: [dawn], [anime]
+tags: [dawn, anime]

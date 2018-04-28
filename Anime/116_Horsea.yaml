@@ -14,4 +14,4 @@ rarity: 1.0
 nature: Modest
 evs: {hp: 252, atk: , def: 252, spA: 252, spD: 252, spe: 252}
 ivs: 31
-tags: [misty], [anime]
+tags: [misty, anime]

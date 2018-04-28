@@ -12,4 +12,4 @@ rarity: 1.0
 nature: Naive
 evs: {hp: 0, atk: 0, def: 64, spA: 128, spD: 176, spe: 140}
 ivs: 31
-tags: [may], [anime]
+tags: [may, anime]

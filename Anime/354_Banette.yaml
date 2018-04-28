@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Rash
 evs: {hp: 0, atk: 116, def: 0, spA: 252, spD: 0, spe: 252}
 ivs: 31
-tags: [harley], [anime]
+tags: [harley, anime]

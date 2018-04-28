@@ -14,4 +14,4 @@ rarity: 1.0
 nature: Hasty
 evs: {hp: 0, atk: 252, def: 0, spA: 72, spD: 0, spe: 184}
 ivs: 31
-tags: [jimmy], [anime]
+tags: [jimmy, anime]

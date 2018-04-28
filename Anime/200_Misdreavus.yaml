@@ -17,4 +17,4 @@ rarity: 1.0
 nature: Bold
 evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 252}
 ivs: 31
-tags: [marina], [anime]
+tags: [marina, anime]

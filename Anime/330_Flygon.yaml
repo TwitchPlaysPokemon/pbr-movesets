@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Mild
 evs: {hp: 0, atk: 192, def: 88, spA: 252, spD: 0, spe: 0}
 ivs: 31
-tags: [drew], [anime]
+tags: [drew, anime]

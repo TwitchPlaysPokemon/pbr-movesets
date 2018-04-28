@@ -16,7 +16,7 @@ rarity: 1.0
 nature: Relaxed
 evs: {hp: 252, atk: 252, def: 12, spA: 252, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
-tags: [marina], [anime]
+tags: [marina, anime]
 ---
 species: Jigglypuff
 setname: Ursula
@@ -35,4 +35,4 @@ rarity: 1.0
 nature: Brave
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
-tags: [ursula], [anime]
+tags: [ursula, anime]

@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Adamant
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 40, spe: 216}
 ivs: 31
-tags: [tracey], [anime]
+tags: [tracey, anime]

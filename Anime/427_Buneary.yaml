@@ -14,4 +14,4 @@ rarity: 1.0
 nature: Gentle
 evs: {hp: 140, atk: 16, def: 0, spA: 252, spD: 24, spe: 76}
 ivs: 31
-tags: [dawn], [anime]
+tags: [dawn, anime]

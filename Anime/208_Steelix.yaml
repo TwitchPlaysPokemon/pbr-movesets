@@ -15,7 +15,7 @@ rarity: 1.0
 nature: Sassy
 evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
-tags: [brock], [anime]
+tags: [brock, anime]
 ---
 species: Steelix
 setname: Harrison
@@ -34,7 +34,7 @@ rarity: 1.0
 nature: Careful
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 252, spe: 0}
 ivs: 31
-tags: [harrison], [anime]
+tags: [harrison, anime]
 ---
 species: Steelix
 setname: Morrison
@@ -53,4 +53,4 @@ rarity: 1.0
 nature: Mild
 evs: {hp: 0, atk: 172, def: 36, spA: 252, spD: 48, spe: 0}
 ivs: 31
-tags: [morrison], [anime]
+tags: [morrison, anime]

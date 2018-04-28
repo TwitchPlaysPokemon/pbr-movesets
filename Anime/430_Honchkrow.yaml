@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Naive
 evs: {hp: 8, atk: 16, def: 0, spA: 236, spD: 0, spe: 248}
 ivs: 31
-tags: [paul], [anime]
+tags: [paul, anime]

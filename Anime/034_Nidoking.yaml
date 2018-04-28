@@ -14,4 +14,4 @@ rarity: 1.0
 nature: Rash
 evs: {hp: 212, atk: 252, def: 0, spA: 44, spD: 0, spe: 0}
 ivs: 31
-tags: [paul], [anime]
+tags: [paul, anime]

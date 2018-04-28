@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Rash
 evs: {hp: 12, atk: 244, def: 0, spA: 252, spD: 0, spe: 0}
 ivs: 31
-tags: [zoey], [anime]
+tags: [zoey, anime]

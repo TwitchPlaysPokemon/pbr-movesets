@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Relaxed
 ivs: 31
 evs: {hp: 216, atk: 0, def: 40, spA: 116, spD: 136, spe: 0}
-tags: [ash], [anime]
+tags: [ash, anime]

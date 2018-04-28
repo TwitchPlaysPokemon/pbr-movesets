@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Naughty
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
 ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
-tags: [drew], [anime]
+tags: [drew, anime]

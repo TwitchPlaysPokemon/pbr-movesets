@@ -16,4 +16,4 @@ rarity: 1.0
 nature: Hasty
 evs: {hp: 0, atk: 232, def: 0, spA: 24, spD: 0, spe: 252}
 ivs: 31
-tags: [ritchie], [anime]
+tags: [ritchie, anime]

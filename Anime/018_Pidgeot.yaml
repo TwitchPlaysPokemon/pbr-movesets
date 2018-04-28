@@ -15,7 +15,7 @@ rarity: 1.0
 nature: Adamant
 ivs: 31
 evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
-tags: [ash], [anime]
+tags: [ash, anime]
 ---
 species: Pidgeot
 setname: Solidad
@@ -34,4 +34,4 @@ rarity: 1.0
 nature: Naive
 ivs: 31
 evs: {hp: 52, atk: 172, def: 0, spA: 252, spD: 0, spe: 252}
-tags: [solidad], [anime]
+tags: [solidad, anime]

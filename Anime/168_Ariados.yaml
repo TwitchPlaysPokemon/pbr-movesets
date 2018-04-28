@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Hasty
 evs: {hp: 0, atk: 92, def: 252, spA: 252, spD: 0, spe: 252}
 ivs: 31
-tags: [harley], [anime]
+tags: [harley, anime]

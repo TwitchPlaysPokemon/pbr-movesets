@@ -17,4 +17,4 @@ rarity: 1.0
 nature: Mild
 evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
 ivs: 31
-tags: [ritchie], [anime]
+tags: [ritchie, anime]

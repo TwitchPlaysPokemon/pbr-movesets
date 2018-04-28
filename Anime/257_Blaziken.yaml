@@ -15,7 +15,7 @@ rarity: 1.0
 nature: Rash
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
 ivs: 31
-tags: [may], [anime]
+tags: [may, anime]
 ---
 species: Blaziken
 setname: Harrison
@@ -34,4 +34,4 @@ rarity: 1.0
 nature: Rash
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
 ivs: 31
-tags: [harrison], [anime]
+tags: [harrison, anime]

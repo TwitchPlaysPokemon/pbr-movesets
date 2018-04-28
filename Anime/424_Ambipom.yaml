@@ -14,4 +14,4 @@ rarity: 1.0
 nature: Naive
 evs: {hp: 100, atk: 252, def: 0, spA: 0, spD: 0, spe: 156}
 ivs: 31
-tags: [dawn], [anime]
+tags: [dawn, anime]

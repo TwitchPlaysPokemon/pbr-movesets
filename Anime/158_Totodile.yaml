@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Jolly
 evs: {hp: 8, atk: 136, def: 0, spA: 252, spD: 0, spe: 112}
 ivs: 31
-tags: [ash], [anime]
+tags: [ash, anime]

@@ -13,4 +13,4 @@ rarity: 1.0
 nature: Mild
 evs: {hp: 0, atk: 176, def: 44, spA: 252, spD: 36, spe: 0}
 ivs: 31
-tags: [morrison], [anime]
+tags: [morrison, anime]

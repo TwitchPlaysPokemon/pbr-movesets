@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Naive
 evs: {hp: 76, atk: 252, def: 0, spA: 64, spD: 0, spe: 192}
 ivs: 31
-tags: [morrison], [anime]
+tags: [morrison, anime]

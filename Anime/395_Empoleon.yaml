@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Quiet
 evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
 ivs: 31
-tags: [barry], [anime]
+tags: [barry, anime]

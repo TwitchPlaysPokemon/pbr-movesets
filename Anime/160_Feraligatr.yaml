@@ -16,4 +16,4 @@ rarity: 1.0
 nature: Adamant
 evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 ivs: 31
-tags: [marina], [anime]
+tags: [marina, anime]

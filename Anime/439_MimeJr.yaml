@@ -14,4 +14,4 @@ rarity: 1.0
 nature: Sassy
 evs: {hp: 0, atk: 252, def: 100, spA: 252, spD: 252, spe: 0}
 ivs: {hp: 30, atk: 31, def: 31, spA: 31, spD: 31, spe: 30}
-tags: [rocket], [anime]
+tags: [rocket, anime]

@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Modest
 evs: {hp: 148, atk: 0, def: 112, spA: 248, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 18, def: 31, spA: 22, spD: 31, spe: 17}
-tags: [zoey], [anime]
+tags: [zoey, anime]

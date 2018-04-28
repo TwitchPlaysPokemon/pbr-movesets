@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Quiet
 evs: {hp: 8, atk: 56, def: 0, spA: 252, spD: 0, spe: 192}
 ivs: 31
-tags: [paul], [anime]
+tags: [paul, anime]

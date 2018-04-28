@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Impish
 evs: {hp: 140, atk: 252, def: 4, spA: 252, spD: 0, spe: 252}
 ivs: 31
-tags: [dawn], [anime]
+tags: [dawn, anime]

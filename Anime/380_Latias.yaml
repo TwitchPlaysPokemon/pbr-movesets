@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Jolly
 evs: {hp: 12, atk: 244, def: 0, spA: 0, spD: 0, spe: 252}
 ivs: 31
-tags: [tobias], [anime]
+tags: [tobias, anime]

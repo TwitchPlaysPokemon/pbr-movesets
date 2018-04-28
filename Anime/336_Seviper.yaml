@@ -15,4 +15,4 @@ rarity: 1.0
 nature: Adamant
 evs: {hp: 56, atk: 252, def: 0, spA: 0, spD: 0, spe: 200}
 ivs: 31
-tags: [rocket], [anime]
+tags: [rocket, anime]

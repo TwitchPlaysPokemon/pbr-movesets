@@ -15,7 +15,7 @@ rarity: 1.0
 nature: Hasty
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ivs: 31
-tags: [ash], [anime]
+tags: [ash, anime]
 ---
 species: Staraptor
 setname: Barry
@@ -33,4 +33,4 @@ rarity: 1.0
 nature: Jolly
 evs: {hp: 52, atk: 252, def: 0, spA: 0, spD: 0, spe: 204}
 ivs: 31
-tags: [barry], [anime]
+tags: [barry, anime]

@@ -13,4 +13,4 @@ rarity: 1.0
 nature: Naughty
 ivs: 31
 evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 0, spe: 8}
-tags: [ash], [anime]
+tags: [ash, anime]

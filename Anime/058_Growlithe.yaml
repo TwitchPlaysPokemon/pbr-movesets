@@ -15,7 +15,7 @@ rarity: 1.0
 nature: Brave
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
 ivs: 31
-tags: [rocket], [anime]
+tags: [rocket, anime]
 ---
 species: Growlithe
 setname: Morrison
@@ -34,4 +34,4 @@ rarity: 1.0
 nature: Naughty
 evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
 ivs: 31
-tags: [morrison], [anime]
+tags: [morrison, anime]
