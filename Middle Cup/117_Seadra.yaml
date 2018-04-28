@@ -1,7 +1,7 @@
 species: Seadra
-setname: DragonDance
+setname: m-DragonDance
 tags: [middlecup]
-item: [Leichi Berry]
+item: [Liechi Berry]
 ability: [Sniper]
 moves:
     - [waterfall]
@@ -19,7 +19,7 @@ evs: {hp: 236, atk: 252, def: 4, spA: 0, spD: 12, spe: 4}
 level: 50
 ---
 species: Seadra
-setname: Special
+setname: m-Special
 tags: [middlecup]
 item: [Nevermeltice, scope lens, cheri berry]
 ability: [poison point, sniper, damp]
@@ -43,7 +43,7 @@ evs: {hp: 144, atk: 0, def: 0, spA: 92, spD: 100, spe: 172}
 level: 50
 ---
 species: Seadra
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 item: [Jaboca Berry]
 ability: [Poison Point]

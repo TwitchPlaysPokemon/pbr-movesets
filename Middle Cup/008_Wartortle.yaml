@@ -1,5 +1,5 @@
 species: Wartortle
-setname: Curse
+setname: m-Curse
 tags: [middlecup]
 item: [Damp Rock]
 ability: [Rain Dish]
@@ -19,9 +19,9 @@ evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
 level: 50
 ---
 species: Wartortle
-setname: SubPunch
+setname: m-SubPunch
 tags: [middlecup]
-item: [Sitrus Berry, Leichi Berry]
+item: [Sitrus Berry, Liechi Berry]
 ability: [Torrent]
 moves:
     - [Waterfall]
@@ -39,7 +39,7 @@ evs: {hp: 236, atk: 132, def: 0, spA: 0, spD: 140, spe: 0}
 level: 50
 ---
 species: Wartortle
-setname: Stall
+setname: m-Stall
 tags: [middlecup]
 item: [Leftovers]
 ability: [Torrent]

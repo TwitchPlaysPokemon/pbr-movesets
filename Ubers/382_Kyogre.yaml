@@ -1,5 +1,5 @@
 species: Kyogre
-setname: Scarf
+setname: u-Scarf
 tags: [ubers]
 item: [Choice Scarf]
 ability: [Drizzle]
@@ -14,10 +14,10 @@ rarity: 0.2
 ball: [Dive]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 80, atk: 0, def: 40, spA: 0, spD: 40, spe: 44}
+evs: {hp: 80, atk: 0, def: 40, spA: 80, spD: 40, spe: 44}
 ---
 species: Kyogre
-setname: Mixed
+setname: u-Mixed
 tags: [ubers]
 item: [Muscle Band]
 ability: [Drizzle]
@@ -35,7 +35,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 216, def: 0, spA: 36, spD: 0, spe: 252}
 ---
 species: Kyogre
-setname: Calm Mind
+setname: u-Calm Mind
 tags: [ubers]
 item: [Wide Lens, Silverpowder]
 ability: [Drizzle]
@@ -58,7 +58,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
 ---
 species: Kyogre
-setname: Tank
+setname: u-Tank
 tags: [ubers]
 item: [Leftovers]
 ability: [Drizzle]

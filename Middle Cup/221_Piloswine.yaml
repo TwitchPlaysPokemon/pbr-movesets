@@ -1,5 +1,5 @@
 species: Piloswine
-setname: Rocks
+setname: m-Rocks
 tags: [middlecup]
 item: [Rindo Berry]
 ability: [Thick Fat]
@@ -19,7 +19,7 @@ evs: {hp: 196, atk: 76, def: 36, spA: 0, spD: 36, spe: 0}
 level: 50
 ---
 species: Piloswine
-setname: Hail
+setname: m-Hail
 tags: [middlecup]
 item: [Icy Rock]
 ability: [Snow Cloak]

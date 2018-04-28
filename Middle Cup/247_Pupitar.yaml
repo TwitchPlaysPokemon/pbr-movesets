@@ -1,5 +1,5 @@
 species: Pupitar
-setname: DragonDance
+setname: m-DragonDance
 tags: [middlecup]
 item: [White Herb]
 ability: [Shed Skin]
@@ -23,7 +23,7 @@ evs: {hp: 0, atk: 252, def: 44, spA: 0, spD: 44, spe: 84}
 level: 50
 ---
 species: Pupitar
-setname: Sandstorm
+setname: m-Sandstorm
 tags: [middlecup]
 item: [Smooth Rock]
 ability: [Shed Skin]

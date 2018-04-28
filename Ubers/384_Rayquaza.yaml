@@ -1,5 +1,5 @@
 species: Rayquaza
-setname: U-AirLock
+setname: u-AirLock
 tags: [ubers]
 item: [Yache Berry, Charti Berry]
 ability: [Air Lock]
@@ -20,7 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 188, def: 0, spA: 64, spD: 40, spe: 216}
 ---
 species: Rayquaza
-setname: U-SwordsDance
+setname: u-SwordsDance
 tags: [ubers]
 item: [Silk Scarf]
 ability: [Air Lock]
@@ -38,7 +38,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 8, spD: 0, spe: 248}
 ---
 species: Rayquaza
-setname: U-Special
+setname: u-Special
 tags: [ubers]
 item: [Sky Plate]
 ability: [Air Lock]
@@ -56,7 +56,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Rayquaza
-setname: U-SkyAttack
+setname: u-SkyAttack
 tags: [ubers]
 item: [Power Herb]
 ability: [Air Lock]
@@ -74,7 +74,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
 ---
 species: Rayquaza
-setname: U-Mixed
+setname: u-Mixed
 tags: [ubers]
 item: [Sky Plate]
 ability: [Air Lock]

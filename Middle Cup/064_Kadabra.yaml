@@ -1,5 +1,5 @@
 species: Kadabra
-setname: Offensive
+setname: m-Offensive
 tags: [middlecup]
 item: [Focus Sash]
 ability: [Magic Guard]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 50
 ---
 species: Kadabra
-setname: Scarf
+setname: m-Scarf
 tags: [middlecup]
 item: [Choice Scarf]
 ability: [Magic Guard]

@@ -1,5 +1,5 @@
 species: Golbat
-setname: Utility
+setname: m-Utility
 tags: [middlecup]
 item: [Wacan Berry, Charti Berry]
 ability: [Inner Focus]
@@ -19,7 +19,7 @@ evs: {hp: 244, atk: 0, def: 12, spA: 0, spD: 0, spe: 252}
 level: 50
 ---
 species: Golbat
-setname: NastyPlot
+setname: m-NastyPlot
 tags: [middlecup]
 item: [Sky Plate, Meadow Plate, Spooky Plate]
 ability: [Inner Focus]
@@ -43,7 +43,7 @@ evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 50
 ---
 species: Golbat
-setname: Weather
+setname: m-Weather
 tags: [middlecup]
 item: [Damp Rock, Heat Rock]
 ability: [Inner Focus]

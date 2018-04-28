@@ -1,5 +1,5 @@
 species: Lombre
-setname: SwiftSwim
+setname: m-SwiftSwim
 tags: [middlecup]
 item: [Expert Belt]
 ability: [Swift Swim]
@@ -19,14 +19,14 @@ evs: {hp: 0, atk: 0, def: 116, spA: 252, spD: 72, spe: 68}
 level: 50
 ---
 species: Lombre
-setname: RainDish
+setname: m-RainDish
 tags: [middlecup]
 item: [Damp Rock]
 ability: [Rain Dish]
 moves:
     - [Dive]
     - [Giga Drain]
-    - [Leech]
+    - [Leech Seed]
     - [Rain Dance]
 gender: [m, f]
 happiness: 255
@@ -39,7 +39,7 @@ evs: {hp: 204, atk: 4, def: 140, spA: 4, spD: 156, spe: 0}
 level: 50
 ---
 species: Lombre
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Life Orb]
 ability: [Swift Swim]
@@ -47,7 +47,7 @@ moves:
     - [Waterfall]
     - [Energy Ball]
     - [Ice Beam, Zen Headbutt, nature power]
-    - [fire punch, ice punch, thuderpunch]
+    - [fire punch, ice punch, Thunder Punch]
 separations:
     - [Ice Beam, Ice punch]
 gender: [m, f]

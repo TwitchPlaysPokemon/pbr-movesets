@@ -1,5 +1,5 @@
 species: Azumarill
-setname: BellyDrum
+setname: u-BellyDrum
 tags: [ubers]
 item: [Sitrus Berry]
 ability: [Huge Power]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
 ---
 species: Azumarill
-setname: Band
+setname: u-Band
 tags: [ubers]
 item: [Choice Band]
 ability: [Huge Power]

@@ -1,7 +1,7 @@
 species: Shelgon
-setname: Dance
+setname: m-Dance
 tags: [middlecup]
-item: [Perism Berry]
+item: [Persim Berry]
 ability: [Rock Head]
 moves:
     - [Outrage]
@@ -19,7 +19,7 @@ evs: {hp: 200, atk: 4, def: 156, spA: 0, spD: 4, spe: 144}
 level: 50
 ---
 species: Shelgon
-setname: Specs
+setname: m-Specs
 tags: [middlecup]
 item: [Choice Specs]
 ability: [Rock Head]
@@ -39,7 +39,7 @@ evs: {hp: 76, atk: 0, def: 4, spA: 188, spD: 156, spe: 84}
 level: 50
 ---
 species: Shelgon
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 item: [Lum Berry]
 ability: [Rock Head]

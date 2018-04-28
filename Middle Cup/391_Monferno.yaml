@@ -1,5 +1,5 @@
 species: Monferno
-setname: Band
+setname: m-Band
 tags: [middlecup]
 item: [Choice Band]
 ability: [Iron fist]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 level: 50
 ---
 species: Monferno
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Life Orb]
 ability: [Blaze]
@@ -39,7 +39,7 @@ evs: {hp: 0, atk: 92, def: 0, spA: 164, spD: 0, spe: 252}
 level: 50
 ---
 species: Monferno
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 item: [Leftovers]
 ability: [Blaze]

@@ -1,5 +1,5 @@
 species: Magmar
-setname: Tank
+setname: m-Tank
 tags: [middlecup]
 item: [Rowap Berry]
 ability: [Flame Body]
@@ -21,7 +21,7 @@ evs: {hp: 148, atk: 100, def: 152, spA: 0, spD: 8, spe: 0}
 level: 50
 ---
 species: Magmar
-setname: BellyDrum
+setname: m-BellyDrum
 tags: [middlecup]
 item: [Berry Juice]
 ability: [Vital Spirit]
@@ -44,7 +44,7 @@ evs: {hp: 0, atk: 0, def: 228, spA: 0, spD: 116, spe: 164}
 level: 50
 ---
 species: Magmar
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Expert Belt]
 ability: [Flame Body, Vital Spirit]
@@ -52,7 +52,7 @@ moves:
     - [Flamethrower, Flare Blitz]
     - [Focus Blast, Cross Chop]
     - [Psychic, Thunderpunch]
-    - [Faint Attack, Hidden Power]
+    - [Feint Attack, Hidden Power]
 gender: [m, f]
 happiness: 255
 biddable: True

@@ -1,5 +1,5 @@
 species: Infernape
-setname: Mixed
+setname: u-Mixed
 tags: [ubers]
 item: [Life Orb]
 ability: [Blaze]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 248, def: 0, spA: 44, spD: 0, spe: 216}
 ---
 species: Infernape
-setname: NastyPlot
+setname: u-NastyPlot
 tags: [ubers]
 item: [Focus Sash]
 ability: [Blaze]
@@ -37,7 +37,7 @@ ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
 ---
 species: Infernape
-setname: SwordsDance
+setname: u-SwordsDance
 tags: [ubers]
 item: [Focus Sash]
 ability: [Iron Fist]

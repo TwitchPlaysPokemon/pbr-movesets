@@ -1,11 +1,11 @@
 species: Togetic
-setname: Special
+setname: m-Special
 tags: [middlecup]
 item: [Sitrus Berry]
 ability: [Serene Grace]
 moves:
     - [Tri Attack]
-    - [Extransensory]
+    - [Extrasensory]
     - [Ominous Wind]
     - [Ancientpower]
 gender: [m, f]
@@ -19,7 +19,7 @@ evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
 level: 50
 ---
 species: Togetic
-setname: Scarf
+setname: m-Scarf
 tags: [middlecup]
 item: [Choice Scarf]
 ability: [Serene Grace]
@@ -39,7 +39,7 @@ evs: {hp: 124, atk: 140, def: 0, spA: 100, spD: 0, spe: 140}
 level: 50
 ---
 species: Togetic
-setname: Hustle
+setname: m-Hustle
 tags: [middlecup]
 item: [Zoom Lens]
 ability: [Hustle]

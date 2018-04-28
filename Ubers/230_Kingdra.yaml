@@ -1,5 +1,5 @@
 species: Kingdra
-setname: Mixed
+setname: u-Mixed
 tags: [ubers]
 item: [Life Orb, Haban Berry]
 ability: [Swift Swim]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 80, spD: 0, spe: 176}
 ---
 species: Kingdra
-setname: Specs
+setname: u-Specs
 tags: [ubers]
 item: [Choice Specs]
 ability: [Swift Swim]
@@ -37,7 +37,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Kingdra
-setname: DragonDance
+setname: u-DragonDance
 tags: [ubers]
 item: [Chesto Berry, Sitrus Berry]
 ability: [Swift Swim]
@@ -58,7 +58,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 216, atk: 108, def: 40, spA: 0, spD: 0, spe: 144}
 ---
 species: Kingdra
-setname: RainDance
+setname: u-RainDance
 tags: [ubers]
 item: [Splash Plate]
 ability: [Swift Swim]

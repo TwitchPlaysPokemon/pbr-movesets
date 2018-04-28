@@ -1,5 +1,5 @@
 species: Suicune
-setname: CroCune
+setname: u-CroCune
 tags: [ubers]
 item: [Ganlon Berry]
 ability: [Pressure]
@@ -10,7 +10,7 @@ moves:
     - [Rest]
 happiness: 255
 biddable: False
-Hidden: true
+hidden: true
 rarity: 0.7
 ball: [Ultra]
 nature: Bold
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 156, spA: 0, spD: 0, spe: 100}
 ---
 species: Suicune
-setname: Offensive
+setname: u-Offensive
 tags: [ubers]
 item: [Life Orb]
 ability: [Pressure]

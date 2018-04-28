@@ -1,5 +1,5 @@
 species: Cascoon
-setname: Toxic
+setname: m-Toxic
 tags: [middlecup]
 item: [Leftovers]
 ability: [Shed Skin]
@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 
+rarity: 1.0
 ball: [Nest]
 nature: Relaxed
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}

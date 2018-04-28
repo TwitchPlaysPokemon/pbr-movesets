@@ -1,5 +1,5 @@
 species: Dugtrio
-setname: Sash
+setname: u-Sash
 tags: [ubers]
 item: [Focus Sash]
 ability: [Arena Trap]
@@ -18,7 +18,7 @@ ivs: {hp: 21, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Dugtrio
-setname: Band
+setname: u-Band
 tags: [ubers]
 item: [Choice Band]
 ability: [Arena Trap]

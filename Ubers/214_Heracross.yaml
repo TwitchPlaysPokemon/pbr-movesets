@@ -1,5 +1,5 @@
 species: Heracross
-setname: Scarf
+setname: u-Scarf
 tags: [ubers]
 item: [Choice Scarf]
 ability: [Guts]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 20, atk: 252, def: 0, spA: 0, spD: 0, spe: 236}
 ---
 species: Heracross
-setname: SubSalac
+setname: u-SubSalac
 tags: [ubers]
 item: [Salac Berry]
 ability: [Swarm]
@@ -37,7 +37,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 24, spe: 232}
 ---
 species: Heracross
-setname: Guts
+setname: u-Guts
 tags: [ubers]
 item: [Toxic Orb]
 ability: [Guts]

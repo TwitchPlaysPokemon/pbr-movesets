@@ -1,5 +1,5 @@
 species: Snorlax
-setname: Curse
+setname: u-Curse
 tags: [ubers]
 item: [Sitrus Berry, Leftovers]
 ability: [Thick Fat]
@@ -21,7 +21,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 188, atk: 0, def: 104, spA: 0, spD: 216, spe: 0}
 ---
 species: Snorlax
-setname: Tank
+setname: u-Tank
 tags: [ubers]
 item: [Expert Belt, Ganlon Berry]
 ability: [Immunity, Thick Fat, Gluttony]

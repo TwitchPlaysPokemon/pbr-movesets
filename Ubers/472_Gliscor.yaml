@@ -1,5 +1,5 @@
 species: Gliscor
-setname: PoisonHeal
+setname: u-PoisonHeal
 tags: [ubers]
 item: [Toxic Orb]
 ability: [Poison Heal]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 244, atk: 0, def: 40, spA: 0, spD: 0, spe: 224}
 ---
 species: Gliscor
-setname: BatonPass
+setname: u-BatonPass
 tags: [ubers]
 item: [Yache Berry]
 ability: [Sand Veil, Hyper Cutter]

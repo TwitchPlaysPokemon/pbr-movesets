@@ -1,5 +1,5 @@
 species: Bronzong
-setname: Wall
+setname: u-Wall
 tags: [ubers]
 item: [Leftovers, Macho Brace]
 ability: [Levitate]
@@ -20,7 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 2}
 evs: {hp: 252, atk: 84, def: 80, spA: 0, spD: 92, spe: 0}
 ---
 species: Bronzong
-setname: TrickRoom
+setname: u-TrickRoom
 tags: [ubers]
 item: [Life Orb, Macho Brace]
 ability: [Levitate, Heatproof]

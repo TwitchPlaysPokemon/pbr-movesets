@@ -1,5 +1,5 @@
 species: Ivysaur
-setname: Offensive
+setname: m-Offensive
 tags: [middlecup]
 item: [Wise Glasses]
 ability: [Overgrow]
@@ -19,7 +19,7 @@ evs: {hp: 28, atk: 0, def: 48, spA: 184, spD: 0, spe: 248}
 level: 50
 ---
 species: Ivysaur
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 item: [Coba Berry, Payapa Berry]
 ability: [Thick Fat]
@@ -39,13 +39,13 @@ evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
 level: 50
 ---
 species: Ivysaur
-setname: SunnyDay
+setname: m-SunnyDay
 tags: [middlecup]
 item: [Heat Rock]
-ability: [Chorophyll]
+ability: [Chlorophyll]
 moves:
     - [Solarbeam]
-    - [Weather ball]
+    - [Weather Ball]
     - [Growth]
     - [Sunny Day]
 gender: [m, f]

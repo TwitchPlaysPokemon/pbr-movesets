@@ -1,5 +1,5 @@
 species: Bayleef
-setname: Special
+setname: m-Special
 tags: [middlecup]
 item: [Life Orb, Choice Specs]
 ability: [Overgrow]
@@ -21,7 +21,7 @@ evs: {hp: 188, atk: 0, def: 4, spA: 216, spD: 76, spe: 24}
 level: 50
 ---
 species: Bayleef
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 item: [Light Clay, Big Root]
 ability: [Overgrow]
@@ -41,7 +41,7 @@ evs: {hp: 148, atk: 0, def: 196, spA: 52, spD: 108, spe: 4}
 level: 50
 ---
 species: Bayleef
-setname: SwordsDance
+setname: m-SwordsDance
 tags: [middlecup]
 item: [Salac Berry, Miracle Seed]
 ability: [Overgrow]

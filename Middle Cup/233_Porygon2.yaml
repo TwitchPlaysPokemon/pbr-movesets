@@ -1,5 +1,5 @@
 species: Porygon2
-setname: Support
+setname: m-Support
 tags: [middlecup]
 item: [Enigma Berry]
 ability: [Trace]
@@ -18,7 +18,7 @@ evs: {hp: 220, atk: 116, def: 36, spA: 0, spD: 60, spe: 0}
 level: 50
 ---
 species: Porygon2
-setname: Terrain
+setname: m-Terrain
 tags: [middlecup]
 item: [Wise Glasses]
 ability: [Download]
@@ -33,7 +33,7 @@ separations:
     - [toxic, zap cannon]
     - [trick room, blizzard]
     - [trick room, zap cannon]
-    - [trick room, Charge Beam
+    - [trick room, Charge Beam]
 happiness: 255
 biddable: True
 rarity: 0.2
@@ -44,7 +44,7 @@ evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
 level: 50
 ---
 species: Porygon2
-setname: Conversion
+setname: m-Conversion
 tags: [middlecup]
 item: [Spooky Plate, Mind Plate, Zap Plate, Icicle Plate, Insect Plate]
 ability: [Download, Trace]
@@ -69,7 +69,7 @@ evs: {hp: 0, atk: 192, def: 0, spA: 0, spD: 0, spe: 236}
 level: 50
 ---
 species: Porygon2
-setname: Scarf
+setname: m-Scarf
 tags: [middlecup]
 item: [Choice Scarf]
 ability: [Download]

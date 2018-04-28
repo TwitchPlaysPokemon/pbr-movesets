@@ -1,5 +1,5 @@
 species: Deoxys
-setname: U-Attacker
+setname: u-Attacker
 tags: [ubers]
 item: [White Herb]
 ability: [Pressure]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 44, def: 0, spA: 212, spD: 0, spe: 252}
 ---
 species: Deoxys
-setname: U-Hazards
+setname: u-Hazards
 tags: [ubers]
 item: [Focus Sash]
 ability: [Pressure]

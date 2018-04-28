@@ -1,5 +1,5 @@
 species: Shedinja
-setname: U-Pivot
+setname: u-Pivot
 tags: [ubers]
 item: [Lum Berry]
 ability: [Wonder Guard]
@@ -17,7 +17,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Shedinja
-setname: U-Swords Dance
+setname: u-Swords Dance
 tags: [ubers]
 item: [Focus Sash]
 ability: [Wonder Guard]

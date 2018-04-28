@@ -1,5 +1,5 @@
 species: Pidgeotto
-setname: Utility
+setname: m-Utility
 tags: [middlecup]
 item: [Wacan Berry]
 ability: [Tangled Feet]
@@ -19,7 +19,7 @@ evs: {hp: 244, atk: 0, def: 84, spA: 0, spD: 0, spe: 180}
 level: 50
 ---
 species: Pidgeotto
-setname: Agility
+setname: m-Agility
 tags: [middlecup]
 item: [Life Orb]
 ability: [Keen Eye]

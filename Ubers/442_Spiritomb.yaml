@@ -1,5 +1,5 @@
 species: Spiritomb
-setname: Curse
+setname: u-Curse
 tags: [ubers]
 item: [Sitrus Berry]
 ability: [Pressure]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 240, atk: 0, def: 16, spA: 0, spD: 252, spe: 0}
 ---
 species: Spiritomb
-setname: Thief
+setname: u-Thief
 tags: [ubers]
 item: [Chesto Berry]
 ability: [Pressure]

@@ -1,5 +1,5 @@
 species: Mewtwo
-setname: Breaker
+setname: u-Breaker
 tags: [ubers]
 item: [Leftovers]
 ability: [Pressure]
@@ -20,7 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 204, atk: 0, def: 0, spA: 52, spD: 0, spe: 252}
 ---
 species: Mewtwo
-setname: Attacker
+setname: u-Attacker
 tags: [ubers]
 item: [Expert Belt]
 ability: [Pressure]
@@ -41,7 +41,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 24, atk: 80, def: 0, spA: 152, spD: 0, spe: 252}
 ---
 species: Mewtwo
-setname: TrickRoom
+setname: u-TrickRoom
 tags: [ubers]
 item: [Iron Ball]
 ability: [Pressure]
@@ -65,7 +65,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 4, spe: 0}
 ---
 species: Mewtwo
-setname: BulkUp
+setname: u-BulkUp
 tags: [ubers]
 item: [Muscle Band, Expert Belt]
 ability: [Pressure]

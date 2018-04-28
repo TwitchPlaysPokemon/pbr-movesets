@@ -1,5 +1,5 @@
 species: Deoxys
-setname: U-Hazards Speed
+setname: u-Hazards Speed
 tags: [ubers]
 item: [Focus Sash]
 ability: [Pressure]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 184, def: 0, spA: 200, spD: 0, spe: 124}
 ---
 species: Deoxys
-setname: U-Screens Speed
+setname: u-Screens Speed
 tags: [ubers]
 item: [Light Clay]
 ability: [Pressure]
@@ -39,7 +39,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 120, spA: 0, spD: 120, spe: 16}
 ---
 species: Deoxys
-setname: U-Attacker Speed
+setname: u-Attacker Speed
 tags: [ubers]
 item: [Life Orb, Focus Sash]
 ability: [Pressure]
@@ -58,7 +58,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 100, def: 0, spA: 176, spD: 0, spe: 236}
 ---
 species: Deoxys
-setname: U-NastyPlot Speed
+setname: u-NastyPlot Speed
 tags: [ubers]
 item: [Life Orb]
 ability: [Pressure]
@@ -77,7 +77,7 @@ ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
 ---
 species: Deoxys
-setname: U-Scarf Speed
+setname: u-Scarf Speed
 tags: [ubers]
 item: [Choice Scarf]
 ability: [Pressure]

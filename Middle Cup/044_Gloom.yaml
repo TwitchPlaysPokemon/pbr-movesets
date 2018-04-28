@@ -1,5 +1,5 @@
 species: Gloom
-setname: SunnyDay
+setname: m-SunnyDay
 tags: [middlecup]
 item: [Heat Rock]
 ability: [Chlorophyll]
@@ -19,7 +19,7 @@ evs: {hp: 252, atk: 0, def: 80, spA: 0, spD: 76, spe: 100}
 level: 50
 ---
 species: Gloom
-setname: Offensive
+setname: m-Offensive
 tags: [middlecup]
 item: [Life Orb]
 ability: [Chlorophyll]

@@ -1,5 +1,5 @@
 species: Magneton
-setname: Tank
+setname: m-Tank
 tags: [middlecup]
 item: [Wide Lens, Light Clay, Berry Juice]
 ability: [magnet pull]
@@ -12,7 +12,6 @@ combinations:
     - [berry juice, recycle]
     - [light clay, reflect]
     - [light clay, light screen]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
@@ -23,7 +22,7 @@ evs: {hp: 0, atk: 0, def: 96, spA: 0, spD: 96, spe: 0}
 level: 50
 ---
 species: Magneton
-setname: Gravity
+setname: m-Gravity
 tags: [middlecup]
 item: [Iron Plate]
 ability: [magnet pull]
@@ -32,7 +31,6 @@ moves:
     - [Mirror Shot]
     - [Hidden Power]
     - [Gravity]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5

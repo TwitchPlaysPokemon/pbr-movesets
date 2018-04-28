@@ -1,18 +1,18 @@
-species: charmeleon
-setname: Physical
+species: Charmeleon
+setname: m-Physical
 tags: [middlecup]
-item: [muscle band, Salac Berry]
+item: [Muscle band, Salac Berry]
 ability: [blaze]
 moves:
-    - [flare blitz, fire punch]
-    - [thunder punch, brick break]
-    - [crunch, dragon claw, rock slide, substitute]
+    - [Flare Blitz, Fire Punch]
+    - [Thunder Punch, Brick Break]
+    - [Crunch, Dragon Claw, Rock Slide, Substitute]
     - [Dragon Dance, Swords Dance, Belly Drum]
 combinations:
     - [Salac Berry, Belly Drum]
 separations:
     - [Flare blitz, Belly Drum]
-    - [Flare blitz, substitute]
+    - [Flare blitz, Substitute]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -23,15 +23,15 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 52, spA: 0, spD: 48, spe: 156}
 level: 50
 ---
-species: charmeleon
-setname: Defensive
+species: Charmeleon
+setname: m-Defensive
 tags: [middlecup]
 item: [Grip Claw]
 ability: [blaze]
 moves:
     - [Fire Spin]
-    - [dragon rage]
-    - [will-o-wisp]
+    - [Dragon Rage]
+    - [Will-O-Wisp]
     - [Protect]
 gender: [m, f]
 happiness: 255
@@ -43,24 +43,24 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 56, spA: 0, spD: 196, spe: 4}
 level: 50
 ---
-species: charmeleon
-setname: Special
+species: Charmeleon
+setname: m-Special
 tags: [middlecup]
 item: [Sitrus Berry]
 ability: [solar power]
 moves:
-    - [flamethrower]
-    - [solarbeam, focus blast]
-    - [dragon pulse, hidden power]
-    - [sunny day]
+    - [Flamethrower]
+    - [Solarbeam, Focus Blast]
+    - [Dragon Pulse, Hidden Power]
+    - [Sunny Day]
 separations:
-    - [solarbeam, hidden power]
+    - [Solarbeam, Hidden Power]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.3
 ball: [Poke]
-nature: timid
+nature: Timid
 ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
 evs: {hp: 76, atk: 0, def: 20, spA: 160, spD: 0, spe: 252}
 level: 50

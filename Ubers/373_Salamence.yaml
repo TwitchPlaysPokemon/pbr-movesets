@@ -1,5 +1,5 @@
 species: Salamence
-setname: MixMence
+setname: u-MixMence
 tags: [ubers]
 item: [Life Orb]
 ability: [Intimidate]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
 ---
 species: Salamence
-setname: DragonDance
+setname: u-DragonDance
 tags: [ubers]
 item: [Yache Berry, Focus Sash]
 ability: [Intimidate]
@@ -37,7 +37,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
 ---
 species: Salamence
-setname: Specs
+setname: u-Specs
 tags: [ubers]
 item: [Choice Specs]
 ability: [Intimidate]
@@ -56,7 +56,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
 ---
 species: Salamence
-setname: Defensive
+setname: u-Defensive
 tags: [ubers]
 item: [Leftovers]
 ability: [Intimidate]

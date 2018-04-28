@@ -1,5 +1,5 @@
 species: Manaphy
-setname: TailGlow
+setname: u-TailGlow
 tags: [ubers]
 item: [Salac Berry, Rindo Berry, Wacan Berry]
 ability: [Hydration]
@@ -17,7 +17,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 80, atk: 0, def: 0, spA: 240, spD: 0, spe: 188}
 ---
 species: Manaphy
-setname: Defensive
+setname: u-Defensive
 tags: [ubers]
 item: [Damp Rock]
 ability: [Hydration]
@@ -36,7 +36,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 240, atk: 0, def: 0, spA: 164, spD: 104, spe: 0}
 ---
 species: Manaphy
-setname: HeartSwap
+setname: u-HeartSwap
 tags: [ubers]
 item: [Life Orb]
 ability: [Hydration]
@@ -54,7 +54,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 32, atk: 0, def: 0, spA: 252, spD: 8, spe: 216}
 ---
 species: Manaphy
-setname: Screens
+setname: u-Screens
 tags: [ubers]
 item: [Light Clay]
 ability: [Hydration]
@@ -72,7 +72,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 240, atk: 0, def: 164, spA: 0, spD: 104, spe: 0}
 ---
 species: Manaphy
-setname: Calm Mind
+setname: u-Calm Mind
 tags: [ubers]
 item: [Ganlon Berry]
 ability: [Hydration]
@@ -83,7 +83,7 @@ moves:
     - [Rest]
 happiness: 255
 biddable: False
-Hidden: True
+hidden: True
 rarity: 0.3
 ball: [Dive]
 nature: Timid

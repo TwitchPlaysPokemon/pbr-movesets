@@ -1,5 +1,5 @@
 species: Mamoswine
-setname: Sash
+setname: u-Sash
 tags: [ubers]
 item: [Focus Sash]
 ability: [Thick Fat]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Mamoswine
-setname: Attacker
+setname: u-Attacker
 tags: [ubers]
 item: [Life Orb]
 ability: [Thick Fat]

@@ -1,5 +1,5 @@
 species: Dusclops
-setname: CalmMind
+setname: m-CalmMind
 tags: [middlecup]
 item: [Spooky Plate]
 ability: [Pressure]
@@ -19,7 +19,7 @@ evs: {hp: 248, atk: 0, def: 12, spA: 88, spD: 16, spe: 0}
 level: 50
 ---
 species: Dusclops
-setname: Wall
+setname: m-Wall
 tags: [middlecup]
 item: [Berry Juice]
 ability: [Pressure]
@@ -39,7 +39,7 @@ evs: {hp: 0, atk: 0, def: 180, spA: 76, spD: 252, spe: 0}
 level: 50
 ---
 species: Dusclops
-setname: TrickRoom
+setname: m-TrickRoom
 tags: [middlecup]
 item: [Life Orb, Expert Belt]
 ability: [Pressure]

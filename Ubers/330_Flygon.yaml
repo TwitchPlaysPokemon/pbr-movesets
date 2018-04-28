@@ -1,5 +1,5 @@
 species: Flygon
-setname: Offensive
+setname: u-Offensive
 tags: [ubers]
 item: [Choice Scarf, Life Orb, Choice Band]
 ability: [Levitate]
@@ -25,7 +25,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 ---
 species: Flygon
-setname: Defensive
+setname: u-Defensive
 tags: [ubers]
 item: [Leftovers]
 ability: [Levitate]
@@ -44,7 +44,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 176, spA: 0, spD: 0, spe: 80}
 ---
 species: Flygon
-setname: Mixed
+setname: u-Mixed
 tags: [ubers]
 item: [Life Orb]
 ability: [Levitate]

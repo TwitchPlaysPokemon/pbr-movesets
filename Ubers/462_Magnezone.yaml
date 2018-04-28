@@ -1,5 +1,5 @@
 species: Magnezone
-setname: Specs
+setname: u-Specs
 tags: [ubers]
 item: [Choice Specs]
 ability: [Magnet Pull]
@@ -17,7 +17,7 @@ ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
 evs: {hp: 208, atk: 0, def: 0, spA: 252, spD: 0, spe: 48}
 ---
 species: Magnezone
-setname: Scarf
+setname: u-Scarf
 tags: [ubers]
 item: [Choice Scarf]
 ability: [Magnet Pull]
@@ -35,7 +35,7 @@ ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 20, atk: 0, def: 0, spA: 252, spD: 0, spe: 236}
 ---
 species: Magnezone
-setname: Substitute
+setname: u-Substitute
 tags: [ubers]
 item: [Expert Belt]
 ability: [Magnet Pull]

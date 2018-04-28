@@ -1,5 +1,5 @@
 species: Clefairy
-setname: Wall
+setname: m-Wall
 tags: [middlecup]
 item: [Sitrus Berry]
 ability: [Magic Guard]
@@ -19,7 +19,7 @@ evs: {hp: 252, atk: 0, def: 60, spA: 0, spD: 196, spe: 0}
 level: 50
 ---
 species: Clefairy
-setname: Calm Mind
+setname: m-CalmMind
 tags: [middlecup]
 item: [Leftovers]
 ability: [Magic Guard]

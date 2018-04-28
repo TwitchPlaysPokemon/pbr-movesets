@@ -1,5 +1,5 @@
 species: Electabuzz
-setname: RainDance
+setname: m-RainDance
 tags: [middlecup]
 item: [Damp Rock]
 ability: [Static]
@@ -19,7 +19,7 @@ evs: {hp: 156, atk: 0, def: 0, spA: 100, spD: 0, spe: 252}
 level: 50
 ---
 species: Electabuzz
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Expert Belt]
 ability: [Motor drive]

@@ -1,5 +1,5 @@
 species: Vigoroth
-setname: Choice
+setname: m-Choice
 tags: [middlecup]
 item: [Choice Scarf, Choice Band]
 ability: [Vital Spirit]
@@ -19,7 +19,7 @@ evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
 level: 50
 ---
 species: Vigoroth
-setname: Support
+setname: m-Support
 tags: [middlecup]
 item: [Chople berry, sitrus berry]
 ability: [Vital Spirit]

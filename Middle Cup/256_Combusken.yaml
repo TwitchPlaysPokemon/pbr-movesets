@@ -1,5 +1,5 @@
 species: Combusken
-setname: BatonPass
+setname: m-BatonPass
 tags: [middlecup]
 item: [Leichi Berry]
 ability: [Speed Boost]
@@ -19,7 +19,7 @@ evs: {hp: 92, atk: 4, def: 156, spA: 0, spD: 140, spe: 116}
 level: 50
 ---
 species: Combusken
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Life Orb]
 ability: [Speed Boost, Blaze]
@@ -27,7 +27,7 @@ moves:
     - [Focus Blast]
     - [Flare Blitz]
     - [Thunderpunch, Rock Slide, Night Slash, Hidden Power]
-    - [Protect]
+    - [Protect, agility]
 combinations:
     - [speed boost, protect]
     - [blaze, agility]

@@ -1,5 +1,5 @@
 species: Grovyle
-setname: SubSeed
+setname: m-SubSeed
 tags: [middlecup]
 item: [Leftovers, Petaya Berry]
 ability: [Overgrow, unburden]
@@ -21,7 +21,7 @@ evs: {hp: 28, atk: 0, def: 4, spA: 252, spD: 4, spe: 220}
 level: 50
 ---
 species: Grovyle
-setname: PowerHerb
+setname: m-PowerHerb
 tags: [middlecup]
 item: [Power Herb]
 ability: [Overgrow]

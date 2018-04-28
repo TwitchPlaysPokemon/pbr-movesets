@@ -1,5 +1,5 @@
 species: Lairon
-setname: Rock Polish
+setname: m-Rock Polish
 tags: [middlecup]
 item: [Lum Berry]
 ability: [Rock Head]
@@ -21,7 +21,7 @@ evs: {hp: 132, atk: 120, def: 0, spA: 0, spD: 116, spe: 140}
 level: 50
 ---
 species: Lairon
-setname: Tank
+setname: m-Tank
 tags: [middlecup]
 item: [Shuca Berry, Chople Berry]
 ability: [Rock Head]

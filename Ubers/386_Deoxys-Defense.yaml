@@ -1,5 +1,5 @@
 species: Deoxys
-setname: U-Wall Defense
+setname: u-Wall Defense
 tags: [ubers]
 item: [Sitrus Berry]
 ability: [Pressure]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 32, spA: 0, spD: 176, spe: 48}
 ---
 species: Deoxys
-setname: U-NastyPlot Defense
+setname: u-NastyPlot Defense
 tags: [ubers]
 item: [Leftovers]
 ability: [Pressure]

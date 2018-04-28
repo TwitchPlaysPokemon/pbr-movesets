@@ -1,5 +1,5 @@
 species: Latios
-setname: Attacker
+setname: u-Attacker
 tags: [ubers]
 item: [Life Orb]
 ability: [Levitate]
@@ -18,7 +18,7 @@ ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
 ---
 species: Latios
-setname: Dragon Dance
+setname: u-Dragon Dance
 tags: [ubers]
 item: [Soul Dew]
 ability: [Levitate]
@@ -37,7 +37,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Latios
-setname: Tailwind
+setname: u-Tailwind
 tags: [ubers]
 item: [Soul Dew]
 ability: [Levitate]
@@ -56,7 +56,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 120, spA: 136, spD: 0, spe: 252}
 ---
 species: Latios
-setname: Screens
+setname: u-Screens
 tags: [ubers]
 item: [Light Clay]
 ability: [Levitate]

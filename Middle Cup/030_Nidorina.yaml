@@ -1,5 +1,5 @@
 species: Nidorina
-setname: ToxicSpikes
+setname: m-ToxicSpikes
 tags: [middlecup]
 item: [Sitrus Berry]
 ability: [poison point]
@@ -19,7 +19,7 @@ evs: {hp: 244, atk: 0, def: 180, spA: 4, spD: 76, spe: 4}
 level: 50
 ---
 species: Nidorina
-setname: Tank
+setname: m-Tank
 tags: [middlecup]
 item: [Leftovers]
 ability: [Rivalry]

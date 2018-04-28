@@ -1,5 +1,5 @@
 species: Rhyperior
-setname: Tank
+setname: u-Tank
 tags: [ubers]
 item: [Leftovers]
 ability: [Solid Rock]
@@ -21,7 +21,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 20, spA: 0, spD: 236, spe: 0}
 ---
 species: Rhyperior
-setname: Band
+setname: u-Band
 tags: [ubers]
 item: [Choice Band]
 ability: [Solid Rock]
@@ -40,7 +40,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 184, atk: 252, def: 0, spA: 0, spD: 0, spe: 72}
 ---
 species: Rhyperior
-setname: RockPolish
+setname: u-RockPolish
 tags: [ubers]
 item: [Rowap Berry, Passho Berry, Shell Bell]
 ability: [Solid Rock]

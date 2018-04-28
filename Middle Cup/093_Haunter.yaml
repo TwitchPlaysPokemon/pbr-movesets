@@ -1,5 +1,5 @@
 species: Haunter
-setname: Offensive
+setname: m-Offensive
 tags: [middlecup]
 item: [Choice Scarf, Life Orb]
 ability: [levitate]
@@ -21,7 +21,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 50
 ---
 species: Haunter
-setname: Utility
+setname: m-Utility
 tags: [middlecup]
 item: [Black Sludge]
 ability: [levitate]

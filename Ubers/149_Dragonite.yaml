@@ -1,5 +1,5 @@
 species: Dragonite
-setname: Mixed
+setname: u-Mixed
 tags: [ubers]
 item: [Life Orb]
 ability: [Filter]
@@ -20,7 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 56, def: 0, spA: 252, spD: 0, spe: 200}
 ---
 species: Dragonite
-setname: Bulky DD
+setname: u-Bulky DD
 tags: [ubers]
 item: [Leftovers]
 ability: [Filter]
@@ -39,7 +39,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 184, atk: 108, def: 0, spA: 0, spD: 0, spe: 216}
 ---
 species: Dragonite
-setname: Band
+setname: u-Band
 tags: [ubers]
 item: [Choice Band]
 ability: [Filter]
@@ -58,7 +58,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 120, atk: 224, def: 0, spA: 0, spD: 0, spe: 164}
 ---
 species: Dragonite
-setname: Fly
+setname: u-Fly
 tags: [ubers]
 item: [Leftovers]
 ability: [Filter]

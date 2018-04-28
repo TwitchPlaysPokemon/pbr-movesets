@@ -1,5 +1,5 @@
 species: Skarmory
-setname: MixedWall
+setname: u-MixedWall
 tags: [ubers]
 item: [Leftovers]
 ability: [Sturdy]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 240, spe: 16}
 ---
 species: Skarmory
-setname: PhysicalWall
+setname: u-PhysicalWall
 tags: [ubers]
 item: [Leftovers]
 ability: [Sturdy]

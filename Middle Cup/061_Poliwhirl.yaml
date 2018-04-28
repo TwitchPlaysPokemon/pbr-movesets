@@ -1,5 +1,5 @@
 species: Poliwhirl
-setname: BellyDrum
+setname: m-BellyDrum
 tags: [middlecup]
 item: [Lum Berry]
 ability: [Damp]
@@ -19,7 +19,7 @@ evs: {hp: 20, atk: 4, def: 116, spA: 0, spD: 116, spe: 252}
 level: 50
 ---
 species: Poliwhirl
-setname: RainDance
+setname: m-RainDance
 tags: [middlecup]
 item: [Damp Rock]
 ability: [Swift Swim]

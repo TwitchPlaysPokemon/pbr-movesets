@@ -1,5 +1,5 @@
 species: Dragonair
-setname: DragonDance
+setname: m-DragonDance
 tags: [middlecup]
 item: [Leftovers]
 ability: [Shed Skin]
@@ -19,7 +19,7 @@ evs: {hp: 68, atk: 252, def: 36, spA: 0, spD: 12, spe: 140}
 level: 50
 ---
 species: Dragonair
-setname: Specs
+setname: m-Specs
 tags: [middlecup]
 item: [Choice Specs]
 ability: [Marvel Scale]
@@ -44,7 +44,7 @@ evs: {hp: 0, atk: 0, def: 116, spA: 0, spD: 140, spe: 252}
 level: 50
 ---
 species: Dragonair
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Muscle Band]
 ability: [Shed Skin, Marvel Scale]

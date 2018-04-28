@@ -1,5 +1,5 @@
 species: Darkrai
-setname: NastyPlot
+setname: u-NastyPlot
 tags: [ubers]
 item: [Blackglasses, Focus Sash, Salac Berry, Chople Berry]
 ability: [Bad Dreams]
@@ -17,7 +17,7 @@ ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
 ---
 species: Darkrai
-setname: Scarf
+setname: u-Scarf
 tags: [ubers]
 item: [Choice Scarf]
 ability: [Bad Dreams]
@@ -35,7 +35,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Darkrai
-setname: CalmMind
+setname: u-CalmMind
 tags: [ubers]
 item: [Leftovers]
 ability: [Bad Dreams]

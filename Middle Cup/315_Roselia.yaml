@@ -1,5 +1,5 @@
 species: Roselia
-setname: Swords
+setname: m-Swords
 tags: [middlecup]
 item: [Berry Juice, Hondew Berry]
 ability: [Natural Cure]
@@ -23,7 +23,7 @@ evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
 level: 50
 ---
 species: Roselia
-setname: Special
+setname: m-Special
 tags: [middlecup]
 item: [Expert Belt]
 ability: [Natural Cure, Poison Point, Leaf Guard]

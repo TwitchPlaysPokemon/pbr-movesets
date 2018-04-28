@@ -1,5 +1,5 @@
 species: Scizor
-setname: Band
+setname: u-Band
 tags: [ubers]
 item: [Choice Band]
 ability: [Technician]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 156, atk: 252, def: 0, spA: 0, spD: 100, spe: 0}
 ---
 species: Scizor
-setname: SwordsDance
+setname: u-SwordsDance
 tags: [ubers]
 item: [Leftovers]
 ability: [Technician]
@@ -37,7 +37,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 244, atk: 20, def: 76, spA: 0, spD: 168, spe: 0}
 ---
 species: Scizor
-setname: Defensive
+setname: u-Defensive
 tags: [ubers]
 item: [Iron Plate, Occa Berry]
 ability: [Technician]
@@ -56,7 +56,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 176, atk: 100, def: 0, spA: 0, spD: 232, spe: 0}
 ---
 species: Scizor
-setname: BatonPass
+setname: u-BatonPass
 tags: [ubers]
 item: [Leftovers]
 ability: [Technician]

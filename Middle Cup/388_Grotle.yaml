@@ -1,5 +1,5 @@
 species: Grotle
-setname: Curse
+setname: m-Curse
 tags: [middlecup]
 item: [Quick Claw]
 ability: [Shell Armor]
@@ -19,7 +19,7 @@ evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
 level: 50
 ---
 species: Grotle
-setname: SwordsDance
+setname: m-SwordsDance
 tags: [middlecup]
 item: [Salac Berry]
 ability: [Overgrow]
@@ -39,7 +39,7 @@ evs: {hp: 0, atk: 180, def: 0, spA: 0, spD: 76, spe: 252}
 level: 50
 ---
 species: Grotle
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 item: [Occa Berry, Kebia Berry]
 ability: [Shell Armor]

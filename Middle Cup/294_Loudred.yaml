@@ -1,5 +1,5 @@
 species: Loudred
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Life Orb]
 ability: [Scrappy]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 252, def: 60, spA: 164, spD: 32, spe: 0}
 level: 50
 ---
 species: Loudred
-setname: Salts
+setname: m-Salts
 tags: [middlecup]
 item: [Light Ball]
 ability: [Scrappy]

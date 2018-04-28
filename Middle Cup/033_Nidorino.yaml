@@ -1,5 +1,5 @@
 species: Nidorino
-setname: ToxicSpikes
+setname: m-ToxicSpikes
 tags: [middlecup]
 item: [toxic plate]
 ability: [Hustle]
@@ -19,13 +19,13 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 50
 ---
 species: Nidorino
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [life orb]
 ability: [Rivalry]
 moves:
     - [poison jab]
-    - [earth power, hidden fire]
+    - [earth power, hidden power]
     - [sucker punch, superpower]
     - [ice beam, thunderbolt]
 gender: [m]

@@ -1,8 +1,8 @@
 species: Weepinbell
-setname: Dance
+setname: m-Dance
 tags: [middlecup]
 item: [Salac Berry]
-ability: [Chorophyll]
+ability: [Chlorophyll]
 moves:
     - [Leaf Blade]
     - [Poison Jab]
@@ -19,10 +19,10 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 level: 50
 ---
 species: Weepinbell
-setname: Sun
+setname: m-Sun
 tags: [middlecup]
 item: [Heat Rock]
-ability: [Chorophyll]
+ability: [Chlorophyll]
 moves:
     - [solarbeam]
     - [weather ball]

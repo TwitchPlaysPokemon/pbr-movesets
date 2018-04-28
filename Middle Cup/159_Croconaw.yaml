@@ -1,5 +1,5 @@
 species: Croconaw
-setname: DragonDance
+setname: m-DragonDance
 tags: [middlecup]
 item: [Expert Belt]
 ability: [Torrent]
@@ -19,7 +19,7 @@ evs: {hp: 56, atk: 252, def: 0, spA: 0, spD: 52, spe: 148}
 level: 50
 ---
 species: Croconaw
-setname: SwordsDance
+setname: m-SwordsDance
 tags: [middlecup]
 item: [Splash Plate]
 ability: [Torrent]
@@ -39,7 +39,7 @@ evs: {hp: 116, atk: 252, def: 0, spA: 0, spD: 0, spe: 140}
 level: 50
 ---
 species: Croconaw
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Expert Belt]
 ability: [Torrent]

@@ -1,5 +1,5 @@
 species: Gyarados
-setname: Offensive
+setname: u-Offensive
 tags: [ubers]
 item: [Sky Plate, Charti Berry, Wacan Berry]
 ability: [Intimidate]
@@ -20,7 +20,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
 ---
 species: Gyarados
-setname: Bulky DD
+setname: u-Bulky DD
 tags: [ubers]
 item: [Chesto Berry]
 ability: [Intimidate]

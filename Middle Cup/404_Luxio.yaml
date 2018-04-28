@@ -1,5 +1,5 @@
 species: Luxio
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 item: [leftovers]
 ability: [Intimidate]
@@ -19,7 +19,7 @@ evs: {hp: 192, atk: 0, def: 68, spA: 0, spD: 132, spe: 40}
 level: 50
 ---
 species: Luxio
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Expert Belt]
 ability: [Intimidate]

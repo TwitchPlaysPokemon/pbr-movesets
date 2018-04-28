@@ -1,5 +1,5 @@
 species: Metang
-setname: Agility
+setname: m-Agility
 tags: [middlecup]
 item: [Wide Lens, Fist Plate, Zap Plate, Icicle Plate, Stone Plate]
 ability: [Clear Body]
@@ -13,7 +13,6 @@ combinations:
     - [zap plate, thunderpunch]
     - [ice punch, icicle plate]
     - [stone plate, rock slide]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
@@ -24,7 +23,7 @@ evs: {hp: 108, atk: 252, def: 0, spA: 0, spD: 0, spe: 148}
 level: 50
 ---
 species: Metang
-setname: Tank
+setname: m-Tank
 tags: [middlecup]
 item: [Occa Berry, Shuca Berry]
 ability: [Clear Body]
@@ -33,7 +32,6 @@ moves:
     - [Earthquake, Zen Headbutt, ThunderPunch]
     - [Bullet Punch]
     - [stealth rock, toxic, explosion]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5

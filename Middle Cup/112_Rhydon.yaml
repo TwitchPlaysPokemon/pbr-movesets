@@ -1,5 +1,5 @@
 species: Rhydon
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 ability: [Rock Head]
 moves:
@@ -18,7 +18,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 50
 ---
 species: Rhydon
-setname: Offensive
+setname: m-Offensive
 tags: [middlecup]
 item: [Power Herb, Poison Barb, Black Belt]
 ability: [Rock Head]
@@ -44,12 +44,12 @@ evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 252, spe: 0}
 level: 50
 ---
 species: Rhydon
-setname: DoubleDance
+setname: m-DoubleDance
 tags: [middlecup]
 item: [Hard Stone]
 ability: [Rock Head]
 moves:
-    - [Rock Tomb, Magntiude]
+    - [Rock Tomb, Magnitude]
     - [Double Edge, Crunch]
     - [Swords Dance]
     - [Rock Polish]

@@ -1,5 +1,5 @@
 species: Azelf
-setname: NastyPlot
+setname: u-NastyPlot
 tags: [ubers]
 item: [Focus Sash]
 ability: [Levitate]
@@ -17,7 +17,7 @@ ivs: {hp: 29, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
 ---
 species: Azelf
-setname: Support
+setname: u-Support
 tags: [ubers]
 item: [Focus Sash]
 ability: [Levitate]

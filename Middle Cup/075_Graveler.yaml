@@ -1,5 +1,5 @@
 species: Graveler
-setname: Rollout
+setname: m-Rollout
 tags: [middlecup]
 item: [Stone Plate]
 ability: [Sand Veil]
@@ -19,7 +19,7 @@ evs: {hp: 156, atk: 252, def: 0, spA: 0, spD: 0, spe: 100}
 level: 50
 ---
 species: Graveler
-setname: Rocks
+setname: m-Rocks
 tags: [middlecup]
 item: [Custap Berry]
 ability: [Sand Veil]

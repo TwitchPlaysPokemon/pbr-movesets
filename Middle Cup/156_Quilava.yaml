@@ -1,5 +1,5 @@
 species: Quilava
-setname: Scarf
+setname: m-Scarf
 tags: [middlecup]
 item: [Choice Scarf]
 ability: [Blaze]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 76, spD: 0, spe: 180}
 level: 50
 ---
 species: Quilava
-setname: Mixed
+setname: m-Mixed
 tags: [middlecup]
 item: [Leftovers, Shell Bell]
 ability: [Blaze]
@@ -37,7 +37,7 @@ happiness: 255
 biddable: True
 rarity: 0.5
 ball: [Poke]
-nature: 
+nature: Naive
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 76, spD: 0, spe: 180}
 level: 50

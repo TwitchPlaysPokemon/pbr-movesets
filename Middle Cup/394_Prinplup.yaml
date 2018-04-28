@@ -1,5 +1,5 @@
 species: Prinplup
-setname: Physical
+setname: m-Physical
 tags: [middlecup]
 item: [Leichi Berry]
 ability: [Torrent]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 252, def: 92, spA: 0, spD: 120, spe: 44}
 level: 50
 ---
 species: Prinplup
-setname: Special
+setname: m-Special
 tags: [middlecup]
 item: [Berry Juice]
 ability: [Torrent]

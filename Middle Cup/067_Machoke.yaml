@@ -1,5 +1,5 @@
 species: Machoke
-setname: NoGuard
+setname: m-NoGuard
 tags: [middlecup]
 item: [lum berry]
 ability: [No Guard]
@@ -21,7 +21,7 @@ evs: {hp: 92, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 50
 ---
 species: Machoke
-setname: Guts
+setname: m-Guts
 tags: [middlecup]
 item: [toxic orb]
 ability: [guts]
@@ -41,7 +41,7 @@ evs: {hp: 4, atk: 0, def: 0, spA: 0, spD: 252, spe: 252}
 level: 50
 ---
 species: Machoke
-setname: SubPunch
+setname: m-SubPunch
 tags: [middlecup]
 item: [leftovers]
 ability: [Steadfast]

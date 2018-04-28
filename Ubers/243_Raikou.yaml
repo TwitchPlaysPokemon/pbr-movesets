@@ -1,5 +1,5 @@
 species: Raikou
-setname: CalmMind
+setname: u-CalmMind
 tags: [ubers]
 item: [Leftovers, Wise Glasses]
 ability: [Pressure, Volt Absorb]
@@ -22,7 +22,7 @@ ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
 ---
 species: Raikou
-setname: RainDance
+setname: u-RainDance
 tags: [ubers]
 item: [Expert Belt]
 ability: [Pressure]

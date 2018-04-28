@@ -1,5 +1,5 @@
 species: Jigglypuff
-setname: Support
+setname: m-Support
 tags: [middlecup]
 item: [Heat Rock, Damp Rock, Sitrus Berry]
 ability: [Cute Charm]
@@ -23,7 +23,7 @@ evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
 level: 50
 ---
 species: Jigglypuff
-setname: Screens
+setname: m-Screens
 tags: [middlecup]
 item: [Light Clay]
 ability: [Cute Charm]

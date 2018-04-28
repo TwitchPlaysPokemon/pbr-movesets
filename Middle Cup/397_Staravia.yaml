@@ -1,5 +1,5 @@
 species: Staravia
-setname: Reckless
+setname: m-Reckless
 tags: [middlecup]
 item: [Life Orb]
 ability: [Reckless]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 level: 50
 ---
 species: Staravia
-setname: Support
+setname: m-Support
 tags: [middlecup]
 item: [Leftovers]
 ability: [Intimidate]

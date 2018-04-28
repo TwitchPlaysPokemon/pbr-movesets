@@ -1,5 +1,5 @@
 species: Celebi
-setname: Defensive
+setname: u-Defensive
 tags: [ubers]
 item: [Enigma Berry]
 ability: [Natural Cure]
@@ -17,7 +17,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 156, spe: 100}
 ---
 species: Celebi
-setname: BatonPass
+setname: u-BatonPass
 tags: [ubers]
 item: [Yache Berry, Apicot Berry]
 ability: [Natural Cure]
@@ -35,7 +35,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 76, spA: 0, spD: 176, spe: 4}
 ---
 species: Celebi
-setname: SwordsDance
+setname: u-SwordsDance
 tags: [ubers]
 item: [Occa Berry, Yache Berry]
 ability: [Natural Cure]
@@ -53,7 +53,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 68, atk: 252, def: 0, spA: 0, spD: 0, spe: 188}
 ---
 species: Celebi
-setname: Scarf
+setname: u-Scarf
 tags: [ubers]
 item: [Choice Scarf]
 ability: [Natural Cure]
@@ -73,7 +73,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Celebi
-setname: Tinkerbell
+setname: u-Tinkerbell
 tags: [ubers]
 item: [Life Orb]
 ability: [Natural Cure]

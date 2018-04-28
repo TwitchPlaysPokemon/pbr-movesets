@@ -1,5 +1,5 @@
 species: Chansey
-setname: Lucky
+setname: m-Lucky
 tags: [middlecup]
 item: [Lucky Punch]
 ability: [Serene Grace]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 0, spe: 4}
 level: 50
 ---
 species: Chansey
-setname: Wall
+setname: m-Wall
 tags: [middlecup]
 item: [Ganlon Berry, Light Clay]
 ability: [Natural Cure]

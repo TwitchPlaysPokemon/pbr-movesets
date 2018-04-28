@@ -1,5 +1,5 @@
 species: Cresselia
-setname: Wall
+setname: u-Wall
 tags: [ubers]
 item: [Leftovers]
 ability: [Levitate]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
 ---
 species: Cresselia
-setname: CalmMind
+setname: u-CalmMind
 tags: [ubers]
 item: [Ganlon Berry]
 ability: [Levitate]

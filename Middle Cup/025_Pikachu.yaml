@@ -1,5 +1,5 @@
 species: Pikachu
-setname: Physical
+setname: m-Physical
 tags: [middlecup]
 item: [light ball]
 ability: [Static]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 116, def: 0, spA: 144, spD: 0, spe: 248}
 level: 50
 ---
 species: Pikachu
-setname: Special
+setname: m-Special
 tags: [middlecup]
 item: [Light Ball]
 ability: [Static]

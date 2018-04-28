@@ -1,5 +1,5 @@
 species: Sealeo
-setname: Hail
+setname: m-Hail
 tags: [middlecup]
 item: [Icy Rock]
 ability: [Ice Body]
@@ -19,7 +19,7 @@ evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 0, spe: 0}
 level: 50
 ---
 species: Sealeo
-setname: Defensive
+setname: m-Defensive
 tags: [middlecup]
 item: [Ganlon Berry, Apicot Berry]
 ability: [Thick Fat]
@@ -44,7 +44,7 @@ evs: {hp: 0, atk: 0, def: 76, spA: 76, spD: 76, spe: 0}
 level: 50
 ---
 species: Sealeo
-setname: Physical
+setname: m-Physical
 tags: [middlecup]
 item: [Berry Juice]
 ability: [Thick Fat]

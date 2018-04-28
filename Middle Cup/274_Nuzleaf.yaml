@@ -1,5 +1,5 @@
 species: Nuzleaf
-setname: SwordsDance
+setname: m-SwordsDance
 tags: [middlecup]
 item: [Life Orb]
 ability: [Chlorophyll]
@@ -19,7 +19,7 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 50
 ---
 species: Nuzleaf
-setname: NastyPlot
+setname: m-NastyPlot
 tags: [middlecup]
 item: [Life Orb]
 ability: [Chlorophyll]

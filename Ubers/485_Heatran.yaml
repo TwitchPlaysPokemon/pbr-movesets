@@ -1,5 +1,5 @@
 species: Heatran
-setname: SunnyDay
+setname: u-SunnyDay
 tags: [ubers]
 item: [Shuca Berry, Chople Berry]
 ability: [Flash Fire]
@@ -18,7 +18,7 @@ ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Heatran
-setname: Attacker
+setname: u-Attacker
 tags: [ubers]
 item: [Wise Glasses, Power Herb]
 ability: [Flash Fire]
@@ -39,7 +39,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Heatran
-setname: Choice
+setname: u-Choice
 tags: [ubers]
 item: [Choice Specs, Choice Scarf]
 ability: [Flame Body]
@@ -60,7 +60,7 @@ ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
 evs: {hp: 0, atk: 8, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Heatran
-setname: Wall
+setname: u-Wall
 tags: [ubers]
 item: [Leftovers, Shuca Berry]
 ability: [Flash Fire]
@@ -79,7 +79,7 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 244, atk: 0, def: 0, spA: 0, spD: 108, spe: 156}
 ---
 species: Heatran
-setname: TormenTran
+setname: u-TormenTran
 tags: [ubers]
 item: [Leftovers]
 ability: [Flash Fire]
