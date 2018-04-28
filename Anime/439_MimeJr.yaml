@@ -5,8 +5,8 @@ item: [Life Orb]
 ball: [Poke]
 moves:
     - [Mimic]
-    - [Tickle(=5)]
-    - [Teeter Dance(=10)]
+    - [Tickle (=5)]
+    - [Teeter Dance (=10)]
 gender: [m]
 happiness: 255
 biddable: True

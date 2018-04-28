@@ -17,4 +17,4 @@ nature: Mild
 evs: {hp: 0, atk: 252, def: 0, spA: 56, spD: 0, spe: 200}
 ivs: 31
 tags: [ash, anime]
-suppressions: public-shiny
+suppressions: [public-shiny]
