@@ -1,0 +1,39 @@
+species: Caterpie
+setname: l-Standard
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Serene Grace]
+moves:
+    - [Bug Bite]
+    - [Headbutt, Iron Head]
+    - [Attract]
+    - [Stun Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 196, def: 76, spA: 0, spD: 116, spe: 0}
+level: 5
+---
+species: Caterpie
+setname: l-Band
+tags: [littlecup]
+item: [Choice Band]
+ability: [Shield Dust]
+moves:
+    - [Megahorn]
+    - [U-Turn]
+    - [Extremespeed]
+    - [Switcheroo]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 220, atk: 200, def: 76, spA: 0, spD: 40, spe: 0}
+level: 5

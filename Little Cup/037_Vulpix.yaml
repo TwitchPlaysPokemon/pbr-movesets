@@ -1,0 +1,59 @@
+species: Vulpix
+setname: l-Support
+tags: [littlecup]
+item: [Sitrus Berry]
+ability: [Drought]
+moves:
+    - [Flamethrower, Fire Blast]
+    - [Solarbeam]
+    - [Disable, Protect, Confuse Ray]
+    - [Will-o-wisp, toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 132, atk: 0, def: 36, spA: 0, spD: 160, spe: 160}
+level: 5
+---
+species: Vulpix
+setname: l-Choice
+tags: [littlecup]
+item: [choice scarf, choice specs]
+ability: [Drought]
+moves:
+    - [flamethrower, fire blast]
+    - [energy ball]
+    - [dark pulse]
+    - [hidden power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 52, atk: 0, def: 40, spA: 200, spD: 0, spe: 160}
+level: 5
+---
+species: Vulpix
+setname: l-NastyPlot
+tags: [littlecup]
+item: [Focus Sash, Wide Lens]
+ability: [Flash Fire]
+moves:
+    - [Overheat, Fire blast]
+    - [energy ball]
+    - [dark pulse, hypnosis]
+    - [nasty plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 140, atk: 0, def: 0, spA: 200, spD: 0, spe: 160}
+level: 5

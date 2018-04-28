@@ -1,0 +1,62 @@
+species: Squirtle
+setname: l-Scarf
+tags: [littlecup]
+item: [Choice Scarf]
+ability: [Torrent]
+moves:
+    - [Water Spout]
+    - [Waterfall]
+    - [Return, Brick Break, Ice Punch, Zen Headbutt]
+    - [Ice beam, Aura Sphere, Hidden Power, Dark Pulse]
+separations:
+    - [ice beam, ice punch]
+    - [brick break, aura sphere]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 84, atk: 132, def: 0, spA: 40, spD: 4, spe: 172}
+level: 5
+---
+species: Squirtle
+setname: l-Defensive
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Torrent]
+moves:
+    - [Brine]
+    - [Dark Pulse, Hidden Power]
+    - [Toxic, yawn]
+    - [Rapid Spin, Counter, Mirror Coat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 0, def: 80, spA: 116, spD: 4, spe: 16}
+level: 5
+---
+species: Squirtle
+setname: l-Offensive
+tags: [littlecup]
+item: [Life Orb]
+ability: [Torrent]
+moves:
+    - [Fake Out]
+    - [Waterfall]
+    - [Body Slam, Zen Headbutt, Icy Wind, Aura Sphere]
+    - [Aqua Jet]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 212, def: 0, spA: 0, spD: 4, spe: 252}
+level: 5

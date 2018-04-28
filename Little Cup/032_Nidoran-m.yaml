@@ -1,0 +1,39 @@
+species: Nidoran♂
+setname: l-Mixed
+tags: [littlecup]
+item: [Life Orb, Expert Belt]
+ability: [Rivalry]
+moves:
+    - [sludge bomb]
+    - [sucker punch]
+    - [ice beam]
+    - [hidden power, thunderbolt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 80, def: 0, spA: 220, spD: 40, spe: 220}
+level: 5
+---
+species: Nidoran♂
+setname: l-Physical
+tags: [littlecup]
+item: [Life Orb, Focus Sash]
+ability: [Rivalry]
+moves:
+    - [Poison Jab]
+    - [Head Smash, Return, Body Slam]
+    - [Sucker Punch]
+    - [Dig, Double Kick]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 220, def: 40, spA: 0, spD: 40, spe: 200}
+level: 5

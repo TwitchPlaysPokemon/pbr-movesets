@@ -1,0 +1,59 @@
+species: Ekans
+setname: l-Defensive
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Intimidate]
+moves:
+    - [Poison Jab]
+    - [Sucker Punch, Aqua Tail, Iron Tail]
+    - [Substitute]
+    - [swagger, glare]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 120, def: 84, spA: 0, spD: 164, spe: 80}
+level: 5
+---
+species: Ekans
+setname: l-Band
+tags: [littlecup]
+item: [Choice Band]
+ability: [Intimidate]
+moves:
+    - [Poison Jab, Gunk Shot]
+    - [Earthquake]
+    - [Aqua Tail]
+    - [Bite]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 220, def: 4, spA: 0, spD: 100, spe: 80}
+level: 5
+---
+species: Ekans
+setname: l-Curse
+tags: [littlecup]
+item: [Black Sludge]
+ability: [Shed Skin]
+moves:
+    - [Poison Jab]
+    - [Payback, Ice Fang, Seed Bomb]
+    - [Rest]
+    - [Curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 40, def: 100, spA: 0, spD: 180, spe: 0}
+level: 5

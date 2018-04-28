@@ -1,0 +1,65 @@
+species: Sandshrew
+setname: l-Support
+tags: [littlecup]
+item: [Sitrus Berry]
+ability: [Sand Veil]
+moves:
+    - [Dig]
+    - [Rock Slide, Night Slash]
+    - [Rapid Spin, Knock Off]
+    - [Stealth Rock, Toxic]
+separations:
+    - [knock off, night slash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 80, def: 0, spA: 0, spD: 200, spe: 40}
+level: 5
+---
+species: Sandshrew
+setname: l-Sandstorm
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Sand Veil]
+moves:
+    - [Dig]
+    - [Rock Slide, Poison Jab, X-Scissor]
+    - [Substitute]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 0, def: 0, spA: 0, spD: 220, spe: 220}
+level: 5
+---
+species: Sandshrew
+setname: l-SwordsDance
+tags: [littlecup]
+item: [Passho Berry, Rindo Berry, Salac Berry]
+ability: [Sand Veil]
+moves:
+    - [Earthquake]
+    - [Rock Slide, X-Scissor, Poison Jab]
+    - [Rock Tomb, Natural Gift, Night Slash]
+    - [Swords Dance]
+combinations:
+    - [night slash, salac berry]
+separations:
+    - [rock slide, rock tomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 0, def: 80, spA: 0, spD: 200, spe: 120}
+level: 5

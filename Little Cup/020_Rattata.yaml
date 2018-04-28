@@ -1,0 +1,39 @@
+species: Rattata
+setname: l-Utility
+tags: [littlecup]
+item: [Life Orb]
+ability: [Guts]
+moves:
+    - [Return]
+    - [Sucker Punch]
+    - [Quick Attack, Flame Wheel]
+    - [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 80, spA: 0, spD: 80, spe: 100}
+level: 5
+---
+species: Rattata
+setname: l-SwordsDance
+tags: [littlecup]
+item: [Toxic Orb]
+ability: [Guts]
+moves:
+    - [Body Slam]
+    - [Crunch, Sucker Punch, Zen Headbutt]
+    - [Dig, Rock Smash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 240, def: 0, spA: 0, spD: 0, spe: 180}
+level: 5

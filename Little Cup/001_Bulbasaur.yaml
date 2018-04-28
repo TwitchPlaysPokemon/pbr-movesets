@@ -1,0 +1,70 @@
+species: Bulbasaur
+setname: l-Defensive
+tags: [littlecup]
+item: [Big Root, Meadow Plate]
+ability: [Overgrow]
+moves:
+    - [Sludge Bomb, Energy Ball]
+    - [Giga Drain, Sludge]
+    - [Leech Seed, Knock Off]
+    - [Protect, Synthesis]
+combinations:
+    - [Meadow plate, energy ball]
+    - [leech seed, protect]
+    - [knock off, synthesis]
+separations:
+    - [energy ball, giga drain]
+    - [sludge bomb, sludge]
+    - [leech seed, synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 240, atk: 204, def: 44, spA: 0, spD: 0, spe: 0}
+level: 5
+---
+species: Bulbasaur
+setname: l-Scarf
+tags: [littlecup]
+item: [Choice Scarf]
+ability: [Overgrow]
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb]
+    - [Hidden Power]
+    - [Nature Power, Petal Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 240, spD: 0, spe: 240}
+level: 5
+---
+species: Bulbasaur
+setname: l-Offensive
+tags: [littlecup]
+item: [Zoom Lens, Occa Berry]
+ability: [Overgrow, Chlorophyll]
+moves:
+    - [Power Whip, Solarbeam]
+    - [Hidden Power, Fury Cutter, Weather Ball]
+    - [Nature Power, Ancientpower]
+    - [Sleep Powder, Sunny Day]
+combinations:
+    - [zoom lens, overgrow]
+    - [Solarbeam, weather ball, sunny day, chlorophyll]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 30, spe: 3}
+evs: {hp: 76, atk: 124, def: 48, spA: 0, spD: 0, spe: 0}
+level: 5
