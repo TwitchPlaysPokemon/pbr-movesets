@@ -1,0 +1,39 @@
+species: Slowpoke
+setname: l-CalmMind
+tags: [littlecup]
+item: [Colbur Berry]
+ability: [Own Tempo]
+moves:
+    - [Surf]
+    - [Psychic]
+    - [Calm Mind]
+    - [Thunder Wave, Slack Off]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 0, def: 240, spA: 40, spD: 200, spe: 0}
+level: 5
+---
+species: Slowpoke
+setname: l-TrickRoom
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Own Tempo]
+moves:
+    - [aqua tail]
+    - [Zen Headbutt]
+    - [Earthquake, Slack Off]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 240, def: 80, spA: 0, spD: 200, spe: 0}
+level: 5

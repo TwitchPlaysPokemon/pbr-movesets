@@ -1,0 +1,39 @@
+species: Geodude
+setname: l-Defensive
+tags: [littlecup]
+item: [Custap Berry]
+ability: [sand Veil]
+moves:
+    - [Earthquake]
+    - [Sucker Punch]
+    - [Explosion, Selfdestruct]
+    - [stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 120, spA: 0, spD: 200, spe: 0}
+level: 5
+---
+species: Geodude
+setname: l-Polish
+tags: [littlecup]
+item: [Life Orb, Focus sash]
+ability: [sand Veil]
+moves:
+    - [Earthquake]
+    - [Stone Edge, Rock Slide]
+    - [Fire Punch, Explosion]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 200, def: 40, spA: 0, spD: 40, spe: 200}
+level: 5

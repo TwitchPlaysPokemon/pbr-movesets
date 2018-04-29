@@ -1,0 +1,39 @@
+species: Oddish
+setname: l-Defensive
+tags: [littlecup]
+item: [Big Root]
+ability: [Effect Spore]
+moves:
+    - [Sludge Bomb]
+    - [Giga Drain]
+    - [Leech Seed]
+    - [Stun Spore, Protect, substitute, synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 80, spA: 80, spD: 160, spe: 40}
+level: 5
+---
+species: Oddish
+setname: l-SunnyDay
+tags: [littlecup]
+item: [Life Orb, Meadow Plate]
+ability: [Chlorophyll]
+moves:
+    - [Solarbeam]
+    - [Sludge Bomb]
+    - [Hidden Power, Teeter Dance]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Modest
+ivs: {hp: 3, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 160, spA: 80, spD: 80, spe: 0}
+level: 5

@@ -1,0 +1,39 @@
+species: Mankey
+setname: l-Scarf
+tags: [littlecup]
+item: [Choice Scarf]
+ability: [Vital Spirit]
+moves:
+    - [Close Combat]
+    - [Punishment, Earthquake, Gunk Shot, Rock Slide]
+    - [Ice Punch, Fire Punch, Thunder Punch, Seed Bomb]
+    - [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 200, def: 0, spA: 0, spD: 0, spe: 200}
+level: 5
+---
+species: Mankey
+setname: l-BulkUp
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Vital Spirit]
+moves:
+    - [Close Combat]
+    - [Earthquake, Seed Bomb]
+    - [Ice Punch, Rock slide, Thunder Punch]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 240, def: 0, spA: 0, spD: 0, spe: 200}
+level: 5

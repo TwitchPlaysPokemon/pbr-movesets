@@ -1,0 +1,23 @@
+species: Machop
+setname: l-Offensive
+tags: [littlecup]
+item: [Lum Berry, Oran Berry, Choice Scarf]
+ability: [No Guard]
+moves:
+    - [Dynamic Punch]
+    - [Ice Punch, Earthquake, Rock Slide]
+    - [Payback, Bullet Punch, Thunder Punch]
+    - [Bullet Punch, Bulk Up, Substitute, Poison Jab]
+combinations:
+    - [choice scarf, thunder punch, poison jab]
+separations:
+    - [bullet punch, bullet punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 200, def: 40, spA: 0, spD: 160, spe: 0}
+level: 5

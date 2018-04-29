@@ -1,0 +1,39 @@
+species: Venonat
+setname: l-BatonPass
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Compound Eyes]
+moves:
+    - [Bug Bite]
+    - [Sleep Powder]
+    - [Agility]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 80, def: 120, spA: 0, spD: 160, spe: 0}
+level: 5
+---
+species: Venonat
+setname: l-Defensive
+tags: [littlecup]
+item: [Zoom Lens]
+ability: [Tinted Lens]
+moves:
+    - [Sludge Bomb]
+    - [Signal Beam, U-Turn]
+    - [Stun Spore]
+    - [Morning Sun]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 0, def: 120, spA: 200, spD: 80, spe: 0}
+level: 5
