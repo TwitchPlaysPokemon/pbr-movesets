@@ -1,0 +1,62 @@
+species: Dratini
+setname: l-Mixed
+tags: [littlecup]
+item: [Expert Belt]
+ability: [Shed Skin]
+moves:
+    - [Draco Meteor, Dragon Rush]
+    - [Fire Blast, Ice Beam]
+    - [Aqua Tail, Thunderbolt]
+    - [Extremespeed]
+combinations:
+    - [draco meteor, fire blast, aqua tail]
+    - [dragon rush, ice beam, thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 188, atk: 48, def: 0, spA: 120, spD: 40, spe: 40}
+level: 5
+---
+species: Dratini
+setname: l-Choice
+tags: [littlecup]
+item: [Choice Band, Choice Scarf]
+ability: [Shed Skin]
+moves:
+    - [Outrage]
+    - [Fire Blast]
+    - [Waterfall]
+    - [Extremespeed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 28, atk: 164, def: 0, spA: 120, spD: 0, spe: 200}
+level: 5
+---
+species: Dratini
+setname: l-DragonDance
+tags: [littlecup]
+item: [Life Orb]
+ability: [Shed Skin]
+moves:
+    - [Outrage]
+    - [Waterfall, iron tail]
+    - [extremespeed, facade]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 28, atk: 164, def: 80, spA: 0, spD: 40, spe: 200}
+level: 5

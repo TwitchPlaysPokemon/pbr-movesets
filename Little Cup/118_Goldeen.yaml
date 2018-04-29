@@ -1,0 +1,23 @@
+species: Goldeen
+setname: l-Mixed
+tags: [littlecup]
+item: [Life Orb]
+ability: [Water Veil, Swift Swim]
+moves:
+    - [Aqua Tail, Hydro Pump]
+    - [Return]
+    - [Icy Wind, poison jab, rain dance]
+    - [Horn Drill]
+combinations:
+    - [swift swim, rain dance]
+separations:
+    - [water veil, rain dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 40, spA: 240, spD: 40, spe: 20}
+level: 5

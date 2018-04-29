@@ -1,0 +1,39 @@
+species: Onix
+setname: l-Defensive
+tags: [littlecup]
+item: [Sitrus Berry]
+ability: [Sturdy]
+moves:
+    - [Earthquake]
+    - [Rock Slide, Rock Blast]
+    - [Taunt, Roar, Toxic]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 40, spA: 0, spD: 0, spe: 200}
+level: 5
+---
+species: Onix
+setname: l-Polish
+tags: [littlecup]
+item: [Life Orb]
+ability: [Sturdy]
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Explosion, Sandstorm]
+    - [Rock Polish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 0, spA: 0, spD: 160, spe: 120}
+level: 5

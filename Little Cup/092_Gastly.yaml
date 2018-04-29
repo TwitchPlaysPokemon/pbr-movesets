@@ -1,0 +1,59 @@
+species: Gastly
+setname: l-Standard
+tags: [littlecup]
+item: [Focus Sash]
+ability: [levitate]
+moves:
+    - [shadow ball, sludge bomb]
+    - [psychic, thunderbolt]
+    - [Giga Drain, Icy Wind]
+    - [Perish Song, Will-O-Wisp, Torment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 80, spe: 200}
+level: 5
+---
+species: Gastly
+setname: l-Choice
+tags: [littlecup]
+item: [Choice Specs, Choice Scarf]
+ability: [levitate]
+moves:
+    - [shadow ball]
+    - [Sludge Bomb]
+    - [Thunderbolt, Energy Ball]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 36, atk: 0, def: 40, spA: 200, spD: 0, spe: 200}
+level: 5
+---
+species: Gastly
+setname: l-Utility
+tags: [littlecup]
+item: [Life Orb]
+ability: [levitate]
+moves:
+    - [shadow ball, sludge bomb]
+    - [psychic, thunderbolt]
+    - [Hypnosis]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 80, spe: 200}
+level: 5

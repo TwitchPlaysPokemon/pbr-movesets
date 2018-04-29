@@ -1,0 +1,19 @@
+species: Cubone
+setname: l-Standard
+tags: [littlecup]
+item: [Thick Club]
+ability: [Rock Head]
+moves:
+    - [Bonemerang]
+    - [Double Edge]
+    - [Fire Punch]
+    - [Substitute, Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 40, def: 80, spA: 0, spD: 120, spe: 80}
+level: 5

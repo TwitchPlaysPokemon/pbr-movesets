@@ -1,0 +1,39 @@
+species: Kabuto
+setname: l-Band
+tags: [littlecup]
+item: [Choice Band]
+ability: [Shell armor]
+moves:
+    - [Waterfall]
+    - [Rock Slide]
+    - [Aerial Ace]
+    - [Aqua Jet]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 44, def: 40, spA: 0, spD: 160, spe: 80}
+level: 5
+---
+species: Kabuto
+setname: l-Rain
+tags: [littlecup]
+item: [Life Orb]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Rock Slide]
+    - [Earth Power, Giga Drain]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 160, spD: 0, spe: 160}
+level: 5

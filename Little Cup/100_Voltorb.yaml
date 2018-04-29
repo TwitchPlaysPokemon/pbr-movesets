@@ -1,0 +1,19 @@
+species: Voltorb
+setname: l-Standard
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Static, Aftermath]
+moves:
+    - [Thunder]
+    - [Hidden Power]
+    - [Explosion]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Hasty
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 120, def: 0, spA: 160, spD: 0, spe: 200}
+level: 5

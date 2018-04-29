@@ -1,0 +1,59 @@
+species: Doduo
+setname: l-Rest
+tags: [littlecup]
+item: [Sitrus Berry, Chesto Berry]
+ability: [Early Bird]
+moves:
+    - [Fly]
+    - [Facade]
+    - [Assurance, Jump Kick]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 5
+---
+species: Doduo
+setname: l-Offensive
+tags: [littlecup]
+item: [Life Orb]
+ability: [Early Bird]
+moves:
+    - [Brave Bird, Pluck]
+    - [Double Edge, Return]
+    - [Hidden Power]
+    - [Roost]
+gender: [m, f]
+happiness: 225
+biddable: True
+rarity: 0.35
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 27, atk: 31, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 5
+---
+species: Doduo
+setname: l-DoubleDance
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Tangled Feet]
+moves:
+    - [Brave Bird]
+    - [Return, Jump Kick]
+    - [Swords Dance]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.35
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 5

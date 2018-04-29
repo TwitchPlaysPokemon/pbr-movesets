@@ -1,0 +1,66 @@
+species: Lickitung
+setname: l-Mixed
+tags: [littlecup]
+item: [Expert Belt]
+ability: [Cloud Nine]
+moves:
+    - [Wring Out, Focus Punch]
+    - [Power Whip, Earthquake, Zen Headbutt]
+    - [Ice Beam, Shadow Ball, Thunderbolt]
+    - [Fire Punch, Aqua Tail, Thunder Punch]
+separations:
+    - [thunder punch, thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 60, def: 0, spA: 200, spD: 0, spe: 120}
+level: 5
+---
+species: Lickitung
+setname: l-Nuke
+tags: [littlecup]
+item: [Silk Scarf]
+ability: [Cloud Nine]
+moves:
+    - [Giga Impact]
+    - [Hammer Arm]
+    - [Fire Punch]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 240, def: 0, spA: 0, spD: 0, spe: 40}
+level: 5
+---
+species: Lickitung
+setname: l-Wish
+tags: [littlecup]
+item: [Leftovers]
+ability: [Cloud Nine]
+moves:
+    - [Headbutt, Body Slam]
+    - [Focus Punch, aqua tail, iron tail]
+    - [thunder wave, substitute]
+    - [wish]
+combinations:
+    - [headbutt, thunder wave]
+    - [focus punch, substitute]
+separations:
+    - [headbutt, focus punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 0, def: 160, spA: 0, spD: 240, spe: 40}
+level: 5

@@ -1,0 +1,63 @@
+species: Krabby
+setname: l-DoubleDance
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Shell Armor, Hyper cutter]
+moves:
+    - [Crabhammer]
+    - [X-Scissor, Brick Break, Return]
+    - [Swords Dance]
+    - [Agility]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 80, def: 40, spA: 0, spD: 160, spe: 200}
+level: 5
+---
+species: Krabby
+setname: l-Flail
+tags: [littlecup]
+item: [Salac Berry]
+ability: [Hyper Cutter]
+moves:
+    - [Crabhammer]
+    - [Superpower]
+    - [Flail]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Poke]
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 240, def: 0, spA: 0, spD: 0, spe: 200}
+level: 5
+---
+species: Krabby
+setname: l-Choice
+tags: [littlecup]
+item: [Choice Band, Choice Scarf]
+ability: [Hyper Cutter]
+moves:
+    - [Crabhammer]
+    - [X-Scissor, Superpower]
+    - [Rock Slide, Return]
+    - [Secret Power, Guillotine]
+combinations:
+    - [choice scarf, guillotine]
+separations:
+    - [choice band, guillotine]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 240, def: 40, spA: 0, spD: 0, spe: 200}
+level: 5

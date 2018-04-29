@@ -1,0 +1,37 @@
+species: Porygon
+setname: l-Defensive
+tags: [littlecup]
+item: [oran berry]
+ability: [trace]
+moves:
+    - [ice beam]
+    - [discharge]
+    - [conversion 2]
+    - [recycle]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 40, spA: 0, spD: 80, spe: 0}
+level: 5
+---
+species: Porygon
+setname: l-Offensive
+tags: [littlecup]
+item: [expert belt, sitrus berry]
+ability: [Download]
+moves:
+    - [Discharge, ice beam, shadow ball, signal beam]
+    - [zen headbutt, iron tail, aerial ace]
+    - [last resort]
+    - [agility, trick room, pain split]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Bashful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 120, def: 40, spA: 0, spD: 80, spe: 40}
+level: 5

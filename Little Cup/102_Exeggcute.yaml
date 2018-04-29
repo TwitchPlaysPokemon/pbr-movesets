@@ -1,0 +1,39 @@
+species: Exeggcute
+setname: l-Offensive
+tags: [littlecup]
+item: [Miracle Seed]
+ability: [Chlorophyll]
+moves:
+    - [Psychic]
+    - [Seed Bomb]
+    - [Sludge Bomb]
+    - [Trick Room, Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poke]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 120, def: 40, spA: 200, spD: 80, spe: 0}
+level: 5
+---
+species: Exeggcute
+setname: l-Support
+tags: [littlecup]
+item: [Light Clay]
+ability: [Chlorophyll]
+moves:
+    - [Psychic]
+    - [Sleep Powder]
+    - [Reflect]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 40, spA: 40, spD: 240, spe: 0}
+level: 5

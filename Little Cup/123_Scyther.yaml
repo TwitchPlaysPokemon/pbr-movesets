@@ -1,0 +1,59 @@
+species: Scyther
+setname: l-Special
+tags: [littlecup]
+item: [Life Orb]
+ability: [Swarm]
+moves:
+    - [Silver Wind]
+    - [Air Cutter]
+    - [Ominous Wind]
+    - [Vacuum Wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 40, spA: 240, spD: 40, spe: 160}
+level: 5
+---
+species: Scyther
+setname: l-Physical
+tags: [littlecup]
+item: [Iron Ball]
+ability: [Technician]
+moves:
+    - [U-Turn]
+    - [Peck]
+    - [Rock Smash, Slash, Thief]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 120, def: 0, spA: 0, spD: 0, spe: 0}
+level: 5
+---
+species: Scyther
+setname: l-Overpowered
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Technician]
+moves:
+    - [Aerial Ace]
+    - [Quick Attack]
+    - [Brick Break]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 40, spA: 0, spD: 40, spe: 240}
+level: 5

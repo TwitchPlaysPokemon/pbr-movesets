@@ -1,0 +1,36 @@
+species: Eevee
+setname: l-LastResort
+tags: [littlecup]
+item: [Choice Band, Focus Sash]
+ability: [Adaptability]
+moves:
+    - [Last Resort (=8)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 80, def: 40, spA: 0, spD: 80, spe: 160}
+level: 5
+---
+species: Eevee
+setname: l-Choice
+tags: [littlecup]
+item: [Choice Band, Choice Scarf]
+ability: [Adaptability]
+moves:
+    - [Return, Double Edge]
+    - [Iron Tail]
+    - [Bite, Dig]
+    - [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 40, spA: 0, spD: 0, spe: 240}
+level: 5
