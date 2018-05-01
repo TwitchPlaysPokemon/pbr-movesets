@@ -1,0 +1,41 @@
+species: Poochyena
+setname: l-Standard
+tags: [littlecup]
+item: [oran berry]
+ability: [Quick Feet]
+moves:
+    - [super fang]
+    - [sucker punch]
+    - [punishment, toxic, fire fang]
+    - [swagger, taunt, roar, counter]
+combinations:
+    - [swagger, punishment]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 160, spA: 0, spD: 200, spe: 0}
+level: 5
+---
+species: Poochyena
+setname: l-QuickFeet
+tags: [littlecup]
+item: [toxic orb]
+ability: [Quick Feet]
+moves:
+    - [crunch]
+    - [facade]
+    - [iron tail, fire fang, thunder fang, ice fang, dig]
+    - [me first, rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 240, def: 0, spA: 0, spD: 40, spe: 160}
+level: 5

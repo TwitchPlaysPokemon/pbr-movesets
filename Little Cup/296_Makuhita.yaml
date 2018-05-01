@@ -1,0 +1,43 @@
+species: Makuhita
+setname: l-Guts
+tags: [littlecup]
+item: [Toxic Orb]
+ability: [Guts]
+moves:
+    - [fake out]
+    - [close combat]
+    - [earthquake, rock slide, poison jab, fire punch, thunder punch, ice punch]
+    - [bullet punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 120, def: 200, spA: 0, spD: 200, spe: 0}
+level: 5
+---
+species: Makuhita
+setname: l-BulkUp
+tags: [littlecup]
+item: [oran berry]
+ability: [thick fat]
+moves:
+    - [vital throw, force palm, revenge]
+    - [earthquake, rock slide, fire punch, ice punch, thunder punch]
+    - [bullet punch, fire punch, ice punch, thunder punch]
+    - [bulk up]
+separations:
+    - [fire punch, fire punch]
+    - [ice punch, ice punch]
+    - [thunder punch, thunder punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 200, def: 0, spA: 0, spD: 120, spe: 0}
+level: 5

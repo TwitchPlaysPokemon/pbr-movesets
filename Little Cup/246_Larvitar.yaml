@@ -1,0 +1,39 @@
+species: Larvitar
+setname: l-Guts
+tags: [littlecup]
+item: [Toxic]
+ability: [guts]
+moves:
+    - [earthquake]
+    - [rock slide]
+    - [ice punch, facade]
+    - [dragon dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 244, def: 0, spA: 0, spD: 40, spe: 200}
+level: 5
+---
+species: Larvitar
+setname: l-Tank
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Sand Stream]
+moves:
+    - [earthquake]
+    - [stone edge]
+    - [pursuit]
+    - [stealth rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 48, def: 200, spA: 0, spD: 40, spe: 28}
+level: 5

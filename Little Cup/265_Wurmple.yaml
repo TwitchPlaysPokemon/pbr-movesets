@@ -1,0 +1,19 @@
+species: Wurmple
+setname: l-Standard
+tags: [littlecup]
+item: [Berry Juice]
+ability: [Shield dust]
+moves:
+    - [super fang]
+    - [u-turn]
+    - [rock tomb]
+    - [toxic spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 80, def: 240, spA: 0, spD: 120, spe: 0}
+level: 5

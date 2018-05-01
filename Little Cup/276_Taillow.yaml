@@ -1,0 +1,19 @@
+species: Taillow
+setname: l-guts
+tags: [littlecup]
+item: [toxic orb]
+ability: [guts]
+moves:
+    - [brave bird, pluck]
+    - [facade]
+    - [mirror move, quick attack]
+    - [u-turn, protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 240, def: 0, spA: 0, spD: 0, spe: 240}
+level: 5

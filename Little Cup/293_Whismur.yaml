@@ -1,0 +1,22 @@
+species: Whismur
+setname: l-Attacker
+tags: [littlecup]
+item: [Life Orb]
+ability: [Soundproof]
+moves:
+    - [hyper voice, double edge]
+    - [fire blast, shadow ball, ice beam]
+    - [thunder punch, fire punch, ice punch]
+    - [hammer arm, crunch, extrasensory]
+separations:
+    - [fire punch, fire blast]
+    - [ice punch, ice beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 200, def: 100, spA: 200, spD: 12, spe: 0}
+level: 5

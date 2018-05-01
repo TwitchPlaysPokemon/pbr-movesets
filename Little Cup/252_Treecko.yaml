@@ -1,0 +1,19 @@
+species: Treecko
+setname: l-Standard
+tags: [littlecup]
+item: [focus sash]
+ability: [overgrow]
+moves:
+    - [leaf storm]
+    - [seed bomb]
+    - [thunder punch, crunch, rock slide, brick break]
+    - [grass whistle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 160, def: 0, spA: 160, spD: 0, spe: 200}
+level: 5

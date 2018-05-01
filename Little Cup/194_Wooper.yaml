@@ -1,0 +1,41 @@
+species: Wooper
+setname: l-Wall
+tags: [littlecup]
+item: [leftovers]
+ability: [water absorb]
+moves:
+    - [Earthquake]
+    - [waterfall, dive]
+    - [protect, haze, counter, encore]
+    - [toxic]
+combinations:
+    - [encore, dive]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 80, spA: 0, spD: 160, spe: 0}
+level: 5
+---
+species: Wooper
+setname: l-Curse
+tags: [littlecup]
+item: [muscle band]
+ability: [unaware]
+moves:
+    - [Earthquake]
+    - [aqua tail, waterfall]
+    - [ice punch, body slam]
+    - [curse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 0, spA: 0, spD: 240, spe: 0}
+level: 5

@@ -1,0 +1,39 @@
+species: Cleffa
+setname: l-Attacker
+tags: [littlecup]
+item: [life orb]
+ability: [magic guard]
+moves:
+    - [hyper voice]
+    - [flamethrower, psychic, shadow ball]
+    - [signal beam, magical leaf, icy wind]
+    - [thunder wave, fake tears]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 52, spA: 240, spD: 0, spe: 0}
+level: 5
+---
+species: Cleffa
+setname: l-BellyDrum
+tags: [littlecup]
+item: [Berry Juice]
+ability: [magic guard]
+moves:
+    - [body slam]
+    - [iron tail, dig]
+    - [zen headbutt]
+    - [belly drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 80, def: 212, spA: 0, spD: 80, spe: 0}
+level: 5

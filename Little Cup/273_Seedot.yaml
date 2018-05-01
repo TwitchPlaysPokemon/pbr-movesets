@@ -1,0 +1,43 @@
+species: Seedot
+setname: l-SunnyDay
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Chlorophyll]
+moves:
+    - [solarbeam]
+    - [shadow ball, return]
+    - [nature power, hidden power, explosion]
+    - [sunny day]
+separations:
+    - [return, explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 200, spD: 0, spe: 120}
+level: 5
+---
+species: Seedot
+setname: l-Physical
+tags: [littlecup]
+item: [life orb]
+ability: [Chlorophyll]
+moves:
+    - [seed bomb]
+    - [quick attack, dig, rollout]
+    - [swords dance, defense curl]
+    - [synthesis]
+combinations:
+    - [defense curl, rollout]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 19, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 40, spA: 0, spD: 40, spe: 200}
+level: 5

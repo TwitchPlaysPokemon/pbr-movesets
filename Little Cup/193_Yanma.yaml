@@ -1,0 +1,59 @@
+species: Yanma
+setname: l-Mixed
+tags: [littlecup]
+item: [oran berry]
+ability: [compound eyes]
+moves:
+    - [u-turn]
+    - [air cutter]
+    - [giga drain]
+    - [hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: 76
+level: 5
+---
+species: Yanma
+setname: l-Special
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Speed Boost]
+moves:
+    - [Bug buzz]
+    - [air cutter]
+    - [shadow ball]
+    - [detect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Poke]
+nature: modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 5
+---
+species: Yanma
+setname: l-Overpowered
+tags: [littlecup]
+item: [life orb]
+ability: [compound eyes]
+moves:
+    - [bug buzz]
+    - [air slash]
+    - [roost]
+    - [hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Poke]
+nature: modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 240, spD: 0, spe: 240}
+level: 5

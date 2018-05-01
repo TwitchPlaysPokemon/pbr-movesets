@@ -1,0 +1,43 @@
+species: Zigzagoon
+setname: l-Bellydrum
+tags: [littlecup]
+item: [oran berry]
+ability: [quick feet]
+moves:
+    - [extremespeed]
+    - [gunk shot, iron tail, seed bomb, dig]
+    - [seed bomb, thief, rock smash, pin missile]
+    - [belly drum]
+separations:
+    - [seed bomb, seed bomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 28, spA: 0, spD: 28, spe: 200}
+level: 5
+---
+species: Zigzagoon
+setname: l-Mixed
+tags: [littlecup]
+item: [life orb]
+ability: [quick feet]
+moves:
+    - [extremespeed, return]
+    - [iron tail, gunk shot, seed bomb, dig]
+    - [thunderbolt, ice beam, surf, shadow ball]
+    - [icy wind, tickle, attract, thunder wave, swagger]
+separations:
+    - [icy wind, ice beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 200, spD: 0, spe: 116}
+level: 5

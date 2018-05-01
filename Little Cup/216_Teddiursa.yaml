@@ -1,0 +1,41 @@
+species: Teddiursa
+setname: l-Offensive
+tags: [littlecup]
+item: [toxic orb]
+ability: [quick feet]
+moves:
+    - [facade]
+    - [close combat]
+    - [crunch, ice punch]
+    - [ice punch, swords dance]
+separations:
+    - [ice punch, ice punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 120, def: 120, spA: 0, spD: 200, spe: 44}
+level: 5
+---
+species: Teddiursa
+setname: l-RestTalk
+tags: [littlecup]
+item: [leftovers]
+ability: [quick feet]
+moves:
+    - [headbutt]
+    - [bite]
+    - [sleep talk]
+    - [rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 40, def: 200, spA: 0, spD: 200, spe: 40}
+level: 5

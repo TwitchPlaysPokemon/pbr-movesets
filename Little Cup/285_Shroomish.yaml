@@ -1,0 +1,41 @@
+species: Shroomish
+setname: l-ToxicOrb
+tags: [littlecup]
+item: [toxic orb]
+ability: [poison heal]
+moves:
+    - [seed bomb]
+    - [focus punch, facade]
+    - [substitute, swords dance]
+    - [spore]
+combinations:
+    - [focus punch, substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 120, atk: 200, def: 120, spA: 0, spD: 120, spe: 0}
+level: 5
+---
+species: Shroomish
+setname: l-Technician
+tags: [littlecup]
+item: [Life orb]
+ability: [Technician]
+moves:
+    - [Giga Drain]
+    - [Wake-Up Slap]
+    - [Hidden Power]
+    - [Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 30, atk: 31, def: 26, spA: 29, spD: 30, spe: 30}
+evs: {hp: 40, atk: 200, def: 60, spA: 124, spD: 40, spe: 0}
+level: 5

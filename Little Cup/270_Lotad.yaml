@@ -1,0 +1,39 @@
+species: Lotad
+setname: l-Drizzle
+tags: [littlecup]
+item: [Sitrus Berry]
+ability: [Drizzle]
+moves:
+    - [Surf]
+    - [giga drain, energy ball]
+    - [ice beam, blizzard]
+    - [counter, leech seed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 0, def: 120, spA: 120, spD: 40, spe: 120}
+level: 5
+---
+species: Lotad
+setname: l-SunnyDay
+tags: [littlecup]
+item: [Life Orb]
+ability: [swift Swim]
+moves:
+    - [solarbeam]
+    - [ice beam]
+    - [weather ball]
+    - [sunny day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 40, spA: 200, spD: 40, spe: 200}
+level: 5

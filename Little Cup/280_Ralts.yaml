@@ -1,0 +1,61 @@
+species: Ralts
+setname: l-Utility
+tags: [littlecup]
+item: [focus sash]
+ability: [Trace]
+moves:
+    - [Psychic]
+    - [Shadow Ball, thunderbolt, signal beam]
+    - [pain split, will-o-wisp, light screen, encore, reflect, snatch]
+    - [thunder wave, destiny bond, memento, taunt, grudge]
+separations:
+    - [will-o-wisp, thunder wave]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 240, spD: 80, spe: 200}
+level: 5
+---
+species: Ralts
+setname: l-Specs
+tags: [littlecup]
+item: [Choice Specs]
+ability: [Trace]
+moves:
+    - [Psychic]
+    - [Shadow Ball, thunderbolt, signal beam]
+    - [torment, destiny bond]
+    - [trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 0, spA: 240, spD: 0, spe: 200}
+level: 5
+---
+species: Ralts
+setname: l-CalmMind
+tags: [littlecup]
+item: [oran berry]
+ability: [Trace, synchronise]
+moves:
+    - [Psychic]
+    - [Shadow Ball, thunderbolt, signal beam]
+    - [will-o-wisp]
+    - [calm mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 0, spA: 240, spD: 0, spe: 200}
+level: 5

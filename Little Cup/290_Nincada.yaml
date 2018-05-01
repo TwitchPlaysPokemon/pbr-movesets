@@ -1,0 +1,19 @@
+species: Nincada
+setname: l-Standard
+tags: [littlecup]
+item: [oran berry]
+ability: [Compound eyes]
+moves:
+    - [megahorn]
+    - [bonemerang]
+    - [stone edge]
+    - [u-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 80, def: 200, spA: 0, spD: 200, spe: 40}
+level: 5

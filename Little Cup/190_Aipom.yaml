@@ -1,0 +1,39 @@
+species: Aipom
+setname: l-Offensive
+tags: [littlecup]
+item: [life orb]
+ability: [skill link]
+moves:
+    - [fury swipes]
+    - [brick break]
+    - [shadow claw]
+    - [u-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 40, def: 80, spA: 0, spD: 84, spe: 160}
+level: 5
+---
+species: Aipom
+setname: l-BatonPass
+tags: [littlecup]
+item: [Sitrus Berry]
+ability: [Run Away]
+moves:
+    - [swift]
+    - [thunderbolt]
+    - [nasty plot, agility]
+    - [baton pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 240}
+level: 5

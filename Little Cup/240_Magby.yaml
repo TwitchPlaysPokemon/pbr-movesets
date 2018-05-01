@@ -1,0 +1,39 @@
+species: Magby
+setname: l-SunnyDay
+tags: [littlecup]
+item: [Focus Sash]
+ability: [flame body]
+moves:
+    - [flamethrower]
+    - [solarbeam]
+    - [mach punch]
+    - [sunny day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 120, spD: 0, spe: 252}
+level: 5
+---
+species: Magby
+setname: l-BellyDrum
+tags: [littlecup]
+item: [Oran Berry]
+ability: [flame body]
+moves:
+    - [fire punch]
+    - [thunder punch]
+    - [mach punch]
+    - [belly drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 80, def: 60, spA: 0, spD: 0, spe: 252}
+level: 5

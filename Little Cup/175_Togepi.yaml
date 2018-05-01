@@ -1,0 +1,39 @@
+species: Togepi
+setname: l-BatonPass
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Serene Grace]
+moves:
+    - [Tri Attack]
+    - [Shadow Ball]
+    - [Nasty Plot]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 80, spA: 120, spD: 160, spe: 0}
+level: 5
+---
+species: Togepi
+setname: l-Wish
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Serene Grace]
+moves:
+    - [Body Slam]
+    - [extrasensory, water pulse]
+    - [counter]
+    - [wish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 40, def: 240, spA: 0, spD: 240, spe: 0}
+level: 5

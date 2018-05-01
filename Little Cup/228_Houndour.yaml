@@ -1,0 +1,39 @@
+species: Houndour
+setname: l-Offensive
+tags: [littlecup]
+item: [oran berry]
+ability: [flash fire]
+moves:
+    - [fire blast]
+    - [sucker punch]
+    - [pursuit]
+    - [will-o-wisp, taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 120, def: 44, spA: 0, spD: 120, spe: 80}
+level: 5
+---
+species: Houndour
+setname: l-SunnyDay
+tags: [littlecup]
+item: [oran berry]
+ability: [Solar power]
+moves:
+    - [flamethrower]
+    - [dark pulse]
+    - [solarbeam]
+    - [sunny day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 40, spA: 120, spD: 40, spe: 160}
+level: 5

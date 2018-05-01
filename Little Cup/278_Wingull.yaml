@@ -1,0 +1,39 @@
+species: Wingull
+setname: l-Offensive
+tags: [littlecup]
+item: [life orb]
+ability: [keen eye]
+moves:
+    - [surf, brine]
+    - [air slash]
+    - [ice beam, u-turn]
+    - [shock wave, quick attack, tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 40, def: 0, spA: 240, spD: 0, spe: 80}
+level: 5
+---
+species: Wingull
+setname: l-Drizzle
+tags: [littlecup]
+item: [Focus Sash]
+ability: [drizzle]
+moves:
+    - [Brine]
+    - [air slash]
+    - [roost]
+    - [tailwind, mist]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 36, atk: 0, def: 0, spA: 240, spD: 0, spe: 240}
+level: 5

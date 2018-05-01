@@ -1,0 +1,59 @@
+species: Sunkern
+setname: l-Annoyer
+tags: [littlecup]
+item: [oran berry]
+ability: [chlorophyll, solar power]
+moves:
+    - [energy ball, giga drain]
+    - [sludge bomb, earth power, hidden power]
+    - [leech seed, light screen, encore]
+    - [attract, swagger, grass whistle, protect, substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 0, def: 120, spA: 40, spD: 120, spe: 200}
+level: 5
+---
+species: Sunkern
+setname: l-Sweeper
+tags: [littlecup]
+item: [Focus sash, leftovers]
+ability: [chlorophyll]
+moves:
+    - [energy ball]
+    - [leech seed]
+    - [spore]
+    - [substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 120, spA: 40, spD: 120, spe: 200}
+level: 5
+---
+species: Sunkern
+setname: l-SwordsDance
+tags: [littlecup]
+item: [Salac Berry]
+ability: [chlorophyll]
+moves:
+    - [Seed Bomb]
+    - [Return]
+    - [Grass Whistle, natural gift, nature power]
+    - [swords dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Poke]
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 200, def: 0, spA: 40, spD: 0, spe: 200}
+level: 5

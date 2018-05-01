@@ -1,0 +1,39 @@
+species: Swinub
+setname: l-Standard
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Snow Cloak]
+moves:
+    - [earthquake]
+    - [ice shard]
+    - [endeavor]
+    - [stealth rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 200, def: 40, spA: 0, spD: 40, spe: 200}
+level: 5
+---
+species: Swinub
+setname: l-Band
+tags: [littlecup]
+item: [Choice Band]
+ability: [thick Fat]
+moves:
+    - [earthquake]
+    - [Superpower]
+    - [rock slide]
+    - [ice shard]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 200, def: 40, spA: 0, spD: 40, spe: 200}
+level: 5

@@ -1,0 +1,21 @@
+species: Mudkip
+setname: l-Standard
+tags: [littlecup]
+item: [oran berry, choice scarf]
+ability: [torrent]
+moves:
+    - [waterfall]
+    - [rock slide]
+    - [mirror coat, superpower, curse]
+    - [counter, yawn, ice beam]
+combinations:
+    - [choice scarf, superpower, ice beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 120, def: 40, spA: 40, spD: 60, spe: 200}
+level: 5

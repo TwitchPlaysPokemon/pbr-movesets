@@ -1,0 +1,19 @@
+species: Slugma
+setname: l-Standard
+tags: [littlecup]
+item: [oran berry]
+ability: [flame body]
+moves:
+    - [lava plume]
+    - [earth power]
+    - [amnesia]
+    - [recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 200, spA: 0, spD: 120, spe: 0}
+level: 5
