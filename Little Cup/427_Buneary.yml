@@ -1,0 +1,41 @@
+species: Buneary
+setname: l-Offensive
+tags: [littlecup]
+item: [Choice Band]
+ability: [Klutz]
+moves:
+    - [Dizzy Punch, Facade]
+    - [Jump Kick, Ice Punch, Fire Punch]
+    - [Iron Tail, Ice Punch]
+    - [Healing Wish, Switcheroo]
+separations:
+    - [Ice Punch, Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 156 atk: 68, def: 0, spA: 0, spD: 0, spe: 236}
+level: 5
+---
+species: Buneary
+setname: l-Attrition
+tags: [littlecup]
+item: [Flame Orb]
+ability: [Klutz]
+moves:
+    - [Fake Out]
+    - [Drain Punch, Ice Punch, Fire Punch, Thunder Punch]
+    - [Switcheroo]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 68, def: 0, spA: 0, spD: 0, spe: 236}
+level: 5

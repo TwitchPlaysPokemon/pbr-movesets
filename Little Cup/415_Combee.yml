@@ -1,0 +1,44 @@
+species: Combee
+setname: l-Utility
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Honey Gather]
+moves:
+    - [Bug Bite]
+    - [Swagger]
+    - [Endeavor, Destiny Bond]
+    - [Tailwind, Mud Slap, String Shot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 116 atk: 116, def: 20, spA: 36, spD: 20, spe: 196}
+level: 5
+---
+species: Combee
+setname: l-Offensive
+tags: [littlecup]
+item: [Insect Plate, Focus Sash]
+ability: [Hustle]
+moves:
+    - [U-turn, Bug Buzz]
+    - [Air Slash, Fly]
+    - [Facade, Heal Order]
+    - [Ominous Wind, Flail]
+combinations:
+    - [focus sash, flail]
+separations:
+    - [u-turn, fly]
+    - [bug buzz, air slash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 116, def: 0, spA: 196, spD: 0, spe: 196}
+level: 5

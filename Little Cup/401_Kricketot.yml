@@ -1,0 +1,19 @@
+species: Kricketot
+setname: l-Standard
+tags: [littlecup]
+item: [Berry Juice]
+ability: [Shed Skin]
+moves:
+    - [Bug Bite]
+    - [Bide, Mud Slap]
+    - [Endeavor]
+    - [String Shot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Poke]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60 atk: 76, def: 188, spA: 0, spD: 188, spe: 0}
+level: 5
