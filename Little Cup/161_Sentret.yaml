@@ -1,0 +1,39 @@
+species: Sentret
+setname: l-Utility
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Keen Eye]
+moves:
+    - [super fang]
+    - [body slam]
+    - [sucker punch, aqua tail, ice punch, brick break]
+    - [u-turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 84, spA: 0, spD: 156, spe: 0}
+level: 5
+---
+species: Sentret
+setname: l-Scarf
+tags: [littlecup]
+item: [Choice Scarf]
+ability: [Keen Eye]
+moves:
+    - [double edge]
+    - [iron tail, aqua tail, dig, shadow claw]
+    - [thunder punch, ice punch, fire punch]
+    - [Trick, U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 228, def: 4, spA: 0, spD: 0, spe: 200}
+level: 5

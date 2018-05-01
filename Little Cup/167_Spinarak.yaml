@@ -1,0 +1,19 @@
+species: Spinarak
+setname: l-Band
+tags: [littlecup]
+item: [Choice Band]
+ability: [Swarm]
+moves:
+    - [Megahorn]
+    - [poison jab]
+    - [u-turn]
+    - [shadow sneak, sucker punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 40, def: 120, spA: 0, spD: 120, spe: 40}
+level: 5

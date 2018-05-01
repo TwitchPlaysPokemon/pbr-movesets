@@ -1,0 +1,19 @@
+species: Hoothoot
+setname: l-Defensive
+tags: [littlecup]
+item: [Lum Berry]
+ability: [insomnia]
+moves:
+    - [hyper voice]
+    - [air slash]
+    - [reflect]
+    - [roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 0, def: 40, spA: 68, spD: 160, spe: 120}
+level: 5

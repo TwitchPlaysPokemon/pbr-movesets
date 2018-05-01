@@ -1,0 +1,19 @@
+species: Totodile
+setname: l-Dance
+tags: [littlecup]
+item: [Life Orb]
+ability: [Torrent]
+moves:
+    - [Aqua Tail]
+    - [Crunch, ice punch]
+    - [Aqua jet]
+    - [swords dance, dragon dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 160, def: 64, spA: 0, spD: 0, spe: 172}
+level: 5
