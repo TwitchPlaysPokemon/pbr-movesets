@@ -20,7 +20,7 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 252, def: 0, spA: 252, spD: 0, spe: 40}
 hidden: false
-suppressions: public-shiny
+suppressions: [public-shiny]
 ---
 species: Froslass
 ingamename: FrznHeart
@@ -44,7 +44,7 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 140, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
 hidden: false
-suppressions: public-shiny
+suppressions: [public-shiny]
 ---
 species: Froslass
 ingamename: Frz Atron
@@ -68,4 +68,4 @@ nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 25}
 evs: {hp: 80, atk: 228, def: 0, spA: 200, spD: 0, spe: 0}
 hidden: false
-suppressions: public-shiny
+suppressions: [public-shiny]

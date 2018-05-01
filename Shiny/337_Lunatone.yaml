@@ -8,7 +8,6 @@ moves:
     - [Nightmare]
     - [Dark Void]
     - [Moonlight]
-gender: [m, f]
 happiness: 255
 shiny: True
 biddable: False
