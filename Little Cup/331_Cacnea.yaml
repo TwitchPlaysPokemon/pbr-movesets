@@ -19,10 +19,10 @@ evs: {hp: 40, atk: 240, def: 0, spA: 0, spD: 0, spe: 240}
 level: 5
 ---
 species: Cacnea
-setname: l-
+setname: l-Sandstorm
 tags: [littlecup]
-item: []
-ability: []
+item: [Life Orb]
+ability: [Sand Veil]
 moves:
     - [Seed Bomb]
     - [Sucker Punch]

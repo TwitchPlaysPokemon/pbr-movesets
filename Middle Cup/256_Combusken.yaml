@@ -1,7 +1,7 @@
 species: Combusken
 setname: m-BatonPass
 tags: [middlecup]
-item: [Leichi Berry]
+item: [Liechi Berry]
 ability: [Speed Boost]
 moves:
     - [Flare Blitz]

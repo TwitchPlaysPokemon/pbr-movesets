@@ -11,7 +11,6 @@ moves:
 separations:
     - [reflect, reflect]
     - [light screen, light screen]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
@@ -31,7 +30,6 @@ moves:
     - [Payback, Rock Slide, Earthquake]
     - [Light Screen, Reflect]
     - [Trick Room]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5

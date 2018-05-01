@@ -2,7 +2,7 @@ species: Shieldon
 setname: l-Standard
 tags: [littlecup]
 item: [Oran Berry]
-ability: [Standard]
+ability: [Sturdy]
 moves:
     - [Earthquake]
     - [Ice Beam]

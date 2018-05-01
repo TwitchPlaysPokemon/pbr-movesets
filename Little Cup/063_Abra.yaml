@@ -24,7 +24,7 @@ species: Abra
 setname: l-Screens
 tags: [littlecup]
 item: [Light Clay]
-ability: [Synchronise]
+ability: [Synchronize]
 moves:
     - [Psychic]
     - [Taunt, Encore]

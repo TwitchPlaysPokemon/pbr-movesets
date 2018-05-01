@@ -1,7 +1,7 @@
 species: Nidoran♀
 setname: l-Defensive
 tags: [littlecup]
-item: [Oran]
+item: [Oran Berry]
 ability: [Poison Point]
 moves:
     - [Super Fang]

@@ -8,7 +8,6 @@ moves:
     - [Zen Headbutt]
     - [Pursuit]
     - [Iron Defense]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

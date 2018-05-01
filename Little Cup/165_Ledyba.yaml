@@ -6,7 +6,7 @@ ability: [early bird]
 moves:
     - [air slash]
     - [u-turn]
-    - [relfect]
+    - [reflect]
     - [light screen]
 gender: [m, f]
 happiness: 255
