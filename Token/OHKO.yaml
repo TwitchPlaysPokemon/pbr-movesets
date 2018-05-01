@@ -141,3 +141,75 @@ ball: [Poké]
 nature: Gentle
 ivs: 0
 evs: {hp: 56, atk: 0, def: 0, spA: 0, spD: 136, spe: 224}
+---
+species: Caterpie
+setname: OHKO
+item: [Null]
+ability: [Shield Dust]
+moves:
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+    - [Guillotine (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Hardy
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 136, spe: 144}
+---
+species: Weedle
+setname: OHKO
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+    - [Horn Drill (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 104}
+---
+species: Magikarp
+setname: OHKO
+item: [Iron Ball]
+ability: [Ice Body]
+moves:
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+    - [Sheer Cold (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 172}
+---
+species: Swinub
+setname: OHKO
+item: [Null]
+ability: [Snow Cloak]
+moves:
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+    - [Fissure (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0
+ball: [Poké]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 104}
