@@ -1,0 +1,43 @@
+species: Swablu
+setname: l-Offensive
+tags: [littlecup]
+item: [Lum Berry]
+ability: [Natural Cure]
+moves:
+    - [Return, Fly]
+    - [Heat Wave, Dragon Pulse, Ice Beam]
+    - [Mirror Move, Power Swap, Sing, Solarbeam]
+    - [Rest, roost, sunny day]
+combinations:
+    - [sunny day, solarbeam]
+separations:
+    - [ice beam, solarbeam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 40, spD: 0, spe: 200}
+level: 5
+---
+species: Swablu
+setname: l-Perish
+tags: [littlecup]
+item: [Blackglasses]
+ability: [Shadow Tag]
+moves:
+    - [Fly]
+    - [Secret Power]
+    - [Roost]
+    - [Perish Song]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 40, def: 120, spA: 0, spD: 160, spe: 120}
+level: 5

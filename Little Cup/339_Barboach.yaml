@@ -1,0 +1,19 @@
+species: Barboach
+setname: l-DragonDance
+tags: [littlecup]
+item: [Rindo Berry]
+ability: [Hydration]
+moves:
+    - [Waterfall]
+    - [Earthquake]
+    - [Rain Dance]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 212, def: 12, spA: 0, spD: 28, spe: 200}
+level: 5

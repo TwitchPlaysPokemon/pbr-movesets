@@ -1,0 +1,19 @@
+species: Stunky
+setname: l-Mixed
+tags: [littlecup]
+item: [Focus Sash, Choice Scarf]
+ability: [Aftermath]
+moves:
+    - [Sucker Punch]
+    - [Sludge Bomb]
+    - [Fire Blast, Shadow Ball]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 100, def: 0, spA: 108, spD: 0, spe: 244}
+level: 5

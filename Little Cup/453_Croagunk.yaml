@@ -1,0 +1,42 @@
+species: Croagunk
+setname: l-Special
+tags: [littlecup]
+item: [Life Orb]
+ability: [Dry Skin]
+moves:
+    - [Focus Blast]
+    - [Sludge Bomb]
+    - [Vacuum Wave, sucker punch, shadow ball]
+    - [nasty plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 200, spD: 0, spe: 120}
+level: 5
+---
+species: Croagunk
+setname: l-Physical
+tags: [littlecup]
+item: [Muscle Band, Leftovers, Shell Bell]
+ability: [Dry Skin]
+moves:
+    - [Focus Punch, Poison Jab]
+    - [Sucker Punch]
+    - [Thunder Punch, Ice Punch]
+    - [Substitute, Bulk up]
+combinations:
+    - [focus punch, substitute]
+    - [poison jab, bulk up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 52, atk: 188, def: 40, spA: 0, spD: 40, spe: 200}
+level: 5

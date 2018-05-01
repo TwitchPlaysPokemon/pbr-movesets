@@ -1,0 +1,39 @@
+species: Chikorita
+setname: l-Screens
+tags: [littlecup]
+item: [Light Clay]
+ability: [Overgrow]
+moves:
+    - [Giga Drain]
+    - [Ancientpower]
+    - [Reflect]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5	
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 0, def: 160, spA: 60, spD: 80, spe: 0}
+level: 5
+---
+species: Chikorita
+setname: l-Offensive
+tags: [littlecup]
+item: [Salac Berry]
+ability: [Overgrow]
+moves:
+    - [Leaf Storm]
+    - [Nature Power]
+    - [Body Slam]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 124, def: 0, spA: 124, spD: 0, spe: 240}
+level: 5

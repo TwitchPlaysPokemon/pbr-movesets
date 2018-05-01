@@ -1,0 +1,19 @@
+species: Shinx
+setname: l-Standard
+tags: [littlecup]
+item: [Life Orb]
+ability: [Rivalry]
+moves:
+    - [Thunder Fang]
+    - [Ice Fang]
+    - [Fire Fang, Crunch]
+    - [Thunder Wave, Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 180, spA: 0, spD: 84, spe: 0}
+level: 5

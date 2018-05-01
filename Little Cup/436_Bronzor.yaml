@@ -1,0 +1,42 @@
+species: Bronzor
+setname: l-Tank
+tags: [littlecup]
+item: [Sitrus Berry]
+ability: [Heatproof, Levitate]
+moves:
+    - [Psychic]
+    - [Earthquake]
+    - [Reflect, Light Screen, Hidden Power]
+    - [Stealth Rock, Light Screen, Reflect]
+separations:
+    - [reflect, reflect]
+    - [light screen, light screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 220, atk: 8, def: 152, spA: 4, spD: 68, spe: 12}
+level: 5
+---
+species: Bronzor
+setname: l-Trick Room
+tags: [littlecup]
+item: [Macho Brace]
+ability: [Heatproof, Levitate]
+moves:
+    - [Gyro Ball]
+    - [Payback, Rock Slide, Earthquake]
+    - [Light Screen, Reflect]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 140, atk: 244, def: 0, spA: 0, spD: 68, spe: 0}
+level: 5

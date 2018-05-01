@@ -1,0 +1,39 @@
+species: Wailmer
+setname: l-Scarf
+tags: [littlecup]
+item: [Choice Scarf]
+ability: [water veil]
+moves:
+    - [Water Spout]
+    - [earthquake]
+    - [Ice Beam]
+    - [Self-destruct]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 120, spD: 0, spe: 200}
+level: 5
+---
+species: Wailmer
+setname: l-Curse
+tags: [littlecup]
+item: [Chesto Berry]
+ability: [water veil]
+moves:
+    - [waterfall]
+    - [earthquake]
+    - [curse]
+    - [rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 120, def: 160, spA: 0, spD: 240, spe: 0}
+level: 5

@@ -1,0 +1,19 @@
+species: Budew
+setname: l-Pivot
+tags: [littlecup]
+item: [Wise Glasses]
+ability: [Natural Cure]
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb, Hidden Power]
+    - [Stun Spore, Sleep Powder]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 2, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 120, atk: 0, def: 0, spA: 40, spD: 120, spe: 240}
+level: 5

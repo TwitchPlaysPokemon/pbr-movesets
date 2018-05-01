@@ -1,0 +1,39 @@
+species: Bagon
+setname: l-DragonDance
+tags: [littlecup]
+item: [Life Orb]
+ability: [Rock Head]
+moves:
+    - [Dragon Claw]
+    - [Brick Break]
+    - [Fire fang]
+    - [dragon dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 40, spA: 0, spD: 40, spe: 200}
+level: 5
+---
+species: Bagon
+setname: l-Choice
+tags: [littlecup]
+item: [Choice Band, Choice Scarf]
+ability: [Rock Head]
+moves:
+    - [Outrage]
+    - [Dragon Claw]
+    - [Fire Fang]
+    - [Hydro Pump]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 40, spA: 40, spD: 0, spe: 200}
+level: 5

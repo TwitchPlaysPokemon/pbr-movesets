@@ -1,0 +1,39 @@
+species: Carvanha
+setname: l-Offensive
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Speed Boost]
+moves:
+    - [Hydro Pump, waterfall]
+    - [crunch]
+    - [ice beam, ice fang, zen headbutt]
+    - [protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.7
+ball: [Poke]
+nature: mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 240, spD: 0, spe: 80}
+level: 5
+---
+species: Carvanha
+setname: l-Defensive
+tags: [littlecup]
+item: [Berry Juice]
+ability: [Rough Skin]
+moves:
+    - [Dark Pulse, surf]
+    - [assurance]
+    - [aqua jet]
+    - [endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 40, def: 200, spA: 0, spD: 120, spe: 0}
+level: 5

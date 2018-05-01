@@ -1,0 +1,26 @@
+species: Bonsly
+setname: l-Standard
+tags: [littlecup]
+item: [Rindo Berry, Expert Belt, Custap Berry]
+ability: [Sturdy]
+moves:
+    - [Rock Slide]
+    - [Sucker Punch, Brick Break, Natural Gift]
+    - [Dig, Explosion]
+    - [Rock Polish, Curse]
+combinations:
+    - [rindo berry, natural gift]
+    - [expert belt, dig]
+separations:
+    - [Rock polish, sucker punch]
+    - [rock polish, natural gift]
+    - [rock polish, custap berry]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.00
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 200, def: 0, spA: 0, spD: 160, spe: 40}
+level: 5

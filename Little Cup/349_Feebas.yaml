@@ -1,0 +1,39 @@
+species: Feebas 
+setname: l-Rain
+tags: [littlecup]
+item: [Life Orb]
+ability: [Adaptability]
+moves:
+    - [Surf]
+    - [Ice Beam, blizzard]
+    - [hypnosis, confuse ray, dragon pulse]
+    - [rain dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 0, def: 120, spA: 200, spD: 80, spe: 40}
+level: 5
+---
+species: Feebas 
+setname: l-Sash
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Adaptability]
+moves:
+    - [Waterfall]
+    - [Flail]
+    - [mirror coat]
+    - [tickle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 0, spA: 0, spD: 0, spe: 200}
+level: 5

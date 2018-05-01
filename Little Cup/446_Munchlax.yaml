@@ -1,0 +1,39 @@
+species: Munchlax
+setname: l-Curse
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Thick Fat]
+moves:
+    - [return, body slam]
+    - [earthquake, thunder punch, seed bomb]
+    - [Curse]
+    - [Recycle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 40, spA: 0, spD: 240, spe: 0}
+level: 5
+---
+species: Munchlax
+setname: l-Defensive
+tags: [littlecup]
+item: [Leftovers]
+ability: [Thick Fat]
+moves:
+    - [Facade]
+    - [Zen Headbutt, Counter]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 120, spA: 0, spD: 80, spe: 0}
+level: 5

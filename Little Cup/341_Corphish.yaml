@@ -1,0 +1,22 @@
+species: Corphish
+setname: l-Offensive
+tags: [littlecup]
+item: [Choice Band, Life Orb]
+ability: [Adaptability]
+moves:
+    - [Crabhammer]
+    - [Crunch]
+    - [Aqua Jet]
+    - [Superpower, swords dance]
+combinations:
+    - [choice band, superpower]
+    - [life orb, swords dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 13, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 80, spA: 0, spD: 240, spe: 0}
+level: 5

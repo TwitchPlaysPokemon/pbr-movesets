@@ -1,0 +1,39 @@
+species: Spoink
+setname: l-Specs
+tags: [littlecup]
+item: [Choice Specs]
+ability: [Thick Fat]
+moves:
+    - [psychic]
+    - [shadow ball]
+    - [Signal Beam]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 80, spA: 200, spD: 200, spe: 40}
+level: 5
+---
+species: Spoink
+setname: l-TrickRoom
+tags: [littlecup]
+item: [Oran Berry]
+ability: [own tempo]
+moves:
+    - [psychic]
+    - [shadow ball]
+    - [calm mind]
+    - [trick room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 0, def: 80, spA: 200, spD: 200, spe: 0}
+level: 5

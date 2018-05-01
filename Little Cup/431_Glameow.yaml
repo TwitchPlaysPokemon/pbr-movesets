@@ -1,0 +1,19 @@
+species: Glameow
+setname: l-Standard
+tags: [littlecup]
+item: [Life Orb, Focus Sash]
+ability: [Limber]
+moves:
+    - [Fake Out]
+    - [sucker punch]
+    - [u-turn]
+    - [Hypnosis, Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 20, spA: 0, spD: 0, spe: 240}
+level: 5

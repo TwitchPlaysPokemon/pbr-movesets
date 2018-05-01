@@ -1,0 +1,19 @@
+species: Shellos
+setname: l-Choice
+tags: [littlecup]
+item: [Choice Specs, Choice Scarf]
+ability: [Storm Drain]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Earth Power]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 220, spD: 0, spe: 244}
+level: 5

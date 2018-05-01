@@ -1,0 +1,39 @@
+species: Duskull
+setname: l-Defensive
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Levitate]
+moves:
+    - [Shadow Sneak]
+    - [Return]
+    - [will-o-wisp]
+    - [Pain Split]
+gender: [m, f]
+happiness: 225
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 120, def: 40, spA: 0, spD: 120, spe: 0}
+level: 5
+---
+species: Duskull
+setname: l-CalmMind
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Levitate]
+moves:
+    - [Shadow ball]
+    - [hidden power]
+    - [calm mind]
+    - [pain split, trick room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: quiet
+ivs: {hp: 31, atk: 3, def: 30, spA: 30, spD: 30, spe: 2}
+evs: {hp: 40, atk: 0, def: 200, spA: 200, spD: 120, spe: 0}
+level: 5

@@ -1,0 +1,19 @@
+species: Shieldon
+setname: l-Standard
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Standard]
+moves:
+    - [Earthquake]
+    - [Ice Beam]
+    - [Thunderbolt, Magnet Rise]
+    - [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 196, atk: 20, def: 52, spA: 20, spD: 212, spe: 0}
+level: 5

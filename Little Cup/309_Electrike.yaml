@@ -1,0 +1,19 @@
+species: Electrike
+setname: l-Offensive
+tags: [littlecup]
+item: [Life Orb]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [flamethrower]
+    - [hidden power]
+    - [charge, magnet rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Modest
+ivs: {hp: 19, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 40, spA: 240, spD: 0, spe: 240}
+level: 5

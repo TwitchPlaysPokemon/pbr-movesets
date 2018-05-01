@@ -1,0 +1,19 @@
+species: Chingling
+setname: l-Support
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Hypnosis, Thunder Wave]
+    - [Reflect]
+    - [Light Screen, Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 0, def: 40, spA: 80, spD: 200, spe: 0}
+level: 5

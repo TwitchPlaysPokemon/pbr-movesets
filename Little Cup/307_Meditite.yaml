@@ -1,0 +1,59 @@
+species: Meditite
+setname: l-Offensive
+tags: [littlecup]
+item: [Focus Sash]
+ability: [Pure power]
+moves:
+    - [fake out]
+    - [high jump kick]
+    - [Zen Headbutt]
+    - [bullet punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 120, def: 0, spA: 0, spD: 0, spe: 120}
+level: 5
+---
+species: Meditite
+setname: l-BulkUp
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Pure power]
+moves:
+    - [Drain Punch]
+    - [Psycho Cut]
+    - [Bulk Up]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.45
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 0, spA: 0, spD: 240, spe: 0}
+level: 5
+---
+species: Meditite
+setname: l-Overpowered
+tags: [littlecup]
+item: [Salac Berry]
+ability: [Pure power]
+moves:
+    - [High Jump Kick]
+    - [Psycho Cut]
+    - [Ice Punch]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 200, def: 0, spA: 0, spD: 0, spe: 200}
+level: 5

@@ -1,0 +1,19 @@
+species: Baltoy
+setname: l-TrickRoom
+tags: [littlecup]
+item: [Custap Berry]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Earth Power]
+    - [self-destruct]
+    - [trick room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 120, atk: 0, def: 160, spA: 200, spD: 40, spe: 0}
+level: 5

@@ -1,0 +1,19 @@
+species: Aron
+setname: l-Standard
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Rock Head]
+moves:
+    - [Head Smash]
+    - [Iron Head, double edge]
+    - [earthquake, superpower]
+    - [rock polish, stealth rock]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 200, def: 0, spA: 0, spD: 40, spe: 120}
+level: 5

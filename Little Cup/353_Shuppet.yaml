@@ -1,0 +1,19 @@
+species: Shuppet
+setname: l-Standard
+tags: [littlecup]
+item: [Oran Berry]
+ability: [Insomnia]
+moves:
+    - [Sucker Punch]
+    - [Thunderbolt]
+    - [will-o-wisp]
+    - [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 240, spA: 0, spD: 12, spe: 0}
+level: 5

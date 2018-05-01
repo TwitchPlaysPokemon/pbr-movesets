@@ -1,0 +1,19 @@
+species: Buizel
+setname: l-Offensive
+tags: [littlecup]
+item: [Life Orb]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Return]
+    - [Aqua Jet, Rain dance]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 236, def: 0, spA: 0, spD: 40, spe: 236}
+level: 5

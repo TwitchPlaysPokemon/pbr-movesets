@@ -1,0 +1,19 @@
+species: Cherubi
+setname: l-Sun
+tags: [littlecup]
+item: [Heat Rock]
+ability: [Chlorophyll]
+moves:
+    - [solarbeam]
+    - [Hidden Power]
+    - [Synthesis, growth]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 80, atk: 0, def: 0, spA: 184, spD: 0, spe: 240}
+level: 5
