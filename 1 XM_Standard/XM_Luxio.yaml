@@ -2,8 +2,8 @@ species: Luxio
 ingamename: YellowSnow
 displayname: Yellow Snow
 setname: Christmas
-tags: [christmas]
-item: Yellow Plate
+tags: [Yellow Shard]
+item: Zap Plate
 ability: Gluttony
 moves:
     - [Bite]

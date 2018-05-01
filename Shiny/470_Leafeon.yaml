@@ -1,0 +1,19 @@
+species: Leafeon
+setname: Shiny
+tags: [advanced,standard]
+item: [Focus Band]
+ability: [Thick Fat]
+moves:
+    - [Leaf Blade]
+    - [Thunder Fang]
+    - [Agility]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 248, def: 56, spA: 0, spD: 196, spe: 8}

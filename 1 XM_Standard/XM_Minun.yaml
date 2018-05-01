@@ -20,7 +20,7 @@ nature: Rash
 ivs: {hp: 31, atk: 31, def: 31, spA: 8, spD: 31, spe: 25}
 evs: {hp: 0, atk: 192, def: 64, spA: 252, spD: 0, spe: 0}
 hidden: false
-suppressions: public-shiny
+suppressions: [public-shiny]
 ---
 species: Minun
 ingamename: Popo
@@ -44,4 +44,4 @@ nature: Adamant
 ivs: 31
 evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
 hidden: false
-suppressions: public-shiny
+suppressions: [public-shiny]

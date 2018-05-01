@@ -13,7 +13,6 @@ moves:
     - [Conversion]
     - [Curse]
 happiness: 255
-gender: [m,f]
 biddable: True
 rarity: 1.0
 shiny: True

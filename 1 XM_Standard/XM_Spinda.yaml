@@ -20,4 +20,4 @@ nature: Rash
 ivs: 31
 evs: {hp: 84, atk: 64, def: 72, spA: 72, spD: 116, spe: 100}
 hidden: False
-suppressions: public-shiny
+suppressions: [public-shiny]

@@ -1,0 +1,19 @@
+species: Flareon
+setname: Shiny
+tags: [advanced,standard]
+item: [Sitrus Berry]
+ability: [Water Absorb]
+moves:
+    - [Flare Blitz]
+    - [Ice Fang]
+    - [Giga Impact]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Repeat]
+nature: Adamant
+ivs: 31
+evs: {hp: 236, atk: 0, def: 0, spA: 0, spD: 28, spe: 252}

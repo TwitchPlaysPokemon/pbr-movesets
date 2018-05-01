@@ -1,0 +1,19 @@
+species: Beedrill
+setname: Shiny
+tags: [advanced,standard]
+item: [Expert Belt]
+ability: [Adaptability]
+moves:
+    - [Poison Jab]
+    - [Fire Punch]
+    - [Dragon Dance]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

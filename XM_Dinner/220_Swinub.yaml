@@ -16,7 +16,7 @@ gender: [m,f]
 biddable: True
 rarity: 1.0
 shiny: True
-ivs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+ivs: 31
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 nature: Mild
 hidden: false

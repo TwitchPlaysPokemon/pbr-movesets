@@ -1,0 +1,19 @@
+species: Glaceon
+setname: Shiny
+tags: [advanced,standard]
+item: [Wide Lens]
+ability: [Flash Fire]
+moves:
+    - [Blizzard]
+    - [Fire Blast]
+    - [Nasty Plot]
+    - [Defog]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Net]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 144, spA: 40, spD: 96, spe: 228}

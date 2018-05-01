@@ -1,0 +1,19 @@
+species: Clefable
+setname: Shiny
+tags: [advanced,standard]
+item: [Life Orb]
+ability: [Reckless]
+moves:
+    - [Double-Edge]
+    - [Flare Blitz]
+    - [Volt Tackle]
+    - [Wood Hammer]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Heal]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

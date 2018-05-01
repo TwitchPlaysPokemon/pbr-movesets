@@ -17,3 +17,23 @@ ball: [Great]
 nature: Modest
 ivs: 31
 evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 252}
+---
+species: Eevee
+setname: Shiny2
+tags: [advanced,standard]
+item: [Black Sludge]
+ability: [Wonder Guard]
+moves:
+    - [ExtremeSpeed]
+    - [Sucker Punch]
+    - [Aqua Jet]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Premier]
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31

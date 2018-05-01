@@ -1,0 +1,19 @@
+species: Jolteon
+setname: Shiny
+tags: [advanced,standard]
+item: [Focus Sash]
+ability: [Levitate]
+moves:
+    - [Thunder]
+    - [Surf]
+    - [Nasty Plot]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Quick]
+nature: Gentle
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}

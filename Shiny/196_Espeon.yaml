@@ -1,0 +1,19 @@
+species: Espeon
+setname: Shiny
+tags: [advanced,standard]
+item: [Toxic Orb]
+ability: [Magic Guard]
+moves:
+    - [Psychic]
+    - [Aura Sphere]
+    - [Psycho Shift]
+    - [Amnesia]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Luxury]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 248, spD: 8, spe: 252}

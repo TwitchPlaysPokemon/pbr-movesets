@@ -1,0 +1,19 @@
+species: Lunatone
+setname: Shiny
+tags: [advanced,standard]
+item: [Moon Stone]
+ability: [Bad Dreams]
+moves:
+    - [Night Shade]
+    - [Nightmare]
+    - [Dark Void]
+    - [Moonlight]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Dusk]
+nature: Jolly
+ivs: 31
+evs: {hp: 48, atk: 0, def: 208, spA: 0, spD: 0, spe: 252}

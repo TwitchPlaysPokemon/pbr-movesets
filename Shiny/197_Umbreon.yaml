@@ -1,0 +1,19 @@
+species: Umbreon
+setname: Shiny
+tags: [advanced,standard]
+item: [Scope Lens]
+ability: [Sniper]
+moves:
+    - [Night Slash]
+    - [Stone Edge]
+    - [Cross Chop]
+    - [Focus Energy]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Dusk]
+nature: Adamant
+evs: {hp: 68, atk: 248, def: 96, spA: 0, spD: 96, spe: 0}
+ivs: 31
