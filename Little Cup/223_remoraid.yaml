@@ -1,7 +1,7 @@
 species: remoraid
 setname: l-WaterSpout
 tags: [littlecup]
-item: [Oran Berry, kings rock]
+item: [Oran Berry, king's rock]
 ability: [hustle]
 moves:
     - [water spout]
@@ -11,7 +11,7 @@ moves:
 combinations:
     - [oran berry, thief]
 separations:
-    - [kings rock, thief]
+    - [king's rock, thief]
 gender: [m, f]
 happiness: 255
 biddable: True

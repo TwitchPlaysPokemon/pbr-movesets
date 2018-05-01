@@ -44,7 +44,7 @@ species: Ralts
 setname: l-CalmMind
 tags: [littlecup]
 item: [oran berry]
-ability: [Trace, synchronise]
+ability: [Trace, synchronize]
 moves:
     - [Psychic]
     - [Shadow Ball, thunderbolt, signal beam]

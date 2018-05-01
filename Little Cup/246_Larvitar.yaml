@@ -1,7 +1,7 @@
 species: Larvitar
 setname: l-Guts
 tags: [littlecup]
-item: [Toxic]
+item: [Toxic Orb]
 ability: [guts]
 moves:
     - [earthquake]

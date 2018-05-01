@@ -2,7 +2,7 @@ species: Natu
 setname: l-Wish
 tags: [littlecup]
 item: [oran berry]
-ability: [synchronise]
+ability: [synchronize]
 moves:
     - [Psychic]
     - [heat wave]

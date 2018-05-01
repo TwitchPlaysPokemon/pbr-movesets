@@ -31,7 +31,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 
+rarity: 0.5
 ball: [Poke]
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}

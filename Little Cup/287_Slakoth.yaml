@@ -2,7 +2,7 @@ species: Slakoth
 setname: l-Band
 tags: [littlecup]
 item: [Choice Band]
-ability: [Traunt]
+ability: [Truant]
 moves:
     - [Giga Impact, Return]
     - [Hammer Arm]
