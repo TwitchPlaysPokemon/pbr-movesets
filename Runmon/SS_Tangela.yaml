@@ -1,6 +1,6 @@
-species: Exeggutor
-ingamename: WWWC
-displayname: WWWC
+species: Tangela
+ingamename: Tangela
+displayname: Tangela
 setname: Storm Silver
 tags: [runmon]
 item: [null]
@@ -14,9 +14,9 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.0
-ball: [Poke]
+ball: [Quick]
 shiny: True
 suppressions: [public-shiny]
-nature: Hardy
+nature: Naughty
 ivs: 31
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
+evs: 252
