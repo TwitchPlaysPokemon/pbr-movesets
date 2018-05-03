@@ -1,0 +1,20 @@
+species: Lugia
+ingamename: aǗ♪)♥
+displayname: aǗ♪)♥
+setname: Storm Silver
+tags: [runmon]
+item: [Sea Incense]
+ability: [Pressure]
+moves:
+    - [Calm Mind]
+    - [Psychic]
+    - [Hydro Pump]
+    - [Fly]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Master]
+shiny: False
+nature: Rash
+ivs: {hp: 31, atk: 11, def: 8, spA: 0, spD: 30, spe: 18}
+evs: {hp: 44, atk: 140, def: 72, spA: 80, spD: 60, spe: 112}
