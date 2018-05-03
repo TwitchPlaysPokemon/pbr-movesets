@@ -1,0 +1,37 @@
+species: Aerodactyl
+setname: l-Offensive
+tags: [smogon]
+item: [Life Orb]
+ability: [Pressure]
+moves:
+    - [Rock Slide]
+    - [Earthquake]
+    - [Ice Fang, Iron Head]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.66
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Aerodactyl
+setname: l-Support
+tags: [smogon]
+item: [Sitrus Berry]
+ability: [Pressure]
+moves:
+    - [Rock Slide]
+    - [Taunt]
+    - [Substitute, stealth Rock]
+    - [roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 100, def: 36, spA: 0, spD: 0, spe: 120}

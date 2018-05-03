@@ -5,7 +5,7 @@ moves:
     - Body Slam
     - Light Screen
     - Toxic
-gender: [m, f]
+gender: [m]
 happiness: 255
 rarity: 1.0
 nature: Quirky

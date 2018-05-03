@@ -5,7 +5,7 @@ moves:
     - Double-Edge
     - Double Team
     - Swagger
-gender: [m, f]
+gender: [m]
 happiness: 255
 rarity: 1.0
 nature: Docile

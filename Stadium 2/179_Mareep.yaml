@@ -5,7 +5,7 @@ moves:
     - Headbutt
     - Light Screen
     - Thunder Wave
-gender: [m, f]
+gender: [f]
 happiness: 255
 rarity: 1.0
 nature: Bashful

@@ -1,0 +1,58 @@
+species: Abomasnow
+setname: l-Choice
+tags: [smogon]
+item: [Choice Specs, Choice Scarf]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Grass Knot]
+    - [Earthquake, Focus Blast]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 164, def: 0, spA: 120, spD: 0, spe: 228}
+---
+species: Abomasnow
+setname: l-Mixed
+tags: [smogon]
+item: [Life Orb, Leftovers]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Wood Hammer]
+    - [Ice Shard]
+    - [Earthquake, Focus Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Abomasnow
+setname: l-SubSeed
+tags: [smogon]
+item: [Leftovers]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Grass Knot, Substitute]
+    - [Leech Seed]
+    - [Substitute, Protect]
+separations:
+    - [Substitute, protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Poke]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
