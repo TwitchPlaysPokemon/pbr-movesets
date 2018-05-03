@@ -1,0 +1,22 @@
+species: Salamence
+ingamename: CAAACCAA!
+displayname: CAAACCAA!
+setname: Storm Silver
+tags: [runmon]
+item: [null]
+ability: [Intimidate]
+moves:
+    - [Zen Headbutt]
+    - [Scary Face]
+    - [Fly]
+    - [Crunch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Ultra]
+shiny: True
+suppressions: [public-shiny]
+nature: Bold
+ivs: 31
+evs: 0

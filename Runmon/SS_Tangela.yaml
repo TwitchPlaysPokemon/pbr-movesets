@@ -6,11 +6,11 @@ tags: [runmon]
 item: [null]
 ability: [Chrolophyll]
 moves:
-    - [Bullet Seed]
-    - [Reflect]
-    - [Leech Seed]
-    - [Confusion]
-gender: [m]
+    - [Slam]
+    - [Tickle]
+    - [Wring Out]
+    - [Power Whip]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.0
