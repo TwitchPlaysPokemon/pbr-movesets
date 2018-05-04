@@ -70,6 +70,9 @@ for dir, _, files in os.walk("."):
                                 sets += [pokeset]
             except yaml.YAMLError as e:
                 print("Error reading file: {}/{}: {}".format(dir, file, str(e).encode("ascii", "replace").decode()))
+            except:
+                print("Error reading file: {}/{}".format(dir, file))
+                raise
 
 print("Writing output to {}...".format(outfile))
 with open(outfile, "w+", encoding="utf-8") as f:
