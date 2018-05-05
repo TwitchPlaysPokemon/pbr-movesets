@@ -8,6 +8,7 @@ moves:
     - [Confusion]
     - [Captivate]
     - [Sandstorm]
+form: Sandy
 gender: [f]
 happiness: 255
 biddable: True

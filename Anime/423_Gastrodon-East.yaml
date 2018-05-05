@@ -8,6 +8,7 @@ moves:
     - [Water Pulse]
     - [Ice Beam]
     - [Body Slam]
+form: East
 gender: [m]
 happiness: 255
 biddable: True

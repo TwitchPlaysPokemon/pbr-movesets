@@ -8,6 +8,7 @@ moves:
     - [Mud Bomb]
     - [Blizzard]
     - [Hidden Power]
+form: West
 gender: [f]
 happiness: 255
 biddable: True
