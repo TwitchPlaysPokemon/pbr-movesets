@@ -2336,6 +2336,8 @@ gender:
 ability:
 - Effect Spore
 - Damp
+tags:
+- no-mixing
 ---
 species: Parasect
 setname: Metronome
@@ -2387,6 +2389,8 @@ gender:
 ability:
 - Effect Spore
 - Damp
+tags:
+- no-mixing
 ---
 species: Venonat
 setname: Metronome
@@ -2739,6 +2743,8 @@ gender:
 ability:
 - Damp
 - Swift Swim
+tags:
+- no-mixing
 ---
 species: Golduck
 setname: Metronome
@@ -2790,6 +2796,8 @@ gender:
 ability:
 - Damp
 - Swift Swim
+tags:
+- no-mixing
 ---
 species: Mankey
 setname: Metronome
@@ -5812,6 +5820,8 @@ gender:
 ability:
 - Swift Swim
 - Damp
+tags:
+- no-mixing
 ---
 species: Seadra
 setname: Metronome
@@ -5863,6 +5873,8 @@ gender:
 ability:
 - Poison Point
 - Damp
+tags:
+- no-mixing
 ---
 species: Goldeen
 setname: Metronome
@@ -9668,6 +9680,8 @@ gender:
 ability:
 - Damp
 - Unaware
+tags:
+- no-mixing
 ---
 species: Quagsire
 setname: Metronome
@@ -9719,6 +9733,8 @@ gender:
 ability:
 - Damp
 - Unaware
+tags:
+- no-mixing
 ---
 species: Espeon
 setname: Metronome
@@ -9996,23 +10012,7 @@ species: Wobbuffet
 setname: Metronome
 displayname: Wobbuffet-M
 ball: Poke
-item:
-- Bluk Berry
-- Nanab Berry
-- Wepear Berry
-- Pinap Berry
-- Pomeg Berry
-- Kelpsy Berry
-- Qualot Berry
-- Hondew Berry
-- Grepa Berry
-- Tamato Berry
-- Cornn Berry
-- Magost Berry
-- Rabuta Berry
-- Nomel Berry
-- Spelon Berry
-- Pamtre Berry
+item: Life Orb
 nature: Brave
 ivs:
     atk: 31
@@ -11381,6 +11381,8 @@ gender:
 ability:
 - Swift Swim
 - Damp
+tags:
+- no-mixing
 ---
 species: Phanpy
 setname: Metronome
@@ -12670,6 +12672,8 @@ gender:
 ability:
 - Torrent
 - Damp
+tags:
+- no-mixing
 ---
 species: Marshtomp
 setname: Metronome
@@ -12721,6 +12725,8 @@ gender:
 ability:
 - Torrent
 - Damp
+tags:
+- no-mixing
 ---
 species: Swampert
 setname: Metronome
@@ -12772,6 +12778,8 @@ gender:
 ability:
 - Torrent
 - Damp
+tags:
+- no-mixing
 ---
 species: Poochyena
 setname: Metronome
@@ -18862,7 +18870,23 @@ species: Deoxys
 setname: Metronome
 displayname: Deoxys-M
 ball: Poke
-item: Toxic Orb
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
 nature: Brave
 ivs:
     atk: 31
