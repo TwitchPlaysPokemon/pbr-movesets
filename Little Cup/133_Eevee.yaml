@@ -1,9 +1,10 @@
 species: Eevee
 setname: l-LastResort
 tags: [littlecup]
-item: [Choice Band, Focus Sash]
+item: [Life Orb]
 ability: [Adaptability]
 moves:
+    - [Fake Out]
     - [Last Resort (=8)]
 gender: [m, f]
 happiness: 255
