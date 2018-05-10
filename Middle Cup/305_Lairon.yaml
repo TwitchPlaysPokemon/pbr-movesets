@@ -5,11 +5,9 @@ item: [Lum Berry]
 ability: [Rock Head]
 moves:
     - [Head Smash]
-    - [Iron Head, Double Edge, Earthquake]
+    - [Iron Head, Earthquake]
     - [Double Edge, Superpower, Dragon Rush]
     - [Rock Polish]
-separations:
-    - [double edge, double edge]
 gender: [m, f]
 happiness: 255
 biddable: True
