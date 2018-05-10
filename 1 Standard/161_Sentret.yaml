@@ -2,7 +2,7 @@ species: Sentret
 setname: Physical
 tags: [standard]
 item: [Sitrus Berry]
-ability: [Keen Eye]
+ability: [Speed Boost]
 moves:
     - [Return]
     - [Dynamic Punch]
