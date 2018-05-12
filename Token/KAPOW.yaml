@@ -209,7 +209,7 @@ moves:
     - [Explosion]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 136}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-nature: Naive
+nature: Naughty
 happiness: 255
 ball: [Net]
 biddable: True
