@@ -14,5 +14,5 @@ biddable: True
 rarity: 1.0
 nature: Brave
 evs: {hp: 0, atk: 252, def: 252, spA: 132, spD: 252, spe: 252}
-ivs: {hp: 1, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+ivs: {hp: 3, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
 tags: [ursula, anime]
