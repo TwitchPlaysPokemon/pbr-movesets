@@ -1,5 +1,5 @@
 species: Bulbasaur
-setname: Metronome
+setname: m-Standard
 displayname: Bulbasaur-M
 ball: Poke
 item:
@@ -41,7 +41,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -50,7 +52,7 @@ ability:
 - Chlorophyll
 ---
 species: Ivysaur
-setname: Metronome
+setname: m-Standard
 displayname: Ivysaur-M
 ball: Poke
 item:
@@ -92,7 +94,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -101,7 +105,7 @@ ability:
 - Chlorophyll
 ---
 species: Venusaur
-setname: Metronome
+setname: m-Standard
 displayname: Venusaur-M
 ball: Poke
 item:
@@ -143,7 +147,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -152,7 +158,7 @@ ability:
 - Chlorophyll
 ---
 species: Charmander
-setname: Metronome
+setname: m-Standard
 displayname: Charmander-M
 ball: Poke
 item:
@@ -194,7 +200,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -203,7 +211,7 @@ ability:
 - Solar Power
 ---
 species: Charmeleon
-setname: Metronome
+setname: m-Standard
 displayname: Charmeleon-M
 ball: Poke
 item:
@@ -245,7 +253,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -254,7 +264,7 @@ ability:
 - Solar Power
 ---
 species: Charizard
-setname: Metronome
+setname: m-Standard
 displayname: Charizard-M
 ball: Poke
 item:
@@ -296,18 +306,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Blaze
 - Solar Power
-tags:
-- no-mixing
 ---
 species: Squirtle
-setname: Metronome
+setname: m-Standard
 displayname: Squirtle-M
 ball: Poke
 item:
@@ -349,7 +360,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -358,7 +371,7 @@ ability:
 - Rain Dish
 ---
 species: Wartortle
-setname: Metronome
+setname: m-Standard
 displayname: Wartortle-M
 ball: Poke
 item:
@@ -400,7 +413,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -409,7 +424,7 @@ ability:
 - Rain Dish
 ---
 species: Blastoise
-setname: Metronome
+setname: m-Standard
 displayname: Blastoise-M
 ball: Poke
 item:
@@ -451,7 +466,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -460,7 +477,7 @@ ability:
 - Rain Dish
 ---
 species: Caterpie
-setname: Metronome
+setname: m-Standard
 displayname: Caterpie-M
 ball: Poke
 item:
@@ -501,7 +518,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -510,7 +530,7 @@ ability:
 - Run Away
 ---
 species: Metapod
-setname: Metronome
+setname: m-Standard
 displayname: Metapod-M
 ball: Poke
 item:
@@ -551,7 +571,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -559,7 +582,7 @@ ability:
 - Shed Skin
 ---
 species: Butterfree
-setname: Metronome
+setname: m-Standard
 displayname: Butterfree-M
 ball: Poke
 item:
@@ -601,18 +624,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Compound Eyes
 - Tinted Lens
-tags:
-- no-mixing
 ---
 species: Weedle
-setname: Metronome
+setname: m-Standard
 displayname: Weedle-M
 ball: Poke
 item:
@@ -653,7 +677,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -662,7 +689,7 @@ ability:
 - Run Away
 ---
 species: Kakuna
-setname: Metronome
+setname: m-Standard
 displayname: Kakuna-M
 ball: Poke
 item:
@@ -703,7 +730,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -711,7 +741,7 @@ ability:
 - Shed Skin
 ---
 species: Beedrill
-setname: Metronome
+setname: m-Standard
 displayname: Beedrill-M
 ball: Poke
 item:
@@ -753,7 +783,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -762,7 +794,7 @@ ability:
 - Sniper
 ---
 species: Pidgey
-setname: Metronome
+setname: m-Standard
 displayname: Pidgey-M
 ball: Poke
 item:
@@ -804,17 +836,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
-tags:
-- no-mixing
 ---
 species: Pidgeotto
-setname: Metronome
+setname: m-Standard
 displayname: Pidgeotto-M
 ball: Poke
 item:
@@ -856,17 +889,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
-tags:
-- no-mixing
 ---
 species: Pidgeot
-setname: Metronome
+setname: m-Standard
 displayname: Pidgeot-M
 ball: Poke
 item:
@@ -908,17 +942,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
-tags:
-- no-mixing
 ---
 species: Rattata
-setname: Metronome
+setname: m-Standard
 displayname: Rattata-M
 ball: Poke
 item:
@@ -960,7 +995,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -969,7 +1006,7 @@ ability:
 - Hustle
 ---
 species: Raticate
-setname: Metronome
+setname: m-Standard
 displayname: Raticate-M
 ball: Poke
 item:
@@ -1011,7 +1048,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1020,7 +1059,7 @@ ability:
 - Hustle
 ---
 species: Spearow
-setname: Metronome
+setname: m-Standard
 displayname: Spearow-M
 ball: Poke
 item:
@@ -1062,18 +1101,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
 - Sniper
-tags:
-- no-mixing
 ---
 species: Fearow
-setname: Metronome
+setname: m-Standard
 displayname: Fearow-M
 ball: Poke
 item:
@@ -1115,18 +1155,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
 - Sniper
-tags:
-- no-mixing
 ---
 species: Ekans
-setname: Metronome
+setname: m-Standard
 displayname: Ekans-M
 ball: Poke
 item:
@@ -1168,7 +1209,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1176,7 +1219,7 @@ ability:
 - Intimidate
 ---
 species: Arbok
-setname: Metronome
+setname: m-Standard
 displayname: Arbok-M
 ball: Poke
 item:
@@ -1218,7 +1261,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1226,7 +1271,7 @@ ability:
 - Intimidate
 ---
 species: Pikachu
-setname: Metronome
+setname: m-Standard
 displayname: Pikachu-M
 ball: Poke
 item:
@@ -1268,7 +1313,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1277,7 +1324,7 @@ ability:
 - Lightning Rod
 ---
 species: Raichu
-setname: Metronome
+setname: m-Standard
 displayname: Raichu-M
 ball: Poke
 item:
@@ -1319,7 +1366,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1328,7 +1377,7 @@ ability:
 - Lightning Rod
 ---
 species: Sandshrew
-setname: Metronome
+setname: m-Standard
 displayname: Sandshrew-M
 ball: Poke
 item:
@@ -1370,7 +1419,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1378,7 +1429,7 @@ ability:
 - Sand Veil
 ---
 species: Sandslash
-setname: Metronome
+setname: m-Standard
 displayname: Sandslash-M
 ball: Poke
 item:
@@ -1420,7 +1471,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1428,7 +1481,7 @@ ability:
 - Sand Veil
 ---
 species: Nidoran♀
-setname: Metronome
+setname: m-Standard
 displayname: Nidoran♀-M
 ball: Poke
 item:
@@ -1470,7 +1523,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
@@ -1478,7 +1533,7 @@ ability:
 - Hustle
 ---
 species: Nidorina
-setname: Metronome
+setname: m-Standard
 displayname: Nidorina-M
 ball: Poke
 item:
@@ -1520,7 +1575,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
@@ -1528,7 +1585,7 @@ ability:
 - Hustle
 ---
 species: Nidoqueen
-setname: Metronome
+setname: m-Standard
 displayname: Nidoqueen-M
 ball: Poke
 item:
@@ -1570,14 +1627,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
 - Poison Point
 ---
 species: Nidoran♂
-setname: Metronome
+setname: m-Standard
 displayname: Nidoran♂-M
 ball: Poke
 item:
@@ -1619,7 +1678,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
@@ -1627,7 +1688,7 @@ ability:
 - Hustle
 ---
 species: Nidorino
-setname: Metronome
+setname: m-Standard
 displayname: Nidorino-M
 ball: Poke
 item:
@@ -1669,7 +1730,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
@@ -1677,7 +1740,7 @@ ability:
 - Hustle
 ---
 species: Nidoking
-setname: Metronome
+setname: m-Standard
 displayname: Nidoking-M
 ball: Poke
 item:
@@ -1719,14 +1782,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
 - Poison Point
 ---
 species: Clefairy
-setname: Metronome
+setname: m-Standard
 displayname: Clefairy-M
 ball: Poke
 item:
@@ -1768,7 +1833,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1776,7 +1843,7 @@ ability:
 - Cute Charm
 ---
 species: Clefable
-setname: Metronome
+setname: m-Standard
 displayname: Clefable-M
 ball: Poke
 item:
@@ -1818,7 +1885,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1827,7 +1896,7 @@ ability:
 - Unaware
 ---
 species: Vulpix
-setname: Metronome
+setname: m-Standard
 displayname: Vulpix-M
 ball: Poke
 item:
@@ -1869,7 +1938,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1878,7 +1949,7 @@ ability:
 - Drought
 ---
 species: Ninetales
-setname: Metronome
+setname: m-Standard
 displayname: Ninetales-M
 ball: Poke
 item:
@@ -1920,7 +1991,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1929,7 +2002,7 @@ ability:
 - Drought
 ---
 species: Jigglypuff
-setname: Metronome
+setname: m-Standard
 displayname: Jigglypuff-M
 ball: Poke
 item:
@@ -1971,7 +2044,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -1979,7 +2054,7 @@ ability:
 - Cute Charm
 ---
 species: Wigglytuff
-setname: Metronome
+setname: m-Standard
 displayname: Wigglytuff-M
 ball: Poke
 item:
@@ -2021,7 +2096,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2030,7 +2107,7 @@ ability:
 - Frisk
 ---
 species: Zubat
-setname: Metronome
+setname: m-Standard
 displayname: Zubat-M
 ball: Poke
 item:
@@ -2072,17 +2149,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Inner Focus
-tags:
-- no-mixing
 ---
 species: Golbat
-setname: Metronome
+setname: m-Standard
 displayname: Golbat-M
 ball: Poke
 item:
@@ -2124,17 +2202,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Inner Focus
-tags:
-- no-mixing
 ---
 species: Oddish
-setname: Metronome
+setname: m-Standard
 displayname: Oddish-M
 ball: Poke
 item:
@@ -2176,7 +2255,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2185,7 +2266,7 @@ ability:
 - Run Away
 ---
 species: Gloom
-setname: Metronome
+setname: m-Standard
 displayname: Gloom-M
 ball: Poke
 item:
@@ -2227,7 +2308,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2236,7 +2319,7 @@ ability:
 - Stench
 ---
 species: Vileplume
-setname: Metronome
+setname: m-Standard
 displayname: Vileplume-M
 ball: Poke
 item:
@@ -2278,7 +2361,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2287,7 +2372,7 @@ ability:
 - Effect Spore
 ---
 species: Paras
-setname: Metronome
+setname: m-Standard
 displayname: Paras-M
 ball: Poke
 item:
@@ -2329,18 +2414,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Effect Spore
 - Damp
-tags:
-- no-mixing
 ---
 species: Parasect
-setname: Metronome
+setname: m-Standard
 displayname: Parasect-M
 ball: Poke
 item:
@@ -2382,18 +2468,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Effect Spore
 - Damp
-tags:
-- no-mixing
 ---
 species: Venonat
-setname: Metronome
+setname: m-Standard
 displayname: Venonat-M
 ball: Poke
 item:
@@ -2435,7 +2522,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2444,7 +2533,7 @@ ability:
 - Run Away
 ---
 species: Venomoth
-setname: Metronome
+setname: m-Standard
 displayname: Venomoth-M
 ball: Poke
 item:
@@ -2486,7 +2575,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2494,7 +2585,7 @@ ability:
 - Shield Dust
 ---
 species: Diglett
-setname: Metronome
+setname: m-Standard
 displayname: Diglett-M
 ball: Poke
 item:
@@ -2536,7 +2627,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2544,7 +2637,7 @@ ability:
 - Sand Veil
 ---
 species: Dugtrio
-setname: Metronome
+setname: m-Standard
 displayname: Dugtrio-M
 ball: Poke
 item:
@@ -2586,7 +2679,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2594,7 +2689,7 @@ ability:
 - Sand Veil
 ---
 species: Meowth
-setname: Metronome
+setname: m-Standard
 displayname: Meowth-M
 ball: Poke
 item:
@@ -2636,7 +2731,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2644,7 +2741,7 @@ ability:
 - Pickup
 ---
 species: Persian
-setname: Metronome
+setname: m-Standard
 displayname: Persian-M
 ball: Poke
 item:
@@ -2686,7 +2783,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2694,7 +2793,7 @@ ability:
 - Limber
 ---
 species: Psyduck
-setname: Metronome
+setname: m-Standard
 displayname: Psyduck-M
 ball: Poke
 item:
@@ -2736,18 +2835,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Damp
 - Swift Swim
-tags:
-- no-mixing
 ---
 species: Golduck
-setname: Metronome
+setname: m-Standard
 displayname: Golduck-M
 ball: Poke
 item:
@@ -2789,18 +2889,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Damp
 - Swift Swim
-tags:
-- no-mixing
 ---
 species: Mankey
-setname: Metronome
+setname: m-Standard
 displayname: Mankey-M
 ball: Poke
 item:
@@ -2842,7 +2943,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2850,7 +2953,7 @@ ability:
 - Vital Spirit
 ---
 species: Primeape
-setname: Metronome
+setname: m-Standard
 displayname: Primeape-M
 ball: Poke
 item:
@@ -2892,7 +2995,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2900,7 +3005,7 @@ ability:
 - Vital Spirit
 ---
 species: Growlithe
-setname: Metronome
+setname: m-Standard
 displayname: Growlithe-M
 ball: Poke
 item:
@@ -2942,7 +3047,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -2950,7 +3057,7 @@ ability:
 - Intimidate
 ---
 species: Arcanine
-setname: Metronome
+setname: m-Standard
 displayname: Arcanine-M
 ball: Poke
 item:
@@ -2992,7 +3099,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3000,7 +3109,7 @@ ability:
 - Intimidate
 ---
 species: Poliwag
-setname: Metronome
+setname: m-Standard
 displayname: Poliwag-M
 ball: Poke
 item:
@@ -3042,7 +3151,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3051,7 +3162,7 @@ ability:
 - Swift Swim
 ---
 species: Poliwhirl
-setname: Metronome
+setname: m-Standard
 displayname: Poliwhirl-M
 ball: Poke
 item:
@@ -3093,7 +3204,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3102,7 +3215,7 @@ ability:
 - Swift Swim
 ---
 species: Poliwrath
-setname: Metronome
+setname: m-Standard
 displayname: Poliwrath-M
 ball: Poke
 item:
@@ -3144,7 +3257,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3153,7 +3268,7 @@ ability:
 - Swift Swim
 ---
 species: Abra
-setname: Metronome
+setname: m-Standard
 displayname: Abra-M
 ball: Poke
 item:
@@ -3195,7 +3310,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3204,7 +3321,7 @@ ability:
 - Magic Guard
 ---
 species: Kadabra
-setname: Metronome
+setname: m-Standard
 displayname: Kadabra-M
 ball: Poke
 item:
@@ -3246,7 +3363,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3255,7 +3374,7 @@ ability:
 - Magic Guard
 ---
 species: Alakazam
-setname: Metronome
+setname: m-Standard
 displayname: Alakazam-M
 ball: Poke
 item:
@@ -3297,7 +3416,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3306,7 +3427,7 @@ ability:
 - Magic Guard
 ---
 species: Machop
-setname: Metronome
+setname: m-Standard
 displayname: Machop-M
 ball: Poke
 item:
@@ -3348,7 +3469,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3357,7 +3480,7 @@ ability:
 - Steadfast
 ---
 species: Machoke
-setname: Metronome
+setname: m-Standard
 displayname: Machoke-M
 ball: Poke
 item:
@@ -3399,7 +3522,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3408,7 +3533,7 @@ ability:
 - Steadfast
 ---
 species: Machamp
-setname: Metronome
+setname: m-Standard
 displayname: Machamp-M
 ball: Poke
 item:
@@ -3450,7 +3575,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3459,7 +3586,7 @@ ability:
 - Steadfast
 ---
 species: Bellsprout
-setname: Metronome
+setname: m-Standard
 displayname: Bellsprout-M
 ball: Poke
 item:
@@ -3501,7 +3628,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3510,7 +3639,7 @@ ability:
 - Gluttony
 ---
 species: Weepinbell
-setname: Metronome
+setname: m-Standard
 displayname: Weepinbell-M
 ball: Poke
 item:
@@ -3552,7 +3681,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3561,7 +3692,7 @@ ability:
 - Gluttony
 ---
 species: Victreebel
-setname: Metronome
+setname: m-Standard
 displayname: Victreebel-M
 ball: Poke
 item:
@@ -3603,7 +3734,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3612,7 +3745,7 @@ ability:
 - Gluttony
 ---
 species: Tentacool
-setname: Metronome
+setname: m-Standard
 displayname: Tentacool-M
 ball: Poke
 item:
@@ -3654,7 +3787,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3663,7 +3798,7 @@ ability:
 - Rain Dish
 ---
 species: Tentacruel
-setname: Metronome
+setname: m-Standard
 displayname: Tentacruel-M
 ball: Poke
 item:
@@ -3705,7 +3840,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3714,7 +3851,7 @@ ability:
 - Rain Dish
 ---
 species: Geodude
-setname: Metronome
+setname: m-Standard
 displayname: Geodude-M
 ball: Poke
 item:
@@ -3756,7 +3893,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3765,7 +3904,7 @@ ability:
 - Sand Veil
 ---
 species: Graveler
-setname: Metronome
+setname: m-Standard
 displayname: Graveler-M
 ball: Poke
 item:
@@ -3807,7 +3946,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3816,7 +3957,7 @@ ability:
 - Sand Veil
 ---
 species: Golem
-setname: Metronome
+setname: m-Standard
 displayname: Golem-M
 ball: Poke
 item:
@@ -3858,7 +3999,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3867,7 +4010,7 @@ ability:
 - Sand Veil
 ---
 species: Ponyta
-setname: Metronome
+setname: m-Standard
 displayname: Ponyta-M
 ball: Poke
 item:
@@ -3909,7 +4052,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3918,7 +4063,7 @@ ability:
 - Flame Body
 ---
 species: Rapidash
-setname: Metronome
+setname: m-Standard
 displayname: Rapidash-M
 ball: Poke
 item:
@@ -3960,7 +4105,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -3969,7 +4116,7 @@ ability:
 - Flame Body
 ---
 species: Slowpoke
-setname: Metronome
+setname: m-Standard
 displayname: Slowpoke-M
 ball: Poke
 item:
@@ -4011,7 +4158,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4019,7 +4168,7 @@ ability:
 - Oblivious
 ---
 species: Slowbro
-setname: Metronome
+setname: m-Standard
 displayname: Slowbro-M
 ball: Poke
 item:
@@ -4061,7 +4210,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4069,7 +4220,7 @@ ability:
 - Oblivious
 ---
 species: Magnemite
-setname: Metronome
+setname: m-Standard
 displayname: Magnemite-M
 ball: Poke
 item:
@@ -4111,12 +4262,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Magnet Pull
 ---
 species: Magneton
-setname: Metronome
+setname: m-Standard
 displayname: Magneton-M
 ball: Poke
 item:
@@ -4158,12 +4311,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Magnet Pull
 ---
 species: Farfetch'd
-setname: Metronome
+setname: m-Standard
 displayname: Farfetch'd-M
 ball: Poke
 item:
@@ -4205,17 +4360,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
-tags:
-- no-mixing
 ---
 species: Doduo
-setname: Metronome
+setname: m-Standard
 displayname: Doduo-M
 ball: Poke
 item:
@@ -4257,18 +4413,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Run Away
 - Tangled Feet
-tags:
-- no-mixing
 ---
 species: Dodrio
-setname: Metronome
+setname: m-Standard
 displayname: Dodrio-M
 ball: Poke
 item:
@@ -4310,18 +4467,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Run Away
 - Tangled Feet
-tags:
-- no-mixing
 ---
 species: Seel
-setname: Metronome
+setname: m-Standard
 displayname: Seel-M
 ball: Poke
 item:
@@ -4363,7 +4521,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4372,7 +4532,7 @@ ability:
 - Ice Body
 ---
 species: Dewgong
-setname: Metronome
+setname: m-Standard
 displayname: Dewgong-M
 ball: Poke
 item:
@@ -4414,7 +4574,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4423,7 +4585,7 @@ ability:
 - Ice Body
 ---
 species: Grimer
-setname: Metronome
+setname: m-Standard
 displayname: Grimer-M
 ball: Poke
 item:
@@ -4465,7 +4627,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4473,7 +4637,7 @@ ability:
 - Stench
 ---
 species: Muk
-setname: Metronome
+setname: m-Standard
 displayname: Muk-M
 ball: Poke
 item:
@@ -4515,7 +4679,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4523,7 +4689,7 @@ ability:
 - Stench
 ---
 species: Shellder
-setname: Metronome
+setname: m-Standard
 displayname: Shellder-M
 ball: Poke
 item:
@@ -4565,7 +4731,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4573,7 +4741,7 @@ ability:
 - Shell Armor
 ---
 species: Cloyster
-setname: Metronome
+setname: m-Standard
 displayname: Cloyster-M
 ball: Poke
 item:
@@ -4615,7 +4783,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4623,7 +4793,7 @@ ability:
 - Shell Armor
 ---
 species: Gastly
-setname: Metronome
+setname: m-Standard
 displayname: Gastly-M
 ball: Poke
 item: Iron Ball
@@ -4649,17 +4819,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Haunter
-setname: Metronome
+setname: m-Standard
 displayname: Haunter-M
 ball: Poke
 item: Iron Ball
@@ -4685,17 +4857,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Gengar
-setname: Metronome
+setname: m-Standard
 displayname: Gengar-M
 ball: Poke
 item: Iron Ball
@@ -4721,17 +4895,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Onix
-setname: Metronome
+setname: m-Standard
 displayname: Onix-M
 ball: Poke
 item:
@@ -4773,7 +4949,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4781,7 +4959,7 @@ ability:
 - Rock Head
 ---
 species: Drowzee
-setname: Metronome
+setname: m-Standard
 displayname: Drowzee-M
 ball: Poke
 item:
@@ -4823,7 +5001,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4832,7 +5012,7 @@ ability:
 - Inner Focus
 ---
 species: Hypno
-setname: Metronome
+setname: m-Standard
 displayname: Hypno-M
 ball: Poke
 item:
@@ -4874,7 +5054,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4883,7 +5065,7 @@ ability:
 - Inner Focus
 ---
 species: Krabby
-setname: Metronome
+setname: m-Standard
 displayname: Krabby-M
 ball: Poke
 item:
@@ -4925,7 +5107,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4933,7 +5117,7 @@ ability:
 - Hyper Cutter
 ---
 species: Kingler
-setname: Metronome
+setname: m-Standard
 displayname: Kingler-M
 ball: Poke
 item:
@@ -4975,7 +5159,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -4983,7 +5169,7 @@ ability:
 - Hyper Cutter
 ---
 species: Voltorb
-setname: Metronome
+setname: m-Standard
 displayname: Voltorb-M
 ball: Poke
 item:
@@ -5025,13 +5211,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Soundproof
 - Aftermath
 ---
 species: Electrode
-setname: Metronome
+setname: m-Standard
 displayname: Electrode-M
 ball: Poke
 item:
@@ -5073,13 +5261,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Soundproof
 - Aftermath
 ---
 species: Exeggcute
-setname: Metronome
+setname: m-Standard
 displayname: Exeggcute-M
 ball: Poke
 item:
@@ -5121,7 +5311,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5129,7 +5321,7 @@ ability:
 - Chlorophyll
 ---
 species: Exeggutor
-setname: Metronome
+setname: m-Standard
 displayname: Exeggutor-M
 ball: Poke
 item:
@@ -5171,7 +5363,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5179,7 +5373,7 @@ ability:
 - Chlorophyll
 ---
 species: Cubone
-setname: Metronome
+setname: m-Standard
 displayname: Cubone-M
 ball: Poke
 item:
@@ -5221,7 +5415,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5230,7 +5426,7 @@ ability:
 - Battle Armor
 ---
 species: Marowak
-setname: Metronome
+setname: m-Standard
 displayname: Marowak-M
 ball: Poke
 item:
@@ -5272,7 +5468,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5281,7 +5479,7 @@ ability:
 - Battle Armor
 ---
 species: Hitmonlee
-setname: Metronome
+setname: m-Standard
 displayname: Hitmonlee-M
 ball: Poke
 item:
@@ -5323,7 +5521,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
@@ -5331,7 +5531,7 @@ ability:
 - Unburden
 ---
 species: Hitmonchan
-setname: Metronome
+setname: m-Standard
 displayname: Hitmonchan-M
 ball: Poke
 item:
@@ -5373,7 +5573,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
@@ -5381,7 +5583,7 @@ ability:
 - Inner Focus
 ---
 species: Lickitung
-setname: Metronome
+setname: m-Standard
 displayname: Lickitung-M
 ball: Poke
 item:
@@ -5423,7 +5625,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5432,7 +5636,7 @@ ability:
 - Cloud Nine
 ---
 species: Koffing
-setname: Metronome
+setname: m-Standard
 displayname: Koffing-M
 ball: Poke
 item:
@@ -5474,17 +5678,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Weezing
-setname: Metronome
+setname: m-Standard
 displayname: Weezing-M
 ball: Poke
 item:
@@ -5526,17 +5731,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Rhyhorn
-setname: Metronome
+setname: m-Standard
 displayname: Rhyhorn-M
 ball: Poke
 item:
@@ -5578,7 +5784,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5587,7 +5795,7 @@ ability:
 - Reckless
 ---
 species: Rhydon
-setname: Metronome
+setname: m-Standard
 displayname: Rhydon-M
 ball: Poke
 item:
@@ -5629,7 +5837,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5638,7 +5848,7 @@ ability:
 - Reckless
 ---
 species: Chansey
-setname: Metronome
+setname: m-Standard
 displayname: Chansey-M
 ball: Poke
 item: Life Orb
@@ -5664,14 +5874,17 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - f
 ability:
 - Natural Cure
 ---
 species: Tangela
-setname: Metronome
+setname: m-Standard
 displayname: Tangela-M
 ball: Poke
 item:
@@ -5713,7 +5926,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5721,7 +5936,7 @@ ability:
 - Chlorophyll
 ---
 species: Kangaskhan
-setname: Metronome
+setname: m-Standard
 displayname: Kangaskhan-M
 ball: Poke
 item:
@@ -5763,7 +5978,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
@@ -5771,7 +5988,7 @@ ability:
 - Inner Focus
 ---
 species: Horsea
-setname: Metronome
+setname: m-Standard
 displayname: Horsea-M
 ball: Poke
 item:
@@ -5813,18 +6030,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swift Swim
 - Damp
-tags:
-- no-mixing
 ---
 species: Seadra
-setname: Metronome
+setname: m-Standard
 displayname: Seadra-M
 ball: Poke
 item:
@@ -5866,18 +6084,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Poison Point
 - Damp
-tags:
-- no-mixing
 ---
 species: Goldeen
-setname: Metronome
+setname: m-Standard
 displayname: Goldeen-M
 ball: Poke
 item:
@@ -5919,7 +6138,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5928,7 +6149,7 @@ ability:
 - Lightning Rod
 ---
 species: Seaking
-setname: Metronome
+setname: m-Standard
 displayname: Seaking-M
 ball: Poke
 item:
@@ -5970,7 +6191,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -5979,7 +6202,7 @@ ability:
 - Lightning Rod
 ---
 species: Staryu
-setname: Metronome
+setname: m-Standard
 displayname: Staryu-M
 ball: Poke
 item:
@@ -6021,12 +6244,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Illuminate
 ---
 species: Starmie
-setname: Metronome
+setname: m-Standard
 displayname: Starmie-M
 ball: Poke
 item:
@@ -6068,12 +6293,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Illuminate
 ---
 species: Mr. Mime
-setname: Metronome
+setname: m-Standard
 displayname: Mr. Mime-M
 ball: Poke
 item:
@@ -6115,7 +6342,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6124,7 +6353,7 @@ ability:
 - Technician
 ---
 species: Scyther
-setname: Metronome
+setname: m-Standard
 displayname: Scyther-M
 ball: Poke
 item:
@@ -6166,18 +6395,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swarm
 - Steadfast
-tags:
-- no-mixing
 ---
 species: Jynx
-setname: Metronome
+setname: m-Standard
 displayname: Jynx-M
 ball: Poke
 item:
@@ -6219,7 +6449,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
@@ -6227,7 +6459,7 @@ ability:
 - Dry Skin
 ---
 species: Electabuzz
-setname: Metronome
+setname: m-Standard
 displayname: Electabuzz-M
 ball: Poke
 item:
@@ -6269,7 +6501,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6278,7 +6512,7 @@ ability:
 - Vital Spirit
 ---
 species: Magmar
-setname: Metronome
+setname: m-Standard
 displayname: Magmar-M
 ball: Poke
 item:
@@ -6320,7 +6554,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6329,7 +6565,7 @@ ability:
 - Vital Spirit
 ---
 species: Pinsir
-setname: Metronome
+setname: m-Standard
 displayname: Pinsir-M
 ball: Poke
 item:
@@ -6371,7 +6607,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6379,7 +6617,7 @@ ability:
 - Hyper Cutter
 ---
 species: Tauros
-setname: Metronome
+setname: m-Standard
 displayname: Tauros-M
 ball: Poke
 item:
@@ -6421,14 +6659,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
 - Intimidate
 ---
 species: Magikarp
-setname: Metronome
+setname: m-Standard
 displayname: Magikarp-M
 ball: Poke
 item:
@@ -6469,7 +6709,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -6477,7 +6720,7 @@ ability:
 - Swift Swim
 ---
 species: Gyarados
-setname: Metronome
+setname: m-Standard
 displayname: Gyarados-M
 ball: Poke
 item:
@@ -6519,17 +6762,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Intimidate
-tags:
-- no-mixing
 ---
 species: Lapras
-setname: Metronome
+setname: m-Standard
 displayname: Lapras-M
 ball: Poke
 item:
@@ -6571,7 +6815,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6580,7 +6826,7 @@ ability:
 - Hydration
 ---
 species: Ditto
-setname: Metronome
+setname: m-Standard
 displayname: Ditto-M
 ball: Poke
 item:
@@ -6622,12 +6868,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Limber
 ---
 species: Eevee
-setname: Metronome
+setname: m-Standard
 displayname: Eevee-M
 ball: Poke
 item:
@@ -6669,7 +6917,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6678,7 +6928,7 @@ ability:
 - Anticipation
 ---
 species: Vaporeon
-setname: Metronome
+setname: m-Standard
 displayname: Vaporeon-M
 ball: Poke
 item:
@@ -6720,7 +6970,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6729,7 +6981,7 @@ ability:
 - Hydration
 ---
 species: Jolteon
-setname: Metronome
+setname: m-Standard
 displayname: Jolteon-M
 ball: Poke
 item:
@@ -6771,7 +7023,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6780,7 +7034,7 @@ ability:
 - Quick Feet
 ---
 species: Flareon
-setname: Metronome
+setname: m-Standard
 displayname: Flareon-M
 ball: Poke
 item:
@@ -6822,7 +7076,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6831,7 +7087,7 @@ ability:
 - Guts
 ---
 species: Porygon
-setname: Metronome
+setname: m-Standard
 displayname: Porygon-M
 ball: Poke
 item:
@@ -6873,12 +7129,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Trace
 ---
 species: Omanyte
-setname: Metronome
+setname: m-Standard
 displayname: Omanyte-M
 ball: Poke
 item:
@@ -6920,7 +7178,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6928,7 +7188,7 @@ ability:
 - Swift Swim
 ---
 species: Omastar
-setname: Metronome
+setname: m-Standard
 displayname: Omastar-M
 ball: Poke
 item:
@@ -6970,7 +7230,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -6978,7 +7240,7 @@ ability:
 - Swift Swim
 ---
 species: Kabuto
-setname: Metronome
+setname: m-Standard
 displayname: Kabuto-M
 ball: Poke
 item:
@@ -7020,7 +7282,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7028,7 +7292,7 @@ ability:
 - Swift Swim
 ---
 species: Kabutops
-setname: Metronome
+setname: m-Standard
 displayname: Kabutops-M
 ball: Poke
 item:
@@ -7070,7 +7334,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7078,7 +7344,7 @@ ability:
 - Swift Swim
 ---
 species: Aerodactyl
-setname: Metronome
+setname: m-Standard
 displayname: Aerodactyl-M
 ball: Poke
 item:
@@ -7120,17 +7386,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Rock Head
-tags:
-- no-mixing
 ---
 species: Snorlax
-setname: Metronome
+setname: m-Standard
 displayname: Snorlax-M
 ball: Poke
 item: Mago Berry
@@ -7156,7 +7423,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -7165,7 +7435,7 @@ ability:
 - Gluttony
 ---
 species: Articuno
-setname: Metronome
+setname: m-Standard
 displayname: Articuno-M
 ball: Poke
 item:
@@ -7207,15 +7477,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Pressure
 - Snow Cloak
-tags:
-- no-mixing
 ---
 species: Zapdos
-setname: Metronome
+setname: m-Standard
 displayname: Zapdos-M
 ball: Poke
 item: Iron Ball
@@ -7241,13 +7512,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Pressure
 - Static
 ---
 species: Moltres
-setname: Metronome
+setname: m-Standard
 displayname: Moltres-M
 ball: Poke
 item:
@@ -7275,15 +7549,17 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Pressure
 - Flame Body
-tags:
-- no-mixing
 ---
 species: Dratini
-setname: Metronome
+setname: m-Standard
 displayname: Dratini-M
 ball: Poke
 item:
@@ -7325,7 +7601,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7334,7 +7612,7 @@ ability:
 - Marvel Scale
 ---
 species: Dragonair
-setname: Metronome
+setname: m-Standard
 displayname: Dragonair-M
 ball: Poke
 item:
@@ -7376,7 +7654,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7385,7 +7665,7 @@ ability:
 - Marvel Scale
 ---
 species: Dragonite
-setname: Metronome
+setname: m-Standard
 displayname: Dragonite-M
 ball: Poke
 item: Mago Berry
@@ -7411,17 +7691,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Inner Focus
-tags:
-- no-mixing
 ---
 species: Mewtwo
-setname: Metronome
+setname: m-Standard
 displayname: Mewtwo-M
 ball: Poke
 item:
@@ -7449,12 +7731,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Pressure
 ---
 species: Mew
-setname: Metronome
+setname: m-Standard
 displayname: Mew-M
 ball: Poke
 item: Mago Berry
@@ -7480,12 +7765,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Synchronize
 ---
 species: Chikorita
-setname: Metronome
+setname: m-Standard
 displayname: Chikorita-M
 ball: Poke
 item:
@@ -7527,7 +7815,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7536,7 +7826,7 @@ ability:
 - Leaf Guard
 ---
 species: Bayleef
-setname: Metronome
+setname: m-Standard
 displayname: Bayleef-M
 ball: Poke
 item:
@@ -7578,7 +7868,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7587,7 +7879,7 @@ ability:
 - Leaf Guard
 ---
 species: Meganium
-setname: Metronome
+setname: m-Standard
 displayname: Meganium-M
 ball: Poke
 item:
@@ -7629,7 +7921,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7638,7 +7932,7 @@ ability:
 - Leaf Guard
 ---
 species: Cyndaquil
-setname: Metronome
+setname: m-Standard
 displayname: Cyndaquil-M
 ball: Poke
 item:
@@ -7680,7 +7974,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7689,7 +7985,7 @@ ability:
 - Flash Fire
 ---
 species: Quilava
-setname: Metronome
+setname: m-Standard
 displayname: Quilava-M
 ball: Poke
 item:
@@ -7731,7 +8027,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7740,7 +8038,7 @@ ability:
 - Flash Fire
 ---
 species: Typhlosion
-setname: Metronome
+setname: m-Standard
 displayname: Typhlosion-M
 ball: Poke
 item:
@@ -7782,7 +8080,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7791,7 +8091,7 @@ ability:
 - Flash Fire
 ---
 species: Totodile
-setname: Metronome
+setname: m-Standard
 displayname: Totodile-M
 ball: Poke
 item:
@@ -7833,7 +8133,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7841,7 +8143,7 @@ ability:
 - Torrent
 ---
 species: Croconaw
-setname: Metronome
+setname: m-Standard
 displayname: Croconaw-M
 ball: Poke
 item:
@@ -7883,7 +8185,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7891,7 +8195,7 @@ ability:
 - Torrent
 ---
 species: Feraligatr
-setname: Metronome
+setname: m-Standard
 displayname: Feraligatr-M
 ball: Poke
 item:
@@ -7933,7 +8237,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -7941,7 +8247,7 @@ ability:
 - Torrent
 ---
 species: Sentret
-setname: Metronome
+setname: m-Standard
 displayname: Sentret-M
 ball: Poke
 item:
@@ -7982,7 +8288,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -7991,7 +8300,7 @@ ability:
 - Frisk
 ---
 species: Furret
-setname: Metronome
+setname: m-Standard
 displayname: Furret-M
 ball: Poke
 item:
@@ -8033,7 +8342,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -8042,7 +8353,7 @@ ability:
 - Frisk
 ---
 species: Hoothoot
-setname: Metronome
+setname: m-Standard
 displayname: Hoothoot-M
 ball: Poke
 item:
@@ -8084,18 +8395,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Insomnia
 - Tinted Lens
-tags:
-- no-mixing
 ---
 species: Noctowl
-setname: Metronome
+setname: m-Standard
 displayname: Noctowl-M
 ball: Poke
 item:
@@ -8137,18 +8449,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Insomnia
 - Tinted Lens
-tags:
-- no-mixing
 ---
 species: Ledyba
-setname: Metronome
+setname: m-Standard
 displayname: Ledyba-M
 ball: Poke
 item:
@@ -8190,17 +8503,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swarm
-tags:
-- no-mixing
 ---
 species: Ledian
-setname: Metronome
+setname: m-Standard
 displayname: Ledian-M
 ball: Poke
 item:
@@ -8242,18 +8556,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swarm
 - Iron Fist
-tags:
-- no-mixing
 ---
 species: Spinarak
-setname: Metronome
+setname: m-Standard
 displayname: Spinarak-M
 ball: Poke
 item:
@@ -8295,7 +8610,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -8304,7 +8621,7 @@ ability:
 - Sniper
 ---
 species: Ariados
-setname: Metronome
+setname: m-Standard
 displayname: Ariados-M
 ball: Poke
 item:
@@ -8346,7 +8663,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -8355,7 +8674,7 @@ ability:
 - Sniper
 ---
 species: Crobat
-setname: Metronome
+setname: m-Standard
 displayname: Crobat-M
 ball: Poke
 item:
@@ -8397,17 +8716,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Inner Focus
-tags:
-- no-mixing
 ---
 species: Chinchou
-setname: Metronome
+setname: m-Standard
 displayname: Chinchou-M
 ball: Poke
 item:
@@ -8449,7 +8769,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -8458,7 +8780,7 @@ ability:
 - Water Absorb
 ---
 species: Lanturn
-setname: Metronome
+setname: m-Standard
 displayname: Lanturn-M
 ball: Poke
 item:
@@ -8500,7 +8822,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -8509,7 +8833,7 @@ ability:
 - Water Absorb
 ---
 species: Pichu
-setname: Metronome
+setname: m-Standard
 displayname: Pichu-M
 ball: Poke
 item:
@@ -8550,7 +8874,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -8559,7 +8886,7 @@ ability:
 - Lightning Rod
 ---
 species: Cleffa
-setname: Metronome
+setname: m-Standard
 displayname: Cleffa-M
 ball: Poke
 item:
@@ -8600,7 +8927,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -8608,7 +8938,7 @@ ability:
 - Cute Charm
 ---
 species: Igglybuff
-setname: Metronome
+setname: m-Standard
 displayname: Igglybuff-M
 ball: Poke
 item:
@@ -8649,7 +8979,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -8657,7 +8990,7 @@ ability:
 - Cute Charm
 ---
 species: Togepi
-setname: Metronome
+setname: m-Standard
 displayname: Togepi-M
 ball: Poke
 item:
@@ -8699,7 +9032,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -8708,7 +9043,7 @@ ability:
 - Super Luck
 ---
 species: Togetic
-setname: Metronome
+setname: m-Standard
 displayname: Togetic-M
 ball: Poke
 item:
@@ -8750,18 +9085,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Hustle
 - Super Luck
-tags:
-- no-mixing
 ---
 species: Natu
-setname: Metronome
+setname: m-Standard
 displayname: Natu-M
 ball: Poke
 item:
@@ -8803,17 +9139,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Synchronize
-tags:
-- no-mixing
 ---
 species: Xatu
-setname: Metronome
+setname: m-Standard
 displayname: Xatu-M
 ball: Poke
 item:
@@ -8855,17 +9192,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Synchronize
-tags:
-- no-mixing
 ---
 species: Mareep
-setname: Metronome
+setname: m-Standard
 displayname: Mareep-M
 ball: Poke
 item:
@@ -8907,7 +9245,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -8916,7 +9256,7 @@ ability:
 - Plus
 ---
 species: Flaaffy
-setname: Metronome
+setname: m-Standard
 displayname: Flaaffy-M
 ball: Poke
 item:
@@ -8958,7 +9298,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -8967,7 +9309,7 @@ ability:
 - Plus
 ---
 species: Ampharos
-setname: Metronome
+setname: m-Standard
 displayname: Ampharos-M
 ball: Poke
 item:
@@ -9009,7 +9351,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9018,7 +9362,7 @@ ability:
 - Plus
 ---
 species: Bellossom
-setname: Metronome
+setname: m-Standard
 displayname: Bellossom-M
 ball: Poke
 item:
@@ -9060,7 +9404,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9068,7 +9414,7 @@ ability:
 - Chlorophyll
 ---
 species: Marill
-setname: Metronome
+setname: m-Standard
 displayname: Marill-M
 ball: Poke
 item:
@@ -9110,7 +9456,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9118,7 +9466,7 @@ ability:
 - Thick Fat
 ---
 species: Azumarill
-setname: Metronome
+setname: m-Standard
 displayname: Azumarill-M
 ball: Poke
 item:
@@ -9160,7 +9508,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9168,7 +9518,7 @@ ability:
 - Thick Fat
 ---
 species: Sudowoodo
-setname: Metronome
+setname: m-Standard
 displayname: Sudowoodo-M
 ball: Poke
 item:
@@ -9210,17 +9560,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Politoed
-setname: Metronome
+setname: m-Standard
 displayname: Politoed-M
 ball: Poke
 item:
@@ -9262,7 +9613,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9271,7 +9624,7 @@ ability:
 - Drizzle
 ---
 species: Hoppip
-setname: Metronome
+setname: m-Standard
 displayname: Hoppip-M
 ball: Poke
 item:
@@ -9313,17 +9666,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Chlorophyll
-tags:
-- no-mixing
 ---
 species: Skiploom
-setname: Metronome
+setname: m-Standard
 displayname: Skiploom-M
 ball: Poke
 item:
@@ -9365,17 +9719,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Chlorophyll
-tags:
-- no-mixing
 ---
 species: Jumpluff
-setname: Metronome
+setname: m-Standard
 displayname: Jumpluff-M
 ball: Poke
 item:
@@ -9417,17 +9772,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Chlorophyll
-tags:
-- no-mixing
 ---
 species: Aipom
-setname: Metronome
+setname: m-Standard
 displayname: Aipom-M
 ball: Poke
 item:
@@ -9469,7 +9825,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9478,7 +9836,7 @@ ability:
 - Skill Link
 ---
 species: Sunkern
-setname: Metronome
+setname: m-Standard
 displayname: Sunkern-M
 ball: Poke
 item:
@@ -9519,7 +9877,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -9528,7 +9889,7 @@ ability:
 - Early Bird
 ---
 species: Sunflora
-setname: Metronome
+setname: m-Standard
 displayname: Sunflora-M
 ball: Poke
 item:
@@ -9570,7 +9931,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9579,7 +9942,7 @@ ability:
 - Early Bird
 ---
 species: Yanma
-setname: Metronome
+setname: m-Standard
 displayname: Yanma-M
 ball: Poke
 item:
@@ -9621,18 +9984,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Speed Boost
 - Frisk
-tags:
-- no-mixing
 ---
 species: Wooper
-setname: Metronome
+setname: m-Standard
 displayname: Wooper-M
 ball: Poke
 item:
@@ -9673,18 +10037,20 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Damp
 - Unaware
-tags:
-- no-mixing
 ---
 species: Quagsire
-setname: Metronome
+setname: m-Standard
 displayname: Quagsire-M
 ball: Poke
 item:
@@ -9726,18 +10092,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Damp
 - Unaware
-tags:
-- no-mixing
 ---
 species: Espeon
-setname: Metronome
+setname: m-Standard
 displayname: Espeon-M
 ball: Poke
 item:
@@ -9779,7 +10146,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9787,7 +10156,7 @@ ability:
 - Synchronize
 ---
 species: Umbreon
-setname: Metronome
+setname: m-Standard
 displayname: Umbreon-M
 ball: Poke
 item: Life Orb
@@ -9813,7 +10182,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -9822,7 +10194,7 @@ ability:
 - Inner Focus
 ---
 species: Murkrow
-setname: Metronome
+setname: m-Standard
 displayname: Murkrow-M
 ball: Poke
 item:
@@ -9864,17 +10236,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Insomnia
-tags:
-- no-mixing
 ---
 species: Slowking
-setname: Metronome
+setname: m-Standard
 displayname: Slowking-M
 ball: Poke
 item:
@@ -9916,7 +10289,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -9924,7 +10299,7 @@ ability:
 - Oblivious
 ---
 species: Misdreavus
-setname: Metronome
+setname: m-Standard
 displayname: Misdreavus-M
 ball: Poke
 item: Iron Ball
@@ -9950,17 +10325,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Unown
-setname: Metronome
+setname: m-Standard
 displayname: Unown-M
 ball: Poke
 item:
@@ -10002,14 +10379,1341 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Levitate
+---
+species: Unown
+setname: m-B
+displayname: Unown B-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
 tags:
+- metronome
 - no-mixing
+ability:
+- Levitate
+form: B
+---
+species: Unown
+setname: m-C
+displayname: Unown C-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: C
+---
+species: Unown
+setname: m-D
+displayname: Unown D-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: D
+---
+species: Unown
+setname: m-F
+displayname: Unown F-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: F
+---
+species: Unown
+setname: m-G
+displayname: Unown G-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: G
+---
+species: Unown
+setname: m-H
+displayname: Unown H-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: H
+---
+species: Unown
+setname: m-I
+displayname: Unown I-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: I
+---
+species: Unown
+setname: m-J
+displayname: Unown J-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: J
+---
+species: Unown
+setname: m-K
+displayname: Unown K-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: K
+---
+species: Unown
+setname: m-L
+displayname: Unown L-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: L
+---
+species: Unown
+setname: m-M
+displayname: Unown M-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: M
+---
+species: Unown
+setname: m-N
+displayname: Unown N-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: N
+---
+species: Unown
+setname: m-O
+displayname: Unown O-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: O
+---
+species: Unown
+setname: m-P
+displayname: Unown P-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: P
+---
+species: Unown
+setname: m-Q
+displayname: Unown Q-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Q
+---
+species: Unown
+setname: m-R
+displayname: Unown R-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: R
+---
+species: Unown
+setname: m-S
+displayname: Unown S-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: S
+---
+species: Unown
+setname: m-T
+displayname: Unown T-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: T
+---
+species: Unown
+setname: m-U
+displayname: Unown U-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: U
+---
+species: Unown
+setname: m-V
+displayname: Unown V-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: V
+---
+species: Unown
+setname: m-W
+displayname: Unown W-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: W
+---
+species: Unown
+setname: m-X
+displayname: Unown X-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: X
+---
+species: Unown
+setname: m-Y
+displayname: Unown Y-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Y
+---
+species: Unown
+setname: m-Z
+displayname: Unown Z-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Z
+---
+species: Unown
+setname: m-!
+displayname: Unown !-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '!'
+---
+species: Unown
+setname: m-?
+displayname: Unown ?-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '?'
 ---
 species: Wobbuffet
-setname: Metronome
+setname: m-Standard
 displayname: Wobbuffet-M
 ball: Poke
 item: Life Orb
@@ -10035,7 +11739,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -10043,7 +11750,7 @@ ability:
 - Shadow Tag
 ---
 species: Girafarig
-setname: Metronome
+setname: m-Standard
 displayname: Girafarig-M
 ball: Poke
 item:
@@ -10085,7 +11792,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10093,7 +11802,7 @@ ability:
 - Inner Focus
 ---
 species: Pineco
-setname: Metronome
+setname: m-Standard
 displayname: Pineco-M
 ball: Poke
 item:
@@ -10135,17 +11844,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Forretress
-setname: Metronome
+setname: m-Standard
 displayname: Forretress-M
 ball: Poke
 item: Life Orb
@@ -10171,17 +11881,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Dunsparce
-setname: Metronome
+setname: m-Standard
 displayname: Dunsparce-M
 ball: Poke
 item:
@@ -10223,7 +11935,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10231,7 +11945,7 @@ ability:
 - Serene Grace
 ---
 species: Gligar
-setname: Metronome
+setname: m-Standard
 displayname: Gligar-M
 ball: Poke
 item:
@@ -10273,18 +11987,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Hyper Cutter
 - Immunity
-tags:
-- no-mixing
 ---
 species: Steelix
-setname: Metronome
+setname: m-Standard
 displayname: Steelix-M
 ball: Poke
 item: Life Orb
@@ -10310,7 +12025,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -10318,7 +12036,7 @@ ability:
 - Rock Head
 ---
 species: Snubbull
-setname: Metronome
+setname: m-Standard
 displayname: Snubbull-M
 ball: Poke
 item:
@@ -10360,7 +12078,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10368,7 +12088,7 @@ ability:
 - Intimidate
 ---
 species: Granbull
-setname: Metronome
+setname: m-Standard
 displayname: Granbull-M
 ball: Poke
 item:
@@ -10410,7 +12130,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10418,7 +12140,7 @@ ability:
 - Intimidate
 ---
 species: Qwilfish
-setname: Metronome
+setname: m-Standard
 displayname: Qwilfish-M
 ball: Poke
 item:
@@ -10460,7 +12182,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10469,7 +12193,7 @@ ability:
 - Intimidate
 ---
 species: Scizor
-setname: Metronome
+setname: m-Standard
 displayname: Scizor-M
 ball: Poke
 item:
@@ -10511,7 +12235,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10519,7 +12245,7 @@ ability:
 - Swarm
 ---
 species: Shuckle
-setname: Metronome
+setname: m-Standard
 displayname: Shuckle-M
 ball: Poke
 item: Life Orb
@@ -10545,17 +12271,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Heracross
-setname: Metronome
+setname: m-Standard
 displayname: Heracross-M
 ball: Poke
 item:
@@ -10597,7 +12325,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10605,7 +12335,7 @@ ability:
 - Swarm
 ---
 species: Sneasel
-setname: Metronome
+setname: m-Standard
 displayname: Sneasel-M
 ball: Poke
 item:
@@ -10647,7 +12377,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10655,7 +12387,7 @@ ability:
 - Inner Focus
 ---
 species: Teddiursa
-setname: Metronome
+setname: m-Standard
 displayname: Teddiursa-M
 ball: Poke
 item:
@@ -10697,7 +12429,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10706,7 +12440,7 @@ ability:
 - Honey Gather
 ---
 species: Ursaring
-setname: Metronome
+setname: m-Standard
 displayname: Ursaring-M
 ball: Poke
 item:
@@ -10748,7 +12482,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10756,7 +12492,7 @@ ability:
 - Guts
 ---
 species: Slugma
-setname: Metronome
+setname: m-Standard
 displayname: Slugma-M
 ball: Poke
 item:
@@ -10798,7 +12534,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10806,7 +12544,7 @@ ability:
 - Magma Armor
 ---
 species: Magcargo
-setname: Metronome
+setname: m-Standard
 displayname: Magcargo-M
 ball: Poke
 item:
@@ -10848,7 +12586,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10856,7 +12596,7 @@ ability:
 - Magma Armor
 ---
 species: Swinub
-setname: Metronome
+setname: m-Standard
 displayname: Swinub-M
 ball: Poke
 item:
@@ -10898,7 +12638,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10907,7 +12649,7 @@ ability:
 - Thick Fat
 ---
 species: Piloswine
-setname: Metronome
+setname: m-Standard
 displayname: Piloswine-M
 ball: Poke
 item:
@@ -10949,7 +12691,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -10958,7 +12702,7 @@ ability:
 - Thick Fat
 ---
 species: Corsola
-setname: Metronome
+setname: m-Standard
 displayname: Corsola-M
 ball: Poke
 item:
@@ -11000,7 +12744,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11008,7 +12754,7 @@ ability:
 - Hustle
 ---
 species: Remoraid
-setname: Metronome
+setname: m-Standard
 displayname: Remoraid-M
 ball: Poke
 item:
@@ -11050,7 +12796,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11058,7 +12806,7 @@ ability:
 - Hustle
 ---
 species: Octillery
-setname: Metronome
+setname: m-Standard
 displayname: Octillery-M
 ball: Poke
 item:
@@ -11100,7 +12848,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11108,7 +12858,7 @@ ability:
 - Suction Cups
 ---
 species: Delibird
-setname: Metronome
+setname: m-Standard
 displayname: Delibird-M
 ball: Poke
 item:
@@ -11150,18 +12900,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Vital Spirit
 - Insomnia
-tags:
-- no-mixing
 ---
 species: Mantine
-setname: Metronome
+setname: m-Standard
 displayname: Mantine-M
 ball: Poke
 item:
@@ -11203,18 +12954,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swift Swim
 - Water Veil
-tags:
-- no-mixing
 ---
 species: Skarmory
-setname: Metronome
+setname: m-Standard
 displayname: Skarmory-M
 ball: Poke
 item: Iron Ball
@@ -11240,7 +12992,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -11248,7 +13003,7 @@ ability:
 - Keen Eye
 ---
 species: Houndour
-setname: Metronome
+setname: m-Standard
 displayname: Houndour-M
 ball: Poke
 item:
@@ -11290,7 +13045,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11298,7 +13055,7 @@ ability:
 - Early Bird
 ---
 species: Houndoom
-setname: Metronome
+setname: m-Standard
 displayname: Houndoom-M
 ball: Poke
 item:
@@ -11340,7 +13097,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11348,7 +13107,7 @@ ability:
 - Early Bird
 ---
 species: Kingdra
-setname: Metronome
+setname: m-Standard
 displayname: Kingdra-M
 ball: Poke
 item: Mago Berry
@@ -11374,18 +13133,20 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swift Swim
 - Damp
-tags:
-- no-mixing
 ---
 species: Phanpy
-setname: Metronome
+setname: m-Standard
 displayname: Phanpy-M
 ball: Poke
 item:
@@ -11427,7 +13188,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11436,7 +13199,7 @@ ability:
 - Sand Veil
 ---
 species: Donphan
-setname: Metronome
+setname: m-Standard
 displayname: Donphan-M
 ball: Poke
 item:
@@ -11478,18 +13241,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
 - Sand Veil
-tags:
-- no-mixing
 ---
 species: Porygon2
-setname: Metronome
+setname: m-Standard
 displayname: Porygon2-M
 ball: Poke
 item:
@@ -11531,12 +13295,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Trace
 ---
 species: Stantler
-setname: Metronome
+setname: m-Standard
 displayname: Stantler-M
 ball: Poke
 item:
@@ -11578,7 +13344,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11586,7 +13354,7 @@ ability:
 - Intimidate
 ---
 species: Smeargle
-setname: Metronome
+setname: m-Standard
 displayname: Smeargle-M
 ball: Poke
 item:
@@ -11628,7 +13396,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11636,7 +13406,7 @@ ability:
 - Own Tempo
 ---
 species: Tyrogue
-setname: Metronome
+setname: m-Standard
 displayname: Tyrogue-M
 ball: Poke
 item:
@@ -11677,7 +13447,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 ability:
@@ -11685,7 +13458,7 @@ ability:
 - Vital Spirit
 ---
 species: Hitmontop
-setname: Metronome
+setname: m-Standard
 displayname: Hitmontop-M
 ball: Poke
 item:
@@ -11727,7 +13500,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
@@ -11735,7 +13510,7 @@ ability:
 - Steadfast
 ---
 species: Smoochum
-setname: Metronome
+setname: m-Standard
 displayname: Smoochum-M
 ball: Poke
 item:
@@ -11777,7 +13552,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
@@ -11785,7 +13562,7 @@ ability:
 - Hydration
 ---
 species: Elekid
-setname: Metronome
+setname: m-Standard
 displayname: Elekid-M
 ball: Poke
 item:
@@ -11827,7 +13604,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11836,7 +13615,7 @@ ability:
 - Vital Spirit
 ---
 species: Magby
-setname: Metronome
+setname: m-Standard
 displayname: Magby-M
 ball: Poke
 item:
@@ -11878,7 +13657,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -11887,7 +13668,7 @@ ability:
 - Vital Spirit
 ---
 species: Miltank
-setname: Metronome
+setname: m-Standard
 displayname: Miltank-M
 ball: Poke
 item:
@@ -11929,14 +13710,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
 - Thick Fat
 ---
 species: Blissey
-setname: Metronome
+setname: m-Standard
 displayname: Blissey-M
 ball: Poke
 item: Life Orb
@@ -11962,14 +13745,17 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - f
 ability:
 - Natural Cure
 ---
 species: Raikou
-setname: Metronome
+setname: m-Standard
 displayname: Raikou-M
 ball: Poke
 item:
@@ -11997,13 +13783,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Pressure
 - Volt Absorb
 ---
 species: Entei
-setname: Metronome
+setname: m-Standard
 displayname: Entei-M
 ball: Poke
 item:
@@ -12045,13 +13834,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Pressure
 - Flash Fire
 ---
 species: Suicune
-setname: Metronome
+setname: m-Standard
 displayname: Suicune-M
 ball: Poke
 item: Mago Berry
@@ -12077,13 +13868,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Pressure
 - Water Absorb
 ---
 species: Larvitar
-setname: Metronome
+setname: m-Standard
 displayname: Larvitar-M
 ball: Poke
 item:
@@ -12125,7 +13919,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12134,7 +13930,7 @@ ability:
 - Sand Veil
 ---
 species: Pupitar
-setname: Metronome
+setname: m-Standard
 displayname: Pupitar-M
 ball: Poke
 item:
@@ -12176,7 +13972,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12184,7 +13982,7 @@ ability:
 - Shed Skin
 ---
 species: Tyranitar
-setname: Metronome
+setname: m-Standard
 displayname: Tyranitar-M
 ball: Poke
 item: Mago Berry
@@ -12210,7 +14008,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -12218,7 +14019,7 @@ ability:
 - Sand Stream
 ---
 species: Lugia
-setname: Metronome
+setname: m-Standard
 displayname: Lugia-M
 ball: Poke
 item: Toxic Orb
@@ -12244,14 +14045,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Pressure
-tags:
-- no-mixing
 ---
 species: Ho-Oh
-setname: Metronome
+setname: m-Standard
 displayname: Ho-Oh-M
 ball: Poke
 item:
@@ -12279,14 +14082,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Pressure
-tags:
-- no-mixing
 ---
 species: Celebi
-setname: Metronome
+setname: m-Standard
 displayname: Celebi-M
 ball: Poke
 item: Mago Berry
@@ -12312,12 +14117,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Natural Cure
 ---
 species: Treecko
-setname: Metronome
+setname: m-Standard
 displayname: Treecko-M
 ball: Poke
 item:
@@ -12359,7 +14167,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12368,7 +14178,7 @@ ability:
 - Unburden
 ---
 species: Grovyle
-setname: Metronome
+setname: m-Standard
 displayname: Grovyle-M
 ball: Poke
 item:
@@ -12410,7 +14220,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12419,7 +14231,7 @@ ability:
 - Unburden
 ---
 species: Sceptile
-setname: Metronome
+setname: m-Standard
 displayname: Sceptile-M
 ball: Poke
 item:
@@ -12461,7 +14273,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12470,7 +14284,7 @@ ability:
 - Unburden
 ---
 species: Torchic
-setname: Metronome
+setname: m-Standard
 displayname: Torchic-M
 ball: Poke
 item:
@@ -12512,7 +14326,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12521,7 +14337,7 @@ ability:
 - Speed Boost
 ---
 species: Combusken
-setname: Metronome
+setname: m-Standard
 displayname: Combusken-M
 ball: Poke
 item:
@@ -12563,7 +14379,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12572,7 +14390,7 @@ ability:
 - Speed Boost
 ---
 species: Blaziken
-setname: Metronome
+setname: m-Standard
 displayname: Blaziken-M
 ball: Poke
 item:
@@ -12614,7 +14432,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12623,7 +14443,7 @@ ability:
 - Speed Boost
 ---
 species: Mudkip
-setname: Metronome
+setname: m-Standard
 displayname: Mudkip-M
 ball: Poke
 item:
@@ -12665,18 +14485,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Torrent
 - Damp
-tags:
-- no-mixing
 ---
 species: Marshtomp
-setname: Metronome
+setname: m-Standard
 displayname: Marshtomp-M
 ball: Poke
 item:
@@ -12718,18 +14539,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Torrent
 - Damp
-tags:
-- no-mixing
 ---
 species: Swampert
-setname: Metronome
+setname: m-Standard
 displayname: Swampert-M
 ball: Poke
 item:
@@ -12771,18 +14593,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Torrent
 - Damp
-tags:
-- no-mixing
 ---
 species: Poochyena
-setname: Metronome
+setname: m-Standard
 displayname: Poochyena-M
 ball: Poke
 item:
@@ -12823,7 +14646,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -12831,7 +14657,7 @@ ability:
 - Run Away
 ---
 species: Mightyena
-setname: Metronome
+setname: m-Standard
 displayname: Mightyena-M
 ball: Poke
 item:
@@ -12873,7 +14699,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12881,7 +14709,7 @@ ability:
 - Intimidate
 ---
 species: Zigzagoon
-setname: Metronome
+setname: m-Standard
 displayname: Zigzagoon-M
 ball: Poke
 item:
@@ -12923,7 +14751,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12932,7 +14762,7 @@ ability:
 - Quick Feet
 ---
 species: Linoone
-setname: Metronome
+setname: m-Standard
 displayname: Linoone-M
 ball: Poke
 item:
@@ -12974,7 +14804,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -12983,7 +14815,7 @@ ability:
 - Quick Feet
 ---
 species: Wurmple
-setname: Metronome
+setname: m-Standard
 displayname: Wurmple-M
 ball: Poke
 item:
@@ -13024,7 +14856,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -13033,7 +14868,7 @@ ability:
 - Run Away
 ---
 species: Silcoon
-setname: Metronome
+setname: m-Standard
 displayname: Silcoon-M
 ball: Poke
 item:
@@ -13074,7 +14909,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -13082,7 +14920,7 @@ ability:
 - Shed Skin
 ---
 species: Beautifly
-setname: Metronome
+setname: m-Standard
 displayname: Beautifly-M
 ball: Poke
 item:
@@ -13124,18 +14962,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swarm
 - Rivalry
-tags:
-- no-mixing
 ---
 species: Cascoon
-setname: Metronome
+setname: m-Standard
 displayname: Cascoon-M
 ball: Poke
 item:
@@ -13176,7 +15015,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -13184,7 +15026,7 @@ ability:
 - Shed Skin
 ---
 species: Dustox
-setname: Metronome
+setname: m-Standard
 displayname: Dustox-M
 ball: Poke
 item:
@@ -13226,7 +15068,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -13235,7 +15079,7 @@ ability:
 - Compound Eyes
 ---
 species: Lotad
-setname: Metronome
+setname: m-Standard
 displayname: Lotad-M
 ball: Poke
 item:
@@ -13276,7 +15120,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -13285,7 +15132,7 @@ ability:
 - Own Tempo
 ---
 species: Lombre
-setname: Metronome
+setname: m-Standard
 displayname: Lombre-M
 ball: Poke
 item:
@@ -13327,7 +15174,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -13336,7 +15185,7 @@ ability:
 - Own Tempo
 ---
 species: Ludicolo
-setname: Metronome
+setname: m-Standard
 displayname: Ludicolo-M
 ball: Poke
 item:
@@ -13378,7 +15227,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -13387,7 +15238,7 @@ ability:
 - Own Tempo
 ---
 species: Seedot
-setname: Metronome
+setname: m-Standard
 displayname: Seedot-M
 ball: Poke
 item:
@@ -13428,7 +15279,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -13436,7 +15290,7 @@ ability:
 - Chlorophyll
 ---
 species: Nuzleaf
-setname: Metronome
+setname: m-Standard
 displayname: Nuzleaf-M
 ball: Poke
 item:
@@ -13478,7 +15332,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -13486,7 +15342,7 @@ ability:
 - Chlorophyll
 ---
 species: Shiftry
-setname: Metronome
+setname: m-Standard
 displayname: Shiftry-M
 ball: Poke
 item:
@@ -13528,7 +15384,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -13536,7 +15394,7 @@ ability:
 - Chlorophyll
 ---
 species: Taillow
-setname: Metronome
+setname: m-Standard
 displayname: Taillow-M
 ball: Poke
 item:
@@ -13578,18 +15436,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Guts
 - Scrappy
-tags:
-- no-mixing
 ---
 species: Swellow
-setname: Metronome
+setname: m-Standard
 displayname: Swellow-M
 ball: Poke
 item:
@@ -13631,18 +15490,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Guts
 - Scrappy
-tags:
-- no-mixing
 ---
 species: Wingull
-setname: Metronome
+setname: m-Standard
 displayname: Wingull-M
 ball: Poke
 item:
@@ -13684,18 +15544,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
 - Rain Dish
-tags:
-- no-mixing
 ---
 species: Pelipper
-setname: Metronome
+setname: m-Standard
 displayname: Pelipper-M
 ball: Poke
 item:
@@ -13737,18 +15598,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
 - Rain Dish
-tags:
-- no-mixing
 ---
 species: Ralts
-setname: Metronome
+setname: m-Standard
 displayname: Ralts-M
 ball: Poke
 item:
@@ -13789,7 +15651,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -13797,7 +15662,7 @@ ability:
 - Synchronize
 ---
 species: Kirlia
-setname: Metronome
+setname: m-Standard
 displayname: Kirlia-M
 ball: Poke
 item:
@@ -13839,7 +15704,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -13847,7 +15714,7 @@ ability:
 - Synchronize
 ---
 species: Gardevoir
-setname: Metronome
+setname: m-Standard
 displayname: Gardevoir-M
 ball: Poke
 item:
@@ -13889,7 +15756,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -13897,7 +15766,7 @@ ability:
 - Synchronize
 ---
 species: Surskit
-setname: Metronome
+setname: m-Standard
 displayname: Surskit-M
 ball: Poke
 item:
@@ -13939,7 +15808,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -13948,7 +15819,7 @@ ability:
 - Rain Dish
 ---
 species: Masquerain
-setname: Metronome
+setname: m-Standard
 displayname: Masquerain-M
 ball: Poke
 item:
@@ -13990,17 +15861,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Intimidate
-tags:
-- no-mixing
 ---
 species: Shroomish
-setname: Metronome
+setname: m-Standard
 displayname: Shroomish-M
 ball: Poke
 item:
@@ -14042,7 +15914,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14051,7 +15925,7 @@ ability:
 - Quick Feet
 ---
 species: Breloom
-setname: Metronome
+setname: m-Standard
 displayname: Breloom-M
 ball: Poke
 item:
@@ -14093,7 +15967,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14102,7 +15978,7 @@ ability:
 - Technician
 ---
 species: Slakoth
-setname: Metronome
+setname: m-Standard
 displayname: Slakoth-M
 ball: Poke
 item:
@@ -14144,7 +16020,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14152,7 +16030,7 @@ ability:
 - Truant
 ---
 species: Vigoroth
-setname: Metronome
+setname: m-Standard
 displayname: Vigoroth-M
 ball: Poke
 item:
@@ -14194,7 +16072,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14202,7 +16082,7 @@ ability:
 - Vital Spirit
 ---
 species: Slaking
-setname: Metronome
+setname: m-Standard
 displayname: Slaking-M
 ball: Poke
 item:
@@ -14244,7 +16124,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14252,7 +16134,7 @@ ability:
 - Truant
 ---
 species: Nincada
-setname: Metronome
+setname: m-Standard
 displayname: Nincada-M
 ball: Poke
 item:
@@ -14294,7 +16176,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14303,7 +16187,7 @@ ability:
 - Run Away
 ---
 species: Ninjask
-setname: Metronome
+setname: m-Standard
 displayname: Ninjask-M
 ball: Poke
 item:
@@ -14345,17 +16229,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Speed Boost
-tags:
-- no-mixing
 ---
 species: Shedinja
-setname: Metronome
+setname: m-Standard
 displayname: Shedinja-M
 ball: Poke
 item:
@@ -14397,14 +16282,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: false
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Wonder Guard
-tags:
-- no-mixing
 ---
 species: Whismur
-setname: Metronome
+setname: m-Standard
 displayname: Whismur-M
 ball: Poke
 item:
@@ -14446,7 +16332,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14454,7 +16342,7 @@ ability:
 - Soundproof
 ---
 species: Loudred
-setname: Metronome
+setname: m-Standard
 displayname: Loudred-M
 ball: Poke
 item:
@@ -14496,7 +16384,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14505,7 +16395,7 @@ ability:
 - Scrappy
 ---
 species: Exploud
-setname: Metronome
+setname: m-Standard
 displayname: Exploud-M
 ball: Poke
 item:
@@ -14547,7 +16437,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14556,7 +16448,7 @@ ability:
 - Scrappy
 ---
 species: Makuhita
-setname: Metronome
+setname: m-Standard
 displayname: Makuhita-M
 ball: Poke
 item:
@@ -14598,7 +16490,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14606,7 +16500,7 @@ ability:
 - Thick Fat
 ---
 species: Hariyama
-setname: Metronome
+setname: m-Standard
 displayname: Hariyama-M
 ball: Poke
 item:
@@ -14648,7 +16542,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14656,7 +16552,7 @@ ability:
 - Thick Fat
 ---
 species: Azurill
-setname: Metronome
+setname: m-Standard
 displayname: Azurill-M
 ball: Poke
 item:
@@ -14697,7 +16593,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -14705,7 +16604,7 @@ ability:
 - Thick Fat
 ---
 species: Nosepass
-setname: Metronome
+setname: m-Standard
 displayname: Nosepass-M
 ball: Poke
 item:
@@ -14747,17 +16646,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Skitty
-setname: Metronome
+setname: m-Standard
 displayname: Skitty-M
 ball: Poke
 item:
@@ -14799,7 +16699,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14807,7 +16709,7 @@ ability:
 - Cute Charm
 ---
 species: Delcatty
-setname: Metronome
+setname: m-Standard
 displayname: Delcatty-M
 ball: Poke
 item:
@@ -14849,7 +16751,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14857,7 +16761,7 @@ ability:
 - Cute Charm
 ---
 species: Sableye
-setname: Metronome
+setname: m-Standard
 displayname: Sableye-M
 ball: Poke
 item:
@@ -14899,17 +16803,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
-tags:
-- no-mixing
 ---
 species: Mawile
-setname: Metronome
+setname: m-Standard
 displayname: Mawile-M
 ball: Poke
 item:
@@ -14951,7 +16856,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -14959,7 +16866,7 @@ ability:
 - Hyper Cutter
 ---
 species: Aron
-setname: Metronome
+setname: m-Standard
 displayname: Aron-M
 ball: Poke
 item:
@@ -15001,17 +16908,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Lairon
-setname: Metronome
+setname: m-Standard
 displayname: Lairon-M
 ball: Poke
 item:
@@ -15053,17 +16961,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Aggron
-setname: Metronome
+setname: m-Standard
 displayname: Aggron-M
 ball: Poke
 item: Life Orb
@@ -15089,17 +16998,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Meditite
-setname: Metronome
+setname: m-Standard
 displayname: Meditite-M
 ball: Poke
 item:
@@ -15141,7 +17052,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15149,7 +17062,7 @@ ability:
 - Pure Power
 ---
 species: Medicham
-setname: Metronome
+setname: m-Standard
 displayname: Medicham-M
 ball: Poke
 item:
@@ -15191,7 +17104,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15199,7 +17114,7 @@ ability:
 - Pure Power
 ---
 species: Electrike
-setname: Metronome
+setname: m-Standard
 displayname: Electrike-M
 ball: Poke
 item:
@@ -15241,7 +17156,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15250,7 +17167,7 @@ ability:
 - Minus
 ---
 species: Manectric
-setname: Metronome
+setname: m-Standard
 displayname: Manectric-M
 ball: Poke
 item:
@@ -15292,7 +17209,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15301,7 +17220,7 @@ ability:
 - Minus
 ---
 species: Plusle
-setname: Metronome
+setname: m-Standard
 displayname: Plusle-M
 ball: Poke
 item:
@@ -15343,7 +17262,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15352,7 +17273,7 @@ ability:
 - Lightning Rod
 ---
 species: Minun
-setname: Metronome
+setname: m-Standard
 displayname: Minun-M
 ball: Poke
 item:
@@ -15394,7 +17315,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15403,7 +17326,7 @@ ability:
 - Volt Absorb
 ---
 species: Volbeat
-setname: Metronome
+setname: m-Standard
 displayname: Volbeat-M
 ball: Poke
 item:
@@ -15445,14 +17368,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
 - Illuminate
 ---
 species: Illumise
-setname: Metronome
+setname: m-Standard
 displayname: Illumise-M
 ball: Poke
 item:
@@ -15494,14 +17419,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
 - Oblivious
 ---
 species: Roselia
-setname: Metronome
+setname: m-Standard
 displayname: Roselia-M
 ball: Poke
 item:
@@ -15543,7 +17470,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15552,7 +17481,7 @@ ability:
 - Leaf Guard
 ---
 species: Gulpin
-setname: Metronome
+setname: m-Standard
 displayname: Gulpin-M
 ball: Poke
 item:
@@ -15594,7 +17523,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15603,7 +17534,7 @@ ability:
 - Gluttony
 ---
 species: Swalot
-setname: Metronome
+setname: m-Standard
 displayname: Swalot-M
 ball: Poke
 item:
@@ -15645,7 +17576,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15654,7 +17587,7 @@ ability:
 - Gluttony
 ---
 species: Carvanha
-setname: Metronome
+setname: m-Standard
 displayname: Carvanha-M
 ball: Poke
 item:
@@ -15696,7 +17629,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15705,7 +17640,7 @@ ability:
 - Speed Boost
 ---
 species: Sharpedo
-setname: Metronome
+setname: m-Standard
 displayname: Sharpedo-M
 ball: Poke
 item:
@@ -15747,7 +17682,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15756,7 +17693,7 @@ ability:
 - Speed Boost
 ---
 species: Wailmer
-setname: Metronome
+setname: m-Standard
 displayname: Wailmer-M
 ball: Poke
 item:
@@ -15798,7 +17735,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15807,7 +17746,7 @@ ability:
 - Pressure
 ---
 species: Wailord
-setname: Metronome
+setname: m-Standard
 displayname: Wailord-M
 ball: Poke
 item:
@@ -15849,7 +17788,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15858,7 +17799,7 @@ ability:
 - Pressure
 ---
 species: Numel
-setname: Metronome
+setname: m-Standard
 displayname: Numel-M
 ball: Poke
 item:
@@ -15900,7 +17841,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15909,7 +17852,7 @@ ability:
 - Own Tempo
 ---
 species: Camerupt
-setname: Metronome
+setname: m-Standard
 displayname: Camerupt-M
 ball: Poke
 item:
@@ -15951,7 +17894,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -15960,7 +17905,7 @@ ability:
 - Anger Point
 ---
 species: Torkoal
-setname: Metronome
+setname: m-Standard
 displayname: Torkoal-M
 ball: Poke
 item:
@@ -16002,7 +17947,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16011,7 +17958,7 @@ ability:
 - Shell Armor
 ---
 species: Spoink
-setname: Metronome
+setname: m-Standard
 displayname: Spoink-M
 ball: Poke
 item:
@@ -16053,7 +18000,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16062,7 +18011,7 @@ ability:
 - Gluttony
 ---
 species: Grumpig
-setname: Metronome
+setname: m-Standard
 displayname: Grumpig-M
 ball: Poke
 item:
@@ -16104,7 +18053,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16113,7 +18064,7 @@ ability:
 - Gluttony
 ---
 species: Spinda
-setname: Metronome
+setname: m-Standard
 displayname: Spinda-M
 ball: Poke
 item:
@@ -16155,7 +18106,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16163,7 +18116,7 @@ ability:
 - Own Tempo
 ---
 species: Trapinch
-setname: Metronome
+setname: m-Standard
 displayname: Trapinch-M
 ball: Poke
 item:
@@ -16205,7 +18158,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16213,7 +18168,7 @@ ability:
 - Hyper Cutter
 ---
 species: Vibrava
-setname: Metronome
+setname: m-Standard
 displayname: Vibrava-M
 ball: Poke
 item:
@@ -16255,17 +18210,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Flygon
-setname: Metronome
+setname: m-Standard
 displayname: Flygon-M
 ball: Poke
 item: Mago Berry
@@ -16291,17 +18247,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Cacnea
-setname: Metronome
+setname: m-Standard
 displayname: Cacnea-M
 ball: Poke
 item:
@@ -16343,7 +18301,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16352,7 +18312,7 @@ ability:
 - Water Absorb
 ---
 species: Cacturne
-setname: Metronome
+setname: m-Standard
 displayname: Cacturne-M
 ball: Poke
 item:
@@ -16394,7 +18354,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16403,7 +18365,7 @@ ability:
 - Water Absorb
 ---
 species: Swablu
-setname: Metronome
+setname: m-Standard
 displayname: Swablu-M
 ball: Poke
 item:
@@ -16445,18 +18407,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Natural Cure
 - Cloud Nine
-tags:
-- no-mixing
 ---
 species: Altaria
-setname: Metronome
+setname: m-Standard
 displayname: Altaria-M
 ball: Poke
 item:
@@ -16498,18 +18461,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Natural Cure
 - Cloud Nine
-tags:
-- no-mixing
 ---
 species: Zangoose
-setname: Metronome
+setname: m-Standard
 displayname: Zangoose-M
 ball: Poke
 item:
@@ -16551,7 +18515,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16559,7 +18525,7 @@ ability:
 - Immunity
 ---
 species: Seviper
-setname: Metronome
+setname: m-Standard
 displayname: Seviper-M
 ball: Poke
 item:
@@ -16601,7 +18567,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16609,7 +18577,7 @@ ability:
 - Shed Skin
 ---
 species: Lunatone
-setname: Metronome
+setname: m-Standard
 displayname: Lunatone-M
 ball: Poke
 item:
@@ -16651,14 +18619,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Solrock
-setname: Metronome
+setname: m-Standard
 displayname: Solrock-M
 ball: Poke
 item:
@@ -16700,14 +18669,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Barboach
-setname: Metronome
+setname: m-Standard
 displayname: Barboach-M
 ball: Poke
 item:
@@ -16749,7 +18719,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16758,7 +18730,7 @@ ability:
 - Hydration
 ---
 species: Whiscash
-setname: Metronome
+setname: m-Standard
 displayname: Whiscash-M
 ball: Poke
 item:
@@ -16800,7 +18772,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16809,7 +18783,7 @@ ability:
 - Hydration
 ---
 species: Corphish
-setname: Metronome
+setname: m-Standard
 displayname: Corphish-M
 ball: Poke
 item:
@@ -16851,7 +18825,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16860,7 +18836,7 @@ ability:
 - Adaptability
 ---
 species: Crawdaunt
-setname: Metronome
+setname: m-Standard
 displayname: Crawdaunt-M
 ball: Poke
 item:
@@ -16902,7 +18878,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -16911,7 +18889,7 @@ ability:
 - Adaptability
 ---
 species: Baltoy
-setname: Metronome
+setname: m-Standard
 displayname: Baltoy-M
 ball: Poke
 item:
@@ -16953,14 +18931,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Claydol
-setname: Metronome
+setname: m-Standard
 displayname: Claydol-M
 ball: Poke
 item:
@@ -17002,14 +18981,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Lileep
-setname: Metronome
+setname: m-Standard
 displayname: Lileep-M
 ball: Poke
 item:
@@ -17051,7 +19031,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17060,7 +19042,7 @@ ability:
 - Storm Drain
 ---
 species: Cradily
-setname: Metronome
+setname: m-Standard
 displayname: Cradily-M
 ball: Poke
 item:
@@ -17102,7 +19084,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17111,7 +19095,7 @@ ability:
 - Storm Drain
 ---
 species: Anorith
-setname: Metronome
+setname: m-Standard
 displayname: Anorith-M
 ball: Poke
 item:
@@ -17153,7 +19137,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17162,7 +19148,7 @@ ability:
 - Swift Swim
 ---
 species: Armaldo
-setname: Metronome
+setname: m-Standard
 displayname: Armaldo-M
 ball: Poke
 item:
@@ -17204,7 +19190,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17213,7 +19201,7 @@ ability:
 - Swift Swim
 ---
 species: Feebas
-setname: Metronome
+setname: m-Standard
 displayname: Feebas-M
 ball: Poke
 item:
@@ -17254,7 +19242,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -17263,7 +19254,7 @@ ability:
 - Adaptability
 ---
 species: Milotic
-setname: Metronome
+setname: m-Standard
 displayname: Milotic-M
 ball: Poke
 item:
@@ -17305,7 +19296,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17314,7 +19307,7 @@ ability:
 - Cute Charm
 ---
 species: Castform
-setname: Metronome
+setname: m-Standard
 displayname: Castform-M
 ball: Poke
 item:
@@ -17356,7 +19349,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17364,7 +19359,7 @@ ability:
 - Forecast
 ---
 species: Kecleon
-setname: Metronome
+setname: m-Standard
 displayname: Kecleon-M
 ball: Poke
 item:
@@ -17406,7 +19401,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17414,7 +19411,7 @@ ability:
 - Color Change
 ---
 species: Shuppet
-setname: Metronome
+setname: m-Standard
 displayname: Shuppet-M
 ball: Poke
 item:
@@ -17456,17 +19453,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Insomnia
-tags:
-- no-mixing
 ---
 species: Banette
-setname: Metronome
+setname: m-Standard
 displayname: Banette-M
 ball: Poke
 item:
@@ -17508,17 +19506,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Insomnia
-tags:
-- no-mixing
 ---
 species: Duskull
-setname: Metronome
+setname: m-Standard
 displayname: Duskull-M
 ball: Poke
 item: Iron Ball
@@ -17544,18 +19543,20 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
 - Frisk
-tags:
-- no-mixing
 ---
 species: Dusclops
-setname: Metronome
+setname: m-Standard
 displayname: Dusclops-M
 ball: Poke
 item: Life Orb
@@ -17581,18 +19582,20 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Pressure
 - Frisk
-tags:
-- no-mixing
 ---
 species: Tropius
-setname: Metronome
+setname: m-Standard
 displayname: Tropius-M
 ball: Poke
 item:
@@ -17634,17 +19637,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Chlorophyll
-tags:
-- no-mixing
 ---
 species: Chimecho
-setname: Metronome
+setname: m-Standard
 displayname: Chimecho-M
 ball: Poke
 item:
@@ -17686,17 +19690,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Absol
-setname: Metronome
+setname: m-Standard
 displayname: Absol-M
 ball: Poke
 item:
@@ -17738,7 +19743,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17746,7 +19753,7 @@ ability:
 - Pressure
 ---
 species: Wynaut
-setname: Metronome
+setname: m-Standard
 displayname: Wynaut-M
 ball: Poke
 item:
@@ -17788,7 +19795,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17796,7 +19805,7 @@ ability:
 - Shadow Tag
 ---
 species: Snorunt
-setname: Metronome
+setname: m-Standard
 displayname: Snorunt-M
 ball: Poke
 item:
@@ -17838,7 +19847,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17846,7 +19857,7 @@ ability:
 - Inner Focus
 ---
 species: Glalie
-setname: Metronome
+setname: m-Standard
 displayname: Glalie-M
 ball: Poke
 item:
@@ -17888,7 +19899,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17896,7 +19909,7 @@ ability:
 - Inner Focus
 ---
 species: Spheal
-setname: Metronome
+setname: m-Standard
 displayname: Spheal-M
 ball: Poke
 item:
@@ -17938,7 +19951,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17947,7 +19962,7 @@ ability:
 - Oblivious
 ---
 species: Sealeo
-setname: Metronome
+setname: m-Standard
 displayname: Sealeo-M
 ball: Poke
 item:
@@ -17989,7 +20004,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -17998,7 +20015,7 @@ ability:
 - Oblivious
 ---
 species: Walrein
-setname: Metronome
+setname: m-Standard
 displayname: Walrein-M
 ball: Poke
 item:
@@ -18040,7 +20057,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -18049,7 +20068,7 @@ ability:
 - Oblivious
 ---
 species: Clamperl
-setname: Metronome
+setname: m-Standard
 displayname: Clamperl-M
 ball: Poke
 item:
@@ -18091,7 +20110,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -18099,7 +20120,7 @@ ability:
 - Shell Armor
 ---
 species: Huntail
-setname: Metronome
+setname: m-Standard
 displayname: Huntail-M
 ball: Poke
 item:
@@ -18141,7 +20162,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -18150,7 +20173,7 @@ ability:
 - Water Veil
 ---
 species: Gorebyss
-setname: Metronome
+setname: m-Standard
 displayname: Gorebyss-M
 ball: Poke
 item:
@@ -18192,7 +20215,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -18201,7 +20226,7 @@ ability:
 - Hydration
 ---
 species: Relicanth
-setname: Metronome
+setname: m-Standard
 displayname: Relicanth-M
 ball: Poke
 item:
@@ -18243,18 +20268,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swift Swim
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Luvdisc
-setname: Metronome
+setname: m-Standard
 displayname: Luvdisc-M
 ball: Poke
 item:
@@ -18296,7 +20322,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -18305,7 +20333,7 @@ ability:
 - Hydration
 ---
 species: Bagon
-setname: Metronome
+setname: m-Standard
 displayname: Bagon-M
 ball: Poke
 item:
@@ -18347,7 +20375,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -18355,7 +20385,7 @@ ability:
 - Rock Head
 ---
 species: Shelgon
-setname: Metronome
+setname: m-Standard
 displayname: Shelgon-M
 ball: Poke
 item:
@@ -18397,7 +20427,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -18405,7 +20437,7 @@ ability:
 - Rock Head
 ---
 species: Salamence
-setname: Metronome
+setname: m-Standard
 displayname: Salamence-M
 ball: Poke
 item: Mago Berry
@@ -18431,17 +20463,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Intimidate
-tags:
-- no-mixing
 ---
 species: Beldum
-setname: Metronome
+setname: m-Standard
 displayname: Beldum-M
 ball: Poke
 item:
@@ -18483,12 +20517,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Clear Body
 ---
 species: Metang
-setname: Metronome
+setname: m-Standard
 displayname: Metang-M
 ball: Poke
 item: Life Orb
@@ -18514,12 +20550,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Clear Body
 ---
 species: Metagross
-setname: Metronome
+setname: m-Standard
 displayname: Metagross-M
 ball: Poke
 item:
@@ -18547,12 +20586,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Clear Body
 ---
 species: Regirock
-setname: Metronome
+setname: m-Standard
 displayname: Regirock-M
 ball: Poke
 item: Life Orb
@@ -18578,15 +20620,17 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Clear Body
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Regice
-setname: Metronome
+setname: m-Standard
 displayname: Regice-M
 ball: Poke
 item:
@@ -18628,13 +20672,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Clear Body
 - Ice Body
 ---
 species: Registeel
-setname: Metronome
+setname: m-Standard
 displayname: Registeel-M
 ball: Poke
 item:
@@ -18662,12 +20708,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Clear Body
 ---
 species: Latias
-setname: Metronome
+setname: m-Standard
 displayname: Latias-M
 ball: Poke
 item: Mago Berry
@@ -18693,16 +20742,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Latios
-setname: Metronome
+setname: m-Standard
 displayname: Latios-M
 ball: Poke
 item: Mago Berry
@@ -18728,16 +20779,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Kyogre
-setname: Metronome
+setname: m-Standard
 displayname: Kyogre-M
 ball: Poke
 item:
@@ -18765,12 +20818,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Drizzle
 ---
 species: Groudon
-setname: Metronome
+setname: m-Standard
 displayname: Groudon-M
 ball: Poke
 item:
@@ -18798,12 +20854,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Drought
 ---
 species: Rayquaza
-setname: Metronome
+setname: m-Standard
 displayname: Rayquaza-M
 ball: Poke
 item: Iron Ball
@@ -18829,12 +20888,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Air Lock
 ---
 species: Jirachi
-setname: Metronome
+setname: m-Standard
 displayname: Jirachi-M
 ball: Poke
 item:
@@ -18862,12 +20924,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Serene Grace
 ---
 species: Deoxys
-setname: Metronome
+setname: m-Standard
 displayname: Deoxys-M
 ball: Poke
 item:
@@ -18909,12 +20974,149 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Pressure
 ---
+species: Deoxys
+setname: m-Attack
+displayname: Deoxys Attack-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+ability:
+- Pressure
+form: Attack
+---
+species: Deoxys
+setname: m-Defense
+displayname: Deoxys Defense-M
+ball: Poke
+item: Sticky Barb
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Pressure
+form: Defense
+---
+species: Deoxys
+setname: m-Speed
+displayname: Deoxys Speed-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+ability:
+- Pressure
+form: Speed
+---
 species: Turtwig
-setname: Metronome
+setname: m-Standard
 displayname: Turtwig-M
 ball: Poke
 item:
@@ -18956,7 +21158,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -18965,7 +21169,7 @@ ability:
 - Shell Armor
 ---
 species: Grotle
-setname: Metronome
+setname: m-Standard
 displayname: Grotle-M
 ball: Poke
 item:
@@ -19007,7 +21211,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19016,7 +21222,7 @@ ability:
 - Shell Armor
 ---
 species: Torterra
-setname: Metronome
+setname: m-Standard
 displayname: Torterra-M
 ball: Poke
 item:
@@ -19058,7 +21264,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19067,7 +21275,7 @@ ability:
 - Shell Armor
 ---
 species: Chimchar
-setname: Metronome
+setname: m-Standard
 displayname: Chimchar-M
 ball: Poke
 item:
@@ -19109,7 +21317,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19118,7 +21328,7 @@ ability:
 - Iron Fist
 ---
 species: Monferno
-setname: Metronome
+setname: m-Standard
 displayname: Monferno-M
 ball: Poke
 item:
@@ -19160,7 +21370,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19169,7 +21381,7 @@ ability:
 - Iron Fist
 ---
 species: Infernape
-setname: Metronome
+setname: m-Standard
 displayname: Infernape-M
 ball: Poke
 item:
@@ -19211,7 +21423,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19220,7 +21434,7 @@ ability:
 - Iron Fist
 ---
 species: Piplup
-setname: Metronome
+setname: m-Standard
 displayname: Piplup-M
 ball: Poke
 item:
@@ -19262,7 +21476,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19270,7 +21486,7 @@ ability:
 - Torrent
 ---
 species: Prinplup
-setname: Metronome
+setname: m-Standard
 displayname: Prinplup-M
 ball: Poke
 item:
@@ -19312,7 +21528,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19320,7 +21538,7 @@ ability:
 - Torrent
 ---
 species: Empoleon
-setname: Metronome
+setname: m-Standard
 displayname: Empoleon-M
 ball: Poke
 item:
@@ -19362,7 +21580,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19370,7 +21590,7 @@ ability:
 - Torrent
 ---
 species: Starly
-setname: Metronome
+setname: m-Standard
 displayname: Starly-M
 ball: Poke
 item:
@@ -19412,18 +21632,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
 - Reckless
-tags:
-- no-mixing
 ---
 species: Staravia
-setname: Metronome
+setname: m-Standard
 displayname: Staravia-M
 ball: Poke
 item:
@@ -19465,18 +21686,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Intimidate
 - Reckless
-tags:
-- no-mixing
 ---
 species: Staraptor
-setname: Metronome
+setname: m-Standard
 displayname: Staraptor-M
 ball: Poke
 item:
@@ -19518,18 +21740,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Intimidate
 - Reckless
-tags:
-- no-mixing
 ---
 species: Bidoof
-setname: Metronome
+setname: m-Standard
 displayname: Bidoof-M
 ball: Poke
 item:
@@ -19571,7 +21794,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19579,7 +21804,7 @@ ability:
 - Simple
 ---
 species: Bibarel
-setname: Metronome
+setname: m-Standard
 displayname: Bibarel-M
 ball: Poke
 item:
@@ -19621,7 +21846,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19629,7 +21856,7 @@ ability:
 - Simple
 ---
 species: Kricketot
-setname: Metronome
+setname: m-Standard
 displayname: Kricketot-M
 ball: Poke
 item:
@@ -19670,7 +21897,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -19679,7 +21909,7 @@ ability:
 - Run Away
 ---
 species: Kricketune
-setname: Metronome
+setname: m-Standard
 displayname: Kricketune-M
 ball: Poke
 item:
@@ -19721,7 +21951,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19730,7 +21962,7 @@ ability:
 - Technician
 ---
 species: Shinx
-setname: Metronome
+setname: m-Standard
 displayname: Shinx-M
 ball: Poke
 item:
@@ -19772,7 +22004,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19781,7 +22015,7 @@ ability:
 - Guts
 ---
 species: Luxio
-setname: Metronome
+setname: m-Standard
 displayname: Luxio-M
 ball: Poke
 item:
@@ -19823,7 +22057,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19832,7 +22068,7 @@ ability:
 - Guts
 ---
 species: Luxray
-setname: Metronome
+setname: m-Standard
 displayname: Luxray-M
 ball: Poke
 item:
@@ -19874,7 +22110,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19883,7 +22121,7 @@ ability:
 - Guts
 ---
 species: Budew
-setname: Metronome
+setname: m-Standard
 displayname: Budew-M
 ball: Poke
 item:
@@ -19925,7 +22163,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19934,7 +22174,7 @@ ability:
 - Leaf Guard
 ---
 species: Roserade
-setname: Metronome
+setname: m-Standard
 displayname: Roserade-M
 ball: Poke
 item:
@@ -19976,7 +22216,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -19985,7 +22227,7 @@ ability:
 - Technician
 ---
 species: Cranidos
-setname: Metronome
+setname: m-Standard
 displayname: Cranidos-M
 ball: Poke
 item:
@@ -20027,7 +22269,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20035,7 +22279,7 @@ ability:
 - Mold Breaker
 ---
 species: Rampardos
-setname: Metronome
+setname: m-Standard
 displayname: Rampardos-M
 ball: Poke
 item:
@@ -20077,7 +22321,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20085,7 +22331,7 @@ ability:
 - Mold Breaker
 ---
 species: Shieldon
-setname: Metronome
+setname: m-Standard
 displayname: Shieldon-M
 ball: Poke
 item: Life Orb
@@ -20111,18 +22357,20 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
 - Soundproof
-tags:
-- no-mixing
 ---
 species: Bastiodon
-setname: Metronome
+setname: m-Standard
 displayname: Bastiodon-M
 ball: Poke
 item: Life Orb
@@ -20148,18 +22396,20 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
 - Soundproof
-tags:
-- no-mixing
 ---
 species: Burmy
-setname: Metronome
+setname: m-Standard
 displayname: Burmy-M
 ball: Poke
 item:
@@ -20200,7 +22450,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -20208,7 +22461,7 @@ ability:
 - Shed Skin
 ---
 species: Wormadam
-setname: Metronome
+setname: m-Standard
 displayname: Wormadam-M
 ball: Poke
 item:
@@ -20250,14 +22503,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - f
 ability:
 - Anticipation
 ---
 species: Mothim
-setname: Metronome
+setname: m-Standard
 displayname: Mothim-M
 ball: Poke
 item:
@@ -20299,17 +22554,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 ability:
 - Swarm
 - Tinted Lens
-tags:
-- no-mixing
 ---
 species: Combee
-setname: Metronome
+setname: m-Standard
 displayname: Combee-M
 ball: Poke
 item:
@@ -20351,18 +22607,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Honey Gather
 - Hustle
-tags:
-- no-mixing
 ---
 species: Vespiquen
-setname: Metronome
+setname: m-Standard
 displayname: Vespiquen-M
 ball: Poke
 item:
@@ -20404,16 +22661,17 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - f
 ability:
 - Pressure
-tags:
-- no-mixing
 ---
 species: Pachirisu
-setname: Metronome
+setname: m-Standard
 displayname: Pachirisu-M
 ball: Poke
 item:
@@ -20455,7 +22713,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20464,7 +22724,7 @@ ability:
 - Volt Absorb
 ---
 species: Buizel
-setname: Metronome
+setname: m-Standard
 displayname: Buizel-M
 ball: Poke
 item:
@@ -20506,7 +22766,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20515,7 +22777,7 @@ ability:
 - Water Veil
 ---
 species: Floatzel
-setname: Metronome
+setname: m-Standard
 displayname: Floatzel-M
 ball: Poke
 item:
@@ -20557,7 +22819,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20566,7 +22830,7 @@ ability:
 - Water Veil
 ---
 species: Cherubi
-setname: Metronome
+setname: m-Standard
 displayname: Cherubi-M
 ball: Poke
 item:
@@ -20608,7 +22872,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20616,7 +22882,7 @@ ability:
 - Chlorophyll
 ---
 species: Cherrim
-setname: Metronome
+setname: m-Standard
 displayname: Cherrim-M
 ball: Poke
 item:
@@ -20658,7 +22924,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20666,8 +22934,8 @@ ability:
 - Flower Gift
 ---
 species: Shellos
-setname: Metronome
-displayname: Shellos-M
+setname: m-West
+displayname: Shellos West-M
 ball: Poke
 item:
 - Bluk Berry
@@ -20708,16 +22976,72 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
 ability:
 - Sticky Hold
+form: West
+---
+species: Shellos
+setname: m-East
+displayname: Shellos East-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+gender:
+- m
+- f
+ability:
+- Sticky Hold
+form: East
 ---
 species: Gastrodon
-setname: Metronome
-displayname: Gastrodon-M
+setname: m-West
+displayname: Gastrodon West-M
 ball: Poke
 item:
 - Bluk Berry
@@ -20758,15 +23082,71 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
 ability:
 - Sticky Hold
+form: West
+---
+species: Gastrodon
+setname: m-East
+displayname: Gastrodon East-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+gender:
+- m
+- f
+ability:
+- Sticky Hold
+form: East
 ---
 species: Ambipom
-setname: Metronome
+setname: m-Standard
 displayname: Ambipom-M
 ball: Poke
 item:
@@ -20808,7 +23188,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20817,7 +23199,7 @@ ability:
 - Skill Link
 ---
 species: Drifloon
-setname: Metronome
+setname: m-Standard
 displayname: Drifloon-M
 ball: Poke
 item:
@@ -20859,17 +23241,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Aftermath
-tags:
-- no-mixing
 ---
 species: Drifblim
-setname: Metronome
+setname: m-Standard
 displayname: Drifblim-M
 ball: Poke
 item:
@@ -20911,17 +23294,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Aftermath
-tags:
-- no-mixing
 ---
 species: Buneary
-setname: Metronome
+setname: m-Standard
 displayname: Buneary-M
 ball: Poke
 item:
@@ -20963,7 +23347,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -20972,7 +23358,7 @@ ability:
 - Limber
 ---
 species: Lopunny
-setname: Metronome
+setname: m-Standard
 displayname: Lopunny-M
 ball: Poke
 item:
@@ -21014,7 +23400,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21023,7 +23411,7 @@ ability:
 - Limber
 ---
 species: Mismagius
-setname: Metronome
+setname: m-Standard
 displayname: Mismagius-M
 ball: Poke
 item: Iron Ball
@@ -21049,17 +23437,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Honchkrow
-setname: Metronome
+setname: m-Standard
 displayname: Honchkrow-M
 ball: Poke
 item:
@@ -21101,17 +23491,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Insomnia
-tags:
-- no-mixing
 ---
 species: Glameow
-setname: Metronome
+setname: m-Standard
 displayname: Glameow-M
 ball: Poke
 item:
@@ -21153,7 +23544,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21162,7 +23555,7 @@ ability:
 - Keen Eye
 ---
 species: Purugly
-setname: Metronome
+setname: m-Standard
 displayname: Purugly-M
 ball: Poke
 item:
@@ -21204,7 +23597,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21212,7 +23607,7 @@ ability:
 - Thick Fat
 ---
 species: Chingling
-setname: Metronome
+setname: m-Standard
 displayname: Chingling-M
 ball: Poke
 item:
@@ -21254,17 +23649,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Stunky
-setname: Metronome
+setname: m-Standard
 displayname: Stunky-M
 ball: Poke
 item:
@@ -21306,7 +23702,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21315,7 +23713,7 @@ ability:
 - Keen Eye
 ---
 species: Skuntank
-setname: Metronome
+setname: m-Standard
 displayname: Skuntank-M
 ball: Poke
 item:
@@ -21357,7 +23755,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21366,7 +23766,7 @@ ability:
 - Keen Eye
 ---
 species: Bronzor
-setname: Metronome
+setname: m-Standard
 displayname: Bronzor-M
 ball: Poke
 item:
@@ -21408,14 +23808,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Bronzong
-setname: Metronome
+setname: m-Standard
 displayname: Bronzong-M
 ball: Poke
 item: Life Orb
@@ -21441,14 +23842,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Bonsly
-setname: Metronome
+setname: m-Standard
 displayname: Bonsly-M
 ball: Poke
 item:
@@ -21490,17 +23893,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Mime Jr.
-setname: Metronome
+setname: m-Standard
 displayname: Mime Jr.-M
 ball: Poke
 item:
@@ -21542,7 +23946,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21551,7 +23957,7 @@ ability:
 - Technician
 ---
 species: Happiny
-setname: Metronome
+setname: m-Standard
 displayname: Happiny-M
 ball: Poke
 item:
@@ -21592,14 +23998,17 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - f
 ability:
 - Natural Cure
 ---
 species: Chatot
-setname: Metronome
+setname: m-Standard
 displayname: Chatot-M
 ball: Poke
 item:
@@ -21641,17 +24050,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Keen Eye
-tags:
-- no-mixing
 ---
 species: Spiritomb
-setname: Metronome
+setname: m-Standard
 displayname: Spiritomb-M
 ball: Poke
 item:
@@ -21693,17 +24103,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Pressure
-tags:
-- no-mixing
 ---
 species: Gible
-setname: Metronome
+setname: m-Standard
 displayname: Gible-M
 ball: Poke
 item:
@@ -21745,7 +24156,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21754,7 +24167,7 @@ ability:
 - Rough Skin
 ---
 species: Gabite
-setname: Metronome
+setname: m-Standard
 displayname: Gabite-M
 ball: Poke
 item:
@@ -21796,7 +24209,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21805,7 +24220,7 @@ ability:
 - Rough Skin
 ---
 species: Garchomp
-setname: Metronome
+setname: m-Standard
 displayname: Garchomp-M
 ball: Poke
 item: Mago Berry
@@ -21831,7 +24246,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -21840,7 +24258,7 @@ ability:
 - Rough Skin
 ---
 species: Munchlax
-setname: Metronome
+setname: m-Standard
 displayname: Munchlax-M
 ball: Poke
 item:
@@ -21882,7 +24300,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21891,7 +24311,7 @@ ability:
 - Gluttony
 ---
 species: Riolu
-setname: Metronome
+setname: m-Standard
 displayname: Riolu-M
 ball: Poke
 item:
@@ -21933,7 +24353,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21941,7 +24363,7 @@ ability:
 - Steadfast
 ---
 species: Lucario
-setname: Metronome
+setname: m-Standard
 displayname: Lucario-M
 ball: Poke
 item:
@@ -21983,7 +24405,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -21991,7 +24415,7 @@ ability:
 - Steadfast
 ---
 species: Hippopotas
-setname: Metronome
+setname: m-Standard
 displayname: Hippopotas-M
 ball: Poke
 item:
@@ -22033,7 +24457,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22041,7 +24467,7 @@ ability:
 - Sand Stream
 ---
 species: Hippowdon
-setname: Metronome
+setname: m-Standard
 displayname: Hippowdon-M
 ball: Poke
 item:
@@ -22083,7 +24509,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22091,7 +24519,7 @@ ability:
 - Sand Stream
 ---
 species: Skorupi
-setname: Metronome
+setname: m-Standard
 displayname: Skorupi-M
 ball: Poke
 item:
@@ -22133,7 +24561,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22142,7 +24572,7 @@ ability:
 - Keen Eye
 ---
 species: Drapion
-setname: Metronome
+setname: m-Standard
 displayname: Drapion-M
 ball: Poke
 item:
@@ -22184,7 +24614,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22193,7 +24625,7 @@ ability:
 - Keen Eye
 ---
 species: Croagunk
-setname: Metronome
+setname: m-Standard
 displayname: Croagunk-M
 ball: Poke
 item:
@@ -22235,7 +24667,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22243,7 +24677,7 @@ ability:
 - Anticipation
 ---
 species: Toxicroak
-setname: Metronome
+setname: m-Standard
 displayname: Toxicroak-M
 ball: Poke
 item:
@@ -22285,7 +24719,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22293,7 +24729,7 @@ ability:
 - Anticipation
 ---
 species: Carnivine
-setname: Metronome
+setname: m-Standard
 displayname: Carnivine-M
 ball: Poke
 item:
@@ -22335,17 +24771,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Finneon
-setname: Metronome
+setname: m-Standard
 displayname: Finneon-M
 ball: Poke
 item:
@@ -22387,7 +24824,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22396,7 +24835,7 @@ ability:
 - Water Veil
 ---
 species: Lumineon
-setname: Metronome
+setname: m-Standard
 displayname: Lumineon-M
 ball: Poke
 item:
@@ -22438,7 +24877,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22447,7 +24888,7 @@ ability:
 - Water Veil
 ---
 species: Mantyke
-setname: Metronome
+setname: m-Standard
 displayname: Mantyke-M
 ball: Poke
 item:
@@ -22489,18 +24930,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Swift Swim
 - Water Veil
-tags:
-- no-mixing
 ---
 species: Snover
-setname: Metronome
+setname: m-Standard
 displayname: Snover-M
 ball: Poke
 item:
@@ -22542,7 +24984,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22551,7 +24995,7 @@ ability:
 - Soundproof
 ---
 species: Abomasnow
-setname: Metronome
+setname: m-Standard
 displayname: Abomasnow-M
 ball: Poke
 item:
@@ -22593,7 +25037,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22602,7 +25048,7 @@ ability:
 - Soundproof
 ---
 species: Weavile
-setname: Metronome
+setname: m-Standard
 displayname: Weavile-M
 ball: Poke
 item:
@@ -22644,7 +25090,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22652,7 +25100,7 @@ ability:
 - Pressure
 ---
 species: Magnezone
-setname: Metronome
+setname: m-Standard
 displayname: Magnezone-M
 ball: Poke
 item:
@@ -22680,12 +25128,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Magnet Pull
 ---
 species: Lickilicky
-setname: Metronome
+setname: m-Standard
 displayname: Lickilicky-M
 ball: Poke
 item:
@@ -22727,7 +25178,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22736,7 +25189,7 @@ ability:
 - Cloud Nine
 ---
 species: Rhyperior
-setname: Metronome
+setname: m-Standard
 displayname: Rhyperior-M
 ball: Poke
 item:
@@ -22778,7 +25231,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22787,7 +25242,7 @@ ability:
 - Reckless
 ---
 species: Tangrowth
-setname: Metronome
+setname: m-Standard
 displayname: Tangrowth-M
 ball: Poke
 item:
@@ -22829,7 +25284,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22837,7 +25294,7 @@ ability:
 - Chlorophyll
 ---
 species: Electivire
-setname: Metronome
+setname: m-Standard
 displayname: Electivire-M
 ball: Poke
 item:
@@ -22879,7 +25336,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22888,7 +25347,7 @@ ability:
 - Vital Spirit
 ---
 species: Magmortar
-setname: Metronome
+setname: m-Standard
 displayname: Magmortar-M
 ball: Poke
 item:
@@ -22930,7 +25389,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -22939,7 +25400,7 @@ ability:
 - Vital Spirit
 ---
 species: Togekiss
-setname: Metronome
+setname: m-Standard
 displayname: Togekiss-M
 ball: Poke
 item:
@@ -22981,18 +25442,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Hustle
 - Super Luck
-tags:
-- no-mixing
 ---
 species: Yanmega
-setname: Metronome
+setname: m-Standard
 displayname: Yanmega-M
 ball: Poke
 item:
@@ -23034,18 +25496,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Speed Boost
 - Frisk
-tags:
-- no-mixing
 ---
 species: Leafeon
-setname: Metronome
+setname: m-Standard
 displayname: Leafeon-M
 ball: Poke
 item:
@@ -23087,7 +25550,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -23096,7 +25561,7 @@ ability:
 - Chlorophyll
 ---
 species: Glaceon
-setname: Metronome
+setname: m-Standard
 displayname: Glaceon-M
 ball: Poke
 item:
@@ -23138,7 +25603,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -23147,7 +25614,7 @@ ability:
 - Ice Body
 ---
 species: Gliscor
-setname: Metronome
+setname: m-Standard
 displayname: Gliscor-M
 ball: Poke
 item:
@@ -23189,18 +25656,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Hyper Cutter
 - Poison Heal
-tags:
-- no-mixing
 ---
 species: Mamoswine
-setname: Metronome
+setname: m-Standard
 displayname: Mamoswine-M
 ball: Poke
 item:
@@ -23242,7 +25710,9 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 - f
@@ -23251,7 +25721,7 @@ ability:
 - Thick Fat
 ---
 species: Porygon-Z
-setname: Metronome
+setname: m-Standard
 displayname: Porygon-Z-M
 ball: Poke
 item:
@@ -23293,12 +25763,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Adaptability
 ---
 species: Gallade
-setname: Metronome
+setname: m-Standard
 displayname: Gallade-M
 ball: Poke
 item:
@@ -23340,14 +25812,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 gender:
 - m
 ability:
 - Steadfast
 ---
 species: Probopass
-setname: Metronome
+setname: m-Standard
 displayname: Probopass-M
 ball: Poke
 item: Life Orb
@@ -23373,17 +25847,19 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Sturdy
-tags:
-- no-mixing
 ---
 species: Dusknoir
-setname: Metronome
+setname: m-Standard
 displayname: Dusknoir-M
 ball: Poke
 item: Mago Berry
@@ -23409,18 +25885,20 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - m
 - f
 ability:
 - Pressure
 - Frisk
-tags:
-- no-mixing
 ---
 species: Froslass
-setname: Metronome
+setname: m-Standard
 displayname: Froslass-M
 ball: Poke
 item:
@@ -23462,16 +25940,17 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 gender:
 - f
 ability:
 - Snow Cloak
-tags:
-- no-mixing
 ---
 species: Rotom
-setname: Metronome
+setname: m-Standard
 displayname: Rotom-M
 ball: Poke
 item: Iron Ball
@@ -23497,14 +25976,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Uxie
-setname: Metronome
+setname: m-Standard
 displayname: Uxie-M
 ball: Poke
 item: Mago Berry
@@ -23530,14 +26011,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Mesprit
-setname: Metronome
+setname: m-Standard
 displayname: Mesprit-M
 ball: Poke
 item: Mago Berry
@@ -23563,14 +26046,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Azelf
-setname: Metronome
+setname: m-Standard
 displayname: Azelf-M
 ball: Poke
 item:
@@ -23612,14 +26097,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Dialga
-setname: Metronome
+setname: m-Standard
 displayname: Dialga-M
 ball: Poke
 item:
@@ -23647,12 +26133,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Pressure
 ---
 species: Palkia
-setname: Metronome
+setname: m-Standard
 displayname: Palkia-M
 ball: Poke
 item:
@@ -23680,12 +26169,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Pressure
 ---
 species: Heatran
-setname: Metronome
+setname: m-Standard
 displayname: Heatran-M
 ball: Poke
 item:
@@ -23713,7 +26205,10 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 gender:
 - m
 - f
@@ -23722,7 +26217,7 @@ ability:
 - Flame Body
 ---
 species: Regigigas
-setname: Metronome
+setname: m-Standard
 displayname: Regigigas-M
 ball: Poke
 item:
@@ -23750,12 +26245,15 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Slow Start
 ---
 species: Giratina
-setname: Metronome
+setname: m-Standard
 displayname: Giratina-M
 ball: Poke
 item: Toxic Orb
@@ -23781,14 +26279,16 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 ability:
 - Pressure
-tags:
-- no-mixing
 ---
 species: Cresselia
-setname: Metronome
+setname: m-Standard
 displayname: Cresselia-M
 ball: Poke
 item: Mago Berry
@@ -23814,16 +26314,18 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
 gender:
 - f
 ability:
 - Levitate
-tags:
-- no-mixing
 ---
 species: Phione
-setname: Metronome
+setname: m-Standard
 displayname: Phione-M
 ball: Poke
 item:
@@ -23865,12 +26367,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Hydration
 ---
 species: Manaphy
-setname: Metronome
+setname: m-Standard
 displayname: Manaphy-M
 ball: Poke
 item:
@@ -23912,12 +26416,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Hydration
 ---
 species: Darkrai
-setname: Metronome
+setname: m-Standard
 displayname: Darkrai-M
 ball: Poke
 item:
@@ -23959,12 +26465,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Bad Dreams
 ---
 species: Shaymin
-setname: Metronome
+setname: m-Standard
 displayname: Shaymin-M
 ball: Poke
 item:
@@ -24006,12 +26514,14 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
 ability:
 - Natural Cure
 ---
 species: Arceus
-setname: Metronome
+setname: m-Standard
 displayname: Arceus-M
 ball: Poke
 item: Black Sludge
@@ -24037,6 +26547,554 @@ moves:
 -   - Metronome (=255)
 happiness: 128
 biddable: true
-rarity: 0
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Grass
+displayname: Arceus Grass-M
+ball: Poke
+item: Meadow Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Fire
+displayname: Arceus Fire-M
+ball: Poke
+item: Flame Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Water
+displayname: Arceus Water-M
+ball: Poke
+item: Splash Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Flying
+displayname: Arceus Flying-M
+ball: Poke
+item: Sky Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Bug
+displayname: Arceus Bug-M
+ball: Poke
+item: Insect Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Poison
+displayname: Arceus Poison-M
+ball: Poke
+item: Toxic Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Electric
+displayname: Arceus Electric-M
+ball: Poke
+item: Zap Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Psychic
+displayname: Arceus Psychic-M
+ball: Poke
+item: Mind Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Rock
+displayname: Arceus Rock-M
+ball: Poke
+item: Stone Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Ground
+displayname: Arceus Ground-M
+ball: Poke
+item: Earth Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Dark
+displayname: Arceus Dark-M
+ball: Poke
+item: Dread Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Ghost
+displayname: Arceus Ghost-M
+ball: Poke
+item: Spooky Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Steel
+displayname: Arceus Steel-M
+ball: Poke
+item: Iron Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Fighting
+displayname: Arceus Fighting-M
+ball: Poke
+item: Fist Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Ice
+displayname: Arceus Ice-M
+ball: Poke
+item: Icicle Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Dragon
+displayname: Arceus Dragon-M
+ball: Poke
+item: Draco Plate
+nature: Brave
+ivs:
+    atk: 31
+    def: 0
+    hp: 0
+    spA: 31
+    spD: 0
+    spe: 31
+evs:
+    atk: 252
+    def: 0
+    hp: 0
+    spA: 252
+    spD: 0
+    spe: 0
+moves:
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+-   - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
 ability:
 - Multitype

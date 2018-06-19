@@ -18,7 +18,7 @@ except ImportError:
 
 
 sets = []
-outfile = "_compiled.json"
+outfile = "pbrpokemondb.json"
 
 existing_ids = {}
 genders_per_species = defaultdict(set)

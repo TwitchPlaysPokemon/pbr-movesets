@@ -1,0 +1,13 @@
+*.pyc
+*.log
+*.log.*
+.sass-cache
+__pycache__
+
+# IDE files
+.pydevproject
+.project
+.settings/
+.idea/
+.vscode
+.DS_Store
