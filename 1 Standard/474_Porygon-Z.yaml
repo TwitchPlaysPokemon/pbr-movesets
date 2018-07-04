@@ -55,19 +55,19 @@ evs: 0
 species: Porygon-Z
 setname: Analytic
 tags: [standard]
-item: [Iron Ball]
-ability: [Magic Guard]
+item: [Life Orb]
+ability: [Stall]
 moves:
-    - [Avalanche]
-    - [Focus Punch]
+    - [Secret Power]
+    - [Blizzard]
+    - [Bide]
     - [Curse]
-    - [Substitute]
 happiness: 255
 biddable: True
 rarity: 0.15
 ball: [Dive]
 nature: Brave
-ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 0}
+ivs: {hp: 25, atk: 25, def: 25, spA: 0, spD: 25, spe: 0}
 evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Porygon-Z
