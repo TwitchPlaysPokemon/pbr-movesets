@@ -6,9 +6,9 @@ tags: [runmon]
 item: [Flower Mail]
 ability: [Null]
 moves:
-    - [Toxic]
-    - [Flash]
-    - [Sleep Powder]
+    - [Toxic (=5)]
+    - [Flash (=10)]
+    - [Sleep Powder (=5)]
     - [Synthesis]
 gender: [f]
 happiness: 255
