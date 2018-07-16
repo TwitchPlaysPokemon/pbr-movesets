@@ -1,0 +1,21 @@
+species: Arcanine
+ingamename: RRRRRRRRRR
+displayname: RRRRRRRRRR
+setname: Bronze
+tags: [runmon]
+item: [Flower Mail]
+ability: [Null]
+moves:
+    - [Fire Blast]
+    - [Extreme Speed]
+    - [Dig]
+    - [Bite]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 16, atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
