@@ -13,7 +13,7 @@ moves:
     - [Leech Seed]
     - [Protect]
 gender: [m, f]
-rarity: 0
+rarity: 1.0
 ---
 species: Ivysaur
 displayname: "Ivysaur-S"
@@ -30,7 +30,7 @@ moves:
     - [Sunny Day]
     - [Swords Dance]
 gender: [m, f]
-rarity: 0
+rarity: 1.0
 ball: [Great]
 ---
 species: Venusaur
@@ -48,7 +48,7 @@ moves:
     - [Nature Power]
     - [Grass Whistle]
 gender: [m, f]
-rarity: 0
+rarity: 1.0
 ball: [Ultra]
 ---
 species: Charmander
@@ -66,7 +66,7 @@ moves:
     - [Will-O-Wisp]
     - [Swords Dance]
 gender: [m, f]
-rarity: 0
+rarity: 1.0
 ---
 species: Charmeleon
 displayname: "Charmeleon-S"
@@ -83,7 +83,7 @@ moves:
     - [Ancient Power]
     - [Sunny Day]
 gender: [m, f]
-rarity: 0
+rarity: 1.0
 ball: [Great]
 ---
 species: Charizard
@@ -101,5 +101,5 @@ moves:
     - [Rock Tomb]
     - [Growl]
 gender: [m, f]
-rarity: 0
+rarity: 1.0
 ball: [Ultra]

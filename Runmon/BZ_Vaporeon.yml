@@ -1,0 +1,21 @@
+species: Vaporeon
+ingamename: VVMNOO---
+displayname: VVMNOO---
+setname: Bronze
+tags: [runmon]
+item: [Flower Mail]
+ability: [Null]
+moves:
+    - [Hydro Pump]
+    - [Surf]
+    - [Whirlpool]
+    - [Tail Whip]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
+level: 100

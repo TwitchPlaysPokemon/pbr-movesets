@@ -16,7 +16,7 @@ moves:
 happiness: 128
 biddable: True
 hidden: False
-rarity: 0
+rarity: 1.0
 ---
 species: Delcatty
 setname: Input War
@@ -36,7 +36,7 @@ moves:
 happiness: 128
 biddable: True
 hidden: False
-rarity: 0
+rarity: 1.0
 ---
 species: Spinda
 setname: Input War
@@ -56,7 +56,7 @@ gender: [f]
 happiness: 128
 biddable: True
 hidden: False
-rarity: 0
+rarity: 1.0
 ---
 species: Raticate
 setname: Input War
@@ -76,7 +76,7 @@ gender: [m]
 happiness: 128
 biddable: True
 hidden: False
-rarity: 0
+rarity: 1.0
 ---
 species: Ambipom
 setname: Input War
@@ -96,7 +96,7 @@ moves:
 happiness: 128
 biddable: True
 hidden: False
-rarity: 0
+rarity: 1.0
 ---
 species: Zangoose
 setname: Input War
@@ -116,4 +116,4 @@ gender: [m]
 happiness: 128
 biddable: True
 hidden: False
-rarity: 0
+rarity: 1.0

@@ -74,17 +74,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -290,17 +290,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -506,17 +506,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -722,17 +722,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -938,17 +938,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -1155,17 +1155,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -1374,17 +1374,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -1590,17 +1590,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -1806,17 +1806,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -2021,17 +2021,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -2236,17 +2236,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -2451,17 +2451,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -2669,17 +2669,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -2884,17 +2884,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -3098,17 +3098,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -3314,17 +3314,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -3530,17 +3530,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -3746,17 +3746,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -3962,17 +3962,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -4178,17 +4178,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -4395,17 +4395,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -4615,17 +4615,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -4833,17 +4833,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -5045,17 +5045,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -5258,17 +5258,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -5474,17 +5474,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -5689,17 +5689,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -5901,17 +5901,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -6113,17 +6113,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -6325,17 +6325,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -6536,17 +6536,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -6745,17 +6745,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -6957,17 +6957,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -7168,17 +7168,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -7377,17 +7377,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -7590,17 +7590,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -7806,17 +7806,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -8022,17 +8022,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -8237,17 +8237,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -8450,17 +8450,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -8666,17 +8666,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -8882,17 +8882,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -9098,17 +9098,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -9314,17 +9314,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -9530,17 +9530,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -9747,17 +9747,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -9967,17 +9967,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -10186,17 +10186,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -10401,17 +10401,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -10613,17 +10613,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -10825,17 +10825,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -11037,17 +11037,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -11249,17 +11249,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -11463,17 +11463,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -11683,17 +11683,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -11901,17 +11901,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -12113,17 +12113,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -12325,17 +12325,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -12537,17 +12537,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -12750,17 +12750,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -12966,17 +12966,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -13182,17 +13182,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -13398,17 +13398,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -13614,17 +13614,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -13830,17 +13830,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -14046,17 +14046,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -14262,17 +14262,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -14478,17 +14478,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -14694,17 +14694,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -14910,17 +14910,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -15126,17 +15126,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -15342,17 +15342,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -15558,17 +15558,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -15774,17 +15774,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -15990,17 +15990,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -16206,17 +16206,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -16422,17 +16422,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -16638,17 +16638,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -16853,17 +16853,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -17065,17 +17065,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -17274,17 +17274,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -17474,17 +17474,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -17678,17 +17678,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -17895,17 +17895,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -18115,17 +18115,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -18334,17 +18334,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -18550,17 +18550,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -18765,17 +18765,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -18977,17 +18977,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -19189,17 +19189,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -19401,17 +19401,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -19583,17 +19583,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -19739,17 +19739,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -19895,17 +19895,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -20081,17 +20081,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -20294,17 +20294,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -20510,17 +20510,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -20725,17 +20725,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -20937,17 +20937,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -21147,17 +21147,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -21351,17 +21351,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -21557,17 +21557,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -21769,17 +21769,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -21982,17 +21982,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -22198,17 +22198,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -22413,17 +22413,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -22625,17 +22625,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -22838,17 +22838,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -23054,17 +23054,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -23270,17 +23270,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -23486,17 +23486,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -23702,17 +23702,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -23885,17 +23885,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -24065,17 +24065,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -24277,17 +24277,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -24491,17 +24491,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -24711,17 +24711,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -24930,17 +24930,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -25146,17 +25146,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -25358,17 +25358,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -25558,17 +25558,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -25762,17 +25762,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -25979,17 +25979,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -26197,17 +26197,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -26410,17 +26410,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -26626,17 +26626,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -26841,17 +26841,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -27052,17 +27052,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -27260,17 +27260,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -27474,17 +27474,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -27690,17 +27690,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -27902,17 +27902,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -28106,17 +28106,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -28322,17 +28322,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -28538,17 +28538,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -28754,17 +28754,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -28966,17 +28966,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -29169,17 +29169,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -29381,17 +29381,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -29593,17 +29593,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -29805,17 +29805,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -30018,17 +30018,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -30203,17 +30203,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -30388,17 +30388,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -30564,17 +30564,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -30713,17 +30713,17 @@ item:
 - Macho Brace
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -30898,17 +30898,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -31114,17 +31114,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -31299,17 +31299,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -31455,17 +31455,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -31599,17 +31599,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -31774,17 +31774,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -31990,17 +31990,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -32206,17 +32206,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -32422,17 +32422,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -32638,17 +32638,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -32854,17 +32854,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -33069,17 +33069,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -33281,17 +33281,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -33493,17 +33493,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -33705,17 +33705,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -33922,17 +33922,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -34139,17 +34139,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -34359,17 +34359,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -34578,17 +34578,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -34795,17 +34795,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -35014,17 +35014,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -35230,17 +35230,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -35446,17 +35446,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -35662,17 +35662,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -35878,17 +35878,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -36093,17 +36093,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -36308,17 +36308,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -36520,17 +36520,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -36734,17 +36734,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -36951,17 +36951,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -37170,17 +37170,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -37386,17 +37386,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -37602,17 +37602,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -37818,17 +37818,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -38034,17 +38034,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -38249,17 +38249,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -38461,17 +38461,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -38673,17 +38673,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -38886,17 +38886,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -39102,17 +39102,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -39318,17 +39318,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -39534,17 +39534,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -39750,17 +39750,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -39966,17 +39966,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -40181,17 +40181,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -40398,17 +40398,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -40615,17 +40615,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -40834,17 +40834,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -41055,17 +41055,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -41273,17 +41273,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -41455,17 +41455,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -41642,17 +41642,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -41857,17 +41857,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -42039,17 +42039,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -42224,17 +42224,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -42432,17 +42432,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -42640,17 +42640,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -42848,17 +42848,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -43056,17 +43056,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -43264,17 +43264,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -43472,17 +43472,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -43680,17 +43680,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -43888,17 +43888,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -44096,17 +44096,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -44304,17 +44304,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -44512,17 +44512,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -44720,17 +44720,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -44928,17 +44928,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -45136,17 +45136,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -45344,17 +45344,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -45552,17 +45552,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -45760,17 +45760,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -45968,17 +45968,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -46176,17 +46176,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -46384,17 +46384,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -46592,17 +46592,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -46800,17 +46800,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -47008,17 +47008,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -47216,17 +47216,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -47424,17 +47424,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -47632,17 +47632,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -47810,17 +47810,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -47993,17 +47993,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -48206,17 +48206,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -48391,17 +48391,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -48577,17 +48577,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -48791,17 +48791,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -48978,17 +48978,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -49161,17 +49161,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -49373,17 +49373,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -49586,17 +49586,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -49801,17 +49801,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -49983,17 +49983,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -50169,17 +50169,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -50381,17 +50381,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -50594,17 +50594,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -50809,17 +50809,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -51021,17 +51021,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -51233,17 +51233,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -51446,17 +51446,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -51662,17 +51662,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -51877,17 +51877,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -52089,17 +52089,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -52301,17 +52301,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -52515,17 +52515,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -52735,17 +52735,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -52922,17 +52922,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -53105,17 +53105,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -53317,17 +53317,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -53500,17 +53500,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -53690,17 +53690,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -53907,17 +53907,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -54122,17 +54122,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -54325,17 +54325,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -54537,17 +54537,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -54748,17 +54748,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -54961,17 +54961,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -55173,17 +55173,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -55386,17 +55386,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -55602,17 +55602,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -55816,17 +55816,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -55993,17 +55993,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -56144,17 +56144,17 @@ item:
 - Macho Brace
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -56323,17 +56323,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -56496,17 +56496,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -56674,17 +56674,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -56889,17 +56889,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -57070,17 +57070,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -57220,17 +57220,17 @@ ball: Poke
 item: Toxic Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -57368,17 +57368,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -57515,17 +57515,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -57690,17 +57690,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -57906,17 +57906,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -58122,17 +58122,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -58338,17 +58338,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -58554,17 +58554,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -58770,17 +58770,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -58987,17 +58987,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -59207,17 +59207,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -59427,17 +59427,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -59644,17 +59644,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -59857,17 +59857,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -60070,17 +60070,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -60286,17 +60286,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -60501,17 +60501,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -60716,17 +60716,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -60931,17 +60931,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -61148,17 +61148,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -61362,17 +61362,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -61577,17 +61577,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -61794,17 +61794,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -62010,17 +62010,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -62224,17 +62224,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -62437,17 +62437,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -62649,17 +62649,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -62863,17 +62863,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -63083,17 +63083,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -63303,17 +63303,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -63523,17 +63523,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -63740,17 +63740,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -63953,17 +63953,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -64165,17 +64165,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -64378,17 +64378,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -64594,17 +64594,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -64810,17 +64810,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -65026,17 +65026,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -65241,17 +65241,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -65453,17 +65453,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -65665,17 +65665,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -65878,17 +65878,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -66094,17 +66094,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -66307,17 +66307,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -66513,17 +66513,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -66726,17 +66726,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -66942,17 +66942,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -67157,17 +67157,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -67369,17 +67369,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -67580,17 +67580,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -67794,17 +67794,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -68009,17 +68009,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -68221,17 +68221,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -68434,17 +68434,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -68649,17 +68649,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -68862,17 +68862,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -69078,17 +69078,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -69263,17 +69263,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -69449,17 +69449,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -69661,17 +69661,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -69874,17 +69874,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -70090,17 +70090,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -70306,17 +70306,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -70522,17 +70522,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -70736,17 +70736,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -70944,17 +70944,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -71154,17 +71154,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -71370,17 +71370,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -71586,17 +71586,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -71802,17 +71802,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -72018,17 +72018,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -72234,17 +72234,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -72450,17 +72450,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -72666,17 +72666,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -72882,17 +72882,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -73098,17 +73098,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -73314,17 +73314,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -73530,17 +73530,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -73745,17 +73745,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -73957,17 +73957,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -74170,17 +74170,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -74355,17 +74355,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -74542,17 +74542,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -74758,17 +74758,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -74975,17 +74975,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -75195,17 +75195,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -75413,17 +75413,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -75625,17 +75625,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -75835,17 +75835,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -76039,17 +76039,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -76246,17 +76246,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -76462,17 +76462,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -76678,17 +76678,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -76894,17 +76894,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -77107,17 +77107,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -77311,17 +77311,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -77518,17 +77518,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -77734,17 +77734,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -77950,17 +77950,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -78166,17 +78166,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -78381,17 +78381,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -78598,17 +78598,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -78813,17 +78813,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -79025,17 +79025,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -79238,17 +79238,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -79454,17 +79454,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -79640,17 +79640,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -79800,17 +79800,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -79990,17 +79990,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -80206,17 +80206,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -80421,17 +80421,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -80633,17 +80633,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -80845,17 +80845,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -81057,17 +81057,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -81270,17 +81270,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -81486,17 +81486,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -81702,17 +81702,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -81917,17 +81917,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -82130,17 +82130,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -82346,17 +82346,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -82563,17 +82563,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -82782,17 +82782,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -82997,17 +82997,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -83209,17 +83209,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -83391,17 +83391,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -83574,17 +83574,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -83743,17 +83743,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -83887,17 +83887,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -84033,17 +84033,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -84211,17 +84211,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -84387,17 +84387,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -84534,17 +84534,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -84686,17 +84686,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -84839,17 +84839,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -84987,17 +84987,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -85131,17 +85131,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -85275,17 +85275,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -85450,17 +85450,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -85651,17 +85651,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -85824,17 +85824,17 @@ ball: Poke
 item: Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -85999,17 +85999,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -86206,17 +86206,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -86422,17 +86422,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -86638,17 +86638,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -86854,17 +86854,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -87070,17 +87070,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -87286,17 +87286,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -87501,17 +87501,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -87713,17 +87713,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -87925,17 +87925,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -88139,17 +88139,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -88359,17 +88359,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -88579,17 +88579,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -88797,17 +88797,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -89009,17 +89009,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -89221,17 +89221,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -89438,17 +89438,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -89654,17 +89654,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -89870,17 +89870,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -90086,17 +90086,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -90302,17 +90302,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -90518,17 +90518,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -90733,17 +90733,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -90945,17 +90945,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -91128,17 +91128,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -91288,17 +91288,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -91477,17 +91477,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -91693,17 +91693,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -91909,17 +91909,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -92125,17 +92125,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -92337,17 +92337,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -92549,17 +92549,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -92762,17 +92762,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -92979,17 +92979,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -93197,17 +93197,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -93410,17 +93410,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -93626,17 +93626,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -93842,17 +93842,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -94057,17 +94057,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -94269,17 +94269,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -94482,17 +94482,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -94698,17 +94698,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -94914,17 +94914,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -95130,17 +95130,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -95346,17 +95346,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -95562,17 +95562,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -95778,17 +95778,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -95994,17 +95994,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -96210,17 +96210,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -96395,17 +96395,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -96582,17 +96582,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -96798,17 +96798,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -97013,17 +97013,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -97226,17 +97226,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -97442,17 +97442,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -97658,17 +97658,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -97871,17 +97871,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -98044,17 +98044,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -98222,17 +98222,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -98438,17 +98438,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -98651,17 +98651,17 @@ item:
 - Starf Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -98862,17 +98862,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -99078,17 +99078,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -99294,17 +99294,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -99510,17 +99510,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -99695,17 +99695,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -99882,17 +99882,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -100097,17 +100097,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -100309,17 +100309,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -100521,17 +100521,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -100733,17 +100733,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -100946,17 +100946,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -101162,17 +101162,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -101377,17 +101377,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -101589,17 +101589,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -101802,17 +101802,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -102018,17 +102018,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -102234,17 +102234,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -102451,17 +102451,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -102670,17 +102670,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -102886,17 +102886,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -103101,17 +103101,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -103283,17 +103283,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -103462,17 +103462,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -103678,17 +103678,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -103893,17 +103893,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -104106,17 +104106,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -104322,17 +104322,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -104539,17 +104539,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -104759,17 +104759,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -104978,17 +104978,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -105194,17 +105194,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -105411,17 +105411,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -105630,17 +105630,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -105842,17 +105842,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -106044,17 +106044,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -106223,17 +106223,17 @@ ball: Poke
 item: Life Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -106380,17 +106380,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -106569,17 +106569,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -106748,17 +106748,17 @@ ball: Poke
 item: Iron Ball
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -106892,17 +106892,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -107036,17 +107036,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -107211,17 +107211,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -107387,17 +107387,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -107535,17 +107535,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -107687,17 +107687,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -107847,17 +107847,17 @@ item:
 - Sticky Barb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -107992,17 +107992,17 @@ ball: Poke
 item: Toxic Orb
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -108138,17 +108138,17 @@ ball: Poke
 item: Mago Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -108318,17 +108318,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -108518,17 +108518,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -108718,17 +108718,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -108918,17 +108918,17 @@ item:
 - Pamtre Berry
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -109087,17 +109087,17 @@ ball: Poke
 item: Black Sludge
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -109227,17 +109227,17 @@ ball: Poke
 item: Meadow Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -109367,17 +109367,17 @@ ball: Poke
 item: Flame Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -109507,17 +109507,17 @@ ball: Poke
 item: Splash Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -109647,17 +109647,17 @@ ball: Poke
 item: Sky Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -109787,17 +109787,17 @@ ball: Poke
 item: Insect Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -109927,17 +109927,17 @@ ball: Poke
 item: Toxic Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -110067,17 +110067,17 @@ ball: Poke
 item: Zap Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -110207,17 +110207,17 @@ ball: Poke
 item: Mind Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -110347,17 +110347,17 @@ ball: Poke
 item: Stone Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -110487,17 +110487,17 @@ ball: Poke
 item: Earth Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -110627,17 +110627,17 @@ ball: Poke
 item: Dread Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -110768,17 +110768,17 @@ ball: Poke
 item: Spooky Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -110911,17 +110911,17 @@ ball: Poke
 item: Iron Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -111051,17 +111051,17 @@ ball: Poke
 item: Fist Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -111191,17 +111191,17 @@ ball: Poke
 item: Icicle Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:
@@ -111331,17 +111331,17 @@ ball: Poke
 item: Draco Plate
 nature: Brave
 ivs:
-    atk: 15
-    def: 0
-    hp: 0
-    spA: 15
-    spD: 0
+    atk: 31
+    def: 20
+    hp: 20
+    spA: 31
+    spD: 20
     spe: 0
 evs:
-    atk: 0
+    atk: 252
     def: 0
     hp: 0
-    spA: 0
+    spA: 252
     spD: 0
     spe: 0
 moves:

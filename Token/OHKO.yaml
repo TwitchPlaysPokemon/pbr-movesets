@@ -10,7 +10,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Lonely
 ivs: 0
@@ -28,7 +28,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Naughty
 ivs: 0
@@ -46,7 +46,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Serious
 ivs: 0
@@ -64,7 +64,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Naughty
 ivs: 0
@@ -82,7 +82,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Serious
 ivs: 0
@@ -100,7 +100,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Lonely
 ivs: 0
@@ -118,7 +118,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Lonely
 ivs: 0
@@ -136,7 +136,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Gentle
 ivs: 0
@@ -154,7 +154,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Hardy
 ivs: 0
@@ -172,7 +172,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Serious
 ivs: 0
@@ -190,7 +190,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Jolly
 ivs: 31
@@ -208,7 +208,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0
+rarity: 1.0
 ball: [Poké]
 nature: Serious
 ivs: 0

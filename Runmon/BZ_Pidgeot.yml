@@ -1,0 +1,21 @@
+species: Pidgeot
+ingamename: DDDDDEOOPS
+displayname: DDDDDEOOPS
+setname: Bronze
+tags: [runmon]
+item: [Flower Mail]
+ability: [Null]
+moves:
+    - [Fly]
+    - [Steel Wing]
+    - [Thief]
+    - [Swagger]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 140, def: 40, spA: 0, spD: 40, spe: 60}
+level: 100
