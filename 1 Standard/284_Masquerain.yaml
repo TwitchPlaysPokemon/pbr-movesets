@@ -8,7 +8,7 @@ moves:
     - [U-Turn]
     - [Aerial Ace]
     - [Secret Power]
-    - [Agility]
+    - [Flash]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -27,7 +27,7 @@ moves:
     - [Bug Buzz]
     - [Air Slash]
     - [Hydro Pump]
-    - [Haze]
+    - [Rain Dance]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -56,7 +56,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
 ivs: 31
 ---
 species: Masquerain
-setname: Airbender
+setname: Wind
 ball: [Cherish]
 tags: [standard]
 item: [Null]
