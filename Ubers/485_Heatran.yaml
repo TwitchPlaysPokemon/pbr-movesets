@@ -35,7 +35,7 @@ biddable: True
 rarity: 0.2
 ball: [Timer]
 nature: Timid
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ---
 species: Heatran
