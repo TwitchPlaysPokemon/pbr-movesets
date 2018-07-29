@@ -27,7 +27,7 @@ illegal_chars = r"[\]^`|"
 
 for dir, _, files in os.walk("."):
     for file in files:
-        if not file.endswith(".yaml") or file == outfile or file.startswith("_"):
+        if not (file.endswith(".yaml") or file.endswith(".yml")) or file == outfile or file.startswith("_"):
             continue
         filepath = os.path.join(dir, file)
         with open(filepath, "r", encoding="utf-8") as f:
