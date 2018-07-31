@@ -32,5 +32,5 @@ biddable: True
 rarity: 0.3
 ball: [Ultra]
 nature: Timid
-ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
