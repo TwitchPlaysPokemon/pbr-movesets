@@ -34,6 +34,6 @@ biddable: True
 rarity: 0.6
 ball: [Quick]
 nature: Rash
-ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 31}
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
 evs: {hp: 0, atk: 104, def: 0, spA: 248, spD: 0, spe: 156}
 level: 50
