@@ -64,7 +64,7 @@ evs: {hp: , atk: , def: , spA: , spD: , spe: }
   - _No apricot balls._
 - __Nature__
   - _Put [null] if there is none_.
-- __IVS + EVS__
+- __IVs + EVs__
   - _If there's all of one (for example, something has all 31 IVs), you can put the number itself instead of the full format._
 
 ## Editing .YAMLS Efficiently
