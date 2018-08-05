@@ -1,0 +1,18 @@
+species: Camerupt
+setname: u-Mega
+tags: [ubers]
+item: [Passho Berry, Shuca Berry]
+ability: [Sheer Force]
+moves:
+    - [Fire Blast]
+    - [Earth Power]
+    - [Hidden Power]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Great]
+nature: Modest
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 176, atk: 0, def: 0, spA: 252, spD: 0, spe: 80}

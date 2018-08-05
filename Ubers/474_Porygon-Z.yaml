@@ -1,0 +1,18 @@
+species: Porygon-Z
+setname: u-Specs
+tags: [ubers]
+item: [Choice Specs]
+ability: [Adaptability]
+moves:
+    - [Tri Attack]
+    - [Ice Beam]
+    - [Dark Pulse]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

@@ -1,0 +1,18 @@
+species: Yanmega
+setname: u-Sash
+tags: [ubers]
+item: [Focus Sash]
+ability: [Speed Boost]
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Hidden Power]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Timer]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 76, atk: 0, def: 0, spA: 252, spD: 0, spe: 180}

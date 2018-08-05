@@ -1,0 +1,18 @@
+species: Venusaur
+setname: u-Mega
+tags: [ubers]
+item: [Black Sludge]
+ability: [Thick Fat]
+moves:
+    - [Earthquake]
+    - [Leech Seed]
+    - [Toxic]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 1
+ball: [Great]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 180, spA: 0, spD: 76, spe: 0}

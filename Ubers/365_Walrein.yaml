@@ -1,0 +1,18 @@
+species: Walrein
+setname: u-Stall
+tags: [ubers]
+item: [Leftovers]
+ability: [Ice Body]
+moves:
+    - [Surf]
+    - [Toxic, Aqua Ring, Hail]
+    - [Substitute]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 1
+ball: [Dive]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 232, atk: 0, def: 252, spA: 0, spD: 24, spe: 0}

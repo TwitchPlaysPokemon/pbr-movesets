@@ -1,0 +1,18 @@
+species: Jolteon
+setname: u-BatonPass
+tags: [ubers]
+item: [Petaya Berry, Focus Sash]
+ability: [Volt Absorb]
+moves:
+    - [Thunderbolt]
+    - [Charge Beam]
+    - [Hidden Power]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Great]
+nature: Timid
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
