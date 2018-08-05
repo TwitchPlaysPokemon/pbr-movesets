@@ -13,7 +13,7 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.0
 ball: [Poke]
 nature: Quiet
 ivs: {hp: 16, atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
