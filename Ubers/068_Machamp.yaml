@@ -1,0 +1,18 @@
+species: Machamp
+setname: u-Standard
+tags: [ubers]
+item: [Lum Berry, Focus Sash]
+ability: [No Guard]
+moves:
+    - [Dynamic Punch]
+    - [Stone Edge, Earthquake, Ice Punch]
+    - [Payback]
+    - [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Great]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 252, def: 0, spA: 0, spD: 16, spe: 4}
