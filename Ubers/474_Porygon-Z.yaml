@@ -8,7 +8,6 @@ moves:
     - [Ice Beam]
     - [Dark Pulse]
     - [Hidden Power]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1

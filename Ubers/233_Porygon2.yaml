@@ -2,7 +2,7 @@ species: Porygon2
 setname: u-Defensive
 tags: [ubers]
 item: [Leftovers]
-ability: [Trace]
+ability: [Download]
 moves:
     - [Thunderbolt, Discharge]
     - [Ice Beam]
@@ -10,7 +10,6 @@ moves:
     - [Recover]
 separations:
     - [Discharge, Thunder Wave]
-gender: [m, f]
 happiness: 255
 biddable: False
 rarity: 1
