@@ -46,8 +46,8 @@ ability: [Drought]
 moves:
     - [Earthquake]
     - [Lava Plume, Stone Edge]
-    - [Roar, Protect]
     - [Stealth Rock, Toxic]
+    - [Roar, Protect]
 happiness: 255
 biddable: True
 rarity: 0.35
