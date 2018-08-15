@@ -1,0 +1,159 @@
+species: Dragonite
+setname: PWT-Lance E4
+tags: [in-game, PWT-Lance E4]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Safeguard]
+    - [Outrage]
+    - [Wing Attack]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance E4 Rematch
+tags: [in-game, PWT-Lance E4 Rematch]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Hyper Beam]
+    - [Earthquake]
+    - [Dragon Claw]
+    - [Flamethrower]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance E4 Rematch-2
+tags: [in-game, PWT-Lance E4 Rematch]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Hyper Beam]
+    - [Outrage]
+    - [Thunderbolt]
+    - [Ice Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Champion
+tags: [in-game, PWT-Lance Champion]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Dragon Rush]
+    - [Thunder Wave]
+    - [Thunder]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Champion-2
+tags: [in-game, PWT-Lance Champion]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Dragon Rush]
+    - [Thunder Wave]
+    - [Blizzard]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Champion-3
+tags: [in-game, PWT-Lance Champion]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Outrage]
+    - [Safeguard]
+    - [Fire Blast]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Champion Rematch
+tags: [in-game, PWT-Lance Champion Rematch]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Draco Meteor]
+    - [Safeguard]
+    - [Fire Blast]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Dragon Breath]
+    - [Safeguard]
+    - [Thunder]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

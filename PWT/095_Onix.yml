@@ -1,0 +1,137 @@
+species: Onix
+setname: PWT-Bruno
+tags: [in-game, PWT-Bruno]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Earthquake]
+    - [Rock Tomb]
+    - [Iron Tail]
+    - [Roar]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Bruno-2
+tags: [in-game, PWT-Bruno]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Double Edge]
+    - [Iron Tail]
+    - [Earthquake]
+    - [Sand Tomb]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Sandstorm]
+    - [Dragon Breath]
+    - [Rock Slide]
+    - [Earthquake]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Brock
+tags: [in-game, PWT-Brock]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Tackle]
+    - [Bind]
+    - [Rock Tomb]
+gender: [m]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Brock2
+tags: [in-game, PWT-Brock2]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Screech]
+    - [Sandstorm]
+    - [Iron Tail]
+    - [Rock Slide]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Brock2 Rematch
+tags: [in-game, PWT-Brock2 Rematch]
+item: [Null]
+ability: [Sturdy]
+moves:
+    - [Stealth Rock]
+    - [Rock Slide]
+    - [Rock Polish]
+    - [Sandstorm]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Roark
+tags: [in-game, PWT-Roark]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Rock Throw]
+    - [Screech]
+    - [Stealth Rock]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

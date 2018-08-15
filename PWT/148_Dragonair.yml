@@ -1,0 +1,99 @@
+species: Dragonair
+setname: PWT-Lance E4
+tags: [in-game, PWT-Lance E4]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Safeguard]
+    - [Outrage]
+    - [Dragon Rage]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Lance E4-2
+tags: [in-game, PWT-Lance E4]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Safeguard]
+    - [Outrage]
+    - [Thunder Wave]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Clair
+tags: [in-game, PWT-Clair]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Thunder Wave]
+    - [Slam]
+    - [Aqua Tail]
+    - [Dragon Pulse]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Clair-2
+tags: [in-game, PWT-Clair]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Thunder Wave]
+    - [Slam]
+    - [Fire Blast]
+    - [Dragon Pulse]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Dragon Rush]
+    - [Thunder Wave]
+    - [Thunderbolt]
+    - [Flamethrower]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

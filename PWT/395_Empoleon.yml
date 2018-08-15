@@ -1,0 +1,39 @@
+species: Empoleon
+setname: PWT-Barry
+tags: [in-game, PWT-Barry]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Hydro Pump]
+    - [Metal Claw]
+    - [Drill Peck]
+    - [Shadow Claw]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Jasmine Rematch
+tags: [in-game, PWT-Jasmine Rematch]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Hydro Pump]
+    - [Blizzard]
+    - [Aqua Jet]
+    - [Roar]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

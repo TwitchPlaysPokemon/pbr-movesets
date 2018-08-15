@@ -1,0 +1,59 @@
+species: Mightyena
+setname: PWT-Archie
+tags: [in-game, PWT-Archie]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Roar]
+    - [Swagger]
+    - [Scary Face]
+    - [Take Down]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mightyena
+setname: PWT-Maxie
+tags: [in-game, PWT-Maxie]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Swagger]
+    - [Scary Face]
+    - [Take Down]
+    - [Taunt]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mightyena
+setname: PWT-Sydney
+tags: [in-game, PWT-Sydney]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Roar]
+    - [Souble Edge]
+    - [Sand Attack]
+    - [Crunch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,39 @@
+species: Sharpedo
+setname: PWT-Archie
+tags: [in-game, PWT-Archie]
+item: [Null]
+ability: [Rough Skin]
+moves:
+    - [Screech]
+    - [Slash]
+    - [Taunt]
+    - [Swagger]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sharpedo
+setname: PWT-Crasher Wake Rematch
+tags: [in-game, PWT-Crasher Wake Rematch]
+item: [Null]
+ability: [Rough Skin]
+moves:
+    - [Night Slash]
+    - [Slash]
+    - [Aqua Jet]
+    - [Endure]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

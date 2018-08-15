@@ -1,0 +1,139 @@
+species: Houndoom
+setname: PWT-Cyrus
+tags: [in-game, PWT-Cyrus]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Flamethrower]
+    - [Dark Pulse]
+    - [Will-O-Wisp]
+    - [Thunder Fang]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Flint
+tags: [in-game, PWT-Flint]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Flamethrower]
+    - [Sludge Bomb]
+    - [Dark Pulse]
+    - [Sunny Day]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Karen
+tags: [in-game, PWT-Karen]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Nasty Plot]
+    - [Dark Pulse]
+    - [Flamethrower]
+    - [Crunch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Karen Rematch
+tags: [in-game, PWT-Karen Rematch]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Nasty Plot]
+    - [Dark Pulse]
+    - [Flamethrower]
+    - [Sludge Bomb]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Blaine2 Rematch
+tags: [in-game, PWT-Blaine2 Rematch]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Dark Pulse]
+    - [Flamethrower]
+    - [Shadow Ball]
+    - [Sucker Punch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Professor Elm
+tags: [in-game, PWT-Professor Elm]
+item: [Cheri Berry]
+ability: [Null]
+moves:
+    - [Dark Pulse]
+    - [Flamethrower]
+    - [Roar]
+    - [Nasty Plot]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Burglar Simon
+tags: [in-game, PWT-Burglar Simon]
+item: [Blackglasses]
+ability: [Null]
+moves:
+    - [Nasty Plot]
+    - [Dark Pulse]
+    - [Heat Wave]
+    - [Destiny Bond]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,59 @@
+species: Hitmontop
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2]
+item: [Null]
+ability: [Technician]
+moves:
+    - [Dig]
+    - [Counter]
+    - [Triple Kick]
+    - [Quick Attack]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch]
+item: [Null]
+ability: [Technician]
+moves:
+    - [Close Combat]
+    - [Earthquake]
+    - [Counter]
+    - [Quick Attack]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Maylene Rematch
+tags: [in-game, PWT-Maylene Rematch]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Fake Out]
+    - [Triple Kick]
+    - [Aerial Ace]
+    - [Quick Attack]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

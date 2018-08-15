@@ -1,0 +1,39 @@
+species: Poliwrath
+setname: PWT-Chuck
+tags: [in-game, PWT-Chuck]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Hypnosis]
+    - [Body Slam]
+    - [Surf]
+    - [Focus Punch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Poliwrath
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Substitute]
+    - [Double Team]
+    - [Waterfall]
+    - [Focus Punch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,39 @@
+species: Slugma
+setname: PWT-Blaine2
+tags: [in-game, PWT-Blaine2]
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Overheat]
+    - [Sunny Day]
+    - [Smog]
+    - [Rock Slide]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slugma
+setname: PWT-Blaine2 Rematch
+tags: [in-game, PWT-Blaine2 Rematch]
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Curse]
+    - [Gyro Ball]
+    - [Overheat]
+    - [Stone Edge]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

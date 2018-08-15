@@ -1,0 +1,39 @@
+species: Drapion
+setname: PWT-Aaron
+tags: [in-game, PWT-Aaron]
+item: [Null]
+ability: [Battle Armor]
+moves:
+    - [X-Scissor]
+    - [Cross Poison]
+    - [Ice Fang]
+    - [Aerial Ace]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Drapion
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch]
+item: [Null]
+ability: [Sniper]
+moves:
+    - [Confuse Ray]
+    - [Swords Dance]
+    - [Cross Poison]
+    - [Crunch]
+gender: [f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

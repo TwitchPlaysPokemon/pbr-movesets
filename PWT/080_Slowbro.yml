@@ -1,0 +1,59 @@
+species: Slowbro
+setname: PWT-Lorelei
+tags: [in-game, PWT-Lorelei]
+item: [Null]
+ability: [Oblivious]
+moves:
+    - [Ice Beam]
+    - [Surf]
+    - [Amnesia]
+    - [Yawn]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Will
+tags: [in-game, PWT-Will]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Curse]
+    - [Amnesia]
+    - [Water Pulse]
+    - [Psychic]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Curse]
+    - [Amnesia]
+    - [Body Slam]
+    - [Psychic]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

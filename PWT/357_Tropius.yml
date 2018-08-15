@@ -1,0 +1,59 @@
+species: Tropius
+setname: PWT-May
+tags: [in-game, PWT-May]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Stomp]
+    - [Sweet Scent]
+    - [Whirlwind]
+    - [Magical Leaf]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tropius
+setname: PWT-Brendan
+tags: [in-game, PWT-Brendan]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Stomp]
+    - [Sweet Scent]
+    - [Whirlwind]
+    - [Magical Leaf]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tropius
+setname: PWT-Winona
+tags: [in-game, PWT-Winona]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Sunny Day]
+    - [Aerial Ace]
+    - [Solar Beam]
+    - [Synthesis]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,59 @@
+species: Abomasnow
+setname: PWT-Pryce Rematch
+tags: [in-game, PWT-Pryce Rematch]
+item: [Null]
+ability: [Snow Warning]
+moves:
+    - [Ice Shard]
+    - [Wood Hammer]
+    - [Earthquake]
+    - [Blizzard]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Candice
+tags: [in-game, PWT-Candice]
+item: [Null]
+ability: [Snow Warning]
+moves:
+    - [Wood Hammer]
+    - [Focus Blast]
+    - [Water Pulse]
+    - [Avalanche]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Candice Rematch
+tags: [in-game, PWT-Candice Rematch]
+item: [Null]
+ability: [Snow Warning]
+moves:
+    - [Wood Hammer]
+    - [Ingrain]
+    - [Grass Whistle]
+    - [Avalanche]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

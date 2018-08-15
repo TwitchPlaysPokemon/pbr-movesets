@@ -1,0 +1,39 @@
+species: Gallade
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian]
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Drain Punch]
+    - [Psycho Cut]
+    - [Leaf Blade]
+    - [Stone Edge]
+gender: [m]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Sabrina2 Rematch
+tags: [in-game, PWT-Sabrina2 Rematch]
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Stone Edge]
+    - [Psycho Cut]
+    - [Night Slash]
+    - [Close Combat]
+gender: [m]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

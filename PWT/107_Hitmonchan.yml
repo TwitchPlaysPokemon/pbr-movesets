@@ -1,0 +1,99 @@
+species: Hitmonchan
+setname: PWT-Bruno
+tags: [in-game, PWT-Bruno]
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Sky Uppercut]
+    - [Mach Punch]
+    - [Rock Tomb]
+    - [Counter]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Bruno Rematch
+tags: [in-game, PWT-Bruno Rematch]
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Sky Uppercut]
+    - [Mach Punch]
+    - [Rock Slide]
+    - [Counter]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2]
+item: [Null]
+ability: [Iron Fist]
+moves:
+    - [Thunder Punch]
+    - [Ice Punch]
+    - [Fire Punch]
+    - [Bullet Punch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch]
+item: [Null]
+ability: [Iron Fist]
+moves:
+    - [Close Combat]
+    - [Drain Punch]
+    - [Bullet Punch]
+    - [Substitute]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch]
+item: [Null]
+ability: [Iron Fist]
+moves:
+    - [Swagger]
+    - [Double Team]
+    - [Mach Punch]
+    - [Focus Punch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

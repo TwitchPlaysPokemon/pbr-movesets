@@ -1,0 +1,99 @@
+species: Aerodactyl
+setname: PWT-Lance E4
+tags: [in-game, PWT-Lance E4]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Wing Attack]
+    - [Ancient Power]
+    - [Scary Face]
+    - [Hyper Beam]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Lance E4 Rematch
+tags: [in-game, PWT-Lance E4 Rematch]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Hyper Beam]
+    - [Ancient Power]
+    - [Aerial Ace]
+    - [Earthquake]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Lance Champion
+tags: [in-game, PWT-Lance Champion]
+item: [Null]
+ability: [Pressure]
+moves:
+    - [Rock Slide]
+    - [Aerial Ace]
+    - [Crunch]
+    - [Thunder Fang]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Rock Slide]
+    - [Thunder Fang]
+    - [Earthquake]
+    - [Roar]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Roark Rematch
+tags: [in-game, PWT-Roark Rematch]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Stone Edge]
+    - [Earthquake]
+    - [Dragon Claw]
+    - [Aerial Ace]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,39 @@
+species: Luxray
+setname: PWT-Volkner
+tags: [in-game, PWT-Volkner]
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Thunder Fang]
+    - [Ice Fang]
+    - [Fire Fang]
+    - [Crunch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Luxray
+setname: PWT-Volkner Rematch
+tags: [in-game, PWT-Volkner Rematch]
+item: [Null]
+ability: [Rivalry]
+moves:
+    - [Thunder Fang]
+    - [Ice Fang]
+    - [Fire Fang]
+    - [Crunch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

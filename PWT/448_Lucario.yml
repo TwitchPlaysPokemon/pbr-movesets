@@ -1,0 +1,79 @@
+species: Lucario
+setname: PWT-Cynthia
+tags: [in-game, PWT-Cynthia]
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Aura Sphere]
+    - [Dragon Pulse]
+    - [Psychic]
+    - [Earthquake]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Close Combat]
+    - [Iron Tail]
+    - [Counter]
+    - [Extreme Speed]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Maylene
+tags: [in-game, PWT-Maylene]
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Drain Punch]
+    - [Metal Claw]
+    - [Bone Rush]
+    - [Force Palm]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Maylene Rematch
+tags: [in-game, PWT-Maylene Rematch]
+item: [Null]
+ability: [Steadfast]
+moves:
+    - [Close Combat]
+    - [Extreme Speed]
+    - [Drain Punch]
+    - [Bone Rush]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
