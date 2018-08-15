@@ -1,0 +1,39 @@
+species: Shiftry
+setname: PWT-Sidney
+tags: [in-game, PWT-Sidney]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Torment]
+    - [Double Team]
+    - [Swagger]
+    - [Extrasensory]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Shiftry
+setname: PWT-Erika2 Rematch
+tags: [in-game, PWT-Erika2 Rematch]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Leaf Storm]
+    - [Sucker Punch]
+    - [Sunny Day]
+    - [Explosion]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,56 @@
+species: Bronzong
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Gyro Ball]
+    - [Earthquake]
+    - [Calm Mind]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch]
+item: [Null]
+ability: [Heatproof]
+moves:
+    - [Gravity]
+    - [Reflect]
+    - [Payback]
+    - [Psychic]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Jasmine Rematch
+tags: [in-game, PWT-Jasmine Rematch]
+item: [Null]
+ability: [Heatproof]
+moves:
+    - [Gyro Ball]
+    - [Gravity]
+    - [Hypnosis]
+    - [Dream Eater]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

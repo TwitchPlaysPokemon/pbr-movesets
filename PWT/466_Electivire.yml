@@ -1,0 +1,59 @@
+species: Electivire
+setname: PWT-Lt. Surge2 Rematch
+tags: [in-game, PWT-Lt. Surge2 Rematch]
+item: [Null]
+ability: [Motor Drive]
+moves:
+    - [Thunderbolt]
+    - [Ice Punch]
+    - [Cross Chop]
+    - [Earthquake]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Volkner
+tags: [in-game, PWT-Volkner]
+item: [Null]
+ability: [Motor Drive]
+moves:
+    - [Thunder Punch]
+    - [Fire Punch]
+    - [Giga Impact]
+    - [Quick Attack]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Volkner Rematch
+tags: [in-game, PWT-Volkner Rematch]
+item: [Null]
+ability: [Motor Drive]
+moves:
+    - [Thunder Punch]
+    - [Fire Punch]
+    - [Brick Break]
+    - [Giga Impact]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

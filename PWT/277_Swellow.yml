@@ -1,0 +1,39 @@
+species: Swellow
+setname: PWT-Falkner Rematch
+tags: [in-game, PWT-Falkner Rematch]
+item: [Flame Orb]
+ability: [Guts]
+moves:
+    - [Protect]
+    - [Double Team]
+    - [Facade]
+    - [Endeavor]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Swellow
+setname: PWT-Winona
+tags: [in-game, PWT-Winona]
+item: [Null]
+ability: [Guts]
+moves:
+    - [Quick Attack]
+    - [Aerial Ace]
+    - [Double Team]
+    - [Endeavor]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

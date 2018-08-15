@@ -1,0 +1,79 @@
+species: Quagsire
+setname: PWT-Misty2
+tags: [in-game, PWT-Misty2]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Water Pulse]
+    - [Amnesia]
+    - [Rain Dance]
+    - [Earthquake]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Misty2 Rematch
+tags: [in-game, PWT-Misty2 Rematch]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Rain Dance]
+    - [Amnesia]
+    - [Water Pulse]
+    - [Earthquake]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Crasher Wake
+tags: [in-game, PWT-Crasher Wake]
+item: [Null]
+ability: [Damp]
+moves:
+    - [Water Pulse]
+    - [Mud Shot]
+    - [Rock Tomb]
+    - [Yawn]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Crasher Wake Rematch
+tags: [in-game, PWT-Crasher Wake Rematch]
+item: [Null]
+ability: [Damp]
+moves:
+    - [Surf]
+    - [Earthquake]
+    - [Stone Edge]
+    - [Yawn]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

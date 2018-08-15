@@ -1,0 +1,39 @@
+species: Toxicroak
+setname: PWT-Koga E4 Rematch
+tags: [in-game, PWT-Koga E4 Rematch]
+item: [Null]
+ability: [Dry Skin]
+moves:
+    - [Swagger]
+    - [X-Scissor]
+    - [Cross Chop]
+    - [Gunk Shot]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch]
+item: [Null]
+ability: [Dry Skin]
+moves:
+    - [Cross Chop]
+    - [Poison Jab]
+    - [Attract]
+    - [Substitute]
+gender: [f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

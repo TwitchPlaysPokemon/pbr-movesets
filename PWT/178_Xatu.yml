@@ -1,0 +1,99 @@
+species: Xatu
+setname: PWT-Will
+tags: [in-game, PWT-Will]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [U-Turn]
+    - [Me First]
+    - [Confuse Ray]
+    - [Psychic]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Will-2
+tags: [in-game, PWT-Will]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Confuse Ray]
+    - [Ominous Wind]
+    - [Aerial Ace]
+    - [Psychic]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch]
+item: [Null]
+ability: [Early Bird]
+moves:
+    - [Confuse Ray]
+    - [Quick Attack]
+    - [Shadow Ball]
+    - [Psychic]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Tate and Liza
+tags: [in-game, PWT-Tate and Liza]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Sunny Day]
+    - [Confuse Ray]
+    - [Calm Mind]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Professor Elm
+tags: [in-game, PWT-Professor Elm]
+item: [Twisted Spoon]
+ability: [Null]
+moves:
+    - [Future Sight]
+    - [Psychic]
+    - [Confuse Ray]
+    - [Air Slash]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

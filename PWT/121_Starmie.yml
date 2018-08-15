@@ -1,0 +1,56 @@
+species: Starmie
+setname: PWT-Misty
+tags: [in-game, PWT-Misty]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Rapid Spin]
+    - [Swift]
+    - [Recover]
+    - [Water Pulse]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Misty2
+tags: [in-game, PWT-Misty2]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Water Pulse]
+    - [Confuse Ray]
+    - [Ice Beam]
+    - [Recover]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Misty2 Rematch
+tags: [in-game, PWT-Misty2 Rematch]
+item: [Colbur Berry]
+ability: [Natural Cure]
+moves:
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Psychic]
+    - [Surf]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

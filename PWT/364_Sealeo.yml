@@ -1,0 +1,59 @@
+species: Sealeo
+setname: PWT-Glacia
+tags: [in-game, PWT-Glacia]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Encore]
+    - [Body Slam]
+    - [Hail]
+    - [Ice Ball]
+gender: [f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sealeo
+setname: PWT-Glacia-2
+tags: [in-game, PWT-Glacia]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Attract]
+    - [Double Edge]
+    - [Hail]
+    - [Blizzard]
+gender: [f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sealeo
+setname: PWT-Juan
+tags: [in-game, PWT-Juan]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Encore]
+    - [Body Slam]
+    - [Aurora Beam]
+    - [Water Pulse]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

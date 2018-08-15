@@ -1,0 +1,54 @@
+species: Electrode
+setname: PWT-Lt. Surge2
+tags: [in-game, PWT-Lt. Surge2]
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunder Wave]
+    - [Double Team]
+    - [Shock Wave]
+    - [Light Screen]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Lt. Surge2-2
+tags: [in-game, PWT-Lt. Surge2]
+item: [Null]
+ability: [Static]
+moves:
+    - [Screech]
+    - [Double Team]
+    - [Selfdestruct]
+    - [Charge Beam]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+---
+species: Electrode
+setname: PWT-Lt. Surge2 Rematch
+tags: [in-game, PWT-Lt. Surge2 Rematch]
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunder Wave]
+    - [Double Team]
+    - [Thunderbolt]
+    - [Explosion]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100

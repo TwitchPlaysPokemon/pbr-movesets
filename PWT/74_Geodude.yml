@@ -1,0 +1,55 @@
+species: Geodude
+setname: PWT-Brock
+tags: [in-game, PWT-Brock]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Tackle]
+    - [Defense Curl]
+gender: [m]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Geodude
+setname: PWT-Roxanne
+tags: [in-game, PWT-Roxanne]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Tackle]
+    - [Defense Curl]
+    - [Rock Throw]
+    - [Rock Tomb]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Geodude
+setname: PWT-Roark
+tags: [in-game, PWT-Roark]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Rock Throw]
+    - [Stealth Rock]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

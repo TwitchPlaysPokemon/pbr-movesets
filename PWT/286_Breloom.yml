@@ -1,0 +1,39 @@
+species: Breloom
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch]
+item: [Toxic Orb]
+ability: [Poison Heal]
+moves:
+    - [Substitute]
+    - [Stone Edge]
+    - [Drain Punch]
+    - [Focus Punch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Breloom
+setname: PWT-Maylene Rematch
+tags: [in-game, PWT-Maylene Rematch]
+item: [Null]
+ability: [Effect Spore]
+moves:
+    - [Spore]
+    - [Mach Punch]
+    - [Seed Bomb]
+    - [Stone Edge]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

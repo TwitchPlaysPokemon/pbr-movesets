@@ -1,0 +1,79 @@
+species: Dewgong
+setname: PWT-Lorelei
+tags: [in-game, PWT-Lorelei]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Hail]
+    - [Safeguard]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dewgong
+setname: PWT-Lorelei Rematch
+tags: [in-game, PWT-Lorelei Rematch]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Signal Beam]
+    - [Double Team]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dewgong
+setname: PWT-Pryce
+tags: [in-game, PWT-Pryce]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Aurora Beam]
+    - [Rest]
+    - [Sleep Talk]
+    - [Ice Shard]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dewgong
+setname: PWT-Pryce Rematch
+tags: [in-game, PWT-Pryce Rematch]
+item: [Lum Berry]
+ability: [Thick Fat]
+moves:
+    - [Dive]
+    - [Rest]
+    - [Sleep Talk]
+    - [Sheer Cold]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

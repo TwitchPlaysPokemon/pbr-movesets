@@ -1,0 +1,139 @@
+species: Arcanine
+setname: PWT-Blue Champion
+tags: [in-game, PWT-Blue Champion]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Extreme Speed]
+    - [Flamethrower]
+    - [Roar]
+    - [Bite]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blue Champion Rematch
+tags: [in-game, PWT-Blue Champion Rematch]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Extreme Speed]
+    - [Overheat]
+    - [Aerial Ace]
+    - [Iron Tail]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blue Gym
+tags: [in-game, PWT-Blue Gym]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Roar]
+    - [Dragon Pulse]
+    - [Flare Blitz]
+    - [Extreme Speed]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blue Gym Rematch
+tags: [in-game, PWT-Blue Gym Rematch]
+item: [Null]
+ability: [Flash Fire]
+moves:
+    - [Flare Blitz]
+    - [Extreme Speed]
+    - [Thunder Fang]
+    - [Crunch]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Professor Oak
+tags: [in-game, PWT-Professor Oak]
+item: [Null]
+ability: [Null]
+moves:
+    - [Take Down]
+    - [Ember]
+    - [Roar]
+    - [Leer]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blaine
+tags: [in-game, PWT-Blaine]
+item: [Null]
+ability: [Intimidate]
+moves:
+    - [Bite]
+    - [Roar]
+    - [Take Down]
+    - [Fire Blast]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Burglar Simon
+tags: [in-game, PWT-Burglar Simon]
+item: [Persim Berry]
+ability: [Null]
+moves:
+    - [Roar]
+    - [Sunny Day]
+    - [Flamethrower]
+    - [Outrage]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

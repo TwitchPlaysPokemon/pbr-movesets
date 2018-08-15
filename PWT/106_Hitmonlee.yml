@@ -1,0 +1,99 @@
+species: Hitmonlee
+setname: PWT-Bruno
+tags: [in-game, PWT-Bruno]
+item: [Null]
+ability: [Limber]
+moves:
+    - [Mega Kick]
+    - [Foresight]
+    - [Brick Break]
+    - [Facade]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Bruno Rematch
+tags: [in-game, PWT-Bruno Rematch]
+item: [Null]
+ability: [Limber]
+moves:
+    - [Mega Kick]
+    - [Foresight]
+    - [Earthquake]
+    - [Rock Slide]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2]
+item: [Null]
+ability: [Reckless]
+moves:
+    - [Hi Jump Kick]
+    - [Blaze Kick]
+    - [Focus Energy]
+    - [Swagger]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch]
+item: [Null]
+ability: [Reckless]
+moves:
+    - [Close Combat]
+    - [Blaze Kick]
+    - [Reversal]
+    - [Swagger]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch]
+item: [Null]
+ability: [Reckless]
+moves:
+    - [Fake Out]
+    - [Bulk Up]
+    - [Blaze Kick]
+    - [Hi Jump Kick]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

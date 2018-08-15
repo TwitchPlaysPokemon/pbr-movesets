@@ -1,0 +1,59 @@
+species: Victreebel
+setname: PWT-Erika
+tags: [in-game, PWT-Erika]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Stun Spore]
+    - [Acid]
+    - [Poison Powder]
+    - [Giga Drain]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Victreebel
+setname: PWT-Erika2
+tags: [in-game, PWT-Erika2]
+item: [Null]
+ability: [Chlorophyll]
+moves:
+    - [Sunny Day]
+    - [Grass Knot]
+    - [Leaf Storm]
+    - [Razor Leaf]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Victreebel
+setname: PWT-Erika2 Rematch
+tags: [in-game, PWT-Erika2 Rematch]
+item: [Kelpsy Berry]
+ability: [Chlorophyll]
+moves:
+    - [Natural Gift]
+    - [Sludge Bomb]
+    - [Leaf Storm]
+    - [Leaf Blade]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

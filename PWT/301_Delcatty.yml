@@ -1,0 +1,39 @@
+species: Delcatty
+setname: PWT-Wally
+tags: [in-game, PWT-Wally]
+item: [Null]
+ability: [Cute Charm]
+moves:
+    - [Sing]
+    - [Assist]
+    - [Charm]
+    - [Faint Attack]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Delcatty
+setname: PWT-Whitney Rematch
+tags: [in-game, PWT-Whitney Rematch]
+item: [Null]
+ability: [Normalize]
+moves:
+    - [Fake Out]
+    - [Baton Pass]
+    - [Assist]
+    - [Calm Mind]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

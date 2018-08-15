@@ -1,0 +1,59 @@
+species: Rhydon
+setname: PWT-Blue Champion
+tags: [in-game, PWT-Blue Champion]
+item: [Null]
+ability: [Lightningrod]
+moves:
+    - [Take Down]
+    - [Earthquake]
+    - [Rock Tomb]
+    - [Scary Face]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Blue Gym
+tags: [in-game, PWT-Blue Gym]
+item: [Null]
+ability: [Rock Head]
+moves:
+    - [Megahorn]
+    - [Stone Edge]
+    - [Thunder Fang]
+    - [Earthquake]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Azure
+tags: [in-game, PWT-Azure]
+item: [Scope Lens]
+ability: [Null]
+moves:
+    - [Take Down]
+    - [Earthquake]
+    - [Horn Drill]
+    - [Scary Face]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

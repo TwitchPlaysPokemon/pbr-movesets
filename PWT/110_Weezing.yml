@@ -1,0 +1,98 @@
+species: Weezing
+setname: PWT-Koga Gym
+tags: [in-game, PWT-Koga Gym]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Tackle]
+    - [Sludge]
+    - [Smokescreen]
+    - [Toxic]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Jessie & James
+tags: [in-game, PWT-Jessie & James]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Tackle]
+    - [Smog]
+    - [Sludge]
+gender: [m]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Janine
+tags: [in-game, PWT-Janine]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Sludge Bomb]
+    - [Toxic]
+    - [Explosion]
+    - [Double Hit]
+gender: [f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Thunderbolt]
+    - [Sludge Bomb]
+    - [Toxic]
+    - [Explosion]
+gender: [f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Janine
+tags: [in-game, PWT-Janine]
+item: [Leftovers]
+ability: [Null]
+moves:
+    - [Sludge Bomb]
+    - [Will-O-Wisp]
+    - [Protect]
+    - [Explosion]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
