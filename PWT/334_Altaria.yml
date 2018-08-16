@@ -77,23 +77,3 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
----
-species: Altaria
-setname: PWT-Winona Rematch
-tags: [in-game, PWT-Winona Rematch]
-item: [Chesto Berry]
-ability: [Natural Cure]
-moves:
-    - [Sky Attack]
-    - [Rest]
-    - [Dragon Dance]
-    - [Earthquake]
-gender: [m,f]
-happiness: 255
-biddable: False
-ball: [Poke]
-nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
