@@ -1,0 +1,21 @@
+species: Ludicolo
+ingamename: Ludicolo
+displayname: Ludicolo
+setname: Randomized Y
+tags: [runmon]
+item: []
+ability: [Quick Feet]
+moves:
+    - [Waterfall]
+    - [Shadow Force]
+    - [Thunder Punch]
+    - [Defend Order]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Hardy
+ivs: 15
+evs: 0
