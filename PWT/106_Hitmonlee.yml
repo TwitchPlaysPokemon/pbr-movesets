@@ -44,7 +44,7 @@ tags: [in-game, PWT-Bruno2]
 item: [Null]
 ability: [Reckless]
 moves:
-    - [Hi Jump Kick]
+    - [High Jump Kick]
     - [Blaze Kick]
     - [Focus Energy]
     - [Swagger]
@@ -87,7 +87,7 @@ moves:
     - [Fake Out]
     - [Bulk Up]
     - [Blaze Kick]
-    - [Hi Jump Kick]
+    - [High Jump Kick]
 gender: [m,f]
 happiness: 255
 biddable: False
