@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Great]
 shiny: False
 nature: Docile
-ivs: 20
+ivs: {hp: 0, atk: 0, def: 0, spA: 15, spD: 0, spe: 0}
 evs: 0

@@ -53,6 +53,7 @@ evs: {hp: 4, atk: 0, def: 240, spA: 251, spD: 240, spe: 252}
   ball: [Premier]
   nature: Modest
   ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+  evs: {hp: 4, atk: 0, def: 240, spA: 251, spD: 240, spe: 252}
 ---
 species: Rotom
 setname: u-Annoyer

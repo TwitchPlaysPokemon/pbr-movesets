@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Great]
 shiny: False
 nature: Hardy
-ivs: 15
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
 evs: 0
