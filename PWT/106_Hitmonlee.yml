@@ -44,7 +44,7 @@ tags: [in-game, PWT-Bruno2]
 item: [Null]
 ability: [Reckless]
 moves:
-    - [High Jump Kick]
+    - [Hi Jump Kick]
     - [Blaze Kick]
     - [Focus Energy]
     - [Swagger]
@@ -87,7 +87,27 @@ moves:
     - [Fake Out]
     - [Bulk Up]
     - [Blaze Kick]
-    - [High Jump Kick]
+    - [Hi Jump Kick]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Brawly Rematch
+tags: [in-game, PWT-Brawly Rematch]
+item: [Null]
+ability: [Limber]
+moves:
+    - [Mega Kick]
+    - [Focus Punch]
+    - [Earthquake]
+    - [Bulk Up]
 gender: [m,f]
 happiness: 255
 biddable: False

@@ -1,13 +1,13 @@
-species: Machoke
-setname: PWT-Maylene
-tags: [in-game, PWT-Maylene]
+species: Politoed
+setname: PWT-Juan Rematch
+tags: [in-game, PWT-Juan Rematch]
 item: [Null]
-ability: [Guts]
+ability: [Water Absorb]
 moves:
-    - [Karate Chop]
-    - [Strength]
-    - [Focus Energy]
-    - [Rock Tomb]
+    - [Hypnosis]
+    - [Rain Dance]
+    - [Hydro Pump]
+    - [Perish Song]
 gender: [m,f]
 happiness: 255
 biddable: False
@@ -17,4 +17,3 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
----

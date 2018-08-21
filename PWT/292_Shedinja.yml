@@ -8,6 +8,7 @@ moves:
     - [Shadow Sneak]
     - [Swagger]
     - [Toxic]
+gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]
