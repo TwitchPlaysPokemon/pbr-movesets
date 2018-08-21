@@ -1,0 +1,21 @@
+species: Torterra
+ingamename: Meowthhhuj
+displayname: Meowthhhujeq
+setname: Randomized Y
+tags: [runmon]
+item: [Leppa Berry]
+ability: [Rock Head]
+moves:
+    - [Dig]
+    - [Surf]
+    - [Nasty Plot]
+    - [Recover]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Docile
+ivs: 20
+evs: 0

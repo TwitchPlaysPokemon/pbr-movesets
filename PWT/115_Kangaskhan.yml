@@ -37,23 +37,3 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
----
-species: Kangaskhan
-setname: PWT-Norman Rematch
-tags: [in-game, PWT-Norman Rematch]
-item: [Null]
-ability: [Early Bird]
-moves:
-    - [Fake Out]
-    - [Dizzy Punch]
-    - [Endure]
-    - [Reversal]
-gender: [m,f]
-happiness: 255
-biddable: False
-ball: [Poke]
-nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0

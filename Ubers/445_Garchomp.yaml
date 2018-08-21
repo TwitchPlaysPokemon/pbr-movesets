@@ -1,7 +1,7 @@
 species: Garchomp
 setname: u-SwordsDance
 tags: [ubers]
-item: [Salac Berry, Lum Berry]
+item: [Salac Berry, Lum Berry, Yache Berry]
 ability: [Rough Skin, Sand Veil]
 moves:
     - [Outrage, Dragon Claw]
