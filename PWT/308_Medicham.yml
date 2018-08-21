@@ -7,7 +7,7 @@ moves:
     - [Attract]
     - [Psycho Cut]
     - [Thunder Punch]
-    - [Hi Jump Kick]
+    - [High Jump Kick]
 gender: [m,f]
 happiness: 255
 biddable: False
@@ -44,7 +44,7 @@ tags: [in-game, PWT-Maylene Rematch]
 item: [Null]
 ability: [Pure Power]
 moves:
-    - [Hi Jump Kick]
+    - [High Jump Kick]
     - [Thunder Punch]
     - [Fire Punch]
     - [Ice Punch]

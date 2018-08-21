@@ -3,7 +3,7 @@ ingamename: Purrloind
 displayname: Purrloind
 setname: Randomized Y
 tags: [runmon]
-item: []
+item: [Null]
 ability: [Tangled Feet]
 moves:
     - [Fly]

@@ -3,7 +3,7 @@ ingamename: Ludicolo
 displayname: Ludicolo
 setname: Randomized Y
 tags: [runmon]
-item: []
+item: [Null]
 ability: [Quick Feet]
 moves:
     - [Waterfall]
