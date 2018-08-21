@@ -103,7 +103,6 @@ moves:
     - [Protect]
     - [Thunder]
     - [Rain Dance]
-gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]

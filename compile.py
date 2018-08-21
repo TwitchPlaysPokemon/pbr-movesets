@@ -44,8 +44,8 @@ for dir, _, files in os.walk("."):
                             for char in illegal_chars:
                                 fixed_ingamename = fixed_ingamename.replace(char, "?")
                             if pokeset["ingamename"] != fixed_ingamename:
-                                print("CHANGED INGAMENAME TO {} AS A TEMPORARY FIX TO AVOID ENCODING ISSUES"
-                                      .format(fixed_ingamename))
+                                #print("CHANGED INGAMENAME TO {} AS A TEMPORARY FIX TO AVOID ENCODING ISSUES"
+                                #      .format(fixed_ingamename))
                                 pokeset["ingamename"] = fixed_ingamename
                         try:
                             pokeset = pokecat.populate_pokeset(pokeset, skip_ev_check=True)
@@ -53,7 +53,8 @@ for dir, _, files in os.walk("."):
                             print("{}> ERROR: {}".format(identifier, str(ex).encode("ascii", "replace").decode()))
                         else:
                             for warning in w:
-                                print("{}> WARNING: {}".format(identifier, str(warning.message).encode("ascii", "replace").decode()))
+                                pass
+                                #print("{}> WARNING: {}".format(identifier, str(warning.message).encode("ascii", "replace").decode()))
                             genders_this_species = genders_per_species[pokeset["species"]["id"]]
                             genders_this_species |= set(pokeset["gender"])
                             if None in genders_this_species and len(genders_this_species) > 1:
