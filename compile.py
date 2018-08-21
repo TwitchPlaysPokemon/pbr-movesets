@@ -4,7 +4,7 @@ import sys
 import logging
 import warnings
 import json
-from collections import defaultdict
+from collections import defaultdict, Counter
 try:
     import yaml
 except ImportError:
@@ -74,6 +74,33 @@ for dir, _, files in os.walk("."):
                 print("Error reading file: {}/{}".format(dir, file))
                 raise
 
-print("Writing output to {}...".format(outfile))
+print("Writing compiled sets to {}...".format(outfile))
 with open(outfile, "w+", encoding="utf-8") as f:
     json.dump(sets, f, indent="    ", sort_keys=True)
+
+
+group_tags_file = "group_tags.json"
+group_tags = {}
+runmons = Counter()
+anime = Counter()
+pwt = Counter()
+for set in sets:
+    tags = set['tags']
+    if 'runmon' in tags:
+        runmons["setname+" + set['setname']] += 1
+    if 'anime' in tags:
+        anime["setname+" + set['setname']] += 1
+    if 'in-game' in tags:
+        pwt_set = next(filter(lambda tag: 'PWT' in tag, tags))
+        pwt[pwt_set] += 1
+
+group_tags['runmons'] = [elem for (elem, cnt) in runmons.items() if cnt >= 3]
+group_tags['anime'] = [elem for (elem, cnt) in anime.items() if cnt >= 3]
+group_tags['pwt'] = [elem for (elem, cnt) in pwt.items() if cnt >= 3]
+group_tags['runmons_less_than_3_mons'] = [elem for (elem, cnt) in runmons.items() if cnt < 3]
+group_tags['anime_less_than_3_mons'] = [elem for (elem, cnt) in anime.items() if cnt < 3]
+group_tags['pwt_less_than_3_mons'] = [elem for (elem, cnt) in pwt.items() if cnt < 3]
+
+print("Writing group tag data to {}...".format(group_tags_file))
+with open(group_tags_file, "w+", encoding="utf-8") as f:
+    json.dump(group_tags, f, sort_keys=True)
