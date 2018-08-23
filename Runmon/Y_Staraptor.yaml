@@ -9,7 +9,7 @@ moves:
     - [Fly]
     - [Strength]
     - [Cross Poison]
-    - [Roost]
+    - [Metronome]
 gender: [m]
 happiness: 255
 biddable: True
