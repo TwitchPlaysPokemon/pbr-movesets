@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Brave
-ivs: 24
-evs: 84
+nature: Quirky
+ivs: {hp: 26, atk: 3, def: 2, spA: 16, spD: 12, spe: 29}
+evs: {hp: 97, atk: 92, def: 78, spA: 88, spD: 32, spe: 123}

@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Docile
-ivs: 22
-evs: 84
+ivs: {hp: 5, atk: 40, def: 16, spA: 10, spD: 31, spe: 18}
+evs: {hp: 87, atk: 66, def: 142, spA: 47, spD: 5, spe: 163}

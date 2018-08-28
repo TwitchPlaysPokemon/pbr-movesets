@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Brave
-ivs: 31
-evs: {hp: 8, atk: 252, def: 184, spA: 0, spD: 64, spe: 0}
+nature: Serious
+ivs: {hp: 26, atk: 14, def: 26, spA: 10, spD: 10, spe: 8}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}

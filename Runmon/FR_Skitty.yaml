@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Adamant
-ivs: 31
-evs: 252
+nature: Careful
+ivs: {hp: 30, atk: 18, def: 21, spA: 25, spD: 14, spe: 25}
+evs: {hp: 69, atk: 81, def: 39, spA: 57, spD: 44, spe: 84}

@@ -18,6 +18,6 @@ hidden: False
 rarity: 0.0
 ball: [Premier]
 shiny: False
-nature: Naughty
-ivs: 0
-evs: {hp: 52, atk: 52, def: 52, spA: 0, spD: 0, spe: 52}
+nature: Bold
+ivs: {hp: 4, atk: 30, def: 19, spA: 19, spD: 22, spe: 4}
+evs: {hp: 41, atk: 161, def: 111, spA: 39, spD: 76, spe: 29}

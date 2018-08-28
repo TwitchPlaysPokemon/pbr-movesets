@@ -1,6 +1,6 @@
 species: Salamence
 ingamename: AAAAATMAA
-displayname: AAAAATMAA 
+displayname: AAAAATMAA
 setname: Blazed Glazed
 tags: [runmon]
 item: [Bubble Mail]
@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Great]
 shiny: False
-nature: Modest
-ivs: 0
-evs: 0
+nature: Careful
+ivs: {hp: 14, atk: 28, def: 25, spA: 21, spD: 26, spe: 22}
+evs: {hp: 27, atk: 104, def: 123, spA: 86, spD: 35, spe: 135}

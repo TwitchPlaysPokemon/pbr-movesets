@@ -17,6 +17,6 @@ hidden: False
 rarity: 0.0
 ball: [Poké]
 shiny: True
-nature: Timid
-ivs: 10
-evs: 0
+nature: Serious
+ivs: {hp: 0, atk: 28, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 16, atk: 20, def: 16, spA: 16, spD: 16, spe: 16}

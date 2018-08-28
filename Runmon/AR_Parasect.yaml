@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Jolly
-ivs: 31
-evs: {hp: 80, atk: 176, def: 0, spA: 0, spD: 0, spe: 252}
+nature: Serious
+ivs: {hp: 22, atk: 14, def: 28, spA: 31, spD: 22, spe: 18}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}

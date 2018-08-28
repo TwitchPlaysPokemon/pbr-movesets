@@ -1,6 +1,6 @@
 ﻿species: Espeon
-ingamename: ABLLLVVVV♀ 
-displayname: ABLLLVVVVV♀ 
+ingamename: ABLLLVVVV♀
+displayname: ABLLLVVVVV♀
 setname: Colosseum
 tags: [runmon]
 item: [Poké Ball]
@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Impish
-ivs: 0
-evs: 40
+nature: Careful
+ivs: {hp: 18, atk: 5, def: 8, spA: 25, spD: 20, spe: 0}
+evs: {hp: 113, atk: 86, def: 71, spA: 77, spD: 54, spe: 109}

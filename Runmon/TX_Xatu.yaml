@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Bold
-ivs: {hp: 7, atk: 29, def: 23, spA: 30, spD: 13, spe: 19}
+ivs: {hp: 23, atk: 7, def: 29, spA: 31, spD: 12, spe: 10}
 evs: {hp: 19, atk: 15, def: 6, spA: 30, spD: 13, spe: 53}

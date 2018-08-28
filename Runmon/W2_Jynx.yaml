@@ -16,6 +16,6 @@ hidden: False
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Naughty
-ivs: 31
-evs: {hp: 0, atk: 252, def: 156, spA: 100, spD: 0, spe: 0}
+nature: Docile
+ivs: {hp: 30, atk: 7, def: 17, spA: 5, spD: 28, spe: 10}
+evs: {hp: 48, atk: 87, def: 38, spA: 19, spD: 22, spe: 78}

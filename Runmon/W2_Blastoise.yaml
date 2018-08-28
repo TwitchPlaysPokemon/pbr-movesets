@@ -17,6 +17,6 @@ hidden: False
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Brave
-ivs: {hp: 31, atk: 30, def: 18, spA: 30, spD: 19, spe: 27}
-evs: {hp: 0, atk: 40, def: 0, spA: 20, spD: 0, spe: 0}
+nature: Serious
+ivs: {hp: 18, atk: 13, def: 7, spA: 17, spD: 11, spe: 17}
+evs: {hp: 71, atk: 119, def: 63, spA: 83, spD: 94, spe: 80}

@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Relaxed
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 80, spD: 40, spe: 80}
+ivs: {hp: 4, atk: 11, def: 9, spA: 23, spD: 16, spe: 30}
+evs: {hp: 97, atk: 112, def: 96, spA: 49, spD: 33, spe: 123}

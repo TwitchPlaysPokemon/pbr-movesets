@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Safari]
 shiny: False
-nature: Adamant
-ivs: 31
-evs: 252
+nature: Serious
+ivs: {hp: 16, atk: 18, def: 0, spA: 12, spD: 12, spe: 20}
+evs: {hp: 48, atk: 56, def: 72, spA: 52, spD: 172, spe: 72}

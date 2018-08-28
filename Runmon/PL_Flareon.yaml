@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Hasty
-ivs: 0
-evs: 60
+ivs: {hp: 27, atk: 14, def: 0, spA: 7, spD: 17, spe: 8}
+evs: {hp: 32, atk: 45, def: 217, spA: 66, spD: 3, spe: 147}

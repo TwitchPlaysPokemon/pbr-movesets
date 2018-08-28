@@ -1,0 +1,21 @@
+species: Gallade
+ingamename: Yugi
+displayname: Yugi
+setname: Randomized Y
+tags: [runmon]
+item: [Super Repel]
+ability: [Arena Trap]
+moves:
+    - [Close Combat]
+    - [Dynamic Punch]
+    - [Giga Drain]
+    - [Trick Room]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dive]
+shiny: False
+nature: Calm
+ivs: {hp: 7, atk: 3, def: 15, spA: 28, spD: 14, spe: 22}
+evs: {hp: 36, atk: 182, def: 58, spA: 132, spD: 56, spe: 46}

@@ -1,0 +1,20 @@
+species: Claydol
+ingamename: !! 777
+displayname: !! 777
+setname: Randomized Y
+tags: [runmon]
+item: [TinyMushroom]
+ability: [Oblivious]
+moves:
+    - [Psychic]
+    - [Hydro Pump]
+    - [Solar Beam]
+    - [Bonemerang]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Gentle
+ivs: {hp: 23, atk: 8, def: 4, spA: 9, spD: 10, spe: 11}
+evs: {hp: 76, atk: 144, def: 65, spA: 87, spD: 46, spe: 92}

@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Ultra]
 shiny: False
 nature: Lax
-ivs: 0
-evs: 0
+ivs: {hp: 2, atk: 6, def: 22, spA: 7, spD: 13, spe: 17}
+evs: {hp: 130, atk: 210, def: 41, spA: 12, spD: 73, spe: 44}

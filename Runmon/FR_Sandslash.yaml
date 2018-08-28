@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Lax
-ivs: 17
-evs: {hp: 124, atk: 128, def: 0, spA: 0, spD: 128, spe: 128}
+ivs: {hp: 2, atk: 22, def: 23, spA: 16, spD: 17, spe: 20}
+evs: {hp: 101, atk: 118, def: 52, spA: 68, spD: 36, spe: 135}

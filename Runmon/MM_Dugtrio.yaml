@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Brave
-ivs: 23
-evs: 84
+ivs: {hp: 1, atk: 8, def: 6, spA: 25, spD: 27, spe: 5}
+evs: {hp: 6, atk: 16, def: 17, spA: 19, spD: 21, spe: 101}

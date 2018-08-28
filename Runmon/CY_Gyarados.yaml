@@ -1,6 +1,6 @@
-species: Gyarados 
-ingamename: AJJJTUUUUU 
-displayname: AJJJTUUUUU 
+species: Gyarados
+ingamename: AJJJTUUUUU
+displayname: AJJJTUUUUU
 setname: Chatty Yellow
 tags: [runmon]
 item: [null]
@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Naughty
-ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+nature: Modest
+ivs: {hp: 14, atk: 31, def: 10, spA: 30, spD: 30, spe: 22}
+evs: {hp: 244, atk: 252, def: 252, spA: 252, spD: 232, spe: 252}

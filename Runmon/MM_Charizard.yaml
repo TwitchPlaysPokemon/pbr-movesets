@@ -6,10 +6,10 @@ tags: [runmon]
 item: [Potion]
 ability: [Blaze]
 moves:
+    - [Flamethrower]
     - [Fly]
-    - [Wing Attack]
     - [Strength]
-    - [Scratch]
+    - [Wing Attack]
 gender: [f]
 happiness: 255
 biddable: True
@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Naughty
-ivs: 0
-evs: 20
+ivs: {hp: 12, atk: 11, def: 12, spA: 1, spD: 29, spe: 24}
+evs: {hp: 68, atk: 53, def: 74, spA: 56, spD: 12, spe: 247}

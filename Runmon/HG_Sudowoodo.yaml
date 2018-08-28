@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Net]
 shiny: False
 nature: Naive
-ivs: 31
-evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 84, spe: 88}
+ivs: {hp: 13, atk: 20, def: 30, spA: 25, spD: 8, spe: 7}
+evs: {hp: 90, atk: 120, def: 52, spA: 71, spD: 43, spe: 134}

@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Quiet
-ivs: 0
-evs: 0
+nature: Serious
+ivs: {hp: 24, atk: 6, def: 14, spA: 16, spD: 16, spe: 8}
+evs: {hp: 252, atk: 252, def: 252, spA: 244, spD: 244, spe: 240}

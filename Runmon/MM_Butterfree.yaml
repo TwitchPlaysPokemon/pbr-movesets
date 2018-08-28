@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Modest
-ivs: 31
-evs: 20
+ivs: {hp: 25, atk: 30, def: 18, spA: 9, spD: 19, spe: 19}
+evs: {hp: 43, atk: 78, def: 52, spA: 48, spD: 29, spe: 181}

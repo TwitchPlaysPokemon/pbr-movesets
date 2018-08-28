@@ -16,5 +16,5 @@ biddable: True
 rarity: 0.0
 shiny: False
 nature: Serious
-ivs: 12
-evs: 84
+ivs: {hp: 16, atk: 30, def: 16, spA: 0, spD: 0, spe: 10}
+evs: {hp: 140, atk: 152, def: 144, spA: 140, spD: 140, spe: 180}

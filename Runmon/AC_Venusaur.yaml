@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Adamant
-ivs: 0
-evs: 0
+nature: Serious
+ivs: {hp: 26, atk: 18, def: 30, spA: 14, spD: 14, spe: 4}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}

@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Great]
 shiny: False
-nature: Mild
-ivs: {hp: 10, atk: 10, def: 10, spA: 31, spD: 10, spe: 10}
-evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+nature: Relaxed
+ivs: {hp: 13, atk: 23, def: 9, spA: 4, spD: 17, spe: 4}
+evs: {hp: 18, atk: 132, def: 83, spA: 36, spD: 42, spe: 199}

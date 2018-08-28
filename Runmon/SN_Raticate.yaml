@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Sassy
-ivs: 31
-evs: {hp: 160, atk: 188, def: 80, spA: 0, spD: 80, spe: 0}
+nature: Bashful
+ivs: {hp: 24, atk: 17, def: 13, spA: 27, spD: 28, spe: 25}
+evs: {hp: 68, atk: 191, def: 128, spA: 20, spD: 24, spe: 79}

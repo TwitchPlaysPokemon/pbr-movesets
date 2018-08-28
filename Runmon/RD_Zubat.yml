@@ -1,0 +1,19 @@
+species: Zubat
+ingamename: ABB-??AAJ
+displayname: ABB-??AAJ
+setname: Red
+tags: [runmon]
+item: [null]
+ability: [null]
+moves:
+    - [Leech Life]
+    - [Supersonic]
+    - [Bite]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 12, def: 28, spA: 8, spD: 8, spe: 28}
+evs: {hp: 9, atk: 10, def: 11, spA: 92, spD: 13, spe: 13}

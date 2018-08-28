@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Relaxed
-ivs: {hp: 11, atk: 11, def: 31, spA: 0, spD: 11, spe: 11}
-evs: 0
+nature: Serious
+ivs: {hp: 23, atk: 7, def: 21, spA: 22, spD: 25, spe: 5}
+evs: {hp: 25, atk: 125, def: 72, spA: 128, spD: 45, spe: 115}

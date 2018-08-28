@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poke]
 nature: Serious
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 40, atk: 140, def: 40, spA: 140, spD: 40, spe: 60}
+ivs: {hp: 2, atk: 20, def: 4, spA: 14, spD: 14, spe: 28}
+evs: {hp: 158, atk: 158, def: 156, spA: 224, spD: 144, spe: 158}
 level: 100

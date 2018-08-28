@@ -16,6 +16,6 @@ hidden: False
 rarity: 0.0
 ball: [Luxury]
 shiny: False
-nature: Naughty
-ivs: 0
-evs: 0
+nature: Mild
+ivs: {hp: 0, atk: 8, def: 6, spA: 30, spD: 1, spe: 27}
+evs: {hp: 25, atk: 86, def: 97, spA: 36, spD: 60, spe: 33}

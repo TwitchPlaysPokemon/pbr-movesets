@@ -1,0 +1,21 @@
+species: Weezing
+ingamename: Weezing
+displayname: Weezing
+setname: Randomized Y
+tags: [runmon]
+item: [Awakening]
+ability: [Download]
+moves:
+    - [Bulk Up]
+    - [Sheer Cold]
+    - [Minimize]
+    - [Dragonbreath]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Quick]
+shiny: False
+nature: Mild
+ivs: {hp: 3, atk: 29, def: 16, spA: 24, spD: 15, spe: 11}
+evs: {hp: 89, atk: 101, def: 86, spA: 97, spD: 59, spe: 78}

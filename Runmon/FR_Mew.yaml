@@ -1,6 +1,6 @@
 species: Mew
-ingamename: MARC 
-displayname: MARC 
+ingamename: MARC
+displayname: MARC
 setname: FireRed
 tags: [runmon]
 item: [Shoal Shell]
@@ -16,5 +16,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Relaxed
-ivs: 0
-evs: 60
+ivs: {hp: 24, atk: 29, def: 21, spA: 23, spD: 21, spe: 15}
+evs: {hp: 53, atk: 83, def: 42, spA: 76, spD: 35, spe: 103}

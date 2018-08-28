@@ -1,0 +1,21 @@
+species: Persian
+ingamename: MeowthIIIC
+displayname: MeowthIIIIC 
+setname: Ultra Sun
+tags: [runmon]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Fake Out]
+    - [Slash]
+    - [Bite]
+    - [Power Gem]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Mild
+ivs: {hp: 25, atk: 10, def: 29, spA: 23, spD: 29, spe: 16}
+evs: {hp: 49, atk: 93, def: 61, spA: 34, spD: 58, spe: 103}

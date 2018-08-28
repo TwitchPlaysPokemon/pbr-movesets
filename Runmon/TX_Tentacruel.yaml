@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Premier]
 shiny: False
 nature: Mild
-ivs: {hp: 16, atk: 0, def: 24, spA: 11, spD: 6, spe: 13}
+ivs: {hp: 16, atk: 4, def: 24, spA: 11, spD: 6, spe: 13}
 evs: {hp: 35, atk: 42, def: 19, spA: 11, spD: 27, spe: 13}

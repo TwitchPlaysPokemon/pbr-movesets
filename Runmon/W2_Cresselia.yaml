@@ -17,6 +17,6 @@ hidden: False
 rarity: 0.0
 ball: [Dusk]
 shiny: False
-nature: Naughty
-ivs: 0
-evs: {hp: 0, atk: 240, def: 0, spA: 220, spD: 0, spe: 0}
+nature: Lax
+ivs: {hp: 25, atk: 23, def: 15, spA: 17, spD: 4, spe: 6}
+evs: {hp: 36, atk: 154, def: 106, spA: 86, spD: 87, spe: 41}

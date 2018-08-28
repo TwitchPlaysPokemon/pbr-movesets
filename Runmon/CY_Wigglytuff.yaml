@@ -1,6 +1,6 @@
 species: Wigglytuff
-ingamename: IZZZZZZZZQ 
-displayname: IZZZZZZZZQ 
+ingamename: IZZZZZZZZQ
+displayname: IZZZZZZZZQ
 setname: Chatty Yellow
 tags: [runmon]
 item: [null]
@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Lonely
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+nature: Serious
+ivs: {hp: 20, atk: 26, def: 8, spA: 10, spD: 24, spe: 18}
+evs: {hp: 156, atk: 172, def: 164, spA: 0, spD: 144, spe: 164}

@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Great]
 shiny: False
-nature: Bold
-ivs: 11
-evs: 84
+nature: Bashful
+ivs: {hp: 11, atk: 29, def: 7, spA: 29, spD: 13, spe: 7}
+evs: {hp: 114, atk: 94, def: 72, spA: 87, spD: 41, spe: 102}

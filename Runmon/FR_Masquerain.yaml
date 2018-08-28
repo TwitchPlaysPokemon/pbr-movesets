@@ -1,6 +1,6 @@
 species: Masquerain
-ingamename: AATUUUUNN 
-displayname: AATUUUUNN 
+ingamename: AATUUUUNN
+displayname: AATUUUUNN
 setname: FireRed
 tags: [runmon]
 item: [null]
@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Careful
-ivs: 31
-evs: 84
+ivs: {hp: 8, atk: 31, def: 0, spA: 12, spD: 8, spe: 13}
+evs: {hp: 116, atk: 100, def: 50, spA: 60, spD: 49, spe: 135}

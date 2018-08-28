@@ -15,6 +15,6 @@ happiness: 255
 biddable: True
 rarity: 0.0
 shiny: False
-nature: Naughty
-ivs: 0
-evs: {hp: 0, atk: 156, def: 0, spA: 0, spD: 0, spe: 80}
+nature: Serious
+ivs: {hp: 14, atk: 0, def: 6, spA: 2, spD: 2, spe: 14}
+evs: {hp: 52, atk: 60, def: 60, spA: 136, spD: 56, spe: 60}

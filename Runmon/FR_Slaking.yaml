@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Great]
 shiny: False
 nature: Gentle
-ivs: 0
-evs: 0
+ivs: {hp: 4, atk: 13, def: 16, spA: 24, spD: 4, spe: 12}
+evs: {hp: 58, atk: 120, def: 55, spA: 89, spD: 36, spe: 152}

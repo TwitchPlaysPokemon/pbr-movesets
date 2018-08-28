@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Quick]
 shiny: False
 nature: Quirky
-ivs: 13
-evs: 84
+ivs: {hp: 11, atk: 23, def: 9, spA: 31, spD: 9, spe: 3}
+evs: {hp: 65, atk: 81, def: 175, spA: 102, spD: 30, spe: 57}

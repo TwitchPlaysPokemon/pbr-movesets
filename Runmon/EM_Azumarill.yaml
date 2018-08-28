@@ -18,5 +18,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Rash
-ivs: 31
-evs: {hp: 0, atk: 252, def: 20, spA: 88, spD: 60, spe: 88}
+ivs: {hp: 11, atk: 23, def: 19, spA: 19, spD: 26, spe: 24}
+evs: {hp: 78, atk: 74, def: 53, spA: 90, spD: 44, spe: 171}

@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Timid
-ivs: 19
-evs: {hp: 128, atk: 0, def: 0, spA: 0, spD: 252, spe: 128}
+ivs: {hp: 20, atk: 3, def: 31, spA: 16, spD: 26, spe: 17}
+evs: {hp: 133, atk: 61, def: 77, spA: 29, spD: 45, spe: 165}

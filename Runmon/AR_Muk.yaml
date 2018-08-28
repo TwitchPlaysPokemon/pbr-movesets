@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Rash
-ivs: 16
-evs: 84
+nature: Serious
+ivs: {hp: 30, atk: 2, def: 6, spA: 2, spD: 2, spe: 10}
+evs: {hp: 120, atk: 136, def: 128, spA: 64, spD: 0, spe: 128}

@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Safari]
 shiny: False
 nature: Adamant
-ivs: 0
-evs: 0
+ivs: {hp: 24, atk: 7, def: 12, spA: 0, spD: 0, spe: 11}
+evs: {hp: 51, atk: 85, def: 30, spA: 17, spD: 74, spe: 46}

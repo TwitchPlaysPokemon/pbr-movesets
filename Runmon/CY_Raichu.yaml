@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Naughty 
-ivs: {hp: 31, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+nature: Serious
+ivs: {hp: 16, atk: 6, def: 0, spA: 12, spD: 12, spe: 28}
+evs: {hp: 152, atk: 172, def: 156, spA: 164, spD: 244, spe: 180}

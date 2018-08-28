@@ -1,0 +1,18 @@
+﻿species: Kakuna
+ingamename: KAKUNA
+displayname: KAKUNA
+setname: Anniversary Red
+tags: [runmon]
+item: [Choice Band]
+ability: [Huge Power]
+moves:
+    - [Harden (=1)]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 24, def: 30, spA: 20, spD: 20, spe: 14}
+evs: {hp: 32, atk: 36, def: 32, spA: 32, spD: 32, spe: 32}

@@ -17,5 +17,6 @@ rarity: 0.0
 ball: [Poke]
 shiny: False
 nature: Adamant
-ivs: 31
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Serious
+ivs: {hp: 18, atk: 2, def: 12, spA: 10, spD: 10, spe: 0}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}

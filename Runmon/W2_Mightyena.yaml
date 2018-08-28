@@ -17,6 +17,6 @@ hidden: False
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Mild
-ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
-evs: {hp: 0, atk: 60, def: 0, spA: 252, spD: 0, spe: 196}
+nature: Relaxed
+ivs: {hp: 17, atk: 8, def: 24, spA: 2, spD: 6, spe: 21}
+evs: {hp: 90, atk: 113, def: 38, spA: 33, spD: 22, spe: 121}

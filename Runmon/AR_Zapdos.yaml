@@ -3,7 +3,7 @@ ingamename: "'(ssjj ᴹɴ."
 displayname: "'(ssjj ᴹɴ."
 setname: Anniversary Red
 tags: [runmon]
-item: [Macho Brace]
+item: [Null]
 ability: [Null]
 moves:
     - [Thunder]
@@ -15,6 +15,6 @@ biddable: True
 rarity: 0.0
 ball: [Master]
 shiny: False
-nature: Adamant
-ivs: 0
-evs: 0
+nature: Serious
+ivs: {hp: 14, atk: 4, def: 26, spA: 6, spD: 6, spe: 30}
+evs: {hp: 228, atk: 240, def: 232, spA: 232, spD: 252, spe: 50}

@@ -15,6 +15,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Modest
-ivs: 0
-evs: 0
+nature: Impish
+ivs: {hp: 30, atk: 31, def: 7, spA: 31, spD: 28, spe: 31}
+evs: {hp: 15, atk: 156, def: 95, spA: 151, spD: 68, spe: 25}

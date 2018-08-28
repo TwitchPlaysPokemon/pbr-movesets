@@ -16,6 +16,6 @@ hidden: False
 rarity: 0.0
 ball: [Poke]
 shiny: False
-nature: Mild
-ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
-evs: {hp: 0, atk: 0, def: 0, spA: 64, spD: 0, spe: 0}
+nature: Modest
+ivs: {hp: 27, atk: 0, def: 1, spA: 12, spD: 22, spe: 20}
+evs: {hp: 23, atk: 71, def: 38, spA: 50, spD: 27, spe: 74}

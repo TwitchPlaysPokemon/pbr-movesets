@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Heal]
 shiny: False
 nature: Hasty
-ivs: 31
-evs: 208
+ivs: {hp: 31, atk: 9, def: 3, spA: 23, spD: 23, spe: 8}
+evs: {hp: 81, atk: 82, def: 48, spA: 148, spD: 5, spe: 146}

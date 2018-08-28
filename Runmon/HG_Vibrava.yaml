@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Impish
-ivs: 31
-evs: {hp: 120, atk: 120, def: 120, spA: 252, spD: 120, spe: 120}
+ivs: {hp: 25, atk: 16, def: 11, spA: 16, spD: 20, spe: 16}
+evs: {hp: 109, atk: 116, def: 64, spA: 81, spD: 39, spe: 101}

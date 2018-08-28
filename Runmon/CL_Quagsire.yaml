@@ -1,6 +1,6 @@
 species: Quagsire
-ingamename: UUUUV??? 
-displayname: UUUUV??? 
+ingamename: UUUUV???
+displayname: UUUUV???
 setname: Colosseum
 tags: [runmon]
 item: [TM 18]
@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Ultra]
 shiny: False
-nature: Mild
-ivs: 0
-evs: 84
+nature: Calm
+ivs: {hp: 24, atk: 4, def: 25, spA: 8, spD: 31, spe: 29}
+evs: {hp: 37, atk: 50, def: 33, spA: 43, spD: 19, spe: 57}

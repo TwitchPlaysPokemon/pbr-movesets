@@ -1,6 +1,6 @@
 species: Sharpedo
-ingamename: AAAAAAAAAA 
-displayname: AAAAAAAAAA 
+ingamename: AAAAAAAAAA
+displayname: AAAAAAAAAA
 setname: XD
 tags: [runmon]
 item: [Ultra Ball]
@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Brave
-ivs: 31
-evs: {hp: 0, atk: 208, def: 0, spA: 0, spD: 0, spe: 80}
+nature: Bold
+ivs: {hp: 9, atk: 14, def: 12, spA: 11, spD: 26, spe: 20}
+evs: {hp: 84, atk: 98, def: 79, spA: 84, spD: 82, spe: 83}

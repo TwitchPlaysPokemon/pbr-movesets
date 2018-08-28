@@ -15,6 +15,6 @@ happiness: 255
 biddable: True
 rarity: 0.0
 shiny: False
-nature: Quiet
-ivs: 31
-evs: 252
+nature: Serious
+ivs: {hp: 22, atk: 26, def: 12, spA: 31, spD: 30, spe: 14}
+evs: {hp: 52, atk: 56, def: 56, spA: 252, spD: 66, spe: 60}

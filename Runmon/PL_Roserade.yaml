@@ -17,5 +17,5 @@ rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Lonely
-ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 88, atk: 252, def: 168, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 10, atk: 31, def: 12, spA: 4, spD: 13, spe: 3}
+evs: {hp: 100, atk: 91, def: 93, spA: 89, spD: 15, spe: 122}
