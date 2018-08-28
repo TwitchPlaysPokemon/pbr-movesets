@@ -1,0 +1,18 @@
+species: Flareon
+ingamename: FLAREON
+displayname: FLAREON
+setname: Red
+tags: [runmon]
+item: [Silk Scarf]
+ability: [Huge Power]
+moves:
+    - [Tackle (=10)]
+    - [Sand Attack (=6)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: Adamant
+ivs: 31
+evs: 252

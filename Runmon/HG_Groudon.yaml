@@ -1,0 +1,20 @@
+species: Groudon
+ingamename: KENYA
+displayname: KENYA
+setname: HeartGold
+tags: [runmon]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Sand Tomb]
+    - [Surf]
+    - [Cut]
+    - [Agility]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Hasty
+ivs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 60, spD: 0, spe: 0}

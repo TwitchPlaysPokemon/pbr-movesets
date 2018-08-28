@@ -1,0 +1,21 @@
+species: Ninetales
+ingamename: FFFEEEF
+displayname: FFFEEEF
+setname: Prism
+tags: [runmon]
+item: [Poké Ball]
+ability: [Flash Fire]
+moves:
+    - [Flare Blitz]
+    - [Flamethrower]
+    - [Dark Pulse]
+    - [Tri Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: 0
+evs: {hp: 60, atk: 60, def: 60, spA: 60, spD: 0, spe: 0}

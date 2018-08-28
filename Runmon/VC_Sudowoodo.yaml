@@ -1,0 +1,21 @@
+﻿species: Sudowoodo
+ingamename: FAKE
+displayname: FAKE
+setname: Vietnamese Crystal
+tags: [runmon]
+item: [Null]
+ability: [Null]
+moves:
+    - [Rock Throw]
+    - [Strength]
+    - [Low Kick]
+    - [Flail]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Lonely
+ivs: 31
+evs: 84

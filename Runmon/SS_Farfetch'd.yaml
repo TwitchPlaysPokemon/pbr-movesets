@@ -1,0 +1,21 @@
+species: Farfetch'd
+ingamename: QUAC
+displayname: QUAC
+setname: Storm Silver
+tags: [runmon]
+item: [Sky Plate]
+ability: [Inner Focus]
+moves:
+    - [Fly]
+    - [Close Combat]
+    - [Swords Dance]
+    - [Brave Bird]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Heal]
+shiny: False
+nature: Jolly
+evs: {hp: 40, atk: 252, def: 28, spA: 32, spD: 36, spe: 252}
+ivs: {hp: 26, atk: 31, def: 23, spA: 31, spD: 5, spe: 31}

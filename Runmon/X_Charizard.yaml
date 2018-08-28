@@ -1,0 +1,21 @@
+species: Charizard
+ingamename: "!taj11yyga"
+displayname: "!taj11yyga"
+setname: X
+tags: [runmon]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Flare Blitz]
+    - [Flamethrower]
+    - [Heat Wave]
+    - [Strength]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Adamant
+ivs: 0
+evs: 0

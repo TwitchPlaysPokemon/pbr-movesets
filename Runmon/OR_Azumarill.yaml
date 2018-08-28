@@ -1,0 +1,21 @@
+﻿species: Azumarill
+ingamename: "!t44444’tu"
+displayname: "!t44444’tu"
+setname: Omega Ruby
+tags: [runmon]
+item: [Nugget]
+ability: [Huge Power]
+moves:
+    - [Waterfall]
+    - [Dive]
+    - [Superpower]
+    - [Rock Smash]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Modest
+ivs: 0
+evs: 84

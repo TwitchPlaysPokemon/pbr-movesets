@@ -1,0 +1,21 @@
+species: Chimchar
+ingamename: Chimchar
+displayname: Chimchar
+setname: Platinum
+tags: [runmon]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Rock Smash]
+    - [Fury Swipes]
+    - [Leer]
+    - [Taunt]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: 252

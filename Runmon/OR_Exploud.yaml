@@ -1,0 +1,21 @@
+species: Exploud
+ingamename: WHISMUR V
+displayname: WHISMUR V
+setname: Omega Ruby
+tags: [runmon]
+item: [Red Orb]
+ability: [Sound Proof]
+moves:
+    - [Hyper Beam]
+    - [Hyper Voice]
+    - [Flamethrower]
+    - [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Jolly
+ivs: 0
+evs: 84

@@ -1,0 +1,21 @@
+species: Absol
+ingamename: QQYyy25o6w
+displayname: QQYyy25o6w
+setname: X
+tags: [runmon]
+item: [Null]
+ability: [Super Luck]
+moves:
+    - [Sucker Punch]
+    - [Pursuit]
+    - [Psycho Cut]
+    - [Me First]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Net]
+shiny: False
+nature: Naughty
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}

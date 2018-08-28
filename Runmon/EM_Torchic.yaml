@@ -1,0 +1,21 @@
+species: Torchic
+ingamename: zyyxyy
+displayname: zyyxyy
+setname: Emerald
+tags: [runmon]
+item: [Silk Scarf]
+ability: [Blaze]
+moves:
+    - [Quick Attack]
+    - [Mirror Move]
+    - [Sand Attack]
+    - [Focus Energy]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: 252

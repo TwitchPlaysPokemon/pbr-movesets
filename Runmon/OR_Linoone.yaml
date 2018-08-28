@@ -1,0 +1,21 @@
+species: Linoone
+ingamename: ZIGZAGOONY
+displayname: ZIGZAGOONY
+setname: Omega Ruby
+tags: [runmon]
+item: [Heart Scale]
+ability: [Pickup]
+moves:
+    - [Strength]
+    - [Cut]
+    - [Rock Smash]
+    - [Surf]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Quiet
+ivs: 18
+evs: 84

@@ -1,0 +1,22 @@
+species: Dusclops
+ingamename: d
+displayname: d
+setname: Storm Silver
+tags: [runmon]
+item: [null]
+ability: [Pressure]
+moves:
+    - [Curse]
+    - [Will-O-Wisp]
+    - [Shadow Punch]
+    - [Mean Look]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: True
+suppressions: [public-shiny]
+nature: Lax
+ivs: 31
+evs: 0

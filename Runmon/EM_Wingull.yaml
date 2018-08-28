@@ -1,0 +1,21 @@
+species: Wingull
+ingamename: BDCIOPP
+displayname: BDCIOPP
+setname: Emerald
+tags: [runmon]
+item: [Poké Ball]
+ability: [Keen Eye]
+moves:
+    - [Wing Attack]
+    - [Water Gun]
+    - [Supersonic]
+    - [Mist]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dive]
+shiny: False
+nature: Naughty
+ivs: 31
+evs: 252

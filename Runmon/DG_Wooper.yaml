@@ -1,0 +1,19 @@
+species: Wooper
+ingamename: RIGHT
+displayname: RIGHT
+setname: Dark Graystone
+tags: [runmon]
+item: [Mystic Water]
+ability: [Technician]
+moves:
+    - [Water Gun]
+    - [Tail Whip]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Modest
+ivs: 31
+evs: 252

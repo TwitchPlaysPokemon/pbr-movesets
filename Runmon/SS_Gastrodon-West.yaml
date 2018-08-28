@@ -1,0 +1,21 @@
+species: Gastrodon
+ingamename: AAAAAAAAA
+displayname: AAAAAAAAA
+setname: Storm Silver
+tags: [runmon]
+item: [Bloom Mail]
+ability: [Storm Drain]
+moves:
+    - [Whirlpool]
+    - [Surf]
+    - [Waterfall]
+    - [Earthquake]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Bold
+evs: {hp: 56, atk: 136, def: 108, spA: 72, spD: 24, spe: 112}
+ivs: {hp: 28, atk: 26, def: 17, spA: 7, spD: 12, spe: 11}

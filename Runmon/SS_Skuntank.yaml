@@ -1,0 +1,21 @@
+species: Skuntank
+ingamename: F2P
+displayname: F2P
+setname: Storm Silver
+tags: [runmon]
+item: [Dread Plate]
+ability: [Stench]
+moves:
+    - [Sucker Punch]
+    - [Cut]
+    - [Dark Pulse]
+    - [Sludge Bomb]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poke]
+shiny: False
+nature: Lax
+ivs: {hp: 2, atk: 22, def: 3, spA: 8, spD: 10, spe: 19}
+evs: {hp: 32, atk: 96, def: 124, spA: 108, spD: 36, spe: 112}
