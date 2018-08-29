@@ -1,6 +1,6 @@
 species: Lapras
 ingamename: vmcfflnocp
-displayname: !!vmcfflnocp
+displayname: "!!vmcfflnocp"
 setname: Randomized Y
 tags: [runmon]
 item: [Lum Berry]
@@ -28,7 +28,7 @@ tags: [runmon]
 item: [Lum Berry]
 ability: [Water Absorb]
 moves:
-    - [Hi Jump Kick]
+    - [High Jump Kick]
     - [Clamp]
     - [Ice Shard]
     - [Air Cutter]
