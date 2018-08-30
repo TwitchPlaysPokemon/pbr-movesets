@@ -42,12 +42,32 @@ species: Arbok
 setname: PWT-Jessie & James
 tags: [in-game, PWT-Jessie & James]
 item: [Null]
-ability: [Intimidate]
+ability: [Null]
 moves:
     - [Bite]
     - [Leer]
     - [Poison Sting]
     - [Glare]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arbok
+setname: PWT-Team AWD
+tags: [in-game, PWT-Team AWD]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Crunch]
+    - [Acid]
+    - [Poison Sting]
+    - [Bite]
 gender: [m,f]
 happiness: 255
 biddable: False

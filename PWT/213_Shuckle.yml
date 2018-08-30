@@ -1,14 +1,14 @@
-species: Meowth
-setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
+species: Shuckle
+setname: PWT-Buck
+tags: [in-game, PWT-Buck]
 item: [Null]
-ability: [Null]
+ability: [Sturdy]
 moves:
-    - [Growl]
-    - [Bite]
-    - [Pay Day]
-    - [Screech]
-gender: [m]
+    - [Toxic]
+    - [Protect]
+    - [Sandstorm]
+    - [Rest]
+gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]

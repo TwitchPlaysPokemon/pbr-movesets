@@ -1,16 +1,16 @@
-species: Meowth
-setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
+species: Ninjask
+setname: PWT-Marley
+tags: [in-game, PWT-Marley]
 item: [Null]
-ability: [Null]
+ability: [Speed Boost]
 moves:
-    - [Growl]
-    - [Bite]
-    - [Pay Day]
-    - [Screech]
-gender: [m]
+    - [Swords Dance]
+    - [Aerial Ace]
+    - [X-Scissor]
+    - [Slash]
 happiness: 255
 biddable: False
+gender: [m,f]
 ball: [Poke]
 nature: Serious
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

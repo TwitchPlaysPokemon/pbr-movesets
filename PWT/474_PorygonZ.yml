@@ -1,14 +1,13 @@
-species: Meowth
-setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
+species: Porygon-Z
+setname: PWT-Mira
+tags: [in-game, PWT-Mira]
 item: [Null]
-ability: [Null]
+ability: [Adaptability]
 moves:
-    - [Growl]
-    - [Bite]
-    - [Pay Day]
-    - [Screech]
-gender: [m]
+    - [Tri Attack]
+    - [Dark Pulse]
+    - [Psychic]
+    - [Thunderbolt]
 happiness: 255
 biddable: False
 ball: [Poke]

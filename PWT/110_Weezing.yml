@@ -22,7 +22,7 @@ species: Weezing
 setname: PWT-Jessie & James
 tags: [in-game, PWT-Jessie & James]
 item: [Null]
-ability: [Levitate]
+ability: [Null]
 moves:
     - [Tackle]
     - [Smog]

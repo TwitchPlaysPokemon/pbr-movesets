@@ -157,3 +157,43 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Mira
+tags: [in-game, PWT-Mira]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Focus Blast]
+    - [Calm Mind]
+    - [Psychic]
+    - [Hyper Beam]
+gender: [f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Team A.C.T.
+tags: [in-game, PWT-Team A.C.T.]
+item: [Null]
+ability: [Inner Focus]
+moves:
+    - [Teleport]
+    - [Kinesis]
+    - [Confusion]
+    - [Follow Me]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

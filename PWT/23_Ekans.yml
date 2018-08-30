@@ -1,14 +1,14 @@
-species: Meowth
-setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
+species: Ekans
+setname: PWT-Team Meanies
+tags: [in-game, PWT-Team Meanies]
 item: [Null]
-ability: [Null]
+ability: [Intimidate]
 moves:
-    - [Growl]
+    - [Wrap]
+    - [Leer]
     - [Bite]
-    - [Pay Day]
-    - [Screech]
-gender: [m]
+    - [Poison Sting]
+gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]

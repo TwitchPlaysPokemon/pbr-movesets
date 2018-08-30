@@ -35,3 +35,22 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Metagross
+setname: PWT-Riley
+tags: [in-game, PWT-Riley]
+item: [Null]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash]
+    - [Zen Headbutt]
+    - [Hammer Arm]
+    - [Bullet Punch]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,13 +1,11 @@
-species: Meowth
-setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
+species: Zubat
+setname: PWT-Team Skull
+tags: [in-game, PWT-Team Skull]
 item: [Null]
-ability: [Null]
+ability: [Inner Focus]
 moves:
-    - [Growl]
-    - [Bite]
-    - [Pay Day]
-    - [Screech]
+    - [Leech Life]
+    - [Leer]
 gender: [m]
 happiness: 255
 biddable: False

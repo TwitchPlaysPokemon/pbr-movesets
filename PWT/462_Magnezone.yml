@@ -54,3 +54,22 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Mira
+tags: [in-game, PWT-Mira]
+item: [Null]
+ability: [Magnet Pull]
+moves:
+    - [Flash Cannon]
+    - [Hyper Beam]
+    - [Thunder Wave]
+    - [Thunder]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

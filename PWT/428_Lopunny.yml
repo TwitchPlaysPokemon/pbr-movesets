@@ -1,14 +1,14 @@
-species: Meowth
-setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
+species: Lopunny
+setname: PWT-Team Charm
+tags: [in-game, PWT-Team Charm]
 item: [Null]
-ability: [Null]
+ability: [Klutz]
 moves:
-    - [Growl]
-    - [Bite]
-    - [Pay Day]
-    - [Screech]
-gender: [m]
+    - [Dizzy Punch]
+    - [Bounce]
+    - [Baton Pass]
+    - [Agility]
+gender: [f]
 happiness: 255
 biddable: False
 ball: [Poke]
