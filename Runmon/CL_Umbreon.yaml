@@ -2,7 +2,7 @@
 ingamename: Umbreon
 displayname: Umbreon
 setname: Colosseum
-tags: [runmon]
+tags: [runmon, in-game]
 item: [TM 19]
 ability: [Synchronize]
 moves:

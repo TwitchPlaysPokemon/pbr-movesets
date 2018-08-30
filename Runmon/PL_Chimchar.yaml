@@ -2,7 +2,7 @@ species: Chimchar
 ingamename: Chimchar
 displayname: Chimchar
 setname: Platinum
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Null]
 ability: [Blaze]
 moves:

@@ -2,7 +2,7 @@ species: Floatzel
 ingamename: GD LREd
 displayname: GD LREd
 setname: White 2
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Grass Mail]
 ability: [Drizzle]
 moves:

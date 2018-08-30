@@ -2,7 +2,7 @@ species: Wooper
 ingamename: RIGHT
 displayname: RIGHT
 setname: Dark Graystone
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Mystic Water]
 ability: [Technician]
 moves:

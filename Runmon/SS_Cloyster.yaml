@@ -2,7 +2,7 @@ species: Cloyster
 ingamename: "0"
 displayname: "0"
 setname: Storm Silver
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Pearl]
 ability: [Shell Armor]
 moves:

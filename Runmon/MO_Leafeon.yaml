@@ -2,7 +2,7 @@ species: Leafeon
 ingamename: Leafeom
 displayname: Leafeom
 setname: Moon
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Null]
 ability: [Chlorophyll]
 moves:

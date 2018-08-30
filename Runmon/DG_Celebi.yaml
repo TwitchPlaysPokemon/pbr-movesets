@@ -2,7 +2,7 @@ species: Celebi
 ingamename: FUTA
 displayname: FUTA
 setname: Dark Graystone
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Life Orb]
 ability: [Truant]
 moves:

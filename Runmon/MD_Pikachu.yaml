@@ -2,7 +2,7 @@ species: Pikachu
 ingamename: JOHN CENA
 displayname: JOHN CENA
 setname: Mystery Dungeon
-tags: [runmon]
+tags: [runmon, in-game]
 item: [BrightPowder]
 ability: [Static]
 moves:

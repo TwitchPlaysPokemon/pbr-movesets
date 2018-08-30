@@ -2,7 +2,7 @@ species: Torterra
 ingamename: Torterra
 displayname: Torterra
 setname: Blazed Glazed
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Space Mail]
 ability: [Overgrow]
 moves:

@@ -2,7 +2,7 @@ species: Altaria
 ingamename: ALTARIA
 displayname: ALTARIA
 setname: FireRed
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Metal Coat]
 ability: [Trace]
 moves:

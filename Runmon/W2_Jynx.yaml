@@ -2,7 +2,7 @@ species: Jynx
 ingamename: Cottone.♪'
 displayname: Cottone.♪'
 setname: White 2
-tags: [runmon]
+tags: [runmon, in-game]
 ability: [Download]
 moves:
     - [Iron Head]

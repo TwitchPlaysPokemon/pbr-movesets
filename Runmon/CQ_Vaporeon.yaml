@@ -2,7 +2,7 @@ species: Vaporeon
 ingamename: Vaporeon
 displayname: Vaporeon
 setname: Conquest
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Null]
 ability: [Water Absorb]
 moves:

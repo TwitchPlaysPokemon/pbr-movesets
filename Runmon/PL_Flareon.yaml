@@ -2,7 +2,7 @@ species: Flareon
 ingamename: FLAREON
 displayname: FLAREON
 setname: Platinum
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Heart Mail]
 ability: [Flash Fire]
 moves:

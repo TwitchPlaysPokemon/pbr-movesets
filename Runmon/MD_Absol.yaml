@@ -2,7 +2,7 @@ species: Absol
 ingamename: AddaLuck
 displayname: AddaLuck
 setname: Mystery Dungeon
-tags: [runmon]
+tags: [runmon, in-game]
 item: [null]
 ability: [Pressure]
 moves:

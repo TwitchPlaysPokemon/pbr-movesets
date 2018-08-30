@@ -2,7 +2,7 @@ species: Sandslash
 ingamename: SANDSLASH
 displayname: SANDSLASH
 setname: FireRed
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Brightpowder]
 ability: [Flame Body]
 moves:

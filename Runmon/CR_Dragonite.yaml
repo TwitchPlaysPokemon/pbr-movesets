@@ -2,7 +2,7 @@ species: Dragonite
 ingamename: KT
 displayname: KT
 setname: Crystal
-tags: [runmon]
+tags: [runmon, in-game]
 item: [Ice Heal]
 ability: [null]
 moves:
