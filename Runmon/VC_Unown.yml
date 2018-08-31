@@ -1,0 +1,56 @@
+﻿species: Unown
+form: 5
+ingamename: FUCK
+displayname: FUCK
+setname: Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 2, def: 28, spA: 14, spD: 14, spe: 16}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Unown
+form: 11
+ingamename: LORE
+displayname: LORE
+setname: Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 4, def: 28, spA: 30, spD: 30, spe: 20}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Unown
+form: 20
+ingamename: U
+displayname: U
+setname: Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 20, atk: 30, def: 20, spA: 16, spD: 16, spe: 18}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
