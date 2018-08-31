@@ -1,0 +1,21 @@
+species: Plusle
+ingamename: ll♠♠♠△   
+displayname: ll♠♠♠△   
+setname: Randomized Platinum
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Unaware]
+moves:
+    - [Blizzard]
+    - [Dragon Dance]
+    - [Fly]
+    - [Outrage]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

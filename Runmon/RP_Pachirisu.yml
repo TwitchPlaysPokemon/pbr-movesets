@@ -1,0 +1,21 @@
+species: Pachirisu
+ingamename: h   ☹7PL4
+displayname: h   ☹7PL4
+setname: Randomized Platinum
+tags: [runmon, in-game]
+item: [Tunnel Mail]
+ability: [Clear Body]
+moves:
+    - [Double Hit]
+    - [Psybeam]
+    - [Rock Smash]
+    - [Surf]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Premier]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

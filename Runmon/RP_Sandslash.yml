@@ -1,0 +1,21 @@
+species: Sandslash
+ingamename: R
+displayname: R
+setname: Randomized Platinum
+tags: [runmon, in-game]
+item: [Air Mail]
+ability: [Limber]
+moves:
+    - [Cut]
+    - [Flash Cannon]
+    - [Needle Arm]
+    - [Rock Climb]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
