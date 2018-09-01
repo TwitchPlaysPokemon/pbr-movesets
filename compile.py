@@ -87,12 +87,16 @@ pwt = Counter()
 for set in sets:
     tags = set['tags']
     if 'runmon' in tags:
-        runmons["setname+" + set['setname']] += 1
+        trainer_tag ="setname+" + set['setname']
+        runmons[trainer_tag] += 1
     if 'anime' in tags:
-        anime["setname+" + set['setname']] += 1
+        trainer_tag = "setname+" + set['setname']
+        anime[trainer_tag] += 1
     if 'in-game' in tags:
-        pwt_set = next(filter(lambda tag: 'PWT' in tag, tags))
-        pwt[pwt_set] += 1
+        trainer_tag = list(filter(lambda tag: 'PWT' in tag, tags))
+        if trainer_tag:
+            pwt_set = trainer_tag[0]
+            pwt[pwt_set] += 1
 
 group_tags['runmons'] = [elem for (elem, cnt) in runmons.items() if cnt >= 3]
 group_tags['anime'] = [elem for (elem, cnt) in anime.items() if cnt >= 3]
