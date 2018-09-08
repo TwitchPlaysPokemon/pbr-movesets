@@ -97,3 +97,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Venomoth
+setname: PWT-Janine Tournament
+tags: [in-game, PWT-Janine Tournament]
+item: [Petaya Berry]
+ability: [Shield Dust, Tinted Lens]
+moves:
+    - [Calm Mind]
+    - [Bug Buzz]
+    - [Giga Drain]
+    - [Sludge Bomb]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -57,3 +57,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Giovanni Tournament
+tags: [in-game, PWT-Giovanni Tournament]
+item: [Liechi Berry]
+ability: [Lightninrod, Solid Rock]
+moves:
+    - [Hammer Arm]
+    - [Stone Edge]
+    - [Megahorn]
+    - [Earthquake]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

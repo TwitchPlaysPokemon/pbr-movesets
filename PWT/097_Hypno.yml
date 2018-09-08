@@ -17,3 +17,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Hypno
+setname: PWT-Sabrina Tournament
+tags: [in-game, PWT-Sabrina Tournament]
+item: [Sitrus Berry]
+ability: [Insomnia, Forewarn]
+moves:
+    - [Hypnosis]
+    - [Dream Eater]
+    - [Calm Mind]
+    - [Shadow Ball]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

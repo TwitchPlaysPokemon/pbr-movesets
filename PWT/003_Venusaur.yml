@@ -39,3 +39,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Venusaur
+setname: PWT-Erika Tournament
+tags: [in-game, PWT-Erika Tournament]
+item: [Sitrus Berry]
+ability: [Overgrow]
+moves:
+    - [Synthesis]
+    - [Light Screen]
+    - [Petal Dance]
+    - [Toxic]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

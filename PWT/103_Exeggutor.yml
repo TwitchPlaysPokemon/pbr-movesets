@@ -136,3 +136,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Erika Tournament
+tags: [in-game, PWT-Erika Tournament]
+item: [Tanga Berry]
+ability: [Chlorophyll]
+moves:
+    - [Psychic]
+    - [Solar Beam]
+    - [Hypnosis]
+    - [Sunny Day]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
