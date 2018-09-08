@@ -1,0 +1,42 @@
+species: Charizard
+ingamename: LIZAR
+displayname: LIZAR 
+setname: Bootleg Green
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Cut]
+    - [Take Down]
+    - [Strength]
+    - [Double Team]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Charizard
+ingamename: CUCKO
+displayname: CUCKO 
+setname: Bootleg Green-2
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Peck]
+    - [Growl]
+    - [Fly]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

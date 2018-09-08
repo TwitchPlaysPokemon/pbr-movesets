@@ -1,0 +1,21 @@
+species: Farfetch'd
+ingamename: DUX
+displayname: DUX
+setname: Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Cut]
+    - [Sand Attack]
+    - [Leer]
+    - [Fury Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

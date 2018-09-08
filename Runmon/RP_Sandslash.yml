@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
-nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Docile
+ivs: {hp: 18, atk: 30, def: 20, spA: 30, spD: 18, spe: 10}
+evs: {hp: 88, atk: 132, def: 57, spA: 96, spD: 46, spe: 91}

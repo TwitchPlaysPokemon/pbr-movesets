@@ -1,0 +1,21 @@
+species: Bulbasaur
+ingamename: DICK
+displayname: DICK 
+setname: Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Tackle]
+    - [Growl]
+    - [Leech Seed]
+    - [Vine Whip]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

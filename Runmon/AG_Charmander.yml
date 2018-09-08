@@ -1,0 +1,21 @@
+species: Charmander
+ingamename: BAK
+displayname: BAK 
+setname: Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Scratch]
+    - [Growl]
+    - [Ember]
+    - [Metal Claw]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

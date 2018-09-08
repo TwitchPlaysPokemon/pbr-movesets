@@ -1,0 +1,21 @@
+species: Persian
+ingamename: Gateau
+displayname: Gateau 
+setname: Sweet
+tags: [runmon, in-game]
+item: [Null]
+ability: [Limber]
+moves:
+    - [Bite]
+    - [Pay Day]
+    - [Fury Attack]
+    - [Mud Shot]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

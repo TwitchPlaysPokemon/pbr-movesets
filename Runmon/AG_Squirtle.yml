@@ -1,0 +1,21 @@
+species: Squirtle
+ingamename: CUM
+displayname: CUM 
+setname: Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Tackle]
+    - [Tail Whip]
+    - [Bubble]
+    - [Withdraw]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Safari]
 shiny: False
-nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Calm
+ivs: {hp: 19, atk: 19, def: 31, spA: 29, spD: 13, spe: 24}
+evs: {hp: 70, atk: 155, def: 50, spA: 42, spD: 69, spe: 124}

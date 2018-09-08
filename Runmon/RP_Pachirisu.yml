@@ -16,6 +16,7 @@ biddable: True
 rarity: 0.0
 ball: [Premier]
 shiny: False
-nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Gentle
+ivs: {hp: 17, atk: 8, def: 27, spA: 28, spD: 21, spe: 4}
+evs: {hp: 50, atk: 156, def: 80, spA: 80, spD: 32, spe: 112}
+

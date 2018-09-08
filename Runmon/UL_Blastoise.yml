@@ -1,0 +1,21 @@
+species: Blastoise
+ingamename: LUL
+displayname: LUL 
+setname: Ultra
+tags: [runmon, in-game]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Surf]
+    - [Bite]
+    - [Water Gun]
+    - [Water Pulse]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

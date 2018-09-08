@@ -16,6 +16,6 @@ biddable: True
 rarity: 0.0
 ball: [Great]
 shiny: False
-nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Hardy
+ivs: {hp: 29, atk: 15, def: 22, spA: 23, spD: 17, spe: 5}
+evs: {hp: 133, atk: 176, def: 33, spA: 81, spD: 57, spe: 30}
