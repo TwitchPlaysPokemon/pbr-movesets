@@ -37,3 +37,43 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Anabel2
+tags: [in-game, PWT-Anabel2]
+item: [Chesto Berry]
+ability: [Immunity, Thick Fat]
+moves:
+    - [Curse]
+    - [Return]
+    - [Rest]
+    - [Shadow Ball]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Anabel
+tags: [in-game, PWT-Anabel]
+item: [Quick Claw]
+ability: [Immunity, Thick Fat]
+moves:
+    - [Body Slam]
+    - [Belly Drum]
+    - [Yawn]
+    - [Shadow Ball]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

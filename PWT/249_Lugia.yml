@@ -1,13 +1,13 @@
-species: Articuno
-setname: PWT-Brandon2
-tags: [in-game, PWT-Brandon2]
-item: [Scope Lens]
+species: Lugia
+setname: PWT-Pokétopia Master2
+tags: [in-game, PWT-Pokétopia Master2]
+item: [Leftovers]
 ability: [Pressure]
 moves:
-    - [Blizzard]
-    - [Aerial Ace]
-    - [Water Pulse]
-    - [Reflect]
+    - [Aeroblast]
+    - [Psychic]
+    - [Roost]
+    - [Calm Mind]
 happiness: 255
 biddable: False
 ball: [Poke]

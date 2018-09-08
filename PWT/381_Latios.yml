@@ -1,14 +1,14 @@
-species: Cresselia
-setname: PWT-Palmer2
-tags: [in-game, PWT-Palmer2]
-item: [Leftovers]
+species: Latios
+setname: PWT-Pokétopia Master2
+tags: [in-game, PWT-Pokétopia Master2]
+item: [Soul Dew]
 ability: [Levitate]
 moves:
-    - [Psychic]
-    - [Signal Beam]
-    - [Ice Beam]
-    - [Moonlight]
-gender: [f]
+    - [Dragon Pulse]
+    - [Thunder]
+    - [Solar Beam]
+    - [Shadow Ball]
+gender: [m]
 happiness: 255
 biddable: False
 ball: [Poke]
@@ -18,17 +18,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Cresselia
-setname: PWT-Pokétopia Master2
-tags: [in-game, PWT-Pokétopia Master2]
-item: [Chesto Berry]
+species: Latios
+setname: PWT-Anabel2
+tags: [in-game, PWT-Anabel2]
+item: [Bright Powder]
 ability: [Levitate]
 moves:
     - [Psychic]
-    - [Ice Beam]
-    - [Rest]
+    - [Dragon Claw]
     - [Calm Mind]
-gender: [f]
+    - [Recover]
+gender: [m]
 happiness: 255
 biddable: False
 ball: [Poke]

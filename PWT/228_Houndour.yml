@@ -1,13 +1,14 @@
-species: Articuno
-setname: PWT-Brandon2
-tags: [in-game, PWT-Brandon2]
-item: [Scope Lens]
-ability: [Pressure]
+species: Houndour
+setname: PWT-Archer
+tags: [in-game, PWT-Archer]
+item: [Null]
+ability: [Early Bird]
 moves:
-    - [Blizzard]
-    - [Aerial Ace]
-    - [Water Pulse]
-    - [Reflect]
+    - [Faint Attack]
+    - [Fire Fang]
+    - [Bite]
+    - [Roar]
+gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]

@@ -1,13 +1,13 @@
-species: Heatran
-setname: PWT-Palmer2
-tags: [in-game, PWT-Palmer2]
-item: [Focus Sash]
-ability: [Flash Fire]
+species: Kingler
+setname: PWT-Pokétopia Master
+tags: [in-game, PWT-Pokétopia Master]
+item: [Quick Claw]
+ability: [Hyper Cutter]
 moves:
-    - [Magma Storm]
-    - [Flash Cannon]
-    - [Earth Power]
-    - [Explosion]
+    - [Crabhammer]
+    - [X-Scissor]
+    - [Giga Impact]
+    - [Protect]
 gender: [m,f]
 happiness: 255
 biddable: False

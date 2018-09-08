@@ -77,3 +77,43 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Haunter
+setname: PWT-Eusine
+tags: [in-game, PWT-Eusine]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Hypnosis]
+    - [Lick]
+    - [Mean Look]
+    - [Curse]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Haunter
+setname: PWT-Pokétopia Master
+tags: [in-game, PWT-Pokétopia Master]
+item: [Wise Glasses]
+ability: [Levitate]
+moves:
+    - [Sludge Bomb]
+    - [Shadow Ball]
+    - [Psychic]
+    - [Dark Pulse]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

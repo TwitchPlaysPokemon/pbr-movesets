@@ -35,3 +35,103 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Koffing
+setname: PWT-Archer
+tags: [in-game, PWT-Archer]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Sludge]
+    - [Smokescreen]
+    - [Tackle]
+    - [Haze]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Koffing
+setname: PWT-Petrel
+tags: [in-game, PWT-Petrel]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Smog]
+    - [Smokescreen]
+    - [Assurance]
+    - [Selfdestruct]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Koffing
+setname: PWT-Petrel2
+tags: [in-game, PWT-Petrel2]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Sludge]
+    - [Smokescreen]
+    - [Selfdestruct]
+    - [Tackle]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Koffing
+setname: PWT-Petrel2-2
+tags: [in-game, PWT-Petrel2]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Sludge]
+    - [Smokescreen]
+    - [Selfdestruct]
+    - [Tackle]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Koffing
+setname: PWT-Petrel2-3
+tags: [in-game, PWT-Petrel2]
+item: [Null]
+ability: [Levitate]
+moves:
+    - [Sludge]
+    - [Smokescreen]
+    - [Selfdestruct]
+    - [Tackle]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

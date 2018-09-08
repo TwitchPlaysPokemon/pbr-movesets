@@ -1,13 +1,13 @@
-species: Articuno
-setname: PWT-Brandon2
-tags: [in-game, PWT-Brandon2]
-item: [Scope Lens]
+species: Registeel
+setname: PWT-Brandon
+tags: [in-game, PWT-Brandon]
+item: [Leftovers]
 ability: [Pressure]
 moves:
-    - [Blizzard]
-    - [Aerial Ace]
-    - [Water Pulse]
-    - [Reflect]
+    - [Metal Claw]
+    - [Iron Defense]
+    - [Earthquake]
+    - [Toxic]
 happiness: 255
 biddable: False
 ball: [Poke]

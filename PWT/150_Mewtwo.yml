@@ -1,13 +1,13 @@
-species: Articuno
-setname: PWT-Brandon2
-tags: [in-game, PWT-Brandon2]
-item: [Scope Lens]
+species: Mewtwo
+setname: PWT-Pokétopia Master2
+tags: [in-game, PWT-Pokétopia Master2]
+item: [Bright Powder]
 ability: [Pressure]
 moves:
-    - [Blizzard]
-    - [Aerial Ace]
-    - [Water Pulse]
-    - [Reflect]
+    - [Aura Sphere]
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Protect]
 happiness: 255
 biddable: False
 ball: [Poke]

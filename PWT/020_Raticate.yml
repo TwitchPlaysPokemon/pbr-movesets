@@ -1,12 +1,14 @@
-species: Zubat
-setname: PWT-Team Skull
-tags: [in-game, PWT-Team Skull]
+species: Raticate
+setname: PWT-Petrel
+tags: [in-game, PWT-Petrel]
 item: [Null]
-ability: [Inner Focus]
+ability: [Guts]
 moves:
-    - [Leech Life]
-    - [Leer]
-gender: [m]
+    - [Hyper Fang]
+    - [Sucker Punch]
+    - [Scary Face]
+    - [Crunch]
+gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]

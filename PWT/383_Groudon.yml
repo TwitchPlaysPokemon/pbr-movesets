@@ -1,13 +1,13 @@
-species: Regigigas
-setname: PWT-Palmer2
-tags: [in-game, PWT-Palmer2]
-item: [Bright Powder]
-ability: [Slow Start]
+species: Groudon
+setname: PWT-Pokétopia Master2
+tags: [in-game, PWT-Pokétopia Master2]
+item: [Quick Claw]
+ability: [Drought]
 moves:
-    - [Crush Grip]
-    - [Stone Edge]
     - [Earthquake]
-    - [Drain Punch]
+    - [Fire Punch]
+    - [Stone Edge]
+    - [Dragon Claw]
 happiness: 255
 biddable: False
 ball: [Poke]

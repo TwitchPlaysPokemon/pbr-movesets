@@ -1,13 +1,14 @@
-species: Zapdos
-setname: PWT-Brandon2
-tags: [in-game, PWT-Brandon2]
-item: [Lum Berry]
-ability: [Pressure]
+species: Chansey
+setname: PWT-Pokétopia Master
+tags: [in-game, PWT-Pokétopia Master]
+item: [Expert Belt]
+ability: [Serene Grace]
 moves:
+    - [Flamethrower]
     - [Thunder]
-    - [Detect]
-    - [Drill Peck]
-    - [Light Screen]
+    - [Ice Beam]
+    - [Shadow Ball]
+gender: [f]
 happiness: 255
 biddable: False
 ball: [Poke]

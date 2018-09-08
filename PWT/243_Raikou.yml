@@ -1,13 +1,13 @@
-species: Articuno
-setname: PWT-Brandon2
-tags: [in-game, PWT-Brandon2]
-item: [Scope Lens]
+species: Raikou
+setname: PWT-Anabel2
+tags: [in-game, PWT-Anabel2]
+item: [Lum Berry]
 ability: [Pressure]
 moves:
-    - [Blizzard]
-    - [Aerial Ace]
-    - [Water Pulse]
+    - [Thunderbolt]
+    - [Calm Mind]
     - [Reflect]
+    - [Rest]
 happiness: 255
 biddable: False
 ball: [Poke]
