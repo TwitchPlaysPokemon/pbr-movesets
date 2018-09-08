@@ -137,3 +137,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Blue Tournament
+tags: [in-game, PWT-Blue Tournament]
+item: [Choice Band]
+ability: [Rock Head, Pressure]
+moves:
+    - [Stone Edge]
+    - [Earthquake]
+    - [Ice Fang]
+    - [Fire Blast]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

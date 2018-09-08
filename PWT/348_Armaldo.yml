@@ -37,3 +37,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Armaldo
+setname: PWT-Steven Tournament
+tags: [in-game, PWT-Steven Tournament]
+item: [White Herb]
+ability: [Battle Armor]
+moves:
+    - [X-Scissor]
+    - [Rock Blast]
+    - [Stone Edge]
+    - [Superpower]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

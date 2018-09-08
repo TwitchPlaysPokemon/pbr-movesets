@@ -54,3 +54,22 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Metagross
+setname: PWT-Steven Tournament
+tags: [in-game, PWT-Steven Tournament]
+item: [Occa Berry]
+ability: [Clear Body]
+moves:
+    - [Zen Headbutt]
+    - [Hammer Arm]
+    - [Earthquake]
+    - [Bullet Punch]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
