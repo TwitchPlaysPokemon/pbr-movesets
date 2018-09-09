@@ -117,3 +117,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Chuck Tournament
+tags: [in-game, PWT-Chuck Tournament]
+item: [Salac Berry]
+ability: [Limber, Reckless]
+moves:
+    - [Bulk Up]
+    - [Sucker Punch]
+    - [Jump Kick]
+    - [Blaze Kick]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

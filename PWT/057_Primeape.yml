@@ -37,3 +37,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Primeape
+setname: PWT-Chuck Tournament
+tags: [in-game, PWT-Chuck Tournament]
+item: [Liechi Berry]
+ability: [Vital Spirit, Anger Point]
+moves:
+    - [Outrage]
+    - [Close Combat]
+    - [Stone Edge]
+    - [U-Turn]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

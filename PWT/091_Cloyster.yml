@@ -37,3 +37,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Cloyster
+setname: PWT-Pryce Tournament
+tags: [in-game, PWT-Pryce Tournament]
+item: [Salac Berry]
+ability: [Shell Armor, Skill Link]
+moves:
+    - [Sharpen]
+    - [Waterfall]
+    - [Rock Blast]
+    - [Icicle Spear]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -92,3 +92,22 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Jasmine Tournament
+tags: [in-game, PWT-Jasmine Tournament]
+item: [Shuca Berry]
+ability: [Magnet Pull, Sturdy]
+moves:
+    - [Flash Cannon]
+    - [Zap Cannon]
+    - [Gravity]
+    - [Thunder Wave]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

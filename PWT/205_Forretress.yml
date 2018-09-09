@@ -17,3 +17,43 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Forretress
+setname: PWT-Bugsy Tournament
+tags: [in-game, PWT-Bugsy Tournament]
+item: [Apicot Berry]
+ability: [Sturdy]
+moves:
+    - [Bug Bite]
+    - [Shadow Ball]
+    - [Pain Split]
+    - [Stealth Rock]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Forretress
+setname: PWT-Jasmine Tournament
+tags: [in-game, PWT-Jasmine Tournament]
+item: [Occa Berry]
+ability: [Sturdy]
+moves:
+    - [Earthquake]
+    - [Zap Cannon]
+    - [Gravity]
+    - [Gyro Ball]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

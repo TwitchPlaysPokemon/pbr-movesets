@@ -37,3 +37,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Noctowl
+setname: PWT-Falkner Tournament
+tags: [in-game, PWT-Falkner Tournament]
+item: [Ganlon Berry]
+ability: [Insomnia, Keen Eye]
+moves:
+    - [Hypnosis]
+    - [Dream Eater]
+    - [Reflect]
+    - [Air Slash]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -37,3 +37,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Miltank
+setname: PWT-Whitney Tournament
+tags: [in-game, PWT-Whitney Tournament]
+item: [Liechi Berry]
+ability: [Thick Fat, Scrappy]
+moves:
+    - [Hammer Arm]
+    - [Zen Headbutt]
+    - [Body Slam]
+    - [Milk Drink]
+gender: [f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
