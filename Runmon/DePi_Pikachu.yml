@@ -4,12 +4,14 @@ displayname: Detective Pikachu
 setname: Detective Pikachu
 tags: [runmon, in-game]
 item: [Null]
-ability: [Static]
+ability: [Unaware, Oblivious]
 moves:
-    - [Close Combat]
-    - [Fly]
-    - [Rollout]
-    - [Scary Face]
+    - [Chatter]
+    - [Fly, Rollout, Close Combat, Thunderbolt]
+    - [Scary Face, Swagger, Double Team, Taunt]
+    - [Amnesia]
+Combinations:
+    - [Unaware, Swagger]
 happiness: 255
 gender: [m]
 biddable: True
@@ -18,4 +20,4 @@ ball: [Poké]
 shiny: True
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
