@@ -37,3 +37,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Relicanth
+setname: PWT-Roxanne Tournament
+tags: [in-game, PWT-Roxanne Tournament]
+item: [Rindo Berry]
+ability: [Swift Swim, Rock Head]
+moves:
+    - [Amnesia]
+    - [Yawn]
+    - [Aqua Tail]
+    - [Stone Edge]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+gender: [m,f]
