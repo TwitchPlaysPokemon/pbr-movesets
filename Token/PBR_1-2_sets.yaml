@@ -1,0 +1,8746 @@
+species: Bulbasaur
+displayname: "Bulbasaur-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Bold
+ivs: 31
+evs: {hp: 140, atk: 0, def: 100, spA: 100, spD: 100, spe: 40}
+moves:
+    - [Sludge Bomb]
+    - [Energy Ball]
+    - [Leech Seed]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ivysaur
+displayname: "Ivysaur-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Brave
+ivs: 23
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Power Whip]
+    - [Weather Ball]
+    - [Sunny Day]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Venusaur
+displayname: "Venusaur-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Rash
+ivs: {hp: 5, atk: 5, def: 5, spA: 10, spD: 5, spe: 5}
+evs: {hp: 84, atk: 72, def: 44, spA: 252, spD: 40, spe: 200}
+moves:
+    - [Sludge]
+    - [Mega Drain]
+    - [Nature Power]
+    - [Grass Whistle]
+gender: [m,f]
+rarity: 1.0
+---
+species: Charmander
+displayname: "Charmander-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Blaze]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 0, spA: 0, spD: 0, spe: 212}
+moves:
+    - [Flare Blitz]
+    - [Outrage]
+    - [Will-O-Wisp]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Charmeleon
+displayname: "Charmeleon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Solar Power]
+nature: Calm
+ivs: 31
+evs: {hp: 252, atk: 0, def: 176, spA: 0, spD: 54, spe: 28}
+moves:
+    - [Flamethrower]
+    - [Dragon Pulse]
+    - [Ancient Power]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Charizard
+displayname: "Charizard-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Blaze]
+nature: Quiet
+ivs: 31
+evs: {hp: 104, atk: 44, def: 104, spA: 152, spD: 104, spe: 0}
+moves:
+    - [Wing Attack]
+    - [Ember]
+    - [Rock Tomb]
+    - [Growl]
+gender: [m,f]
+rarity: 1.0
+---
+species: Squirtle
+displayname: "Squirtle-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Hydro Pump]
+    - [Aura Sphere]
+    - [Ice Beam]
+    - [Mirror Coat]
+gender: [m,f]
+rarity: 1.0
+---
+species: Wartortle
+displayname: "Wartortle-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rain Dish]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 7}
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 0}
+moves:
+    - [Dive]
+    - [Dig]
+    - [Toxic]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Blastoise
+displayname: "Blastoise-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Calm
+ivs: 4
+evs: {hp: 84, atk: 0, def: 128, spA: 84, spD: 128, spe: 84}
+moves:
+    - [Hydro Cannon]
+    - [Zap Cannon]
+    - [Flash Cannon]
+    - [Withdraw]
+gender: [m,f]
+rarity: 1.0
+---
+species: Caterpie
+displayname: "Caterpie-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shield Dust]
+nature: Adamant
+ivs: 31
+evs: {hp: 56, atk: 252, def: 56, spA: 0, spD: 56, spe: 84}
+moves:
+    - [X-Scissor]
+    - [Headbutt]
+    - [Teeter Dance]
+    - [String Shot]
+gender: [m,f]
+rarity: 1.0
+---
+species: Metapod
+displayname: "Metapod-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Bold
+ivs: 31
+evs: {hp: 148, atk: 0, def: 172, spA: 168, spD: 0, spe: 0}
+moves:
+    - [Bug Buzz]
+    - [Stun Spore]
+    - [Growth]
+    - [Iron Defense]
+gender: [m,f]
+rarity: 1.0
+---
+species: Butterfree
+displayname: "Butterfree-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Compound Eyes]
+nature: Impish
+ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 31}
+evs: {hp: 104, atk: 112, def: 104, spA: 108, spD: 100, spe: 96}
+moves:
+    - [Bug Buzz]
+    - [Hidden Power]
+    - [Stun Spore]
+    - [Supersonic]
+gender: [m,f]
+rarity: 1.0
+---
+species: Weedle
+displayname: "Weedle-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shield Dust]
+nature: Adamant
+ivs: 31
+evs: {hp: 58, atk: 252, def: 58, spA: 0, spD: 58, spe: 84}
+moves:
+    - [Megahorn]
+    - [Mind Reader]
+    - [Horn Drill]
+    - [String Shot]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kakuna
+displayname: "Kakuna-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Attack Order]
+    - [Poison Jab]
+    - [Rock Polish]
+    - [Memento]
+gender: [m,f]
+rarity: 1.0
+---
+species: Beedrill
+displayname: "Beedrill -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swarm]
+nature: Adamant
+ivs: 18
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Poison Jab]
+    - [Twineedle]
+    - [Swords Dance]
+    - [Toxic Spikes]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pidgey
+displayname: "Pidgey-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tangled Feet]
+nature: Adamant
+happiness: 255
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Brave Bird]
+    - [Return]
+    - [Feather Dance]
+    - [Roost]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pidgeotto
+displayname: "Pidgeotto-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tangled Feet]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Air Slash]
+    - [Heat Wave]
+    - [Captivate]
+    - [Roost]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pidgeot
+displayname: "Pidgeot -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tangled Feet]
+nature: Jolly
+ivs: 10
+evs: {hp: 84, atk: 84, def: 128, spA: 0, spD: 128, spe: 84}
+moves:
+    - [Giga Impact]
+    - [Sky Attack]
+    - [Mirror Move]
+    - [Roost]
+gender: [m,f]
+rarity: 1.0
+---
+species: Rattata
+displayname: "Rattata-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hustle]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Double-Edge]
+    - [Crunch]
+    - [Dig]
+    - [Quick Attack]
+gender: [m,f]
+rarity: 1.0
+---
+species: Raticate
+displayname: "Raticate-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Guts]
+nature: Adamant
+ivs: 15
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Super Fang]
+    - [Hyper Fang]
+    - [Revenge]
+    - [Flame Wheel]
+gender: [m,f]
+rarity: 1.0
+---
+species: Spearow
+displayname: "Spearow-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sniper]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Double-Edge]
+    - [Fly]
+    - [Steel Wing]
+    - [Mirror Move]
+gender: [m,f]
+rarity: 1.0
+---
+species: Fearow
+displayname: "Fearow-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sniper]
+nature: Careful
+ivs: 13
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Drill Peck]
+    - [Giga Impact]
+    - [Steel Wing]
+    - [Growl]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ekans
+displayname: "Ekans-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 84, atk: 168, def: 84, spA: 0, spD: 172, spe: 0}
+moves:
+    - [Gunk Shot]
+    - [Earthquake]
+    - [Seed Bomb]
+    - [Glare]
+gender: [m,f]
+rarity: 1.0
+---
+species: Arbok
+displayname: "Arbok-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Quirky
+ivs: 13
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Poison Fang]
+    - [Ice Fang]
+    - [Fire Fang]
+    - [Thunder Fang]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pikachu
+displayname: "Pikachu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Modest
+ivs: 31
+evs: {hp: 72, atk: 0, def: 32, spA: 252, spD: 32, spe: 122}
+moves:
+    - [Thunderbolt]
+    - [Surf]
+    - [Signal Beam]
+    - [Nasty Plot]
+gender: [m,f]
+rarity: 1.0
+---
+species: Raichu
+displayname: "Raichu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Docile
+ivs: 9
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Thunder]
+    - [Fly]
+    - [Dig]
+    - [Magnet Rise]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sandshrew
+displayname: "Sandshrew-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Veil]
+nature: Adamant
+ivs: 31
+evs: {hp: 40, atk: 128, def: 0, spA: 0, spD: 212, spe: 128}
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [X-Scissor]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sandslash
+displayname: "Sandslash-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Veil]
+nature: Careful
+ivs: 12
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Earthquake]
+    - [Strength]
+    - [Poison Jab]
+    - [Sandstorm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Nidoran-F
+displayname: "Nidoran-F-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hustle]
+nature: Adamant
+ivs: 31
+evs: {hp: 60 atk: 252, def: 12, spA: 0, spD: 12, spe: 172}
+moves:
+    - [Poison Jab]
+    - [Dig]
+    - [Aerial Ace]
+    - [Lovely Kiss]
+gender: [f]
+rarity: 1.0
+---
+species: Nidorina
+displayname: "Nidorina-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rivalry]
+nature: Modest
+ivs: 20
+evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Super Fang]
+    - [Sludge Bomb]
+    - [Blizzard]
+    - [Flatter]
+gender: [f]
+rarity: 1.0
+---
+species: Nidoqueen
+displayname: "Nidoqueen-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Poison Point]
+nature: Modest
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Earthquake]
+    - [Poison Jab]
+    - [Icy Wind]
+    - [Tail Whip]
+gender: [f]
+rarity: 1.0
+---
+species: Nidoran-M
+displayname: "Nidoran-M-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hustle]
+nature: Jolly
+ivs: 31
+evs: {hp: 128, atk: 128, def: 56, spA: 0, spD: 56, spe: 140}
+moves:
+    - [Poison Jab]
+    - [Head Smash]
+    - [Sucker Punch]
+    - [Horn Drill]
+gender: [m]
+rarity: 1.0
+---
+species: Nidorino
+displayname: "Nidorino-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rivalry]
+nature: Modest
+ivs: 20
+evs: {hp: 86, atk: 0, def: 128, spA: 168, spD: 128, spe: 0}
+moves:
+    - [Sludge Bomb]
+    - [Thunder]
+    - [Horn Drill]
+    - [Flatter]
+gender: [m]
+rarity: 1.0
+---
+species: Nidoking
+displayname: "Nidoking-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rivalry]
+nature: Sassy
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Earth Power]
+    - [Poison Jab]
+    - [Surf]
+    - [Captivate]
+gender: [m]
+rarity: 1.0
+---
+species: Clefairy
+displayname: "Clefairy-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Magic Guard]
+nature: Modest
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 140, spD: 112, spe: 0}
+moves:
+    - [Hyper Voice]
+    - [Ice Beam]
+    - [Calm Mind]
+    - [Metronome]
+gender: [m,f]
+rarity: 1.0
+---
+species: Clefable
+displayname: "Clefable-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Magic Guard]
+nature: Adamant
+ivs: 10
+evs: {hp: 12, atk: 84, def: 168, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Strength]
+    - [Meteor Mash]
+    - [Copycat]
+    - [Encore]
+gender: [m,f]
+rarity: 1.0
+---
+species: Vulpix
+displayname: "Vulpix-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Drought]
+nature: Calm
+ivs: 31
+evs: {hp: 8, atk: 0, def: 128, spA: 188, spD: 58, spe: 128}
+moves:
+    - [Fire Blast]
+    - [Energy Ball]
+    - [Confuse Ray]
+    - [Will-O-Wisp]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ninetales
+displayname: "Ninetales-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flash Fire]
+nature: Naughty
+ivs: 7
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Overheat]
+    - [Dig]
+    - [Grudge]
+    - [Power Swap]
+gender: [m,f]
+rarity: 1.0
+---
+species: Jigglypuff
+displayname: "Jigglypuff-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cute Charm]
+nature: Impish
+ivs: 31
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+moves:
+    - [Seismic Toss]
+    - [Perish Song]
+    - [Light Screen]
+    - [Reflect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Wigglytuff
+displayname: "Wigglytuff-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cute Charm]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Pound]
+    - [Focus Punch]
+    - [Shadow Ball]
+    - [Sing]
+gender: [m,f]
+rarity: 1.0
+---
+species: Zubat
+displayname: "Zubat-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Inner Focus]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Super Fang]
+    - [Brave Bird]
+    - [Confuse Ray]
+    - [Toxic]
+gender: [m,f]
+rarity: 1.0
+---
+species: Golbat
+displayname: "Golbat-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Inner Focus]
+nature: Hasty
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 56, spD: 0, spe: 56}
+moves:
+    - [Air Slash]
+    - [Giga Drain]
+    - [Confuse Ray]
+    - [Taunt]
+gender: [m,f]
+rarity: 1.0
+---
+species: Oddish
+displayname: "Oddish-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Modest
+ivs: 31
+evs: {hp: 236, atk: 0, def: 16, spA: 128, spD: 0, spe: 128}
+moves:
+    - [Solar Beam]
+    - [Sludge Bomb]
+    - [Teeter Dance]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gloom
+displayname: "Gloom-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Timid
+ivs: 17
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Energy Ball]
+    - [Sludge Bomb]
+    - [Moonlight]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Vileplume
+displayname: "Vileplume-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Effect Spore]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Solar Beam]
+    - [Acid]
+    - [Drain Punch]
+    - [Tickle]
+gender: [m,f]
+rarity: 1.0
+---
+species: Paras
+displayname: "Paras-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Dry Skin]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Seed Bomb]
+    - [X-Scissor]
+    - [Spore]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Parasect
+displayname: "Parasect-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Wide Lens]
+ability: [Dry Skin]
+nature: Adamant
+ivs: 31
+evs: {hp: 112, atk: 252, def: 0, spA: 0, spD: 0, spe: 144}
+moves:
+    - [Fury Cutter]
+    - [Giga Drain]
+    - [Agility]
+    - [Spore]
+gender: [m,f]
+rarity: 1.0
+---
+species: Venonat
+displayname: "Venonat-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tinted Lens]
+nature: Timid
+ivs: 26
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Sludge Bomb]
+    - [Psychic]
+    - [Sleep Powder]
+    - [Morning Sun]
+gender: [m,f]
+rarity: 1.0
+---
+species: Venomoth
+displayname: "Venomoth-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tinted Lens]
+nature: Bold
+ivs: 12
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Bug Buzz]
+    - [Disable]
+    - [Toxic Spikes]
+    - [Substitute]
+gender: [m,f]
+rarity: 1.0
+---
+species: Diglett
+displayname: "Diglett-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Veil]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Fissure]
+    - [Memento]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dugtrio
+displayname: "Dugtrio-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Arena Trap]
+nature: Jolly
+ivs: 16
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Dig]
+    - [Stone Edge]
+    - [Fissure]
+    - [Stealth Rock]
+gender: [m,f]
+rarity: 1.0
+---
+species: Meowth
+displayname: "Meowth-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Technician]
+nature: Adamant
+ivs: 27
+evs: {hp: 80, atk: 252, def: 0, spA: 0, spD: 0, spe: 176}
+moves:
+    - [Flail]
+    - [Bite]
+    - [Spite]
+    - [Substitute]
+gender: [m,f]
+rarity: 1.0
+---
+species: Persian
+displayname: "Persian-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Technician]
+nature: Lonely
+ivs: 13
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Fake Out]
+    - [Headbutt]
+    - [Thunderbolt]
+    - [Water Pulse]
+gender: [m,f]
+rarity: 1.0
+---
+species: Psyduck
+displayname: "Psyduck-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cloud Nine]
+nature: Timid
+ivs: 31
+evs: {hp: 88, atk: 0, def: 124, spA: 84, spD: 124, spe: 88}
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Petal Dance]
+    - [Calm Mind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Golduck
+displayname: "Golduck-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cloud Nine]
+nature: Adamant
+ivs: 7
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Aqua Tail]
+    - [Zen Headbutt]
+    - [Cross Chop]
+    - [Tail Whip]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mankey
+displayname: "Mankey-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Anger Point]
+nature: Jolly
+ivs: 26
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Close Combat]
+    - [Iron Tail]
+    - [Smelling Salts]
+    - [Substitute]
+gender: [m,f]
+rarity: 1.0
+---
+species: Primeape
+displayname: "Primeape-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Vital Spirit]
+nature: Modest
+ivs: 11
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Cross Chop]
+    - [Overheat]
+    - [Thrash]
+    - [Focus Energy]
+gender: [m,f]
+rarity: 1.0
+---
+species: Growlithe
+displayname: "Growlithe-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Jolly
+ivs: 31
+evs: {hp: 84, atk: 84, def: 84, spA: 0, spD: 84, spe: 168}
+moves:
+    - [Flare Blitz]
+    - [Close Combat]
+    - [Will-O-Wisp]
+    - [Morning Sun]
+gender: [m,f]
+rarity: 1.0
+---
+species: Arcanine
+displayname: "Arcanine-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Careful
+ivs: 2
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Flame Wheel]
+    - [Crunch]
+    - [Extreme Speed]
+    - [Roar]
+gender: [m,f]
+rarity: 1.0
+---
+species: Poliwag
+displayname: "Poliwag-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Damp]
+nature: Timid
+ivs: 26
+evs: {hp: 56 atk: 0, def: 56, spA: 252, spD: 56, spe: 84}
+moves:
+    - [Surf]
+    - [Hypnosis]
+    - [Swagger]
+    - [Growth]
+gender: [m,f]
+rarity: 1.0
+---
+species: Poliwhirl
+displayname: "Poliwhirl-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Damp]
+nature: Adamant
+ivs: 18
+evs: {hp: 84, atk: 172, def: 84, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Dive]
+    - [Wake-Up Slap]
+    - [Ice Ball]
+    - [Hypnosis]
+gender: [m,f]
+rarity: 1.0
+---
+species: Poliwrath
+displayname: "Poliwrath-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Absorb]
+nature: Mild
+ivs: 7
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Hydro Pump]
+    - [Dynamic Punch]
+    - [Mind Reader]
+    - [Bulk Up]
+gender: [m,f]
+rarity: 1.0
+---
+species: Abra
+displayname: "Abra-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Synchronize]
+nature: Timid
+ivs: 25
+evs: {hp: 84, atk: 0, def: 84, spA: 84, spD: 84, spe: 168}
+moves:
+    - [Psychic]
+    - [Energy Ball]
+    - [Swagger]
+    - [Light Screen]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kadabra
+displayname: "Kadabra-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Magic Guard]
+nature: Careful
+ivs: 17
+evs: {hp: 84, atk: 0, def: 168, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Psychic]
+    - [Shock Wave]
+    - [Kinesis]
+    - [Role Play]
+gender: [m,f]
+rarity: 1.0
+---
+species: Alakazam
+displayname: "Alakazam-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Inner Focus]
+nature: Impish
+ivs: 14
+evs: {hp: 84, atk: 0, def: 84, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Psybeam]
+    - [Signal Beam]
+    - [Kinesis]
+    - [Guard Swap]
+gender: [m,f]
+rarity: 1.0
+---
+species: Machop
+displayname: "Machop-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [No Guard]
+nature: Brave
+ivs: 26
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Dynamic Punch]
+    - [Mega Kick]
+    - [Earthquake]
+    - [Bullet Punch]
+gender: [m,f]
+rarity: 1.0
+---
+species: Machoke
+displayname: "Machoke-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [No Guard]
+nature: Sassy
+ivs: 16
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Cross Chop]
+    - [Rock Slide]
+    - [Bullet Punch]
+    - [Scary Face]
+gender: [m,f]
+rarity: 1.0
+---
+species: Machamp
+displayname: "Machamp-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [No Guard]
+nature: Modest
+ivs: 7
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Submission]
+    - [Fire Blast]
+    - [Rock Climb]
+    - [Toxic]
+gender: [m,f]
+rarity: 1.0
+---
+species: Bellsprout
+displayname: "Bellsprout-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Sludge Bomb]
+    - [Weather Ball]
+    - [Sleep Powder]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Weepinbell
+displayname: "Weepinbell-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Power Whip]
+    - [Wring Out]
+    - [Growth]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Victreebel
+displayname: "Victreebel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 44, spA: 0, spD: 44, spe: 84}
+moves:
+    - [Vine Whip]
+    - [Slam]
+    - [Leech Life]
+    - [Tickle]
+gender: [m,f]
+rarity: 1.0
+---
+species: Tentacool
+displayname: "Tentacool-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Clear Body]
+nature: Gentle
+ivs: 23
+evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 84, spe: 86}
+moves:
+    - [Hydro Pump]
+    - [Sludge Bomb]
+    - [Blizzard]
+    - [Mirror Coat]
+gender: [m,f]
+rarity: 1.0
+---
+species: Tentacruel
+displayname: "Tentacruel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Liquid Ooze]
+nature: Quirky
+ivs: 6
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Dive]
+    - [Poison Jab]
+    - [Swords Dance]
+    - [Toxic Spikes]
+gender: [m,f]
+rarity: 1.0
+---
+species: Geodude
+displayname: "Geodude-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Sucker Punch]
+    - [Explosion]
+gender: [m,f]
+rarity: 1.0
+---
+species: Graveler
+displayname: "Graveler-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Careful
+ivs: 18
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Dig]
+    - [Rock Slide]
+    - [Rock Polish]
+    - [Self-Destruct]
+gender: [m,f]
+rarity: 1.0
+---
+species: Golem
+displayname: "Golem-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Veil]
+nature: Gentle
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 252, spe: 0}
+moves:
+    - [Magnitude]
+    - [Rollout]
+    - [Defense Curl]
+    - [Sandstorm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ponyta
+displayname: "Ponyta-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flame Body]
+nature: Jolly
+ivs: 16
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Flare Blitz]
+    - [Iron Tail]
+    - [Hypnosis]
+    - [Morning Sun]
+gender: [m,f]
+rarity: 1.0
+---
+species: Rapidash
+displayname: "Rapidash-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flash Fire]
+nature: Hasty
+ivs: 11
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Heat Wave]
+    - [Low Kick]
+    - [Stomp]
+    - [Attract]
+gender: [m,f]
+rarity: 1.0
+---
+species: Slowpoke
+displayname: "Slowpoke-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Own Tempo]
+nature: Careful
+ivs: 25
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Aqua Tail]
+    - [Zen Headbutt]
+    - [Earthquake]
+    - [Curse]
+gender: [m,f]
+rarity: 1.0
+---
+species: Slowbro
+displayname: "Slowbro-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Own Tempo]
+nature: Naughty
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Psychic]
+    - [Water Pulse]
+    - [Yawn]
+    - [Trick Room]
+gender: [m,f]
+rarity: 1.0
+---
+species: Magnemite
+displayname: "Magnemite-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Rash
+ivs: 24
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Thunderbolt]
+    - [Flash Cannon]
+    - [Supersonic]
+    - [Thunder Wave]
+rarity: 1.0
+---
+species: Magneton
+displayname: "Magneton-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Naughty
+ivs: 10
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Discharge]
+    - [Mirror Shot]
+    - [Metal Sound]
+    - [Supersonic]
+rarity: 1.0
+---
+species: Farfetch'd
+displayname: "Farfetch'd-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Inner Focus]
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 160, def: 72, spA: 0, spD: 68, spe: 108}
+moves:
+    - [Fly]
+    - [Slash]
+    - [Leaf Blade]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Doduo
+displayname: "Doduo-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tangled Feet]
+nature: Jolly
+ivs: 31
+evs: {hp: 84, atk: 84, def: 128, spA: 0, spD: 128, spe: 84}
+moves:
+    - [Fly]
+    - [Facade]
+    - [Low Kick]
+    - [Haze]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dodrio
+displayname: "Dodrio-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Early Bird]
+nature: Modest
+ivs: 11
+evs: {hp: 84, atk: 0, def: 168, spA: 84, spD: 168, spe: 0}
+moves:
+    - [Drill Peck]
+    - [Tri Attack]
+    - [Acupressure]
+    - [Rest]
+gender: [m,f]
+rarity: 1.0
+---
+species: Seel
+displayname: "Seel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hydration]
+nature: Bold
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 124, spD: 128, spe: 0}
+moves:
+    - [Surf]
+    - [Icy Wind]
+    - [Encore]
+    - [Perish Song]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dewgong
+displayname: "Dewgong-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Brave
+ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 56, atk: 168, def: 56, spA: 60, spD: 56, spe: 60}
+moves:
+    - [Avalanche]
+    - [Aqua Jet]
+    - [Hidden Power]
+    - [Safeguard]
+gender: [m,f]
+rarity: 1.0
+---
+species: Grimer
+displayname: "Grimer-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Stench]
+nature: Adamant
+ivs: 24
+evs: {hp: 84, atk: 88, def: 124, spA: 0, spD: 124, spe: 84}
+moves:
+    - [Gunk Shot]
+    - [Dig]
+    - [Shadow Sneak]
+    - [Screech]
+gender: [m,f]
+rarity: 1.0
+---
+species: Muk
+displayname: "Muk-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sticky Hold]
+nature: Rash
+ivs: 31
+evs: {hp: 36, atk: 36, def: 36, spA: 36, spD: 36, spe: 36}
+moves:
+    - [Sludge]
+    - [Thunder]
+    - [Brick Break]
+    - [Acid Armor]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shellder
+displayname: "Shellder-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Skill Link]
+nature: Careful
+ivs: 26
+evs: {hp: 252, atk: 128, def: 0, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Dive]
+    - [Avalanche]
+    - [Rock Blast]
+    - [Ice Shard]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cloyster
+displayname: "Cloyster-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Skill Link]
+nature: Gentle
+ivs: 5
+evs: {hp: 84, atk: 168, def: 0, spA: 0, spD: 168, spe: 84}
+moves:
+    - [Surf]
+    - [Icicle Spear]
+    - [Spike Cannon]
+    - [Spikes]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gastly
+displayname: "Gastly-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Timid
+ivs: 25
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Sludge Bomb]
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Destiny Bond]
+gender: [m,f]
+rarity: 1.0
+---
+species: Haunter
+displayname: "Haunter-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Timid
+ivs: 16
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 24, spe: 84}
+moves:
+    - [Night Shade]
+    - [Dream Eater]
+    - [Curse]
+    - [Hypnosis]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gengar
+displayname: "Gengar-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Naughty
+ivs: {hp: 7, atk: 7, def: 7, spA: 2, spD: 7, spe: 7}
+evs: {hp: 84, atk: 160, def: 84, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Dark Pulse]
+    - [Night Shade]
+    - [Taunt]
+    - [Self-Destruct]
+gender: [m,f]
+rarity: 1.0
+---
+species: Onix
+displayname: "Onix-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Adamant
+ivs: 18
+evs: {hp: 44, atk: 252, def: 84, spA: 0, spD: 44, spe: 84}
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Screech]
+    - [Rock Polish]
+gender: [m,f]
+rarity: 1.0
+---
+species: Drowzee
+displayname: "Drowzee-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Insomnia]
+nature: Relaxed
+ivs: 23
+evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Shadow Ball]
+    - [Dream Eater]
+    - [Seismic Toss]
+    - [Hypnosis]
+gender: [m,f]
+rarity: 1.0
+---
+species: Hypno
+displayname: "Hypno-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Insomnia]
+nature: Naughty
+ivs: 31
+evs: {hp: 56, atk: 72, def: 48, spA: 0, spD: 0, spe: 60}
+moves:
+    - [Zen Headbutt]
+    - [Focus Punch]
+    - [Amnesia]
+    - [Substitute]
+gender: [m,f]
+rarity: 1.0
+---
+species: Krabby
+displayname: "Krabby-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shell Armor]
+nature: Careful
+ivs: 24
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 4}
+moves:
+    - [Crabhammer]
+    - [Guillotine]
+    - [Amnesia]
+    - [Iron Defense]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kingler
+displayname: "Kingler-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hyper Cutter]
+nature: Impish
+ivs: 9
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Crabhammer]
+    - [Brick Break]
+    - [Vice Grip]
+    - [Tickle]
+gender: [m,f]
+rarity: 1.0
+---
+species: Voltorb
+displayname: "Voltorb-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Aftermath]
+nature: Mild
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 136, def: 0, spA: 252, spD: 0, spe: 120}
+moves:
+    - [Thunder]
+    - [Hidden Power]
+    - [Rain Dance]
+    - [Explosion]
+rarity: 1.0
+---
+species: Electrode
+displayname: "Electrode-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Soundproof]
+nature: Timid
+ivs: {hp: 9, atk: 10, def: 9, spA: 9, spD: 9, spe: 9}
+evs: {hp: 84, atk: 252, def: 84, spA: 84, spD: 84, spe: 0}
+moves:
+    - [Thunderbolt]
+    - [Signal Beam]
+    - [Charge]
+    - [Self-Destruct]
+gender: [m,f]
+rarity: 1.0
+---
+species: Exeggcute
+displayname: "Exeggcute-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 0, def: 88, spA: 0, spD: 168, spe: 0}
+moves:
+    - [Giga Drain]
+    - [Dream Eater]
+    - [Leech Seed]
+    - [Sleep Powder]
+gender: [m,f]
+rarity: 1.0
+---
+species: Exeggutor
+displayname: "Exeggutor-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Careful
+ivs: 5
+evs: {hp: 84 atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Wood Hammer]
+    - [Psychic]
+    - [Egg Bomb]
+    - [Ingrain]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cubone
+displayname: "Cubone-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Battle Armor]
+nature: Careful
+ivs: 31
+evs: {hp: 84, atk: 168, def: 84, spA: 0, spD: 168, spe: 0}
+moves:
+    - [Bonemerang]
+    - [Perish Song]
+    - [Detect]
+    - [Seismic Toss]
+gender: [m,f]
+rarity: 1.0
+---
+species: Marowak
+displayname: "Marowak-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rock Head]
+nature: Careful
+ivs: 31
+evs: {hp: 112, atk: 224, def: 56, spA: 0, spD: 56, spe: 56}
+moves:
+    - [Bone Club]
+    - [Take Down]
+    - [Submission]
+    - [Growl]
+gender: [m,f]
+rarity: 1.0
+---
+species: Hitmonlee
+displayname: "Hitmonlee-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Limber]
+nature: Modest
+ivs: 11
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [High Jump Kick]
+    - [Vacuum Wave]
+    - [Blaze Kick]
+    - [Feint]
+gender: [m,f]
+rarity: 1.0
+---
+species: Hitmonchan
+displayname: "Hitmonchan-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Iron Fist]
+nature: Lax
+ivs: 11
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Mach Punch]
+    - [Ice Punch]
+    - [Comet Punch]
+    - [Counter]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lickitung
+displayname: "Lickitung-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cloud Nine]
+nature: Brave
+ivs: {hp: 18, atk: 31, def: 18, spA: 18, spD: 18, spe: 18}
+evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 220}
+moves:
+    - [Mega Kick]
+    - [Power Whip]
+    - [Hammer Arm]
+    - [Lick]
+gender: [m,f]
+rarity: 1.0
+---
+species: Koffing
+displayname: "Koffing-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Sassy
+ivs: 22
+evs: {hp: 168, atk: 0, def: 84, spA: 84, spD: 168, spe: 0}
+moves:
+    - [Sludge Bomb]
+    - [Fire Blast]
+    - [Pain Split]
+    - [Will-O-Wisp]
+gender: [m,f]
+rarity: 1.0
+---
+species: Weezing
+displayname: "Weezing-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Docile
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Sludge Bomb]
+    - [Thunder]
+    - [Dark Pulse]
+    - [Self-Destruct]
+gender: [m,f]
+rarity: 1.0
+---
+species: Rhyhorn
+displayname: "Rhyhorn-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Reckless]
+nature: Careful
+ivs: 31
+evs: {hp: 84, atk: 84, def: 84, spA: 0, spD: 252, spe: 0}
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Submission]
+    - [Roar]
+gender: [m,f]
+rarity: 1.0
+---
+species: Rhydon
+displayname: "Rhydon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Lightning Rod]
+nature: Modest
+ivs: 31
+evs: {hp: 84, atk: 0, def: 0, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Rock Blast]
+    - [Megahorn]
+    - [Fire Blast]
+    - [Surf]
+gender: [m,f]
+rarity: 1.0
+---
+species: Chansey
+displayname: "Chansey-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Serene Grace]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 21, spe: 31}
+evs: {hp: 44, atk: 44, def: 44, spA: 128, spD: 0, spe: 48}
+moves:
+    - [Ice Beam]
+    - [Mud Shot]
+    - [Charge Beam]
+    - [Substitute]
+gender: [f]
+rarity: 1.0
+---
+species: Tangela
+displayname: "Tangela-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Bold
+ivs: 13
+evs: {hp: 84, atk: 0, def: 84, spA: 84, spD: 168, spe: 84}
+moves:
+    - [Mega Drain]
+    - [Sleep Powder]
+    - [Growth]
+    - [Substitute]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kangaskhan
+displayname: "Kangaskhan-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Scrappy]
+nature: Quiet
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Fake Out]
+    - [Dizzy Punch]
+    - [Outrage]
+    - [Reversal]
+gender: [f]
+rarity: 1.0
+---
+species: Horsea
+displayname: "Horsea-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Modest
+ivs: 27
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Smokescreen]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Seadra
+displayname: "Seadra-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sniper]
+nature: Hasty
+ivs: 13
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Muddy Water]
+    - [Dragon Breath]
+    - [Toxic]
+    - [Smokescreen]
+gender: [m,f]
+rarity: 1.0
+---
+species: Goldeen
+displayname: "Goldeen-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Adamant
+ivs: 24
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Waterfall]
+    - [Megahorn]
+    - [Horn Drill]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Seaking
+displayname: "Seaking-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Lightning Rod]
+nature: Quiet
+ivs: 12
+evs: {hp: 84, atk: 84, def: 84, spA: 124, spD: 84, spe: 44}
+moves:
+    - [Hydro Pump]
+    - [Poison Jab]
+    - [Horn Drill]
+    - [Agility]
+gender: [m,f]
+rarity: 1.0
+---
+species: Staryu
+displayname: "Staryu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Illuminate]
+nature: Modest
+ivs: 31
+evs: {hp: 40, atk: 0, def: 40, spA: 84, spD: 40, spe: 84}
+moves:
+    - [Surf]
+    - [Thunderbolt]
+    - [Cosmic Power]
+    - [Recover]
+rarity: 1.0
+---
+species: Starmie
+displayname: "Starmie-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Natural Cure]
+nature: Impish
+ivs: 5
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Psychic]
+    - [Water Pulse]
+    - [Power Gem]
+    - [Camouflage]
+rarity: 1.0
+---
+species: Mr. Mime
+displayname: "Mr. Mime-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Filter]
+nature: Bold
+ivs: 11
+evs: {hp: 84, atk: 84 def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Psybeam]
+    - [Focus Blast]
+    - [Magical Leaf]
+    - [Reflect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Scyther
+displayname: "Scyther-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Technician]
+nature: Quirky
+ivs: 7
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [X-Scissor]
+    - [Wing Attack]
+    - [False Swipe]
+    - [Focus Energy]
+gender: [m,f]
+rarity: 1.0
+---
+species: Jynx
+displayname: "Jynx-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Dry Skin]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 29}
+evs: {hp: 76, atk: 220, def: 80, spA: 0, spD: 80, spe: 0}
+moves:
+    - [Zen Headbutt]
+    - [Ice Punch]
+    - [Brick Break]
+    - [Meditate]
+gender: [f]
+rarity: 1.0
+---
+species: Electabuzz
+displayname: "Electabuzz-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Naive
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Thunder Punch]
+    - [Dynamic Punch]
+    - [Ice Punch]
+    - [Thunder Wave]
+gender: [m,f]
+rarity: 1.0
+---
+species: Magmar
+displayname: "Magmar-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flame Body]
+nature: Timid
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Flamethrower]
+    - [Focus Blast]
+    - [Smokescreen]
+    - [Confuse Ray]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pinsir
+displayname: "Pinsir-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Mold Breaker]
+nature: Bold
+ivs: 7
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [X-Scissor]
+    - [Vital Throw]
+    - [Rock Throw]
+    - [Guillotine]
+gender: [m,f]
+rarity: 1.0
+---
+species: Tauros
+displayname: "Tauros-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Anger Point]
+nature: Adamant
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Horn Attack]
+    - [Zen Headbutt]
+    - [Rock Slide]
+    - [Endure]
+gender: [m]
+rarity: 1.0
+---
+species: Magikarp
+displayname: "Magikarp-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Rash
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Hydro Pump]
+    - [Bounce]
+    - [Dragon Rage]
+    - [Splash]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gyarados
+displayname: "Gyarados-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 48}
+moves:
+    - [Aqua Tail]
+    - [Hyper Beam]
+    - [Twister]
+    - [Taunt]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lapras
+displayname: "Lapras-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shell Armor]
+nature: Adamant
+ivs: 4
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Surf]
+    - [Avalanche]
+    - [Strength]
+    - [Captivate]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ditto
+displayname: "Ditto-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Quick Powder]
+ability: [Limber]
+nature: Timid
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Transform]
+rarity: 1.0
+---
+species: Eevee
+displayname: "Eevee-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Adaptability]
+nature: Jolly
+ivs: 31
+evs: {hp: 188, atk: 252, def: 68, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Take Down]
+    - [Iron Tail]
+    - [Quick Attack]
+    - [Curse]
+gender: [m,f]
+rarity: 1.0
+---
+species: Vaporeon
+displayname: "Vaporeon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Absorb]
+nature: Docile
+ivs: 12
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Muddy Water]
+    - [Shadow Ball]
+    - [Fake Tears]
+    - [Acid Armor]
+gender: [m,f]
+rarity: 1.0
+---
+species: Jolteon
+displayname: "Jolteon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Volt Absorb]
+nature: Hardy
+ivs: 5
+evs: {hp: 84 atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Discharge]
+    - [Last Resort]
+    - [Sand Attack]
+    - [Tickle]
+gender: [m,f]
+rarity: 1.0
+---
+species: Flareon
+displayname: "Flareon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flash Fire]
+nature: Impish
+ivs: 5
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Fire Fang]
+    - [Take Down]
+    - [Tail Whip]
+    - [Will-O-Wisp]
+gender: [m,f]
+rarity: 1.0
+---
+species: Porygon
+displayname: "Porygon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Download]
+nature: Relaxed
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+moves:
+    - [Tri Attack]
+    - [Iron Tail]
+    - [Conversion 2]
+    - [Pain Split]
+rarity: 1.0
+---
+species: Omanyte
+displayname: "Omanyte-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Quirky
+ivs: 31
+evs: {hp: 76, atk: 0, def: 36, spA: 76, spD: 144, spe: 156}
+moves:
+    - [Surf]
+    - [Ancient Power]
+    - [Ice Beam]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Omastar
+displayname: "Omastar-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shell Armor]
+nature: Quirky
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84 spe: 84}
+moves:
+    - [Muddy Water]
+    - [Ancient Power]
+    - [Mud Shot]
+    - [Captivate]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kabuto
+displayname: "Kabuto-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Battle Armor]
+nature: Careful
+ivs: 31
+evs: {hp: 168, atk: 168, def: 0, spA: 0, spD: 168, spe: 0}
+moves:
+    - [Waterfall]
+    - [Rock Slide]
+    - [Aqua Jet]
+    - [Confuse Ray]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kabutops
+displayname: "Kabutops-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Battle Armor]
+nature: Calm
+ivs: 29
+evs: {hp: 60, atk: 0, def: 0, spA: 64 spD: 76, spe: 0}
+moves:
+    - [Aqua Tail]
+    - [Ancient Power]
+    - [X-Scissor]
+    - [Aqua Jet]
+gender: [m,f]
+rarity: 1.0
+---
+species: Aerodactyl
+displayname: "Aerodactyl-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Docile
+ivs: 6
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Rock Slide]
+    - [Aerial Ace]
+    - [Supersonic]
+    - [Stealth Rock]
+gender: [m,f]
+rarity: 1.0
+---
+species: Snorlax
+displayname: "Snorlax-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Adamant
+ivs: {hp: 24 atk: 31, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 0 atk: 252, def: 0, spA: 28, spD: 0, spe: 32}
+moves:
+    - [Pay Day]
+    - [Rock Smash]
+    - [Lick]
+    - [Curse]
+gender: [m,f]
+rarity: 1.0
+---
+species: Articuno
+displayname: "Articuno -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Quirky
+ivs: 0
+evs: {hp: 84 atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Blizzard]
+    - [Pluck]
+    - [Ancient Power]
+    - [Mist]
+rarity: 1.0
+---
+species: Zapdos
+displayname: "Zapdos-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 132}
+moves:
+    - [Thunder]
+    - [Peck]
+    - [Rock Smash]
+    - [Detect]
+rarity: 1.0
+---
+species: Moltres
+displayname: "Moltres-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Adamant
+ivs: 0
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 92}
+moves:
+    - [Fire Blast]
+    - [Wing Attack]
+    - [Steel Wing]
+    - [Agility]
+rarity: 1.0
+---
+species: Dratini
+displayname: "Dratini-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Adamant
+ivs: 31
+evs: {hp: 168, atk: 84, def: 84 spA: 64, spD: 20, spe: 84}
+moves:
+    - [Outrage]
+    - [Extreme Speed]
+    - [Waterfall]
+    - [Dragon Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dragonair
+displayname: "Dragonair-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Bold
+ivs: 15
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Draco Meteor]
+    - [Fire Blast]
+    - [Extreme Speed]
+    - [Safeguard]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dragonite
+displayname: "Dragonite-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Inner Focus]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}moves:
+    - [Dragon Rush]
+    - [Zap Cannon]
+    - [Surf]
+    - [Defog]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mewtwo
+displayname: "Mewtwo-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Hardy
+ivs: 0
+evs: {hp: 48, atk: 48, def: 48, spA: 48, spD: 48, spe: 48}
+moves:
+    - [Psycho Cut]
+    - [Me First]
+    - [Disable]
+    - [Miracle Eye]
+rarity: 1.0
+---
+species: Mew
+displayname: "Mew-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Synchronize]
+nature: Quirky
+ivs: 0
+evs: {hp: 80, atk: 80, def: 80, spA: 80, spD: 80, spe: 80}
+moves:
+    - [Psychic]
+    - [Me First]
+    - [Transform]
+    - [Metronome]
+rarity: 1.0
+---
+species: Chikorita
+displayname: "Chikorita-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Leech Seed]
+    - [Counter]
+    - [Light Screen]
+gender: [m,f]
+rarity: 1.0
+---
+species: Bayleef
+displayname: "Bayleef-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Adamant
+ivs: 31
+evs: {hp: 156, atk: 88, def: 88, spA: 0, spD: 88, spe: 88}
+moves:
+    - [Seed Bomb]
+    - [Body Slam]
+    - [Nature Power]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Meganium
+displayname: "Meganium-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Brave
+ivs: 5
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Frenzy Plant]
+    - [Iron Tail]
+    - [Outrage]
+    - [Sweet Scent]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cyndaquil
+displayname: "Cyndaquil-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Blaze]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 40, atk: 112, def: 20, spA: 180, spD: 20, spe: 252}
+moves:
+    - [Eruption]
+    - [Blast Burn]
+    - [Hidden Power]
+    - [Will-O-Wisp]
+gender: [m,f]
+rarity: 1.0
+---
+species: Quilava
+displayname: "Quilava-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Blaze]
+nature: Impish
+ivs: 31
+evs: {hp: 100, atk: 100, def: 96, spA: 0, spD: 108, spe: 100}
+moves:
+    - [Flare Blitz]
+    - [Reversal]
+    - [Endure]
+    - [Howl]
+gender: [m,f]
+rarity: 1.0
+---
+species: Typhlosion
+displayname: "Typhlosion-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Blaze]
+nature: Careful
+ivs: 4
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Flame Wheel]
+    - [Crush Claw]
+    - [Thunder Punch]
+    - [Low Kick]
+gender: [m,f]
+rarity: 1.0
+---
+species: Totodile
+displayname: "Totodile-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Waterfall]
+    - [Ice Punch]
+    - [Swords Dance]
+    - [Dragon Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Croconaw
+displayname: "Croconaw-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Jolly
+ivs: 16
+evs: {hp: 64 atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Dive]
+    - [Slash]
+    - [Ice Fang]
+    - [Screech]
+gender: [m,f]
+rarity: 1.0
+---
+species: Feraligatr
+displayname: "Feraligatr-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Calm
+ivs: 4
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Aqua Tail]
+    - [Dynamic Punch]
+    - [Ice Beam]
+    - [Leer]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sentret
+displayname: "Sentret-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Keen Eye]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Double-Edge]
+    - [Aqua Tail]
+    - [Sucker Punch]
+    - [Reversal]
+gender: [m,f]
+rarity: 1.0
+---
+species: Furret
+displayname: "Furret-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Keen Eye]
+nature: Mild
+ivs: 15
+evs: {hp: 20, atk: 84, def: 96, spA: 188, spD: 20, spe: 100}
+moves:
+    - [Headbutt]
+    - [Ice Punch]
+    - [Thunder Punch]
+    - [Me First]
+gender: [m,f]
+rarity: 1.0
+---
+species: Hoothoot
+displayname: "Hoothoot-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tinted Lens]
+nature: Timid
+ivs: 31
+evs: {hp: 4 atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Air Slash]
+    - [Agility]
+    - [Hypnosis]
+    - [Whirlwind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Noctowl
+displayname: "Noctowl-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tinted Lens]
+nature: Timid
+ivs: 13
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Air Cutter]
+    - [Hyper Beam]
+    - [Dream Eater]
+    - [Hypnosis]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ledyba
+displayname: "Ledyba-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swarm]
+nature: Timid
+ivs: 29
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Bug Buzz]
+    - [Air Cutter]
+    - [Light Screen]
+    - [Reflect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ledian
+displayname: "Ledian-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Iron Fist]
+nature: Adamant
+ivs: 31
+evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Aerial Ace]
+    - [Drain Punch]
+    - [Ice Punch]
+    - [Thunder Punch]
+gender: [m,f]
+rarity: 1.0
+---
+species: Spinarak
+displayname: "Spinarak-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sniper]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 64, def: 96, spA: 0, spD: 96, spe: 0}
+moves:
+    - [Megahorn]
+    - [Night Slash]
+    - [Sucker Punch]
+    - [Night Shade]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ariados
+displayname: "Ariados-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swarm]
+nature: Lonely
+ivs: 18
+evs: {hp: 84, atk: 84, def: 128, spA: 0, spD: 128, spe: 84}
+moves:
+    - [Poison Jab]
+    - [Bug Bite]
+    - [Dig]
+    - [Agility]
+gender: [m,f]
+rarity: 1.0
+---
+species: Crobat
+displayname: "Crobat-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Inner Focus]
+nature: Serious
+ivs: 4
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Fly]
+    - [Poison Fang]
+    - [Steel Wing]
+    - [Supersonic]
+gender: [m,f]
+rarity: 1.0
+---
+species: Chinchou
+displayname: "Chinchou-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Volt Absorb]
+nature: Calm
+ivs: 31
+evs: {hp: 124, atk: 0, def: 152, spA: 20, spD: 84, spe: 128}
+moves:
+    - [Thunder]
+    - [Surf]
+    - [Icy Wind]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lanturn
+displayname: "Lanturn-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Absorb]
+nature: Naughty
+ivs: 31
+evs: {hp: 48, atk: 48, def: 48, spA: 48 spD: 48, spe: 48}
+moves:
+    - [Bubble Beam]
+    - [Spark]
+    - [Bounce]
+    - [Charge]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pichu
+displayname: "Pichu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+moves:
+    - [Volt Tackle]
+    - [Reversal]
+    - [Teeter Dance]
+    - [Substitute]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cleffa
+displayname: "Cleffa-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cute Charm]
+nature: Calm
+ivs: 31
+evs: {hp: 224, atk: 0, def: 244, spA: 0, spD: 24, spe: 16}
+moves:
+    - [Seismic Toss]
+    - [Shadow Ball]
+    - [Thunder Wave]
+    - [Swagger]
+gender: [m,f]
+rarity: 1.0
+---
+species: Igglybuff
+displayname: "Igglybuff-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cute Charm]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 4, spD: 252, spe: 0}
+moves:
+    - [Seismic Toss]
+    - [Shadow Ball]
+    - [Counter]
+    - [Sweet Kiss]
+gender: [m,f]
+rarity: 1.0
+---
+species: Togepi
+displayname: "Togepi-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Super Luck]
+nature: Calm
+ivs: 31
+evs: {hp: 252, atk: 0, def: 164, spA: 0, spD: 92, spe: 0}
+moves:
+    - [Seismic Toss]
+    - [Yawn]
+    - [Foresight]
+    - [Soft-Boiled]
+gender: [m,f]
+rarity: 1.0
+---
+species: Togetic
+displayname: "Togetic-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Serene Grace]
+nature: Quirky
+ivs: 16
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Tri Attack]
+    - [Air Cutter]
+    - [Ancient Power]
+    - [Metronome]
+gender: [m,f]
+rarity: 1.0
+---
+species: Natu
+displayname: "Natu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Synchronize]
+nature: Timid
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 88, spD: 0, spe: 168}
+moves:
+    - [Psychic]
+    - [Night Shade]
+    - [Confuse Ray]
+    - [Wish]
+gender: [m,f]
+rarity: 1.0
+---
+species: Xatu
+displayname: "Xatu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Early Bird]
+nature: Impish
+ivs: 10
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84 spe: 84}
+moves:
+    - [Drill Peck]
+    - [Psychic]
+    - [Giga Drain]
+    - [Psycho Shift]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mareep
+displayname: "Mareep-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Modest
+ivs: 28
+evs: {hp: 116, atk: 0, def: 68, spA: 0252, spD: 72, spe: 0}
+moves:
+    - [Thunderbolt]
+    - [Signal Beam]
+    - [Thunder Wave]
+    - [Reflect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Flaaffy
+displayname: "Flaaffy-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Thunder Punch]
+    - [Focus Punch]
+    - [Fire Punch ]
+    - [Flatter]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ampharos
+displayname: "Ampharos-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Careful
+ivs: 28
+evs: {hp: 48, atk: 48, def: 48, spA: 48, spD: 48, spe: 48}
+moves:
+    - [Zap Cannon]
+    - [Dynamic Punch]
+    - [Swift]
+    - [Odor Sleuth]
+gender: [m,f]
+rarity: 1.0
+---
+species: Bellossom
+displayname: "Bellossom-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Quiet
+ivs: 9
+evs: {hp: 84 atk: 84, def: 128, spA: 84 spD: 128, spe: 0}
+moves:
+    - [Petal Dance]
+    - [Secret Power]
+    - [Drain Punch]
+    - [Teeter Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Marill
+displayname: "Marill-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Huge Power]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 84 spA: 0, spD: 84, spe: 0}
+moves:
+    - [Waterfall]
+    - [Body Slam]
+    - [Rollout]
+    - [Defense Curl]
+gender: [m,f]
+rarity: 1.0
+---
+species: Azumarill
+displayname: "Azumarill-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Huge Power]
+nature: Timid
+ivs: 8
+evs: {hp: 4, atk: 84, def: 40, spA: 252, spD: 40, spe: 84}
+moves:
+    - [Aqua Tail]
+    - [Superpower]
+    - [Rollout]
+    - [Grass Knot]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sudowoodo
+displayname: "Sudowoodo-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rock Head]
+nature: Hardy
+ivs: 16
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Stone Edge]
+    - [Wood Hammer]
+    - [Hammer Arm]
+    - [Copycat]
+gender: [m,f]
+rarity: 1.0
+---
+species: Politoed
+displayname: "Politoed-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Drizzle]
+nature: Bold
+ivs: 7
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Water Pulse]
+    - [Hyper Voice]
+    - [Mud Shot]
+    - [Perish Song]
+gender: [m,f]
+rarity: 1.0
+---
+species: Hoppip
+displayname: "Hoppip-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Calm
+ivs: 31
+evs: {hp: 252, atk: 0, def: 124, spA: 0, spD: 76, spe: 56}
+moves:
+    - [Solar Beam]
+    - [Toxic]
+    - [Sunny Day]
+    - [Synthesis]
+gender: [m,f]
+rarity: 1.0
+---
+species: Skiploom
+displayname: "Skiploom-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Adamant
+ivs: 22
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Seed Bomb]
+    - [Bounce]
+    - [Sleep Powder]
+    - [Memento]
+gender: [m,f]
+rarity: 1.0
+---
+species: Jumpluff
+displayname: "Jumpluff-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Leaf Guard]
+nature: Serious
+ivs: 31
+evs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
+moves:
+    - [Bounce]
+    - [Giga Drain]
+    - [Leech Seed]
+    - [Poison Powder]
+gender: [m,f]
+rarity: 1.0
+---
+species: Aipom
+displayname: "Aipom-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Skill Link]
+nature: Serious
+ivs: 31
+evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Double Slap]
+    - [Brick Break]
+    - [Shadow Claw]
+    - [Tickle]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sunkern
+displayname: "Sunkern-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Early Bird]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 0, def: 128, spA: 0, spD: 128, spe: 252}
+moves:
+    - [Seed Bomb]
+    - [Leech Seed]
+    - [Substitute]
+    - [Spore]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sunflora
+displayname: "Sunflora-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Early Bird]
+nature: Calm
+ivs: 31
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Giga Drain]
+    - [Earth Power]
+    - [Giga Impact]
+    - [Bide]
+gender: [m,f]
+rarity: 1.0
+---
+species: Yanma
+displayname: "Yanma-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Speed Boost]
+nature: Impish
+ivs: 18
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Hypnosis]
+    - [Detect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Wooper
+displayname: "Wooper-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Unaware]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 44, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Earthquake]
+    - [Aqua Tail]
+    - [Yawn]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Quagsire
+displayname: "Quagsire-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Damp]
+nature: Quirky
+ivs: 14
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Muddy Water]
+    - [Dig]
+    - [Ice Beam]
+    - [Amnesia]
+gender: [m,f]
+rarity: 1.0
+---
+species: Espeon
+displayname: "Espeon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Synchronize]
+nature: Impish
+ivs: 5
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Psybeam]
+    - [Swift]
+    - [Attract]
+    - [Sand Attack]
+gender: [m,f]
+rarity: 1.0
+---
+species: Umbreon
+displayname: "Umbreon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Synchronize]
+nature: Quiet
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 0, atk: 148, def: 0, spA: 148, spD: 0, spe: 0}
+moves:
+    - [Assurance]
+    - [Psychic]
+    - [Confuse Ray]
+    - [Snatch]
+gender: [m,f]
+rarity: 1.0
+---
+species: Murkrow
+displayname: "Murkrow-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Insomnia]
+nature: Hasty
+ivs: 16
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Fly]
+    - [Sucker Punch]
+    - [Heat Wave]
+    - [Feather Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Slowking
+displayname: "Slowking-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Oblivious]
+nature: Lonely
+ivs: 8
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Surf]
+    - [Confusion]
+    - [Power Gem]
+    - [Thunder Wave]
+gender: [m,f]
+rarity: 1.0
+---
+species: Misdreavus
+displayname: "Misdreavus-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Docile
+ivs: 13
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Pain Split]
+    - [Perish Song]
+gender: [m,f]
+rarity: 1.0
+---
+species: Unown
+displayname: "Unown-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Choice Specs]
+ability: [Levitate]
+nature: Modest
+ivs: {hp: 31, atk: 2, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 28, atk: 84, def: 32, spA: 220, spD: 32, spe: 32}
+moves:
+    - [Hidden Power]
+rarity: 1.0
+---
+species: Wobbuffet
+displayname: "Wobbuffet-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shadow Tag]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}
+moves:
+    - [Counter]
+    - [Mirror Coat]
+    - [Safeguard]
+    - [Mimic]
+gender: [m,f]
+rarity: 1.0
+---
+species: Girafarig
+displayname: "Girafarig-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Early Bird]
+nature: Bashful
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Psybeam]
+    - [Double Hit]
+    - [Double Kick]
+    - [Growl]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pineco
+displayname: "Pineco-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 76, atk: 252, def: 0, spA: 0, spD: 180, spe: 0}
+moves:
+    - [Gyro Ball]
+    - [Earthquake]
+    - [Curse]
+    - [Explosion]
+gender: [m,f]
+rarity: 1.0
+---
+species: Forretress
+displayname: "Forretress-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Sassy
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 36, atk: 148, def: 36, spA: 88, spD: 68, spe: 0}
+moves:
+    - [Bug Bite]
+    - [Hidden Power]
+    - [Spike Cannon]
+    - [Stealth Rock]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dunsparce
+displayname: "Dunsparce-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Serene Grace]
+nature: Quirky
+ivs: 15
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Strength]
+    - [Dig]
+    - [Rock Slide]
+    - [Glare]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gligar
+displayname: "Gligar-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hyper Cutter]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 100, spe: 156}
+moves:
+    - [Dig]
+    - [Toxic]
+    - [Swagger]
+    - [Torment]
+gender: [m,f]
+rarity: 1.0
+---
+species: Steelix
+displayname: "Steelix-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Modest
+ivs: 6
+evs: {hp: 84, atk: 84, def: 0, spA: 128, spD: 84, spe: 84}
+moves:
+    - [Iron Tail]
+    - [Dig]
+    - [Aqua Tail]
+    - [Sharpen]
+gender: [m,f]
+rarity: 1.0
+---
+species: Snubbull
+displayname: "Snubbull-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Careful
+ivs: 31
+evs: {hp: 144, atk: 0, def: 80, spA: 0, spD: 200, spe: 84}
+moves:
+    - [Smelling Salts]
+    - [Bite]
+    - [Attract]
+    - [Thunder Wave]
+gender: [m,f]
+rarity: 1.0
+---
+species: Granbull
+displayname: "Granbull-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Quick Feet]
+nature: Naive
+ivs: 12
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Facade]
+    - [Superpower]
+    - [Payback]
+    - [Sleep Talk]
+gender: [m,f]
+rarity: 1.0
+---
+species: Qwilfish
+displayname: "Qwilfish-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Poison Point]
+nature: Bold
+ivs: 14
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Waterfall]
+    - [Poison Jab]
+    - [Shock Wave]
+    - [Minimize]
+gender: [m,f]
+rarity: 1.0
+---
+species: Scizor
+displayname: "Scizor-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Technician]
+nature: Timid
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [X-Scissor]
+    - [Metal Claw]
+    - [Superpower]
+    - [Agility]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shuckle
+displayname: "Shuckle -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Stone Edge]
+    - [Gyro Ball]
+    - [Bide]
+    - [Power Trick]
+gender: [m,f]
+rarity: 1.0
+---
+species: Heracross
+displayname: "Heracross-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swarm]
+nature: Modest
+ivs: 0
+evs: {hp: 88, atk: 0, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Megahorn]
+    - [Arm Thrust]
+    - [Leer]
+    - [Harden]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sneasel
+displayname: "Sneasel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Keen Eye]
+nature: Brave
+ivs: 14
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Ice Punch]
+    - [Bite]
+    - [X-Scissor]
+    - [Attract]
+gender: [m,f]
+rarity: 1.0
+---
+species: Teddiursa
+displayname: "Teddiursa-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Quick Feet]
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+moves:
+    - [Flail]
+    - [Thunder Punch]
+    - [Yawn]
+    - [Endure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ursaring
+displayname: "Ursaring-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Guts]
+nature: Hasty
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 108}
+moves:
+    - [Scratch]
+    - [Lick]
+    - [Bulk Up]
+    - [Roar]
+gender: [m,f]
+rarity: 1.0
+---
+species: Slugma
+displayname: "Slugma-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Magma Armor]
+nature: Modest
+ivs: 31
+evs: {hp: 68, atk: 0, def: 184, spA: 68, spD: 184, spe: 0}
+moves:
+    - [Flamethrower]
+    - [Earth Power]
+    - [Yawn]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Magcargo
+displayname: "Magcargo-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flame Body]
+nature: Timid
+ivs: 31
+evs: {hp: 96, atk: 0, def: 16, spA: 144, spD: 0, spe: 252}
+moves:
+    - [Lava Plume]
+    - [Ancient Power]
+    - [Pain Split]
+    - [Sandstorm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Swinub
+displayname: "Swinub-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Adamant
+ivs: 31
+evs: {hp: 164, atk: 88, def: 128, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Earthquake]
+    - [Avalanche]
+    - [Ice Shard]
+    - [Endeavor]
+gender: [m,f]
+rarity: 1.0
+---
+species: Piloswine
+displayname: "Piloswine-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Oblivious]
+nature: Quiet
+ivs: 31
+evs: {hp: 240, atk: 0, def: 80, spA: 108, spD: 80, spe: 0}
+moves:
+    - [Icy Wind]
+    - [Mud Shot]
+    - [Bite]
+    - [Rock Tomb]
+gender: [m,f]
+rarity: 1.0
+---
+species: Corsola
+displayname: "Corsola-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hustle]
+nature: Quiet
+ivs: 19
+evs: {hp: 84, atk: 164, def: 84, spA: 84, spD: 84, spe: 4}
+moves:
+    - [Stone Edge]
+    - [Surf]
+    - [Mirror Coat]
+    - [Attract]
+gender: [m,f]
+rarity: 1.0
+---
+species: Remoraid
+displayname: "Remoraid-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sniper]
+nature: Timid
+ivs: 26
+evs: {hp: 40, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Water Spout]
+    - [Brine]
+    - [Hyper Beam]
+    - [Flamethrower]
+gender: [m,f]
+rarity: 1.0
+---
+species: Octillery
+displayname: "Octillery-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Suction Cups]
+nature: Sassy
+ivs: 31
+evs: {hp: 92, atk: 116, def: 92, spA: 116, spD: 92, spe: 0}
+moves:
+    - [Octazooka]
+    - [Rock Blast]
+    - [Wring Out]
+    - [Thunder Wave]
+gender: [m,f]
+rarity: 1.0
+---
+species: Delibird
+displayname: "Delibird-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hustle]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 0, spe: 168}
+moves:
+    - [Ice Punch]
+    - [Aerial Ace]
+    - [Brick Break]
+    - [Ice Shard]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mantine
+displayname: "Mantine-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Veil]
+nature: Brave
+ivs: {hp: 10, atk: 10, def: 10, spA: 10, spD: 10, spe: 31}
+evs: {hp: 84, atk: 168, def: 84, spA: 84, spD: 84, spe: 176}
+moves:
+    - [Bubble Beam]
+    - [Bounce]
+    - [Psybeam]
+    - [Haze]
+gender: [m,f]
+rarity: 1.0
+---
+species: Skarmory
+displayname: "Skarmory-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Keen Eye]
+nature: Gentle
+ivs: 10
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Steel Wing]
+    - [Toxic]
+    - [Whirlwind]
+    - [Spikes]
+gender: [m,f]
+rarity: 1.0
+---
+species: Houndour
+displayname: "Houndour-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flash Fire]
+nature: Timid
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 168, spD: 80, spe: 168}
+moves:
+    - [Overheat]
+    - [Dark Pulse]
+    - [Solar Beam]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Houndoom
+displayname: "Houndoom-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Early Bird]
+nature: Impish
+ivs: 7
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Heat Wave]
+    - [Bite]
+    - [Thunder Fang]
+    - [Roar]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kingdra
+displayname: "Kingdra-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Scope Lens]
+ability: [Sniper]
+nature: Bashful
+ivs: 31
+evs: {hp: 136, atk: 0, def: 80, spA: 128, spD: 80, spe: 84}
+moves:
+    - [Water Gun]
+    - [Razor Wind]
+    - [Focus Energy]
+    - [Substitute]
+gender: [m,f]
+rarity: 1.0
+---
+species: Phanpy
+displayname: "Phanpy-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Veil]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 136, def: 124, spA: 0, spD: 128, spe: 120}
+moves:
+    - [Earthquake]
+    - [Body Slam]
+    - [Double Team]
+    - [Sandstorm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Donphan
+displayname: "Donphan-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Careful
+ivs: 7
+evs: 84
+moves:
+    - [Magnitude]
+    - [Ice Shard]
+    - [Rapid Spin]
+    - [Stealth Rock]
+gender: [m,f]
+rarity: 1.0
+---
+species: Porygon2
+displayname: "Porygon2-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Trace]
+nature: Docile
+ivs: 6
+evs: 84
+moves:
+    - [Tri Attack]
+    - [Discharge]
+    - [Toxic]
+    - [Magic Coat]
+rarity: 1.0
+---
+species: Stantler
+displayname: "Stantler-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Quirky
+ivs: 10
+evs: 84
+moves:
+    - [Stomp]
+    - [Shadow Ball]
+    - [Zen Headbutt]
+    - [Hypnosis]
+gender: [m,f]
+rarity: 1.0
+---
+species: Smeargle
+displayname: "Smeargle -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Own Tempo]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Judgement]
+    - [Seed Flare]
+    - [Spacial Rend]
+    - [Spore]
+gender: [m,f]
+rarity: 1.0
+---
+species: Tyrogue
+displayname: "Tyrogue-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Guts]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [High Jump Kick]
+    - [Earthquake]
+    - [Rock Slide]
+    - [Swagger]
+gender: [m]
+rarity: 1.0
+---
+species: Hitmontop
+displayname: "Hitmontop-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Technician]
+nature: Hardy
+ivs: 29
+evs: 0
+moves:
+    - [Triple Kick]
+    - [Aerial Ace]
+    - [Bullet Punch]
+    - [Pursuit]
+gender: [m]
+rarity: 1.0
+---
+species: Smoochum
+displayname: "Smoochum-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Oblivious]
+nature: Timid
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 88, spD: 36, spe: 128}
+moves:
+    - [Ice Beam]
+    - [Psychic]
+    - [Calm Mind]
+    - [Nasty Plot]
+gender: [f]
+rarity: 1.0
+---
+species: Elekid
+displayname: "Elekid-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Lonely
+ivs: 20
+evs: {hp: 4, atk: 84, def: 88, spA: 164, spD: 84, spe: 84}
+moves:
+    - [Thunderbolt]
+    - [Ice Punch]
+    - [Flash]
+    - [Light Screen]
+gender: [m,f]
+rarity: 1.0
+---
+species: Magby
+displayname: "Magby-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flame Body]
+nature: Naive
+ivs: 20
+evs: {hp: 44, atk: 84, def: 84, spA: 124, spD: 84, spe: 84}
+moves:
+    - [Flamethrower]
+    - [Cross Chop]
+    - [Confuse Ray]
+    - [Smokescreen]
+gender: [m,f]
+rarity: 1.0
+---
+species: Miltank
+displayname: "Miltank-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Scrappy]
+nature: Adamant
+ivs: 8
+evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Present]
+    - [Rollout]
+    - [Milk Drink]
+    - [Bide]
+gender: [f]
+rarity: 1.0
+---
+species: Blissey
+displayname: "Blissey-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Serene Grace]
+nature: Bold
+ivs: 31
+evs: {hp: 40, atk: 252, def: 40, spA: 40, spD: 0, spe: 136}
+moves:
+    - [Secret Power]
+    - [Blizzard]
+    - [Gravity]
+    - [Metronome]
+gender: [f]
+rarity: 1.0
+---
+species: Raikou
+displayname: "Raikou-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Rash
+ivs: 31
+evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Thunder Shock]
+    - [Extreme Speed]
+    - [Bite]
+    - [Roar]
+rarity: 1.0
+---
+species: Entei
+displayname: "Entei-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Bashful
+ivs: 0
+evs: 84
+moves:
+    - [Fire Fang]
+    - [Stomp]
+    - [Rock Smash]
+    - [Roar]
+rarity: 1.0
+---
+species: Suicune
+displayname: "Suicune-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Timid
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 124}
+moves:
+    - [Brine]
+    - [Air Slash]
+    - [Mist]
+    - [Roar]
+rarity: 1.0
+---
+species: Larvitar
+displayname: "Larvitar-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Guts]
+nature: Jolly
+ivs: 31
+evs: {hp: 236, atk: 172, def: 0, spA: 0, spD: 0, spe: 96}
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Bite]
+    - [Dragon Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pupitar
+displayname: "Pupitar-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 88, spA: 0, spD: 164, spe: 0}
+moves:
+    - [Dig]
+    - [Rock Slide]
+    - [Rest]
+    - [Rock Polish]
+gender: [m,f]
+rarity: 1.0
+---
+species: Tyranitar
+displayname: "Tyranitar -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Stream]
+nature: Naive
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 52}
+moves:
+    - [Bite]
+    - [Rock Tomb]
+    - [Fire Fang]
+    - [Leer]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lugia
+displayname: "Lugia-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Naughty
+ivs: 0
+evs: 0
+moves:
+    - [Aeroblast]
+    - [Future Sight]
+    - [Defog]
+    - [Mimic]
+rarity: 1.0
+---
+species: Ho-Oh
+displayname: "Ho-Oh -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Impish
+ivs: 0
+evs: 0
+moves:
+    - [Heat Wave]
+    - [Weather Ball]
+    - [Sandstorm]
+    - [Tailwind]
+rarity: 1.0
+---
+species: Celebi
+displayname: "Celebi-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Natural Cure]
+nature: Bashful
+ivs: 0
+evs: 80
+moves:
+    - [Magical Leaf]
+    - [Confusion]
+    - [Water Pulse]
+    - [Metronome]
+rarity: 1.0
+---
+species: Treecko
+displayname: "Treecko-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Leaf Storm]
+    - [Energy Ball]
+    - [Dragon Breath]
+    - [Endure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Grovyle
+displayname: "Grovyle-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 168, def: 84, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Seed Bomb]
+    - [X-Scissor]
+    - [Thunder Punch]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sceptile
+displayname: "Sceptile-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Hardy
+ivs: 4
+evs: {hp: 84, atk: 124, def: 84, spA: 44, spD: 84, spe: 84}
+moves:
+    - [Leaf Blade]
+    - [Dragon Claw]
+    - [Aerial Ace]
+    - [Safeguard]
+gender: [m,f]
+rarity: 1.0
+---
+species: Torchic
+displayname: "Torchic-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Speed Boost]
+nature: Rash
+ivs: 31
+evs: {hp: 28, atk: 140, def: 0, spA: 172, spD: 0, spe: 168}
+moves:
+    - [Overheat]
+    - [Dig]
+    - [Low Kick]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Combusken
+displayname: "Combusken-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Speed Boost]
+nature: Hardy
+ivs: 31
+evs: 84
+moves:
+    - [Flamethrower]
+    - [Sky Uppercut]
+    - [Night Slash]
+    - [Rock Slide]
+gender: [m,f]
+rarity: 1.0
+---
+species: Blaziken
+displayname: "Blaziken-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Blaze]
+nature: Timid
+ivs: 0
+evs: 100
+moves:
+    - [Blaze Kick]
+    - [Double Kick]
+    - [Mirror Move]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mudkip
+displayname: "Mudkip-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Waterfall]
+    - [Superpower]
+    - [Avalanche]
+    - [Attract]
+gender: [m,f]
+rarity: 1.0
+---
+species: Marshtomp
+displayname: "Marshtomp-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 16
+evs: {hp: 84, atk: 0, def: 84, spA: 168, spD: 84, spe: 84}
+moves:
+    - [Muddy Water]
+    - [Earthquake]
+    - [Sludge]
+    - [Barrier]
+gender: [m,f]
+rarity: 1.0
+---
+species: Swampert
+displayname: "Swampert-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 4
+evs: 84
+moves:
+    - [Dive]
+    - [Mud Bomb]
+    - [Ice Ball]
+    - [Mirror Coat]
+gender: [m,f]
+rarity: 1.0
+---
+species: Poochyena
+displayname: "Poochyena-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Quick Feet]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Super Fang]
+    - [Sucker Punch]
+    - [Snatch]
+    - [Swagger]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mightyena
+displayname: "Mightyena-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Jolly
+ivs: 15
+evs: 84
+moves:
+    - [Crunch]
+    - [Fire Fang]
+    - [Roar]
+    - [Howl]
+gender: [m,f]
+rarity: 1.0
+---
+species: Zigzagoon
+displayname: "Zigzagoon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Gluttony]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Super Fang]
+    - [Extreme Speed]
+    - [Odor Sleuth]
+    - [Belly Drum]
+gender: [m,f]
+rarity: 1.0
+---
+species: Linoone
+displayname: "Linoone-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pickup]
+nature: Jolly
+ivs: 15
+evs: 84
+moves:
+    - [Headbutt]
+    - [Pursuit]
+    - [Flail]
+    - [Belly Drum]
+gender: [m,f]
+rarity: 1.0
+---
+species: Wurmple
+displayname: "Wurmple-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Serene Grace]
+nature: Impish
+ivs: 31
+evs: {hp: 252, atk: 24, def: 52, spA: 0, spD: 64 spe: 116}
+moves:
+    - [Twinneedle]
+    - [Dig]
+    - [Cotton Spore]
+    - [Endure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Silcoon
+displayname: "Silcoon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Jolly
+ivs: 31
+evs: {hp: 128, atk: 128, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Attack Order]
+    - [Headbutt]
+    - [Teeter Dance]
+    - [Thunder Wave]
+gender: [m,f]
+rarity: 1.0
+---
+species: Beautifly
+displayname: "Beautifly-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rivalry]
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 84, spA: 84, spD: 0, spe: 84}
+moves:
+    - [Bug Buzz]
+    - [Psychic ]
+    - [Whirlwind]
+    - [Morning Sun]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cascoon
+displayname: "Cascoon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Careful
+ivs: 31
+evs: {hp: 128, atk: 124, def: 128, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Attack Order]
+    - [Iron Head]
+    - [Swagger]
+    - [Scary Face]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dustox
+displayname: "Dustox-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Compound Eyes]
+nature: Calm
+ivs: 31
+evs: {hp: 144, atk: 0, def: 88, spA: 188, spD: 0, spe: 88}
+moves:
+    - [Bug Buzz]
+    - [Psychic]
+    - [Poison Powder]
+    - [Moonlight]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lotad
+displayname: "Lotad-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Modest
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 168, spD: 52, spe: 112}
+moves:
+    - [Surf]
+    - [Energy Ball]
+    - [Blizzard]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lombre
+displayname: "Lombre-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Own Tempo]
+nature: Modest
+ivs: 31
+evs: {hp: 96, atk: 28, def: 96, spA: 96, spD: 96, spe: 96}
+moves:
+    - [Hydro Pump]
+    - [Energy Ball]
+    - [Ice Beam]
+    - [Teeter Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ludicolo
+displayname: "Ludicolo-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rain Dish]
+nature: Naughty
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 30, spe: 31}
+evs: {hp: 12, atk: 112, def: 16, spA: 12, spD: 16, spe: 12}
+moves:
+    - [Dive]
+    - [Hidden Power]
+    - [Rain Dance]
+    - [Leech Seed]
+gender: [m,f]
+rarity: 1.0
+---
+species: Seedot
+displayname: "Seedot-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Seed Bomb]
+    - [Sunny Day]
+    - [Swords Dance]
+    - [Explosion]
+gender: [m,f]
+rarity: 1.0
+---
+species: Nuzleaf
+displayname: "Nuzleaf-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Timid
+ivs: 22
+evs: {hp: 84, atk: 4, def: 84, spA: 164, spD: 84, spe: 84}
+moves:
+    - [Energy Ball]
+    - [Dark Pulse]
+    - [Nasty Plot]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shiftry
+displayname: "Shiftry-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Early Bird]
+nature: Adamant
+ivs: 9
+evs: 84
+moves:
+    - [Leaf Storm]
+    - [Feint Attack]
+    - [Nature Power]
+    - [Tailwind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Taillow
+displayname: "Taillow-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Guts]
+nature: Adamant
+ivs: 31
+happiness: 255
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Brave Bird]
+    - [Return]
+    - [Endure]
+    - [Endeavor]
+gender: [m,f]
+rarity: 1.0
+---
+species: Swellow
+displayname: "Swellow-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Scrappy]
+nature: Modest
+ivs: 31
+evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Air Slash]
+    - [Hyper Beam]
+    - [Heat Wave]
+    - [Ominous Wind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Wingull
+displayname: "Wingull-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rain Dish]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Air Slash]
+    - [Water Pulse]
+    - [Blizzard]
+    - [Tailwind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Pelipper
+displayname: "Pelipper-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Keen Eye]
+nature: Calm
+ivs: 14
+evs: {hp: 84, atk: 0, def: 84, spA: 84, spD: 92, spe: 164}
+moves:
+    - [Brine]
+    - [Air Cutter]
+    - [Spit Up]
+    - [Stockpile]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ralts
+displayname: "Ralts-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Synchronize]
+nature: Timid
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Psychic]
+    - [Signal Beam]
+    - [Taunt]
+    - [Destiny Bond]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kirlia
+displayname: "Kirlia-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Trace]
+nature: Modest
+ivs: 28
+evs: 84
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Will-O-Wisp]
+    - [Calm Mind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gardevoir
+displayname: "Gardevoir-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Trace]
+nature: Adamant
+ivs: 5
+evs: 84
+moves:
+    - [Psychic]
+    - [Magical Leaf]
+    - [Shadow Sneak]
+    - [Magic Coat]
+gender: [m,f]
+rarity: 1.0
+---
+species: Surskit
+displayname: "Surskit-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Modest
+ivs: 31
+evs: {hp: 168, atk: 0, def: 88, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Hydro Pump]
+    - [Signal Beam]
+    - [Ice Beam]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Masquerain
+displayname: "Masquerain-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Calm
+ivs: 15
+evs: 84
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Hydro Pump]
+    - [Roost]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shroomish
+displayname: "Shroomish-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Poison Heal]
+nature: Adamant
+ivs: 31
+evs: {hp: 240, atk: 252, def: 8, spA: 0, spD: 8, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Focus Punch]
+    - [Spore]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Breloom
+displayname: "Breloom-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Technician]
+nature: Mild
+ivs: 11
+evs: {hp: 84, atk: 0, def: 84, spA: 168, spD: 84, spe: 84}
+moves:
+    - [Superpower]
+    - [Giga Drain]
+    - [Mach Punch]
+    - [Stun Spore]
+gender: [m,f]
+rarity: 1.0
+---
+species: Slakoth
+displayname: "Slakoth-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Truant]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Double-Edge]
+    - [Hammer Arm]
+    - [Night Slash]
+    - [Yawn]
+gender: [m,f]
+rarity: 1.0
+---
+species: Vigoroth
+displayname: "Vigoroth-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Vital Spirit]
+nature: Adamant
+ivs: 13
+evs: 84
+moves:
+    - [Slash]
+    - [Shadow Claw]
+    - [Low Kick]
+    - [Taunt]
+gender: [m,f]
+rarity: 1.0
+---
+species: Slaking
+displayname: "Slaking-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Truant]
+nature: Hasty
+ivs: 0
+evs: 84
+moves:
+    - [Strength]
+    - [Punishment]
+    - [Yawn]
+    - [Slack Off]
+gender: [m,f]
+rarity: 1.0
+---
+species: Nincada
+displayname: "Nincada-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Compound Eyes]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+moves:
+    - [X-Scissor]
+    - [Dig]
+    - [Night Slash]
+    - [Swagger]
+gender: [m,f]
+rarity: 1.0
+---
+species: Ninjask
+displayname: "Ninjask-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Speed Boost]
+nature: Quiet
+ivs: 31
+evs: {hp: 168, atk: 0, def: 168, spA: 0, spD: 168, spe: 0}
+moves:
+    - [Bug Bite]
+    - [Aerial Ace]
+    - [Dig]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shedinja
+displayname: "Shedinja-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Wonder Guard]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 18, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 44, spD: 0, spe: 252}
+moves:
+	- [X-Scissor]
+	- [Shadow Sneak]
+	- [Will-O-Wisp]
+	- [Curse]
+rarity: 1.0
+---
+species: Whismur
+displayname: "Whismur-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Soundproof]
+nature: Modest
+ivs: 31
+evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
+moves:
+    - [Hyper Voice]
+    - [Fire Blast]
+    - [Blizzard]
+    - [Shadow Ball]
+gender: [m,f]
+rarity: 1.0
+---
+species: Loudred
+displayname: "Loudred-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Soundproof]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+moves:
+    - [Hyper Voice]
+    - [Overheat]
+    - [Extrasensory]
+    - [Fake Tears]
+gender: [m,f]
+rarity: 1.0
+---
+species: Exploud
+displayname: "Exploud-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Scrappy]
+nature: Modest
+ivs: 31
+evs: {hp: 84, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Submission]
+    - [Snore]
+    - [Fake Tears]
+    - [Rest]
+gender: [m,f]
+rarity: 1.0
+---
+species: Makuhita
+displayname: "Makuhita-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Revenge]
+    - [Focus Punch]
+    - [Payback]
+    - [Bullet Punch]
+gender: [m,f]
+rarity: 1.0
+---
+species: Hariyama
+displayname: "Hariyama-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Guts]
+nature: Serious
+ivs: 15
+evs: 0
+moves:
+    - [Brick Break]
+    - [Payback]
+    - [Rest]
+    - [Sleep Talk]
+gender: [m,f]
+rarity: 1.0
+---
+species: Azurill
+displayname: "Azurill-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Huge Power]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Body Slam]
+    - [Waterfall]
+    - [Attract]
+    - [Charm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Nosepass
+displayname: "Nosepass-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Sassy
+ivs: 31
+evs: {hp: 252, atk: 84, def: 0, spA: 84, spD: 88, spe: 0}
+moves:
+    - [Stone Edge]
+    - [Zap Cannon]
+    - [DynamicPunch]
+    - [Gravity]
+gender: [m,f]
+rarity: 1.0
+---
+species: Skitty
+displayname: "Skitty-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Normalize]
+nature: Careful
+ivs: 31
+evs: {hp: 168, atk: 120, def: 96, spA: 0, spD: 124, spe: 0}
+moves:
+    - [Zen Headbutt]
+    - [Attract]
+    - [Swagger]
+    - [Thunder Wave]
+gender: [m,f]
+rarity: 1.0
+---
+species: Delcatty
+displayname: "Delcatty-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Normalize]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 36, def: 0, spA: 0, spD: 36, spe: 184}
+moves:
+    - [Rollout]
+    - [Defense Curl]
+    - [Sing]
+    - [Foresight]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sableye
+displayname: "Sableye-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Stall]
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: 0, def: 44, spA: 168, spD: 44, spe: 0}
+moves:
+    - [Payback]
+    - [Octazooka]
+    - [Magic Coat]
+    - [Snatch]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mawile
+displayname: "Mawile-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Jolly
+ivs: 19
+evs: 84
+moves:
+    - [Iron Head]
+    - [Fire Fang]
+    - [Sucker Punch]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Aron
+displayname: "Aron-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rock Head]
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+moves:
+    - [Head Smash]
+    - [Iron Head]
+    - [Superpower]
+    - [Rock Polish]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lairon
+displayname: "Lairon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 88, spe: 168}
+moves:
+    - [Stone Edge]
+    - [Iron Tail]
+    - [Dragon Rush]
+    - [Metal Burst]
+gender: [m,f]
+rarity: 1.0
+---
+species: Aggron
+displayname: "Aggron-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Modest
+ivs: 14
+evs: {hp: 88, atk: 0, def: 0, spA: 252, spD: 88, spe: 80}
+moves:
+    - [Flash Cannon]
+    - [Ancient Power]
+    - [Flamethrower]
+    - [Metal Sound]
+gender: [m,f]
+rarity: 1.0
+---
+species: Meditite
+displayname: "Meditite-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pure Power]
+nature: Jolly
+ivs: 28
+evs: 84
+moves:
+    - [High Jump Kick]
+    - [Zen Headbutt]
+    - [Bullet Punch]
+    - [Meditate]
+gender: [m,f]
+rarity: 1.0
+---
+species: Medicham
+displayname: "Medicham-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pure Power]
+nature: Bold
+ivs: 16
+evs: {hp: 84, atk: 0, def: 168, spA: 0, spD: 168, spe: 84}
+moves:
+    - [Fake Out]
+    - [Psycho Cut]
+    - [Force Palm]
+    - [Power Trick]
+gender: [m,f]
+rarity: 1.0
+---
+species: Electrike
+displayname: "Electrike-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Timid
+ivs: 31
+evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 0, spe: 172}
+moves:
+    - [Thunderbolt]
+    - [Flamethrower]
+    - [Mud-Slap]
+    - [Charge]
+gender: [m,f]
+rarity: 1.0
+---
+species: Manectric
+displayname: "Manectric-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Static]
+nature: Serious
+ivs: {hp: 31, atk: 2, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 252, def: 96, spA: 60, spD: 92, spe: 40}
+moves:
+    - [Shock Wave]
+    - [Hidden Power]
+    - [Fire Fang]
+    - [Magnet Rise]
+gender: [m,f]
+rarity: 1.0
+---
+species: Plusle
+displayname: "Plusle-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Plus]
+nature: Timid
+ivs: 16
+evs: 84
+moves:
+    - [Discharge]
+    - [Grass Knot]
+    - [Charge Beam]
+    - [Encore]
+gender: [m,f]
+rarity: 1.0
+---
+species: Minun
+displayname: "Minun-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Minus]
+nature: Timid
+ivs: 16
+evs: 84
+moves:
+    - [Thunder]
+    - [Grass Knot]
+    - [Trump Card]
+    - [Fake Tears]
+gender: [m,f]
+rarity: 1.0
+---
+species: Volbeat
+displayname: "Volbeat-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swarm]
+nature: Modest
+ivs: 31
+evs: {hp: 56, atk: 0, def: 52, spA: 252, spD: 52, spe: 96}
+moves:
+    - [Signal Beam]
+    - [Thunder]
+    - [Attract]
+    - [Tail Glow]
+gender: [m,f]
+rarity: 1.0
+---
+species: Illumise
+displayname: "Illumise-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tinted Lens]
+nature: Timid
+ivs: 17
+evs: 84
+moves:
+    - [Bug Buzz]
+    - [Shock Wave]
+    - [Growth]
+    - [Moonlight]
+gender: [m,f]
+rarity: 1.0
+---
+species: Roselia
+displayname: "Roselia-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Poison Point]
+nature: Calm
+ivs: 31
+evs: 84
+moves:
+    - [Energy Ball]
+    - [Extrasensory]
+    - [Growth]
+    - [Water Sport]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gulpin
+displayname: "Gulpin-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Liquid Ooze]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Gunk Shot]
+    - [Nightmare]
+    - [Yawn]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Swalot
+displayname: "Swalot-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Liquid Ooze]
+nature: Quiet
+ivs: 10
+evs: 84
+moves:
+    - [Sludge Bomb]
+    - [Seed Bomb]
+    - [Fire Punch]
+    - [Curse]
+gender: [m,f]
+rarity: 1.0
+---
+species: Carvanha
+displayname: "Carvanha-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Speed Boost]
+nature: Bold
+ivs: 31
+evs: {hp: 0, atk: 168, def: 108, spA: 0, spD: 148, spe: 80}
+moves:
+    - [Crunch]
+    - [Waterfall]
+    - [Destiny Bond]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sharpedo
+displayname: "Sharpedo-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Speed Boost]
+nature: Bashful
+ivs: 11
+evs: 84
+moves:
+    - [Hydro Pump]
+    - [Bite]
+    - [Ice Fang]
+    - [Endure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Wailmer
+displayname: "Wailmer-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Veil]
+nature: Naive
+ivs: 17
+evs: 84
+moves:
+    - [Water Spout]
+    - [Blizzard]
+    - [Fissure]
+    - [Self-Destruct]
+gender: [m,f]
+rarity: 1.0
+---
+species: Wailord
+displayname: "Wailord -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Veil]
+nature: Brave
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+moves:
+    - [Water Spout]
+    - [Bounce]
+    - [Iron Head]
+    - [Tickle]
+gender: [m,f]
+rarity: 1.0
+---
+species: Numel
+displayname: "Numel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Simple]
+nature: Timid
+ivs: 31
+evs: {hp: 64, atk: 0, def: 64, spA: 64, spD: 64, spe: 252}
+moves:
+    - [Flamethrower]
+    - [Earthquake]
+    - [Double Team]
+    - [Stockpile]
+gender: [m,f]
+rarity: 1.0
+---
+species: Camerupt
+displayname: "Camerupt-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Solid Rock]
+nature: Docile
+ivs: 11
+evs: 84
+moves:
+    - [Eruption]
+    - [Flamethrower]
+    - [Magnitude]
+    - [Fissure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Torkoal
+displayname: "Torkoal-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Grip Claw]
+ability: [White Smoke]
+nature: Calm
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 172, spD: 84, spe: 0}
+moves:
+    - [Fire Spin]
+    - [Earthquake]
+    - [Toxic]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Spoink
+displayname: "Spoink-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Careful
+ivs: 31
+evs: {hp: 84, atk: 0, def: 0, spA: 84, spD: 252, spe: 84}
+moves:
+    - [Psychic]
+    - [Signal Beam]
+    - [Magic Coat]
+    - [Calm Mind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Grumpig
+displayname: "Grumpig-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Own Tempo]
+nature: Bashful
+ivs: 10
+evs: 84
+moves:
+    - [Focus Blast]
+    - [Energy Ball]
+    - [Power Gem]
+    - [Reflect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Spinda
+displayname: "Spinda-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tangled Feet]
+nature: Adamant
+ivs: 31
+evs: {hp: 168, atk: 84, def: 84, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Thrash]
+    - [Sucker Punch]
+    - [Drain Punch]
+    - [Teeter Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Trapinch
+displayname: "Trapinch-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hyper Cutter]
+nature: Adamant
+ivs: 27
+evs: 84
+moves:
+    - [Earthquake]
+    - [Crunch]
+    - [Fissure]
+    - [Sand Attack]
+gender: [m,f]
+rarity: 1.0
+---
+species: Vibrava
+displayname: "Vibrava-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Adamant
+ivs: 22
+evs: 84
+moves:
+    - [Outrage]
+    - [Dig]
+    - [Fly]
+    - [Tailwind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Flygon
+displayname: "Flygon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Timid
+ivs: {hp: 5, atk: 2, def: 5, spA: 5, spD: 5, spe: 5}
+evs: {hp: 176, atk: 0, def: 84, spA: 112, spD: 84, spe: 40}
+moves:
+    - [Dragon Pulse]
+    - [Dig]
+    - [Gust]
+    - [Mimic]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cacnea
+displayname: "Cacnea-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Absorb]
+nature: Sassy
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Energy Ball]
+    - [Dark Pulse]
+    - [Grass Whistle]
+    - [Nasty Plot]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cacturne
+displayname: "Cacturne-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Veil]
+nature: Bashful
+ivs: 9
+evs: 84
+moves:
+    - [Needle Arm]
+    - [Payback]
+    - [Cotton Spore]
+    - [Sandstorm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Swablu
+displayname: "Swablu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cloud Nine]
+nature: Modest
+ivs: 31
+evs: {hp: 108, atk: 0, def: 0, spA: 252, spD: 0, spe: 108}
+moves:
+    - [Hyper Voice]
+    - [Air Cutter]
+    - [Ice Beam]
+    - [Mud-Slap]
+gender: [m,f]
+rarity: 1.0
+---
+species: Altaria
+displayname: "Altaria-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cloud Nine]
+nature: Bashful
+ivs: 4
+evs: 84
+moves:
+    - [Pluck]
+    - [Draco Meteor]
+    - [Heat Wave]
+    - [Dragon Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Zangoose
+displayname: "Zangoose-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Immunity]
+nature: Serious
+ivs: 11
+evs: 84
+moves:
+    - [Crush Claw]
+    - [Shadow Claw]
+    - [Metal Claw]
+    - [Counter]
+gender: [m,f]
+rarity: 1.0
+---
+species: Seviper
+displayname: "Seviper-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Adamant
+ivs: 11
+evs: 84
+moves:
+    - [Poison Tail]
+    - [Aqua Tail]
+    - [Glare]
+    - [Screech]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lunatone
+displayname: "Lunatone-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Brave
+ivs: 13
+evs: {hp: 84, atk: 164, def: 84, spA: 84, spD: 84, spe: 4}
+moves:
+    - [Psychic]
+    - [Ancient Power]
+    - [Calm Mind]
+    - [Trick Room]
+rarity: 1.0
+---
+species: Solrock
+displayname: "Solrock-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Quiet
+ivs: 13
+evs: {hp: 84, atk: 164, def: 84, spA: 84, spD: 84, spe: 4}
+moves:
+    - [Stone Edge]
+    - [Zen Headbutt]
+    - [Will-O-Wisp]
+    - [Cosmic Power]
+rarity: 1.0
+---
+species: Barboach
+displayname: "Barboach-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Oblivious]
+nature: Adamant
+ivs: 27
+evs: 84
+moves:
+    - [Aqua Tail]
+    - [Magnitude]
+    - [Fissure]
+    - [Dragon Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Whiscash
+displayname: "Whiscash-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Oblivious]
+nature: Serious
+ivs: 10
+evs: 84
+moves:
+    - [Muddy Water]
+    - [Magnitude]
+    - [Spark]
+    - [Captivate]
+gender: [m,f]
+rarity: 1.0
+---
+species: Corphish
+displayname: "Corphish-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Adaptability]
+nature: Careful
+ivs: 31
+evs: {hp: 84, atk: 84, def: 84, spA: 0, spD: 84, spe: 168}
+moves:
+    - [Crabhammer]
+    - [Guillotine]
+    - [Taunt]
+    - [Dragon Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Crawdaunt
+displayname: "Crawdaunt-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hyper Cutter]
+nature: Lax
+ivs: 10
+evs: 0
+moves:
+    - [Crabhammer]
+    - [Dark Pulse]
+    - [Rock Smash]
+    - [Guillotine]
+gender: [m,f]
+rarity: 1.0
+---
+species: Baltoy
+displayname: "Baltoy-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Earthquake]
+    - [Psychic]
+    - [Trick Room]
+    - [Explosion]
+rarity: 1.0
+---
+species: Claydol
+displayname: "Claydol-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Serious
+ivs: 7
+evs: 84
+moves:
+    - [Earth Power]
+    - [Zen Headbutt]
+    - [Gravity]
+    - [Self-Destruct]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lileep
+displayname: "Lileep-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Suction Cups]
+nature: Calm
+ivs: 21
+evs: {hp: 84, atk: 32, def: 84, spA: 84, spD: 172, spe: 84}
+moves:
+    - [Energy Ball]
+    - [Ancient Power]
+    - [Confuse Ray]
+    - [Recover]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cradily
+displayname: "Cradily-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Suction Cups]
+nature: Serious
+ivs: 14
+evs: {hp: 136, atk: 222, def: 36, spA: 4, spD: 28, spe: 84}
+moves:
+    - [Giga Drain]
+    - [Rock Tomb]
+    - [Swords Dance]
+    - [Ingrain]
+gender: [m,f]
+rarity: 1.0
+---
+species: Anorith
+displayname: "Anorith-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Battle Armor]
+nature: Jolly
+ivs: 21
+evs: {hp: 80, atk: 88, def: 76, spA: 160, spD: 16, spe: 80}
+moves:
+    - [X-Scissor]
+    - [Rock Slide]
+    - [Rock Polish]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Armaldo
+displayname: "Armaldo-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Battle Armor]
+nature: Modest
+ivs: 8
+evs: 84
+moves:
+    - [X-Scissor]
+    - [Rock Blast]
+    - [Earth Power]
+    - [Mud Sport]
+gender: [m,f]
+rarity: 1.0
+---
+species: Feebas
+displayname: "Feebas-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Adaptability]
+nature: Adamant
+happiness: 0
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Waterfall]
+    - [Frustration]
+    - [Hypnosis]
+    - [Tickle]
+gender: [m,f]
+rarity: 1.0
+---
+species: Milotic
+displayname: "Milotic-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Marvel Scale]
+nature: Serious
+ivs: 3
+evs: 84
+moves:
+    - [Water Pulse]
+    - [Dragon Pulse]
+    - [Mirror Coat]
+    - [Mud Sport]
+gender: [m,f]
+rarity: 1.0
+---
+species: Castform
+displayname: "Castform-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Forecast]
+nature: Timid
+ivs: 15
+evs: {hp: 84, atk: 0, def: 84, spA: 84, spD: 84, spe: 164}
+moves:
+    - [Weather Ball]
+    - [Hail]
+    - [Rain Dance]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kecleon
+displayname: "Kecleon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Color Change]
+nature: Quiet
+ivs: 13
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 4}
+moves:
+    - [Shadow Claw]
+    - [Sucker Punch]
+    - [Drain Punch]
+    - [Skill Swap]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shuppet
+displayname: "Shuppet-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Insomnia]
+nature: Jolly
+ivs: 31
+evs: {hp: 80, atk: 176, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Shadow Force]
+    - [Secret Power]
+    - [Disable]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Banette
+displayname: "Banette-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Insomnia]
+nature: Mild
+ivs: 11
+evs: 84
+moves:
+    - [Shadow Claw]
+    - [Sucker Punch]
+    - [Taunt]
+    - [Screech]
+gender: [m,f]
+rarity: 1.0
+---
+species: Duskull
+displayname: "Duskull-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Bold
+ivs: 27
+evs: {hp: 252, atk: 28, def: 84, spA: 28, spD: 164, spe: 28}
+moves:
+    - [Night Shade]
+    - [Confuse Ray]
+    - [Will-O-Wisp]
+    - [Curse]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dusclops
+displayname: "Dusclops-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Quirky
+ivs: 11
+evs: 84
+moves:
+    - [Shadow Punch]
+    - [Ice Punch]
+    - [Curse]
+    - [Trick Room]
+gender: [m,f]
+rarity: 1.0
+---
+species: Tropius
+displayname: "Tropius-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Solar Power]
+nature: Modest
+ivs: 11
+evs: 84
+moves:
+    - [Solar Beam]
+    - [Air Slash]
+    - [Sunny Day]
+    - [Synthesis]
+gender: [m,f]
+rarity: 1.0
+---
+species: Chimecho
+displayname: "Chimecho-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Bold
+ivs: 31
+evs: {hp: 120, atk: 120, def: 12, spA: 76, spD: 80, spe: 20}
+moves:
+    - [Extrasensory]
+    - [Hyper Voice]
+    - [Yawn]
+    - [Healing Wish]
+gender: [m,f]
+rarity: 1.0
+---
+species: Absol
+displayname: "Absol-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Super Luck]
+nature: Modest
+ivs: 10
+evs: 84
+moves:
+    - [Night Slash]
+    - [Superpower]
+    - [Shock Wave]
+    - [Will-O-Wisp]
+gender: [m,f]
+rarity: 1.0
+---
+species: Wynaut
+displayname: "Wynaut-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shadow Tag]
+nature: Quirky
+ivs: 30
+evs: 84
+moves:
+    - [Counter]
+    - [Mirror Coat]
+    - [Encore]
+    - [Safeguard]
+gender: [m,f]
+rarity: 1.0
+---
+species: Snorunt
+displayname: "Snorunt-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Ice Body]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 244, def: 88, spA: 0, spD: 88, spe: 0}
+moves:
+    - [Avalanche]
+    - [Crunch]
+    - [Ice Shard]
+    - [Disable]
+gender: [m,f]
+rarity: 1.0
+---
+species: Glalie
+displayname: "Glalie-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Ice Body]
+nature: Serious
+ivs: 9
+evs: 84
+moves:
+    - [Earthquake]
+    - [Weather Ball]
+    - [Sheer Cold]
+    - [Hail]
+gender: [m,f]
+rarity: 1.0
+---
+species: Spheal
+displayname: "Spheal-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Ice Body]
+nature: Modest
+ivs: 27
+evs: 84
+moves:
+    - [Super Fang]
+    - [Brine]
+    - [Hail]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Sealeo
+displayname: "Sealeo-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Docile
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+moves:
+    - [Aurora Beam]
+    - [Water Pulse]
+    - [Signal Beam]
+    - [Roar]
+gender: [m,f]
+rarity: 1.0
+---
+species: Walrein
+displayname: "Walrein-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Hardy
+ivs: 4
+evs: 4
+moves:
+    - [Dive]
+    - [Ice Ball]
+    - [Defense Curl]
+    - [Encore]
+gender: [m,f]
+rarity: 1.0
+---
+species: Clamperl
+displayname: "Clamperl-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shell Armor]
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+moves:
+    - [Muddy Water]
+    - [Ice Beam]
+    - [Confuse Ray]
+    - [Barrier]
+gender: [m,f]
+rarity: 1.0
+---
+species: Huntail
+displayname: "Huntail-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Grip Claw]
+ability: [Water Veil]
+nature: Relaxed
+ivs: 31
+evs: {hp: 252, atk: 0, def: 16, spA: 0, spD: 240, spe: 0}
+moves:
+    - [Clamp]
+    - [Toxic]
+    - [Aqua Ring]
+    - [Protect]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gorebyss
+displayname: "Gorebyss-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Adamant
+ivs: 24
+evs: 0
+moves:
+    - [Aqua Tail]
+    - [Brine]
+    - [Psychic]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Relicanth
+displayname: "Relicanth-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rock Head]
+nature: Modest
+ivs: {hp: 9, atk: 0, def: 9, spA: 9, spD: 9, spe: 9}
+evs: {hp: 84, atk: 0, def: 84, spA: 168, spD: 84, spe: 88}
+moves:
+    - [Head Smash]
+    - [Brine]
+    - [Skull Bash]
+    - [Water Sport]
+gender: [m,f]
+rarity: 1.0
+---
+species: Luvdisc
+displayname: "Luvdisc-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Adamant
+ivs: 23
+evs: {hp: 56, atk: 252, def: 56, spA: 0, spD: 56, spe: 84}
+moves:
+    - [Waterfall]
+    - [Bounce]
+    - [Attract]
+    - [Sweet Kiss]
+gender: [m,f]
+rarity: 1.0
+---
+species: Bagon
+displayname: "Bagon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rock Head]
+nature: Naughty
+ivs: 31
+evs: {hp: 76, atk: 36, def: 76, spA: 4, spD: 252, spe: 64}
+moves:
+    - [Dragon Claw]
+    - [Fire Fang]
+    - [Hydro Pump]
+    - [Dragon Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shelgon
+displayname: "Shelgon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rock Head]
+nature: Careful
+ivs: 15
+evs: 84
+moves:
+    - [Dragon Rush]
+    - [Crunch]
+    - [Zen Headbutt]
+    - [Iron Defense]
+gender: [m,f]
+rarity: 1.0
+---
+species: Salamence
+displayname: "Salamence-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Timid
+ivs: 0
+evs: 0
+moves:
+    - [Aerial Ace]
+    - [Dragon Breath]
+    - [Flamethrower]
+    - [Focus Energy]
+gender: [m,f]
+rarity: 1.0
+---
+species: Beldum
+displayname: "Beldum-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Clear Body]
+nature: Adamant
+ivs: 26
+evs: {hp: 84, atk: 184, def: 84, spA: 0, spD: 84, spe: 68}
+moves:
+    - [Iron Head]
+    - [Zen Headbutt]
+    - [Take Down]
+    - [Iron Defense]
+rarity: 1.0
+---
+species: Metang
+displayname: "Metang-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Clear Body]
+nature: Adamant
+ivs: 15
+evs: 84
+moves:
+    - [Meteor Mash]
+    - [Zen Headbutt]
+    - [Thunder Punch]
+    - [Agility]
+rarity: 1.0
+---
+species: Metagross
+displayname: "Metagross-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Clear Body]
+nature: Jolly
+ivs: 0
+evs: 0
+moves:
+    - [Psychic]
+    - [Metal Claw]
+    - [Hyper Beam]
+    - [Magnet Rise]
+rarity: 1.0
+---
+species: Regirock
+displayname: "Regirock-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Clear Body]
+nature: Mild
+ivs: 0
+evs: {hp: 40, atk: 80, def: 4, spA: 36, spD: 40, spe: 40}
+moves:
+    - [Rollout]
+    - [Hammer Arm]
+    - [Fire Punch]
+    - [Defense Curl]
+rarity: 1.0
+---
+species: Regice
+displayname: "Regice-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Clear Body]
+nature: Naughty
+ivs: 0
+evs: {hp: 40, atk: 36, def: 40, spA: 40, spD: 4, spe: 40}
+moves:
+    - [Blizzard]
+    - [Zap Cannon]
+    - [Flash Cannon]
+    - [Lock-On]
+rarity: 1.0
+---
+species: Registeel
+displayname: "Registeel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Clear Body]
+nature: Hardy
+ivs: 0
+evs: 20
+moves:
+    - [Iron Head]
+    - [Focus Blast]
+    - [Rollout]
+    - [Rock Polish]
+gender: [m,f]
+rarity: 1.0
+---
+species: Latias
+displayname: "Latias-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Bashful
+ivs: 0
+evs: 0
+moves:
+    - [Mist Ball]
+    - [Dragon Claw]
+    - [Psycho Shift]
+    - [Role Play]
+gender: [f]
+rarity: 1.0
+---
+species: Latios
+displayname: "Latios-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Hardy
+ivs: 0
+evs: 0
+moves:
+    - [Luster Purge]
+    - [Dragon Breath]
+    - [Heal Block]
+    - [Memento]
+gender: [m]
+rarity: 1.0
+---
+species: Kyogre
+displayname: "Kyogre-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Grip Claw]
+ability: [Drizzle]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 0}
+moves:
+    - [Whirlpool]
+    - [Thunder]
+    - [Iron Head]
+    - [Hail]
+rarity: 1.0
+---
+species: Groudon
+displayname: "Groudon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Drought]
+nature: Jolly
+ivs: 0
+evs: 0
+moves:
+    - [Earth Power]
+    - [Lava Plume]
+    - [Scary Face]
+    - [Sandstorm]
+rarity: 1.0
+---
+species: Rayquaza
+displayname: "Rayquaza-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Air Lock]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 40, spD: 0, spe: 40}
+moves:
+    - [Dragon Claw]
+    - [Uproar]
+    - [Rock Smash]
+    - [Scary Face]
+rarity: 1.0
+---
+species: Jirachi
+displayname: "Jirachi-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Serene Grace]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 4, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Doom Desire]
+    - [Confusion]
+    - [Body Slam]
+    - [Protect]
+rarity: 1.0
+---
+species: Deoxys
+displayname: "Deoxys-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Timid
+ivs: 0
+evs: {hp: 160, atk: 0, def: 160, spA: 0, spD: 160, spe: 0}
+moves:
+    - [Zen Headbutt]
+    - [Hyper Beam]
+    - [Drain Punch]
+    - [Torment]
+rarity: 1.0
+---
+species: Deoxys-Attack
+displayname: "Deoxys-Attack-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Timid
+ivs: 0
+evs: {hp: 0, atk: 8, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Giga Impact]
+    - [Zap Cannon]
+    - [Icy Wind]
+    - [Rock Slide]
+form: Attack
+rarity: 1.0
+---
+species: Deoxys-Defense
+displayname: "Deoxys-Defense-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Jolly
+ivs: 0
+evs: {hp: 92, atk: 0, def: 92, spA: 0, spD: 92, spe: 52}
+moves:
+    - [Psycho Boost]
+    - [Signal Beam]
+    - [Psych Up]
+    - [Psycho Shift]
+form: Defense
+rarity: 1.0
+---
+species: Deoxys-Speed
+displayname: "Deoxys-Speed-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Serious
+ivs: 0
+evs: 0
+moves:
+    - [Psycho Boost]
+    - [Focus Blast]
+    - [Taunt]
+    - [Skill Swap]
+form: Speed
+rarity: 1.0
+---
+species: Turtwig
+displayname: "Turtwig-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shell Armor]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 128, def: 128, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Crunch]
+    - [Curse]
+    - [Synthesis]
+gender: [m,f]
+rarity: 1.0
+---
+species: Grotle
+displayname: "Grotle-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Quiet
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+moves:
+    - [Energy Ball]
+    - [Earth Power]
+    - [Superpower]
+    - [Leech Seed]
+gender: [m,f]
+rarity: 1.0
+---
+species: Torterra
+displayname: "Torterra-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Overgrow]
+nature: Quiet
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 124, spD: 128, spe: 0}
+moves:
+    - [Razor Leaf]
+    - [Mud-Slap]
+    - [Rock Tomb]
+    - [Withdraw]
+gender: [m,f]
+rarity: 1.0
+---
+species: Chimchar
+displayname: "Chimchar-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Iron Fist]
+nature: Jolly
+ivs: 31
+evs: {hp: 84, atk: 168, def: 88, spA: 0, spD: 0, spe: 168}
+moves:
+    - [Fire Punch]
+    - [Thunder Punch]
+    - [Low Kick]
+    - [Bulk Up]
+gender: [m,f]
+rarity: 1.0
+---
+species: Monferno
+displayname: "Monferno-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Blaze]
+nature: Hardy
+ivs: {hp: 31, atk: 13, def: 13, spA: 13, spD: 13, spe: 30}
+evs: {hp: 100, atk: 0, def: 196, spA: 0, spD: 196, spe: 0}
+moves:
+    - [Close Combat]
+    - [Fire Blast]
+    - [Nasty Plot]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Infernape
+displayname: "Infernape-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Blaze]
+nature: Impish
+ivs: 10
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Heat Wave]
+    - [Brick Break]
+    - [Taunt]
+    - [Calm Mind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Piplup
+displayname: "Piplup-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 0, spe: 168}
+moves:
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Grass Knot]
+    - [Agility]
+gender: [m,f]
+rarity: 1.0
+---
+species: Prinplup
+displayname: "Prinplup -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 48, def: 120, spA: 0, spD: 48, spe: 40}
+moves:
+    - [Dive]
+    - [Drill Peck]
+    - [Brick Break]
+    - [Feather Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Empoleon
+displayname: "Empoleon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Torrent]
+nature: Jolly
+ivs: 0
+evs: {hp: 80, atk: 80, def: 80, spA: 28, spD: 80, spe: 80}
+moves:
+    - [Flash Cannon]
+    - [Bubblebeam]
+    - [Earthquake]
+    - [Rock Slide]
+gender: [m,f]
+rarity: 1.0
+---
+species: Starly
+displayname: "Starly-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Reckless]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Brave Bird]
+    - [Double-Edge]
+    - [Endeavor]
+    - [Tailwind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Staravia
+displayname: "Staravia-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+moves:
+    - [Fly]
+    - [Secret Power]
+    - [Revenge]
+    - [Captivate]
+gender: [m,f]
+rarity: 1.0
+---
+species: Staraptor
+displayname: "Staraptor-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Reckless]
+nature: Timid
+ivs: 0
+evs: {hp: 44, atk: 0, def: 44, spA: 0, spD: 40, spe: 56}
+moves:
+    - [Take Down]
+    - [Close Combat]
+    - [Astonish]
+    - [Whirlwind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Bidoof
+displayname: "Bidoof-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Simple]
+nature: Adamant
+ivs: 31
+evs: {hp: 64, atk: 188, def: 64, spA: 0, spD: 188, spe: 0}
+moves:
+    - [Super Fang]
+    - [Quick Attack]
+    - [Curse]
+    - [Odor Sleuth]
+gender: [m,f]
+rarity: 1.0
+---
+species: Bibarel
+displayname: "Bibarel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Simple]
+nature: Modest
+ivs: 31
+evs: {hp: 72, atk: 72, def: 72, spA: 120, spD: 72, spe: 72}
+moves:
+    - [Skull Bash]
+    - [Water Pulse]
+    - [Charge Beam]
+    - [Taunt]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kricketot
+displayname: "Kricketot-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 0, def: 84, spA: 0, spD: 168, spe: 0}
+moves:
+    - [Bug Bite]
+    - [Mud-Slap]
+    - [Endeavor]
+    - [String Shot]
+gender: [m,f]
+rarity: 1.0
+---
+species: Kricketune
+displayname: "Kricketune-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swarm]
+nature: Jolly
+ivs: 23
+evs: {hp: 64, atk: 64, def: 64, spA: 0, spD: 64, spe: 132}
+moves:
+    - [X-Scissor]
+    - [Brick Break]
+    - [Sing]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shinx
+displayname: "Shinx-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Adamant
+Happiness: 255
+ivs: 31
+evs: {hp: 84, atk: 252, def: 88, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Thunder Fang]
+    - [Return]
+    - [Bite]
+    - [Thunder Wave]
+gender: [m,f]
+rarity: 1.0
+---
+species: Luxio
+displayname: "Luxio-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Intimidate]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 132, spA: 0, spD: 132, spe: 36}
+moves:
+    - [Spark]
+    - [Night Slash]
+    - [Light Screen]
+    - [Charge]
+gender: [m,f]
+rarity: 1.0
+---
+species: Luxray
+displayname: "Luxray-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Guts]
+nature: Modest
+ivs: 15
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Shock Wave]
+    - [Superpower]
+    - [Ice Fang]
+    - [Sleep Talk]
+gender: [m,f]
+rarity: 1.0
+---
+species: Budew
+displayname: "Budew-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Poison Point]
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb]
+    - [Extrasensory]
+    - [Sleep Powder]
+gender: [m,f]
+rarity: 1.0
+---
+species: Roserade
+displayname: "Roserade-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Poison Point]
+nature: Adamant
+ivs: 28
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Petal Dance]
+    - [Poison Jab]
+    - [Weather Ball]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cranidos
+displayname: "Cranidos-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Mold Breaker]
+nature: Jolly
+ivs: 31
+evs: {hp: 44, atk: 44, def: 44, spA: 0, spD: 44, spe: 108}
+moves:
+    - [Head Smash]
+    - [Earthquake]
+    - [Strength]
+    - [Scary Face]
+gender: [m,f]
+rarity: 1.0
+---
+species: Rampardos
+displayname: "Rampardos-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Mold Breaker]
+nature: Calm
+ivs: 8
+evs: {hp: 88, atk: 0, def: 136, spA: 0, spD: 200, spe: 84}
+moves:
+    - [Rock Slide]
+    - [Rock Climb]
+    - [Rock Smash]
+    - [Rock Polish]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shieldon
+displayname: "Shieldon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Soundproof]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 140, def: 28, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Stone Edge]
+    - [Iron Tail]
+    - [Fissure]
+    - [Metal Burst]
+gender: [m,f]
+rarity: 1.0
+---
+species: Bastiodon
+displayname: "Bastiodon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Quiet
+ivs:  {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 148, atk: 0, def: 0, spA: 44, spD: 0, spe: 0}
+moves:
+    - [Flash Cannon]
+    - [Fire Blast]
+    - [Metal Burst]
+    - [Metal Sound]
+gender: [m,f]
+rarity: 1.0
+---
+species: Burmy
+displayname: "Burmy-Plant-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Megahorn]
+    - [Wood Hammer]
+    - [Leech Seed]
+    - [Protect]
+gender: [m,f]
+form: Plant
+rarity: 1.0
+---
+species: Burmy
+displayname: "Burmy-Sand-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Attack Order]
+    - [Rock Tomb]
+    - [Bonemerang]
+    - [Fissure]
+gender: [m,f]
+form: Sandy
+rarity: 1.0
+---
+species: Burmy
+displayname: "Burmy-Trash-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Shed Skin]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 248, atk: 0, def: 4, spA: 252, spD: 4, spe: 0}
+moves:
+    - [Bug Buzz]
+    - [Flash Cannon]
+    - [Toxic]
+    - [Metal Burst]
+gender: [m,f]
+form: Trash
+rarity: 1.0
+---
+species: Wormadam
+displayname: "Wormadam-Plant-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Anticipation]
+nature: Bold
+ivs: 14
+evs: {hp: 84, atk: 0, def: 84, spA: 84, spD: 84, spe: 168}
+moves:
+    - [Leaf Storm]
+    - [Signal Beam]
+    - [Psychic]
+    - [Growth]
+gender: [f]
+form: Plant
+rarity: 1.0
+---
+species: Wormadam
+displayname: "Wormadam-Sandy-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Anticipation]
+nature: Sassy
+ivs: 14
+evs: 84
+moves:
+    - [Earthquake]
+    - [Bug Bite]
+    - [Fissure]
+    - [Sandstorm]
+gender: [f]
+form: Sandy
+rarity: 1.0
+---
+species: Wormadam
+displayname: "Wormadam-Trash-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Anticipation]
+nature: Sassy
+ivs: 14
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+moves:
+    - [Flash Cannon]
+    - [Gunk Shot]
+    - [Metal Sound]
+    - [Magnet Rise]
+gender: [f]
+form: Trash
+rarity: 1.0
+---
+species: Mothim
+displayname: "Mothim-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tinted Lens]
+nature: Docile
+ivs: 31
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 128, spe: 124}
+moves:
+    - [Air Slash]
+    - [Bug Buzz]
+    - [Camouflage]
+    - [Roost]
+gender: [m]
+rarity: 1.0
+---
+species: Combee
+displayname: "Combee-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Honey Gather]
+nature: Timid
+ivs: 31
+evs: {hp: 84, atk: 0, def: 84, spA: 168, spD: 84, spe: 84}
+moves:
+    - [Bug Buzz]
+    - [Air Cutter]
+    - [Mud-Slap]
+    - [Heal Order]
+gender: [m,f]
+rarity: 1.0
+---
+species: Vespiquen
+displayname: "Vespiquen-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Timid
+ivs: 10
+evs: {hp: 88, atk: 0, def: 88, spA: 0, spD: 88, spe: 240}
+moves:
+    - [Attack Order]
+    - [Air Cutter]
+    - [Power Gem]
+    - [Defend Order]
+gender: [f]
+rarity: 1.0
+---
+species: Pachirisu
+displayname: "Pachirisu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Volt Absorb]
+nature: Modest
+ivs: 16
+evs: {hp: 84, atk: 0, def: 84, spA: 184, spD: 68, spe: 84}
+moves:
+    - [Super Fang]
+    - [Thunderbolt]
+    - [Grass Knot]
+    - [Swagger]
+gender: [m,f]
+rarity: 1.0
+---
+species: Buizel
+displayname: "Buizel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Lonely
+ivs: 31
+evs: 52
+moves:
+    - [Waterfall]
+    - [Ice Beam]
+    - [Brick Break]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Floatzel
+displayname: "Floatzel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Veil]
+nature: Calm
+ivs: {hp: 29, atk: 29, def: 29, spA: 29, spD: 29, spe: 19}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Aqua Tail]
+    - [Crunch]
+    - [Taunt]
+    - [Bulk Up]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cherubi
+displayname: "Cherubi-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Chlorophyll]
+nature: Modest
+ivs: 31
+evs: {hp: 84, atk: 0, def: 20, spA: 252, spD: 20, spe: 132}
+moves:
+    - [Solar Beam]
+    - [Weather Ball]
+    - [Leech Seed]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Cherrim
+displayname: "Cherrim-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flower Gift]
+nature: Adamant
+Happiness: 0
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Seed Bomb]
+    - [Frustration]
+    - [Tickle]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Shellos
+displayname: "Shellos-West-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Storm Drain]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 108, spD: 100, spe: 100}
+moves:
+    - [Surf]
+    - [Earth Power]
+    - [Ice Beam]
+    - [Pain Split]
+gender: [m,f]
+form: West
+rarity: 1.0
+---
+species: Shellos
+displayname: "Shellos-East-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Storm Drain]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Dive]
+    - [Fissure]
+    - [Rest]
+    - [Sleep Talk]
+gender: [m,f]
+form: East
+rarity: 1.0
+---
+species: Gastrodon
+displayname: "Gastrodon-West-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Storm Drain]
+nature: Hardy
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Earth Power]
+    - [Muddy Water]
+    - [Mirror Coat]
+    - [Harden]
+gender: [m,f]
+form: West
+rarity: 1.0
+---
+species: Gastrodon
+displayname: "Gastrodon-East-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Storm Drain]
+nature: Hardy
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Earthquake]
+    - [Waterfall]
+    - [Counter]
+    - [Harden]
+gender: [m,f]
+form: East
+rarity: 1.0
+---
+species: Ambipom
+displayname: "Ambipom-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Technician]
+nature: Hardy
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Fake Out]
+    - [Cut]
+    - [Aerial Ace]
+    - [Screech]
+gender: [m,f]
+rarity: 1.0
+---
+species: Drifloon
+displayname: "Drifloon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Aftermath]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 84, spA: 168, spD: 84, spe: 172}
+moves:
+    - [Shadow Ball]
+    - [Air Cutter]
+    - [Thunderbolt]
+    - [Destiny Bond]
+gender: [m,f]
+rarity: 1.0
+---
+species: Drifblim
+displayname: "Drifblim -T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Aftermath]
+nature: Quirky
+ivs: 0
+evs: {hp: 0, atk: 0, def: 128, spA: 124, spD: 128, spe: 128}
+moves:
+    - [Ominous Wind]
+    - [Thunder]
+    - [Weather Ball]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Buneary
+displayname: "Buneary-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Limber]
+nature: Adamant
+Happniess : 0
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+moves:
+    - [Frustration]
+    - [Jump Kick]
+    - [Ice Punch]
+    - [Charm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lopunny
+displayname: "Lopunny-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Cute Charm]
+nature: Bashful
+ivs: 23
+evs: {hp: 0, atk: 108, def: 0, spA: 28, spD: 0, spe: 28}
+moves:
+    - [Dizzy Punch]
+    - [Jump Kick]
+    - [Captivate]
+    - [Foresight]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mismagius
+displayname: "Mismagius-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Adamant
+ivs: {hp: 29, atk: 29, def: 18, spA: 29, spD: 18, spe: 30}
+evs: {hp: 0, atk: 84, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Sucker Punch]
+    - [Imprison]
+gender: [m,f]
+rarity: 1.0
+---
+species: Honchkrow
+displayname: "Honchkrow-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Super Luck]
+nature: Timid
+ivs: 21
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Fly]
+    - [Night Slash]
+    - [Taunt]
+    - [Whirlwind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Glameow
+displayname: "Glameow-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Limber]
+nature: Jolly
+ivs: 25
+evs: {hp: 56, atk: 252, def: 56, spA: 0, spD: 56, spe: 84}
+moves:
+    - [Fake Out]
+    - [Last Resort]
+gender: [m,f]
+rarity: 1.0
+---
+species: Purugly
+displayname: "Purugly-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Jolly
+ivs: 31
+evs: 8
+moves:
+    - [Body Slam]
+    - [Dig]
+    - [Feint Attack]
+    - [Assist]
+gender: [m,f]
+rarity: 1.0
+---
+species: Chingling
+displayname: "Chingling-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Psychic]
+    - [Signal Beam]
+    - [Calm Mind]
+    - [Recover]
+gender: [m,f]
+rarity: 1.0
+---
+species: Stunky
+displayname: "Stunky-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Aftermath]
+nature: Adamant
+ivs: 31
+evs: {hp: 96, atk: 160, def: 96, spA: 0, spD: 96, spe: 60}
+moves:
+    - [Sucker Punch]
+    - [Punishment]
+    - [Dig]
+    - [Swagger]
+gender: [m,f]
+rarity: 1.0
+---
+species: Skuntank
+displayname: "Skuntank-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Aftermath]
+nature: Quiet
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Night Slash]
+    - [Flamethrower]
+    - [Poison Gas]
+    - [Haze]
+gender: [m,f]
+rarity: 1.0
+---
+species: Bronzor
+displayname: "Bronzor-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Heatproof]
+nature: Modest
+ivs: {hp: 31, atk: 3, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 124, atk: 112, def: 128, spA: 128, spD: 128, spe: 0}
+moves:
+    - [Psychic]
+    - [Flash Cannon]
+    - [Hidden Power]
+    - [Calm Mind]
+rarity: 1.0
+---
+species: Bronzong
+displayname: "Bronzong-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Heatproof]
+nature: Brave
+ivs: 0
+evs: {hp: 88, atk: 120, def: 0, spA: 168, spD: 0, spe: 0}
+moves:
+    - [Confusion]
+    - [Gyro Ball]
+    - [Earthquake]
+    - [Charge Beam]
+rarity: 1.0
+---
+species: Bonsly
+displayname: "Bonsly-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Adamant
+ivs: 31
+evs: {hp: 176, atk: 160, def: 0, spA: 0, spD: 172, spe: 0}
+moves:
+    - [Rock Slide]
+    - [Sucker Punch]
+    - [Curse]
+    - [Explosion]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mime Jr.
+displayname: "Mime Jr.-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Filter]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 8 spA: 224, spD: 0, spe: 176}
+moves:
+    - [Psychic]
+    - [Thunderbolt]
+    - [Reflect]
+    - [Teeter Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Happiny
+displayname: "Happiny-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Serene Grace]
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Flamethrower]
+    - [Counter]
+    - [Toxic]
+    - [Soft-Boiled]
+gender: [f]
+rarity: 1.0
+---
+species: Chatot
+displayname: "Chatot-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Keen Eye]
+nature: Timid
+ivs: 31
+evs: 24
+moves:
+    - [Hyper Voice]
+    - [Chatter]
+    - [Mimic]
+    - [Sing]
+gender: [m,f]
+rarity: 1.0
+---
+species: Spiritomb
+displayname: "Spiritomb-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Naive
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Dark Pulse]
+    - [Shadow Sneak]
+    - [Curse]
+    - [Spite]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gible
+displayname: "Gible-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rough Skin]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 168, def: 84, spA: 0, spD: 84, spe: 84}
+moves:
+    - [Outrage]
+    - [Earthquake]
+    - [Stone Edge]
+    - [Endure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gabite
+displayname: "Gabite-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Rough Skin]
+nature: Hardy
+ivs: 16
+evs: 84
+moves:
+    - [Dragon Rush]
+    - [Dig]
+    - [Sandstorm]
+    - [Stealth Rock]
+gender: [m,f]
+rarity: 1.0
+---
+species: Garchomp
+displayname: "Garchomp-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Veil]
+nature: Modest
+ivs: 0
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+moves:
+    - [Dragon Breath]
+    - [Mud Shot]
+    - [Rock Tomb]
+    - [Sandstorm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Munchlax
+displayname: "Munchlax-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Thick Fat]
+nature: Sassy
+ivs: 18
+evs: {hp: 84, atk: 84, def: 84, spA: 0, spD: 84, spe: 172}
+moves:
+    - [Body Slam]
+    - [Fire Punch]
+    - [Amnesia]
+    - [Curse]
+gender: [m,f]
+rarity: 1.0
+---
+species: Riolu
+displayname: "Riolu-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Steadfast]
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 108}
+moves:
+    - [High Jump Kick]
+    - [Blaze Kick]
+    - [Thunder Punch]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lucario
+displayname: "Lucario-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Inner Focus]
+nature: Adamant
+ivs: 21
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Aura Sphere]
+    - [Bone Rush]
+    - [Bullet Punch]
+    - [Me First]
+gender: [m,f]
+rarity: 1.0
+---
+species: Hippopotas
+displayname: "Hippopotas-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Stream]
+nature: Careful
+ivs: 31
+evs: {hp: 136, atk: 0, def: 80, spA: 128, spD: 80, spe: 84}
+moves:
+    - [Earthquake]
+    - [Rock Tomb]
+    - [Curse]
+    - [Yawn]
+gender: [m,f]
+rarity: 1.0
+---
+species: Hippowdon
+displayname: "Hippowdon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sand Stream]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 88, atk: 252, def: 0, spA: 0, spD: 128, spe: 0}
+moves:
+    - [Sand Tomb]
+    - [Water Pulse]
+    - [Toxic]
+    - [Endure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Skorupi
+displayname: "Skorupi-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sniper]
+nature: Jolly
+ivs: 31
+evs: {hp: 88, atk: 168, def: 0, spA: 0, spD: 84, spe: 168}
+moves:
+    - [X-Scissor]
+    - [Cross Poison]
+    - [Dig]
+    - [Confuse Ray]
+gender: [m,f]
+rarity: 1.0
+---
+species: Drapion
+displayname: "Drapion-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Battle Armor]
+nature: Modest
+ivs: 28
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Sludge Bomb]
+    - [Night Slash]
+    - [Toxic Spikes]
+    - [Acupressure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Croagunk
+displayname: "Croagunk-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Dry Skin]
+nature: Adamant
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+moves:
+    - [Gunk Shot]
+    - [Cross Chop]
+    - [Sucker Punch]
+    - [Swagger]
+gender: [m,f]
+rarity: 1.0
+---
+species: Toxicroak
+displayname: "Toxicroak-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Dry Skin]
+nature: Modest
+ivs: {hp: 29, atk: 9, def: 29, spA: 29, spD: 29, spe: 29}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Fake Out]
+    - [Focus Blast]
+    - [Sludge Bomb]
+    - [Flatter]
+gender: [m,f]
+rarity: 1.0
+---
+species: Carnivine
+displayname: "Carnivine-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 26, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 4, def: 0, spA: 8, spD: 48, spe: 4}
+moves:
+    - [Power Whip]
+    - [Secret Power]
+    - [Stun Spore]
+    - [Gastro Acid]
+gender: [m,f]
+rarity: 1.0
+---
+species: Finneon
+displayname: "Finneon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Swift Swim]
+nature: Adamant
+ivs: 31
+evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+moves:
+    - [Waterfall]
+    - [Bounce]
+    - [Payback]
+    - [Rain Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Lumineon
+displayname: "Lumineon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Veil]
+nature: Modest
+ivs: 31
+evs: {hp: 56, atk: 36, def: 56, spA: 56, spD: 56, spe: 56}
+moves:
+    - [Dive]
+    - [Psybeam]
+    - [Silver Wind]
+    - [Charm]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mantyke
+displayname: "Mantyke-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Water Veil]
+nature: Modest
+ivs: 31
+evs: 48
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Confuse Ray]
+    - [Toxic]
+gender: [m,f]
+rarity: 1.0
+---
+species: Snover
+displayname: "Snover-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Snow Warning]
+nature: Brave
+ivs: 31
+evs: {hp: 100, atk: 108, def: 100, spA: 100, spD: 100, spe: 0}
+moves:
+    - [Blizzard]
+    - [Wood Hammer]
+    - [Ice Shard]
+    - [Swords Dance]
+gender: [m,f]
+rarity: 1.0
+---
+species: Abomasnow
+displayname: "Abomasnow-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Snow Warning]
+nature: Serious
+ivs: 29
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Icy Wind]
+    - [Focus Blast]
+    - [Ingrain]
+gender: [m,f]
+rarity: 1.0
+---
+species: Weavile
+displayname: "Weavile-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Modest
+ivs: {hp: 27, atk: 27, def: 27, spA: 31, spD: 12, spe: 27}
+evs: {hp: 0, atk: 0, def: 0, spA: 44, spD: 0, spe: 0}
+moves:
+    - [Ice Punch]
+    - [Night Slash]
+    - [Focus Blast]
+    - [Leer]
+gender: [m,f]
+rarity: 1.0
+---
+species: Magnezone
+displayname: "Magnezone-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Jolly
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Shock Wave]
+    - [Mirror Shot]
+    - [Tri Attack]
+    - [Magnet Rise]
+rarity: 1.0
+---
+species: Lickilicky
+displayname: "Lickilicky-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Own Tempo]
+nature: Hardy
+ivs: 27
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Hyper Beam]
+    - [Dynamic Punch]
+    - [Rollout]
+    - [Wring Out]
+gender: [m,f]
+rarity: 1.0
+---
+species: Rhyperior
+displayname: "Rhyperior-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Lightning Rod]
+nature: Timid
+ivs: {hp: 4, atk: 26, def: 4, spA: 31, spD: 31, spe: 25}
+evs: {hp: 0, atk: 0, def: 0, spA: 60, spD: 60, spe: 0}
+moves:
+    - [Rock Blast]
+    - [Magnitude]
+    - [Horn Drill]
+    - [Stealth Rock]
+gender: [m,f]
+rarity: 1.0
+---
+species: Tangrowth
+displayname: "Tangrowth-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Leaf Guard]
+nature: Careful
+ivs: {hp: 29, atk: 4, def: 29, spA: 29, spD: 31, spe: 29}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Solar Beam]
+    - [Ancient Power]
+    - [Stun Spore]
+    - [Sunny Day]
+gender: [m,f]
+rarity: 1.0
+---
+species: Electivire
+displayname: "Electivire-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Motor Drive]
+nature: Calm
+ivs: 24
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Thunder Punch]
+    - [Rolling Kick]
+    - [Quick Attack]
+    - [Leer]
+gender: [m,f]
+rarity: 1.0
+---
+species: Magmortar
+displayname: "Magmortar-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flame Body]
+nature: Impish
+ivs: 24
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Fire Punch]
+    - [Psychic]
+    - [Karate Chop]
+    - [Smog]
+gender: [m,f]
+rarity: 1.0
+---
+species: Togekiss
+displayname: "Togekiss-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hustle]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Extreme Speed]
+    - [Air Cutter]
+    - [Aura Sphere]
+    - [Lucky Chant]
+gender: [m,f]
+rarity: 1.0
+---
+species: Yanmega
+displayname: "Yanmega-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Tinted Lens]
+nature: Lonely
+ivs: 27
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Air Slash]
+    - [Silver Wind]
+    - [Quick Attack]
+    - [Whirlwind]
+gender: [m,f]
+rarity: 1.0
+---
+species: Leafeon
+displayname: "Leafeon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Leaf Guard]
+nature: Modest
+ivs: 26
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Leaf Blade]
+    - [Shadow Ball]
+    - [Quick Attack]
+    - [Captivate]
+gender: [m,f]
+rarity: 1.0
+---
+species: Glaceon
+displayname: "Glaceon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Snow Cloak]
+nature: Adamant
+ivs: 26
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}moves:
+    - [Blizzard]
+    - [Swift]
+    - [Bite]
+    - [Mirror Coat]
+gender: [m,f]
+rarity: 1.0
+---
+species: Gliscor
+displayname: "Gliscor-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hyper Cutter]
+nature: Bold
+ivs: 21
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Dig]
+    - [Aerial Ace]
+    - [Taunt]
+    - [Power Trick]
+gender: [m,f]
+rarity: 1.0
+---
+species: Mamoswine
+displayname: "Mamoswine-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Snow Cloak]
+nature: Modest
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Earth Power]
+    - [Ice Fang]
+    - [Scary Face]
+    - [Hail]
+gender: [m,f]
+rarity: 1.0
+---
+species: Porygon-Z
+displayname: "Porygon-Z-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Adaptability]
+nature: Adamant
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Swift]
+    - [Shadow Ball]
+    - [Defense Curl]
+    - [Conversion]
+rarity: 1.0
+---
+species: Gallade
+displayname: "Gallade-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Steadfast]
+nature: Bold
+ivs: 26
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Psycho Cut]
+    - [Drain Punch]
+    - [Shadow Sneak]
+    - [Memento]
+gender: [m]
+rarity: 1.0
+---
+species: Probopass
+displayname: "Probopass-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Sturdy]
+nature: Naive
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 140}
+moves:
+    - [Flash Cannon]
+    - [Power Gem]
+    - [Earth Power]
+    - [Taunt]
+gender: [m,f]
+rarity: 1.0
+---
+species: Dusknoir
+displayname: "Dusknoir-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
+moves:
+    - [Astonish]
+    - [Rock Smash]
+    - [Disable]
+    - [Trick Room]
+gender: [m,f]
+rarity: 1.0
+---
+species: Froslass
+displayname: "Froslass-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Snow Cloak]
+nature: Modest
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 128, spD: 100, spe: 80}
+moves:
+    - [Ominous Wind]
+    - [Powder Snow]
+    - [Disable]
+    - [Destiny Bond]
+gender: [f]
+rarity: 1.0
+---
+species: Rotom
+displayname: "Rotom-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Gentle
+ivs: 31
+evs: 12
+moves:
+    - [Shadow Ball]
+    - [Charge Beam]
+    - [Confuse Ray]
+    - [Pain Split]
+rarity: 1.0
+---
+species: Uxie
+displayname: "Uxie-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Bold
+ivs: 21
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Zen Headbutt]
+    - [Ice Punch]
+    - [Swagger]
+    - [Psych Up]
+rarity: 1.0
+---
+species: Mesprit
+displayname: "Mesprit-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Serious
+ivs: 5
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Extrasensory]
+    - [Thunder Punch]
+    - [Reflect]
+    - [Copycat]
+rarity: 1.0
+---
+species: Azelf
+displayname: "Azelf-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Docile
+ivs: 5
+evs: 0
+moves:
+    - [Extrasensory]
+    - [Fire Punch]
+    - [Light Screen]
+    - [Role Play]
+rarity: 1.0
+---
+species: Dialga
+displayname: "Dialga-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 8}
+moves:
+    - [Metal Claw]
+    - [Twister]
+    - [Metal Burst]
+    - [Roar]
+rarity: 1.0
+---
+species: Palkia
+displayname: "Palkia-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Dive]
+    - [Twister]
+    - [Mud-Slap]
+    - [Trick Room]
+rarity: 1.0
+---
+species: Heatran
+displayname: "Heatran-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Flash Fire]
+nature: Adamant
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Magma Storm]
+    - [Rock Smash]
+    - [Taunt]
+    - [Endure]
+gender: [m,f]
+rarity: 1.0
+---
+species: Regigigas
+displayname: "Regigigas-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Slow Start]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
+moves:
+    - [Giga Impact]
+    - [Zen Headbutt]
+    - [Drain Punch]
+    - [Crush Grip]
+rarity: 1.0
+---
+species: Giratina
+displayname: "Giratina-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Pressure]
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+moves:
+    - [Shadow Claw]
+    - [Twister]
+    - [Slash]
+    - [Heal Block]
+rarity: 1.0
+---
+species: Cresselia
+displayname: "Cresselia-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Levitate]
+nature: Brave
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 36, spD: 0, spe: 36}
+moves:
+    - [Psychic]
+    - [Aurora Beam]
+    - [Psycho Shift]
+    - [Lunar Dance]
+gender: [f]
+rarity: 1.0
+---
+species: Phione
+displayname: "Phione-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hydration]
+nature: Timid
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Waterfall]
+    - [Energy Ball]
+    - [Ancient Power]
+    - [Rain Dance]
+
+rarity: 1.0
+---
+species: Manaphy
+displayname: "Manaphy-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Hydration]
+nature: Serious
+ivs: 31
+evs: {hp: 16 atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
+moves:
+    - [Water Gun]
+    - [Ancient Power]
+    - [Rain Dance]
+    - [Tail Glow]
+rarity: 1.0
+---
+species: Darkrai
+displayname: "Darkrai-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Bad Dreams]
+nature: Quiet
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Thief]
+    - [Dark Void]
+    - [Nightmare]
+    - [Haze]
+rarity: 1.0
+---
+species: Shaymin
+displayname: "Shaymin-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Natural Cure]
+nature: Careful
+ivs: 0 but
+evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 0}
+moves:
+    - [Seed Flare]
+    - [Swift]
+    - [Aromatherapy]
+    - [Worry Seed]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Bug-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Insect Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Rock Tomb]
+    - [Fury Cutter]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Dark-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Dread Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Poison Jab]
+    - [Punishment]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Dragon-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Draco Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Rock Smash]
+    - [Dragon Claw]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Electric-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Zap Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Bullet Seed]
+    - [Thunder Wave]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Fire-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Flame Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Brine]
+    - [Blast Burn]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Fighting-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Fist Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Ominous Wind]
+    - [Seismic Toss]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Flying-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Sky Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Shock Wave]
+    - [Tailwind]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Ghost-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Spooky Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Perish Song]
+    - [Shadow Claw]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Grass-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Meadow Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Iron Tail]
+    - [Grass Knot]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Ground-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Earth Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Silver Wind]
+    - [Mud-Slap]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Ice-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Icicle Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Water Pulse]
+    - [Hail]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Normal-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Null]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Shadow Ball]
+    - [Refresh]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Poison-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Toxic Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Heat Wave]
+    - [Toxic]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Psychic-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Mind Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Ancient Power]
+    - [Magic Coat]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Rock-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Stone Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Aerial Ace]
+    - [Stealth Rock]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Steel-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Iron Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Brick Break]
+    - [Iron Head]
+rarity: 1.0
+---
+species: Arceus
+displayname: "Arceus-Water-T"
+setname: [PBR Gold]
+tags: [PBR1.2]
+item: [Splash Plate]
+ability: [Multitype]
+nature: Jolly
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
+    - [Judgment]
+    - [Future Sight]
+    - [Icy Wind]
+    - [Hydro Cannon]
+rarity: 1.0
+---
