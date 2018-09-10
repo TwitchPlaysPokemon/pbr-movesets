@@ -17,3 +17,43 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Grumpig
+setname: PWT-Tate Tournament
+tags: [in-game, PWT-Tate Tournament]
+item: [Ganlon Berry]
+ability: [Thick Fat, Own Tempo]
+moves:
+    - [Psychic]
+    - [Sleep Talk (=15)]
+    - [Rest (=10)]
+    - [Calm Mind (=10)]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Grumpig
+setname: PWT-Liza Tournament
+tags: [in-game, PWT-Liza Tournament]
+item: [Salac Berry]
+ability: [Thick Fat, Own Tempo]
+moves:
+    - [Psychic]
+    - [Focus Blast]
+    - [Power Gem]
+    - [Calm Mind]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

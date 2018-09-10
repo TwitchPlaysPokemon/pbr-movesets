@@ -137,3 +137,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Raichu
+setname: PWT-Wattson Tournament
+tags: [in-game, PWT-Wattson Tournament]
+item: [Liechi Berry]
+ability: [Static]
+moves:
+    - [Return]
+    - [Volt Tackle]
+    - [Knock Off]
+    - [Brick Break]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

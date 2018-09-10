@@ -1,0 +1,19 @@
+species: Minun
+setname: PWT-Wattson Tournament
+tags: [in-game, PWT-Wattson Tournament]
+item: [Magnet]
+ability: [Minus]
+moves:
+    - [Fake Tears]
+    - [Thunder Wave]
+    - [Thunderbolt]
+    - [Charm]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
