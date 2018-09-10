@@ -155,3 +155,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Onix
+setname: PWT-Roark Tournament
+tags: [in-game, PWT-Roark Tournament]
+item: [Rindo Berry]
+ability: [Sturdy, Rock Head]
+moves:
+    - [Stone Edge]
+    - [Roar]
+    - [Sandstorm]
+    - [Stealth Rock]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
