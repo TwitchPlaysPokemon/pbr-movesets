@@ -37,3 +37,23 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Luxray
+setname: PWT-Volkner Tournament
+tags: [in-game, PWT-Volkner Tournament]
+item: [Shuca Berry]
+ability: [Rivalry, Intimidate]
+moves:
+    - [Superpower]
+    - [Crunch]
+    - [Volt Tackle]
+    - [Thunder Wave]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

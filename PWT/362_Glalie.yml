@@ -8,7 +8,7 @@ moves:
     - [Crunch]
     - [Icy Wind]
     - [Ice Beam]
-gender: [m,f]
+gender: [m]
 happiness: 255
 biddable: False
 ball: [Poke]
@@ -28,7 +28,7 @@ moves:
     - [Explosion]
     - [Hail]
     - [Ice Beam]
-gender: [m,f]
+gender: [m]
 happiness: 255
 biddable: False
 ball: [Poke]
@@ -48,7 +48,27 @@ moves:
     - [Payback]
     - [Attract]
     - [Blizzard]
-gender: [m,f]
+gender: [m]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glalie
+setname: PWT-Candice Tournament
+tags: [in-game, PWT-Candice Tournament]
+item: [Hard Stone]
+ability: [Inner Focus, Ice Body]
+moves:
+    - [Hail]
+    - [Ice Beam]
+    - [Crunch]
+    - [Rollout]
+gender: [m]
 happiness: 255
 biddable: False
 ball: [Poke]
