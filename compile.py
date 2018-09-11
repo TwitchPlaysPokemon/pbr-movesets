@@ -107,4 +107,4 @@ group_tags['pwt_less_than_3_mons'] = [elem for (elem, cnt) in pwt.items() if cnt
 
 print("Writing group tag data to {}...".format(group_tags_file))
 with open(group_tags_file, "w+", encoding="utf-8") as f:
-    json.dump(group_tags, f, sort_keys=True)
+    json.dump(group_tags, f, sort_keys=True, ensure_ascii=False)

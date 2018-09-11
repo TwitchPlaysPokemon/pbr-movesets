@@ -1,6 +1,6 @@
 species: Bulbasaur
 displayname: "Bulbasaur-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -17,7 +17,7 @@ rarity: 1.0
 ---
 species: Ivysaur
 displayname: "Ivysaur-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -34,7 +34,7 @@ rarity: 1.0
 ---
 species: Venusaur
 displayname: "Venusaur-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -51,7 +51,7 @@ rarity: 1.0
 ---
 species: Charmander
 displayname: "Charmander-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Blaze]
@@ -68,7 +68,7 @@ rarity: 1.0
 ---
 species: Charmeleon
 displayname: "Charmeleon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Solar Power]
@@ -85,7 +85,7 @@ rarity: 1.0
 ---
 species: Charizard
 displayname: "Charizard-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Blaze]
@@ -102,7 +102,7 @@ rarity: 1.0
 ---
 species: Squirtle
 displayname: "Squirtle-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -119,7 +119,7 @@ rarity: 1.0
 ---
 species: Wartortle
 displayname: "Wartortle-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rain Dish]
@@ -136,7 +136,7 @@ rarity: 1.0
 ---
 species: Blastoise
 displayname: "Blastoise-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -153,7 +153,7 @@ rarity: 1.0
 ---
 species: Caterpie
 displayname: "Caterpie-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shield Dust]
@@ -170,7 +170,7 @@ rarity: 1.0
 ---
 species: Metapod
 displayname: "Metapod-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -187,7 +187,7 @@ rarity: 1.0
 ---
 species: Butterfree
 displayname: "Butterfree-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Compound Eyes]
@@ -204,7 +204,7 @@ rarity: 1.0
 ---
 species: Weedle
 displayname: "Weedle-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shield Dust]
@@ -221,7 +221,7 @@ rarity: 1.0
 ---
 species: Kakuna
 displayname: "Kakuna-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -238,7 +238,7 @@ rarity: 1.0
 ---
 species: Beedrill
 displayname: "Beedrill -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swarm]
@@ -255,7 +255,7 @@ rarity: 1.0
 ---
 species: Pidgey
 displayname: "Pidgey-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tangled Feet]
@@ -273,7 +273,7 @@ rarity: 1.0
 ---
 species: Pidgeotto
 displayname: "Pidgeotto-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tangled Feet]
@@ -290,7 +290,7 @@ rarity: 1.0
 ---
 species: Pidgeot
 displayname: "Pidgeot -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tangled Feet]
@@ -307,7 +307,7 @@ rarity: 1.0
 ---
 species: Rattata
 displayname: "Rattata-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hustle]
@@ -324,7 +324,7 @@ rarity: 1.0
 ---
 species: Raticate
 displayname: "Raticate-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Guts]
@@ -341,7 +341,7 @@ rarity: 1.0
 ---
 species: Spearow
 displayname: "Spearow-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sniper]
@@ -358,7 +358,7 @@ rarity: 1.0
 ---
 species: Fearow
 displayname: "Fearow-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sniper]
@@ -375,7 +375,7 @@ rarity: 1.0
 ---
 species: Ekans
 displayname: "Ekans-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -392,7 +392,7 @@ rarity: 1.0
 ---
 species: Arbok
 displayname: "Arbok-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -409,7 +409,7 @@ rarity: 1.0
 ---
 species: Pikachu
 displayname: "Pikachu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -426,7 +426,7 @@ rarity: 1.0
 ---
 species: Raichu
 displayname: "Raichu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -443,7 +443,7 @@ rarity: 1.0
 ---
 species: Sandshrew
 displayname: "Sandshrew-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Veil]
@@ -460,7 +460,7 @@ rarity: 1.0
 ---
 species: Sandslash
 displayname: "Sandslash-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Veil]
@@ -477,13 +477,13 @@ rarity: 1.0
 ---
 species: Nidoran-F
 displayname: "Nidoran-F-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hustle]
 nature: Adamant
 ivs: 31
-evs: {hp: 60 atk: 252, def: 12, spA: 0, spD: 12, spe: 172}
+evs: {hp: 60, atk: 252, def: 12, spA: 0, spD: 12, spe: 172}
 moves:
     - [Poison Jab]
     - [Dig]
@@ -494,7 +494,7 @@ rarity: 1.0
 ---
 species: Nidorina
 displayname: "Nidorina-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rivalry]
@@ -511,7 +511,7 @@ rarity: 1.0
 ---
 species: Nidoqueen
 displayname: "Nidoqueen-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Poison Point]
@@ -528,7 +528,7 @@ rarity: 1.0
 ---
 species: Nidoran-M
 displayname: "Nidoran-M-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hustle]
@@ -545,7 +545,7 @@ rarity: 1.0
 ---
 species: Nidorino
 displayname: "Nidorino-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rivalry]
@@ -562,7 +562,7 @@ rarity: 1.0
 ---
 species: Nidoking
 displayname: "Nidoking-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rivalry]
@@ -579,7 +579,7 @@ rarity: 1.0
 ---
 species: Clefairy
 displayname: "Clefairy-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Magic Guard]
@@ -596,7 +596,7 @@ rarity: 1.0
 ---
 species: Clefable
 displayname: "Clefable-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Magic Guard]
@@ -613,7 +613,7 @@ rarity: 1.0
 ---
 species: Vulpix
 displayname: "Vulpix-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Drought]
@@ -630,7 +630,7 @@ rarity: 1.0
 ---
 species: Ninetales
 displayname: "Ninetales-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flash Fire]
@@ -647,7 +647,7 @@ rarity: 1.0
 ---
 species: Jigglypuff
 displayname: "Jigglypuff-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cute Charm]
@@ -664,7 +664,7 @@ rarity: 1.0
 ---
 species: Wigglytuff
 displayname: "Wigglytuff-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cute Charm]
@@ -681,7 +681,7 @@ rarity: 1.0
 ---
 species: Zubat
 displayname: "Zubat-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Inner Focus]
@@ -698,7 +698,7 @@ rarity: 1.0
 ---
 species: Golbat
 displayname: "Golbat-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Inner Focus]
@@ -715,7 +715,7 @@ rarity: 1.0
 ---
 species: Oddish
 displayname: "Oddish-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -732,7 +732,7 @@ rarity: 1.0
 ---
 species: Gloom
 displayname: "Gloom-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -749,7 +749,7 @@ rarity: 1.0
 ---
 species: Vileplume
 displayname: "Vileplume-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Effect Spore]
@@ -766,7 +766,7 @@ rarity: 1.0
 ---
 species: Paras
 displayname: "Paras-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Dry Skin]
@@ -783,7 +783,7 @@ rarity: 1.0
 ---
 species: Parasect
 displayname: "Parasect-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Wide Lens]
 ability: [Dry Skin]
@@ -800,7 +800,7 @@ rarity: 1.0
 ---
 species: Venonat
 displayname: "Venonat-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tinted Lens]
@@ -817,7 +817,7 @@ rarity: 1.0
 ---
 species: Venomoth
 displayname: "Venomoth-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tinted Lens]
@@ -834,7 +834,7 @@ rarity: 1.0
 ---
 species: Diglett
 displayname: "Diglett-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Veil]
@@ -851,7 +851,7 @@ rarity: 1.0
 ---
 species: Dugtrio
 displayname: "Dugtrio-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Arena Trap]
@@ -868,7 +868,7 @@ rarity: 1.0
 ---
 species: Meowth
 displayname: "Meowth-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Technician]
@@ -885,7 +885,7 @@ rarity: 1.0
 ---
 species: Persian
 displayname: "Persian-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Technician]
@@ -902,7 +902,7 @@ rarity: 1.0
 ---
 species: Psyduck
 displayname: "Psyduck-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cloud Nine]
@@ -919,7 +919,7 @@ rarity: 1.0
 ---
 species: Golduck
 displayname: "Golduck-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cloud Nine]
@@ -936,7 +936,7 @@ rarity: 1.0
 ---
 species: Mankey
 displayname: "Mankey-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Anger Point]
@@ -953,7 +953,7 @@ rarity: 1.0
 ---
 species: Primeape
 displayname: "Primeape-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Vital Spirit]
@@ -970,7 +970,7 @@ rarity: 1.0
 ---
 species: Growlithe
 displayname: "Growlithe-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -987,7 +987,7 @@ rarity: 1.0
 ---
 species: Arcanine
 displayname: "Arcanine-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -1004,13 +1004,13 @@ rarity: 1.0
 ---
 species: Poliwag
 displayname: "Poliwag-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Damp]
 nature: Timid
 ivs: 26
-evs: {hp: 56 atk: 0, def: 56, spA: 252, spD: 56, spe: 84}
+evs: {hp: 56, atk: 0, def: 56, spA: 252, spD: 56, spe: 84}
 moves:
     - [Surf]
     - [Hypnosis]
@@ -1021,7 +1021,7 @@ rarity: 1.0
 ---
 species: Poliwhirl
 displayname: "Poliwhirl-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Damp]
@@ -1038,7 +1038,7 @@ rarity: 1.0
 ---
 species: Poliwrath
 displayname: "Poliwrath-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Absorb]
@@ -1055,7 +1055,7 @@ rarity: 1.0
 ---
 species: Abra
 displayname: "Abra-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Synchronize]
@@ -1072,7 +1072,7 @@ rarity: 1.0
 ---
 species: Kadabra
 displayname: "Kadabra-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Magic Guard]
@@ -1089,7 +1089,7 @@ rarity: 1.0
 ---
 species: Alakazam
 displayname: "Alakazam-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Inner Focus]
@@ -1106,7 +1106,7 @@ rarity: 1.0
 ---
 species: Machop
 displayname: "Machop-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [No Guard]
@@ -1123,7 +1123,7 @@ rarity: 1.0
 ---
 species: Machoke
 displayname: "Machoke-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [No Guard]
@@ -1140,7 +1140,7 @@ rarity: 1.0
 ---
 species: Machamp
 displayname: "Machamp-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [No Guard]
@@ -1157,7 +1157,7 @@ rarity: 1.0
 ---
 species: Bellsprout
 displayname: "Bellsprout-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -1174,7 +1174,7 @@ rarity: 1.0
 ---
 species: Weepinbell
 displayname: "Weepinbell-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -1191,7 +1191,7 @@ rarity: 1.0
 ---
 species: Victreebel
 displayname: "Victreebel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -1208,7 +1208,7 @@ rarity: 1.0
 ---
 species: Tentacool
 displayname: "Tentacool-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Clear Body]
@@ -1225,7 +1225,7 @@ rarity: 1.0
 ---
 species: Tentacruel
 displayname: "Tentacruel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Liquid Ooze]
@@ -1242,7 +1242,7 @@ rarity: 1.0
 ---
 species: Geodude
 displayname: "Geodude-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -1259,7 +1259,7 @@ rarity: 1.0
 ---
 species: Graveler
 displayname: "Graveler-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -1276,7 +1276,7 @@ rarity: 1.0
 ---
 species: Golem
 displayname: "Golem-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Veil]
@@ -1293,7 +1293,7 @@ rarity: 1.0
 ---
 species: Ponyta
 displayname: "Ponyta-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flame Body]
@@ -1310,7 +1310,7 @@ rarity: 1.0
 ---
 species: Rapidash
 displayname: "Rapidash-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flash Fire]
@@ -1327,7 +1327,7 @@ rarity: 1.0
 ---
 species: Slowpoke
 displayname: "Slowpoke-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Own Tempo]
@@ -1344,7 +1344,7 @@ rarity: 1.0
 ---
 species: Slowbro
 displayname: "Slowbro-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Own Tempo]
@@ -1361,7 +1361,7 @@ rarity: 1.0
 ---
 species: Magnemite
 displayname: "Magnemite-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -1377,7 +1377,7 @@ rarity: 1.0
 ---
 species: Magneton
 displayname: "Magneton-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -1393,7 +1393,7 @@ rarity: 1.0
 ---
 species: Farfetch'd
 displayname: "Farfetch'd-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Inner Focus]
@@ -1410,7 +1410,7 @@ rarity: 1.0
 ---
 species: Doduo
 displayname: "Doduo-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tangled Feet]
@@ -1427,7 +1427,7 @@ rarity: 1.0
 ---
 species: Dodrio
 displayname: "Dodrio-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Early Bird]
@@ -1444,7 +1444,7 @@ rarity: 1.0
 ---
 species: Seel
 displayname: "Seel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hydration]
@@ -1461,7 +1461,7 @@ rarity: 1.0
 ---
 species: Dewgong
 displayname: "Dewgong-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
@@ -1478,7 +1478,7 @@ rarity: 1.0
 ---
 species: Grimer
 displayname: "Grimer-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Stench]
@@ -1495,7 +1495,7 @@ rarity: 1.0
 ---
 species: Muk
 displayname: "Muk-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sticky Hold]
@@ -1512,7 +1512,7 @@ rarity: 1.0
 ---
 species: Shellder
 displayname: "Shellder-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Skill Link]
@@ -1529,7 +1529,7 @@ rarity: 1.0
 ---
 species: Cloyster
 displayname: "Cloyster-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Skill Link]
@@ -1546,7 +1546,7 @@ rarity: 1.0
 ---
 species: Gastly
 displayname: "Gastly-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -1563,7 +1563,7 @@ rarity: 1.0
 ---
 species: Haunter
 displayname: "Haunter-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -1580,7 +1580,7 @@ rarity: 1.0
 ---
 species: Gengar
 displayname: "Gengar-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -1597,7 +1597,7 @@ rarity: 1.0
 ---
 species: Onix
 displayname: "Onix-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -1614,7 +1614,7 @@ rarity: 1.0
 ---
 species: Drowzee
 displayname: "Drowzee-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Insomnia]
@@ -1631,7 +1631,7 @@ rarity: 1.0
 ---
 species: Hypno
 displayname: "Hypno-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Insomnia]
@@ -1648,7 +1648,7 @@ rarity: 1.0
 ---
 species: Krabby
 displayname: "Krabby-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shell Armor]
@@ -1665,7 +1665,7 @@ rarity: 1.0
 ---
 species: Kingler
 displayname: "Kingler-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hyper Cutter]
@@ -1682,7 +1682,7 @@ rarity: 1.0
 ---
 species: Voltorb
 displayname: "Voltorb-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Aftermath]
@@ -1698,7 +1698,7 @@ rarity: 1.0
 ---
 species: Electrode
 displayname: "Electrode-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Soundproof]
@@ -1715,7 +1715,7 @@ rarity: 1.0
 ---
 species: Exeggcute
 displayname: "Exeggcute-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -1732,13 +1732,13 @@ rarity: 1.0
 ---
 species: Exeggutor
 displayname: "Exeggutor-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
 nature: Careful
 ivs: 5
-evs: {hp: 84 atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Wood Hammer]
     - [Psychic]
@@ -1749,7 +1749,7 @@ rarity: 1.0
 ---
 species: Cubone
 displayname: "Cubone-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Battle Armor]
@@ -1766,7 +1766,7 @@ rarity: 1.0
 ---
 species: Marowak
 displayname: "Marowak-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rock Head]
@@ -1783,7 +1783,7 @@ rarity: 1.0
 ---
 species: Hitmonlee
 displayname: "Hitmonlee-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Limber]
@@ -1800,7 +1800,7 @@ rarity: 1.0
 ---
 species: Hitmonchan
 displayname: "Hitmonchan-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Iron Fist]
@@ -1817,7 +1817,7 @@ rarity: 1.0
 ---
 species: Lickitung
 displayname: "Lickitung-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cloud Nine]
@@ -1834,7 +1834,7 @@ rarity: 1.0
 ---
 species: Koffing
 displayname: "Koffing-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -1851,7 +1851,7 @@ rarity: 1.0
 ---
 species: Weezing
 displayname: "Weezing-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -1868,7 +1868,7 @@ rarity: 1.0
 ---
 species: Rhyhorn
 displayname: "Rhyhorn-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Reckless]
@@ -1885,7 +1885,7 @@ rarity: 1.0
 ---
 species: Rhydon
 displayname: "Rhydon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Lightning Rod]
@@ -1902,7 +1902,7 @@ rarity: 1.0
 ---
 species: Chansey
 displayname: "Chansey-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Serene Grace]
@@ -1919,7 +1919,7 @@ rarity: 1.0
 ---
 species: Tangela
 displayname: "Tangela-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -1936,7 +1936,7 @@ rarity: 1.0
 ---
 species: Kangaskhan
 displayname: "Kangaskhan-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Scrappy]
@@ -1953,7 +1953,7 @@ rarity: 1.0
 ---
 species: Horsea
 displayname: "Horsea-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -1970,7 +1970,7 @@ rarity: 1.0
 ---
 species: Seadra
 displayname: "Seadra-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sniper]
@@ -1987,7 +1987,7 @@ rarity: 1.0
 ---
 species: Goldeen
 displayname: "Goldeen-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -2004,7 +2004,7 @@ rarity: 1.0
 ---
 species: Seaking
 displayname: "Seaking-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Lightning Rod]
@@ -2021,7 +2021,7 @@ rarity: 1.0
 ---
 species: Staryu
 displayname: "Staryu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Illuminate]
@@ -2037,7 +2037,7 @@ rarity: 1.0
 ---
 species: Starmie
 displayname: "Starmie-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Natural Cure]
@@ -2053,13 +2053,13 @@ rarity: 1.0
 ---
 species: Mr. Mime
 displayname: "Mr. Mime-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Filter]
 nature: Bold
 ivs: 11
-evs: {hp: 84, atk: 84 def: 84, spA: 84, spD: 84, spe: 84}
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Psybeam]
     - [Focus Blast]
@@ -2070,7 +2070,7 @@ rarity: 1.0
 ---
 species: Scyther
 displayname: "Scyther-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Technician]
@@ -2087,7 +2087,7 @@ rarity: 1.0
 ---
 species: Jynx
 displayname: "Jynx-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Dry Skin]
@@ -2104,7 +2104,7 @@ rarity: 1.0
 ---
 species: Electabuzz
 displayname: "Electabuzz-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -2121,7 +2121,7 @@ rarity: 1.0
 ---
 species: Magmar
 displayname: "Magmar-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flame Body]
@@ -2138,7 +2138,7 @@ rarity: 1.0
 ---
 species: Pinsir
 displayname: "Pinsir-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Mold Breaker]
@@ -2155,7 +2155,7 @@ rarity: 1.0
 ---
 species: Tauros
 displayname: "Tauros-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Anger Point]
@@ -2172,7 +2172,7 @@ rarity: 1.0
 ---
 species: Magikarp
 displayname: "Magikarp-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -2189,7 +2189,7 @@ rarity: 1.0
 ---
 species: Gyarados
 displayname: "Gyarados-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -2206,7 +2206,7 @@ rarity: 1.0
 ---
 species: Lapras
 displayname: "Lapras-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shell Armor]
@@ -2223,7 +2223,7 @@ rarity: 1.0
 ---
 species: Ditto
 displayname: "Ditto-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Quick Powder]
 ability: [Limber]
@@ -2236,7 +2236,7 @@ rarity: 1.0
 ---
 species: Eevee
 displayname: "Eevee-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Adaptability]
@@ -2253,7 +2253,7 @@ rarity: 1.0
 ---
 species: Vaporeon
 displayname: "Vaporeon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Absorb]
@@ -2270,13 +2270,13 @@ rarity: 1.0
 ---
 species: Jolteon
 displayname: "Jolteon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Volt Absorb]
 nature: Hardy
 ivs: 5
-evs: {hp: 84 atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Discharge]
     - [Last Resort]
@@ -2287,7 +2287,7 @@ rarity: 1.0
 ---
 species: Flareon
 displayname: "Flareon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flash Fire]
@@ -2304,7 +2304,7 @@ rarity: 1.0
 ---
 species: Porygon
 displayname: "Porygon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Download]
@@ -2320,7 +2320,7 @@ rarity: 1.0
 ---
 species: Omanyte
 displayname: "Omanyte-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -2337,13 +2337,13 @@ rarity: 1.0
 ---
 species: Omastar
 displayname: "Omastar-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shell Armor]
 nature: Quirky
 ivs: 8
-evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84 spe: 84}
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Muddy Water]
     - [Ancient Power]
@@ -2354,7 +2354,7 @@ rarity: 1.0
 ---
 species: Kabuto
 displayname: "Kabuto-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Battle Armor]
@@ -2371,13 +2371,13 @@ rarity: 1.0
 ---
 species: Kabutops
 displayname: "Kabutops-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Battle Armor]
 nature: Calm
 ivs: 29
-evs: {hp: 60, atk: 0, def: 0, spA: 64 spD: 76, spe: 0}
+evs: {hp: 60, atk: 0, def: 0, spA: 64, spD: 76, spe: 0}
 moves:
     - [Aqua Tail]
     - [Ancient Power]
@@ -2388,7 +2388,7 @@ rarity: 1.0
 ---
 species: Aerodactyl
 displayname: "Aerodactyl-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -2405,13 +2405,13 @@ rarity: 1.0
 ---
 species: Snorlax
 displayname: "Snorlax-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
 nature: Adamant
-ivs: {hp: 24 atk: 31, def: 24, spA: 24, spD: 24, spe: 24}
-evs: {hp: 0 atk: 252, def: 0, spA: 28, spD: 0, spe: 32}
+ivs: {hp: 24, atk: 31, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 0, atk: 252, def: 0, spA: 28, spD: 0, spe: 32}
 moves:
     - [Pay Day]
     - [Rock Smash]
@@ -2422,13 +2422,14 @@ rarity: 1.0
 ---
 species: Articuno
 displayname: "Articuno -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
 nature: Quirky
 ivs: 0
-evs: {hp: 84 atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+evs: {hp: 84,
+ atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Blizzard]
     - [Pluck]
@@ -2438,7 +2439,7 @@ rarity: 1.0
 ---
 species: Zapdos
 displayname: "Zapdos-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -2454,7 +2455,7 @@ rarity: 1.0
 ---
 species: Moltres
 displayname: "Moltres-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -2470,13 +2471,13 @@ rarity: 1.0
 ---
 species: Dratini
 displayname: "Dratini-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
 nature: Adamant
 ivs: 31
-evs: {hp: 168, atk: 84, def: 84 spA: 64, spD: 20, spe: 84}
+evs: {hp: 168, atk: 84, def: 84, spA: 64, spD: 20, spe: 84}
 moves:
     - [Outrage]
     - [Extreme Speed]
@@ -2487,7 +2488,7 @@ rarity: 1.0
 ---
 species: Dragonair
 displayname: "Dragonair-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -2504,13 +2505,14 @@ rarity: 1.0
 ---
 species: Dragonite
 displayname: "Dragonite-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Inner Focus]
 nature: Modest
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}moves:
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
     - [Dragon Rush]
     - [Zap Cannon]
     - [Surf]
@@ -2520,7 +2522,7 @@ rarity: 1.0
 ---
 species: Mewtwo
 displayname: "Mewtwo-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -2536,7 +2538,7 @@ rarity: 1.0
 ---
 species: Mew
 displayname: "Mew-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Synchronize]
@@ -2552,7 +2554,7 @@ rarity: 1.0
 ---
 species: Chikorita
 displayname: "Chikorita-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -2569,7 +2571,7 @@ rarity: 1.0
 ---
 species: Bayleef
 displayname: "Bayleef-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -2586,7 +2588,7 @@ rarity: 1.0
 ---
 species: Meganium
 displayname: "Meganium-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -2603,7 +2605,7 @@ rarity: 1.0
 ---
 species: Cyndaquil
 displayname: "Cyndaquil-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Blaze]
@@ -2620,7 +2622,7 @@ rarity: 1.0
 ---
 species: Quilava
 displayname: "Quilava-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Blaze]
@@ -2637,7 +2639,7 @@ rarity: 1.0
 ---
 species: Typhlosion
 displayname: "Typhlosion-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Blaze]
@@ -2654,7 +2656,7 @@ rarity: 1.0
 ---
 species: Totodile
 displayname: "Totodile-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -2671,13 +2673,13 @@ rarity: 1.0
 ---
 species: Croconaw
 displayname: "Croconaw-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
 nature: Jolly
 ivs: 16
-evs: {hp: 64 atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+evs: {hp: 64, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Dive]
     - [Slash]
@@ -2688,7 +2690,7 @@ rarity: 1.0
 ---
 species: Feraligatr
 displayname: "Feraligatr-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -2705,7 +2707,7 @@ rarity: 1.0
 ---
 species: Sentret
 displayname: "Sentret-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Keen Eye]
@@ -2722,7 +2724,7 @@ rarity: 1.0
 ---
 species: Furret
 displayname: "Furret-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Keen Eye]
@@ -2739,13 +2741,13 @@ rarity: 1.0
 ---
 species: Hoothoot
 displayname: "Hoothoot-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tinted Lens]
 nature: Timid
 ivs: 31
-evs: {hp: 4 atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 moves:
     - [Air Slash]
     - [Agility]
@@ -2756,7 +2758,7 @@ rarity: 1.0
 ---
 species: Noctowl
 displayname: "Noctowl-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tinted Lens]
@@ -2773,7 +2775,7 @@ rarity: 1.0
 ---
 species: Ledyba
 displayname: "Ledyba-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swarm]
@@ -2790,7 +2792,7 @@ rarity: 1.0
 ---
 species: Ledian
 displayname: "Ledian-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Iron Fist]
@@ -2807,7 +2809,7 @@ rarity: 1.0
 ---
 species: Spinarak
 displayname: "Spinarak-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sniper]
@@ -2824,7 +2826,7 @@ rarity: 1.0
 ---
 species: Ariados
 displayname: "Ariados-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swarm]
@@ -2841,7 +2843,7 @@ rarity: 1.0
 ---
 species: Crobat
 displayname: "Crobat-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Inner Focus]
@@ -2858,7 +2860,7 @@ rarity: 1.0
 ---
 species: Chinchou
 displayname: "Chinchou-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Volt Absorb]
@@ -2875,13 +2877,13 @@ rarity: 1.0
 ---
 species: Lanturn
 displayname: "Lanturn-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Absorb]
 nature: Naughty
 ivs: 31
-evs: {hp: 48, atk: 48, def: 48, spA: 48 spD: 48, spe: 48}
+evs: {hp: 48, atk: 48, def: 48, spA: 48, spD: 48, spe: 48}
 moves:
     - [Bubble Beam]
     - [Spark]
@@ -2892,7 +2894,7 @@ rarity: 1.0
 ---
 species: Pichu
 displayname: "Pichu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -2909,7 +2911,7 @@ rarity: 1.0
 ---
 species: Cleffa
 displayname: "Cleffa-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cute Charm]
@@ -2926,7 +2928,7 @@ rarity: 1.0
 ---
 species: Igglybuff
 displayname: "Igglybuff-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cute Charm]
@@ -2943,7 +2945,7 @@ rarity: 1.0
 ---
 species: Togepi
 displayname: "Togepi-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Super Luck]
@@ -2960,7 +2962,7 @@ rarity: 1.0
 ---
 species: Togetic
 displayname: "Togetic-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Serene Grace]
@@ -2977,7 +2979,7 @@ rarity: 1.0
 ---
 species: Natu
 displayname: "Natu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Synchronize]
@@ -2994,13 +2996,13 @@ rarity: 1.0
 ---
 species: Xatu
 displayname: "Xatu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Early Bird]
 nature: Impish
 ivs: 10
-evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84 spe: 84}
+evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
 moves:
     - [Drill Peck]
     - [Psychic]
@@ -3011,7 +3013,7 @@ rarity: 1.0
 ---
 species: Mareep
 displayname: "Mareep-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -3028,7 +3030,7 @@ rarity: 1.0
 ---
 species: Flaaffy
 displayname: "Flaaffy-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -3045,7 +3047,7 @@ rarity: 1.0
 ---
 species: Ampharos
 displayname: "Ampharos-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -3062,13 +3064,13 @@ rarity: 1.0
 ---
 species: Bellossom
 displayname: "Bellossom-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
 nature: Quiet
 ivs: 9
-evs: {hp: 84 atk: 84, def: 128, spA: 84 spD: 128, spe: 0}
+evs: {hp: 84, atk: 84, def: 128, spA: 84, spD: 128, spe: 0}
 moves:
     - [Petal Dance]
     - [Secret Power]
@@ -3079,13 +3081,13 @@ rarity: 1.0
 ---
 species: Marill
 displayname: "Marill-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Huge Power]
 nature: Adamant
 ivs: 31
-evs: {hp: 84, atk: 252, def: 84 spA: 0, spD: 84, spe: 0}
+evs: {hp: 84, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 moves:
     - [Waterfall]
     - [Body Slam]
@@ -3096,7 +3098,7 @@ rarity: 1.0
 ---
 species: Azumarill
 displayname: "Azumarill-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Huge Power]
@@ -3113,7 +3115,7 @@ rarity: 1.0
 ---
 species: Sudowoodo
 displayname: "Sudowoodo-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rock Head]
@@ -3130,7 +3132,7 @@ rarity: 1.0
 ---
 species: Politoed
 displayname: "Politoed-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Drizzle]
@@ -3147,7 +3149,7 @@ rarity: 1.0
 ---
 species: Hoppip
 displayname: "Hoppip-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -3164,7 +3166,7 @@ rarity: 1.0
 ---
 species: Skiploom
 displayname: "Skiploom-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -3181,7 +3183,7 @@ rarity: 1.0
 ---
 species: Jumpluff
 displayname: "Jumpluff-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Leaf Guard]
@@ -3198,7 +3200,7 @@ rarity: 1.0
 ---
 species: Aipom
 displayname: "Aipom-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Skill Link]
@@ -3215,7 +3217,7 @@ rarity: 1.0
 ---
 species: Sunkern
 displayname: "Sunkern-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Early Bird]
@@ -3232,7 +3234,7 @@ rarity: 1.0
 ---
 species: Sunflora
 displayname: "Sunflora-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Early Bird]
@@ -3249,7 +3251,7 @@ rarity: 1.0
 ---
 species: Yanma
 displayname: "Yanma-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Speed Boost]
@@ -3266,7 +3268,7 @@ rarity: 1.0
 ---
 species: Wooper
 displayname: "Wooper-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Unaware]
@@ -3283,7 +3285,7 @@ rarity: 1.0
 ---
 species: Quagsire
 displayname: "Quagsire-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Damp]
@@ -3300,7 +3302,7 @@ rarity: 1.0
 ---
 species: Espeon
 displayname: "Espeon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Synchronize]
@@ -3317,7 +3319,7 @@ rarity: 1.0
 ---
 species: Umbreon
 displayname: "Umbreon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Synchronize]
@@ -3334,7 +3336,7 @@ rarity: 1.0
 ---
 species: Murkrow
 displayname: "Murkrow-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Insomnia]
@@ -3351,7 +3353,7 @@ rarity: 1.0
 ---
 species: Slowking
 displayname: "Slowking-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Oblivious]
@@ -3368,7 +3370,7 @@ rarity: 1.0
 ---
 species: Misdreavus
 displayname: "Misdreavus-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -3385,7 +3387,7 @@ rarity: 1.0
 ---
 species: Unown
 displayname: "Unown-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Choice Specs]
 ability: [Levitate]
@@ -3398,7 +3400,7 @@ rarity: 1.0
 ---
 species: Wobbuffet
 displayname: "Wobbuffet-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shadow Tag]
@@ -3415,7 +3417,7 @@ rarity: 1.0
 ---
 species: Girafarig
 displayname: "Girafarig-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Early Bird]
@@ -3432,7 +3434,7 @@ rarity: 1.0
 ---
 species: Pineco
 displayname: "Pineco-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -3449,7 +3451,7 @@ rarity: 1.0
 ---
 species: Forretress
 displayname: "Forretress-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -3466,7 +3468,7 @@ rarity: 1.0
 ---
 species: Dunsparce
 displayname: "Dunsparce-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Serene Grace]
@@ -3483,7 +3485,7 @@ rarity: 1.0
 ---
 species: Gligar
 displayname: "Gligar-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hyper Cutter]
@@ -3500,7 +3502,7 @@ rarity: 1.0
 ---
 species: Steelix
 displayname: "Steelix-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -3517,7 +3519,7 @@ rarity: 1.0
 ---
 species: Snubbull
 displayname: "Snubbull-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -3534,7 +3536,7 @@ rarity: 1.0
 ---
 species: Granbull
 displayname: "Granbull-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Quick Feet]
@@ -3551,7 +3553,7 @@ rarity: 1.0
 ---
 species: Qwilfish
 displayname: "Qwilfish-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Poison Point]
@@ -3568,7 +3570,7 @@ rarity: 1.0
 ---
 species: Scizor
 displayname: "Scizor-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Technician]
@@ -3585,7 +3587,7 @@ rarity: 1.0
 ---
 species: Shuckle
 displayname: "Shuckle -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -3602,7 +3604,7 @@ rarity: 1.0
 ---
 species: Heracross
 displayname: "Heracross-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swarm]
@@ -3619,7 +3621,7 @@ rarity: 1.0
 ---
 species: Sneasel
 displayname: "Sneasel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Keen Eye]
@@ -3636,7 +3638,7 @@ rarity: 1.0
 ---
 species: Teddiursa
 displayname: "Teddiursa-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Quick Feet]
@@ -3653,7 +3655,7 @@ rarity: 1.0
 ---
 species: Ursaring
 displayname: "Ursaring-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Guts]
@@ -3670,7 +3672,7 @@ rarity: 1.0
 ---
 species: Slugma
 displayname: "Slugma-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Magma Armor]
@@ -3687,7 +3689,7 @@ rarity: 1.0
 ---
 species: Magcargo
 displayname: "Magcargo-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flame Body]
@@ -3704,7 +3706,7 @@ rarity: 1.0
 ---
 species: Swinub
 displayname: "Swinub-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
@@ -3721,7 +3723,7 @@ rarity: 1.0
 ---
 species: Piloswine
 displayname: "Piloswine-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Oblivious]
@@ -3738,7 +3740,7 @@ rarity: 1.0
 ---
 species: Corsola
 displayname: "Corsola-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hustle]
@@ -3755,7 +3757,7 @@ rarity: 1.0
 ---
 species: Remoraid
 displayname: "Remoraid-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sniper]
@@ -3772,7 +3774,7 @@ rarity: 1.0
 ---
 species: Octillery
 displayname: "Octillery-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Suction Cups]
@@ -3789,7 +3791,7 @@ rarity: 1.0
 ---
 species: Delibird
 displayname: "Delibird-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hustle]
@@ -3806,7 +3808,7 @@ rarity: 1.0
 ---
 species: Mantine
 displayname: "Mantine-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Veil]
@@ -3823,7 +3825,7 @@ rarity: 1.0
 ---
 species: Skarmory
 displayname: "Skarmory-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Keen Eye]
@@ -3840,7 +3842,7 @@ rarity: 1.0
 ---
 species: Houndour
 displayname: "Houndour-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flash Fire]
@@ -3857,7 +3859,7 @@ rarity: 1.0
 ---
 species: Houndoom
 displayname: "Houndoom-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Early Bird]
@@ -3874,7 +3876,7 @@ rarity: 1.0
 ---
 species: Kingdra
 displayname: "Kingdra-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Scope Lens]
 ability: [Sniper]
@@ -3891,7 +3893,7 @@ rarity: 1.0
 ---
 species: Phanpy
 displayname: "Phanpy-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Veil]
@@ -3908,7 +3910,7 @@ rarity: 1.0
 ---
 species: Donphan
 displayname: "Donphan-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -3925,7 +3927,7 @@ rarity: 1.0
 ---
 species: Porygon2
 displayname: "Porygon2-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Trace]
@@ -3941,7 +3943,7 @@ rarity: 1.0
 ---
 species: Stantler
 displayname: "Stantler-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -3958,7 +3960,7 @@ rarity: 1.0
 ---
 species: Smeargle
 displayname: "Smeargle -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Own Tempo]
@@ -3975,7 +3977,7 @@ rarity: 1.0
 ---
 species: Tyrogue
 displayname: "Tyrogue-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Guts]
@@ -3992,7 +3994,7 @@ rarity: 1.0
 ---
 species: Hitmontop
 displayname: "Hitmontop-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Technician]
@@ -4009,7 +4011,7 @@ rarity: 1.0
 ---
 species: Smoochum
 displayname: "Smoochum-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Oblivious]
@@ -4026,7 +4028,7 @@ rarity: 1.0
 ---
 species: Elekid
 displayname: "Elekid-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -4043,7 +4045,7 @@ rarity: 1.0
 ---
 species: Magby
 displayname: "Magby-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flame Body]
@@ -4060,7 +4062,7 @@ rarity: 1.0
 ---
 species: Miltank
 displayname: "Miltank-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Scrappy]
@@ -4077,7 +4079,7 @@ rarity: 1.0
 ---
 species: Blissey
 displayname: "Blissey-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Serene Grace]
@@ -4094,7 +4096,7 @@ rarity: 1.0
 ---
 species: Raikou
 displayname: "Raikou-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -4110,7 +4112,7 @@ rarity: 1.0
 ---
 species: Entei
 displayname: "Entei-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -4126,7 +4128,7 @@ rarity: 1.0
 ---
 species: Suicune
 displayname: "Suicune-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -4142,7 +4144,7 @@ rarity: 1.0
 ---
 species: Larvitar
 displayname: "Larvitar-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Guts]
@@ -4159,7 +4161,7 @@ rarity: 1.0
 ---
 species: Pupitar
 displayname: "Pupitar-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -4176,7 +4178,7 @@ rarity: 1.0
 ---
 species: Tyranitar
 displayname: "Tyranitar -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Stream]
@@ -4193,7 +4195,7 @@ rarity: 1.0
 ---
 species: Lugia
 displayname: "Lugia-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -4209,7 +4211,7 @@ rarity: 1.0
 ---
 species: Ho-Oh
 displayname: "Ho-Oh -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -4225,7 +4227,7 @@ rarity: 1.0
 ---
 species: Celebi
 displayname: "Celebi-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Natural Cure]
@@ -4241,7 +4243,7 @@ rarity: 1.0
 ---
 species: Treecko
 displayname: "Treecko-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -4258,7 +4260,7 @@ rarity: 1.0
 ---
 species: Grovyle
 displayname: "Grovyle-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -4275,7 +4277,7 @@ rarity: 1.0
 ---
 species: Sceptile
 displayname: "Sceptile-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -4292,7 +4294,7 @@ rarity: 1.0
 ---
 species: Torchic
 displayname: "Torchic-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Speed Boost]
@@ -4309,7 +4311,7 @@ rarity: 1.0
 ---
 species: Combusken
 displayname: "Combusken-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Speed Boost]
@@ -4326,7 +4328,7 @@ rarity: 1.0
 ---
 species: Blaziken
 displayname: "Blaziken-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Blaze]
@@ -4343,7 +4345,7 @@ rarity: 1.0
 ---
 species: Mudkip
 displayname: "Mudkip-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -4360,7 +4362,7 @@ rarity: 1.0
 ---
 species: Marshtomp
 displayname: "Marshtomp-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -4377,7 +4379,7 @@ rarity: 1.0
 ---
 species: Swampert
 displayname: "Swampert-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -4394,7 +4396,7 @@ rarity: 1.0
 ---
 species: Poochyena
 displayname: "Poochyena-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Quick Feet]
@@ -4411,7 +4413,7 @@ rarity: 1.0
 ---
 species: Mightyena
 displayname: "Mightyena-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -4428,7 +4430,7 @@ rarity: 1.0
 ---
 species: Zigzagoon
 displayname: "Zigzagoon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Gluttony]
@@ -4445,7 +4447,7 @@ rarity: 1.0
 ---
 species: Linoone
 displayname: "Linoone-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pickup]
@@ -4462,13 +4464,13 @@ rarity: 1.0
 ---
 species: Wurmple
 displayname: "Wurmple-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Serene Grace]
 nature: Impish
 ivs: 31
-evs: {hp: 252, atk: 24, def: 52, spA: 0, spD: 64 spe: 116}
+evs: {hp: 252, atk: 24, def: 52, spA: 0, spD: 64, spe: 116}
 moves:
     - [Twinneedle]
     - [Dig]
@@ -4479,7 +4481,7 @@ rarity: 1.0
 ---
 species: Silcoon
 displayname: "Silcoon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -4496,7 +4498,7 @@ rarity: 1.0
 ---
 species: Beautifly
 displayname: "Beautifly-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rivalry]
@@ -4513,7 +4515,7 @@ rarity: 1.0
 ---
 species: Cascoon
 displayname: "Cascoon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -4530,7 +4532,7 @@ rarity: 1.0
 ---
 species: Dustox
 displayname: "Dustox-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Compound Eyes]
@@ -4547,7 +4549,7 @@ rarity: 1.0
 ---
 species: Lotad
 displayname: "Lotad-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -4564,7 +4566,7 @@ rarity: 1.0
 ---
 species: Lombre
 displayname: "Lombre-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Own Tempo]
@@ -4581,7 +4583,7 @@ rarity: 1.0
 ---
 species: Ludicolo
 displayname: "Ludicolo-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rain Dish]
@@ -4598,7 +4600,7 @@ rarity: 1.0
 ---
 species: Seedot
 displayname: "Seedot-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -4615,7 +4617,7 @@ rarity: 1.0
 ---
 species: Nuzleaf
 displayname: "Nuzleaf-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -4632,7 +4634,7 @@ rarity: 1.0
 ---
 species: Shiftry
 displayname: "Shiftry-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Early Bird]
@@ -4649,7 +4651,7 @@ rarity: 1.0
 ---
 species: Taillow
 displayname: "Taillow-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Guts]
@@ -4667,7 +4669,7 @@ rarity: 1.0
 ---
 species: Swellow
 displayname: "Swellow-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Scrappy]
@@ -4684,7 +4686,7 @@ rarity: 1.0
 ---
 species: Wingull
 displayname: "Wingull-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rain Dish]
@@ -4701,7 +4703,7 @@ rarity: 1.0
 ---
 species: Pelipper
 displayname: "Pelipper-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Keen Eye]
@@ -4718,7 +4720,7 @@ rarity: 1.0
 ---
 species: Ralts
 displayname: "Ralts-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Synchronize]
@@ -4735,7 +4737,7 @@ rarity: 1.0
 ---
 species: Kirlia
 displayname: "Kirlia-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Trace]
@@ -4752,7 +4754,7 @@ rarity: 1.0
 ---
 species: Gardevoir
 displayname: "Gardevoir-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Trace]
@@ -4769,7 +4771,7 @@ rarity: 1.0
 ---
 species: Surskit
 displayname: "Surskit-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -4786,7 +4788,7 @@ rarity: 1.0
 ---
 species: Masquerain
 displayname: "Masquerain-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -4803,7 +4805,7 @@ rarity: 1.0
 ---
 species: Shroomish
 displayname: "Shroomish-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Poison Heal]
@@ -4820,7 +4822,7 @@ rarity: 1.0
 ---
 species: Breloom
 displayname: "Breloom-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Technician]
@@ -4837,7 +4839,7 @@ rarity: 1.0
 ---
 species: Slakoth
 displayname: "Slakoth-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Truant]
@@ -4854,7 +4856,7 @@ rarity: 1.0
 ---
 species: Vigoroth
 displayname: "Vigoroth-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Vital Spirit]
@@ -4871,7 +4873,7 @@ rarity: 1.0
 ---
 species: Slaking
 displayname: "Slaking-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Truant]
@@ -4888,7 +4890,7 @@ rarity: 1.0
 ---
 species: Nincada
 displayname: "Nincada-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Compound Eyes]
@@ -4905,7 +4907,7 @@ rarity: 1.0
 ---
 species: Ninjask
 displayname: "Ninjask-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Speed Boost]
@@ -4922,7 +4924,7 @@ rarity: 1.0
 ---
 species: Shedinja
 displayname: "Shedinja-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Wonder Guard]
@@ -4930,15 +4932,15 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 18, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 44, spD: 0, spe: 252}
 moves:
-	- [X-Scissor]
-	- [Shadow Sneak]
-	- [Will-O-Wisp]
-	- [Curse]
+    - [X-Scissor]
+    - [Shadow Sneak]
+    - [Will-O-Wisp]
+    - [Curse]
 rarity: 1.0
 ---
 species: Whismur
 displayname: "Whismur-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Soundproof]
@@ -4955,7 +4957,7 @@ rarity: 1.0
 ---
 species: Loudred
 displayname: "Loudred-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Soundproof]
@@ -4972,7 +4974,7 @@ rarity: 1.0
 ---
 species: Exploud
 displayname: "Exploud-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Scrappy]
@@ -4989,7 +4991,7 @@ rarity: 1.0
 ---
 species: Makuhita
 displayname: "Makuhita-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
@@ -5006,7 +5008,7 @@ rarity: 1.0
 ---
 species: Hariyama
 displayname: "Hariyama-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Guts]
@@ -5023,7 +5025,7 @@ rarity: 1.0
 ---
 species: Azurill
 displayname: "Azurill-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Huge Power]
@@ -5040,7 +5042,7 @@ rarity: 1.0
 ---
 species: Nosepass
 displayname: "Nosepass-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -5057,7 +5059,7 @@ rarity: 1.0
 ---
 species: Skitty
 displayname: "Skitty-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Normalize]
@@ -5074,7 +5076,7 @@ rarity: 1.0
 ---
 species: Delcatty
 displayname: "Delcatty-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Normalize]
@@ -5091,7 +5093,7 @@ rarity: 1.0
 ---
 species: Sableye
 displayname: "Sableye-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Stall]
@@ -5108,7 +5110,7 @@ rarity: 1.0
 ---
 species: Mawile
 displayname: "Mawile-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -5125,7 +5127,7 @@ rarity: 1.0
 ---
 species: Aron
 displayname: "Aron-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rock Head]
@@ -5142,7 +5144,7 @@ rarity: 1.0
 ---
 species: Lairon
 displayname: "Lairon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -5159,7 +5161,7 @@ rarity: 1.0
 ---
 species: Aggron
 displayname: "Aggron-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -5176,7 +5178,7 @@ rarity: 1.0
 ---
 species: Meditite
 displayname: "Meditite-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pure Power]
@@ -5193,7 +5195,7 @@ rarity: 1.0
 ---
 species: Medicham
 displayname: "Medicham-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pure Power]
@@ -5210,7 +5212,7 @@ rarity: 1.0
 ---
 species: Electrike
 displayname: "Electrike-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -5227,7 +5229,7 @@ rarity: 1.0
 ---
 species: Manectric
 displayname: "Manectric-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Static]
@@ -5244,7 +5246,7 @@ rarity: 1.0
 ---
 species: Plusle
 displayname: "Plusle-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Plus]
@@ -5261,7 +5263,7 @@ rarity: 1.0
 ---
 species: Minun
 displayname: "Minun-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Minus]
@@ -5278,7 +5280,7 @@ rarity: 1.0
 ---
 species: Volbeat
 displayname: "Volbeat-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swarm]
@@ -5295,7 +5297,7 @@ rarity: 1.0
 ---
 species: Illumise
 displayname: "Illumise-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tinted Lens]
@@ -5312,7 +5314,7 @@ rarity: 1.0
 ---
 species: Roselia
 displayname: "Roselia-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Poison Point]
@@ -5329,7 +5331,7 @@ rarity: 1.0
 ---
 species: Gulpin
 displayname: "Gulpin-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Liquid Ooze]
@@ -5346,7 +5348,7 @@ rarity: 1.0
 ---
 species: Swalot
 displayname: "Swalot-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Liquid Ooze]
@@ -5363,7 +5365,7 @@ rarity: 1.0
 ---
 species: Carvanha
 displayname: "Carvanha-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Speed Boost]
@@ -5380,7 +5382,7 @@ rarity: 1.0
 ---
 species: Sharpedo
 displayname: "Sharpedo-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Speed Boost]
@@ -5397,7 +5399,7 @@ rarity: 1.0
 ---
 species: Wailmer
 displayname: "Wailmer-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Veil]
@@ -5414,7 +5416,7 @@ rarity: 1.0
 ---
 species: Wailord
 displayname: "Wailord -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Veil]
@@ -5431,7 +5433,7 @@ rarity: 1.0
 ---
 species: Numel
 displayname: "Numel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Simple]
@@ -5448,7 +5450,7 @@ rarity: 1.0
 ---
 species: Camerupt
 displayname: "Camerupt-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Solid Rock]
@@ -5465,7 +5467,7 @@ rarity: 1.0
 ---
 species: Torkoal
 displayname: "Torkoal-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Grip Claw]
 ability: [White Smoke]
@@ -5482,7 +5484,7 @@ rarity: 1.0
 ---
 species: Spoink
 displayname: "Spoink-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
@@ -5499,7 +5501,7 @@ rarity: 1.0
 ---
 species: Grumpig
 displayname: "Grumpig-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Own Tempo]
@@ -5516,7 +5518,7 @@ rarity: 1.0
 ---
 species: Spinda
 displayname: "Spinda-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tangled Feet]
@@ -5533,7 +5535,7 @@ rarity: 1.0
 ---
 species: Trapinch
 displayname: "Trapinch-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hyper Cutter]
@@ -5550,7 +5552,7 @@ rarity: 1.0
 ---
 species: Vibrava
 displayname: "Vibrava-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -5567,7 +5569,7 @@ rarity: 1.0
 ---
 species: Flygon
 displayname: "Flygon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -5584,7 +5586,7 @@ rarity: 1.0
 ---
 species: Cacnea
 displayname: "Cacnea-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Absorb]
@@ -5601,7 +5603,7 @@ rarity: 1.0
 ---
 species: Cacturne
 displayname: "Cacturne-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Veil]
@@ -5618,7 +5620,7 @@ rarity: 1.0
 ---
 species: Swablu
 displayname: "Swablu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cloud Nine]
@@ -5635,7 +5637,7 @@ rarity: 1.0
 ---
 species: Altaria
 displayname: "Altaria-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cloud Nine]
@@ -5652,7 +5654,7 @@ rarity: 1.0
 ---
 species: Zangoose
 displayname: "Zangoose-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Immunity]
@@ -5669,7 +5671,7 @@ rarity: 1.0
 ---
 species: Seviper
 displayname: "Seviper-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -5686,7 +5688,7 @@ rarity: 1.0
 ---
 species: Lunatone
 displayname: "Lunatone-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -5702,7 +5704,7 @@ rarity: 1.0
 ---
 species: Solrock
 displayname: "Solrock-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -5718,7 +5720,7 @@ rarity: 1.0
 ---
 species: Barboach
 displayname: "Barboach-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Oblivious]
@@ -5735,7 +5737,7 @@ rarity: 1.0
 ---
 species: Whiscash
 displayname: "Whiscash-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Oblivious]
@@ -5752,7 +5754,7 @@ rarity: 1.0
 ---
 species: Corphish
 displayname: "Corphish-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Adaptability]
@@ -5769,7 +5771,7 @@ rarity: 1.0
 ---
 species: Crawdaunt
 displayname: "Crawdaunt-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hyper Cutter]
@@ -5786,7 +5788,7 @@ rarity: 1.0
 ---
 species: Baltoy
 displayname: "Baltoy-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -5802,7 +5804,7 @@ rarity: 1.0
 ---
 species: Claydol
 displayname: "Claydol-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -5819,7 +5821,7 @@ rarity: 1.0
 ---
 species: Lileep
 displayname: "Lileep-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Suction Cups]
@@ -5836,7 +5838,7 @@ rarity: 1.0
 ---
 species: Cradily
 displayname: "Cradily-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Suction Cups]
@@ -5853,7 +5855,7 @@ rarity: 1.0
 ---
 species: Anorith
 displayname: "Anorith-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Battle Armor]
@@ -5870,7 +5872,7 @@ rarity: 1.0
 ---
 species: Armaldo
 displayname: "Armaldo-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Battle Armor]
@@ -5887,7 +5889,7 @@ rarity: 1.0
 ---
 species: Feebas
 displayname: "Feebas-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Adaptability]
@@ -5905,7 +5907,7 @@ rarity: 1.0
 ---
 species: Milotic
 displayname: "Milotic-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Marvel Scale]
@@ -5922,7 +5924,7 @@ rarity: 1.0
 ---
 species: Castform
 displayname: "Castform-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Forecast]
@@ -5939,7 +5941,7 @@ rarity: 1.0
 ---
 species: Kecleon
 displayname: "Kecleon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Color Change]
@@ -5956,7 +5958,7 @@ rarity: 1.0
 ---
 species: Shuppet
 displayname: "Shuppet-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Insomnia]
@@ -5973,7 +5975,7 @@ rarity: 1.0
 ---
 species: Banette
 displayname: "Banette-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Insomnia]
@@ -5990,7 +5992,7 @@ rarity: 1.0
 ---
 species: Duskull
 displayname: "Duskull-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -6007,7 +6009,7 @@ rarity: 1.0
 ---
 species: Dusclops
 displayname: "Dusclops-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -6024,7 +6026,7 @@ rarity: 1.0
 ---
 species: Tropius
 displayname: "Tropius-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Solar Power]
@@ -6041,7 +6043,7 @@ rarity: 1.0
 ---
 species: Chimecho
 displayname: "Chimecho-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -6058,7 +6060,7 @@ rarity: 1.0
 ---
 species: Absol
 displayname: "Absol-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Super Luck]
@@ -6075,7 +6077,7 @@ rarity: 1.0
 ---
 species: Wynaut
 displayname: "Wynaut-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shadow Tag]
@@ -6092,7 +6094,7 @@ rarity: 1.0
 ---
 species: Snorunt
 displayname: "Snorunt-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Ice Body]
@@ -6109,7 +6111,7 @@ rarity: 1.0
 ---
 species: Glalie
 displayname: "Glalie-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Ice Body]
@@ -6126,7 +6128,7 @@ rarity: 1.0
 ---
 species: Spheal
 displayname: "Spheal-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Ice Body]
@@ -6143,7 +6145,7 @@ rarity: 1.0
 ---
 species: Sealeo
 displayname: "Sealeo-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
@@ -6160,7 +6162,7 @@ rarity: 1.0
 ---
 species: Walrein
 displayname: "Walrein-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
@@ -6177,7 +6179,7 @@ rarity: 1.0
 ---
 species: Clamperl
 displayname: "Clamperl-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shell Armor]
@@ -6194,7 +6196,7 @@ rarity: 1.0
 ---
 species: Huntail
 displayname: "Huntail-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Grip Claw]
 ability: [Water Veil]
@@ -6211,7 +6213,7 @@ rarity: 1.0
 ---
 species: Gorebyss
 displayname: "Gorebyss-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -6228,7 +6230,7 @@ rarity: 1.0
 ---
 species: Relicanth
 displayname: "Relicanth-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rock Head]
@@ -6245,7 +6247,7 @@ rarity: 1.0
 ---
 species: Luvdisc
 displayname: "Luvdisc-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -6262,7 +6264,7 @@ rarity: 1.0
 ---
 species: Bagon
 displayname: "Bagon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rock Head]
@@ -6279,7 +6281,7 @@ rarity: 1.0
 ---
 species: Shelgon
 displayname: "Shelgon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rock Head]
@@ -6296,7 +6298,7 @@ rarity: 1.0
 ---
 species: Salamence
 displayname: "Salamence-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -6313,7 +6315,7 @@ rarity: 1.0
 ---
 species: Beldum
 displayname: "Beldum-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Clear Body]
@@ -6329,7 +6331,7 @@ rarity: 1.0
 ---
 species: Metang
 displayname: "Metang-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Clear Body]
@@ -6345,7 +6347,7 @@ rarity: 1.0
 ---
 species: Metagross
 displayname: "Metagross-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Clear Body]
@@ -6361,7 +6363,7 @@ rarity: 1.0
 ---
 species: Regirock
 displayname: "Regirock-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Clear Body]
@@ -6377,7 +6379,7 @@ rarity: 1.0
 ---
 species: Regice
 displayname: "Regice-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Clear Body]
@@ -6393,7 +6395,7 @@ rarity: 1.0
 ---
 species: Registeel
 displayname: "Registeel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Clear Body]
@@ -6410,7 +6412,7 @@ rarity: 1.0
 ---
 species: Latias
 displayname: "Latias-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -6427,7 +6429,7 @@ rarity: 1.0
 ---
 species: Latios
 displayname: "Latios-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -6444,7 +6446,7 @@ rarity: 1.0
 ---
 species: Kyogre
 displayname: "Kyogre-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Grip Claw]
 ability: [Drizzle]
@@ -6460,7 +6462,7 @@ rarity: 1.0
 ---
 species: Groudon
 displayname: "Groudon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Drought]
@@ -6476,7 +6478,7 @@ rarity: 1.0
 ---
 species: Rayquaza
 displayname: "Rayquaza-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Air Lock]
@@ -6492,7 +6494,7 @@ rarity: 1.0
 ---
 species: Jirachi
 displayname: "Jirachi-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Serene Grace]
@@ -6508,7 +6510,7 @@ rarity: 1.0
 ---
 species: Deoxys
 displayname: "Deoxys-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -6522,9 +6524,10 @@ moves:
     - [Torment]
 rarity: 1.0
 ---
-species: Deoxys-Attack
+species: Deoxys
+form: Attack
 displayname: "Deoxys-Attack-T"
-setname: [PBR Gold]
+setname: PBR Gold-Attack
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -6539,9 +6542,10 @@ moves:
 form: Attack
 rarity: 1.0
 ---
-species: Deoxys-Defense
+species: Deoxys
+form: Defense
 displayname: "Deoxys-Defense-T"
-setname: [PBR Gold]
+setname: PBR Gold-Defense
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -6556,9 +6560,10 @@ moves:
 form: Defense
 rarity: 1.0
 ---
-species: Deoxys-Speed
+species: Deoxys
+form: Speed
 displayname: "Deoxys-Speed-T"
-setname: [PBR Gold]
+setname: PBR Gold-Speed
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -6575,7 +6580,7 @@ rarity: 1.0
 ---
 species: Turtwig
 displayname: "Turtwig-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shell Armor]
@@ -6592,7 +6597,7 @@ rarity: 1.0
 ---
 species: Grotle
 displayname: "Grotle-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -6609,7 +6614,7 @@ rarity: 1.0
 ---
 species: Torterra
 displayname: "Torterra-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Overgrow]
@@ -6626,7 +6631,7 @@ rarity: 1.0
 ---
 species: Chimchar
 displayname: "Chimchar-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Iron Fist]
@@ -6643,7 +6648,7 @@ rarity: 1.0
 ---
 species: Monferno
 displayname: "Monferno-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Blaze]
@@ -6660,7 +6665,7 @@ rarity: 1.0
 ---
 species: Infernape
 displayname: "Infernape-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Blaze]
@@ -6677,7 +6682,7 @@ rarity: 1.0
 ---
 species: Piplup
 displayname: "Piplup-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -6694,7 +6699,7 @@ rarity: 1.0
 ---
 species: Prinplup
 displayname: "Prinplup -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -6711,7 +6716,7 @@ rarity: 1.0
 ---
 species: Empoleon
 displayname: "Empoleon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Torrent]
@@ -6728,7 +6733,7 @@ rarity: 1.0
 ---
 species: Starly
 displayname: "Starly-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Reckless]
@@ -6745,7 +6750,7 @@ rarity: 1.0
 ---
 species: Staravia
 displayname: "Staravia-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -6762,7 +6767,7 @@ rarity: 1.0
 ---
 species: Staraptor
 displayname: "Staraptor-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Reckless]
@@ -6779,7 +6784,7 @@ rarity: 1.0
 ---
 species: Bidoof
 displayname: "Bidoof-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Simple]
@@ -6796,7 +6801,7 @@ rarity: 1.0
 ---
 species: Bibarel
 displayname: "Bibarel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Simple]
@@ -6813,7 +6818,7 @@ rarity: 1.0
 ---
 species: Kricketot
 displayname: "Kricketot-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -6830,7 +6835,7 @@ rarity: 1.0
 ---
 species: Kricketune
 displayname: "Kricketune-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swarm]
@@ -6847,7 +6852,7 @@ rarity: 1.0
 ---
 species: Shinx
 displayname: "Shinx-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -6865,7 +6870,7 @@ rarity: 1.0
 ---
 species: Luxio
 displayname: "Luxio-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
@@ -6882,7 +6887,7 @@ rarity: 1.0
 ---
 species: Luxray
 displayname: "Luxray-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Guts]
@@ -6899,7 +6904,7 @@ rarity: 1.0
 ---
 species: Budew
 displayname: "Budew-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Poison Point]
@@ -6916,7 +6921,7 @@ rarity: 1.0
 ---
 species: Roserade
 displayname: "Roserade-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Poison Point]
@@ -6933,7 +6938,7 @@ rarity: 1.0
 ---
 species: Cranidos
 displayname: "Cranidos-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Mold Breaker]
@@ -6950,7 +6955,7 @@ rarity: 1.0
 ---
 species: Rampardos
 displayname: "Rampardos-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Mold Breaker]
@@ -6967,7 +6972,7 @@ rarity: 1.0
 ---
 species: Shieldon
 displayname: "Shieldon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Soundproof]
@@ -6984,7 +6989,7 @@ rarity: 1.0
 ---
 species: Bastiodon
 displayname: "Bastiodon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -7001,7 +7006,7 @@ rarity: 1.0
 ---
 species: Burmy
 displayname: "Burmy-Plant-T"
-setname: [PBR Gold]
+setname: PBR Gold-Plant
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -7018,8 +7023,8 @@ form: Plant
 rarity: 1.0
 ---
 species: Burmy
-displayname: "Burmy-Sand-T"
-setname: [PBR Gold]
+displayname: "Burmy-Sandy-T"
+setname: PBR Gold-Sandy
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -7037,7 +7042,7 @@ rarity: 1.0
 ---
 species: Burmy
 displayname: "Burmy-Trash-T"
-setname: [PBR Gold]
+setname: PBR Gold-Trash
 tags: [PBR1.2]
 item: [Null]
 ability: [Shed Skin]
@@ -7055,7 +7060,7 @@ rarity: 1.0
 ---
 species: Wormadam
 displayname: "Wormadam-Plant-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Anticipation]
@@ -7073,7 +7078,7 @@ rarity: 1.0
 ---
 species: Wormadam
 displayname: "Wormadam-Sandy-T"
-setname: [PBR Gold]
+setname: PBR Gold-Sandy
 tags: [PBR1.2]
 item: [Null]
 ability: [Anticipation]
@@ -7091,7 +7096,7 @@ rarity: 1.0
 ---
 species: Wormadam
 displayname: "Wormadam-Trash-T"
-setname: [PBR Gold]
+setname: PBR Gold-Trash
 tags: [PBR1.2]
 item: [Null]
 ability: [Anticipation]
@@ -7109,7 +7114,7 @@ rarity: 1.0
 ---
 species: Mothim
 displayname: "Mothim-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tinted Lens]
@@ -7126,7 +7131,7 @@ rarity: 1.0
 ---
 species: Combee
 displayname: "Combee-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Honey Gather]
@@ -7143,7 +7148,7 @@ rarity: 1.0
 ---
 species: Vespiquen
 displayname: "Vespiquen-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -7160,7 +7165,7 @@ rarity: 1.0
 ---
 species: Pachirisu
 displayname: "Pachirisu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Volt Absorb]
@@ -7177,7 +7182,7 @@ rarity: 1.0
 ---
 species: Buizel
 displayname: "Buizel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -7194,7 +7199,7 @@ rarity: 1.0
 ---
 species: Floatzel
 displayname: "Floatzel-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Veil]
@@ -7211,7 +7216,7 @@ rarity: 1.0
 ---
 species: Cherubi
 displayname: "Cherubi-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Chlorophyll]
@@ -7228,7 +7233,7 @@ rarity: 1.0
 ---
 species: Cherrim
 displayname: "Cherrim-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flower Gift]
@@ -7246,7 +7251,7 @@ rarity: 1.0
 ---
 species: Shellos
 displayname: "Shellos-West-T"
-setname: [PBR Gold]
+setname: PBR Gold-West
 tags: [PBR1.2]
 item: [Null]
 ability: [Storm Drain]
@@ -7264,7 +7269,7 @@ rarity: 1.0
 ---
 species: Shellos
 displayname: "Shellos-East-T"
-setname: [PBR Gold]
+setname: PBR Gold-East
 tags: [PBR1.2]
 item: [Null]
 ability: [Storm Drain]
@@ -7282,7 +7287,7 @@ rarity: 1.0
 ---
 species: Gastrodon
 displayname: "Gastrodon-West-T"
-setname: [PBR Gold]
+setname: PBR Gold-West
 tags: [PBR1.2]
 item: [Null]
 ability: [Storm Drain]
@@ -7300,7 +7305,7 @@ rarity: 1.0
 ---
 species: Gastrodon
 displayname: "Gastrodon-East-T"
-setname: [PBR Gold]
+setname: PBR Gold-East
 tags: [PBR1.2]
 item: [Null]
 ability: [Storm Drain]
@@ -7318,7 +7323,7 @@ rarity: 1.0
 ---
 species: Ambipom
 displayname: "Ambipom-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Technician]
@@ -7335,7 +7340,7 @@ rarity: 1.0
 ---
 species: Drifloon
 displayname: "Drifloon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Aftermath]
@@ -7352,7 +7357,7 @@ rarity: 1.0
 ---
 species: Drifblim
 displayname: "Drifblim -T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Aftermath]
@@ -7369,12 +7374,12 @@ rarity: 1.0
 ---
 species: Buneary
 displayname: "Buneary-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Limber]
 nature: Adamant
-Happniess : 0
+happiness: 0
 ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
@@ -7387,7 +7392,7 @@ rarity: 1.0
 ---
 species: Lopunny
 displayname: "Lopunny-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Cute Charm]
@@ -7404,7 +7409,7 @@ rarity: 1.0
 ---
 species: Mismagius
 displayname: "Mismagius-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -7421,7 +7426,7 @@ rarity: 1.0
 ---
 species: Honchkrow
 displayname: "Honchkrow-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Super Luck]
@@ -7438,7 +7443,7 @@ rarity: 1.0
 ---
 species: Glameow
 displayname: "Glameow-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Limber]
@@ -7453,7 +7458,7 @@ rarity: 1.0
 ---
 species: Purugly
 displayname: "Purugly-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
@@ -7470,7 +7475,7 @@ rarity: 1.0
 ---
 species: Chingling
 displayname: "Chingling-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -7487,7 +7492,7 @@ rarity: 1.0
 ---
 species: Stunky
 displayname: "Stunky-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Aftermath]
@@ -7504,7 +7509,7 @@ rarity: 1.0
 ---
 species: Skuntank
 displayname: "Skuntank-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Aftermath]
@@ -7521,7 +7526,7 @@ rarity: 1.0
 ---
 species: Bronzor
 displayname: "Bronzor-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Heatproof]
@@ -7537,7 +7542,7 @@ rarity: 1.0
 ---
 species: Bronzong
 displayname: "Bronzong-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Heatproof]
@@ -7553,7 +7558,7 @@ rarity: 1.0
 ---
 species: Bonsly
 displayname: "Bonsly-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -7570,13 +7575,13 @@ rarity: 1.0
 ---
 species: Mime Jr.
 displayname: "Mime Jr.-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Filter]
 nature: Modest
 ivs: 31
-evs: {hp: 100, atk: 0, def: 8 spA: 224, spD: 0, spe: 176}
+evs: {hp: 100, atk: 0, def: 8, spA: 224, spD: 0, spe: 176}
 moves:
     - [Psychic]
     - [Thunderbolt]
@@ -7587,7 +7592,7 @@ rarity: 1.0
 ---
 species: Happiny
 displayname: "Happiny-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Serene Grace]
@@ -7604,7 +7609,7 @@ rarity: 1.0
 ---
 species: Chatot
 displayname: "Chatot-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Keen Eye]
@@ -7621,7 +7626,7 @@ rarity: 1.0
 ---
 species: Spiritomb
 displayname: "Spiritomb-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -7638,7 +7643,7 @@ rarity: 1.0
 ---
 species: Gible
 displayname: "Gible-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rough Skin]
@@ -7655,7 +7660,7 @@ rarity: 1.0
 ---
 species: Gabite
 displayname: "Gabite-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Rough Skin]
@@ -7672,7 +7677,7 @@ rarity: 1.0
 ---
 species: Garchomp
 displayname: "Garchomp-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Veil]
@@ -7689,7 +7694,7 @@ rarity: 1.0
 ---
 species: Munchlax
 displayname: "Munchlax-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Thick Fat]
@@ -7706,7 +7711,7 @@ rarity: 1.0
 ---
 species: Riolu
 displayname: "Riolu-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Steadfast]
@@ -7723,7 +7728,7 @@ rarity: 1.0
 ---
 species: Lucario
 displayname: "Lucario-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Inner Focus]
@@ -7740,7 +7745,7 @@ rarity: 1.0
 ---
 species: Hippopotas
 displayname: "Hippopotas-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Stream]
@@ -7757,7 +7762,7 @@ rarity: 1.0
 ---
 species: Hippowdon
 displayname: "Hippowdon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sand Stream]
@@ -7774,7 +7779,7 @@ rarity: 1.0
 ---
 species: Skorupi
 displayname: "Skorupi-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sniper]
@@ -7791,7 +7796,7 @@ rarity: 1.0
 ---
 species: Drapion
 displayname: "Drapion-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Battle Armor]
@@ -7808,7 +7813,7 @@ rarity: 1.0
 ---
 species: Croagunk
 displayname: "Croagunk-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Dry Skin]
@@ -7825,7 +7830,7 @@ rarity: 1.0
 ---
 species: Toxicroak
 displayname: "Toxicroak-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Dry Skin]
@@ -7842,7 +7847,7 @@ rarity: 1.0
 ---
 species: Carnivine
 displayname: "Carnivine-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -7859,7 +7864,7 @@ rarity: 1.0
 ---
 species: Finneon
 displayname: "Finneon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Swift Swim]
@@ -7876,7 +7881,7 @@ rarity: 1.0
 ---
 species: Lumineon
 displayname: "Lumineon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Veil]
@@ -7893,7 +7898,7 @@ rarity: 1.0
 ---
 species: Mantyke
 displayname: "Mantyke-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Water Veil]
@@ -7910,7 +7915,7 @@ rarity: 1.0
 ---
 species: Snover
 displayname: "Snover-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Snow Warning]
@@ -7927,7 +7932,7 @@ rarity: 1.0
 ---
 species: Abomasnow
 displayname: "Abomasnow-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Snow Warning]
@@ -7944,7 +7949,7 @@ rarity: 1.0
 ---
 species: Weavile
 displayname: "Weavile-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -7961,7 +7966,7 @@ rarity: 1.0
 ---
 species: Magnezone
 displayname: "Magnezone-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -7977,7 +7982,7 @@ rarity: 1.0
 ---
 species: Lickilicky
 displayname: "Lickilicky-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Own Tempo]
@@ -7994,7 +7999,7 @@ rarity: 1.0
 ---
 species: Rhyperior
 displayname: "Rhyperior-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Lightning Rod]
@@ -8011,7 +8016,7 @@ rarity: 1.0
 ---
 species: Tangrowth
 displayname: "Tangrowth-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Leaf Guard]
@@ -8028,7 +8033,7 @@ rarity: 1.0
 ---
 species: Electivire
 displayname: "Electivire-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Motor Drive]
@@ -8045,7 +8050,7 @@ rarity: 1.0
 ---
 species: Magmortar
 displayname: "Magmortar-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flame Body]
@@ -8062,7 +8067,7 @@ rarity: 1.0
 ---
 species: Togekiss
 displayname: "Togekiss-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hustle]
@@ -8079,7 +8084,7 @@ rarity: 1.0
 ---
 species: Yanmega
 displayname: "Yanmega-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Tinted Lens]
@@ -8096,7 +8101,7 @@ rarity: 1.0
 ---
 species: Leafeon
 displayname: "Leafeon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Leaf Guard]
@@ -8113,13 +8118,14 @@ rarity: 1.0
 ---
 species: Glaceon
 displayname: "Glaceon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Snow Cloak]
 nature: Adamant
 ivs: 26
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}moves:
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+moves:
     - [Blizzard]
     - [Swift]
     - [Bite]
@@ -8129,7 +8135,7 @@ rarity: 1.0
 ---
 species: Gliscor
 displayname: "Gliscor-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hyper Cutter]
@@ -8146,7 +8152,7 @@ rarity: 1.0
 ---
 species: Mamoswine
 displayname: "Mamoswine-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Snow Cloak]
@@ -8163,7 +8169,7 @@ rarity: 1.0
 ---
 species: Porygon-Z
 displayname: "Porygon-Z-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Adaptability]
@@ -8179,7 +8185,7 @@ rarity: 1.0
 ---
 species: Gallade
 displayname: "Gallade-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Steadfast]
@@ -8196,7 +8202,7 @@ rarity: 1.0
 ---
 species: Probopass
 displayname: "Probopass-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Sturdy]
@@ -8213,7 +8219,7 @@ rarity: 1.0
 ---
 species: Dusknoir
 displayname: "Dusknoir-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -8230,7 +8236,7 @@ rarity: 1.0
 ---
 species: Froslass
 displayname: "Froslass-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Snow Cloak]
@@ -8247,7 +8253,7 @@ rarity: 1.0
 ---
 species: Rotom
 displayname: "Rotom-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -8263,7 +8269,7 @@ rarity: 1.0
 ---
 species: Uxie
 displayname: "Uxie-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -8279,7 +8285,7 @@ rarity: 1.0
 ---
 species: Mesprit
 displayname: "Mesprit-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -8295,7 +8301,7 @@ rarity: 1.0
 ---
 species: Azelf
 displayname: "Azelf-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -8311,7 +8317,7 @@ rarity: 1.0
 ---
 species: Dialga
 displayname: "Dialga-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -8327,7 +8333,7 @@ rarity: 1.0
 ---
 species: Palkia
 displayname: "Palkia-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -8343,7 +8349,7 @@ rarity: 1.0
 ---
 species: Heatran
 displayname: "Heatran-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Flash Fire]
@@ -8360,7 +8366,7 @@ rarity: 1.0
 ---
 species: Regigigas
 displayname: "Regigigas-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Slow Start]
@@ -8376,7 +8382,7 @@ rarity: 1.0
 ---
 species: Giratina
 displayname: "Giratina-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Pressure]
@@ -8392,7 +8398,7 @@ rarity: 1.0
 ---
 species: Cresselia
 displayname: "Cresselia-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Levitate]
@@ -8409,7 +8415,7 @@ rarity: 1.0
 ---
 species: Phione
 displayname: "Phione-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hydration]
@@ -8426,13 +8432,13 @@ rarity: 1.0
 ---
 species: Manaphy
 displayname: "Manaphy-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Hydration]
 nature: Serious
 ivs: 31
-evs: {hp: 16 atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
+evs: {hp: 16, atk: 16, def: 16, spA: 16, spD: 16, spe: 16}
 moves:
     - [Water Gun]
     - [Ancient Power]
@@ -8442,7 +8448,7 @@ rarity: 1.0
 ---
 species: Darkrai
 displayname: "Darkrai-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Bad Dreams]
@@ -8458,12 +8464,12 @@ rarity: 1.0
 ---
 species: Shaymin
 displayname: "Shaymin-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Null]
 ability: [Natural Cure]
 nature: Careful
-ivs: 0 but
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 4, spD: 0, spe: 0}
 moves:
     - [Seed Flare]
@@ -8474,7 +8480,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Bug-T"
-setname: [PBR Gold]
+setname: PBR Gold-Bug
 tags: [PBR1.2]
 item: [Insect Plate]
 ability: [Multitype]
@@ -8490,7 +8496,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Dark-T"
-setname: [PBR Gold]
+setname: PBR Gold-Dark
 tags: [PBR1.2]
 item: [Dread Plate]
 ability: [Multitype]
@@ -8506,7 +8512,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Dragon-T"
-setname: [PBR Gold]
+setname: PBR Gold
 tags: [PBR1.2]
 item: [Draco Plate]
 ability: [Multitype]
@@ -8522,7 +8528,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Electric-T"
-setname: [PBR Gold]
+setname: PBR Gold-Dragon
 tags: [PBR1.2]
 item: [Zap Plate]
 ability: [Multitype]
@@ -8538,7 +8544,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Fire-T"
-setname: [PBR Gold]
+setname: PBR Gold-Fire
 tags: [PBR1.2]
 item: [Flame Plate]
 ability: [Multitype]
@@ -8554,7 +8560,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Fighting-T"
-setname: [PBR Gold]
+setname: PBR Gold-Fighting
 tags: [PBR1.2]
 item: [Fist Plate]
 ability: [Multitype]
@@ -8570,7 +8576,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Flying-T"
-setname: [PBR Gold]
+setname: PBR Gold-Flying
 tags: [PBR1.2]
 item: [Sky Plate]
 ability: [Multitype]
@@ -8586,7 +8592,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Ghost-T"
-setname: [PBR Gold]
+setname: PBR Gold-Ghost
 tags: [PBR1.2]
 item: [Spooky Plate]
 ability: [Multitype]
@@ -8602,7 +8608,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Grass-T"
-setname: [PBR Gold]
+setname: PBR Gold-Grass
 tags: [PBR1.2]
 item: [Meadow Plate]
 ability: [Multitype]
@@ -8618,7 +8624,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Ground-T"
-setname: [PBR Gold]
+setname: PBR Gold-Ground
 tags: [PBR1.2]
 item: [Earth Plate]
 ability: [Multitype]
@@ -8634,7 +8640,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Ice-T"
-setname: [PBR Gold]
+setname: PBR Gold-Ice
 tags: [PBR1.2]
 item: [Icicle Plate]
 ability: [Multitype]
@@ -8650,7 +8656,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Normal-T"
-setname: [PBR Gold]
+setname: PBR Gold-Normal
 tags: [PBR1.2]
 item: [Null]
 ability: [Multitype]
@@ -8666,7 +8672,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Poison-T"
-setname: [PBR Gold]
+setname: PBR Gold-Poison
 tags: [PBR1.2]
 item: [Toxic Plate]
 ability: [Multitype]
@@ -8682,7 +8688,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Psychic-T"
-setname: [PBR Gold]
+setname: PBR Gold-Psychic
 tags: [PBR1.2]
 item: [Mind Plate]
 ability: [Multitype]
@@ -8698,7 +8704,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Rock-T"
-setname: [PBR Gold]
+setname: PBR Gold-Rock
 tags: [PBR1.2]
 item: [Stone Plate]
 ability: [Multitype]
@@ -8714,7 +8720,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Steel-T"
-setname: [PBR Gold]
+setname: PBR Gold-Steel
 tags: [PBR1.2]
 item: [Iron Plate]
 ability: [Multitype]
@@ -8730,7 +8736,7 @@ rarity: 1.0
 ---
 species: Arceus
 displayname: "Arceus-Water-T"
-setname: [PBR Gold]
+setname: PBR Gold-Water
 tags: [PBR1.2]
 item: [Splash Plate]
 ability: [Multitype]
@@ -8743,4 +8749,3 @@ moves:
     - [Icy Wind]
     - [Hydro Cannon]
 rarity: 1.0
----

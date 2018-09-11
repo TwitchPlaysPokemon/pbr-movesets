@@ -8,7 +8,6 @@ moves:
     - [Charge Beam]
     - [Pain Split]
     - [Shadow Ball]
-gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]
@@ -28,7 +27,6 @@ moves:
     - [Pain Split]
     - [Discharge]
     - [Will-O-Wisp]
-gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]

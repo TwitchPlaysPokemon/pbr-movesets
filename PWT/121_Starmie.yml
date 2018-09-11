@@ -84,7 +84,6 @@ moves:
     - [Psychic]
     - [Thunderbolt]
     - [Signal Beam]
-gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]
