@@ -13,7 +13,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -33,7 +33,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -53,7 +53,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -73,7 +73,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -93,7 +93,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -113,7 +113,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -133,7 +133,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -153,7 +153,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -173,7 +173,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -193,7 +193,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -213,7 +213,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -233,7 +233,7 @@ happiness: 255
 biddable: False
 ball: [Poke]
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 25
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
