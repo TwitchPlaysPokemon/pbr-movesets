@@ -32,8 +32,8 @@ gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]
-nature: Serious
-ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Bold
+ivs: {hp: 20, atk: 0, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
 level: 100
 rarity: 1.0

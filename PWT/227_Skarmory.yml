@@ -112,9 +112,9 @@ gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -124,16 +124,16 @@ tags: [in-game, PWT-Winona Tournament]
 item: [Wacan Berry]
 ability: [Keen Eye, Sturdy]
 moves:
-    - [Roost]
+    - [Roost (=10)]
     - [Brave Bird]
-    - [Whirlwind]
-    - [Stealth Rock]
+    - [Whirlwind (=10)]
+    - [Stealth Rock (=10)]
 gender: [m,f]
 happiness: 255
 biddable: False
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
