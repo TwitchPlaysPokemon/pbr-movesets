@@ -1,16 +1,16 @@
 species: Mamoswine
 setname: PWT-Pryce Rematch
 tags: [in-game, PWT-Pryce Rematch]
-item: [Null]
+item: [null]
 ability: [Snow Cloak]
 moves:
-    - [Earthquake]
-    - [Double Team]
-    - [Stone Edge]
-    - [Avalanche]
-gender: [m,f]
+- [Earthquake]
+- [Double Team]
+- [Stone Edge]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Mamoswine
 setname: PWT-Candice Rematch
 tags: [in-game, PWT-Candice Rematch]
-item: [Null]
+item: [null]
 ability: [Oblivious]
 moves:
-    - [Hail]
-    - [Earthquake]
-    - [Ancient Power]
-    - [Avalanche]
-gender: [m,f]
+- [Hail]
+- [Earthquake]
+- [Ancient Power]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,17 +44,17 @@ tags: [in-game, PWT-Pryce Tournament]
 item: [Liechi Berry]
 ability: [Oblivious, Snow Cloak]
 moves:
-    - [Icicle Spear]
-    - [Rock Slide]
-    - [Earthquake]
-    - [Double Edge]
-gender: [m,f]
+- [Icicle Spear]
+- [Rock Slide]
+- [Earthquake]
+- [Double Edge]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Candice Tournament]
 item: [Liechi Berry]
 ability: [Oblivious, Snow Cloak]
 moves:
-    - [Icicle Spear]
-    - [Superpower]
-    - [Magnitude]
-    - [Rock Tomb]
-gender: [m,f]
+- [Icicle Spear]
+- [Superpower]
+- [Magnitude]
+- [Rock Tomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

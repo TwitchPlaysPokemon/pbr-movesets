@@ -1,16 +1,16 @@
 species: Hariyama
 setname: PWT-Bruno2 Rematch
 tags: [in-game, PWT-Bruno2 Rematch]
-item: [Null]
+item: [null]
 ability: [Guts]
 moves:
-    - [Bulk Up]
-    - [Low Kick]
-    - [Payback]
-    - [Bullet Punch]
-gender: [m,f]
+- [Bulk Up]
+- [Low Kick]
+- [Payback]
+- [Bullet Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Hariyama
 setname: PWT-Brawly Rematch
 tags: [in-game, PWT-Brawly Rematch]
-item: [Null]
+item: [null]
 ability: [Guts]
 moves:
-    - [Fake Out]
-    - [Focus Punch]
-    - [Belly Drum]
-    - [Earthquake]
-gender: [m,f]
+- [Fake Out]
+- [Focus Punch]
+- [Belly Drum]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Hariyama
 setname: PWT-Cheryl
 tags: [in-game, PWT-Cheryl]
-item: [Null]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Stone Edge]
-    - [Bullet Punch]
-    - [Close Combat]
-    - [Earthquake]
-gender: [m,f]
+- [Stone Edge]
+- [Bullet Punch]
+- [Close Combat]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Brawly Tournament]
 item: [Sitrus Berry]
 ability: [Thick Fat, Guts]
 moves:
-    - [Close Combat]
-    - [Bullet Punch]
-    - [Earthquake]
-    - [Bulk Up]
-gender: [m,f]
+- [Close Combat]
+- [Bullet Punch]
+- [Earthquake]
+- [Bulk Up]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

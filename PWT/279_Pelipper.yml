@@ -1,16 +1,16 @@
 species: Pelipper
 setname: PWT-May
 tags: [in-game, PWT-May]
-item: [Null]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Wing Attack]
-    - [Supersonic]
-    - [Mist]
-    - [Protect]
-gender: [m,f]
+- [Wing Attack]
+- [Supersonic]
+- [Mist]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Pelipper
 setname: PWT-Brendan
 tags: [in-game, PWT-Brendan]
-item: [Null]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Wing Attack]
-    - [Supersonic]
-    - [Mist]
-    - [Protect]
-gender: [m,f]
+- [Wing Attack]
+- [Supersonic]
+- [Mist]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Pelipper
 setname: PWT-Falkner Rematch
 tags: [in-game, PWT-Falkner Rematch]
-item: [Null]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Surf]
-    - [Ice Beam]
-    - [Hidden Power]
-    - [Tail Wind]
-gender: [m,f]
+- [Surf]
+- [Ice Beam]
+- [Hidden Power]
+- [Tail Wind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Pelipper
 setname: PWT-Winona
 tags: [in-game, PWT-Winona]
-item: [Null]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Water Gun]
-    - [Supersonic]
-    - [Protect]
-    - [Aerial Ace]
-gender: [m,f]
+- [Water Gun]
+- [Supersonic]
+- [Protect]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -81,16 +81,16 @@ rarity: 1.0
 species: Pelipper
 setname: PWT-Winona Rematch
 tags: [in-game, PWT-Winona Rematch]
-item: [Null]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Surf]
-    - [Supersonic]
-    - [Protect]
-    - [Aerial Ace]
-gender: [m,f]
+- [Surf]
+- [Supersonic]
+- [Protect]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -104,16 +104,16 @@ tags: [in-game, PWT-Winona Tournament]
 item: [Petaya Berry]
 ability: [Keen Eye]
 moves:
-    - [Tail Wind]
-    - [Ice Beam]
-    - [Aeroblast]
-    - [Surf]
-gender: [m,f]
+- [Tail Wind]
+- [Ice Beam]
+- [Aeroblast]
+- [Surf]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

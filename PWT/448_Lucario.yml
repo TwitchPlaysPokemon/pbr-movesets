@@ -1,16 +1,16 @@
 species: Lucario
 setname: PWT-Cynthia
 tags: [in-game, PWT-Cynthia]
-item: [Null]
+item: [null]
 ability: [Steadfast]
 moves:
-    - [Aura Sphere]
-    - [Dragon Pulse]
-    - [Psychic]
-    - [Earthquake]
-gender: [m,f]
+- [Aura Sphere]
+- [Dragon Pulse]
+- [Psychic]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Lucario
 setname: PWT-Bruno2 Rematch
 tags: [in-game, PWT-Bruno2 Rematch]
-item: [Null]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Close Combat]
-    - [Iron Tail]
-    - [Counter]
-    - [Extreme Speed]
-gender: [m,f]
+- [Close Combat]
+- [Iron Tail]
+- [Counter]
+- [Extreme Speed]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Lucario
 setname: PWT-Maylene
 tags: [in-game, PWT-Maylene]
-item: [Null]
+item: [null]
 ability: [Steadfast]
 moves:
-    - [Drain Punch]
-    - [Metal Claw]
-    - [Bone Rush]
-    - [Force Palm]
-gender: [m,f]
+- [Drain Punch]
+- [Metal Claw]
+- [Bone Rush]
+- [Force Palm]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Lucario
 setname: PWT-Maylene Rematch
 tags: [in-game, PWT-Maylene Rematch]
-item: [Null]
+item: [null]
 ability: [Steadfast]
 moves:
-    - [Close Combat]
-    - [Extreme Speed]
-    - [Drain Punch]
-    - [Bone Rush]
-gender: [m,f]
+- [Close Combat]
+- [Extreme Speed]
+- [Drain Punch]
+- [Bone Rush]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -81,16 +81,16 @@ rarity: 1.0
 species: Lucario
 setname: PWT-Riley
 tags: [in-game, PWT-Riley]
-item: [Null]
+item: [null]
 ability: [Steadfast]
 moves:
-    - [Close Combat]
-    - [Earthquake]
-    - [Extreme Speed]
-    - [Bone Rush]
+- [Close Combat]
+- [Earthquake]
+- [Extreme Speed]
+- [Bone Rush]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -104,13 +104,13 @@ tags: [in-game, PWT-Cynthia Tournament]
 item: [Life Orb]
 ability: [Steadfast, Inner Focus]
 moves:
-    - [Close Combat]
-    - [Dark Pulse]
-    - [Stone Edge]
-    - [Extreme Speed]
-gender: [m,f]
+- [Close Combat]
+- [Dark Pulse]
+- [Stone Edge]
+- [Extreme Speed]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25
@@ -124,16 +124,16 @@ tags: [in-game, PWT-Maylene Tournament]
 item: [Liechi Berry]
 ability: [Steadfast, Inner Focus]
 moves:
-    - [Cross Chop]
-    - [Bone Rush]
-    - [Extreme Speed]
-    - [Swords Dance]
-gender: [m,f]
+- [Cross Chop]
+- [Bone Rush]
+- [Extreme Speed]
+- [Swords Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

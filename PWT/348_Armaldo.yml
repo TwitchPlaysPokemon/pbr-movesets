@@ -1,16 +1,16 @@
 species: Armaldo
 setname: PWT-Steven
 tags: [in-game, PWT-Steven]
-item: [Null]
+item: [null]
 ability: [Battle Armor]
 moves:
-    - [Ancient Power]
-    - [Slash]
-    - [Aerial Ace]
-    - [Water Pulse]
-gender: [m,f]
+- [Ancient Power]
+- [Slash]
+- [Aerial Ace]
+- [Water Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Armaldo
 setname: PWT-Miror B Cipher
 tags: [in-game, PWT-Miror B Cipher]
-item: [Null]
+item: [null]
 ability: [Battle Armor]
 moves:
-    - [Aerial Ace]
-    - [Rock Slide]
-    - [Metal Claw]
-    - [Strength]
-gender: [m,f]
+- [Aerial Ace]
+- [Rock Slide]
+- [Metal Claw]
+- [Strength]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,13 +44,13 @@ tags: [in-game, PWT-Steven Tournament]
 item: [White Herb]
 ability: [Battle Armor]
 moves:
-    - [X-Scissor]
-    - [Rock Blast]
-    - [Stone Edge]
-    - [Superpower]
-gender: [m,f]
+- [X-Scissor]
+- [Rock Blast]
+- [Stone Edge]
+- [Superpower]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Roxanne Tournament]
 item: [Liechi Berry]
 ability: [Battle Armor]
 moves:
-    - [Curse]
-    - [Aqua Tail]
-    - [X-Scissor]
-    - [Stone Edge]
+- [Curse]
+- [Aqua Tail]
+- [X-Scissor]
+- [Stone Edge]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
-gender: [m,f]
+gender: [m, f]

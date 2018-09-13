@@ -1,16 +1,16 @@
 species: Weavile
 setname: PWT-Cyrus
 tags: [in-game, PWT-Cyrus]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Night Slash]
-    - [Ice Punch]
-    - [X-Scissor]
-    - [Fake Out]
-gender: [m,f]
+- [Night Slash]
+- [Ice Punch]
+- [X-Scissor]
+- [Fake Out]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Weavile
 setname: PWT-Karen Rematch
 tags: [in-game, PWT-Karen Rematch]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Ice Punch]
-    - [Night Slash]
-    - [Low Kick]
-    - [Ice Shard]
-gender: [m,f]
+- [Ice Punch]
+- [Night Slash]
+- [Low Kick]
+- [Ice Shard]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Weavile
 setname: PWT-Candice Rematch
 tags: [in-game, PWT-Candice Rematch]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Faint Attack]
-    - [Slash]
-    - [Taunt]
-    - [Avalanche]
-gender: [m,f]
+- [Faint Attack]
+- [Slash]
+- [Taunt]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Weavile
 setname: PWT-Marley
 tags: [in-game, PWT-Marley]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Ice Punch]
-    - [Aerial Ace]
-    - [Night Slash]
-    - [Ice Shard]
-gender: [m,f]
+- [Ice Punch]
+- [Aerial Ace]
+- [Night Slash]
+- [Ice Shard]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -81,16 +81,16 @@ rarity: 1.0
 species: Weavile
 setname: PWT-Team AWD
 tags: [in-game, PWT-Team AWD]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Icy Wind]
-    - [Faint Attack]
-    - [Nasty Plot]
-    - [Fury Swipes]
-gender: [m,f]
+- [Icy Wind]
+- [Faint Attack]
+- [Nasty Plot]
+- [Fury Swipes]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -104,17 +104,17 @@ tags: [in-game, PWT-Pryce Tournament]
 item: [BlackGlasses]
 ability: [Pressure]
 moves:
-    - [X-Scissor]
-    - [Night Slash]
-    - [Ice Shard]
-    - [Fake Out]
-gender: [m,f]
+- [X-Scissor]
+- [Night Slash]
+- [Ice Shard]
+- [Fake Out]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -124,16 +124,16 @@ tags: [in-game, PWT-Candice Tournament]
 item: [Chople Berry]
 ability: [Pressure]
 moves:
-    - [Torment]
-    - [Night Slash]
-    - [Ice Punch]
-    - [Revenge]
-gender: [m,f]
+- [Torment]
+- [Night Slash]
+- [Ice Punch]
+- [Revenge]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

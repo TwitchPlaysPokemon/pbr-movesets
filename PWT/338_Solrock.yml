@@ -1,15 +1,15 @@
 species: Solrock
 setname: PWT-Tate and Liza
 tags: [in-game, PWT-Tate and Liza]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sunny Day]
-    - [Solar Beam]
-    - [Psychic]
-    - [Flamethrower]
+- [Sunny Day]
+- [Solar Beam]
+- [Psychic]
+- [Flamethrower]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,15 +20,15 @@ rarity: 1.0
 species: Solrock
 setname: PWT-Tate and Liza Rematch
 tags: [in-game, PWT-Tate and Liza Rematch]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sunny Day]
-    - [Solar Beam]
-    - [Psychic]
-    - [Flamethrower]
+- [Sunny Day]
+- [Solar Beam]
+- [Psychic]
+- [Flamethrower]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -42,15 +42,15 @@ tags: [in-game, PWT-Tate Tournament]
 item: [Liechi Berry]
 ability: [Levitate]
 moves:
-    - [Zen Headbutt]
-    - [Rock Slide]
-    - [Fire Blast]
-    - [Trick Room]
+- [Zen Headbutt]
+- [Rock Slide]
+- [Fire Blast]
+- [Trick Room]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

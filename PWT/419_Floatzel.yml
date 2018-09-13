@@ -1,16 +1,16 @@
 species: Floatzel
 setname: PWT-Misty2 Rematch
 tags: [in-game, PWT-Misty2 Rematch]
-item: [Null]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Agility]
-    - [Waterfall]
-    - [Ice Fang]
-    - [Baton Pass]
-gender: [m,f]
+- [Agility]
+- [Waterfall]
+- [Ice Fang]
+- [Baton Pass]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Floatzel
 setname: PWT-Crasher Wake
 tags: [in-game, PWT-Crasher Wake]
-item: [Null]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Brine]
-    - [Crunch]
-    - [Ice Fang]
-    - [Aqua Jet]
-gender: [m,f]
+- [Brine]
+- [Crunch]
+- [Ice Fang]
+- [Aqua Jet]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Floatzel
 setname: PWT-Crasher Wake Rematch
 tags: [in-game, PWT-Crasher Wake Rematch]
-item: [Null]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Brine]
-    - [Crunch]
-    - [Ice Fang]
-    - [Aqua Jet]
-gender: [m,f]
+- [Brine]
+- [Crunch]
+- [Ice Fang]
+- [Aqua Jet]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Crasher Wake Tournament]
 item: [Liechi Berry]
 ability: [Swift Swim]
 moves:
-    - [Aqua Jet]
-    - [Ice Punch]
-    - [Focus Blast]
-    - [Bulk Up]
-gender: [m,f]
+- [Aqua Jet]
+- [Ice Punch]
+- [Focus Blast]
+- [Bulk Up]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

@@ -1,22 +1,22 @@
 species: Probopass
 setname: PWT-Roark Rematch
 tags: [in-game, PWT-Roark Rematch]
-item: [Null]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Stone Edge]
-    - [Earth Power]
-    - [Discharge]
-    - [Stealth Rock]
+- [Stone Edge]
+- [Earth Power]
+- [Discharge]
+- [Stealth Rock]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
-gender: [m,f]
+gender: [m, f]
 ---
 species: Probopass
 setname: PWT-Roxanne Tournament
@@ -24,19 +24,19 @@ tags: [in-game, PWT-Roxanne Tournament]
 item: [Shuca Berry]
 ability: [Sturdy, Magnet Pull]
 moves:
-    - [Sandstorm]
-    - [Power Gem]
-    - [Flash Cannon]
-    - [Thunder Wave]
+- [Sandstorm]
+- [Power Gem]
+- [Flash Cannon]
+- [Thunder Wave]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
-gender: [m,f]
+gender: [m, f]
 ---
 species: Probopass
 setname: PWT-Roark Tournament
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Roark Tournament]
 item: [Chople Berry]
 ability: [Sturdy, Magnet Pull]
 moves:
-    - [Power Gem]
-    - [Earth Power]
-    - [Sandstorm]
-    - [Stealth Rock]
-gender: [m,f]
+- [Power Gem]
+- [Earth Power]
+- [Sandstorm]
+- [Stealth Rock]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

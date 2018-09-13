@@ -4,16 +4,16 @@ tags: [in-game, PWT-Gardenia Tournament]
 item: [Occa Berry]
 ability: [Leaf Guard]
 moves:
-    - [Leaf Blade]
-    - [X-Scissor]
-    - [Quick Attack]
-    - [Swords Dance]
-gender: [m,f]
+- [Leaf Blade]
+- [X-Scissor]
+- [Quick Attack]
+- [Swords Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

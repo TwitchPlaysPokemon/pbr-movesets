@@ -1,16 +1,16 @@
 species: Garchomp
 setname: PWT-Lance Champion Rematch
 tags: [in-game, PWT-Lance Champion Rematch]
-item: [Null]
+item: [null]
 ability: [Sand Veil]
 moves:
-    - [Outrage]
-    - [Swords Dance]
-    - [Earthquake]
-    - [Roar]
-gender: [m,f]
+- [Outrage]
+- [Swords Dance]
+- [Earthquake]
+- [Roar]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Garchomp
 setname: PWT-Cynthia
 tags: [in-game, PWT-Cynthia]
-item: [Null]
+item: [null]
 ability: [Sand Veil]
 moves:
-    - [Dragon Rush]
-    - [Earthquake]
-    - [Brick Break]
-    - [Giga Impact]
-gender: [m,f]
+- [Dragon Rush]
+- [Earthquake]
+- [Brick Break]
+- [Giga Impact]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,13 +44,13 @@ tags: [in-game, PWT-Cynthia Tournament]
 item: [Focus Sash]
 ability: [Sand Veil]
 moves:
-    - [Outrage]
-    - [Earthquake]
-    - [Stone Edge]
-    - [Swords Dance]
-gender: [m,f]
+- [Outrage]
+- [Earthquake]
+- [Stone Edge]
+- [Swords Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Clair Tournament]
 item: [Yache Berry]
 ability: [Sand Veil]
 moves:
-    - [Dragon Claw]
-    - [Earthquake]
-    - [Aqua Tail]
-    - [Rock Slide]
-gender: [m,f]
+- [Dragon Claw]
+- [Earthquake]
+- [Aqua Tail]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

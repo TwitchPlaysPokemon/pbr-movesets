@@ -1,16 +1,16 @@
 species: Mismagius
 setname: PWT-Morty Rematch
 tags: [in-game, PWT-Morty Rematch]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Astonish]
-    - [Mean Look]
-    - [Perish Song]
-    - [Confuse Ray]
-gender: [m,f]
+- [Astonish]
+- [Mean Look]
+- [Perish Song]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Mismagius
 setname: PWT-Fantina
 tags: [in-game, PWT-Fantina]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Psybeam]
-    - [Magical Leaf]
-    - [Confuse Ray]
-gender: [m,f]
+- [Shadow Ball]
+- [Psybeam]
+- [Magical Leaf]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Mismagius
 setname: PWT-Fantina Rematch
 tags: [in-game, PWT-Fantina Rematch]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Thunderbolt]
-    - [Psychic]
-    - [Magical Leaf]
-gender: [m,f]
+- [Shadow Ball]
+- [Thunderbolt]
+- [Psychic]
+- [Magical Leaf]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,17 +64,17 @@ tags: [in-game, PWT-Morty Tournament]
 item: [Kasib Berry]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Power Gem]
-    - [Perish Song]
-    - [Pain Split]
-gender: [m,f]
+- [Shadow Ball]
+- [Power Gem]
+- [Perish Song]
+- [Pain Split]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -84,16 +84,16 @@ tags: [in-game, PWT-Fantina Tournament]
 item: [Salac Berry]
 ability: [Levitate]
 moves:
-    - [Calm Mind]
-    - [Psychic]
-    - [Power Gem]
-    - [Shadow Ball]
-gender: [m,f]
+- [Calm Mind]
+- [Psychic]
+- [Power Gem]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

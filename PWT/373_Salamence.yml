@@ -1,16 +1,16 @@
 species: Salamence
 setname: PWT-Lance Champion Rematch
 tags: [in-game, PWT-Lance Champion Rematch]
-item: [Null]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Dragon Claw]
-    - [Flamethrower]
-    - [Shadow Claw]
-    - [Rest]
-gender: [m,f]
+- [Dragon Claw]
+- [Flamethrower]
+- [Shadow Claw]
+- [Rest]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Salamence
 setname: PWT-Drake
 tags: [in-game, PWT-Drake]
-item: [Null]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Flamethrower]
-    - [Dragon Claw]
-    - [Rock Slide]
-    - [Crunch]
-gender: [m,f]
+- [Flamethrower]
+- [Dragon Claw]
+- [Rock Slide]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Salamence
 setname: PWT-Riley
 tags: [in-game, PWT-Riley]
-item: [Null]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Dragpm Claw]
-    - [Crunch]
-    - [Fire Fang]
-    - [Thunder Fang]
-gender: [m,f]
+- [Dragpm Claw]
+- [Crunch]
+- [Fire Fang]
+- [Thunder Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,13 +64,13 @@ tags: [in-game, PWT-Lance Tournament]
 item: [Expert Belt]
 ability: [Intimidate]
 moves:
-    - [Dragon Claw]
-    - [Earthquake]
-    - [Stone Edge]
-    - [Crunch]
-gender: [m,f]
+- [Dragon Claw]
+- [Earthquake]
+- [Stone Edge]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25
@@ -84,16 +84,16 @@ tags: [in-game, PWT-Clair Tournament]
 item: [Petaya Berry]
 ability: [Intimidate]
 moves:
-    - [Dragon Pulse]
-    - [Heat Wave]
-    - [Hydro Pump]
-    - [Earthquake]
-gender: [m,f]
+- [Dragon Pulse]
+- [Heat Wave]
+- [Hydro Pump]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

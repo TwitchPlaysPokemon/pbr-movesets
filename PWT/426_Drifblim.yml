@@ -1,16 +1,16 @@
 species: Drifblim
 setname: PWT-Morty Rematch
 tags: [in-game, PWT-Morty Rematch]
-item: [Null]
+item: [null]
 ability: [Unburden]
 moves:
-    - [Shadow Ball]
-    - [Substitute]
-    - [Sucker Punch]
-    - [Destiny Bond]
-gender: [m,f]
+- [Shadow Ball]
+- [Substitute]
+- [Sucker Punch]
+- [Destiny Bond]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Drifblim
 setname: PWT-Fantina Rematch
 tags: [in-game, PWT-Fantina Rematch]
-item: [Null]
+item: [null]
 ability: [Aftermath]
 moves:
-    - [Psychic]
-    - [Silver Wind]
-    - [Ominous Wind]
-    - [Baton Pass]
-gender: [m,f]
+- [Psychic]
+- [Silver Wind]
+- [Ominous Wind]
+- [Baton Pass]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Drifblim
 setname: PWT-Cheryl
 tags: [in-game, PWT-Cheryl]
-item: [Null]
+item: [null]
 ability: [Aftermath]
 moves:
-    - [Protect]
-    - [Toxic]
-    - [Ominous Wind]
-    - [Fly]
-gender: [m,f]
+- [Protect]
+- [Toxic]
+- [Ominous Wind]
+- [Fly]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Fantina Tournament]
 item: [Sharp Beak]
 ability: [Aftermath]
 moves:
-    - [Tail Wind]
-    - [Aerial Ace]
-    - [Thunder]
-    - [Shadow Ball]
-gender: [m,f]
+- [Tail Wind]
+- [Aerial Ace]
+- [Thunder]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

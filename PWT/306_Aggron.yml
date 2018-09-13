@@ -1,16 +1,16 @@
 species: Aggron
 setname: PWT-Steven
 tags: [in-game, PWT-Steven]
-item: [Null]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Earthquake]
-    - [Dragon Claw]
-    - [Thunder]
-    - [Solar Beam]
-gender: [m,f]
+- [Earthquake]
+- [Dragon Claw]
+- [Thunder]
+- [Solar Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Aggron
 setname: PWT-Byron Rematch
 tags: [in-game, PWT-Byron Rematch]
-item: [Null]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Metal Burst]
-    - [Stone Edge]
-    - [Earthquake]
-    - [Avalanche]
-gender: [m,f]
+- [Metal Burst]
+- [Stone Edge]
+- [Earthquake]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,13 +44,13 @@ tags: [in-game, PWT-Steven Tournament]
 item: [Shuca Berry]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Head Smash]
-    - [Avalanche]
-    - [Earthquake]
-    - [Metal Burst]
-gender: [m,f]
+- [Head Smash]
+- [Avalanche]
+- [Earthquake]
+- [Metal Burst]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25
@@ -64,19 +64,19 @@ tags: [in-game, PWT-Roxanne Tournament]
 item: [Chople Berry]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Iron Tail]
-    - [Stone Edge]
-    - [Outrage]
-    - [Thunder Wave]
+- [Iron Tail]
+- [Stone Edge]
+- [Outrage]
+- [Thunder Wave]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
-gender: [m,f]
+gender: [m, f]
 ---
 species: Aggron
 setname: PWT-Byron Tournament
@@ -84,16 +84,16 @@ tags: [in-game, PWT-Byron Tournament]
 item: [Chople Berry]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Iron Head]
-    - [Agility]
-    - [Rock Slide]
-    - [Outrage]
-gender: [m,f]
+- [Iron Head]
+- [Agility]
+- [Rock Slide]
+- [Outrage]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

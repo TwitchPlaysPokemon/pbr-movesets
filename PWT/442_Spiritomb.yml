@@ -1,16 +1,16 @@
 species: Spiritomb
 setname: PWT-Cynthia
 tags: [in-game, PWT-Cynthia]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Dark Pulse]
-    - [Psychic]
-    - [Silver Wind]
-    - [Ominous Wind]
-gender: [m,f]
+- [Dark Pulse]
+- [Psychic]
+- [Silver Wind]
+- [Ominous Wind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Spiritomb
 setname: PWT-Karen Rematch
 tags: [in-game, PWT-Karen Rematch]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Curse]
-    - [Confuse Ray]
-    - [Pain Split]
-    - [Sucker Punch]
-gender: [m,f]
+- [Curse]
+- [Confuse Ray]
+- [Pain Split]
+- [Sucker Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,13 +44,13 @@ tags: [in-game, PWT-Cynthia Tournament]
 item: [Jaboca Berry]
 ability: [Pressure]
 moves:
-    - [Sucker Punch]
-    - [Protect]
-    - [Will-O-Wisp]
-    - [Pain Split]
-gender: [m,f]
+- [Sucker Punch]
+- [Protect]
+- [Will-O-Wisp]
+- [Pain Split]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Fantina Tournament]
 item: [Sitrus Berry]
 ability: [Pressure]
 moves:
-    - [Calm Mind]
-    - [Will-O-Wisp]
-    - [Dark Pulse]
-    - [Shadow Ball]
-gender: [m,f]
+- [Calm Mind]
+- [Will-O-Wisp]
+- [Dark Pulse]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

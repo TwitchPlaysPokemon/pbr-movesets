@@ -1,16 +1,16 @@
 species: Camerupt
 setname: PWT-Maxie
 tags: [in-game, PWT-Maxie]
-item: [Null]
+item: [null]
 ability: [Magma Armor]
 moves:
-    - [Take Down]
-    - [Amnesia]
-    - [Rock Slide]
-    - [Earthquake]
-gender: [m,f]
+- [Take Down]
+- [Amnesia]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Camerupt
 setname: PWT-Blaine2 Rematch
 tags: [in-game, PWT-Blaine2 Rematch]
-item: [Null]
+item: [null]
 ability: [Solid Rock]
 moves:
-    - [Eruption]
-    - [Earthquake]
-    - [Solar Beam]
-    - [Sunny Day]
-gender: [m,f]
+- [Eruption]
+- [Earthquake]
+- [Solar Beam]
+- [Sunny Day]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Camerupt
 setname: PWT-Flannery
 tags: [in-game, PWT-Flannery]
-item: [Null]
+item: [null]
 ability: [Magma Armor]
 moves:
-    - [Overheat]
-    - [Tackle]
-    - [Sunny Day]
-    - [Attract]
+- [Overheat]
+- [Tackle]
+- [Sunny Day]
+- [Attract]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,13 +64,13 @@ tags: [in-game, PWT-Flannery Rematch]
 item: [White Herb]
 ability: [Magma Armor]
 moves:
-    - [Overheat]
-    - [Sunny Day]
-    - [Earthquake]
-    - [Attract]
-gender: [m,f]
+- [Overheat]
+- [Sunny Day]
+- [Earthquake]
+- [Attract]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -84,16 +84,16 @@ tags: [in-game, PWT-Flannery Tournament]
 item: [Passho Berry]
 ability: [Magma Armor, Solid Rock]
 moves:
-    - [Yawn]
-    - [Fire Blast]
-    - [Earth Power]
-    - [Rock Slide]
-gender: [m,f]
+- [Yawn]
+- [Fire Blast]
+- [Earth Power]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

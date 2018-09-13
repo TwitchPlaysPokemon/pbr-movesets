@@ -1,16 +1,16 @@
 species: Yanmega
 setname: PWT-Aaron
 tags: [in-game, PWT-Aaron]
-item: [Null]
+item: [null]
 ability: [Speed Boost]
 moves:
-    - [Bug Buzz]
-    - [Air Slash]
-    - [U-Turn]
-    - [Double Team]
-gender: [m,f]
+- [Bug Buzz]
+- [Air Slash]
+- [U-Turn]
+- [Double Team]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Yanmega
 setname: PWT-Bugsy Rematch
 tags: [in-game, PWT-Bugsy Rematch]
-item: [Null]
+item: [null]
 ability: [Tinted Lens]
 moves:
-    - [Bug Buzz]
-    - [Air Slash]
-    - [Detect]
-    - [Ancient Power]
-gender: [m,f]
+- [Bug Buzz]
+- [Air Slash]
+- [Detect]
+- [Ancient Power]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Bugsy Tournament]
 item: [Charti Berry]
 ability: [Speed Boost, Tinted Lens]
 moves:
-    - [Bug Buzz]
-    - [Psychic]
-    - [Protect]
-    - [Hypnosis]
-gender: [m,f]
+- [Bug Buzz]
+- [Psychic]
+- [Protect]
+- [Hypnosis]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

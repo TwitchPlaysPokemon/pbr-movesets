@@ -1,16 +1,16 @@
 species: Crawdaunt
 setname: PWT-Sidney
 tags: [in-game, PWT-Sidney]
-item: [Null]
+item: [null]
 ability: [Hyper Cutter]
 moves:
-    - [Surf]
-    - [Swords Dance]
-    - [Strength]
-    - [Facade]
-gender: [m,f]
+- [Surf]
+- [Swords Dance]
+- [Strength]
+- [Facade]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Crawdaunt
 setname: PWT-Juan
 tags: [in-game, PWT-Juan]
-item: [Null]
+item: [null]
 ability: [Hyper Cutter]
 moves:
-    - [Water Pulse]
-    - [Crabhammer]
-    - [Taunt]
-    - [Leer]
-gender: [m,f]
+- [Water Pulse]
+- [Crabhammer]
+- [Taunt]
+- [Leer]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,13 +44,13 @@ tags: [in-game, PWT-Juan Rematch]
 item: [Chesto Berry]
 ability: [Hyper Cutter]
 moves:
-    - [Rest]
-    - [Guillotine]
-    - [Taunt]
-    - [Double Team]
-gender: [m,f]
+- [Rest]
+- [Guillotine]
+- [Taunt]
+- [Double Team]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Juan Tournament]
 item: [Wacan Berry]
 ability: [Hyper Cutter, Shell Armor]
 moves:
-    - [Dragon Dance]
-    - [Crabhammer]
-    - [Superpower]
-    - [Night Slash]
-gender: [m,f]
+- [Dragon Dance]
+- [Crabhammer]
+- [Superpower]
+- [Night Slash]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

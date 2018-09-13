@@ -1,15 +1,15 @@
 species: Magnezone
 setname: PWT-Lt. Surge2 Rematch
 tags: [in-game, PWT-Lt. Surge2 Rematch]
-item: [Null]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Thunderbolt]
-    - [Magnet Rise]
-    - [Double Team]
-    - [Mirror Shot]
+- [Thunderbolt]
+- [Magnet Rise]
+- [Double Team]
+- [Mirror Shot]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,15 +20,15 @@ rarity: 1.0
 species: Magnezone
 setname: PWT-Jasmine Rematch
 tags: [in-game, PWT-Jasmine Rematch]
-item: [Null]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Metal Sound]
-    - [Mirror Coat]
-    - [Lock On]
-    - [Zap Cannon]
+- [Metal Sound]
+- [Mirror Coat]
+- [Lock On]
+- [Zap Cannon]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -39,15 +39,15 @@ rarity: 1.0
 species: Magnezone
 setname: PWT-Byron Rematch
 tags: [in-game, PWT-Byron Rematch]
-item: [Null]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Thunderbolt]
-    - [Flash Cannon]
-    - [Thunder Wave]
-    - [Supersonic]
+- [Thunderbolt]
+- [Flash Cannon]
+- [Thunder Wave]
+- [Supersonic]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -58,15 +58,15 @@ rarity: 1.0
 species: Magnezone
 setname: PWT-Mira
 tags: [in-game, PWT-Mira]
-item: [Null]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Flash Cannon]
-    - [Hyper Beam]
-    - [Thunder Wave]
-    - [Thunder]
+- [Flash Cannon]
+- [Hyper Beam]
+- [Thunder Wave]
+- [Thunder]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,16 +80,16 @@ tags: [in-game, PWT-Lt. Surge Tournament]
 item: [Shuca Berry]
 ability: [Magnet Pull, Sturdy]
 moves:
-    - [Discharge]
-    - [Flash Cannon]
-    - [Barrier]
-    - [Signal Beam]
+- [Discharge]
+- [Flash Cannon]
+- [Barrier]
+- [Signal Beam]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -99,16 +99,16 @@ tags: [in-game, PWT-Jasmine Tournament]
 item: [Shuca Berry]
 ability: [Magnet Pull, Sturdy]
 moves:
-    - [Flash Cannon]
-    - [Zap Cannon]
-    - [Gravity]
-    - [Thunder Wave]
+- [Flash Cannon]
+- [Zap Cannon]
+- [Gravity]
+- [Thunder Wave]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -118,16 +118,16 @@ tags: [in-game, PWT-Wattson Tournament]
 item: [Shuca Berry]
 ability: [Sturdy, Magnet Pull]
 moves:
-    - [Discharge]
-    - [Magnet Rise]
-    - [Tri Attack]
-    - [Metal Sound]
+- [Discharge]
+- [Magnet Rise]
+- [Tri Attack]
+- [Metal Sound]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -137,15 +137,15 @@ tags: [in-game, PWT-Byron Tournament]
 item: [Shuca Berry]
 ability: [Magnet Pull, Sturdy]
 moves:
-    - [Flash Cannon]
-    - [Charge Beam]
-    - [Barrier]
-    - [Light Screen]
+- [Flash Cannon]
+- [Charge Beam]
+- [Barrier]
+- [Light Screen]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

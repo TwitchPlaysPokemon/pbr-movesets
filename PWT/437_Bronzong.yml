@@ -1,15 +1,15 @@
 species: Bronzong
 setname: PWT-Lucian
 tags: [in-game, PWT-Lucian]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Psychic]
-    - [Gyro Ball]
-    - [Earthquake]
-    - [Calm Mind]
+- [Psychic]
+- [Gyro Ball]
+- [Earthquake]
+- [Calm Mind]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,15 +20,15 @@ rarity: 1.0
 species: Bronzong
 setname: PWT-Will Rematch
 tags: [in-game, PWT-Will Rematch]
-item: [Null]
+item: [null]
 ability: [Heatproof]
 moves:
-    - [Gravity]
-    - [Reflect]
-    - [Payback]
-    - [Psychic]
+- [Gravity]
+- [Reflect]
+- [Payback]
+- [Psychic]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -39,15 +39,15 @@ rarity: 1.0
 species: Bronzong
 setname: PWT-Jasmine Rematch
 tags: [in-game, PWT-Jasmine Rematch]
-item: [Null]
+item: [null]
 ability: [Heatproof]
 moves:
-    - [Gyro Ball]
-    - [Gravity]
-    - [Hypnosis]
-    - [Dream Eater]
+- [Gyro Ball]
+- [Gravity]
+- [Hypnosis]
+- [Dream Eater]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,15 +61,15 @@ tags: [in-game, PWT-Byron Tournament]
 item: [Shuca Berry]
 ability: [Heatproof, Levitate]
 moves:
-    - [Gyro Ball]
-    - [Zen Headbutt]
-    - [Hypnosis]
-    - [Trick Room]
+- [Gyro Ball]
+- [Zen Headbutt]
+- [Hypnosis]
+- [Trick Room]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

@@ -1,16 +1,16 @@
 species: Abomasnow
 setname: PWT-Pryce Rematch
 tags: [in-game, PWT-Pryce Rematch]
-item: [Null]
+item: [null]
 ability: [Snow Warning]
 moves:
-    - [Ice Shard]
-    - [Wood Hammer]
-    - [Earthquake]
-    - [Blizzard]
-gender: [m,f]
+- [Ice Shard]
+- [Wood Hammer]
+- [Earthquake]
+- [Blizzard]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Abomasnow
 setname: PWT-Candice
 tags: [in-game, PWT-Candice]
-item: [Null]
+item: [null]
 ability: [Snow Warning]
 moves:
-    - [Wood Hammer]
-    - [Focus Blast]
-    - [Water Pulse]
-    - [Avalanche]
-gender: [m,f]
+- [Wood Hammer]
+- [Focus Blast]
+- [Water Pulse]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Abomasnow
 setname: PWT-Candice Rematch
 tags: [in-game, PWT-Candice Rematch]
-item: [Null]
+item: [null]
 ability: [Snow Warning]
 moves:
-    - [Wood Hammer]
-    - [Ingrain]
-    - [Grass Whistle]
-    - [Avalanche]
-gender: [m,f]
+- [Wood Hammer]
+- [Ingrain]
+- [Grass Whistle]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Candice Tournament]
 item: [Occa Berry]
 ability: [Snow Warning]
 moves:
-    - [Earthquake]
-    - [Blizzard]
-    - [Grass Knot]
-    - [Ingrain]
-gender: [m,f]
+- [Earthquake]
+- [Blizzard]
+- [Grass Knot]
+- [Ingrain]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

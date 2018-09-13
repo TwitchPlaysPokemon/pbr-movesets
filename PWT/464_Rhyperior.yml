@@ -1,16 +1,16 @@
 species: Rhyperior
 setname: PWT-Blue Gym Rematch
 tags: [in-game, PWT-Blue Gym Rematch]
-item: [Null]
+item: [null]
 ability: [Solid Rock]
 moves:
-    - [Megahorn]
-    - [Stone Edge]
-    - [Thunder Fang]
-    - [Earthquake]
-gender: [m,f]
+- [Megahorn]
+- [Stone Edge]
+- [Thunder Fang]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Rhyperior
 setname: PWT-Bertha
 tags: [in-game, PWT-Bertha]
-item: [Null]
+item: [null]
 ability: [Lightningrod]
 moves:
-    - [Earthquake]
-    - [Rock Wrecker]
-    - [Megahorn]
-    - [Avalanche]
-gender: [m,f]
+- [Earthquake]
+- [Rock Wrecker]
+- [Megahorn]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,13 +44,13 @@ tags: [in-game, PWT-Palmer]
 item: [Focus Band]
 ability: [Lightninrod, Solid Rock]
 moves:
-    - [Earthquake]
-    - [Crunch]
-    - [Rock Wrecker]
-    - [Roar]
-gender: [m,f]
+- [Earthquake]
+- [Crunch]
+- [Rock Wrecker]
+- [Roar]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Giovanni Tournament]
 item: [Liechi Berry]
 ability: [Lightninrod, Solid Rock]
 moves:
-    - [Hammer Arm]
-    - [Stone Edge]
-    - [Megahorn]
-    - [Earthquake]
-gender: [m,f]
+- [Hammer Arm]
+- [Stone Edge]
+- [Megahorn]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

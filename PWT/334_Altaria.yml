@@ -1,16 +1,16 @@
 species: Altaria
 setname: PWT-Lance Champion Rematch
 tags: [in-game, PWT-Lance Champion Rematch]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Double Team]
-    - [Dragon Breath]
-    - [Perish Song]
-    - [Hyper Beam]
-gender: [m,f]
+- [Double Team]
+- [Dragon Breath]
+- [Perish Song]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Altaria
 setname: PWT-Wally
 tags: [in-game, PWT-Wally]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Aerial Ace]
-    - [Safeguard]
-    - [Dragon Breath]
-    - [Dragon Dance]
-gender: [m,f]
+- [Aerial Ace]
+- [Safeguard]
+- [Dragon Breath]
+- [Dragon Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Altaria
 setname: PWT-Drake
 tags: [in-game, PWT-Drake]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Double Edge]
-    - [Dragon Breath]
-    - [Dragon Dance]
-    - [Aerial Ace]
-gender: [m,f]
+- [Double Edge]
+- [Dragon Breath]
+- [Dragon Dance]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Altaria
 setname: PWT-Winona
 tags: [in-game, PWT-Winona]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Earthquake]
-    - [Dragon Breath]
-    - [Dragon Dance]
-    - [Aerial Ace]
-gender: [m,f]
+- [Earthquake]
+- [Dragon Breath]
+- [Dragon Dance]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -84,13 +84,13 @@ tags: [in-game, PWT-Winona Rematch]
 item: [Chesto Berry]
 ability: [Natural Cure]
 moves:
-    - [Sky Attack]
-    - [Rest]
-    - [Dragon Dance]
-    - [Earthquake]
-gender: [m,f]
+- [Sky Attack]
+- [Rest]
+- [Dragon Dance]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -104,17 +104,17 @@ tags: [in-game, PWT-Clair Tournament]
 item: [Charcoal]
 ability: [Natural Cure]
 moves:
-    - [Dragonbreath]
-    - [Fire Blast]
-    - [Perish Song]
-    - [Barrier]
-gender: [m,f]
+- [Dragonbreath]
+- [Fire Blast]
+- [Perish Song]
+- [Barrier]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -124,16 +124,16 @@ tags: [in-game, PWT-Winona Tournament]
 item: [Apicot Berry]
 ability: [Natural Cure]
 moves:
-    - [Barrier]
-    - [Dream Eater]
-    - [Roost]
-    - [Sing]
-gender: [m,f]
+- [Barrier]
+- [Dream Eater]
+- [Roost]
+- [Sing]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

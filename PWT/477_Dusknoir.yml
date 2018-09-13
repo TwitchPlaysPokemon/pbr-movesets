@@ -1,16 +1,16 @@
 species: Dusknoir
 setname: PWT-Morty Rematch
 tags: [in-game, PWT-Morty Rematch]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Will-O-Wisp]
-    - [Substitute]
-    - [Pain Split]
-    - [Payback]
-gender: [m,f]
+- [Will-O-Wisp]
+- [Substitute]
+- [Pain Split]
+- [Payback]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Dusknoir
 setname: PWT-Fantina Rematch
 tags: [in-game, PWT-Fantina Rematch]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Shadow Punch]
-    - [Rock Slide]
-    - [Double Team]
-    - [Protect]
-gender: [m,f]
+- [Shadow Punch]
+- [Rock Slide]
+- [Double Team]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Dusknoir
 setname: PWT-Buck
 tags: [in-game, PWT-Buck]
-item: [Null]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Fire Punch]
-    - [Ice Punch]
-    - [Thunder Punch]
-    - [Shadow Ball]
-gender: [m,f]
+- [Fire Punch]
+- [Ice Punch]
+- [Thunder Punch]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,17 +64,17 @@ tags: [in-game, PWT-Morty Tournament]
 item: [Sitrus Berry]
 ability: [Pressure]
 moves:
-    - [Shadow Punch]
-    - [Magnitude]
-    - [Thunder Punch]
-    - [Pain Split]
-gender: [m,f]
+- [Shadow Punch]
+- [Magnitude]
+- [Thunder Punch]
+- [Pain Split]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -84,16 +84,16 @@ tags: [in-game, PWT-Fantina Tournament]
 item: [Apicot Berry]
 ability: [Pressure]
 moves:
-    - [Curse]
-    - [Confuse Ray]
-    - [Pain Split]
-    - [Shadow Sneak]
-gender: [m,f]
+- [Curse]
+- [Confuse Ray]
+- [Pain Split]
+- [Shadow Sneak]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
