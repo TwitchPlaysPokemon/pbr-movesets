@@ -3,8 +3,8 @@ ingamename: FUTA
 displayname: FUTA
 setname: Dark Graystone
 tags: [runmon, in-game]
-item: [Life Orb]
-ability: [Truant]
+item: [Null]
+ability: [Natural Cure]
 moves:
     - [Confusion]
     - [Leech Seed]
