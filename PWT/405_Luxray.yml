@@ -1,16 +1,16 @@
 species: Luxray
 setname: PWT-Volkner
 tags: [in-game, PWT-Volkner]
-item: [Null]
+item: [null]
 ability: [Rivalry]
 moves:
-    - [Thunder Fang]
-    - [Ice Fang]
-    - [Fire Fang]
-    - [Crunch]
-gender: [m,f]
+- [Thunder Fang]
+- [Ice Fang]
+- [Fire Fang]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Luxray
 setname: PWT-Volkner Rematch
 tags: [in-game, PWT-Volkner Rematch]
-item: [Null]
+item: [null]
 ability: [Rivalry]
 moves:
-    - [Thunder Fang]
-    - [Ice Fang]
-    - [Fire Fang]
-    - [Crunch]
-gender: [m,f]
+- [Thunder Fang]
+- [Ice Fang]
+- [Fire Fang]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Volkner Tournament]
 item: [Shuca Berry]
 ability: [Rivalry, Intimidate]
 moves:
-    - [Superpower]
-    - [Crunch]
-    - [Volt Tackle]
-    - [Thunder Wave]
-gender: [m,f]
+- [Superpower]
+- [Crunch]
+- [Volt Tackle]
+- [Thunder Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

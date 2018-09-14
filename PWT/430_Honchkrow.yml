@@ -1,16 +1,16 @@
 species: Honchkrow
 setname: PWT-Giovanni Tohjo
 tags: [in-game, PWT-Giovanni Tohjo]
-item: [Null]
+item: [null]
 ability: [Super Luck]
 moves:
-    - [Nasty Plot]
-    - [Swagger]
-    - [Dark Pulse]
-    - [Shadow Ball]
-gender: [m,f]
+- [Nasty Plot]
+- [Swagger]
+- [Dark Pulse]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Honchkrow
 setname: PWT-Cyrus
 tags: [in-game, PWT-Cyrus]
-item: [Null]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Drill Peck]
-    - [Night Slash]
-    - [Heat Wave]
-    - [Psychic]
-gender: [m,f]
+- [Drill Peck]
+- [Night Slash]
+- [Heat Wave]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Honchkrow
 setname: PWT-Karen Rematch
 tags: [in-game, PWT-Karen Rematch]
-item: [Null]
+item: [null]
 ability: [Super Luck]
 moves:
-    - [Thunder Wave]
-    - [Whirlwind]
-    - [Drill Peck]
-    - [Sucker Punch]
-gender: [m,f]
+- [Thunder Wave]
+- [Whirlwind]
+- [Drill Peck]
+- [Sucker Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Honchkrow
 setname: PWT-Falkner Rematch
 tags: [in-game, PWT-Falkner Rematch]
-item: [Null]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Dark Pulse]
-    - [Night Slash]
-    - [Sucker Punch]
-    - [Thunder Wave]
-gender: [m,f]
+- [Dark Pulse]
+- [Night Slash]
+- [Sucker Punch]
+- [Thunder Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -84,17 +84,17 @@ tags: [in-game, PWT-Falkner Tournament]
 item: [Salac Berry]
 ability: [Insomnia, Super Luck]
 moves:
-    - [Air Cutter]
-    - [Dark Pulse]
-    - [Icy Wind]
-    - [Nasty Plot]
-gender: [m,f]
+- [Air Cutter]
+- [Dark Pulse]
+- [Icy Wind]
+- [Nasty Plot]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -104,16 +104,16 @@ tags: [in-game, PWT-Winona Tournament]
 item: [Charti Berry]
 ability: [Insomnia, Super Luck]
 moves:
-    - [Brave Bird]
-    - [Night Slash]
-    - [Icy Wind]
-    - [Heat Wave]
-gender: [m,f]
+- [Brave Bird]
+- [Night Slash]
+- [Icy Wind]
+- [Heat Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

@@ -1,16 +1,16 @@
 species: Gardevoir
 setname: PWT-Wally
 tags: [in-game, PWT-Wally]
-item: [Null]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Double Team]
-    - [Calm Mind]
-    - [Psychic]
-    - [Future Sight]
+- [Double Team]
+- [Calm Mind]
+- [Psychic]
+- [Future Sight]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Gardevoir
 setname: PWT-Will Rematch
 tags: [in-game, PWT-Will Rematch]
-item: [Null]
+item: [null]
 ability: [Trace]
 moves:
-    - [Calm Mind]
-    - [Charge Beam]
-    - [Focus Blast]
-    - [Psychic]
+- [Calm Mind]
+- [Charge Beam]
+- [Focus Blast]
+- [Psychic]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Gardevoir
 setname: PWT-Team Charm
 tags: [in-game, PWT-Team Charm]
-item: [Null]
+item: [null]
 ability: [Trace]
 moves:
-    - [Calm Mind]
-    - [Magical Leaf]
-    - [Psychic]
-    - [Future Sight]
+- [Calm Mind]
+- [Magical Leaf]
+- [Psychic]
+- [Future Sight]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Liza Tournament]
 item: [Spell Tag]
 ability: [Trace, Synchronize]
 moves:
-    - [Dream Eater]
-    - [Shadow Ball]
-    - [Thunderbolt]
-    - [Hypnosis]
+- [Dream Eater]
+- [Shadow Ball]
+- [Thunderbolt]
+- [Hypnosis]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

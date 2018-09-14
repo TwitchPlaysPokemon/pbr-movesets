@@ -1,16 +1,16 @@
 species: Gallade
 setname: PWT-Lucian
 tags: [in-game, PWT-Lucian]
-item: [Null]
+item: [null]
 ability: [Steadfast]
 moves:
-    - [Drain Punch]
-    - [Psycho Cut]
-    - [Leaf Blade]
-    - [Stone Edge]
+- [Drain Punch]
+- [Psycho Cut]
+- [Leaf Blade]
+- [Stone Edge]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Gallade
 setname: PWT-Sabrina2 Rematch
 tags: [in-game, PWT-Sabrina2 Rematch]
-item: [Null]
+item: [null]
 ability: [Steadfast]
 moves:
-    - [Stone Edge]
-    - [Psycho Cut]
-    - [Night Slash]
-    - [Close Combat]
+- [Stone Edge]
+- [Psycho Cut]
+- [Night Slash]
+- [Close Combat]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,17 +44,17 @@ tags: [in-game, PWT-Tate Tournament]
 item: [Kasib Berry]
 ability: [Steadfast]
 moves:
-    - [Psycho Cut]
-    - [Stone Edge]
-    - [Night Slash]
-    - [Leaf Blade]
+- [Psycho Cut]
+- [Stone Edge]
+- [Night Slash]
+- [Leaf Blade]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Maylene Tournament]
 item: [Coba Berry]
 ability: [Steadfast]
 moves:
-    - [Slash]
-    - [Psycho Cut]
-    - [Close Combat]
-    - [Bulk Up]
+- [Slash]
+- [Psycho Cut]
+- [Close Combat]
+- [Bulk Up]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

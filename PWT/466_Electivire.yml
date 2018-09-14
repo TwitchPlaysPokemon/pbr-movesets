@@ -1,16 +1,16 @@
 species: Electivire
 setname: PWT-Lt. Surge2 Rematch
 tags: [in-game, PWT-Lt. Surge2 Rematch]
-item: [Null]
+item: [null]
 ability: [Motor Drive]
 moves:
-    - [Thunderbolt]
-    - [Ice Punch]
-    - [Cross Chop]
-    - [Earthquake]
-gender: [m,f]
+- [Thunderbolt]
+- [Ice Punch]
+- [Cross Chop]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Electivire
 setname: PWT-Volkner
 tags: [in-game, PWT-Volkner]
-item: [Null]
+item: [null]
 ability: [Motor Drive]
 moves:
-    - [Thunder Punch]
-    - [Fire Punch]
-    - [Giga Impact]
-    - [Quick Attack]
-gender: [m,f]
+- [Thunder Punch]
+- [Fire Punch]
+- [Giga Impact]
+- [Quick Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Electivire
 setname: PWT-Volkner Rematch
 tags: [in-game, PWT-Volkner Rematch]
-item: [Null]
+item: [null]
 ability: [Motor Drive]
 moves:
-    - [Thunder Punch]
-    - [Fire Punch]
-    - [Brick Break]
-    - [Giga Impact]
-gender: [m,f]
+- [Thunder Punch]
+- [Fire Punch]
+- [Brick Break]
+- [Giga Impact]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,17 +64,17 @@ tags: [in-game, PWT-Lt. Surge Tournament]
 item: [Liechi Berry]
 ability: [Motor Drive]
 moves:
-    - [Volt Tackle]
-    - [Low Kick]
-    - [Rock Tomb]
-    - [Fire Punch]
-gender: [m,f]
+- [Volt Tackle]
+- [Low Kick]
+- [Rock Tomb]
+- [Fire Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -84,16 +84,16 @@ tags: [in-game, PWT-Volkner Tournament]
 item: [Salac Berry]
 ability: [Motor Drive]
 moves:
-    - [Brick Break]
-    - [Magnitude]
-    - [Volt Tackle]
-    - [Ice Punch]
-gender: [m,f]
+- [Brick Break]
+- [Magnitude]
+- [Volt Tackle]
+- [Ice Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

@@ -1,16 +1,16 @@
 species: Relicanth
 setname: PWT-Brock2 Rematch
 tags: [in-game, PWT-Brock2 Rematch]
-item: [Null]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Head Smash]
-    - [Aqua Tail]
-    - [Earthquake]
-    - [Rest]
-gender: [m,f]
+- [Head Smash]
+- [Aqua Tail]
+- [Earthquake]
+- [Rest]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -24,17 +24,17 @@ tags: [in-game, PWT-Brock Tournament]
 item: [Hard Stone]
 ability: [Swift Swim, Rock Head]
 moves:
-    - [Rock Slide]
-    - [Waterfall]
-    - [Rock Polish]
-    - [Yawn]
-gender: [m,f]
+- [Rock Slide]
+- [Waterfall]
+- [Rock Polish]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -44,19 +44,19 @@ tags: [in-game, PWT-Roxanne Tournament]
 item: [Rindo Berry]
 ability: [Swift Swim, Rock Head]
 moves:
-    - [Amnesia]
-    - [Yawn]
-    - [Aqua Tail]
-    - [Stone Edge]
+- [Amnesia]
+- [Yawn]
+- [Aqua Tail]
+- [Stone Edge]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
-gender: [m,f]
+gender: [m, f]
 ---
 species: Relicanth
 setname: PWT-Roark Tournament
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Roark Tournament]
 item: [Ganlon Berry]
 ability: [Swift Swim, Rock Head]
 moves:
-    - [Rock Slide]
-    - [Amnesia (=10)]
-    - [Sleep Talk (=10)]
-    - [Rest (=10)]
-gender: [m,f]
+- [Rock Slide]
+- [Amnesia (=10)]
+- [Sleep Talk (=10)]
+- [Rest (=10)]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

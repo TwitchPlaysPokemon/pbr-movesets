@@ -1,16 +1,16 @@
 species: Roserade
 setname: PWT-Wally
 tags: [in-game, PWT-Wally]
-item: [Null]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Magical Leaf]
-    - [Leech Seed]
-    - [Giga Drain]
-    - [Toxic]
-gender: [m,f]
+- [Magical Leaf]
+- [Leech Seed]
+- [Giga Drain]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Roserade
 setname: PWT-Barry
 tags: [in-game, PWT-Barry]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Giga Drain]
-    - [Poison Jab]
-    - [Shadow Ball]
-    - [Grass Whistle]
-gender: [m,f]
+- [Giga Drain]
+- [Poison Jab]
+- [Shadow Ball]
+- [Grass Whistle]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Roserade
 setname: PWT-Cynthia
 tags: [in-game, PWT-Cynthia]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Energy Ball]
-    - [Sludge Bomb]
-    - [Shadow Ball]
-    - [Extrasensory]
-gender: [m,f]
+- [Energy Ball]
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Extrasensory]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Roserade
 setname: PWT-Erika2 Rematch
 tags: [in-game, PWT-Erika2 Rematch]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Weather Ball]
-    - [Energy Ball]
-    - [Sludge Bomb]
-    - [Stun Spore]
-gender: [m,f]
+- [Weather Ball]
+- [Energy Ball]
+- [Sludge Bomb]
+- [Stun Spore]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -81,16 +81,16 @@ rarity: 1.0
 species: Roserade
 setname: PWT-Gardenia
 tags: [in-game, PWT-Gardenia]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Grass Knot]
-    - [Magical Leaf]
-    - [Poison Sting]
-    - [Stun Spore]
-gender: [m,f]
+- [Grass Knot]
+- [Magical Leaf]
+- [Poison Sting]
+- [Stun Spore]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -101,16 +101,16 @@ rarity: 1.0
 species: Roserade
 setname: PWT-Gardenia Rematch
 tags: [in-game, PWT-Gardenia Rematch]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Sludge Bomb]
-    - [Shadow Ball]
-    - [Hyper Beam]
-    - [Leaf Storm]
-gender: [m,f]
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Hyper Beam]
+- [Leaf Storm]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -124,13 +124,13 @@ tags: [in-game, PWT-Cynthia Tournament]
 item: [White Herb]
 ability: [Natural Cure, Poison Point]
 moves:
-    - [Leaf Storm]
-    - [Sludge Bomb]
-    - [Shadow Ball]
-    - [Sleep Powder]
-gender: [m,f]
+- [Leaf Storm]
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Sleep Powder]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25
@@ -144,16 +144,16 @@ tags: [in-game, PWT-Gardenia Tournament]
 item: [Lum Berry]
 ability: [Natural Cure, Poison Point]
 moves:
-    - [Petal Dance]
-    - [Weather Ball]
-    - [Shadow Ball]
-    - [Sunny Day]
-gender: [m,f]
+- [Petal Dance]
+- [Weather Ball]
+- [Shadow Ball]
+- [Sunny Day]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

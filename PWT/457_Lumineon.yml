@@ -4,16 +4,16 @@ tags: [in-game, PWT-Crasher Wake Tournament]
 item: [NeverMeltIce]
 ability: [Swift Swim, Storm Drain]
 moves:
-    - [Surf]
-    - [Icy Wind]
-    - [U-Turn]
-    - [Rain Dance]
-gender: [m,f]
+- [Surf]
+- [Icy Wind]
+- [U-Turn]
+- [Rain Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

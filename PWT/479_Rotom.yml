@@ -4,16 +4,16 @@ tags: [in-game, PWT-Fantina Tournament]
 item: [Magnet]
 ability: [Levitate]
 moves:
-    - [Substitute]
-    - [Charge Beam]
-    - [Pain Split]
-    - [Shadow Ball]
+- [Substitute]
+- [Charge Beam]
+- [Pain Split]
+- [Shadow Ball]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -23,15 +23,15 @@ tags: [in-game, PWT-Volkner Tournament]
 item: [Colbur Berry]
 ability: [Levitate]
 moves:
-    - [Ominous Wind]
-    - [Pain Split]
-    - [Discharge]
-    - [Will-O-Wisp]
+- [Ominous Wind]
+- [Pain Split]
+- [Discharge]
+- [Will-O-Wisp]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

@@ -1,16 +1,16 @@
 species: Blastoise
 setname: PWT-Blue Champion
 tags: [in-game, PWT-Blue Champion]
-item: [Null]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Hydro Pump]
-    - [Rain Dance]
-    - [Skull Bash]
-    - [Bite]
-gender: [m,f]
+- [Hydro Pump]
+- [Rain Dance]
+- [Skull Bash]
+- [Bite]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Blastoise
 setname: PWT-Blue Champion Rematch
 tags: [in-game, PWT-Blue Champion Rematch]
-item: [Null]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Hydro Pump]
-    - [Ice Beam]
-    - [Earthquake]
-    - [Rain Dance]
-gender: [m,f]
+- [Hydro Pump]
+- [Ice Beam]
+- [Earthquake]
+- [Rain Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Blastoise
 setname: PWT-Professor Oak
 tags: [in-game, PWT-Professor Oak]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
-    - [Bite]
-    - [Withdraw]
-    - [Skull Bash]
-    - [Hydro Pump]
-gender: [m,f]
+- [Bite]
+- [Withdraw]
+- [Skull Bash]
+- [Hydro Pump]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Blastoise
 setname: PWT-Red
 tags: [in-game, PWT-Red]
-item: [Null]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Hydro Cannon]
-    - [Blizzard]
-    - [Flash Cannon]
-    - [Focus Blast]
+- [Hydro Cannon]
+- [Blizzard]
+- [Flash Cannon]
+- [Focus Blast]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -84,17 +84,17 @@ tags: [in-game, PWT-Misty Tournament]
 item: [Salac Berry]
 ability: [Torrent]
 moves:
-    - [Avalanche]
-    - [Hydro Pump]
-    - [Iron Tail]
-    - [Iron Defense]
-gender: [m,f]
+- [Avalanche]
+- [Hydro Pump]
+- [Iron Tail]
+- [Iron Defense]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20
-evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -104,13 +104,13 @@ tags: [in-game, PWT-Red Tournament]
 item: [Choice Scarf]
 ability: [Torrent]
 moves:
-    - [Water Spout]
-    - [Hydro Pump]
-    - [Blizzard]
-    - [Focus Blast]
-gender: [m,f]
+- [Water Spout]
+- [Hydro Pump]
+- [Blizzard]
+- [Focus Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25

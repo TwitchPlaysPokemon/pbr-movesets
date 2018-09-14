@@ -1,16 +1,16 @@
 species: Magmortar
 setname: PWT-Flint
 tags: [in-game, PWT-Flint]
-item: [Null]
+item: [null]
 ability: [Flame Body]
 moves:
-    - [Flamethrower]
-    - [Thunderbolt]
-    - [Solar Beam]
-    - [Hyper Beam]
-gender: [m,f]
+- [Flamethrower]
+- [Thunderbolt]
+- [Solar Beam]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Magmortar
 setname: PWT-Blaine2 Rematch
 tags: [in-game, PWT-Blaine2 Rematch]
-item: [Null]
+item: [null]
 ability: [Flame Body]
 moves:
-    - [Flamethrower]
-    - [Thunderbolt]
-    - [Low Kick]
-    - [Confuse Ray]
-gender: [m,f]
+- [Flamethrower]
+- [Thunderbolt]
+- [Low Kick]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,17 +44,17 @@ tags: [in-game, PWT-Blaine Tournament]
 item: [Petaya Berry]
 ability: [Flame Body]
 moves:
-    - [Fire Blast]
-    - [Psychic]
-    - [Thunderbolt]
-    - [Focus Blast]
-gender: [m,f]
+- [Fire Blast]
+- [Psychic]
+- [Thunderbolt]
+- [Focus Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Flannery Tournament]
 item: [Liechi Berry]
 ability: [Flame Body]
 moves:
-    - [Rock Slide]
-    - [Cross Chop]
-    - [Thunderbolt]
-    - [Fire Blast]
-gender: [m,f]
+- [Rock Slide]
+- [Cross Chop]
+- [Thunderbolt]
+- [Fire Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

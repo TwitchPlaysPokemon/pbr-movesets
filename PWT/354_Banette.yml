@@ -1,16 +1,16 @@
 species: Banette
 setname: PWT-Phoebe
 tags: [in-game, PWT-Phoebe]
-item: [Null]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Shadow Ball]
-    - [Grudge]
-    - [Will-O-Wisp]
-    - [Faint Attack]
-gender: [m,f]
+- [Shadow Ball]
+- [Grudge]
+- [Will-O-Wisp]
+- [Faint Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Banette
 setname: PWT-Phoebe-2
 tags: [in-game, PWT-Phoebe]
-item: [Null]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Shadow Ball]
-    - [Psychic]
-    - [Thunderbolt]
-    - [Facade]
-gender: [m,f]
+- [Shadow Ball]
+- [Psychic]
+- [Thunderbolt]
+- [Facade]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Banette
 setname: PWT-Fantina Rematch
 tags: [in-game, PWT-Fantina Rematch]
-item: [Null]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Shadow Claw]
-    - [Faint Attack]
-    - [Thunder Bolt]
-    - [Will-O-Wisp]
-gender: [m,f]
+- [Shadow Claw]
+- [Faint Attack]
+- [Thunder Bolt]
+- [Will-O-Wisp]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Morty Tournament]
 item: [Liechi Berry]
 ability: [Insomnia, Frisk]
 moves:
-    - [Shadow Claw]
-    - [Sucker Punch]
-    - [Curse]
-    - [Will-O-Wisp]
-gender: [m,f]
+- [Shadow Claw]
+- [Sucker Punch]
+- [Curse]
+- [Will-O-Wisp]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

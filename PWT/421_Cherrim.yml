@@ -1,16 +1,16 @@
 species: Cherrim
 setname: PWT-Gardenia
 tags: [in-game, PWT-Gardenia]
-item: [Null]
+item: [null]
 ability: [Flower Gift]
 moves:
-    - [Grass Knot]
-    - [Magical Leaf]
-    - [Leech Seed]
-    - [Safeguard]
+- [Grass Knot]
+- [Magical Leaf]
+- [Leech Seed]
+- [Safeguard]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Cherrim
 setname: PWT-Gardenia Rematch
 tags: [in-game, PWT-Gardenia Rematch]
-item: [Null]
+item: [null]
 ability: [Flower Gift]
 moves:
-    - [Toxic]
-    - [Leech Seed]
-    - [Sunny Day]
-    - [Solar Beam]
+- [Toxic]
+- [Leech Seed]
+- [Sunny Day]
+- [Solar Beam]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Gardenia Tournament]
 item: [Miracle Seed]
 ability: [Flower Gift]
 moves:
-    - [Giga Drain]
-    - [Leech Seed]
-    - [Substitute]
-    - [Sunny Day]
-gender: [m,f]
+- [Giga Drain]
+- [Leech Seed]
+- [Substitute]
+- [Sunny Day]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

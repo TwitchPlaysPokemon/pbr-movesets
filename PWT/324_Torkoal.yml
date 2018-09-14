@@ -1,16 +1,16 @@
 species: Torkoal
 setname: PWT-Blaine2 Rematch
 tags: [in-game, PWT-Blaine2 Rematch]
-item: [Null]
+item: [null]
 ability: [White Smoke]
 moves:
-    - [Yawn]
-    - [Sunny Day]
-    - [Body Slam]
-    - [Overheat]
-gender: [m,f]
+- [Yawn]
+- [Sunny Day]
+- [Body Slam]
+- [Overheat]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -24,13 +24,13 @@ tags: [in-game, PWT-Flannery]
 item: [White Herb]
 ability: [White Smoke]
 moves:
-    - [Overheat]
-    - [Sunny Day]
-    - [Body Slam]
-    - [Attract]
+- [Overheat]
+- [Sunny Day]
+- [Body Slam]
+- [Attract]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,13 +44,13 @@ tags: [in-game, PWT-Flannery Rematch]
 item: [White Herb]
 ability: [White Smoke]
 moves:
-    - [Overheat]
-    - [Sunny Day]
-    - [Explosion]
-    - [Attract]
-gender: [m,f]
+- [Overheat]
+- [Sunny Day]
+- [Explosion]
+- [Attract]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Torkoal
 setname: PWT-Buck
 tags: [in-game, PWT-Buck]
-item: [Null]
+item: [null]
 ability: [White Smoke]
 moves:
-    - [Protect]
-    - [Will-O-Wisp]
-    - [Earthquake]
-    - [Eruption]
-gender: [m,f]
+- [Protect]
+- [Will-O-Wisp]
+- [Earthquake]
+- [Eruption]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -84,16 +84,16 @@ tags: [in-game, PWT-Flannery Tournament]
 item: [Charcoal]
 ability: [White Smoke]
 moves:
-    - [Fire Blast]
-    - [Stone Edge]
-    - [Gyro Ball]
-    - [Yawn]
-gender: [m,f]
+- [Fire Blast]
+- [Stone Edge]
+- [Gyro Ball]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

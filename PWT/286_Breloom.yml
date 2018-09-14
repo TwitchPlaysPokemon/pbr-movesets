@@ -4,13 +4,13 @@ tags: [in-game, PWT-Chuck Rematch]
 item: [Toxic Orb]
 ability: [Poison Heal]
 moves:
-    - [Substitute]
-    - [Stone Edge]
-    - [Drain Punch]
-    - [Focus Punch]
-gender: [m,f]
+- [Substitute]
+- [Stone Edge]
+- [Drain Punch]
+- [Focus Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Breloom
 setname: PWT-Maylene Rematch
 tags: [in-game, PWT-Maylene Rematch]
-item: [Null]
+item: [null]
 ability: [Effect Spore]
 moves:
-    - [Spore]
-    - [Mach Punch]
-    - [Seed Bomb]
-    - [Stone Edge]
-gender: [m,f]
+- [Spore]
+- [Mach Punch]
+- [Seed Bomb]
+- [Stone Edge]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Brawly Tournament]
 item: [Coba Berry]
 ability: [Effect Spore, Poison Heal]
 moves:
-    - [Focus Punch]
-    - [Spore]
-    - [Stone Edge]
-    - [Mach Punch]
-gender: [m,f]
+- [Focus Punch]
+- [Spore]
+- [Stone Edge]
+- [Mach Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

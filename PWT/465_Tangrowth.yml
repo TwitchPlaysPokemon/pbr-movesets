@@ -1,16 +1,16 @@
 species: Tangrowth
 setname: PWT-Erika2 Rematch
 tags: [in-game, PWT-Erika2 Rematch]
-item: [Null]
+item: [null]
 ability: [Chlorophyll]
 moves:
-    - [Swords Dance]
-    - [Power Whip]
-    - [Rock Slide]
-    - [Earthquake]
-gender: [m,f]
+- [Swords Dance]
+- [Power Whip]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -24,17 +24,17 @@ tags: [in-game, PWT-Erika Tournament]
 item: [Liechi Berry]
 ability: [Chlorophyll, Leaf Guard]
 moves:
-    - [Swords Dance]
-    - [Earthquake]
-    - [Rock Slide]
-    - [Power Whip]
-gender: [m,f]
+- [Swords Dance]
+- [Earthquake]
+- [Rock Slide]
+- [Power Whip]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Gardenia Tournament]
 item: [Salac Berry]
 ability: [Chlorophyll, Leaf Guard]
 moves:
-    - [Power Whip]
-    - [Earthquake]
-    - [Ancient Power]
-    - [Focus Blast]
-gender: [m,f]
+- [Power Whip]
+- [Earthquake]
+- [Ancient Power]
+- [Focus Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

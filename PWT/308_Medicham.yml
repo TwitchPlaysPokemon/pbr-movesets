@@ -1,16 +1,16 @@
 species: Medicham
 setname: PWT-Chuck Rematch
 tags: [in-game, PWT-Chuck Rematch]
-item: [Null]
+item: [null]
 ability: [Pure Power]
 moves:
-    - [Attract]
-    - [Psycho Cut]
-    - [Thunder Punch]
-    - [High Jump Kick]
-gender: [m,f]
+- [Attract]
+- [Psycho Cut]
+- [Thunder Punch]
+- [High Jump Kick]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Medicham
 setname: PWT-Maylene
 tags: [in-game, PWT-Maylene]
-item: [Null]
+item: [null]
 ability: [Pure Power]
 moves:
-    - [Drain Punch]
-    - [Confusion]
-    - [Fake Out]
-    - [Rock Tomb]
-gender: [m,f]
+- [Drain Punch]
+- [Confusion]
+- [Fake Out]
+- [Rock Tomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Medicham
 setname: PWT-Maylene Rematch
 tags: [in-game, PWT-Maylene Rematch]
-item: [Null]
+item: [null]
 ability: [Pure Power]
 moves:
-    - [High Jump Kick]
-    - [Thunder Punch]
-    - [Fire Punch]
-    - [Ice Punch]
-gender: [m,f]
+- [High Jump Kick]
+- [Thunder Punch]
+- [Fire Punch]
+- [Ice Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -61,16 +61,16 @@ rarity: 1.0
 species: Medicham
 setname: PWT-Brawly Rematch
 tags: [in-game, PWT-Brawly Rematch]
-item: [Null]
+item: [null]
 ability: [Pure Power]
 moves:
-    - [Focus Punch]
-    - [Light Screen]
-    - [Reflect]
-    - [Psychic]
-gender: [m,f]
+- [Focus Punch]
+- [Light Screen]
+- [Reflect]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -81,16 +81,16 @@ rarity: 1.0
 species: Medicham
 setname: PWT-Team Charm
 tags: [in-game, PWT-Team Charm]
-item: [Null]
+item: [null]
 ability: [Pure Power]
 moves:
-    - [Psych Up]
-    - [Force Palm]
-    - [Reversal]
-    - [Confusion]
+- [Psych Up]
+- [Force Palm]
+- [Reversal]
+- [Confusion]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -101,16 +101,16 @@ rarity: 1.0
 species: Medicham
 setname: PWT-Team Meanies
 tags: [in-game, PWT-Team Meanies]
-item: [Null]
+item: [null]
 ability: [Pure Power]
 moves:
-    - [Meditate]
-    - [Confusion]
-    - [Detect]
-    - [Thunder Punch]
-gender: [m,f]
+- [Meditate]
+- [Confusion]
+- [Detect]
+- [Thunder Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -124,17 +124,17 @@ tags: [in-game, PWT-Brawly Tournament]
 item: [Twisted Spoon]
 ability: [Pure Power]
 moves:
-    - [Brick Break]
-    - [Psycho Cut]
-    - [Thunder Punch]
-    - [Ice Punch]
-gender: [m,f]
+- [Brick Break]
+- [Psycho Cut]
+- [Thunder Punch]
+- [Ice Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -144,16 +144,16 @@ tags: [in-game, PWT-Maylene Tournament]
 item: [Kasib Berry]
 ability: [Pure Power]
 moves:
-    - [Bullet Punch]
-    - [Zen Headbutt]
-    - [Brick Break]
-    - [Bulk Up]
-gender: [m,f]
+- [Bullet Punch]
+- [Zen Headbutt]
+- [Brick Break]
+- [Bulk Up]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

@@ -1,16 +1,16 @@
 species: Cradily
 setname: PWT-Steven
 tags: [in-game, PWT-Steven]
-item: [Null]
+item: [null]
 ability: [Suction Cups]
 moves:
-    - [Ancient Power]
-    - [Confuse Ray]
-    - [Sludge Bomb]
-    - [Giga Drain]
-gender: [m,f]
+- [Ancient Power]
+- [Confuse Ray]
+- [Sludge Bomb]
+- [Giga Drain]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -24,13 +24,13 @@ tags: [in-game, PWT-Steven Tournament]
 item: [Expert Belt]
 ability: [Suction Cups]
 moves:
-    - [Stone Edge]
-    - [Seed Bomb]
-    - [Earthquake]
-    - [Sandstorm]
-gender: [m,f]
+- [Stone Edge]
+- [Seed Bomb]
+- [Earthquake]
+- [Sandstorm]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 25
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Roxanne Tournament]
 item: [Sitrus Berry]
 ability: [Suction Cups]
 moves:
-    - [Ancient Power]
-    - [Giga Drain]
-    - [Stockpile]
-    - [Stealth Rock]
+- [Ancient Power]
+- [Giga Drain]
+- [Stockpile]
+- [Stealth Rock]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
-gender: [m,f]
+gender: [m, f]

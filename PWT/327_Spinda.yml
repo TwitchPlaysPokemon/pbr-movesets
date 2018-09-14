@@ -1,16 +1,16 @@
 species: Spinda
 setname: PWT-Norman
 tags: [in-game, PWT-Norman]
-item: [Null]
+item: [null]
 ability: [Own Tempo]
 moves:
-    - [Teeter Dance]
-    - [Psybeam]
-    - [Facade]
-    - [Encore]
-gender: [m,f]
+- [Teeter Dance]
+- [Psybeam]
+- [Facade]
+- [Encore]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Spinda
 setname: PWT-Norman Rematch
 tags: [in-game, PWT-Norman Rematch]
-item: [Null]
+item: [null]
 ability: [Own Tempo]
 moves:
-    - [Teeter Dance]
-    - [Skill Swap]
-    - [Facade]
-    - [Hypnosis]
-gender: [m,f]
+- [Teeter Dance]
+- [Skill Swap]
+- [Facade]
+- [Hypnosis]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Norman Tournament]
 item: [Black Glasses]
 ability: [Own Tempo, Tangled Feet]
 moves:
-    - [Thrash]
-    - [Sucker Punch]
-    - [Teeter Dance]
-    - [Assist]
-gender: [m,f]
+- [Thrash]
+- [Sucker Punch]
+- [Teeter Dance]
+- [Assist]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

@@ -1,15 +1,15 @@
 species: Claydol
 setname: PWT-Steven
 tags: [in-game, PWT-Steven]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Earthquake]
-    - [Ancient Power]
-    - [Light Screen]
-    - [Reflect]
+- [Earthquake]
+- [Ancient Power]
+- [Light Screen]
+- [Reflect]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,15 +20,15 @@ rarity: 1.0
 species: Claydol
 setname: PWT-Tate and Liza
 tags: [in-game, PWT-Tate and Liza]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Earthquake]
-    - [Ancient Power]
-    - [Psychic]
-    - [Light Screen]
+- [Earthquake]
+- [Ancient Power]
+- [Psychic]
+- [Light Screen]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -39,15 +39,15 @@ rarity: 1.0
 species: Claydol
 setname: PWT-Tate and Liza Rematch
 tags: [in-game, PWT-Tate and Liza Rematch]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Earthquake]
-    - [Explosion]
-    - [Psychic]
-    - [Light Screen]
+- [Earthquake]
+- [Explosion]
+- [Psychic]
+- [Light Screen]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -58,15 +58,15 @@ rarity: 1.0
 species: Claydol
 setname: PWT-Buck
 tags: [in-game, PWT-Buck]
-item: [Null]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Psychic]
-    - [Earth Power]
-    - [Calm Mind]
-    - [Ancient Power]
+- [Psychic]
+- [Earth Power]
+- [Calm Mind]
+- [Ancient Power]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,16 +80,16 @@ tags: [in-game, PWT-Tate Tournament]
 item: [Sitrus Berry]
 ability: [Levitate]
 moves:
-    - [Psychic]
-    - [Earth Power]
-    - [Cosmic Power]
-    - [Trick Room]
+- [Psychic]
+- [Earth Power]
+- [Cosmic Power]
+- [Trick Room]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
 ---
@@ -99,15 +99,15 @@ tags: [in-game, PWT-Liza Tournament]
 item: [Sitrus Berry]
 ability: [Levitate]
 moves:
-    - [Zen Headbutt]
-    - [Magnitude]
-    - [Cosmic Power]
-    - [Stone Edge]
+- [Zen Headbutt]
+- [Magnitude]
+- [Cosmic Power]
+- [Stone Edge]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

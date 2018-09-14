@@ -1,16 +1,16 @@
 species: Walrein
 setname: PWT-Glacia
 tags: [in-game, PWT-Glacia]
-item: [Null]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Surf]
-    - [Body Slam]
-    - [Ice Beam]
-    - [Sheer Cold]
+- [Surf]
+- [Body Slam]
+- [Ice Beam]
+- [Sheer Cold]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Walrein
 setname: PWT-Pryce Rematch
 tags: [in-game, PWT-Pryce Rematch]
-item: [Null]
+item: [null]
 ability: [Ice Body]
 moves:
-    - [Swagger]
-    - [Hail]
-    - [Body Slam]
-    - [Blizzard]
-gender: [m,f]
+- [Swagger]
+- [Hail]
+- [Body Slam]
+- [Blizzard]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Walrein
 setname: PWT-Juan Rematch
 tags: [in-game, PWT-Juan Rematch]
-item: [Null]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Water Pulse]
-    - [Body Slam]
-    - [Protect]
-    - [Sheer Cold]
-gender: [m,f]
+- [Water Pulse]
+- [Body Slam]
+- [Protect]
+- [Sheer Cold]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,13 +64,13 @@ tags: [in-game, PWT-Wallace Tournament]
 item: [Leftovers]
 ability: [Thick Fat, Ice Body]
 moves:
-    - [Surf]
-    - [Yawn]
-    - [Blizzard]
-    - [Sheer Cold]
-gender: [m,f]
+- [Surf]
+- [Yawn]
+- [Blizzard]
+- [Sheer Cold]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25
@@ -84,16 +84,16 @@ tags: [in-game, PWT-Juan Tournament]
 item: [Haban Berry]
 ability: [Thick Fat, Ice Body]
 moves:
-    - [Stockpile]
-    - [Blizzard]
-    - [Aqua Ring]
-    - [Surf]
-gender: [m,f]
+- [Stockpile]
+- [Blizzard]
+- [Aqua Ring]
+- [Surf]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

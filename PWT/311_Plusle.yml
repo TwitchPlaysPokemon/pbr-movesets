@@ -4,16 +4,16 @@ tags: [in-game, PWT-Wattson Tournament]
 item: [Salac Berry]
 ability: [Plus]
 moves:
-    - [Discharge]
-    - [Agility]
-    - [Nasty Plot]
-    - [Baton Pass]
-gender: [m,f]
+- [Discharge]
+- [Agility]
+- [Nasty Plot]
+- [Baton Pass]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

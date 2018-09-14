@@ -1,16 +1,16 @@
 species: Empoleon
 setname: PWT-Barry
 tags: [in-game, PWT-Barry]
-item: [Null]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Hydro Pump]
-    - [Metal Claw]
-    - [Drill Peck]
-    - [Shadow Claw]
-gender: [m,f]
+- [Hydro Pump]
+- [Metal Claw]
+- [Drill Peck]
+- [Shadow Claw]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Empoleon
 setname: PWT-Jasmine Rematch
 tags: [in-game, PWT-Jasmine Rematch]
-item: [Null]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Hydro Pump]
-    - [Blizzard]
-    - [Aqua Jet]
-    - [Roar]
-gender: [m,f]
+- [Hydro Pump]
+- [Blizzard]
+- [Aqua Jet]
+- [Roar]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Crasher Wake Tournament]
 item: [Petaya Berry]
 ability: [Torrent]
 moves:
-    - [Surf]
-    - [Blizzard]
-    - [Grass Knot]
-    - [Feather Dance]
-gender: [m,f]
+- [Surf]
+- [Blizzard]
+- [Grass Knot]
+- [Feather Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Modest
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

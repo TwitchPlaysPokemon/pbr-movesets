@@ -1,16 +1,16 @@
 species: Rampardos
 setname: PWT-Brock2 Rematch
 tags: [in-game, PWT-Brock2 Rematch]
-item: [Null]
+item: [null]
 ability: [Mold Breaker]
 moves:
-    - [Earthquake]
-    - [Stone Edge]
-    - [Avalanche]
-    - [Rock Polish]
-gender: [m,f]
+- [Earthquake]
+- [Stone Edge]
+- [Avalanche]
+- [Rock Polish]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Rampardos
 setname: PWT-Roark Rematch
 tags: [in-game, PWT-Roark Rematch]
-item: [Null]
+item: [null]
 ability: [Mold Breaker]
 moves:
-    - [Head Smash]
-    - [Earthquake]
-    - [Zen Headbutt]
-    - [Avalanche]
-gender: [m,f]
+- [Head Smash]
+- [Earthquake]
+- [Zen Headbutt]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Roark Tournament]
 item: [Salac Berry]
 ability: [Mold Breaker]
 moves:
-    - [Stone Edge]
-    - [Zen Headbutt]
-    - [Earthquake]
-    - [Outrage]
-gender: [m,f]
+- [Stone Edge]
+- [Zen Headbutt]
+- [Earthquake]
+- [Outrage]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

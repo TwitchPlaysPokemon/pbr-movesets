@@ -1,16 +1,16 @@
 species: Glalie
 setname: PWT-Glacia
 tags: [in-game, PWT-Glacia]
-item: [Null]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Light Screen]
-    - [Crunch]
-    - [Icy Wind]
-    - [Ice Beam]
+- [Light Screen]
+- [Crunch]
+- [Icy Wind]
+- [Ice Beam]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Glalie
 setname: PWT-Glacia-2
 tags: [in-game, PWT-Glacia]
-item: [Null]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Shadow Ball]
-    - [Explosion]
-    - [Hail]
-    - [Ice Beam]
+- [Shadow Ball]
+- [Explosion]
+- [Hail]
+- [Ice Beam]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -41,16 +41,16 @@ rarity: 1.0
 species: Glalie
 setname: PWT-Pryce Rematch
 tags: [in-game, PWT-Pryce Rematch]
-item: [Null]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Torment]
-    - [Payback]
-    - [Attract]
-    - [Blizzard]
+- [Torment]
+- [Payback]
+- [Attract]
+- [Blizzard]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -64,16 +64,16 @@ tags: [in-game, PWT-Candice Tournament]
 item: [Hard Stone]
 ability: [Inner Focus, Ice Body]
 moves:
-    - [Hail]
-    - [Ice Beam]
-    - [Crunch]
-    - [Rollout]
+- [Hail]
+- [Ice Beam]
+- [Crunch]
+- [Rollout]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0

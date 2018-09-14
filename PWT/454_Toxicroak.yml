@@ -1,16 +1,16 @@
 species: Toxicroak
 setname: PWT-Koga E4 Rematch
 tags: [in-game, PWT-Koga E4 Rematch]
-item: [Null]
+item: [null]
 ability: [Dry Skin]
 moves:
-    - [Swagger]
-    - [X-Scissor]
-    - [Cross Chop]
-    - [Gunk Shot]
-gender: [m,f]
+- [Swagger]
+- [X-Scissor]
+- [Cross Chop]
+- [Gunk Shot]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -21,16 +21,16 @@ rarity: 1.0
 species: Toxicroak
 setname: PWT-Janine Rematch
 tags: [in-game, PWT-Janine Rematch]
-item: [Null]
+item: [null]
 ability: [Dry Skin]
 moves:
-    - [Cross Chop]
-    - [Poison Jab]
-    - [Attract]
-    - [Substitute]
+- [Cross Chop]
+- [Poison Jab]
+- [Attract]
+- [Substitute]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -44,16 +44,16 @@ tags: [in-game, PWT-Maylene Tournament]
 item: [Payapa Berry]
 ability: [Anticipation, Dry Skin]
 moves:
-    - [Sucker Punch]
-    - [Torment]
-    - [Drain Punch]
-    - [Bulk Up]
-gender: [m,f]
+- [Sucker Punch]
+- [Torment]
+- [Drain Punch]
+- [Bulk Up]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Serious
+nature: Adamant
 ivs: 20
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
 level: 100
 rarity: 1.0
