@@ -37,3 +37,22 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Persian
+setname: PWT-Nanu
+tags: [in-game, PWT-Nanu]
+item: [Black Glasses]
+ability: [Thick Fat]
+moves:
+    - [Power Gem]
+    - [Shadow Ball]
+    - [Dark Pulse]
+gender: [m,f]
+happiness: 255
+biddable: False
+ball: [Poke]
+nature: Lax
+ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
