@@ -15,6 +15,6 @@ biddable: True
 rarity: 0.0
 ball: [Master]
 shiny: False
-nature: Careful
+nature: Serious
 ivs: {hp: 2, atk: 0, def: 14, spA: 10, spD: 10, spe: 7}
 evs: {hp: 0, atk: 24, def: 64, spA: 96, spD: 168, spe: 8}

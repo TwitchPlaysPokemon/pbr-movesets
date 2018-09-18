@@ -10,12 +10,12 @@ moves:
     - [Sand Attack]
     - [Leer]
     - [Fury Attack]
-gender: [m]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 30, atk: 2, def: 22, spA: 2, spD: 2, spe: 2}
+evs: {hp: 67, atk: 51, def: 51, spA: 50, spD: 50, spe: 72}

@@ -3,7 +3,7 @@ ingamename: OMASTAR
 displayname: OMASTAR
 setname: Red
 tags: [runmon, in-game]
-item: [Helix Fossil]
+item: [Null]
 ability: [null]
 moves:
     - [Hydro Pump]
@@ -15,6 +15,6 @@ happiness: 255
 biddable: True
 rarity: 0.0
 shiny: False
-nature: Sassy
+nature: Serious
 ivs: {hp: 16, atk: 26, def: 0, spA: 8, spD: 31, spe: 31}
 evs: {hp: 84, atk: 100, def: 104, spA: 78, spD: 252, spe: 156}

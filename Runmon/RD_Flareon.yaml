@@ -3,16 +3,16 @@ ingamename: FLAREON
 displayname: FLAREON
 setname: Red
 tags: [runmon, in-game]
-item: [Silk Scarf]
-ability: [Huge Power]
+item: [Null]
+ability: [Null]
 moves:
-    - [Tackle (=10)]
-    - [Sand Attack (=6)]
+    - [Tackle]
+    - [Sand Attack]
 gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.0
 shiny: False
-nature: Adamant
-ivs: 31
-evs: 252
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 20, spA: 8, spD: 8, spe: 12}
+evs: {hp: 12, atk: 14, def: 12, spA: 10, spD: 10, spe: 11}
