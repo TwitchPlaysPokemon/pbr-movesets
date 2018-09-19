@@ -274,7 +274,7 @@ biddable: False
 ball: [Poke]
 nature: Adamant
 ivs: 25
-evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
 ---
@@ -294,6 +294,6 @@ biddable: False
 ball: [Poke]
 nature: Adamant
 ivs: 20
-evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
