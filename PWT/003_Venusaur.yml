@@ -1,5 +1,4 @@
 species: Venusaur
-displayname: Venusaur
 setname: PWT-Red
 tags: [in-game, PWT-Red]
 item: [Null]
@@ -20,7 +19,6 @@ level: 100
 rarity: 1.0
 ---
 species: Venusaur
-displayname: Venusaur
 setname: PWT-Professor Oak
 tags: [in-game, PWT-Professor Oak]
 item: [Null]
