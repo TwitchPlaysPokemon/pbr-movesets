@@ -1,7 +1,7 @@
 species: Pupitar
 setname: m-DragonDance
 tags: [middlecup]
-item: [White Herb]
+item: [White Herb, Sitrus Berry]
 ability: [Shed Skin]
 moves:
     - [Stone Edge, Rock Slide]
@@ -12,6 +12,7 @@ separations:
     - [Rock slide, Crunch]
 combinations:
     - [taunt, earthquake]
+    - [White Herb, Superpower]
 gender: [m, f]
 happiness: 255
 biddable: True
