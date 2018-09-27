@@ -1,16 +1,16 @@
 species: Forretress
 setname: PWT-Koga E4
-tags: [in-game, PWT-Koga E4]
-item: [Null]
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Swift]
-    - [Explosion]
-    - [Protect]
-    - [Toxic Spikes]
-gender: [m,f]
+- [Swift]
+- [Explosion]
+- [Protect]
+- [Toxic Spikes]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Forretress
 setname: PWT-Bugsy Tournament
-tags: [in-game, PWT-Bugsy Tournament]
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Apicot Berry]
 ability: [Sturdy]
 moves:
-    - [Bug Bite]
-    - [Shadow Ball]
-    - [Pain Split]
-    - [Stealth Rock]
-gender: [m,f]
+- [Bug Bite]
+- [Shadow Ball]
+- [Pain Split]
+- [Stealth Rock]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Forretress
 setname: PWT-Jasmine Tournament
-tags: [in-game, PWT-Jasmine Tournament]
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
 item: [Occa Berry]
 ability: [Sturdy]
 moves:
-    - [Earthquake]
-    - [Zap Cannon]
-    - [Gravity]
-    - [Gyro Ball]
-gender: [m,f]
+- [Earthquake]
+- [Zap Cannon]
+- [Gravity]
+- [Gyro Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Brave
 ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Forretress
 setname: PWT-Byron Tournament
-tags: [in-game, PWT-Byron Tournament]
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
 item: [Occa Berry]
 ability: [Sturdy]
 moves:
-    - [Gyro Ball]
-    - [Iron Defense]
-    - [Light Screen]
-    - [Spikes]
-gender: [m,f]
+- [Gyro Ball]
+- [Iron Defense]
+- [Light Screen]
+- [Spikes]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Brave
 ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}

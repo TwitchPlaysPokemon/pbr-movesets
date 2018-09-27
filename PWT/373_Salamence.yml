@@ -1,6 +1,6 @@
 species: Salamence
 setname: PWT-Lance Champion Rematch
-tags: [in-game, PWT-Lance Champion Rematch]
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
 item: [null]
 ability: [Intimidate]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Salamence
 setname: PWT-Drake
-tags: [in-game, PWT-Drake]
+tags: [in-game, PWT-Drake, trainer+drake]
 item: [null]
 ability: [Intimidate]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Salamence
 setname: PWT-Riley
-tags: [in-game, PWT-Riley]
+tags: [in-game, PWT-Riley, trainer+riley]
 item: [null]
 ability: [Intimidate]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Salamence
 setname: PWT-Lance Tournament
-tags: [in-game, PWT-Lance Tournament]
+tags: [in-game, PWT-Lance Tournament, trainer+lance]
 item: [Expert Belt]
 ability: [Intimidate]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Salamence
 setname: PWT-Clair Tournament
-tags: [in-game, PWT-Clair Tournament]
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
 item: [Petaya Berry]
 ability: [Intimidate]
 moves:

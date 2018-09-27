@@ -1,16 +1,16 @@
 species: Seel
 setname: PWT-Pryce
-tags: [in-game, PWT-Pryce]
-item: [Null]
+tags: [in-game, PWT-Pryce, trainer+pryce]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Icy Wind]
-    - [Rest]
-    - [Snore]
-    - [Hail]
+- [Icy Wind]
+- [Rest]
+- [Snore]
+- [Hail]
 happiness: 255
-gender: [m,f]
-biddable: False
+gender: [m, f]
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

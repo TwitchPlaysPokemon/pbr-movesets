@@ -1,16 +1,16 @@
 species: Snorlax
 setname: PWT-Barry
-tags: [in-game, PWT-Barry]
-item: [Null]
+tags: [in-game, PWT-Barry, trainer+barry]
+item: [null]
 ability: [Immunity]
 moves:
-    - [Body Slam]
-    - [Earthquake]
-    - [Crunch]
-    - [Rest]
-gender: [m,f]
+- [Body Slam]
+- [Earthquake]
+- [Crunch]
+- [Rest]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Snorlax
 setname: PWT-Red
-tags: [in-game, PWT-Red]
-item: [Null]
+tags: [in-game, PWT-Red, trainer+red]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Shadow Ball]
-    - [Crunch]
-    - [Blizzard]
-    - [Giga Impact]
+- [Shadow Ball]
+- [Crunch]
+- [Blizzard]
+- [Giga Impact]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Snorlax
 setname: PWT-Anabel2
-tags: [in-game, PWT-Anabel2]
+tags: [in-game, PWT-Anabel2, trainer+anabel]
 item: [Chesto Berry]
 ability: [Immunity, Thick Fat]
 moves:
-    - [Curse]
-    - [Return]
-    - [Rest]
-    - [Shadow Ball]
-gender: [m,f]
+- [Curse]
+- [Return]
+- [Rest]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Snorlax
 setname: PWT-Anabel
-tags: [in-game, PWT-Anabel]
+tags: [in-game, PWT-Anabel, trainer+anabel]
 item: [Quick Claw]
 ability: [Immunity, Thick Fat]
 moves:
-    - [Body Slam]
-    - [Belly Drum]
-    - [Yawn]
-    - [Shadow Ball]
-gender: [m,f]
+- [Body Slam]
+- [Belly Drum]
+- [Yawn]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Snorlax
 setname: PWT-Red Tournament
-tags: [in-game, PWT-Red Tournament]
+tags: [in-game, PWT-Red Tournament, trainer+red]
 item: [Quick Claw]
 ability: [Immunity, Thick Fat]
 moves:
-    - [Body Slam]
-    - [Earthquake]
-    - [Crunch]
-    - [Seed Bomb]
-gender: [m,f]
+- [Body Slam]
+- [Earthquake]
+- [Crunch]
+- [Seed Bomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25

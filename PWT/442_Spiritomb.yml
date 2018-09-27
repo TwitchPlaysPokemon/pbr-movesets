@@ -1,6 +1,6 @@
 species: Spiritomb
 setname: PWT-Cynthia
-tags: [in-game, PWT-Cynthia]
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
 item: [null]
 ability: [Pressure]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Spiritomb
 setname: PWT-Karen Rematch
-tags: [in-game, PWT-Karen Rematch]
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
 item: [null]
 ability: [Pressure]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Spiritomb
 setname: PWT-Cynthia Tournament
-tags: [in-game, PWT-Cynthia Tournament]
+tags: [in-game, PWT-Cynthia Tournament, trainer+cynthia]
 item: [Jaboca Berry]
 ability: [Pressure]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Spiritomb
 setname: PWT-Fantina Tournament
-tags: [in-game, PWT-Fantina Tournament]
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
 item: [Sitrus Berry]
 ability: [Pressure]
 moves:

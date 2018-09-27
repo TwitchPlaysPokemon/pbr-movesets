@@ -1,7 +1,7 @@
 species: Masquerain
 setname: PWT-Guzma
-tags: [in-game, PWT-Guzma]
-item: [Null]
+tags: [in-game, PWT-Guzma, trainer+guzma]
+item: [null]
 ability: [Intimidate]
 moves:
 - [Air Slash]

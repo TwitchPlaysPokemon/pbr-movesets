@@ -1,6 +1,6 @@
 species: Glalie
 setname: PWT-Glacia
-tags: [in-game, PWT-Glacia]
+tags: [in-game, PWT-Glacia, trainer+glacia]
 item: [null]
 ability: [Inner Focus]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Glalie
 setname: PWT-Glacia-2
-tags: [in-game, PWT-Glacia]
+tags: [in-game, PWT-Glacia, trainer+glacia]
 item: [null]
 ability: [Inner Focus]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Glalie
 setname: PWT-Pryce Rematch
-tags: [in-game, PWT-Pryce Rematch]
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
 item: [null]
 ability: [Inner Focus]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Glalie
 setname: PWT-Candice Tournament
-tags: [in-game, PWT-Candice Tournament]
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
 item: [Hard Stone]
 ability: [Inner Focus, Ice Body]
 moves:

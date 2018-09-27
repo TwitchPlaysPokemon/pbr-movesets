@@ -1,16 +1,16 @@
 species: Meowth
 setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Jessie & James, trainer+jessiejames]
+item: [null]
+ability: [null]
 moves:
-    - [Growl]
-    - [Bite]
-    - [Pay Day]
-    - [Screech]
+- [Growl]
+- [Bite]
+- [Pay Day]
+- [Screech]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

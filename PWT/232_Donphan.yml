@@ -1,16 +1,16 @@
 species: Donphan
 setname: PWT-Professor Elm
-tags: [in-game, PWT-Professor Elm]
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
 item: [Leftovers]
-ability: [Null]
+ability: [null]
 moves:
-    - [Earthquake]
-    - [Rollout]
-    - [Defense Curl]
-    - [Flare Blitz]
-gender: [m,f]
+- [Earthquake]
+- [Rollout]
+- [Defense Curl]
+- [Flare Blitz]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

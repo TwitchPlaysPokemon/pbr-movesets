@@ -1,6 +1,6 @@
 species: Probopass
 setname: PWT-Roark Rematch
-tags: [in-game, PWT-Roark Rematch]
+tags: [in-game, PWT-Roark Rematch, trainer+roark]
 item: [null]
 ability: [Sturdy]
 moves:
@@ -20,7 +20,7 @@ gender: [m, f]
 ---
 species: Probopass
 setname: PWT-Roxanne Tournament
-tags: [in-game, PWT-Roxanne Tournament]
+tags: [in-game, PWT-Roxanne Tournament, trainer+roxanne]
 item: [Shuca Berry]
 ability: [Sturdy, Magnet Pull]
 moves:
@@ -40,7 +40,7 @@ gender: [m, f]
 ---
 species: Probopass
 setname: PWT-Roark Tournament
-tags: [in-game, PWT-Roark Tournament]
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
 item: [Chople Berry]
 ability: [Sturdy, Magnet Pull]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Probopass
 setname: PWT-Olivia
-tags: [in-game, PWT-Olivia]
+tags: [in-game, PWT-Olivia, trainer+olivia]
 item: [null]
 ability: [Sturdy]
 moves:

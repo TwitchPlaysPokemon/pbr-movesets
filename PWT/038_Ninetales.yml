@@ -1,16 +1,16 @@
 species: Ninetales
 setname: PWT-Burglar Simon
-tags: [in-game, PWT-Burglar Simon]
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
 item: [Sitrus Berry]
-ability: [Null]
+ability: [null]
 moves:
-    - [Dark Pulse]
-    - [Nasty Plot]
-    - [Fire Blast]
-    - [Hypnosis]
-gender: [m,f]
+- [Dark Pulse]
+- [Nasty Plot]
+- [Fire Blast]
+- [Hypnosis]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Ninetales
 setname: PWT-Blaine Tournament
-tags: [in-game, PWT-Blaine Tournament]
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
 item: [Charti Berry]
 ability: [Flash Fire]
 moves:
-    - [Heat Wave]
-    - [Energy Ball]
-    - [Hypnosis]
-    - [Nasty Plot]
-gender: [m,f]
+- [Heat Wave]
+- [Energy Ball]
+- [Hypnosis]
+- [Nasty Plot]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

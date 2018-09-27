@@ -1,16 +1,16 @@
 species: Lopunny
 setname: PWT-Team Charm
-tags: [in-game, PWT-Team Charm]
-item: [Null]
+tags: [in-game, PWT-Team Charm, trainer+teamcharm]
+item: [null]
 ability: [Klutz]
 moves:
-    - [Dizzy Punch]
-    - [Bounce]
-    - [Baton Pass]
-    - [Agility]
+- [Dizzy Punch]
+- [Bounce]
+- [Baton Pass]
+- [Agility]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Lopunny
 setname: PWT-Lusamine
-tags: [in-game, PWT-Lusamine]
-item: [Null]
+tags: [in-game, PWT-Lusamine, trainer+lusamine]
+item: [null]
 ability: [Cute Charm]
 moves:
-    - [Dizzy Punch]
-    - [Thunder Punch]
-    - [Ice Punch]
-    - [Fire Punch]
-gender: [m,f]
+- [Dizzy Punch]
+- [Thunder Punch]
+- [Ice Punch]
+- [Fire Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

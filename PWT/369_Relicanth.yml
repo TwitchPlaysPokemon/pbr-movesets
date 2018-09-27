@@ -1,6 +1,6 @@
 species: Relicanth
 setname: PWT-Brock2 Rematch
-tags: [in-game, PWT-Brock2 Rematch]
+tags: [in-game, PWT-Brock2 Rematch, trainer+brock]
 item: [null]
 ability: [Rock Head]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Relicanth
 setname: PWT-Brock Tournament
-tags: [in-game, PWT-Brock Tournament]
+tags: [in-game, PWT-Brock Tournament, trainer+brock]
 item: [Hard Stone]
 ability: [Swift Swim, Rock Head]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Relicanth
 setname: PWT-Roxanne Tournament
-tags: [in-game, PWT-Roxanne Tournament]
+tags: [in-game, PWT-Roxanne Tournament, trainer+roxanne]
 item: [Rindo Berry]
 ability: [Swift Swim, Rock Head]
 moves:
@@ -60,7 +60,7 @@ gender: [m, f]
 ---
 species: Relicanth
 setname: PWT-Roark Tournament
-tags: [in-game, PWT-Roark Tournament]
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
 item: [Ganlon Berry]
 ability: [Swift Swim, Rock Head]
 moves:

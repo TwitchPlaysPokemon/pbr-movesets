@@ -1,16 +1,16 @@
 species: Luvdisc
 setname: PWT-Juan
-tags: [in-game, PWT-Juan]
-item: [Null]
+tags: [in-game, PWT-Juan, trainer+juan]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Water Pulse]
-    - [Attract]
-    - [Sweet Kiss]
-    - [Flail]
-gender: [m,f]
+- [Water Pulse]
+- [Attract]
+- [Sweet Kiss]
+- [Flail]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

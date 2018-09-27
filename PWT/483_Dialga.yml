@@ -1,15 +1,15 @@
 species: Dialga
 setname: PWT-Cyrus RR
-tags: [in-game, PWT-Cyrus RR]
-item: [Null]
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Roar of Time]
-    - [Flash Cannon]
-    - [Earth Power]
-    - [Thunderbolt]
+- [Roar of Time]
+- [Flash Cannon]
+- [Earth Power]
+- [Thunderbolt]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

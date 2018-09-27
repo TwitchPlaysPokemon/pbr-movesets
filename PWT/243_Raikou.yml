@@ -1,15 +1,15 @@
 species: Raikou
 setname: PWT-Anabel2
-tags: [in-game, PWT-Anabel2]
+tags: [in-game, PWT-Anabel2, trainer+anabel]
 item: [Lum Berry]
 ability: [Pressure]
 moves:
-    - [Thunderbolt]
-    - [Calm Mind]
-    - [Reflect]
-    - [Rest]
+- [Thunderbolt]
+- [Calm Mind]
+- [Reflect]
+- [Rest]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

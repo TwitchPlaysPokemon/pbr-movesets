@@ -1,16 +1,16 @@
 species: Slugma
 setname: PWT-Blaine2
-tags: [in-game, PWT-Blaine2]
-item: [Null]
+tags: [in-game, PWT-Blaine2, trainer+blaine]
+item: [null]
 ability: [Flame Body]
 moves:
-    - [Overheat]
-    - [Sunny Day]
-    - [Smog]
-    - [Rock Slide]
-gender: [m,f]
+- [Overheat]
+- [Sunny Day]
+- [Smog]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Slugma
 setname: PWT-Blaine2 Rematch
-tags: [in-game, PWT-Blaine2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Blaine2 Rematch, trainer+blaine]
+item: [null]
 ability: [Flame Body]
 moves:
-    - [Curse]
-    - [Gyro Ball]
-    - [Overheat]
-    - [Stone Edge]
-gender: [m,f]
+- [Curse]
+- [Gyro Ball]
+- [Overheat]
+- [Stone Edge]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Magcargo
 setname: PWT-Flannery Rematch
-tags: [in-game, PWT-Flannery Rematch]
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
 item: [White Herb]
 ability: [Magma Armor]
 moves:
-    - [Overheat]
-    - [Attract]
-    - [Light Screen]
-    - [Rock Slide]
-gender: [m,f]
+- [Overheat]
+- [Attract]
+- [Light Screen]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Magcargo
 setname: PWT-Flannery Tournament
-tags: [in-game, PWT-Flannery Tournament]
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
 item: [Shuca Berry]
 ability: [Flame Body, Magma Armor]
 moves:
-    - [Ancient Power]
-    - [Earth Power]
-    - [Lava Plume]
-    - [Growth]
-gender: [m,f]
+- [Ancient Power]
+- [Earth Power]
+- [Lava Plume]
+- [Growth]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

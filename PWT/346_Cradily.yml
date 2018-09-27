@@ -1,6 +1,6 @@
 species: Cradily
 setname: PWT-Steven
-tags: [in-game, PWT-Steven]
+tags: [in-game, PWT-Steven, trainer+steven]
 item: [null]
 ability: [Suction Cups]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Cradily
 setname: PWT-Steven Tournament
-tags: [in-game, PWT-Steven Tournament]
+tags: [in-game, PWT-Steven Tournament, trainer+steven]
 item: [Expert Belt]
 ability: [Suction Cups]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Cradily
 setname: PWT-Roxanne Tournament
-tags: [in-game, PWT-Roxanne Tournament]
+tags: [in-game, PWT-Roxanne Tournament, trainer+roxanne]
 item: [Sitrus Berry]
 ability: [Suction Cups]
 moves:
@@ -60,7 +60,7 @@ gender: [m, f]
 ---
 species: Cradily
 setname: PWT-Olivia
-tags: [in-game, PWT-Olivia]
+tags: [in-game, PWT-Olivia, trainer+olivia]
 item: [null]
 ability: [Suction Cups]
 moves:

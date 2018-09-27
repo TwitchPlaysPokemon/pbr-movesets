@@ -1,16 +1,16 @@
 species: Octillery
 setname: PWT-Volkner
-tags: [in-game, PWT-Volkner]
-item: [Null]
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
 ability: [Sniper]
 moves:
-    - [Charge Beam]
-    - [Octazooka]
-    - [Aurora Beam]
-    - [Bullet Seed]
-gender: [m,f]
+- [Charge Beam]
+- [Octazooka]
+- [Aurora Beam]
+- [Bullet Seed]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

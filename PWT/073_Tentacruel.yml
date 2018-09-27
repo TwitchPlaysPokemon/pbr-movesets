@@ -1,16 +1,16 @@
 species: Tentacruel
 setname: PWT-Wallace
-tags: [in-game, PWT-Wallace]
-item: [Null]
+tags: [in-game, PWT-Wallace, trainer+wallace]
+item: [null]
 ability: [Clear Body]
 moves:
-    - [Toxic]
-    - [Hydro Pump]
-    - [Sludge Bomb]
-    - [Ice Beam]
-gender: [m,f]
+- [Toxic]
+- [Hydro Pump]
+- [Sludge Bomb]
+- [Ice Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Tentacruel
 setname: PWT-Janine Tournament
-tags: [in-game, PWT-Janine Tournament]
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
 item: [Apicot Berry]
 ability: [Clear Body, Liquid Ooze]
 moves:
-    - [Surf]
-    - [Toxic Spikes]
-    - [Giga Drain]
-    - [Barrier]
-gender: [m,f]
+- [Surf]
+- [Toxic Spikes]
+- [Giga Drain]
+- [Barrier]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

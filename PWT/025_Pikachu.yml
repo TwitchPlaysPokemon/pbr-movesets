@@ -1,16 +1,16 @@
 species: Pikachu
 setname: PWT-Red
-tags: [in-game, PWT-Red]
+tags: [in-game, PWT-Red, trainer+red]
 item: [Light Ball]
 ability: [Static]
 moves:
-    - [Volt Tackle]
-    - [Iron Tail]
-    - [Quick Attack]
-    - [Thunderbolt]
+- [Volt Tackle]
+- [Iron Tail]
+- [Quick Attack]
+- [Thunderbolt]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Pikachu
 setname: PWT-Lt. Surge
-tags: [in-game, PWT-Lt. Surge]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge, trainer+ltsurge]
+item: [null]
 ability: [Static]
 moves:
-    - [Shock Wave]
-    - [Thunder Wave]
-    - [Quick Attack]
-    - [Double Team]
+- [Shock Wave]
+- [Thunder Wave]
+- [Quick Attack]
+- [Double Team]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Pikachu
 setname: PWT-Red Tournament
-tags: [in-game, PWT-Red Tournament]
+tags: [in-game, PWT-Red Tournament, trainer+red]
 item: [Light Ball]
 ability: [Static]
 moves:
-    - [Volt Tackle]
-    - [Iron Tail]
-    - [Brick Break]
-    - [Fake Out]
+- [Volt Tackle]
+- [Iron Tail]
+- [Brick Break]
+- [Fake Out]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25

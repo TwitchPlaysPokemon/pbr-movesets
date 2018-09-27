@@ -1,6 +1,6 @@
 species: Mismagius
 setname: PWT-Morty Rematch
-tags: [in-game, PWT-Morty Rematch]
+tags: [in-game, PWT-Morty Rematch, trainer+morty]
 item: [null]
 ability: [Levitate]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Mismagius
 setname: PWT-Fantina
-tags: [in-game, PWT-Fantina]
+tags: [in-game, PWT-Fantina, trainer+fantina]
 item: [null]
 ability: [Levitate]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Mismagius
 setname: PWT-Fantina Rematch
-tags: [in-game, PWT-Fantina Rematch]
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
 item: [null]
 ability: [Levitate]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Mismagius
 setname: PWT-Morty Tournament
-tags: [in-game, PWT-Morty Tournament]
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
 item: [Kasib Berry]
 ability: [Levitate]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Mismagius
 setname: PWT-Fantina Tournament
-tags: [in-game, PWT-Fantina Tournament]
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
 item: [Salac Berry]
 ability: [Levitate]
 moves:

@@ -1,16 +1,16 @@
 species: Seaking
 setname: PWT-Misty Tournament
-tags: [in-game, PWT-Misty Tournament]
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
 item: [Wacan Berry]
 ability: [Swift Swim, Water Veil]
 moves:
-    - [Megahorn]
-    - [Waterfall]
-    - [Poison Jab]
-    - [Agility]
-gender: [m,f]
+- [Megahorn]
+- [Waterfall]
+- [Poison Jab]
+- [Agility]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

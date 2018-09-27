@@ -1,16 +1,16 @@
 species: Skuntank
 setname: PWT-Koga E4 Rematch
-tags: [in-game, PWT-Koga E4 Rematch]
-item: [Null]
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [null]
 ability: [Aftermath]
 moves:
-    - [Toxic]
-    - [Dig]
-    - [Sucker Punch]
-    - [Explosion]
-gender: [m,f]
+- [Toxic]
+- [Dig]
+- [Sucker Punch]
+- [Explosion]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,16 +20,16 @@ rarity: 1.0
 ---
 species: Skuntank
 setname: PWT-Team Skull
-tags: [in-game, PWT-Team Skull]
-item: [Null]
+tags: [in-game, PWT-Team Skull, trainer+teamskull]
+item: [null]
 ability: [Stench]
 moves:
-    - [Scratch]
-    - [Focus Energy]
-    - [Poison Gas]
+- [Scratch]
+- [Focus Energy]
+- [Poison Gas]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

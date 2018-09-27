@@ -1,16 +1,16 @@
 species: Xatu
 setname: PWT-Will
-tags: [in-game, PWT-Will]
-item: [Null]
+tags: [in-game, PWT-Will, trainer+will]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [U-Turn]
-    - [Me First]
-    - [Confuse Ray]
-    - [Psychic]
-gender: [m,f]
+- [U-Turn]
+- [Me First]
+- [Confuse Ray]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Will-2
-tags: [in-game, PWT-Will]
-item: [Null]
+tags: [in-game, PWT-Will, trainer+will]
+item: [null]
 ability: [Early Bird]
 moves:
-    - [Confuse Ray]
-    - [Ominous Wind]
-    - [Aerial Ace]
-    - [Psychic]
-gender: [m,f]
+- [Confuse Ray]
+- [Ominous Wind]
+- [Aerial Ace]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Will Rematch
-tags: [in-game, PWT-Will Rematch]
-item: [Null]
+tags: [in-game, PWT-Will Rematch, trainer+will]
+item: [null]
 ability: [Early Bird]
 moves:
-    - [Confuse Ray]
-    - [Quick Attack]
-    - [Shadow Ball]
-    - [Psychic]
-gender: [m,f]
+- [Confuse Ray]
+- [Quick Attack]
+- [Shadow Ball]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Tate and Liza
-tags: [in-game, PWT-Tate and Liza]
-item: [Null]
+tags: [in-game, PWT-Tate and Liza, trainer+tateandliza]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Sunny Day]
-    - [Confuse Ray]
-    - [Calm Mind]
-gender: [m,f]
+- [Psychic]
+- [Sunny Day]
+- [Confuse Ray]
+- [Calm Mind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Professor Elm
-tags: [in-game, PWT-Professor Elm]
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
 item: [Twisted Spoon]
-ability: [Null]
+ability: [null]
 moves:
-    - [Future Sight]
-    - [Psychic]
-    - [Confuse Ray]
-    - [Air Slash]
-gender: [m,f]
+- [Future Sight]
+- [Psychic]
+- [Confuse Ray]
+- [Air Slash]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Tate and Liza Rematch
-tags: [in-game, PWT-Tate and Liza Rematch]
+tags: [in-game, PWT-Tate and Liza Rematch, trainer+tateandliza]
 item: [Chesto Berry]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Rest]
-    - [Confuse Ray]
-    - [Calm Mind]
-gender: [m,f]
+- [Psychic]
+- [Rest]
+- [Confuse Ray]
+- [Calm Mind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Falkner Tournament
-tags: [in-game, PWT-Falkner Tournament]
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
 item: [Petaya Berry]
 ability: [Synchronize, Early Bird]
 moves:
-    - [Shadow Ball]
-    - [Psychic]
-    - [Heat Wave]
-    - [Calm Mind]
-gender: [m,f]
+- [Shadow Ball]
+- [Psychic]
+- [Heat Wave]
+- [Calm Mind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Tate Tournament
-tags: [in-game, PWT-Tate Tournament]
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
 item: [Wacan Berry]
 ability: [Synchronize, Early Bird]
 moves:
-    - [Psychic]
-    - [Shadow Ball]
-    - [Feather Dance]
-    - [Trick Room]
-gender: [m,f]
+- [Psychic]
+- [Shadow Ball]
+- [Feather Dance]
+- [Trick Room]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Liza Tournament
-tags: [in-game, PWT-Liza Tournament]
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
 item: [Charti Berry]
 ability: [Synchronize, Early Bird]
 moves:
-    - [Psychic]
-    - [Thunder Wave]
-    - [Tail Wind]
-    - [Heat Wave]
-gender: [m,f]
+- [Psychic]
+- [Thunder Wave]
+- [Tail Wind]
+- [Heat Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

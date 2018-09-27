@@ -1,16 +1,16 @@
 species: Milotic
 setname: PWT-Wallace
-tags: [in-game, PWT-Wallace]
-item: [Null]
+tags: [in-game, PWT-Wallace, trainer+wallace]
+item: [null]
 ability: [Marvel Scale]
 moves:
-    - [Recover]
-    - [Surf]
-    - [Ice Beam]
-    - [Toxic]
-gender: [m,f]
+- [Recover]
+- [Surf]
+- [Ice Beam]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Milotic
 setname: PWT-Cynthia
-tags: [in-game, PWT-Cynthia]
-item: [Null]
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
+item: [null]
 ability: [Marvel Scale]
 moves:
-    - [Surf]
-    - [Ice Beam]
-    - [Mirror Coat]
-    - [Aqua Ring]
-gender: [m,f]
+- [Surf]
+- [Ice Beam]
+- [Mirror Coat]
+- [Aqua Ring]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Milotic
 setname: PWT-Misty2 Rematch
-tags: [in-game, PWT-Misty2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [null]
 ability: [Marvel Scale]
 moves:
-    - [Hydro Pump]
-    - [Ice Beam]
-    - [Rest]
-    - [Sleep Talk]
-gender: [m,f]
+- [Hydro Pump]
+- [Ice Beam]
+- [Rest]
+- [Sleep Talk]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Milotic
 setname: PWT-Palmer
-tags: [in-game, PWT-Palmer]
+tags: [in-game, PWT-Palmer, trainer+palmer]
 item: [Shell Bell]
 ability: [Marvel Scale]
 moves:
-    - [Surf]
-    - [Hypnosis]
-    - [Ice Beam]
-    - [Attract]
-gender: [m,f]
+- [Surf]
+- [Hypnosis]
+- [Ice Beam]
+- [Attract]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Milotic
 setname: PWT-Wallace Tournament
-tags: [in-game, PWT-Wallace Tournament]
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
 item: [Jaboca Berry]
 ability: [Marvel Scale]
 moves:
-    - [Surf]
-    - [Icy Wind]
-    - [Rest]
-    - [Sleep Talk]
-gender: [m,f]
+- [Surf]
+- [Icy Wind]
+- [Rest]
+- [Sleep Talk]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Milotic
 setname: PWT-Lusamine
-tags: [in-game, PWT-Lusamine]
-item: [Null]
+tags: [in-game, PWT-Lusamine, trainer+lusamine]
+item: [null]
 ability: [Marvel Scale]
 moves:
-    - [Hyrdo Pump]
-    - [Icy Wind]
-    - [Flail]
-    - [Dragon Punch]
-gender: [m,f]
+- [Hyrdo Pump]
+- [Icy Wind]
+- [Flail]
+- [Dragon Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,6 +1,6 @@
 species: Manectric
 setname: PWT-Lt. Surge2 Rematch
-tags: [in-game, PWT-Lt. Surge2 Rematch]
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
 item: [Pinap Berry]
 ability: [Static]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Manectric
 setname: PWT-Wattson
-tags: [in-game, PWT-Wattson]
+tags: [in-game, PWT-Wattson, trainer+wattson]
 item: [null]
 ability: [Static]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Manectric
 setname: PWT-Wattson Rematch
-tags: [in-game, PWT-Wattson Rematch]
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
 item: [null]
 ability: [Static]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Manectric
 setname: PWT-Wattson Tournament
-tags: [in-game, PWT-Wattson Tournament]
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
 item: [Petaya Berry]
 ability: [Static, Lightninrod]
 moves:

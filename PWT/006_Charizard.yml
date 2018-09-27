@@ -1,16 +1,16 @@
 species: Charizard
 setname: PWT-Lance Champion
-tags: [in-game, PWT-Lance Champion]
-item: [Null]
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
 ability: [Blaze]
 moves:
-    - [Air Slash]
-    - [Fire Fang]
-    - [Dragon Claw]
-    - [Shadow Claw]
-gender: [m,f]
+- [Air Slash]
+- [Fire Fang]
+- [Dragon Claw]
+- [Shadow Claw]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Charizard
 setname: PWT-Lance Champion Rematch
-tags: [in-game, PWT-Lance Champion Rematch]
-item: [Null]
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
 ability: [Blaze]
 moves:
-    - [Flamethrower]
-    - [Hyper Beam]
-    - [Dragon Claw]
-    - [Air Slash]
-gender: [m,f]
+- [Flamethrower]
+- [Hyper Beam]
+- [Dragon Claw]
+- [Air Slash]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Charizard
 setname: PWT-Red
-tags: [in-game, PWT-Red]
-item: [Null]
+tags: [in-game, PWT-Red, trainer+red]
+item: [null]
 ability: [Blaze]
 moves:
-    - [Blast Burn]
-    - [Flare Blitz]
-    - [Air Slash]
-    - [Dragon Pulse]
+- [Blast Burn]
+- [Flare Blitz]
+- [Air Slash]
+- [Dragon Pulse]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Charizard
 setname: PWT-Clair Rematch
-tags: [in-game, PWT-Clair Rematch]
-item: [Null]
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
 ability: [Blaze]
 moves:
-    - [Dragon Claw]
-    - [Shadow Claw]
-    - [Fire Fang]
-    - [Air Slash]
-gender: [m,f]
+- [Dragon Claw]
+- [Shadow Claw]
+- [Fire Fang]
+- [Air Slash]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Charizard
 setname: PWT-Azure
-tags: [in-game, PWT-Azure]
+tags: [in-game, PWT-Azure, trainer+azure]
 item: [Charcoal]
-ability: [Null]
+ability: [null]
 moves:
-    - [Fire Blast]
-    - [Wing Attack]
-    - [Slash]
-    - [Fire Spin]
+- [Fire Blast]
+- [Wing Attack]
+- [Slash]
+- [Fire Spin]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Charizard
 setname: PWT-Team A.C.T.
-tags: [in-game, PWT-Team A.C.T.]
-item: [Null]
+tags: [in-game, PWT-Team A.C.T., trainer+teamact]
+item: [null]
 ability: [Blaze]
 moves:
-    - [Smokescreen]
-    - [Heat Wave]
-    - [Scratch]
-    - [Air Slash]
-gender: [m,f]
+- [Smokescreen]
+- [Heat Wave]
+- [Scratch]
+- [Air Slash]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Charizard
 setname: PWT-Professor Oak
-tags: [in-game, PWT-Professor Oak]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
 moves:
-    - [Rage]
-    - [Slash]
-    - [Flamethrower]
-    - [Fire Spin]
-gender: [m,f]
+- [Rage]
+- [Slash]
+- [Flamethrower]
+- [Fire Spin]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Charizard
 setname: PWT-Blaine Tournament
-tags: [in-game, PWT-Blaine Tournament]
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
 item: [Dragon Fang]
 ability: [Blaze]
 moves:
-    - [Magma Storm]
-    - [Dragon Rush]
-    - [Focus Blast]
-    - [Sharpen]
-gender: [m,f]
+- [Magma Storm]
+- [Dragon Rush]
+- [Focus Blast]
+- [Sharpen]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Charizard
 setname: PWT-Red Tournament
-tags: [in-game, PWT-Red Tournament]
+tags: [in-game, PWT-Red Tournament, trainer+red]
 item: [Focus Sash]
 ability: [Blaze]
 moves:
-    - [Fire Blast]
-    - [Focus Blast]
-    - [Air Slash]
-    - [Dragon Pulse]
-gender: [m,f]
+- [Fire Blast]
+- [Focus Blast]
+- [Air Slash]
+- [Dragon Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25

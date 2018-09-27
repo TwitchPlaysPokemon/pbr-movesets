@@ -1,16 +1,16 @@
 species: Primeape
 setname: PWT-Chuck
-tags: [in-game, PWT-Chuck]
-item: [Null]
+tags: [in-game, PWT-Chuck, trainer+chuck]
+item: [null]
 ability: [Vital Spirit]
 moves:
-    - [Leer]
-    - [Double Team]
-    - [Rock Slide]
-    - [Focus Punch]
-gender: [m,f]
+- [Leer]
+- [Double Team]
+- [Rock Slide]
+- [Focus Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Primeape
 setname: PWT-Chuck Rematch
-tags: [in-game, PWT-Chuck Rematch]
-item: [Null]
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [null]
 ability: [Anger Point]
 moves:
-    - [Swagger]
-    - [Payback]
-    - [Thunder Punch]
-    - [Close Combat]
-gender: [m,f]
+- [Swagger]
+- [Payback]
+- [Thunder Punch]
+- [Close Combat]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Primeape
 setname: PWT-Chuck Tournament
-tags: [in-game, PWT-Chuck Tournament]
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
 item: [Liechi Berry]
 ability: [Vital Spirit, Anger Point]
 moves:
-    - [Outrage]
-    - [Close Combat]
-    - [Stone Edge]
-    - [U-Turn]
-gender: [m,f]
+- [Outrage]
+- [Close Combat]
+- [Stone Edge]
+- [U-Turn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

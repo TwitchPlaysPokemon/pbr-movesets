@@ -1,16 +1,16 @@
 species: Ampharos
 setname: PWT-Wattson Rematch
-tags: [in-game, PWT-Wattson Rematch]
-item: [Null]
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
 ability: [Static]
 moves:
-    - [Thunder]
-    - [Protect]
-    - [Thunder Wave]
-    - [Light Screen]
-gender: [m,f]
+- [Thunder]
+- [Protect]
+- [Thunder Wave]
+- [Light Screen]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Ampharos
 setname: PWT-Lt. Surge Tournament
-tags: [in-game, PWT-Lt. Surge Tournament]
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
 item: [Petaya Berry]
 ability: [Static]
 moves:
-    - [Charge]
-    - [Discharge]
-    - [Barrier]
-    - [Power Gem]
-gender: [m,f]
+- [Charge]
+- [Discharge]
+- [Barrier]
+- [Power Gem]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

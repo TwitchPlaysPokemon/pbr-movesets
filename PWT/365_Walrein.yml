@@ -1,6 +1,6 @@
 species: Walrein
 setname: PWT-Glacia
-tags: [in-game, PWT-Glacia]
+tags: [in-game, PWT-Glacia, trainer+glacia]
 item: [null]
 ability: [Thick Fat]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Walrein
 setname: PWT-Pryce Rematch
-tags: [in-game, PWT-Pryce Rematch]
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
 item: [null]
 ability: [Ice Body]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Walrein
 setname: PWT-Juan Rematch
-tags: [in-game, PWT-Juan Rematch]
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
 item: [null]
 ability: [Thick Fat]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Walrein
 setname: PWT-Wallace Tournament
-tags: [in-game, PWT-Wallace Tournament]
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
 item: [Leftovers]
 ability: [Thick Fat, Ice Body]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Walrein
 setname: PWT-Juan Tournament
-tags: [in-game, PWT-Juan Tournament]
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
 item: [Haban Berry]
 ability: [Thick Fat, Ice Body]
 moves:

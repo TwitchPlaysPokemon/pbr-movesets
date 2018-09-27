@@ -1,16 +1,16 @@
 species: Magmar
 setname: PWT-Blaine2
-tags: [in-game, PWT-Blaine2]
-item: [Null]
+tags: [in-game, PWT-Blaine2, trainer+blaine]
+item: [null]
 ability: [Flame Body]
 moves:
-    - [Thunder Punch]
-    - [Confuse Ray]
-    - [Overheat]
-    - [Sunny Day]
-gender: [m,f]
+- [Thunder Punch]
+- [Confuse Ray]
+- [Overheat]
+- [Sunny Day]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

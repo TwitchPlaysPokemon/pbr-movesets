@@ -1,16 +1,16 @@
 species: Venusaur
 setname: PWT-Red
-tags: [in-game, PWT-Red]
-item: [Null]
+tags: [in-game, PWT-Red, trainer+red]
+item: [null]
 ability: [Overgrow]
 moves:
-    - [Frenzy Plant]
-    - [Giga Drain]
-    - [Sludge Bomb]
-    - [Sleep Powder]
+- [Frenzy Plant]
+- [Giga Drain]
+- [Sludge Bomb]
+- [Sleep Powder]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Venusaur
 setname: PWT-Professor Oak
-tags: [in-game, PWT-Professor Oak]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
 moves:
-    - [Razor Leaf]
-    - [Growth]
-    - [Sleep Powder]
-    - [Solar Beam]
-gender: [m,f]
+- [Razor Leaf]
+- [Growth]
+- [Sleep Powder]
+- [Solar Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Venusaur
 setname: PWT-Erika Tournament
-tags: [in-game, PWT-Erika Tournament]
+tags: [in-game, PWT-Erika Tournament, trainer+erika]
 item: [Sitrus Berry]
 ability: [Overgrow]
 moves:
-    - [Synthesis]
-    - [Light Screen]
-    - [Petal Dance]
-    - [Toxic]
-gender: [m,f]
+- [Synthesis]
+- [Light Screen]
+- [Petal Dance]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Venusaur
 setname: PWT-Red Tournament
-tags: [in-game, PWT-Red Tournament]
+tags: [in-game, PWT-Red Tournament, trainer+red]
 item: [White Herb]
 ability: [Overgrow]
 moves:
-    - [Leaf Storm]
-    - [Sludge Bomb]
-    - [Earthquake]
-    - [Sleep Powder]
-gender: [m,f]
+- [Leaf Storm]
+- [Sludge Bomb]
+- [Earthquake]
+- [Sleep Powder]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25

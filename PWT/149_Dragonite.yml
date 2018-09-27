@@ -1,16 +1,16 @@
 species: Dragonite
 setname: PWT-Lance E4
-tags: [in-game, PWT-Lance E4]
-item: [Null]
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Safeguard]
-    - [Outrage]
-    - [Wing Attack]
-    - [Hyper Beam]
-gender: [m,f]
+- [Safeguard]
+- [Outrage]
+- [Wing Attack]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Lance E4 Rematch
-tags: [in-game, PWT-Lance E4 Rematch]
-item: [Null]
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Hyper Beam]
-    - [Earthquake]
-    - [Dragon Claw]
-    - [Flamethrower]
-gender: [m,f]
+- [Hyper Beam]
+- [Earthquake]
+- [Dragon Claw]
+- [Flamethrower]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Lance E4 Rematch-2
-tags: [in-game, PWT-Lance E4 Rematch]
-item: [Null]
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Hyper Beam]
-    - [Outrage]
-    - [Thunderbolt]
-    - [Ice Beam]
-gender: [m,f]
+- [Hyper Beam]
+- [Outrage]
+- [Thunderbolt]
+- [Ice Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Lance Champion
-tags: [in-game, PWT-Lance Champion]
-item: [Null]
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Dragon Rush]
-    - [Thunder Wave]
-    - [Thunder]
-    - [Hyper Beam]
-gender: [m,f]
+- [Dragon Rush]
+- [Thunder Wave]
+- [Thunder]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Lance Champion-2
-tags: [in-game, PWT-Lance Champion]
-item: [Null]
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Dragon Rush]
-    - [Thunder Wave]
-    - [Blizzard]
-    - [Hyper Beam]
-gender: [m,f]
+- [Dragon Rush]
+- [Thunder Wave]
+- [Blizzard]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Lance Champion-3
-tags: [in-game, PWT-Lance Champion]
-item: [Null]
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Outrage]
-    - [Safeguard]
-    - [Fire Blast]
-    - [Hyper Beam]
-gender: [m,f]
+- [Outrage]
+- [Safeguard]
+- [Fire Blast]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Lance Champion Rematch
-tags: [in-game, PWT-Lance Champion Rematch]
-item: [Null]
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Draco Meteor]
-    - [Safeguard]
-    - [Fire Blast]
-    - [Hyper Beam]
-gender: [m,f]
+- [Draco Meteor]
+- [Safeguard]
+- [Fire Blast]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Clair Rematch
-tags: [in-game, PWT-Clair Rematch]
-item: [Null]
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Dragon Breath]
-    - [Safeguard]
-    - [Thunder]
-    - [Hyper Beam]
-gender: [m,f]
+- [Dragon Breath]
+- [Safeguard]
+- [Thunder]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Winona Rematch
-tags: [in-game, PWT-Winona Rematch]
-item: [Null]
+tags: [in-game, PWT-Winona Rematch, trainer+winona]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Hyper Beam]
-    - [Thunderbolt]
-    - [Earthquake]
-    - [Ice Beam]
-gender: [m,f]
+- [Hyper Beam]
+- [Thunderbolt]
+- [Earthquake]
+- [Ice Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -180,17 +180,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Palmer
-tags: [in-game, PWT-Palmer]
+tags: [in-game, PWT-Palmer, trainer+palmer]
 item: [Lum Berry]
 ability: [Inner Focus]
 moves:
-    - [Dragon Claw]
-    - [Dragon Dance]
-    - [Aerial Ace]
-    - [Thunder Wave]
-gender: [m,f]
+- [Dragon Claw]
+- [Dragon Dance]
+- [Aerial Ace]
+- [Thunder Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -200,17 +200,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Lance Tournament
-tags: [in-game, PWT-Lance Tournament]
+tags: [in-game, PWT-Lance Tournament, trainer+lance]
 item: [Focus Sash]
 ability: [Inner Focus]
 moves:
-    - [Extreme Speed]
-    - [Ice Punch]
-    - [Fire Punch]
-    - [Draco Meteor]
-gender: [m,f]
+- [Extreme Speed]
+- [Ice Punch]
+- [Fire Punch]
+- [Draco Meteor]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25
@@ -220,17 +220,17 @@ rarity: 1.0
 ---
 species: Dragonite
 setname: PWT-Clair Tournament
-tags: [in-game, PWT-Clair Tournament]
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
 item: [Liechi Berry]
 ability: [Inner Focus]
 moves:
-    - [Sharpen]
-    - [Aeroblast]
-    - [Dragon Rush]
-    - [Stone Edge]
-gender: [m,f]
+- [Sharpen]
+- [Aeroblast]
+- [Dragon Rush]
+- [Stone Edge]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

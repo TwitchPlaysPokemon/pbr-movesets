@@ -1,16 +1,16 @@
 species: Delcatty
 setname: PWT-Wally
-tags: [in-game, PWT-Wally]
-item: [Null]
+tags: [in-game, PWT-Wally, trainer+wally]
+item: [null]
 ability: [Cute Charm]
 moves:
-    - [Sing]
-    - [Assist]
-    - [Charm]
-    - [Faint Attack]
-gender: [m,f]
+- [Sing]
+- [Assist]
+- [Charm]
+- [Faint Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Delcatty
 setname: PWT-Whitney Rematch
-tags: [in-game, PWT-Whitney Rematch]
-item: [Null]
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [null]
 ability: [Normalize]
 moves:
-    - [Fake Out]
-    - [Baton Pass]
-    - [Assist]
-    - [Calm Mind]
-gender: [m,f]
+- [Fake Out]
+- [Baton Pass]
+- [Assist]
+- [Calm Mind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

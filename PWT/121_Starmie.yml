@@ -1,15 +1,15 @@
 species: Starmie
 setname: PWT-Misty
-tags: [in-game, PWT-Misty]
-item: [Null]
+tags: [in-game, PWT-Misty, trainer+misty]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Rapid Spin]
-    - [Swift]
-    - [Recover]
-    - [Water Pulse]
+- [Rapid Spin]
+- [Swift]
+- [Recover]
+- [Water Pulse]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,16 +19,16 @@ rarity: 1.0
 ---
 species: Starmie
 setname: PWT-Misty2
-tags: [in-game, PWT-Misty2]
-item: [Null]
+tags: [in-game, PWT-Misty2, trainer+misty]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Water Pulse]
-    - [Confuse Ray]
-    - [Ice Beam]
-    - [Recover]
+- [Water Pulse]
+- [Confuse Ray]
+- [Ice Beam]
+- [Recover]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -38,16 +38,16 @@ rarity: 1.0
 ---
 species: Starmie
 setname: PWT-Misty2 Rematch
-tags: [in-game, PWT-Misty2 Rematch]
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
 item: [Colbur Berry]
 ability: [Natural Cure]
 moves:
-    - [Thunderbolt]
-    - [Ice Beam]
-    - [Psychic]
-    - [Surf]
+- [Thunderbolt]
+- [Ice Beam]
+- [Psychic]
+- [Surf]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -57,16 +57,16 @@ rarity: 1.0
 ---
 species: Starmie
 setname: PWT-Misty Tournament
-tags: [in-game, PWT-Misty Tournament]
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
 item: [Petaya Berry]
 ability: [Illuminate, Natural Cure]
 moves:
-    - [Psychic]
-    - [Hydro Pump]
-    - [Ice Beam]
-    - [Thunderbolt]
+- [Psychic]
+- [Hydro Pump]
+- [Ice Beam]
+- [Thunderbolt]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -76,16 +76,16 @@ rarity: 1.0
 ---
 species: Starmie
 setname: PWT-Wallace Tournament
-tags: [in-game, PWT-Wallace Tournament]
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
 item: [Expert Belt]
 ability: [Illuminate, Natural Cure]
 moves:
-    - [Surf]
-    - [Psychic]
-    - [Thunderbolt]
-    - [Signal Beam]
+- [Surf]
+- [Psychic]
+- [Thunderbolt]
+- [Signal Beam]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25

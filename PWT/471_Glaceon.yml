@@ -1,6 +1,6 @@
 species: Glaceon
 setname: PWT-Candice Rematch
-tags: [in-game, PWT-Candice Rematch]
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
 item: [null]
 ability: [Snow Cloak]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Glaceon
 setname: PWT-Cynthia Tournament
-tags: [in-game, PWT-Cynthia Tournament]
+tags: [in-game, PWT-Cynthia Tournament, trainer+cynthia]
 item: [Choice Scarf]
 ability: [Snow Cloak]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Glaceon
 setname: PWT-Candice Tournament
-tags: [in-game, PWT-Candice Tournament]
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
 item: [Salac Berry]
 ability: [Snow Cloak]
 moves:

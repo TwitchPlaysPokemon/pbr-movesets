@@ -1,16 +1,16 @@
 species: Marshtomp
 setname: PWT-Brendan
-tags: [in-game, PWT-Brendan]
-item: [Null]
+tags: [in-game, PWT-Brendan, trainer+brendan]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Mud Shot]
-    - [Foresight]
-    - [Mud Sport]
-    - [Take Down]
+- [Mud Shot]
+- [Foresight]
+- [Mud Sport]
+- [Take Down]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

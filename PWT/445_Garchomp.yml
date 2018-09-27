@@ -1,6 +1,6 @@
 species: Garchomp
 setname: PWT-Lance Champion Rematch
-tags: [in-game, PWT-Lance Champion Rematch]
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
 item: [null]
 ability: [Sand Veil]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Garchomp
 setname: PWT-Cynthia
-tags: [in-game, PWT-Cynthia]
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
 item: [null]
 ability: [Sand Veil]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Garchomp
 setname: PWT-Cynthia Tournament
-tags: [in-game, PWT-Cynthia Tournament]
+tags: [in-game, PWT-Cynthia Tournament, trainer+cynthia]
 item: [Focus Sash]
 ability: [Sand Veil]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Garchomp
 setname: PWT-Clair Tournament
-tags: [in-game, PWT-Clair Tournament]
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
 item: [Yache Berry]
 ability: [Sand Veil]
 moves:

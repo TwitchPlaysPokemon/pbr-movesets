@@ -1,16 +1,16 @@
 species: Typhlosion
 setname: PWT-Cal
-tags: [in-game, PWT-Cal]
+tags: [in-game, PWT-Cal, trainer+cal]
 item: [Salac Berry]
 ability: [Blaze]
 moves:
-    - [Eruption]
-    - [Focus Blast]
-    - [Flamethrower]
-    - [Substitute]
-gender: [m,f]
+- [Eruption]
+- [Focus Blast]
+- [Flamethrower]
+- [Substitute]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

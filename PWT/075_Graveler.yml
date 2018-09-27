@@ -1,16 +1,16 @@
 species: Graveler
 setname: PWT-Brock2
-tags: [in-game, PWT-Brock2]
-item: [Null]
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Defense Curl]
-    - [Rollout]
-    - [Earthquake]
-    - [Rock Slide]
-gender: [m,f]
+- [Defense Curl]
+- [Rollout]
+- [Earthquake]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

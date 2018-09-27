@@ -1,6 +1,6 @@
 species: Banette
 setname: PWT-Phoebe
-tags: [in-game, PWT-Phoebe]
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
 item: [null]
 ability: [Insomnia]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Banette
 setname: PWT-Phoebe-2
-tags: [in-game, PWT-Phoebe]
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
 item: [null]
 ability: [Insomnia]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Banette
 setname: PWT-Fantina Rematch
-tags: [in-game, PWT-Fantina Rematch]
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
 item: [null]
 ability: [Insomnia]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Banette
 setname: PWT-Morty Tournament
-tags: [in-game, PWT-Morty Tournament]
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
 item: [Liechi Berry]
 ability: [Insomnia, Frisk]
 moves:

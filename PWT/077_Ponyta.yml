@@ -1,16 +1,16 @@
 species: Ponyta
 setname: PWT-Blaine
-tags: [in-game, PWT-Blaine]
-item: [Null]
+tags: [in-game, PWT-Blaine, trainer+blaine]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Stomp]
-    - [Bounce]
-    - [Fire Spin]
-    - [Fire Blast]
-gender: [m,f]
+- [Stomp]
+- [Bounce]
+- [Fire Spin]
+- [Fire Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

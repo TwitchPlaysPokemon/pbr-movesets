@@ -1,16 +1,16 @@
 species: Flygon
 setname: PWT-Drake
-tags: [in-game, PWT-Drake]
-item: [Null]
+tags: [in-game, PWT-Drake, trainer+drake]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Flamethrower]
-    - [Crunch]
-    - [Dragonbreath]
-    - [Earthquake]
-gender: [m,f]
+- [Flamethrower]
+- [Crunch]
+- [Dragonbreath]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Flygon
 setname: PWT-Lance Tournament
-tags: [in-game, PWT-Lance Tournament]
+tags: [in-game, PWT-Lance Tournament, trainer+lance]
 item: [Power Herb]
 ability: [Levitate]
 moves:
-    - [Draco Meteor]
-    - [Earthquake]
-    - [Solar Beam]
-    - [U-Turn]
-gender: [m,f]
+- [Draco Meteor]
+- [Earthquake]
+- [Solar Beam]
+- [U-Turn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Flygon
 setname: PWT-Hapu
-tags: [in-game, PWT-Hapu]
-item: [Null]
+tags: [in-game, PWT-Hapu, trainer+hapu]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Dragon Rush]
-    - [Earthquake]
-    - [Stone Edge]
-    - [Steel Wing]
-gender: [m,f]
+- [Dragon Rush]
+- [Earthquake]
+- [Stone Edge]
+- [Steel Wing]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

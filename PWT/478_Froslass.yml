@@ -1,6 +1,6 @@
 species: Froslass
 setname: PWT-Pryce Rematch
-tags: [in-game, PWT-Pryce Rematch]
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
 item: [null]
 ability: [Snow Cloak]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Froslass
 setname: PWT-Candice
-tags: [in-game, PWT-Candice]
+tags: [in-game, PWT-Candice, trainer+candice]
 item: [null]
 ability: [Snow Cloak]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Froslass
 setname: PWT-Candice Rematch
-tags: [in-game, PWT-Candice Rematch]
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
 item: [null]
 ability: [Snow Cloak]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Froslass
 setname: PWT-Morty Tournament
-tags: [in-game, PWT-Morty Tournament]
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
 item: [NeverMeltIce]
 ability: [Snow Cloak]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Froslass
 setname: PWT-Candice Tournament
-tags: [in-game, PWT-Candice Tournament]
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
 item: [Petaya Berry]
 ability: [Snow Cloak]
 moves:

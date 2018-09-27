@@ -1,16 +1,16 @@
 species: Hitmonlee
 setname: PWT-Bruno
-tags: [in-game, PWT-Bruno]
-item: [Null]
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
 ability: [Limber]
 moves:
-    - [Mega Kick]
-    - [Foresight]
-    - [Brick Break]
-    - [Facade]
-gender: [m,f]
+- [Mega Kick]
+- [Foresight]
+- [Brick Break]
+- [Facade]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Hitmonlee
 setname: PWT-Bruno Rematch
-tags: [in-game, PWT-Bruno Rematch]
-item: [Null]
+tags: [in-game, PWT-Bruno Rematch, trainer+bruno]
+item: [null]
 ability: [Limber]
 moves:
-    - [Mega Kick]
-    - [Foresight]
-    - [Earthquake]
-    - [Rock Slide]
-gender: [m,f]
+- [Mega Kick]
+- [Foresight]
+- [Earthquake]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Hitmonlee
 setname: PWT-Bruno2
-tags: [in-game, PWT-Bruno2]
-item: [Null]
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
 ability: [Reckless]
 moves:
-    - [High Jump Kick]
-    - [Blaze Kick]
-    - [Focus Energy]
-    - [Swagger]
-gender: [m,f]
+- [High Jump Kick]
+- [Blaze Kick]
+- [Focus Energy]
+- [Swagger]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Hitmonlee
 setname: PWT-Bruno2 Rematch
-tags: [in-game, PWT-Bruno2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
 ability: [Reckless]
 moves:
-    - [Close Combat]
-    - [Blaze Kick]
-    - [Reversal]
-    - [Swagger]
-gender: [m,f]
+- [Close Combat]
+- [Blaze Kick]
+- [Reversal]
+- [Swagger]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Hitmonlee
 setname: PWT-Chuck Rematch
-tags: [in-game, PWT-Chuck Rematch]
-item: [Null]
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [null]
 ability: [Reckless]
 moves:
-    - [Fake Out]
-    - [Bulk Up]
-    - [Blaze Kick]
-    - [High Jump Kick]
-gender: [m,f]
+- [Fake Out]
+- [Bulk Up]
+- [Blaze Kick]
+- [High Jump Kick]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Hitmonlee
 setname: PWT-Brawly Rematch
-tags: [in-game, PWT-Brawly Rematch]
-item: [Null]
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
 ability: [Limber]
 moves:
-    - [Mega Kick]
-    - [Focus Punch]
-    - [Earthquake]
-    - [Bulk Up]
-gender: [m,f]
+- [Mega Kick]
+- [Focus Punch]
+- [Earthquake]
+- [Bulk Up]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Hitmonlee
 setname: PWT-Chuck Tournament
-tags: [in-game, PWT-Chuck Tournament]
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
 item: [Salac Berry]
 ability: [Limber, Reckless]
 moves:
-    - [Bulk Up]
-    - [Sucker Punch]
-    - [Jump Kick]
-    - [Blaze Kick]
-gender: [m,f]
+- [Bulk Up]
+- [Sucker Punch]
+- [Jump Kick]
+- [Blaze Kick]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

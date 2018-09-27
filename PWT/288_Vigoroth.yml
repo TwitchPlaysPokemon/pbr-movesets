@@ -1,16 +1,16 @@
 species: Vigoroth
 setname: PWT-Norman
-tags: [in-game, PWT-Norman]
-item: [Null]
+tags: [in-game, PWT-Norman, trainer+norman]
+item: [null]
 ability: [Vital Spirit]
 moves:
-    - [Slash]
-    - [Facade]
-    - [Encore]
-    - [Faint Attack]
-gender: [m,f]
+- [Slash]
+- [Facade]
+- [Encore]
+- [Faint Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

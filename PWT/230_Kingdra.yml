@@ -1,16 +1,16 @@
 species: Kingdra
 setname: PWT-Lance E4 Rematch
-tags: [in-game, PWT-Lance E4 Rematch]
-item: [Null]
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Hyper Beam]
-    - [Dragon Dance]
-    - [Surf]
-    - [Ice Beam]
-gender: [m,f]
+- [Hyper Beam]
+- [Dragon Dance]
+- [Surf]
+- [Ice Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Kingdra
 setname: PWT-Drake
-tags: [in-game, PWT-Drake]
-item: [Null]
+tags: [in-game, PWT-Drake, trainer+drake]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Smokescreen]
-    - [Dragon Dance]
-    - [Surf]
-    - [Body Slam]
-gender: [m,f]
+- [Smokescreen]
+- [Dragon Dance]
+- [Surf]
+- [Body Slam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Kingdra
 setname: PWT-Clair
-tags: [in-game, PWT-Clair]
-item: [Null]
+tags: [in-game, PWT-Clair, trainer+clair]
+item: [null]
 ability: [Sniper]
 moves:
-    - [Hydro Pump]
-    - [Smokescreen]
-    - [Hyper Beam]
-    - [Dragon Pulse]
-gender: [m,f]
+- [Hydro Pump]
+- [Smokescreen]
+- [Hyper Beam]
+- [Dragon Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Kingdra
 setname: PWT-Clair Rematch
-tags: [in-game, PWT-Clair Rematch]
-item: [Null]
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
 ability: [Sniper]
 moves:
-    - [Dragon Breath]
-    - [Hydro Pump]
-    - [Ice Beam]
-    - [Yawn]
-gender: [m,f]
+- [Dragon Breath]
+- [Hydro Pump]
+- [Ice Beam]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Kingdra
 setname: PWT-Juan
-tags: [in-game, PWT-Juan]
+tags: [in-game, PWT-Juan, trainer+juan]
 item: [Chesto Berry]
 ability: [Swift Swim]
 moves:
-    - [Water Pulse]
-    - [Double Team]
-    - [Ice Beam]
-    - [Rest]
-gender: [m,f]
+- [Water Pulse]
+- [Double Team]
+- [Ice Beam]
+- [Rest]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Kingdra
 setname: PWT-Juan Rematch
-tags: [in-game, PWT-Juan Rematch]
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
 item: [Chesto Berry]
 ability: [Swift Swim]
 moves:
-    - [Water Pulse]
-    - [Double Team]
-    - [Ice Beam]
-    - [Rest]
-gender: [m,f]
+- [Water Pulse]
+- [Double Team]
+- [Ice Beam]
+- [Rest]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Kingdra
 setname: PWT-Lance Tournament
-tags: [in-game, PWT-Lance Tournament]
+tags: [in-game, PWT-Lance Tournament, trainer+lance]
 item: [Scope Lens]
 ability: [Swift Swim, Sniper]
 moves:
-    - [Surf]
-    - [Dragon Pulse]
-    - [Ice Beam]
-    - [Flash Cannon]
-gender: [m,f]
+- [Surf]
+- [Dragon Pulse]
+- [Ice Beam]
+- [Flash Cannon]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 25
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Kingdra
 setname: PWT-Clair Tournament
-tags: [in-game, PWT-Clair Tournament]
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
 item: [Haban Berry]
 ability: [Swift Swim, Sniper]
 moves:
-    - [Yawn]
-    - [Agility]
-    - [Dragon Pulse]
-    - [Hydro Pump]
-gender: [m,f]
+- [Yawn]
+- [Agility]
+- [Dragon Pulse]
+- [Hydro Pump]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Kingdra
 setname: PWT-Juan Tournament
-tags: [in-game, PWT-Juan Tournament]
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
 item: [Haban Berry]
 ability: [Swift Swim, Sniper]
 moves:
-    - [Rain Dance]
-    - [Muddy Water]
-    - [Ice Beam]
-    - [Dragon Pulse]
-gender: [m,f]
+- [Rain Dance]
+- [Muddy Water]
+- [Ice Beam]
+- [Dragon Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

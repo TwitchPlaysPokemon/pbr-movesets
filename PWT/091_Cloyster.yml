@@ -1,16 +1,16 @@
 species: Cloyster
 setname: PWT-Lorelei
-tags: [in-game, PWT-Lorelei]
-item: [Null]
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
 ability: [Shell Armor]
 moves:
-    - [Spikes]
-    - [Dive]
-    - [Hail]
-    - [Protect]
-gender: [m,f]
+- [Spikes]
+- [Dive]
+- [Hail]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Cloyster
 setname: PWT-Lorelei Rematch
-tags: [in-game, PWT-Lorelei Rematch]
-item: [Null]
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
+item: [null]
 ability: [Shell Armor]
 moves:
-    - [Rain Dance]
-    - [Surf]
-    - [Ice Beam]
-    - [Supersonic]
-gender: [m,f]
+- [Rain Dance]
+- [Surf]
+- [Ice Beam]
+- [Supersonic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Cloyster
 setname: PWT-Pryce Tournament
-tags: [in-game, PWT-Pryce Tournament]
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
 item: [Salac Berry]
 ability: [Shell Armor, Skill Link]
 moves:
-    - [Sharpen]
-    - [Waterfall]
-    - [Rock Blast]
-    - [Icicle Spear]
-gender: [m,f]
+- [Sharpen]
+- [Waterfall]
+- [Rock Blast]
+- [Icicle Spear]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

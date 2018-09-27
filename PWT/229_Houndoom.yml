@@ -1,16 +1,16 @@
 species: Houndoom
 setname: PWT-Cyrus
-tags: [in-game, PWT-Cyrus]
-item: [Null]
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Flamethrower]
-    - [Dark Pulse]
-    - [Will-O-Wisp]
-    - [Thunder Fang]
-gender: [m,f]
+- [Flamethrower]
+- [Dark Pulse]
+- [Will-O-Wisp]
+- [Thunder Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Flint
-tags: [in-game, PWT-Flint]
-item: [Null]
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
 ability: [Early Bird]
 moves:
-    - [Flamethrower]
-    - [Sludge Bomb]
-    - [Dark Pulse]
-    - [Sunny Day]
-gender: [m,f]
+- [Flamethrower]
+- [Sludge Bomb]
+- [Dark Pulse]
+- [Sunny Day]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Karen
-tags: [in-game, PWT-Karen]
-item: [Null]
+tags: [in-game, PWT-Karen, trainer+karen]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Nasty Plot]
-    - [Dark Pulse]
-    - [Flamethrower]
-    - [Crunch]
-gender: [m,f]
+- [Nasty Plot]
+- [Dark Pulse]
+- [Flamethrower]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Karen Rematch
-tags: [in-game, PWT-Karen Rematch]
-item: [Null]
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Nasty Plot]
-    - [Dark Pulse]
-    - [Flamethrower]
-    - [Sludge Bomb]
-gender: [m,f]
+- [Nasty Plot]
+- [Dark Pulse]
+- [Flamethrower]
+- [Sludge Bomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Blaine2 Rematch
-tags: [in-game, PWT-Blaine2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Blaine2 Rematch, trainer+blaine]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Dark Pulse]
-    - [Flamethrower]
-    - [Shadow Ball]
-    - [Sucker Punch]
-gender: [m,f]
+- [Dark Pulse]
+- [Flamethrower]
+- [Shadow Ball]
+- [Sucker Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Professor Elm
-tags: [in-game, PWT-Professor Elm]
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
 item: [Cheri Berry]
-ability: [Null]
+ability: [null]
 moves:
-    - [Dark Pulse]
-    - [Flamethrower]
-    - [Roar]
-    - [Nasty Plot]
-gender: [m,f]
+- [Dark Pulse]
+- [Flamethrower]
+- [Roar]
+- [Nasty Plot]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Burglar Simon
-tags: [in-game, PWT-Burglar Simon]
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
 item: [Blackglasses]
-ability: [Null]
+ability: [null]
 moves:
-    - [Nasty Plot]
-    - [Dark Pulse]
-    - [Heat Wave]
-    - [Destiny Bond]
-gender: [m,f]
+- [Nasty Plot]
+- [Dark Pulse]
+- [Heat Wave]
+- [Destiny Bond]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Flannery Rematch
-tags: [in-game, PWT-Flannery Rematch]
-item: [Null]
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Roar]
-    - [Solar Beam]
-    - [Taunt]
-    - [Sunny Day]
-gender: [m,f]
+- [Roar]
+- [Solar Beam]
+- [Taunt]
+- [Sunny Day]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Archer
-tags: [in-game, PWT-Archer]
-item: [Null]
+tags: [in-game, PWT-Archer, trainer+archer]
+item: [null]
 ability: [Early Bird]
 moves:
-    - [Faint Attack]
-    - [Fire Fang]
-    - [Bite]
-    - [Smog]
-gender: [m,f]
+- [Faint Attack]
+- [Fire Fang]
+- [Bite]
+- [Smog]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -180,17 +180,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Flannery Tournament
-tags: [in-game, PWT-Flannery Tournament]
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
 item: [Petaya Berry]
 ability: [Flash Fire, Early Bird]
 moves:
-    - [Will-O-Wisp]
-    - [Nasty Plot]
-    - [Fire Blast]
-    - [Dark Pulse]
-gender: [m,f]
+- [Will-O-Wisp]
+- [Nasty Plot]
+- [Fire Blast]
+- [Dark Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -200,17 +200,17 @@ rarity: 1.0
 ---
 species: Houndoom
 setname: PWT-Cyrus RR
-tags: [in-game, PWT-Cyrus RR]
-item: [Null]
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
 ability: [Early Bird]
 moves:
-    - [Fire Blast]
-    - [Dark Pulse]
-    - [Sludge Bomb]
-    - [Shadow Ball]
-gender: [m,f]
+- [Fire Blast]
+- [Dark Pulse]
+- [Sludge Bomb]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

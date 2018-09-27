@@ -1,16 +1,16 @@
 species: Girafarig
 setname: PWT-Whitney Rematch
-tags: [in-game, PWT-Whitney Rematch]
-item: [Null]
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Calm Mind]
-    - [Baton Pass]
-    - [Shadow Ball]
-    - [Psychic]
-gender: [m,f]
+- [Calm Mind]
+- [Baton Pass]
+- [Shadow Ball]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

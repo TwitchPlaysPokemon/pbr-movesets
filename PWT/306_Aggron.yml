@@ -1,6 +1,6 @@
 species: Aggron
 setname: PWT-Steven
-tags: [in-game, PWT-Steven]
+tags: [in-game, PWT-Steven, trainer+steven]
 item: [null]
 ability: [Sturdy]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Aggron
 setname: PWT-Byron Rematch
-tags: [in-game, PWT-Byron Rematch]
+tags: [in-game, PWT-Byron Rematch, trainer+byron]
 item: [null]
 ability: [Sturdy]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Aggron
 setname: PWT-Steven Tournament
-tags: [in-game, PWT-Steven Tournament]
+tags: [in-game, PWT-Steven Tournament, trainer+steven]
 item: [Shuca Berry]
 ability: [Sturdy, Rock Head]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Aggron
 setname: PWT-Roxanne Tournament
-tags: [in-game, PWT-Roxanne Tournament]
+tags: [in-game, PWT-Roxanne Tournament, trainer+roxanne]
 item: [Chople Berry]
 ability: [Sturdy, Rock Head]
 moves:
@@ -80,7 +80,7 @@ gender: [m, f]
 ---
 species: Aggron
 setname: PWT-Byron Tournament
-tags: [in-game, PWT-Byron Tournament]
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
 item: [Chople Berry]
 ability: [Sturdy, Rock Head]
 moves:

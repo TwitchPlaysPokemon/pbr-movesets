@@ -1,6 +1,6 @@
 species: Rampardos
 setname: PWT-Brock2 Rematch
-tags: [in-game, PWT-Brock2 Rematch]
+tags: [in-game, PWT-Brock2 Rematch, trainer+brock]
 item: [null]
 ability: [Mold Breaker]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Rampardos
 setname: PWT-Roark Rematch
-tags: [in-game, PWT-Roark Rematch]
+tags: [in-game, PWT-Roark Rematch, trainer+roark]
 item: [null]
 ability: [Mold Breaker]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Rampardos
 setname: PWT-Roark Tournament
-tags: [in-game, PWT-Roark Tournament]
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
 item: [Salac Berry]
 ability: [Mold Breaker]
 moves:

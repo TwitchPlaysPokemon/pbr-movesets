@@ -1,16 +1,16 @@
 species: Flareon
 setname: PWT-Flint
-tags: [in-game, PWT-Flint]
-item: [Null]
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Overheat]
-    - [Giga Impact]
-    - [Quick Attack]
-    - [Will-O-Wisp]
-gender: [m,f]
+- [Overheat]
+- [Giga Impact]
+- [Quick Attack]
+- [Will-O-Wisp]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Flareon
 setname: PWT-Kimono Girls
-tags: [in-game, PWT-Kimono Girls]
-item: [Null]
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Fire Blast]
-    - [Will-O-Wisp]
-    - [Quick Attack]
-    - [Last Resort]
-gender: [m,f]
+- [Fire Blast]
+- [Will-O-Wisp]
+- [Quick Attack]
+- [Last Resort]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Flareon
 setname: PWT-Blaine Tournament
-tags: [in-game, PWT-Blaine Tournament]
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
 item: [Salac Berry]
 ability: [Flash Fire]
 moves:
-    - [Flame Wheel]
-    - [Superpower]
-    - [Flail]
-    - [Yawn]
-gender: [m,f]
+- [Flame Wheel]
+- [Superpower]
+- [Flail]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

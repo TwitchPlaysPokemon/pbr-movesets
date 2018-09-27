@@ -1,16 +1,16 @@
 species: Venomoth
 setname: PWT-Koga E4
-tags: [in-game, PWT-Koga E4]
-item: [Null]
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
 ability: [Shield Dust]
 moves:
-    - [Psychic]
-    - [Gust]
-    - [Supersonic]
-    - [Toxic]
-gender: [m,f]
+- [Psychic]
+- [Gust]
+- [Supersonic]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Venomoth
 setname: PWT-Koga E4 Rematch
-tags: [in-game, PWT-Koga E4 Rematch]
-item: [Null]
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [null]
 ability: [Tinted Lens]
 moves:
-    - [Baton Pass]
-    - [Double Team]
-    - [Silver Wind]
-    - [Psychic]
-gender: [m,f]
+- [Baton Pass]
+- [Double Team]
+- [Silver Wind]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Venomoth
 setname: PWT-Janine
-tags: [in-game, PWT-Janine]
-item: [Null]
+tags: [in-game, PWT-Janine, trainer+janine]
+item: [null]
 ability: [Tinted Lens]
 moves:
-    - [Double Team]
-    - [Psychic]
-    - [Sludge Bomb]
-    - [Signal Beam]
+- [Double Team]
+- [Psychic]
+- [Sludge Bomb]
+- [Signal Beam]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Venomoth
 setname: PWT-Janine Rematch
-tags: [in-game, PWT-Janine Rematch]
-item: [Null]
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
 ability: [Tinted Lens]
 moves:
-    - [Psychic]
-    - [Bug Buzz]
-    - [Sleep Powder]
-    - [Double Team]
+- [Psychic]
+- [Bug Buzz]
+- [Sleep Powder]
+- [Double Team]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Venomoth
 setname: PWT-Sabrina
-tags: [in-game, PWT-Sabrina]
-item: [Null]
+tags: [in-game, PWT-Sabrina, trainer+sabrina]
+item: [null]
 ability: [Shield Dust]
 moves:
-    - [Psybeam]
-    - [Gust]
-    - [Leech Life]
-    - [Supersonic]
-gender: [m,f]
+- [Psybeam]
+- [Gust]
+- [Leech Life]
+- [Supersonic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Venomoth
 setname: PWT-Janine Tournament
-tags: [in-game, PWT-Janine Tournament]
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
 item: [Petaya Berry]
 ability: [Shield Dust, Tinted Lens]
 moves:
-    - [Calm Mind]
-    - [Bug Buzz]
-    - [Giga Drain]
-    - [Sludge Bomb]
-gender: [m,f]
+- [Calm Mind]
+- [Bug Buzz]
+- [Giga Drain]
+- [Sludge Bomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

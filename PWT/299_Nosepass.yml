@@ -1,16 +1,16 @@
 species: Nosepass
 setname: PWT-Roxanne
-tags: [in-game, PWT-Roxanne]
-item: [Null]
+tags: [in-game, PWT-Roxanne, trainer+roxanne]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Block]
-    - [Harden]
-    - [Tackle]
-    - [Rock Tomb]
-gender: [m,f]
+- [Block]
+- [Harden]
+- [Tackle]
+- [Rock Tomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Nosepass
 setname: PWT-Roxanne Rematch
-tags: [in-game, PWT-Roxanne Rematch]
-item: [Null]
+tags: [in-game, PWT-Roxanne Rematch, trainer+roxanne]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Double Team]
-    - [Explosion]
-    - [Protect]
-    - [Rock Slide]
-gender: [m,f]
+- [Double Team]
+- [Explosion]
+- [Protect]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

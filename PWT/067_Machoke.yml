@@ -1,16 +1,16 @@
 species: Machoke
 setname: PWT-Maylene
-tags: [in-game, PWT-Maylene]
-item: [Null]
+tags: [in-game, PWT-Maylene, trainer+maylene]
+item: [null]
 ability: [Guts]
 moves:
-    - [Karate Chop]
-    - [Strength]
-    - [Focus Energy]
-    - [Rock Tomb]
-gender: [m,f]
+- [Karate Chop]
+- [Strength]
+- [Focus Energy]
+- [Rock Tomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

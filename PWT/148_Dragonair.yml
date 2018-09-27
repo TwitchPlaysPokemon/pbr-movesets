@@ -1,16 +1,16 @@
 species: Dragonair
 setname: PWT-Lance E4
-tags: [in-game, PWT-Lance E4]
-item: [Null]
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
 ability: [Shed Skin]
 moves:
-    - [Safeguard]
-    - [Outrage]
-    - [Dragon Rage]
-    - [Hyper Beam]
-gender: [m,f]
+- [Safeguard]
+- [Outrage]
+- [Dragon Rage]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Dragonair
 setname: PWT-Lance E4-2
-tags: [in-game, PWT-Lance E4]
-item: [Null]
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
 ability: [Shed Skin]
 moves:
-    - [Safeguard]
-    - [Outrage]
-    - [Thunder Wave]
-    - [Hyper Beam]
-gender: [m,f]
+- [Safeguard]
+- [Outrage]
+- [Thunder Wave]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Dragonair
 setname: PWT-Clair
-tags: [in-game, PWT-Clair]
-item: [Null]
+tags: [in-game, PWT-Clair, trainer+clair]
+item: [null]
 ability: [Shed Skin]
 moves:
-    - [Thunder Wave]
-    - [Slam]
-    - [Aqua Tail]
-    - [Dragon Pulse]
-gender: [m,f]
+- [Thunder Wave]
+- [Slam]
+- [Aqua Tail]
+- [Dragon Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Dragonair
 setname: PWT-Clair-2
-tags: [in-game, PWT-Clair]
-item: [Null]
+tags: [in-game, PWT-Clair, trainer+clair]
+item: [null]
 ability: [Shed Skin]
 moves:
-    - [Thunder Wave]
-    - [Slam]
-    - [Fire Blast]
-    - [Dragon Pulse]
-gender: [m,f]
+- [Thunder Wave]
+- [Slam]
+- [Fire Blast]
+- [Dragon Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Dragonair
 setname: PWT-Clair Rematch
-tags: [in-game, PWT-Clair Rematch]
-item: [Null]
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
 ability: [Shed Skin]
 moves:
-    - [Dragon Rush]
-    - [Thunder Wave]
-    - [Thunderbolt]
-    - [Flamethrower]
-gender: [m,f]
+- [Dragon Rush]
+- [Thunder Wave]
+- [Thunderbolt]
+- [Flamethrower]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -99,18 +99,18 @@ level: 100
 rarity: 1.0
 ---
 species: Dragonair
-setname: PWT-Pokétopia Master
-tags: [in-game, PWT-Pokétopia Master]
+setname: "PWT-Pok\xC3\xA9topia Master"
+tags: [in-game, "PWT-Pok\xC3\xA9topia Master", trainer+poketopiamaster]
 item: [Lum Berry]
 ability: [Shed Skin]
 moves:
-    - [Dragon Rush]
-    - [Dragon Dance]
-    - [Aqua Tail]
-    - [Thunder Wave]
-gender: [m,f]
+- [Dragon Rush]
+- [Dragon Dance]
+- [Aqua Tail]
+- [Thunder Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

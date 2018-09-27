@@ -1,6 +1,6 @@
 species: Whiscash
 setname: PWT-Wallace
-tags: [in-game, PWT-Wallace]
+tags: [in-game, PWT-Wallace, trainer+wallace]
 item: [null]
 ability: [Oblivious]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Whiscash
 setname: PWT-Bertha
-tags: [in-game, PWT-Bertha]
+tags: [in-game, PWT-Bertha, trainer+bertha]
 item: [null]
 ability: [Oblivious]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Whiscash
 setname: PWT-Juan
-tags: [in-game, PWT-Juan]
+tags: [in-game, PWT-Juan, trainer+juan]
 item: [null]
 ability: [Oblivious]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Whiscash
 setname: PWT-Juan Rematch
-tags: [in-game, PWT-Juan Rematch]
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
 item: [null]
 ability: [Oblivious]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Whiscash
 setname: "PWT-Pok\xC3\xA9topia Master"
-tags: [in-game, "PWT-Pok\xC3\xA9topia Master"]
+tags: [in-game, "PWT-Pok\xC3\xA9topia Master", trainer+poketopiamaster]
 item: [Rindo Berry]
 ability: [Oblivious]
 moves:
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Whiscash
 setname: PWT-Juan Tournament
-tags: [in-game, PWT-Juan Tournament]
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
 item: [Rindo Berry]
 ability: [Oblivious, Anticipation]
 moves:

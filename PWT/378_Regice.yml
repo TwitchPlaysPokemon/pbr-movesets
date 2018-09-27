@@ -1,15 +1,15 @@
 species: Regice
 setname: PWT-Brandon
-tags: [in-game, PWT-Brandon]
+tags: [in-game, PWT-Brandon, trainer+brandon]
 item: [Chesto Berry]
 ability: [Pressure]
 moves:
-    - [Ice Beam]
-    - [Amnesia]
-    - [Thunder]
-    - [Rest]
+- [Ice Beam]
+- [Amnesia]
+- [Thunder]
+- [Rest]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

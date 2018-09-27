@@ -1,16 +1,16 @@
 species: Hypno
 setname: PWT-Tate and Liza Rematch
-tags: [in-game, PWT-Tate and Liza Rematch]
-item: [Null]
+tags: [in-game, PWT-Tate and Liza Rematch, trainer+tateandliza]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Hypnosis]
-    - [Dream Eater]
-    - [Headbutt]
-    - [Protect]
-gender: [m,f]
+- [Hypnosis]
+- [Dream Eater]
+- [Headbutt]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Hypno
 setname: PWT-Sabrina Tournament
-tags: [in-game, PWT-Sabrina Tournament]
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
 item: [Sitrus Berry]
 ability: [Insomnia, Forewarn]
 moves:
-    - [Hypnosis]
-    - [Dream Eater]
-    - [Calm Mind]
-    - [Shadow Ball]
-gender: [m,f]
+- [Hypnosis]
+- [Dream Eater]
+- [Calm Mind]
+- [Shadow Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

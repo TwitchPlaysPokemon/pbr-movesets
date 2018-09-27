@@ -1,6 +1,6 @@
 species: Abomasnow
 setname: PWT-Pryce Rematch
-tags: [in-game, PWT-Pryce Rematch]
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
 item: [null]
 ability: [Snow Warning]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Abomasnow
 setname: PWT-Candice
-tags: [in-game, PWT-Candice]
+tags: [in-game, PWT-Candice, trainer+candice]
 item: [null]
 ability: [Snow Warning]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Abomasnow
 setname: PWT-Candice Rematch
-tags: [in-game, PWT-Candice Rematch]
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
 item: [null]
 ability: [Snow Warning]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Abomasnow
 setname: PWT-Candice Tournament
-tags: [in-game, PWT-Candice Tournament]
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
 item: [Occa Berry]
 ability: [Snow Warning]
 moves:

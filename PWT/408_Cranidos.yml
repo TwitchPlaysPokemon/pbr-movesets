@@ -1,15 +1,15 @@
 species: Cranidos
 setname: PWT-Roark
-tags: [in-game, PWT-Roark]
-item: [Null]
+tags: [in-game, PWT-Roark, trainer+roark]
+item: [null]
 ability: [Mold Breaker]
 moves:
-    - [Headbutt]
-    - [Pursuit]
-    - [Leer]
-gender: [m,f]
+- [Headbutt]
+- [Pursuit]
+- [Leer]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,6 +1,6 @@
 species: Exploud
 setname: PWT-Miror B Cipher
-tags: [in-game, PWT-Miror B Cipher]
+tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
 item: [null]
 ability: [Soundproof]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Exploud
 setname: PWT-Norman Tournament
-tags: [in-game, PWT-Norman Tournament]
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
 item: [Petaya Berry]
 ability: [Soundproof]
 moves:

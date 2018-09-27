@@ -1,16 +1,16 @@
 species: Swalot
 setname: PWT-Koga E4 Rematch
-tags: [in-game, PWT-Koga E4 Rematch]
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
 item: [Leftovers]
 ability: [Sticky Hold]
 moves:
-    - [Sludge Bomb]
-    - [Amnesia]
-    - [Pain Split]
-    - [Yawn]
-gender: [m,f]
+- [Sludge Bomb]
+- [Amnesia]
+- [Pain Split]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

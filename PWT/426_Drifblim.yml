@@ -1,6 +1,6 @@
 species: Drifblim
 setname: PWT-Morty Rematch
-tags: [in-game, PWT-Morty Rematch]
+tags: [in-game, PWT-Morty Rematch, trainer+morty]
 item: [null]
 ability: [Unburden]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Drifblim
 setname: PWT-Fantina Rematch
-tags: [in-game, PWT-Fantina Rematch]
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
 item: [null]
 ability: [Aftermath]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Drifblim
 setname: PWT-Cheryl
-tags: [in-game, PWT-Cheryl]
+tags: [in-game, PWT-Cheryl, trainer+cheryl]
 item: [null]
 ability: [Aftermath]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Drifblim
 setname: PWT-Fantina Tournament
-tags: [in-game, PWT-Fantina Tournament]
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
 item: [Sharp Beak]
 ability: [Aftermath]
 moves:

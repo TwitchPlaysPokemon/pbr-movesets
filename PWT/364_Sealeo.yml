@@ -1,16 +1,16 @@
 species: Sealeo
 setname: PWT-Glacia
-tags: [in-game, PWT-Glacia]
-item: [Null]
+tags: [in-game, PWT-Glacia, trainer+glacia]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Encore]
-    - [Body Slam]
-    - [Hail]
-    - [Ice Ball]
+- [Encore]
+- [Body Slam]
+- [Hail]
+- [Ice Ball]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Sealeo
 setname: PWT-Glacia-2
-tags: [in-game, PWT-Glacia]
-item: [Null]
+tags: [in-game, PWT-Glacia, trainer+glacia]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Attract]
-    - [Double Edge]
-    - [Hail]
-    - [Blizzard]
+- [Attract]
+- [Double Edge]
+- [Hail]
+- [Blizzard]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Sealeo
 setname: PWT-Juan
-tags: [in-game, PWT-Juan]
-item: [Null]
+tags: [in-game, PWT-Juan, trainer+juan]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Encore]
-    - [Body Slam]
-    - [Aurora Beam]
-    - [Water Pulse]
-gender: [m,f]
+- [Encore]
+- [Body Slam]
+- [Aurora Beam]
+- [Water Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

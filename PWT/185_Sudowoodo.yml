@@ -1,16 +1,16 @@
 species: Sudowoodo
 setname: PWT-Roark Tournament
-tags: [in-game, PWT-Roark Tournament]
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
 item: [Liechi Berry]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Stone Edge]
-    - [Hammer Arm]
-    - [Wood Hammer]
-    - [Sucker Punch]
-gender: [m,f]
+- [Stone Edge]
+- [Hammer Arm]
+- [Wood Hammer]
+- [Sucker Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

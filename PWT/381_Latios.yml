@@ -1,16 +1,16 @@
 species: Latios
-setname: PWT-Pokétopia Master2
-tags: [in-game, PWT-Pokétopia Master2]
+setname: "PWT-Pok\xC3\xA9topia Master2"
+tags: [in-game, "PWT-Pok\xC3\xA9topia Master2", trainer+poketopiamaster]
 item: [Soul Dew]
 ability: [Levitate]
 moves:
-    - [Dragon Pulse]
-    - [Thunder]
-    - [Solar Beam]
-    - [Shadow Ball]
+- [Dragon Pulse]
+- [Thunder]
+- [Solar Beam]
+- [Shadow Ball]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Latios
 setname: PWT-Anabel2
-tags: [in-game, PWT-Anabel2]
+tags: [in-game, PWT-Anabel2, trainer+anabel]
 item: [Bright Powder]
 ability: [Levitate]
 moves:
-    - [Psychic]
-    - [Dragon Claw]
-    - [Calm Mind]
-    - [Recover]
+- [Psychic]
+- [Dragon Claw]
+- [Calm Mind]
+- [Recover]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

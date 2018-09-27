@@ -1,16 +1,16 @@
 species: Golbat
 setname: PWT-Agatha
-tags: [in-game, PWT-Agatha]
-item: [Null]
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Confuse Ray]
-    - [Bite]
-    - [Air Cutter]
-    - [Poison Fang]
-gender: [m,f]
+- [Confuse Ray]
+- [Bite]
+- [Air Cutter]
+- [Poison Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,18 +19,18 @@ level: 100
 rarity: 1.0
 ---
 species: Golbat
-setname: PWT-Pokétopia Master
-tags: [in-game, PWT-Pokétopia Master]
+setname: "PWT-Pok\xC3\xA9topia Master"
+tags: [in-game, "PWT-Pok\xC3\xA9topia Master", trainer+poketopiamaster]
 item: [Focus Sash]
 ability: [Inner Focus]
 moves:
-    - [Air Slash]
-    - [Bite]
-    - [Poison Fang]
-    - [Hypnosis]
-gender: [m,f]
+- [Air Slash]
+- [Bite]
+- [Poison Fang]
+- [Hypnosis]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Golbat
 setname: PWT-Proton
-tags: [in-game, PWT-Proton]
-item: [Null]
+tags: [in-game, PWT-Proton, trainer+proton]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Wing Attack]
-    - [Confuse Ray]
-    - [Leech Life]
-    - [Bite]
-gender: [m,f]
+- [Wing Attack]
+- [Confuse Ray]
+- [Leech Life]
+- [Bite]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

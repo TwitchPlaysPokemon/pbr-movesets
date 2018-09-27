@@ -1,15 +1,15 @@
 species: Mewtwo
-setname: PWT-Pokétopia Master2
-tags: [in-game, PWT-Pokétopia Master2]
+setname: "PWT-Pok\xC3\xA9topia Master2"
+tags: [in-game, "PWT-Pok\xC3\xA9topia Master2", trainer+poketopiamaster]
 item: [Bright Powder]
 ability: [Pressure]
 moves:
-    - [Aura Sphere]
-    - [Thunderbolt]
-    - [Ice Beam]
-    - [Protect]
+- [Aura Sphere]
+- [Thunderbolt]
+- [Ice Beam]
+- [Protect]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,19 +19,19 @@ rarity: 1.0
 ---
 species: Mewtwo
 setname: PWT-Giovanni RR
-tags: [in-game, PWT-Giovanni RR]
+tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
 item: [Everstone]
 ability: [Pressure]
 moves:
-    - [Zen Headbutt, Psywave]
-    - [Earthquake, Aura Sphere]
-    - [Stone Edge, Psychic]
-    - [Drain Punch, Ice Beam]
+- [Zen Headbutt, Psywave]
+- [Earthquake, Aura Sphere]
+- [Stone Edge, Psychic]
+- [Drain Punch, Ice Beam]
 combinations:
-    - [Psywave, Aura Sphere, Psychic, Ice Beam]
-    - [Zen Headbutt, Earthquake, Stone Edge, Drain Punch]
+- [Psywave, Aura Sphere, Psychic, Ice Beam]
+- [Zen Headbutt, Earthquake, Stone Edge, Drain Punch]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

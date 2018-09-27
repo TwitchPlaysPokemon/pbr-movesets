@@ -1,6 +1,6 @@
 species: Cherrim
 setname: PWT-Gardenia
-tags: [in-game, PWT-Gardenia]
+tags: [in-game, PWT-Gardenia, trainer+gardenia]
 item: [null]
 ability: [Flower Gift]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Cherrim
 setname: PWT-Gardenia Rematch
-tags: [in-game, PWT-Gardenia Rematch]
+tags: [in-game, PWT-Gardenia Rematch, trainer+gardenia]
 item: [null]
 ability: [Flower Gift]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Cherrim
 setname: PWT-Gardenia Tournament
-tags: [in-game, PWT-Gardenia Tournament]
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
 item: [Miracle Seed]
 ability: [Flower Gift]
 moves:

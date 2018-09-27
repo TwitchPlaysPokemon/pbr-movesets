@@ -1,16 +1,16 @@
 species: Golduck
 setname: PWT-Misty2
-tags: [in-game, PWT-Misty2]
-item: [Null]
+tags: [in-game, PWT-Misty2, trainer+misty]
+item: [null]
 ability: [Damp]
 moves:
-    - [Water Pulse]
-    - [Disable]
-    - [Psychic]
-    - [Psych Up]
+- [Water Pulse]
+- [Disable]
+- [Psychic]
+- [Psych Up]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Golduck
 setname: PWT-Misty Tournament
-tags: [in-game, PWT-Misty Tournament]
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
 item: [Mystic Water]
 ability: [Damp, Cloud Nine]
 moves:
-    - [Blizzard]
-    - [Focus Blast]
-    - [Aqua Jet]
-    - [Sharpen]
-gender: [m,f]
+- [Blizzard]
+- [Focus Blast]
+- [Aqua Jet]
+- [Sharpen]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

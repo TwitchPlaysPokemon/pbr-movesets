@@ -1,15 +1,15 @@
 species: Magnemite
 setname: PWT-Jasmine
-tags: [in-game, PWT-Jasmine]
-item: [Null]
+tags: [in-game, PWT-Jasmine, trainer+jasmine]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Thunderbolt]
-    - [Sonic Boom]
-    - [Supersonic]
-    - [Thunder Wave]
+- [Thunderbolt]
+- [Sonic Boom]
+- [Supersonic]
+- [Thunder Wave]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,16 +19,16 @@ rarity: 1.0
 ---
 species: Magnemite
 setname: PWT-Jasmine-2
-tags: [in-game, PWT-Jasmine]
-item: [Null]
+tags: [in-game, PWT-Jasmine, trainer+jasmine]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Thunderbolt]
-    - [Sonic Boom]
-    - [Supersonic]
-    - [Thunder Wave]
+- [Thunderbolt]
+- [Sonic Boom]
+- [Supersonic]
+- [Thunder Wave]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

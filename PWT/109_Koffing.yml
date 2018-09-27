@@ -1,16 +1,16 @@
 species: Koffing
 setname: PWT-Koga Gym
-tags: [in-game, PWT-Koga Gym]
-item: [Null]
+tags: [in-game, PWT-Koga Gym, trainer+koga]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Selfdestruct]
-    - [Sludge]
-    - [Smokescreen]
-    - [Toxic]
-gender: [m,f]
+- [Selfdestruct]
+- [Sludge]
+- [Smokescreen]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,15 +20,15 @@ rarity: 1.0
 ---
 species: Koffing
 setname: PWT-Team Skull
-tags: [in-game, PWT-Team Skull]
-item: [Null]
+tags: [in-game, PWT-Team Skull, trainer+teamskull]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Poison Gas]
-    - [Tackle]
+- [Poison Gas]
+- [Tackle]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -38,17 +38,17 @@ rarity: 1.0
 ---
 species: Koffing
 setname: PWT-Archer
-tags: [in-game, PWT-Archer]
-item: [Null]
+tags: [in-game, PWT-Archer, trainer+archer]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sludge]
-    - [Smokescreen]
-    - [Tackle]
-    - [Haze]
-gender: [m,f]
+- [Sludge]
+- [Smokescreen]
+- [Tackle]
+- [Haze]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -58,17 +58,17 @@ rarity: 1.0
 ---
 species: Koffing
 setname: PWT-Petrel
-tags: [in-game, PWT-Petrel]
-item: [Null]
+tags: [in-game, PWT-Petrel, trainer+petrel]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Smog]
-    - [Smokescreen]
-    - [Assurance]
-    - [Selfdestruct]
-gender: [m,f]
+- [Smog]
+- [Smokescreen]
+- [Assurance]
+- [Selfdestruct]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -78,17 +78,17 @@ rarity: 1.0
 ---
 species: Koffing
 setname: PWT-Petrel2
-tags: [in-game, PWT-Petrel2]
-item: [Null]
+tags: [in-game, PWT-Petrel2, trainer+petrel]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sludge]
-    - [Smokescreen]
-    - [Selfdestruct]
-    - [Tackle]
-gender: [m,f]
+- [Sludge]
+- [Smokescreen]
+- [Selfdestruct]
+- [Tackle]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -98,17 +98,17 @@ rarity: 1.0
 ---
 species: Koffing
 setname: PWT-Petrel2-2
-tags: [in-game, PWT-Petrel2]
-item: [Null]
+tags: [in-game, PWT-Petrel2, trainer+petrel]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sludge]
-    - [Smokescreen]
-    - [Selfdestruct]
-    - [Tackle]
-gender: [m,f]
+- [Sludge]
+- [Smokescreen]
+- [Selfdestruct]
+- [Tackle]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -118,17 +118,17 @@ rarity: 1.0
 ---
 species: Koffing
 setname: PWT-Petrel2-3
-tags: [in-game, PWT-Petrel2]
-item: [Null]
+tags: [in-game, PWT-Petrel2, trainer+petrel]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sludge]
-    - [Smokescreen]
-    - [Selfdestruct]
-    - [Tackle]
-gender: [m,f]
+- [Sludge]
+- [Smokescreen]
+- [Selfdestruct]
+- [Tackle]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,15 +1,15 @@
 species: Moltres
 setname: PWT-Brandon2
-tags: [in-game, PWT-Brandon2]
+tags: [in-game, PWT-Brandon2, trainer+brandon]
 item: [Bright Powder]
 ability: [Pressure]
 moves:
-    - [Fire Blast]
-    - [Aerial Ace]
-    - [Hyper Beam]
-    - [Safeguard]
+- [Fire Blast]
+- [Aerial Ace]
+- [Hyper Beam]
+- [Safeguard]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

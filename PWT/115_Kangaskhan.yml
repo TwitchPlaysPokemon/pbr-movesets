@@ -1,16 +1,16 @@
 species: Kangaskhan
 setname: PWT-Giovanni Rocket
-tags: [in-game, PWT-Giovanni Rocket]
-item: [Null]
+tags: [in-game, PWT-Giovanni Rocket, trainer+giovannirocket]
+item: [null]
 ability: [Early Bird]
 moves:
-    - [Fake Out]
-    - [Rage]
-    - [Mega Punch]
-    - [Tail Whip]
+- [Fake Out]
+- [Rage]
+- [Mega Punch]
+- [Tail Whip]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Kangaskhan
 setname: PWT-Giovanni Tohjo
-tags: [in-game, PWT-Giovanni Tohjo]
-item: [Null]
+tags: [in-game, PWT-Giovanni Tohjo, trainer+giovannitohjo]
+item: [null]
 ability: [Scrappy]
 moves:
-    - [Outrage]
-    - [Leer]
-    - [Sucker Punch]
-    - [Dizzy Punch]
+- [Outrage]
+- [Leer]
+- [Sucker Punch]
+- [Dizzy Punch]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Kangaskhan
 setname: PWT-Norman Rematch
-tags: [in-game, PWT-Norman Rematch]
-item: [Null]
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
+item: [null]
 ability: [Early Bird]
 moves:
-    - [Fake Out]
-    - [Dizzy Punch]
-    - [Endure]
-    - [Reversal]
-gender: [m,f]
+- [Fake Out]
+- [Dizzy Punch]
+- [Endure]
+- [Reversal]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

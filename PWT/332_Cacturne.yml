@@ -1,16 +1,16 @@
 species: Cacturne
 setname: PWT-Sydney
-tags: [in-game, PWT-Sydney]
-item: [Null]
+tags: [in-game, PWT-Sydney, trainer+sydney]
+item: [null]
 ability: [Sand Veil]
 moves:
-    - [Leech Seed]
-    - [Faint Attack]
-    - [Needle Arm]
-    - [Cotton Spore]
-gender: [m,f]
+- [Leech Seed]
+- [Faint Attack]
+- [Needle Arm]
+- [Cotton Spore]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,16 +1,16 @@
 species: Wailord
 setname: PWT-Wallace
-tags: [in-game, PWT-Wallace]
-item: [Null]
+tags: [in-game, PWT-Wallace, trainer+wallace]
+item: [null]
 ability: [Water Veil]
 moves:
-    - [Rain Dance]
-    - [Water Spout]
-    - [Double Edge]
-    - [Blizzard]
-gender: [m,f]
+- [Rain Dance]
+- [Water Spout]
+- [Double Edge]
+- [Blizzard]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Wailord
 setname: PWT-Cheryl
-tags: [in-game, PWT-Cheryl]
-item: [Null]
+tags: [in-game, PWT-Cheryl, trainer+cheryl]
+item: [null]
 ability: [Water Veil]
 moves:
-    - [Avalanche]
-    - [Earthquake]
-    - [Water Spout]
-    - [Brine]
-gender: [m,f]
+- [Avalanche]
+- [Earthquake]
+- [Water Spout]
+- [Brine]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

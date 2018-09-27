@@ -1,16 +1,16 @@
 species: Lickilicky
 setname: PWT-Whitney Rematch
-tags: [in-game, PWT-Whitney Rematch]
-item: [Null]
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [null]
 ability: [Own Tempo]
 moves:
-    - [Wring Out]
-    - [Flamethrower]
-    - [Thunderbolt]
-    - [Ice Beam]
-gender: [m,f]
+- [Wring Out]
+- [Flamethrower]
+- [Thunderbolt]
+- [Ice Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

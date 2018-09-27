@@ -1,16 +1,16 @@
 species: Gengar
 setname: PWT-Silver
-tags: [in-game, PWT-Silver]
-item: [Null]
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sludge Bomb]
-    - [Shadow Ball]
-    - [Dark Pulse]
-    - [Confuse Ray]
-gender: [m,f]
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Dark Pulse]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Agatha
-tags: [in-game, PWT-Agatha]
-item: [Null]
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Confuse Ray]
-    - [Shadow Punch]
-    - [Double Team]
-    - [Toxic]
-gender: [m,f]
+- [Confuse Ray]
+- [Shadow Punch]
+- [Double Team]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Agatha-2
-tags: [in-game, PWT-Agatha]
-item: [Null]
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Sludge Bomb]
-    - [Hypnosis]
-    - [Nightmare]
-gender: [m,f]
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Hypnosis]
+- [Nightmare]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Agatha Rematch
-tags: [in-game, PWT-Agatha Rematch]
-item: [Null]
+tags: [in-game, PWT-Agatha Rematch, trainer+agatha]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Confuse Ray]
-    - [Shadow Punch]
-    - [Hypnosis]
-    - [Psychic]
-gender: [m,f]
+- [Confuse Ray]
+- [Shadow Punch]
+- [Hypnosis]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Agatha Rematch-2
-tags: [in-game, PWT-Agatha Rematch]
+tags: [in-game, PWT-Agatha Rematch, trainer+agatha]
 item: [Chesto Berry]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Sludge Bomb]
-    - [Psychic]
-    - [Thunderbolt]
-gender: [m,f]
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Psychic]
+- [Thunderbolt]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Karen
-tags: [in-game, PWT-Karen]
-item: [Null]
+tags: [in-game, PWT-Karen, trainer+karen]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Focus Blast]
-    - [Destiny Bond]
-    - [Spite]
-    - [Lick]
-gender: [m,f]
+- [Focus Blast]
+- [Destiny Bond]
+- [Spite]
+- [Lick]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Morty
-tags: [in-game, PWT-Morty]
-item: [Null]
+tags: [in-game, PWT-Morty, trainer+morty]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Hypnosis]
-    - [Shadow Ball]
-    - [Mean Look]
-    - [Sucker Punch]
-gender: [m,f]
+- [Hypnosis]
+- [Shadow Ball]
+- [Mean Look]
+- [Sucker Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Morty Rematch
-tags: [in-game, PWT-Morty Rematch]
-item: [Null]
+tags: [in-game, PWT-Morty Rematch, trainer+morty]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Hypnosis]
-    - [Focus Blast]
-    - [Confuse Ray]
-gender: [m,f]
+- [Shadow Ball]
+- [Hypnosis]
+- [Focus Blast]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Morty Rematch-2
-tags: [in-game, PWT-Morty Rematch]
-item: [Null]
+tags: [in-game, PWT-Morty Rematch, trainer+morty]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Substitute]
-    - [Thunderbolt]
-    - [Destiny Bond]
-gender: [m,f]
+- [Shadow Ball]
+- [Substitute]
+- [Thunderbolt]
+- [Destiny Bond]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -180,17 +180,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Fantina Rematch
-tags: [in-game, PWT-Fantina Rematch]
-item: [Null]
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Focus Blast]
-    - [Thunderbolt]
-    - [Shadow Ball]
-    - [Psychic]
-gender: [m,f]
+- [Focus Blast]
+- [Thunderbolt]
+- [Shadow Ball]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -200,17 +200,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Mira
-tags: [in-game, PWT-Mira]
-item: [Null]
+tags: [in-game, PWT-Mira, trainer+mira]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Energy Ball]
-    - [Sludge Bomb]
-    - [Psychic]
-gender: [m,f]
+- [Shadow Ball]
+- [Energy Ball]
+- [Sludge Bomb]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -220,17 +220,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Team Meanies
-tags: [in-game, PWT-Team Meanies]
-item: [Null]
+tags: [in-game, PWT-Team Meanies, trainer+teammeanies]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Curse]
-    - [Lick]
-    - [Spite]
-    - [Hypnosis]
+- [Curse]
+- [Lick]
+- [Spite]
+- [Hypnosis]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -240,17 +240,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Morty Tournament
-tags: [in-game, PWT-Morty Tournament]
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
 item: [Petaya Berry]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Focus Blast]
-    - [Dark Pulse]
-    - [Hypnosis]
-gender: [m,f]
+- [Shadow Ball]
+- [Focus Blast]
+- [Dark Pulse]
+- [Hypnosis]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -260,17 +260,17 @@ rarity: 1.0
 ---
 species: Gengar
 setname: PWT-Fantina Tournament
-tags: [in-game, PWT-Fantina Tournament]
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
 item: [Twisted Spoon]
 ability: [Levitate]
 moves:
-    - [Hypnosis]
-    - [Dream Eater]
-    - [Nightmare]
-    - [Ominous Wind]
-gender: [m,f]
+- [Hypnosis]
+- [Dream Eater]
+- [Nightmare]
+- [Ominous Wind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

@@ -1,16 +1,16 @@
 species: Numel
 setname: PWT-Flannery
-tags: [in-game, PWT-Flannery]
-item: [Null]
+tags: [in-game, PWT-Flannery, trainer+flannery]
+item: [null]
 ability: [Oblivious]
 moves:
-    - [Overheat]
-    - [Take Down]
-    - [Magnitude]
-    - [Sunny Day]
+- [Overheat]
+- [Take Down]
+- [Magnitude]
+- [Sunny Day]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

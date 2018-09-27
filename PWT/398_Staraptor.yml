@@ -1,16 +1,16 @@
 species: Staraptor
 setname: PWT-Barry
-tags: [in-game, PWT-Barry]
-item: [Null]
+tags: [in-game, PWT-Barry, trainer+barry]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Aerial Ace]
-    - [Close Combat]
-    - [U-Turn]
-    - [Steel Wing]
-gender: [m,f]
+- [Aerial Ace]
+- [Close Combat]
+- [U-Turn]
+- [Steel Wing]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Staraptor
 setname: PWT-Falkner Rematch
-tags: [in-game, PWT-Falkner Rematch]
-item: [Null]
+tags: [in-game, PWT-Falkner Rematch, trainer+falkner]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [U-Turn]
-    - [Close Combat]
-    - [Brave Bird]
-    - [Attract]
-gender: [m,f]
+- [U-Turn]
+- [Close Combat]
+- [Brave Bird]
+- [Attract]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

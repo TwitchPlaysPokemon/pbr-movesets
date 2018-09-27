@@ -1,6 +1,6 @@
 species: Breloom
 setname: PWT-Chuck Rematch
-tags: [in-game, PWT-Chuck Rematch]
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
 item: [Toxic Orb]
 ability: [Poison Heal]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Breloom
 setname: PWT-Maylene Rematch
-tags: [in-game, PWT-Maylene Rematch]
+tags: [in-game, PWT-Maylene Rematch, trainer+maylene]
 item: [null]
 ability: [Effect Spore]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Breloom
 setname: PWT-Brawly Tournament
-tags: [in-game, PWT-Brawly Tournament]
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
 item: [Coba Berry]
 ability: [Effect Spore, Poison Heal]
 moves:

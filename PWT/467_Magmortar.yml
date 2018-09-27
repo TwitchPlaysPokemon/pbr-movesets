@@ -1,6 +1,6 @@
 species: Magmortar
 setname: PWT-Flint
-tags: [in-game, PWT-Flint]
+tags: [in-game, PWT-Flint, trainer+flint]
 item: [null]
 ability: [Flame Body]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Magmortar
 setname: PWT-Blaine2 Rematch
-tags: [in-game, PWT-Blaine2 Rematch]
+tags: [in-game, PWT-Blaine2 Rematch, trainer+blaine]
 item: [null]
 ability: [Flame Body]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Magmortar
 setname: PWT-Blaine Tournament
-tags: [in-game, PWT-Blaine Tournament]
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
 item: [Petaya Berry]
 ability: [Flame Body]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Magmortar
 setname: PWT-Flannery Tournament
-tags: [in-game, PWT-Flannery Tournament]
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
 item: [Liechi Berry]
 ability: [Flame Body]
 moves:

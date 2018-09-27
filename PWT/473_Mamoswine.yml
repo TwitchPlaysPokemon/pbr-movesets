@@ -1,6 +1,6 @@
 species: Mamoswine
 setname: PWT-Pryce Rematch
-tags: [in-game, PWT-Pryce Rematch]
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
 item: [null]
 ability: [Snow Cloak]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Mamoswine
 setname: PWT-Candice Rematch
-tags: [in-game, PWT-Candice Rematch]
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
 item: [null]
 ability: [Oblivious]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Mamoswine
 setname: PWT-Pryce Tournament
-tags: [in-game, PWT-Pryce Tournament]
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
 item: [Liechi Berry]
 ability: [Oblivious, Snow Cloak]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Mamoswine
 setname: PWT-Candice Tournament
-tags: [in-game, PWT-Candice Tournament]
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
 item: [Liechi Berry]
 ability: [Oblivious, Snow Cloak]
 moves:

@@ -1,16 +1,16 @@
 species: Quagsire
 setname: PWT-Misty2
-tags: [in-game, PWT-Misty2]
-item: [Null]
+tags: [in-game, PWT-Misty2, trainer+misty]
+item: [null]
 ability: [Water Absorb]
 moves:
-    - [Water Pulse]
-    - [Amnesia]
-    - [Rain Dance]
-    - [Earthquake]
-gender: [m,f]
+- [Water Pulse]
+- [Amnesia]
+- [Rain Dance]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Quagsire
 setname: PWT-Misty2 Rematch
-tags: [in-game, PWT-Misty2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [null]
 ability: [Water Absorb]
 moves:
-    - [Rain Dance]
-    - [Amnesia]
-    - [Water Pulse]
-    - [Earthquake]
-gender: [m,f]
+- [Rain Dance]
+- [Amnesia]
+- [Water Pulse]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Quagsire
 setname: PWT-Crasher Wake
-tags: [in-game, PWT-Crasher Wake]
-item: [Null]
+tags: [in-game, PWT-Crasher Wake, trainer+crasherwake]
+item: [null]
 ability: [Damp]
 moves:
-    - [Water Pulse]
-    - [Mud Shot]
-    - [Rock Tomb]
-    - [Yawn]
-gender: [m,f]
+- [Water Pulse]
+- [Mud Shot]
+- [Rock Tomb]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Quagsire
 setname: PWT-Crasher Wake Rematch
-tags: [in-game, PWT-Crasher Wake Rematch]
-item: [Null]
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
+item: [null]
 ability: [Damp]
 moves:
-    - [Surf]
-    - [Earthquake]
-    - [Stone Edge]
-    - [Yawn]
-gender: [m,f]
+- [Surf]
+- [Earthquake]
+- [Stone Edge]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Quagsire
 setname: PWT-Crasher Wake Tournament
-tags: [in-game, PWT-Crasher Wake Tournament]
+tags: [in-game, PWT-Crasher Wake Tournament, trainer+crasherwake]
 item: [Rindo Berry]
 ability: [Damp, Water Absorb]
 moves:
-    - [Earthquake]
-    - [Aqua Tail]
-    - [Curse]
-    - [Rain Dance]
-gender: [m,f]
+- [Earthquake]
+- [Aqua Tail]
+- [Curse]
+- [Rain Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

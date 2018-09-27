@@ -1,16 +1,16 @@
 species: Hitmonchan
 setname: PWT-Bruno
-tags: [in-game, PWT-Bruno]
-item: [Null]
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Sky Uppercut]
-    - [Mach Punch]
-    - [Rock Tomb]
-    - [Counter]
-gender: [m,f]
+- [Sky Uppercut]
+- [Mach Punch]
+- [Rock Tomb]
+- [Counter]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Hitmonchan
 setname: PWT-Bruno Rematch
-tags: [in-game, PWT-Bruno Rematch]
-item: [Null]
+tags: [in-game, PWT-Bruno Rematch, trainer+bruno]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Sky Uppercut]
-    - [Mach Punch]
-    - [Rock Slide]
-    - [Counter]
-gender: [m,f]
+- [Sky Uppercut]
+- [Mach Punch]
+- [Rock Slide]
+- [Counter]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Hitmonchan
 setname: PWT-Bruno2
-tags: [in-game, PWT-Bruno2]
-item: [Null]
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
 ability: [Iron Fist]
 moves:
-    - [Thunder Punch]
-    - [Ice Punch]
-    - [Fire Punch]
-    - [Bullet Punch]
-gender: [m,f]
+- [Thunder Punch]
+- [Ice Punch]
+- [Fire Punch]
+- [Bullet Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Hitmonchan
 setname: PWT-Bruno2 Rematch
-tags: [in-game, PWT-Bruno2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
 ability: [Iron Fist]
 moves:
-    - [Close Combat]
-    - [Drain Punch]
-    - [Bullet Punch]
-    - [Substitute]
-gender: [m,f]
+- [Close Combat]
+- [Drain Punch]
+- [Bullet Punch]
+- [Substitute]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Hitmonchan
 setname: PWT-Chuck Rematch
-tags: [in-game, PWT-Chuck Rematch]
-item: [Null]
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [null]
 ability: [Iron Fist]
 moves:
-    - [Swagger]
-    - [Double Team]
-    - [Mach Punch]
-    - [Focus Punch]
-gender: [m,f]
+- [Swagger]
+- [Double Team]
+- [Mach Punch]
+- [Focus Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Hitmonchan
 setname: PWT-Brawly Rematch
-tags: [in-game, PWT-Brawly Rematch]
-item: [Null]
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Sky Uppercut]
-    - [Protect]
-    - [Fire Punch]
-    - [Ice Punch]
-gender: [m,f]
+- [Sky Uppercut]
+- [Protect]
+- [Fire Punch]
+- [Ice Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Hitmonchan
 setname: PWT-Chuck Tournament
-tags: [in-game, PWT-Chuck Tournament]
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
 item: [NeverMeltIce]
 ability: [Keen Eye, Iron Fist]
 moves:
-    - [Bulk Up]
-    - [Ice Punch]
-    - [Mach Punch]
-    - [Thunder Punch]
-gender: [m,f]
+- [Bulk Up]
+- [Ice Punch]
+- [Mach Punch]
+- [Thunder Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

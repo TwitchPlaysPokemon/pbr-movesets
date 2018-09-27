@@ -1,16 +1,16 @@
 species: Pinsir
 setname: PWT-Bugsy Rematch
-tags: [in-game, PWT-Bugsy Rematch]
-item: [Null]
+tags: [in-game, PWT-Bugsy Rematch, trainer+bugsy]
+item: [null]
 ability: [Mold Breaker]
 moves:
-    - [X-Scissor]
-    - [Rock Tomb]
-    - [Earthquake]
-    - [Guillotine]
-gender: [m,f]
+- [X-Scissor]
+- [Rock Tomb]
+- [Earthquake]
+- [Guillotine]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Pinsir
 setname: PWT-Bugsy Tournament
-tags: [in-game, PWT-Bugsy Tournament]
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Liechi Berry]
 ability: [Hyper Cutter, Mold Breaker]
 moves:
-    - [Bulk Up]
-    - [Superpower]
-    - [Earthquake]
-    - [X-Scissor]
-gender: [m,f]
+- [Bulk Up]
+- [Superpower]
+- [Earthquake]
+- [X-Scissor]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20
@@ -40,8 +40,8 @@ rarity: 1.0
 ---
 species: Pinsir
 setname: PWT-Guzma
-tags: [in-game, PWT-Guzma]
-item: [Null]
+tags: [in-game, PWT-Guzma, trainer+guzma]
+item: [null]
 ability: [Mold Breaker]
 moves:
 - [Crunch]

@@ -1,16 +1,16 @@
 species: Houndour
 setname: PWT-Archer
-tags: [in-game, PWT-Archer]
-item: [Null]
+tags: [in-game, PWT-Archer, trainer+archer]
+item: [null]
 ability: [Early Bird]
 moves:
-    - [Faint Attack]
-    - [Fire Fang]
-    - [Bite]
-    - [Roar]
-gender: [m,f]
+- [Faint Attack]
+- [Fire Fang]
+- [Bite]
+- [Roar]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

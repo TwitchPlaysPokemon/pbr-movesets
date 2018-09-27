@@ -1,16 +1,16 @@
 species: Politoed
 setname: PWT-Juan Rematch
-tags: [in-game, PWT-Juan Rematch]
-item: [Null]
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
+item: [null]
 ability: [Water Absorb]
 moves:
-    - [Hypnosis]
-    - [Rain Dance]
-    - [Hydro Pump]
-    - [Perish Song]
-gender: [m,f]
+- [Hypnosis]
+- [Rain Dance]
+- [Hydro Pump]
+- [Perish Song]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

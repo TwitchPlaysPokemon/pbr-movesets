@@ -1,6 +1,6 @@
 species: Metagross
 setname: PWT-Steven
-tags: [in-game, PWT-Steven]
+tags: [in-game, PWT-Steven, trainer+steven]
 item: [null]
 ability: [Clear Body]
 moves:
@@ -19,7 +19,7 @@ rarity: 1.0
 ---
 species: Metagross
 setname: PWT-Jasmine Rematch
-tags: [in-game, PWT-Jasmine Rematch]
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
 item: [null]
 ability: [Clear Body]
 moves:
@@ -38,7 +38,7 @@ rarity: 1.0
 ---
 species: Metagross
 setname: PWT-Riley
-tags: [in-game, PWT-Riley]
+tags: [in-game, PWT-Riley, trainer+riley]
 item: [null]
 ability: [Clear Body]
 moves:
@@ -57,7 +57,7 @@ rarity: 1.0
 ---
 species: Metagross
 setname: PWT-Steven Tournament
-tags: [in-game, PWT-Steven Tournament]
+tags: [in-game, PWT-Steven Tournament, trainer+steven]
 item: [Occa Berry]
 ability: [Clear Body]
 moves:
@@ -76,7 +76,7 @@ rarity: 1.0
 ---
 species: Metagross
 setname: PWT-Jasmine Tournament
-tags: [in-game, PWT-Jasmine Tournament]
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
 item: [Liechi Berry]
 ability: [Clear Body]
 moves:

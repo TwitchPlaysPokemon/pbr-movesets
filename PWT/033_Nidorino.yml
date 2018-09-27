@@ -1,16 +1,16 @@
 species: Nidorino
 setname: PWT-Giovanni Rocket
-tags: [in-game, PWT-Giovanni Rocket]
-item: [Null]
+tags: [in-game, PWT-Giovanni Rocket, trainer+giovannirocket]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Horn Attack]
-    - [Poison Sting]
-    - [Helping Hand]
-    - [Fury Attack]
+- [Horn Attack]
+- [Poison Sting]
+- [Helping Hand]
+- [Fury Attack]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

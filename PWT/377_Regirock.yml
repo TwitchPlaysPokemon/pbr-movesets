@@ -1,15 +1,15 @@
 species: Regirock
 setname: PWT-Brandon
-tags: [in-game, PWT-Brandon]
+tags: [in-game, PWT-Brandon, trainer+brandon]
 item: [Quick Claw]
 ability: [Pressure]
 moves:
-    - [Ancient Power]
-    - [Superpower]
-    - [Earthquake]
-    - [Explosion]
+- [Ancient Power]
+- [Superpower]
+- [Earthquake]
+- [Explosion]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

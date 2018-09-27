@@ -1,16 +1,16 @@
 species: Tyranitar
 setname: PWT-Blue Champion Rematch
-tags: [in-game, PWT-Blue Champion Rematch]
-item: [Null]
+tags: [in-game, PWT-Blue Champion Rematch, trainer+blue]
+item: [null]
 ability: [Sand Stream]
 moves:
-    - [Crunch]
-    - [Earthquake]
-    - [Thunderbolt]
-    - [Aerial Ace]
-gender: [m,f]
+- [Crunch]
+- [Earthquake]
+- [Thunderbolt]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Tyranitar
 setname: PWT-Blue Gym Rematch
-tags: [in-game, PWT-Blue Gym Rematch]
-item: [Null]
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [null]
 ability: [Sand Stream]
 moves:
-    - [Low Kick]
-    - [Fire Fang]
-    - [Rock Slide]
-    - [Earthquake]
-gender: [m,f]
+- [Low Kick]
+- [Fire Fang]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Tyranitar
 setname: PWT-Roark Rematch
-tags: [in-game, PWT-Roark Rematch]
-item: [Null]
+tags: [in-game, PWT-Roark Rematch, trainer+roark]
+item: [null]
 ability: [Sand Stream]
 moves:
-    - [Stone Edge]
-    - [Crunch]
-    - [Fire Fang]
-    - [Aerial Ace]
-gender: [m,f]
+- [Stone Edge]
+- [Crunch]
+- [Fire Fang]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Tyranitar
 setname: PWT-Professor Elm
-tags: [in-game, PWT-Professor Elm]
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
 item: [Hard Stone]
-ability: [Null]
+ability: [null]
 moves:
-    - [Sandstorm]
-    - [Crunch]
-    - [Rock Slide]
-    - [Earthquake]
-gender: [m,f]
+- [Sandstorm]
+- [Crunch]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Tyranitar
 setname: PWT-Team A.C.T.
-tags: [in-game, PWT-Team A.C.T.]
-item: [Null]
+tags: [in-game, PWT-Team A.C.T., trainer+teamact]
+item: [null]
 ability: [Sand Stream]
 moves:
-    - [Ice Fang]
-    - [Sandstorm]
-    - [Fire Fang]
-    - [Bite]
-gender: [m,f]
+- [Ice Fang]
+- [Sandstorm]
+- [Fire Fang]
+- [Bite]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

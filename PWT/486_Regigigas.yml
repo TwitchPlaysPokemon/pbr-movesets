@@ -1,15 +1,15 @@
 species: Regigigas
 setname: PWT-Palmer2
-tags: [in-game, PWT-Palmer2]
+tags: [in-game, PWT-Palmer2, trainer+palmer]
 item: [Bright Powder]
 ability: [Slow Start]
 moves:
-    - [Crush Grip]
-    - [Stone Edge]
-    - [Earthquake]
-    - [Drain Punch]
+- [Crush Grip]
+- [Stone Edge]
+- [Earthquake]
+- [Drain Punch]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

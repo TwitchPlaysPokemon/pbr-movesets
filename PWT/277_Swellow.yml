@@ -1,6 +1,6 @@
 species: Swellow
 setname: PWT-Falkner Rematch
-tags: [in-game, PWT-Falkner Rematch]
+tags: [in-game, PWT-Falkner Rematch, trainer+falkner]
 item: [Flame Orb]
 ability: [Guts]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Swellow
 setname: PWT-Winona
-tags: [in-game, PWT-Winona]
+tags: [in-game, PWT-Winona, trainer+winona]
 item: [null]
 ability: [Guts]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Swellow
 setname: PWT-Winona Tournament
-tags: [in-game, PWT-Winona Tournament]
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
 item: [Liechi Berry]
 ability: [Guts]
 moves:

@@ -1,16 +1,16 @@
 species: Persian
 setname: PWT-Giovanni Rocket
-tags: [in-game, PWT-Giovanni Rocket]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Giovanni Rocket, trainer+giovannirocket]
+item: [null]
+ability: [null]
 moves:
-    - [Scratch]
-    - [Growl]
-    - [Bite]
-    - [Pay Day]
+- [Scratch]
+- [Growl]
+- [Bite]
+- [Pay Day]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Persian
 setname: PWT-Giovanni Gym
-tags: [in-game, PWT-Giovanni Gym]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [null]
 moves:
-    - [Screech]
-    - [Slash]
-    - [Fury Swipes]
-    - [Double Team]
+- [Screech]
+- [Slash]
+- [Fury Swipes]
+- [Double Team]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,16 +40,16 @@ rarity: 1.0
 ---
 species: Persian
 setname: PWT-Nanu
-tags: [in-game, PWT-Nanu]
+tags: [in-game, PWT-Nanu, trainer+nanu]
 item: [Black Glasses]
 ability: [Thick Fat]
 moves:
-    - [Power Gem]
-    - [Shadow Ball]
-    - [Dark Pulse]
-gender: [m,f]
+- [Power Gem]
+- [Shadow Ball]
+- [Dark Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Lax
 ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 0, spe: 0}

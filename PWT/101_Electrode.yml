@@ -1,15 +1,15 @@
 species: Electrode
 setname: PWT-Lt. Surge2
-tags: [in-game, PWT-Lt. Surge2]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge2, trainer+ltsurge]
+item: [null]
 ability: [Static]
 moves:
-    - [Thunder Wave]
-    - [Double Team]
-    - [Shock Wave]
-    - [Light Screen]
+- [Thunder Wave]
+- [Double Team]
+- [Shock Wave]
+- [Light Screen]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,16 +19,16 @@ rarity: 1.0
 ---
 species: Electrode
 setname: PWT-Lt. Surge2-2
-tags: [in-game, PWT-Lt. Surge2]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge2, trainer+ltsurge]
+item: [null]
 ability: [Static]
 moves:
-    - [Screech]
-    - [Double Team]
-    - [Selfdestruct]
-    - [Charge Beam]
+- [Screech]
+- [Double Team]
+- [Selfdestruct]
+- [Charge Beam]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -37,16 +37,16 @@ level: 100
 ---
 species: Electrode
 setname: PWT-Lt. Surge2 Rematch
-tags: [in-game, PWT-Lt. Surge2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [null]
 ability: [Static]
 moves:
-    - [Thunder Wave]
-    - [Double Team]
-    - [Thunderbolt]
-    - [Explosion]
+- [Thunder Wave]
+- [Double Team]
+- [Thunderbolt]
+- [Explosion]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -55,16 +55,16 @@ level: 100
 ---
 species: Electrode
 setname: PWT-Wattson Rematch
-tags: [in-game, PWT-Wattson Rematch]
-item: [Null]
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
 ability: [Soundproof]
 moves:
-    - [Rollout]
-    - [Thunder]
-    - [Explosion]
-    - [Rain Dance]
+- [Rollout]
+- [Thunder]
+- [Explosion]
+- [Rain Dance]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -74,16 +74,16 @@ rarity: 1.0
 ---
 species: Electrode
 setname: PWT-Marley
-tags: [in-game, PWT-Marley]
-item: [Null]
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
 ability: [Soundproof]
 moves:
-    - [Double Team]
-    - [Thunder Wave]
-    - [Thunder]
-    - [Hyper Beam]
+- [Double Team]
+- [Thunder Wave]
+- [Thunder]
+- [Hyper Beam]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -93,16 +93,16 @@ rarity: 1.0
 ---
 species: Electrode
 setname: PWT-Eusine
-tags: [in-game, PWT-Eusine]
-item: [Null]
+tags: [in-game, PWT-Eusine, trainer+eusine]
+item: [null]
 ability: [Static]
 moves:
-    - [Sonicboom]
-    - [Rollout]
-    - [Screech]
-    - [Thunder]
+- [Sonicboom]
+- [Rollout]
+- [Screech]
+- [Thunder]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -112,16 +112,16 @@ rarity: 1.0
 ---
 species: Electrode
 setname: PWT-Lt. Surge Tournament
-tags: [in-game, PWT-Lt. Surge Tournament]
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
 item: [Lum Berry]
 ability: [Soundproof, Static]
 moves:
-    - [Rain Dance]
-    - [Mirror Coat]
-    - [Magnet Rise]
-    - [Thunder]
+- [Rain Dance]
+- [Mirror Coat]
+- [Magnet Rise]
+- [Thunder]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Calm
 ivs: 20
@@ -131,16 +131,16 @@ rarity: 1.0
 ---
 species: Electrode
 setname: PWT-Wattson Tournament
-tags: [in-game, PWT-Wattson Tournament]
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
 item: [Shuca Berry]
 ability: [Soundproof, Static]
 moves:
-    - [Light Screen]
-    - [Charge Beam]
-    - [Double Team]
-    - [Signal Beam]
+- [Light Screen]
+- [Charge Beam]
+- [Double Team]
+- [Signal Beam]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -150,16 +150,16 @@ rarity: 1.0
 ---
 species: Electrode
 setname: PWT-Volkner Tournament
-tags: [in-game, PWT-Volkner Tournament]
+tags: [in-game, PWT-Volkner Tournament, trainer+volkner]
 item: [Magnet]
 ability: [Soundproof, Static]
 moves:
-    - [Taunt]
-    - [Torment]
-    - [Shock Wave]
-    - [Signal Beam]
+- [Taunt]
+- [Torment]
+- [Shock Wave]
+- [Signal Beam]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

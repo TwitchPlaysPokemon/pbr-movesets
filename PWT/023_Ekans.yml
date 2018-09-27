@@ -1,16 +1,16 @@
 species: Ekans
 setname: PWT-Team Meanies
-tags: [in-game, PWT-Team Meanies]
-item: [Null]
+tags: [in-game, PWT-Team Meanies, trainer+teammeanies]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Wrap]
-    - [Leer]
-    - [Bite]
-    - [Poison Sting]
-gender: [m,f]
+- [Wrap]
+- [Leer]
+- [Bite]
+- [Poison Sting]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

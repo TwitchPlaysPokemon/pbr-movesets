@@ -1,16 +1,16 @@
 species: Meditite
 setname: PWT-Brawly
-tags: [in-game, PWT-Brawly]
-item: [Null]
+tags: [in-game, PWT-Brawly, trainer+brawly]
+item: [null]
 ability: [Pure Power]
 moves:
-    - [Focus Punch]
-    - [Light Screen]
-    - [Reflect]
-    - [Bulk Up]
-gender: [m,f]
+- [Focus Punch]
+- [Light Screen]
+- [Reflect]
+- [Bulk Up]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

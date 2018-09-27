@@ -1,16 +1,16 @@
 species: Vespiquen
 setname: PWT-Aaron
-tags: [in-game, PWT-Aaron]
-item: [Null]
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Attack Order]
-    - [Defend Order]
-    - [Heal Order]
-    - [Power Gem]
-gender: [m,f]
+- [Attack Order]
+- [Defend Order]
+- [Heal Order]
+- [Power Gem]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Vespiquen
 setname: PWT-Bugsy Rematch
-tags: [in-game, PWT-Bugsy Rematch]
-item: [Null]
+tags: [in-game, PWT-Bugsy Rematch, trainer+bugsy]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Attack Order]
-    - [Defend Order]
-    - [Protect]
-    - [Confuse Ray]
-gender: [m,f]
+- [Attack Order]
+- [Defend Order]
+- [Protect]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

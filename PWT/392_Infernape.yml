@@ -1,6 +1,6 @@
 species: Infernape
 setname: PWT-Flint
-tags: [in-game, PWT-Flint]
+tags: [in-game, PWT-Flint, trainer+flint]
 item: [null]
 ability: [Blaze]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Infernape
 setname: PWT-Maylene Tournament
-tags: [in-game, PWT-Maylene Tournament]
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
 item: [Liechi Berry]
 ability: [Blaze]
 moves:

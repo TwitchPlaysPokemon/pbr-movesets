@@ -1,16 +1,16 @@
 species: Umbreon
 setname: PWT-Karen
-tags: [in-game, PWT-Karen]
-item: [Null]
+tags: [in-game, PWT-Karen, trainer+karen]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Double Team]
-    - [Confuse Ray]
-    - [Faint Attack]
-    - [Payback]
-gender: [m,f]
+- [Double Team]
+- [Confuse Ray]
+- [Faint Attack]
+- [Payback]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Umbreon
 setname: PWT-Karen Rematch
-tags: [in-game, PWT-Karen Rematch]
-item: [Null]
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Confuse Ray]
-    - [Curse]
-    - [Payback]
-    - [Sucker Punch]
-gender: [m,f]
+- [Confuse Ray]
+- [Curse]
+- [Payback]
+- [Sucker Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Umbreon
 setname: PWT-Kimono Girls
-tags: [in-game, PWT-Kimono Girls]
-item: [Null]
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Dark Pulse]
-    - [Shadow Ball]
-    - [Confuse Ray]
-    - [Last Resort]
-gender: [m,f]
+- [Dark Pulse]
+- [Shadow Ball]
+- [Confuse Ray]
+- [Last Resort]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Umbreon
 setname: PWT-Buck
-tags: [in-game, PWT-Buck]
-item: [Null]
+tags: [in-game, PWT-Buck, trainer+buck]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Dark Pulse]
-    - [Confuse Ray]
-    - [Double Team]
-    - [Psychic]
-gender: [m,f]
+- [Dark Pulse]
+- [Confuse Ray]
+- [Double Team]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

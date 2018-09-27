@@ -1,16 +1,16 @@
 species: Electrike
 setname: PWT-Wattson
-tags: [in-game, PWT-Wattson]
-item: [Null]
+tags: [in-game, PWT-Wattson, trainer+wattson]
+item: [null]
 ability: [Static]
 moves:
-    - [Shock Wave]
-    - [Leer]
-    - [Quick Attack]
-    - [Howl]
-gender: [m,f]
+- [Shock Wave]
+- [Leer]
+- [Quick Attack]
+- [Howl]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,16 +1,16 @@
 species: Combusken
 setname: PWT-May
-tags: [in-game, PWT-May]
-item: [Null]
+tags: [in-game, PWT-May, trainer+may]
+item: [null]
 ability: [Blaze]
 moves:
-    - [Peck]
-    - [Sand Attack]
-    - [Bulk Up]
-    - [Quick Attack]
+- [Peck]
+- [Sand Attack]
+- [Bulk Up]
+- [Quick Attack]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

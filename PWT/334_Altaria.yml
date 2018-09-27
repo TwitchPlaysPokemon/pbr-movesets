@@ -1,6 +1,6 @@
 species: Altaria
 setname: PWT-Lance Champion Rematch
-tags: [in-game, PWT-Lance Champion Rematch]
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Altaria
 setname: PWT-Wally
-tags: [in-game, PWT-Wally]
+tags: [in-game, PWT-Wally, trainer+wally]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Altaria
 setname: PWT-Drake
-tags: [in-game, PWT-Drake]
+tags: [in-game, PWT-Drake, trainer+drake]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Altaria
 setname: PWT-Winona
-tags: [in-game, PWT-Winona]
+tags: [in-game, PWT-Winona, trainer+winona]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Altaria
 setname: PWT-Winona Rematch
-tags: [in-game, PWT-Winona Rematch]
+tags: [in-game, PWT-Winona Rematch, trainer+winona]
 item: [Chesto Berry]
 ability: [Natural Cure]
 moves:
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Altaria
 setname: PWT-Clair Tournament
-tags: [in-game, PWT-Clair Tournament]
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
 item: [Charcoal]
 ability: [Natural Cure]
 moves:
@@ -120,7 +120,7 @@ rarity: 1.0
 ---
 species: Altaria
 setname: PWT-Winona Tournament
-tags: [in-game, PWT-Winona Tournament]
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
 item: [Apicot Berry]
 ability: [Natural Cure]
 moves:

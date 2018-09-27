@@ -1,15 +1,15 @@
 species: Porygon-Z
 setname: PWT-Mira
-tags: [in-game, PWT-Mira]
-item: [Null]
+tags: [in-game, PWT-Mira, trainer+mira]
+item: [null]
 ability: [Adaptability]
 moves:
-    - [Tri Attack]
-    - [Dark Pulse]
-    - [Psychic]
-    - [Thunderbolt]
+- [Tri Attack]
+- [Dark Pulse]
+- [Psychic]
+- [Thunderbolt]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

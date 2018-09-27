@@ -1,16 +1,16 @@
 species: Blissey
 setname: PWT-Norman Rematch
-tags: [in-game, PWT-Norman Rematch]
-item: [Null]
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Protect]
-    - [Sing]
-    - [Skill Swap]
-    - [Focus Punch]
+- [Protect]
+- [Sing]
+- [Skill Swap]
+- [Focus Punch]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Blissey
 setname: PWT-Cheryl
-tags: [in-game, PWT-Cheryl]
-item: [Null]
+tags: [in-game, PWT-Cheryl, trainer+cheryl]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Counter]
-    - [Softboiled]
-    - [Psychic]
-    - [Toxic]
+- [Counter]
+- [Softboiled]
+- [Psychic]
+- [Toxic]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

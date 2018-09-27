@@ -1,6 +1,6 @@
 species: Rotom
 setname: PWT-Fantina Tournament
-tags: [in-game, PWT-Fantina Tournament]
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
 item: [Magnet]
 ability: [Levitate]
 moves:
@@ -19,7 +19,7 @@ rarity: 1.0
 ---
 species: Rotom
 setname: PWT-Volkner Tournament
-tags: [in-game, PWT-Volkner Tournament]
+tags: [in-game, PWT-Volkner Tournament, trainer+volkner]
 item: [Colbur Berry]
 ability: [Levitate]
 moves:

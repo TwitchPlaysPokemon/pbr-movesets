@@ -1,16 +1,16 @@
 species: Pachirisu
 setname: PWT-Lt. Surge2 Rematch
-tags: [in-game, PWT-Lt. Surge2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [null]
 ability: [Pick Up]
 moves:
-    - [Quick Attack]
-    - [Sweet Kiss]
-    - [Super Fang]
-    - [Discharge]
-gender: [m,f]
+- [Quick Attack]
+- [Sweet Kiss]
+- [Super Fang]
+- [Discharge]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

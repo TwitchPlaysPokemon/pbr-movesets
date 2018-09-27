@@ -1,15 +1,15 @@
 species: Staryu
 setname: PWT-Misty
-tags: [in-game, PWT-Misty]
-item: [Null]
+tags: [in-game, PWT-Misty, trainer+misty]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Tackle]
-    - [Harden]
-    - [Recover]
-    - [Water Pulse]
+- [Tackle]
+- [Harden]
+- [Recover]
+- [Water Pulse]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

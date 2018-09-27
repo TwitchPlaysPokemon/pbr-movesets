@@ -1,16 +1,16 @@
 species: Machamp
 setname: PWT-Blue Gym
-tags: [in-game, PWT-Blue Gym]
-item: [Null]
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
 ability: [No Guard]
 moves:
-    - [Dynamic Punch]
-    - [Earthquake]
-    - [Stone Edge]
-    - [Thunder Punch]
-gender: [m,f]
+- [Dynamic Punch]
+- [Earthquake]
+- [Stone Edge]
+- [Thunder Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Blue Gym Rematch
-tags: [in-game, PWT-Blue Gym Rematch]
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
 item: [Iron Ball]
 ability: [No Guard]
 moves:
-    - [Dynamic Punch]
-    - [Stone Edge]
-    - [Fling]
-    - [Attract]
-gender: [m,f]
+- [Dynamic Punch]
+- [Stone Edge]
+- [Fling]
+- [Attract]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Bruno
-tags: [in-game, PWT-Bruno]
-item: [Null]
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
 ability: [Guts]
 moves:
-    - [Bulk Up]
-    - [Cross Chop]
-    - [Scary Face]
-    - [Rock Tomb]
-gender: [m,f]
+- [Bulk Up]
+- [Cross Chop]
+- [Scary Face]
+- [Rock Tomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Bruno Rematch
-tags: [in-game, PWT-Bruno Rematch]
+tags: [in-game, PWT-Bruno Rematch, trainer+bruno]
 item: [Persim Berry]
 ability: [Guts]
 moves:
-    - [Brick Break]
-    - [Cross Chop]
-    - [Earthquake]
-    - [Rock Slide]
-gender: [m,f]
+- [Brick Break]
+- [Cross Chop]
+- [Earthquake]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Bruno2
-tags: [in-game, PWT-Bruno2]
-item: [Null]
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
 ability: [No Guard]
 moves:
-    - [Revenge]
-    - [Cross Chop]
-    - [Rock Slide]
-    - [Foresight]
-gender: [m,f]
+- [Revenge]
+- [Cross Chop]
+- [Rock Slide]
+- [Foresight]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Bruno2 Rematch
-tags: [in-game, PWT-Bruno2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
 ability: [No Guard]
 moves:
-    - [Dynamic Punch]
-    - [Stone Edge]
-    - [Bullet Punch]
-    - [Foresight]
-gender: [m,f]
+- [Dynamic Punch]
+- [Stone Edge]
+- [Bullet Punch]
+- [Foresight]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Maylene Rematch
-tags: [in-game, PWT-Maylene Rematch]
-item: [Null]
+tags: [in-game, PWT-Maylene Rematch, trainer+maylene]
+item: [null]
 ability: [Guts]
 moves:
-    - [Cross Chop]
-    - [Rock Climb]
-    - [Stone Edge]
-    - [Earthquake]
-gender: [m,f]
+- [Cross Chop]
+- [Rock Climb]
+- [Stone Edge]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Brawly Rematch
-tags: [in-game, PWT-Brawly Rematch]
-item: [Null]
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
 ability: [Guts]
 moves:
-    - [Cross Chop]
-    - [Rock Slide]
-    - [Focus Punch]
-    - [Bulk Up]
-gender: [m,f]
+- [Cross Chop]
+- [Rock Slide]
+- [Focus Punch]
+- [Bulk Up]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Blue Tournament
-tags: [in-game, PWT-Blue Tournament]
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
 item: [White Herb]
 ability: [Guts, No Guard]
 moves:
-    - [Superpower]
-    - [Stone Edge]
-    - [Fire Punch]
-    - [Bullet Punch]
-gender: [m,f]
+- [Superpower]
+- [Stone Edge]
+- [Fire Punch]
+- [Bullet Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 25
@@ -180,17 +180,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Chuck Tournament
-tags: [in-game, PWT-Chuck Tournament]
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
 item: [Payapa Berry]
 ability: [Guts, No Guard]
 moves:
-    - [Dragon Claw]
-    - [Rock Slide]
-    - [Dynamic Punch]
-    - [Magnitude]
-gender: [m,f]
+- [Dragon Claw]
+- [Rock Slide]
+- [Dynamic Punch]
+- [Magnitude]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20
@@ -200,17 +200,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Brawly Tournament
-tags: [in-game, PWT-Brawly Tournament]
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
 item: [Lum Berry]
 ability: [Guts, No Guard]
 moves:
-    - [Close Combat]
-    - [Earthquake]
-    - [Stone Edge]
-    - [Bulk Up]
-gender: [m,f]
+- [Close Combat]
+- [Earthquake]
+- [Stone Edge]
+- [Bulk Up]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20
@@ -220,17 +220,17 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Maylene Tournament
-tags: [in-game, PWT-Maylene Tournament]
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
 item: [Sitrus Berry]
 ability: [Guts, No Guard]
 moves:
-    - [Cross Chop]
-    - [Stone Edge]
-    - [Ice Punch]
-    - [Focus Energy]
-gender: [m,f]
+- [Cross Chop]
+- [Stone Edge]
+- [Ice Punch]
+- [Focus Energy]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20
@@ -240,7 +240,7 @@ rarity: 1.0
 ---
 species: Machamp
 setname: PWT-Hala
-tags: [in-game, PWT-Hala]
+tags: [in-game, PWT-Hala, trainer+hala]
 item: [null]
 ability: [Guts]
 moves:

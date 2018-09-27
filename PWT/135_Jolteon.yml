@@ -1,16 +1,16 @@
 species: Jolteon
 setname: PWT-Volkner
-tags: [in-game, PWT-Volkner]
-item: [Null]
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
 ability: [Volt Absorb]
 moves:
-    - [Charge Beam]
-    - [Thunder Wave]
-    - [Iron Tail]
-    - [Quick Attack]
-gender: [m,f]
+- [Charge Beam]
+- [Thunder Wave]
+- [Iron Tail]
+- [Quick Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Jolteon
 setname: PWT-Volkner Rematch
-tags: [in-game, PWT-Volkner Rematch]
-item: [Null]
+tags: [in-game, PWT-Volkner Rematch, trainer+volkner]
+item: [null]
 ability: [Volt Absorb]
 moves:
-    - [Charge Beam]
-    - [Double Kick]
-    - [Pin Missile]
-    - [Quick Attack]
-gender: [m,f]
+- [Charge Beam]
+- [Double Kick]
+- [Pin Missile]
+- [Quick Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Jolteon
 setname: PWT-Kimono Girls
-tags: [in-game, PWT-Kimono Girls]
-item: [Null]
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
 ability: [Volt Absorb]
 moves:
-    - [Thunderbolt]
-    - [Double Team]
-    - [Thunder Wave]
-    - [Last Resort]
-gender: [m,f]
+- [Thunderbolt]
+- [Double Team]
+- [Thunder Wave]
+- [Last Resort]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Jolteon
 setname: PWT-Lt. Surge Tournament
-tags: [in-game, PWT-Lt. Surge Tournament]
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
 item: [Shuca Berry]
 ability: [Volt Absorb]
 moves:
-    - [Rain Dance]
-    - [Shadow Ball]
-    - [Thunder]
-    - [Signal Beam]
-gender: [m,f]
+- [Rain Dance]
+- [Shadow Ball]
+- [Thunder]
+- [Signal Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Jolteon
 setname: PWT-Volkner Tournament
-tags: [in-game, PWT-Volkner Tournament]
+tags: [in-game, PWT-Volkner Tournament, trainer+volkner]
 item: [Sitrus Berry]
 ability: [Volt Absorb]
 moves:
-    - [Shadow Ball]
-    - [Charm]
-    - [Thunderbolt]
-    - [Wish]
-gender: [m,f]
+- [Shadow Ball]
+- [Charm]
+- [Thunderbolt]
+- [Wish]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20

@@ -1,6 +1,6 @@
 species: Torterra
 setname: PWT-Gardenia Rematch
-tags: [in-game, PWT-Gardenia Rematch]
+tags: [in-game, PWT-Gardenia Rematch, trainer+gardenia]
 item: [null]
 ability: [Overgrow]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Torterra
 setname: PWT-Gardenia Tournament
-tags: [in-game, PWT-Gardenia Tournament]
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
 item: [Yache Berry]
 ability: [Overgrow]
 moves:

@@ -1,6 +1,6 @@
 species: Gallade
 setname: PWT-Lucian
-tags: [in-game, PWT-Lucian]
+tags: [in-game, PWT-Lucian, trainer+lucian]
 item: [null]
 ability: [Steadfast]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Gallade
 setname: PWT-Sabrina2 Rematch
-tags: [in-game, PWT-Sabrina2 Rematch]
+tags: [in-game, PWT-Sabrina2 Rematch, trainer+sabrina]
 item: [null]
 ability: [Steadfast]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Gallade
 setname: PWT-Tate Tournament
-tags: [in-game, PWT-Tate Tournament]
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
 item: [Kasib Berry]
 ability: [Steadfast]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Gallade
 setname: PWT-Maylene Tournament
-tags: [in-game, PWT-Maylene Tournament]
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
 item: [Coba Berry]
 ability: [Steadfast]
 moves:

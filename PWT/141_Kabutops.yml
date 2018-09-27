@@ -1,16 +1,16 @@
 species: Kabutops
 setname: PWT-Brock2
-tags: [in-game, PWT-Brock2]
-item: [Null]
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Endure]
-    - [Giga Drain]
-    - [Aqua Jet]
-    - [Rock Slide]
-gender: [m,f]
+- [Endure]
+- [Giga Drain]
+- [Aqua Jet]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Kabutops
 setname: PWT-Brock2 Rematch
-tags: [in-game, PWT-Brock2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Brock2 Rematch, trainer+brock]
+item: [null]
 ability: [Battle Armor]
 moves:
-    - [Rock Slide]
-    - [Aqua Jet]
-    - [Endure]
-    - [Giga Drain]
-gender: [m,f]
+- [Rock Slide]
+- [Aqua Jet]
+- [Endure]
+- [Giga Drain]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Kabutops
 setname: PWT-Roxanne Rematch
-tags: [in-game, PWT-Roxanne Rematch]
-item: [Null]
+tags: [in-game, PWT-Roxanne Rematch, trainer+roxanne]
+item: [null]
 ability: [Battle Armor]
 moves:
-    - [Swords Dance]
-    - [Ice Beam]
-    - [Surf]
-    - [Rock Slide]
-gender: [m,f]
+- [Swords Dance]
+- [Ice Beam]
+- [Surf]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Kabutops
 setname: PWT-Brock Tournament
-tags: [in-game, PWT-Brock Tournament]
+tags: [in-game, PWT-Brock Tournament, trainer+brock]
 item: [Liechi Berry]
 ability: [Swift Swim, Battle Armor]
 moves:
-    - [Stone Edge]
-    - [Aqua Jet]
-    - [Superpower]
-    - [Swords Dance]
-gender: [m,f]
+- [Stone Edge]
+- [Aqua Jet]
+- [Superpower]
+- [Swords Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: 20

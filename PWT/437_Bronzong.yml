@@ -1,6 +1,6 @@
 species: Bronzong
 setname: PWT-Lucian
-tags: [in-game, PWT-Lucian]
+tags: [in-game, PWT-Lucian, trainer+lucian]
 item: [null]
 ability: [Levitate]
 moves:
@@ -19,7 +19,7 @@ rarity: 1.0
 ---
 species: Bronzong
 setname: PWT-Will Rematch
-tags: [in-game, PWT-Will Rematch]
+tags: [in-game, PWT-Will Rematch, trainer+will]
 item: [null]
 ability: [Heatproof]
 moves:
@@ -38,7 +38,7 @@ rarity: 1.0
 ---
 species: Bronzong
 setname: PWT-Jasmine Rematch
-tags: [in-game, PWT-Jasmine Rematch]
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
 item: [null]
 ability: [Heatproof]
 moves:
@@ -57,7 +57,7 @@ rarity: 1.0
 ---
 species: Bronzong
 setname: PWT-Byron Tournament
-tags: [in-game, PWT-Byron Tournament]
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
 item: [Shuca Berry]
 ability: [Heatproof, Levitate]
 moves:

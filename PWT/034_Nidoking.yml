@@ -1,16 +1,16 @@
 species: Nidoking
 setname: PWT-Giovanni Gym
-tags: [in-game, PWT-Giovanni Gym]
-item: [Null]
+tags: [in-game, PWT-Giovanni Gym, trainer+giovanni]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Double Kick]
-    - [Earthquake]
-    - [Poison Sting]
-    - [Thrash]
+- [Double Kick]
+- [Earthquake]
+- [Poison Sting]
+- [Thrash]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Nidoking
 setname: PWT-Giovanni Tohjo
-tags: [in-game, PWT-Giovanni Tohjo]
-item: [Null]
+tags: [in-game, PWT-Giovanni Tohjo, trainer+giovannitohjo]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Shadow Claw]
-    - [Focus Energy]
-    - [Fury Attack]
-    - [Double Kick]
+- [Shadow Claw]
+- [Focus Energy]
+- [Fury Attack]
+- [Double Kick]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Nidoking
 setname: PWT-Giovanni Tournament
-tags: [in-game, PWT-Giovanni Tournament]
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
 item: [Shuca Berry]
 ability: [Poison Point, Rivalry]
 moves:
-    - [Megahorn]
-    - [Blizzard]
-    - [Earth Power]
-    - [Sludge Bomb]
+- [Megahorn]
+- [Blizzard]
+- [Earth Power]
+- [Sludge Bomb]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Modest
 ivs: 20
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Nidoking
 setname: PWT-Giovanni RR
-tags: [in-game, PWT-Giovanni RR]
-item: [Null]
+tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Earthquake]
-    - [Poison Jab]
-    - [Crunch]
-    - [Aqua Tail]
+- [Earthquake]
+- [Poison Jab]
+- [Crunch]
+- [Aqua Tail]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
