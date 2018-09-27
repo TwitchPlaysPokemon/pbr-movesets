@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Tate and Liza
-tags: [in-game, PWT-Tate and Liza, trainer+tateandliza]
+tags: [in-game, PWT-Tate and Liza, trainer+tate, trainer+liza]
 item: [null]
 ability: [Synchronize]
 moves:
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Xatu
 setname: PWT-Tate and Liza Rematch
-tags: [in-game, PWT-Tate and Liza Rematch, trainer+tateandliza]
+tags: [in-game, PWT-Tate and Liza Rematch, trainer+tate, trainer+liza]
 item: [Chesto Berry]
 ability: [Synchronize]
 moves:

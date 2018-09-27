@@ -1,6 +1,6 @@
 species: Solrock
 setname: PWT-Tate and Liza
-tags: [in-game, PWT-Tate and Liza, trainer+tateandliza]
+tags: [in-game, PWT-Tate and Liza, trainer+tate, trainer+liza]
 item: [null]
 ability: [Levitate]
 moves:
@@ -19,7 +19,7 @@ rarity: 1.0
 ---
 species: Solrock
 setname: PWT-Tate and Liza Rematch
-tags: [in-game, PWT-Tate and Liza Rematch, trainer+tateandliza]
+tags: [in-game, PWT-Tate and Liza Rematch, trainer+tate, trainer+liza]
 item: [null]
 ability: [Levitate]
 moves:
