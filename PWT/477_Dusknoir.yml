@@ -97,3 +97,43 @@ ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Dusknoir
+setname: PWT-Morty Tournament2
+tags: [in-game, PWT-Morty Tournament2, trainer+morty]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+- [Shadow Sneak]
+- [Will-O-Wisp]
+- [Fire Punch]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Dusknoir
+setname: PWT-Fantina Tournament2
+tags: [in-game, PWT-Fantina Tournament2, trainer+fantina]
+item: [Apicot Berry]
+ability: [Pressure]
+moves:
+- [Curse]
+- [Will-O-Wisp]
+- [Pain Split]
+- [Shadow Sneak]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

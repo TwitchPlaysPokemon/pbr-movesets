@@ -277,3 +277,43 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Crobat
+setname: PWT-Janine Tournament2
+tags: [in-game, PWT-Janine Tournament2, trainer+janine]
+item: [Black Sludge]
+ability: [Inner Focus]
+moves:
+- [Toxic]
+- [Brave Bird]
+- [Hypnosis]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Falkner Tournament2
+tags: [in-game, PWT-Falkner Tournament2, trainer+falkner]
+item: [Bright Powder]
+ability: [Inner Focus]
+moves:
+- [Taunt]
+- [Confuse Ray]
+- [Aerial Ace]
+- [Super Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

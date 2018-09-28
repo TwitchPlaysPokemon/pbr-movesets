@@ -157,3 +157,63 @@ ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
 evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Golem
+setname: PWT-Brock Tournament2
+tags: [in-game, PWT-Brock Tournament2, trainer+brock]
+item: [Lum Berry]
+ability: [Rock Head]
+moves:
+- [Stone Edge]
+- [Earthquake]
+- [Rock Polish]
+- [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Roxanne Tournament2
+tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
+item: [Soft Sand]
+ability: [Rock Head]
+moves:
+- [Focus Punch]
+- [Fire Punch]
+- [Earthquake]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Roark Tournament2
+tags: [in-game, PWT-Roark Tournament2, trainer+roark]
+item: [Choice Band]
+ability: [Rock Head]
+moves:
+- [Stone Edge]
+- [Earthquake]
+- [Sucker Punch]
+- [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

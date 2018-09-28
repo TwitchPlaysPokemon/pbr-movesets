@@ -217,3 +217,63 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Raichu
+setname: PWT-Lt. Surge Tournament2
+tags: [in-game, PWT-Lt. Surge Tournament2, trainer+ltsurge]
+item: [Life Orb]
+ability: [Static]
+moves:
+- [Thunder Wave]
+- [Volt Tackle]
+- [Focus Punch]
+- [Fake Out]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Wattson Tournament2
+tags: [in-game, PWT-Wattson Tournament2, trainer+wattson]
+item: [Focus Sash]
+ability: [Static]
+moves:
+- [Swagger]
+- [Thunder]
+- [Grass Knot]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Volkner Tournament2
+tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
+item: [Miracle Seed]
+ability: [Static]
+moves:
+- [Focus Blast]
+- [Grass Knot]
+- [Charge]
+- [Thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

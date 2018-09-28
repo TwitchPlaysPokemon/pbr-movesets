@@ -137,3 +137,23 @@ ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Chuck Tournament2
+tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
+item: [Leftovers]
+ability: [Keen Eye]
+moves:
+- [Double Team]
+- [Ice Punch]
+- [Drain Punch]
+- [Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

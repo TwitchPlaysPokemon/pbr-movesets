@@ -177,3 +177,83 @@ ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Xatu
+setname: PWT-Falkner Tournament2
+tags: [in-game, PWT-Falkner Tournament2, trainer+falkner]
+item: [Leftovers]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Punishment]
+- [Roost]
+- [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Winona Tournament2
+tags: [in-game, PWT-Winona Tournament2, trainer+winona]
+item: [Life Orb]
+ability: [Magic Guard]
+moves:
+- [Thunder Wave]
+- [Psychic]
+- [Air Slash]
+- [Ancient Power]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Tate Tournament2
+tags: [in-game, PWT-Tate Tournament2, trainer+tate]
+item: [Focus Sash]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Light Screen]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Liza Tournament2
+tags: [in-game, PWT-Liza Tournament2, trainer+liza]
+item: [Focus Sash]
+ability: [Synchronize]
+moves:
+- [Zen Headbutt]
+- [U-Turn]
+- [Pain Split]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

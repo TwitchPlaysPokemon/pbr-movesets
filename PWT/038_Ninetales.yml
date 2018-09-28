@@ -37,3 +37,23 @@ ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Blaine Tournament2
+tags: [in-game, PWT-Blaine Tournament2, trainer+blaine]
+item: [Charti Berry]
+ability: [Flash Fire]
+moves:
+- [Fire Blast]
+- [Energy Ball]
+- [Psychic]
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

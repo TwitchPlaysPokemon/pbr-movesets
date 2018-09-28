@@ -73,3 +73,63 @@ ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
 evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Tate Tournament2
+tags: [in-game, PWT-Tate Tournament2, trainer+tate]
+item: [Lum Berry]
+ability: [Levitate]
+moves:
+- [Zen Headbutt]
+- [Gyro Ball]
+- [Earthquake]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Liza Tournament2
+tags: [in-game, PWT-Liza Tournament2, trainer+liza]
+item: [Jaboca Berry]
+ability: [Levitate]
+moves:
+- [Hypnosis]
+- [Iron Head]
+- [Earthquake]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Byron Tournament2
+tags: [in-game, PWT-Byron Tournament2, trainer+byron]
+item: [Iron Ball]
+ability: [Levitate]
+moves:
+- [Gyro Ball]
+- [Zen Headbutt]
+- [Earthquake]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

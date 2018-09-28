@@ -92,3 +92,43 @@ ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Metagross
+setname: PWT-Sabrina Tournament2
+tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
+item: [Expert Belt]
+ability: [Clear Body]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Signal Beam]
+- [Grass Knot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Shuca Berry]
+ability: [Clear Body]
+moves:
+- [Earthquake]
+- [Explosion]
+- [Meteor Mash]
+- [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

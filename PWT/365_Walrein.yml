@@ -97,3 +97,23 @@ ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Walrein
+setname: PWT-Juan Tournament2
+tags: [in-game, PWT-Juan Tournament2, trainer+juan]
+item: [Leftovers]
+ability: [Thick Fat]
+moves:
+- [Toxic]
+- [Sheer Cold]
+- [Super Fang]
+- [Surf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

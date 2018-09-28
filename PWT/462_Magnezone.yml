@@ -149,3 +149,83 @@ ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Lt. Surge Tournament2
+tags: [in-game, PWT-Lt. Surge Tournament2, trainer+ltsurge]
+item: [Shuca Berry]
+ability: [Magnet Pull]
+moves:
+- [Discharge]
+- [Flash Cannon]
+- [Magnet Rise]
+- [Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Quick Claw]
+ability: [Magnet Pull]
+moves:
+- [Thunderbolt]
+- [Flash Cannon]
+- [Mirror Coat]
+- [Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Wattson Tournament2
+tags: [in-game, PWT-Wattson Tournament2, trainer+wattson]
+item: [Leftovers]
+ability: [Magnet Pull]
+moves:
+- [Thunderbolt]
+- [Toxic]
+- [Flash Cannon]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Byron Tournament2
+tags: [in-game, PWT-Byron Tournament2, trainer+byron]
+item: [Shuca Berry]
+ability: [Magnet Pull]
+moves:
+- [Explosion]
+- [Protect]
+- [Reflect]
+- [Mirror Coat]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
