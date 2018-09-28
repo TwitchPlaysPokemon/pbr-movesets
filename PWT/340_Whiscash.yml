@@ -1,6 +1,6 @@
 species: Whiscash
-setname: PWT-Wallace
-tags: [in-game, PWT-Wallace, trainer+wallace]
+setname: PWT-Wallace Champion
+tags: [in-game, PWT-Wallace Champion, trainer+wallace]
 item: [null]
 ability: [Oblivious]
 moves:
@@ -79,8 +79,8 @@ level: 100
 rarity: 1.0
 ---
 species: Whiscash
-setname: "PWT-Pok\xC3\xA9topia Master"
-tags: [in-game, "PWT-Pok\xC3\xA9topia Master", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Rindo Berry]
 ability: [Oblivious]
 moves:
@@ -115,5 +115,25 @@ ball: [Poke]
 nature: Adamant
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Wallace Gym
+tags: [in-game, PWT-Wallace Gym, trainer+wallace]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Amnesia]
+- [Rain Dance]
+- [Earthquake]
+- [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

@@ -1,6 +1,6 @@
 species: Milotic
-setname: PWT-Wallace
-tags: [in-game, PWT-Wallace, trainer+wallace]
+setname: PWT-Wallace Champion
+tags: [in-game, PWT-Wallace Champion, trainer+wallace]
 item: [null]
 ability: [Marvel Scale]
 moves:
@@ -108,6 +108,26 @@ moves:
 - [Icy Wind]
 - [Flail]
 - [Dragon Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Wallace Gym
+tags: [in-game, PWT-Wallace Gym, trainer+wallace]
+item: [null]
+ability: [Marvel Scale]
+moves:
+- [Recover]
+- [Twister]
+- [Ice Beam]
+- [Water Pulse]
 gender: [m, f]
 happiness: 255
 biddable: false

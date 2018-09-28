@@ -99,8 +99,8 @@ level: 100
 rarity: 1.0
 ---
 species: Dragonair
-setname: "PWT-Pok\xC3\xA9topia Master"
-tags: [in-game, "PWT-Pok\xC3\xA9topia Master", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Lum Berry]
 ability: [Shed Skin]
 moves:
