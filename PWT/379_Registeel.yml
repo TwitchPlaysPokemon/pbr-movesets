@@ -1,15 +1,15 @@
 species: Registeel
 setname: PWT-Brandon
-tags: [in-game, PWT-Brandon]
+tags: [in-game, PWT-Brandon, trainer+brandon]
 item: [Leftovers]
 ability: [Pressure]
 moves:
-    - [Metal Claw]
-    - [Iron Defense]
-    - [Earthquake]
-    - [Toxic]
+- [Metal Claw]
+- [Iron Defense]
+- [Earthquake]
+- [Toxic]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

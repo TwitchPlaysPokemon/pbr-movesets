@@ -1,6 +1,6 @@
 species: Gastrodon
 setname: PWT-Crasher Wake Tournament
-tags: [in-game, PWT-Crasher Wake Tournament]
+tags: [in-game, PWT-Crasher Wake Tournament, trainer+crasherwake]
 item: [Apicot Berry]
 ability: [Sticky Hold, Storm Drain]
 moves:
@@ -12,7 +12,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Gastrodon
 setname: PWT-Hapu
-tags: [in-game, PWT-Hapu]
-item: [Null]
+tags: [in-game, PWT-Hapu, trainer+hapu]
+item: [null]
 ability: [Sticky Hold]
 moves:
-    - [Muddy Water]
-    - [Mud Bomb]
-    - [Sludge Bomb]
-    - [Ice Beam]
-gender: [m,f]
+- [Muddy Water]
+- [Mud Bomb]
+- [Sludge Bomb]
+- [Ice Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,16 +1,16 @@
 species: Raichu
 setname: PWT-Lt. Surge
-tags: [in-game, PWT-Lt. Surge]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge, trainer+ltsurge]
+item: [null]
 ability: [Static]
 moves:
-    - [Shock Wave]
-    - [Thunder Wave]
-    - [Quick Attack]
-    - [Double Team]
-gender: [m,f]
+- [Shock Wave]
+- [Thunder Wave]
+- [Quick Attack]
+- [Double Team]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Raichu
 setname: PWT-Lt. Surge2
-tags: [in-game, PWT-Lt. Surge2]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge2, trainer+ltsurge]
+item: [null]
 ability: [Static]
 moves:
-    - [Thunder Wave]
-    - [Shock Wave]
-    - [Quick Attack]
-    - [Double Team]
-gender: [m,f]
+- [Thunder Wave]
+- [Shock Wave]
+- [Quick Attack]
+- [Double Team]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Raichu
 setname: PWT-Lt. Surge2 Rematch
-tags: [in-game, PWT-Lt. Surge2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [null]
 ability: [Static]
 moves:
-    - [Thunderbolt]
-    - [Grass Knot]
-    - [Quick Attack]
-    - [Thunder Wave]
-gender: [m,f]
+- [Thunderbolt]
+- [Grass Knot]
+- [Quick Attack]
+- [Thunder Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Raichu
 setname: PWT-Volkner
-tags: [in-game, PWT-Volkner]
-item: [Null]
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
 ability: [Static]
 moves:
-    - [Charge Beam]
-    - [Signal Beam]
-    - [Focus Blast]
-    - [Quick Attack]
-gender: [m,f]
+- [Charge Beam]
+- [Signal Beam]
+- [Focus Blast]
+- [Quick Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Raichu
 setname: PWT-Volkner Rematch
-tags: [in-game, PWT-Volkner Rematch]
-item: [Null]
+tags: [in-game, PWT-Volkner Rematch, trainer+volkner]
+item: [null]
 ability: [Static]
 moves:
-    - [Charge Beam]
-    - [Brick Break]
-    - [Light Screen]
-    - [Thunder Wave]
-gender: [m,f]
+- [Charge Beam]
+- [Brick Break]
+- [Light Screen]
+- [Thunder Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Raichu
 setname: PWT-Wattson Rematch
-tags: [in-game, PWT-Wattson Rematch]
-item: [Null]
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
 ability: [Static]
 moves:
-    - [Thunder]
-    - [Slam]
-    - [Rain Dance]
-    - [Protect]
-gender: [m,f]
+- [Thunder]
+- [Slam]
+- [Rain Dance]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,19 +120,19 @@ rarity: 1.0
 ---
 species: Raichu
 setname: PWT-Lt. Surge Tournament
-tags: [in-game, PWT-Lt. Surge Tournament]
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
 item: [Magnet]
 ability: [Static]
 moves:
-    - [Thunder Wave]
-    - [Thunderbolt]
-    - [Focus Blast]
-    - [Signal Beam]
-gender: [m,f]
+- [Thunder Wave]
+- [Thunderbolt]
+- [Focus Blast]
+- [Signal Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -140,19 +140,19 @@ rarity: 1.0
 ---
 species: Raichu
 setname: PWT-Wattson Tournament
-tags: [in-game, PWT-Wattson Tournament]
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
 item: [Liechi Berry]
 ability: [Static]
 moves:
-    - [Return]
-    - [Volt Tackle]
-    - [Knock Off]
-    - [Brick Break]
-gender: [m,f]
+- [Return]
+- [Volt Tackle]
+- [Knock Off]
+- [Brick Break]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -160,20 +160,60 @@ rarity: 1.0
 ---
 species: Raichu
 setname: PWT-Volkner Tournament
-tags: [in-game, PWT-Volkner Tournament]
+tags: [in-game, PWT-Volkner Tournament, trainer+volkner]
 item: [Miracle Seed]
 ability: [Static]
 moves:
-    - [Focus Blast]
-    - [Grass Knot]
-    - [Charge]
-    - [Charge Beam]
-gender: [m,f]
+- [Focus Blast]
+- [Grass Knot]
+- [Charge]
+- [Charge Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-May2
+tags: [in-game, PWT-May2, trainer+may]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder Wave]
+- [Thunderbolt]
+- [Quick Attack]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Brendan2
+tags: [in-game, PWT-Brendan2, trainer+brendan]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder Wave]
+- [Thunderbolt]
+- [Quick Attack]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

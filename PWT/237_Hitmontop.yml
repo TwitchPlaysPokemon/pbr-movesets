@@ -1,16 +1,16 @@
 species: Hitmontop
 setname: PWT-Bruno2
-tags: [in-game, PWT-Bruno2]
-item: [Null]
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
 ability: [Technician]
 moves:
-    - [Dig]
-    - [Counter]
-    - [Triple Kick]
-    - [Quick Attack]
-gender: [m,f]
+- [Dig]
+- [Counter]
+- [Triple Kick]
+- [Quick Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Hitmontop
 setname: PWT-Bruno2 Rematch
-tags: [in-game, PWT-Bruno2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
 ability: [Technician]
 moves:
-    - [Close Combat]
-    - [Earthquake]
-    - [Counter]
-    - [Quick Attack]
-gender: [m,f]
+- [Close Combat]
+- [Earthquake]
+- [Counter]
+- [Quick Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Hitmontop
 setname: PWT-Maylene Rematch
-tags: [in-game, PWT-Maylene Rematch]
-item: [Null]
+tags: [in-game, PWT-Maylene Rematch, trainer+maylene]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Fake Out]
-    - [Triple Kick]
-    - [Aerial Ace]
-    - [Quick Attack]
-gender: [m,f]
+- [Fake Out]
+- [Triple Kick]
+- [Aerial Ace]
+- [Quick Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Hitmontop
 setname: PWT-Brawly Rematch
-tags: [in-game, PWT-Brawly Rematch]
-item: [Null]
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Pursuit]
-    - [Counter]
-    - [Protect]
-    - [Triple Kick]
-gender: [m,f]
+- [Pursuit]
+- [Counter]
+- [Protect]
+- [Triple Kick]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,19 +80,19 @@ rarity: 1.0
 ---
 species: Hitmontop
 setname: PWT-Chuck Tournament
-tags: [in-game, PWT-Chuck Tournament]
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
 item: [Soft Sand]
 ability: [Intimidate, Technician]
 moves:
-    - [Bulk Up]
-    - [Earthquake]
-    - [Close Combat]
-    - [Bullet Punch]
-gender: [m,f]
+- [Bulk Up]
+- [Earthquake]
+- [Close Combat]
+- [Bullet Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -100,19 +100,19 @@ rarity: 1.0
 ---
 species: Hitmontop
 setname: PWT-Brawly Tournament
-tags: [in-game, PWT-Brawly Tournament]
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
 item: [Liechi Berry]
 ability: [Intimidate, Technician]
 moves:
-    - [Triple Kick]
-    - [Earthquake]
-    - [Rock Slide]
-    - [Agility]
-gender: [m,f]
+- [Triple Kick]
+- [Earthquake]
+- [Rock Slide]
+- [Agility]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

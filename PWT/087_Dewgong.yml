@@ -1,16 +1,16 @@
 species: Dewgong
 setname: PWT-Lorelei
-tags: [in-game, PWT-Lorelei]
-item: [Null]
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Surf]
-    - [Ice Beam]
-    - [Hail]
-    - [Safeguard]
-gender: [m,f]
+- [Surf]
+- [Ice Beam]
+- [Hail]
+- [Safeguard]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Dewgong
 setname: PWT-Lorelei Rematch
-tags: [in-game, PWT-Lorelei Rematch]
-item: [Null]
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Surf]
-    - [Ice Beam]
-    - [Signal Beam]
-    - [Double Team]
-gender: [m,f]
+- [Surf]
+- [Ice Beam]
+- [Signal Beam]
+- [Double Team]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Dewgong
 setname: PWT-Pryce
-tags: [in-game, PWT-Pryce]
-item: [Null]
+tags: [in-game, PWT-Pryce, trainer+pryce]
+item: [null]
 ability: [Thick Fat]
 moves:
-    - [Aurora Beam]
-    - [Rest]
-    - [Sleep Talk]
-    - [Ice Shard]
-gender: [m,f]
+- [Aurora Beam]
+- [Rest]
+- [Sleep Talk]
+- [Ice Shard]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Dewgong
 setname: PWT-Pryce Rematch
-tags: [in-game, PWT-Pryce Rematch]
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
 item: [Lum Berry]
 ability: [Thick Fat]
 moves:
-    - [Dive]
-    - [Rest]
-    - [Sleep Talk]
-    - [Sheer Cold]
-gender: [m,f]
+- [Dive]
+- [Rest]
+- [Sleep Talk]
+- [Sheer Cold]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,19 +80,19 @@ rarity: 1.0
 ---
 species: Dewgong
 setname: PWT-Pryce Tournament
-tags: [in-game, PWT-Pryce Tournament]
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
 item: [Sitrus Berry]
 ability: [Thick Fat, Ice Body]
 moves:
-    - [Hail]
-    - [Blizzard]
-    - [Perish Song]
-    - [Brine]
-gender: [m,f]
+- [Hail]
+- [Blizzard]
+- [Perish Song]
+- [Brine]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

@@ -1,16 +1,16 @@
 species: Victreebel
 setname: PWT-Erika
-tags: [in-game, PWT-Erika]
-item: [Null]
+tags: [in-game, PWT-Erika, trainer+erika]
+item: [null]
 ability: [Chlorophyll]
 moves:
-    - [Stun Spore]
-    - [Acid]
-    - [Poison Powder]
-    - [Giga Drain]
-gender: [m,f]
+- [Stun Spore]
+- [Acid]
+- [Poison Powder]
+- [Giga Drain]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Victreebel
 setname: PWT-Erika2
-tags: [in-game, PWT-Erika2]
-item: [Null]
+tags: [in-game, PWT-Erika2, trainer+erika]
+item: [null]
 ability: [Chlorophyll]
 moves:
-    - [Sunny Day]
-    - [Grass Knot]
-    - [Leaf Storm]
-    - [Razor Leaf]
-gender: [m,f]
+- [Sunny Day]
+- [Grass Knot]
+- [Leaf Storm]
+- [Razor Leaf]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Victreebel
 setname: PWT-Erika2 Rematch
-tags: [in-game, PWT-Erika2 Rematch]
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
 item: [Kelpsy Berry]
 ability: [Chlorophyll]
 moves:
-    - [Natural Gift]
-    - [Sludge Bomb]
-    - [Leaf Storm]
-    - [Leaf Blade]
-gender: [m,f]
+- [Natural Gift]
+- [Sludge Bomb]
+- [Leaf Storm]
+- [Leaf Blade]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,19 +60,19 @@ rarity: 1.0
 ---
 species: Victreebel
 setname: PWT-Erika Tournament
-tags: [in-game, PWT-Erika Tournament]
+tags: [in-game, PWT-Erika Tournament, trainer+erika]
 item: [Salac Berry]
 ability: [Chlorophyll]
 moves:
-    - [Sucker Punch]
-    - [Leaf Blade]
-    - [Swords Dance]
-    - [Reflect]
-gender: [m,f]
+- [Sucker Punch]
+- [Leaf Blade]
+- [Swords Dance]
+- [Reflect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

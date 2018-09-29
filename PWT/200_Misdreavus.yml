@@ -1,16 +1,16 @@
 species: Misdreavus
 setname: PWT-Agatha Rematch
-tags: [in-game, PWT-Agatha Rematch]
-item: [Null]
+tags: [in-game, PWT-Agatha Rematch, trainer+agatha]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Shadow Ball]
-    - [Thunderbolt]
-    - [Psychic]
-    - [Attract]
-gender: [m,f]
+- [Shadow Ball]
+- [Thunderbolt]
+- [Psychic]
+- [Attract]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

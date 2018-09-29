@@ -1,14 +1,14 @@
 species: Pidgey
 setname: PWT-Falkner
-tags: [in-game, PWT-Falkner]
-item: [Null]
+tags: [in-game, PWT-Falkner, trainer+falkner]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Tackle]
-    - [Sand Attack]
-gender: [m,f]
+- [Tackle]
+- [Sand Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

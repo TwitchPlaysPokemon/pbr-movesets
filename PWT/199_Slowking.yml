@@ -1,16 +1,16 @@
 species: Slowking
 setname: PWT-Tate and Liza Rematch
-tags: [in-game, PWT-Tate and Liza Rematch]
-item: [Null]
+tags: [in-game, PWT-Tate and Liza Rematch, trainer+tate, trainer+liza]
+item: [null]
 ability: [Own Tempo]
 moves:
-    - [Yawn]
-    - [Psychic]
-    - [Calm Mind]
-    - [Protect]
-gender: [m,f]
+- [Yawn]
+- [Psychic]
+- [Calm Mind]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,19 +20,19 @@ rarity: 1.0
 ---
 species: Slowking
 setname: PWT-Sabrina Tournament
-tags: [in-game, PWT-Sabrina Tournament]
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
 item: [Ganlon Berry]
 ability: [Oblivious, Own Tempo]
 moves:
-    - [Psychic]
-    - [Ice Beam]
-    - [Calm Mind]
-    - [Slack Off]
-gender: [m,f]
+- [Psychic]
+- [Ice Beam]
+- [Calm Mind]
+- [Slack Off]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
 level: 100

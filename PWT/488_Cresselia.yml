@@ -1,16 +1,16 @@
 species: Cresselia
 setname: PWT-Palmer2
-tags: [in-game, PWT-Palmer2]
+tags: [in-game, PWT-Palmer2, trainer+palmer]
 item: [Leftovers]
 ability: [Levitate]
 moves:
-    - [Psychic]
-    - [Signal Beam]
-    - [Ice Beam]
-    - [Moonlight]
+- [Psychic]
+- [Signal Beam]
+- [Ice Beam]
+- [Moonlight]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,18 +19,18 @@ level: 100
 rarity: 1.0
 ---
 species: Cresselia
-setname: PWT-Pokétopia Master2
-tags: [in-game, PWT-Pokétopia Master2]
+setname: "PWT-Pokétopia Master2"
+tags: [in-game, "PWT-Pokétopia Master2", trainer+poketopiamaster]
 item: [Chesto Berry]
 ability: [Levitate]
 moves:
-    - [Psychic]
-    - [Ice Beam]
-    - [Rest]
-    - [Calm Mind]
+- [Psychic]
+- [Ice Beam]
+- [Rest]
+- [Calm Mind]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

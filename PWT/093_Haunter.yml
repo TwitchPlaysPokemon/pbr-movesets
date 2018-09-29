@@ -1,16 +1,16 @@
 species: Haunter
 setname: PWT-Agatha
-tags: [in-game, PWT-Agatha]
-item: [Null]
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Mean Look]
-    - [Curse]
-    - [Hypnosis]
-    - [Dream Eater]
-gender: [m,f]
+- [Mean Look]
+- [Curse]
+- [Hypnosis]
+- [Dream Eater]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Haunter
 setname: PWT-Morty
-tags: [in-game, PWT-Morty]
-item: [Null]
+tags: [in-game, PWT-Morty, trainer+morty]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Hypnosis]
-    - [Dream Eater]
-    - [Curse]
-    - [Nightmare]
-gender: [m,f]
+- [Hypnosis]
+- [Dream Eater]
+- [Curse]
+- [Nightmare]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Haunter
 setname: PWT-Morty-2
-tags: [in-game, PWT-Morty]
-item: [Null]
+tags: [in-game, PWT-Morty, trainer+morty]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Curse]
-    - [Mean Look]
-    - [Sucker Punch]
-    - [Night Shade]
-gender: [m,f]
+- [Curse]
+- [Mean Look]
+- [Sucker Punch]
+- [Night Shade]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Haunter
 setname: PWT-Fantina
-tags: [in-game, PWT-Fantina]
-item: [Null]
+tags: [in-game, PWT-Fantina, trainer+fantina]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Shadow Claw]
-    - [Sucker Punch]
-    - [Confuse Ray]
-    - [Hypnosis]
-gender: [m,f]
+- [Shadow Claw]
+- [Sucker Punch]
+- [Confuse Ray]
+- [Hypnosis]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Haunter
 setname: PWT-Eusine
-tags: [in-game, PWT-Eusine]
-item: [Null]
+tags: [in-game, PWT-Eusine, trainer+eusine]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Hypnosis]
-    - [Lick]
-    - [Mean Look]
-    - [Curse]
-gender: [m,f]
+- [Hypnosis]
+- [Lick]
+- [Mean Look]
+- [Curse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -99,18 +99,18 @@ level: 100
 rarity: 1.0
 ---
 species: Haunter
-setname: PWT-Pokétopia Master
-tags: [in-game, PWT-Pokétopia Master]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Wise Glasses]
 ability: [Levitate]
 moves:
-    - [Sludge Bomb]
-    - [Shadow Ball]
-    - [Psychic]
-    - [Dark Pulse]
-gender: [m,f]
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Psychic]
+- [Dark Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

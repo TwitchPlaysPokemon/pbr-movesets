@@ -1,6 +1,6 @@
 species: Tangrowth
 setname: PWT-Erika2 Rematch
-tags: [in-game, PWT-Erika2 Rematch]
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
 item: [null]
 ability: [Chlorophyll]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Tangrowth
 setname: PWT-Erika Tournament
-tags: [in-game, PWT-Erika Tournament]
+tags: [in-game, PWT-Erika Tournament, trainer+erika]
 item: [Liechi Berry]
 ability: [Chlorophyll, Leaf Guard]
 moves:
@@ -32,7 +32,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Tangrowth
 setname: PWT-Gardenia Tournament
-tags: [in-game, PWT-Gardenia Tournament]
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
 item: [Salac Berry]
 ability: [Chlorophyll, Leaf Guard]
 moves:
@@ -52,7 +52,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

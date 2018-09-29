@@ -1,16 +1,16 @@
 species: Arbok
 setname: PWT-Agatha
-tags: [in-game, PWT-Agatha]
-item: [Null]
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Bite]
-    - [Sludge Bomb]
-    - [Screech]
-    - [Iron Tail]
-gender: [m,f]
+- [Bite]
+- [Sludge Bomb]
+- [Screech]
+- [Iron Tail]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Arbok
 setname: PWT-Agatha Rematch
-tags: [in-game, PWT-Agatha Rematch]
-item: [Null]
+tags: [in-game, PWT-Agatha Rematch, trainer+agatha]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Double Team]
-    - [Sludge Bomb]
-    - [Earthquake]
-    - [Giga Drain]
-gender: [m,f]
+- [Double Team]
+- [Sludge Bomb]
+- [Earthquake]
+- [Giga Drain]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Arbok
 setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Jessie & James, trainer+jessiejames]
+item: [null]
+ability: [null]
 moves:
-    - [Bite]
-    - [Leer]
-    - [Poison Sting]
-    - [Glare]
-gender: [m,f]
+- [Bite]
+- [Leer]
+- [Poison Sting]
+- [Glare]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Arbok
 setname: PWT-Team AWD
-tags: [in-game, PWT-Team AWD]
-item: [Null]
+tags: [in-game, PWT-Team AWD, trainer+teamawd]
+item: [null]
 ability: [Shed Skin]
 moves:
-    - [Crunch]
-    - [Acid]
-    - [Poison Sting]
-    - [Bite]
-gender: [m,f]
+- [Crunch]
+- [Acid]
+- [Poison Sting]
+- [Bite]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Arbok
 setname: PWT-Ariana
-tags: [in-game, PWT-Ariana]
-item: [Null]
+tags: [in-game, PWT-Ariana, trainer+ariana]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Glare]
-    - [Crunch]
-    - [Wrap]
-    - [Poison Sting]
-gender: [m,f]
+- [Glare]
+- [Crunch]
+- [Wrap]
+- [Poison Sting]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,19 +100,19 @@ rarity: 1.0
 ---
 species: Arbok
 setname: PWT-Janine Tournament
-tags: [in-game, PWT-Janine Tournament]
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
 item: [Shuca Berry]
 ability: [Intimidate, Shed Skin]
 moves:
-    - [Gunk Shot]
-    - [Sucker Punch]
-    - [Bulk Up]
-    - [Dragon Rush]
-gender: [m,f]
+- [Gunk Shot]
+- [Sucker Punch]
+- [Bulk Up]
+- [Dragon Rush]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

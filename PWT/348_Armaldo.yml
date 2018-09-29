@@ -1,6 +1,6 @@
 species: Armaldo
 setname: PWT-Steven
-tags: [in-game, PWT-Steven]
+tags: [in-game, PWT-Steven, trainer+steven]
 item: [null]
 ability: [Battle Armor]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Armaldo
 setname: PWT-Miror B Cipher
-tags: [in-game, PWT-Miror B Cipher]
+tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
 item: [null]
 ability: [Battle Armor]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Armaldo
 setname: PWT-Steven Tournament
-tags: [in-game, PWT-Steven Tournament]
+tags: [in-game, PWT-Steven Tournament, trainer+steven]
 item: [White Herb]
 ability: [Battle Armor]
 moves:
@@ -52,7 +52,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 25
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Armaldo
 setname: PWT-Roxanne Tournament
-tags: [in-game, PWT-Roxanne Tournament]
+tags: [in-game, PWT-Roxanne Tournament, trainer+roxanne]
 item: [Liechi Berry]
 ability: [Battle Armor]
 moves:
@@ -71,7 +71,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -80,7 +80,7 @@ gender: [m, f]
 ---
 species: Armaldo
 setname: PWT-Olivia
-tags: [in-game, PWT-Olivia]
+tags: [in-game, PWT-Olivia, trainer+olivia]
 item: [null]
 ability: [Battle Armor]
 moves:

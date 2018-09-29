@@ -1,16 +1,16 @@
 species: Espeon
 setname: PWT-Lucian
-tags: [in-game, PWT-Lucian]
-item: [Null]
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Shadow Ball]
-    - [Quick Attack]
-    - [Signal Beam]
-gender: [m,f]
+- [Psychic]
+- [Shadow Ball]
+- [Quick Attack]
+- [Signal Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Espeon
 setname: PWT-Sabrina2
-tags: [in-game, PWT-Sabrina2]
-item: [Null]
+tags: [in-game, PWT-Sabrina2, trainer+sabrina]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Calm Mind]
-    - [Shadow Ball]
-    - [Psychic]
-    - [Skill Swap]
-gender: [m,f]
+- [Calm Mind]
+- [Shadow Ball]
+- [Psychic]
+- [Skill Swap]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Espeon
 setname: PWT-Sabrina2 Rematch
-tags: [in-game, PWT-Sabrina2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Sabrina2 Rematch, trainer+sabrina]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Calm Mind]
-    - [Psychic]
-    - [Shadow Ball]
-    - [Baton Pass]
-gender: [m,f]
+- [Calm Mind]
+- [Psychic]
+- [Shadow Ball]
+- [Baton Pass]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Espeon
 setname: PWT-Kimono Girls
-tags: [in-game, PWT-Kimono Girls]
-item: [Null]
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Swift]
-    - [Psych Up]
-    - [Last Resort]
-gender: [m,f]
+- [Psychic]
+- [Swift]
+- [Psych Up]
+- [Last Resort]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,19 +80,19 @@ rarity: 1.0
 ---
 species: Espeon
 setname: PWT-Sabrina Tournament
-tags: [in-game, PWT-Sabrina Tournament]
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
 item: [Petaya Berry]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Shadow Ball]
-    - [Reflect]
-    - [Yawn]
-gender: [m,f]
+- [Psychic]
+- [Shadow Ball]
+- [Reflect]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 0
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

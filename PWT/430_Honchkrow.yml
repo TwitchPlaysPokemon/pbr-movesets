@@ -1,6 +1,6 @@
 species: Honchkrow
 setname: PWT-Giovanni Tohjo
-tags: [in-game, PWT-Giovanni Tohjo]
+tags: [in-game, PWT-Giovanni Tohjo, trainer+giovannitohjo]
 item: [null]
 ability: [Super Luck]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Honchkrow
 setname: PWT-Cyrus
-tags: [in-game, PWT-Cyrus]
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
 item: [null]
 ability: [Insomnia]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Honchkrow
 setname: PWT-Karen Rematch
-tags: [in-game, PWT-Karen Rematch]
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
 item: [null]
 ability: [Super Luck]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Honchkrow
 setname: PWT-Falkner Rematch
-tags: [in-game, PWT-Falkner Rematch]
+tags: [in-game, PWT-Falkner Rematch, trainer+falkner]
 item: [null]
 ability: [Insomnia]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Honchkrow
 setname: PWT-Falkner Tournament
-tags: [in-game, PWT-Falkner Tournament]
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
 item: [Salac Berry]
 ability: [Insomnia, Super Luck]
 moves:
@@ -92,7 +92,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Honchkrow
 setname: PWT-Winona Tournament
-tags: [in-game, PWT-Winona Tournament]
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
 item: [Charti Berry]
 ability: [Insomnia, Super Luck]
 moves:
@@ -112,7 +112,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Honchkrow
 setname: PWT-Cyrus RR
-tags: [in-game, PWT-Cyrus RR]
-item: [Null]
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Night Slash]
-    - [Sky Attack]
-    - [Heat Wave]
-    - [Icy Wind]
-gender: [m,f]
+- [Night Slash]
+- [Sky Attack]
+- [Heat Wave]
+- [Icy Wind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,6 +1,6 @@
 species: Roserade
 setname: PWT-Wally
-tags: [in-game, PWT-Wally]
+tags: [in-game, PWT-Wally, trainer+wally]
 item: [null]
 ability: [Poison Point]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Roserade
 setname: PWT-Barry
-tags: [in-game, PWT-Barry]
+tags: [in-game, PWT-Barry, trainer+barry]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Roserade
 setname: PWT-Cynthia
-tags: [in-game, PWT-Cynthia]
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Roserade
 setname: PWT-Erika2 Rematch
-tags: [in-game, PWT-Erika2 Rematch]
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Roserade
 setname: PWT-Gardenia
-tags: [in-game, PWT-Gardenia]
+tags: [in-game, PWT-Gardenia, trainer+gardenia]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Roserade
 setname: PWT-Gardenia Rematch
-tags: [in-game, PWT-Gardenia Rematch]
+tags: [in-game, PWT-Gardenia Rematch, trainer+gardenia]
 item: [null]
 ability: [Natural Cure]
 moves:
@@ -120,7 +120,7 @@ rarity: 1.0
 ---
 species: Roserade
 setname: PWT-Cynthia Tournament
-tags: [in-game, PWT-Cynthia Tournament]
+tags: [in-game, PWT-Cynthia Tournament, trainer+cynthia]
 item: [White Herb]
 ability: [Natural Cure, Poison Point]
 moves:
@@ -132,7 +132,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 25
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -140,7 +140,7 @@ rarity: 1.0
 ---
 species: Roserade
 setname: PWT-Gardenia Tournament
-tags: [in-game, PWT-Gardenia Tournament]
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
 item: [Lum Berry]
 ability: [Natural Cure, Poison Point]
 moves:
@@ -152,7 +152,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

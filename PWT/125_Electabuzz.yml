@@ -1,16 +1,16 @@
 species: Electabuzz
 setname: PWT-Lt. Surge2
-tags: [in-game, PWT-Lt. Surge2]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge2, trainer+ltsurge]
+item: [null]
 ability: [Static]
 moves:
-    - [Quick Attack]
-    - [Shock Wave]
-    - [Light Screen]
-    - [Low Kick]
-gender: [m,f]
+- [Quick Attack]
+- [Shock Wave]
+- [Light Screen]
+- [Low Kick]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Electabuzz
 setname: PWT-Wattson Rematch
-tags: [in-game, PWT-Wattson Rematch]
-item: [Null]
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
 ability: [Static]
 moves:
-    - [Swift]
-    - [Focus Punch]
-    - [Thunder Punch]
-    - [Light Screen]
-gender: [m,f]
+- [Swift]
+- [Focus Punch]
+- [Thunder Punch]
+- [Light Screen]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

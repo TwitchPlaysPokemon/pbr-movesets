@@ -1,6 +1,6 @@
 species: Empoleon
 setname: PWT-Barry
-tags: [in-game, PWT-Barry]
+tags: [in-game, PWT-Barry, trainer+barry]
 item: [null]
 ability: [Torrent]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Empoleon
 setname: PWT-Jasmine Rematch
-tags: [in-game, PWT-Jasmine Rematch]
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
 item: [null]
 ability: [Torrent]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Empoleon
 setname: PWT-Crasher Wake Tournament
-tags: [in-game, PWT-Crasher Wake Tournament]
+tags: [in-game, PWT-Crasher Wake Tournament, trainer+crasherwake]
 item: [Petaya Berry]
 ability: [Torrent]
 moves:
@@ -52,7 +52,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

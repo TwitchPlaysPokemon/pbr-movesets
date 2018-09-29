@@ -1,16 +1,16 @@
 species: Shuckle
 setname: PWT-Buck
-tags: [in-game, PWT-Buck]
-item: [Null]
+tags: [in-game, PWT-Buck, trainer+buck]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Toxic]
-    - [Protect]
-    - [Sandstorm]
-    - [Rest]
-gender: [m,f]
+- [Toxic]
+- [Protect]
+- [Sandstorm]
+- [Rest]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Shuckle
 setname: PWT-Bugsy Tournament
-tags: [in-game, PWT-Bugsy Tournament]
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Sitrus Berry]
 ability: [Sturdy, Gluttony]
 moves:
-    - [Bug Bite]
-    - [Shadow Ball]
-    - [Power Trick]
-    - [Substitute]
-gender: [m,f]
+- [Bug Bite]
+- [Shadow Ball]
+- [Power Trick]
+- [Substitute]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Bold
 ivs: {hp: 20, atk: 0, def: 20, spA: 20, spD: 20, spe: 20}

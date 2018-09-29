@@ -1,16 +1,16 @@
 species: Sneasel
 setname: PWT-Silver
-tags: [in-game, PWT-Silver]
-item: [Null]
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Faint Attack]
-    - [Shadow Claw]
-    - [Metal Claw]
-    - [Icy Wind]
-gender: [m,f]
+- [Faint Attack]
+- [Shadow Claw]
+- [Metal Claw]
+- [Icy Wind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Sneasel
 setname: PWT-Candice
-tags: [in-game, PWT-Candice]
-item: [Null]
+tags: [in-game, PWT-Candice, trainer+candice]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Faint Attack]
-    - [Ice Shard]
-    - [Slash]
-    - [Aerial Ace]
-gender: [m,f]
+- [Faint Attack]
+- [Ice Shard]
+- [Slash]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

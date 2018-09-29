@@ -1,16 +1,16 @@
 species: Raticate
 setname: PWT-Petrel
-tags: [in-game, PWT-Petrel]
-item: [Null]
+tags: [in-game, PWT-Petrel, trainer+petrel]
+item: [null]
 ability: [Guts]
 moves:
-    - [Hyper Fang]
-    - [Sucker Punch]
-    - [Scary Face]
-    - [Crunch]
-gender: [m,f]
+- [Hyper Fang]
+- [Sucker Punch]
+- [Scary Face]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

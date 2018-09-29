@@ -1,6 +1,6 @@
 species: Infernape
 setname: PWT-Flint
-tags: [in-game, PWT-Flint]
+tags: [in-game, PWT-Flint, trainer+flint]
 item: [null]
 ability: [Blaze]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Infernape
 setname: PWT-Maylene Tournament
-tags: [in-game, PWT-Maylene Tournament]
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
 item: [Liechi Berry]
 ability: [Blaze]
 moves:
@@ -32,7 +32,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

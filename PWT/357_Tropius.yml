@@ -1,6 +1,6 @@
 species: Tropius
 setname: PWT-May
-tags: [in-game, PWT-May]
+tags: [in-game, PWT-May, trainer+may]
 item: [null]
 ability: [Chlorophyll]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Tropius
 setname: PWT-Brendan
-tags: [in-game, PWT-Brendan]
+tags: [in-game, PWT-Brendan, trainer+brendan]
 item: [null]
 ability: [Chlorophyll]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Tropius
 setname: PWT-Winona
-tags: [in-game, PWT-Winona]
+tags: [in-game, PWT-Winona, trainer+winona]
 item: [null]
 ability: [Chlorophyll]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Tropius
 setname: PWT-Winona Rematch
-tags: [in-game, PWT-Winona Rematch]
+tags: [in-game, PWT-Winona Rematch, trainer+winona]
 item: [null]
 ability: [Chlorophyll]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Tropius
 setname: PWT-Winona Tournament
-tags: [in-game, PWT-Winona Tournament]
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
 item: [Yache Berry]
 ability: [Chlorophyll, Solar Power]
 moves:
@@ -92,7 +92,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

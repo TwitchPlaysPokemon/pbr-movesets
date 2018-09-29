@@ -1,16 +1,16 @@
 species: Clefairy
 setname: PWT-Whitney
-tags: [in-game, PWT-Whitney]
-item: [Null]
+tags: [in-game, PWT-Whitney, trainer+whitney]
+item: [null]
 ability: [Cute Charm]
 moves:
-    - [Mimic]
-    - [Encore]
-    - [Double Slap]
-    - [Metronome]
+- [Mimic]
+- [Encore]
+- [Double Slap]
+- [Metronome]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

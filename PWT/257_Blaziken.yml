@@ -1,6 +1,6 @@
 species: Blaziken
 setname: PWT-Flannery Tournament
-tags: [in-game, PWT-Flannery Tournament]
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
 item: [Salac Berry]
 ability: [Blaze]
 moves:
@@ -12,8 +12,28 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Blaziken
+setname: PWT-May2
+tags: [in-game, PWT-May2, trainer+may]
+item: [Everstone]
+ability: [Blaze]
+moves:
+- [Blaze Kick]
+- [Brick Break]
+- [Quick Attack]
+- [Shadow Claw]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

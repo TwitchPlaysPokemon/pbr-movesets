@@ -1,16 +1,16 @@
 species: Drapion
 setname: PWT-Aaron
-tags: [in-game, PWT-Aaron]
-item: [Null]
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
 ability: [Battle Armor]
 moves:
-    - [X-Scissor]
-    - [Cross Poison]
-    - [Ice Fang]
-    - [Aerial Ace]
-gender: [m,f]
+- [X-Scissor]
+- [Cross Poison]
+- [Ice Fang]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Drapion
 setname: PWT-Janine Rematch
-tags: [in-game, PWT-Janine Rematch]
-item: [Null]
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
 ability: [Sniper]
 moves:
-    - [Confuse Ray]
-    - [Swords Dance]
-    - [Cross Poison]
-    - [Crunch]
+- [Confuse Ray]
+- [Swords Dance]
+- [Cross Poison]
+- [Crunch]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Drapion
 setname: PWT-Team AWD
-tags: [in-game, PWT-Team AWD]
-item: [Null]
+tags: [in-game, PWT-Team AWD, trainer+teamawd]
+item: [null]
 ability: [Battle Armor]
 moves:
-    - [Ice Fang]
-    - [Knock Off]
-    - [Scary Face]
-    - [Bite]
-gender: [m,f]
+- [Ice Fang]
+- [Knock Off]
+- [Scary Face]
+- [Bite]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,6 +1,6 @@
 species: Hariyama
 setname: PWT-Bruno2 Rematch
-tags: [in-game, PWT-Bruno2 Rematch]
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
 item: [null]
 ability: [Guts]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Hariyama
 setname: PWT-Brawly Rematch
-tags: [in-game, PWT-Brawly Rematch]
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
 item: [null]
 ability: [Guts]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Hariyama
 setname: PWT-Cheryl
-tags: [in-game, PWT-Cheryl]
+tags: [in-game, PWT-Cheryl, trainer+cheryl]
 item: [null]
 ability: [Thick Fat]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Hariyama
 setname: PWT-Brawly Tournament
-tags: [in-game, PWT-Brawly Tournament]
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
 item: [Sitrus Berry]
 ability: [Thick Fat, Guts]
 moves:
@@ -72,7 +72,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Hariyama
 setname: PWT-Hala
-tags: [in-game, PWT-Hala]
+tags: [in-game, PWT-Hala, trainer+hala]
 item: [null]
 ability: [Thick Fat]
 moves:

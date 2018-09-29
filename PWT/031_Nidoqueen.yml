@@ -1,16 +1,16 @@
 species: Nidoqueen
 setname: PWT-Giovanni Rocket
-tags: [in-game, PWT-Giovanni Rocket]
-item: [Null]
+tags: [in-game, PWT-Giovanni Rocket, trainer+giovannirocket]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Double Kick]
-    - [Tail Whip]
-    - [Poison Sting]
-    - [Body Slam]
+- [Double Kick]
+- [Tail Whip]
+- [Poison Sting]
+- [Body Slam]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Nidoqueen
 setname: PWT-Giovanni Gym
-tags: [in-game, PWT-Giovanni Gym]
-item: [Null]
+tags: [in-game, PWT-Giovanni Gym, trainer+giovanni]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Double Kick]
-    - [Earthquake]
-    - [Poison Sting]
-    - [Body Slam]
+- [Double Kick]
+- [Earthquake]
+- [Poison Sting]
+- [Body Slam]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Nidoqueen
 setname: PWT-Giovanni Tohjo
-tags: [in-game, PWT-Giovanni Tohjo]
-item: [Null]
+tags: [in-game, PWT-Giovanni Tohjo, trainer+giovannitohjo]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Crunch]
-    - [Roar]
-    - [Earth Power]
-    - [Superpower]
+- [Crunch]
+- [Roar]
+- [Earth Power]
+- [Superpower]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,19 +60,19 @@ rarity: 1.0
 ---
 species: Nidoqueen
 setname: PWT-Giovanni Tournament
-tags: [in-game, PWT-Giovanni Tournament]
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
 item: [Passho Berry]
 ability: [Poison Point, Rivalry]
 moves:
-    - [Superpower]
-    - [Poison Jab]
-    - [Earth Power]
-    - [Thunder]
+- [Superpower]
+- [Poison Jab]
+- [Earth Power]
+- [Thunder]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Nidoqueen
 setname: PWT-Giovanni RR
-tags: [in-game, PWT-Giovanni RR]
-item: [Null]
+tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Surf]
-    - [Sludge Bomb]
-    - [Earth Power]
-    - [Flamethrower]
+- [Surf]
+- [Sludge Bomb]
+- [Earth Power]
+- [Flamethrower]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

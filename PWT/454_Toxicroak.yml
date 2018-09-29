@@ -1,6 +1,6 @@
 species: Toxicroak
 setname: PWT-Koga E4 Rematch
-tags: [in-game, PWT-Koga E4 Rematch]
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
 item: [null]
 ability: [Dry Skin]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Toxicroak
 setname: PWT-Janine Rematch
-tags: [in-game, PWT-Janine Rematch]
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
 item: [null]
 ability: [Dry Skin]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Toxicroak
 setname: PWT-Maylene Tournament
-tags: [in-game, PWT-Maylene Tournament]
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
 item: [Payapa Berry]
 ability: [Anticipation, Dry Skin]
 moves:
@@ -52,7 +52,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

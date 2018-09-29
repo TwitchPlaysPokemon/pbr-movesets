@@ -1,16 +1,16 @@
 species: Aerodactyl
 setname: PWT-Lance E4
-tags: [in-game, PWT-Lance E4]
-item: [Null]
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Wing Attack]
-    - [Ancient Power]
-    - [Scary Face]
-    - [Hyper Beam]
-gender: [m,f]
+- [Wing Attack]
+- [Ancient Power]
+- [Scary Face]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Aerodactyl
 setname: PWT-Lance E4 Rematch
-tags: [in-game, PWT-Lance E4 Rematch]
-item: [Null]
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Hyper Beam]
-    - [Ancient Power]
-    - [Aerial Ace]
-    - [Earthquake]
-gender: [m,f]
+- [Hyper Beam]
+- [Ancient Power]
+- [Aerial Ace]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Aerodactyl
 setname: PWT-Lance Champion
-tags: [in-game, PWT-Lance Champion]
-item: [Null]
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Rock Slide]
-    - [Aerial Ace]
-    - [Crunch]
-    - [Thunder Fang]
-gender: [m,f]
+- [Rock Slide]
+- [Aerial Ace]
+- [Crunch]
+- [Thunder Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Aerodactyl
 setname: PWT-Clair Rematch
-tags: [in-game, PWT-Clair Rematch]
-item: [Null]
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Rock Slide]
-    - [Thunder Fang]
-    - [Earthquake]
-    - [Roar]
-gender: [m,f]
+- [Rock Slide]
+- [Thunder Fang]
+- [Earthquake]
+- [Roar]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Aerodactyl
 setname: PWT-Roark Rematch
-tags: [in-game, PWT-Roark Rematch]
-item: [Null]
+tags: [in-game, PWT-Roark Rematch, trainer+roark]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Stone Edge]
-    - [Earthquake]
-    - [Dragon Claw]
-    - [Aerial Ace]
-gender: [m,f]
+- [Stone Edge]
+- [Earthquake]
+- [Dragon Claw]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Aerodactyl
 setname: PWT-Roxanne Rematch
-tags: [in-game, PWT-Roxanne Rematch]
-item: [Null]
+tags: [in-game, PWT-Roxanne Rematch, trainer+roxanne]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Rock Slide]
-    - [Hyper Beam]
-    - [Supersonic]
-    - [Protect]
-gender: [m,f]
+- [Rock Slide]
+- [Hyper Beam]
+- [Supersonic]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,19 +120,19 @@ rarity: 1.0
 ---
 species: Aerodactyl
 setname: PWT-Brock Tournament
-tags: [in-game, PWT-Brock Tournament]
+tags: [in-game, PWT-Brock Tournament, trainer+brock]
 item: [Charti Berry]
 ability: [Rock Head, Pressure]
 moves:
-    - [Rock Slide]
-    - [Earthquake]
-    - [Thunder Fang]
-    - [Tail Wind]
-gender: [m,f]
+- [Rock Slide]
+- [Earthquake]
+- [Thunder Fang]
+- [Tail Wind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -140,19 +140,19 @@ rarity: 1.0
 ---
 species: Aerodactyl
 setname: PWT-Blue Tournament
-tags: [in-game, PWT-Blue Tournament]
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
 item: [Choice Band]
 ability: [Rock Head, Pressure]
 moves:
-    - [Stone Edge]
-    - [Earthquake]
-    - [Ice Fang]
-    - [Fire Blast]
-gender: [m,f]
+- [Stone Edge]
+- [Earthquake]
+- [Ice Fang]
+- [Fire Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 25
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

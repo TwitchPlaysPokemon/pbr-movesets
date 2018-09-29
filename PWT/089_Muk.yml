@@ -1,16 +1,16 @@
 species: Muk
 setname: PWT-Koga Gym
-tags: [in-game, PWT-Koga Gym]
-item: [Null]
+tags: [in-game, PWT-Koga Gym, trainer+koga]
+item: [null]
 ability: [Sticky Hold]
 moves:
-    - [Minimize]
-    - [Sludge]
-    - [Acid Armor]
-    - [Toxic]
-gender: [m,f]
+- [Minimize]
+- [Sludge]
+- [Acid Armor]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Muk
 setname: PWT-Koga E4
-tags: [in-game, PWT-Koga E4]
-item: [Null]
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
 ability: [Sticky Hold]
 moves:
-    - [Gunk Shot]
-    - [Minimize]
-    - [Screech]
-    - [Toxic]
-gender: [m,f]
+- [Gunk Shot]
+- [Minimize]
+- [Screech]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Muk
 setname: PWT-Koga E4 Rematch
-tags: [in-game, PWT-Koga E4 Rematch]
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
 item: [Black Sludge]
 ability: [Sticky Hold]
 moves:
-    - [Minimize]
-    - [Screech]
-    - [Swagger]
-    - [Toxic]
-gender: [m,f]
+- [Minimize]
+- [Screech]
+- [Swagger]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Muk
 setname: PWT-Burglar Simon
-tags: [in-game, PWT-Burglar Simon]
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
 item: [Charcoal]
-ability: [Null]
+ability: [null]
 moves:
-    - [Rest]
-    - [Sleep Talk]
-    - [Gunk Shot]
-    - [Fire Punch]
-gender: [m,f]
+- [Rest]
+- [Sleep Talk]
+- [Gunk Shot]
+- [Fire Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Muk
 setname: PWT-Archie RR
-tags: [in-game, PWT-Archie RR]
-item: [Null]
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
 ability: [Poison Point]
 moves:
-    - [Gunk Shot]
-    - [Fire Punch]
-    - [Thunder Punch]
-    - [Ice Punch]
-gender: [m,f]
+- [Gunk Shot]
+- [Fire Punch]
+- [Thunder Punch]
+- [Ice Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

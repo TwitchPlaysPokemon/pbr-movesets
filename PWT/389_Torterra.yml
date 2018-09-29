@@ -1,6 +1,6 @@
 species: Torterra
 setname: PWT-Gardenia Rematch
-tags: [in-game, PWT-Gardenia Rematch]
+tags: [in-game, PWT-Gardenia Rematch, trainer+gardenia]
 item: [null]
 ability: [Overgrow]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Torterra
 setname: PWT-Gardenia Tournament
-tags: [in-game, PWT-Gardenia Tournament]
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
 item: [Yache Berry]
 ability: [Overgrow]
 moves:
@@ -32,7 +32,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

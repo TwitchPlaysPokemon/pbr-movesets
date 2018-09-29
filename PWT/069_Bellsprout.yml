@@ -1,14 +1,14 @@
 species: Bellsprout
 setname: PWT-Sage Li
-tags: [in-game, PWT-Sage Li]
-item: [Null]
+tags: [in-game, PWT-Sage Li, trainer+sageli]
+item: [null]
 ability: [Chlorophyll]
 moves:
-    - [Vine Whip]
-    - [Growth]
-gender: [m,f]
+- [Vine Whip]
+- [Growth]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -18,15 +18,15 @@ rarity: 1.0
 ---
 species: Bellsprout
 setname: PWT-Sage Li-2
-tags: [in-game, PWT-Sage Li]
-item: [Null]
+tags: [in-game, PWT-Sage Li, trainer+sageli]
+item: [null]
 ability: [Chlorophyll]
 moves:
-    - [Vine Whip]
-    - [Growth]
-gender: [m,f]
+- [Vine Whip]
+- [Growth]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

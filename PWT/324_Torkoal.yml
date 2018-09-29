@@ -1,6 +1,6 @@
 species: Torkoal
 setname: PWT-Blaine2 Rematch
-tags: [in-game, PWT-Blaine2 Rematch]
+tags: [in-game, PWT-Blaine2 Rematch, trainer+blaine]
 item: [null]
 ability: [White Smoke]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Torkoal
 setname: PWT-Flannery
-tags: [in-game, PWT-Flannery]
+tags: [in-game, PWT-Flannery, trainer+flannery]
 item: [White Herb]
 ability: [White Smoke]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Torkoal
 setname: PWT-Flannery Rematch
-tags: [in-game, PWT-Flannery Rematch]
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
 item: [White Herb]
 ability: [White Smoke]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Torkoal
 setname: PWT-Buck
-tags: [in-game, PWT-Buck]
+tags: [in-game, PWT-Buck, trainer+buck]
 item: [null]
 ability: [White Smoke]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Torkoal
 setname: PWT-Flannery Tournament
-tags: [in-game, PWT-Flannery Tournament]
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
 item: [Charcoal]
 ability: [White Smoke]
 moves:

@@ -1,15 +1,15 @@
 species: Magneton
 setname: PWT-Silver
-tags: [in-game, PWT-Silver]
-item: [Null]
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Discharge]
-    - [Mirror Shot]
-    - [Magnet Bomb]
-    - [Thunder Wave]
+- [Discharge]
+- [Mirror Shot]
+- [Magnet Bomb]
+- [Thunder Wave]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,16 +19,16 @@ rarity: 1.0
 ---
 species: Magneton
 setname: PWT-Wally
-tags: [in-game, PWT-Wally]
-item: [Null]
+tags: [in-game, PWT-Wally, trainer+wally]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Supersonic]
-    - [Thunderbolt]
-    - [Tri Attack]
-    - [Screech]
+- [Supersonic]
+- [Thunderbolt]
+- [Tri Attack]
+- [Screech]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -38,16 +38,16 @@ rarity: 1.0
 ---
 species: Magneton
 setname: PWT-Lt. Surge2
-tags: [in-game, PWT-Lt. Surge2]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge2, trainer+ltsurge]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Supersonic]
-    - [Double Team]
-    - [Shock Wave]
-    - [Mirror Shot]
+- [Supersonic]
+- [Double Team]
+- [Shock Wave]
+- [Mirror Shot]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -57,16 +57,16 @@ rarity: 1.0
 ---
 species: Magneton
 setname: PWT-Wattson
-tags: [in-game, PWT-Wattson]
-item: [Null]
+tags: [in-game, PWT-Wattson, trainer+wattson]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Supersonic]
-    - [Shock Wave]
-    - [Thunder Wave]
-    - [Sonic Boom]
+- [Supersonic]
+- [Shock Wave]
+- [Thunder Wave]
+- [Sonic Boom]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -76,16 +76,16 @@ rarity: 1.0
 ---
 species: Magneton
 setname: PWT-Byron
-tags: [in-game, PWT-Byron]
-item: [Null]
+tags: [in-game, PWT-Byron, trainer+byron]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Flash Cannon]
-    - [Thunderbolt]
-    - [Tri Attack]
-    - [Metal Sound]
+- [Flash Cannon]
+- [Thunderbolt]
+- [Tri Attack]
+- [Metal Sound]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -95,16 +95,16 @@ rarity: 1.0
 ---
 species: Magneton
 setname: PWT-Wattson Rematch
-tags: [in-game, PWT-Wattson Rematch]
-item: [Null]
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
 ability: [Magnet Pull]
 moves:
-    - [Supersonic]
-    - [Protect]
-    - [Thunder]
-    - [Rain Dance]
+- [Supersonic]
+- [Protect]
+- [Thunder]
+- [Rain Dance]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

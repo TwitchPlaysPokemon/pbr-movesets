@@ -1,6 +1,6 @@
 species: Gardevoir
 setname: PWT-Wally
-tags: [in-game, PWT-Wally]
+tags: [in-game, PWT-Wally, trainer+wally]
 item: [null]
 ability: [Synchronize]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Gardevoir
 setname: PWT-Will Rematch
-tags: [in-game, PWT-Will Rematch]
+tags: [in-game, PWT-Will Rematch, trainer+will]
 item: [null]
 ability: [Trace]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Gardevoir
 setname: PWT-Team Charm
-tags: [in-game, PWT-Team Charm]
+tags: [in-game, PWT-Team Charm, trainer+teamcharm]
 item: [null]
 ability: [Trace]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Gardevoir
 setname: PWT-Liza Tournament
-tags: [in-game, PWT-Liza Tournament]
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
 item: [Spell Tag]
 ability: [Trace, Synchronize]
 moves:
@@ -72,7 +72,7 @@ gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

@@ -1,16 +1,16 @@
 species: Hippowdon
 setname: PWT-Bertha
-tags: [in-game, PWT-Bertha]
-item: [Null]
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
 ability: [Sand Stream]
 moves:
-    - [Earthquake]
-    - [Stone Edge]
-    - [Crunch]
-    - [Yawn]
-gender: [m,f]
+- [Earthquake]
+- [Stone Edge]
+- [Crunch]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

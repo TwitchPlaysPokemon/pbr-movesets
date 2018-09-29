@@ -1,16 +1,16 @@
 species: Wobbuffet
 setname: PWT-Sabrina2 Rematch
-tags: [in-game, PWT-Sabrina2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Sabrina2 Rematch, trainer+sabrina]
+item: [null]
 ability: [Shadow Tag]
 moves:
-    - [Counter]
-    - [Mirror Coat]
-    - [Destiny Bond]
-    - [Encore]
-gender: [m,f]
+- [Counter]
+- [Mirror Coat]
+- [Destiny Bond]
+- [Encore]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Wobbuffet
 setname: PWT-Cheryl
-tags: [in-game, PWT-Cheryl]
-item: [Null]
+tags: [in-game, PWT-Cheryl, trainer+cheryl]
+item: [null]
 ability: [Shadow Tag]
 moves:
-    - [Counter]
-    - [Mirror Coat]
-    - [Safeguard]
-    - [Encore]
-gender: [m,f]
+- [Counter]
+- [Mirror Coat]
+- [Safeguard]
+- [Encore]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,16 +1,16 @@
 species: Arcanine
 setname: PWT-Blue Champion
-tags: [in-game, PWT-Blue Champion]
-item: [Null]
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Extreme Speed]
-    - [Flamethrower]
-    - [Roar]
-    - [Bite]
-gender: [m,f]
+- [Extreme Speed]
+- [Flamethrower]
+- [Roar]
+- [Bite]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Blue Champion Rematch
-tags: [in-game, PWT-Blue Champion Rematch]
-item: [Null]
+tags: [in-game, PWT-Blue Champion Rematch, trainer+blue]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Extreme Speed]
-    - [Overheat]
-    - [Aerial Ace]
-    - [Iron Tail]
-gender: [m,f]
+- [Extreme Speed]
+- [Overheat]
+- [Aerial Ace]
+- [Iron Tail]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Blue Gym
-tags: [in-game, PWT-Blue Gym]
-item: [Null]
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Roar]
-    - [Dragon Pulse]
-    - [Flare Blitz]
-    - [Extreme Speed]
-gender: [m,f]
+- [Roar]
+- [Dragon Pulse]
+- [Flare Blitz]
+- [Extreme Speed]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Blue Gym Rematch
-tags: [in-game, PWT-Blue Gym Rematch]
-item: [Null]
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Flare Blitz]
-    - [Extreme Speed]
-    - [Thunder Fang]
-    - [Crunch]
-gender: [m,f]
+- [Flare Blitz]
+- [Extreme Speed]
+- [Thunder Fang]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Professor Oak
-tags: [in-game, PWT-Professor Oak]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
 moves:
-    - [Take Down]
-    - [Ember]
-    - [Roar]
-    - [Leer]
-gender: [m,f]
+- [Take Down]
+- [Ember]
+- [Roar]
+- [Leer]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Blaine
-tags: [in-game, PWT-Blaine]
-item: [Null]
+tags: [in-game, PWT-Blaine, trainer+blaine]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Bite]
-    - [Roar]
-    - [Take Down]
-    - [Fire Blast]
-gender: [m,f]
+- [Bite]
+- [Roar]
+- [Take Down]
+- [Fire Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Burglar Simon
-tags: [in-game, PWT-Burglar Simon]
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
 item: [Persim Berry]
-ability: [Null]
+ability: [null]
 moves:
-    - [Roar]
-    - [Sunny Day]
-    - [Flamethrower]
-    - [Outrage]
-gender: [m,f]
+- [Roar]
+- [Sunny Day]
+- [Flamethrower]
+- [Outrage]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Flannery Rematch
-tags: [in-game, PWT-Flannery Rematch]
-item: [Null]
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Helping Hand]
-    - [Flamethrower]
-    - [Sunny Day]
-    - [Roar]
-gender: [m,f]
+- [Helping Hand]
+- [Flamethrower]
+- [Sunny Day]
+- [Roar]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Marley
-tags: [in-game, PWT-Marley]
-item: [Null]
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Flare Blitz]
-    - [Extreme Speed]
-    - [Thunder Fang]
-    - [Crunch]
-gender: [m,f]
+- [Flare Blitz]
+- [Extreme Speed]
+- [Thunder Fang]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -180,19 +180,19 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Blaine Tournament
-tags: [in-game, PWT-Blaine Tournament]
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
 item: [Liechi Berry]
 ability: [Intimidate, Flash Fire]
 moves:
-    - [Flare Blitz]
-    - [Volt Tackle]
-    - [Close Combat]
-    - [Extreme Speed]
-gender: [m,f]
+- [Flare Blitz]
+- [Volt Tackle]
+- [Close Combat]
+- [Extreme Speed]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -200,19 +200,19 @@ rarity: 1.0
 ---
 species: Arcanine
 setname: PWT-Blue Tournament
-tags: [in-game, PWT-Blue Tournament]
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
 item: [Expert Belt]
 ability: [Intimidate, Flash Fire]
 moves:
-    - [Flare Blitz]
-    - [Close Combat]
-    - [Volt Tackle]
-    - [Extreme Speed]
-gender: [m,f]
+- [Flare Blitz]
+- [Close Combat]
+- [Volt Tackle]
+- [Extreme Speed]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 25
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

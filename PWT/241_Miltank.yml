@@ -1,16 +1,16 @@
 species: Miltank
 setname: PWT-Whitney
-tags: [in-game, PWT-Whitney]
+tags: [in-game, PWT-Whitney, trainer+whitney]
 item: [Lum Berry]
 ability: [Scrappy]
 moves:
-    - [Stomp]
-    - [Rollout]
-    - [Attract]
-    - [Milk Drink]
+- [Stomp]
+- [Rollout]
+- [Attract]
+- [Milk Drink]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Miltank
 setname: PWT-Whitney Rematch
-tags: [in-game, PWT-Whitney Rematch]
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
 item: [Lum Berry]
 ability: [Scrappy]
 moves:
-    - [Body Slam]
-    - [Attract]
-    - [Rest]
-    - [Sleep Talk]
+- [Body Slam]
+- [Attract]
+- [Rest]
+- [Sleep Talk]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,19 +40,19 @@ rarity: 1.0
 ---
 species: Miltank
 setname: PWT-Whitney Tournament
-tags: [in-game, PWT-Whitney Tournament]
+tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
 item: [Liechi Berry]
 ability: [Thick Fat, Scrappy]
 moves:
-    - [Hammer Arm]
-    - [Zen Headbutt]
-    - [Body Slam]
-    - [Milk Drink]
+- [Hammer Arm]
+- [Zen Headbutt]
+- [Body Slam]
+- [Milk Drink]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

@@ -1,16 +1,16 @@
 species: Crobat
 setname: PWT-Silver
-tags: [in-game, PWT-Silver]
-item: [Null]
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Air Cutter]
-    - [Bite]
-    - [Toxic]
-    - [Confuse Ray]
-gender: [m,f]
+- [Air Cutter]
+- [Bite]
+- [Toxic]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Archie
-tags: [in-game, PWT-Archie]
-item: [Null]
+tags: [in-game, PWT-Archie, trainer+archie]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Bite]
-    - [Wing Attack]
-    - [Confuse Ray]
-    - [Air Cutter]
-gender: [m,f]
+- [Bite]
+- [Wing Attack]
+- [Confuse Ray]
+- [Air Cutter]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Maxie
-tags: [in-game, PWT-Maxie]
-item: [Null]
+tags: [in-game, PWT-Maxie, trainer+maxie]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Wing Attack]
-    - [Confuse Ray]
-    - [Air Cutter]
-    - [Mean Look]
-gender: [m,f]
+- [Wing Attack]
+- [Confuse Ray]
+- [Air Cutter]
+- [Mean Look]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Cyrus
-tags: [in-game, PWT-Cyrus]
-item: [Null]
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Cross Poison]
-    - [Air Slash]
-    - [Toxic]
-    - [Confuse Ray]
-gender: [m,f]
+- [Cross Poison]
+- [Air Slash]
+- [Toxic]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Agatha Rematch
-tags: [in-game, PWT-Agatha Rematch]
-item: [Null]
+tags: [in-game, PWT-Agatha Rematch, trainer+agatha]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Confuse Ray]
-    - [Shadow Ball]
-    - [Air Cutter]
-    - [Sludge Bomb]
-gender: [m,f]
+- [Confuse Ray]
+- [Shadow Ball]
+- [Air Cutter]
+- [Sludge Bomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Koga E4
-tags: [in-game, PWT-Koga E4]
-item: [Null]
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Quick Attack]
-    - [Wing Attack]
-    - [Double Team]
-    - [Poison Fang]
-gender: [m,f]
+- [Quick Attack]
+- [Wing Attack]
+- [Double Team]
+- [Poison Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Koga E4 Rematch
-tags: [in-game, PWT-Koga E4 Rematch]
-item: [Null]
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Fly]
-    - [Cross Poison]
-    - [Mean Look]
-    - [Toxic]
-gender: [m,f]
+- [Fly]
+- [Cross Poison]
+- [Mean Look]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Janine
-tags: [in-game, PWT-Janine]
-item: [Null]
+tags: [in-game, PWT-Janine, trainer+janine]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Confuse Ray]
-    - [Screech]
-    - [Wing Attack]
-    - [Supersonic]
+- [Confuse Ray]
+- [Screech]
+- [Wing Attack]
+- [Supersonic]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Janine Rematch
-tags: [in-game, PWT-Janine Rematch]
-item: [Null]
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Heat Wave]
-    - [Cross Poison]
-    - [Confuse Ray]
-    - [U-Turn]
+- [Heat Wave]
+- [Cross Poison]
+- [Confuse Ray]
+- [U-Turn]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -180,17 +180,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Marley
-tags: [in-game, PWT-Marley]
-item: [Null]
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Double Team]
-    - [Confuse Ray]
-    - [Air Slash]
-    - [Poison Fang]
-gender: [m,f]
+- [Double Team]
+- [Confuse Ray]
+- [Air Slash]
+- [Poison Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -200,19 +200,19 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Janine Tournament
-tags: [in-game, PWT-Janine Tournament]
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
 item: [Sitrus Berry]
 ability: [Inner Focus]
 moves:
-    - [Toxic]
-    - [Super Fang]
-    - [Heat Wave]
-    - [Tail Wind]
-gender: [m,f]
+- [Toxic]
+- [Super Fang]
+- [Heat Wave]
+- [Tail Wind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -220,17 +220,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Archie RR
-tags: [in-game, PWT-Archie RR]
-item: [Null]
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Air Slash]
-    - [Toxic]
-    - [Dark Pulse]
-    - [Sludge Bomb]
-gender: [m,f]
+- [Air Slash]
+- [Toxic]
+- [Dark Pulse]
+- [Sludge Bomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -240,17 +240,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Maxie RR
-tags: [in-game, PWT-Maxie RR]
-item: [Null]
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Air Slash]
-    - [Toxic]
-    - [Dark Pulse]
-    - [Sludge Bomb]
-gender: [m,f]
+- [Air Slash]
+- [Toxic]
+- [Dark Pulse]
+- [Sludge Bomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -260,17 +260,17 @@ rarity: 1.0
 ---
 species: Crobat
 setname: PWT-Cyrus RR
-tags: [in-game, PWT-Cyrus RR]
-item: [Null]
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Cross Poison]
-    - [Zen Headbutt]
-    - [X-Scissor]
-    - [Super Fang]
-gender: [m,f]
+- [Cross Poison]
+- [Zen Headbutt]
+- [X-Scissor]
+- [Super Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

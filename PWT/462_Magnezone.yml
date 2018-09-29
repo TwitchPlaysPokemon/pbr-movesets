@@ -1,6 +1,6 @@
 species: Magnezone
 setname: PWT-Lt. Surge2 Rematch
-tags: [in-game, PWT-Lt. Surge2 Rematch]
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
 item: [null]
 ability: [Magnet Pull]
 moves:
@@ -19,7 +19,7 @@ rarity: 1.0
 ---
 species: Magnezone
 setname: PWT-Jasmine Rematch
-tags: [in-game, PWT-Jasmine Rematch]
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
 item: [null]
 ability: [Sturdy]
 moves:
@@ -38,7 +38,7 @@ rarity: 1.0
 ---
 species: Magnezone
 setname: PWT-Byron Rematch
-tags: [in-game, PWT-Byron Rematch]
+tags: [in-game, PWT-Byron Rematch, trainer+byron]
 item: [null]
 ability: [Magnet Pull]
 moves:
@@ -57,7 +57,7 @@ rarity: 1.0
 ---
 species: Magnezone
 setname: PWT-Mira
-tags: [in-game, PWT-Mira]
+tags: [in-game, PWT-Mira, trainer+mira]
 item: [null]
 ability: [Magnet Pull]
 moves:
@@ -76,7 +76,7 @@ rarity: 1.0
 ---
 species: Magnezone
 setname: PWT-Lt. Surge Tournament
-tags: [in-game, PWT-Lt. Surge Tournament]
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
 item: [Shuca Berry]
 ability: [Magnet Pull, Sturdy]
 moves:
@@ -87,7 +87,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -95,7 +95,7 @@ rarity: 1.0
 ---
 species: Magnezone
 setname: PWT-Jasmine Tournament
-tags: [in-game, PWT-Jasmine Tournament]
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
 item: [Shuca Berry]
 ability: [Magnet Pull, Sturdy]
 moves:
@@ -106,7 +106,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -114,7 +114,7 @@ rarity: 1.0
 ---
 species: Magnezone
 setname: PWT-Wattson Tournament
-tags: [in-game, PWT-Wattson Tournament]
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
 item: [Shuca Berry]
 ability: [Sturdy, Magnet Pull]
 moves:
@@ -125,7 +125,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -133,7 +133,7 @@ rarity: 1.0
 ---
 species: Magnezone
 setname: PWT-Byron Tournament
-tags: [in-game, PWT-Byron Tournament]
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
 item: [Shuca Berry]
 ability: [Magnet Pull, Sturdy]
 moves:
@@ -144,7 +144,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

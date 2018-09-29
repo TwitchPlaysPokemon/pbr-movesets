@@ -1,16 +1,16 @@
 species: Lapras
 setname: PWT-Red
-tags: [in-game, PWT-Red]
-item: [Null]
+tags: [in-game, PWT-Red, trainer+red]
+item: [null]
 ability: [Shell Armor]
 moves:
-    - [Body Slam]
-    - [Brine]
-    - [Blizzard]
-    - [Psychic]
+- [Body Slam]
+- [Brine]
+- [Blizzard]
+- [Psychic]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Lapras
 setname: PWT-Lorelei
-tags: [in-game, PWT-Lorelei]
-item: [Null]
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
 ability: [Water Absorb]
 moves:
-    - [Body Slam]
-    - [Confuse Ray]
-    - [Surf]
-    - [Ice Beam]
-gender: [m,f]
+- [Body Slam]
+- [Confuse Ray]
+- [Surf]
+- [Ice Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Lapras
 setname: PWT-Lorelei Rematch
-tags: [in-game, PWT-Lorelei Rematch]
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
 item: [Cheri Berry]
 ability: [Water Absorb]
 moves:
-    - [Psychic]
-    - [Thunder]
-    - [Surf]
-    - [Ice Beam]
-gender: [m,f]
+- [Psychic]
+- [Thunder]
+- [Surf]
+- [Ice Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Lapras
 setname: PWT-Misty2
-tags: [in-game, PWT-Misty2]
-item: [Null]
+tags: [in-game, PWT-Misty2, trainer+misty]
+item: [null]
 ability: [Shell Armor]
 moves:
-    - [Ice Beam]
-    - [Sing]
-    - [Water Pulse]
-    - [Body Slam]
-gender: [m,f]
+- [Ice Beam]
+- [Sing]
+- [Water Pulse]
+- [Body Slam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Lapras
 setname: PWT-Misty2 Rematch
-tags: [in-game, PWT-Misty2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [null]
 ability: [Shell Armor]
 moves:
-    - [Rain Dance]
-    - [Perish Song]
-    - [Blizzard]
-    - [Surf]
-gender: [m,f]
+- [Rain Dance]
+- [Perish Song]
+- [Blizzard]
+- [Surf]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Lapras
 setname: PWT-Juan Rematch
-tags: [in-game, PWT-Juan Rematch]
-item: [Null]
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
+item: [null]
 ability: [Water Absorb]
 moves:
-    - [Hydro Pump]
-    - [Perish Song]
-    - [Ice Beam]
-    - [Confuse Ray]
-gender: [m,f]
+- [Hydro Pump]
+- [Perish Song]
+- [Ice Beam]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,19 +120,19 @@ rarity: 1.0
 ---
 species: Lapras
 setname: PWT-Misty Tournament
-tags: [in-game, PWT-Misty Tournament]
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
 item: [Ganlon Berry]
 ability: [Water Absorb, Shell Armor]
 moves:
-    - [Hydro Pump]
-    - [Ice Beam]
-    - [Thunderbolt]
-    - [Confuse Ray]
-gender: [m,f]
+- [Hydro Pump]
+- [Ice Beam]
+- [Thunderbolt]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -140,19 +140,19 @@ rarity: 1.0
 ---
 species: Lapras
 setname: PWT-Red Tournament
-tags: [in-game, PWT-Red Tournament]
+tags: [in-game, PWT-Red Tournament, trainer+red]
 item: [Sitrus Berry]
 ability: [Water Absorb, Shell Armor]
 moves:
-    - [Ice Beam]
-    - [Hydro Pump]
-    - [Ice Shard]
-    - [Thunderbolt]
-gender: [m,f]
+- [Ice Beam]
+- [Hydro Pump]
+- [Ice Shard]
+- [Thunderbolt]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 25
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -160,19 +160,19 @@ rarity: 1.0
 ---
 species: Lapras
 setname: PWT-Pryce Tournament
-tags: [in-game, PWT-Pryce Tournament]
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
 item: [Petaya Berry]
 ability: [Water Absorb, Shell Armor]
 moves:
-    - [Psychic]
-    - [Hydro Pump]
-    - [Blizzard]
-    - [Hail]
-gender: [m,f]
+- [Psychic]
+- [Hydro Pump]
+- [Blizzard]
+- [Hail]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

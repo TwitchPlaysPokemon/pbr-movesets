@@ -1,16 +1,16 @@
 species: Alakazam
 setname: PWT-Blue Champion
-tags: [in-game, PWT-Blue Champion]
-item: [Null]
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Future Sight]
-    - [Recover]
-    - [Reflect]
-gender: [m,f]
+- [Psychic]
+- [Future Sight]
+- [Recover]
+- [Reflect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Blue Champion Rematch
-tags: [in-game, PWT-Blue Champion Rematch]
-item: [Null]
+tags: [in-game, PWT-Blue Champion Rematch, trainer+blue]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Shadow Ball]
-    - [Calm Mind]
-    - [Reflect]
-gender: [m,f]
+- [Psychic]
+- [Shadow Ball]
+- [Calm Mind]
+- [Reflect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Silver
-tags: [in-game, PWT-Silver]
-item: [Null]
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Focus Blast]
-    - [Reflect]
-    - [Recover]
-gender: [m,f]
+- [Psychic]
+- [Focus Blast]
+- [Reflect]
+- [Recover]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Lucian
-tags: [in-game, PWT-Lucian]
-item: [Null]
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Energy Ball]
-    - [Focus Blast]
-    - [Recover]
-gender: [m,f]
+- [Psychic]
+- [Energy Ball]
+- [Focus Blast]
+- [Recover]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Sabrina
-tags: [in-game, PWT-Sabrina]
-item: [Null]
+tags: [in-game, PWT-Sabrina, trainer+sabrina]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psychic]
-    - [Recover]
-    - [Future Sight]
-    - [Calm Mind]
-gender: [m,f]
+- [Psychic]
+- [Recover]
+- [Future Sight]
+- [Calm Mind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Sabrina2
-tags: [in-game, PWT-Sabrina2]
-item: [Null]
+tags: [in-game, PWT-Sabrina2, trainer+sabrina]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Psychic]
-    - [Skill Swap]
-    - [Reflect]
-    - [Energy Ball]
-gender: [m,f]
+- [Psychic]
+- [Skill Swap]
+- [Reflect]
+- [Energy Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +120,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Sabrina2 Rematch
-tags: [in-game, PWT-Sabrina2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Sabrina2 Rematch, trainer+sabrina]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Gravity]
-    - [Psychic]
-    - [Focus Blast]
-    - [Energy Ball]
-gender: [m,f]
+- [Gravity]
+- [Psychic]
+- [Focus Blast]
+- [Energy Ball]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Azure
-tags: [in-game, PWT-Azure]
+tags: [in-game, PWT-Azure, trainer+azure]
 item: [Twisted Spoon]
-ability: [Null]
+ability: [null]
 moves:
-    - [Future Sight]
-    - [Psychic]
-    - [Reflect]
-    - [Recover]
+- [Future Sight]
+- [Psychic]
+- [Reflect]
+- [Recover]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Mira
-tags: [in-game, PWT-Mira]
-item: [Null]
+tags: [in-game, PWT-Mira, trainer+mira]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Focus Blast]
-    - [Calm Mind]
-    - [Psychic]
-    - [Hyper Beam]
+- [Focus Blast]
+- [Calm Mind]
+- [Psychic]
+- [Hyper Beam]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -180,17 +180,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Team A.C.T.
-tags: [in-game, PWT-Team A.C.T.]
-item: [Null]
+tags: [in-game, PWT-Team A.C.T., trainer+teamact]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Teleport]
-    - [Kinesis]
-    - [Confusion]
-    - [Follow Me]
-gender: [m,f]
+- [Teleport]
+- [Kinesis]
+- [Confusion]
+- [Follow Me]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -200,17 +200,17 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Anabel
-tags: [in-game, PWT-Anabel]
+tags: [in-game, PWT-Anabel, trainer+anabel]
 item: [Bright Powder]
 ability: [Synchronize, Inner Focus]
 moves:
-    - [Ice Punch]
-    - [Fire Punch]
-    - [Thunder Punch]
-    - [Disable]
-gender: [m,f]
+- [Ice Punch]
+- [Fire Punch]
+- [Thunder Punch]
+- [Disable]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -220,19 +220,19 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Sabrina Tournament
-tags: [in-game, PWT-Sabrina Tournament]
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
 item: [Colbur Berry]
 ability: [Synchronize, Inner Focus]
 moves:
-    - [Psychic]
-    - [Shadow Ball]
-    - [Focus Blast]
-    - [Charge Beam]
-gender: [m,f]
+- [Psychic]
+- [Shadow Ball]
+- [Focus Blast]
+- [Charge Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -240,19 +240,19 @@ rarity: 1.0
 ---
 species: Alakazam
 setname: PWT-Blue Tournament
-tags: [in-game, PWT-Blue Tournament]
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
 item: [Focus Sash]
 ability: [Synchronize, Inner Focus]
 moves:
-    - [Psychic]
-    - [Focus Blast]
-    - [Shadow Ball]
-    - [Reflect]
-gender: [m,f]
+- [Psychic]
+- [Focus Blast]
+- [Shadow Ball]
+- [Reflect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 25
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

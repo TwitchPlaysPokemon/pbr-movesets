@@ -1,15 +1,15 @@
 species: Kyogre
-setname: PWT-Pokétopia Master2
-tags: [in-game, PWT-Pokétopia Master2]
+setname: "PWT-Pokétopia Master2"
+tags: [in-game, "PWT-Pokétopia Master2", trainer+poketopiamaster]
 item: [Choice Scarf]
 ability: [Drizzle]
 moves:
-    - [Water Spout]
-    - [Ice Beam]
-    - [Thunder]
-    - [Ancient Power]
+- [Water Spout]
+- [Ice Beam]
+- [Thunder]
+- [Ancient Power]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,16 +19,16 @@ rarity: 1.0
 ---
 species: Kyogre
 setname: PWT-Archie RR
-tags: [in-game, PWT-Archie RR]
-item: [Null]
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
 ability: [Drizzle]
 moves:
-    - [Hydro Pump]
-    - [Ice Beam]
-    - [Ancient Power]
-    - [Thunder]
+- [Hydro Pump]
+- [Ice Beam]
+- [Ancient Power]
+- [Thunder]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

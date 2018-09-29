@@ -1,6 +1,6 @@
 species: Medicham
 setname: PWT-Chuck Rematch
-tags: [in-game, PWT-Chuck Rematch]
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
 item: [null]
 ability: [Pure Power]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Medicham
 setname: PWT-Maylene
-tags: [in-game, PWT-Maylene]
+tags: [in-game, PWT-Maylene, trainer+maylene]
 item: [null]
 ability: [Pure Power]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Medicham
 setname: PWT-Maylene Rematch
-tags: [in-game, PWT-Maylene Rematch]
+tags: [in-game, PWT-Maylene Rematch, trainer+maylene]
 item: [null]
 ability: [Pure Power]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Medicham
 setname: PWT-Brawly Rematch
-tags: [in-game, PWT-Brawly Rematch]
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
 item: [null]
 ability: [Pure Power]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Medicham
 setname: PWT-Team Charm
-tags: [in-game, PWT-Team Charm]
+tags: [in-game, PWT-Team Charm, trainer+teamcharm]
 item: [null]
 ability: [Pure Power]
 moves:
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Medicham
 setname: PWT-Team Meanies
-tags: [in-game, PWT-Team Meanies]
+tags: [in-game, PWT-Team Meanies, trainer+teammeanies]
 item: [null]
 ability: [Pure Power]
 moves:
@@ -120,7 +120,7 @@ rarity: 1.0
 ---
 species: Medicham
 setname: PWT-Brawly Tournament
-tags: [in-game, PWT-Brawly Tournament]
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
 item: [Twisted Spoon]
 ability: [Pure Power]
 moves:
@@ -132,7 +132,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -140,7 +140,7 @@ rarity: 1.0
 ---
 species: Medicham
 setname: PWT-Maylene Tournament
-tags: [in-game, PWT-Maylene Tournament]
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
 item: [Kasib Berry]
 ability: [Pure Power]
 moves:
@@ -152,7 +152,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

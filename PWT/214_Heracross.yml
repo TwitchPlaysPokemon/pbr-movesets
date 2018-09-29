@@ -1,16 +1,16 @@
 species: Heracross
 setname: PWT-Blue Champion Rematch
-tags: [in-game, PWT-Blue Champion Rematch]
-item: [Null]
+tags: [in-game, PWT-Blue Champion Rematch, trainer+blue]
+item: [null]
 ability: [Swarm]
 moves:
-    - [Megahorn]
-    - [Earthquake]
-    - [Counter]
-    - [Rock Tomb]
-gender: [m,f]
+- [Megahorn]
+- [Earthquake]
+- [Counter]
+- [Rock Tomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Heracross
 setname: PWT-Barry
-tags: [in-game, PWT-Barry]
-item: [Null]
+tags: [in-game, PWT-Barry, trainer+barry]
+item: [null]
 ability: [Guts]
 moves:
-    - [Megahorn]
-    - [Close Combat]
-    - [Night Slash]
-    - [Rock Slide]
-gender: [m,f]
+- [Megahorn]
+- [Close Combat]
+- [Night Slash]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Heracross
 setname: PWT-Aaron
-tags: [in-game, PWT-Aaron]
-item: [Null]
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
 ability: [Swarm]
 moves:
-    - [Megahorn]
-    - [Close Combat]
-    - [Night Slash]
-    - [Stone Edge]
-gender: [m,f]
+- [Megahorn]
+- [Close Combat]
+- [Night Slash]
+- [Stone Edge]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Heracross
 setname: PWT-Bugsy Rematch
-tags: [in-game, PWT-Bugsy Rematch]
-item: [Null]
+tags: [in-game, PWT-Bugsy Rematch, trainer+bugsy]
+item: [null]
 ability: [Guts]
 moves:
-    - [Megahorn]
-    - [Counter]
-    - [Stone Edge]
-    - [Close Combat]
-gender: [m,f]
+- [Megahorn]
+- [Counter]
+- [Stone Edge]
+- [Close Combat]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,19 +80,19 @@ rarity: 1.0
 ---
 species: Heracross
 setname: PWT-Bugsy Tournament
-tags: [in-game, PWT-Bugsy Tournament]
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Coba Berry]
 ability: [Swarm, Guts]
 moves:
-    - [Swords Dance]
-    - [Megahorn]
-    - [Stone Edge]
-    - [Close Combat]
-gender: [m,f]
+- [Swords Dance]
+- [Megahorn]
+- [Stone Edge]
+- [Close Combat]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -100,19 +100,19 @@ rarity: 1.0
 ---
 species: Heracross
 setname: PWT-Brawly Tournament
-tags: [in-game, PWT-Brawly Tournament]
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
 item: [Salac Berry]
 ability: [Swarm, Guts]
 moves:
-    - [Close Combat]
-    - [Megahorn]
-    - [Aerial Ace]
-    - [Rock Slide]
-gender: [m,f]
+- [Close Combat]
+- [Megahorn]
+- [Aerial Ace]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

@@ -1,16 +1,16 @@
 species: Noctowl
 setname: PWT-Falkner Rematch
-tags: [in-game, PWT-Falkner Rematch]
-item: [Null]
+tags: [in-game, PWT-Falkner Rematch, trainer+falkner]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Air Slash]
-    - [Shadow Ball]
-    - [Feather Dance]
-    - [Roost]
-gender: [m,f]
+- [Air Slash]
+- [Shadow Ball]
+- [Feather Dance]
+- [Roost]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Noctowl
 setname: PWT-Winona Rematch
-tags: [in-game, PWT-Winona Rematch]
-item: [Null]
+tags: [in-game, PWT-Winona Rematch, trainer+winona]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Hypnosis]
-    - [Psychic]
-    - [Reflect]
-    - [Dream Eater]
-gender: [m,f]
+- [Hypnosis]
+- [Psychic]
+- [Reflect]
+- [Dream Eater]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,19 +40,19 @@ rarity: 1.0
 ---
 species: Noctowl
 setname: PWT-Falkner Tournament
-tags: [in-game, PWT-Falkner Tournament]
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
 item: [Ganlon Berry]
 ability: [Insomnia, Keen Eye]
 moves:
-    - [Hypnosis]
-    - [Dream Eater]
-    - [Reflect]
-    - [Air Slash]
-gender: [m,f]
+- [Hypnosis]
+- [Dream Eater]
+- [Reflect]
+- [Air Slash]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

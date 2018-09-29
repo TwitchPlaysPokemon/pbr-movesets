@@ -1,16 +1,16 @@
 species: Ursaring
 setname: PWT-Riley
-tags: [in-game, PWT-Riley]
-item: [Null]
+tags: [in-game, PWT-Riley, trainer+riley]
+item: [null]
 ability: [Guts]
 moves:
-    - [Slash]
-    - [Avalanche]
-    - [Shadow Claw]
-    - [Aerial Ace]
-gender: [m,f]
+- [Slash]
+- [Avalanche]
+- [Shadow Claw]
+- [Aerial Ace]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,19 +20,19 @@ rarity: 1.0
 ---
 species: Ursaring
 setname: PWT-Whitney Tournament
-tags: [in-game, PWT-Whitney Tournament]
+tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
 item: [Chople Berry]
 ability: [Guts, Quick Feet]
 moves:
-    - [Hammer Arm]
-    - [Thunder Punch]
-    - [Bulk Up]
-    - [Thrash]
-gender: [m,f]
+- [Hammer Arm]
+- [Thunder Punch]
+- [Bulk Up]
+- [Thrash]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

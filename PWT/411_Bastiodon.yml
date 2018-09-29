@@ -1,16 +1,16 @@
 species: Bastiodon
 setname: PWT-Byron
-tags: [in-game, PWT-Byron]
+tags: [in-game, PWT-Byron, trainer+byron]
 item: [Chesto Berry]
 ability: [Sturdy]
 moves:
-    - [Flash Cannon]
-    - [Ancient Power]
-    - [Iron Defense]
-    - [Rest]
-gender: [m,f]
+- [Flash Cannon]
+- [Ancient Power]
+- [Iron Defense]
+- [Rest]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Bastiodon
 setname: PWT-Byron Rematch
-tags: [in-game, PWT-Byron Rematch]
-item: [Null]
+tags: [in-game, PWT-Byron Rematch, trainer+byron]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Metal Burst]
-    - [Ancient Power]
-    - [Iron Defense]
-    - [Rest]
-gender: [m,f]
+- [Metal Burst]
+- [Ancient Power]
+- [Iron Defense]
+- [Rest]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,19 +40,19 @@ rarity: 1.0
 ---
 species: Bastiodon
 setname: PWT-Byron Tournament
-tags: [in-game, PWT-Byron Tournament]
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
 item: [Shuca Berry]
 ability: [Sturdy]
 moves:
-    - [Metal Burst]
-    - [Fire Blast]
-    - [Iron Defense]
-    - [Stealth Rock]
-gender: [m,f]
+- [Metal Burst]
+- [Fire Blast]
+- [Iron Defense]
+- [Stealth Rock]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

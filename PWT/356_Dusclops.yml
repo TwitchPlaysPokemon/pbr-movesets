@@ -1,16 +1,16 @@
 species: Dusclops
 setname: PWT-Phoebe
-tags: [in-game, PWT-Phoebe]
-item: [Null]
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Shadow Punch]
-    - [Confuse Ray]
-    - [Curse]
-    - [Protect]
-gender: [m,f]
+- [Shadow Punch]
+- [Confuse Ray]
+- [Curse]
+- [Protect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Dusclops
 setname: PWT-Phoebe-2
-tags: [in-game, PWT-Phoebe]
-item: [Null]
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
+item: [null]
 ability: [Pressure]
 moves:
-    - [Shadow Ball]
-    - [Ice Beam]
-    - [Rock Slide]
-    - [Earthquake]
-gender: [m,f]
+- [Shadow Ball]
+- [Ice Beam]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

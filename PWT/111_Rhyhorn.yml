@@ -1,16 +1,16 @@
 species: Rhyhorn
 setname: PWT-Giovanni Rocket
-tags: [in-game, PWT-Giovanni Rocket]
-item: [Null]
+tags: [in-game, PWT-Giovanni Rocket, trainer+giovannirocket]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Fury Attack]
-    - [Scary Face]
-    - [Stomp]
-    - [Rock Blast]
-gender: [m,f]
+- [Fury Attack]
+- [Scary Face]
+- [Stomp]
+- [Rock Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Rhyhorn
 setname: PWT-Giovanni Gym
-tags: [in-game, PWT-Giovanni Gym]
-item: [Null]
+tags: [in-game, PWT-Giovanni Gym, trainer+giovanni]
+item: [null]
 ability: [Lightningrod]
 moves:
-    - [Take Down]
-    - [Rock Blast]
-    - [Scary Face]
-    - [Earthquake]
-gender: [m,f]
+- [Take Down]
+- [Rock Blast]
+- [Scary Face]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Rhyhorn
 setname: PWT-Brock2
-tags: [in-game, PWT-Brock2]
-item: [Null]
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Earthquake]
-    - [Sandstorm]
-    - [Scary Face]
-    - [Horn Drill]
-gender: [m,f]
+- [Earthquake]
+- [Sandstorm]
+- [Scary Face]
+- [Horn Drill]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

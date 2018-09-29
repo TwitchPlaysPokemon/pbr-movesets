@@ -1,6 +1,6 @@
 species: Lunatone
 setname: PWT-Tate and Liza
-tags: [in-game, PWT-Tate and Liza]
+tags: [in-game, PWT-Tate and Liza, trainer+tate, trainer+liza]
 item: [null]
 ability: [Levitate]
 moves:
@@ -19,7 +19,7 @@ rarity: 1.0
 ---
 species: Lunatone
 setname: PWT-Tate and Liza Rematch
-tags: [in-game, PWT-Tate and Liza Rematch]
+tags: [in-game, PWT-Tate and Liza Rematch, trainer+tate, trainer+liza]
 item: [Chesto Berry]
 ability: [Levitate]
 moves:
@@ -38,7 +38,7 @@ rarity: 1.0
 ---
 species: Lunatone
 setname: PWT-Liza Tournament
-tags: [in-game, PWT-Liza Tournament]
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
 item: [Petaya Berry]
 ability: [Levitate]
 moves:
@@ -49,7 +49,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

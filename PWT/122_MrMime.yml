@@ -1,16 +1,16 @@
 species: Mr. Mime
 setname: PWT-Lucian
-tags: [in-game, PWT-Lucian]
-item: [Null]
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
 ability: [Soundproof]
 moves:
-    - [Psychic]
-    - [Thunderbolt]
-    - [Reflect]
-    - [Light Screen]
-gender: [m,f]
+- [Psychic]
+- [Thunderbolt]
+- [Reflect]
+- [Light Screen]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Mr. Mime
 setname: PWT-Sabrina
-tags: [in-game, PWT-Sabrina]
-item: [Null]
+tags: [in-game, PWT-Sabrina, trainer+sabrina]
+item: [null]
 ability: [Soundproof]
 moves:
-    - [Barrier]
-    - [Psybeam]
-    - [Baton Pass]
-    - [Calm Mind]
-gender: [m,f]
+- [Barrier]
+- [Psybeam]
+- [Baton Pass]
+- [Calm Mind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Mr. Mime
 setname: PWT-Sabrina2
-tags: [in-game, PWT-Sabrina2]
-item: [Null]
+tags: [in-game, PWT-Sabrina2, trainer+sabrina]
+item: [null]
 ability: [Filter]
 moves:
-    - [Mimic]
-    - [Light Screen]
-    - [Psychic]
-    - [Skill Swap]
-gender: [m,f]
+- [Mimic]
+- [Light Screen]
+- [Psychic]
+- [Skill Swap]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Mr. Mime
 setname: PWT-Sabrina2 Rematch
-tags: [in-game, PWT-Sabrina2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Sabrina2 Rematch, trainer+sabrina]
+item: [null]
 ability: [Filter]
 moves:
-    - [Reflect]
-    - [Skill Swap]
-    - [Thunder]
-    - [Psychic]
-gender: [m,f]
+- [Reflect]
+- [Skill Swap]
+- [Thunder]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,19 +80,19 @@ rarity: 1.0
 ---
 species: Mr. Mime
 setname: PWT-Sabrina Tournament
-tags: [in-game, PWT-Sabrina Tournament]
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
 item: [Kasib Berry]
 ability: [Soundproof, Filter]
 moves:
-    - [Psychic]
-    - [Light Screen]
-    - [Charge Beam]
-    - [Reflect]
-gender: [m,f]
+- [Psychic]
+- [Light Screen]
+- [Charge Beam]
+- [Reflect]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

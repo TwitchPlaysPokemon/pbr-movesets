@@ -1,16 +1,16 @@
 species: Slowbro
 setname: PWT-Lorelei
-tags: [in-game, PWT-Lorelei]
-item: [Null]
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
 ability: [Oblivious]
 moves:
-    - [Ice Beam]
-    - [Surf]
-    - [Amnesia]
-    - [Yawn]
-gender: [m,f]
+- [Ice Beam]
+- [Surf]
+- [Amnesia]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Slowbro
 setname: PWT-Will
-tags: [in-game, PWT-Will]
-item: [Null]
+tags: [in-game, PWT-Will, trainer+will]
+item: [null]
 ability: [Own Tempo]
 moves:
-    - [Curse]
-    - [Amnesia]
-    - [Water Pulse]
-    - [Psychic]
-gender: [m,f]
+- [Curse]
+- [Amnesia]
+- [Water Pulse]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Slowbro
 setname: PWT-Will Rematch
-tags: [in-game, PWT-Will Rematch]
-item: [Null]
+tags: [in-game, PWT-Will Rematch, trainer+will]
+item: [null]
 ability: [Own Tempo]
 moves:
-    - [Curse]
-    - [Amnesia]
-    - [Body Slam]
-    - [Psychic]
-gender: [m,f]
+- [Curse]
+- [Amnesia]
+- [Body Slam]
+- [Psychic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,19 +60,19 @@ rarity: 1.0
 ---
 species: Slowbro
 setname: PWT-Misty Tournament
-tags: [in-game, PWT-Misty Tournament]
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
 item: [Apicot Berry]
 ability: [Oblivious, Own Tempo]
 moves:
-    - [Psychic]
-    - [Surf]
-    - [Slack Off]
-    - [Yawn]
-gender: [m,f]
+- [Psychic]
+- [Surf]
+- [Slack Off]
+- [Yawn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

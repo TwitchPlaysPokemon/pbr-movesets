@@ -1,18 +1,18 @@
 species: Dodrio
 setname: PWT-Falkner Tournament
-tags: [in-game, PWT-Falkner Tournament]
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
 item: [Wacan Berry]
 ability: [Run Away, Early Bird]
 moves:
-    - [Brave Bird]
-    - [Thrash]
-    - [Pursuit]
-    - [Acupressure]
-gender: [m,f]
+- [Brave Bird]
+- [Thrash]
+- [Pursuit]
+- [Acupressure]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

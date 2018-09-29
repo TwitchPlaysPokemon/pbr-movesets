@@ -1,16 +1,16 @@
 species: Gastly
 setname: PWT-Morty
-tags: [in-game, PWT-Morty]
-item: [Null]
+tags: [in-game, PWT-Morty, trainer+morty]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Lick]
-    - [Spite]
-    - [Mean Look]
-    - [Curse]
-gender: [m,f]
+- [Lick]
+- [Spite]
+- [Mean Look]
+- [Curse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

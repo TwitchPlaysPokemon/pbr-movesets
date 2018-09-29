@@ -1,15 +1,15 @@
 species: Voltorb
 setname: PWT-Lt. Surge
-tags: [in-game, PWT-Lt. Surge]
-item: [Null]
+tags: [in-game, PWT-Lt. Surge, trainer+ltsurge]
+item: [null]
 ability: [Soundproof]
 moves:
-    - [Shock Wave]
-    - [Tackle]
-    - [Screech]
-    - [Sonic Boom]
+- [Shock Wave]
+- [Tackle]
+- [Screech]
+- [Sonic Boom]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,16 +19,16 @@ rarity: 1.0
 ---
 species: Voltorb
 setname: PWT-Wattson
-tags: [in-game, PWT-Wattson]
-item: [Null]
+tags: [in-game, PWT-Wattson, trainer+wattson]
+item: [null]
 ability: [Soundproof]
 moves:
-    - [Rollout]
-    - [Spark]
-    - [Selfdestruct]
-    - [Shock Wave]
+- [Rollout]
+- [Spark]
+- [Selfdestruct]
+- [Shock Wave]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

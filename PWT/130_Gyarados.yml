@@ -1,16 +1,16 @@
 species: Gyarados
 setname: PWT-Blue Gym
-tags: [in-game, PWT-Blue Gym]
-item: [Null]
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Ice Fang]
-    - [Waterfall]
-    - [Dragon Dance]
-    - [Return]
-gender: [m,f]
+- [Ice Fang]
+- [Waterfall]
+- [Dragon Dance]
+- [Return]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Professor Oak
-tags: [in-game, PWT-Professor Oak]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
 moves:
-    - [Hydro Pump]
-    - [Dragon Rage]
-    - [Leer]
-    - [Hyper Beam]
-gender: [m,f]
+- [Hydro Pump]
+- [Dragon Rage]
+- [Leer]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Lance E4
-tags: [in-game, PWT-Lance E4]
-item: [Null]
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Bite]
-    - [Dragon Rage]
-    - [Twister]
-    - [Hyper Beam]
-gender: [m,f]
+- [Bite]
+- [Dragon Rage]
+- [Twister]
+- [Hyper Beam]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Lance E4 Rematch
-tags: [in-game, PWT-Lance E4 Rematch]
-item: [Null]
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Hyper Beam]
-    - [Dragon Dance]
-    - [Earthquake]
-    - [Thunder Wave]
-gender: [m,f]
+- [Hyper Beam]
+- [Dragon Dance]
+- [Earthquake]
+- [Thunder Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Lance Champion
-tags: [in-game, PWT-Lance Champion]
-item: [Null]
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Waterfall]
-    - [Dragon Pulse]
-    - [Ice Fang]
-    - [Flail]
-gender: [m,f]
+- [Waterfall]
+- [Dragon Pulse]
+- [Ice Fang]
+- [Flail]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Lance Champion Rematch
-tags: [in-game, PWT-Lance Champion Rematch]
-item: [Null]
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Dragon Dance]
-    - [Waterfall]
-    - [Ice Fang]
-    - [Thunder Wave]
-gender: [m,f]
+- [Dragon Dance]
+- [Waterfall]
+- [Ice Fang]
+- [Thunder Wave]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -119,18 +119,18 @@ level: 100
 rarity: 1.0
 ---
 species: Gyarados
-setname: PWT-Wallace
-tags: [in-game, PWT-Wallace]
-item: [Null]
+setname: PWT-Wallace Champion
+tags: [in-game, PWT-Wallace Champion, trainer+wallace]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Dragon Dance]
-    - [Earthquake]
-    - [Hyper Beam]
-    - [Surf]
-gender: [m,f]
+- [Dragon Dance]
+- [Earthquake]
+- [Hyper Beam]
+- [Surf]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +140,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Cyrus
-tags: [in-game, PWT-Cyrus]
-item: [Null]
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Waterfall]
-    - [Ice Fang]
-    - [Earthquake]
-    - [Giga Impact]
-gender: [m,f]
+- [Waterfall]
+- [Ice Fang]
+- [Earthquake]
+- [Giga Impact]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +160,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Clair
-tags: [in-game, PWT-Clair]
-item: [Null]
+tags: [in-game, PWT-Clair, trainer+clair]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Bite]
-    - [Twister]
-    - [Dragon Rage]
-    - [Dragon Pulse]
-gender: [m,f]
+- [Bite]
+- [Twister]
+- [Dragon Rage]
+- [Dragon Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -180,17 +180,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Clair Rematch
-tags: [in-game, PWT-Clair Rematch]
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
 item: [Wacan Berry]
 ability: [Intimidate]
 moves:
-    - [Dragon Dance]
-    - [Waterfall]
-    - [Earthquake]
-    - [Dragon Pulse]
-gender: [m,f]
+- [Dragon Dance]
+- [Waterfall]
+- [Earthquake]
+- [Dragon Pulse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -200,17 +200,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Crasher Wake
-tags: [in-game, PWT-Crasher Wake]
-item: [Null]
+tags: [in-game, PWT-Crasher Wake, trainer+crasherwake]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Brine]
-    - [Waterfall]
-    - [Bite]
-    - [Twister]
-gender: [m,f]
+- [Brine]
+- [Waterfall]
+- [Bite]
+- [Twister]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -220,17 +220,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Crasher Wake Rematch
-tags: [in-game, PWT-Crasher Wake Rematch]
-item: [Null]
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Bite]
-    - [Avalanche]
-    - [Aqua Tail]
-    - [Giga Impact]
-gender: [m,f]
+- [Bite]
+- [Avalanche]
+- [Aqua Tail]
+- [Giga Impact]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -240,17 +240,17 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Azure
-tags: [in-game, PWT-Azure]
+tags: [in-game, PWT-Azure, trainer+azure]
 item: [Mystic Water]
-ability: [Null]
+ability: [null]
 moves:
-    - [Hydro Pump]
-    - [Dragon Rage]
-    - [Crunch]
-    - [Thrash]
+- [Hydro Pump]
+- [Dragon Rage]
+- [Crunch]
+- [Thrash]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -260,19 +260,19 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Blue Tournament
-tags: [in-game, PWT-Blue Tournament]
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
 item: [King's Rock]
 ability: [Intimidate]
 moves:
-    - [Waterfall]
-    - [Earthquake]
-    - [Ice Fang]
-    - [Outrage]
-gender: [m,f]
+- [Waterfall]
+- [Earthquake]
+- [Ice Fang]
+- [Outrage]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 25
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -280,19 +280,19 @@ rarity: 1.0
 ---
 species: Gyarados
 setname: PWT-Crasher Wake Tournament
-tags: [in-game, PWT-Crasher Wake Tournament]
+tags: [in-game, PWT-Crasher Wake Tournament, trainer+crasherwake]
 item: [Wacan Berry]
 ability: [Intimidate]
 moves:
-    - [Stone Edge]
-    - [Aqua Tail]
-    - [Dragon Dance]
-    - [Outrage]
-gender: [m,f]
+- [Stone Edge]
+- [Aqua Tail]
+- [Dragon Dance]
+- [Outrage]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

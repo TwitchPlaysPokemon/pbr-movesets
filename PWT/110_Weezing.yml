@@ -1,16 +1,16 @@
 species: Weezing
 setname: PWT-Koga Gym
-tags: [in-game, PWT-Koga Gym]
-item: [Null]
+tags: [in-game, PWT-Koga Gym, trainer+koga]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Tackle]
-    - [Sludge]
-    - [Smokescreen]
-    - [Toxic]
-gender: [m,f]
+- [Tackle]
+- [Sludge]
+- [Smokescreen]
+- [Toxic]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,16 +20,16 @@ rarity: 1.0
 ---
 species: Weezing
 setname: PWT-Jessie & James
-tags: [in-game, PWT-Jessie & James]
-item: [Null]
-ability: [Null]
+tags: [in-game, PWT-Jessie & James, trainer+jessiejames]
+item: [null]
+ability: [null]
 moves:
-    - [Tackle]
-    - [Smog]
-    - [Sludge]
+- [Tackle]
+- [Smog]
+- [Sludge]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -39,17 +39,17 @@ rarity: 1.0
 ---
 species: Weezing
 setname: PWT-Janine
-tags: [in-game, PWT-Janine]
-item: [Null]
+tags: [in-game, PWT-Janine, trainer+janine]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sludge Bomb]
-    - [Toxic]
-    - [Explosion]
-    - [Double Hit]
+- [Sludge Bomb]
+- [Toxic]
+- [Explosion]
+- [Double Hit]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -59,17 +59,17 @@ rarity: 1.0
 ---
 species: Weezing
 setname: PWT-Janine Rematch
-tags: [in-game, PWT-Janine Rematch]
-item: [Null]
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Thunderbolt]
-    - [Sludge Bomb]
-    - [Toxic]
-    - [Explosion]
+- [Thunderbolt]
+- [Sludge Bomb]
+- [Toxic]
+- [Explosion]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -79,17 +79,17 @@ rarity: 1.0
 ---
 species: Weezing
 setname: PWT-Burglar Simon
-tags: [in-game, PWT-Burglar Simon]
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
 item: [Leftovers]
-ability: [Null]
+ability: [null]
 moves:
-    - [Sludge Bomb]
-    - [Will-O-Wisp]
-    - [Protect]
-    - [Explosion]
-gender: [m,f]
+- [Sludge Bomb]
+- [Will-O-Wisp]
+- [Protect]
+- [Explosion]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -99,17 +99,17 @@ rarity: 1.0
 ---
 species: Weezing
 setname: PWT-Petrel2
-tags: [in-game, PWT-Petrel2]
-item: [Null]
+tags: [in-game, PWT-Petrel2, trainer+petrel]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Tackle]
-    - [Sludge]
-    - [Smokescreen]
-    - [Explosion]
-gender: [m,f]
+- [Tackle]
+- [Sludge]
+- [Smokescreen]
+- [Explosion]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -119,17 +119,17 @@ rarity: 1.0
 ---
 species: Weezing
 setname: PWT-Proton
-tags: [in-game, PWT-Proton]
-item: [Null]
+tags: [in-game, PWT-Proton, trainer+proton]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sludge]
-    - [Double Hit]
-    - [Smokescreen]
-    - [Smog]
-gender: [m,f]
+- [Sludge]
+- [Double Hit]
+- [Smokescreen]
+- [Smog]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -139,19 +139,19 @@ rarity: 1.0
 ---
 species: Weezing
 setname: PWT-Janine Tournament
-tags: [in-game, PWT-Janine Tournament]
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
 item: [Charcoal]
 ability: [Levitate]
 moves:
-    - [Fire Blast]
-    - [Shadow Ball]
-    - [Pain Split]
-    - [Sludge Bomb]
-gender: [m,f]
+- [Fire Blast]
+- [Shadow Ball]
+- [Pain Split]
+- [Sludge Bomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -159,17 +159,17 @@ rarity: 1.0
 ---
 species: Weezing
 setname: PWT-Maxie RR
-tags: [in-game, PWT-Maxie RR]
-item: [Null]
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
 ability: [Levitate]
 moves:
-    - [Sludge Bomb]
-    - [Thunderbolt]
-    - [Shadow Ball]
-    - [Pain Split]
-gender: [m,f]
+- [Sludge Bomb]
+- [Thunderbolt]
+- [Shadow Ball]
+- [Pain Split]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,16 +1,16 @@
 species: Gliscor
 setname: PWT-Bertha
-tags: [in-game, PWT-Bertha]
-item: [Null]
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
 ability: [Hyper Cutter]
 moves:
-    - [Earthquake]
-    - [Ice Fang]
-    - [Fire Fang]
-    - [Thunder Fang]
-gender: [m,f]
+- [Earthquake]
+- [Ice Fang]
+- [Fire Fang]
+- [Thunder Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,6 +1,6 @@
 species: Floatzel
 setname: PWT-Misty2 Rematch
-tags: [in-game, PWT-Misty2 Rematch]
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
 item: [null]
 ability: [Swift Swim]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Floatzel
 setname: PWT-Crasher Wake
-tags: [in-game, PWT-Crasher Wake]
+tags: [in-game, PWT-Crasher Wake, trainer+crasherwake]
 item: [null]
 ability: [Swift Swim]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Floatzel
 setname: PWT-Crasher Wake Rematch
-tags: [in-game, PWT-Crasher Wake Rematch]
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
 item: [null]
 ability: [Swift Swim]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Floatzel
 setname: PWT-Crasher Wake Tournament
-tags: [in-game, PWT-Crasher Wake Tournament]
+tags: [in-game, PWT-Crasher Wake Tournament, trainer+crasherwake]
 item: [Liechi Berry]
 ability: [Swift Swim]
 moves:
@@ -72,7 +72,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

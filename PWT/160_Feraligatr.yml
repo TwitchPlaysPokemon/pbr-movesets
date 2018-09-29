@@ -1,16 +1,16 @@
 species: Feraligatr
 setname: PWT-Silver
-tags: [in-game, PWT-Silver]
-item: [Null]
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Aqua Tail]
-    - [Crunch]
-    - [Ice Fang]
-    - [Slash]
-gender: [m,f]
+- [Aqua Tail]
+- [Crunch]
+- [Ice Fang]
+- [Slash]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Feraligatr
 setname: PWT-Cal
-tags: [in-game, PWT-Cal]
-item: [Null]
+tags: [in-game, PWT-Cal, trainer+cal]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Waterfall]
-    - [Crunch]
-    - [Ice Punch]
-    - [Dragon Dance]
-gender: [m,f]
+- [Waterfall]
+- [Crunch]
+- [Ice Punch]
+- [Dragon Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

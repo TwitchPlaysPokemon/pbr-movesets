@@ -1,16 +1,16 @@
 species: Slugma
 setname: PWT-Brendan
-tags: [in-game, PWT-Brendan]
-item: [Null]
+tags: [in-game, PWT-Brendan, trainer+brendan]
+item: [null]
 ability: [Flame Body]
 moves:
-    - [Ember]
-    - [Rock Throw]
-    - [Harden]
-    - [Amnesia]
-gender: [m,f]
+- [Ember]
+- [Rock Throw]
+- [Harden]
+- [Amnesia]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Slugma
 setname: PWT-Flannery
-tags: [in-game, PWT-Flannery]
-item: [Null]
+tags: [in-game, PWT-Flannery, trainer+flannery]
+item: [null]
 ability: [Magma Armor]
 moves:
-    - [Overheat]
-    - [Smog]
-    - [Light Screen]
-    - [Sunny Day]
+- [Overheat]
+- [Smog]
+- [Light Screen]
+- [Sunny Day]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

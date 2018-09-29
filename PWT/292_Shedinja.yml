@@ -1,15 +1,15 @@
 species: Shedinja
 setname: PWT-Bugsy Rematch
-tags: [in-game, PWT-Bugsy Rematch]
-item: [Null]
+tags: [in-game, PWT-Bugsy Rematch, trainer+bugsy]
+item: [null]
 ability: [Wonder Guard]
 moves:
-    - [X-Scissor]
-    - [Shadow Sneak]
-    - [Swagger]
-    - [Toxic]
+- [X-Scissor]
+- [Shadow Sneak]
+- [Swagger]
+- [Toxic]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

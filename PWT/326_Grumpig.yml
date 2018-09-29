@@ -1,6 +1,6 @@
 species: Grumpig
 setname: PWT-Will Rematch
-tags: [in-game, PWT-Will Rematch]
+tags: [in-game, PWT-Will Rematch, trainer+will]
 item: [null]
 ability: [Own Tempo]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Grumpig
 setname: PWT-Tate Tournament
-tags: [in-game, PWT-Tate Tournament]
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
 item: [Ganlon Berry]
 ability: [Thick Fat, Own Tempo]
 moves:
@@ -32,7 +32,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Grumpig
 setname: PWT-Liza Tournament
-tags: [in-game, PWT-Liza Tournament]
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
 item: [Salac Berry]
 ability: [Thick Fat, Own Tempo]
 moves:
@@ -52,7 +52,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

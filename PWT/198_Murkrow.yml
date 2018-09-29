@@ -1,16 +1,16 @@
 species: Murkrow
 setname: PWT-Karen
-tags: [in-game, PWT-Karen]
-item: [Null]
+tags: [in-game, PWT-Karen, trainer+karen]
+item: [null]
 ability: [Super Luck]
 moves:
-    - [Sucker Punch]
-    - [Faint Attack]
-    - [Pluck]
-    - [Whirlwind]
-gender: [m,f]
+- [Sucker Punch]
+- [Faint Attack]
+- [Pluck]
+- [Whirlwind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Murkrow
 setname: PWT-Burglar Simon
-tags: [in-game, PWT-Burglar Simon]
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
 item: [Sharp Beak]
-ability: [Null]
+ability: [null]
 moves:
-    - [Drill Peck]
-    - [Dark Pulse]
-    - [Perish Song]
-    - [Confuse Ray]
-gender: [m,f]
+- [Drill Peck]
+- [Dark Pulse]
+- [Perish Song]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Murkrow
 setname: PWT-Ariana
-tags: [in-game, PWT-Ariana]
-item: [Null]
+tags: [in-game, PWT-Ariana, trainer+ariana]
+item: [null]
 ability: [Super Luck]
 moves:
-    - [Night Shade]
-    - [Wing Attack]
-    - [Astonish]
-    - [Pursuit]
-gender: [m,f]
+- [Night Shade]
+- [Wing Attack]
+- [Astonish]
+- [Pursuit]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

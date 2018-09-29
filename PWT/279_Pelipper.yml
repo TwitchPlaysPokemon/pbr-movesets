@@ -1,6 +1,6 @@
 species: Pelipper
 setname: PWT-May
-tags: [in-game, PWT-May]
+tags: [in-game, PWT-May, trainer+may]
 item: [null]
 ability: [Keen Eye]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Pelipper
 setname: PWT-Brendan
-tags: [in-game, PWT-Brendan]
+tags: [in-game, PWT-Brendan, trainer+brendan]
 item: [null]
 ability: [Keen Eye]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Pelipper
 setname: PWT-Falkner Rematch
-tags: [in-game, PWT-Falkner Rematch]
+tags: [in-game, PWT-Falkner Rematch, trainer+falkner]
 item: [null]
 ability: [Keen Eye]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Pelipper
 setname: PWT-Winona
-tags: [in-game, PWT-Winona]
+tags: [in-game, PWT-Winona, trainer+winona]
 item: [null]
 ability: [Keen Eye]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Pelipper
 setname: PWT-Winona Rematch
-tags: [in-game, PWT-Winona Rematch]
+tags: [in-game, PWT-Winona Rematch, trainer+winona]
 item: [null]
 ability: [Keen Eye]
 moves:
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Pelipper
 setname: PWT-Winona Tournament
-tags: [in-game, PWT-Winona Tournament]
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
 item: [Petaya Berry]
 ability: [Keen Eye]
 moves:
@@ -112,7 +112,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

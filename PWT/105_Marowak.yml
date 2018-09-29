@@ -1,18 +1,18 @@
 species: Marowak
 setname: PWT-Giovanni Tournament
-tags: [in-game, PWT-Giovanni Tournament]
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
 item: [Yache Berry]
 ability: [Rock Head, Lightninrod]
 moves:
-    - [Bonemerang]
-    - [Stone Edge]
-    - [Outrage]
-    - [Thunder Punch]
-gender: [m,f]
+- [Bonemerang]
+- [Stone Edge]
+- [Outrage]
+- [Thunder Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

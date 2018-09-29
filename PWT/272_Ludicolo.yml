@@ -1,16 +1,16 @@
 species: Ludicolo
 setname: PWT-May
-tags: [in-game, PWT-May]
-item: [Null]
+tags: [in-game, PWT-May, trainer+may]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Astonish]
-    - [Growl]
-    - [Absorb]
-    - [Nature Power]
-gender: [m,f]
+- [Astonish]
+- [Growl]
+- [Absorb]
+- [Nature Power]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -19,18 +19,18 @@ level: 100
 rarity: 1.0
 ---
 species: Ludicolo
-setname: PWT-Wallace
-tags: [in-game, PWT-Wallace]
-item: [Null]
+setname: PWT-Wallace Champion
+tags: [in-game, PWT-Wallace Champion, trainer+wallace]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Giga Drain]
-    - [Surf]
-    - [Leech Seed]
-    - [Double Team]
-gender: [m,f]
+- [Giga Drain]
+- [Surf]
+- [Leech Seed]
+- [Double Team]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Ludicolo
 setname: PWT-Crasher Wake Rematch
-tags: [in-game, PWT-Crasher Wake Rematch]
-item: [Null]
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Surf]
-    - [Energy Ball]
-    - [Ice Beam]
-    - [Focus Blast]
-gender: [m,f]
+- [Surf]
+- [Energy Ball]
+- [Ice Beam]
+- [Focus Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Ludicolo
 setname: PWT-Miror B Cipher
-tags: [in-game, PWT-Miror B Cipher]
-item: [Null]
+tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Hydro Pump]
-    - [Giga Drain]
-    - [Ice Beam]
-    - [Rain Dance]
-gender: [m,f]
+- [Hydro Pump]
+- [Giga Drain]
+- [Ice Beam]
+- [Rain Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -79,38 +79,18 @@ level: 100
 rarity: 1.0
 ---
 species: Ludicolo
-setname: PWT-Miror B Cipher-2
-tags: [in-game, PWT-Miror B Cipher]
-item: [Null]
-ability: [Swift Swim]
-moves:
-      - [Rain Dance]
-      - [Giga Drain]
-      - [Hydro Pump]
-      - [Nature Power]
-gender: [m,f]
-happiness: 255
-biddable: False
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
-  ---
-species: Ludicolo
 setname: PWT-Miror B Cipher-3
-tags: [in-game, PWT-Miror B Cipher]
-item: [Null]
+tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Rain Dance]
-    - [Giga Drain]
-    - [Dive]
-    - [Leech Seed]
-gender: [m,f]
+- [Rain Dance]
+- [Giga Drain]
+- [Dive]
+- [Leech Seed]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,17 +100,17 @@ rarity: 1.0
 ---
 species: Ludicolo
 setname: PWT-Miror B Wanderer
-tags: [in-game, PWT-Miror B Wanderer]
-item: [Null]
+tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Rain Dance]
-    - [Hydro Pump]
-    - [Giga Drain]
-    - [Fake Out]
-gender: [m,f]
+- [Rain Dance]
+- [Hydro Pump]
+- [Giga Drain]
+- [Fake Out]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -140,17 +120,17 @@ rarity: 1.0
 ---
 species: Ludicolo
 setname: PWT-Miror B Wanderer-2
-tags: [in-game, PWT-Miror B Wanderer]
-item: [Null]
+tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Rain Dance]
-    - [Hydro Pump]
-    - [Giga Drain]
-    - [Counter]
-gender: [m,f]
+- [Rain Dance]
+- [Hydro Pump]
+- [Giga Drain]
+- [Counter]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -160,17 +140,17 @@ rarity: 1.0
 ---
 species: Ludicolo
 setname: PWT-Miror B Wanderer-3
-tags: [in-game, PWT-Miror B Wanderer]
-item: [Null]
+tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Rain Dance]
-    - [Waterfall]
-    - [Giga Drain]
-    - [Brick Break]
-gender: [m,f]
+- [Rain Dance]
+- [Waterfall]
+- [Giga Drain]
+- [Brick Break]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -180,17 +160,17 @@ rarity: 1.0
 ---
 species: Ludicolo
 setname: PWT-Miror B Wanderer-4
-tags: [in-game, PWT-Miror B Wanderer]
-item: [Null]
+tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Rain Dance]
-    - [Thunder Punch]
-    - [Ice Punch]
-    - [Fire Punch]
-gender: [m,f]
+- [Rain Dance]
+- [Thunder Punch]
+- [Ice Punch]
+- [Fire Punch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -200,17 +180,17 @@ rarity: 1.0
 ---
 species: Ludicolo
 setname: PWT-Miror B Wanderer-5
-tags: [in-game, PWT-Miror B Wanderer]
-item: [Null]
+tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+item: [null]
 ability: [Swift Swim]
 moves:
-    - [Rain Dance]
-    - [Hydro Pump]
-    - [Giga Drain]
-    - [Seismic Toss]
-gender: [m,f]
+- [Rain Dance]
+- [Hydro Pump]
+- [Giga Drain]
+- [Seismic Toss]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -220,19 +200,19 @@ rarity: 1.0
 ---
 species: Ludicolo
 setname: PWT-Wallace Tournament
-tags: [in-game, PWT-Wallace Tournament]
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
 item: [Life Orb]
 ability: [Swift Swim, Rain Dish]
 moves:
-    - [Surf]
-    - [Focus Blast]
-    - [Giga Drain]
-    - [Rain Dance]
-gender: [m,f]
+- [Surf]
+- [Focus Blast]
+- [Giga Drain]
+- [Rain Dance]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 25
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

@@ -1,16 +1,16 @@
 species: Onix
 setname: PWT-Bruno
-tags: [in-game, PWT-Bruno]
-item: [Null]
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Earthquake]
-    - [Rock Tomb]
-    - [Iron Tail]
-    - [Roar]
-gender: [m,f]
+- [Earthquake]
+- [Rock Tomb]
+- [Iron Tail]
+- [Roar]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Onix
 setname: PWT-Bruno-2
-tags: [in-game, PWT-Bruno]
-item: [Null]
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Double Edge]
-    - [Iron Tail]
-    - [Earthquake]
-    - [Sand Tomb]
-gender: [m,f]
+- [Double Edge]
+- [Iron Tail]
+- [Earthquake]
+- [Sand Tomb]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Onix
 setname: PWT-Bruno2
-tags: [in-game, PWT-Bruno2]
-item: [Null]
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Sandstorm]
-    - [Dragon Breath]
-    - [Rock Slide]
-    - [Earthquake]
-gender: [m,f]
+- [Sandstorm]
+- [Dragon Breath]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,16 +60,16 @@ rarity: 1.0
 ---
 species: Onix
 setname: PWT-Brock
-tags: [in-game, PWT-Brock]
-item: [Null]
+tags: [in-game, PWT-Brock, trainer+brock]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Tackle]
-    - [Bind]
-    - [Rock Tomb]
+- [Tackle]
+- [Bind]
+- [Rock Tomb]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -79,17 +79,17 @@ rarity: 1.0
 ---
 species: Onix
 setname: PWT-Brock2
-tags: [in-game, PWT-Brock2]
-item: [Null]
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Screech]
-    - [Sandstorm]
-    - [Iron Tail]
-    - [Rock Slide]
-gender: [m,f]
+- [Screech]
+- [Sandstorm]
+- [Iron Tail]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -99,17 +99,17 @@ rarity: 1.0
 ---
 species: Onix
 setname: PWT-Brock2 Rematch
-tags: [in-game, PWT-Brock2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Brock2 Rematch, trainer+brock]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Stealth Rock]
-    - [Rock Slide]
-    - [Rock Polish]
-    - [Sandstorm]
-gender: [m,f]
+- [Stealth Rock]
+- [Rock Slide]
+- [Rock Polish]
+- [Sandstorm]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -119,16 +119,16 @@ rarity: 1.0
 ---
 species: Onix
 setname: PWT-Roark
-tags: [in-game, PWT-Roark]
-item: [Null]
+tags: [in-game, PWT-Roark, trainer+roark]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Rock Throw]
-    - [Screech]
-    - [Stealth Rock]
-gender: [m,f]
+- [Rock Throw]
+- [Screech]
+- [Stealth Rock]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -138,19 +138,19 @@ rarity: 1.0
 ---
 species: Onix
 setname: PWT-Brock Tournament
-tags: [in-game, PWT-Brock Tournament]
+tags: [in-game, PWT-Brock Tournament, trainer+brock]
 item: [Salac Berry]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Sand Tomb]
-    - [Protect]
-    - [Stealth Rock]
-    - [Sandstorm]
-gender: [m,f]
+- [Sand Tomb]
+- [Protect]
+- [Stealth Rock]
+- [Sandstorm]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -158,19 +158,19 @@ rarity: 1.0
 ---
 species: Onix
 setname: PWT-Roark Tournament
-tags: [in-game, PWT-Roark Tournament]
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
 item: [Rindo Berry]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Stone Edge]
-    - [Roar]
-    - [Sandstorm]
-    - [Stealth Rock]
-gender: [m,f]
+- [Stone Edge]
+- [Roar]
+- [Sandstorm]
+- [Stealth Rock]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

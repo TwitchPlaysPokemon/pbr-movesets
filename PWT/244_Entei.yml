@@ -1,15 +1,15 @@
 species: Entei
 setname: PWT-Anabel
-tags: [in-game, PWT-Anabel]
+tags: [in-game, PWT-Anabel, trainer+anabel]
 item: [Lum Berry]
 ability: [Pressure]
 moves:
-    - [Fire Blast]
-    - [Calm Mind]
-    - [Return]
-    - [Roar]
+- [Fire Blast]
+- [Calm Mind]
+- [Return]
+- [Roar]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,16 +1,16 @@
 species: Pidgeot
 setname: PWT-Blue Champion
-tags: [in-game, PWT-Blue Champion]
-item: [Null]
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Aerial Ace]
-    - [Feather Dance]
-    - [Sand Attack]
-    - [Whirlwind]
-gender: [m,f]
+- [Aerial Ace]
+- [Feather Dance]
+- [Sand Attack]
+- [Whirlwind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Pidgeot
 setname: PWT-Blue Gym
-tags: [in-game, PWT-Blue Gym]
-item: [Null]
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
 ability: [Tangled Feet]
 moves:
-    - [Return]
-    - [Whirlwind]
-    - [Air Slash]
-    - [Mirror Move]
-gender: [m,f]
+- [Return]
+- [Whirlwind]
+- [Air Slash]
+- [Mirror Move]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Pidgeot
 setname: PWT-Blue Gym Rematch
-tags: [in-game, PWT-Blue Gym Rematch]
-item: [Null]
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [null]
 ability: [Tangled Feet]
 moves:
-    - [Return]
-    - [Double Team]
-    - [Air Slash]
-    - [Steel Wing]
-gender: [m,f]
+- [Return]
+- [Double Team]
+- [Air Slash]
+- [Steel Wing]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Pidgeot
 setname: PWT-Falkner Rematch
-tags: [in-game, PWT-Falkner Rematch]
-item: [Null]
+tags: [in-game, PWT-Falkner Rematch, trainer+falkner]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Return]
-    - [Double Team]
-    - [Swagger]
-    - [Roost]
-gender: [m,f]
+- [Return]
+- [Double Team]
+- [Swagger]
+- [Roost]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Pidgeot
 setname: PWT-Azure
-tags: [in-game, PWT-Azure]
+tags: [in-game, PWT-Azure, trainer+azure]
 item: [Sharp Beak]
-ability: [Null]
+ability: [null]
 moves:
-    - [Wing Attack]
-    - [Sand Attack]
-    - [Sky Attack]
-    - [Whirlwind]
+- [Wing Attack]
+- [Sand Attack]
+- [Sky Attack]
+- [Whirlwind]
 gender: [f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,19 +100,19 @@ rarity: 1.0
 ---
 species: Pidgeot
 setname: PWT-Falkner Tournament
-tags: [in-game, PWT-Falkner Tournament]
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
 item: [Sitrus Berry]
 ability: [Keen Eye, Tangled Feet]
 moves:
-    - [Brave Bird]
-    - [Tail Wind]
-    - [Heat Wave]
-    - [U-Turn]
-gender: [m,f]
+- [Brave Bird]
+- [Tail Wind]
+- [Heat Wave]
+- [U-Turn]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

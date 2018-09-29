@@ -1,14 +1,14 @@
 species: Zubat
 setname: PWT-Team Skull
-tags: [in-game, PWT-Team Skull]
-item: [Null]
+tags: [in-game, PWT-Team Skull, trainer+teamskull]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Leech Life]
-    - [Leer]
+- [Leech Life]
+- [Leer]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -18,17 +18,17 @@ rarity: 1.0
 ---
 species: Zubat
 setname: PWT-Petrel
-tags: [in-game, PWT-Petrel]
-item: [Null]
+tags: [in-game, PWT-Petrel, trainer+petrel]
+item: [null]
 ability: [Inner Focus]
 moves:
-    - [Astonish]
-    - [Bite]
-    - [Wing Attack]
-    - [Confuse Ray]
-gender: [m,f]
+- [Astonish]
+- [Bite]
+- [Wing Attack]
+- [Confuse Ray]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

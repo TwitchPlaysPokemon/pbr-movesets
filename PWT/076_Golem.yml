@@ -1,16 +1,16 @@
 species: Golem
 setname: PWT-Bertha
-tags: [in-game, PWT-Bertha]
-item: [Null]
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Earthquake]
-    - [Fire Punch]
-    - [Thunder Punch]
-    - [Sandstorm]
-gender: [m,f]
+- [Earthquake]
+- [Fire Punch]
+- [Thunder Punch]
+- [Sandstorm]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Golem
 setname: PWT-Brock2 Rematch
-tags: [in-game, PWT-Brock2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Brock2 Rematch, trainer+brock]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Sandstorm]
-    - [Rock Slide]
-    - [Rock Polish]
-    - [Earthquake]
-gender: [m,f]
+- [Sandstorm]
+- [Rock Slide]
+- [Rock Polish]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Golem
 setname: PWT-Roark Rematch
-tags: [in-game, PWT-Roark Rematch]
-item: [Null]
+tags: [in-game, PWT-Roark Rematch, trainer+roark]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Stone Edge]
-    - [Earthquake]
-    - [Brick Break]
-    - [Flamethrower]
-gender: [m,f]
+- [Stone Edge]
+- [Earthquake]
+- [Brick Break]
+- [Flamethrower]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Golem
 setname: PWT-Roxanne Rematch
-tags: [in-game, PWT-Roxanne Rematch]
-item: [Null]
+tags: [in-game, PWT-Roxanne Rematch, trainer+roxanne]
+item: [null]
 ability: [Sturdy]
 moves:
-    - [Focus Punch]
-    - [Rollout]
-    - [Earthquake]
-    - [Explosion]
-gender: [m,f]
+- [Focus Punch]
+- [Rollout]
+- [Earthquake]
+- [Explosion]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,19 +80,19 @@ rarity: 1.0
 ---
 species: Golem
 setname: PWT-Brock Tournament
-tags: [in-game, PWT-Brock Tournament]
+tags: [in-game, PWT-Brock Tournament, trainer+brock]
 item: [Black Glasses]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Stone Edge]
-    - [Earthquake]
-    - [Sucker Punch]
-    - [Iron Defense]
-gender: [m,f]
+- [Stone Edge]
+- [Earthquake]
+- [Sucker Punch]
+- [Iron Defense]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -100,19 +100,19 @@ rarity: 1.0
 ---
 species: Golem
 setname: PWT-Giovanni Tournament
-tags: [in-game, PWT-Giovanni Tournament]
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
 item: [Rindo Berry]
 ability: [Rock Head, Sturdy]
 moves:
-    - [Roar]
-    - [Stealth Rock]
-    - [Earthquake]
-    - [Rock Blast]
-gender: [m,f]
+- [Roar]
+- [Stealth Rock]
+- [Earthquake]
+- [Rock Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -120,37 +120,37 @@ rarity: 1.0
 ---
 species: Golem
 setname: PWT-Roxanne Tournament
-tags: [in-game, PWT-Roxanne Tournament]
+tags: [in-game, PWT-Roxanne Tournament, trainer+roxanne]
 item: [Salac Berry]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Rock Slide]
-    - [Iron Head]
-    - [X-Scissor]
-    - [Rock Polish]
+- [Rock Slide]
+- [Iron Head]
+- [X-Scissor]
+- [Rock Polish]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
-gender: [m,f]
+gender: [m, f]
 ---
 species: Golem
 setname: PWT-Roark Tournament
-tags: [in-game, PWT-Roark Tournament]
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
 item: [Passho Berry]
 ability: [Sturdy, Rock Head]
 moves:
-    - [Stealth Rock]
-    - [Gyro Ball]
-    - [Hammer Arm]
-    - [Curse]
-gender: [m,f]
+- [Stealth Rock]
+- [Gyro Ball]
+- [Hammer Arm]
+- [Curse]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Brave
 ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}

@@ -1,6 +1,6 @@
 species: Dusknoir
 setname: PWT-Morty Rematch
-tags: [in-game, PWT-Morty Rematch]
+tags: [in-game, PWT-Morty Rematch, trainer+morty]
 item: [null]
 ability: [Pressure]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Dusknoir
 setname: PWT-Fantina Rematch
-tags: [in-game, PWT-Fantina Rematch]
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
 item: [null]
 ability: [Pressure]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Dusknoir
 setname: PWT-Buck
-tags: [in-game, PWT-Buck]
+tags: [in-game, PWT-Buck, trainer+buck]
 item: [null]
 ability: [Pressure]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Dusknoir
 setname: PWT-Morty Tournament
-tags: [in-game, PWT-Morty Tournament]
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
 item: [Sitrus Berry]
 ability: [Pressure]
 moves:
@@ -72,7 +72,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Dusknoir
 setname: PWT-Fantina Tournament
-tags: [in-game, PWT-Fantina Tournament]
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
 item: [Apicot Berry]
 ability: [Pressure]
 moves:
@@ -92,7 +92,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

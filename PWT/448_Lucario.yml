@@ -1,6 +1,6 @@
 species: Lucario
 setname: PWT-Cynthia
-tags: [in-game, PWT-Cynthia]
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
 item: [null]
 ability: [Steadfast]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Lucario
 setname: PWT-Bruno2 Rematch
-tags: [in-game, PWT-Bruno2 Rematch]
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
 item: [null]
 ability: [Inner Focus]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Lucario
 setname: PWT-Maylene
-tags: [in-game, PWT-Maylene]
+tags: [in-game, PWT-Maylene, trainer+maylene]
 item: [null]
 ability: [Steadfast]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Lucario
 setname: PWT-Maylene Rematch
-tags: [in-game, PWT-Maylene Rematch]
+tags: [in-game, PWT-Maylene Rematch, trainer+maylene]
 item: [null]
 ability: [Steadfast]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Lucario
 setname: PWT-Riley
-tags: [in-game, PWT-Riley]
+tags: [in-game, PWT-Riley, trainer+riley]
 item: [null]
 ability: [Steadfast]
 moves:
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Lucario
 setname: PWT-Cynthia Tournament
-tags: [in-game, PWT-Cynthia Tournament]
+tags: [in-game, PWT-Cynthia Tournament, trainer+cynthia]
 item: [Life Orb]
 ability: [Steadfast, Inner Focus]
 moves:
@@ -112,7 +112,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 25
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -120,7 +120,7 @@ rarity: 1.0
 ---
 species: Lucario
 setname: PWT-Maylene Tournament
-tags: [in-game, PWT-Maylene Tournament]
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
 item: [Liechi Berry]
 ability: [Steadfast, Inner Focus]
 moves:
@@ -132,7 +132,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

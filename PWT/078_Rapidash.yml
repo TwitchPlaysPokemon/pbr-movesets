@@ -1,16 +1,16 @@
 species: Rapidash
 setname: PWT-Barry
-tags: [in-game, PWT-Barry]
-item: [Null]
+tags: [in-game, PWT-Barry, trainer+barry]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Fire Blast]
-    - [Bounce]
-    - [Will-O-Wisp]
-    - [Sunny Day]
-gender: [m,f]
+- [Fire Blast]
+- [Bounce]
+- [Will-O-Wisp]
+- [Sunny Day]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Rapidash
 setname: PWT-Flint
-tags: [in-game, PWT-Flint]
-item: [Null]
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
 ability: [Run Away]
 moves:
-    - [Flare Blitz]
-    - [Solar Beam]
-    - [Bounce]
-    - [Sunny Day]
-gender: [m,f]
+- [Flare Blitz]
+- [Solar Beam]
+- [Bounce]
+- [Sunny Day]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Rapidash
 setname: PWT-Blaine
-tags: [in-game, PWT-Blaine]
-item: [Null]
+tags: [in-game, PWT-Blaine, trainer+blaine]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Stomp]
-    - [Bounce]
-    - [Fire Spin]
-    - [Fire Blast]
-gender: [m,f]
+- [Stomp]
+- [Bounce]
+- [Fire Spin]
+- [Fire Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Rapidash
 setname: PWT-Blaine2
-tags: [in-game, PWT-Blaine2]
-item: [Null]
+tags: [in-game, PWT-Blaine2, trainer+blaine]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Quick Attack]
-    - [Bounce]
-    - [Overheat]
-    - [Flare Blitz]
-gender: [m,f]
+- [Quick Attack]
+- [Bounce]
+- [Overheat]
+- [Flare Blitz]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Rapidash
 setname: PWT-Blaine2 Rematch
-tags: [in-game, PWT-Blaine2 Rematch]
-item: [Null]
+tags: [in-game, PWT-Blaine2 Rematch, trainer+blaine]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Flare Blitz]
-    - [Megahorn]
-    - [Quick Attack]
-    - [Overheat]
-gender: [m,f]
+- [Flare Blitz]
+- [Megahorn]
+- [Quick Attack]
+- [Overheat]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Rapidash
 setname: PWT-Flannery Rematch
-tags: [in-game, PWT-Flannery Rematch]
-item: [Null]
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [null]
 ability: [Flash Fire]
 moves:
-    - [Flamethrower]
-    - [Attract]
-    - [Solar Beam]
-    - [Bounce]
-gender: [m,f]
+- [Flamethrower]
+- [Attract]
+- [Solar Beam]
+- [Bounce]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -120,19 +120,19 @@ rarity: 1.0
 ---
 species: Rapidash
 setname: PWT-Blaine Tournament
-tags: [in-game, PWT-Blaine Tournament]
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
 item: [Shuca Berry]
 ability: [Run Away, Flash Fire]
 moves:
-    - [Flare Blitz]
-    - [Megahorn]
-    - [Volt Tackle]
-    - [Hypnosis]
-gender: [m,f]
+- [Flare Blitz]
+- [Megahorn]
+- [Volt Tackle]
+- [Hypnosis]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

@@ -1,15 +1,15 @@
 species: Pidgeotto
 setname: PWT-Falkner
-tags: [in-game, PWT-Falkner]
-item: [Null]
+tags: [in-game, PWT-Falkner, trainer+falkner]
+item: [null]
 ability: [Keen Eye]
 moves:
-    - [Tackle]
-    - [Roost]
-    - [Gust]
-gender: [m,f]
+- [Tackle]
+- [Roost]
+- [Gust]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

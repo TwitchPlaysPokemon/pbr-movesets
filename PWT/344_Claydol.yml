@@ -1,6 +1,6 @@
 species: Claydol
 setname: PWT-Steven
-tags: [in-game, PWT-Steven]
+tags: [in-game, PWT-Steven, trainer+steven]
 item: [null]
 ability: [Levitate]
 moves:
@@ -19,7 +19,7 @@ rarity: 1.0
 ---
 species: Claydol
 setname: PWT-Tate and Liza
-tags: [in-game, PWT-Tate and Liza]
+tags: [in-game, PWT-Tate and Liza, trainer+tate, trainer+liza]
 item: [null]
 ability: [Levitate]
 moves:
@@ -38,7 +38,7 @@ rarity: 1.0
 ---
 species: Claydol
 setname: PWT-Tate and Liza Rematch
-tags: [in-game, PWT-Tate and Liza Rematch]
+tags: [in-game, PWT-Tate and Liza Rematch, trainer+tate, trainer+liza]
 item: [null]
 ability: [Levitate]
 moves:
@@ -57,7 +57,7 @@ rarity: 1.0
 ---
 species: Claydol
 setname: PWT-Buck
-tags: [in-game, PWT-Buck]
+tags: [in-game, PWT-Buck, trainer+buck]
 item: [null]
 ability: [Levitate]
 moves:
@@ -76,7 +76,7 @@ rarity: 1.0
 ---
 species: Claydol
 setname: PWT-Tate Tournament
-tags: [in-game, PWT-Tate Tournament]
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
 item: [Sitrus Berry]
 ability: [Levitate]
 moves:
@@ -87,7 +87,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -95,7 +95,7 @@ rarity: 1.0
 ---
 species: Claydol
 setname: PWT-Liza Tournament
-tags: [in-game, PWT-Liza Tournament]
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
 item: [Sitrus Berry]
 ability: [Levitate]
 moves:
@@ -106,7 +106,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

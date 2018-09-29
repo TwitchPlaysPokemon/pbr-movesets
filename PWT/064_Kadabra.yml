@@ -1,16 +1,16 @@
 species: Kadabra
 setname: PWT-Sabrina
-tags: [in-game, PWT-Sabrina]
-item: [Null]
+tags: [in-game, PWT-Sabrina, trainer+sabrina]
+item: [null]
 ability: [Synchronize]
 moves:
-    - [Psybeam]
-    - [Reflect]
-    - [Future Sight]
-    - [Calm Mind]
-gender: [m,f]
+- [Psybeam]
+- [Reflect]
+- [Future Sight]
+- [Calm Mind]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

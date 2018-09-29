@@ -1,6 +1,6 @@
 species: Camerupt
 setname: PWT-Maxie
-tags: [in-game, PWT-Maxie]
+tags: [in-game, PWT-Maxie, trainer+maxie]
 item: [null]
 ability: [Magma Armor]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Camerupt
 setname: PWT-Blaine2 Rematch
-tags: [in-game, PWT-Blaine2 Rematch]
+tags: [in-game, PWT-Blaine2 Rematch, trainer+blaine]
 item: [null]
 ability: [Solid Rock]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Camerupt
 setname: PWT-Flannery
-tags: [in-game, PWT-Flannery]
+tags: [in-game, PWT-Flannery, trainer+flannery]
 item: [null]
 ability: [Magma Armor]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Camerupt
 setname: PWT-Flannery Rematch
-tags: [in-game, PWT-Flannery Rematch]
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
 item: [White Herb]
 ability: [Magma Armor]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Camerupt
 setname: PWT-Flannery Tournament
-tags: [in-game, PWT-Flannery Tournament]
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
 item: [Passho Berry]
 ability: [Magma Armor, Solid Rock]
 moves:
@@ -92,7 +92,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
@@ -100,17 +100,17 @@ rarity: 1.0
 ---
 species: Camerupt
 setname: PWT-Maxie RR
-tags: [in-game, PWT-Maxie RR]
-item: [Null]
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
 ability: [Magma Armor]
 moves:
-    - [Earthquake]
-    - [Stone Edge]
-    - [Flamethrower]
-    - [Flash Cannon]
-gender: [m,f]
+- [Earthquake]
+- [Stone Edge]
+- [Flamethrower]
+- [Flash Cannon]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

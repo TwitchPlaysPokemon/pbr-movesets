@@ -1,6 +1,6 @@
 species: Luxray
 setname: PWT-Volkner
-tags: [in-game, PWT-Volkner]
+tags: [in-game, PWT-Volkner, trainer+volkner]
 item: [null]
 ability: [Rivalry]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Luxray
 setname: PWT-Volkner Rematch
-tags: [in-game, PWT-Volkner Rematch]
+tags: [in-game, PWT-Volkner Rematch, trainer+volkner]
 item: [null]
 ability: [Rivalry]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Luxray
 setname: PWT-Volkner Tournament
-tags: [in-game, PWT-Volkner Tournament]
+tags: [in-game, PWT-Volkner Tournament, trainer+volkner]
 item: [Shuca Berry]
 ability: [Rivalry, Intimidate]
 moves:
@@ -52,7 +52,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

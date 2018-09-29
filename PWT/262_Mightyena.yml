@@ -1,16 +1,16 @@
 species: Mightyena
 setname: PWT-Archie
-tags: [in-game, PWT-Archie]
-item: [Null]
+tags: [in-game, PWT-Archie, trainer+archie]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Roar]
-    - [Swagger]
-    - [Scary Face]
-    - [Take Down]
-gender: [m,f]
+- [Roar]
+- [Swagger]
+- [Scary Face]
+- [Take Down]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Mightyena
 setname: PWT-Maxie
-tags: [in-game, PWT-Maxie]
-item: [Null]
+tags: [in-game, PWT-Maxie, trainer+maxie]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Swagger]
-    - [Scary Face]
-    - [Take Down]
-    - [Taunt]
-gender: [m,f]
+- [Swagger]
+- [Scary Face]
+- [Take Down]
+- [Taunt]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Mightyena
 setname: PWT-Sydney
-tags: [in-game, PWT-Sydney]
-item: [Null]
+tags: [in-game, PWT-Sydney, trainer+sydney]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Roar]
-    - [Double Edge]
-    - [Sand Attack]
-    - [Crunch]
-gender: [m,f]
+- [Roar]
+- [Double Edge]
+- [Sand Attack]
+- [Crunch]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -60,17 +60,17 @@ rarity: 1.0
 ---
 species: Mightyena
 setname: PWT-Archie RR
-tags: [in-game, PWT-Archie RR]
-item: [Null]
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Crunch]
-    - [Fire Fang]
-    - [Thunder Fang]
-    - [Ice Fang]
-gender: [m,f]
+- [Crunch]
+- [Fire Fang]
+- [Thunder Fang]
+- [Ice Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -80,17 +80,17 @@ rarity: 1.0
 ---
 species: Mightyena
 setname: PWT-Maxie RR
-tags: [in-game, PWT-Maxie RR]
-item: [Null]
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Crunch]
-    - [Fire Fang]
-    - [Thunder Fang]
-    - [Ice Fang]
-gender: [m,f]
+- [Crunch]
+- [Fire Fang]
+- [Thunder Fang]
+- [Ice Fang]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

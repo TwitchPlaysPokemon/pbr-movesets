@@ -1,16 +1,16 @@
 species: Drowzee
 setname: PWT-Eusine
-tags: [in-game, PWT-Eusine]
-item: [Null]
+tags: [in-game, PWT-Eusine, trainer+eusine]
+item: [null]
 ability: [Insomnia]
 moves:
-    - [Hypnosis]
-    - [Disable]
-    - [Confusion]
-    - [Dream Eater]
-gender: [m,f]
+- [Hypnosis]
+- [Disable]
+- [Confusion]
+- [Dream Eater]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

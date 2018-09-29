@@ -1,6 +1,6 @@
 species: Slaking
 setname: PWT-Norman
-tags: [in-game, PWT-Norman]
+tags: [in-game, PWT-Norman, trainer+norman]
 item: [null]
 ability: [Truant]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Slaking
 setname: PWT-Norman Rematch
-tags: [in-game, PWT-Norman Rematch]
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
 item: [null]
 ability: [Truant]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Slaking
 setname: PWT-Norman Rematch-2
-tags: [in-game, PWT-Norman Rematch]
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
 item: [null]
 ability: [Truant]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Slaking
 setname: PWT-Norman Tournament
-tags: [in-game, PWT-Norman Tournament]
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
 item: [Sitrus Berry]
 ability: [Truant]
 moves:
@@ -72,7 +72,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

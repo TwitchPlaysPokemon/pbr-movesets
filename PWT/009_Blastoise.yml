@@ -1,6 +1,6 @@
 species: Blastoise
 setname: PWT-Blue Champion
-tags: [in-game, PWT-Blue Champion]
+tags: [in-game, PWT-Blue Champion, trainer+blue]
 item: [null]
 ability: [Torrent]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Blastoise
 setname: PWT-Blue Champion Rematch
-tags: [in-game, PWT-Blue Champion Rematch]
+tags: [in-game, PWT-Blue Champion Rematch, trainer+blue]
 item: [null]
 ability: [Torrent]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Blastoise
 setname: PWT-Professor Oak
-tags: [in-game, PWT-Professor Oak]
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
 item: [null]
 ability: [null]
 moves:
@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Blastoise
 setname: PWT-Red
-tags: [in-game, PWT-Red]
+tags: [in-game, PWT-Red, trainer+red]
 item: [null]
 ability: [Torrent]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Blastoise
 setname: PWT-Misty Tournament
-tags: [in-game, PWT-Misty Tournament]
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
 item: [Salac Berry]
 ability: [Torrent]
 moves:
@@ -92,7 +92,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -100,7 +100,7 @@ rarity: 1.0
 ---
 species: Blastoise
 setname: PWT-Red Tournament
-tags: [in-game, PWT-Red Tournament]
+tags: [in-game, PWT-Red Tournament, trainer+red]
 item: [Choice Scarf]
 ability: [Torrent]
 moves:
@@ -112,7 +112,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 25
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

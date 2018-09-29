@@ -1,16 +1,16 @@
 species: Growlithe
 setname: PWT-Blaine
-tags: [in-game, PWT-Blaine]
-item: [Null]
+tags: [in-game, PWT-Blaine, trainer+blaine]
+item: [null]
 ability: [Intimidate]
 moves:
-    - [Bite]
-    - [Roar]
-    - [Take Down]
-    - [Fire Blast]
-gender: [m,f]
+- [Bite]
+- [Roar]
+- [Take Down]
+- [Fire Blast]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

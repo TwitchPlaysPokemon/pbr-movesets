@@ -1,6 +1,6 @@
 species: Yanmega
 setname: PWT-Aaron
-tags: [in-game, PWT-Aaron]
+tags: [in-game, PWT-Aaron, trainer+aaron]
 item: [null]
 ability: [Speed Boost]
 moves:
@@ -20,7 +20,7 @@ rarity: 1.0
 ---
 species: Yanmega
 setname: PWT-Bugsy Rematch
-tags: [in-game, PWT-Bugsy Rematch]
+tags: [in-game, PWT-Bugsy Rematch, trainer+bugsy]
 item: [null]
 ability: [Tinted Lens]
 moves:
@@ -40,7 +40,7 @@ rarity: 1.0
 ---
 species: Yanmega
 setname: PWT-Bugsy Tournament
-tags: [in-game, PWT-Bugsy Tournament]
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Charti Berry]
 ability: [Speed Boost, Tinted Lens]
 moves:
@@ -52,7 +52,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

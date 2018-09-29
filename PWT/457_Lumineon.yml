@@ -1,6 +1,6 @@
 species: Lumineon
 setname: PWT-Crasher Wake Tournament
-tags: [in-game, PWT-Crasher Wake Tournament]
+tags: [in-game, PWT-Crasher Wake Tournament, trainer+crasherwake]
 item: [NeverMeltIce]
 ability: [Swift Swim, Storm Drain]
 moves:
@@ -12,7 +12,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Modest
+nature: Timid
 ivs: 20
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100

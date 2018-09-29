@@ -1,16 +1,16 @@
 species: Tangela
 setname: PWT-Erika
-tags: [in-game, PWT-Erika]
-item: [Null]
+tags: [in-game, PWT-Erika, trainer+erika]
+item: [null]
 ability: [Chlorophyll]
 moves:
-    - [Poison Powder]
-    - [Constrict]
-    - [Ingrain]
-    - [Giga Drain]
-gender: [m,f]
+- [Poison Powder]
+- [Constrict]
+- [Ingrain]
+- [Giga Drain]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Tangela
 setname: PWT-Erika2
-tags: [in-game, PWT-Erika2]
-item: [Null]
+tags: [in-game, PWT-Erika2, trainer+erika]
+item: [null]
 ability: [Chlorophyll]
 moves:
-    - [Ancient Power]
-    - [Wring Out]
-    - [Giga Drain]
-    - [Sleep Powder]
-gender: [m,f]
+- [Ancient Power]
+- [Wring Out]
+- [Giga Drain]
+- [Sleep Powder]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

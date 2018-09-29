@@ -1,6 +1,6 @@
 species: Zangoose
 setname: PWT-Norman Tournament
-tags: [in-game, PWT-Norman Tournament]
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
 item: [Liechi Berry]
 ability: [Immunity]
 moves:
@@ -12,7 +12,7 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100

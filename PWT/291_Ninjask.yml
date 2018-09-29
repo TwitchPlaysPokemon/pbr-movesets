@@ -1,16 +1,16 @@
 species: Ninjask
 setname: PWT-Marley
-tags: [in-game, PWT-Marley]
-item: [Null]
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
 ability: [Speed Boost]
 moves:
-    - [Swords Dance]
-    - [Aerial Ace]
-    - [X-Scissor]
-    - [Slash]
+- [Swords Dance]
+- [Aerial Ace]
+- [X-Scissor]
+- [Slash]
 happiness: 255
-biddable: False
-gender: [m,f]
+biddable: false
+gender: [m, f]
 ball: [Poke]
 nature: Serious
 ivs: 0

@@ -1,16 +1,16 @@
 species: Piloswine
 setname: PWT-Lorelei Rematch
-tags: [in-game, PWT-Lorelei Rematch]
-item: [Null]
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
+item: [null]
 ability: [Oblivious]
 moves:
-    - [Earthquake]
-    - [Blizzard]
-    - [Double Edge]
-    - [Rock Slide]
-gender: [m,f]
+- [Earthquake]
+- [Blizzard]
+- [Double Edge]
+- [Rock Slide]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Piloswine
 setname: PWT-Pryce
-tags: [in-game, PWT-Pryce]
-item: [Null]
+tags: [in-game, PWT-Pryce, trainer+pryce]
+item: [null]
 ability: [Snow Cloak]
 moves:
-    - [Blizzard]
-    - [Ice Fang]
-    - [Mud Bomb]
-    - [Hail]
-gender: [m,f]
+- [Blizzard]
+- [Ice Fang]
+- [Mud Bomb]
+- [Hail]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Piloswine
 setname: PWT-Candice
-tags: [in-game, PWT-Candice]
-item: [Null]
+tags: [in-game, PWT-Candice, trainer+candice]
+item: [null]
 ability: [Oblivious]
 moves:
-    - [Hail]
-    - [Earthquake]
-    - [Slash]
-    - [Avalanche]
-gender: [m,f]
+- [Hail]
+- [Earthquake]
+- [Slash]
+- [Avalanche]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

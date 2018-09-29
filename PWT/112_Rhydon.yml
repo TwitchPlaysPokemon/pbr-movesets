@@ -1,16 +1,16 @@
 species: Rhydon
 setname: PWT-Blue Champion
-tags: [in-game, PWT-Blue Champion]
-item: [Null]
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
 ability: [Lightningrod]
 moves:
-    - [Take Down]
-    - [Earthquake]
-    - [Rock Tomb]
-    - [Scary Face]
-gender: [m,f]
+- [Take Down]
+- [Earthquake]
+- [Rock Tomb]
+- [Scary Face]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Rhydon
 setname: PWT-Blue Gym
-tags: [in-game, PWT-Blue Gym]
-item: [Null]
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
 ability: [Rock Head]
 moves:
-    - [Megahorn]
-    - [Stone Edge]
-    - [Thunder Fang]
-    - [Earthquake]
-gender: [m,f]
+- [Megahorn]
+- [Stone Edge]
+- [Thunder Fang]
+- [Earthquake]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,17 +40,17 @@ rarity: 1.0
 ---
 species: Rhydon
 setname: PWT-Azure
-tags: [in-game, PWT-Azure]
+tags: [in-game, PWT-Azure, trainer+azure]
 item: [Scope Lens]
-ability: [Null]
+ability: [null]
 moves:
-    - [Take Down]
-    - [Earthquake]
-    - [Horn Drill]
-    - [Scary Face]
-gender: [m,f]
+- [Take Down]
+- [Earthquake]
+- [Horn Drill]
+- [Scary Face]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0

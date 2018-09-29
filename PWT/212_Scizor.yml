@@ -1,16 +1,16 @@
 species: Scizor
 setname: PWT-Aaron
-tags: [in-game, PWT-Aaron]
-item: [Null]
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
 ability: [Swarm]
 moves:
-    - [X-Scissor]
-    - [Iron Head]
-    - [Night Slash]
-    - [Quick Attack]
-gender: [m,f]
+- [X-Scissor]
+- [Iron Head]
+- [Night Slash]
+- [Quick Attack]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -20,17 +20,17 @@ rarity: 1.0
 ---
 species: Scizor
 setname: PWT-Bugsy Rematch
-tags: [in-game, PWT-Bugsy Rematch]
-item: [Null]
+tags: [in-game, PWT-Bugsy Rematch, trainer+bugsy]
+item: [null]
 ability: [Technician]
 moves:
-    - [X-Scissor]
-    - [Swords Dance]
-    - [Bullet Punch]
-    - [Superpower]
-gender: [m,f]
+- [X-Scissor]
+- [Swords Dance]
+- [Bullet Punch]
+- [Superpower]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
@@ -40,19 +40,19 @@ rarity: 1.0
 ---
 species: Scizor
 setname: PWT-Bugsy Tournament
-tags: [in-game, PWT-Bugsy Tournament]
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Occa Berry]
 ability: [Swarm, Technician]
 moves:
-    - [Swords Dance]
-    - [Aerial Ace]
-    - [Bullet Punch]
-    - [X-Scissor]
-gender: [m,f]
+- [Swords Dance]
+- [Aerial Ace]
+- [Bullet Punch]
+- [X-Scissor]
+gender: [m, f]
 happiness: 255
-biddable: False
+biddable: false
 ball: [Poke]
-nature: Adamant
+nature: Jolly
 ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
@@ -60,8 +60,8 @@ rarity: 1.0
 ---
 species: Scizor
 setname: PWT-Guzma
-tags: [in-game, PWT-Guzma]
-item: [Null]
+tags: [in-game, PWT-Guzma, trainer+guzma]
+item: [null]
 ability: [Technician]
 moves:
 - [X-Scissor]
