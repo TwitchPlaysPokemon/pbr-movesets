@@ -171,13 +171,12 @@ species: Electrode
 setname: PWT-Lt. Surge Tournament2
 tags: [in-game, PWT-Lt. Surge Tournament2, trainer+ltsurge]
 item: [Focus Sash]
-ability: [Soundproof]
+ability: [Soundproof, Static]
 moves:
 - [Double Team]
 - [Signal Beam]
 - [Thunder Wave]
 - [Thunderbolt]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -191,13 +190,12 @@ species: Electrode
 setname: PWT-Wattson Tournament2
 tags: [in-game, PWT-Wattson Tournament2, trainer+wattson]
 item: [Shuca Berry]
-ability: [Soundproof]
+ability: [Soundproof, Static]
 moves:
 - [Swagger]
 - [Thunder Wave]
 - [Thunder]
 - [Signal Beam]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -211,13 +209,12 @@ species: Electrode
 setname: PWT-Volkner Tournament2
 tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
 item: [Magnet]
-ability: [Soundproof]
+ability: [Soundproof, Static]
 moves:
 - [Taunt]
 - [Torment]
 - [Thunder]
 - [Signal Beam]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

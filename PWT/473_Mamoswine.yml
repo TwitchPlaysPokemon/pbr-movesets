@@ -82,7 +82,7 @@ species: Mamoswine
 setname: PWT-Pryce Tournament2
 tags: [in-game, PWT-Pryce Tournament2, trainer+pryce]
 item: [Focus Sash]
-ability: [Oblivious]
+ability: [Oblivious, Snow Cloak]
 moves:
 - [Icicle Spear]
 - [Ice Shard]
@@ -102,7 +102,7 @@ species: Mamoswine
 setname: PWT-Candice Tournament2
 tags: [in-game, PWT-Candice Tournament2, trainer+candice]
 item: [Salac Berry]
-ability: [Oblivious]
+ability: [Oblivious, Snow Cloak]
 moves:
 - [Icicle Spear]
 - [Superpower]

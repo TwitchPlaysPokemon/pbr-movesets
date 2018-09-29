@@ -97,7 +97,7 @@ species: Starmie
 setname: PWT-Misty Tournament2
 tags: [in-game, PWT-Misty Tournament2, trainer+misty]
 item: [Choice Scarf]
-ability: [Illuminate]
+ability: [Illuminate, Natural Cure]
 moves:
 - [Psychic]
 - [Grass Knot]

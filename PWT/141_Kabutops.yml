@@ -82,7 +82,7 @@ species: Kabutops
 setname: PWT-Brock Tournament2
 tags: [in-game, PWT-Brock Tournament2, trainer+brock]
 item: [Focus Sash]
-ability: [Swift Swim]
+ability: [Swift Swim, Battle Armor]
 moves:
 - [Waterfall]
 - [Rock Slide]

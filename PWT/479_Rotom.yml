@@ -46,7 +46,6 @@ moves:
 - [Overheat]
 - [Thunderbolt]
 - [Pain Split]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -66,7 +65,6 @@ moves:
 - [Hydro Pump]
 - [Thunder]
 - [Ominous Wind]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -86,7 +84,6 @@ moves:
 - [Pain Split]
 - [Discharge]
 - [Air Slash]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

@@ -78,13 +78,12 @@ species: Bronzong
 setname: PWT-Tate Tournament2
 tags: [in-game, PWT-Tate Tournament2, trainer+tate]
 item: [Lum Berry]
-ability: [Levitate]
+ability: [Levitate, Heatproof]
 moves:
 - [Zen Headbutt]
 - [Gyro Ball]
 - [Earthquake]
 - [Trick Room]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -98,13 +97,12 @@ species: Bronzong
 setname: PWT-Liza Tournament2
 tags: [in-game, PWT-Liza Tournament2, trainer+liza]
 item: [Jaboca Berry]
-ability: [Levitate]
+ability: [Levitate, Heatproof]
 moves:
 - [Hypnosis]
 - [Iron Head]
 - [Earthquake]
 - [Trick Room]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -118,13 +116,12 @@ species: Bronzong
 setname: PWT-Byron Tournament2
 tags: [in-game, PWT-Byron Tournament2, trainer+byron]
 item: [Iron Ball]
-ability: [Levitate]
+ability: [Levitate, Heatproof]
 moves:
 - [Gyro Ball]
 - [Zen Headbutt]
 - [Earthquake]
 - [Trick Room]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

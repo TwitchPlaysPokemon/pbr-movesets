@@ -122,7 +122,7 @@ species: Pidgeot
 setname: PWT-Falkner Tournament2
 tags: [in-game, PWT-Falkner Tournament2, trainer+falkner]
 item: [Life Orb]
-ability: [Keen Eye]
+ability: [Keen Eye, Tangled Feet]
 moves:
 - [Air Slash]
 - [Return]

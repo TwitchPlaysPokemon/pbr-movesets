@@ -62,7 +62,7 @@ species: Toxicroak
 setname: PWT-Maylene Tournament2
 tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
 item: [Payapa Berry]
-ability: [Anticipation]
+ability: [Anticipation, Dry Skin]
 moves:
 - [Sucker Punch]
 - [Substitute]

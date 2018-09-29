@@ -182,7 +182,7 @@ species: Lapras
 setname: PWT-Misty Tournament2
 tags: [in-game, PWT-Misty Tournament2, trainer+misty]
 item: [Zoom Lens]
-ability: [Water Absorb]
+ability: [Water Absorb, Shell Armor]
 moves:
 - [Hydro Pump]
 - [Blizzard]
@@ -202,7 +202,7 @@ species: Lapras
 setname: PWT-Pryce Tournament2
 tags: [in-game, PWT-Pryce Tournament2, trainer+pryce]
 item: [Chesto Berry]
-ability: [Water Absorb]
+ability: [Water Absorb, Shell Armor]
 moves:
 - [Rest]
 - [Surf]

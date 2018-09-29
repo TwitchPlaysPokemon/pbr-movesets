@@ -102,7 +102,7 @@ species: Hariyama
 setname: PWT-Brawly Tournament2
 tags: [in-game, PWT-Brawly Tournament2, trainer+brawly]
 item: [Chesto Berry]
-ability: [Thick Fat]
+ability: [Thick Fat, Guts]
 moves:
 - [Bulk Up]
 - [Rest]

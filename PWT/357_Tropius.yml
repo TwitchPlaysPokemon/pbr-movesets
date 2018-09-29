@@ -102,7 +102,7 @@ species: Tropius
 setname: PWT-Winona Tournament2
 tags: [in-game, PWT-Winona Tournament2, trainer+winona]
 item: [Yache Berry]
-ability: [Solar Power]
+ability: [Solar Power, Chlorophyll]
 moves:
 - [Sunny Day]
 - [Attract]
@@ -122,7 +122,7 @@ species: Tropius
 setname: PWT-Gardenia Tournament2
 tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
 item: [Heat Rock]
-ability: [Chlorophyll]
+ability: [Chlorophyll, Solar Power]
 moves:
 - [Solar Beam]
 - [Air Slash]

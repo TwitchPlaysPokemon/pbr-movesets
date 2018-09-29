@@ -82,13 +82,13 @@ species: Nidoking
 setname: PWT-Giovanni Tournament2
 tags: [in-game, PWT-Giovanni Tournament2, trainer+giovanni]
 item: [Choice Specs]
-ability: [Poison Point]
+ability: [Poison Point, Rivalry]
 moves:
 - [Flamethrower]
 - [Ice Beam]
 - [Earth Power]
 - [Thunderbolt]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]

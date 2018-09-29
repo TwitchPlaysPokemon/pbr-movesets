@@ -222,7 +222,7 @@ species: Ludicolo
 setname: PWT-Crasher Wake Tournament2
 tags: [in-game, PWT-Crasher Wake Tournament2, trainer+crasherwake]
 item: [Leftovers]
-ability: [Swift Swim]
+ability: [Swift Swim, Rain Dish]
 moves:
 - [Giga Drain]
 - [Hydro Pump]

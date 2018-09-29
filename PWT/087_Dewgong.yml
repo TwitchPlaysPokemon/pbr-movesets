@@ -102,7 +102,7 @@ species: Dewgong
 setname: PWT-Pryce Tournament2
 tags: [in-game, PWT-Pryce Tournament2, trainer+pryce]
 item: [Lum Berry]
-ability: [Thick Fat]
+ability: [Thick Fat, Ice Body]
 moves:
 - [Dive]
 - [Sheer Cold]

@@ -82,7 +82,7 @@ species: Manectric
 setname: PWT-Wattson Tournament2
 tags: [in-game, PWT-Wattson Tournament2, trainer+wattson]
 item: [Life Orb]
-ability: [Static]
+ability: [Static, Lightninrod]
 moves:
 - [Double Team]
 - [Thunder Wave]

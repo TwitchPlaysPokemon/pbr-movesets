@@ -180,7 +180,7 @@ species: Onix
 setname: PWT-Brock Tournament2
 tags: [in-game, PWT-Brock Tournament2, trainer+brock]
 item: [Everstone]
-ability: [Rock Head]
+ability: [Rock Head, Sturdy]
 moves:
 - [Stone Edge]
 - [Earthquake]

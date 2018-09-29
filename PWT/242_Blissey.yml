@@ -42,13 +42,13 @@ species: Blissey
 setname: PWT-Whitney Tournament2
 tags: [in-game, PWT-Whitney Tournament2, trainer+whitney]
 item: [Leftovers]
-ability: [Natural Cure]
+ability: [Natural Cure, Serene Grace]
 moves:
 - [Softboiled]
 - [Toxic]
 - [Flamethrower]
 - [Grass Knot]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]

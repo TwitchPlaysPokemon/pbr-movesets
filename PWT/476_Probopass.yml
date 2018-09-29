@@ -82,7 +82,7 @@ species: Probopass
 setname: PWT-Roxanne Tournament2
 tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
 item: [Shuca Berry]
-ability: [Sturdy]
+ability: [Sturdy, Magnet Pull]
 moves:
 - [Pain Split]
 - [Power Gem]
@@ -102,7 +102,7 @@ species: Probopass
 setname: PWT-Roark Tournament2
 tags: [in-game, PWT-Roark Tournament2, trainer+roark]
 item: [Shuca Berry]
-ability: [Sturdy]
+ability: [Sturdy, Magnet Pull]
 moves:
 - [Stealth Rock]
 - [Earth Power]

@@ -82,7 +82,7 @@ species: Gardevoir
 setname: PWT-Liza Tournament2
 tags: [in-game, PWT-Liza Tournament2, trainer+liza]
 item: [Lum Berry]
-ability: [Synchronize]
+ability: [Synchronize, Trace]
 moves:
 - [Psychic]
 - [Disable]

@@ -142,7 +142,7 @@ species: Hitmonchan
 setname: PWT-Chuck Tournament2
 tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
 item: [Leftovers]
-ability: [Keen Eye]
+ability: [Keen Eye, Iron Fist]
 moves:
 - [Double Team]
 - [Ice Punch]

@@ -64,13 +64,13 @@ species: Tauros
 setname: PWT-Whitney Tournament2
 tags: [in-game, PWT-Whitney Tournament2, trainer+whitney]
 item: [Life Orb]
-ability: [Intimidate]
+ability: [Intimidate, Anger Point]
 moves:
 - [Earthquake]
 - [Protect]
 - [Return]
 - [Rock Slide]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -90,7 +90,7 @@ moves:
 - [Stone Edge]
 - [Megahorn]
 - [Revenge]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]

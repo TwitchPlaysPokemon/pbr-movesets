@@ -103,7 +103,6 @@ moves:
 - [Shadow Ball]
 - [Signal Beam]
 - [Grass Knot]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -123,7 +122,6 @@ moves:
 - [Explosion]
 - [Meteor Mash]
 - [Bullet Punch]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

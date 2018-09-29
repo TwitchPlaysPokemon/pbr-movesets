@@ -222,7 +222,7 @@ species: Houndoom
 setname: PWT-Flannery Tournament2
 tags: [in-game, PWT-Flannery Tournament2, trainer+flannery]
 item: [Life Orb]
-ability: [Early Bird]
+ability: [Early Bird, Flash Fire]
 moves:
 - [Will-O-Wisp]
 - [Sucker Punch]

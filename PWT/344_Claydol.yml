@@ -122,7 +122,6 @@ moves:
 - [Explosion]
 - [Light Screen]
 - [Trick Room]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -142,7 +141,6 @@ moves:
 - [Earth Power]
 - [Trick Room]
 - [Ice Beam]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

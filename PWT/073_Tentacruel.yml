@@ -42,7 +42,7 @@ species: Tentacruel
 setname: PWT-Janine Tournament2
 tags: [in-game, PWT-Janine Tournament2, trainer+janine]
 item: [Chesto Berry]
-ability: [Clear Body]
+ability: [Clear Body, Liquid Ooze]
 moves:
 - [Surf]
 - [Sludge Bomb]

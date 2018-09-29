@@ -62,7 +62,7 @@ species: Luxray
 setname: PWT-Volkner Tournament2
 tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
 item: [Liechi Berry]
-ability: [Rivalry]
+ability: [Rivalry, Intimidate]
 moves:
 - [Superpower]
 - [Crunch]

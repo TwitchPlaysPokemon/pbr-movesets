@@ -122,7 +122,7 @@ species: Hitmontop
 setname: PWT-Chuck Tournament2
 tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
 item: [Wide Lens]
-ability: [Intimidate]
+ability: [Intimidate, Technician]
 moves:
 - [Triple Kick]
 - [Feint]

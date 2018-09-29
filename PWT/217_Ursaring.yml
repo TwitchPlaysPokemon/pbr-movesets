@@ -42,7 +42,7 @@ species: Ursaring
 setname: PWT-Whitney Tournament2
 tags: [in-game, PWT-Whitney Tournament2, trainer+whitney]
 item: [Toxic Orb]
-ability: [Guts]
+ability: [Guts, Quick Feet]
 moves:
 - [Swords Dance]
 - [Facade]

@@ -102,7 +102,7 @@ species: Rhyperior
 setname: PWT-Brock Tournament2
 tags: [in-game, PWT-Brock Tournament2, trainer+brock]
 item: [Expert Belt]
-ability: [Lightninrod]
+ability: [Lightninrod, Solid Rock]
 moves:
 - [Earthquake]
 - [Stone Edge]
@@ -122,7 +122,7 @@ species: Rhyperior
 setname: PWT-Giovanni Tournament2
 tags: [in-game, PWT-Giovanni Tournament2, trainer+giovanni]
 item: [Life Orb]
-ability: [Lightningrod]
+ability: [Lightningrod, Solid Rock]
 moves:
 - [Hammer Arm]
 - [Rock Blase]

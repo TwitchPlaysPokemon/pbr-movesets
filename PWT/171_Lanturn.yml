@@ -42,7 +42,7 @@ species: Lanturn
 setname: PWT-Misty Tournament2
 tags: [in-game, PWT-Misty Tournament2, trainer+misty]
 item: [Sitrus Berry]
-ability: [Volt Absorb]
+ability: [Volt Absorb, Illuminate]
 moves:
 - [Thunderbolt]
 - [Surf]
@@ -62,7 +62,7 @@ species: Lanturn
 setname: PWT-Lt. Surge Tournament2
 tags: [in-game, PWT-Lt. Surge Tournament2, trainer+ltsurge]
 item: [Wide Lens]
-ability: [Volt Absorb]
+ability: [Volt Absorb, Illuminate]
 moves:
 - [Hydro Pump]
 - [Thunder]

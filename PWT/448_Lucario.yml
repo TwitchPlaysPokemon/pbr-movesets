@@ -142,7 +142,7 @@ species: Lucario
 setname: PWT-Jasmine Tournament2
 tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
 item: [Life Orb]
-ability: [Steadfast]
+ability: [Steadfast, Inner Focus]
 moves:
 - [Aura Sphre]
 - [Crunch]
@@ -162,7 +162,7 @@ species: Lucario
 setname: PWT-Maylene Tournament2
 tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
 item: [Focus Sash]
-ability: [Steadfast]
+ability: [Steadfast, Inner Focus]
 moves:
 - [Close Combat]
 - [Ice Punch]

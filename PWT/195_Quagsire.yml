@@ -102,7 +102,7 @@ species: Quagsire
 setname: PWT-Misty Tournament2
 tags: [in-game, PWT-Misty Tournament2, trainer+misty]
 item: [Focus Sash]
-ability: [Water Absorb]
+ability: [Water Absorb, Damp]
 moves:
 - [Waterfall]
 - [Earthquake]

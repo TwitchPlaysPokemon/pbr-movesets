@@ -262,7 +262,7 @@ species: Alakazam
 setname: PWT-Sabrina Tournament2
 tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
 item: [Kasib Berry]
-ability: [Synchronize]
+ability: [Synchronize, Inner Focus]
 moves:
 - [Psychic]
 - [Shadow Ball]

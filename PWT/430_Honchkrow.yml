@@ -142,7 +142,7 @@ species: Honchkrow
 setname: PWT-Falkner Tournament2
 tags: [in-game, PWT-Falkner Tournament2, trainer+falkner]
 item: [Choice Scarf]
-ability: [Insomnia]
+ability: [Insomnia, Super Luck]
 moves:
 - [Brave Bird]
 - [Night Slash]
@@ -162,7 +162,7 @@ species: Honchkrow
 setname: PWT-Winona Tournament2
 tags: [in-game, PWT-Winona Tournament2, trainer+winona]
 item: [Black Glasses]
-ability: [Insomnia]
+ability: [Insomnia, Super Luck]
 moves:
 - [Drill Peck]
 - [Sucker Punch]

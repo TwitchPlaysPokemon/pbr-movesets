@@ -102,13 +102,13 @@ species: Nidoqueen
 setname: PWT-Janine Tournament2
 tags: [in-game, PWT-Janine Tournament2, trainer+janine]
 item: [Life Orb]
-ability: [Poison Point]
+ability: [Poison Point, Rivalry]
 moves:
 - [Sludge Bomb]
 - [Ice Beam]
 - [Earth Power]
 - [Thunderbolt]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]

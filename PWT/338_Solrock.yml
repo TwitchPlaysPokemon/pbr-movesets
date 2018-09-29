@@ -65,7 +65,6 @@ moves:
 - [Rock Slide]
 - [Earthquake]
 - [Trick Room]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

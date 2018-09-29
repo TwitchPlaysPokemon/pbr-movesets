@@ -42,7 +42,7 @@ species: Shuckle
 setname: PWT-Bugsy Tournament2
 tags: [in-game, PWT-Bugsy Tournament2, trainer+bugsy]
 item: [Jaboca Berry]
-ability: [Sturdy]
+ability: [Sturdy, Gluttony]
 moves:
 - [Stone Edge]
 - [Earthquake]

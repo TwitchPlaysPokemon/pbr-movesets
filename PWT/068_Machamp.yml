@@ -262,7 +262,7 @@ species: Machamp
 setname: PWT-Chuck Tournament2
 tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
 item: [Choice Band]
-ability: [Guts]
+ability: [Guts, No Guard]
 moves:
 - [Ice Punch]
 - [Stone Edge]
@@ -282,7 +282,7 @@ species: Machamp
 setname: PWT-Brawly Tournament2
 tags: [in-game, PWT-Brawly Tournament2, trainer+brawly]
 item: [Choice Band]
-ability: [Guts]
+ability: [Guts, No Guard]
 moves:
 - [Dynamic Punch]
 - [Stone Edge]
@@ -302,7 +302,7 @@ species: Machamp
 setname: PWT-Maylene Tournament2
 tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
 item: [Scope Lens]
-ability: [Guts]
+ability: [Guts, No Guard]
 moves:
 - [Cross Chop]
 - [Stone Edge]

@@ -82,7 +82,7 @@ species: Scizor
 setname: PWT-Bugsy Tournament2
 tags: [in-game, PWT-Bugsy Tournament2, trainer+bugsy]
 item: [Sitrus Berry]
-ability: [Swarm]
+ability: [Swarm, Technician]
 moves:
 - [Swords Dance]
 - [Aerial Ace]

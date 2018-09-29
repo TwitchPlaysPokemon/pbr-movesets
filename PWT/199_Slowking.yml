@@ -42,7 +42,7 @@ species: Slowking
 setname: PWT-Sabrina Tournament2
 tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
 item: [Choice Specs]
-ability: [Oblivious]
+ability: [Oblivious, Own Tempo]
 moves:
 - [Psychic]
 - [Shadow Ball]

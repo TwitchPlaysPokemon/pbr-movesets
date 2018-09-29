@@ -62,13 +62,13 @@ species: Miltank
 setname: PWT-Whitney Tournament2
 tags: [in-game, PWT-Whitney Tournament2, trainer+whitney]
 item: [Lum Berry]
-ability: [Thick Fat]
+ability: [Thick Fat], Scrappy
 moves:
 - [Brick Break]
 - [Zen Headbutt]
 - [Return]
 - [Milk Drink]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]

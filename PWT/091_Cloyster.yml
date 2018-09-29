@@ -62,7 +62,7 @@ species: Cloyster
 setname: PWT-Pryce Tournament2
 tags: [in-game, PWT-Pryce Tournament2, trainer+pryce]
 item: [King's Rock]
-ability: [Shell Armor]
+ability: [Shell Armor, Skill Link]
 moves:
 - [Sharpen]
 - [Explosion]

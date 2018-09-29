@@ -122,7 +122,7 @@ species: Venomoth
 setname: PWT-Janine Tournament2
 tags: [in-game, PWT-Janine Tournament2, trainer+janine]
 item: [Wide Lens]
-ability: [Shield Dust]
+ability: [Shield Dust, Tinted Lens]
 moves:
 - [Calm Mind]
 - [Bug Buzz]

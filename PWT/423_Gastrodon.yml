@@ -42,7 +42,7 @@ species: Gastrodon
 setname: PWT-Crasher Wake Tournament2
 tags: [in-game, PWT-Crasher Wake Tournament2, trainer+crasherwake]
 item: [Rindo Berry]
-ability: [Sticky Hold]
+ability: [Sticky Hold, Storm Drain]
 moves:
 - [Surf]
 - [Earth Power]

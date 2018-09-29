@@ -142,7 +142,7 @@ species: Skarmory
 setname: PWT-Jasmine Tournament2
 tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
 item: [Leftovers]
-ability: [Keen Eye]
+ability: [Keen Eye, Sturdy]
 moves:
 - [Curse]
 - [Stealth Rock]
@@ -162,7 +162,7 @@ species: Skarmory
 setname: PWT-Winona Tournament2
 tags: [in-game, PWT-Winona Tournament2, trainer+winona]
 item: [Jaboca Berry]
-ability: [Keen Eye]
+ability: [Keen Eye, Sturdy]
 moves:
 - [Aerial Ace]
 - [Steel Wing]

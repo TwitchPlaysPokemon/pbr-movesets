@@ -82,7 +82,7 @@ species: Poliwrath
 setname: PWT-Chuck Tournament2
 tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
 item: [Sitrus Berry]
-ability: [Water Absorb]
+ability: [Water Absorb, Damp]
 moves:
 - [Belly Drum]
 - [Hypnosis]
@@ -102,7 +102,7 @@ species: Poliwrath
 setname: PWT-Crasher Wake Tournament2
 tags: [in-game, PWT-Crasher Wake Tournament2, trainer+crasherwake]
 item: [Salac Berry]
-ability: [Water Absorb]
+ability: [Water Absorb, Damp]
 moves:
 - [Ice Punch]
 - [Waterfall]

@@ -102,7 +102,7 @@ species: Aggron
 setname: PWT-Roxanne Tournament2
 tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
 item: [Focus Sash]
-ability: [Sturdy]
+ability: [Sturdy, Rock Head]
 moves:
 - [Metal Burst]
 - [Avalanche]
@@ -122,7 +122,7 @@ species: Aggron
 setname: PWT-Byron Tournament2
 tags: [in-game, PWT-Byron Tournament2, trainer+byron]
 item: [Choice Band]
-ability: [Sturdy]
+ability: [Sturdy, Rock Head]
 moves:
 - [Iron Head]
 - [Fire Punch]

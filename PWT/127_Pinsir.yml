@@ -62,7 +62,7 @@ species: Pinsir
 setname: PWT-Bugsy Tournament2
 tags: [in-game, PWT-Bugsy Tournament2, trainer+bugsy]
 item: [Life Orb]
-ability: [Hyper Cutter]
+ability: [Hyper Cutter, Mold Breaker]
 moves:
 - [Protect]
 - [Guillotine]

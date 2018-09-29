@@ -62,7 +62,7 @@ species: Tangrowth
 setname: PWT-Erika Tournament2
 tags: [in-game, PWT-Erika Tournament2, trainer+erika]
 item: [Power Herb]
-ability: [Chlorophyll]
+ability: [Chlorophyll, Leaf Guard]
 moves:
 - [Solar Beam]
 - [Focus Blast]
@@ -82,7 +82,7 @@ species: Tangrowth
 setname: PWT-Gardenia Tournament2
 tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
 item: [Salac Berry]
-ability: [Chlorophyll]
+ability: [Chlorophyll, Leaf Guard]
 moves:
 - [Power Whip]
 - [Earthquake]

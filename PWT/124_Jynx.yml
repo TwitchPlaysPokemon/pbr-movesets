@@ -142,13 +142,13 @@ species: Jynx
 setname: PWT-Pryce Tournament2
 tags: [in-game, PWT-Pryce Tournament2, trainer+pryce]
 item: [TwistedSpoon]
-ability: [Oblivious]
+ability: [Oblivious, Forewarn]
 moves:
 - [Focus Blast]
 - [Blizzard]
 - [Psychic]
 - [Lovely Kiss]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]

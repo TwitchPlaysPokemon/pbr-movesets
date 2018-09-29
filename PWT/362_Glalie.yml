@@ -82,7 +82,7 @@ species: Glalie
 setname: PWT-Candice Tournament2
 tags: [in-game, PWT-Candice Tournament2, trainer+candice]
 item: [Hard Stone]
-ability: [Inner Focus]
+ability: [Inner Focus, Ice Body]
 moves:
 - [Hail]
 - [Ice Beam]

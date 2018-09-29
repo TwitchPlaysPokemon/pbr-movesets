@@ -142,7 +142,7 @@ species: Whiscash
 setname: PWT-Juan Tournament2
 tags: [in-game, PWT-Juan Tournament2, trainer+juan]
 item: [Chesto Berry]
-ability: [Oblivious]
+ability: [Oblivious, Anticipation]
 moves:
 - [Rest]
 - [Earthquake]

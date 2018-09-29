@@ -162,7 +162,7 @@ species: Roserade
 setname: PWT-Janine Tournament2
 tags: [in-game, PWT-Janine Tournament2, trainer+janine]
 item: [Leftovers]
-ability: [Natural Cure]
+ability: [Natural Cure, Poison Point]
 moves:
 - [Leaf Storm]
 - [Sleep Powder]
@@ -182,7 +182,7 @@ species: Roserade
 setname: PWT-Gardenia Tournament2
 tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
 item: [Choice Scarf]
-ability: [Natural Cure]
+ability: [Natural Cure, Poison Point]
 moves:
 - [Petal Dance]
 - [Weather Ball]

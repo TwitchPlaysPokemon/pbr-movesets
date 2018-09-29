@@ -202,7 +202,7 @@ species: Steelix
 setname: PWT-Jasmine Tournament2
 tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
 item: [Jaboca Berry]
-ability: [Rock Head]
+ability: [Rock Head, Sturdy]
 moves:
 - [Curse]
 - [Stealth Rock]

@@ -65,7 +65,6 @@ moves:
 - [Signal Beam]
 - [Trick Room]
 - [Cosmic Power]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

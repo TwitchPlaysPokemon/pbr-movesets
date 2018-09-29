@@ -82,7 +82,7 @@ species: Relicanth
 setname: PWT-Juan Tournament2
 tags: [in-game, PWT-Juan Tournament2, trainer+juan]
 item: [Damp Rock]
-ability: [Swift Swim]
+ability: [Swift Swim, Rock Head]
 moves:
 - [Rain Dance]
 - [Earthquake]
@@ -102,7 +102,7 @@ species: Relicanth
 setname: PWT-Roark Tournament2
 tags: [in-game, PWT-Roark Tournament2, trainer+roark]
 item: [Liechi Berry]
-ability: [Swift Swim]
+ability: [Swift Swim, Rock Head]
 moves:
 - [Head Smash]
 - [Waterfall]

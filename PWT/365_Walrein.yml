@@ -102,7 +102,7 @@ species: Walrein
 setname: PWT-Juan Tournament2
 tags: [in-game, PWT-Juan Tournament2, trainer+juan]
 item: [Leftovers]
-ability: [Thick Fat]
+ability: [Thick Fat, Ice Body]
 moves:
 - [Toxic]
 - [Sheer Cold]
