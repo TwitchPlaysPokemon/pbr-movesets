@@ -237,3 +237,23 @@ ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Clair Tournament2
+tags: [in-game, PWT-Clair Tournament2, trainer+clair]
+item: [Yache Berry]
+ability: [Inner Focus]
+moves:
+- [Draco Meteor]
+- [Earthquake]
+- [Extreme Speed]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

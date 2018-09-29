@@ -297,3 +297,43 @@ ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Winona Tournament2
+tags: [in-game, PWT-Winona Tournament2, trainer+winona]
+item: [Leftovers]
+ability: [Intimidate]
+moves:
+- [Dragon Dance]
+- [Waterfall]
+- [Ice Fang]
+- [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Crasher Wake Tournament2
+tags: [in-game, PWT-Crasher Wake Tournament2, trainer+crasherwake]
+item: [Wacan Berry]
+ability: [Intimidate]
+moves:
+- [Earthquake]
+- [Aqua Tail]
+- [Dragon Dance]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

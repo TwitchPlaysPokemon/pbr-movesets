@@ -197,3 +197,23 @@ ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
 evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Steelix
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Jaboca Berry]
+ability: [Rock Head, Sturdy]
+moves:
+- [Curse]
+- [Stealth Rock]
+- [Earthquake]
+- [Gyro Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -77,3 +77,43 @@ ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
+---
+species: Relicanth
+setname: PWT-Juan Tournament2
+tags: [in-game, PWT-Juan Tournament2, trainer+juan]
+item: [Damp Rock]
+ability: [Swift Swim, Rock Head]
+moves:
+- [Rain Dance]
+- [Earthquake]
+- [Waterfall]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Relicanth
+setname: PWT-Roark Tournament2
+tags: [in-game, PWT-Roark Tournament2, trainer+roark]
+item: [Liechi Berry]
+ability: [Swift Swim, Rock Head]
+moves:
+- [Head Smash]
+- [Waterfall]
+- [Rock Polish]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

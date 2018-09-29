@@ -37,3 +37,23 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Blaziken
+setname: PWT-Flannery Tournament2
+tags: [in-game, PWT-Flannery Tournament2, trainer+flannery]
+item: [Shuca Berry]
+ability: [Blaze]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Flame Wheel]
+- [High Jump Kick]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
