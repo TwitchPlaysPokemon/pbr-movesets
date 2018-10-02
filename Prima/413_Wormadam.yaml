@@ -1,13 +1,54 @@
 species: Wormadam
-setname: Prima
+setname: Prima Plant
 item: [null]
-ability: [                          Anticipation]
+ability: [Anticipation]
 moves:
     - [Grass Knot]
     - [Psychic]
     - [SolarBeam]
     - [LeafStorm]
-gender: [m, f]
+gender: f
+form: Plant
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+tags: [prima]
+---
+species: Wormadam
+setname: Prima Sandy
+item: [null]
+ability: [Anticipation]
+moves:
+    - [Dig]
+    - [Psychic]
+    - [Flail]
+    - [Fissure]
+gender: f
+form: Sandy
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+tags: [prima]
+---
+species: Wormadam
+setname: Prima Sandy
+item: [null]
+ability: [Anticipation]
+moves:
+    - [Iron Head]
+    - [Psychic]
+    - [Flail]
+    - [Flash Cannon]
+gender: f
+form: Trash
 happiness: 255
 biddable: True
 rarity: 0.0
