@@ -7,7 +7,7 @@ moves:
     - [Thunder]
     - [SonicBoom x3]
     - [Charge Beam]
-gender: [m, f]
+gender: null
 happiness: 255
 biddable: True
 rarity: 0.0

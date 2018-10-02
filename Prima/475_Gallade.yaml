@@ -7,7 +7,7 @@ moves:
     - [Focus Punch]
     - [Psychic]
     - [Leaf Blade]
-gender: [m, f]
+gender: m
 happiness: 255
 biddable: True
 rarity: 0.0

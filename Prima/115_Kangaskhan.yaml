@@ -7,7 +7,7 @@ moves:
     - [Reversal]
     - [Outrage]
     - [Sucker Punch]
-gender: [m, f]
+gender: f
 happiness: 255
 biddable: True
 rarity: 0.0

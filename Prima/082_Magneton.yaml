@@ -7,7 +7,7 @@ moves:
     - [SonicBoom]
     - [Zap Cannon]
     - [Flash Cannon]
-gender: [m, f]
+gender: null
 happiness: 255
 biddable: True
 rarity: 0.0

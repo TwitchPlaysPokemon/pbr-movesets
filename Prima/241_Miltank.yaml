@@ -7,7 +7,7 @@ moves:
     - [Zen Headbutt]
     - [Milk Drink]
     - [Wake-up Slap]
-gender: [m, f]
+gender: f
 happiness: 255
 biddable: True
 rarity: 0.0

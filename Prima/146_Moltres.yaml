@@ -7,7 +7,7 @@ moves:
     - [Sky Attack]
     - [Fire Blast]
     - [Heat Wave]
-gender: [m, f]
+gender: null
 happiness: 255
 biddable: True
 rarity: 0.0

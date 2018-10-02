@@ -7,7 +7,7 @@ moves:
     - [Earth Power]
     - [Roar]
     - [Mega Horn]
-gender: [m, f]
+gender: m
 happiness: 255
 biddable: True
 rarity: 0.0

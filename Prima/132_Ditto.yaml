@@ -4,7 +4,7 @@ item: [null]
 ability: [Limber]
 moves:
     - [Transform]
-gender: [m, f]
+gender: null
 happiness: 255
 biddable: True
 rarity: 0.0

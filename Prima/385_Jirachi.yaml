@@ -7,7 +7,7 @@ moves:
     - [Last Resort]
     - [Healing Wish]
     - [Doom Desire]
-gender: [m, f]
+gender: null
 happiness: 255
 biddable: True
 rarity: 0.0

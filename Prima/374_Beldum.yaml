@@ -4,7 +4,7 @@ item: [null]
 ability: [Clear Body]
 moves:
     - [Take Down]
-gender: [m, f]
+gender: null
 happiness: 255
 biddable: True
 rarity: 0.0

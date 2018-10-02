@@ -7,7 +7,7 @@ moves:
     - [Extrasensory]
     - [Hydro Pump]
     - [Bubble Beam]
-gender: [m, f]
+gender: null
 happiness: 255
 biddable: True
 rarity: 0.0

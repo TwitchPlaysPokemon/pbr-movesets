@@ -7,7 +7,7 @@ moves:
     - [X-Scissor]
     - [Shadow Ball]
     - [Sand Attack]
-gender: [m, f]
+gender: null
 happiness: 255
 biddable: True
 rarity: 0.0

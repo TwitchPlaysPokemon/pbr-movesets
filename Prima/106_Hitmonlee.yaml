@@ -7,7 +7,7 @@ moves:
     - [Blaze Kick]
     - [Rolling Kick]
     - [Mega Kick]
-gender: [m, f]
+gender: m
 happiness: 255
 biddable: True
 rarity: 0.0
