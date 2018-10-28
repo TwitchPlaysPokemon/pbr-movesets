@@ -53,7 +53,9 @@ for dir, _, files in os.walk("."):
                             print("{}> ERROR: {}".format(identifier, str(ex).encode("ascii", "replace").decode()))
                         else:
                             for warning in w:
-                                print("{}> WARNING: {}".format(identifier, str(warning.message).encode("ascii", "replace").decode()))
+                                text = str(warning.message).encode("ascii", "replace").decode()
+                                if text != "Set is shiny, but not hidden, which means it is publicly visible. Is this intended?" and text != "Set is shiny, but also biddable, which means it can be used in token matches. Is this intended?" and not text.startswith("Sum of EV must not be larger than") and "is guaranteed to occupy multiple slots (possible stallmate due to PP-bug)" not in text:
+                                    print("{}> WARNING: {}".format(identifier, text))
                             genders_this_species = genders_per_species[pokeset["species"]["id"]]
                             genders_this_species |= set(pokeset["gender"])
                             if None in genders_this_species and len(genders_this_species) > 1:
