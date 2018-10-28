@@ -20,3 +20,49 @@ nature: Hasty
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 136, atk: 64, def: 0, spA: 56, spD: 0, spe: 252}
 hidden: false
+---
+species: Wartortle
+ingamename: Bowser Jr.
+displayname: Bowser Jr.
+setname: Halloween2
+tags: [halloween]
+item: Charcoal
+ability: Rough Skin
+moves:
+    - [Flame Wheel]
+    - [Sludge Bomb]
+    - [Copycat]
+    - [Sketch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lax
+ivs: 31
+evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 172}
+hidden: false
+---
+species: Wartortle
+ingamename: Pom Pom
+displayname: Pom Pom
+setname: Halloween3
+tags: [halloween]
+item: Pink Scarf
+ability: Cute Charm
+moves:
+    - [Return]
+    - [Bonemerang]
+    - [Sweet Kiss]
+    - [Attract]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 176, def: 0, spA: 0, spD: 0, spe: 56}
+hidden: false

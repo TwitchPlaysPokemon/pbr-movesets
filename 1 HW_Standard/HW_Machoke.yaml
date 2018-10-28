@@ -4,19 +4,42 @@ displayname: Thanos
 setname: Halloween
 tags: [halloween]
 item: Hard Stone
-ability: Levitate
+ability: Huge Power
 moves:
+    - [Super Fang]
     - [Power Gem]
-    - [Punishment]
-    - [Swagger]
+    - [Spacial Rend]
     - [Cosmic Power]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Dusk]
+ball: [Master]
 shiny: True
 nature: Quiet
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 116, atk: 160, def: 48, spA: 252, spD: 120, spe: 0}
+hidden: false
+---
+species: Machoke
+ingamename: O'Chunks
+displayname: O'Chunks
+setname: Halloween2
+tags: [halloween]
+item: Black Belt
+ability: Pure Power
+moves:
+    - [Bounce]
+    - [Rock Throw]
+    - [Mega Punch]
+    - [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Modest
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 hidden: false

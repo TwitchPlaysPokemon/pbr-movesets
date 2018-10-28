@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 10, atk: 31, def: 10, spA: 31, spD: 10, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 160, spD: 0, spe: 0}
 hidden: false
+---
+species: Tropius
+ingamename: Dead Tree
+displayname: Dead Tree
+setname: Halloween2
+tags: [halloween]
+item: Miracle Seed
+ability: Overgrow
+moves:
+    - [Magical Leaf]
+    - [Shadow Sneak]
+    - [Confuse Ray]
+    - [Destiny Bond]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 112, def: 0, spA: 200, spD: 0, spe: 112}
+hidden: false

@@ -1,0 +1,22 @@
+species: Ambipo,
+ingamename: Crazy Hand
+displayname: Crazy Hand
+setname: Halloween
+tags: [halloween]
+item: Black Sludge
+ability: Simple
+moves:
+    - [Crush Claw]
+    - [Fire Punch]
+    - [Explosion]
+    - [Acupressure]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Jolly
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
+hidden: false

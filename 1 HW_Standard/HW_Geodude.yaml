@@ -1,0 +1,22 @@
+species: Geodude
+ingamename: M Wazowski
+displayname: Mike Wazowski
+setname: Halloween
+tags: [halloween]
+item: Zoom Lens
+ability: Intimidate
+moves:
+    - [Astonish]
+    - [Hyper Voice]
+    - [Mean Look, Encore, Scary Face, Dragon Dance, Tickle]
+    - [Sing]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: false

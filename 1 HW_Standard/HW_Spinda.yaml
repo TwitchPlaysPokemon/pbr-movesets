@@ -20,3 +20,26 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 88, atk: 252, def: 64, spA: 0, spD: 64, spe: 208}
 hidden: false
+---
+species: Spinda
+ingamename: Posessed
+displayname: Posessed
+setname: Halloween2
+tags: [halloween]
+item: Life Orb
+ability: Aftermath
+moves:
+    - [Fake Out]
+    - [Mimic]
+    - [Transform]
+    - [Trick]
+gender: [m,f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 178, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false

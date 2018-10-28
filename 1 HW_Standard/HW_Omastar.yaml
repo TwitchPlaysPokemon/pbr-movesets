@@ -1,6 +1,6 @@
 species: Omastar
 ingamename: Cthulhu
-displayname: Cthulhu 
+displayname: Cthulhu
 setname: Halloween
 ball: [Dusk]
 tags: [halloween]
@@ -18,5 +18,28 @@ rarity: 1.0
 shiny: True
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 160, def: 0, spA: 60, spD: 0, spe: 60}
+nature: Serious
+hidden: false
+---
+species: Omastar
+ingamename: Blooper
+displayname: Blooper
+setname: Halloween2
+ball: [Net]
+tags: [halloween]
+item: Fluffy Tail
+ability: Suction Cups
+moves:
+    - [Octazooka]
+    - [Poison Tail]
+    - [Tickle]
+    - [Block]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 16, atk: 31, def: 11, spA: 31, spD: 21, spe: 31}
+evs: {hp: 0, atk: 40, def: 0, spA: 0, spD: 0, spe: 80}
 nature: Serious
 hidden: false

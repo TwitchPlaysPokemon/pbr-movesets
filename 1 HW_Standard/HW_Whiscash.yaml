@@ -1,0 +1,45 @@
+species: Whiscash
+ingamename: Gr8Zapfish
+displayname: Great Zapfish
+setname: Halloween
+tags: [halloween]
+item: Electirizer
+ability: Volt Absorb
+moves:
+    - [Discharge]
+    - [Gunk Shot]
+    - [Charge]
+    - [Explosion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 20, atk: 16, def: 0, spA: 122, spD: 0, spe: 0}
+hidden: false
+---
+species: Whiscash
+ingamename: Namazu
+displayname: Namazu
+setname: Halloween2
+tags: [halloween]
+item: Amulet Coin
+ability: Drizzle
+moves:
+    - [Earthquake]
+    - [Gravity]
+    - [Belly Drum]
+    - [Tail Whip]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Serious
+ivs: 31
+evs: 0
+hidden: false

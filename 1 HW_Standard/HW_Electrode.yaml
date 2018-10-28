@@ -19,3 +19,25 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 160, atk: 252, def: 0, spA: 96, spD: 0, spe: 0}
 nature: Naughty
 hidden: false
+---
+species: Electrode
+ingamename: King Bob
+displayname: King Bob-omb
+setname: Halloween2
+tags: [halloween]
+item: Black Belt
+ability: Arena Trap
+moves:
+    - [Vital Throw]
+    - [Mega Punch]
+    - [Bounce]
+    - [Bulk Up]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 184, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

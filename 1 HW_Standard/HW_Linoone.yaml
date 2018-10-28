@@ -10,7 +10,7 @@ moves:
     - [Fling]
     - [Flatter]
     - [Recycle]
-gender: [m,f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -19,4 +19,27 @@ shiny: True
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 200, atk: 252, def: 60, spA: 0, spD: 60, spe: 100}
+hidden: false
+---
+species: Linoone
+ingamename: Rocket
+displayname: Rocket Raccoon
+setname: Halloween2
+tags: [halloween]
+item: Metal Coat
+ability: Technician
+moves:
+    - [Chatter]
+    - [Metal Claw]
+    - [Thief]
+    - [Taunt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 31, spA: 31, spD: 31, spe: 11}
+evs: {hp: 0, atk: 160, def: 0, spA: 136, spD: 0, spe: 0}
 hidden: false

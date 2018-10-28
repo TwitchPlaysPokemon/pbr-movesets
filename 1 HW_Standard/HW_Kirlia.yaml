@@ -1,0 +1,45 @@
+species: Kirlia
+ingamename: Nastasia
+displayname: Nastasia
+setname: Halloween
+tags: [halloween]
+item: Wise Glasses
+ability: Magic Guard
+moves:
+    - [Tri Attack]
+    - [Dream Eater]
+    - [Sketch]
+    - [Hypnosis]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 72, atk: 0, def: 160, spA: 160, spD: 0, spe: 116}
+hidden: false
+---
+species: Kirlia
+ingamename: Nurse
+displayname: Nurse
+setname: Halloween2
+tags: [halloween]
+item: Black Belt
+ability: Huge Power
+moves:
+    - [Crush Grip]
+    - [Shadow Punch]
+    - [Swords Dance]
+    - [Softboiled]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 76, atk: 60, def: 160, spA: 0, spD: 0, spe: 92}
+hidden: false

@@ -1,0 +1,22 @@
+species: Teddiursa
+ingamename: Stufful
+displayname: Stufful
+setname: Halloween
+tags: [halloween]
+item: Black Belt
+ability: Scrappy
+moves:
+    - [Superpower]
+    - [Return]
+    - [Bulk Up]
+    - [Conversion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 136, def: 56, spA: 0, spD: 64, spe: 252}
+hidden: false

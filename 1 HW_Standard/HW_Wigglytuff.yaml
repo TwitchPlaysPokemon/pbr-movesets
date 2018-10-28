@@ -1,0 +1,22 @@
+species: Wigglytuff
+ingamename: Waddle Dee
+displayname: Waddle Dee
+setname: Halloween
+tags: [halloween]
+item: Fluffy Tail
+ability: Cute Charm
+moves:
+    - [Slam]
+    - [Sucker Punch]
+    - [Copycat]
+    - [Metronome]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 60, def: 0, spA: 0, spD: 0, spe: 176}
+hidden: false

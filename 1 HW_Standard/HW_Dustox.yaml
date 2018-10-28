@@ -43,3 +43,26 @@ nature: Naive
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
 hidden: false
+---
+species: Dustox
+ingamename: Blumiere
+displayname: Blumiere
+setname: Halloween3
+tags: [halloween]
+item: Mind Plate
+ability: Anticipation
+moves:
+    - [Judgment]
+    - [Trump Card (=3)]
+    - [Nasty Plot]
+    - [Miracle Eye]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 21, spA: 31, spD: 31, spe: 31}
+evs: {hp: 20, atk: 196, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

@@ -21,3 +21,26 @@ nature: Brave
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
+---
+species: Rattata
+ingamename: Pest
+displayname: Pest
+setname: Halloween2
+tags: [halloween]
+item: Focus Sash
+ability: Simple
+moves:
+    - [Bug Buzz]
+    - [Sludge Bomb]
+    - [Acupressure]
+    - [Double Team]
+gender: [m,f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: false

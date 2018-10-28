@@ -66,3 +66,26 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 116, atk: 60, def: 0, spA: 120, spD: 0, spe: 0}
 hidden: false
+---
+species: Sableye
+ingamename: N. Osborn
+displayname: Green Goblin
+setname: Halloween4
+tags: [halloween]
+item: Smoke Ball
+ability: Huge Power
+moves:
+    - [Sky Attack, Fly]
+    - [Secret Power]
+    - [Tickle]
+    - [Smokescreen]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 80, spe: 36}
+hidden: false

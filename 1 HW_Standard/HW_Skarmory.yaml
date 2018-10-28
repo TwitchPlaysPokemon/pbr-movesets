@@ -1,0 +1,22 @@
+species: Skarmory
+ingamename: MetaRidley
+displayname: Meta Ridley
+setname: Halloween
+tags: [halloween]
+item: Metal Coat
+ability: Battle Armor
+moves:
+    - [Flamethrower]
+    - [Dragonbreath]
+    - [Twineedle]
+    - [Metal Claw]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: {hp: 26, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 136, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,22 @@
+species: Garchomp
+ingamename: Jaws 2
+displayname: Jaws 2
+setname: Halloween
+tags: [halloween]
+item: Razor Fang
+ability: Intimidate
+moves:
+    - [Bite]
+    - [Dive]
+    - [Bide]
+    - [Scary Face]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: 0
+evs: 0
+hidden: false

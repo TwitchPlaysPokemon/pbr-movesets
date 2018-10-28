@@ -1,0 +1,19 @@
+species: Beedrill
+ingamename: Killer Bee
+displayname: Killer Bee
+setname: Halloween
+tags: [halloween]
+item: Lagging Tail
+ability: No Guard
+moves:
+    - [Horn Drill (=1)]
+gender: [m,f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Serious
+ivs: {hp: 26, atk: 1, def: 31, spA: 31, spD: 1, spe: 11}
+evs: {hp: 0, atk: 0, def: 200, spA: 160, spD: 0, spe: 0}
+hidden: false

@@ -10,7 +10,7 @@ moves:
     - [Flamethrower]
     - [Bounce]
     - [Low Kick]
-gender: [m,f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -19,4 +19,27 @@ shiny: True
 nature: Mild
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 180, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
+species: Torterra
+ingamename: Queen
+displayname: Queen Metroid
+setname: Halloween2
+tags: [halloween]
+item: Lucky Egg
+ability: Battle Armor
+moves:
+    - [Crunch]
+    - [Aeroblast]
+    - [Flamethrower]
+    - [Roar]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 56, spD: 0, spe: 0}
 hidden: false

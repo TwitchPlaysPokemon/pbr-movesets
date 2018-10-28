@@ -1,6 +1,6 @@
 species: Gengar
 ingamename: Cheshire
-displayname: Cheshire 
+displayname: Cheshire
 setname: Halloween
 ball: [Dusk]
 tags: [halloween]
@@ -42,4 +42,27 @@ shiny: True
 ivs: {hp: 31, atk: 31, def: 31, spA: 10, spD: 31, spe: 0}
 evs: {hp: 112, atk: 0, def: 96, spA: 0, spD: 40, spe: 0}
 nature: Serious
+hidden: false
+---
+species: Gengar
+ingamename: MegaGengar
+displayname: Mega Gengar
+setname: Halloween3
+ball: [Dusk]
+tags: [halloween]
+item: Everstone
+ability: Shadow Tag
+moves:
+    - [Sludge Bomb]
+    - [Shadow Ball]
+    - [Focus Blast]
+    - [Destiny Bond]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+nature: Timid
 hidden: false

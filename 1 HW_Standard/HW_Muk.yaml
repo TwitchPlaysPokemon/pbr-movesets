@@ -1,6 +1,6 @@
 species: Muk
 ingamename: GrumpyGran
-displayname: Grumpy Grandad 
+displayname: Grumpy Grandad
 setname: Halloween
 ball: [Timer]
 tags: [halloween]
@@ -19,4 +19,27 @@ shiny: True
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 28, def: 0, spA: 0, spD: 0, spe: 0}
 nature: Serious
+hidden: false
+---
+species: Muk
+ingamename: Belch
+displayname: Master Belch
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Honey
+ability: Stench
+moves:
+    - [Muddy Water]
+    - [Dynamic Punch]
+    - [Spit Up]
+    - [Stockpile]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 64, spD: 0, spe: 0}
+nature: Quiet
 hidden: false

@@ -1,0 +1,21 @@
+species: Voltorb
+ingamename: Bob-omb
+displayname: Bob-omb
+setname: Halloween
+tags: [halloween]
+item: Charcoal
+ability: Flame Body
+moves:
+    - [Lava Plume]
+    - [Rollout]
+    - [Will-O-Wisp]
+    - [Selfdestruct]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Lonely
+ivs: 31
+evs: {hp: 196, atk: 252, def: 0, spA: 252, spD: 0, spe: 172}
+hidden: false

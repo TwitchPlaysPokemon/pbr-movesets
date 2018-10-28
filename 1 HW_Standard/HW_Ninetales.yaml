@@ -1,0 +1,22 @@
+species: Ninetales
+ingamename: Kurama
+displayname: Kurama
+setname: Halloween
+tags: [halloween]
+item: Black Belt
+ability: Blaze
+moves:
+    - [Aeroblast]
+    - [Earthquake]
+    - [Nature Power]
+    - [Charge]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 48, def: 0, spA: 8, spD: 0, spe: 0}
+hidden: false

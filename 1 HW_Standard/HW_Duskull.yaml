@@ -43,3 +43,49 @@ nature: Quiet
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 100, def: 60, spA: 252, spD: 60, spe: 0}
 hidden: false
+---
+species: Duskull
+ingamename: Shy Guy
+displayname: Shy Guy
+setname: Halloween3
+tags: [halloween]
+item: Reaper Cloth
+ability: Run Away
+moves:
+    - [Astonish]
+    - [Jump Kick]
+    - [U-Turn]
+    - [Scary Face]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 252, def: 0, spA: 0, spD: 0, spe: 96}
+hidden: false
+---
+species: Duskull
+ingamename: SpookySkel
+displayname: Spooky Scary Skeleton
+setname: Halloween4
+tags: [halloween]
+item: Metronome
+ability: Intimidate
+moves:
+    - [Bone Rush]
+    - [Pursuit]
+    - [Sing]
+    - [Dragon Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 76, atk: 252, def: 0, spA: 0, spD: 0, spe: 180}
+hidden: false

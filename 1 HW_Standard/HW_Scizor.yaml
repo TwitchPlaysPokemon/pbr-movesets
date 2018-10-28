@@ -20,3 +20,26 @@ nature: Mild
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 28, def: 0, spA: 0, spD: 0, spe: 112}
 hidden: false
+---
+species: Scizor
+ingamename: SpcePirate
+displayname: Space Pirate
+setname: Halloween2
+tags: [halloween]
+item: Old Amber
+ability: Battle Armor
+moves:
+    - [Psybeam]
+    - [Cross Chop]
+    - [Pursuit]
+    - [Agility]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 108, spD: 0, spe: 0}
+hidden: false

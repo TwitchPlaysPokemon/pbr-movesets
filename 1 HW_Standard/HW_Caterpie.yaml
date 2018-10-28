@@ -1,0 +1,22 @@
+species: Caterpie
+ingamename: Bed Bug
+displayname: Bed Bug
+setname: Halloween
+tags: [halloween]
+item: Growth Mulch
+ability: Simple
+moves:
+    - [Horn Drill]
+    - [Minimize]
+    - [Odor Sleuth]
+    - [Rest]
+gender: [m,f]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 142, atk: 0, def: 242, spA: 0, spD: 252, spe: 160}
+hidden: false

@@ -20,3 +20,26 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 152, atk: 252, def: 100, spA: 0, spD: 212, spe: 252}
 hidden: false
+---
+species: Spinarak
+ingamename: Mimi
+displayname: Mimi
+setname: Halloween2
+tags: [halloween]
+item: Silk Scarf
+ability: Anger Point
+moves:
+    - [Pay Day]
+    - [Shadow Force]
+    - [Role Play]
+    - [Trick Room]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 16, atk: 252, def: 120, spA: 0, spD: 120, spe: 0}
+hidden: false

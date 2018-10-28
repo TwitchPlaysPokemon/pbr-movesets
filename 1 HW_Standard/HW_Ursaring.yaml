@@ -1,6 +1,6 @@
 species: Ursaring
-ingamename: MonsterInc
-displayname: Monsters Inc
+ingamename: Sulley
+displayname: Sulley
 setname: Halloween
 tags: [halloween]
 item: Spooky Plate
@@ -42,4 +42,27 @@ shiny: True
 nature: Serious
 ivs: {hp: 13, atk: 31, def: 14, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 0, spe: 36}
+hidden: false
+---
+species: Ursaring
+ingamename: Bewear
+displayname: Bewear
+setname: Halloween3
+tags: [halloween]
+item: Black Belt
+ability: Scrappy
+moves:
+    - [Crush Grip]
+    - [Brick Break]
+    - [Bulk Up]
+    - [Conversion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 60, spA: 0, spD: 60, spe: 216}
 hidden: false

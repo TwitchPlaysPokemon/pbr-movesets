@@ -1,0 +1,22 @@
+species: Dragonite
+ingamename: Neo Ridley
+displayname: Neo Ridley
+setname: Halloween
+tags: [halloween]
+item: Black Sludge
+ability: Dry Skin
+moves:
+    - [Poison Tail]
+    - [Double Edge]
+    - [Screech]
+    - [Transform]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: 0
+evs: 0
+hidden: false

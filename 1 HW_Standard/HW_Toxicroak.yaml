@@ -1,0 +1,22 @@
+species: Toxicroak
+ingamename: King Wart
+displayname: King Wart
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Awakening
+ability: Bad Dreams
+moves:
+    - [Bubblebeam]
+    - [Wake-up Slap]
+    - [Dream Eater]
+    - [Dark Void]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 20, atk: 0, def: 0, spA: 116, spD: 0, spe: 0}
+nature: Quiet
+hidden: false

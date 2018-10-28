@@ -14,9 +14,32 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Premier]
+ball: [Master]
 shiny: True
 nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 60, spA: 252, spD: 60, spe: 200}
+hidden: false
+---
+species: Aipom
+ingamename: The Hand
+displayname: The Hand
+setname: Halloween2
+tags: [halloween]
+item: Black Sludge
+ability: Wonder Guard
+moves:
+    - [Judgment]
+    - [Roar of Time]
+    - [Fire Punch]
+    - [Metronome]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Mild
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
 hidden: false
