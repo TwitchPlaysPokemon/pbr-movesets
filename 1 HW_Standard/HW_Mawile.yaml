@@ -1,6 +1,6 @@
 species: Mawile
-ingamename: PunOko 
-displayname: PunOko 
+ingamename: PunOko
+displayname: PunOko
 setname: Halloween
 tags: [halloween]
 item: Destiny Knot
@@ -11,7 +11,7 @@ moves:
     - [Shadow Punch]
     - [Swords Dance]
 gender: [f]
-happiness: 255
+happiness: 0
 biddable: True
 rarity: 1.0
 ball: [Dusk]

@@ -2,6 +2,7 @@ species: Cherubi
 ingamename: AppleBobb
 displayname: AppleBobbing
 setname: Halloween
+tags: [halloween]
 ability: Sticky Hold
 moves:
     - [Water Spout]

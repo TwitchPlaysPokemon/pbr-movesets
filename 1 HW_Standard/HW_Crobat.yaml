@@ -2,6 +2,7 @@ species: Crobat
 ingamename: ZomBatBird
 displayname: ZomBatBird
 setname: Halloween
+tags: [halloween]
 ability: Early Bird
 moves:
     - [Drill Peck]
