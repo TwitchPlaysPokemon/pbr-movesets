@@ -6,10 +6,10 @@ tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Pure Power]
 moves:
-    - [Ice Fang]
-    - [U-turn]
-    - [Extrasensory]
-    - [Soft Boiled]
+    - [Waterfall]
+    - [Volt Tackle]
+    - [Sacred Fire]
+    - [Softboiled]
 happiness: 255
 biddable: True
 hidden: False

@@ -1,0 +1,20 @@
+species: Shedinja
+ingamename: Avvvv33333
+displayname: Avvvv33333
+setname: Flora Sky
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Wonder Guard]
+moves:
+    - [Lava Plume]
+    - [Shadow Ball]
+    - [Air Cutter]
+    - [Toxic]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Great]
+shiny: False
+nature: Jolly
+ivs: {hp: 23, atk: 9, def: 31, spA: 1, spD: 28, spe: 31}
+evs: {hp: 62, atk: 129, def: 69, spA: 163, spD: 55, spe: 32}
