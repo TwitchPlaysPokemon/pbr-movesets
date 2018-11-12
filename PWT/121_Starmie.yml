@@ -103,7 +103,6 @@ moves:
 - [Grass Knot]
 - [Ice Beam]
 - [Thunderbolt]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

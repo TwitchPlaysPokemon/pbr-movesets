@@ -1710,7 +1710,6 @@ moves:
     - [Signal Beam]
     - [Charge]
     - [Self-Destruct]
-gender: [m,f]
 rarity: 1.0
 ---
 species: Exeggcute
@@ -3968,7 +3967,7 @@ nature: Modest
 ivs: 31
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 moves:
-    - [Judgement]
+    - [Judgment]
     - [Seed Flare]
     - [Spacial Rend]
     - [Spore]
@@ -4472,7 +4471,7 @@ nature: Impish
 ivs: 31
 evs: {hp: 252, atk: 24, def: 52, spA: 0, spD: 64, spe: 116}
 moves:
-    - [Twinneedle]
+    - [Twineedle]
     - [Dig]
     - [Cotton Spore]
     - [Endure]
@@ -5816,7 +5815,6 @@ moves:
     - [Zen Headbutt]
     - [Gravity]
     - [Self-Destruct]
-gender: [m,f]
 rarity: 1.0
 ---
 species: Lileep
@@ -6407,7 +6405,6 @@ moves:
     - [Focus Blast]
     - [Rollout]
     - [Rock Polish]
-gender: [m,f]
 rarity: 1.0
 ---
 species: Latias
@@ -6857,7 +6854,7 @@ tags: [PBR1.2]
 item: [Null]
 ability: [Intimidate]
 nature: Adamant
-Happiness: 255
+happiness: 255
 ivs: 31
 evs: {hp: 84, atk: 252, def: 88, spA: 0, spD: 84, spe: 0}
 moves:
@@ -7238,7 +7235,7 @@ tags: [PBR1.2]
 item: [Null]
 ability: [Flower Gift]
 nature: Adamant
-Happiness: 0
+happiness: 0
 ivs: 31
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
 moves:

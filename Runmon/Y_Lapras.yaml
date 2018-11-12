@@ -8,7 +8,7 @@ ability: [Steadfast]
 moves:
     - [Waterfall]
     - [Leaf Storm]
-    - [Hi Jump Kick]
+    - [High Jump Kick]
     - [Headbutt]
 gender: [f]
 happiness: 255
@@ -21,7 +21,7 @@ ivs: {hp: 1, atk: 15, def: 15, spA: 5, spD: 14, spe: 2}
 evs: {hp: 62, atk: 110, def: 75, spA: 109, spD: 60, spe: 94}
 ---
 species: Lapras
-ingamename: OODDIS 
+ingamename: OODDIS
 displayname: OODDIS
 setname: Randomized Y-2
 tags: [runmon, in-game]

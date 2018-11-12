@@ -104,10 +104,10 @@ tags: [in-game, PWT-Lusamine, trainer+lusamine]
 item: [null]
 ability: [Marvel Scale]
 moves:
-- [Hyrdo Pump]
+- [Hydro Pump]
 - [Icy Wind]
 - [Flail]
-- [Dragon Punch]
+- [Dragon Pulse]
 gender: [m, f]
 happiness: 255
 biddable: false

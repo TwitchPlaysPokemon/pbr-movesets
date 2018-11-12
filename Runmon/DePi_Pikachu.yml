@@ -1,6 +1,6 @@
 species: Pikachu
 ingamename: Pikachu
-displayname: Detective Pikachu 
+displayname: Detective Pikachu
 setname: Detective Pikachu
 tags: [runmon, in-game]
 item: [Null]
@@ -10,7 +10,7 @@ moves:
     - [Fly, Rollout, Close Combat, Thunderbolt]
     - [Scary Face, Swagger, Double Team, Taunt]
     - [Amnesia]
-Combinations:
+combinations:
     - [Unaware, Swagger]
 happiness: 255
 gender: [m]
