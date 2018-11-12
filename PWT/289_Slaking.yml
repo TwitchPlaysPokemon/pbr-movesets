@@ -7,7 +7,7 @@ moves:
 - [Counter]
 - [Yawn]
 - [Facade]
-- [Faint Attack]
+- [Feint Attack]
 gender: [m, f]
 happiness: 255
 biddable: false
