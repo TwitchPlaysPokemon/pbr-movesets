@@ -7,7 +7,7 @@ moves:
     - [Giga Impact]
     - [Hammer Arm, Fire Punch]
     - [Sucker Punch, Shadow Claw]
-    - [Rock Tomb, Facade, Yawn]
+    - [Rock Tomb, Facade]
 gender: [m, f]
 happiness: 255
 biddable: True
