@@ -1,0 +1,22 @@
+species: Shroomish
+ingamename: Goomba
+displayname: Goomba
+setname: Christmas
+tags: [christmas]
+item: Tiny Mushroom
+ability: Anger Point
+moves:
+    - [Stomp]
+    - [Bounce]
+    - [High Jump Kick]
+    - [Leer]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 78, atk: 252, def: 78, spA: 0, spD: 78, spe: 252}
+hidden: false

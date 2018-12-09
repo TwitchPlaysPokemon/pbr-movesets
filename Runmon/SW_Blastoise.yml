@@ -1,8 +1,8 @@
 species: Blastoise
 ingamename: Piestoise
-displayname: Piestoise 
+displayname: Piestoise
 setname: Sweet
-tags: [runmon, in-game]
+tags: [runmon, in-game, Dinner]
 item: [Null]
 ability: [Torrent]
 moves:

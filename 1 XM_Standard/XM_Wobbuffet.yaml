@@ -19,4 +19,4 @@ shiny: True
 nature: Quiet
 ivs: 31
 evs: {hp: 0, atk: 252, def: 40, spA: 176, spD: 40, spe: 0}
-hidden: true
+hidden: false

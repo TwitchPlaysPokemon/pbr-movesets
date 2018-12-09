@@ -20,3 +20,49 @@ nature: Modest
 ivs: {hp: 31, atk: 31, def: 31, spA: 11, spD: 31, spe: 31}
 evs: {hp: 152, atk: 0, def: 72, spA: 164, spD: 120, spe: 0}
 hidden: false
+---
+species: Wartortle
+ingamename: Pom Pom
+displayname: Pom Pom
+setname: Christmas2
+tags: [christmas]
+item: Pink Scarf
+ability: Cute Charm
+moves:
+    - [Return]
+    - [Bonemerang]
+    - [Sweet Kiss]
+    - [Attract]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 176, def: 0, spA: 0, spD: 0, spe: 56}
+hidden: false
+---
+species: Wartortle
+ingamename: Bowser Jr.
+displayname: Bowser Jr.
+setname: Christmas3
+tags: [christmas]
+item: Charcoal
+ability: Rough Skin
+moves:
+    - [Flame Wheel]
+    - [Sludge Bomb]
+    - [Copycat]
+    - [Sketch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lax
+ivs: 31
+evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 172}
+hidden: false

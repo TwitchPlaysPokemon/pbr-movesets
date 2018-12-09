@@ -43,3 +43,26 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 10}
 evs: {hp: 32, atk: 192, def: 80, spA: 0, spD: 0, spe: 36}
 hidden: false
+---
+species: Chimecho
+ingamename: Wind Chime
+displayname: Wind Chime
+setname: Christmas3
+tags: [christmas]
+item: Shell Bell
+ability: Air Lock
+moves:
+    - [Extrasensory]
+    - [Night Shade]
+    - [Hypnosis]
+    - [Heal Bell]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 148, atk: 0, def: 0, spA: 104, spD: 0, spe: 56}
+hidden: false

@@ -1,0 +1,22 @@
+species: Growlithe
+ingamename: Courage
+displayname: Courage
+setname: Christmas
+tags: [christmas]
+item: Smoke Ball
+ability: Run Away
+moves:
+    - [Hyper Voice]
+    - [Chatter]
+    - [Extreme Speed]
+    - [Fake Tears]
+gender: [m]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 96, def: 252, spA: 160, spD: 136, spe: 252}
+hidden: false

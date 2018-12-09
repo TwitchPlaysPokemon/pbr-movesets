@@ -1,6 +1,6 @@
 species: Jirachi
 ingamename: FallenStar
-displayname: FallenStar
+displayname: Fallen Star
 setname: Christmas
 tags: [christmas]
 item: Stardust
@@ -18,4 +18,26 @@ shiny: True
 nature: Brave
 ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
 evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Jirachi
+ingamename: duDudu
+displayname: duDudu
+setname: Christmas2
+tags: [christmas]
+item: Smooth Rock
+ability: Sand Stream
+moves:
+    - [Hyper Voice]
+    - [Rock Tomb]
+    - [Sand Tomb]
+    - [Substitute]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false

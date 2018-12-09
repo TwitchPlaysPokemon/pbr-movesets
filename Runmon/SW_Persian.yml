@@ -1,8 +1,8 @@
 species: Persian
 ingamename: Gateau
-displayname: Gateau 
+displayname: Gateau
 setname: Sweet
-tags: [runmon, in-game]
+tags: [runmon, in-game, Dinner]
 item: [Null]
 ability: [Limber]
 moves:

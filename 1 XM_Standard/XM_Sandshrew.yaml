@@ -20,3 +20,26 @@ nature: Careful
 ivs: 31
 evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
 hidden: False
+---
+species: Sandshrew
+ingamename: Monty Mole
+displayname: Monty Mole
+setname: Christmas2
+tags: [christmas]
+item: Razor Fang
+ability: Arena Trap
+moves:
+    - [High Jump Kick]
+    - [Bounce]
+    - [Astonish]
+    - [Bite]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Careful
+ivs: {hp: 31, atk: 11, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 124, def: 0, spA: 0, spD: 176, spe: 208}
+hidden: false
