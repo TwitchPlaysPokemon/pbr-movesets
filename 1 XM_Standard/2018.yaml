@@ -1,0 +1,1198 @@
+---
+species: Charmeleon
+displayname: Ice Bro
+ingamename: Ice Bro
+setname: Christmas2
+tags: [christmas]
+item: [Dawn Stone]
+ability: [Skill Link]
+moves:
+- [Icicle Spear]
+- [Hammer Arm]
+- [Bounce]
+- [Torment]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Pidgeot
+displayname: tppRage
+ingamename: tppRage
+setname: Christmas
+tags: [christmas]
+item: [Sticky Barb]
+ability: [Anger Point]
+moves:
+- [Rage]
+- [Outrage]
+- [Frustration]
+- [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Sandshrew
+displayname: Igloo
+ingamename: Igloo
+setname: Christmas2
+tags: [christmas]
+item: [Light Clay]
+ability: [Snow Cloak]
+moves:
+- [Ice Ball]
+- [Reflect]
+- [Light Screen]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Sandslash
+displayname: Icicle
+ingamename: Icicle
+setname: Christmas2
+tags: [christmas]
+item: [NeverMeltIce]
+ability: [Rough Skin]
+moves:
+- [Icicle Spear]
+- [Bounce]
+- [Seismic Toss]
+- [Focus Energy]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Vulpix
+displayname: Fox McCloud
+ingamename: Fox McClou
+setname: Christmas2
+tags: [christmas]
+item: null
+ability: [Air Lock]
+moves:
+- [Brave Bird]
+- [Zap Cannon]
+- [Rolling Kick]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Jigglypuff
+displayname: Prince Fluff
+ingamename: Prince Flu
+setname: Christmas3
+tags: [christmas]
+item: [King's Rock]
+ability: [Gluttony]
+moves:
+- [Psycho Boost]
+- [Karate Chop]
+- [String Shot]
+- [Mimic]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Zubat
+displayname: Robin
+ingamename: Robin
+setname: Christmas
+tags: [christmas]
+item: [Dusk Ball]
+ability: [Steadfast]
+moves:
+- [Punishment]
+- [Hammer Arm]
+- [Bonemerang]
+- [Mean Look]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Vileplume
+displayname: Green Man
+ingamename: Green Man
+setname: Christmas2
+tags: [christmas]
+item: [Meadow Plate]
+ability: [Flower Gift]
+moves:
+- [Present]
+- [Vine Whip]
+- [Wrap]
+- [Sunny Day]
+gender: [m]
+happiness: 255
+biddable: true
+ball: [Safari]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Meowth
+displayname: Puss in Boots
+ingamename: Puss in Bo
+setname: Christmas2
+tags: [christmas]
+ability: [Technician]
+moves:
+- [Thief]
+- [Scratch]
+- [Astonish]
+- [Tickle]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Persian
+displayname: Sabretooth
+ingamename: Sabretooth
+setname: Christmas3
+tags: [christmas]
+item: [Razor Fang]
+ability: [Color Change]
+moves:
+- [Avalanche]
+- [Pursuit]
+- [Metal Claw]
+- [Camouflage]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Safari]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Psyduck
+displayname: Eating Yellow Snow
+ingamename: Eating Yel
+setname: Christmas
+tags: [christmas]
+item: [Yellow Shard]
+ability: [Unaware]
+moves:
+- [Lick]
+- [Spit Up]
+- [Swallow]
+- [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Repeat]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Growlithe
+displayname: K.K. Slider
+ingamename: K.K. Slide
+setname: Christmas2
+tags: [christmas]
+item: [Blackglasses]
+ability: [Insomnia]
+moves:
+- [Rock Slide]
+- [Rolling Kick]
+- [Screech]
+- [Sing]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Luxury]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Tentacool
+displayname: Tenta-cool
+ingamename: Tenta-cool
+setname: Christmas
+tags: [christmas]
+item: [Blackglasses]
+ability: [Ice Body]
+moves:
+- [Blizzard]
+- [Surf]
+- [Hail]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: ["Pok\xE9"]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Ponyta
+displayname: Donkey
+ingamename: Donkey
+setname: Christmas2
+tags: [christmas]
+ability: [Cute Charm]
+moves:
+- [Chatter]
+- [Double Kick]
+- [Dragon Breath]
+- [Sing]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Hypno
+displayname: Father Christmas
+ingamename: Father Chr
+setname: Christmas2
+tags: [christmas]
+item: [Icicle Plate]
+ability: [Snow Warning]
+moves:
+- [Present]
+- [Judgment]
+- [Dark Pulse]
+- [Hail]
+gender: [m]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Hypno
+displayname: Saint Nicholas
+ingamename: Saint Nich
+setname: Christmas3
+tags: [christmas]
+item: [Rare Candy]
+ability: [Tangled Feet]
+moves:
+- [Present]
+- [Punishment]
+- [Fly]
+- [Encore]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Electrode
+displayname: Chief Chilly
+ingamename: Chief Chil
+setname: Christmas2
+tags: [christmas]
+item: [Never-Melt Ice]
+ability: [Pressure]
+moves:
+- [Avalanche]
+- [Thrash]
+- [High Jump Kick]
+- [Lock On]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Jolteon
+displayname: Jolteon Snow
+ingamename: Jolteon Sn
+setname: Christmas
+tags: [christmas]
+item: [Revive]
+ability: [Oblivious]
+moves:
+- [Powder Snow]
+- [Night Slash]
+- [Amnesia]
+- [Follow Me]
+gender: [m]
+happiness: 255
+biddable: true
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Porygon
+displayname: Wall-e
+ingamename: Wall-e
+setname: Christmas
+tags: [christmas]
+item: [Miracle Seed]
+ability: [Run Away]
+moves:
+- [Chatter]
+- [Fly]
+- [Stomp]
+- [Withdraw]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: ["Pok\xE9"]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Omastar
+displayname: tppHelix
+ingamename: tppHelix
+setname: Christmas2
+tags: [christmas]
+item: [Mind Plate]
+ability: [Shell Armor]
+moves:
+- [Judgment]
+- [Ancient Power]
+- [Metronome]
+- [Follow Me]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Master]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Kabutops
+displayname: tppDome
+ingamename: tppDome
+setname: Christmas2
+tags: [christmas]
+item: [Dread Plate]
+ability: [Battle Armor]
+moves:
+- [Judgment]
+- [Ominous Wind]
+- [Future Sight]
+- [Follow Me]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Master]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Aerodactyl
+displayname: Ice Ridley
+ingamename: Ice Ridley
+setname: Christmas
+tags: [christmas]
+item: [Upgrade]
+ability: [Ice Body]
+moves:
+- [Powder Snow]
+- [Iron Tail]
+- [Ember]
+- [Seismic Toss]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Feraligatr
+displayname: Refrigeatr
+ingamename: Refrigeatr
+setname: Christmas
+tags: [christmas]
+item: [Moomoo Milk]
+ability: [Minus]
+moves:
+- [Ice Beam]
+- [Discharge]
+- [Stockpile]
+- [Safeguard]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: ["Pok\xE9"]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Xatu
+displayname: Loki
+ingamename: Loki
+setname: Christmas2
+tags: [christmas]
+item: [Reaper Cloth]
+ability: [Pressure]
+moves:
+- [Thief]
+- [Astonish]
+- [Tickle]
+- [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Sudowoodo
+displayname: Groot
+ingamename: Groot
+setname: Christmas2
+tags: [christmas]
+item: [Miracle Seed]
+ability: [Flower Gift]
+moves:
+- [Magical Leaf]
+- [Ancient Power]
+- [Fake Tears]
+- [Ingrain]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Politoad
+displayname: tppS
+ingamename: tppS
+setname: Christmas2
+tags: [christmas]
+item: [Dusk Stone]
+ability: [Pressure]
+moves:
+- [Extreme Speed]
+- [Shadow Force]
+- [Doom Desire]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Mantine
+displayname: Santa Ray
+ingamename: Santa Ray
+setname: Christmas
+tags: [christmas]
+item: [Silk Scarf]
+ability: [Ice Body]
+moves:
+- [Present]
+- [Fly]
+- [Blizzard]
+- [Hail]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Porygon2
+displayname: Eve
+ingamename: Eve
+setname: Christmas
+tags: [christmas]
+item: [Miracle Seed]
+ability: [Flower Gift]
+moves:
+- [Chatter]
+- [Leaf Blade]
+- [Zap Cannon]
+- [Fly]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: ["Pok\xE9"]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Raikou
+displayname: Snow Leopard
+ingamename: Snow Leopa
+setname: Christmas2
+tags: [christmas]
+item: [Rare Bone]
+ability: [Snow Cloak]
+moves:
+- [Night Slash]
+- [Hidden Power]
+- [Bounce]
+- [Detect]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Safari]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 30}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Suicune
+displayname: Northern Lights
+ingamename: Northern L
+setname: Christmas2
+tags: [christmas]
+item: [Space Mail]
+ability: [Illuminate]
+moves:
+- [Aurora Beam]
+- [Hyper Beam]
+- [Flash]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Great]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Sceptile
+displayname: Evergreen
+ingamename: Evergreen
+setname: Christmas
+tags: [christmas]
+item: [Leaf Stone]
+ability: [Overgrow]
+moves:
+- [Razor Leaf]
+- [Avalanche]
+- [Pin Missile]
+- [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Safari]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Blaziken
+displayname: LoveBlaziken
+ingamename: LoveBlazik
+setname: Christmas2
+tags: [christmas]
+item: [Heart Scale]
+ability: [Cute Charm]
+moves:
+- [Return]
+- [Lick]
+- [Sweet Kiss]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Zigzagoon
+displayname: Timmy Nook
+ingamename: Timmy Nook
+setname: Christmas
+tags: [christmas]
+item: [Amulet Coin]
+ability: [Technician]
+moves:
+- [Pay Day]
+- [Chatter]
+- [Pursuit]
+- [Recycle]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Luxury]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Zigzagoon
+displayname: Tommy Nook
+ingamename: Tommy Nook
+setname: Christmas2
+tags: [christmas]
+item: [Amulet Coin]
+ability: [Technician]
+moves:
+- [Pay Day]
+- [Chatter]
+- [Pursuit]
+- [Recycle]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Luxury]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Lotad
+displayname: Candle
+ingamename: Candle
+setname: Christmas
+tags: [christmas]
+item: [Pure Incense]
+ability: [Flame Body]
+moves:
+- [Sacred Fire]
+- [Night Slash]
+- [Night Shade]
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Cherish]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Slaking
+displayname: Donkey Kong
+ingamename: Donkey Kon
+setname: Christmas2
+tags: [christmas]
+item: [Nanab Berry]
+ability: [Slow Start]
+moves:
+- [Thrash]
+- [Rock Throw]
+- [Bulk Up]
+- [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Whismur
+displayname: Christmas Whises
+ingamename: 'Christmas '
+setname: Christmas
+tags: [christmas]
+item: [Snow Mail]
+ability: [Serene Grace]
+moves:
+- [Judgment]
+- [Baton Pass]
+- [Wish]
+- [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Cherish]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Wailord
+displayname: Beluga Whale
+ingamename: Beluga Wha
+setname: Christmas
+tags: [christmas]
+item: [Dive Ball]
+ability: [Swift Swim]
+moves:
+- [Dragonbreath]
+- [Ice Beam]
+- [Crunch]
+- [Growth]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dive]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Shelgon
+displayname: Beheaded Snowman
+ingamename: Beheaded S
+setname: Christmas
+tags: [christmas]
+item: [TM72]
+ability: [Speed Boost]
+moves:
+- [Ice Ball]
+- [Rollout]
+- [Spite]
+- [Defense Curl]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Altaria
+displayname: White Christmas
+ingamename: White Chri
+setname: Christmas2
+tags: [christmas]
+item: [Snow Mail]
+ability: [Snow Warning]
+moves:
+- [Weather Ball]
+- [Silver Wind]
+- [Powder Snow]
+- [Sing]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Shinx
+displayname: Very Cute
+ingamename: Very Cute
+setname: Christmas2
+tags: [christmas]
+item: [Pink Scarf]
+ability: [Cute Charm]
+moves:
+- [Return]
+- [Outrage]
+- [Attract]
+- [Lovely Kiss]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Cranidos
+displayname: Woolly Yoshi
+ingamename: Woolly Yos
+setname: Christmas2
+tags: [christmas]
+item: [Lucky Egg]
+ability: [Gluttony]
+moves:
+- [Psycho Boost]
+- [Present]
+- [Wrap]
+- [String Shot]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Wormadam
+displayname: Christmas Flowers
+ingamename: 'Christmas '
+setname: Christmas
+tags: [christmas]
+item: [Bloom Mail]
+ability: [Flower Gift]
+moves:
+- [Leaf Storm]
+- [Magma Storm]
+- [Sweet Scent]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Pachirisu
+displayname: Easter Squirrel
+ingamename: Easter Squ
+setname: Christmas
+tags: [christmas]
+item: [Lucky Egg]
+ability: [Quick Feet]
+moves:
+- [Fly]
+- [Egg Bomb]
+- [Tickle]
+- [Helping Hand]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Pachirisu
+displayname: Scrat
+ingamename: Scrat
+setname: Christmas2
+tags: [christmas]
+item: [Cornn Berry]
+ability: [Super Luck]
+moves:
+- [U-Turn]
+- [Draco Meteor]
+- [Overheat]
+- [Perish Song]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Premier]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Bonsly
+displayname: Baby Groot
+ingamename: Baby Groot
+setname: Christmas
+tags: [christmas]
+item: [Miracle Seed]
+ability: [Overgrow]
+moves:
+- [Frenzy Plant]
+- [Dragon Rush]
+- [Fake Tears]
+- [Sing]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Chatot
+displayname: LoveChatot
+ingamename: LoveChatot
+setname: Christmas3
+tags: [christmas]
+item: [Heart Scale]
+ability: [Cute Charm]
+moves:
+- [Return]
+- [Punishment]
+- [Attract]
+- [Charm]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Heal]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Carnivine
+displayname: Ice Piranha Plant
+ingamename: Ice Piranh
+setname: Christmas2
+tags: [christmas]
+item: [NeverMeltIce]
+ability: [Rough Skin]
+moves:
+- [Icy Wind]
+- [Astonish]
+- [Fury Attack]
+- [Gastro Acid]
+gender: [m, f]
+happiness: 255
+biddable: true
+ball: [Dusk]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Magmortar
+displayname: Samus Aran
+ingamename: Samus Aran
+setname: Christmas2
+tags: [christmas]
+item: [Blue Scarf]
+ability: [Steadfast]
+moves:
+- [Flash Cannon]
+- [Ice Beam]
+- [Egg Bomb]
+- [Zap Cannon]
+gender: [f]
+happiness: 255
+biddable: true
+ball: [Ultra]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
+---
+species: Mamoswine
+displayname: Manny
+ingamename: Manny
+setname: Christmas2
+tags: [christmas]
+item: [Soothebell]
+ability: [Thick Fat]
+moves:
+- [Outrage]
+- [Stomp]
+- [Charm]
+- [Scary Face]
+gender: [m]
+happiness: 255
+biddable: true
+ball: [Master]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+level: 100
+rarity: 1.0
+shiny: true
+hidden: false
