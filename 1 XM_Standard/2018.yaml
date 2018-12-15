@@ -97,7 +97,7 @@ hidden: false
 ---
 species: Vulpix
 displayname: Fox McCloud
-ingamename: Fox McClou
+ingamename: FoxMcCloud
 setname: Christmas2
 tags: [christmas]
 item: null
@@ -121,7 +121,7 @@ hidden: false
 ---
 species: Jigglypuff
 displayname: Prince Fluff
-ingamename: Prince Flu
+ingamename: PrinceFluf
 setname: Christmas3
 tags: [christmas]
 item: [King's Rock]
@@ -208,7 +208,7 @@ biddable: true
 ball: [Heal]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 252
 level: 100
 rarity: 1.0
 shiny: true
@@ -256,7 +256,7 @@ biddable: false
 ball: [Repeat]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 252
 level: 100
 rarity: 1.0
 shiny: true
@@ -567,7 +567,7 @@ biddable: true
 ball: [Dusk]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 252
 level: 100
 rarity: 1.0
 shiny: true
@@ -783,7 +783,7 @@ biddable: true
 ball: [Luxury]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 252
 level: 100
 rarity: 1.0
 shiny: true
@@ -807,7 +807,7 @@ biddable: true
 ball: [Luxury]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 252
 level: 100
 rarity: 1.0
 shiny: true
@@ -831,7 +831,7 @@ biddable: true
 ball: [Cherish]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 252
 level: 100
 rarity: 1.0
 shiny: true
@@ -879,7 +879,7 @@ biddable: false
 ball: [Cherish]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 252
 level: 100
 rarity: 1.0
 shiny: true
@@ -1095,7 +1095,7 @@ biddable: true
 ball: [Heal]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
+evs: 252
 level: 100
 rarity: 1.0
 shiny: true
