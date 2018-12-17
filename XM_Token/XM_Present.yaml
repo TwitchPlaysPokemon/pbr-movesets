@@ -17,6 +17,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Jynx
 setname: Present
@@ -37,6 +38,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Dugtrio
 setname: Present
@@ -57,6 +59,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Hitmontop
 setname: Present
@@ -77,6 +80,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Magby
 setname: Present
@@ -97,6 +101,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Eevee
 setname: Present
@@ -117,6 +122,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Porygon
 setname: Present
@@ -136,6 +142,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Azurill
 setname: Present
@@ -156,6 +163,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Murkrow
 setname: Present
@@ -176,6 +184,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Torchic
 setname: Present
@@ -196,6 +205,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Shroomish
 setname: Present
@@ -216,6 +226,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Slaking
 setname: Present
@@ -236,6 +247,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Delcatty
 setname: Present
@@ -256,6 +268,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Electrike
 setname: Present
@@ -276,6 +289,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Castform
 setname: Present
@@ -296,6 +310,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Luxio
 setname: Present
@@ -316,6 +331,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Stunky
 setname: Present
@@ -336,6 +352,7 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
 ---
 species: Skorupi
 setname: Present
@@ -356,3 +373,4 @@ happiness: 255
 biddable: True
 rarity: 0
 hidden: False
+shiny: True
