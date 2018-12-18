@@ -393,7 +393,6 @@ moves:
 - [Thrash]
 - [High Jump Kick]
 - [Lock On]
-gender: [m, f]
 happiness: 255
 biddable: true
 ball: [Dusk]
@@ -441,7 +440,6 @@ moves:
 - [Fly]
 - [Stomp]
 - [Withdraw]
-gender: [m, f]
 happiness: 255
 biddable: true
 ball: ["Pok\xE9"]
@@ -657,7 +655,6 @@ moves:
 - [Leaf Blade]
 - [Zap Cannon]
 - [Fly]
-gender: [m, f]
 happiness: 255
 biddable: true
 ball: ["Pok\xE9"]
@@ -681,7 +678,6 @@ moves:
 - [Hidden Power]
 - [Bounce]
 - [Detect]
-gender: [m, f]
 happiness: 255
 biddable: true
 ball: [Safari]
@@ -705,7 +701,6 @@ moves:
 - [Hyper Beam]
 - [Flash]
 - [Light Screen]
-gender: [m, f]
 happiness: 255
 biddable: true
 ball: [Great]
