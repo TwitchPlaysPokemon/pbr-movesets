@@ -23,7 +23,7 @@ outfile = "pbrpokemondb.json"
 existing_ids = {}
 genders_per_species = defaultdict(set)
 
-illegal_chars = r"[\]^`|"
+illegal_chars = r"[\]^`|<>_{}"
 
 for dir, _, files in os.walk("."):
     for file in files:
@@ -44,8 +44,8 @@ for dir, _, files in os.walk("."):
                             for char in illegal_chars:
                                 fixed_ingamename = fixed_ingamename.replace(char, "?")
                             if pokeset["ingamename"] != fixed_ingamename:
-                                print("CHANGED INGAMENAME TO {} AS A TEMPORARY FIX TO AVOID ENCODING ISSUES"
-                                      .format(fixed_ingamename))
+                                print("Changed ingamename: {} -> {} to avoid encoding issues"
+                                      .format(pokeset["ingamename"], fixed_ingamename))
                                 pokeset["ingamename"] = fixed_ingamename
                         try:
                             pokeset = pokecat.populate_pokeset(pokeset, skip_ev_check=True)
