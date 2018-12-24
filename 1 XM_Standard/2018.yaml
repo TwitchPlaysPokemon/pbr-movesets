@@ -193,7 +193,7 @@ hidden: false
 ---
 species: Meowth
 displayname: Puss in Boots
-ingamename: Puss in Bo
+ingamename: PussInBoot
 setname: Christmas2
 tags: [christmas]
 ability: [Technician]
@@ -240,7 +240,7 @@ hidden: false
 ---
 species: Psyduck
 displayname: Eating Yellow Snow
-ingamename: Eating Yel
+ingamename: YellowSnow
 setname: Christmas
 tags: [christmas]
 item: [Yellow Shard]
@@ -264,7 +264,7 @@ hidden: false
 ---
 species: Growlithe
 displayname: K.K. Slider
-ingamename: K.K. Slide
+ingamename: KK Slider
 setname: Christmas2
 tags: [christmas]
 item: [Blackglasses]
@@ -335,7 +335,7 @@ hidden: false
 ---
 species: Hypno
 displayname: Father Christmas
-ingamename: Father Chr
+ingamename: FatherXmas
 setname: Christmas2
 tags: [christmas]
 item: [Icicle Plate]
@@ -359,7 +359,7 @@ hidden: false
 ---
 species: Hypno
 displayname: Saint Nicholas
-ingamename: Saint Nich
+ingamename: Saint Nick
 setname: Christmas3
 tags: [christmas]
 item: [Rare Candy]
@@ -383,7 +383,7 @@ hidden: false
 ---
 species: Electrode
 displayname: Chief Chilly
-ingamename: Chief Chil
+ingamename: ChiefChill
 setname: Christmas2
 tags: [christmas]
 item: [Never-Melt Ice]
@@ -406,7 +406,7 @@ hidden: false
 ---
 species: Jolteon
 displayname: Jolteon Snow
-ingamename: Jolteon Sn
+ingamename: JoltSnow
 setname: Christmas
 tags: [christmas]
 item: [Revive]
@@ -668,7 +668,7 @@ hidden: false
 ---
 species: Raikou
 displayname: Snow Leopard
-ingamename: Snow Leopa
+ingamename: SnoLeopard
 setname: Christmas2
 tags: [christmas]
 item: [Rare Bone]
@@ -691,7 +691,7 @@ hidden: false
 ---
 species: Suicune
 displayname: Northern Lights
-ingamename: Northern L
+ingamename: N. Lights
 setname: Christmas2
 tags: [christmas]
 item: [Space Mail]
@@ -834,7 +834,7 @@ hidden: false
 ---
 species: Slaking
 displayname: Donkey Kong
-ingamename: Donkey Kon
+ingamename: DonkeyKong
 setname: Christmas2
 tags: [christmas]
 item: [Nanab Berry]
@@ -858,7 +858,7 @@ hidden: false
 ---
 species: Whismur
 displayname: Christmas Whises
-ingamename: 'Christmas '
+ingamename: XmasWhises
 setname: Christmas
 tags: [christmas]
 item: [Snow Mail]
@@ -882,7 +882,7 @@ hidden: false
 ---
 species: Wailord
 displayname: Beluga Whale
-ingamename: Beluga Wha
+ingamename: Beluga
 setname: Christmas
 tags: [christmas]
 item: [Dive Ball]
@@ -930,7 +930,7 @@ hidden: false
 ---
 species: Altaria
 displayname: White Christmas
-ingamename: White Chri
+ingamename: White Xmas
 setname: Christmas2
 tags: [christmas]
 item: [Snow Mail]
@@ -978,7 +978,7 @@ hidden: false
 ---
 species: Cranidos
 displayname: Woolly Yoshi
-ingamename: Woolly Yos
+ingamename: Wool Yoshi
 setname: Christmas2
 tags: [christmas]
 item: [Lucky Egg]
@@ -1002,7 +1002,7 @@ hidden: false
 ---
 species: Wormadam
 displayname: Christmas Flowers
-ingamename: 'Christmas '
+ingamename: XmasFlower
 setname: Christmas
 tags: [christmas]
 item: [Bloom Mail]
@@ -1122,7 +1122,7 @@ hidden: false
 ---
 species: Carnivine
 displayname: Ice Piranha Plant
-ingamename: Ice Piranh
+ingamename: Ice PPlant
 setname: Christmas2
 tags: [christmas]
 item: [NeverMeltIce]
