@@ -1,0 +1,17 @@
+species: Kyogre
+setname: rain
+tags: [ubersdoubles, rain]
+item: [Choice Specs]
+ability: [Drizzle]
+moves: 
+    - [Surf]
+    - [Blizzard, Ice Beam]
+    - [Thunder]
+    - [U-turn]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Serious
+ivs: 31
+evs: {hp: 116, atk: 0, def: 40, spA: 224, spD: 4, spe: 124}

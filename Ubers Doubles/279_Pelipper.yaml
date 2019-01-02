@@ -1,0 +1,18 @@
+species: Pelipper
+setname: rain
+tags: [ubersdoubles, rain]
+item: [Sitrus Berry]
+ability: [Drizzle]
+moves: 
+    - [Brine]
+    - [Icy Wind]
+    - [Tailwind]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 228, atk: 0, def: 252, spA: 0, spD: 28, spe: 0}

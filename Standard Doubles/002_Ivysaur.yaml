@@ -1,0 +1,18 @@
+species: Ivysaur
+setname: d-physical
+tags: [standarddoubles]
+item: [Null]
+ability: [Overgrow]
+moves: 
+    - [Seed Bomb]
+    - [Earthquake]
+    - [Body Slam]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Cherish]
+nature: Adamant
+ivs: 31
+evs: {hp: 84, atk: 252, def: 0, spA: 0, spD: 0, spe: 172}

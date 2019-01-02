@@ -1,0 +1,18 @@
+species: Politoed
+setname: rain
+tags: [ubersdoubles, rain]
+item: [Leftovers]
+ability: [Drizzle]
+moves: 
+    - [Hydro Pump, Surf]
+    - [Hidden Power]
+    - [Icy Wind]
+    - [Helping Hand, Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Bold
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 200, spA: 0, spD: 56, spe: 0}

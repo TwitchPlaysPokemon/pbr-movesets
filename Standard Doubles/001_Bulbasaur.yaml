@@ -1,0 +1,18 @@
+species: Bulbasaur
+setname: d-special
+tags: [standarddoubles]
+item: [Null]
+ability: [Chlorophyll]
+moves: 
+    - [Solar Beam]
+    - [Sludge Bomb]
+    - [Sleep Powder]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Great]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 84, spA: 120, spD: 28, spe: 76}

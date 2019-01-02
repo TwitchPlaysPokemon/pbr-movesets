@@ -1,0 +1,18 @@
+species: Charmander
+setname: d-special
+tags: [standarddoubles]
+item: [Wide Lens]
+ability: [Blaze]
+moves: 
+    - [Overheat]
+    - [Heat Wave]
+    - [Dragon Pulse]
+    - [Ancient Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 72, atk: 0, def: 0, spA: 252, spD: 4, spe: 180}
