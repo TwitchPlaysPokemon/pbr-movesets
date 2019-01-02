@@ -1,0 +1,21 @@
+species: Primeape
+ingamename: FEB
+displayname: FEB
+setname: Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Strength]
+    - [Rock Smash]
+    - [Cross Chop]
+    - [Fly]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 30, def: 0, spA: 14, spD: 14, spe: 0}
+evs: {hp: 213, atk: 222, def: 214, spA: 211, spD: 128, spe: 210}

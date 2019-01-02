@@ -1,0 +1,21 @@
+species: Arcanine
+ingamename: UUVxxx
+displayname: UUVxxx
+setname: Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Flame Wheel]
+    - [Bite]
+    - [Take Down]
+    - [Light Screen]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 0.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 2, def: 26, spA: 2, spD: 2, spe: 8}
+evs: {hp: 111, atk: 114, def: 112, spA: 110, spD: 110, spe: 114}
