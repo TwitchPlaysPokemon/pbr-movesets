@@ -31,6 +31,7 @@ separations:
     - [Icy Wind, Choice Scarf]
     - [Trick, Life Orb]
     - [Explosion, Choice Specs]
+    - [Destiny Bond, Choice Specs]
 gender: [m, f]
 happiness: 255
 biddable: True
