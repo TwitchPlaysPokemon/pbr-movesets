@@ -1,0 +1,17 @@
+species: Zapdos
+setname: rain
+tags: [ubersdoubles, rain]
+item: [Sitrus Berry]
+ability: [Pressure]
+moves: 
+    - [Thunder]
+    - [Hidden Power]
+    - [Tailwind]
+    - [Light Screen]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Modest
+ivs: {hp: 30, atk: 2, def: 30, spA: 30, spD: 30, spe: 31}
+evs: {hp: 144, atk: 0, def: 4, spA: 252, spD: 0, spe: 108}

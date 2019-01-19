@@ -8,7 +8,7 @@ moves:
 - [Defend Order]
 - [Heal Order]
 - [Power Gem]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -28,7 +28,7 @@ moves:
 - [Defend Order]
 - [Protect]
 - [Confuse Ray]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]

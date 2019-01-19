@@ -8,7 +8,7 @@ moves:
 - [Mach Punch]
 - [Rock Tomb]
 - [Counter]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -28,7 +28,7 @@ moves:
 - [Mach Punch]
 - [Rock Slide]
 - [Counter]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -48,7 +48,7 @@ moves:
 - [Ice Punch]
 - [Fire Punch]
 - [Bullet Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -68,7 +68,7 @@ moves:
 - [Drain Punch]
 - [Bullet Punch]
 - [Substitute]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -88,7 +88,7 @@ moves:
 - [Double Team]
 - [Mach Punch]
 - [Focus Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -108,7 +108,7 @@ moves:
 - [Protect]
 - [Fire Punch]
 - [Ice Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -128,7 +128,7 @@ moves:
 - [Ice Punch]
 - [Mach Punch]
 - [Thunder Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -148,7 +148,7 @@ moves:
 - [Ice Punch]
 - [Drain Punch]
 - [Thunder Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]

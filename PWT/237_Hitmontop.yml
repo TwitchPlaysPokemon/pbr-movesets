@@ -8,7 +8,7 @@ moves:
 - [Counter]
 - [Triple Kick]
 - [Quick Attack]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -28,7 +28,7 @@ moves:
 - [Earthquake]
 - [Counter]
 - [Quick Attack]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -48,7 +48,7 @@ moves:
 - [Triple Kick]
 - [Aerial Ace]
 - [Quick Attack]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -68,7 +68,7 @@ moves:
 - [Counter]
 - [Protect]
 - [Triple Kick]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -88,7 +88,7 @@ moves:
 - [Earthquake]
 - [Close Combat]
 - [Bullet Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -108,7 +108,7 @@ moves:
 - [Earthquake]
 - [Rock Slide]
 - [Agility]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -128,7 +128,7 @@ moves:
 - [Feint]
 - [Mach Punch]
 - [Bullet Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
