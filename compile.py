@@ -15,6 +15,11 @@ try:
 except ImportError:
     print("Your python installation must have pokecat installed.")
     sys.exit()
+try:
+    from pbrEngine.util import sanitizeName
+except ImportError:
+    print("Your python installation must have pbrEngine installed.")
+    sys.exit()
 
 
 sets = []
@@ -39,19 +44,17 @@ for dir, _, files in os.walk("."):
                         continue
                     identifier = "{}:{} {}".format(filepath, pokeset.get("species"), pokeset.get("setname"))
                     with warnings.catch_warnings(record=True) as w:
-                        if "ingamename" in pokeset:
-                            fixed_ingamename = pokeset["ingamename"].encode("ascii", "replace").decode()
-                            for char in illegal_chars:
-                                fixed_ingamename = fixed_ingamename.replace(char, "?")
-                            if pokeset["ingamename"] != fixed_ingamename:
-                                print("Changed ingamename: {} -> {} to avoid encoding issues"
-                                      .format(pokeset["ingamename"], fixed_ingamename))
-                                pokeset["ingamename"] = fixed_ingamename
                         try:
                             pokeset = pokecat.populate_pokeset(pokeset, skip_ev_check=True)
                         except ValueError as ex:
                             print("{}> ERROR: {}".format(identifier, str(ex).encode("ascii", "replace").decode()))
                         else:
+                            # sanitize ingamenames for PBR compatibility
+                            sanitized_ingamename = sanitizeName(pokeset["ingamename"])
+                            if pokeset["ingamename"] != sanitized_ingamename:
+                                print("Changed ingamename: <{}> to <{}> for PBR compatibility"
+                                      .format(pokeset["ingamename"], sanitized_ingamename))
+                                pokeset["ingamename"] = sanitized_ingamename
                             for warning in w:
                                 text = str(warning.message).encode("ascii", "replace").decode()
                                 if text != "Set is shiny, but not hidden, which means it is publicly visible. Is this intended?" and text != "Set is shiny, but also biddable, which means it can be used in token matches. Is this intended?" and not text.startswith("Sum of EV must not be larger than") and "is guaranteed to occupy multiple slots (possible stallmate due to PP-bug)" not in text:
