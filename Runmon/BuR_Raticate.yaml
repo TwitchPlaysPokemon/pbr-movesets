@@ -1,0 +1,20 @@
+species: Raticate
+ingamename: JJKSS
+displayname: JJKSS
+setname: Burning Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Body Slam]
+    - [Skull Badge]
+    - [Water Gun]
+    - [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 22, def: 30, spA: 16, spD: 16, spe: 24}
+evs: {hp: 102, atk: 108, def: 104, spA: 252, spD: 92, spe: 108}
