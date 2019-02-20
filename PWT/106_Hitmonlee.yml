@@ -8,7 +8,7 @@ moves:
 - [Foresight]
 - [Brick Break]
 - [Facade]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -28,7 +28,7 @@ moves:
 - [Foresight]
 - [Earthquake]
 - [Rock Slide]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -48,7 +48,7 @@ moves:
 - [Blaze Kick]
 - [Focus Energy]
 - [Swagger]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -68,7 +68,7 @@ moves:
 - [Blaze Kick]
 - [Reversal]
 - [Swagger]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -88,7 +88,7 @@ moves:
 - [Bulk Up]
 - [Blaze Kick]
 - [High Jump Kick]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -108,7 +108,7 @@ moves:
 - [Focus Punch]
 - [Earthquake]
 - [Bulk Up]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -128,7 +128,7 @@ moves:
 - [Sucker Punch]
 - [Jump Kick]
 - [Blaze Kick]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -148,7 +148,7 @@ moves:
 - [Fake Out]
 - [High Jump Kick]
 - [Stone Edge]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
