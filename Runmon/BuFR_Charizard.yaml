@@ -1,0 +1,20 @@
+species: Charizard
+ingamename: GHQQNee.,
+displayname: GHQQNee.,
+setname: Burning FireRed
+tags: [runmon, in-game]
+item: [null]
+ability: [Blaze]
+moves:
+    - [Cut]
+    - [Acid]
+    - [Earthquake]
+    - [Flamethrower]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 6, def: 6, spA: 6, spD: 6, spe: 6}
+evs: {hp: 66, atk: 70, def: 68, spA: 72, spD: 72, spe: 72}

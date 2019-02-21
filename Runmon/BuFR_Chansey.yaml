@@ -1,0 +1,20 @@
+species: Chansey
+ingamename: X
+displayname: X
+setname: Burning FireRed
+tags: [runmon, in-game]
+item: [null]
+ability: [Natural Cure]
+moves:
+    - [Double Team]
+    - [Toxic]
+    - [Softboiled]
+    - [Ice Beam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 20, def: 22, spA: 14, spD: 14, spe: 12}
+evs: {hp: 68, atk: 74, def: 74, spA: 252, spD: 80, spe: 80}
