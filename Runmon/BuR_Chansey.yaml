@@ -12,7 +12,7 @@ moves:
     - [Ice Beam]
 gender: [f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.0
 shiny: False
 nature: Serious

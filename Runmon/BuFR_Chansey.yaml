@@ -3,7 +3,7 @@ ingamename: X
 displayname: X
 setname: Burning FireRed
 tags: [runmon, in-game]
-item: [null]
+item: [Leftovers]
 ability: [Natural Cure]
 moves:
     - [Double Team]
@@ -17,4 +17,4 @@ rarity: 0.0
 shiny: False
 nature: Naughty
 ivs: {hp: 10, atk: 20, def: 22, spA: 14, spD: 14, spe: 12}
-evs: {hp: 44, atk: 70, def: 110, spA: 67, spD: 32, spe: 126}
+evs: {hp: 50, atk: 86, def: 131, spA: 77, spD: 34, spe: 131}

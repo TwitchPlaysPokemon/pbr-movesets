@@ -17,4 +17,4 @@ rarity: 0.0
 shiny: False
 nature: Quirky
 ivs: {hp: 23, atk: 7, def: 7, spA: 10, spD: 26, spe: 6}
-evs: {hp: 36, atk: 96, def: 104, spA: 48, spD: 42, spe: 158}
+evs: {hp: 36, atk: 111, def: 109, spA: 52, spD: 42, spe: 160}

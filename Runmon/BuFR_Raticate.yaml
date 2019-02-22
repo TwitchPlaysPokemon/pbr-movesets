@@ -3,7 +3,7 @@ ingamename: JJKSS
 displayname: JJKSS
 setname: Burning FireRed
 tags: [runmon, in-game]
-item: [null]
+item: [Poké Ball]
 ability: [Run Away]
 moves:
     - [Body Slam]
