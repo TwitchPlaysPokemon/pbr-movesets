@@ -15,6 +15,6 @@ happiness: 255
 biddable: True
 rarity: 0.0
 shiny: False
-nature: Serious
+nature: Quirky
 ivs: {hp: 24, atk: 22, def: 30, spA: 16, spD: 16, spe: 24}
-evs: {hp: 102, atk: 108, def: 104, spA: 252, spD: 92, spe: 108}
+evs: {hp: 25, atk: 67, def: 43, spA: 27, spD: 24, spe: 108}
