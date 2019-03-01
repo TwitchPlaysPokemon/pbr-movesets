@@ -1,0 +1,110 @@
+species: Groudon
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Sitrus Berry]
+Ability: Drought
+moves:
+    - [Earthquake]
+    - [Eruption]
+    - [Thunder Punch]
+    - [Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: 40, def: 0, spA: 216, spD: 0, spe: 0}
+---
+species: Torkoal
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Custap Berry]
+Ability: Drought
+moves:
+    - [Heat Wave]
+    - [Solar Beam]
+    - [Protect]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 4, spD: 252, spe: 0}
+---
+species: Charizard
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Life Orb]
+Ability: Drought
+moves:
+    - [Fire Blast]
+    - [Air Slash]
+    - [Solar Beam]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Ninetales
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Focus Sash]
+Ability: Drought
+moves:
+    - [Heat Wave]
+    - [Energy Ball]
+    - [Nasty Plot]
+    - [Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Ho-Oh
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Heat Rock]
+Ability: Pressure
+moves:
+    - [Brave Bird]
+    - [Sacred Fire]
+    - [Tailwind]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 68, def: 188, spA: 0, spD: 0, spe: 0}
+---
+species: Entei
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Life Orb]
+Ability: Pressure
+moves:
+    - [Flare Blitz]
+    - [Stone Edge]
+    - [Extreme Speed]
+    - [Will-O-Wisp]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
