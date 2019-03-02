@@ -1,0 +1,197 @@
+species: Machamp
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Lum Berry]
+Ability: No Guard
+moves:
+    - [Dynamic Punch]
+    - [Rock Slide]
+    - [Payback]
+    - [Bullet Punch]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+---
+species: Snorlax
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Chople Berry]
+Ability: Thick Fat
+moves:
+    - [Double Edge]
+    - [Crunch]
+    - [Seed Bomb, Thunderpunch]
+    - [Fire Punch, Ice Punch]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 5, spe: 0}
+---
+species: Latios
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Choice Scarf]
+Ability: Levitate
+moves:
+    - [Dragon Pulse]
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Gengar
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Focus Sash]
+Ability: Levitate
+moves:
+    - [Shadow Ball]
+    - [Focus Blast]
+    - [Energy Ball]
+    - [Taunt]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature:
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 5, spe: 252}
+---
+species: Mewtwo
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Choice Specs]
+Ability: Pressure
+moves:
+    - [Thunder]
+    - [Blizzard]
+    - [Solar Beam]
+    - [Aura Sphere]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Rayquaza
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Life Orb]
+Ability: Air Lock
+moves:
+    - [Outrage]
+    - [Overheat]
+    - [Extremespeed]
+    - [Icy Wind]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 56, def: 0, spA: 56, spD: 0, spe: 252}
+---
+species: Gyarados
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Life Orb]
+Ability: Intimidate
+moves:
+    - [Waterfall]
+    - [Earthquake]
+    - [Dragon Dance]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Darkrai
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Chople Berry]
+Ability: Bad Dreams
+moves:
+    - [Dark Pulse]
+    - [Focus Blast]
+    - [Nasty Plot]
+    - [Taunt]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Heatran
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Shuca Berry]
+Ability: Flash Fire
+moves:
+    - [Heat Wave]
+    - [Earth Power]
+    - [Dragon Pulse]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Modest
+ivs: 31
+evs: {hp: 56, atk: 0, def: 0, spA: 252, spD: 0, spe: 200}
+---
+species: Metagross
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Occa Berry]
+Ability: Clear Body
+moves:
+    - [Meteor Mash]
+    - [Zen Headbutt]
+    - [Bullet Punch]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+---
+species: Salamence
+setname: UD-Offense
+tags: [ubersdoubles, offense]
+item: [Life Orb]
+Ability: Intimidate
+moves:
+    - [Dragon Claw]
+    - [Fire Blast]
+    - [Hydro Pump]
+    - [Tailwind]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 0, spe: 252}

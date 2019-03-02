@@ -1,0 +1,242 @@
+species: Dialga
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Shuca Berry]
+Ability: Pressure
+moves:
+    - [Draco Meteor]
+    - [Iron Head]
+    - [Earthquake]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 136, atk: 252, def: 0, spA: 120, spD: 0, spe: 0}
+---
+species: Porygon2
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Wise Glasses]
+Ability: Trace
+moves:
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Recover]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 120, spA: 0, spD: 136, spe: 0}
+---
+species: Dusknoir
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Leftovers]
+Ability: Pressure
+moves:
+    - [Shadow Punch]
+    - [Earthquake]
+    - [Helping Hand]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 25, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+---
+species: Dusknoir
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Leftovers]
+Ability: Pressure
+moves:
+    - [Shadow Punch]
+    - [Earthquake]
+    - [Helping Hand]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+---
+species: Bronzong
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Life Orb]
+Ability: Levitate
+moves:
+    - [Gyro Ball]
+    - [Earthquake]
+    - [Explosion]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+---
+species: Slowbro
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Sitrus Berry]
+Ability: Oblivious
+moves:
+    - [Surf]
+    - [Psychic]
+    - [Flamethrower, Ice Beam, Grass Knot]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 96, spA: 160, spD: 0, spe: 0}
+---
+species: Slowking
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [King's Rock]
+Ability: Own Tempo
+moves:
+    - [Psychic]
+    - [Blizzard]
+    - [Nasty Plot]
+    - [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 120, spA: 136, spD: 0, spe: 0}
+---
+species: Clamperl
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [DeepSeaTooth]
+Ability: Shell Armor
+moves:
+    - [Muddy Water]
+    - [Ice Beam]
+    - [Brine]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+---
+species: Marowak
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Thick Club]
+Ability: Rock Head
+moves:
+    - [Bonemerang]
+    - [Rock Slide]
+    - [Double Edge]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+---
+species: Magnezone
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Life Orb]
+Ability: Magnet Pull
+moves:
+    - [Thunderbolt]
+    - [Flash Cannon]
+    - [Hidden Power]
+    - [Substitute]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 2}
+evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}
+---
+species: Camerupt
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Charcoal]
+Ability: Solid Rock
+moves:
+    - [Eruption]
+    - [Earth Power]
+    - [Rock Slide]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
+---
+species: Rampardos
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Life Orb]
+Ability: Mold Breaker
+moves:
+    - [Head Smash]
+    - [Rock Slide]
+    - [Superpower]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 252, spe: 0}
+---
+species: Dragonite
+setname: UD-TrickRoom
+tags: [ubersdoubles, trickroom]
+item: [Life Orb]
+Ability: Inner Focus
+moves:
+    - [Draco Meteor]
+    - [Dragon Claw]
+    - [Fire Punch]
+    - [Extreme Speed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Heal]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}

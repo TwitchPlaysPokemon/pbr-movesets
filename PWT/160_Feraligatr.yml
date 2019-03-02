@@ -21,7 +21,7 @@ rarity: 1.0
 species: Feraligatr
 setname: PWT-Cal
 tags: [in-game, PWT-Cal, trainer+cal]
-item: [null]
+item: [Lum Berry]
 ability: [Torrent]
 moves:
 - [Waterfall]

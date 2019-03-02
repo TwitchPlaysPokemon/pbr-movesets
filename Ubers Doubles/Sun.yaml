@@ -108,3 +108,173 @@ ball: [Cherish]
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Moltres
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Sitrus Berry]
+Ability: Pressure
+moves:
+    - [Heat Wave]
+    - [Air Slash]
+    - [Will-O-Wisp, Morning Sun]
+    - [Sunny Day, Tailwind]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 0, def: 0, spA: 136, spD: 0, spe: 252}
+---
+species: Houndoom
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Life Orb]
+Ability: Solar Power
+moves:
+    - [Heat Wave]
+    - [Dark Pulse]
+    - [Solar Beam]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Infernape
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Shuca Berry]
+Ability: Blaze
+moves:
+    - [Fake Out]
+    - [Flamethrower]
+    - [Rock Slide]
+    - [Helping Hand]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 72, def: 0, spA: 184, spD: 0, spe: 252}
+---
+species: Venusaur
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Yache Berry]
+Ability: Chlorophyll
+moves:
+    - [Solar Beam]
+    - [Sludge Bomb]
+    - [Weather Ball]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+---
+species: Cherrim
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Choice Scarf]
+Ability: Flower Gift
+moves:
+    - [Solar Beam]
+    - [Energy Ball]
+    - [Weather Power]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 30, atk: 31, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 64, atk: 0, def: 0, spA: 252, spD: 0, spe: 192}
+---
+species: Exeggutor
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Life Orb]
+Ability: Chlorophyll
+moves:
+    - [Solar Beam]
+    - [Psychic]
+    - [Low Kick]
+    - [Sunny Day, Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 0, spA: 176, spD: 0, spe: 252}
+---
+species: Jumpluff
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Focus Sash]
+Ability: Chlorophyll
+moves:
+    - [Energy Ball]
+    - [Sleep Powder]
+    - [Cotton Spore]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 60, spe: 196}
+---
+species: Cresselia
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Lum Berry]
+Ability: Levitate
+moves:
+    - [Psychic]
+    - [Icy Wind]
+    - [Calm Mind]
+    - [Moonlight]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 240, spA: 0, spD: 0, spe: 16}
+---
+species: Palkia
+setname: UD-Sun
+tags: [ubersdoubles, sun]
+item: [Expert Belt]
+Ability: Pressure
+moves:
+    - [Spacial Rend]
+    - [Fire Blast]
+    - [Thunderbolt]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Cherish]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 0, def: 0, spA: 252, spD: 0, spe: 196}

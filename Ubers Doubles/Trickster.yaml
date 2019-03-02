@@ -1,0 +1,197 @@
+species: Shedinja
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Focus Sash]
+Ability: Wonder Guard
+moves:
+    - [U-turn]
+    - [Sucker Punch]
+    - [Will-o-wisp]
+    - [Confuse Ray]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mew
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Sitrus Berry]
+Ability: Synchronize
+moves:
+    - [Fake Out]
+    - [Transform]
+    - [Will-o-wisp]
+    - [Tailwind]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Gengar
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Focus Sash]
+Ability: Levitate
+moves:
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Disable]
+    - [Substitute]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Togekiss
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Leftovers]
+Ability: Serene Grace
+moves:
+    - [Air Slash]
+    - [Thunder Wave]
+    - [Follow Me]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 120, spA: 0, spD: 136, spe: 0}
+---
+species: Stantler
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [King's Rock]
+Ability: Intimidate
+moves:
+    - [Body Slam]
+    - [Rain Dance]
+    - [Sunny Day]
+    - [Imprison]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 40, spe: 216}
+---
+species: Mr. Mime
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Focus Band]
+Ability: Soundproof
+moves:
+    - [Fake Out]
+    - [Psychic]
+    - [Perish Song]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Calm
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+---
+species: Smeargle
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Focus Sash]
+Ability: Own Tempo
+moves:
+    - [Fake Out]
+    - [Taunt]
+    - [Dark Void]
+    - [Follow Me, Tailwind]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Jolly
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Altaria
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Yache Berry]
+Ability: Cloud Nine
+moves:
+    - [Dragon Pulse]
+    - [Heat Wave]
+    - [Roost]
+    - [Captivate]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Raichu
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Sitrus Berry]
+Ability: Ligthning Rod
+moves:
+    - [Fake Out]
+    - [Shock Wave]
+    - [Follow Me]
+    - [Teeter Dance]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 120, spA: 252, spD: 0, spe: 252}
+---
+species: Breloom
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Toxic Orb]
+Ability: Poison Heal
+moves:
+    - [Seed Bomb]
+    - [Drain Punch]
+    - [Spore]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Calm
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 4}
+---
+species: Dugtrio
+setname: UD-Trickster
+tags: [ubersdoubles, trickster]
+item: [Focus Sash]
+Ability: Arena Trap
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Sucker Punch]
+    - [Reversal]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Premier]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
