@@ -1,0 +1,244 @@
+species: Regirock
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Passho Berry]
+ability: Clear Body
+moves:
+    - [Rock Slide]
+    - [Iron Head]
+    - [Thunder Punch]
+    - [Sandstorm]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+---
+species: Tyranitar
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Chople Berry]
+ability: Sand Stream
+moves:
+    - [Crunch]
+    - [Rock Slide]
+    - [Low Kick]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Hippowdon
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Sitrus Berry]
+ability: Sand Stream
+moves:
+    - [Earthquake]
+    - [Ice Fang]
+    - [Slack Off]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
+---
+species: Golem
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Custap Berry]
+ability: Sand Stream
+moves:
+    - [Earthquake]
+    - [Rock Blast]
+    - [Focus Punch]
+    - [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 136, def: 0, spA: 0, spD: 120, spe: 0}
+---
+species: Arceus
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Stone Plate]
+ability: Multitype
+moves:
+    - [Judgment]
+    - [Grass Knot]
+    - [Fire Blast]
+    - [Sandstorm]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Lax
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Gastrodon
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Leftovers]
+ability: Storm Drain
+moves:
+    - [Earthquake]
+    - [Dive]
+    - [Pain Split]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 252, spe: 0}
+---
+species: Cradily
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Sitrus Berry]
+ability: Storm Drain
+moves:
+    - [Seed Bomb]
+    - [Rock Slide]
+    - [Curse]
+    - [Recover]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 136, spA: 0, spD: 120, spe: 0}
+---
+species: Cacturne
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Big Root]
+ability: Sand Veil
+moves:
+    - [Energy Ball]
+    - [Dark Pulse]
+    - [Leech Seed]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Garchomp
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Life Orb]
+ability: Sand Veil
+moves:
+    - [Draco Meteor]
+    - [Earthquake]
+    - [Rock Slide]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 72, def: 0, spA: 184, spD: 0, spe: 252}
+---
+species: Gliscor
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Power Herb]
+ability: Sand Veil
+moves:
+    - [Earthquake]
+    - [Sky Attack]
+    - [Rock Slide]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 56, def: 56, spA: 0, spD: 140, spe: 216}
+---
+species: Aerodactyl
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Expert Belt]
+ability: Rock Head
+moves:
+    - [Rock Slide]
+    - [Double Edge]
+    - [Thunder Fang]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Alakazam
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Focus Sash]
+ability: Magic Guard
+moves:
+    - [Psychic]
+    - [Focus Blast]
+    - [Energy Ball]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Swampert
+setname: UD-Sand
+tags: [ubersdoubles, sand]
+item: [Life Orb]
+ability: Torrent
+moves:
+    - [Muddy Water]
+    - [Earth Power]
+    - [Ice Beam]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Safari]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 32, atk: 0, def: 0, spA: 252, spD: 8, spe: 216}
