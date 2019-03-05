@@ -249,7 +249,7 @@ ability: Levitate
 moves:
     - [Psychic]
     - [Icy Wind]
-    - [Calm Mind]
+    - [Calm Mind, Helping Hand]
     - [Moonlight]
 gender: [f]
 happiness: 255

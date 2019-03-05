@@ -116,7 +116,7 @@ item: [Splash Plate]
 ability: [Multitype]
 moves:
     - [Waterfall]
-    - [Brick Break]
+    - [Brick Break, Dragon Claw]
     - [Swords Dance]
     - [Rain Dance]
 gender: [m, f]

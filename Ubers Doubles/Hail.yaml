@@ -8,6 +8,7 @@ moves:
     - [Energy Ball]
     - [Icy Wind]
     - [Protect]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -15,3 +16,209 @@ ball: [Dive]
 nature: Quiet
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 144}
+---
+species: Ninetales
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Shuca Berry]
+ability: Snow Warning
+moves:
+    - [Heat Wave]
+    - [Blizzard]
+    - [Energy Ball]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 120, spA: 252, spD: 0, spe: 252}
+---
+species: Glaceon
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Focus Sash]
+ability: Snow Warning
+moves:
+    - [Blizzard]
+    - [Shadow Ball]
+    - [Fake Tears, Helping Hand]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Articuno
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Light Clay]
+ability: Snow Cloak
+moves:
+    - [Blizzard]
+    - [Tailwind]
+    - [Reflect]
+    - [Light Screen]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Mamoswine
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Bright Powder]
+ability: Snow Cloak
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Ice Shard]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 176, atk: 252, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Walrein
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Sitrus Berry]
+ability: Thick Fat
+moves:
+    - [Blizzard]
+    - [Hydro Pump]
+    - [Icy Wind]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 112, spA: 112, spD: 112, spe: 32}
+---
+species: Froslass
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Life Orb]
+ability: Snow Cloak
+moves:
+    - [Blizzard]
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Taunt, Hail]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 232, atk: 0, def: 96, spA: 252, spD: 96, spe: 252}
+---
+species: Regice
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Choice Specs]
+ability: Ice Body
+moves:
+    - [Blizzard]
+    - [Ice Beam]
+    - [Focus Blast]
+    - [Thunderbolt]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 136}
+---
+species: Jynx
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Focus Sash]
+ability: Oblivious
+moves:
+    - [Blizzard]
+    - [Focus Blast]
+    - [Lovely Kiss]
+    - [Helping Hand]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 0, spe: 252}
+---
+species: Lapras
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Sitrus Berry]
+ability: Water Absorb
+moves:
+    - [Blizzard]
+    - [Hydro Pump]
+    - [Thunderbolt]
+    - [Hauk]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 16, spA: 120, spD: 0, spe: 120}
+---
+species: Weavile
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Focus Sash]
+ability: Pressure
+moves:
+    - [Fake Out]
+    - [Night Slash]
+    - [Taunt]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 252, def: 120, spA: 0, spD: 40, spe: 252}
+---
+species: Arceus
+setname: UD-Hail
+tags: [ubersdoubles, hail]
+item: [Icicle Plate]
+ability: Multitype
+moves:
+    - [Blizzard]
+    - [Thunderbolt]
+    - [Flamethrower]
+    - [Tailwind]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

@@ -6,7 +6,7 @@ ability: Pressure
 moves:
     - [Draco Meteor]
     - [Iron Head]
-    - [Earthquake]
+    - [Earthquake, Overheat]
     - [Trick Room]
 happiness: 255
 biddable: True
