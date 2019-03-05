@@ -57,8 +57,6 @@ ivs: 20
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
---- null
-...
 ---
 species: Tauros
 setname: PWT-Whitney Tournament2

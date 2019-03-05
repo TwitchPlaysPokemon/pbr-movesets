@@ -1,7 +1,7 @@
 species: Snubbull
 setname: Prima
 item: [null]
-ability: [Intimdate,Run Away]
+ability: [Intimidate,Run Away]
 moves:
     - [Charm]
     - [Heal Bell]

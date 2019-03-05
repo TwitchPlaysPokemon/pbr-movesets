@@ -1,7 +1,7 @@
 species: Hypno
 setname: Prima
 item: [null]
-ability: [Insomina,Forewarn]
+ability: [Insomnia,Forewarn]
 moves:
     - [Dream Eater]
     - [Future Sight]

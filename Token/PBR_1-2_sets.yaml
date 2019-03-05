@@ -475,7 +475,7 @@ moves:
 gender: [m,f]
 rarity: 1.0
 ---
-species: Nidoran-F
+species: Nidoran♀
 displayname: "Nidoran-F-T"
 setname: PBR Gold
 tags: [PBR1.2]
@@ -526,7 +526,7 @@ moves:
 gender: [f]
 rarity: 1.0
 ---
-species: Nidoran-M
+species: Nidoran♂
 displayname: "Nidoran-M-T"
 setname: PBR Gold
 tags: [PBR1.2]

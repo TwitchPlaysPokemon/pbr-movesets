@@ -10,7 +10,7 @@ ability: Motor Drive
 moves:
     - [Shock Wave]
     - [Bubble Beam]
-    - [Trump Card 3PP]
+    - [Trump Card (=3)]
     - [Tail Glow]
 happiness: 255
 gender: [m,f]

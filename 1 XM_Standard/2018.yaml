@@ -50,7 +50,7 @@ hidden: false
 species: Sandshrew
 displayname: Igloo
 ingamename: Igloo
-setname: Christmas2
+setname: Christmas3
 tags: [christmas]
 item: [Light Clay]
 ability: [Snow Cloak]
@@ -595,7 +595,7 @@ rarity: 1.0
 shiny: true
 hidden: false
 ---
-species: Politoad
+species: Politoed
 displayname: tppS
 ingamename: tppS
 setname: Christmas2

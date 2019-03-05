@@ -42,7 +42,7 @@ species: Rhyperior
 setname: PWT-Palmer
 tags: [in-game, PWT-Palmer, trainer+palmer]
 item: [Focus Band]
-ability: [Lightninrod, Solid Rock]
+ability: [Lightning Rod, Solid Rock]
 moves:
 - [Earthquake]
 - [Crunch]
@@ -62,7 +62,7 @@ species: Rhyperior
 setname: PWT-Giovanni Tournament
 tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
 item: [Liechi Berry]
-ability: [Lightninrod, Solid Rock]
+ability: [Lightning Rod, Solid Rock]
 moves:
 - [Hammer Arm]
 - [Stone Edge]
@@ -82,7 +82,7 @@ species: Rhyperior
 setname: PWT-Giovanni RR
 tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
 item: [null]
-ability: [Lightninrod]
+ability: [Lightning Rod]
 moves:
 - [Megahorn]
 - [Earthquake]
@@ -102,7 +102,7 @@ species: Rhyperior
 setname: PWT-Brock Tournament2
 tags: [in-game, PWT-Brock Tournament2, trainer+brock]
 item: [Expert Belt]
-ability: [Lightninrod, Solid Rock]
+ability: [Lightning Rod, Solid Rock]
 moves:
 - [Earthquake]
 - [Stone Edge]

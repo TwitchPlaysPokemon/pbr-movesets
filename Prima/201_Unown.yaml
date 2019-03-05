@@ -3,7 +3,7 @@ setname: Prima
 item: [null]
 ability: [Levitate]
 moves:
-    - [Hiddden Power]
+    - [Hidden Power]
 gender: null
 happiness: 255
 biddable: True

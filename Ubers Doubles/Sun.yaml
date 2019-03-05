@@ -2,7 +2,7 @@ species: Groudon
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Sitrus Berry]
-Ability: Drought
+ability: Drought
 moves:
     - [Earthquake]
     - [Eruption]
@@ -20,7 +20,7 @@ species: Torkoal
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Custap Berry]
-Ability: Drought
+ability: Drought
 moves:
     - [Heat Wave]
     - [Solar Beam]
@@ -39,7 +39,7 @@ species: Charizard
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Life Orb]
-Ability: Drought
+ability: Drought
 moves:
     - [Fire Blast]
     - [Air Slash]
@@ -58,7 +58,7 @@ species: Ninetales
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Focus Sash]
-Ability: Drought
+ability: Drought
 moves:
     - [Heat Wave]
     - [Energy Ball]
@@ -77,7 +77,7 @@ species: Ho-Oh
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Heat Rock]
-Ability: Pressure
+ability: Pressure
 moves:
     - [Brave Bird]
     - [Sacred Fire]
@@ -95,7 +95,7 @@ species: Entei
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Life Orb]
-Ability: Pressure
+ability: Pressure
 moves:
     - [Flare Blitz]
     - [Stone Edge]
@@ -113,7 +113,7 @@ species: Moltres
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Sitrus Berry]
-Ability: Pressure
+ability: Pressure
 moves:
     - [Heat Wave]
     - [Air Slash]
@@ -131,7 +131,7 @@ species: Houndoom
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Life Orb]
-Ability: Solar Power
+ability: Solar Power
 moves:
     - [Heat Wave]
     - [Dark Pulse]
@@ -150,7 +150,7 @@ species: Infernape
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Shuca Berry]
-Ability: Blaze
+ability: Blaze
 moves:
     - [Fake Out]
     - [Flamethrower]
@@ -169,7 +169,7 @@ species: Venusaur
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Yache Berry]
-Ability: Chlorophyll
+ability: Chlorophyll
 moves:
     - [Solar Beam]
     - [Sludge Bomb]
@@ -188,11 +188,11 @@ species: Cherrim
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Choice Scarf]
-Ability: Flower Gift
+ability: Flower Gift
 moves:
     - [Solar Beam]
     - [Energy Ball]
-    - [Weather Power]
+    - [Weather Ball]
     - [Hidden Power]
 gender: [m, f]
 happiness: 255
@@ -207,7 +207,7 @@ species: Exeggutor
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Life Orb]
-Ability: Chlorophyll
+ability: Chlorophyll
 moves:
     - [Solar Beam]
     - [Psychic]
@@ -226,7 +226,7 @@ species: Jumpluff
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Focus Sash]
-Ability: Chlorophyll
+ability: Chlorophyll
 moves:
     - [Energy Ball]
     - [Sleep Powder]
@@ -245,7 +245,7 @@ species: Cresselia
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Lum Berry]
-Ability: Levitate
+ability: Levitate
 moves:
     - [Psychic]
     - [Icy Wind]
@@ -264,13 +264,12 @@ species: Palkia
 setname: UD-Sun
 tags: [ubersdoubles, sun]
 item: [Expert Belt]
-Ability: Pressure
+ability: Pressure
 moves:
     - [Spacial Rend]
     - [Fire Blast]
     - [Thunderbolt]
     - [Sunny Day]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1

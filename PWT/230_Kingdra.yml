@@ -182,7 +182,7 @@ species: Kingdra
 setname: PWT-Clair Tournament2
 tags: [in-game, PWT-Clair Tournament2, trainer+clair]
 item: [Chesto Berry]
-ability: [Swift Sim, Sniper]
+ability: [Swift Swim, Sniper]
 moves:
 - [Rest]
 - [Waterfall]

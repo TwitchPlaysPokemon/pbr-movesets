@@ -3,7 +3,7 @@ ingamename: Gr8Zapfish
 displayname: Great Zapfish
 setname: Christmas
 tags: [christmas]
-item: Electrizer
+item: Electirizer
 ability: Volt Absorb
 moves:
     - [Discharge]

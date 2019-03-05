@@ -62,7 +62,7 @@ species: Manectric
 setname: PWT-Wattson Tournament
 tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
 item: [Petaya Berry]
-ability: [Static, Lightninrod]
+ability: [Static, Lightning Rod]
 moves:
 - [Thunderbolt]
 - [Charge]
@@ -82,7 +82,7 @@ species: Manectric
 setname: PWT-Wattson Tournament2
 tags: [in-game, PWT-Wattson Tournament2, trainer+wattson]
 item: [Life Orb]
-ability: [Static, Lightninrod]
+ability: [Static, Lightning Rod]
 moves:
 - [Double Team]
 - [Thunder Wave]

@@ -1,7 +1,7 @@
 species: Bulbasaur
 setname: Prima
 item: [null]
-ability: [Qvergrow]
+ability: [Overgrow]
 moves:
     - [Razor leaf]
     - [Leech seed]

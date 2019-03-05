@@ -1,7 +1,7 @@
 species: Kadabra
 setname: Prima
 item: [null]
-ability: [Synchronize,Innner Focus]
+ability: [Synchronize,Inner Focus]
 moves:
     - [Miracle Eye]
     - [Psychic]

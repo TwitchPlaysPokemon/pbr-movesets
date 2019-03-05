@@ -1,0 +1,234 @@
+species: Arceus
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Fist Plate]
+ability: Multitype
+moves:
+    - [Focus Blast]
+    - [Earth Power]
+    - [Tailwind]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+---
+species: Metagross
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Shuca Berry]
+ability: Clear Body
+moves:
+    - [Meteor Mash]
+    - [Zen Headbutt]
+    - [Hammer Arm]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Deoxys
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Focus Sash]
+ability: Pressure
+moves:
+    - [Psycho Boost]
+    - [Focus Blast]
+    - [Zap Cannon]
+    - [Gravity]
+form: Speed
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Porygon-Z
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Expert Belt]
+ability: Download
+moves:
+    - [Thunder]
+    - [Blizzard]
+    - [Gravity]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Starmie
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Life Orb]
+ability: Natural Cure
+moves:
+    - [Hydro Pump]
+    - [Thunder]
+    - [Blizzard]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 5, spe: 252}
+---
+species: Exeggutor
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [White Herb]
+ability: Chlorophyll
+moves:
+    - [Leaf Storm]
+    - [Psychic]
+    - [Sleep Powder]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 72, spD: 64, spe: 120}
+---
+species: Clefable
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Life Orb]
+ability: Magic Guard
+moves:
+    - [Fire Blast]
+    - [Focus Blast]
+    - [Zap Cannon]
+    - [Gravity]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+---
+species: Swampert
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Life Orb]
+ability: Torrent
+moves:
+    - [Earth Power]
+    - [Muddy Water]
+    - [Icy Wind]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 232, atk: 0, def: 0, spA: 252, spD: 0, spe: 24}
+---
+species: Heracross
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Toxic Orb]
+ability: Swarm
+moves:
+    - [Megahorn]
+    - [Brick Break]
+    - [Stone Edge]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Flygon
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Lum Berry]
+ability: Levitate
+moves:
+    - [Earthquake]
+    - [Dragon Claw]
+    - [Rock Slide]
+    - [Tailwind]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Tangrowth
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Occa Berry]
+ability: Chlorophyll
+moves:
+    - [Power Whip]
+    - [Earthquake]
+    - [Rock Slide]
+    - [Swords Dance]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Rhyperior
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Choice Band]
+ability: Solid Rock
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Megahorn]
+    - [Dragon Rush]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+---
+species: Toxicroak
+setname: UD-Gravity
+tags: [ubersdoubles, gravity]
+item: [Life Orb]
+ability: Dry Skin
+moves:
+    - [Gunk Shot]
+    - [Dynamic Punch]
+    - [Sucker Punch]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Nest]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}

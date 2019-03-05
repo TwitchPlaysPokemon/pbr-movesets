@@ -1,6 +1,6 @@
 species: Chansey
 ingamename: WeightLoss
-displayname: Weight Loss Resolution 
+displayname: Weight Loss Resolution
 setname: NewYear
 tags: [newyear]
 level: 50
@@ -19,5 +19,5 @@ rarity: 1.0
 shiny: True
 ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
 evs: {hp: 100, atk: 252, def: 84, spA: 0, spD: 0, spe: 0}
-nature: Adament
+nature: Adamant
 hidden: false

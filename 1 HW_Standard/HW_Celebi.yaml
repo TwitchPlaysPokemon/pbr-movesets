@@ -3,7 +3,7 @@ ingamename: CarmlOnion
 displayname: Caramel Onion
 setname: Halloween
 tags: [halloween]
-item: Shoal Salts
+item: Shoal Salt
 ability: Filter
 moves:
     - [Heat Wave]

@@ -2,12 +2,13 @@ species: Machamp
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Lum Berry]
-Ability: No Guard
+ability: No Guard
 moves:
     - [Dynamic Punch]
     - [Rock Slide]
     - [Payback]
     - [Bullet Punch]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -20,12 +21,13 @@ species: Snorlax
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Chople Berry]
-Ability: Thick Fat
+ability: Thick Fat
 moves:
     - [Double Edge]
     - [Crunch]
     - [Seed Bomb, Thunderpunch]
     - [Fire Punch, Ice Punch]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -38,12 +40,13 @@ species: Latios
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Choice Scarf]
-Ability: Levitate
+ability: Levitate
 moves:
     - [Dragon Pulse]
     - [Thunderbolt]
     - [Ice Beam]
     - [Trick]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1
@@ -56,7 +59,7 @@ species: Gengar
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Focus Sash]
-Ability: Levitate
+ability: Levitate
 moves:
     - [Shadow Ball]
     - [Focus Blast]
@@ -66,7 +69,7 @@ happiness: 255
 biddable: True
 rarity: 1
 ball: [Ultra]
-nature:
+nature: Serious
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 5, spe: 252}
 ---
@@ -74,7 +77,7 @@ species: Mewtwo
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Choice Specs]
-Ability: Pressure
+ability: Pressure
 moves:
     - [Thunder]
     - [Blizzard]
@@ -92,7 +95,7 @@ species: Rayquaza
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Life Orb]
-Ability: Air Lock
+ability: Air Lock
 moves:
     - [Outrage]
     - [Overheat]
@@ -110,12 +113,13 @@ species: Gyarados
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Life Orb]
-Ability: Intimidate
+ability: Intimidate
 moves:
     - [Waterfall]
     - [Earthquake]
     - [Dragon Dance]
     - [Protect]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -128,7 +132,7 @@ species: Darkrai
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Chople Berry]
-Ability: Bad Dreams
+ability: Bad Dreams
 moves:
     - [Dark Pulse]
     - [Focus Blast]
@@ -146,12 +150,13 @@ species: Heatran
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Shuca Berry]
-Ability: Flash Fire
+ability: Flash Fire
 moves:
     - [Heat Wave]
     - [Earth Power]
     - [Dragon Pulse]
     - [Protect]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -164,7 +169,7 @@ species: Metagross
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Occa Berry]
-Ability: Clear Body
+ability: Clear Body
 moves:
     - [Meteor Mash]
     - [Zen Headbutt]
@@ -182,12 +187,13 @@ species: Salamence
 setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Life Orb]
-Ability: Intimidate
+ability: Intimidate
 moves:
     - [Dragon Claw]
     - [Fire Blast]
     - [Hydro Pump]
     - [Tailwind]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1

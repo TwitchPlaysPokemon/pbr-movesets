@@ -1,7 +1,7 @@
 species: Wurmple
 setname: Prima
 item: [null]
-ability: [Sheild Dust]
+ability: [Shield Dust]
 moves:
     - [String Shot]
     - [Tackle]

@@ -18,4 +18,4 @@ ball: [Poké]
 shiny: False
 nature: Lax
 ivs: {hp: 11, atk: 31, def: 0, spA: 12, spD: 8, spe: 4}
-evs: {hp: 24, atk: 77, def: 63, spA: 24, spD: 24, spe: 255}
+evs: {hp: 24, atk: 77, def: 63, spA: 24, spD: 24, spe: 252}

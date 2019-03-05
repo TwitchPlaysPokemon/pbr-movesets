@@ -1,10 +1,10 @@
 species: Hitmontop
 setname: Prima
 item: [null]
-ability: [Intimidate,Technican]
+ability: [Intimidate,Technician]
 moves:
     - [Close Combat]
-    - [Endavor]
+    - [Endeavor]
     - [Brick break]
     - [Focus Energy]
 gender: m

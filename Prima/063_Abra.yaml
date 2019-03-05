@@ -1,7 +1,7 @@
 species: Abra
 setname: Prima
 item: [null]
-ability: [Synchronize,Innner Focus]
+ability: [Synchronize,Inner Focus]
 moves:
     - [Psychic]
     - [Skill Swap]

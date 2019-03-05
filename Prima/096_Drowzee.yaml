@@ -1,7 +1,7 @@
 species: Drowzee
 setname: Prima
 item: [null]
-ability: [Insomina,Forewarn]
+ability: [Insomnia,Forewarn]
 moves:
     - [Disable]
     - [Psychic]

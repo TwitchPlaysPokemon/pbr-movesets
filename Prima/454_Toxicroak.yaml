@@ -1,7 +1,7 @@
 species: Toxicroak
 setname: Prima
 item: [null]
-ability: [Antcipation,Dry Skin]
+ability: [Anticipation,Dry Skin]
 moves:
     - [Rain Dance]
     - [Taunt]

@@ -2,7 +2,7 @@ species: Shedinja
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Focus Sash]
-Ability: Wonder Guard
+ability: Wonder Guard
 moves:
     - [U-turn]
     - [Sucker Punch]
@@ -20,7 +20,7 @@ species: Mew
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Sitrus Berry]
-Ability: Synchronize
+ability: Synchronize
 moves:
     - [Fake Out]
     - [Transform]
@@ -38,12 +38,13 @@ species: Gengar
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Focus Sash]
-Ability: Levitate
+ability: Levitate
 moves:
     - [Shadow Ball]
     - [Thunderbolt]
     - [Disable]
     - [Substitute]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -56,13 +57,13 @@ species: Togekiss
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Leftovers]
-Ability: Serene Grace
+ability: Serene Grace
 moves:
     - [Air Slash]
     - [Thunder Wave]
     - [Follow Me]
     - [Protect]
-happiness: 255
+gender: [m, f]
 biddable: True
 rarity: 1
 ball: [Premier]
@@ -74,12 +75,13 @@ species: Stantler
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [King's Rock]
-Ability: Intimidate
+ability: Intimidate
 moves:
     - [Body Slam]
     - [Rain Dance]
     - [Sunny Day]
     - [Imprison]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -92,12 +94,13 @@ species: Mr. Mime
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Focus Band]
-Ability: Soundproof
+ability: Soundproof
 moves:
     - [Fake Out]
     - [Psychic]
     - [Perish Song]
     - [Protect]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -110,12 +113,13 @@ species: Smeargle
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Focus Sash]
-Ability: Own Tempo
+ability: Own Tempo
 moves:
     - [Fake Out]
     - [Taunt]
     - [Dark Void]
     - [Follow Me, Tailwind]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -128,12 +132,13 @@ species: Altaria
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Yache Berry]
-Ability: Cloud Nine
+ability: Cloud Nine
 moves:
     - [Dragon Pulse]
     - [Heat Wave]
     - [Roost]
     - [Captivate]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -146,12 +151,13 @@ species: Raichu
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Sitrus Berry]
-Ability: Ligthning Rod
+ability: Lightning Rod
 moves:
     - [Fake Out]
     - [Shock Wave]
     - [Follow Me]
     - [Teeter Dance]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -164,12 +170,13 @@ species: Breloom
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Toxic Orb]
-Ability: Poison Heal
+ability: Poison Heal
 moves:
     - [Seed Bomb]
     - [Drain Punch]
     - [Spore]
     - [Protect]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1
@@ -182,12 +189,13 @@ species: Dugtrio
 setname: UD-Trickster
 tags: [ubersdoubles, trickster]
 item: [Focus Sash]
-Ability: Arena Trap
+ability: Arena Trap
 moves:
     - [Earthquake]
     - [Rock Slide]
     - [Sucker Punch]
     - [Reversal]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1

@@ -1,7 +1,7 @@
 species: Chansey
 setname: Prima
 item: [null]
-ability: [Natrual Cure,Serene Grace]
+ability: [Natural Cure,Serene Grace]
 moves:
     - [Double-Edge]
     - [Softboiled]

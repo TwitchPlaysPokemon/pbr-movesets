@@ -2,7 +2,7 @@ species: Dialga
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Shuca Berry]
-Ability: Pressure
+ability: Pressure
 moves:
     - [Draco Meteor]
     - [Iron Head]
@@ -20,7 +20,7 @@ species: Porygon2
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Wise Glasses]
-Ability: Trace
+ability: Trace
 moves:
     - [Thunderbolt]
     - [Ice Beam]
@@ -38,7 +38,7 @@ species: Dusknoir
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Leftovers]
-Ability: Pressure
+ability: Pressure
 moves:
     - [Shadow Punch]
     - [Earthquake]
@@ -53,30 +53,11 @@ nature: Relaxed
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 25, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
 ---
-species: Dusknoir
-setname: UD-TrickRoom
-tags: [ubersdoubles, trickroom]
-item: [Leftovers]
-Ability: Pressure
-moves:
-    - [Shadow Punch]
-    - [Earthquake]
-    - [Helping Hand]
-    - [Trick Room]
-gender: [m, f]
-happiness: 255
-biddable: True
-rarity: 1
-ball: [Heal]
-nature: Relaxed
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
-evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
----
 species: Bronzong
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Life Orb]
-Ability: Levitate
+ability: Levitate
 moves:
     - [Gyro Ball]
     - [Earthquake]
@@ -94,7 +75,7 @@ species: Slowbro
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Sitrus Berry]
-Ability: Oblivious
+ability: Oblivious
 moves:
     - [Surf]
     - [Psychic]
@@ -113,7 +94,7 @@ species: Slowking
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [King's Rock]
-Ability: Own Tempo
+ability: Own Tempo
 moves:
     - [Psychic]
     - [Blizzard]
@@ -132,7 +113,7 @@ species: Clamperl
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [DeepSeaTooth]
-Ability: Shell Armor
+ability: Shell Armor
 moves:
     - [Muddy Water]
     - [Ice Beam]
@@ -151,7 +132,7 @@ species: Marowak
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Thick Club]
-Ability: Rock Head
+ability: Rock Head
 moves:
     - [Bonemerang]
     - [Rock Slide]
@@ -170,7 +151,7 @@ species: Magnezone
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Life Orb]
-Ability: Magnet Pull
+ability: Magnet Pull
 moves:
     - [Thunderbolt]
     - [Flash Cannon]
@@ -188,7 +169,7 @@ species: Camerupt
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Charcoal]
-Ability: Solid Rock
+ability: Solid Rock
 moves:
     - [Eruption]
     - [Earth Power]
@@ -207,7 +188,7 @@ species: Rampardos
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Life Orb]
-Ability: Mold Breaker
+ability: Mold Breaker
 moves:
     - [Head Smash]
     - [Rock Slide]
@@ -226,7 +207,7 @@ species: Dragonite
 setname: UD-TrickRoom
 tags: [ubersdoubles, trickroom]
 item: [Life Orb]
-Ability: Inner Focus
+ability: Inner Focus
 moves:
     - [Draco Meteor]
     - [Dragon Claw]
