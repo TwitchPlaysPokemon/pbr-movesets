@@ -1,0 +1,1402 @@
+species: Geodude
+setname: PWT-Let's Go Brock
+tags: [in-game, PWT-Let's Go Brock, trainer+brock]
+item: [null]
+ability: [Null]
+moves:
+- [Tackle]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Let's Go Brock
+tags: [in-game, PWT-Let's Go Brock, trainer+brock]
+item: [null]
+ability: [Null]
+moves:
+- [Headbutt]
+- [Bind]
+- [Rock Throw]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [Null]
+moves:
+- [Stealth Rock]
+- [Iron Tail]
+- [Rock Slide]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Kabutops
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [Null]
+moves:
+- [X-Scissor]
+- [Rock Slide]
+- [Aqua Jet]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Omastar
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [Null]
+moves:
+- [Blizzard]
+- [Hydro Pump]
+- [Seismic Toss]
+- [Reflect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [Null]
+moves:
+- [Crunch]
+- [Rock Slide]
+- [Earthquake]
+- [Iron Tail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [Null]
+moves:
+- [Earthquake]
+- [Rock Slide]
+- [Fire Punch]
+- [Thunder Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Psyduck
+setname: PWT-Let's Go Misty
+tags: [in-game, PWT-Let's Go Misty, trainer+misty]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Confusion]
+- [Water Gun]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Let's Go Misty
+tags: [in-game, PWT-Let's Go Misty, trainer+misty]
+item: [null]
+ability: [Null]
+moves:
+- [Surf]
+- [Swift]
+- [Psywave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golduck
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Surf]
+- [Psychic]
+- [Ice Beam]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dewgong
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Aqua Jet]
+- [Ice Shard]
+- [Waterfall]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Hydro Pump]
+- [Blizzard]
+- [Quick Attack]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [Null]
+moves:
+- [Hydro Pump]
+- [Power Gem]
+- [Psychic]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Waterfall]
+- [Crunch]
+- [Outrage]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Voltorb
+setname: PWT-Let's Go Lt. Surge
+tags: [in-game, PWT-Let's Go Lt. Surge, trainer+ltsurge]
+item: [null]
+ability: [Null]
+moves:
+- [Thunderbolt]
+- [Swift]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magnemite
+setname: PWT-Let's Go Lt. Surge
+tags: [in-game, PWT-Let's Go Lt. Surge, trainer+ltsurge]
+item: [null]
+ability: [Null]
+moves:
+- [Thunderbolt]
+- [Sonicboom]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Let's Go Lt. Surge
+tags: [in-game, PWT-Let's Go Lt. Surge, trainer+ltsurge]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Thunderbolt]
+- [Quick Attack]
+- [Double Kick]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [Null]
+moves:
+- [Mirror Coat]
+- [Explosion]
+- [Thunderbolt]
+- [Payback]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Thunder]
+- [Shadow Ball]
+- [Reflect]
+- [Quick Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Electabuzz
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Thunder Punch]
+- [Ice Punch]
+- [Fire Punch]
+- [Brick Break]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magneton
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [Null]
+moves:
+- [Thunder]
+- [Flash Cannon]
+- [Tri Attack]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Thunder Punch]
+- [Iron Tail]
+- [Brick Break]
+- [Quick Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tangela
+setname: PWT-Let's Go Erika
+tags: [in-game, PWT-Let's Go Erika, trainer+erika]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Giga Drain]
+- [Sleep Powder]
+- [Bind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weepinbell
+setname: PWT-Let's Go Erika
+tags: [in-game, PWT-Let's Go Erika, trainer+erika]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Giga Drain]
+- [Poison Jab]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vileplume
+setname: PWT-Let's Go Erika
+tags: [in-game, PWT-Let's Go Erika, trainer+erika]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Giga Drain]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tangela
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Giga Drain]
+- [Sludge Bomb]
+- [Reflect]
+- [Power Whip]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Parasect
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Solar Beam]
+- [Brick Break]
+- [Leech Life]
+- [Spore]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Solar Beam]
+- [Sludge Bomb]
+- [Hyper Beam]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Victreebel
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Power Whip]
+- [Poison Jab]
+- [Reflect]
+- [Swords Dance]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vileplume
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Psychic]
+- [Petal Dance]
+- [Sludge Bomb]
+- [Stun Spore]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Let's Go Koga
+tags: [in-game, PWT-Let's Go Koga, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Toxic]
+- [Protect]
+- [Sludge Bomb]
+- [Explosion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Muk
+setname: PWT-Let's Go Koga
+tags: [in-game, PWT-Let's Go Koga, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Toxic]
+- [Protect]
+- [Sludge Bomb]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Let's Go Koga
+tags: [in-game, PWT-Let's Go Koga, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Toxic]
+- [Protect]
+- [Fly]
+- [Leech Life]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Venomoth
+setname: PWT-Let's Go Koga
+tags: [in-game, PWT-Let's Go Koga, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Sludge Bomb]
+- [Protect]
+- [Psychic]
+- [Bug Buzz]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tentacruel
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Toxic]
+- [Hydro Pump]
+- [Sludge Bomb]
+- [Giga Drain]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Toxic]
+- [Sludge Bomb]
+- [Fire Blast]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Crunch]
+- [U-Turn]
+- [Fly]
+- [Leech Life]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Venomoth
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Sludge Bomb]
+- [Giga Drain]
+- [Psychic]
+- [Bug Buzz]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Muk
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Dark Pulse]
+- [Sludge Bomb]
+- [Giga Drain]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+setname: PWT-Let's Go Sabrina
+tags: [in-game, PWT-Let's Go Sabrina, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Psychic]
+- [Reflect]
+- [Light Screen]
+- [DoubleSlap]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Let's Go Sabrina
+tags: [in-game, PWT-Let's Go Sabrina, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Psychic]
+- [Yawn]
+- [Surf]
+- [Calm Mind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Let's Go Sabrina
+tags: [in-game, PWT-Let's Go Sabrina, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Psychic]
+- [Lovely Kiss]
+- [Ice Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Let's Go Sabrina
+tags: [in-game, PWT-Let's Go Sabrina, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Psychic]
+- [Night Shade]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Psychic]
+- [Psybeam]
+- [Reflect]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Psychic]
+- [Blizzard]
+- [Shadow Ball]
+- [Lovely Kiss]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Hypno
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Dream Eater]
+- [Hypnosis]
+- [Thunder Punch]
+- [Fire Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Psychic]
+- [Ice Beam]
+- [Shadow Ball]
+- [Surf]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Psychic]
+- [Psybeam]
+- [Shadow Ball]
+- [Tri Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magmar
+setname: PWT-Let's Go Blaine
+tags: [in-game, PWT-Let's Go Blaine, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Flamethrower]
+- [Low Kick]
+- [Confuse Ray]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Let's Go Blaine
+tags: [in-game, PWT-Let's Go Blaine, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Fury Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Let's Go Blaine
+tags: [in-game, PWT-Let's Go Blaine, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Fire Blast]
+- [Quick Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Let's Go Blaine
+tags: [in-game, PWT-Let's Go Blaine, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Outrage]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magmar
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Fire Punch]
+- [Thunder Punch]
+- [Brick Break]
+- [Will-O-Wisp]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Megahorn]
+- [Magnitude]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Fire Blast]
+- [Quick Attack]
+- [Dark Pulse]
+- [Solar Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Superpower]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Outrage]
+- [Crunch]
+- [Zen Headbutt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Persian
+setname: PWT-Let's Go Giovanni Rocket
+tags: [in-game, PWT-Let's Go Giovanni Rocket, trainer+giovanni]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Slash]
+- [Feint]
+- [Fake Out]
+- [Zen Headbutt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rhyhorn
+setname: PWT-Let's Go Giovanni Rocket
+tags: [in-game, PWT-Let's Go Giovanni Rocket, trainer+giovanni]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Magnitude]
+- [Take Down]
+- [Megahorn]
+- [Rock Throw]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Nidoqueen
+setname: PWT-Let's Go Giovanni Rocket
+tags: [in-game, PWT-Let's Go Giovanni Rocket, trainer+giovanni]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Crunch]
+- [Body Slam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dugtrio
+setname: PWT-Let's Go Giovanni Gym
+tags: [in-game, PWT-Let's Go Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Slash]
+- [Sucker Punch]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Nidoqueen
+setname: PWT-Let's Go Giovanni Gym
+tags: [in-game, PWT-Let's Go Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [Null]
+gender: [f]
+moves:
+- [Super Fang]
+- [Earthquake]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Nidoking
+setname: PWT-Let's Go Giovanni Gym
+tags: [in-game, PWT-Let's Go Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Megahorn]
+- [Earthquake]
+- [Poison Jab]
+- [Horn Drill]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Let's Go Giovanni Gym
+tags: [in-game, PWT-Let's Go Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Earthquake]
+- [Rock Slide]
+- [Megahorn]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Let's Go Blue
+tags: [in-game, PWT-Let's Go Blue, trainer+blue]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Power Whip]
+- [Psychic]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Let's Go Blue
+tags: [in-game, PWT-Let's Go Blue, trainer+blue]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Heat Wave]
+- [Air Slash]
+- [Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Double Edge]
+- [Rock Slide]
+- [Earthquake]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Power Gem]
+- [Psychic]
+- [Reflect]
+- [Payback]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Waterfall]
+- [Crunch]
+- [Earthquake]
+- [Outrage]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Power Whip]
+- [Light Screen]
+- [Stomp]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [Null]
+gender: [m]
+moves:
+- [Rock Slide]
+- [Earthquake]
+- [Iron Tail]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [Everstone]
+ability: [Null]
+gender: [m]
+moves:
+- [Fire Blast]
+- [Dragon Pulse]
+- [Hyper Beam]
+- [Air Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
