@@ -119,7 +119,6 @@ moves:
     - [Brick Break, Dragon Claw]
     - [Swords Dance]
     - [Rain Dance]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
@@ -138,7 +137,6 @@ moves:
     - [Earth Power]
     - [Calm Mind]
     - [Recover]
-gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.5
