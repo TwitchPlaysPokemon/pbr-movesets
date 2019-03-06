@@ -1,0 +1,165 @@
+species: Azelf
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Focus Sash]
+ability: Levitate
+moves:
+    - [Zen Headbutt]
+    - [U-Turn]
+    - [Explosion]
+    - [Detect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Magnezone
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Sitrus Berry]
+ability: Magnet Pull
+moves:
+    - [Thunder]
+    - [Explosion]
+    - [Light Screen]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Metagross
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Occa Berry]
+ability: Clear Body
+moves:
+    - [Meteor Mash]
+    - [Explosion]
+    - [Earthquake]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Shiftry
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Life Orb]
+ability: Chlorophyll
+moves:
+    - [Fake Out]
+    - [Sucker Punch]
+    - [Explosion]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}
+---
+species: Lickilicky
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Life Orb]
+ability: Cloud Nine
+moves:
+    - [Explosion]
+    - [Power Whip]
+    - [Earthquake]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 128, def: 128, spA: 0, spD: 252, spe: 0}
+---
+species: Drifblim
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Bright Powder]
+ability: Aftermatch
+moves:
+    - [Shadow Ball]
+    - [Explosion]
+    - [Disable]
+    - [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Giratina
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Leftovers]
+ability: Pressure
+moves:
+    - [Dragon Pulse]
+    - [Shadow Ball]
+    - [Calm Mind]
+    - [Rest]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 252, spA: 56, spD: 0, spe: 0}
+---
+species: Arceus
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Spooky Plate]
+ability: Multitype
+moves:
+    - [Judgment]
+    - [Flamethrower]
+    - [Will-O-Wisp]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 108, atk: 0, def: 128, spA: 16, spD: 128, spe: 128}
+---
+species: Mismagius
+setname: UD-Kapow
+tags: [ubersdoubles, udkapow]
+item: [Life Orb]
+ability: Levitate
+moves:
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Energy Ball]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Dusk]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
