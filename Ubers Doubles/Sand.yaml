@@ -229,6 +229,7 @@ setname: UD-Sand
 tags: [ubersdoubles, sand]
 item: [Life Orb]
 ability: Torrent
+gender: [m, f]
 moves:
     - [Muddy Water]
     - [Earth Power]

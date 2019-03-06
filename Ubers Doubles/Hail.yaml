@@ -176,7 +176,7 @@ moves:
     - [Blizzard]
     - [Hydro Pump]
     - [Thunderbolt]
-    - [Hauk]
+    - [Hail]
 gender: [m, f]
 happiness: 255
 biddable: True

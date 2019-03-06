@@ -94,7 +94,7 @@ species: Drifblim
 setname: UD-Kapow
 tags: [ubersdoubles, udkapow]
 item: [Bright Powder]
-ability: Aftermatch
+ability: Aftermath
 moves:
     - [Shadow Ball]
     - [Explosion]

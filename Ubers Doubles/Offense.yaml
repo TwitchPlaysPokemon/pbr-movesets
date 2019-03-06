@@ -60,6 +60,7 @@ setname: UD-Offense
 tags: [ubersdoubles, offense]
 item: [Focus Sash]
 ability: Levitate
+gender: [m, f]
 moves:
     - [Shadow Ball]
     - [Focus Blast]

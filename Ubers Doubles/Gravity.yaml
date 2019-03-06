@@ -94,6 +94,7 @@ setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [White Herb]
 ability: Chlorophyll
+gender: [m, f]
 moves:
     - [Leaf Storm]
     - [Psychic]
@@ -112,6 +113,7 @@ setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [Life Orb]
 ability: Magic Guard
+gender: [m, f]
 moves:
     - [Fire Blast]
     - [Focus Blast]
@@ -130,6 +132,7 @@ setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [Life Orb]
 ability: Torrent
+gender: [m, f]
 moves:
     - [Earth Power]
     - [Muddy Water]
@@ -148,6 +151,7 @@ setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [Toxic Orb]
 ability: Swarm
+gender: [m, f]
 moves:
     - [Megahorn]
     - [Brick Break]
@@ -166,6 +170,7 @@ setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [Lum Berry]
 ability: Levitate
+gender: [m, f]
 moves:
     - [Earthquake]
     - [Dragon Claw]
@@ -184,6 +189,7 @@ setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [Occa Berry]
 ability: Chlorophyll
+gender: [m, f]
 moves:
     - [Power Whip]
     - [Earthquake]
@@ -202,6 +208,7 @@ setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [Choice Band]
 ability: Solid Rock
+gender: [m, f]
 moves:
     - [Earthquake]
     - [Stone Edge]
@@ -220,6 +227,7 @@ setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [Life Orb]
 ability: Dry Skin
+gender: [m, f]
 moves:
     - [Gunk Shot]
     - [Dynamic Punch]
