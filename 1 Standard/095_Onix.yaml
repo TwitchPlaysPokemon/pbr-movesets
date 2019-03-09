@@ -14,7 +14,7 @@ biddable: True
 rarity: 0.75
 ball: [Dusk]
 nature: Adamant
-evs: {hp: 60, atk: 220, def: 4, spA: 0, spD: 48, spe: 176}
+evs: {hp: 56, atk: 220, def: 4, spA: 0, spD: 48, spe: 176}
 ivs: 31
 ---
 species: Onix
