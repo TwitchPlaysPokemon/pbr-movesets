@@ -100,8 +100,8 @@ for set in sets:
             pwt_set = trainer_tag[0]
             pwt[pwt_set] += 1
 
-group_tags['pwt_versus_tags'] = [elem for (elem, cnt) in pwt.items() if cnt >= 3]
-group_tags['pwt_versus_tags'] += [elem for (elem, cnt) in runmons.items() if cnt >= 3]
+group_tags['pwt_versus_tags'] = [elem for (elem, cnt) in pwt.items() if cnt >= 4]
+group_tags['pwt_versus_tags'] += [elem for (elem, cnt) in runmons.items() if cnt >= 4]
 
 print("Writing group tag data to {}...".format(group_tags_file))
 with open(group_tags_file, "w+", encoding="utf-8") as f:
