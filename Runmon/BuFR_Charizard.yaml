@@ -10,7 +10,8 @@ moves:
     - [Acid, Dragon Claw]
     - [Earthquake]
     - [Flamethrower]
-combinations: [Cut, Acid]
+combinations:
+    - [Cut, Acid]
 gender: [m]
 happiness: 255
 biddable: True
