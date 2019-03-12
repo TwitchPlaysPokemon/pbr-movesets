@@ -1,4 +1,4 @@
-species: Chansey
+species: Blissey
 ingamename: X
 displayname: X
 setname: Burning FireRed
@@ -12,8 +12,8 @@ moves:
     - [Ice Beam]
 gender: [f]
 happiness: 255
-biddable: True
-rarity: 0.0
+biddable: False
+rarity: 1.0
 shiny: False
 nature: Naughty
 ivs: {hp: 10, atk: 20, def: 22, spA: 14, spD: 14, spe: 12}

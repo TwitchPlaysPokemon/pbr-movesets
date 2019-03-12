@@ -13,7 +13,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Adamant

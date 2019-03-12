@@ -15,7 +15,7 @@ form: 0
 happiness: 255
 shiny: True
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Poké]
 level: 100
 ivs: 31
@@ -35,7 +35,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: []
 shiny: False
 nature: 

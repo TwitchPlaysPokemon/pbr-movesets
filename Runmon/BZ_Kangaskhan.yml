@@ -13,7 +13,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Poke]
 nature: Serious
 ivs: {hp: 8, atk: 24, def: 22, spA: 31, spD: 12, spe: 0}

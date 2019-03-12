@@ -12,7 +12,7 @@ moves:
     - [Super Fang]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Great]
 shiny: False
 nature: Hasty

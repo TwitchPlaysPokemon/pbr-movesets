@@ -13,7 +13,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 shiny: False
 nature: Bold
 ivs: {hp: 26, atk: 29, def: 30, spA: 11, spD: 19, spe: 12}

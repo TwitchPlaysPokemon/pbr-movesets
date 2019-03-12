@@ -13,7 +13,7 @@ moves:
 happiness: 255
 gender: [m]
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
@@ -34,7 +34,7 @@ moves:
 happiness: 255
 gender: [m]
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious

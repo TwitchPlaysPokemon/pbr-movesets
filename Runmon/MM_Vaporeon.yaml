@@ -15,7 +15,7 @@ gender: [f]
 happiness: 255
 shiny: False
 biddable: True
-rarity: 0.0
+rarity: 1.0
 ball: [Poké]
 ivs: {hp: 31, atk: 1, def: 20, spA: 9, spD: 1, spe: 5}
 evs: {hp: 33, atk: 74, def: 105, spA: 38, spD: 33, spe: 227}

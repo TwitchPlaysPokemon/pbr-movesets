@@ -6,14 +6,15 @@ tags: [runmon, in-game]
 item: [null]
 ability: [Blaze]
 moves:
-    - [Cut]
-    - [Acid]
+    - [Cut, Fly]
+    - [Acid, Dragon Claw]
     - [Earthquake]
     - [Flamethrower]
+combinations: [Cut, Acid]
 gender: [m]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 shiny: False
 nature: Quirky
 ivs: {hp: 23, atk: 7, def: 7, spA: 10, spD: 26, spe: 6}

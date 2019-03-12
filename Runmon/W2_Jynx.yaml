@@ -13,7 +13,7 @@ gender: [f]
 happiness: 255
 biddable: True
 hidden: False
-rarity: 0.0
+rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Docile

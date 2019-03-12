@@ -11,7 +11,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 0.0
+rarity: 1.0
 shiny: False
 nature: Serious
 ivs: {hp: 0, atk: 0, def: 20, spA: 8, spD: 8, spe: 12}
