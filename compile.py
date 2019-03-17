@@ -62,6 +62,7 @@ for dir, _, files in os.walk("."):
                                 print("{}> ERROR: Starting with this set, that species now has both genderless and genderful sets! "
                                       "Stick to either genderless or genderful per species or PBR might crash!"
                                       .format(identifier))
+                                continue  # Crash risk, so do NOT add this pokeset
                             id = (pokeset["species"]["id"], pokeset["setname"])
                             if id in existing_ids:
                                 prev_identifier = existing_ids[id]
