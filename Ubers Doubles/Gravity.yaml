@@ -150,7 +150,7 @@ species: Heracross
 setname: UD-Gravity
 tags: [ubersdoubles, gravity]
 item: [Toxic Orb]
-ability: Swarm
+ability: Guts
 gender: [m, f]
 moves:
     - [Megahorn]
