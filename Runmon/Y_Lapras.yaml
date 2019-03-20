@@ -1,7 +1,7 @@
 species: Lapras
 ingamename: vmcfflnocp
 displayname: "!!vmcfflnocp"
-setname: Randomized Y
+setname: TPP Randomized Y
 tags: [runmon, in-game]
 item: [Lum Berry]
 ability: [Steadfast]
@@ -23,7 +23,7 @@ evs: {hp: 62, atk: 110, def: 75, spA: 109, spD: 60, spe: 94}
 species: Lapras
 ingamename: OODDIS
 displayname: OODDIS
-setname: Randomized Y-2
+setname: TPP Randomized Y-2
 tags: [runmon, in-game]
 item: [Lum Berry]
 ability: [Water Absorb]

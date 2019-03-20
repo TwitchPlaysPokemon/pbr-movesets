@@ -1,7 +1,7 @@
 species: Charizard
 ingamename: LIZAR
 displayname: LIZAR 
-setname: Bootleg Green
+setname: TPP Bootleg Green
 tags: [runmon, in-game]
 item: [Null]
 ability: [Null]
@@ -23,7 +23,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 species: Charizard
 ingamename: CUCKO
 displayname: CUCKO 
-setname: Bootleg Green-2
+setname: TPP Bootleg Green-2
 tags: [runmon, in-game]
 item: [Null]
 ability: [Null]
