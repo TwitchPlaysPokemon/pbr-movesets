@@ -1,0 +1,153 @@
+species: Ampharos
+ingamename: Ampharos
+displayname: Ampharos
+setname: TPP TEEX
+tags: [runmon, in-game]
+item: [Fluffy Tail]
+ability: [Static]
+moves:
+    - [Thunder]
+    - [Thunderbolt]
+    - [Strength]
+    - [Rock Smash]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Lonely
+ivs: {hp: 8, atk: 29, def: 30, spA: 21, spD: 21, spe: 16}
+evs: {hp: 93, atk: 67, def: 68, spA: 109, spD: 40, spe: 133}
+---
+species: Blaziken
+ingamename: AAABBijjlt
+displayname: AAABBijjlt
+setname: TPP TEEX
+tags: [runmon, in-game]
+item: [Potion]
+ability: [Blaze]
+moves:
+    - [Rock Smash]
+    - [Low Kick]
+    - [Bulk Up]
+    - [Sand-Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Gentle
+ivs: {hp: 23, atk: 12, def: 6, spA: 3, spD: 6, spe: 27}
+evs: {hp: 43, atk: 60, def: 31, spA: 45, spD: 28, spe: 81}
+---
+species: Mantine
+ingamename: UU NNNHKXX
+displayname: UU NNNHKXX
+setname: TPP TEEX
+tags: [runmon, in-game]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Waterfall]
+    - [Dive]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Bold
+ivs: {hp: 9, atk: 31, def: 28, spA: 18, spD: 3, spe: 16}
+evs: {hp: 101, atk: 140, def: 47, spA: 35, spD: 78, spe: 109}
+---
+species: Slaking
+ingamename: Slaking
+displayname: Slaking
+setname: TPP TEEX
+tags: [runmon, in-game]
+item: [Null]
+ability: [Truant]
+moves:
+    - [Night Slash]
+    - [Feint Attack]
+    - [Fling]
+    - [Counter]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Calm
+ivs: {hp: 31, atk: 27, def: 4, spA: 29, spD: 12, spe: 17}
+evs: {hp: 72, atk: 137, def: 81, spA: 102, spD: 28, spe: 90}
+---
+species: Swellow
+ingamename: AABUUN  SS
+displayname: AABUUN  SS
+setname: TPP TEEX
+tags: [runmon, in-game]
+item: [Null]
+ability: [Scrappy]
+moves:
+    - [Fly]
+    - [Wing Attack]
+    - [Quick Attack]
+    - [Endeavor]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Adamant
+ivs: {hp: 2, atk: 31, def: 23, spA: 14, spD: 28, spe: 9}
+evs: {hp: 67, atk: 114, def: 72, spA: 81, spD: 29, spe: 87}
+---
+species: Tentacruel
+ingamename: AAaggmmn
+displayname: AAaggmmn
+setname: TPP TEEX
+tags: [runmon, in-game]
+item: [Null]
+ability: [Liquid Ooze]
+moves:
+    - [Hydro Pump]
+    - [Surf]
+    - [Wring Out]
+    - [Screech]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Mild
+ivs: {hp: 16, atk: 4, def: 24, spA: 11, spD: 6, spe: 13}
+evs: {hp: 35, atk: 42, def: 19, spA: 11, spD: 27, spe: 13}
+---
+species: Xatu
+ingamename: DDDWwwww
+displayname: DDDWwwww
+setname: TPP TEEX
+tags: [runmon, in-game]
+item: [Null]
+ability: [Synchronize]
+moves:
+    - [Confusion]
+    - [Ominous Wind]
+    - [Confuse Ray]
+    - [Wish]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Bold
+ivs: {hp: 23, atk: 7, def: 29, spA: 31, spD: 12, spe: 10}
+evs: {hp: 19, atk: 15, def: 6, spA: 30, spD: 13, spe: 53}

@@ -1,0 +1,87 @@
+species: Absol
+ingamename: QQYyy25o6w
+displayname: QQYyy25o6w
+setname: TPP X
+tags: [runmon, in-game]
+item: [Null]
+ability: [Super Luck]
+moves:
+    - [Sucker Punch]
+    - [Pursuit]
+    - [Psycho Cut]
+    - [Me First]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: False
+nature: Naughty
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+---
+species: Charizard
+ingamename: "!taj11yyga"
+displayname: "!taj11yyga"
+setname: TPP X
+tags: [runmon, in-game]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Flare Blitz]
+    - [Flamethrower]
+    - [Heat Wave]
+    - [Strength]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Adamant
+ivs: 0
+evs: 0
+---
+species: Garchomp
+ingamename: Ulquiorra
+displayname: Ulquiorra
+setname: TPP X
+tags: [runmon, in-game]
+item: [null]
+ability: [Sand Veil]
+moves:
+    - [Dragon Pulse]
+    - [Surf]
+    - [Rock Smash]
+    - [False Swipe]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Brave
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Lapras
+ingamename: "! ♀o?04+6e"
+displayname: "! ♀o?04+6e"
+setname: TPP X
+tags: [runmon, in-game]
+item: [Zap Plate]
+ability: [Water Absorb]
+moves:
+    - [Surf]
+    - [Thunderbolt]
+    - [Body Slam]
+    - [Sheer Cold]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: 0
+evs: {hp: 0, atk: 180, def: 0, spA: 20, spD: 0, spe: 60}

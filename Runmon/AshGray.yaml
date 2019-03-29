@@ -1,0 +1,131 @@
+species: Bulbasaur
+ingamename: DICK
+displayname: DICK
+setname: TPP Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Tackle]
+    - [Growl]
+    - [Leech Seed]
+    - [Vine Whip]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Butterfree
+ingamename: CC
+displayname: CC
+setname: TPP Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Compoundeyes]
+moves:
+    - [Gust]
+    - [String Shot]
+    - [Poison Powder]
+    - [Sleep Powder]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Charmander
+ingamename: BAK
+displayname: BAK
+setname: TPP Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Scratch]
+    - [Growl]
+    - [Ember]
+    - [Metal Claw]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Pidgeotto
+ingamename: PLEB
+displayname: PLEB
+setname: TPP Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Keen Eye]
+moves:
+    - [Wing Attack]
+    - [Sand Attack]
+    - [Gust]
+    - [Quick Attack]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Pikachu
+ingamename: MACHU
+displayname: MACHU
+setname: TPP Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Growl]
+    - [Quick Attack]
+    - [Thunder Wave]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Squirtle
+ingamename: CUM
+displayname: CUM
+setname: TPP Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Torrent]
+moves:
+    - [Tackle]
+    - [Tail Whip]
+    - [Bubble]
+    - [Withdraw]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

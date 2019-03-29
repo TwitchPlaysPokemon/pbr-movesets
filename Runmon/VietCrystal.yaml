@@ -1,0 +1,253 @@
+﻿species: Gyarados
+ingamename: DADA
+displayname: DADA
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Thrash]
+    - [Bite]
+    - [Dragon Rage]
+    - [Leer]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 28, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 16, atk: 20, def: 16, spA: 16, spD: 16, spe: 16}
+---
+﻿species: Lugia
+ingamename: LUIGI
+displayname: LUIGI
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Recover]
+    - [Hydro Pump]
+    - [Rain Dance]
+    - [Gust]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 6, def: 30, spA: 6, spD: 6, spe: 28}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+﻿species: Pidgey
+ingamename: EVER
+displayname: EVER
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Fly]
+    - [Gust]
+    - [Tackle]
+    - [Sand Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 8, def: 12, spA: 16, spD: 16, spe: 28}
+evs: {hp: 16, atk: 20, def: 16, spA: 16, spD: 16, spe: 20}
+---
+﻿species: Poliwag
+ingamename: ORGY
+displayname: ORGY
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Waterfall]
+    - [Surf]
+    - [Whirlpool]
+    - [Hypnosis]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 8, def: 28, spA: 22, spD: 22, spe: 4}
+evs: {hp: 12, atk: 16, def: 16, spA: 12, spD: 12, spe: 20}
+---
+﻿species: Sudowoodo
+ingamename: FAKE
+displayname: FAKE
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Rock Throw]
+    - [Strength]
+    - [Low Kick]
+    - [Flail]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Lonely
+ivs: 31
+evs: 84
+---
+species: Suicune
+ingamename: DONG
+displayname: DONG
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Surf]
+    - [Icy Wind]
+    - [Aurora Beam]
+    - [Cut]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 28, def: 30, spA: 0, spD: 0, spe: 22}
+evs: {hp: 44, atk: 48, def: 48, spA: 48, spD: 48, spe: 48}
+---
+﻿species: Tentacruel
+ingamename: GAY
+displayname: GAY
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Acid]
+    - [Poison Sting]
+    - [Constrict]
+    - [Supersonic]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 4, def: 18, spA: 2, spD: 2, spe: 6}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+﻿species: Togepi
+ingamename: DEKU
+displayname: DEKU
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Metronome]
+    - [Growl]
+    - [Charm]
+    - [Flash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 28, def: 16, spA: 10, spD: 10, spe: 28}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+﻿species: Typhlosion
+ingamename: BEST
+displayname: BEST
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Null]
+moves:
+    - [Flame Wheel]
+    - [Thunder Punch]
+    - [Earthquake]
+    - [Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 18, def: 8, spA: 26, spD: 26, spe: 2}
+evs: {hp: 188, atk: 204, def: 200, spA: 200, spD: 200, spe: 204}
+---
+﻿species: Unown
+form: 5
+ingamename: FUCK
+displayname: FUCK
+setname: TPP Vietnamese Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 2, def: 28, spA: 14, spD: 14, spe: 16}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Unown
+form: 11
+ingamename: LORE
+displayname: LORE
+setname: TPP Vietnamese Crystal 2
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 4, def: 28, spA: 30, spD: 30, spe: 20}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Unown
+form: 20
+ingamename: U
+displayname: U
+setname: TPP Vietnamese Crystal 3
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 20, atk: 30, def: 20, spA: 16, spD: 16, spe: 18}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

@@ -1,0 +1,314 @@
+species: Charmeleon
+ingamename: ABBBBBBK(
+displayname: ABBBBBBK(
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Cut]
+    - [Bide]
+    - [Growl]
+    - [Leer]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 6, atk: 4, def: 12, spA: 2, spD: 2, spe: 6}
+evs: {hp: 100, atk: 96, def: 90, spA: 81, spD: 81, spe: 98}
+---
+species: Drowzee
+ingamename: DROWZEE
+displayname: DROWZEE
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Confusion]
+    - [Headbutt]
+    - [Pound]
+    - [Disable]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 26, def: 12, spA: 31, spD: 30, spe: 14}
+evs: {hp: 52, atk: 56, def: 56, spA: 252, spD: 66, spe: 60}
+---
+species: Farfetch'd
+ingamename: DUX
+displayname: DUX
+setname: TPP Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Cut]
+    - [Sand Attack]
+    - [Leer]
+    - [Fury Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 2, def: 22, spA: 2, spD: 2, spe: 2}
+evs: {hp: 67, atk: 51, def: 51, spA: 50, spD: 50, spe: 72}
+---
+species: Flareon
+ingamename: FLAREON
+displayname: FLAREON
+setname: TPP Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Tackle]
+    - [Sand Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 20, spA: 8, spD: 8, spe: 12}
+evs: {hp: 12, atk: 14, def: 12, spA: 10, spD: 10, spe: 11}
+---
+species: Gastly
+ingamename: GASTLY
+displayname: GASTLY
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Lick]
+    - [Confuse Ray]
+    - [Night Shade]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Careful
+ivs: {hp: 22, atk: 18, def: 24, spA: 0, spD: 30, spe: 14}
+evs: {hp: 22, atk: 26, def: 24, spA: 0, spD: 252, spe: 28}
+---
+species: Gloom
+ingamename: x(araggbaj
+displayname: x(araggbaj
+setname: TPP Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Cut]
+    - [Poison Powder]
+    - [Stun Spore]
+    - [Sleep Powder]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 12, def: 8, spA: 20, spD: 20, spe: 16}
+evs: {hp: 26, atk: 30, def: 29, spA: 29, spD: 29, spe: 31}
+---
+species: Lapras
+ingamename: AIIIIIIRRR
+displayname: AIIIIIIRRR
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Body Slam]
+    - [Strength]
+    - [Mist]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 0, def: 6, spA: 2, spD: 2, spe: 14}
+evs: {hp: 52, atk: 60, def: 60, spA: 136, spD: 56, spe: 60}
+---
+species: Nidoking
+ingamename: AAAAAAAAAA
+displayname: AAAAAAAAAA
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Poison Sting]
+    - [Surf]
+    - [Strength]
+    - [Fury Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 6, atk: 24, def: 20, spA: 26, spD: 26, spe: 14}
+evs: {hp: 92, atk: 108, def: 108, spA: 16, spD: 96, spe: 104}
+---
+species: Omastar
+ingamename: OMASTAR
+displayname: OMASTAR
+setname: TPP Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [null]
+moves:
+    - [Hydro Pump]
+    - [Surf]
+    - [Horn Attack]
+    - [Withdraw]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 16, atk: 26, def: 0, spA: 8, spD: 31, spe: 31}
+evs: {hp: 84, atk: 100, def: 104, spA: 78, spD: 252, spe: 156}
+---
+species: Pidgeot
+ingamename: aaabaaajss
+displayname: aaabaaajss
+setname: TPP Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [null]
+moves:
+    - [Sky Attack]
+    - [Quick Attack]
+    - [Mirror Move]
+    - [Sand Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 20, def: 20, spA: 8, spD: 8, spe: 12}
+evs: {hp: 188, atk: 121, def: 210, spA: 194, spD: 192, spe: 208}
+---
+species: Raticate
+ingamename: AAJST(????
+displayname: AAJST(????
+setname: TPP Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Swift]
+    - [Body Slam]
+    - [Quick Attack]
+    - [Dig]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 20, def: 26, spA: 28, spD: 28, spe: 22}
+evs: {hp: 58, atk: 59, def: 58, spA: 74, spD: 74, spe: 73}
+---
+species: Rattata
+ingamename: JLVWNNOOOO
+displayname: JLVWNNOOOO
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Tackle]
+    - [Tail Whip]
+    - [Quick Attack]
+    - [Bubble Beam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Hasty
+ivs: {hp: 10, atk: 4, def: 10, spA: 18, spD: 18, spe: 0}
+evs: {hp: 18, atk: 20, def: 22, spA: 18, spD: 18, spe: 21}
+---
+species: Venomoth
+ingamename: AATTVVV
+displayname: AATTVVV
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Leech Life]
+    - [Poison Powder]
+    - [Stun Spore]
+    - [Disable]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Serious
+ivs: {hp: 16, atk: 18, def: 0, spA: 12, spD: 12, spe: 20}
+evs: {hp: 48, atk: 56, def: 72, spA: 52, spD: 172, spe: 72}
+---
+species: Zapdos
+ingamename: AA-j
+displayname: AA-j
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Thunder]
+    - [Drill Peck]
+    - [Take Down]
+    - [Flash]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 0, def: 14, spA: 10, spD: 10, spe: 7}
+evs: {hp: 0, atk: 24, def: 64, spA: 96, spD: 168, spe: 8}
+---
+species: Zubat
+ingamename: ABB-??AAJ
+displayname: ABB-??AAJ
+setname: TPP Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Leech Life]
+    - [Supersonic]
+    - [Bite]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 12, def: 28, spA: 8, spD: 8, spe: 28}
+evs: {hp: 9, atk: 10, def: 11, spA: 92, spD: 13, spe: 13}

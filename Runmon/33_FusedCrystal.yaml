@@ -1,0 +1,175 @@
+species: Arcanine
+ingamename: UUVxxx
+displayname: UUVxxx
+setname: TPP Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Flame Wheel]
+    - [Bite]
+    - [Take Down]
+    - [Light Screen]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 2, def: 26, spA: 2, spD: 2, spe: 8}
+evs: {hp: 111, atk: 114, def: 112, spA: 110, spD: 110, spe: 114}
+---
+species: Blastoise
+ingamename: FOOLK
+displayname: FOOLK
+setname: TPP Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Waterfall]
+    - [Giga Drain]
+    - [Skull Bash]
+    - [Whirlpool]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 6, atk: 0, def: 4, spA: 14, spD: 14, spe: 10}
+evs: {hp: 144, atk: 138, def: 138, spA: 160, spD: 0, spe: 135}
+---
+species: Dodrio
+ingamename: "T  SS     "
+displayname: "T  SS     "
+setname: TPP Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Return]
+    - [Rock Smash]
+    - [Peck]
+    - [Fly]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 2, def: 22, spA: 8, spD: 8, spe: 24}
+evs: {hp: 238, atk: 250, def: 241, spA: 240, spD: 240, spe: 242}
+---
+species: Furret
+ingamename: IIIRRRJJS
+displayname: IIIRRRJJS
+setname: TPP Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Strength]
+    - [Surf]
+    - [Crunch]
+    - [Earthquake]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 10, def: 0, spA: 26, spD: 26, spe: 4}
+evs: {hp: 198, atk: 192, def: 194, spA: 188, spD: 108, spe: 190}
+---
+species: Jynx
+ingamename: JKilt
+displayname: JKilt
+setname: TPP Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Earthquake]
+    - [Surf]
+    - [Body Slam]
+    - [Ice Punch]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 28, def: 2, spA: 28, spD: 28, spe: 12}
+evs: {hp: 198, atk: 207, def: 216, spA: 202, spD: 202, spe: 202}
+---
+species: Meganium
+ingamename: bbbii
+displayname: bbbii
+setname: TPP Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Leech Seed]
+    - [Mega Drain]
+    - [Cut]
+    - [Strength]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 24, def: 26, spA: 6, spD: 6, spe: 12}
+evs: {hp: 165, atk: 167, def: 166, spA: 165, spD: 28, spe: 162}
+---
+species: Meowth
+ingamename: PPPPGGGGFs
+displayname: PPPPGGGGFs
+setname: TPP Fused Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Screech]
+    - [Fury Swipes]
+    - [Giga Drain]
+    - [Slash]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 16, atk: 22, def: 28, spA: 0, spD: 0, spe: 28}
+evs: {hp: 68, atk: 72, def: 70, spA: 70, spD: 70, spe: 73}
+---
+species: Primeape
+ingamename: FEB
+displayname: FEB
+setname: TPP Fused Crystal
+tags: [runmon, in-game]
+item: [Bubble Mail]
+ability: [Null]
+moves:
+    - [Strength]
+    - [Rock Smash]
+    - [Cross Chop]
+    - [Fly]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 30, def: 0, spA: 14, spD: 14, spe: 0}
+evs: {hp: 213, atk: 222, def: 214, spA: 211, spD: 128, spe: 210}

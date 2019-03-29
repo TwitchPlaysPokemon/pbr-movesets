@@ -1,0 +1,288 @@
+species: Aggron
+ingamename: ALLlmMOm·V
+displayname: ALLlmMOm·V
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Air Mail]
+ability: [Sturdy]
+moves:
+    - [Iron Defense]
+    - [Strength]
+    - [Take Down]
+    - [Iron Head]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: False
+nature: Lax
+ivs: {hp: 14, atk: 14, def: 6, spA: 21, spD: 31, spe: 25}
+evs: {hp: 32, atk: 252, def: 0, spA: 0, spD: 0, spe: 224}
+---
+species: Cloyster
+ingamename: "0"
+displayname: "0"
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Pearl]
+ability: [Shell Armor]
+moves:
+    - [Aurora Beam]
+    - [Protect]
+    - [Spikes]
+    - [Spike Cannon]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+suppressions: [public-shiny]
+nature: Rash
+ivs: 31
+evs: 0
+---
+species: Dusclops
+ingamename: d
+displayname: d
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [null]
+ability: [Pressure]
+moves:
+    - [Curse]
+    - [Will-O-Wisp]
+    - [Shadow Punch]
+    - [Mean Look]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+suppressions: [public-shiny]
+nature: Lax
+ivs: 31
+evs: 0
+---
+species: Exeggutor
+ingamename: WWWC
+displayname: WWWC
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [null]
+ability: [Chlorophyll]
+moves:
+    - [Bullet Seed]
+    - [Reflect]
+    - [Leech Seed]
+    - [Confusion]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+suppressions: [public-shiny]
+nature: Hardy
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
+---
+species: Farfetch'd
+ingamename: QUAC
+displayname: QUAC
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Sky Plate]
+ability: [Inner Focus]
+moves:
+    - [Fly]
+    - [Close Combat]
+    - [Swords Dance]
+    - [Brave Bird]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: False
+nature: Jolly
+evs: {hp: 40, atk: 252, def: 28, spA: 32, spD: 36, spe: 252}
+ivs: {hp: 26, atk: 31, def: 23, spA: 31, spD: 5, spe: 31}
+---
+species: Froslass
+ingamename: 00  UU
+displayname: 00  UU
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Spooky Plate]
+ability: [Levitate]
+moves:
+    - [Hidden Power]
+    - [Ice Beam]
+    - [Shadow Ball]
+    - [Thunderbolt]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bold
+ivs: {hp: 2, atk: 3, def: 1, spA: 29, spD: 14, spe: 3}
+evs: {hp: 36, atk: 160, def: 100, spA: 216, spD: 52, spe: 76}
+---
+species: Gastrodon
+ingamename: AAAAAAAAA
+displayname: AAAAAAAAA
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Storm Drain]
+moves:
+    - [Whirlpool]
+    - [Surf]
+    - [Waterfall]
+    - [Earthquake]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Bold
+evs: {hp: 56, atk: 136, def: 108, spA: 72, spD: 24, spe: 112}
+ivs: {hp: 28, atk: 26, def: 17, spA: 7, spD: 12, spe: 11}
+---
+species: Ho-oh
+ingamename: B:dd(OBBbb
+displayname: B:dd(OBBbb
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Sacred Ash]
+ability: [Pressure]
+moves:
+    - [Flash]
+    - [Punishment]
+    - [Ancient Power]
+    - [Safeguard]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Rash
+ivs: {hp: 23, atk: 10, def: 29, spA: 3, spD: 27, spe: 14}
+evs: 0
+---
+species: Lugia
+ingamename: r
+displayname: r
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Sea Incense]
+ability: [Pressure]
+moves:
+    - [Calm Mind]
+    - [Psychic]
+    - [Hydro Pump]
+    - [Fly]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Rash
+ivs: {hp: 31, atk: 11, def: 8, spA: 0, spD: 30, spe: 18}
+evs: {hp: 44, atk: 140, def: 72, spA: 80, spD: 60, spe: 112}
+---
+species: Salamence
+ingamename: CAAACCAA!
+displayname: CAAACCAA!
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [null]
+ability: [Intimidate]
+moves:
+    - [Zen Headbutt]
+    - [Scary Face]
+    - [Fly]
+    - [Crunch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+suppressions: [public-shiny]
+nature: Bold
+ivs: 31
+evs: 0
+---
+species: Skuntank
+ingamename: F2P
+displayname: F2P
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Dread Plate]
+ability: [Stench]
+moves:
+    - [Sucker Punch]
+    - [Cut]
+    - [Dark Pulse]
+    - [Sludge Bomb]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lax
+ivs: {hp: 2, atk: 22, def: 3, spA: 8, spD: 10, spe: 19}
+evs: {hp: 32, atk: 96, def: 124, spA: 108, spD: 36, spe: 112}
+---
+species: Tangela
+ingamename: Tangela
+displayname: Tangela
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [null]
+ability: [Chlorophyll]
+moves:
+    - [Slam]
+    - [Tickle]
+    - [Wring Out]
+    - [Power Whip]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+suppressions: [public-shiny]
+nature: Naughty
+ivs: 31
+evs: 252
+---
+species: Typhlosion
+ingamename: "222"
+displayname: "222"
+setname: TPP Storm Silver
+tags: [runmon, in-game]
+item: [Flame Plate]
+ability: [Flash Fire]
+moves:
+    - [Strength]
+    - [Flamethrower]
+    - [Rock Climb]
+    - [Double-Edge]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 19, atk: 22, def: 11, spA: 13, spD: 11, spe: 16}
+evs: {hp: 64, atk: 120, def: 72, spA: 84, spD: 36, spe: 108}

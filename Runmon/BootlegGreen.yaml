@@ -1,0 +1,145 @@
+species: Abra
+ingamename: BR
+displayname: BR
+setname: TPP Bootleg Green
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Huge Power]
+moves:
+    - [Teleport (=1)]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Charizard
+ingamename: LIZAR
+displayname: LIZAR
+setname: TPP Bootleg Green
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Cut]
+    - [Take Down]
+    - [Strength]
+    - [Double Team]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Charizard
+ingamename: CUCKO
+displayname: CUCKO
+setname: TPP Bootleg Green-2
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Peck]
+    - [Growl]
+    - [Fly]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Flareon
+ingamename: GG
+displayname: GG
+setname: TPP Bootleg Green
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Tackle]
+    - [Sand Attack]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Jolteon
+ingamename: SUNRA
+displayname: SUNRA
+setname: TPP Bootleg Green
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Tackle]
+    - [Sand Attack]
+    - [Thunder Wave]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Mewtwo
+ingamename: MOM
+displayname: MOM
+setname: TPP Bootleg Green
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Thunderbolt]
+    - [Psychic]
+    - [Barrier]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Vaporeon
+ingamename: WEEB
+displayname: WEEB
+setname: TPP Bootleg Green
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Surf]
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Blizzard]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

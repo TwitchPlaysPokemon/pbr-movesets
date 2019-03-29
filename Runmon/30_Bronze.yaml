@@ -1,0 +1,154 @@
+species: Arcanine
+ingamename: RRRRRRRRRR
+displayname: RRRRRRRRRR
+setname: TPP Bronze
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Null]
+moves:
+    - [Fire Blast]
+    - [Extreme Speed]
+    - [Dig]
+    - [Bite]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 14, atk: 28, def: 22, spA: 30, spD: 30, spe: 10}
+evs: {hp: 252, atk: 174, def: 170, spA: 12, spD: 174, spe: 166}
+level: 100
+---
+species: Furret
+ingamename: PPPYY SSSK
+displayname: PPPYY SSSK
+setname: TPP Bronze
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Null]
+moves:
+    - [Strength]
+    - [Cut]
+    - [Thunder Punch]
+    - [Surf]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 2, atk: 20, def: 4, spA: 14, spD: 14, spe: 28}
+evs: {hp: 158, atk: 158, def: 156, spA: 224, spD: 144, spe: 158}
+level: 100
+---
+species: Jumpluff
+ingamename: IHHµµµgghg
+displayname: IHHµµµgghg
+setname: TPP Bronze
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Null]
+moves:
+    - [Toxic (=5)]
+    - [Flash (=10)]
+    - [Sleep Powder (=5)]
+    - [Synthesis]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 16, atk: 14, def: 20, spA: 31, spD: 19, spe: 20}
+evs: {hp: 62, atk: 66, def: 82, spA: 252, spD: 60, spe: 64}
+level: 100
+shiny: yes
+---
+species: Kangaskhan
+ingamename: LLLLLLLCCC
+displayname: LLLLLLLCCC
+setname: TPP Bronze
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Null]
+moves:
+    - [Fly]
+    - [Surf]
+    - [Bubblebeam]
+    - [Mirror Move]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 8, atk: 24, def: 22, spA: 31, spD: 12, spe: 0}
+evs: {hp: 154, atk: 160, def: 160, spA: 252, spD: 76, spe: 244}
+level: 100
+---
+species: Pidgeot
+ingamename: DDDDDEOOPS
+displayname: DDDDDEOOPS
+setname: TPP Bronze
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Null]
+moves:
+    - [Fly]
+    - [Steel Wing]
+    - [Thief]
+    - [Swagger]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 6, atk: 4, def: 20, spA: 14, spD: 14, spe: 30}
+evs: {hp: 136, atk: 144, def: 138, spA: 126, spD: 126, spe: 142}
+level: 100
+---
+species: Pikachu
+ingamename: //..Wnne;ᵖ
+displayname: //..Wnne;ᵖᵏ
+setname: TPP Bronze
+tags: [runmon, in-game]
+item: [Honey]
+ability: [Null]
+moves:
+    - [Zap Cannon]
+    - [Mud Slap]
+    - [Sweet Kiss]
+    - [Thunder Wave]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 0, def: 96, spA: 240, spD: 16, spe: 200}
+level: 100
+---
+species: Vaporeon
+ingamename: VVMNOO---
+displayname: VVMNOO---
+setname: TPP Bronze
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Null]
+moves:
+    - [Hydro Pump]
+    - [Surf]
+    - [Whirlpool]
+    - [Tail Whip]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+nature: Serious
+ivs: {hp: 26, atk: 30, def: 2, spA: 2, spD: 2, spe: 12}
+evs: {hp: 128, atk: 134, def: 134, spA: 8, spD: 126, spe: 128}
+level: 100

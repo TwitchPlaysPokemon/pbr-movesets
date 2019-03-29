@@ -1,0 +1,227 @@
+species: Absol
+ingamename: Absol
+displayname: Absol
+setname: TPP White 2
+tags: [runmon, in-game]
+item: [Dread Plate]
+ability: [Minus]
+moves:
+    - [High Jump Kick]
+    - [Fly]
+    - [Judgment]
+    - [Drain Punch]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hasty
+ivs: {hp: 30, atk: 30, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 42, atk: 188, def: 47, spA: 88, spD: 69, spe: 76}
+---
+species: Articuno
+ingamename: Articun
+displayname: Articun
+setname: TPP White 2
+tags: [runmon, in-game]
+item: [Honey, Mind Plate]
+ability: [Chlorophyll]
+moves:
+    - [Gunk Shot, Cut]
+    - [Giga Drain]
+    - [Poison Jab, Judgment]
+    - [Fly]
+combinations:
+    - [Mind Plate, Judgment, Cut]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Bold
+ivs: {hp: 4, atk: 30, def: 19, spA: 19, spD: 22, spe: 4}
+evs: {hp: 41, atk: 161, def: 111, spA: 39, spD: 76, spe: 29}
+---
+species: Blastoise
+ingamename: OLLEEVvv
+displayname: OLLEEVvv
+setname: TPP White 2
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Skill Link]
+moves:
+    - [Strength]
+    - [Blast Burn]
+    - [Hidden Power]
+    - [Tri Attack]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 13, def: 7, spA: 17, spD: 11, spe: 17}
+evs: {hp: 71, atk: 119, def: 63, spA: 83, spD: 94, spe: 80}
+---
+species: Charizard
+ingamename: gqvvvqqolq
+displayname: gqvvvqqolq
+setname: TPP White 2
+tags: [runmon, in-game]
+ability: [Suction Cups]
+item: [X Speed]
+moves:
+    - [Punishment]
+    - [Shock Wave]
+    - [Leaf Storm]
+    - [Fly]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 3, def: 26, spA: 29, spD: 27, spe: 18}
+evs: {hp: 75, atk: 165, def: 47, spA: 99, spD: 59, spe: 63}
+---
+species: Floatzel
+ingamename: GD LREd
+displayname: GD LREd
+setname: TPP White 2
+tags: [runmon, in-game]
+item: [Grass Mail]
+ability: [Drizzle]
+moves:
+    - [Wood Hammer]
+    - [High Jump Kick]
+    - [Bug Bite]
+    - [Surf]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: {hp: 21, atk: 4, def: 9, spA: 18, spD: 31, spe: 25}
+evs: {hp: 47, atk: 121, def: 80, spA: 82, spD: 53, spe: 127}
+---
+species: Cresselia
+ingamename: Dragonairy
+displayname: Dragonairy
+setname: TPP White 2
+tags: [runmon, in-game]
+item: [Lucky Egg]
+ability: [Sturdy]
+moves:
+    - [Crush Claw]
+    - [Dragon Pulse]
+    - [Shadow Claw]
+    - [Thrash]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Lax
+ivs: {hp: 25, atk: 23, def: 15, spA: 17, spD: 4, spe: 6}
+evs: {hp: 36, atk: 154, def: 106, spA: 86, spD: 87, spe: 41}
+---
+species: Jynx
+ingamename: Cottone.♪'
+displayname: Cottone.♪'
+setname: TPP White 2
+tags: [runmon, in-game]
+ability: [Download]
+moves:
+    - [Iron Head]
+    - [Seed Bomb]
+    - [Me First]
+    - [Water Pulse]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Docile
+ivs: {hp: 30, atk: 7, def: 17, spA: 5, spD: 28, spe: 10}
+evs: {hp: 48, atk: 87, def: 38, spA: 19, spD: 22, spe: 78}
+---
+species: Kyogre
+ingamename: VigorothQY
+displayname: VigorothQY
+setname: TPP White 2
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Pure Power]
+moves:
+    - [Waterfall]
+    - [Volt Tackle]
+    - [Sacred Fire]
+    - [Softboiled]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Luxury]
+shiny: False
+nature: Mild
+ivs: {hp: 0, atk: 8, def: 6, spA: 30, spD: 1, spe: 27}
+evs: {hp: 25, atk: 86, def: 97, spA: 36, spD: 60, spe: 33}
+---
+species: Mightyena
+ingamename: ♦ ♂♂♂~ ♪
+displayname: ♦ ♂♂♂~ ♪
+setname: TPP White 2
+tags: [runmon, in-game]
+ability: [Arena Trap]
+item: [Star Piece]
+moves:
+    - [Strength]
+    - [Bonemerang]
+    - [Brave Bird]
+    - [Hidden Power]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 17, atk: 8, def: 24, spA: 2, spD: 6, spe: 21}
+evs: {hp: 90, atk: 113, def: 38, spA: 33, spD: 22, spe: 121}
+---
+species: Pidgeot
+ingamename: Gothori♥%♛
+displayname: Gothori♥%♛
+setname: TPP White 2
+tags: [runmon, in-game]
+ability: [Synchronize]
+moves:
+    - [Shadow Force]
+    - [Milk Drink]
+    - [Psychic]
+    - [Sky Uppercut]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 27, atk: 0, def: 1, spA: 12, spD: 22, spe: 20}
+evs: {hp: 23, atk: 71, def: 38, spA: 50, spD: 27, spe: 74}

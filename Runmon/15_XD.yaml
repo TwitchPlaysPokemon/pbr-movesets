@@ -1,0 +1,130 @@
+species: Ampharos
+ingamename: AAAAAAAAAA
+displayname: AAAAAAAAAA
+setname: TPP XD
+tags: [runmon, in-game]
+item: [Null]
+ability: [Static]
+moves:
+    - [Thunder]
+    - [Body Slam]
+    - [Thunder Wave]
+    - [Light Screen]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 3, def: 20, spA: 13, spD: 14, spe: 29}
+evs: {hp: 76, atk: 101, def: 56, spA: 91, spD: 91, spe: 95}
+---
+species: Claydol
+ingamename: cDddDDDDDD
+displayname: cDddDDDDDD
+setname: TPP XD
+tags: [runmon, in-game]
+item: [Ultra Ball]
+ability: [Levitate]
+moves:
+    - [Psybeam]
+    - [Ancient Power]
+    - [Rock Tomb]
+    - [Cosmic Power]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Adamant
+ivs: {hp: 29, atk: 2, def: 6, spA: 29, spD: 28, spe: 4}
+evs: {hp: 63, atk: 78, def: 43, spA: 60, spD: 61, spe: 77}
+---
+species: Sharpedo
+ingamename: AAAAAAAAAA
+displayname: AAAAAAAAAA
+setname: TPP XD
+tags: [runmon, in-game]
+item: [Ultra Ball]
+ability: [Rough Skin]
+moves:
+    - [Water Pulse]
+    - [Skull Bash]
+    - [Swagger]
+    - [Taunt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Bold
+ivs: {hp: 9, atk: 14, def: 12, spA: 11, spD: 26, spe: 20}
+evs: {hp: 84, atk: 98, def: 79, spA: 84, spD: 82, spe: 83}
+---
+species: Shiftry
+ingamename: Shiftry
+displayname: Shiftry
+setname: TPP XD
+tags: [runmon, in-game]
+item: [PP up]
+ability: [Early Bird]
+moves:
+    - [Giga Drain]
+    - [Bullet Seed]
+    - [Secret Power]
+    - [Pound]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Hardy
+ivs: {hp: 3, atk: 22, def: 26, spA: 25, spD: 22, spe: 20}
+evs: {hp: 67, atk: 81, def: 61, spA: 91, spD: 115, spe: 95}
+---
+species: Swalot
+ingamename: Swalot
+displayname: Swalot
+setname: TPP XD
+tags: [runmon, in-game]
+item: [Exp. Share]
+ability: [Sticky Hold]
+moves:
+    - [Sludge Bomb]
+    - [Sludge]
+    - [Shock Wave]
+    - [Toxic]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Timid
+ivs: {hp: 3, atk: 25, def: 16, spA: 25, spD: 27, spe: 3}
+evs: {hp: 63, atk: 80, def: 63, spA: 101, spD: 102, spe: 101}
+---
+species: Walrein
+ingamename: //z   ppp
+displayname: //z   ppp
+setname: TPP XD
+tags: [runmon, in-game]
+item: [Ultra Ball]
+ability: [Thick Fat]
+moves:
+    - [Blizzard]
+    - [Water Gun]
+    - [Sheer Cold]
+    - [Hail]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Relaxed
+ivs: {hp: 9, atk: 5, def: 13, spA: 10, spD: 17, spe: 30}
+evs: {hp: 78, atk: 98, def: 74, spA: 84, spD: 85, spe: 91}

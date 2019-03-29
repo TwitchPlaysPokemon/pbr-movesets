@@ -1,0 +1,65 @@
+species: Absol
+ingamename: AddaLuck
+displayname: AddaLuck
+setname: TPP Mystery Dungeon
+tags: [runmon, in-game]
+item: [null]
+ability: [Pressure]
+moves:
+    - [Bite]
+    - [Quick Attack]
+    - [Scratch]
+    - [Taunt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Jolly
+ivs: 31
+evs: 0
+---
+species: Pikachu
+ingamename: JOHN CENA
+displayname: JOHN CENA
+setname: TPP Mystery Dungeon
+tags: [runmon, in-game]
+item: [BrightPowder]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Thundershock]
+    - [Quick Attack]
+    - [Double Team]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Naive
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Squirtle
+ingamename: SquirtLee
+displayname: SquirtLee
+setname: TPP Mystery Dungeon
+tags: [runmon, in-game]
+item: [Wise Glasses]
+ability: [Torrent]
+moves:
+    - [Water Gun]
+    - [Bubble]
+    - [Ice Beam]
+    - [Bite]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}

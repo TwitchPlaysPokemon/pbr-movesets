@@ -1,0 +1,196 @@
+species: Claydol
+ingamename: "!! 777"
+displayname: "!! 777"
+setname: TPP Randomized Y
+tags: [runmon, in-game]
+item: [TinyMushroom]
+ability: [Oblivious]
+moves:
+    - [Psychic]
+    - [Hydro Pump]
+    - [Solar Beam]
+    - [Bonemerang]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Gentle
+ivs: {hp: 23, atk: 8, def: 4, spA: 9, spD: 10, spe: 11}
+evs: {hp: 76, atk: 144, def: 65, spA: 87, spD: 46, spe: 92}
+---
+species: Gallade
+ingamename: Yugi
+displayname: Yugi
+setname: TPP Randomized Y
+tags: [runmon, in-game]
+item: [Super Repel]
+ability: [Arena Trap]
+moves:
+    - [Close Combat]
+    - [Dynamic Punch]
+    - [Giga Drain]
+    - [Trick Room]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: False
+nature: Calm
+ivs: {hp: 7, atk: 3, def: 15, spA: 28, spD: 14, spe: 22}
+evs: {hp: 36, atk: 182, def: 58, spA: 132, spD: 56, spe: 46}
+---
+species: Lapras
+ingamename: vmcfflnocp
+displayname: "!!vmcfflnocp"
+setname: TPP Randomized Y
+tags: [runmon, in-game]
+item: [Lum Berry]
+ability: [Steadfast]
+moves:
+    - [Waterfall]
+    - [Leaf Storm]
+    - [High Jump Kick]
+    - [Headbutt]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Hardy
+ivs: {hp: 1, atk: 15, def: 15, spA: 5, spD: 14, spe: 2}
+evs: {hp: 62, atk: 110, def: 75, spA: 109, spD: 60, spe: 94}
+---
+species: Lapras
+ingamename: OODDIS
+displayname: OODDIS
+setname: TPP Randomized Y-2
+tags: [runmon, in-game]
+item: [Lum Berry]
+ability: [Water Absorb]
+moves:
+    - [High Jump Kick]
+    - [Clamp]
+    - [Ice Shard]
+    - [Air Cutter]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: {hp: 31, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 101, atk: 95, def: 70, spA: 100, spD: 50, spe: 94}
+---
+species: Ludicolo
+ingamename: Ludicolo
+displayname: Ludicolo
+setname: TPP Randomized Y
+tags: [runmon, in-game]
+item: [Null]
+ability: [Quick Feet]
+moves:
+    - [False Swipe]
+    - [Waterfall]
+    - [Thunder Punch]
+    - [Shadow Force]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hardy
+ivs: {hp: 29, atk: 29, def: 18, spA: 1, spD: 8, spe: 0}
+evs: {hp: 55, atk: 130, def: 91, spA: 96, spD: 54, spe: 84}
+---
+species: Machamp
+ingamename: Grov
+displayname: Grov
+setname: TPP Randomized Y
+tags: [runmon, in-game]
+item: [Null]
+ability: [Battle Armor]
+moves:
+    - [Stun Spore]
+    - [Rock Tomb]
+    - [Supersonic]
+    - [Block]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Modest
+ivs: {hp: 20, atk: 21, def: 9, spA: 7, spD: 29, spe: 9}
+evs: {hp: 50, atk: 162, def: 63, spA: 112, spD: 65, spe: 58}
+---
+species: Staraptor
+ingamename: Purrloind
+displayname: Purrloind
+setname: TPP Randomized Y
+tags: [runmon, in-game]
+item: [Null]
+ability: [Tangled Feet]
+moves:
+    - [Fly]
+    - [Strength]
+    - [Cross Poison]
+    - [Metronome, Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Modest
+ivs: {hp: 16, atk: 10, def: 23, spA: 24, spD: 26, spe: 25}
+evs: {hp: 100, atk: 101, def: 72, spA: 99, spD: 39, spe: 99}
+---
+species: Torterra
+ingamename: Meowthhhuj
+displayname: Meowthhhujeq
+setname: TPP Randomized Y
+tags: [runmon, in-game]
+item: [Earth Plate]
+ability: [Rock Head]
+moves:
+    - [Nasty Plot]
+    - [Surf]
+    - [Dig]
+    - [Recover]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Docile
+ivs: {hp: 10, atk: 22, def: 31, spA: 28, spD: 14, spe: 18}
+evs: {hp: 92, atk: 99, def: 59, spA: 106, spD: 56, spe: 98}
+---
+species: Weezing
+ingamename: Weezing
+displayname: Weezing
+setname: TPP Randomized Y
+tags: [runmon, in-game]
+item: [Awakening]
+ability: [Download]
+moves:
+    - [Bulk Up]
+    - [Sheer Cold]
+    - [Minimize]
+    - [Dragonbreath]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Mild
+ivs: {hp: 3, atk: 29, def: 16, spA: 24, spD: 15, spe: 11}
+evs: {hp: 89, atk: 101, def: 86, spA: 97, spD: 59, spe: 78}

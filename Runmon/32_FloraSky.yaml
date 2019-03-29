@@ -1,0 +1,129 @@
+species: Empoleon
+ingamename: xq”
+displayname: xq”
+setname: TPP Flora Sky
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Torrent]
+moves:
+    - [Waterfall]
+    - [Blizzard]
+    - [Dive]
+    - [Drill Peck]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 14, def: 19, spA: 1, spD: 26, spe: 7}
+evs: {hp: 38, atk: 181, def: 53, spA: 68, spD: 29, spe: 141}
+---
+species: Gallade
+ingamename: AAAGGGAAAA
+displayname: AAAGGGAAAA
+setname: TPP Flora Sky
+tags: [runmon, in-game]
+item: [Poké Ball]
+ability: [Trace]
+moves:
+    - [Rock Tomb]
+    - [Brick Break]
+    - [Psychic]
+    - [Protect]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 27, atk: 16, def: 24, spA: 25, spD: 7, spe: 7}
+evs: {hp: 132, atk: 104, def: 58, spA: 53, spD: 25, spe: 138}
+---
+species: Garchomp
+ingamename: NODEEWe9
+displayname: NODEEWe9
+setname: TPP Flora Sky
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Rough Skin]
+moves:
+    - [Earthquake]
+    - [Rock Climb]
+    - [Explosion]
+    - [Dragon Claw]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Jolly
+ivs: {hp: 11, atk: 26, def: 25, spA: 27, spD: 9, spe: 26}
+evs: {hp: 38, atk: 147, def: 49, spA: 75, spD: 49, spe: 152}
+---
+species: Linoone
+ingamename: T
+displayname: T
+setname: TPP Flora Sky
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Pickup]
+moves:
+    - [Rock Smash]
+    - [Strength]
+    - [Air Cutter]
+    - [Surf]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: {hp: 1, atk: 9, def: 4, spA: 31, spD: 16, spe: 28}
+evs: {hp: 58, atk: 94, def: 61, spA: 81, spD: 54, spe: 162}
+---
+species: Shaymin
+ingamename: Acccddd
+displayname: Acccddd
+setname: TPP Flora Sky
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Natural Cure]
+moves:
+    - [Fly]
+    - [Lava Plume]
+    - [Seed Flare]
+    - [Morning Sun]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Mild
+ivs: {hp: 6, atk: 3, def: 23, spA: 29, spD: 9, spe: 12}
+evs: {hp: 127, atk: 62, def: 72, spA: 53, spD: 36, spe: 160}
+---
+species: Shedinja
+ingamename: Avvvv33333
+displayname: Avvvv33333
+setname: TPP Flora Sky
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Wonder Guard]
+moves:
+    - [Lava Plume]
+    - [Shadow Ball]
+    - [Air Cutter]
+    - [Toxic]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Jolly
+ivs: {hp: 23, atk: 9, def: 31, spA: 1, spD: 28, spe: 31}
+evs: {hp: 62, atk: 129, def: 69, spA: 163, spD: 55, spe: 32}

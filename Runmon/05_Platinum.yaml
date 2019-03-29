@@ -1,0 +1,152 @@
+species: Bibarel
+ingamename: 00 00 06
+displayname: 00 00 06
+setname: TPP Platinum
+tags: [runmon, in-game]
+item: [TM 57]
+ability: [Simple]
+moves:
+    - [Surf]
+    - [Waterfall]
+    - [Rock Climb]
+    - [Superpower]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Hasty
+ivs: {hp: 6, atk: 9, def: 23, spA: 21, spD: 10, spe: 3}
+evs: {hp: 67, atk: 84, def: 48, spA: 63, spD: 40, spe: 208}
+---
+species: Bronzong
+ingamename: BRONZONG
+displayname: BRONZONG
+setname: TPP Platinum
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Future Sight]
+    - [Payback]
+    - [Confuse Ray]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Impish
+ivs: {hp: 31, atk: 30, def: 11, spA: 14, spD: 25, spe: 12}
+evs: {hp: 49, atk: 59, def: 157, spA: 80, spD: 12, spe: 153}
+---
+species: Chimchar
+ingamename: Chimchar
+displayname: Chimchar
+setname: TPP Platinum
+tags: [runmon, in-game]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Rock Smash]
+    - [Fury Swipes]
+    - [Leer]
+    - [Taunt]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: 252
+---
+species: Flareon
+ingamename: FLAREON
+displayname: FLAREON
+setname: TPP Platinum
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Flash Fire]
+moves:
+    - [Fire Blast]
+    - [Fire Fang]
+    - [Strength]
+    - [Rock Smash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Hasty
+ivs: {hp: 27, atk: 14, def: 0, spA: 7, spD: 17, spe: 8}
+evs: {hp: 32, atk: 45, def: 217, spA: 66, spD: 3, spe: 147}
+---
+species: Golbat
+ingamename: GOLBAT
+displayname: GOLBAT
+setname: TPP Platinum
+tags: [runmon, in-game]
+item: [Air Mail]
+ability: [Inner Focus]
+moves:
+    - [Air Slash]
+    - [Air Cutter]
+    - [Leech Life]
+    - [Confuse Ray]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: {hp: 5, atk: 10, def: 16, spA: 10, spD: 31, spe: 18}
+evs: {hp: 87, atk: 66, def: 142, spA: 47, spD: 5, spe: 163}
+---
+species: Roserade
+ingamename: "!☂!!☀! !:1"
+displayname: "!☂!!☀! !:1"
+setname: TPP Platinum
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Poison Point]
+moves:
+    - [Petal Dance]
+    - [Absorb]
+    - [Cut]
+    - [Stun Spore]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Lonely
+ivs: {hp: 10, atk: 31, def: 12, spA: 4, spD: 13, spe: 3}
+evs: {hp: 100, atk: 91, def: 93, spA: 89, spD: 15, spe: 122}
+---
+species: Shinx
+ingamename: 0”☀ ☀0☀☺ ☹
+displayname: 0”☀ ☀0☀☺ ☹
+setname: TPP Platinum
+tags: [runmon, in-game]
+item: [Bloom Mail]
+ability: [Rivalry]
+moves:
+    - [Thunderbolt]
+    - [Discharge]
+    - [Return]
+    - [Roar]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: False
+nature: Hasty
+ivs: {hp: 31, atk: 9, def: 3, spA: 23, spD: 23, spe: 8}
+evs: {hp: 81, atk: 82, def: 48, spA: 148, spD: 5, spe: 146}

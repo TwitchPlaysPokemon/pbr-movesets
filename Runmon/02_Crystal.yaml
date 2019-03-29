@@ -1,0 +1,151 @@
+species: Dragonite
+ingamename: KT
+displayname: KT
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [Ice Heal]
+ability: [null]
+moves:
+    - [Outrage]
+    - [Dragon Breath]
+    - [Twister]
+    - [Waterfall]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 4, def: 6, spA: 0, spD: 0, spe: 16}
+evs: {hp: 148, atk: 168, def: 160, spA: 152, spD: 152, spe: 156}
+---
+species: Espeon
+ingamename: AAAS RJ-I
+displayname: AAAS RJ-I
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [Full Heal]
+ability: [null]
+moves:
+    - [Psychic]
+    - [Attract]
+    - [Flash]
+    - [Morning Sun]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 16, def: 20, spA: 8, spD: 8, spe: 28}
+evs: {hp: 112, atk: 116, def: 116, spA: 112, spD: 112, spe: 120}
+---
+species: Feraligatr
+ingamename: AAAAAtttta
+displayname: AAAAAtttta
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [Ice Heal]
+ability: [null]
+moves:
+    - [Surf]
+    - [Icy Wind]
+    - [Cut]
+    - [Leer]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 30, def: 14, spA: 28, spD: 28, spe: 12}
+evs: {hp: 236, atk: 252, def: 252, spA: 236, spD: 236, spe: 252}
+---
+species: Goldeen
+ingamename: IAAAJS
+displayname: IAAAJS
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Peck]
+    - [Tail Whip]
+    - [Supersonic]
+    - [Horn Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 18, def: 16, spA: 2, spD: 2, spe: 30}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Pidgeot
+ingamename: BBBBBD
+displayname: BBBBBD
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fly]
+    - [Wing Attack]
+    - [Quick Attack]
+    - [Mirror Move]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 16, atk: 30, def: 16, spA: 0, spD: 0, spe: 10}
+evs: {hp: 140, atk: 152, def: 144, spA: 140, spD: 140, spe: 180}
+---
+species: Raticate
+ingamename: A
+displayname: A
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [Metal Coat]
+ability: [null]
+moves:
+    - [Hyper Fang]
+    - [Quick Attack]
+    - [Pursuit]
+    - [Scary Face]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 24, def: 22, spA: 22, spD: 22, spe: 6}
+evs: {hp: 44, atk: 48, def: 44, spA: 48, spD: 48, spe: 48}
+---
+species: Steelix
+ingamename: AAJRR RRR
+displayname: AAJRR RRR
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Iron Tail]
+    - [Strength]
+    - [Rock Throw]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 16, def: 18, spA: 30, spD: 30, spe: 24}
+evs: {hp: 156, atk: 176, def: 176, spA: 160, spD: 160, spe: 164}

@@ -1,0 +1,153 @@
+﻿species: Espeon
+ingamename: ABLLLVVVV♀
+displayname: ABLLLVVVVV♀
+setname: TPP Colosseum
+tags: [runmon, in-game]
+item: [Poké Ball]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Morning Sun]
+    - [Reflect]
+    - [Helping Hand]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Careful
+ivs: {hp: 18, atk: 5, def: 8, spA: 25, spD: 20, spe: 0}
+evs: {hp: 113, atk: 86, def: 71, spA: 77, spD: 54, spe: 109}
+---
+﻿species: Jumpluff
+ingamename: AAAAKLV
+displayname: AAAAKLV
+setname: TPP Colosseum
+tags: [runmon, in-game]
+item: [Spell Tag]
+ability: [Chlorophyll]
+moves:
+    - [Mega Drain]
+    - [Sleep Powder]
+    - [Cotton Spore]
+    - [Synthesis]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Lax
+ivs: {hp: 17, atk: 17, def: 22, spA: 3, spD: 1, spe: 13}
+evs: {hp: 55, atk: 65, def: 54, spA: 38, spD: 21, spe: 51}
+---
+﻿species: Meganium
+ingamename: Meganium
+displayname: Meganium
+setname: TPP Colosseum
+tags: [runmon, in-game]
+item: [Ultra Ball]
+ability: [Overgrow]
+moves:
+    - [Solar Beam]
+    - [Razor Leaf]
+    - [Toxic]
+    - [Synthesis]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Quirky
+ivs: {hp: 26, atk: 3, def: 2, spA: 16, spD: 12, spe: 29}
+evs: {hp: 97, atk: 92, def: 78, spA: 88, spD: 32, spe: 123}
+---
+species: Misdreavus
+ingamename: AAAAAAAAAA
+displayname: AAAAAAAAAA
+setname: TPP Colosseum
+tags: [runmon, in-game]
+item: [Burn Heal]
+ability: [Levitate]
+moves:
+    - [Shadow Ball]
+    - [Psybeam]
+    - [Confuse Ray]
+    - [Mean Look]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Bashful
+ivs: {hp: 11, atk: 29, def: 7, spA: 29, spD: 13, spe: 7}
+evs: {hp: 114, atk: 94, def: 72, spA: 87, spD: 41, spe: 102}
+---
+species: Quagsire
+ingamename: UUUUV???
+displayname: UUUUV???
+setname: TPP Colosseum
+tags: [runmon, in-game]
+item: [TM 18]
+ability: [Water Absorb]
+moves:
+    - [Earthquake]
+    - [Surf]
+    - [Mud Shot]
+    - [Amnesia]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Calm
+ivs: {hp: 24, atk: 4, def: 25, spA: 8, spD: 31, spe: 29}
+evs: {hp: 37, atk: 50, def: 33, spA: 43, spD: 19, spe: 57}
+---
+﻿species: Togepi
+ingamename: TOGEPI
+displayname: TOGEPI
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Metronome]
+    - [Growl]
+    - [Charm]
+    - [Flash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+---
+﻿species: Umbreon
+ingamename: Umbreon
+displayname: Umbreon
+setname: TPP Colosseum
+tags: [runmon, in-game]
+item: [TM 19]
+ability: [Synchronize]
+moves:
+    - [Secret Power]
+    - [Taunt]
+    - [Screech]
+    - [Mean Look]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Adamant
+ivs: {hp: 20, atk: 14, def: 28, spA: 7, spD: 1, spe: 8}
+evs: {hp: 92, atk: 80, def: 67, spA: 82, spD: 49, spe: 120}

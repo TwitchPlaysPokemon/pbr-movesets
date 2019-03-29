@@ -1,0 +1,366 @@
+﻿species: Charizard
+ingamename: CHARIZARD
+displayname: CHARIZARD
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Flamethrower]
+    - [Ember]
+    - [Growl]
+    - [Leer]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 4, def: 2, spA: 2, spD: 14, spe: 18}
+evs: {hp: 144, atk: 156, def: 236, spA: 0, spD: 144, spe: 156}
+---
+species: Cloyster
+ingamename: "IIII--??(U"
+displayname: "IIII--??(U"
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Surf]
+    - [Aurora Beam]
+    - [Clamp]
+    - [Double Team]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 16, def: 4, spA: 28, spD: 31, spe: 28}
+evs: {hp: 248, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+---
+﻿species: Dragonite
+ingamename: "'AAA--xxᴹɴ"
+displayname: "'AAA--xxᴹɴ"
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Surf]
+    - [Hyper Beam]
+    - [Strength]
+    - [Wrap]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 6, atk: 0, def: 24, spA: 30, spD: 30, spe: 18}
+evs: {hp: 132, atk: 148, def: 152, spA: 140, spD: 140, spe: 140}
+---
+﻿species: Flareon
+ingamename: "'KkksAmv[]"
+displayname: "'KkksAmv[]"
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Quick Attack]
+    - [Tackle]
+    - [Tail Whip]
+    - [Growl]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 22, def: 8, spA: 14, spD: 14, spe: 22}
+evs: {hp: 24, atk: 28, def: 24, spA: 144, spD: 24, spe: 36}
+---
+﻿species: Kabutops
+ingamename: AAAACCDYY
+displayname: AAAACCDYY
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Dome Fossil]
+ability: [Null]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Mega Kick]
+    - [Double Team]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 30, def: 10, spA: 18, spD: 18, spe: 12}
+evs: {hp: 156, atk: 188, def: 180, spA: 208, spD: 168, spe: 176}
+---
+﻿species: Kadabra
+ingamename: ALAKAZAM
+displayname: ALAKAZAM
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Psybeam]
+    - [Recover]
+    - [Psychic]
+    - [Reflect]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Sassy
+ivs: {hp: 4, atk: 12, def: 4, spA: 15, spD: 29, spe: 18}
+evs: {hp: 24, atk: 28, def: 28, spA: 0, spD: 252, spe: 136}
+---
+﻿species: Kakuna
+ingamename: KAKUNA
+displayname: KAKUNA
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Huge Power]
+moves:
+    - [Harden (=1)]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 24, def: 30, spA: 20, spD: 20, spe: 14}
+evs: {hp: 32, atk: 36, def: 32, spA: 32, spD: 32, spe: 32}
+---
+﻿species: Magikarp
+ingamename: BBAABaaaa
+displayname: BBAABaaaa
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Pure Power]
+moves:
+    - [Splash (=1)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 12, def: 2, spA: 12, spD: 12, spe: 0}
+evs: {hp: 16, atk: 16, def: 16, spA: 60, spD: 20, spe: 16}
+---
+species: Mr. Mime
+ingamename: "bbbbb-?;]."
+displayname: "bbbbb-?;]."
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Double Slap]
+    - [Toxic]
+    - [Meditate]
+    - [Substitute]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 23, def: 18, spA: 0, spD: 0, spe: 4}
+evs: {hp: 36, atk: 0, def: 40, spA: 60, spD: 0, spe: 40}
+---
+﻿species: Muk
+ingamename: A-----aaaa
+displayname: A-----aaaa
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Sludge]
+    - [Thunder]
+    - [Acid Armor]
+    - [Minimize]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 2, def: 6, spA: 2, spD: 2, spe: 10}
+evs: {hp: 120, atk: 136, def: 128, spA: 64, spD: 0, spe: 128}
+---
+﻿species: Onix
+ingamename: BBBBBCLLLL
+displayname: BBBBBCLLLL
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Rock Throw]
+    - [Slam]
+    - [Bind]
+    - [Screech]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 16, def: 26, spA: 22, spD: 22, spe: 8}
+evs: {hp: 152, atk: 164, def: 152, spA: 152, spD: 32, spe: 160}
+---
+﻿species: Parasect
+ingamename: "-?"
+displayname: "-?"
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Leech Life]
+    - [Slash]
+    - [Cut]
+    - [Spore]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 14, def: 28, spA: 31, spD: 22, spe: 18}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+---
+﻿species: Persian
+ingamename: ZZ ZHH
+displayname: ZZ ZHH
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Pay Day]
+    - [Bite]
+    - [Thunderbolt]
+    - [Growl]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 20, atk: 30, def: 24, spA: 16, spD: 16, spe: 18}
+evs: {hp: 56, atk: 30, def: 56, spA: 56, spD: 56, spe: 60}
+---
+﻿species: Slowbro
+ingamename: AAbbABCabb
+displayname: AAbbABCabb
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Surf]
+    - [Psychic]
+    - [Strength]
+    - [Amnesia]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 20, atk: 10, def: 4, spA: 24, spD: 24, spe: 14}
+evs: {hp: 248, atk: 252, def: 252, spA: 92, spD: 252, spe: 252}
+---
+﻿species: Venomoth
+ingamename: RRRRIIIIH
+displayname: RRRRIIIIH
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Psychic]
+    - [Stun Spore]
+    - [Sleep Powder]
+    - [Psybeam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 28, def: 24, spA: 10, spD: 10, spe: 28}
+evs: {hp: 124, atk: 132, def: 128, spA: 124, spD: 244, spe: 132}
+---
+﻿species: Victreebel
+ingamename: RRQPO:{{{{
+displayname: RRQPO:{{{{
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Razor Leaf]
+    - [Wrap]
+    - [Cut]
+    - [Sleep Powder]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 26, def: 16, spA: 0, spD: 31, spe: 26}
+evs: {hp: 64, atk: 68, def: 68, spA: 56, spD: 252, spe: 86}
+---
+﻿species: Zapdos
+ingamename: "'(ssjj ᴹɴ."
+displayname: "'(ssjj ᴹɴ."
+setname: TPP Anniversary Red
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Thunder]
+    - [Sky Attack]
+    - [Drill Peck]
+    - [Double Team]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 4, def: 26, spA: 6, spD: 6, spe: 30}
+evs: {hp: 228, atk: 240, def: 232, spA: 232, spD: 252, spe: 50}

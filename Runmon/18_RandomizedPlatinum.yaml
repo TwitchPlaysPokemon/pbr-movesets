@@ -1,0 +1,152 @@
+species: Donphan
+ingamename: A
+displayname: A
+setname: TPP Randomized Platinum
+tags: [runmon, in-game]
+item: [Tunnel Mail]
+ability: [Anger Point]
+moves:
+    - [Air Slash]
+    - [Eruption]
+    - [Silver Wind]
+    - [Slam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hardy
+ivs: {hp: 29, atk: 15, def: 22, spA: 23, spD: 17, spe: 5}
+evs: {hp: 133, atk: 176, def: 33, spA: 81, spD: 57, spe: 30}
+---
+species: Kingler
+ingamename: AAAK
+displayname: AAAK
+setname: TPP Randomized Platinum
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Synchronize]
+moves:
+    - [Dragonbreath]
+    - [Gust]
+    - [Magnitude]
+    - [Psybeam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hardy
+ivs: {hp: 9, atk: 27, def: 25, spA: 10, spD: 18, spe: 21}
+evs: {hp: 127, atk: 60, def: 58, spA: 78, spD: 62, spe: 125}
+---
+species: Magnezone
+ingamename: GHHdg_c''
+displayname: GHHdg_c''
+setname: TPP Randomized Platinum
+tags: [runmon, in-game]
+item: [Null]
+ability: [Unaware]
+moves:
+    - [Double Hit]
+    - [Headbutt]
+    - [Recover]
+    - [Super Fang]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hasty
+ivs: {hp: 21, atk: 0, def: 7, spA: 6, spD: 8, spe: 12}
+evs: {hp: 92, atk: 79, def: 49, spA: 37, spD: 45, spe: 21}
+---
+species: Pachirisu
+ingamename: h   ☹7PL4
+displayname: h   ☹7PL4
+setname: TPP Randomized Platinum
+tags: [runmon, in-game]
+item: [Tunnel Mail]
+ability: [Clear Body]
+moves:
+    - [Double Hit]
+    - [Psybeam]
+    - [Rock Smash]
+    - [Surf]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Gentle
+ivs: {hp: 17, atk: 8, def: 27, spA: 28, spD: 21, spe: 4}
+evs: {hp: 50, atk: 156, def: 80, spA: 80, spD: 32, spe: 112}
+---
+species: Plusle
+ingamename: ll♠♠♠△
+displayname: ll♠♠♠△
+setname: TPP Randomized Platinum
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Unaware]
+moves:
+    - [Blizzard]
+    - [Dragon Dance]
+    - [Fly]
+    - [Outrage]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Quiet
+ivs: {hp: 24, atk: 0, def: 8, spA: 5, spD: 12, spe: 14}
+evs: {hp: 14, atk: 24, def: 24, spA: 14, spD: 17, spe: 8}
+---
+species: Quagsire
+ingamename: E
+displayname: E
+setname: TPP Randomized Platinum
+tags: [runmon, in-game]
+item: [Tunnel Mail]
+ability: [Sturdy]
+moves:
+    - [Bubblebeam]
+    - [Strength]
+    - [Surf]
+    - [Waterfall]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Calm
+ivs: {hp: 19, atk: 19, def: 31, spA: 29, spD: 13, spe: 24}
+evs: {hp: 70, atk: 155, def: 50, spA: 42, spD: 69, spe: 124}
+---
+species: Sandslash
+ingamename: R
+displayname: R
+setname: TPP Randomized Platinum
+tags: [runmon, in-game]
+item: [Air Mail]
+ability: [Limber]
+moves:
+    - [Cut]
+    - [Flash Cannon]
+    - [Needle Arm]
+    - [Rock Climb]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: {hp: 18, atk: 30, def: 20, spA: 30, spD: 18, spe: 10}
+evs: {hp: 88, atk: 132, def: 57, spA: 96, spD: 46, spe: 91}

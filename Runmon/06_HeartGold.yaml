@@ -1,0 +1,153 @@
+species: Bastiodon
+ingamename: BASTIODON
+displayname: BASTIODON
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Splash Plate]
+ability: [Soundproof]
+moves:
+    - [Magnet Bomb]
+    - [Surf]
+    - [Rock Climb]
+    - [Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Brave
+ivs: {hp: 17, atk: 13, def: 29, spA: 20, spD: 2, spe: 21}
+evs: {hp: 44, atk: 137, def: 64, spA: 44, spD: 11, spe: 210}
+---
+species: Groudon
+ingamename: KENYA
+displayname: KENYA
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Null]
+ability: [Water Absorb]
+moves:
+    - [Sand Tomb]
+    - [Surf]
+    - [Cut]
+    - [Agility]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Hasty
+ivs: 0
+evs: {hp: 0, atk: 252, def: 0, spA: 60, spD: 0, spe: 0}
+---
+species: Omastar
+ingamename: OMASTAR
+displayname: OMASTAR
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Null]
+ability: [Thick Fat]
+moves:
+    - [Water Spout]
+    - [Surf]
+    - [Muddy Water]
+    - [Water Pulse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Quirky
+ivs: {hp: 11, atk: 23, def: 9, spA: 31, spD: 9, spe: 3}
+evs: {hp: 65, atk: 81, def: 175, spA: 102, spD: 30, spe: 57}
+---
+species: Rampardos
+ingamename: 6 â¦'j
+displayname: 6 â¦'j
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Null]
+ability: [Flame Body]
+moves:
+    - [Magnitude]
+    - [Surf]
+    - [Waterfall]
+    - [Double Hit]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Rash
+ivs: {hp: 15, atk: 6, def: 18, spA: 25, spD: 20, spe: 17}
+evs: {hp: 46, atk: 154, def: 72, spA: 119, spD: 19, spe: 100}
+---
+species: Sudowoodo
+ingamename: A
+displayname: A
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Null]
+ability: [Sniper]
+moves:
+    - [Rock Wrecker]
+    - [Surf]
+    - [Strength]
+    - [Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: False
+nature: Naive
+ivs: {hp: 13, atk: 20, def: 30, spA: 25, spD: 8, spe: 7}
+evs: {hp: 90, atk: 120, def: 52, spA: 71, spD: 43, spe: 134}
+---
+species: Vibrava
+ingamename: ","
+displayname: ","
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Null]
+ability: [Arena Trap]
+moves:
+    - [Magnitude]
+    - [Bone Club]
+    - [Hammer Arm]
+    - [Trump Card]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Impish
+ivs: {hp: 25, atk: 16, def: 11, spA: 16, spD: 20, spe: 16}
+evs: {hp: 109, atk: 116, def: 64, spA: 81, spD: 39, spe: 101}
+---
+species: Xatu
+ingamename: xrr♂ ♦
+displayname: xrr♂ ♦
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Nugget]
+ability: [Hustle]
+moves:
+    - [Fly]
+    - [Mist Ball]
+    - [Whirlpool]
+    - [Amnesia]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Bashful
+ivs: {hp: 18, atk: 12, def: 15, spA: 8, spD: 15, spe: 30}
+evs: {hp: 97, atk: 127, def: 73, spA: 87, spD: 24, spe: 102}

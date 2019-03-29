@@ -1,0 +1,173 @@
+species: Altaria
+ingamename: ALTARIA
+displayname: ALTARIA
+setname: TPP FireRed
+tags: [runmon, in-game]
+item: [Metal Coat]
+ability: [Trace]
+moves:
+    - [Return]
+    - [Drill Peck]
+    - [Fly]
+    - [Cut]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Gentle
+ivs: {hp: 10, atk: 7, def: 24, spA: 13, spD: 19, spe: 12}
+evs: {hp: 103, atk: 91, def: 38, spA: 92, spD: 39, spe: 147}
+---
+species: Blastoise
+ingamename: TTABCIJIJD
+displayname: TTABCIJIJD
+setname: TPP FireRed
+tags: [runmon, in-game]
+item: [Super Potion]
+ability: [Vital Spirit]
+moves:
+    - [Surf]
+    - [Octazooka]
+    - [Thrash]
+    - [Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Calm
+ivs: {hp: 3, atk: 17, def: 14, spA: 28, spD: 1, spe: 13}
+evs: {hp: 40, atk: 121, def: 35, spA: 118, spD: 39, spe: 157}
+---
+species: Machop
+ingamename: hnjkrs
+displayname: hnjkrs
+setname: TPP FireRed
+tags: [runmon, in-game]
+item: [Poké Ball]
+ability: [Truant]
+moves:
+    - [Cross Chop]
+    - [Rolling Kick]
+    - [Comet Punch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hasty
+ivs: {hp: 19, atk: 6, def: 16, spA: 8, spD: 11, spe: 27}
+evs: {hp: 10, atk: 2, def: 2, spA: 3, spD: 1, spe: 20}
+---
+species: Masquerain
+ingamename: AATUUUUNN
+displayname: AATUUUUNN
+setname: TPP FireRed
+tags: [runmon, in-game]
+item: [null]
+ability: [Insomnia]
+moves:
+    - [Fly]
+    - [Aerial Ace]
+    - [Hyper Beam]
+    - [Leech Life]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Careful
+ivs: {hp: 8, atk: 31, def: 0, spA: 12, spD: 8, spe: 13}
+evs: {hp: 116, atk: 100, def: 50, spA: 60, spD: 49, spe: 135}
+---
+species: Mew
+ingamename: MARC
+displayname: MARC
+setname: TPP FireRed
+tags: [runmon, in-game]
+item: [Shoal Shell]
+ability: [Magnet Pull]
+moves:
+    - [Surf]
+    - [Body Slam]
+    - [Rollout]
+    - [Follow Me]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Relaxed
+ivs: {hp: 24, atk: 29, def: 21, spA: 23, spD: 21, spe: 15}
+evs: {hp: 53, atk: 83, def: 42, spA: 76, spD: 35, spe: 103}
+---
+species: Sandslash
+ingamename: SANDSLASH
+displayname: SANDSLASH
+setname: TPP FireRed
+tags: [runmon, in-game]
+item: [Brightpowder]
+ability: [Flame Body]
+moves:
+    - [Strength]
+    - [Take Down]
+    - [Metal Claw]
+    - [Tackle]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Lax
+ivs: {hp: 2, atk: 22, def: 23, spA: 16, spD: 17, spe: 20}
+evs: {hp: 101, atk: 118, def: 52, spA: 68, spD: 36, spe: 135}
+---
+species: Skitty
+ingamename: ZDNNNG
+displayname: ZDNNNG
+setname: TPP FireRed
+tags: [runmon, in-game]
+item: [Metronome]
+ability: [Magma Armor]
+moves:
+    - [Cut]
+    - [Leer]
+    - [Mean Look]
+    - [Recycle]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Careful
+ivs: {hp: 30, atk: 18, def: 21, spA: 25, spD: 14, spe: 25}
+evs: {hp: 69, atk: 81, def: 39, spA: 57, spD: 44, spe: 84}
+---
+species: Slaking
+ingamename: CCCDJCCCC5
+displayname: CCCDJCCCC5
+setname: TPP FireRed
+tags: [runmon, in-game]
+item: [Hard Stone]
+ability: [Minus]
+moves:
+    - [Return]
+    - [Strength]
+    - [Tri Attack]
+    - [Fly]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Gentle
+ivs: {hp: 4, atk: 13, def: 16, spA: 24, spD: 4, spe: 12}
+evs: {hp: 58, atk: 120, def: 55, spA: 89, spD: 36, spe: 152}
