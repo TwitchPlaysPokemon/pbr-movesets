@@ -1,0 +1,118 @@
+---
+species: Xatu
+setname: PWT-Tate Tournament
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
+item: [Wacan Berry]
+ability: [Synchronize, Early Bird]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Feather Dance]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Grumpig
+setname: PWT-Tate Tournament
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
+item: [Ganlon Berry]
+ability: [Thick Fat, Own Tempo]
+moves:
+- [Psychic]
+- [Sleep Talk (=15)]
+- [Rest (=10)]
+- [Calm Mind (=10)]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Solrock
+setname: PWT-Tate Tournament
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
+item: [Liechi Berry]
+ability: [Levitate]
+moves:
+- [Zen Headbutt]
+- [Rock Slide]
+- [Fire Blast]
+- [Trick Room]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Claydol
+setname: PWT-Tate Tournament
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
+item: [Sitrus Berry]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Earth Power]
+- [Cosmic Power]
+- [Trick Room]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Chimecho
+setname: PWT-Tate Tournament
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
+item: [Colbur Berry]
+ability: [Levitate]
+moves:
+- [Hypnosis]
+- [Dream Eater]
+- [Energy Ball]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Tate Tournament
+tags: [in-game, PWT-Tate Tournament, trainer+tate]
+item: [Kasib Berry]
+ability: [Steadfast]
+moves:
+- [Psycho Cut]
+- [Stone Edge]
+- [Night Slash]
+- [Leaf Blade]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

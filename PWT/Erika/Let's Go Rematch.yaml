@@ -1,0 +1,100 @@
+---
+species: Tangela
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Giga Drain]
+- [Sludge Bomb]
+- [Reflect]
+- [Power Whip]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Parasect
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Solar Beam]
+- [Brick Break]
+- [Leech Life]
+- [Spore]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Solar Beam]
+- [Sludge Bomb]
+- [Hyper Beam]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Victreebel
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Power Whip]
+- [Poison Jab]
+- [Reflect]
+- [Swords Dance]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vileplume
+setname: PWT-Let's Go Erika Rematch
+tags: [in-game, PWT-Let's Go Erika Rematch, trainer+erika]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Psychic]
+- [Petal Dance]
+- [Sludge Bomb]
+- [Stun Spore]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

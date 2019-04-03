@@ -1,0 +1,120 @@
+---
+species: Victreebel
+setname: PWT-Erika2 Rematch
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
+item: [Kelpsy Berry]
+ability: [Chlorophyll]
+moves:
+- [Natural Gift]
+- [Sludge Bomb]
+- [Leaf Storm]
+- [Leaf Blade]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bellossom
+setname: PWT-Erika2 Rematch
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Sunny Day]
+- [Solar Beam]
+- [Giga Drain]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jumpluff
+setname: PWT-Erika2 Rematch
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [U-Turn]
+- [Memento]
+- [Sleep Powder]
+- [Giga Drain]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Shiftry
+setname: PWT-Erika2 Rematch
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Leaf Storm]
+- [Sucker Punch]
+- [Sunny Day]
+- [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Erika2 Rematch
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Weather Ball]
+- [Energy Ball]
+- [Sludge Bomb]
+- [Stun Spore]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tangrowth
+setname: PWT-Erika2 Rematch
+tags: [in-game, PWT-Erika2 Rematch, trainer+erika]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Swords Dance]
+- [Power Whip]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

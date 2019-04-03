@@ -1,0 +1,100 @@
+---
+species: Houndoom
+setname: PWT-Flannery Tournament2
+tags: [in-game, PWT-Flannery Tournament2, trainer+flannery]
+item: [Life Orb]
+ability: [Early Bird, Flash Fire]
+moves:
+- [Will-O-Wisp]
+- [Sucker Punch]
+- [Overheat]
+- [Flame Wheel]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Blaziken
+setname: PWT-Flannery Tournament2
+tags: [in-game, PWT-Flannery Tournament2, trainer+flannery]
+item: [Shuca Berry]
+ability: [Blaze]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Flame Wheel]
+- [High Jump Kick]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Camerupt
+setname: PWT-Flannery Tournament2
+tags: [in-game, PWT-Flannery Tournament2, trainer+flannery]
+item: [Passho Berry]
+ability: [Magma Armor, Solid Rock]
+moves:
+- [Will-O-Wisp]
+- [Flamethrower]
+- [Earth Power]
+- [Fissure]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Torkoal
+setname: PWT-Flannery Tournament2
+tags: [in-game, PWT-Flannery Tournament2, trainer+flannery]
+item: [Leftovers]
+ability: [White Smoke]
+moves:
+- [Overheat]
+- [Stone Edge]
+- [Earthquake]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Flannery Tournament2
+tags: [in-game, PWT-Flannery Tournament2, trainer+flannery]
+item: [Shuca Berry]
+ability: [Flame Body]
+moves:
+- [Psychic]
+- [Flame Wheel]
+- [Thunderbolt]
+- [Fire Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

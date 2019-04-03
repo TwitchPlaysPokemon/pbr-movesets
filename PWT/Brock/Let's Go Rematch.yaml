@@ -1,0 +1,100 @@
+---
+species: Onix
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [null]
+moves:
+- [Stealth Rock]
+- [Iron Tail]
+- [Rock Slide]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Kabutops
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [null]
+moves:
+- [X-Scissor]
+- [Rock Slide]
+- [Aqua Jet]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Omastar
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [null]
+moves:
+- [Blizzard]
+- [Hydro Pump]
+- [Seismic Toss]
+- [Reflect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [null]
+moves:
+- [Crunch]
+- [Rock Slide]
+- [Earthquake]
+- [Iron Tail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Let's Go Brock Rematch
+tags: [in-game, PWT-Let's Go Brock Rematch, trainer+brock]
+item: [null]
+ability: [null]
+moves:
+- [Earthquake]
+- [Rock Slide]
+- [Fire Punch]
+- [Thunder Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

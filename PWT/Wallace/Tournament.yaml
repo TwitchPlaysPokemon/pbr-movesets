@@ -1,0 +1,119 @@
+---
+species: Starmie
+setname: PWT-Wallace Tournament
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
+item: [Expert Belt]
+ability: [Illuminate, Natural Cure]
+moves:
+- [Surf]
+- [Psychic]
+- [Thunderbolt]
+- [Signal Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Swampert
+setname: PWT-Wallace Tournament
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
+item: [Rindo Berry]
+ability: [Torrent]
+moves:
+- [Muddy Water]
+- [Earth Power]
+- [Ice Beam]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Wallace Tournament
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
+item: [Life Orb]
+ability: [Swift Swim, Rain Dish]
+moves:
+- [Surf]
+- [Focus Blast]
+- [Giga Drain]
+- [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Sharpedo
+setname: PWT-Wallace Tournament
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
+item: [Focus Sash]
+ability: [Rough Skin]
+moves:
+- [Hydro Pump]
+- [Crunch]
+- [Zen Headbutt]
+- [Aqua Jet]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Wallace Tournament
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
+item: [Jaboca Berry]
+ability: [Marvel Scale]
+moves:
+- [Surf]
+- [Icy Wind]
+- [Rest]
+- [Sleep Talk]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Walrein
+setname: PWT-Wallace Tournament
+tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
+item: [Leftovers]
+ability: [Thick Fat, Ice Body]
+moves:
+- [Surf]
+- [Yawn]
+- [Blizzard]
+- [Sheer Cold]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

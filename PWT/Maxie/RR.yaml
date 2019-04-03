@@ -1,0 +1,99 @@
+---
+species: Weezing
+setname: PWT-Maxie RR
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
+ability: [Levitate]
+moves:
+- [Sludge Bomb]
+- [Thunderbolt]
+- [Shadow Ball]
+- [Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Maxie RR
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Air Slash]
+- [Toxic]
+- [Dark Pulse]
+- [Sludge Bomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mightyena
+setname: PWT-Maxie RR
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Crunch]
+- [Fire Fang]
+- [Thunder Fang]
+- [Ice Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Camerupt
+setname: PWT-Maxie RR
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
+ability: [Magma Armor]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Flamethrower]
+- [Flash Cannon]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Groudon
+setname: PWT-Maxie RR
+tags: [in-game, PWT-Maxie RR, trainer+maxie]
+item: [null]
+ability: [Drought]
+moves:
+- [Earthquake]
+- [Flamethrower]
+- [Ancient Power]
+- [Solar Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

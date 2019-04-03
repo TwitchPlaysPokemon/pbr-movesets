@@ -1,0 +1,120 @@
+---
+species: Arcanine
+setname: PWT-Blue Tournament
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
+item: [Expert Belt]
+ability: [Intimidate, Flash Fire]
+moves:
+- [Flare Blitz]
+- [Close Combat]
+- [Volt Tackle]
+- [Extreme Speed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Blue Tournament
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
+item: [Focus Sash]
+ability: [Synchronize, Inner Focus]
+moves:
+- [Psychic]
+- [Focus Blast]
+- [Shadow Ball]
+- [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Blue Tournament
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
+item: [White Herb]
+ability: [Guts, No Guard]
+moves:
+- [Superpower]
+- [Stone Edge]
+- [Fire Punch]
+- [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Blue Tournament
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
+item: [Life Orb]
+ability: [Chlorophyll]
+moves:
+- [Leaf Storm]
+- [Wood Hammer]
+- [Zen Headbutt]
+- [Leech Seed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Blue Tournament
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
+item: [King's Rock]
+ability: [Intimidate]
+moves:
+- [Waterfall]
+- [Earthquake]
+- [Ice Fang]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Blue Tournament
+tags: [in-game, PWT-Blue Tournament, trainer+blue]
+item: [Choice Band]
+ability: [Rock Head, Pressure]
+moves:
+- [Stone Edge]
+- [Earthquake]
+- [Ice Fang]
+- [Fire Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

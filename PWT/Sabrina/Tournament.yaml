@@ -1,0 +1,120 @@
+---
+species: Alakazam
+setname: PWT-Sabrina Tournament
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
+item: [Colbur Berry]
+ability: [Synchronize, Inner Focus]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Focus Blast]
+- [Charge Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hypno
+setname: PWT-Sabrina Tournament
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
+item: [Sitrus Berry]
+ability: [Insomnia, Forewarn]
+moves:
+- [Hypnosis]
+- [Dream Eater]
+- [Calm Mind]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+setname: PWT-Sabrina Tournament
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
+item: [Kasib Berry]
+ability: [Soundproof, Filter]
+moves:
+- [Psychic]
+- [Light Screen]
+- [Charge Beam]
+- [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Sabrina Tournament
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
+item: [Salac Berry]
+ability: [Oblivious, Forewarn]
+moves:
+- [Lovely Kiss]
+- [Dream Eater]
+- [Icy Wind]
+- [Energy Ball]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Sabrina Tournament
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
+item: [Petaya Berry]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Reflect]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 0
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Slowking
+setname: PWT-Sabrina Tournament
+tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
+item: [Ganlon Berry]
+ability: [Oblivious, Own Tempo]
+moves:
+- [Psychic]
+- [Ice Beam]
+- [Calm Mind]
+- [Slack Off]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+level: 100
+rarity: 1.0

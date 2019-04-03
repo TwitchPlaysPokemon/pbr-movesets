@@ -1,0 +1,120 @@
+---
+species: Venusaur
+setname: PWT-Red Tournament
+tags: [in-game, PWT-Red Tournament, trainer+red]
+item: [White Herb]
+ability: [Overgrow]
+moves:
+- [Leaf Storm]
+- [Sludge Bomb]
+- [Earthquake]
+- [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Red Tournament
+tags: [in-game, PWT-Red Tournament, trainer+red]
+item: [Focus Sash]
+ability: [Blaze]
+moves:
+- [Fire Blast]
+- [Focus Blast]
+- [Air Slash]
+- [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Red Tournament
+tags: [in-game, PWT-Red Tournament, trainer+red]
+item: [Choice Scarf]
+ability: [Torrent]
+moves:
+- [Water Spout]
+- [Hydro Pump]
+- [Blizzard]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Pikachu
+setname: PWT-Red Tournament
+tags: [in-game, PWT-Red Tournament, trainer+red]
+item: [Light Ball]
+ability: [Static]
+moves:
+- [Volt Tackle]
+- [Iron Tail]
+- [Brick Break]
+- [Fake Out]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Red Tournament
+tags: [in-game, PWT-Red Tournament, trainer+red]
+item: [Sitrus Berry]
+ability: [Water Absorb, Shell Armor]
+moves:
+- [Ice Beam]
+- [Hydro Pump]
+- [Ice Shard]
+- [Thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Red Tournament
+tags: [in-game, PWT-Red Tournament, trainer+red]
+item: [Quick Claw]
+ability: [Immunity, Thick Fat]
+moves:
+- [Body Slam]
+- [Earthquake]
+- [Crunch]
+- [Seed Bomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,100 @@
+---
+species: Poliwrath
+setname: PWT-Chuck Tournament2
+tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
+item: [Sitrus Berry]
+ability: [Water Absorb, Damp]
+moves:
+- [Belly Drum]
+- [Hypnosis]
+- [Rock Slide]
+- [Waterfall]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Chuck Tournament2
+tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
+item: [Choice Band]
+ability: [Guts, No Guard]
+moves:
+- [Ice Punch]
+- [Stone Edge]
+- [Dynamic Punch]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Chuck Tournament2
+tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
+item: [Life Orb]
+ability: [Limber, Reckless]
+moves:
+- [Magnitude]
+- [Fake Out]
+- [High Jump Kick]
+- [Stone Edge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Chuck Tournament2
+tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
+item: [Leftovers]
+ability: [Keen Eye, Iron Fist]
+moves:
+- [Double Team]
+- [Ice Punch]
+- [Drain Punch]
+- [Thunder Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Chuck Tournament2
+tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
+item: [Wide Lens]
+ability: [Intimidate, Technician]
+moves:
+- [Triple Kick]
+- [Feint]
+- [Mach Punch]
+- [Bullet Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

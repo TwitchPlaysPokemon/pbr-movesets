@@ -1,0 +1,99 @@
+---
+species: Ursaring
+setname: PWT-Riley
+tags: [in-game, PWT-Riley, trainer+riley]
+item: [null]
+ability: [Guts]
+moves:
+- [Slash]
+- [Avalanche]
+- [Shadow Claw]
+- [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Absol
+setname: PWT-Riley
+tags: [in-game, PWT-Riley, trainer+riley]
+item: [null]
+ability: [Pressure]
+moves:
+- [Swords Dance]
+- [Night Slash]
+- [Psycho Cut]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Riley
+tags: [in-game, PWT-Riley, trainer+riley]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Dragon Claw]
+- [Crunch]
+- [Fire Fang]
+- [Thunder Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Riley
+tags: [in-game, PWT-Riley, trainer+riley]
+item: [null]
+ability: [Clear Body]
+moves:
+- [Meteor Mash]
+- [Zen Headbutt]
+- [Hammer Arm]
+- [Bullet Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Riley
+tags: [in-game, PWT-Riley, trainer+riley]
+item: [null]
+ability: [Steadfast]
+moves:
+- [Close Combat]
+- [Earthquake]
+- [Extreme Speed]
+- [Bone Rush]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

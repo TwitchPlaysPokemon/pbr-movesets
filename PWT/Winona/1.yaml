@@ -1,0 +1,120 @@
+---
+species: Skarmory
+setname: PWT-Winona
+tags: [in-game, PWT-Winona, trainer+winona]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Sand Attack]
+- [Fury Attack]
+- [Steel Wing]
+- [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Swellow
+setname: PWT-Winona
+tags: [in-game, PWT-Winona, trainer+winona]
+item: [null]
+ability: [Guts]
+moves:
+- [Quick Attack]
+- [Aerial Ace]
+- [Double Team]
+- [Endeavor]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pelipper
+setname: PWT-Winona
+tags: [in-game, PWT-Winona, trainer+winona]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Water Gun]
+- [Supersonic]
+- [Protect]
+- [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Swablu
+setname: PWT-Winona
+tags: [in-game, PWT-Winona, trainer+winona]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Perish Song]
+- [Mirror Move]
+- [Safeguard]
+- [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Winona
+tags: [in-game, PWT-Winona, trainer+winona]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Earthquake]
+- [Dragon Breath]
+- [Dragon Dance]
+- [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tropius
+setname: PWT-Winona
+tags: [in-game, PWT-Winona, trainer+winona]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Sunny Day]
+- [Aerial Ace]
+- [Solar Beam]
+- [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

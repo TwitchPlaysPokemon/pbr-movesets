@@ -1,0 +1,140 @@
+---
+species: Pidgeot
+setname: PWT-Let's Go Trace Rematch
+tags: [in-game, PWT-Let's Go Trace Rematch, trainer+trace]
+item: [Everstone]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Air Slash]
+- [Heat Wave]
+- [U-Turn]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vileplume
+setname: PWT-Let's Go Trace Rematch
+tags: [in-game, PWT-Let's Go Trace Rematch, trainer+trace]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Solar Beam]
+- [Reflect]
+- [Sludge Bomb]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Marowak
+setname: PWT-Let's Go Trace Rematch
+tags: [in-game, PWT-Let's Go Trace Rematch, trainer+trace]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Brick Break]
+- [Earthquake]
+- [Fire Punch]
+- [Thunder Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Let's Go Trace Rematch
+tags: [in-game, PWT-Let's Go Trace Rematch, trainer+trace]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Poison Jab]
+- [Magnitude]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Let's Go Trace Rematch
+tags: [in-game, PWT-Let's Go Trace Rematch, trainer+trace]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Psychic]
+- [Surf]
+- [Blizzard]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Let's Go Trace Rematch
+tags: [in-game, PWT-Let's Go Trace Rematch, trainer+trace]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunder]
+- [Quick Attack]
+- [Pin Missile]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Let's Go Trace Rematch
+tags: [in-game, PWT-Let's Go Trace Rematch, trainer+trace]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Brick Break]
+- [Quick Attack]
+- [Thunder]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,60 @@
+---
+species: Cradily
+setname: PWT-Olivia
+tags: [in-game, PWT-Olivia, trainer+olivia]
+item: [null]
+ability: [Suction Cups]
+moves:
+- [Stone Edge]
+- [Seed Bomb]
+- [Sludge Bomb]
+- [Earth Power]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Armaldo
+setname: PWT-Olivia
+tags: [in-game, PWT-Olivia, trainer+olivia]
+item: [null]
+ability: [Battle Armor]
+moves:
+- [Crush Claw]
+- [X-Scissor]
+- [Stone Edge]
+- [Waterfall]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Probopass
+setname: PWT-Olivia
+tags: [in-game, PWT-Olivia, trainer+olivia]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Earth Power]
+- [Power Gem]
+- [Psychic]
+- [Flash Cannon]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,60 @@
+---
+species: Purugly
+setname: PWT-Nita
+tags: [in-game, PWT-Nita, trainer+nita]
+item: [Big Root]
+ability: [Thick Fat, Own Tempo]
+gender: [m, f]
+moves:
+- [Hypnosis]
+- [Dream Eater]
+- [Shadow Ball]
+- [Hyper Voice]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Wigglytuff
+setname: PWT-Nita
+tags: [in-game, PWT-Nita, trainer+nita]
+item: [Shell Bell]
+ability: [Cute Charm]
+gender: [m, f]
+moves:
+- [Confusion]
+- [Hyper Voice]
+- [Focus Blast]
+- [Thunderbolt]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Grumpig
+setname: PWT-Nita
+tags: [in-game, PWT-Nita, trainer+nita]
+item: [Wise Glasses]
+ability: [Thick Fat, Own Tempo]
+gender: [m, f]
+moves:
+- [Psychic]
+- [Energy Ball]
+- [Shadow Ball]
+- [Power Gem]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

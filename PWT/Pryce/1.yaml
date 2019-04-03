@@ -1,0 +1,60 @@
+---
+species: Seel
+setname: PWT-Pryce
+tags: [in-game, PWT-Pryce, trainer+pryce]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Icy Wind]
+- [Rest]
+- [Snore]
+- [Hail]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dewgong
+setname: PWT-Pryce
+tags: [in-game, PWT-Pryce, trainer+pryce]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Aurora Beam]
+- [Rest]
+- [Sleep Talk]
+- [Ice Shard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Piloswine
+setname: PWT-Pryce
+tags: [in-game, PWT-Pryce, trainer+pryce]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Blizzard]
+- [Ice Fang]
+- [Mud Bomb]
+- [Hail]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

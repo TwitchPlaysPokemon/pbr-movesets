@@ -1,0 +1,80 @@
+---
+species: Combusken
+setname: PWT-May
+tags: [in-game, PWT-May, trainer+may]
+item: [null]
+ability: [Blaze]
+moves:
+- [Peck]
+- [Sand Attack]
+- [Bulk Up]
+- [Quick Attack]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-May
+tags: [in-game, PWT-May, trainer+may]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Astonish]
+- [Growl]
+- [Absorb]
+- [Nature Power]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pelipper
+setname: PWT-May
+tags: [in-game, PWT-May, trainer+may]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Wing Attack]
+- [Supersonic]
+- [Mist]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tropius
+setname: PWT-May
+tags: [in-game, PWT-May, trainer+may]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Stomp]
+- [Sweet Scent]
+- [Whirlwind]
+- [Magical Leaf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

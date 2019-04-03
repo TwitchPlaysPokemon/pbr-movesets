@@ -1,0 +1,320 @@
+---
+species: Wigglytuff
+displayname: Guildmaster
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Cute Charm, Huge Power]
+gender: [m]
+moves:
+- [Sing]
+- [Disable]
+- [Defense Curl]
+- [Double Slap]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Chatot
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Keen Eye]
+gender: [m]
+moves:
+- [Hyper Voice, Feather Dance, Uproar, Roost, Mimic, Taunt, Chatter, Fury Attack,
+  Sing, Mirror Move, Growl, Peck]
+- [Hyper Voice, Feather Dance, Uproar, Roost, Mimic, Taunt, Chatter, Fury Attack,
+  Sing, Mirror Move, Growl, Peck]
+- [Hyper Voice, Feather Dance, Uproar, Roost, Mimic, Taunt, Chatter, Fury Attack,
+  Sing, Mirror Move, Growl, Peck]
+- [Hyper Voice, Feather Dance, Uproar, Roost, Mimic, Taunt, Chatter, Fury Attack,
+  Sing, Mirror Move, Growl, Peck]
+separations:
+- [Hyper Voice, Hyper Voice]
+- [Feather Dance, Feather Dance]
+- [Uproar, Uproar]
+- [Roost, Roost]
+- [Mimic, Mimic]
+- [Taunt, Taunt]
+- [Chatter, Chatter]
+- [Fury Attack, Fury Attack]
+- [Sing, Sing]
+- [Mirror Move, Mirror Move]
+- [Growl, Growl]
+- [Peck, Peck]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Loudred
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Keen Eye]
+gender: [m]
+moves:
+- [Stomp, Supersonic, Bite, Howl, Astonish, Uproar, Pound]
+- [Stomp, Supersonic, Bite, Howl, Astonish, Uproar, Pound]
+- [Stomp, Supersonic, Bite, Howl, Astonish, Uproar, Pound]
+- [Stomp, Supersonic, Bite, Howl, Astonish, Uproar, Pound]
+separations:
+- [Stomp, Stomp]
+- [Supersonic, Supersonic]
+- [Bite, Bite]
+- [Howl, Howl]
+- [Astonish, Astonish]
+- [Uproar, Uproar]
+- [Pound, Pound]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sunflora
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Solar Power]
+gender: [f]
+moves:
+- [Petal Dance, Razor Leaf, Worry Seed, Bullet Seed, Leech Seed, Grasswhistle, Ingrain,
+  Mega Drain, Growth, Pound, Absorb]
+- [Petal Dance, Razor Leaf, Worry Seed, Bullet Seed, Leech Seed, Grasswhistle, Ingrain,
+  Mega Drain, Growth, Pound, Absorb]
+- [Petal Dance, Razor Leaf, Worry Seed, Bullet Seed, Leech Seed, Grasswhistle, Ingrain,
+  Mega Drain, Growth, Pound, Absorb]
+- [Petal Dance, Razor Leaf, Worry Seed, Bullet Seed, Leech Seed, Grasswhistle, Ingrain,
+  Mega Drain, Growth, Pound, Absorb]
+separations:
+- [Petal Dance, Petal Dance]
+- [Razor Leaf, Razor Leaf]
+- [Worry Seed, Worry Seed]
+- [Bullet Seed, Bullet Seed]
+- [Leech Seed, Leech Seed]
+- [Grasswhistle, Grasswhistle]
+- [Ingrain, Ingrain]
+- [Mega Drain, Mega Drain]
+- [Growth, Growth]
+- [Pound, Pound]
+- [Absorb, Absorb]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Corphish
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Shell Armor]
+gender: [m]
+moves:
+- [Night Slash, Taunt, Knock Off, Protect, Bubblebeam, Leer, Vice Grip, Harden, Bubble]
+- [Night Slash, Taunt, Knock Off, Protect, Bubblebeam, Leer, Vice Grip, Harden, Bubble]
+- [Night Slash, Taunt, Knock Off, Protect, Bubblebeam, Leer, Vice Grip, Harden, Bubble]
+- [Night Slash, Taunt, Knock Off, Protect, Bubblebeam, Leer, Vice Grip, Harden, Bubble]
+separations:
+- [Night Slash, Night Slash]
+- [Taunt, Taunt]
+- [Knock Off, Knock Off]
+- [Protect, Protect]
+- [Bubblebeam, Bubblebeam]
+- [Leer, Leer]
+- [Vice Grip, Vice Grip]
+- [Harden, Harden]
+- [Bubble, Bubble]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Diglett
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Sand Veil]
+gender: [m]
+moves:
+- [Slash, Mud Bomb, Earth Power, Sucker Punch, Dig, Mud-Slap, Magnitude, Astonish,
+  Growl, Sand Attack, Scratch]
+- [Slash, Mud Bomb, Earth Power, Sucker Punch, Dig, Mud-Slap, Magnitude, Astonish,
+  Growl, Sand Attack, Scratch]
+- [Slash, Mud Bomb, Earth Power, Sucker Punch, Dig, Mud-Slap, Magnitude, Astonish,
+  Growl, Sand Attack, Scratch]
+- [Slash, Mud Bomb, Earth Power, Sucker Punch, Dig, Mud-Slap, Magnitude, Astonish,
+  Growl, Sand Attack, Scratch]
+separations:
+- [Slash, Slash]
+- [Mud Bomb, Mud Bomb]
+- [Earth Power, Earth Power]
+- [Sucker Punch, Sucker Punch]
+- [Dig, Dig]
+- [Mud-Slap, Mud-Slap]
+- [Magnitude, Magnitude]
+- [Astonish, Astonish]
+- [Growl, Growl]
+- [Sand Attack, Sand Attack]
+- [Scratch, Scratch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dugtrio
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Sand Veil]
+gender: [m]
+moves:
+- [Mud Bomb, Earth Power, Sand Tomb, Sucker Punch, Dig, Mud-Slap, Magnitude, Astonish,
+  Growl, Sand Attack, Scratch, Tri Attack, Night Slash]
+- [Mud Bomb, Earth Power, Sand Tomb, Sucker Punch, Dig, Mud-Slap, Magnitude, Astonish,
+  Growl, Sand Attack, Scratch, Tri Attack, Night Slash]
+- [Mud Bomb, Earth Power, Sand Tomb, Sucker Punch, Dig, Mud-Slap, Magnitude, Astonish,
+  Growl, Sand Attack, Scratch, Tri Attack, Night Slash]
+- [Mud Bomb, Earth Power, Sand Tomb, Sucker Punch, Dig, Mud-Slap, Magnitude, Astonish,
+  Growl, Sand Attack, Scratch, Tri Attack, Night Slash]
+separations:
+- [Mud Bomb, Mud Bomb]
+- [Earth Power, Earth Power]
+- [Sucker Punch, Sucker Punch]
+- [Dig, Dig]
+- [Mud-Slap, Mud-Slap]
+- [Magnitude, Magnitude]
+- [Astonish, Astonish]
+- [Growl, Growl]
+- [Sand Attack, Sand Attack]
+- [Scratch, Scratch]
+- [Tri Attack, Tri Attack]
+- [Night Slash, Night Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Croagunk
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Anticipation]
+gender: [m]
+moves:
+- [Sucker Punch, Mud Bomb, Swagger, Revenge, Feint Attack, Pursuit, Taunt, Poison
+    Sting, Mud-Slap, Astonish]
+- [Sucker Punch, Mud Bomb, Swagger, Revenge, Feint Attack, Pursuit, Taunt, Poison
+    Sting, Mud-Slap, Astonish]
+- [Sucker Punch, Mud Bomb, Swagger, Revenge, Feint Attack, Pursuit, Taunt, Poison
+    Sting, Mud-Slap, Astonish]
+- [Sucker Punch, Mud Bomb, Swagger, Revenge, Feint Attack, Pursuit, Taunt, Poison
+    Sting, Mud-Slap, Astonish]
+separations:
+- [Sucker Punch, Sucker Punch]
+- [Mud Bomb, Mud Bomb]
+- [Swagger, Swagger]
+- [Revenge, Revenge]
+- [Feint Attack, Feint Attack]
+- [Pursuit, Pursuit]
+- [Taunt, Taunt]
+- [Poison Sting, Poison Sting]
+- [Mud-Slap, Mud-Slap]
+- [Astonish, Astonish]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Chimecho
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Levitate]
+gender: [f]
+moves:
+- [Double Edge, Psywave, Yawn, Take Down, Uproar, Confusion, Astonish, Growl, Wrap]
+- [Double Edge, Psywave, Yawn, Take Down, Uproar, Confusion, Astonish, Growl, Wrap]
+- [Double Edge, Psywave, Yawn, Take Down, Uproar, Confusion, Astonish, Growl, Wrap]
+- [Double Edge, Psywave, Yawn, Take Down, Uproar, Confusion, Astonish, Growl, Wrap]
+separations:
+- [Double Edge, Double Edge]
+- [Psywave, Psywave]
+- [Yawn, Yawn]
+- [Take Down, Take Down]
+- [Uproar, Uproar]
+- [Confusion, Confusion]
+- [Astonish, Astonish]
+- [Growl, Growl]
+- [Wrap, Wrap]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bidoof
+setname: PWT-Wigglytuff's Guild
+tags: [in-game, PWT-Wigglytuff, trainer+wigglytuff]
+item: [null]
+ability: [Unaware, Simple]
+gender: [m]
+moves:
+- [Take Down, Amnesia, Yawn, Hyper Fang, Headbutt, Rollout, Defense Curl, Growl, Tackle]
+- [Take Down, Amnesia, Yawn, Hyper Fang, Headbutt, Rollout, Defense Curl, Growl, Tackle]
+- [Take Down, Amnesia, Yawn, Hyper Fang, Headbutt, Rollout, Defense Curl, Growl, Tackle]
+- [Take Down, Amnesia, Yawn, Hyper Fang, Headbutt, Rollout, Defense Curl, Growl, Tackle]
+separations:
+- [Take Down, Take Down]
+- [Amnesia, Amnesia]
+- [Yawn, Yawn]
+- [Hyper Fang, Hyper Fang]
+- [Headbutt, Headbutt]
+- [Rollout, Rollout]
+- [Defense Curl, Defense Curl]
+- [Growl, Growl]
+- [Tackle, Tackle]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,100 @@
+---
+species: Slowbro
+setname: PWT-Will
+tags: [in-game, PWT-Will, trainer+will]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Curse]
+- [Amnesia]
+- [Water Pulse]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Will
+tags: [in-game, PWT-Will, trainer+will]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Reflect]
+- [Hypnosis]
+- [Egg Bomb]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Will
+tags: [in-game, PWT-Will, trainer+will]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Lovely Kiss]
+- [Double Slap]
+- [Ice Punch]
+- [Psychic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Will
+tags: [in-game, PWT-Will, trainer+will]
+item: [null]
+ability: [Synchronize]
+moves:
+- [U-Turn]
+- [Me First]
+- [Confuse Ray]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Will-2
+tags: [in-game, PWT-Will, trainer+will]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Confuse Ray]
+- [Ominous Wind]
+- [Aerial Ace]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

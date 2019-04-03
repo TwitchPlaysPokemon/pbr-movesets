@@ -1,0 +1,118 @@
+---
+species: Raichu
+setname: PWT-Volkner Tournament2
+tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
+item: [Miracle Seed]
+ability: [Static]
+moves:
+- [Focus Blast]
+- [Grass Knot]
+- [Charge]
+- [Thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Volkner Tournament2
+tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
+item: [Magnet]
+ability: [Soundproof, Static]
+moves:
+- [Taunt]
+- [Torment]
+- [Thunder]
+- [Signal Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Volkner Tournament2
+tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
+item: [Shuca Berry]
+ability: [Volt Absorb]
+moves:
+- [Shadow Ball]
+- [Charm]
+- [Thunderbolt]
+- [Wish]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Luxray
+setname: PWT-Volkner Tournament2
+tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
+item: [Liechi Berry]
+ability: [Rivalry, Intimidate]
+moves:
+- [Superpower]
+- [Crunch]
+- [Volt Tackle]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Volkner Tournament2
+tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
+item: [Salac Berry]
+ability: [Motor Drive]
+moves:
+- [Cross Chop]
+- [Magnitude]
+- [Volt Tackle]
+- [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rotom
+setname: PWT-Volkner Tournament2
+tags: [in-game, PWT-Volkner Tournament2, trainer+volkner]
+item: [King's Rock]
+ability: [Levitate]
+moves:
+- [Substitute]
+- [Pain Split]
+- [Discharge]
+- [Air Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

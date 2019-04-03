@@ -1,0 +1,80 @@
+---
+species: Nidoqueen
+setname: PWT-Giovanni Tohjo
+tags: [in-game, PWT-Giovanni Tohjo, trainer+giovannitohjo]
+item: [null]
+ability: [Poison Point]
+moves:
+- [Crunch]
+- [Roar]
+- [Earth Power]
+- [Superpower]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nidoking
+setname: PWT-Giovanni Tohjo
+tags: [in-game, PWT-Giovanni Tohjo, trainer+giovannitohjo]
+item: [null]
+ability: [Poison Point]
+moves:
+- [Shadow Claw]
+- [Focus Energy]
+- [Fury Attack]
+- [Double Kick]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kangaskhan
+setname: PWT-Giovanni Tohjo
+tags: [in-game, PWT-Giovanni Tohjo, trainer+giovannitohjo]
+item: [null]
+ability: [Scrappy]
+moves:
+- [Outrage]
+- [Leer]
+- [Sucker Punch]
+- [Dizzy Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Giovanni Tohjo
+tags: [in-game, PWT-Giovanni Tohjo, trainer+giovannitohjo]
+item: [null]
+ability: [Super Luck]
+moves:
+- [Nasty Plot]
+- [Swagger]
+- [Dark Pulse]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

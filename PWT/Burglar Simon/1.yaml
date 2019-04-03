@@ -1,0 +1,120 @@
+---
+species: Ninetales
+setname: PWT-Burglar Simon
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
+item: [Sitrus Berry]
+ability: [null]
+moves:
+- [Dark Pulse]
+- [Nasty Plot]
+- [Fire Blast]
+- [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Burglar Simon
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
+item: [Persim Berry]
+ability: [null]
+moves:
+- [Roar]
+- [Sunny Day]
+- [Flamethrower]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Muk
+setname: PWT-Burglar Simon
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
+item: [Charcoal]
+ability: [null]
+moves:
+- [Rest]
+- [Sleep Talk]
+- [Gunk Shot]
+- [Fire Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Burglar Simon
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
+item: [Leftovers]
+ability: [null]
+moves:
+- [Sludge Bomb]
+- [Will-O-Wisp]
+- [Protect]
+- [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Murkrow
+setname: PWT-Burglar Simon
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
+item: [Sharp Beak]
+ability: [null]
+moves:
+- [Drill Peck]
+- [Dark Pulse]
+- [Perish Song]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Burglar Simon
+tags: [in-game, PWT-Burglar Simon, trainer+burglarsimon]
+item: [Blackglasses]
+ability: [null]
+moves:
+- [Nasty Plot]
+- [Dark Pulse]
+- [Heat Wave]
+- [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

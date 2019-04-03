@@ -1,0 +1,120 @@
+---
+species: Charizard
+setname: PWT-Blaine Tournament
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
+item: [Dragon Fang]
+ability: [Blaze]
+moves:
+- [Magma Storm]
+- [Dragon Rush]
+- [Focus Blast]
+- [Sharpen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Blaine Tournament
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
+item: [Charti Berry]
+ability: [Flash Fire]
+moves:
+- [Heat Wave]
+- [Energy Ball]
+- [Hypnosis]
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blaine Tournament
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
+item: [Liechi Berry]
+ability: [Intimidate, Flash Fire]
+moves:
+- [Flare Blitz]
+- [Volt Tackle]
+- [Close Combat]
+- [Extreme Speed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Blaine Tournament
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
+item: [Shuca Berry]
+ability: [Run Away, Flash Fire]
+moves:
+- [Flare Blitz]
+- [Megahorn]
+- [Volt Tackle]
+- [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Blaine Tournament
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
+item: [Salac Berry]
+ability: [Flash Fire]
+moves:
+- [Flame Wheel]
+- [Superpower]
+- [Flail]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Blaine Tournament
+tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
+item: [Petaya Berry]
+ability: [Flame Body]
+moves:
+- [Fire Blast]
+- [Psychic]
+- [Thunderbolt]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

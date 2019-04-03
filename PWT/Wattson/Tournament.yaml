@@ -1,0 +1,118 @@
+---
+species: Raichu
+setname: PWT-Wattson Tournament
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
+item: [Liechi Berry]
+ability: [Static]
+moves:
+- [Return]
+- [Volt Tackle]
+- [Knock Off]
+- [Brick Break]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Wattson Tournament
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
+item: [Shuca Berry]
+ability: [Soundproof, Static]
+moves:
+- [Light Screen]
+- [Charge Beam]
+- [Double Team]
+- [Signal Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Manectric
+setname: PWT-Wattson Tournament
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
+item: [Petaya Berry]
+ability: [Static, Lightning Rod]
+moves:
+- [Thunderbolt]
+- [Charge]
+- [Flamethrower]
+- [Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Plusle
+setname: PWT-Wattson Tournament
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
+item: [Salac Berry]
+ability: [Plus]
+moves:
+- [Discharge]
+- [Agility]
+- [Nasty Plot]
+- [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Minun
+setname: PWT-Wattson Tournament
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
+item: [Magnet]
+ability: [Minus]
+moves:
+- [Fake Tears]
+- [Thunder Wave]
+- [Thunderbolt]
+- [Charm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Wattson Tournament
+tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
+item: [Shuca Berry]
+ability: [Sturdy, Magnet Pull]
+moves:
+- [Discharge]
+- [Magnet Rise]
+- [Tri Attack]
+- [Metal Sound]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

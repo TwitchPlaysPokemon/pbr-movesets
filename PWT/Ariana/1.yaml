@@ -1,0 +1,60 @@
+---
+species: Arbok
+setname: PWT-Ariana
+tags: [in-game, PWT-Ariana, trainer+ariana]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Glare]
+- [Crunch]
+- [Wrap]
+- [Poison Sting]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Vileplume
+setname: PWT-Ariana
+tags: [in-game, PWT-Ariana, trainer+ariana]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Sweet Scent]
+- [Mega Drain]
+- [Acid]
+- [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Murkrow
+setname: PWT-Ariana
+tags: [in-game, PWT-Ariana, trainer+ariana]
+item: [null]
+ability: [Super Luck]
+moves:
+- [Night Shade]
+- [Wing Attack]
+- [Astonish]
+- [Pursuit]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

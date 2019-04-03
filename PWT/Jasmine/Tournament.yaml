@@ -1,0 +1,118 @@
+---
+species: Forretress
+setname: PWT-Jasmine Tournament
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
+item: [Occa Berry]
+ability: [Sturdy]
+moves:
+- [Earthquake]
+- [Zap Cannon]
+- [Gravity]
+- [Gyro Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Jasmine Tournament
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
+item: [Metal Coat]
+ability: [Rock Head, Sturdy]
+moves:
+- [Curse]
+- [Stone Edge]
+- [Earthquake]
+- [Gyro Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Skarmory
+setname: PWT-Jasmine Tournament
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
+item: [Salac Berry]
+ability: [Keen Eye, Sturdy]
+moves:
+- [Swords Dance (=5)]
+- [Stealth Rock (=5)]
+- [Roost]
+- [Brave Bird]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mawile
+setname: PWT-Jasmine Tournament
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
+item: [BlackGlasses]
+ability: [Hyper Cutter, Intimidate]
+moves:
+- [Swords Dance]
+- [Super Fang]
+- [Sucker Punch]
+- [Iron Head]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Jasmine Tournament
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
+item: [Liechi Berry]
+ability: [Clear Body]
+moves:
+- [Earthquake]
+- [Gravity]
+- [Meteor Mash]
+- [Bullet Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Jasmine Tournament
+tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
+item: [Shuca Berry]
+ability: [Magnet Pull, Sturdy]
+moves:
+- [Flash Cannon]
+- [Zap Cannon]
+- [Gravity]
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,118 @@
+---
+species: Raichu
+setname: PWT-Wattson Rematch
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder]
+- [Slam]
+- [Rain Dance]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magneton
+setname: PWT-Wattson Rematch
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Supersonic]
+- [Protect]
+- [Thunder]
+- [Rain Dance]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Wattson Rematch
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
+ability: [Soundproof]
+moves:
+- [Rollout]
+- [Thunder]
+- [Explosion]
+- [Rain Dance]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electabuzz
+setname: PWT-Wattson Rematch
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
+ability: [Static]
+moves:
+- [Swift]
+- [Focus Punch]
+- [Thunder Punch]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ampharos
+setname: PWT-Wattson Rematch
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder]
+- [Protect]
+- [Thunder Wave]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Manectric
+setname: PWT-Wattson Rematch
+tags: [in-game, PWT-Wattson Rematch, trainer+wattson]
+item: [null]
+ability: [Static]
+moves:
+- [Bite]
+- [Thunder Wave]
+- [Thunder]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

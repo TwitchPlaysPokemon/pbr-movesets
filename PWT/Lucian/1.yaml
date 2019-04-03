@@ -1,0 +1,99 @@
+---
+species: Alakazam
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Energy Ball]
+- [Focus Blast]
+- [Recover]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
+ability: [Soundproof]
+moves:
+- [Psychic]
+- [Thunderbolt]
+- [Reflect]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Quick Attack]
+- [Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Gyro Ball]
+- [Earthquake]
+- [Calm Mind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
+ability: [Steadfast]
+moves:
+- [Drain Punch]
+- [Psycho Cut]
+- [Leaf Blade]
+- [Stone Edge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

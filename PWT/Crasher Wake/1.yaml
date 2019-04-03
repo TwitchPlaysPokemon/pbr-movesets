@@ -1,0 +1,60 @@
+---
+species: Gyarados
+setname: PWT-Crasher Wake
+tags: [in-game, PWT-Crasher Wake, trainer+crasherwake]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Brine]
+- [Waterfall]
+- [Bite]
+- [Twister]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Crasher Wake
+tags: [in-game, PWT-Crasher Wake, trainer+crasherwake]
+item: [null]
+ability: [Damp]
+moves:
+- [Water Pulse]
+- [Mud Shot]
+- [Rock Tomb]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Floatzel
+setname: PWT-Crasher Wake
+tags: [in-game, PWT-Crasher Wake, trainer+crasherwake]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Brine]
+- [Crunch]
+- [Ice Fang]
+- [Aqua Jet]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

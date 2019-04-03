@@ -1,0 +1,119 @@
+---
+species: Gengar
+setname: PWT-Fantina Tournament
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
+item: [Twisted Spoon]
+ability: [Levitate]
+moves:
+- [Hypnosis]
+- [Dream Eater]
+- [Nightmare]
+- [Ominous Wind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Drifblim
+setname: PWT-Fantina Tournament
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
+item: [Sharp Beak]
+ability: [Aftermath]
+moves:
+- [Tail Wind]
+- [Aerial Ace]
+- [Thunder]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mismagius
+setname: PWT-Fantina Tournament
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
+item: [Salac Berry]
+ability: [Levitate]
+moves:
+- [Calm Mind]
+- [Psychic]
+- [Power Gem]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Spiritomb
+setname: PWT-Fantina Tournament
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
+item: [Sitrus Berry]
+ability: [Pressure]
+moves:
+- [Calm Mind]
+- [Will-O-Wisp]
+- [Dark Pulse]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Dusknoir
+setname: PWT-Fantina Tournament
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
+item: [Apicot Berry]
+ability: [Pressure]
+moves:
+- [Curse]
+- [Confuse Ray]
+- [Pain Split]
+- [Shadow Sneak]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rotom
+setname: PWT-Fantina Tournament
+tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
+item: [Magnet]
+ability: [Levitate]
+moves:
+- [Substitute]
+- [Charge Beam]
+- [Pain Split]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

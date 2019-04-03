@@ -1,0 +1,120 @@
+---
+species: Dewgong
+setname: PWT-Pryce Rematch
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
+item: [Lum Berry]
+ability: [Thick Fat]
+moves:
+- [Dive]
+- [Rest]
+- [Sleep Talk]
+- [Sheer Cold]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glalie
+setname: PWT-Pryce Rematch
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Torment]
+- [Payback]
+- [Attract]
+- [Blizzard]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Walrein
+setname: PWT-Pryce Rematch
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
+item: [null]
+ability: [Ice Body]
+moves:
+- [Swagger]
+- [Hail]
+- [Body Slam]
+- [Blizzard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Pryce Rematch
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
+item: [null]
+ability: [Snow Warning]
+moves:
+- [Ice Shard]
+- [Wood Hammer]
+- [Earthquake]
+- [Blizzard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mamoswine
+setname: PWT-Pryce Rematch
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Earthquake]
+- [Double Team]
+- [Stone Edge]
+- [Avalanche]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Pryce Rematch
+tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Ice Shard]
+- [Confuse Ray]
+- [Attract]
+- [Blizzard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

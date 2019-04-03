@@ -1,0 +1,120 @@
+---
+species: Primeape
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [null]
+ability: [Anger Point]
+moves:
+- [Swagger]
+- [Payback]
+- [Thunder Punch]
+- [Close Combat]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Poliwrath
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Substitute]
+- [Double Team]
+- [Waterfall]
+- [Focus Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [null]
+ability: [Reckless]
+moves:
+- [Fake Out]
+- [Bulk Up]
+- [Blaze Kick]
+- [High Jump Kick]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [null]
+ability: [Iron Fist]
+moves:
+- [Swagger]
+- [Double Team]
+- [Mach Punch]
+- [Focus Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Breloom
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [Toxic Orb]
+ability: [Poison Heal]
+moves:
+- [Substitute]
+- [Stone Edge]
+- [Drain Punch]
+- [Focus Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Chuck Rematch
+tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
+item: [null]
+ability: [Pure Power]
+moves:
+- [Attract]
+- [Psycho Cut]
+- [Thunder Punch]
+- [High Jump Kick]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

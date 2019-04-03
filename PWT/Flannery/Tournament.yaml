@@ -1,0 +1,120 @@
+---
+species: Magcargo
+setname: PWT-Flannery Tournament
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
+item: [Shuca Berry]
+ability: [Flame Body, Magma Armor]
+moves:
+- [Ancient Power]
+- [Earth Power]
+- [Lava Plume]
+- [Growth]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Flannery Tournament
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
+item: [Petaya Berry]
+ability: [Flash Fire, Early Bird]
+moves:
+- [Will-O-Wisp]
+- [Nasty Plot]
+- [Fire Blast]
+- [Dark Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Blaziken
+setname: PWT-Flannery Tournament
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
+item: [Salac Berry]
+ability: [Blaze]
+moves:
+- [Sky Uppercut]
+- [Brave Bird]
+- [Flare Blitz]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Camerupt
+setname: PWT-Flannery Tournament
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
+item: [Passho Berry]
+ability: [Magma Armor, Solid Rock]
+moves:
+- [Yawn]
+- [Fire Blast]
+- [Earth Power]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Torkoal
+setname: PWT-Flannery Tournament
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
+item: [Charcoal]
+ability: [White Smoke]
+moves:
+- [Fire Blast]
+- [Stone Edge]
+- [Gyro Ball]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Flannery Tournament
+tags: [in-game, PWT-Flannery Tournament, trainer+flannery]
+item: [Liechi Berry]
+ability: [Flame Body]
+moves:
+- [Rock Slide]
+- [Cross Chop]
+- [Thunderbolt]
+- [Fire Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

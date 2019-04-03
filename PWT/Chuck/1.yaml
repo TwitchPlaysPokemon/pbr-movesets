@@ -1,0 +1,40 @@
+---
+species: Primeape
+setname: PWT-Chuck
+tags: [in-game, PWT-Chuck, trainer+chuck]
+item: [null]
+ability: [Vital Spirit]
+moves:
+- [Leer]
+- [Double Team]
+- [Rock Slide]
+- [Focus Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Poliwrath
+setname: PWT-Chuck
+tags: [in-game, PWT-Chuck, trainer+chuck]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Hypnosis]
+- [Body Slam]
+- [Surf]
+- [Focus Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

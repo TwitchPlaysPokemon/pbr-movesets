@@ -1,0 +1,100 @@
+---
+species: Kingdra
+setname: PWT-Juan
+tags: [in-game, PWT-Juan, trainer+juan]
+item: [Chesto Berry]
+ability: [Swift Swim]
+moves:
+- [Water Pulse]
+- [Double Team]
+- [Ice Beam]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Juan
+tags: [in-game, PWT-Juan, trainer+juan]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Rain Dance]
+- [Water Pulse]
+- [Amnesia]
+- [Earthquake]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crawdaunt
+setname: PWT-Juan
+tags: [in-game, PWT-Juan, trainer+juan]
+item: [null]
+ability: [Hyper Cutter]
+moves:
+- [Water Pulse]
+- [Crabhammer]
+- [Taunt]
+- [Leer]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sealeo
+setname: PWT-Juan
+tags: [in-game, PWT-Juan, trainer+juan]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Encore]
+- [Body Slam]
+- [Aurora Beam]
+- [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Luvdisc
+setname: PWT-Juan
+tags: [in-game, PWT-Juan, trainer+juan]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Water Pulse]
+- [Attract]
+- [Sweet Kiss]
+- [Flail]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

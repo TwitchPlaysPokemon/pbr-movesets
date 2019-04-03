@@ -1,0 +1,57 @@
+---
+species: Regirock
+setname: PWT-Brandon
+tags: [in-game, PWT-Brandon, trainer+brandon]
+item: [Quick Claw]
+ability: [Pressure]
+moves:
+- [Ancient Power]
+- [Superpower]
+- [Earthquake]
+- [Explosion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Regice
+setname: PWT-Brandon
+tags: [in-game, PWT-Brandon, trainer+brandon]
+item: [Chesto Berry]
+ability: [Pressure]
+moves:
+- [Ice Beam]
+- [Amnesia]
+- [Thunder]
+- [Rest]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Registeel
+setname: PWT-Brandon
+tags: [in-game, PWT-Brandon, trainer+brandon]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+- [Metal Claw]
+- [Iron Defense]
+- [Earthquake]
+- [Toxic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

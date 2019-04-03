@@ -1,0 +1,80 @@
+---
+species: Machamp
+setname: PWT-Brawly Tournament2
+tags: [in-game, PWT-Brawly Tournament2, trainer+brawly]
+item: [Choice Band]
+ability: [Guts, No Guard]
+moves:
+- [Dynamic Punch]
+- [Stone Edge]
+- [Fire Punch]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Brawly Tournament2
+tags: [in-game, PWT-Brawly Tournament2, trainer+brawly]
+item: [Choice Scarf]
+ability: [Swarm, Guts]
+moves:
+- [Megahorn]
+- [Close Combat]
+- [Stone Edge]
+- [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Breloom
+setname: PWT-Brawly Tournament2
+tags: [in-game, PWT-Brawly Tournament2, trainer+brawly]
+item: [Focus Sash]
+ability: [Effect Spore, Poison Heal]
+moves:
+- [Spore]
+- [Focus Punch]
+- [Seed Bomb]
+- [Stone Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hariyama
+setname: PWT-Brawly Tournament2
+tags: [in-game, PWT-Brawly Tournament2, trainer+brawly]
+item: [Chesto Berry]
+ability: [Thick Fat, Guts]
+moves:
+- [Bulk Up]
+- [Rest]
+- [Revenge]
+- [Stone Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

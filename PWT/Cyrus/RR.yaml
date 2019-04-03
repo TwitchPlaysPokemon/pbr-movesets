@@ -1,0 +1,118 @@
+---
+species: Crobat
+setname: PWT-Cyrus RR
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Cross Poison]
+- [Zen Headbutt]
+- [X-Scissor]
+- [Super Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Cyrus RR
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Fire Blast]
+- [Dark Pulse]
+- [Sludge Bomb]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Cyrus RR
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Night Slash]
+- [Sky Attack]
+- [Heat Wave]
+- [Icy Wind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Cyrus RR
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
+ability: [Pressure]
+moves:
+- [Night Slash]
+- [Quick Attack]
+- [Ice Punch]
+- [Brick Break]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dialga
+setname: PWT-Cyrus RR
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
+ability: [Pressure]
+moves:
+- [Roar of Time]
+- [Flash Cannon]
+- [Earth Power]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Palkia
+setname: PWT-Cyrus RR
+tags: [in-game, PWT-Cyrus RR, trainer+cyrus]
+item: [null]
+ability: [Pressure]
+moves:
+- [Spacial Rend]
+- [Surf]
+- [Earth Power]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

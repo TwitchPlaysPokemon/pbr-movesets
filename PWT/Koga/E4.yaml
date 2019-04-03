@@ -1,0 +1,100 @@
+---
+species: Venomoth
+setname: PWT-Koga E4
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
+ability: [Shield Dust]
+moves:
+- [Psychic]
+- [Gust]
+- [Supersonic]
+- [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Muk
+setname: PWT-Koga E4
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
+ability: [Sticky Hold]
+moves:
+- [Gunk Shot]
+- [Minimize]
+- [Screech]
+- [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ariados
+setname: PWT-Koga E4
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Spider Web]
+- [Baton Pass]
+- [Giga Drain]
+- [Poison Jab]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Koga E4
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Quick Attack]
+- [Wing Attack]
+- [Double Team]
+- [Poison Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Forretress
+setname: PWT-Koga E4
+tags: [in-game, PWT-Koga E4, trainer+koga]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Swift]
+- [Explosion]
+- [Protect]
+- [Toxic Spikes]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

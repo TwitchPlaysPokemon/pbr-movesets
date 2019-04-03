@@ -1,0 +1,80 @@
+---
+species: Ludicolo
+setname: PWT-Miror B Cipher
+tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Hydro Pump]
+- [Giga Drain]
+- [Ice Beam]
+- [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Miror B Cipher-3
+tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Giga Drain]
+- [Dive]
+- [Leech Seed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Exploud
+setname: PWT-Miror B Cipher
+tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+item: [null]
+ability: [Soundproof]
+moves:
+- [Shadow Ball]
+- [Extrasensory]
+- [Take Down]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Armaldo
+setname: PWT-Miror B Cipher
+tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+item: [null]
+ability: [Battle Armor]
+moves:
+- [Aerial Ace]
+- [Rock Slide]
+- [Metal Claw]
+- [Strength]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,120 @@
+---
+species: Clefable
+setname: PWT-Let's Go Green
+tags: [in-game, PWT-Let's Go Green, trainer+green]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Psychic]
+- [Light Screen]
+- [Reflect]
+- [Tri Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Let's Go Green
+tags: [in-game, PWT-Let's Go Green, trainer+green]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Dark Pulse]
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Will-O-Wisp]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Victreebel
+setname: PWT-Let's Go Green
+tags: [in-game, PWT-Let's Go Green, trainer+green]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Power Whip]
+- [Poison Jab]
+- [Sucker Punch]
+- [Leech Life]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Let's Go Green
+tags: [in-game, PWT-Let's Go Green, trainer+green]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Fire Blast]
+- [Dark Pulse]
+- [Payback]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Kangaskhan
+setname: PWT-Let's Go Green
+tags: [in-game, PWT-Let's Go Green, trainer+green]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Dizzy Punch]
+- [Sucker Punch]
+- [Thunder Punch]
+- [Brick Break]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Let's Go Green
+tags: [in-game, PWT-Let's Go Green, trainer+green]
+item: [Everstone]
+ability: [null]
+gender: [m]
+moves:
+- [Hydro Pump]
+- [Flash Cannon]
+- [Ice Beam]
+- [Fake Out]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

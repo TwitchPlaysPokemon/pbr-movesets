@@ -1,0 +1,120 @@
+---
+species: Machamp
+setname: PWT-Brawly Rematch
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
+ability: [Guts]
+moves:
+- [Cross Chop]
+- [Rock Slide]
+- [Focus Punch]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Brawly Rematch
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
+ability: [Limber]
+moves:
+- [Mega Kick]
+- [Focus Punch]
+- [Earthquake]
+- [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Brawly Rematch
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Sky Uppercut]
+- [Protect]
+- [Fire Punch]
+- [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Brawly Rematch
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Pursuit]
+- [Counter]
+- [Protect]
+- [Triple Kick]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hariyama
+setname: PWT-Brawly Rematch
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
+ability: [Guts]
+moves:
+- [Fake Out]
+- [Focus Punch]
+- [Belly Drum]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Brawly Rematch
+tags: [in-game, PWT-Brawly Rematch, trainer+brawly]
+item: [null]
+ability: [Pure Power]
+moves:
+- [Focus Punch]
+- [Light Screen]
+- [Reflect]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

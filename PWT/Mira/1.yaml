@@ -1,0 +1,98 @@
+---
+species: Alakazam
+setname: PWT-Mira
+tags: [in-game, PWT-Mira, trainer+mira]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Focus Blast]
+- [Calm Mind]
+- [Psychic]
+- [Hyper Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Mira
+tags: [in-game, PWT-Mira, trainer+mira]
+item: [null]
+ability: [Levitate]
+moves:
+- [Shadow Ball]
+- [Energy Ball]
+- [Sludge Bomb]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Mira
+tags: [in-game, PWT-Mira, trainer+mira]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Flash Cannon]
+- [Hyper Beam]
+- [Thunder Wave]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Togekiss
+setname: PWT-Mira
+tags: [in-game, PWT-Mira, trainer+mira]
+item: [null]
+ability: [Hustle]
+moves:
+- [Aura Sphere]
+- [Extreme Speed]
+- [Psychic]
+- [Air Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Porygon-Z
+setname: PWT-Mira
+tags: [in-game, PWT-Mira, trainer+mira]
+item: [null]
+ability: [Adaptability]
+moves:
+- [Tri Attack]
+- [Dark Pulse]
+- [Psychic]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

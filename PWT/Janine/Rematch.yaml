@@ -1,0 +1,120 @@
+---
+species: Venomoth
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
+ability: [Tinted Lens]
+moves:
+- [Psychic]
+- [Bug Buzz]
+- [Sleep Powder]
+- [Double Team]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
+ability: [Levitate]
+moves:
+- [Thunderbolt]
+- [Sludge Bomb]
+- [Toxic]
+- [Explosion]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ariados
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Bounce]
+- [Toxic]
+- [Swagger]
+- [Night Shade]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Heat Wave]
+- [Cross Poison]
+- [Confuse Ray]
+- [U-Turn]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Drapion
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
+ability: [Sniper]
+moves:
+- [Confuse Ray]
+- [Swords Dance]
+- [Cross Poison]
+- [Crunch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Janine Rematch
+tags: [in-game, PWT-Janine Rematch, trainer+janine]
+item: [null]
+ability: [Dry Skin]
+moves:
+- [Cross Chop]
+- [Poison Jab]
+- [Attract]
+- [Substitute]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

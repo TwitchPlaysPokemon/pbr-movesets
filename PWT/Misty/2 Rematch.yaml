@@ -1,0 +1,119 @@
+---
+species: Starmie
+setname: PWT-Misty2 Rematch
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [Colbur Berry]
+ability: [Natural Cure]
+moves:
+- [Thunderbolt]
+- [Ice Beam]
+- [Psychic]
+- [Surf]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Misty2 Rematch
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [null]
+ability: [Shell Armor]
+moves:
+- [Rain Dance]
+- [Perish Song]
+- [Blizzard]
+- [Surf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lanturn
+setname: PWT-Misty2 Rematch
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [null]
+ability: [Illuminate]
+moves:
+- [Thunderbolt]
+- [Thunder Wave]
+- [Confuse Ray]
+- [Surf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Misty2 Rematch
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Rain Dance]
+- [Amnesia]
+- [Water Pulse]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Misty2 Rematch
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [null]
+ability: [Marvel Scale]
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Rest]
+- [Sleep Talk]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Floatzel
+setname: PWT-Misty2 Rematch
+tags: [in-game, PWT-Misty2 Rematch, trainer+misty]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Agility]
+- [Waterfall]
+- [Ice Fang]
+- [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

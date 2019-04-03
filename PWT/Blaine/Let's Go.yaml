@@ -1,0 +1,75 @@
+---
+species: Magmar
+setname: PWT-Let's Go Blaine
+tags: [in-game, PWT-Let's Go Blaine, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Flamethrower]
+- [Low Kick]
+- [Confuse Ray]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Let's Go Blaine
+tags: [in-game, PWT-Let's Go Blaine, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Fury Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Let's Go Blaine
+tags: [in-game, PWT-Let's Go Blaine, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Fire Blast]
+- [Quick Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Let's Go Blaine
+tags: [in-game, PWT-Let's Go Blaine, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Outrage]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

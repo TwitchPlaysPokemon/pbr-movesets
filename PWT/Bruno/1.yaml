@@ -1,0 +1,100 @@
+---
+species: Machamp
+setname: PWT-Bruno
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
+ability: [Guts]
+moves:
+- [Bulk Up]
+- [Cross Chop]
+- [Scary Face]
+- [Rock Tomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Bruno
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Earthquake]
+- [Rock Tomb]
+- [Iron Tail]
+- [Roar]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Bruno-2
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Double Edge]
+- [Iron Tail]
+- [Earthquake]
+- [Sand Tomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Bruno
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
+ability: [Limber]
+moves:
+- [Mega Kick]
+- [Foresight]
+- [Brick Break]
+- [Facade]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Bruno
+tags: [in-game, PWT-Bruno, trainer+bruno]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Sky Uppercut]
+- [Mach Punch]
+- [Rock Tomb]
+- [Counter]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

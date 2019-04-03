@@ -1,0 +1,100 @@
+---
+species: Gyarados
+setname: PWT-Cyrus
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Waterfall]
+- [Ice Fang]
+- [Earthquake]
+- [Giga Impact]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Cyrus
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Cross Poison]
+- [Air Slash]
+- [Toxic]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Cyrus
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Flamethrower]
+- [Dark Pulse]
+- [Will-O-Wisp]
+- [Thunder Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Cyrus
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Drill Peck]
+- [Night Slash]
+- [Heat Wave]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Cyrus
+tags: [in-game, PWT-Cyrus, trainer+cyrus]
+item: [null]
+ability: [Pressure]
+moves:
+- [Night Slash]
+- [Ice Punch]
+- [X-Scissor]
+- [Fake Out]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

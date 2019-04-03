@@ -1,0 +1,118 @@
+---
+species: Forretress
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Iron Ball]
+ability: [Sturdy]
+moves:
+- [Earthquake]
+- [Explosion]
+- [Toxic]
+- [Gyro Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Jaboca Berry]
+ability: [Rock Head, Sturdy]
+moves:
+- [Curse]
+- [Stealth Rock]
+- [Earthquake]
+- [Gyro Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Skarmory
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Leftovers]
+ability: [Keen Eye, Sturdy]
+moves:
+- [Curse]
+- [Stealth Rock]
+- [Roost]
+- [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Shuca Berry]
+ability: [Clear Body]
+moves:
+- [Earthquake]
+- [Explosion]
+- [Meteor Mash]
+- [Bullet Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Life Orb]
+ability: [Steadfast, Inner Focus]
+moves:
+- [Aura Sphere]
+- [Crunch]
+- [Stone Edge]
+- [Extreme Speed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Jasmine Tournament2
+tags: [in-game, PWT-Jasmine Tournament2, trainer+jasmine]
+item: [Quick Claw]
+ability: [Magnet Pull, Sturdy]
+moves:
+- [Thunderbolt]
+- [Flash Cannon]
+- [Mirror Coat]
+- [Magnet Rise]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

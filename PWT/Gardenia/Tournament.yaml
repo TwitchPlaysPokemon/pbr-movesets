@@ -1,0 +1,120 @@
+---
+species: Torterra
+setname: PWT-Gardenia Tournament
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
+item: [Yache Berry]
+ability: [Overgrow]
+moves:
+- [Wood Hammer]
+- [Earthquake]
+- [Outrage]
+- [Curse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Gardenia Tournament
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
+item: [Lum Berry]
+ability: [Natural Cure, Poison Point]
+moves:
+- [Petal Dance]
+- [Weather Ball]
+- [Shadow Ball]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Cherrim
+setname: PWT-Gardenia Tournament
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
+item: [Miracle Seed]
+ability: [Flower Gift]
+moves:
+- [Giga Drain]
+- [Leech Seed]
+- [Substitute]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Carnivine
+setname: PWT-Gardenia Tournament
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
+item: [Liechi Berry]
+ability: [Levitate]
+moves:
+- [Power Whip]
+- [Crunch]
+- [Bug Bite]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tangrowth
+setname: PWT-Gardenia Tournament
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
+item: [Salac Berry]
+ability: [Chlorophyll, Leaf Guard]
+moves:
+- [Power Whip]
+- [Earthquake]
+- [Ancient Power]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Leafeon
+setname: PWT-Gardenia Tournament
+tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
+item: [Occa Berry]
+ability: [Leaf Guard]
+moves:
+- [Leaf Blade]
+- [X-Scissor]
+- [Quick Attack]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

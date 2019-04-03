@@ -1,0 +1,100 @@
+---
+species: Mr. Mime
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Psychic]
+- [Psybeam]
+- [Reflect]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Psychic]
+- [Blizzard]
+- [Shadow Ball]
+- [Lovely Kiss]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Hypno
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Dream Eater]
+- [Hypnosis]
+- [Thunder Punch]
+- [Fire Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Psychic]
+- [Ice Beam]
+- [Shadow Ball]
+- [Surf]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Let's Go Sabrina Rematch
+tags: [in-game, PWT-Let's Go Sabrina Rematch, trainer+sabrina]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Psychic]
+- [Psybeam]
+- [Shadow Ball]
+- [Tri Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

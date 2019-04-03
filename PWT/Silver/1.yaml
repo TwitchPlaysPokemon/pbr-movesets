@@ -1,0 +1,119 @@
+---
+species: Alakazam
+setname: PWT-Silver
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Focus Blast]
+- [Reflect]
+- [Recover]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magneton
+setname: PWT-Silver
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Discharge]
+- [Mirror Shot]
+- [Magnet Bomb]
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Silver
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
+ability: [Levitate]
+moves:
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Dark Pulse]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Feraligatr
+setname: PWT-Silver
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
+ability: [Torrent]
+moves:
+- [Aqua Tail]
+- [Crunch]
+- [Ice Fang]
+- [Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Silver
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Air Cutter]
+- [Bite]
+- [Toxic]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sneasel
+setname: PWT-Silver
+tags: [in-game, PWT-Silver, trainer+silver]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Feint Attack]
+- [Shadow Claw]
+- [Metal Claw]
+- [Icy Wind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

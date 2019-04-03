@@ -1,0 +1,99 @@
+---
+species: Steelix
+setname: PWT-Byron Rematch
+tags: [in-game, PWT-Byron Rematch, trainer+byron]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Gyro Ball]
+- [Ice Fang]
+- [Dragon Breath]
+- [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Skarmory
+setname: PWT-Byron Rematch
+tags: [in-game, PWT-Byron Rematch, trainer+byron]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Drill Peck]
+- [Night Slash]
+- [Rock Tomb]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aggron
+setname: PWT-Byron Rematch
+tags: [in-game, PWT-Byron Rematch, trainer+byron]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Metal Burst]
+- [Stone Edge]
+- [Earthquake]
+- [Avalanche]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bastiodon
+setname: PWT-Byron Rematch
+tags: [in-game, PWT-Byron Rematch, trainer+byron]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Metal Burst]
+- [Ancient Power]
+- [Iron Defense]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Byron Rematch
+tags: [in-game, PWT-Byron Rematch, trainer+byron]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Thunderbolt]
+- [Flash Cannon]
+- [Thunder Wave]
+- [Supersonic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

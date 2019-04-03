@@ -1,0 +1,100 @@
+---
+species: Dragonite
+setname: PWT-Clair Tournament2
+tags: [in-game, PWT-Clair Tournament2, trainer+clair]
+item: [Yache Berry]
+ability: [Inner Focus]
+moves:
+- [Draco Meteor]
+- [Earthquake]
+- [Extreme Speed]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Kingdra
+setname: PWT-Clair Tournament2
+tags: [in-game, PWT-Clair Tournament2, trainer+clair]
+item: [Chesto Berry]
+ability: [Swift Swim, Sniper]
+moves:
+- [Rest]
+- [Waterfall]
+- [Dragon Dance]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Clair Tournament2
+tags: [in-game, PWT-Clair Tournament2, trainer+clair]
+item: [Leftovers]
+ability: [Natural Cure]
+moves:
+- [Toxic]
+- [Fire Blast]
+- [Double Team]
+- [Barrier]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Clair Tournament2
+tags: [in-game, PWT-Clair Tournament2, trainer+clair]
+item: [Dragon Fang]
+ability: [Intimidate]
+moves:
+- [Draco Meteor]
+- [Rock Slide]
+- [Earthquake]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Clair Tournament2
+tags: [in-game, PWT-Clair Tournament2, trainer+clair]
+item: [Focus Sash]
+ability: [Sand Veil]
+moves:
+- [Dragon Claw]
+- [Earthquake]
+- [Fire Fang]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

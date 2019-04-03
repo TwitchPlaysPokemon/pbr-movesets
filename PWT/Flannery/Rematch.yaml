@@ -1,0 +1,120 @@
+---
+species: Arcanine
+setname: PWT-Flannery Rematch
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Helping Hand]
+- [Flamethrower]
+- [Sunny Day]
+- [Roar]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Flannery Rematch
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Flamethrower]
+- [Attract]
+- [Solar Beam]
+- [Bounce]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magcargo
+setname: PWT-Flannery Rematch
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [White Herb]
+ability: [Magma Armor]
+moves:
+- [Overheat]
+- [Attract]
+- [Light Screen]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Flannery Rematch
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Roar]
+- [Solar Beam]
+- [Taunt]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Camerupt
+setname: PWT-Flannery Rematch
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [White Herb]
+ability: [Magma Armor]
+moves:
+- [Overheat]
+- [Sunny Day]
+- [Earthquake]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Torkoal
+setname: PWT-Flannery Rematch
+tags: [in-game, PWT-Flannery Rematch, trainer+flannery]
+item: [White Herb]
+ability: [White Smoke]
+moves:
+- [Overheat]
+- [Sunny Day]
+- [Explosion]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

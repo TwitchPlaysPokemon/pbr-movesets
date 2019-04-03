@@ -1,0 +1,120 @@
+---
+species: Pidgeot
+setname: PWT-Blue Gym
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
+ability: [Tangled Feet]
+moves:
+- [Return]
+- [Whirlwind]
+- [Air Slash]
+- [Mirror Move]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blue Gym
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Roar]
+- [Dragon Pulse]
+- [Flare Blitz]
+- [Extreme Speed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Blue Gym
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
+ability: [No Guard]
+moves:
+- [Dynamic Punch]
+- [Earthquake]
+- [Stone Edge]
+- [Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Blue Gym
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Leaf Storm]
+- [Psychic]
+- [Hypnosis]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Blue Gym
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Megahorn]
+- [Stone Edge]
+- [Thunder Fang]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Blue Gym
+tags: [in-game, PWT-Blue Gym, trainer+blue]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Ice Fang]
+- [Waterfall]
+- [Dragon Dance]
+- [Return]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

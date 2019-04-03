@@ -1,0 +1,120 @@
+---
+species: Clefable
+setname: PWT-Whitney Rematch
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [null]
+ability: [Magic Guard]
+moves:
+- [Calm Mind]
+- [Fire Blast]
+- [Thunder]
+- [Blizzard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Girafarig
+setname: PWT-Whitney Rematch
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Calm Mind]
+- [Baton Pass]
+- [Shadow Ball]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Miltank
+setname: PWT-Whitney Rematch
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [Lum Berry]
+ability: [Scrappy]
+moves:
+- [Body Slam]
+- [Attract]
+- [Rest]
+- [Sleep Talk]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Delcatty
+setname: PWT-Whitney Rematch
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [null]
+ability: [Normalize]
+moves:
+- [Fake Out]
+- [Baton Pass]
+- [Assist]
+- [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bibarel
+setname: PWT-Whitney Rematch
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [null]
+ability: [Simple]
+moves:
+- [Double Team]
+- [Surf]
+- [Charge Beam]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lickilicky
+setname: PWT-Whitney Rematch
+tags: [in-game, PWT-Whitney Rematch, trainer+whitney]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Wring Out]
+- [Flamethrower]
+- [Thunderbolt]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

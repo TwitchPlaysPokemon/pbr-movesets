@@ -1,0 +1,120 @@
+---
+species: Charizard
+setname: PWT-Lance Champion Rematch
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
+ability: [Blaze]
+moves:
+- [Flamethrower]
+- [Hyper Beam]
+- [Dragon Claw]
+- [Air Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Lance Champion Rematch
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Dragon Dance]
+- [Waterfall]
+- [Ice Fang]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Champion Rematch
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Draco Meteor]
+- [Safeguard]
+- [Fire Blast]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Lance Champion Rematch
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Double Team]
+- [Dragon Breath]
+- [Perish Song]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Lance Champion Rematch
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Dragon Claw]
+- [Flamethrower]
+- [Shadow Claw]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Lance Champion Rematch
+tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Outrage]
+- [Swords Dance]
+- [Earthquake]
+- [Roar]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

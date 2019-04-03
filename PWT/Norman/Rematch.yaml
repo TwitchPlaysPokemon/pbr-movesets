@@ -1,0 +1,120 @@
+---
+species: Kangaskhan
+setname: PWT-Norman Rematch
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Fake Out]
+- [Dizzy Punch]
+- [Endure]
+- [Reversal]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Norman Rematch
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Take Down]
+- [Protect]
+- [Fire Blast]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Blissey
+setname: PWT-Norman Rematch
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Protect]
+- [Sing]
+- [Skill Swap]
+- [Focus Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Norman Rematch
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
+item: [null]
+ability: [Truant]
+moves:
+- [Blizzard]
+- [Shadow Ball]
+- [Double Edge]
+- [Fire Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Norman Rematch-2
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
+item: [null]
+ability: [Truant]
+moves:
+- [Hyper Beam]
+- [Flamethrower]
+- [Thunderbolt]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Spinda
+setname: PWT-Norman Rematch
+tags: [in-game, PWT-Norman Rematch, trainer+norman]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Teeter Dance]
+- [Skill Swap]
+- [Facade]
+- [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

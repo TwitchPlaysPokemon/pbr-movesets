@@ -1,0 +1,100 @@
+---
+species: Scizor
+setname: PWT-Aaron
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
+ability: [Swarm]
+moves:
+- [X-Scissor]
+- [Iron Head]
+- [Night Slash]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Aaron
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
+ability: [Swarm]
+moves:
+- [Megahorn]
+- [Close Combat]
+- [Night Slash]
+- [Stone Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Vespiquen
+setname: PWT-Aaron
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
+ability: [Pressure]
+moves:
+- [Attack Order]
+- [Defend Order]
+- [Heal Order]
+- [Power Gem]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Drapion
+setname: PWT-Aaron
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
+ability: [Battle Armor]
+moves:
+- [X-Scissor]
+- [Cross Poison]
+- [Ice Fang]
+- [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Yanmega
+setname: PWT-Aaron
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
+ability: [Speed Boost]
+moves:
+- [Bug Buzz]
+- [Air Slash]
+- [U-Turn]
+- [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

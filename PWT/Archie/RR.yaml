@@ -1,0 +1,99 @@
+---
+species: Muk
+setname: PWT-Archie RR
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
+ability: [Poison Point]
+moves:
+- [Gunk Shot]
+- [Fire Punch]
+- [Thunder Punch]
+- [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Archie RR
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Air Slash]
+- [Toxic]
+- [Dark Pulse]
+- [Sludge Bomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mightyena
+setname: PWT-Archie RR
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Crunch]
+- [Fire Fang]
+- [Thunder Fang]
+- [Ice Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sharpedo
+setname: PWT-Archie RR
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
+ability: [Rough Skin]
+moves:
+- [Night Slash]
+- [Waterfall]
+- [Ice Fang]
+- [Poison Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kyogre
+setname: PWT-Archie RR
+tags: [in-game, PWT-Archie RR, trainer+archie]
+item: [null]
+ability: [Drizzle]
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Ancient Power]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

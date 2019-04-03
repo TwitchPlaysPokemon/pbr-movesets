@@ -1,0 +1,80 @@
+---
+species: Gastly
+setname: PWT-Morty
+tags: [in-game, PWT-Morty, trainer+morty]
+item: [null]
+ability: [Levitate]
+moves:
+- [Lick]
+- [Spite]
+- [Mean Look]
+- [Curse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Haunter
+setname: PWT-Morty
+tags: [in-game, PWT-Morty, trainer+morty]
+item: [null]
+ability: [Levitate]
+moves:
+- [Hypnosis]
+- [Dream Eater]
+- [Curse]
+- [Nightmare]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Haunter
+setname: PWT-Morty-2
+tags: [in-game, PWT-Morty, trainer+morty]
+item: [null]
+ability: [Levitate]
+moves:
+- [Curse]
+- [Mean Look]
+- [Sucker Punch]
+- [Night Shade]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Morty
+tags: [in-game, PWT-Morty, trainer+morty]
+item: [null]
+ability: [Levitate]
+moves:
+- [Hypnosis]
+- [Shadow Ball]
+- [Mean Look]
+- [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

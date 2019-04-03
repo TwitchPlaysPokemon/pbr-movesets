@@ -1,0 +1,100 @@
+---
+species: Raichu
+setname: PWT-May2
+tags: [in-game, PWT-May2, trainer+may]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder Wave]
+- [Thunderbolt]
+- [Quick Attack]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Blaziken
+setname: PWT-May2
+tags: [in-game, PWT-May2, trainer+may]
+item: [Everstone]
+ability: [Blaze]
+moves:
+- [Blaze Kick]
+- [Brick Break]
+- [Quick Attack]
+- [Shadow Claw]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Swellow
+setname: PWT-May2
+tags: [in-game, PWT-May2, trainer+may]
+item: [null]
+ability: [Guts]
+moves:
+- [Aerial Ace]
+- [Quick Attack]
+- [U-Turn]
+- [Steel Wing]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Breloom
+setname: PWT-May2
+tags: [in-game, PWT-May2, trainer+may]
+item: [null]
+ability: [Effect Spore]
+moves:
+- [Seed Bomb]
+- [Force Palm]
+- [Sludge Bomb]
+- [Rock Tomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Wailord
+setname: PWT-May2
+tags: [in-game, PWT-May2, trainer+may]
+item: [null]
+ability: [Water Veil]
+moves:
+- [Surf]
+- [Body Slam]
+- [Magnitude]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

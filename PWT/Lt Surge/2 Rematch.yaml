@@ -1,0 +1,117 @@
+---
+species: Raichu
+setname: PWT-Lt. Surge2 Rematch
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [null]
+ability: [Static]
+moves:
+- [Thunderbolt]
+- [Grass Knot]
+- [Quick Attack]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Lt. Surge2 Rematch
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder Wave]
+- [Double Team]
+- [Thunderbolt]
+- [Explosion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+---
+species: Manectric
+setname: PWT-Lt. Surge2 Rematch
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [Pinap Berry]
+ability: [Static]
+moves:
+- [Natural Gift]
+- [Discharge]
+- [Thunder Wave]
+- [Overheat]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pachirisu
+setname: PWT-Lt. Surge2 Rematch
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [null]
+ability: [Pick Up]
+moves:
+- [Quick Attack]
+- [Sweet Kiss]
+- [Super Fang]
+- [Discharge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Lt. Surge2 Rematch
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Thunderbolt]
+- [Magnet Rise]
+- [Double Team]
+- [Mirror Shot]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Lt. Surge2 Rematch
+tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
+item: [null]
+ability: [Motor Drive]
+moves:
+- [Thunderbolt]
+- [Ice Punch]
+- [Cross Chop]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

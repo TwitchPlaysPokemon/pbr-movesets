@@ -1,0 +1,120 @@
+---
+species: Kingdra
+setname: PWT-Juan Tournament
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
+item: [Haban Berry]
+ability: [Swift Swim, Sniper]
+moves:
+- [Rain Dance]
+- [Muddy Water]
+- [Ice Beam]
+- [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Juan Tournament
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
+item: [Rindo Berry]
+ability: [Oblivious, Anticipation]
+moves:
+- [Dragon Dance]
+- [Earthquake]
+- [Waterfall]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Crawdaunt
+setname: PWT-Juan Tournament
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
+item: [Wacan Berry]
+ability: [Hyper Cutter, Shell Armor]
+moves:
+- [Dragon Dance]
+- [Crabhammer]
+- [Superpower]
+- [Night Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Walrein
+setname: PWT-Juan Tournament
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
+item: [Haban Berry]
+ability: [Thick Fat, Ice Body]
+moves:
+- [Stockpile]
+- [Blizzard]
+- [Aqua Ring]
+- [Surf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Huntail
+setname: PWT-Juan Tournament
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
+item: [Liechi Berry]
+ability: [Swift Swim]
+moves:
+- [Sharpen]
+- [Crunch]
+- [Ice Fang]
+- [Aqua Tail]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gorebyss
+setname: PWT-Juan Tournament
+tags: [in-game, PWT-Juan Tournament, trainer+juan]
+item: [Petaya Berry]
+ability: [Swift Swim]
+moves:
+- [Growth]
+- [Psychic]
+- [Icy Wind]
+- [Hydro Pump]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

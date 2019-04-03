@@ -1,0 +1,100 @@
+---
+species: Magmar
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Fire Punch]
+- [Thunder Punch]
+- [Brick Break]
+- [Will-O-Wisp]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Megahorn]
+- [Magnitude]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Fire Blast]
+- [Quick Attack]
+- [Dark Pulse]
+- [Solar Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Superpower]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Let's Go Blaine Rematch
+tags: [in-game, PWT-Let's Go Blaine Rematch, trainer+blaine]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Outrage]
+- [Crunch]
+- [Zen Headbutt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

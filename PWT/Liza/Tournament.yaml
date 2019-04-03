@@ -1,0 +1,118 @@
+---
+species: Xatu
+setname: PWT-Liza Tournament
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
+item: [Charti Berry]
+ability: [Synchronize, Early Bird]
+moves:
+- [Psychic]
+- [Thunder Wave]
+- [Tail Wind]
+- [Heat Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Liza Tournament
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
+item: [Spell Tag]
+ability: [Trace, Synchronize]
+moves:
+- [Dream Eater]
+- [Shadow Ball]
+- [Thunderbolt]
+- [Hypnosis]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Grumpig
+setname: PWT-Liza Tournament
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
+item: [Salac Berry]
+ability: [Thick Fat, Own Tempo]
+moves:
+- [Psychic]
+- [Focus Blast]
+- [Power Gem]
+- [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lunatone
+setname: PWT-Liza Tournament
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
+item: [Petaya Berry]
+ability: [Levitate]
+moves:
+- [Hypnosis]
+- [Dream Eater]
+- [Ice Beam]
+- [Cosmic Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Claydol
+setname: PWT-Liza Tournament
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
+item: [Sitrus Berry]
+ability: [Levitate]
+moves:
+- [Zen Headbutt]
+- [Magnitude]
+- [Cosmic Power]
+- [Stone Edge]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Chimecho
+setname: PWT-Liza Tournament
+tags: [in-game, PWT-Liza Tournament, trainer+liza]
+item: [Colbur Berry]
+ability: [Levitate]
+moves:
+- [Light Screen]
+- [Psychic]
+- [Yawn]
+- [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

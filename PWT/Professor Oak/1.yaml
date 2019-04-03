@@ -1,0 +1,139 @@
+---
+species: Venusaur
+setname: PWT-Professor Oak
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
+moves:
+- [Razor Leaf]
+- [Growth]
+- [Sleep Powder]
+- [Solar Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Professor Oak
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
+moves:
+- [Rage]
+- [Slash]
+- [Flamethrower]
+- [Fire Spin]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Professor Oak
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
+moves:
+- [Bite]
+- [Withdraw]
+- [Skull Bash]
+- [Hydro Pump]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Professor Oak
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
+moves:
+- [Take Down]
+- [Ember]
+- [Roar]
+- [Leer]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Professor Oak
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
+moves:
+- [Stomp]
+- [Barrage]
+- [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Professor Oak
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
+moves:
+- [Take Down]
+- [Leer]
+- [Rage]
+- [Tail Whip]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Professor Oak
+tags: [in-game, PWT-Professor Oak, trainer+professoroak]
+item: [null]
+ability: [null]
+moves:
+- [Hydro Pump]
+- [Dragon Rage]
+- [Leer]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

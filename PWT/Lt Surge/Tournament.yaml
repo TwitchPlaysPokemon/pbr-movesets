@@ -1,0 +1,118 @@
+---
+species: Raichu
+setname: PWT-Lt. Surge Tournament
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
+item: [Magnet]
+ability: [Static]
+moves:
+- [Thunder Wave]
+- [Thunderbolt]
+- [Focus Blast]
+- [Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Lt. Surge Tournament
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
+item: [Lum Berry]
+ability: [Soundproof, Static]
+moves:
+- [Rain Dance]
+- [Mirror Coat]
+- [Magnet Rise]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Calm
+ivs: 20
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 4}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Lt. Surge Tournament
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
+item: [Shuca Berry]
+ability: [Volt Absorb]
+moves:
+- [Rain Dance]
+- [Shadow Ball]
+- [Thunder]
+- [Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ampharos
+setname: PWT-Lt. Surge Tournament
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
+item: [Petaya Berry]
+ability: [Static]
+moves:
+- [Charge]
+- [Discharge]
+- [Barrier]
+- [Power Gem]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Lt. Surge Tournament
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
+item: [Shuca Berry]
+ability: [Magnet Pull, Sturdy]
+moves:
+- [Discharge]
+- [Flash Cannon]
+- [Barrier]
+- [Signal Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Lt. Surge Tournament
+tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
+item: [Liechi Berry]
+ability: [Motor Drive]
+moves:
+- [Volt Tackle]
+- [Low Kick]
+- [Rock Tomb]
+- [Fire Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

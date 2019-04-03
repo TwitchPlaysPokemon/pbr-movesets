@@ -1,0 +1,120 @@
+---
+species: Skarmory
+setname: PWT-Winona Tournament
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
+item: [Wacan Berry]
+ability: [Keen Eye, Sturdy]
+moves:
+- [Roost (=10)]
+- [Brave Bird]
+- [Whirlwind (=10)]
+- [Stealth Rock (=10)]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Swellow
+setname: PWT-Winona Tournament
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
+item: [Liechi Berry]
+ability: [Guts]
+moves:
+- [Double Team]
+- [Brave Bird]
+- [Endeavor]
+- [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Pelipper
+setname: PWT-Winona Tournament
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
+item: [Petaya Berry]
+ability: [Keen Eye]
+moves:
+- [Tail Wind]
+- [Ice Beam]
+- [Aeroblast]
+- [Surf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Winona Tournament
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
+item: [Apicot Berry]
+ability: [Natural Cure]
+moves:
+- [Barrier]
+- [Dream Eater]
+- [Roost]
+- [Sing]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tropius
+setname: PWT-Winona Tournament
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
+item: [Yache Berry]
+ability: [Chlorophyll, Solar Power]
+moves:
+- [Substitute]
+- [Leech Seed]
+- [Air Slash]
+- [Roost]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Winona Tournament
+tags: [in-game, PWT-Winona Tournament, trainer+winona]
+item: [Charti Berry]
+ability: [Insomnia, Super Luck]
+moves:
+- [Brave Bird]
+- [Night Slash]
+- [Icy Wind]
+- [Heat Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

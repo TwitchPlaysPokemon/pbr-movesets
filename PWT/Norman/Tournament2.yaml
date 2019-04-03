@@ -1,0 +1,120 @@
+---
+species: Tauros
+setname: PWT-Norman Tournament2
+tags: [in-game, PWT-Norman Tournament2, trainer+norman]
+item: [Life Orb]
+ability: [Reckless]
+moves:
+- [Double Edge]
+- [Stone Edge]
+- [Megahorn]
+- [Revenge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Stantler
+setname: PWT-Norman Tournament2
+tags: [in-game, PWT-Norman Tournament2, trainer+norman]
+item: [Chesto Berry]
+ability: [Chlorophyll]
+moves:
+- [Return]
+- [Swords Dance]
+- [Leaf Blade]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Norman Tournament2
+tags: [in-game, PWT-Norman Tournament2, trainer+norman]
+item: [Bright Powder]
+ability: [Truant]
+moves:
+- [Giga Impact]
+- [Hammer Arm]
+- [Earthquake]
+- [Night Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Exploud
+setname: PWT-Norman Tournament2
+tags: [in-game, PWT-Norman Tournament2, trainer+norman]
+item: [Expert Belt]
+ability: [Soundproof]
+moves:
+- [Fire Blast]
+- [Focus Blast]
+- [Hyper Voice]
+- [Blizzard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Staraptor
+setname: PWT-Norman Tournament2
+tags: [in-game, PWT-Norman Tournament2, trainer+norman]
+item: [Choice Band]
+ability: [Intimidate]
+moves:
+- [Brave Bird]
+- [Close Combat]
+- [Quick Attack]
+- [Reversal]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ambipom
+setname: PWT-Norman Tournament2
+tags: [in-game, PWT-Norman Tournament2, trainer+norman]
+item: [Silk Scarf]
+ability: [Technician, Pick Up]
+moves:
+- [Return]
+- [Aerial Ace]
+- [Fake Out]
+- [Fire Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

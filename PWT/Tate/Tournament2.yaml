@@ -1,0 +1,97 @@
+---
+species: Xatu
+setname: PWT-Tate Tournament2
+tags: [in-game, PWT-Tate Tournament2, trainer+tate]
+item: [Focus Sash]
+ability: [Synchronize, Early Bird]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Light Screen]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Solrock
+setname: PWT-Tate Tournament2
+tags: [in-game, PWT-Tate Tournament2, trainer+tate]
+item: [Passho Berry]
+ability: [Levitate]
+moves:
+- [Zen Headbutt]
+- [Rock Slide]
+- [Earthquake]
+- [Trick Room]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Claydol
+setname: PWT-Tate Tournament2
+tags: [in-game, PWT-Tate Tournament2, trainer+tate]
+item: [Kasib Berry]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Explosion]
+- [Light Screen]
+- [Trick Room]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Tate Tournament2
+tags: [in-game, PWT-Tate Tournament2, trainer+tate]
+item: [Lum Berry]
+ability: [Levitate, Heatproof]
+moves:
+- [Zen Headbutt]
+- [Gyro Ball]
+- [Earthquake]
+- [Trick Room]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Tate Tournament2
+tags: [in-game, PWT-Tate Tournament2, trainer+tate]
+item: [Scope Lens]
+ability: [Steadfast]
+moves:
+- [Psycho Cut]
+- [Close Combat]
+- [Night Slash]
+- [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

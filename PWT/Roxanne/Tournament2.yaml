@@ -1,0 +1,100 @@
+---
+species: Golem
+setname: PWT-Roxanne Tournament2
+tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
+item: [Soft Sand]
+ability: [Rock Head, Sturdy]
+moves:
+- [Focus Punch]
+- [Fire Punch]
+- [Earthquake]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Aggron
+setname: PWT-Roxanne Tournament2
+tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
+item: [Focus Sash]
+ability: [Sturdy, Rock Head]
+moves:
+- [Metal Burst]
+- [Avalanche]
+- [Iron Head]
+- [Head Smash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Cradily
+setname: PWT-Roxanne Tournament2
+tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
+item: [Leftovers]
+ability: [Suction Cups]
+moves:
+- [Rock Slide]
+- [Giga Drain]
+- [Amnesia]
+- [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Armaldo
+setname: PWT-Roxanne Tournament2
+tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
+item: [Lum Berry]
+ability: [Battle Armor]
+moves:
+- [Rock Polish]
+- [Earthquake]
+- [X-Scissor]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Probopass
+setname: PWT-Roxanne Tournament2
+tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
+item: [Shuca Berry]
+ability: [Sturdy, Magnet Pull]
+moves:
+- [Pain Split]
+- [Power Gem]
+- [Earth Power]
+- [Thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

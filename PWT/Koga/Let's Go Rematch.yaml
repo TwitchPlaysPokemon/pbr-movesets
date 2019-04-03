@@ -1,0 +1,100 @@
+---
+species: Tentacruel
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Toxic]
+- [Hydro Pump]
+- [Sludge Bomb]
+- [Giga Drain]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Toxic]
+- [Sludge Bomb]
+- [Fire Blast]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Crunch]
+- [U-Turn]
+- [Fly]
+- [Leech Life]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Venomoth
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Sludge Bomb]
+- [Giga Drain]
+- [Psychic]
+- [Bug Buzz]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Muk
+setname: PWT-Let's Go Koga Rematch
+tags: [in-game, PWT-Let's Go Koga Rematch, trainer+koga]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Dark Pulse]
+- [Sludge Bomb]
+- [Giga Drain]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

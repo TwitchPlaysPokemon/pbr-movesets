@@ -1,0 +1,100 @@
+---
+species: Seaking
+setname: PWT-Wallace Gym
+tags: [in-game, PWT-Wallace Gym, trainer+wallace]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Horn Drill]
+- [Fury Attack]
+- [Rain Dance]
+- [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Wallace Gym
+tags: [in-game, PWT-Wallace Gym, trainer+wallace]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Amnesia]
+- [Rain Dance]
+- [Earthquake]
+- [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Wallace Gym
+tags: [in-game, PWT-Wallace Gym, trainer+wallace]
+item: [null]
+ability: [Marvel Scale]
+moves:
+- [Recover]
+- [Twister]
+- [Ice Beam]
+- [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sealeo
+setname: PWT-Wallace Gym
+tags: [in-game, PWT-Wallace Gym, trainer+wallace]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Encore]
+- [Body Slam]
+- [Aurora Beam]
+- [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Luvdisc
+setname: PWT-Wallace Gym
+tags: [in-game, PWT-Wallace Gym, trainer+wallace]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Flail]
+- [Attract]
+- [Sweet Kiss]
+- [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

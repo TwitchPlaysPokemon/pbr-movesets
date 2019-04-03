@@ -1,0 +1,60 @@
+---
+species: Crobat
+setname: PWT-Archie
+tags: [in-game, PWT-Archie, trainer+archie]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Bite]
+- [Wing Attack]
+- [Confuse Ray]
+- [Air Cutter]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mightyena
+setname: PWT-Archie
+tags: [in-game, PWT-Archie, trainer+archie]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Roar]
+- [Swagger]
+- [Scary Face]
+- [Take Down]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sharpedo
+setname: PWT-Archie
+tags: [in-game, PWT-Archie, trainer+archie]
+item: [null]
+ability: [Rough Skin]
+moves:
+- [Screech]
+- [Slash]
+- [Taunt]
+- [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,120 @@
+---
+species: Venomoth
+setname: PWT-Koga E4 Rematch
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [null]
+ability: [Tinted Lens]
+moves:
+- [Baton Pass]
+- [Double Team]
+- [Silver Wind]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Muk
+setname: PWT-Koga E4 Rematch
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [Black Sludge]
+ability: [Sticky Hold]
+moves:
+- [Minimize]
+- [Screech]
+- [Swagger]
+- [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Koga E4 Rematch
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Fly]
+- [Cross Poison]
+- [Mean Look]
+- [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Swalot
+setname: PWT-Koga E4 Rematch
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [Leftovers]
+ability: [Sticky Hold]
+moves:
+- [Sludge Bomb]
+- [Amnesia]
+- [Pain Split]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Skuntank
+setname: PWT-Koga E4 Rematch
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [null]
+ability: [Aftermath]
+moves:
+- [Toxic]
+- [Dig]
+- [Sucker Punch]
+- [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Koga E4 Rematch
+tags: [in-game, PWT-Koga E4 Rematch, trainer+koga]
+item: [null]
+ability: [Dry Skin]
+moves:
+- [Swagger]
+- [X-Scissor]
+- [Cross Chop]
+- [Gunk Shot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

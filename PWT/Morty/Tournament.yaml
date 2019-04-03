@@ -1,0 +1,120 @@
+---
+species: Gengar
+setname: PWT-Morty Tournament
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
+item: [Petaya Berry]
+ability: [Levitate]
+moves:
+- [Shadow Ball]
+- [Focus Blast]
+- [Dark Pulse]
+- [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Sableye
+setname: PWT-Morty Tournament
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
+item: [Ganlon Berry]
+ability: [Keen Eye, Stall]
+moves:
+- [Ominous Wind]
+- [Punishment]
+- [Calm Mind]
+- [Recover]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Banette
+setname: PWT-Morty Tournament
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
+item: [Liechi Berry]
+ability: [Insomnia, Frisk]
+moves:
+- [Shadow Claw]
+- [Sucker Punch]
+- [Curse]
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mismagius
+setname: PWT-Morty Tournament
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
+item: [Kasib Berry]
+ability: [Levitate]
+moves:
+- [Shadow Ball]
+- [Power Gem]
+- [Perish Song]
+- [Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Dusknoir
+setname: PWT-Morty Tournament
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
+item: [Sitrus Berry]
+ability: [Pressure]
+moves:
+- [Shadow Punch]
+- [Magnitude]
+- [Thunder Punch]
+- [Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Morty Tournament
+tags: [in-game, PWT-Morty Tournament, trainer+morty]
+item: [NeverMeltIce]
+ability: [Snow Cloak]
+moves:
+- [Confuse Ray]
+- [Thunderbolt]
+- [Calm Mind]
+- [Shadow Ball]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

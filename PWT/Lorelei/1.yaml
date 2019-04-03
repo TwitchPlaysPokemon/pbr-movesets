@@ -1,0 +1,100 @@
+---
+species: Slowbro
+setname: PWT-Lorelei
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Ice Beam]
+- [Surf]
+- [Amnesia]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dewgong
+setname: PWT-Lorelei
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Surf]
+- [Ice Beam]
+- [Hail]
+- [Safeguard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cloyster
+setname: PWT-Lorelei
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
+ability: [Shell Armor]
+moves:
+- [Spikes]
+- [Dive]
+- [Hail]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Lorelei
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Double Slap]
+- [Ice Punch]
+- [Lovely Kiss]
+- [Attract]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Lorelei
+tags: [in-game, PWT-Lorelei, trainer+lorelei]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Body Slam]
+- [Confuse Ray]
+- [Surf]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

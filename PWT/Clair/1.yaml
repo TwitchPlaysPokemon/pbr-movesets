@@ -1,0 +1,80 @@
+---
+species: Gyarados
+setname: PWT-Clair
+tags: [in-game, PWT-Clair, trainer+clair]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Bite]
+- [Twister]
+- [Dragon Rage]
+- [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Clair
+tags: [in-game, PWT-Clair, trainer+clair]
+item: [null]
+ability: [Shed Skin]
+moves:
+- [Thunder Wave]
+- [Slam]
+- [Aqua Tail]
+- [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Clair-2
+tags: [in-game, PWT-Clair, trainer+clair]
+item: [null]
+ability: [Shed Skin]
+moves:
+- [Thunder Wave]
+- [Slam]
+- [Fire Blast]
+- [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kingdra
+setname: PWT-Clair
+tags: [in-game, PWT-Clair, trainer+clair]
+item: [null]
+ability: [Sniper]
+moves:
+- [Hydro Pump]
+- [Smokescreen]
+- [Hyper Beam]
+- [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

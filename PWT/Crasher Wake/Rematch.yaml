@@ -1,0 +1,100 @@
+---
+species: Gyarados
+setname: PWT-Crasher Wake Rematch
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Bite]
+- [Avalanche]
+- [Aqua Tail]
+- [Giga Impact]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Crasher Wake Rematch
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
+item: [null]
+ability: [Damp]
+moves:
+- [Surf]
+- [Earthquake]
+- [Stone Edge]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Crasher Wake Rematch
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Surf]
+- [Energy Ball]
+- [Ice Beam]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sharpedo
+setname: PWT-Crasher Wake Rematch
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
+item: [null]
+ability: [Rough Skin]
+moves:
+- [Night Slash]
+- [Slash]
+- [Aqua Jet]
+- [Endure]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Floatzel
+setname: PWT-Crasher Wake Rematch
+tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Brine]
+- [Crunch]
+- [Ice Fang]
+- [Aqua Jet]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

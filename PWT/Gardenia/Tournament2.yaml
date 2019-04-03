@@ -1,0 +1,120 @@
+---
+species: Breloom
+setname: PWT-Gardenia Tournament2
+tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
+item: [Focus Sash]
+ability: [Effect Spore, Poison Heal]
+moves:
+- [Spore]
+- [Stone Edge]
+- [Drain Punch]
+- [Mach Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tropius
+setname: PWT-Gardenia Tournament2
+tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
+item: [Heat Rock]
+ability: [Chlorophyll, Solar Power]
+moves:
+- [Solar Beam]
+- [Air Slash]
+- [Synthesis]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Torterra
+setname: PWT-Gardenia Tournament2
+tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
+item: [Choice Band]
+ability: [Overgrow]
+moves:
+- [Wood Hammer]
+- [Earthquake]
+- [Outrage]
+- [Stone Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Gardenia Tournament2
+tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
+item: [Choice Scarf]
+ability: [Natural Cure, Poison Point]
+moves:
+- [Petal Dance]
+- [Weather Ball]
+- [Shadow Ball]
+- [Sludge Bomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tangrowth
+setname: PWT-Gardenia Tournament2
+tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
+item: [Salac Berry]
+ability: [Chlorophyll, Leaf Guard]
+moves:
+- [Power Whip]
+- [Earthquake]
+- [Sludge Bomb]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Leafeon
+setname: PWT-Gardenia Tournament2
+tags: [in-game, PWT-Gardenia Tournament2, trainer+gardenia]
+item: [Yache Berry]
+ability: [Leaf Guard]
+moves:
+- [Leaf Blade]
+- [X-Scissor]
+- [Quick Attack]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

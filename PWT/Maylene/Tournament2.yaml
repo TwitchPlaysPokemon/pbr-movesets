@@ -1,0 +1,120 @@
+---
+species: Machamp
+setname: PWT-Maylene Tournament2
+tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
+item: [Scope Lens]
+ability: [Guts, No Guard]
+moves:
+- [Cross Chop]
+- [Stone Edge]
+- [Ice Punch]
+- [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Maylene Tournament2
+tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
+item: [Choice Scarf]
+ability: [Pure Power]
+moves:
+- [Ice Punch]
+- [Zen Headbutt]
+- [Thunder Punch]
+- [High Jump Kick]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Maylene Tournament2
+tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
+item: [Charcoal]
+ability: [Blaze]
+moves:
+- [Close Combat]
+- [Mach Punch]
+- [Flare Blitz]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Maylene Tournament2
+tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
+item: [Focus Sash]
+ability: [Steadfast, Inner Focus]
+moves:
+- [Close Combat]
+- [Ice Punch]
+- [Extreme Speed]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Maylene Tournament2
+tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
+item: [Payapa Berry]
+ability: [Anticipation, Dry Skin]
+moves:
+- [Sucker Punch]
+- [Substitute]
+- [Drain Punch]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Maylene Tournament2
+tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
+item: [Coba Berry]
+ability: [Steadfast]
+moves:
+- [Leaf Blade]
+- [Psycho Cut]
+- [Close Combat]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

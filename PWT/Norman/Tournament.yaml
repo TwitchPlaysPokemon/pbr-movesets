@@ -1,0 +1,120 @@
+---
+species: Slaking
+setname: PWT-Norman Tournament
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
+item: [Sitrus Berry]
+ability: [Truant]
+moves:
+- [Giga Impact]
+- [Hammer Arm]
+- [Earthquake]
+- [Slack Off]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Exploud
+setname: PWT-Norman Tournament
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
+item: [Petaya Berry]
+ability: [Soundproof]
+moves:
+- [Fire Blast]
+- [Focus Blast]
+- [Hyper Voice]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Spinda
+setname: PWT-Norman Tournament
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
+item: [Black Glasses]
+ability: [Own Tempo, Tangled Feet]
+moves:
+- [Thrash]
+- [Sucker Punch]
+- [Teeter Dance]
+- [Assist]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Zangoose
+setname: PWT-Norman Tournament
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
+item: [Liechi Berry]
+ability: [Immunity]
+moves:
+- [Return]
+- [Close Combat]
+- [Rock Slide]
+- [Night Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Castform
+setname: PWT-Norman Tournament
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
+item: [NeverMeltIce]
+ability: [Forecast]
+moves:
+- [Fire Blast]
+- [Icy Wind]
+- [Hydro Pump]
+- [Disable]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Kecleon
+setname: PWT-Norman Tournament
+tags: [in-game, PWT-Norman Tournament, trainer+norman]
+item: [Ganlon Berry]
+ability: [Color Change]
+moves:
+- [Fake Out]
+- [Shadow Claw]
+- [Recover]
+- [Skill Swap]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,60 @@
+---
+species: Pinsir
+setname: PWT-Guzma
+tags: [in-game, PWT-Guzma, trainer+guzma]
+item: [null]
+ability: [Mold Breaker]
+moves:
+- [Crunch]
+- [Rock Smash]
+- [X-Scissor]
+- [Stone Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Scizor
+setname: PWT-Guzma
+tags: [in-game, PWT-Guzma, trainer+guzma]
+item: [null]
+ability: [Technician]
+moves:
+- [X-Scissor]
+- [Iron Head]
+- [Night Slash]
+- [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Masquerain
+setname: PWT-Guzma
+tags: [in-game, PWT-Guzma, trainer+guzma]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Air Slash]
+- [Bug Buzz]
+- [Ice Beam]
+- [Energy Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

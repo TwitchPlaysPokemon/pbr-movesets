@@ -1,0 +1,82 @@
+---
+species: Mantine
+setname: PWT-Morgan
+tags: [in-game, PWT-Morgan, trainer+morgan]
+item: [Wacan Berry]
+ability: [Swift Swim, Water Absorb]
+gender: [m, f]
+moves:
+- [Aqua Ring]
+- [Surf]
+- [Air Slash]
+- [Detect]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Stantler
+displayname: Sawsbuck
+ingamename: Sawsbuck
+setname: PWT-Morgan
+tags: [in-game, PWT-Morgan, trainer+morgan]
+item: [Shell Bell]
+ability: [Chlorophyll]
+gender: [m, f]
+moves:
+- [Double Edge]
+- [Giga Drain]
+- [Megahorn]
+- [Leech Seed]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Latias
+setname: PWT-Morgan
+tags: [in-game, PWT-Morgan, trainer+morgan]
+item: [Lax Incense]
+ability: [Levitate]
+gender: [f]
+moves:
+- [Calm Mind]
+- [Dragon Pulse]
+- [Mist Ball]
+- [Recover]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Swalot
+setname: PWT-Morgan
+tags: [in-game, PWT-Morgan, trainer+morgan]
+item: [Black Sludge]
+ability: [Liquid Ooze, Sticky Hold]
+gender: [m, f]
+moves:
+- [Toxic]
+- [Stockpile]
+- [Earthquake]
+- [Protect]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

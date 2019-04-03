@@ -1,0 +1,100 @@
+---
+species: Dragonite
+setname: PWT-Clair Tournament
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
+item: [Liechi Berry]
+ability: [Inner Focus]
+moves:
+- [Sharpen]
+- [Aeroblast]
+- [Dragon Rush]
+- [Stone Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Kingdra
+setname: PWT-Clair Tournament
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
+item: [Haban Berry]
+ability: [Swift Swim, Sniper]
+moves:
+- [Yawn]
+- [Agility]
+- [Dragon Pulse]
+- [Hydro Pump]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Clair Tournament
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
+item: [Charcoal]
+ability: [Natural Cure]
+moves:
+- [Dragonbreath]
+- [Fire Blast]
+- [Perish Song]
+- [Barrier]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Clair Tournament
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
+item: [Petaya Berry]
+ability: [Intimidate]
+moves:
+- [Dragon Pulse]
+- [Heat Wave]
+- [Hydro Pump]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Clair Tournament
+tags: [in-game, PWT-Clair Tournament, trainer+clair]
+item: [Yache Berry]
+ability: [Sand Veil]
+moves:
+- [Dragon Claw]
+- [Earthquake]
+- [Aqua Tail]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

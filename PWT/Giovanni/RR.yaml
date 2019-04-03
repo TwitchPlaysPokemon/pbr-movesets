@@ -1,0 +1,102 @@
+---
+species: Nidoqueen
+setname: PWT-Giovanni RR
+tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
+item: [null]
+ability: [Poison Point]
+moves:
+- [Surf]
+- [Sludge Bomb]
+- [Earth Power]
+- [Flamethrower]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nidoking
+setname: PWT-Giovanni RR
+tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
+item: [null]
+ability: [Poison Point]
+moves:
+- [Earthquake]
+- [Poison Jab]
+- [Crunch]
+- [Aqua Tail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dugtrio
+setname: PWT-Giovanni RR
+tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
+item: [Smooth Rock]
+ability: [Sand Veil]
+moves:
+- [Sandstorm]
+- [Earthquake]
+- [Sucker Punch]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mewtwo
+setname: PWT-Giovanni RR
+tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
+item: [Everstone]
+ability: [Pressure]
+moves:
+- [Zen Headbutt, Psywave]
+- [Earthquake, Aura Sphere]
+- [Stone Edge, Psychic]
+- [Drain Punch, Ice Beam]
+combinations:
+- [Psywave, Aura Sphere, Psychic, Ice Beam]
+- [Zen Headbutt, Earthquake, Stone Edge, Drain Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Giovanni RR
+tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Megahorn]
+- [Earthquake]
+- [Stone Edge]
+- [Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,99 @@
+---
+species: Arcanine
+setname: PWT-Marley
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Flare Blitz]
+- [Extreme Speed]
+- [Thunder Fang]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Marley
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
+ability: [Soundproof]
+moves:
+- [Double Team]
+- [Thunder Wave]
+- [Thunder]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Marley
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Double Team]
+- [Confuse Ray]
+- [Air Slash]
+- [Poison Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ninjask
+setname: PWT-Marley
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
+ability: [Speed Boost]
+moves:
+- [Swords Dance]
+- [Aerial Ace]
+- [X-Scissor]
+- [Slash]
+happiness: 255
+biddable: false
+gender: [m, f]
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Marley
+tags: [in-game, PWT-Marley, trainer+marley]
+item: [null]
+ability: [Pressure]
+moves:
+- [Ice Punch]
+- [Aerial Ace]
+- [Night Slash]
+- [Ice Shard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,98 @@
+---
+species: Electrode
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [null]
+moves:
+- [Mirror Coat]
+- [Explosion]
+- [Thunderbolt]
+- [Payback]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Thunder]
+- [Shadow Ball]
+- [Reflect]
+- [Quick Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Electabuzz
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunder Punch]
+- [Ice Punch]
+- [Fire Punch]
+- [Brick Break]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magneton
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [null]
+moves:
+- [Thunder]
+- [Flash Cannon]
+- [Tri Attack]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Let's Go Lt. Surge Rematch
+tags: [in-game, PWT-Let's Go Lt. Surge Rematch, trainer+ltsurge]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunder Punch]
+- [Iron Tail]
+- [Brick Break]
+- [Quick Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

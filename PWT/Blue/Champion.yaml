@@ -1,0 +1,120 @@
+---
+species: Blastoise
+setname: PWT-Blue Champion
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
+ability: [Torrent]
+moves:
+- [Hydro Pump]
+- [Rain Dance]
+- [Skull Bash]
+- [Bite]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pidgeot
+setname: PWT-Blue Champion
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Aerial Ace]
+- [Feather Dance]
+- [Sand Attack]
+- [Whirlwind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blue Champion
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Extreme Speed]
+- [Flamethrower]
+- [Roar]
+- [Bite]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Blue Champion
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Future Sight]
+- [Recover]
+- [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Blue Champion
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Giga Drain]
+- [Egg Bomb]
+- [Sleep Powder]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Blue Champion
+tags: [in-game, PWT-Blue Champion, trainer+blue]
+item: [null]
+ability: [Lightningrod]
+moves:
+- [Take Down]
+- [Earthquake]
+- [Rock Tomb]
+- [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

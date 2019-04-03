@@ -1,0 +1,120 @@
+---
+species: Golem
+setname: PWT-Brock Tournament2
+tags: [in-game, PWT-Brock Tournament2, trainer+brock]
+item: [Lum Berry]
+ability: [Rock Head, Sturdy]
+moves:
+- [Stone Edge]
+- [Earthquake]
+- [Rock Polish]
+- [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Brock Tournament2
+tags: [in-game, PWT-Brock Tournament2, trainer+brock]
+item: [Everstone]
+ability: [Rock Head, Sturdy]
+moves:
+- [Stone Edge]
+- [Earthquake]
+- [Iron Head]
+- [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Kabutops
+setname: PWT-Brock Tournament2
+tags: [in-game, PWT-Brock Tournament2, trainer+brock]
+item: [Focus Sash]
+ability: [Swift Swim, Battle Armor]
+moves:
+- [Waterfall]
+- [Rock Slide]
+- [X-Scissor]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Brock Tournament2
+tags: [in-game, PWT-Brock Tournament2, trainer+brock]
+item: [Choice Scarf]
+ability: [Rock Head, Pressure]
+moves:
+- [Rock Slide]
+- [Earthquake]
+- [Fire Fang]
+- [Ice Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Brock Tournament2
+tags: [in-game, PWT-Brock Tournament2, trainer+brock]
+item: [Chople Berry]
+ability: [Sand Stream]
+moves:
+- [Stone Edge]
+- [Payback]
+- [Thunder Punch]
+- [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Brock Tournament2
+tags: [in-game, PWT-Brock Tournament2, trainer+brock]
+item: [Expert Belt]
+ability: [Lightning Rod, Solid Rock]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Megahorn]
+- [Avalanche]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

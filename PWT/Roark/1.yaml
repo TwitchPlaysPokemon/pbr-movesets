@@ -1,0 +1,56 @@
+---
+species: Geodude
+setname: PWT-Roark
+tags: [in-game, PWT-Roark, trainer+roark]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Rock Throw]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Roark
+tags: [in-game, PWT-Roark, trainer+roark]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Rock Throw]
+- [Screech]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cranidos
+setname: PWT-Roark
+tags: [in-game, PWT-Roark, trainer+roark]
+item: [null]
+ability: [Mold Breaker]
+moves:
+- [Headbutt]
+- [Pursuit]
+- [Leer]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

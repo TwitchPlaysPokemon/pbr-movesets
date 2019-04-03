@@ -1,0 +1,120 @@
+---
+species: Charizard
+setname: PWT-Azure
+tags: [in-game, PWT-Azure, trainer+azure]
+item: [Charcoal]
+ability: [null]
+moves:
+- [Fire Blast]
+- [Wing Attack]
+- [Slash]
+- [Fire Spin]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pidgeot
+setname: PWT-Azure
+tags: [in-game, PWT-Azure, trainer+azure]
+item: [Sharp Beak]
+ability: [null]
+moves:
+- [Wing Attack]
+- [Sand Attack]
+- [Sky Attack]
+- [Whirlwind]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Azure
+tags: [in-game, PWT-Azure, trainer+azure]
+item: [Twisted Spoon]
+ability: [null]
+moves:
+- [Future Sight]
+- [Psychic]
+- [Reflect]
+- [Recover]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Azure
+tags: [in-game, PWT-Azure, trainer+azure]
+item: [Miracle Seed]
+ability: [null]
+moves:
+- [Giga Drain]
+- [Seed Bomb]
+- [Sleep Powder]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Azure
+tags: [in-game, PWT-Azure, trainer+azure]
+item: [Scope Lens]
+ability: [null]
+moves:
+- [Take Down]
+- [Earthquake]
+- [Horn Drill]
+- [Scary Face]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Azure
+tags: [in-game, PWT-Azure, trainer+azure]
+item: [Mystic Water]
+ability: [null]
+moves:
+- [Hydro Pump]
+- [Dragon Rage]
+- [Crunch]
+- [Thrash]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,60 @@
+---
+species: Staraptor
+setname: PWT-Darach
+tags: [in-game, PWT-Darach, trainer+darach]
+item: [King's Rock]
+ability: [Intimidate]
+moves:
+- [Return]
+- [Double Team]
+- [Aerial Ace]
+- [Roost]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Darach
+tags: [in-game, PWT-Darach, trainer+darach]
+item: [Razor Claw]
+ability: [Torrent]
+moves:
+- [Waterfall]
+- [Metal Claw]
+- [Brick Break]
+- [Knock Off]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Darach
+tags: [in-game, PWT-Darach, trainer+darach]
+item: [Focus Sash]
+ability: [Early Bird, Flash Fire]
+moves:
+- [Crunch]
+- [Fire Fang]
+- [Counter]
+- [Roar]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

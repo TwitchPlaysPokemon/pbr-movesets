@@ -1,0 +1,100 @@
+---
+species: Arbok
+setname: PWT-Agatha
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Bite]
+- [Sludge Bomb]
+- [Screech]
+- [Iron Tail]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Agatha
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Confuse Ray]
+- [Bite]
+- [Air Cutter]
+- [Poison Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Haunter
+setname: PWT-Agatha
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
+ability: [Levitate]
+moves:
+- [Mean Look]
+- [Curse]
+- [Hypnosis]
+- [Dream Eater]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Agatha
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
+ability: [Levitate]
+moves:
+- [Confuse Ray]
+- [Shadow Punch]
+- [Double Team]
+- [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Agatha-2
+tags: [in-game, PWT-Agatha, trainer+agatha]
+item: [null]
+ability: [Levitate]
+moves:
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Hypnosis]
+- [Nightmare]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

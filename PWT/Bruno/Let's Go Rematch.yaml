@@ -1,0 +1,120 @@
+---
+species: Onix
+setname: PWT-Let's Go Bruno Rematch
+tags: [in-game, PWT-Let's Go Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Stealth Rock]
+- [Iron Tail]
+- [Earthquake]
+- [Rock Slide]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Let's Go Bruno Rematch
+tags: [in-game, PWT-Let's Go Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Fire Punch]
+- [Ice Punch]
+- [Thunder Punch]
+- [Feint]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Let's Go Bruno Rematch
+tags: [in-game, PWT-Let's Go Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [High Jump Kick]
+- [Feint]
+- [Rock Slide]
+- [Poison Jab]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Poliwrath
+setname: PWT-Let's Go Bruno Rematch
+tags: [in-game, PWT-Let's Go Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Waterfall]
+- [Body Slam]
+- [Superpower]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Let's Go Bruno Rematch
+tags: [in-game, PWT-Let's Go Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Earthquake]
+- [Rock Slide]
+- [Superpower]
+- [Ice Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Let's Go Bruno Rematch
+tags: [in-game, PWT-Let's Go Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunder Punch]
+- [Rock Slide]
+- [Superpower]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

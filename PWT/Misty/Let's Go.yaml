@@ -1,0 +1,36 @@
+---
+species: Psyduck
+setname: PWT-Let's Go Misty
+tags: [in-game, PWT-Let's Go Misty, trainer+misty]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Confusion]
+- [Water Gun]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Let's Go Misty
+tags: [in-game, PWT-Let's Go Misty, trainer+misty]
+item: [null]
+ability: [null]
+moves:
+- [Surf]
+- [Swift]
+- [Psywave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

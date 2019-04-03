@@ -1,0 +1,100 @@
+---
+species: Golem
+setname: PWT-Bertha
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Earthquake]
+- [Fire Punch]
+- [Thunder Punch]
+- [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Bertha
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Earth Power]
+- [Aqua Tail]
+- [Zen Headbutt]
+- [Sandstorm]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hippowdon
+setname: PWT-Bertha
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
+ability: [Sand Stream]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Crunch]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Bertha
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
+ability: [Lightningrod]
+moves:
+- [Earthquake]
+- [Rock Wrecker]
+- [Megahorn]
+- [Avalanche]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Bertha
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
+ability: [Hyper Cutter]
+moves:
+- [Earthquake]
+- [Ice Fang]
+- [Fire Fang]
+- [Thunder Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

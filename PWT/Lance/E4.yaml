@@ -1,0 +1,100 @@
+---
+species: Gyarados
+setname: PWT-Lance E4
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Bite]
+- [Dragon Rage]
+- [Twister]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Lance E4
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Wing Attack]
+- [Ancient Power]
+- [Scary Face]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Lance E4
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
+ability: [Shed Skin]
+moves:
+- [Safeguard]
+- [Outrage]
+- [Dragon Rage]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Lance E4-2
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
+ability: [Shed Skin]
+moves:
+- [Safeguard]
+- [Outrage]
+- [Thunder Wave]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance E4
+tags: [in-game, PWT-Lance E4, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Safeguard]
+- [Outrage]
+- [Wing Attack]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,100 @@
+---
+species: Gyarados
+setname: PWT-Lance E4 Rematch
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Hyper Beam]
+- [Dragon Dance]
+- [Earthquake]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Lance E4 Rematch
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Hyper Beam]
+- [Ancient Power]
+- [Aerial Ace]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance E4 Rematch
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Hyper Beam]
+- [Earthquake]
+- [Dragon Claw]
+- [Flamethrower]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance E4 Rematch-2
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Hyper Beam]
+- [Outrage]
+- [Thunderbolt]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kingdra
+setname: PWT-Lance E4 Rematch
+tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Hyper Beam]
+- [Dragon Dance]
+- [Surf]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

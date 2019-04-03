@@ -1,0 +1,77 @@
+---
+species: Dugtrio
+setname: PWT-Let's Go Giovanni Gym
+tags: [in-game, PWT-Let's Go Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Slash]
+- [Sucker Punch]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Nidoqueen
+setname: PWT-Let's Go Giovanni Gym
+tags: [in-game, PWT-Let's Go Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Super Fang]
+- [Earthquake]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Nidoking
+setname: PWT-Let's Go Giovanni Gym
+tags: [in-game, PWT-Let's Go Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Megahorn]
+- [Earthquake]
+- [Poison Jab]
+- [Horn Drill]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Let's Go Giovanni Gym
+tags: [in-game, PWT-Let's Go Giovanni Gym, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Earthquake]
+- [Rock Slide]
+- [Megahorn]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

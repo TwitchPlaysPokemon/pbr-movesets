@@ -1,0 +1,120 @@
+---
+species: Umbreon
+setname: PWT-Karen Rematch
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Confuse Ray]
+- [Curse]
+- [Payback]
+- [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Karen Rematch
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Nasty Plot]
+- [Dark Pulse]
+- [Flamethrower]
+- [Sludge Bomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Absol
+setname: PWT-Karen Rematch
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
+item: [null]
+ability: [Super Luck]
+moves:
+- [Detect]
+- [Perish Song]
+- [Night Slash]
+- [Psycho Cut]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Karen Rematch
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
+item: [null]
+ability: [Super Luck]
+moves:
+- [Thunder Wave]
+- [Whirlwind]
+- [Drill Peck]
+- [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Spiritomb
+setname: PWT-Karen Rematch
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
+item: [null]
+ability: [Pressure]
+moves:
+- [Curse]
+- [Confuse Ray]
+- [Pain Split]
+- [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Karen Rematch
+tags: [in-game, PWT-Karen Rematch, trainer+karen]
+item: [null]
+ability: [Pressure]
+moves:
+- [Ice Punch]
+- [Night Slash]
+- [Low Kick]
+- [Ice Shard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

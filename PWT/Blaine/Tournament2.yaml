@@ -1,0 +1,119 @@
+---
+species: Charizard
+setname: PWT-Blaine Tournament2
+tags: [in-game, PWT-Blaine Tournament2, trainer+blaine]
+item: [Life Orb]
+ability: [Blaze]
+moves:
+- [Flamethrower]
+- [Air Slash]
+- [Focus Blast]
+- [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Blaine Tournament2
+tags: [in-game, PWT-Blaine Tournament2, trainer+blaine]
+item: [Charti Berry]
+ability: [Flash Fire]
+moves:
+- [Fire Blast]
+- [Energy Ball]
+- [Psychic]
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blaine Tournament2
+tags: [in-game, PWT-Blaine Tournament2, trainer+blaine]
+item: [Focus Sash]
+ability: [Intimidate]
+moves:
+- [Overheat]
+- [Close Combat]
+- [Extreme Speed]
+- [Magnitude]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Blaine Tournament2
+tags: [in-game, PWT-Blaine Tournament2, trainer+blaine]
+item: [Passho Berry]
+ability: [Flash Fire]
+moves:
+- [Superpower]
+- [Quick Attack]
+- [Overheat]
+- [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Blaine Tournament2
+tags: [in-game, PWT-Blaine Tournament2, trainer+blaine]
+item: [Choice Scarf]
+ability: [Flame Body]
+moves:
+- [Fire Blast]
+- [Psychic]
+- [Thunderbolt]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rotom
+setname: PWT-Blaine Tournament2
+tags: [in-game, PWT-Blaine Tournament2, trainer+blaine]
+item: [Flame Orb]
+ability: [Levitate]
+moves:
+- [Trick]
+- [Overheat]
+- [Thunderbolt]
+- [Pain Split]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

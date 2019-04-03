@@ -1,0 +1,100 @@
+---
+species: Venomoth
+setname: PWT-Janine
+tags: [in-game, PWT-Janine, trainer+janine]
+item: [null]
+ability: [Tinted Lens]
+moves:
+- [Double Team]
+- [Psychic]
+- [Sludge Bomb]
+- [Signal Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Janine
+tags: [in-game, PWT-Janine, trainer+janine]
+item: [null]
+ability: [Levitate]
+moves:
+- [Sludge Bomb]
+- [Toxic]
+- [Explosion]
+- [Double Hit]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ariados
+setname: PWT-Janine
+tags: [in-game, PWT-Janine, trainer+janine]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Swagger]
+- [Night Shade]
+- [Poison Jab]
+- [Pin Missile]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ariados
+setname: PWT-Janine-2
+tags: [in-game, PWT-Janine, trainer+janine]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Psychic]
+- [Poison Jab]
+- [Screech]
+- [Pin Missile]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Janine
+tags: [in-game, PWT-Janine, trainer+janine]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Confuse Ray]
+- [Screech]
+- [Wing Attack]
+- [Supersonic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

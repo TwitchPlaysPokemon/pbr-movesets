@@ -1,0 +1,60 @@
+---
+species: Charizard
+setname: PWT-Team A.C.T.
+tags: [in-game, PWT-Team A.C.T., trainer+teamact]
+item: [null]
+ability: [Blaze]
+moves:
+- [Smokescreen]
+- [Heat Wave]
+- [Scratch]
+- [Air Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Team A.C.T.
+tags: [in-game, PWT-Team A.C.T., trainer+teamact]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Teleport]
+- [Kinesis]
+- [Confusion]
+- [Follow Me]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Team A.C.T.
+tags: [in-game, PWT-Team A.C.T., trainer+teamact]
+item: [null]
+ability: [Sand Stream]
+moves:
+- [Ice Fang]
+- [Sandstorm]
+- [Fire Fang]
+- [Bite]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

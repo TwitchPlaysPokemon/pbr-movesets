@@ -1,0 +1,100 @@
+---
+species: Rapidash
+setname: PWT-Flint
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
+ability: [Run Away]
+moves:
+- [Flare Blitz]
+- [Solar Beam]
+- [Bounce]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Flint
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Overheat]
+- [Giga Impact]
+- [Quick Attack]
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Flint
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Flamethrower]
+- [Sludge Bomb]
+- [Dark Pulse]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Flint
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
+ability: [Blaze]
+moves:
+- [Flare Blitz]
+- [Thunder Punch]
+- [Mach Punch]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Flint
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
+ability: [Flame Body]
+moves:
+- [Flamethrower]
+- [Thunderbolt]
+- [Solar Beam]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,57 @@
+---
+species: Weezing
+setname: PWT-Let's Go Jessie & James
+tags: [in-game, PWT-Let's Go Jessie & James, trainer+jessiejames]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Sludge Bomb]
+- [Dark Pulse]
+- [Flamethrower]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Arbok
+setname: PWT-Let's Go Jessie & James
+tags: [in-game, PWT-Let's Go Jessie & James, trainer+jessiejames]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Poison Jab]
+- [Glare]
+- [Crunch]
+- [Rock Slide]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Meowth
+setname: PWT-Let's Go Jessie & James
+tags: [in-game, PWT-Let's Go Jessie & James, trainer+jessiejames]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Rest (=1)]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

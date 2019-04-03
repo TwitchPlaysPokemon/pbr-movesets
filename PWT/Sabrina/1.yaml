@@ -1,0 +1,80 @@
+---
+species: Venomoth
+setname: PWT-Sabrina
+tags: [in-game, PWT-Sabrina, trainer+sabrina]
+item: [null]
+ability: [Shield Dust]
+moves:
+- [Psybeam]
+- [Gust]
+- [Leech Life]
+- [Supersonic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kadabra
+setname: PWT-Sabrina
+tags: [in-game, PWT-Sabrina, trainer+sabrina]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psybeam]
+- [Reflect]
+- [Future Sight]
+- [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Sabrina
+tags: [in-game, PWT-Sabrina, trainer+sabrina]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Recover]
+- [Future Sight]
+- [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+setname: PWT-Sabrina
+tags: [in-game, PWT-Sabrina, trainer+sabrina]
+item: [null]
+ability: [Soundproof]
+moves:
+- [Barrier]
+- [Psybeam]
+- [Baton Pass]
+- [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

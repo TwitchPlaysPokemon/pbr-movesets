@@ -1,0 +1,60 @@
+---
+species: Crobat
+setname: PWT-Maxie
+tags: [in-game, PWT-Maxie, trainer+maxie]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Wing Attack]
+- [Confuse Ray]
+- [Air Cutter]
+- [Mean Look]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mightyena
+setname: PWT-Maxie
+tags: [in-game, PWT-Maxie, trainer+maxie]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Swagger]
+- [Scary Face]
+- [Take Down]
+- [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Camerupt
+setname: PWT-Maxie
+tags: [in-game, PWT-Maxie, trainer+maxie]
+item: [null]
+ability: [Magma Armor]
+moves:
+- [Take Down]
+- [Amnesia]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

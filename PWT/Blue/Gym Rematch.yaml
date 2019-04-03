@@ -1,0 +1,120 @@
+---
+species: Pidgeot
+setname: PWT-Blue Gym Rematch
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [null]
+ability: [Tangled Feet]
+moves:
+- [Return]
+- [Double Team]
+- [Air Slash]
+- [Steel Wing]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blue Gym Rematch
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Flare Blitz]
+- [Extreme Speed]
+- [Thunder Fang]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Blue Gym Rematch
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [Iron Ball]
+ability: [No Guard]
+moves:
+- [Dynamic Punch]
+- [Stone Edge]
+- [Fling]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Blue Gym Rematch
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Leaf Storm]
+- [Psychic]
+- [Explosion]
+- [Trick Room]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Blue Gym Rematch
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [null]
+ability: [Sand Stream]
+moves:
+- [Low Kick]
+- [Fire Fang]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Blue Gym Rematch
+tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
+item: [null]
+ability: [Solid Rock]
+moves:
+- [Megahorn]
+- [Stone Edge]
+- [Thunder Fang]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

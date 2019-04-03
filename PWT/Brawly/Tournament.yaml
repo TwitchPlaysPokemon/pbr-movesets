@@ -1,0 +1,120 @@
+---
+species: Machamp
+setname: PWT-Brawly Tournament
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
+item: [Lum Berry]
+ability: [Guts, No Guard]
+moves:
+- [Close Combat]
+- [Earthquake]
+- [Stone Edge]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Brawly Tournament
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
+item: [Salac Berry]
+ability: [Swarm, Guts]
+moves:
+- [Close Combat]
+- [Megahorn]
+- [Aerial Ace]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Brawly Tournament
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
+item: [Liechi Berry]
+ability: [Intimidate, Technician]
+moves:
+- [Triple Kick]
+- [Earthquake]
+- [Rock Slide]
+- [Agility]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Breloom
+setname: PWT-Brawly Tournament
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
+item: [Coba Berry]
+ability: [Effect Spore, Poison Heal]
+moves:
+- [Focus Punch]
+- [Spore]
+- [Stone Edge]
+- [Mach Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hariyama
+setname: PWT-Brawly Tournament
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
+item: [Sitrus Berry]
+ability: [Thick Fat, Guts]
+moves:
+- [Close Combat]
+- [Bullet Punch]
+- [Earthquake]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Brawly Tournament
+tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
+item: [Twisted Spoon]
+ability: [Pure Power]
+moves:
+- [Brick Break]
+- [Psycho Cut]
+- [Thunder Punch]
+- [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,120 @@
+---
+species: Tauros
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Double Edge]
+- [Rock Slide]
+- [Earthquake]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Power Gem]
+- [Psychic]
+- [Reflect]
+- [Payback]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Waterfall]
+- [Crunch]
+- [Earthquake]
+- [Outrage]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Power Whip]
+- [Light Screen]
+- [Stomp]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Rock Slide]
+- [Earthquake]
+- [Iron Tail]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Let's Go Blue Rematch
+tags: [in-game, PWT-Let's Go Blue Rematch, trainer+blue]
+item: [Everstone]
+ability: [null]
+gender: [m]
+moves:
+- [Fire Blast]
+- [Dragon Pulse]
+- [Hyper Beam]
+- [Air Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

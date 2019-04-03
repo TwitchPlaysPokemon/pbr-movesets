@@ -1,0 +1,117 @@
+---
+species: Steelix
+setname: PWT-Jasmine Rematch
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Iron Tail]
+- [Stone Edge]
+- [Stealth Rock]
+- [Roar]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Skarmory
+setname: PWT-Jasmine Rematch
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Steel Wing]
+- [Night Slash]
+- [Air Slash]
+- [Spikes]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Jasmine Rematch
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
+item: [null]
+ability: [Clear Body]
+moves:
+- [Meteor Mash]
+- [Gravity]
+- [Bullet Punch]
+- [Explosion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Jasmine Rematch
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
+item: [null]
+ability: [Torrent]
+moves:
+- [Hydro Pump]
+- [Blizzard]
+- [Aqua Jet]
+- [Roar]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Jasmine Rematch
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
+item: [null]
+ability: [Heatproof]
+moves:
+- [Gyro Ball]
+- [Gravity]
+- [Hypnosis]
+- [Dream Eater]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Jasmine Rematch
+tags: [in-game, PWT-Jasmine Rematch, trainer+jasmine]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Metal Sound]
+- [Mirror Coat]
+- [Lock On]
+- [Zap Cannon]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

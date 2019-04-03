@@ -1,0 +1,54 @@
+---
+species: Voltorb
+setname: PWT-Let's Go Lt. Surge
+tags: [in-game, PWT-Let's Go Lt. Surge, trainer+ltsurge]
+item: [null]
+ability: [null]
+moves:
+- [Thunderbolt]
+- [Swift]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magnemite
+setname: PWT-Let's Go Lt. Surge
+tags: [in-game, PWT-Let's Go Lt. Surge, trainer+ltsurge]
+item: [null]
+ability: [null]
+moves:
+- [Thunderbolt]
+- [Sonicboom]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Let's Go Lt. Surge
+tags: [in-game, PWT-Let's Go Lt. Surge, trainer+ltsurge]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunderbolt]
+- [Quick Attack]
+- [Double Kick]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

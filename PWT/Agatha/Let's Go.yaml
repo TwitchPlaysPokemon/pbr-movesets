@@ -1,0 +1,95 @@
+---
+species: Arbok
+setname: PWT-Let's Go Agatha
+tags: [in-game, PWT-Let's Go Agatha, trainer+agatha]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Glare]
+- [Crunch]
+- [Poison Jab]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Let's Go Agatha
+tags: [in-game, PWT-Let's Go Agatha, trainer+agatha]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Shadow Ball]
+- [Will-O-Wisp]
+- [Sludge Bomb]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Let's Go Agatha
+tags: [in-game, PWT-Let's Go Agatha, trainer+agatha]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Air Slash]
+- [Crunch]
+- [Quick Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Let's Go Agatha
+tags: [in-game, PWT-Let's Go Agatha, trainer+agatha]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Let's Go Agatha-2
+tags: [in-game, PWT-Let's Go Agatha, trainer+agatha]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Psybeam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

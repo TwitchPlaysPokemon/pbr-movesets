@@ -1,0 +1,120 @@
+---
+species: Glalie
+setname: PWT-Candice Tournament
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
+item: [Hard Stone]
+ability: [Inner Focus, Ice Body]
+moves:
+- [Hail]
+- [Ice Beam]
+- [Crunch]
+- [Rollout]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Candice Tournament
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
+item: [Occa Berry]
+ability: [Snow Warning]
+moves:
+- [Earthquake]
+- [Blizzard]
+- [Grass Knot]
+- [Ingrain]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Candice Tournament
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
+item: [Chople Berry]
+ability: [Pressure]
+moves:
+- [Torment]
+- [Night Slash]
+- [Ice Punch]
+- [Revenge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Glaceon
+setname: PWT-Candice Tournament
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
+item: [Salac Berry]
+ability: [Snow Cloak]
+moves:
+- [Icy Wind]
+- [Shadow Ball]
+- [Signal Beam]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mamoswine
+setname: PWT-Candice Tournament
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
+item: [Liechi Berry]
+ability: [Oblivious, Snow Cloak]
+moves:
+- [Icicle Spear]
+- [Superpower]
+- [Magnitude]
+- [Rock Tomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Candice Tournament
+tags: [in-game, PWT-Candice Tournament, trainer+candice]
+item: [Petaya Berry]
+ability: [Snow Cloak]
+moves:
+- [Hail]
+- [Blizzard]
+- [Shadow Ball]
+- [Thunderbolt]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

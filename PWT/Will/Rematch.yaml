@@ -1,0 +1,119 @@
+---
+species: Slowbro
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch, trainer+will]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Curse]
+- [Amnesia]
+- [Body Slam]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch, trainer+will]
+item: [null]
+ability: [Forewarn]
+moves:
+- [Fake Tears]
+- [Lovely Kiss]
+- [Dream Eater]
+- [Blizzard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch, trainer+will]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Confuse Ray]
+- [Quick Attack]
+- [Shadow Ball]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch, trainer+will]
+item: [null]
+ability: [Trace]
+moves:
+- [Calm Mind]
+- [Charge Beam]
+- [Focus Blast]
+- [Psychic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Grumpig
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch, trainer+will]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Confuse Ray]
+- [Signal Beam]
+- [Power Gem]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Will Rematch
+tags: [in-game, PWT-Will Rematch, trainer+will]
+item: [null]
+ability: [Heatproof]
+moves:
+- [Gravity]
+- [Reflect]
+- [Payback]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

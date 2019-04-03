@@ -1,0 +1,100 @@
+---
+species: Dewgong
+setname: PWT-Lorelei Rematch
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Surf]
+- [Ice Beam]
+- [Signal Beam]
+- [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cloyster
+setname: PWT-Lorelei Rematch
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [Shell Armor]
+moves:
+- [Rain Dance]
+- [Surf]
+- [Ice Beam]
+- [Supersonic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Lorelei Rematch
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Psychic]
+- [Ice Beam]
+- [Lovely Kiss]
+- [Attract]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Lorelei Rematch
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
+item: [Cheri Berry]
+ability: [Water Absorb]
+moves:
+- [Psychic]
+- [Thunder]
+- [Surf]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Piloswine
+setname: PWT-Lorelei Rematch
+tags: [in-game, PWT-Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Earthquake]
+- [Blizzard]
+- [Double Edge]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

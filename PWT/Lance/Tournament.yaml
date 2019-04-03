@@ -1,0 +1,80 @@
+---
+species: Dragonite
+setname: PWT-Lance Tournament
+tags: [in-game, PWT-Lance Tournament, trainer+lance]
+item: [Focus Sash]
+ability: [Inner Focus]
+moves:
+- [Extreme Speed]
+- [Ice Punch]
+- [Fire Punch]
+- [Draco Meteor]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Kingdra
+setname: PWT-Lance Tournament
+tags: [in-game, PWT-Lance Tournament, trainer+lance]
+item: [Scope Lens]
+ability: [Swift Swim, Sniper]
+moves:
+- [Surf]
+- [Dragon Pulse]
+- [Ice Beam]
+- [Flash Cannon]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Flygon
+setname: PWT-Lance Tournament
+tags: [in-game, PWT-Lance Tournament, trainer+lance]
+item: [Power Herb]
+ability: [Levitate]
+moves:
+- [Draco Meteor]
+- [Earthquake]
+- [Solar Beam]
+- [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 25
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Lance Tournament
+tags: [in-game, PWT-Lance Tournament, trainer+lance]
+item: [Expert Belt]
+ability: [Intimidate]
+moves:
+- [Dragon Claw]
+- [Earthquake]
+- [Stone Edge]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 25
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

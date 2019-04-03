@@ -1,0 +1,118 @@
+---
+species: Forretress
+setname: PWT-Byron Tournament
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
+item: [Occa Berry]
+ability: [Sturdy]
+moves:
+- [Gyro Ball]
+- [Iron Defense]
+- [Light Screen]
+- [Spikes]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Byron Tournament
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
+item: [Passho Berry]
+ability: [Sturdy, Rock Head]
+moves:
+- [Gyro Ball]
+- [Dragon Rush]
+- [Curse]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aggron
+setname: PWT-Byron Tournament
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
+item: [Chople Berry]
+ability: [Sturdy, Rock Head]
+moves:
+- [Iron Head]
+- [Agility]
+- [Rock Slide]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Bastiodon
+setname: PWT-Byron Tournament
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
+item: [Shuca Berry]
+ability: [Sturdy]
+moves:
+- [Metal Burst]
+- [Fire Blast]
+- [Iron Defense]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Byron Tournament
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
+item: [Sitrus Berry]
+ability: [Heatproof, Levitate]
+moves:
+- [Gyro Ball]
+- [Zen Headbutt]
+- [Hypnosis]
+- [Trick Room]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Byron Tournament
+tags: [in-game, PWT-Byron Tournament, trainer+byron]
+item: [Shuca Berry]
+ability: [Magnet Pull, Sturdy]
+moves:
+- [Flash Cannon]
+- [Charge Beam]
+- [Barrier]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,59 @@
+---
+species: Alakazam
+setname: PWT-Anabel
+tags: [in-game, PWT-Anabel, trainer+anabel]
+item: [Bright Powder]
+ability: [Synchronize, Inner Focus]
+moves:
+- [Ice Punch]
+- [Fire Punch]
+- [Thunder Punch]
+- [Disable]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Anabel
+tags: [in-game, PWT-Anabel, trainer+anabel]
+item: [Quick Claw]
+ability: [Immunity, Thick Fat]
+moves:
+- [Body Slam]
+- [Belly Drum]
+- [Yawn]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Entei
+setname: PWT-Anabel
+tags: [in-game, PWT-Anabel, trainer+anabel]
+item: [Lum Berry]
+ability: [Pressure]
+moves:
+- [Fire Blast]
+- [Calm Mind]
+- [Return]
+- [Roar]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

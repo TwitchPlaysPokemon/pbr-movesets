@@ -1,0 +1,99 @@
+---
+species: Golduck
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Surf]
+- [Psychic]
+- [Ice Beam]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dewgong
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Aqua Jet]
+- [Ice Shard]
+- [Waterfall]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Hydro Pump]
+- [Blizzard]
+- [Quick Attack]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [null]
+moves:
+- [Hydro Pump]
+- [Power Gem]
+- [Psychic]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Let's Go Misty Rematch
+tags: [in-game, PWT-Let's Go Misty Rematch, trainer+misty]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Waterfall]
+- [Crunch]
+- [Outrage]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

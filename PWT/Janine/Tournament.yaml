@@ -1,0 +1,120 @@
+---
+species: Arbok
+setname: PWT-Janine Tournament
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
+item: [Shuca Berry]
+ability: [Intimidate, Shed Skin]
+moves:
+- [Gunk Shot]
+- [Sucker Punch]
+- [Bulk Up]
+- [Dragon Rush]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Venomoth
+setname: PWT-Janine Tournament
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
+item: [Petaya Berry]
+ability: [Shield Dust, Tinted Lens]
+moves:
+- [Calm Mind]
+- [Bug Buzz]
+- [Giga Drain]
+- [Sludge Bomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tentacruel
+setname: PWT-Janine Tournament
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
+item: [Apicot Berry]
+ability: [Clear Body, Liquid Ooze]
+moves:
+- [Surf]
+- [Toxic Spikes]
+- [Giga Drain]
+- [Barrier]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Janine Tournament
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
+item: [Charcoal]
+ability: [Levitate]
+moves:
+- [Fire Blast]
+- [Shadow Ball]
+- [Pain Split]
+- [Sludge Bomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ariados
+setname: PWT-Janine Tournament
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
+item: [Payapa Berry]
+ability: [Swarm, Insomnia]
+moves:
+- [Poison Jab]
+- [Bug Bite]
+- [String Shot]
+- [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Janine Tournament
+tags: [in-game, PWT-Janine Tournament, trainer+janine]
+item: [Sitrus Berry]
+ability: [Inner Focus]
+moves:
+- [Toxic]
+- [Super Fang]
+- [Heat Wave]
+- [Tail Wind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,80 @@
+---
+species: Slugma
+setname: PWT-Flannery
+tags: [in-game, PWT-Flannery, trainer+flannery]
+item: [null]
+ability: [Magma Armor]
+moves:
+- [Overheat]
+- [Smog]
+- [Light Screen]
+- [Sunny Day]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Numel
+setname: PWT-Flannery
+tags: [in-game, PWT-Flannery, trainer+flannery]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Overheat]
+- [Take Down]
+- [Magnitude]
+- [Sunny Day]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Camerupt
+setname: PWT-Flannery
+tags: [in-game, PWT-Flannery, trainer+flannery]
+item: [null]
+ability: [Magma Armor]
+moves:
+- [Overheat]
+- [Tackle]
+- [Sunny Day]
+- [Attract]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Torkoal
+setname: PWT-Flannery
+tags: [in-game, PWT-Flannery, trainer+flannery]
+item: [White Herb]
+ability: [White Smoke]
+moves:
+- [Overheat]
+- [Sunny Day]
+- [Body Slam]
+- [Attract]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

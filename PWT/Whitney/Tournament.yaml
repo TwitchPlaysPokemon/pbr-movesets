@@ -1,0 +1,120 @@
+---
+species: Clefable
+setname: PWT-Whitney Tournament
+tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
+item: [Sitrus Berry]
+ability: [Cute Charm, Magic Guard]
+moves:
+- [Metronome]
+- [Cosmic Power]
+- [Ice Beam]
+- [Thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Wigglytuff
+setname: PWT-Whitney Tournament
+tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
+item: [Silk Scarf]
+ability: [Cute Charm]
+moves:
+- [Hyper Voice]
+- [Perish Song]
+- [Fire Blast]
+- [Blizzard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Whitney Tournament
+tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
+item: [Lum Berry]
+ability: [Intimidate, Anger Point]
+moves:
+- [Earthquake]
+- [Outrage]
+- [Thrash]
+- [Stone Edge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ursaring
+setname: PWT-Whitney Tournament
+tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
+item: [Chople Berry]
+ability: [Guts, Quick Feet]
+moves:
+- [Hammer Arm]
+- [Thunder Punch]
+- [Bulk Up]
+- [Thrash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Miltank
+setname: PWT-Whitney Tournament
+tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
+item: [Liechi Berry]
+ability: [Thick Fat, Scrappy]
+moves:
+- [Hammer Arm]
+- [Zen Headbutt]
+- [Body Slam]
+- [Milk Drink]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ambipom
+setname: PWT-Whitney Tournament
+tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
+item: [Sharp Beak]
+ability: [Technician, Pick Up]
+moves:
+- [Double Hit]
+- [Aerial Ace]
+- [U-Turn]
+- [Low Kick]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

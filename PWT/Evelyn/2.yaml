@@ -1,0 +1,77 @@
+---
+species: Raikou
+setname: PWT-Evelyn2
+tags: [in-game, PWT-Evelyn2, trainer+evelyn]
+item: [Shuca Berry]
+ability: [Pressure, Volt Absorb]
+moves:
+- [Thunderbolt]
+- [U-Turn]
+- [Shadow Ball]
+- [Protect]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Entei
+setname: PWT-Evelyn2
+tags: [in-game, PWT-Evelyn2, trainer+evelyn]
+item: [Life Orb]
+ability: [Pressure, Flash Fire]
+moves:
+- [Sacred Fire]
+- [Stone Edge]
+- [Iron Head]
+- [Protect]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Suicune
+setname: PWT-Evelyn2
+tags: [in-game, PWT-Evelyn2, trainer+evelyn]
+item: [Lum Berry]
+ability: [Pressure, Water Absorb]
+moves:
+- [Surf]
+- [Icy Wind]
+- [Blizzard]
+- [Protect]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Latios
+setname: PWT-Evelyn2
+tags: [in-game, PWT-Evelyn2, trainer+evelyn]
+item: [Lax Incense]
+ability: [Levitate]
+gender: [m]
+moves:
+- [Calm Mind]
+- [Dragon Pulse]
+- [Luster Purge]
+- [Recover]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,100 @@
+---
+species: Nidoking
+setname: PWT-Giovanni Tournament2
+tags: [in-game, PWT-Giovanni Tournament2, trainer+giovanni]
+item: [Choice Specs]
+ability: [Poison Point, Rivalry]
+moves:
+- [Flamethrower]
+- [Ice Beam]
+- [Earth Power]
+- [Thunderbolt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Giovanni Tournament2
+tags: [in-game, PWT-Giovanni Tournament2, trainer+giovanni]
+item: [Choice Scarf]
+ability: [Sand Veil]
+moves:
+- [Brick Break]
+- [Outrage]
+- [Earthquake]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hippowdon
+setname: PWT-Giovanni Tournament2
+tags: [in-game, PWT-Giovanni Tournament2, trainer+giovanni]
+item: [Quick Claw]
+ability: [Sand Stream]
+moves:
+- [Earthquake]
+- [Ice Fang]
+- [Crunch]
+- [Stone Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Giovanni Tournament2
+tags: [in-game, PWT-Giovanni Tournament2, trainer+giovanni]
+item: [Life Orb]
+ability: [Lightningrod, Solid Rock]
+moves:
+- [Hammer Arm]
+- [Rock Blast]
+- [Ice Punch]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Giovanni Tournament2
+tags: [in-game, PWT-Giovanni Tournament2, trainer+giovanni]
+item: [Sharp Beak]
+ability: [Hyper Cutter, Sand Veil]
+moves:
+- [Fire Fang]
+- [Aerial Ace]
+- [Earthquake]
+- [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

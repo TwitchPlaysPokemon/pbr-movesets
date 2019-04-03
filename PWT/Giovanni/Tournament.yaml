@@ -1,0 +1,120 @@
+---
+species: Sandslash
+setname: PWT-Giovanni Tournament
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
+item: [Salac Berry]
+ability: [Sand Veil]
+moves:
+- [Sandstorm]
+- [Rock Slide]
+- [Earthquake]
+- [Brick Break]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Nidoqueen
+setname: PWT-Giovanni Tournament
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
+item: [Passho Berry]
+ability: [Poison Point, Rivalry]
+moves:
+- [Superpower]
+- [Poison Jab]
+- [Earth Power]
+- [Thunder]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Nidoking
+setname: PWT-Giovanni Tournament
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
+item: [Shuca Berry]
+ability: [Poison Point, Rivalry]
+moves:
+- [Megahorn]
+- [Blizzard]
+- [Earth Power]
+- [Sludge Bomb]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Giovanni Tournament
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
+item: [Rindo Berry]
+ability: [Rock Head, Sturdy]
+moves:
+- [Roar]
+- [Stealth Rock]
+- [Earthquake]
+- [Rock Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Marowak
+setname: PWT-Giovanni Tournament
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
+item: [Yache Berry]
+ability: [Rock Head, Lightning Rod]
+moves:
+- [Bonemerang]
+- [Stone Edge]
+- [Outrage]
+- [Thunder Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Giovanni Tournament
+tags: [in-game, PWT-Giovanni Tournament, trainer+giovanni]
+item: [Liechi Berry]
+ability: [Lightning Rod, Solid Rock]
+moves:
+- [Hammer Arm]
+- [Stone Edge]
+- [Megahorn]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

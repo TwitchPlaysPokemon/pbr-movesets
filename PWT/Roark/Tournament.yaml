@@ -1,0 +1,120 @@
+---
+species: Golem
+setname: PWT-Roark Tournament
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
+item: [Passho Berry]
+ability: [Sturdy, Rock Head]
+moves:
+- [Stealth Rock]
+- [Gyro Ball]
+- [Hammer Arm]
+- [Curse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 20, spe: 0}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Roark Tournament
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
+item: [Rindo Berry]
+ability: [Sturdy, Rock Head]
+moves:
+- [Stone Edge]
+- [Roar]
+- [Sandstorm]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Sudowoodo
+setname: PWT-Roark Tournament
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
+item: [Liechi Berry]
+ability: [Sturdy, Rock Head]
+moves:
+- [Stone Edge]
+- [Hammer Arm]
+- [Wood Hammer]
+- [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Relicanth
+setname: PWT-Roark Tournament
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
+item: [Ganlon Berry]
+ability: [Swift Swim, Rock Head]
+moves:
+- [Rock Slide]
+- [Amnesia (=10)]
+- [Sleep Talk (=10)]
+- [Rest (=10)]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rampardos
+setname: PWT-Roark Tournament
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
+item: [Salac Berry]
+ability: [Mold Breaker]
+moves:
+- [Stone Edge]
+- [Zen Headbutt]
+- [Earthquake]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Probopass
+setname: PWT-Roark Tournament
+tags: [in-game, PWT-Roark Tournament, trainer+roark]
+item: [Chople Berry]
+ability: [Sturdy, Magnet Pull]
+moves:
+- [Power Gem]
+- [Earth Power]
+- [Sandstorm]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

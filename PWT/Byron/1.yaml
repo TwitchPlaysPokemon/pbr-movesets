@@ -1,0 +1,98 @@
+---
+species: Magneton
+setname: PWT-Byron
+tags: [in-game, PWT-Byron, trainer+byron]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Flash Cannon]
+- [Thunderbolt]
+- [Tri Attack]
+- [Metal Sound]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Byron
+tags: [in-game, PWT-Byron, trainer+byron]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Gyro Ball]
+- [Dragon Breath]
+- [Ice Fang]
+- [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Byron-2
+tags: [in-game, PWT-Byron, trainer+byron]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Flash Cannon]
+- [Earthquake]
+- [Ice Fang]
+- [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bastiodon
+setname: PWT-Byron
+tags: [in-game, PWT-Byron, trainer+byron]
+item: [Chesto Berry]
+ability: [Sturdy]
+moves:
+- [Flash Cannon]
+- [Ancient Power]
+- [Iron Defense]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzor
+setname: PWT-Byron
+tags: [in-game, PWT-Byron, trainer+byron]
+item: [null]
+ability: [Levitate]
+moves:
+- [Flash Cannon]
+- [Extrasensory]
+- [Confuse Ray]
+- [Hypnosis]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

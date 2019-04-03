@@ -1,0 +1,95 @@
+---
+species: Seadra
+setname: PWT-Let's Go Lance
+tags: [in-game, PWT-Let's Go Lance, trainer+lance]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Hydro Pump]
+- [Dragon Pulse]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Let's Go Lance
+tags: [in-game, PWT-Let's Go Lance, trainer+lance]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Rock Slide]
+- [Earthquake]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Let's Go Lance
+tags: [in-game, PWT-Let's Go Lance, trainer+lance]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Waterfall]
+- [Iron Tail]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Let's Go Lance
+tags: [in-game, PWT-Let's Go Lance, trainer+lance]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Air Slash]
+- [Dragon Pulse]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Let's Go Lance
+tags: [in-game, PWT-Let's Go Lance, trainer+lance]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Outrage]
+- [Fire Punch]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,119 @@
+---
+species: Blastoise
+setname: PWT-Misty Tournament
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
+item: [Salac Berry]
+ability: [Torrent]
+moves:
+- [Avalanche]
+- [Hydro Pump]
+- [Iron Tail]
+- [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Golduck
+setname: PWT-Misty Tournament
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
+item: [Mystic Water]
+ability: [Damp, Cloud Nine]
+moves:
+- [Blizzard]
+- [Focus Blast]
+- [Aqua Jet]
+- [Sharpen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Misty Tournament
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
+item: [Apicot Berry]
+ability: [Oblivious, Own Tempo]
+moves:
+- [Psychic]
+- [Surf]
+- [Slack Off]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Seaking
+setname: PWT-Misty Tournament
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
+item: [Wacan Berry]
+ability: [Swift Swim, Water Veil]
+moves:
+- [Megahorn]
+- [Waterfall]
+- [Poison Jab]
+- [Agility]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Misty Tournament
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
+item: [Petaya Berry]
+ability: [Illuminate, Natural Cure]
+moves:
+- [Psychic]
+- [Hydro Pump]
+- [Ice Beam]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Misty Tournament
+tags: [in-game, PWT-Misty Tournament, trainer+misty]
+item: [Ganlon Berry]
+ability: [Water Absorb, Shell Armor]
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Thunderbolt]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

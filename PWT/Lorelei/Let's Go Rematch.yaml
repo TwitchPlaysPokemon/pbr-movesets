@@ -1,0 +1,120 @@
+---
+species: Dewgong
+setname: PWT-Let's Go Lorelei Rematch
+tags: [in-game, PWT-Let's Go Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Aqua Jet]
+- [Ice Shard]
+- [Waterfall]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Let's Go Lorelei Rematch
+tags: [in-game, PWT-Let's Go Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Lovely Kiss]
+- [Psychic]
+- [Blizzard]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Sandslash
+setname: PWT-Let's Go Lorelei Rematch
+tags: [in-game, PWT-Let's Go Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Ice Punch]
+- [Ice Shard]
+- [Earthquake]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Cloyster
+setname: PWT-Let's Go Lorelei Rematch
+tags: [in-game, PWT-Let's Go Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Ice Beam]
+- [Spike Cannon]
+- [Hydro Pump]
+- [Poison Jab]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Let's Go Lorelei Rematch
+tags: [in-game, PWT-Let's Go Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Surf]
+- [Flamethrower]
+- [Psychic]
+- [Yawn]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Let's Go Lorelei Rematch
+tags: [in-game, PWT-Let's Go Lorelei Rematch, trainer+lorelei]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Blizzard]
+- [Dragon Pulse]
+- [Hydro Pump]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

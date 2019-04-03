@@ -1,0 +1,100 @@
+---
+species: Gengar
+setname: PWT-Fantina Rematch
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
+item: [null]
+ability: [Levitate]
+moves:
+- [Focus Blast]
+- [Thunderbolt]
+- [Shadow Ball]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Banette
+setname: PWT-Fantina Rematch
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Shadow Claw]
+- [Feint Attack]
+- [Thunder Bolt]
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Drifblim
+setname: PWT-Fantina Rematch
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
+item: [null]
+ability: [Aftermath]
+moves:
+- [Psychic]
+- [Silver Wind]
+- [Ominous Wind]
+- [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mismagius
+setname: PWT-Fantina Rematch
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
+item: [null]
+ability: [Levitate]
+moves:
+- [Shadow Ball]
+- [Thunderbolt]
+- [Psychic]
+- [Magical Leaf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dusknoir
+setname: PWT-Fantina Rematch
+tags: [in-game, PWT-Fantina Rematch, trainer+fantina]
+item: [null]
+ability: [Pressure]
+moves:
+- [Shadow Punch]
+- [Rock Slide]
+- [Double Team]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,120 @@
+---
+species: Meganium
+setname: PWT-Professor Elm
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
+item: [Persim Berry]
+ability: [null]
+moves:
+- [Petal Dance]
+- [Outrage]
+- [Reflect]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Professor Elm
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
+item: [Twisted Spoon]
+ability: [null]
+moves:
+- [Future Sight]
+- [Psychic]
+- [Confuse Ray]
+- [Air Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Corsola
+setname: PWT-Professor Elm
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
+item: [Leftovers]
+ability: [null]
+moves:
+- [Rock Slide]
+- [Mirror Coat]
+- [Recover]
+- [Surf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Professor Elm
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
+item: [Cheri Berry]
+ability: [null]
+moves:
+- [Dark Pulse]
+- [Flamethrower]
+- [Roar]
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Donphan
+setname: PWT-Professor Elm
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
+item: [Leftovers]
+ability: [null]
+moves:
+- [Earthquake]
+- [Rollout]
+- [Defense Curl]
+- [Flare Blitz]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Professor Elm
+tags: [in-game, PWT-Professor Elm, trainer+professorelm]
+item: [Hard Stone]
+ability: [null]
+moves:
+- [Sandstorm]
+- [Crunch]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

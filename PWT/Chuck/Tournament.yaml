@@ -1,0 +1,120 @@
+---
+species: Primeape
+setname: PWT-Chuck Tournament
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
+item: [Liechi Berry]
+ability: [Vital Spirit, Anger Point]
+moves:
+- [Outrage]
+- [Close Combat]
+- [Stone Edge]
+- [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Poliwrath
+setname: PWT-Chuck Tournament
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
+item: [Mystic Water]
+ability: [Water Absorb, Damp]
+moves:
+- [Bulk Up]
+- [Hypnosis]
+- [Focus Punch]
+- [Waterfall]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Chuck Tournament
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
+item: [Payapa Berry]
+ability: [Guts, No Guard]
+moves:
+- [Dragon Claw]
+- [Rock Slide]
+- [Dynamic Punch]
+- [Magnitude]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Chuck Tournament
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
+item: [Salac Berry]
+ability: [Limber, Reckless]
+moves:
+- [Bulk Up]
+- [Sucker Punch]
+- [Jump Kick]
+- [Blaze Kick]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Chuck Tournament
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
+item: [NeverMeltIce]
+ability: [Keen Eye, Iron Fist]
+moves:
+- [Bulk Up]
+- [Ice Punch]
+- [Mach Punch]
+- [Thunder Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Chuck Tournament
+tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
+item: [Soft Sand]
+ability: [Intimidate, Technician]
+moves:
+- [Bulk Up]
+- [Earthquake]
+- [Close Combat]
+- [Bullet Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

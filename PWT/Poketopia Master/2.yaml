@@ -1,0 +1,116 @@
+---
+species: Mewtwo
+setname: "PWT-Pok\xE9topia Master2"
+tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+item: [Bright Powder]
+ability: [Pressure]
+moves:
+- [Aura Sphere]
+- [Thunderbolt]
+- [Ice Beam]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lugia
+setname: "PWT-Pok\xE9topia Master2"
+tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+- [Aeroblast]
+- [Psychic]
+- [Roost]
+- [Calm Mind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Latios
+setname: "PWT-Pok\xE9topia Master2"
+tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+- [Dragon Pulse]
+- [Thunder]
+- [Solar Beam]
+- [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kyogre
+setname: "PWT-Pok\xE9topia Master2"
+tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+item: [Choice Scarf]
+ability: [Drizzle]
+moves:
+- [Water Spout]
+- [Ice Beam]
+- [Thunder]
+- [Ancient Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Groudon
+setname: "PWT-Pok\xE9topia Master2"
+tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+item: [Quick Claw]
+ability: [Drought]
+moves:
+- [Earthquake]
+- [Fire Punch]
+- [Stone Edge]
+- [Dragon Claw]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cresselia
+setname: "PWT-Pok\xE9topia Master2"
+tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+item: [Chesto Berry]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Ice Beam]
+- [Rest]
+- [Calm Mind]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

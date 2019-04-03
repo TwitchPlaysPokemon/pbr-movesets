@@ -1,0 +1,80 @@
+---
+species: Primeape
+setname: PWT-Evelyn
+tags: [in-game, PWT-Evelyn, trainer+evelyn]
+item: [Scope Lens]
+ability: [Vital Spirit, Anger Point]
+gender: [m, f]
+moves:
+- [Cross Chop]
+- [Stone Edge]
+- [Earthquake]
+- [Frustration]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Persian
+setname: PWT-Evelyn
+tags: [in-game, PWT-Evelyn, trainer+evelyn]
+item: [Life Orb]
+ability: [Limber, Technician]
+gender: [m, f]
+moves:
+- [Fake Out]
+- [Hyper Voice]
+- [Dark Pulse]
+- [Power Gem]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pachirisu
+setname: PWT-Evelyn
+tags: [in-game, PWT-Evelyn, trainer+evelyn]
+item: [Sitrus Berry]
+ability: [Run Away, Pick Up]
+gender: [m, f]
+moves:
+- [Light Screen]
+- [U-Turn]
+- [Thunderbolt]
+- [Super Fang]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lumineon
+setname: PWT-Evelyn
+tags: [in-game, PWT-Evelyn, trainer+evelyn]
+item: [Expert Belt]
+ability: [Swift Swim, Storm Drain]
+gender: [m, f]
+moves:
+- [Rain Dance]
+- [Surf]
+- [Ice Beam]
+- [Silver Wind]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

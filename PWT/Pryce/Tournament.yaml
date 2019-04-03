@@ -1,0 +1,120 @@
+---
+species: Dewgong
+setname: PWT-Pryce Tournament
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
+item: [Sitrus Berry]
+ability: [Thick Fat, Ice Body]
+moves:
+- [Hail]
+- [Blizzard]
+- [Perish Song]
+- [Brine]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Cloyster
+setname: PWT-Pryce Tournament
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
+item: [Salac Berry]
+ability: [Shell Armor, Skill Link]
+moves:
+- [Sharpen]
+- [Waterfall]
+- [Rock Blast]
+- [Icicle Spear]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Jynx
+setname: PWT-Pryce Tournament
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
+item: [Twisted Spoon]
+ability: [Oblivious, Forewarn]
+moves:
+- [Focus Blast]
+- [Blizzard]
+- [Psychic]
+- [Shadow Ball]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Pryce Tournament
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
+item: [Petaya Berry]
+ability: [Water Absorb, Shell Armor]
+moves:
+- [Psychic]
+- [Hydro Pump]
+- [Blizzard]
+- [Hail]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Pryce Tournament
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
+item: [BlackGlasses]
+ability: [Pressure]
+moves:
+- [X-Scissor]
+- [Night Slash]
+- [Ice Shard]
+- [Fake Out]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mamoswine
+setname: PWT-Pryce Tournament
+tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
+item: [Liechi Berry]
+ability: [Oblivious, Snow Cloak]
+moves:
+- [Icicle Spear]
+- [Rock Slide]
+- [Earthquake]
+- [Double Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

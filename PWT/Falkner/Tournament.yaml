@@ -1,0 +1,120 @@
+---
+species: Pidgeot
+setname: PWT-Falkner Tournament
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
+item: [Sitrus Berry]
+ability: [Keen Eye, Tangled Feet]
+moves:
+- [Brave Bird]
+- [Tail Wind]
+- [Heat Wave]
+- [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Fearow
+setname: PWT-Falkner Tournament
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
+item: [Liechi Berry]
+ability: [Keen Eye]
+moves:
+- [Drill Peck]
+- [Earth Power]
+- [Heat Wave]
+- [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Dodrio
+setname: PWT-Falkner Tournament
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
+item: [Wacan Berry]
+ability: [Run Away, Early Bird]
+moves:
+- [Brave Bird]
+- [Thrash]
+- [Pursuit]
+- [Acupressure]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Noctowl
+setname: PWT-Falkner Tournament
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
+item: [Ganlon Berry]
+ability: [Insomnia, Keen Eye]
+moves:
+- [Hypnosis]
+- [Dream Eater]
+- [Reflect]
+- [Air Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Falkner Tournament
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
+item: [Petaya Berry]
+ability: [Synchronize, Early Bird]
+moves:
+- [Shadow Ball]
+- [Psychic]
+- [Heat Wave]
+- [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Falkner Tournament
+tags: [in-game, PWT-Falkner Tournament, trainer+falkner]
+item: [Salac Berry]
+ability: [Insomnia, Super Luck]
+moves:
+- [Air Cutter]
+- [Dark Pulse]
+- [Icy Wind]
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

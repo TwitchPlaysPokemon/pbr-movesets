@@ -1,0 +1,120 @@
+---
+species: Milotic
+setname: PWT-Cynthia
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
+item: [null]
+ability: [Marvel Scale]
+moves:
+- [Surf]
+- [Ice Beam]
+- [Mirror Coat]
+- [Aqua Ring]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Cynthia
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Energy Ball]
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Extrasensory]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Spiritomb
+setname: PWT-Cynthia
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
+item: [null]
+ability: [Pressure]
+moves:
+- [Dark Pulse]
+- [Psychic]
+- [Silver Wind]
+- [Ominous Wind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Cynthia
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Dragon Rush]
+- [Earthquake]
+- [Brick Break]
+- [Giga Impact]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Cynthia
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
+item: [null]
+ability: [Steadfast]
+moves:
+- [Aura Sphere]
+- [Dragon Pulse]
+- [Psychic]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Togekiss
+setname: PWT-Cynthia
+tags: [in-game, PWT-Cynthia, trainer+cynthia]
+item: [null]
+ability: [Hustle]
+moves:
+- [Air Slash]
+- [Aura Sphere]
+- [Water Pulse]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

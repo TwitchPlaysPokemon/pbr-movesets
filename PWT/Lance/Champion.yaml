@@ -1,0 +1,120 @@
+---
+species: Charizard
+setname: PWT-Lance Champion
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
+ability: [Blaze]
+moves:
+- [Air Slash]
+- [Fire Fang]
+- [Dragon Claw]
+- [Shadow Claw]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Lance Champion
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Waterfall]
+- [Dragon Pulse]
+- [Ice Fang]
+- [Flail]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Lance Champion
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
+ability: [Pressure]
+moves:
+- [Rock Slide]
+- [Aerial Ace]
+- [Crunch]
+- [Thunder Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Champion
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Dragon Rush]
+- [Thunder Wave]
+- [Thunder]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Champion-2
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Dragon Rush]
+- [Thunder Wave]
+- [Blizzard]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Champion-3
+tags: [in-game, PWT-Lance Champion, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Outrage]
+- [Safeguard]
+- [Fire Blast]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

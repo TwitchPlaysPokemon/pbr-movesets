@@ -1,0 +1,100 @@
+---
+species: Graveler
+setname: PWT-Brock2
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Defense Curl]
+- [Rollout]
+- [Earthquake]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Brock2
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Screech]
+- [Sandstorm]
+- [Iron Tail]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyhorn
+setname: PWT-Brock2
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Earthquake]
+- [Sandstorm]
+- [Scary Face]
+- [Horn Drill]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Omastar
+setname: PWT-Brock2
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Protect]
+- [Spike Cannon]
+- [Ancient Power]
+- [Brine]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kabutops
+setname: PWT-Brock2
+tags: [in-game, PWT-Brock2, trainer+brock]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Endure]
+- [Giga Drain]
+- [Aqua Jet]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,100 @@
+---
+species: Raichu
+setname: PWT-Volkner Rematch
+tags: [in-game, PWT-Volkner Rematch, trainer+volkner]
+item: [null]
+ability: [Static]
+moves:
+- [Charge Beam]
+- [Brick Break]
+- [Light Screen]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Volkner Rematch
+tags: [in-game, PWT-Volkner Rematch, trainer+volkner]
+item: [null]
+ability: [Volt Absorb]
+moves:
+- [Charge Beam]
+- [Double Kick]
+- [Pin Missile]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lanturn
+setname: PWT-Volkner Rematch
+tags: [in-game, PWT-Volkner Rematch, trainer+volkner]
+item: [null]
+ability: [Volt Absorb]
+moves:
+- [Surf]
+- [Discharge]
+- [Ice Beam]
+- [Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Luxray
+setname: PWT-Volkner Rematch
+tags: [in-game, PWT-Volkner Rematch, trainer+volkner]
+item: [null]
+ability: [Rivalry]
+moves:
+- [Thunder Fang]
+- [Ice Fang]
+- [Fire Fang]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Volkner Rematch
+tags: [in-game, PWT-Volkner Rematch, trainer+volkner]
+item: [null]
+ability: [Motor Drive]
+moves:
+- [Thunder Punch]
+- [Fire Punch]
+- [Brick Break]
+- [Giga Impact]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

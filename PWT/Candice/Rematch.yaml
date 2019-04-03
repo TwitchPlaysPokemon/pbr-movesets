@@ -1,0 +1,100 @@
+---
+species: Abomasnow
+setname: PWT-Candice Rematch
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
+item: [null]
+ability: [Snow Warning]
+moves:
+- [Wood Hammer]
+- [Ingrain]
+- [Grass Whistle]
+- [Avalanche]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Candice Rematch
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
+item: [null]
+ability: [Pressure]
+moves:
+- [Feint Attack]
+- [Slash]
+- [Taunt]
+- [Avalanche]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glaceon
+setname: PWT-Candice Rematch
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Blizzard]
+- [Shadow Ball]
+- [Water Pulse]
+- [Mirror Coat]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mamoswine
+setname: PWT-Candice Rematch
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Hail]
+- [Earthquake]
+- [Ancient Power]
+- [Avalanche]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Candice Rematch
+tags: [in-game, PWT-Candice Rematch, trainer+candice]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Hail]
+- [Ominous Wind]
+- [Confuse Ray]
+- [Blizzard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

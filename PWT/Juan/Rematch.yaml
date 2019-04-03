@@ -1,0 +1,120 @@
+---
+species: Lapras
+setname: PWT-Juan Rematch
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Hydro Pump]
+- [Perish Song]
+- [Ice Beam]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Politoed
+setname: PWT-Juan Rematch
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Hypnosis]
+- [Rain Dance]
+- [Hydro Pump]
+- [Perish Song]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kingdra
+setname: PWT-Juan Rematch
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
+item: [Chesto Berry]
+ability: [Swift Swim]
+moves:
+- [Water Pulse]
+- [Double Team]
+- [Ice Beam]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Juan Rematch
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Rain Dance]
+- [Water Pulse]
+- [Double Team]
+- [Fissure]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crawdaunt
+setname: PWT-Juan Rematch
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
+item: [Chesto Berry]
+ability: [Hyper Cutter]
+moves:
+- [Rest]
+- [Guillotine]
+- [Taunt]
+- [Double Team]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Walrein
+setname: PWT-Juan Rematch
+tags: [in-game, PWT-Juan Rematch, trainer+juan]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Water Pulse]
+- [Body Slam]
+- [Protect]
+- [Sheer Cold]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

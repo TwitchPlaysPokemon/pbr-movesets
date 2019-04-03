@@ -1,0 +1,99 @@
+---
+species: Alakazam
+setname: PWT-Sabrina Tournament2
+tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
+item: [Kasib Berry]
+ability: [Synchronize, Inner Focus]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Focus Blast]
+- [Charge Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Sabrina Tournament2
+tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
+item: [Tanga Berry]
+ability: [Chlorophyll]
+moves:
+- [Psychic]
+- [Dream Eater]
+- [Sleep Powder]
+- [Energy Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Sabrina Tournament2
+tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
+item: [Leftovers]
+ability: [Synchronize]
+moves:
+- [Psycho Cut]
+- [Psychic]
+- [Calm Mind]
+- [Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Slowking
+setname: PWT-Sabrina Tournament2
+tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
+item: [Choice Specs]
+ability: [Oblivious, Own Tempo]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Surf]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Sabrina Tournament2
+tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
+item: [Expert Belt]
+ability: [Clear Body]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Signal Beam]
+- [Grass Knot]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

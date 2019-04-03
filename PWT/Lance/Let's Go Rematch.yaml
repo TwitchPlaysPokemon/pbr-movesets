@@ -1,0 +1,120 @@
+---
+species: Seadra
+setname: PWT-Let's Go Lance Rematch
+tags: [in-game, PWT-Let's Go Lance Rematch, trainer+lance]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Hydro Pump]
+- [Dragon Pulse]
+- [Hyper Beam]
+- [Blizzard]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Let's Go Lance Rematch
+tags: [in-game, PWT-Let's Go Lance Rematch, trainer+lance]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Rock Slide]
+- [Earthquake]
+- [Hyper Beam]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Let's Go Lance Rematch
+tags: [in-game, PWT-Let's Go Lance Rematch, trainer+lance]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Waterfall]
+- [Iron Tail]
+- [Hyper Beam]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Let's Go Lance Rematch
+tags: [in-game, PWT-Let's Go Lance Rematch, trainer+lance]
+item: [Everstone]
+ability: [null]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Dragon Pulse]
+- [Hyper Beam]
+- [Thunder Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Let's Go Lance Rematch
+tags: [in-game, PWT-Let's Go Lance Rematch, trainer+lance]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Outrage]
+- [Fire Punch]
+- [Hyper Beam]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Let's Go Lance Rematch
+tags: [in-game, PWT-Let's Go Lance Rematch, trainer+lance]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Giga Drain]
+- [Dragon Pulse]
+- [Hyper Beam]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

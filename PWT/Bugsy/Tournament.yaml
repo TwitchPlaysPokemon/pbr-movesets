@@ -1,0 +1,120 @@
+---
+species: Pinsir
+setname: PWT-Bugsy Tournament
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
+item: [Liechi Berry]
+ability: [Hyper Cutter, Mold Breaker]
+moves:
+- [Bulk Up]
+- [Superpower]
+- [Earthquake]
+- [X-Scissor]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Forretress
+setname: PWT-Bugsy Tournament
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
+item: [Apicot Berry]
+ability: [Sturdy]
+moves:
+- [Bug Bite]
+- [Shadow Ball]
+- [Pain Split]
+- [Stealth Rock]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Scizor
+setname: PWT-Bugsy Tournament
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
+item: [Occa Berry]
+ability: [Swarm, Technician]
+moves:
+- [Swords Dance]
+- [Aerial Ace]
+- [Bullet Punch]
+- [X-Scissor]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Shuckle
+setname: PWT-Bugsy Tournament
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
+item: [Sitrus Berry]
+ability: [Sturdy, Gluttony]
+moves:
+- [Bug Bite]
+- [Shadow Ball]
+- [Power Trick]
+- [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 20, atk: 0, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Bugsy Tournament
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
+item: [Coba Berry]
+ability: [Swarm, Guts]
+moves:
+- [Swords Dance]
+- [Megahorn]
+- [Stone Edge]
+- [Close Combat]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Yanmega
+setname: PWT-Bugsy Tournament
+tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
+item: [Charti Berry]
+ability: [Speed Boost, Tinted Lens]
+moves:
+- [Bug Buzz]
+- [Psychic]
+- [Protect]
+- [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 20
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

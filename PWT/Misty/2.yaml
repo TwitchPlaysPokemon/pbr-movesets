@@ -1,0 +1,79 @@
+---
+species: Golduck
+setname: PWT-Misty2
+tags: [in-game, PWT-Misty2, trainer+misty]
+item: [null]
+ability: [Damp]
+moves:
+- [Water Pulse]
+- [Disable]
+- [Psychic]
+- [Psych Up]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Misty2
+tags: [in-game, PWT-Misty2, trainer+misty]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Water Pulse]
+- [Confuse Ray]
+- [Ice Beam]
+- [Recover]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Misty2
+tags: [in-game, PWT-Misty2, trainer+misty]
+item: [null]
+ability: [Shell Armor]
+moves:
+- [Ice Beam]
+- [Sing]
+- [Water Pulse]
+- [Body Slam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Misty2
+tags: [in-game, PWT-Misty2, trainer+misty]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Water Pulse]
+- [Amnesia]
+- [Rain Dance]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,114 @@
+---
+species: Articuno
+setname: PWT-Dana2
+tags: [in-game, PWT-Dana2, trainer+dana]
+item: [Charti Berry]
+ability: [Pressure, Snow Cloak]
+moves:
+- [Icy Wind]
+- [Steel Wing]
+- [U-Turn]
+- [Reflect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Zapdos
+setname: PWT-Dana2
+tags: [in-game, PWT-Dana2, trainer+dana]
+item: [Petaya Berry]
+ability: [Pressure, Static]
+moves:
+- [Thunder]
+- [Drill Peck]
+- [Light Screen]
+- [Rain Dance]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Moltres
+setname: PWT-Dana2
+tags: [in-game, PWT-Dana2, trainer+dana]
+item: [White Herb]
+ability: [Pressure, Flame Body]
+moves:
+- [Overheat]
+- [Air Slash]
+- [Will-O-Wisp]
+- [Tailwind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Regirock
+setname: PWT-Dana2
+tags: [in-game, PWT-Dana2, trainer+dana]
+item: [Apicot Berry]
+ability: [Clear Body, Sturdy]
+moves:
+- [Rock Slide]
+- [Earthquake]
+- [Drain Punch]
+- [Ice Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Regice
+setname: PWT-Dana2
+tags: [in-game, PWT-Dana2, trainer+dana]
+item: [Zoom Lens]
+ability: [Clear Body, Ice Body]
+moves:
+- [Blizzard]
+- [Thunder]
+- [Focus Blast]
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Registeel
+setname: PWT-Dana2
+tags: [in-game, PWT-Dana2, trainer+dana]
+item: [King's Rock]
+ability: [Clear Body]
+moves:
+- [Iron Head]
+- [Earthquake]
+- [Thunder Punch]
+- [Rock Polish]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

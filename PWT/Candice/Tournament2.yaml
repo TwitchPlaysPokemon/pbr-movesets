@@ -1,0 +1,120 @@
+---
+species: Glalie
+setname: PWT-Candice Tournament2
+tags: [in-game, PWT-Candice Tournament2, trainer+candice]
+item: [Hard Stone]
+ability: [Inner Focus, Ice Body]
+moves:
+- [Hail]
+- [Ice Beam]
+- [Crunch]
+- [Rollout]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Candice Tournament2
+tags: [in-game, PWT-Candice Tournament2, trainer+candice]
+item: [Occa Berry]
+ability: [Snow Warning]
+moves:
+- [Earthquake]
+- [Blizzard]
+- [Wood Hammer]
+- [Ingrain]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Candice Tournament2
+tags: [in-game, PWT-Candice Tournament2, trainer+candice]
+item: [Chople Berry]
+ability: [Pressure]
+moves:
+- [Torment]
+- [Night Slash]
+- [Ice Punch]
+- [Brick Break]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Glaceon
+setname: PWT-Candice Tournament2
+tags: [in-game, PWT-Candice Tournament2, trainer+candice]
+item: [Life Orb]
+ability: [Snow Cloak]
+moves:
+- [Blizzard]
+- [Shadow Ball]
+- [Signal Beam]
+- [Ice Shard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mamoswine
+setname: PWT-Candice Tournament2
+tags: [in-game, PWT-Candice Tournament2, trainer+candice]
+item: [Salac Berry]
+ability: [Oblivious, Snow Cloak]
+moves:
+- [Icicle Spear]
+- [Superpower]
+- [Magnitude]
+- [Rock Tomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Candice Tournament2
+tags: [in-game, PWT-Candice Tournament2, trainer+candice]
+item: [Petaya Berry]
+ability: [Snow Cloak]
+moves:
+- [Hail]
+- [Blizzard]
+- [Shadow Ball]
+- [Psychic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

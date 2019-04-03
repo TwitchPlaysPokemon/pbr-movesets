@@ -1,0 +1,120 @@
+---
+species: Raichu
+setname: PWT-Volkner
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
+ability: [Static]
+moves:
+- [Charge Beam]
+- [Signal Beam]
+- [Focus Blast]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Volkner
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
+ability: [Volt Absorb]
+moves:
+- [Charge Beam]
+- [Thunder Wave]
+- [Iron Tail]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Octillery
+setname: PWT-Volkner
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
+ability: [Sniper]
+moves:
+- [Charge Beam]
+- [Octazooka]
+- [Aurora Beam]
+- [Bullet Seed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Luxray
+setname: PWT-Volkner
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
+ability: [Rivalry]
+moves:
+- [Thunder Fang]
+- [Ice Fang]
+- [Fire Fang]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ambipom
+setname: PWT-Volkner
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
+ability: [Technician]
+moves:
+- [Shock Wave]
+- [Nasty Plot]
+- [Agility]
+- [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Volkner
+tags: [in-game, PWT-Volkner, trainer+volkner]
+item: [null]
+ability: [Motor Drive]
+moves:
+- [Thunder Punch]
+- [Fire Punch]
+- [Giga Impact]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

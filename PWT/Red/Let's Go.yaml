@@ -1,0 +1,120 @@
+---
+species: Pikachu
+setname: PWT-Let's Go Red
+tags: [in-game, PWT-Let's Go Red, trainer+red]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunderbolt]
+- [Brick Break]
+- [Iron Tail]
+- [Reflect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Let's Go Red
+tags: [in-game, PWT-Let's Go Red, trainer+red]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Superpower]
+- [Fire Blast]
+- [Earthquake]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Let's Go Red
+tags: [in-game, PWT-Let's Go Red, trainer+red]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Heat Wave]
+- [Crunch]
+- [Will-O-Wisp]
+- [Roar]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Let's Go Red
+tags: [in-game, PWT-Let's Go Red, trainer+red]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Ice Shard]
+- [Waterfall]
+- [Body Slam]
+- [Megahorn]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Let's Go Red
+tags: [in-game, PWT-Let's Go Red, trainer+red]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Toxic]
+- [Protect]
+- [Rest]
+- [Body Slam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Venusaur
+setname: PWT-Let's Go Red
+tags: [in-game, PWT-Let's Go Red, trainer+red]
+item: [Everstone]
+ability: [null]
+gender: [m]
+moves:
+- [Sludge Bomb]
+- [Giga Drain]
+- [Leech Seed]
+- [Amnesia]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

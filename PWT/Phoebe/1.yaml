@@ -1,0 +1,100 @@
+---
+species: Sableye
+setname: PWT-Phoebe
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Shadow Ball]
+- [Double Team]
+- [Night Shade]
+- [Feint Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Banette
+setname: PWT-Phoebe
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Shadow Ball]
+- [Grudge]
+- [Will-O-Wisp]
+- [Feint Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Banette
+setname: PWT-Phoebe-2
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Shadow Ball]
+- [Psychic]
+- [Thunderbolt]
+- [Facade]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dusclops
+setname: PWT-Phoebe
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
+item: [null]
+ability: [Pressure]
+moves:
+- [Shadow Punch]
+- [Confuse Ray]
+- [Curse]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dusclops
+setname: PWT-Phoebe-2
+tags: [in-game, PWT-Phoebe, trainer+phoebe]
+item: [null]
+ability: [Pressure]
+moves:
+- [Shadow Ball]
+- [Ice Beam]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

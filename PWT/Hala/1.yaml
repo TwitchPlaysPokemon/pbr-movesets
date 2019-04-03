@@ -1,0 +1,60 @@
+---
+species: Poliwrath
+setname: PWT-Hala
+tags: [in-game, PWT-Hala, trainer+hala]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Waterfall]
+- [Brick Break]
+- [Poison Jab]
+- [Payback]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Hala
+tags: [in-game, PWT-Hala, trainer+hala]
+item: [null]
+ability: [Guts]
+moves:
+- [Cross Chop]
+- [Thunder Punch]
+- [Ice Punch]
+- [Fire Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hariyama
+setname: PWT-Hala
+tags: [in-game, PWT-Hala, trainer+hala]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Fake Out]
+- [Close Combat]
+- [Knock Off]
+- [Low Kick]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

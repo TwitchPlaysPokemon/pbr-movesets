@@ -1,0 +1,120 @@
+---
+species: Machamp
+setname: PWT-Maylene Tournament
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
+item: [Sitrus Berry]
+ability: [Guts, No Guard]
+moves:
+- [Cross Chop]
+- [Stone Edge]
+- [Ice Punch]
+- [Focus Energy]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Maylene Tournament
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
+item: [Kasib Berry]
+ability: [Pure Power]
+moves:
+- [Bullet Punch]
+- [Zen Headbutt]
+- [Brick Break]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Maylene Tournament
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
+item: [Liechi Berry]
+ability: [Blaze]
+moves:
+- [Close Combat]
+- [Mach Punch]
+- [Fire Punch]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Maylene Tournament
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
+item: [Liechi Berry]
+ability: [Steadfast, Inner Focus]
+moves:
+- [Cross Chop]
+- [Bone Rush]
+- [Extreme Speed]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Maylene Tournament
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
+item: [Payapa Berry]
+ability: [Anticipation, Dry Skin]
+moves:
+- [Sucker Punch]
+- [Torment]
+- [Drain Punch]
+- [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Maylene Tournament
+tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
+item: [Coba Berry]
+ability: [Steadfast]
+moves:
+- [Slash]
+- [Psycho Cut]
+- [Close Combat]
+- [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 20
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

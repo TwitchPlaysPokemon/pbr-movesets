@@ -1,0 +1,100 @@
+---
+species: Machamp
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
+ability: [No Guard]
+moves:
+- [Revenge]
+- [Cross Chop]
+- [Rock Slide]
+- [Foresight]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Sandstorm]
+- [Dragon Breath]
+- [Rock Slide]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
+ability: [Reckless]
+moves:
+- [High Jump Kick]
+- [Blaze Kick]
+- [Focus Energy]
+- [Swagger]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
+ability: [Iron Fist]
+moves:
+- [Thunder Punch]
+- [Ice Punch]
+- [Fire Punch]
+- [Bullet Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Bruno2
+tags: [in-game, PWT-Bruno2, trainer+bruno]
+item: [null]
+ability: [Technician]
+moves:
+- [Dig]
+- [Counter]
+- [Triple Kick]
+- [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

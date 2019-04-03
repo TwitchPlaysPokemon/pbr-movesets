@@ -1,0 +1,118 @@
+---
+species: Skarmory
+setname: PWT-Steven
+tags: [in-game, PWT-Steven, trainer+steven]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Steel Wing]
+- [Toxic]
+- [Aerial Ace]
+- [Spikes]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aggron
+setname: PWT-Steven
+tags: [in-game, PWT-Steven, trainer+steven]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Earthquake]
+- [Dragon Claw]
+- [Thunder]
+- [Solar Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Claydol
+setname: PWT-Steven
+tags: [in-game, PWT-Steven, trainer+steven]
+item: [null]
+ability: [Levitate]
+moves:
+- [Earthquake]
+- [Ancient Power]
+- [Light Screen]
+- [Reflect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cradily
+setname: PWT-Steven
+tags: [in-game, PWT-Steven, trainer+steven]
+item: [null]
+ability: [Suction Cups]
+moves:
+- [Ancient Power]
+- [Confuse Ray]
+- [Sludge Bomb]
+- [Giga Drain]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Armaldo
+setname: PWT-Steven
+tags: [in-game, PWT-Steven, trainer+steven]
+item: [null]
+ability: [Battle Armor]
+moves:
+- [Ancient Power]
+- [Slash]
+- [Aerial Ace]
+- [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Steven
+tags: [in-game, PWT-Steven, trainer+steven]
+item: [null]
+ability: [Clear Body]
+moves:
+- [Meteor Mash]
+- [Earthquake]
+- [Psychic]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

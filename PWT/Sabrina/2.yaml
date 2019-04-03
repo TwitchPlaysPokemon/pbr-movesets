@@ -1,0 +1,60 @@
+---
+species: Alakazam
+setname: PWT-Sabrina2
+tags: [in-game, PWT-Sabrina2, trainer+sabrina]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Psychic]
+- [Skill Swap]
+- [Reflect]
+- [Energy Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+setname: PWT-Sabrina2
+tags: [in-game, PWT-Sabrina2, trainer+sabrina]
+item: [null]
+ability: [Filter]
+moves:
+- [Mimic]
+- [Light Screen]
+- [Psychic]
+- [Skill Swap]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Sabrina2
+tags: [in-game, PWT-Sabrina2, trainer+sabrina]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Calm Mind]
+- [Shadow Ball]
+- [Psychic]
+- [Skill Swap]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,58 @@
+---
+species: Persian
+setname: PWT-Let's Go Giovanni Rocket
+tags: [in-game, PWT-Let's Go Giovanni Rocket, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Slash]
+- [Feint]
+- [Fake Out]
+- [Zen Headbutt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rhyhorn
+setname: PWT-Let's Go Giovanni Rocket
+tags: [in-game, PWT-Let's Go Giovanni Rocket, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Magnitude]
+- [Take Down]
+- [Megahorn]
+- [Rock Throw]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Nidoqueen
+setname: PWT-Let's Go Giovanni Rocket
+tags: [in-game, PWT-Let's Go Giovanni Rocket, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Crunch]
+- [Body Slam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,120 @@
+---
+species: Charizard
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
+ability: [Blaze]
+moves:
+- [Dragon Claw]
+- [Shadow Claw]
+- [Fire Fang]
+- [Air Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [Wacan Berry]
+ability: [Intimidate]
+moves:
+- [Dragon Dance]
+- [Waterfall]
+- [Earthquake]
+- [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Rock Slide]
+- [Thunder Fang]
+- [Earthquake]
+- [Roar]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
+ability: [Shed Skin]
+moves:
+- [Dragon Rush]
+- [Thunder Wave]
+- [Thunderbolt]
+- [Flamethrower]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Dragon Breath]
+- [Safeguard]
+- [Thunder]
+- [Hyper Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kingdra
+setname: PWT-Clair Rematch
+tags: [in-game, PWT-Clair Rematch, trainer+clair]
+item: [null]
+ability: [Sniper]
+moves:
+- [Dragon Breath]
+- [Hydro Pump]
+- [Ice Beam]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

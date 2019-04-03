@@ -1,0 +1,60 @@
+---
+species: Dragonite
+setname: PWT-Palmer
+tags: [in-game, PWT-Palmer, trainer+palmer]
+item: [Lum Berry]
+ability: [Inner Focus]
+moves:
+- [Dragon Claw]
+- [Dragon Dance]
+- [Aerial Ace]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Palmer
+tags: [in-game, PWT-Palmer, trainer+palmer]
+item: [Shell Bell]
+ability: [Marvel Scale]
+moves:
+- [Surf]
+- [Hypnosis]
+- [Ice Beam]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Palmer
+tags: [in-game, PWT-Palmer, trainer+palmer]
+item: [Focus Band]
+ability: [Lightning Rod, Solid Rock]
+moves:
+- [Earthquake]
+- [Crunch]
+- [Rock Wrecker]
+- [Roar]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

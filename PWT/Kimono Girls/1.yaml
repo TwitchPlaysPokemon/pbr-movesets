@@ -1,0 +1,100 @@
+---
+species: Vaporeon
+setname: PWT-Kimono Girls
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Surf]
+- [Quick Attack]
+- [Aurora Beam]
+- [Last Resort]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Kimono Girls
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
+ability: [Volt Absorb]
+moves:
+- [Thunderbolt]
+- [Double Team]
+- [Thunder Wave]
+- [Last Resort]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Kimono Girls
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Fire Blast]
+- [Will-O-Wisp]
+- [Quick Attack]
+- [Last Resort]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Kimono Girls
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Swift]
+- [Psych Up]
+- [Last Resort]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Umbreon
+setname: PWT-Kimono Girls
+tags: [in-game, PWT-Kimono Girls, trainer+kimonogirls]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Dark Pulse]
+- [Shadow Ball]
+- [Confuse Ray]
+- [Last Resort]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

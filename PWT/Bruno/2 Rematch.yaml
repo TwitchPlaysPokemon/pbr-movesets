@@ -1,0 +1,120 @@
+---
+species: Machamp
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
+ability: [No Guard]
+moves:
+- [Dynamic Punch]
+- [Stone Edge]
+- [Bullet Punch]
+- [Foresight]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
+ability: [Reckless]
+moves:
+- [Close Combat]
+- [Blaze Kick]
+- [Reversal]
+- [Swagger]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
+ability: [Iron Fist]
+moves:
+- [Close Combat]
+- [Drain Punch]
+- [Bullet Punch]
+- [Substitute]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
+ability: [Technician]
+moves:
+- [Close Combat]
+- [Earthquake]
+- [Counter]
+- [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hariyama
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
+ability: [Guts]
+moves:
+- [Bulk Up]
+- [Low Kick]
+- [Payback]
+- [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Bruno2 Rematch
+tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Close Combat]
+- [Iron Tail]
+- [Counter]
+- [Extreme Speed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

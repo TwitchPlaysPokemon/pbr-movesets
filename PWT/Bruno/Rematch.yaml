@@ -1,0 +1,100 @@
+---
+species: Machamp
+setname: PWT-Bruno Rematch
+tags: [in-game, PWT-Bruno Rematch, trainer+bruno]
+item: [Persim Berry]
+ability: [Guts]
+moves:
+- [Brick Break]
+- [Cross Chop]
+- [Earthquake]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonlee
+setname: PWT-Bruno Rematch
+tags: [in-game, PWT-Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [Limber]
+moves:
+- [Mega Kick]
+- [Foresight]
+- [Earthquake]
+- [Rock Slide]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hitmonchan
+setname: PWT-Bruno Rematch
+tags: [in-game, PWT-Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Sky Uppercut]
+- [Mach Punch]
+- [Rock Slide]
+- [Counter]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Bruno Rematch
+tags: [in-game, PWT-Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Earthquake]
+- [Rock Tomb]
+- [Iron Tail]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Bruno Rematch-2
+tags: [in-game, PWT-Bruno Rematch, trainer+bruno]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Dragon Breath]
+- [Iron Tail]
+- [Earthquake]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
