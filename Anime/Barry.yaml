@@ -1,0 +1,112 @@
+---
+species: Hitmonlee
+setname: Barry
+ability: [Limber]
+item: [null]
+ball: [Poke]
+moves:
+- [High Jump Kick]
+- [Close Combat]
+- [Blaze Kick]
+- [Mega Kick]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [barry, anime]
+---
+species: Heracross
+setname: Barry
+ability: [Guts]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+- [Megahorn]
+- [Double-Edge]
+- [Horn Attack]
+- [Fury Attack]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [barry, anime]
+---
+species: Skarmory
+setname: Barry
+ability: [Sturdy]
+item: [Blackglasses]
+ball: [Poke]
+moves:
+- [Brave Bird]
+- [Assurance]
+- [Stealth Rock]
+- [Spikes]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Impish
+evs: {hp: 0, atk: 24, def: 248, spA: 0, spD: 236, spe: 0}
+ivs: 31
+tags: [barry, anime]
+---
+species: Empoleon
+setname: Barry
+ability: [Torrent]
+item: [null]
+ball: [Poke]
+moves:
+- [Hydro Cannon]
+- [Steel Wing]
+- [Drill Peck]
+- [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [barry, anime]
+---
+species: Staraptor
+setname: Barry
+ability: [Intimidate]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+- [Tackle]
+- [Wing Attack]
+- [Close Combat]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 52, atk: 252, def: 0, spA: 0, spD: 0, spe: 204}
+ivs: 31
+tags: [barry, anime]
+---
+species: Roserade
+setname: Barry
+ability: [Technician]
+item: [Poison Barb]
+ball: [Poke]
+moves:
+- [Poison Jab]
+- [Bullet Seed]
+- [Ingrain]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Careful
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 31
+tags: [barry, anime]

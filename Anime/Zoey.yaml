@@ -1,0 +1,115 @@
+---
+species: Gastrodon
+setname: Zoey
+ability: [Sticky Hold]
+item: [Miracle Seed]
+ball: [Dive]
+moves:
+- [Water Pulse]
+- [Mud Bomb]
+- [Blizzard]
+- [Hidden Power]
+form: West
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 148, atk: 0, def: 112, spA: 248, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 18, def: 31, spA: 22, spD: 31, spe: 17}
+tags: [zoey, anime]
+---
+species: Mismagius
+setname: Zoey
+ability: [Levitate]
+item: [Magnet]
+ball: [Premier]
+moves:
+- [Shock Wave]
+- [Psywave]
+- [Confuse Ray]
+- [Lucky Chant]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quirky
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [zoey, anime]
+---
+species: Glameow
+setname: Zoey
+ability: [Own Tempo]
+item: [Red Scarf]
+ball: [Dusk]
+moves:
+- [Fake Out]
+- [Shadow Claw]
+- [Iron Tail]
+- [Thunderbolt]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Rash
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [zoey, anime]
+---
+species: Lumineon
+setname: Zoey
+ability: [Swift Swim]
+item: [Blue Scarf]
+ball: [Heal]
+moves:
+- [Waterfall]
+- [Silver Wind]
+- [Aqua Ring]
+- [Safeguard]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Rash
+evs: {hp: 12, atk: 244, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [zoey, anime]
+---
+species: Leafeon
+setname: Zoey
+ability: [Chlorophyll]
+item: [Sky Plate]
+ball: [Cherish]
+moves:
+- [Leaf Blade]
+- [Aerial Ace]
+- [Energy Ball]
+- [Double Team]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hasty
+evs: {hp: 0, atk: 0, def: 12, spA: 252, spD: 0, spe: 244}
+ivs: 31
+tags: [zoey, anime]
+---
+species: Gallade
+setname: Zoey
+ability: [Steadfast]
+item: [Fist Plate]
+ball: [Quick]
+moves:
+- [Psycho Cut]
+- [Signal Beam]
+- [Magical Leaf]
+- [Vacuum Wave]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Mild
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [zoey, anime]

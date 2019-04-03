@@ -1,0 +1,112 @@
+---
+species: Growlithe
+setname: Morrison
+ability: [Flash Fire]
+item: [null]
+ball: [Poke]
+moves:
+- [Flamethrower]
+- [Bite]
+- [Take Down]
+- [Agility]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naughty
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [morrison, anime]
+---
+species: Girafarig
+setname: Morrison
+ability: [Technician]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+- [Tackle]
+- [Psychic]
+- [Iron Tail]
+- [Light Screen]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+evs: {hp: 76, atk: 252, def: 0, spA: 64, spD: 0, spe: 192}
+ivs: 31
+tags: [morrison, anime]
+---
+species: Gligar
+setname: Morrison
+ability: [Hyper Cutter]
+item: [Metal Coat]
+ball: [Poke]
+moves:
+- [Steel Wing]
+- [Iron Tail]
+- [Hidden Power]
+- [Guillotine]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet
+evs: {hp: 4, atk: 116, def: 0, spA: 252, spD: 136, spe: 0}
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+tags: [morrison, anime]
+---
+species: Steelix
+setname: Morrison
+ability: [Sturdy]
+item: [Dragon Fang]
+ball: [Poke]
+moves:
+- [Iron Tail]
+- [Dig]
+- [Stone Edge]
+- [Dragonbreath]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Mild
+evs: {hp: 0, atk: 172, def: 36, spA: 252, spD: 48, spe: 0}
+ivs: 31
+tags: [morrison, anime]
+---
+species: Swampert
+setname: Morrison
+ability: [Torrent]
+item: [Soft Sand]
+ball: [Poke]
+moves:
+- [Hydro Pump]
+- [Mud-Slap]
+- [Focus Punch]
+- [Yawn]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Mild
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [morrison, anime]
+---
+species: Metang
+setname: Morrison
+ability: [Clear Body]
+item: [Mind Plate]
+ball: [Poke]
+moves:
+- [Meteor Mash]
+- [Confusion]
+- [Take Down]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Mild
+evs: {hp: 0, atk: 176, def: 44, spA: 252, spD: 36, spe: 0}
+ivs: 31
+tags: [morrison, anime]

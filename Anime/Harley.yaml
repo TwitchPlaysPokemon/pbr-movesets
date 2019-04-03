@@ -1,0 +1,95 @@
+---
+species: Wigglytuff
+setname: Harley
+ability: [Intimidate]
+item: [Silk Scarf]
+ball: [Heal]
+moves:
+- [Body Slam]
+- [DoubleSlap]
+- [Foresight]
+- [Bulk Up]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+ivs: 31
+tags: [harley, anime]
+---
+species: Ariados
+setname: Harley
+ability: [Rock Head]
+item: [Cleanse Tag]
+ball: [Nest]
+moves:
+- [Double-Edge]
+- [Shadow Ball]
+- [String Shot]
+- [Spider Web]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hasty
+evs: {hp: 0, atk: 92, def: 252, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [harley, anime]
+---
+species: Octillery
+setname: Harley
+ability: [Sticky Hold]
+item: [Chesto Berry]
+ball: [Dive]
+moves:
+- [Octazooka]
+- [Fire Blast]
+- [Sludge Bomb]
+- [Rest]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Sassy
+evs: {hp: 84, atk: 0, def: 0, spA: 252, spD: 172, spe: 0}
+ivs: 31
+tags: [harley, anime]
+---
+species: Cacturne
+setname: Harley
+ability: [Water Absorb]
+item: [Green Scarf]
+ball: [Dusk]
+moves:
+- [Needle Arm]
+- [Feint Attack]
+- [Pin Missile]
+- [Cotton Spore]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}
+ivs: 31
+tags: [harley, anime]
+---
+species: Banette
+setname: Harley
+ability: [Insomnia]
+item: [Zap Plate]
+ball: [Luxury]
+moves:
+- [Frustration]
+- [Thunder]
+- [Torment]
+- [Will-O-Wisp]
+gender: [f]
+happiness: 0
+biddable: true
+rarity: 1.0
+nature: Rash
+evs: {hp: 0, atk: 116, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [harley, anime]

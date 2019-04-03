@@ -1,0 +1,53 @@
+---
+species: Beedrill
+setname: Jimmy
+ability: [Pure Power]
+item: [Silverpowder]
+ball: [Poke]
+moves:
+- [Twineedle]
+- [Pin Missile]
+- [Agility]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 252, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [jimmy, anime]
+---
+species: Typhlosion
+setname: Jimmy
+ability: [Blaze]
+item: [null]
+ball: [Poke]
+moves:
+- [Flamethrower]
+- [Flame Wheel]
+- [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hasty
+evs: {hp: 0, atk: 252, def: 0, spA: 72, spD: 0, spe: 184}
+ivs: 31
+tags: [jimmy, anime]
+---
+species: Raikou
+setname: Jimmy
+ability: [Pressure]
+item: [Leftovers]
+ball: [Master]
+moves:
+- [Thunder]
+- [Hidden Power]
+- [Calm Mind]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Gentle
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 252}
+ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
+tags: [jimmy, anime]

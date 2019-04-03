@@ -1,0 +1,57 @@
+---
+species: Pidgeot
+setname: Solidad
+ability: [Keen Eye]
+item: [Red Scarf]
+ball: [Poke]
+moves:
+- [Aerial Ace]
+- [Swift]
+- [Double Team]
+- [Featherdance]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+ivs: 31
+evs: {hp: 52, atk: 172, def: 0, spA: 252, spD: 0, spe: 252}
+tags: [solidad, anime]
+---
+species: Slowbro
+setname: Solidad
+ability: [Own Tempo]
+item: [Mystic Water]
+ball: [Poke]
+moves:
+- [Psychic]
+- [Water Gun]
+- [Hyper Beam]
+- [Yawn]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 252, spe: 0}
+ivs: 31
+tags: [solidad, anime]
+---
+species: Lapras
+setname: Solidad
+ability: [Shell Armor]
+item: [Fist Plate]
+ball: [Poke]
+moves:
+- [Aurora Beam]
+- [Water Gun]
+- [Rock Smash]
+- [Sheer Cold]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Gentle
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [solidad, anime]

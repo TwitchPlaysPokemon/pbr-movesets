@@ -1,0 +1,206 @@
+---
+species: Psyduck
+setname: Misty
+ability: [Cloud Nine]
+item: [Sea Incense]
+ball: [Poke]
+moves:
+- [Water Gun]
+- [Psychic]
+- [Confusion]
+- [Disable]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 252}
+ivs: 31
+tags: [misty, anime]
+---
+species: Horsea
+setname: Misty
+ability: [Sniper]
+item: [Scope Lens]
+ball: [Poke]
+moves:
+- [Bubblebeam]
+- [Focus Energy]
+- [Smokescreen]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 252}
+ivs: 31
+tags: [misty, anime]
+---
+species: Goldeen
+setname: Misty
+ability: [Water Veil]
+item: [null]
+ball: [Poke]
+moves:
+- [Water Gun]
+- [Horn Attack]
+- [Horn Drill]
+- [Supersonic]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hasty
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 252, spe: 252}
+ivs: 31
+tags: [misty, anime]
+---
+species: Staryu
+setname: Misty
+ability: [Natural Cure]
+item: [null]
+ball: [Poke]
+moves:
+- [Bubblebeam]
+- [Swift]
+- [Double-Edge]
+- [Rapid Spin]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lonely
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [misty, anime]
+---
+species: Starmie
+setname: Misty
+ability: [Illuminate]
+item: [null]
+ball: [Poke]
+moves:
+- [Psychic]
+- [Water Gun]
+- [Swift]
+- [Recover]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet
+evs: {hp: 0, atk: 0, def: 252, spA: 4, spD: 252, spe: 0}
+ivs: 31
+tags: [misty, anime]
+---
+species: Gyarados
+setname: Misty
+ability: [Intimidate]
+item: [Wacan Berry]
+ball: [Poke]
+moves:
+- [Hydro Pump]
+- [Whirlpool]
+- [Rain Dance]
+- [Roar]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bold
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [misty, anime]
+---
+species: Togetic
+setname: Misty
+ability: [Serene Grace]
+item: [null]
+ball: [Poke]
+moves:
+- [Metronome]
+- [Charm]
+- [Safeguard]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [misty, anime]
+---
+species: Politoed
+setname: Misty
+ability: [Damp]
+item: [King's Rock]
+ball: [Poke]
+moves:
+- [Water Gun]
+- [Body Slam]
+- [DoubleSlap]
+- [Swagger]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+ivs: 31
+tags: [misty, anime]
+---
+species: Corsola
+setname: Misty
+ability: [Hustle]
+item: [null]
+ball: [Net]
+moves:
+- [Bubblebeam]
+- [Spike Cannon]
+- [Mirror Coat]
+- [Recover]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lonely
+evs: {hp: 0, atk: 196, def: 252, spA: 60, spD: 0, spe: 0}
+ivs: 31
+tags: [misty, anime]
+---
+species: Azurill
+setname: Misty
+ability: [Huge Power]
+item: [null]
+ball: [Poke]
+moves:
+- [Body Slam]
+- [Bubble]
+- [Refresh]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lonely
+evs: 252
+ivs: 31
+tags: [misty, anime]
+---
+species: Luvdisc
+setname: Misty
+displayname: Caserin
+ingamename: Caserin
+ability: [Simple]
+item: [Mystic Water]
+ball: [Poke]
+moves:
+- [Water Gun]
+- [Ice Beam]
+- [Double Team]
+- [Agility]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 4, atk: 0, def: 252, spA: 252, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 1}
+tags: [misty, anime]

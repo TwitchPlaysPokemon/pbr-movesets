@@ -1,0 +1,54 @@
+---
+species: Venonat
+setname: Tracey
+ability: [Technician]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+- [Bug Bite]
+- [Tackle]
+- [Sleep Powder]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [tracey, anime]
+---
+species: Scyther
+setname: Tracey
+ability: [Simple]
+item: [Life Orb]
+ball: [Poke]
+moves:
+- [Slash]
+- [Quick Attack]
+- [Double Team]
+- [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 40, spe: 216}
+ivs: 31
+tags: [tracey, anime]
+---
+species: Marill
+setname: Tracey
+ability: [Adaptability]
+item: [Choice Specs]
+ball: [Poke]
+moves:
+- [Surf]
+- [Hidden Power]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 252}
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
+tags: [tracey, anime]

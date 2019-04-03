@@ -1,0 +1,57 @@
+---
+species: Magneton
+setname: Vincent
+ability: [Magnet Pull]
+item: [null]
+ball: [Poke]
+moves:
+- [Thunderbolt]
+- [Tri Attack]
+- [Double Team]
+- [Thunder Wave]
+happiness: 255
+shiny: true
+biddable: true
+rarity: 1.0
+nature: Hasty
+evs: {hp: 28, atk: 0, def: 0, spA: 228, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 31, def: 1, spA: 31, spD: 31, spe: 31}
+tags: [vincent, anime]
+suppressions: [public-shiny]
+---
+species: Meganium
+setname: Vincent
+ability: [Overgrow]
+item: [null]
+ball: [Poke]
+moves:
+- [Solar Beam]
+- [Vine Whip]
+- [Body Slam]
+- [Light Screen]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Brave
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [vincent, anime]
+---
+species: Azumarill
+setname: Vincent
+ability: [Huge Power]
+item: [Iron Plate]
+ball: [Poke]
+moves:
+- [Bubblebeam]
+- [Iron Tail]
+- [Icy Wind]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [vincent, anime]

@@ -1,0 +1,182 @@
+---
+species: Vulpix
+setname: Brock
+ability: [Flash Fire]
+item: [Silk Scarf]
+ball: [Luxury]
+moves:
+- [Flamethrower]
+- [Fire Spin]
+- [Quick Attack]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lonely
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [brock, anime]
+---
+species: Geodude
+setname: Brock
+ability: [Sturdy]
+item: [Focus Sash]
+ball: [Poke]
+moves:
+- [Dig]
+- [Gyro Ball]
+- [Mega Punch]
+- [Seismic Toss]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Brave
+evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+tags: [brock, anime]
+---
+species: Chansey
+setname: Brock
+ability: [Serene Grace]
+item: [null]
+ball: [Poke]
+moves:
+- [Secret Power]
+- [Softboiled (=5)]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Relaxed
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [brock, anime]
+---
+species: Crobat
+setname: Brock
+ability: [Inner Focus]
+item: [Sharp Beak]
+ball: [Poke]
+moves:
+- [Wing Attack]
+- [Sonicboom]
+- [Supersonic]
+- [Whirlwind]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [brock, anime]
+---
+species: Sudowoodo
+setname: Brock
+ability: [Rock Head]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+- [Double-Edge]
+- [Hammer Arm]
+- [Flail]
+- [Mimic]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [brock, anime]
+---
+species: Forretress
+setname: Brock
+ability: [Sturdy]
+item: [Leftovers]
+ball: [Poke]
+moves:
+- [Rapid Spin]
+- [Spikes]
+- [Explosion]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [brock, anime]
+---
+species: Steelix
+setname: Brock
+ability: [Heatproof]
+item: [Occa Berry]
+ball: [Poke]
+moves:
+- [Gyro Ball]
+- [Dig]
+- [Headbutt]
+- [Bind]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Sassy
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+tags: [brock, anime]
+---
+species: Marshtomp
+setname: Brock
+ability: [Adaptability]
+item: [Mystic Water]
+ball: [Poke]
+moves:
+- [Mud Shot]
+- [Water Gun]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [brock, anime]
+---
+species: Ludicolo
+setname: Brock
+ability: [Skill Link]
+item: [Life Orb]
+ball: [Poke]
+moves:
+- [Bullet Seed]
+- [Water Gun]
+- [Razor Leaf]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [brock, anime]
+---
+species: Croagunk
+setname: Brock
+ability: [Anticipation]
+item: [Choice Band]
+ball: [Poke]
+moves:
+- [Poison Jab]
+- [Brick Break]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [brock, anime]

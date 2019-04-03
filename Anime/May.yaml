@@ -1,0 +1,145 @@
+---
+species: Venusaur
+setname: May
+ability: [Thick Fat]
+item: [Miracle Seed]
+ball: [Poke]
+moves:
+- [Petal Dance]
+- [Razor Leaf]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Gentle
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+tags: [may, anime]
+---
+species: Wartortle
+setname: May
+ability: [Torrent]
+item: [Pink Scarf]
+ball: [Poke]
+moves:
+- [Aqua Tail]
+- [Ice Beam]
+- [Rapid Spin]
+- [Withdraw]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Gentle
+ivs: 31
+evs: {hp: 0, atk: 216, def: 0, spA: 240, spD: 0, spe: 52}
+tags: [may, anime]
+---
+species: Blaziken
+setname: May
+ability: [Blaze]
+item: [Red Scarf]
+ball: [Poke]
+moves:
+- [Overheat]
+- [Sky Uppercut]
+- [Blaze Kick]
+- [Mega Kick]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Rash
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+ivs: 31
+tags: [may, anime]
+---
+species: Beautifly
+setname: May
+ability: [Swarm]
+item: [Blue Scarf]
+ball: [Poke]
+moves:
+- [Silver Wind]
+- [Aerial Ace]
+- [Psychic]
+- [Morning Sun]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hasty
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [may, anime]
+---
+species: Skitty
+setname: May
+ability: [Cute Charm]
+item: [Yellow Scarf]
+ball: [Poke]
+moves:
+- [DoubleSlap]
+- [Blizzard]
+- [Assist]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hasty
+evs: 252
+ivs: 31
+tags: [may, anime]
+---
+species: Munchlax
+setname: May
+ability: [Gluttony]
+item: [Figy Berry]
+ball: [Poke]
+moves:
+- [Metronome]
+- [Solar Beam]
+- [Focus Punch]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Calm
+evs: {hp: 248, atk: 252, def: 208, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [may, anime]
+---
+species: Glaceon
+setname: May
+ability: [Snow Cloak]
+item: [Blue Scarf]
+ball: [Poke]
+moves:
+- [Ice Beam]
+- [Shadow Ball]
+- [Ice Shard]
+- [Mirror Coat]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 100, atk: 160, def: 52, spA: 12, spD: 172, spe: 12}
+ivs: 31
+tags: [may, anime]
+---
+species: Manaphy
+setname: May
+ability: [Hydration]
+item: [King's Rock]
+ball: [Cherish]
+moves:
+- [Surf]
+- [Heart Swap]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+evs: {hp: 0, atk: 0, def: 64, spA: 128, spD: 176, spe: 140}
+ivs: 31
+tags: [may, anime]
