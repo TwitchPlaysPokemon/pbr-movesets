@@ -1,0 +1,59 @@
+species: Seviper
+setname: PWT-Lucy
+tags: [in-game, PWT-Lucy, trainer+lucy]
+item: [Quick Claw]
+ability: [Shed Skin]
+moves:
+- [Poison Fang]
+- [Crunch]
+- [Giga Drain]
+- [Swagger]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Shuckle
+setname: PWT-Lucy
+tags: [in-game, PWT-Lucy, trainer+lucy]
+item: [Chesto Berry]
+ability: [Sturdy]
+moves:
+- [Toxic]
+- [Sandstorm]
+- [Protect]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Lucy
+tags: [in-game, PWT-Lucy, trainer+lucy]
+item: [Leftovers]
+ability: [Marvel Scale]
+moves:
+- [Surf]
+- [Mirror Coat]
+- [Ice Beam]
+- [Recover]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

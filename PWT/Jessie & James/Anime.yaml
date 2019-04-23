@@ -1,0 +1,298 @@
+---
+species: Arbok
+setname: PWT-Jessie & James Anime
+ability: [Intimidate]
+item: [null]
+ball: [Poke]
+moves:
+- [Acid]
+- [Dig]
+- [Wrap]
+- [Toxic]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Meowth
+setname: PWT-Jessie & James Anime
+ability: [Technician]
+item: [null]
+ball: [Poke]
+moves:
+- [Fury Swipes]
+- [Scratch]
+- [Bite]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Growlithe
+setname: PWT-Jessie & James Anime
+displayname: Growlie
+ingamename: Growlie
+ability: [Intimidate]
+item: [null]
+ball: [Great]
+moves:
+- [Flamethrower]
+- [Dig]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Victreebel
+setname: PWT-Jessie & James Anime
+ability: [Chlorophyll]
+item: [null]
+ball: [Poke]
+moves:
+- [Razor Leaf]
+- [Double-Edge]
+- [Sleep Powder]
+- [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Lickitung
+setname: PWT-Jessie & James Anime
+ability: [Own Tempo]
+item: [null]
+ball: [Poke]
+moves:
+- [Slam]
+- [Lick]
+- [Wrap]
+- [Supersonic]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Weezing
+setname: PWT-Jessie & James Anime
+ability: [Levitate]
+item: [null]
+ball: [Poke]
+moves:
+- [Sludge]
+- [Poison Gas]
+- [Smokescreen]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Gyarados
+setname: PWT-Jessie & James Anime
+ability: [Intimidate]
+item: [null]
+ball: [Poke]
+moves:
+- [Outrage]
+- [Dragon Rage]
+- [Whirlpool]
+- [Splash]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Wobbuffet
+setname: PWT-Jessie & James Anime
+ability: [Shadow Tag]
+item: [null]
+ball: [Poke]
+moves:
+- [Counter]
+- [Mirror Coat]
+- [Bide]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Delibird
+setname: PWT-Jessie & James Anime
+ability: [Hustle]
+item: [null]
+ball: [Poke]
+moves:
+- [Present]
+- [Blizzard]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Dustox
+setname: PWT-Jessie & James Anime
+ability: [Shield Dust]
+item: [null]
+ball: [Poke]
+moves:
+- [Psybeam]
+- [Gust]
+- [Poison Sting]
+- [String Shot]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Cacnea
+setname: PWT-Jessie & James Anime
+ability: [Sand Veil]
+item: [null]
+ball: [Poke]
+moves:
+- [Needle Arm]
+- [Drain Punch]
+- [Pin Missile]
+- [Sandstorm]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Seviper
+setname: PWT-Jessie & James Anime
+ability: [Shed Skin]
+item: [null]
+ball: [Poke]
+moves:
+- [Poison Tail]
+- [Bite]
+- [Wrap]
+- [Haze]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Chimecho
+setname: PWT-Jessie & James Anime
+ability: [Levitate]
+item: [null]
+ball: [Luxury]
+moves:
+- [Double-Edge]
+- [Astonish]
+- [Wrap]
+- [Heal Bell]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Mime Jr.
+setname: PWT-Jessie & James Anime
+ability: [Filter]
+item: [null]
+ball: [Poke]
+moves:
+- [Mimic]
+- [Tickle (=5)]
+- [Teeter Dance (=10)]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Carnivine
+setname: PWT-Jessie & James Anime
+ability: [Levitate]
+item: [null]
+ball: [Poke]
+moves:
+- [Vine Whip]
+- [Bite]
+- [Bullet Seed]
+- [Wrap]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]
+---
+species: Yanmega
+setname: PWT-Jessie & James Anime
+ability: [Tinted Lens]
+item: [null]
+ball: [Poke]
+moves:
+- [Silver Wind]
+- [Ancient Power]
+- [Steel Wing]
+- [Sonicboom]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [in-game, PWT-Jessie & James Anime, trainer+jessiejames]

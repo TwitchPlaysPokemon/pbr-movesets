@@ -1,0 +1,59 @@
+species: Umbreon
+setname: PWT-Greta2
+tags: [in-game, PWT-Greta2, trainer+greta]
+item: [Chesto Berry]
+ability: [Synchronize]
+moves:
+- [Double Edge]
+- [Psychic]
+- [Confuse Ray]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Greta2
+tags: [in-game, PWT-Greta2, trainer+greta]
+item: [Leftovers]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Hypnosis]
+- [Dream Eater]
+- [Destiny Bond]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Breloom
+setname: PWT-Greta2
+tags: [in-game, PWT-Greta2, trainer+greta]
+item: [Lum Berry]
+ability: [Effect Spore]
+moves:
+- [Focus Punch]
+- [Spore]
+- [Giga Drain]
+- [Headbutt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

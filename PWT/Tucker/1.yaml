@@ -1,0 +1,59 @@
+species: Swampert
+setname: PWT-Tucker
+tags: [in-game, PWT-Tucker, trainer+tucker]
+item: [Focus Band]
+ability: [Torrent]
+moves:
+- [Surf]
+- [Ice Beam]
+- [Earthquake]
+- [Counter]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Tucker
+tags: [in-game, PWT-Tucker, trainer+tucker]
+item: [Lum Berry]
+ability: [Intimidate]
+moves:
+- [Dragon Claw]
+- [Aerial Ace]
+- [Earthquake]
+- [Brick Break]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Tucker
+tags: [in-game, PWT-Tucker, trainer+tucker]
+item: [White Herb]
+ability: [Blaze]
+moves:
+- [Overheat]
+- [Aerial Ace]
+- [Earthquake]
+- [Rock Slide]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

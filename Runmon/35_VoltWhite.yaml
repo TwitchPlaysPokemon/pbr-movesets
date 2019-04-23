@@ -1,0 +1,43 @@
+species: Staraptor
+ingamename: aaaxxxm %
+displayname: aaaxxxm %
+setname: TPP Volt White
+tags: [runmon, in-game]
+item: [Steel Mail]
+ability: [Intimidate]
+moves:
+    - [Close Combat]
+    - [Brave Bird]
+    - [Fly]
+    - [Quick Attack]
+gender: [m]
+happiness: 255
+ball: [Poké]
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Timid
+ivs: {hp: 30, atk: 16, def: 0, spA: 1, spD: 8, spe: 16}
+evs: {hp: 73, atk: 126, def: 50, spA: 90, spD: 53, spe: 118}
+---
+species: Toxicroak
+ingamename: qwriowy
+displayname: qwriowy
+setname: TPP Volt White
+tags: [runmon, in-game]
+item: [Steel Mail]
+ability: [Dry Skin]
+moves:
+    - [Brick Break]
+    - [Poison Jab]
+    - [Sludge Bomb]
+    - [Sucker Punch]
+gender: [m]
+happiness: 255
+ball: [Poké]
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Brave
+ivs: {hp: 1, atk: 12, def: 31, spA: 7, spD: 16, spe: 28}
+evs: {hp: 88, atk: 140, def: 48, spA: 104, spD: 29, spe: 101}

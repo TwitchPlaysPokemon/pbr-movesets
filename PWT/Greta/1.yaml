@@ -1,0 +1,59 @@
+species: Heracross
+setname: PWT-Greta
+tags: [in-game, PWT-Greta, trainer+greta]
+item: [Salac Berry]
+ability: [Swarm, Guts]
+moves:
+- [Megahorn]
+- [Rock Tomb]
+- [Endure]
+- [Reversal]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Umbreon
+setname: PWT-Greta
+tags: [in-game, PWT-Greta, trainer+greta]
+item: [Leftovers]
+ability: [Synchronize]
+moves:
+- [Faint Attack]
+- [Psychic]
+- [Confuse Ray]
+- [Body Slam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Shedinja
+setname: PWT-Greta
+tags: [in-game, PWT-Greta, trainer+greta]
+item: [BrightPowder]
+ability: [Wonder Guard]
+moves:
+- [Shadow Ball]
+- [Return]
+- [Aerial Ace]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
