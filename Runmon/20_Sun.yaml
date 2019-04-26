@@ -1,4 +1,4 @@
-﻿species: Ariados
+species: Ariados
 ingamename: "⤵︎!?ro s!h"
 displayname: "⤵︎!?ro s!h"
 setname: TPP Sun
@@ -42,7 +42,7 @@ nature: Naughty
 ivs: {hp: 27, atk: 24, def: 3, spA: 6, spD: 11, spe: 1}
 evs: {hp: 10, atk: 23, def: 9, spA: 16, spD: 4, spe: 37}
 ---
-﻿species: Fearow
+species: Fearow
 ingamename: "3 '' ☃︎) %"
 displayname: "3 '' ☃︎) %"
 setname: TPP Sun

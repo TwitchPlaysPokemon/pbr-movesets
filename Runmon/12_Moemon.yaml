@@ -1,4 +1,4 @@
-﻿species: Butterfree
+species: Butterfree
 ingamename: BUTTERBAE
 displayname: BUTTERBAE
 setname: TPP Moemon
@@ -20,7 +20,7 @@ nature: Modest
 ivs: {hp: 25, atk: 30, def: 18, spA: 9, spD: 19, spe: 19}
 evs: {hp: 43, atk: 78, def: 52, spA: 48, spD: 29, spe: 181}
 ---
-﻿species: Charizard
+species: Charizard
 ingamename: FFF
 displayname: FFF
 setname: TPP Moemon
@@ -42,7 +42,7 @@ nature: Naughty
 ivs: {hp: 12, atk: 11, def: 12, spA: 1, spD: 29, spe: 24}
 evs: {hp: 68, atk: 53, def: 74, spA: 56, spD: 12, spe: 247}
 ---
-﻿species: Dugtrio
+species: Dugtrio
 ingamename: AHHHHHIIII
 displayname: AHHHHHIIII
 setname: TPP Moemon
@@ -64,7 +64,7 @@ nature: Brave
 ivs: {hp: 1, atk: 8, def: 6, spA: 25, spD: 27, spe: 5}
 evs: {hp: 6, atk: 16, def: 17, spA: 19, spD: 21, spe: 101}
 ---
-﻿species: Electabuzz
+species: Electabuzz
 ingamename: AAAVX
 displayname: AAAVX
 setname: TPP Moemon
@@ -86,7 +86,7 @@ nature: Impish
 ivs: {hp: 7, atk: 31, def: 24, spA: 6, spD: 2, spe: 10}
 evs: {hp: 35, atk: 34, def: 145, spA: 50, spD: 100, spe: 190}
 ---
-﻿species: Pidgeot
+species: Pidgeot
 ingamename: T
 displayname: T
 setname: TPP Moemon

@@ -1,4 +1,4 @@
-﻿species: Espeon
+species: Espeon
 ingamename: ABLLLVVVV♀
 displayname: ABLLLVVVVV♀
 setname: TPP Colosseum
@@ -20,7 +20,7 @@ nature: Careful
 ivs: {hp: 18, atk: 5, def: 8, spA: 25, spD: 20, spe: 0}
 evs: {hp: 113, atk: 86, def: 71, spA: 77, spD: 54, spe: 109}
 ---
-﻿species: Jumpluff
+species: Jumpluff
 ingamename: AAAAKLV
 displayname: AAAAKLV
 setname: TPP Colosseum
@@ -42,7 +42,7 @@ nature: Lax
 ivs: {hp: 17, atk: 17, def: 22, spA: 3, spD: 1, spe: 13}
 evs: {hp: 55, atk: 65, def: 54, spA: 38, spD: 21, spe: 51}
 ---
-﻿species: Meganium
+species: Meganium
 ingamename: Meganium
 displayname: Meganium
 setname: TPP Colosseum
@@ -108,7 +108,7 @@ nature: Calm
 ivs: {hp: 24, atk: 4, def: 25, spA: 8, spD: 31, spe: 29}
 evs: {hp: 37, atk: 50, def: 33, spA: 43, spD: 19, spe: 57}
 ---
-﻿species: Togepi
+species: Togepi
 ingamename: TOGEPI
 displayname: TOGEPI
 setname: TPP Crystal
@@ -130,7 +130,7 @@ nature: Brave
 ivs: 31
 evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
 ---
-﻿species: Umbreon
+species: Umbreon
 ingamename: Umbreon
 displayname: Umbreon
 setname: TPP Colosseum
