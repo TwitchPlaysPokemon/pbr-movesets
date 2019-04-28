@@ -48,7 +48,6 @@ moves:
 - [Return]
 - [Aerial Ace]
 - [Confuse Ray]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
