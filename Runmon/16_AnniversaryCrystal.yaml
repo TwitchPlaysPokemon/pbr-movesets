@@ -1,4 +1,4 @@
-﻿species: Aerodactyl
+species: Aerodactyl
 ingamename: JHH
 displayname: JHH
 setname: TPP Anniversary Crystal
@@ -20,7 +20,7 @@ nature: Serious
 ivs: {hp: 24, atk: 6, def: 14, spA: 16, spD: 16, spe: 8}
 evs: {hp: 252, atk: 252, def: 252, spA: 244, spD: 244, spe: 240}
 ---
-﻿species: Jolteon
+species: Jolteon
 ingamename: "FOX,/!!!)u"
 displayname: "FOX,/!!!)u"
 setname: TPP Anniversary Crystal
@@ -42,7 +42,7 @@ nature: Serious
 ivs: {hp: 4, atk: 24, def: 4, spA: 16, spD: 16, spe: 18}
 evs: {hp: 228, atk: 192, def: 196, spA: 192, spD: 192, spe: 200}
 ---
-﻿species: Kingdra
+species: Kingdra
 ingamename: '---s×j×KKK'
 displayname: '---s×j×KKK'
 setname: TPP Anniversary Crystal
@@ -86,7 +86,7 @@ nature: Serious
 ivs: {hp: 20, atk: 26, def: 4, spA: 20, spD: 20, spe: 6}
 evs: {hp: 180, atk: 180, def: 180, spA: 180, spD: 180, spe: 180}
 ---
-﻿species: Miltank
+species: Miltank
 ingamename: "!L"
 displayname: "!L"
 setname: TPP Anniversary Crystal
@@ -108,7 +108,7 @@ nature: Serious
 ivs: {hp: 0, atk: 24, def: 20, spA: 4, spD: 4, spe: 12}
 evs: {hp: 252, atk: 248, def: 24, spA: 252, spD: 252, spe: 240}
 ---
-﻿species: Noctowl
+species: Noctowl
 ingamename: KENYA
 displayname: KENYA
 setname: TPP Anniversary Crystal
@@ -130,7 +130,7 @@ nature: Serious
 ivs: {hp: 8, atk: 0, def: 26, spA: 28, spD: 28, spe: 4}
 evs: {hp: 196, atk: 196, def: 192, spA: 192, spD: 192, spe: 184}
 ---
-﻿species: Venusaur
+species: Venusaur
 ingamename: "'ul:::ut×'"
 displayname: "'ul:::ut×'"
 setname: TPP Anniversary Crystal

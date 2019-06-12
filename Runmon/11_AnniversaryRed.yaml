@@ -1,4 +1,4 @@
-﻿species: Charizard
+species: Charizard
 ingamename: CHARIZARD
 displayname: CHARIZARD
 setname: TPP Anniversary Red
@@ -42,7 +42,7 @@ nature: Serious
 ivs: {hp: 0, atk: 16, def: 4, spA: 28, spD: 31, spe: 28}
 evs: {hp: 248, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 ---
-﻿species: Dragonite
+species: Dragonite
 ingamename: "'AAA--xxᴹɴ"
 displayname: "'AAA--xxᴹɴ"
 setname: TPP Anniversary Red
@@ -64,7 +64,7 @@ nature: Serious
 ivs: {hp: 6, atk: 0, def: 24, spA: 30, spD: 30, spe: 18}
 evs: {hp: 132, atk: 148, def: 152, spA: 140, spD: 140, spe: 140}
 ---
-﻿species: Flareon
+species: Flareon
 ingamename: "'KkksAmv[]"
 displayname: "'KkksAmv[]"
 setname: TPP Anniversary Red
@@ -86,7 +86,7 @@ nature: Serious
 ivs: {hp: 18, atk: 22, def: 8, spA: 14, spD: 14, spe: 22}
 evs: {hp: 24, atk: 28, def: 24, spA: 144, spD: 24, spe: 36}
 ---
-﻿species: Kabutops
+species: Kabutops
 ingamename: AAAACCDYY
 displayname: AAAACCDYY
 setname: TPP Anniversary Red
@@ -108,7 +108,7 @@ nature: Serious
 ivs: {hp: 26, atk: 30, def: 10, spA: 18, spD: 18, spe: 12}
 evs: {hp: 156, atk: 188, def: 180, spA: 208, spD: 168, spe: 176}
 ---
-﻿species: Kadabra
+species: Kadabra
 ingamename: ALAKAZAM
 displayname: ALAKAZAM
 setname: TPP Anniversary Red
@@ -130,7 +130,7 @@ nature: Sassy
 ivs: {hp: 4, atk: 12, def: 4, spA: 15, spD: 29, spe: 18}
 evs: {hp: 24, atk: 28, def: 28, spA: 0, spD: 252, spe: 136}
 ---
-﻿species: Kakuna
+species: Kakuna
 ingamename: KAKUNA
 displayname: KAKUNA
 setname: TPP Anniversary Red
@@ -149,7 +149,7 @@ nature: Serious
 ivs: {hp: 12, atk: 24, def: 30, spA: 20, spD: 20, spe: 14}
 evs: {hp: 32, atk: 36, def: 32, spA: 32, spD: 32, spe: 32}
 ---
-﻿species: Magikarp
+species: Magikarp
 ingamename: BBAABaaaa
 displayname: BBAABaaaa
 setname: TPP Anniversary Red
@@ -190,7 +190,7 @@ nature: Serious
 ivs: {hp: 8, atk: 23, def: 18, spA: 0, spD: 0, spe: 4}
 evs: {hp: 36, atk: 0, def: 40, spA: 60, spD: 0, spe: 40}
 ---
-﻿species: Muk
+species: Muk
 ingamename: A-----aaaa
 displayname: A-----aaaa
 setname: TPP Anniversary Red
@@ -212,7 +212,7 @@ nature: Serious
 ivs: {hp: 30, atk: 2, def: 6, spA: 2, spD: 2, spe: 10}
 evs: {hp: 120, atk: 136, def: 128, spA: 64, spD: 0, spe: 128}
 ---
-﻿species: Onix
+species: Onix
 ingamename: BBBBBCLLLL
 displayname: BBBBBCLLLL
 setname: TPP Anniversary Red
@@ -234,7 +234,7 @@ nature: Serious
 ivs: {hp: 10, atk: 16, def: 26, spA: 22, spD: 22, spe: 8}
 evs: {hp: 152, atk: 164, def: 152, spA: 152, spD: 32, spe: 160}
 ---
-﻿species: Parasect
+species: Parasect
 ingamename: "-?"
 displayname: "-?"
 setname: TPP Anniversary Red
@@ -256,7 +256,7 @@ nature: Serious
 ivs: {hp: 22, atk: 14, def: 28, spA: 31, spD: 22, spe: 18}
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 ---
-﻿species: Persian
+species: Persian
 ingamename: ZZ ZHH
 displayname: ZZ ZHH
 setname: TPP Anniversary Red
@@ -278,7 +278,7 @@ nature: Serious
 ivs: {hp: 20, atk: 30, def: 24, spA: 16, spD: 16, spe: 18}
 evs: {hp: 56, atk: 30, def: 56, spA: 56, spD: 56, spe: 60}
 ---
-﻿species: Slowbro
+species: Slowbro
 ingamename: AAbbABCabb
 displayname: AAbbABCabb
 setname: TPP Anniversary Red
@@ -300,7 +300,7 @@ nature: Serious
 ivs: {hp: 20, atk: 10, def: 4, spA: 24, spD: 24, spe: 14}
 evs: {hp: 248, atk: 252, def: 252, spA: 92, spD: 252, spe: 252}
 ---
-﻿species: Venomoth
+species: Venomoth
 ingamename: RRRRIIIIH
 displayname: RRRRIIIIH
 setname: TPP Anniversary Red
@@ -322,7 +322,7 @@ nature: Serious
 ivs: {hp: 2, atk: 28, def: 24, spA: 10, spD: 10, spe: 28}
 evs: {hp: 124, atk: 132, def: 128, spA: 124, spD: 244, spe: 132}
 ---
-﻿species: Victreebel
+species: Victreebel
 ingamename: RRQPO:{{{{
 displayname: RRQPO:{{{{
 setname: TPP Anniversary Red
@@ -344,7 +344,7 @@ nature: Serious
 ivs: {hp: 22, atk: 26, def: 16, spA: 0, spD: 31, spe: 26}
 evs: {hp: 64, atk: 68, def: 68, spA: 56, spD: 252, spe: 86}
 ---
-﻿species: Zapdos
+species: Zapdos
 ingamename: "'(ssjj ᴹɴ."
 displayname: "'(ssjj ᴹɴ."
 setname: TPP Anniversary Red

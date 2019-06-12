@@ -1,4 +1,4 @@
-﻿species: Azumarill
+species: Azumarill
 ingamename: "!t44444’tu"
 displayname: "!t44444’tu"
 setname: TPP Omega Ruby
@@ -42,7 +42,7 @@ nature: Jolly
 ivs: 0
 evs: 84
 ---
-﻿species: Latios
+species: Latios
 ingamename: LATIOS
 displayname: LATIOS
 setname: TPP Omega Ruby
@@ -108,7 +108,7 @@ nature: Adamant
 ivs: 0
 evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
 ---
-﻿species: Minun
+species: Minun
 ingamename: "♀2e!0yy5ee"
 displayname: "♀2e!0yy5ee"
 setname: TPP Omega Ruby
@@ -130,7 +130,7 @@ nature: Naughty
 ivs: 31
 evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
 ---
-﻿species: Rayquaza
+species: Rayquaza
 ingamename: strssss2st
 displayname: strssss2st
 setname: TPP Omega Ruby

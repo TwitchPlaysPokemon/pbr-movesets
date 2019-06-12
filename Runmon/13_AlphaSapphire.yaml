@@ -1,4 +1,4 @@
-﻿species: Cacturne
+species: Cacturne
 ingamename: r
 displayname: r
 setname: TPP Alpha Sapphire
@@ -20,7 +20,7 @@ nature: Impish
 ivs: {hp: 14, atk: 20, def: 27, spA: 14, spD: 13, spe: 3}
 evs: {hp: 63, atk: 161, def: 62, spA: 91, spD: 30, spe: 103}
 ---
-﻿species: Flareon
+species: Flareon
 ingamename: "!!!!r"
 displayname: "!!!!r"
 setname: TPP Alpha Sapphire
@@ -42,7 +42,7 @@ nature: Impish
 ivs: {hp: 13, atk: 29, def: 22, spA: 9, spD: 0, spe: 25}
 evs: {hp: 63, atk: 112, def: 113, spA: 84, spD: 43, spe: 95}
 ---
-﻿species: Glaceon
+species: Glaceon
 ingamename: Glaceonhfe
 displayname: Glaceonhfeer
 setname: TPP Alpha Sapphire
@@ -64,7 +64,7 @@ nature: Relaxed
 ivs: {hp: 7, atk: 1, def: 24, spA: 3, spD: 1, spe: 0}
 evs: {hp: 44, atk: 101, def: 42, spA: 172, spD: 63, spe: 88}
 ---
-﻿species: Lanturn
+species: Lanturn
 ingamename: Swinu
 displayname: Swinu
 setname: TPP Alpha Sapphire
@@ -86,7 +86,7 @@ nature: Hasty
 ivs: {hp: 1, atk: 28, def: 25, spA: 13, spD: 15, spe: 31}
 evs: {hp: 54, atk: 138, def: 62, spA: 90, spD: 59, spe: 107}
 ---
-﻿species: Rayquaza
+species: Rayquaza
 ingamename: "999"
 displayname: "999"
 setname: TPP Alpha Sapphire
@@ -107,7 +107,7 @@ nature: Impish
 ivs: {hp: 30, atk: 31, def: 7, spA: 31, spD: 28, spe: 31}
 evs: {hp: 15, atk: 156, def: 95, spA: 151, spD: 68, spe: 25}
 ---
-﻿species: Wigglytuff
+species: Wigglytuff
 ingamename: Chansey
 displayname: Chansey
 setname: TPP Alpha Sapphire
