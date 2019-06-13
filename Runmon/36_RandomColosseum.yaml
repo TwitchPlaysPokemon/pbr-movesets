@@ -6,10 +6,10 @@ tags: [runmon, in-game]
 item: [Blackglasses]
 ability: [Drought]
 moves:
-    - [Icy Wind]
-    - [Will-O-Wisp]
-    - [Synthesis]
     - [Assist]
+    - [Will-O-Wisp]
+    - [Icy Wind]
+    - [Synthesis]
 gender: [f]
 happiness: 255
 biddable: True
@@ -50,10 +50,10 @@ tags: [runmon, in-game]
 item: [Sun Stone]
 ability: [Damp]
 moves:
-    - [Spark]
+    - [Metronome]
     - [Hypnosis]
     - [Iron Tail]
-    - [Metronome]
+    - [Slack Off]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -61,7 +61,7 @@ ball: [great]
 shiny: False
 nature: Hardy
 ivs: 31
-evs: {hp: 60, atk: 110, def: 98, spA: 73, spD: 70, spe: 95}
+evs: {hp: 60, atk: 112, def: 100, spA: 73, spD: 70, spe: 95}
 ---
 species: Octillery
 ingamename: AAO
@@ -71,10 +71,10 @@ tags: [runmon, in-game]
 item: [Null]
 ability: [Cloud Nine]
 moves:
-    - [Muddy Water]
-    - [Bubble]
     - [Mud Slap]
-    - [Tail Whip]
+    - [Extrasensory]
+    - [Frenzy Plant]
+    - [Muddy Water]
 gender: [f]
 happiness: 255
 biddable: True
@@ -83,7 +83,7 @@ ball: [Poke]
 shiny: False
 nature: Hardy
 ivs: {hp: 21, atk: 17, def: 22, spA: 16, spD: 9, spe: 8}
-evs: {hp: 17, atk: 36, def: 24, spA: 27, spD: 22, spe: 20}
+evs: {hp: 96, atk: 115, def: 76, spA: 81, spD: 77, spe: 72}
 ---
 species: Regirock
 ingamename: "BG- -----"
@@ -104,4 +104,26 @@ ball: [Poke]
 shiny: False
 nature: Hardy
 ivs: {hp: 4, atk: 2, def: 18, spA: 21, spD: 24, spe: 26}
-evs: {hp: 0, atk: 5, def: 0, spA: 1, spD: 3, spe: 0}
+evs: {hp: 4, atk: 13, def: 5, spA: 11, spD: 6, spe: 3}
+---
+species: Walrein
+ingamename: Walrein
+displayname: Walrein
+setname: TPP Randomized Colosseum
+tags: [runmon, in-game]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Brick Break]
+    - [Solar Beam]
+    - [Baton Pass]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: {hp: 16, atk: 25, def: 1, spA: 19, spD: 24, spe: 23}
+evs: {hp: 53, atk: 132, def: 81, spA: 82, spD: 74, spe: 88}
