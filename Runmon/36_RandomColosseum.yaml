@@ -85,27 +85,6 @@ nature: Hardy
 ivs: {hp: 21, atk: 17, def: 22, spA: 16, spD: 9, spe: 8}
 evs: {hp: 96, atk: 115, def: 76, spA: 81, spD: 77, spe: 72}
 ---
-species: Regirock
-ingamename: "BG- -----"
-displayname: "BG- -----"
-setname: TPP Randomized Colosseum
-tags: [runmon, in-game]
-item: [Null]
-ability: [Hyper Cutter]
-moves:
-    - [Ancient Power]
-    - [Growth]
-    - [Rock Slide]
-    - [Acid]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Hardy
-ivs: {hp: 4, atk: 2, def: 18, spA: 21, spD: 24, spe: 26}
-evs: {hp: 4, atk: 13, def: 5, spA: 11, spD: 6, spe: 3}
----
 species: Walrein
 ingamename: Walrein
 displayname: Walrein
