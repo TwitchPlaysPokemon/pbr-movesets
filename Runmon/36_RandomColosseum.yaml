@@ -50,7 +50,7 @@ tags: [runmon, in-game]
 item: [Sun Stone]
 ability: [Damp]
 moves:
-    - [Metronome]
+    - [Metronome, Bone Club]
     - [Hypnosis]
     - [Iron Tail]
     - [Slack Off]
@@ -68,13 +68,13 @@ ingamename: AAO
 displayname: AAO
 setname: TPP Randomized Colosseum
 tags: [runmon, in-game]
-item: [Null]
+item: [Mystic Water]
 ability: [Cloud Nine]
 moves:
-    - [Mud Slap]
+    - [Muddy Water]
     - [Extrasensory]
     - [Frenzy Plant]
-    - [Muddy Water]
+    - [Fire Blast, Mud Slap]
 gender: [f]
 happiness: 255
 biddable: True
