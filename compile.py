@@ -32,7 +32,7 @@ for dir, _, files in os.walk("."):
         filepath = os.path.join(dir, file)
         with open(filepath, "r", encoding="utf-8") as f:
             try:
-                contents = list(yaml.load_all(f))
+                contents = list(yaml.load_all(f, Loader=yaml.FullLoader))
                 for pokeset in contents:
                     if not pokeset:
                         print("Skipping empty pokeset in {}".format(filepath))
