@@ -108,7 +108,7 @@ evs: {hp: 88, atk: 149, def: 58, spA: 72, spD: 82, spe: 61}
 ---
 species: Sceptile
 ingamename: "CCC    /"
-displayname:"CCC    /"
+displayname: "CCC    /"
 setname: TPP XG
 tags: [runmon, in-game]
 item: [Wise Glasses]
