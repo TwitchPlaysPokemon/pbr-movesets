@@ -43,8 +43,8 @@ item: [Scope Lens]
 ability: [Sniper]
 moves:
     - [Sludge Bomb]
-    - [Giga Drain]
     - [Silver Wind]
+    - [Giga Drain]
     - [Focus Energy]
 gender: [m, f]
 happiness: 255
