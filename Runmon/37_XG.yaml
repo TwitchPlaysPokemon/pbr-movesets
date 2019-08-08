@@ -10,7 +10,7 @@ moves:
     - [Ice Punch]
     - [Earthquake]
     - [Hammer Arm]
-gender: [f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -53,7 +53,7 @@ moves:
     - [High Jump Kick]
     - [Earthquake]
     - [Blaze Kick]
-gender: [f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -112,7 +112,7 @@ displayname: "CCC    /"
 setname: TPP XG
 tags: [runmon, in-game]
 item: [Wise Glasses]
-ability: [Lightninrod]
+ability: [Lightning Rod]
 moves:
     - [Giga Drain]
     - [Draco Meteor]
