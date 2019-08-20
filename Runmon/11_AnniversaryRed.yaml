@@ -135,8 +135,8 @@ ingamename: KAKUNA
 displayname: KAKUNA
 setname: TPP Anniversary Red
 tags: [runmon, in-game]
-item: [Choice Band]
-ability: [Huge Power]
+item: [Null]
+ability: [Null]
 moves:
     - [Harden (=1)]
 gender: [m]
@@ -154,8 +154,8 @@ ingamename: BBAABaaaa
 displayname: BBAABaaaa
 setname: TPP Anniversary Red
 tags: [runmon, in-game]
-item: [Choice Band]
-ability: [Pure Power]
+item: [Null]
+ability: [Null]
 moves:
     - [Splash (=1)]
 gender: [f]
