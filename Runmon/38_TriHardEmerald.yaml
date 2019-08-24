@@ -165,7 +165,7 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.1
 ball: [Poke]
 shiny: False
 nature: Naive
@@ -186,7 +186,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.1
 ball: [Poke]
 shiny: False
 nature: Naive
@@ -206,9 +206,73 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.1
 ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 14, atk: 31, def: 6, spA: 25, spD: 24, spe: 16}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Regice
+ingamename: "Vnnnmmmhht"
+displayname: "Vnnnmmmhht"
+setname: TPP TriHard Emerald
+tags: [runmon, in-game]
+item: [NeverMeltIce]
+ability: [Clear Body]
+moves:
+    - [Ice Beam]
+    - [Ancient Power]
+    - [Thunderbolt]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 4, def: 3, spA: 21, spD: 20, spe: 23}
+evs: {hp: 199, atk: 14, def: 64, spA: 42, spD: 172, spe: 19}
+---
+species: Wailord
+ingamename: "Srrrrrr"
+displayname: "Srrrrrr"
+setname: TPP TriHard Emerald-2
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [Water Veil]
+moves:
+    - [Water Pulse]
+    - [Ice Beam]
+    - [Water Spout]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Careful
+ivs: {hp: 27, atk: 7, def: 9, spA: 27, spD: 18, spe: 12}
+evs: {hp: 182, atk: 8, def: 112, spA: 26, spD: 17, spe: 165}
+---
+species: Tentacool
+ingamename: "tttttt"
+displayname: "tttttt"
+setname: TPP TriHard Emerald
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [Liquid Ooze]
+moves:
+    - [Poison Sting]
+    - [Supersonic]
+    - [Constrict]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Timid
+ivs: {hp: 27, atk: 7, def: 9, spA: 27, spD: 18, spe: 12}
+evs: {hp: 20, atk: 17, def: 2, spA: 11, spD: 16, spe: 11}
