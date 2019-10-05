@@ -43,6 +43,15 @@ for dir, _, files in os.walk("."):
                             fixed_ingamename = pokeset["ingamename"].encode("ascii", "replace").decode()
                             for char in illegal_chars:
                                 fixed_ingamename = fixed_ingamename.replace(char, "?")
+                            temp = ""
+                            for i, char in enumerate(pokeset["ingamename"]):
+                                if char == "\u2640":
+                                    temp += "\u2640"
+                                elif char == "\u2642":
+                                    temp += "\u2642"
+                                else:
+                                    temp += fixed_ingamename[i]
+                            fixed_ingamename = temp
                             if pokeset["ingamename"] != fixed_ingamename:
                                 print("Changed ingamename: {} -> {} to avoid encoding issues"
                                       .format(pokeset["ingamename"], fixed_ingamename))
