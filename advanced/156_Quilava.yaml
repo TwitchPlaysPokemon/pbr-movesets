@@ -22,7 +22,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 108, spe: 100}
 species: Quilava
 setname: a-Physical
 tags: [advanced]
-item: [Fluffy Tail, Flame Plate, Stone Plate]
+item: [Flame Plate, Stone Plate]
 ability: [Blaze, Flash Fire]
 moves:
     - [Flare Blitz, Flame Wheel]
@@ -30,7 +30,7 @@ moves:
     - [Howl, Rollout]
     - [Will-O-Wisp, Endure, Defense Curl]
 combinations:
-    - [Flash Fire, Rollout, Defense Curl]
+    - [Stone Plate, Flash Fire, Rollout, Defense Curl]
     - [Reversal, Endure]
     - [Dig, Will-O-Wisp]
 gender: [m, f]
