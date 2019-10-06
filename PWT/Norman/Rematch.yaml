@@ -9,7 +9,7 @@ moves:
 - [Dizzy Punch]
 - [Endure]
 - [Reversal]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
