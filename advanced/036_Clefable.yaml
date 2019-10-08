@@ -67,6 +67,7 @@ separations:
     - [Flame Orb, Thunder Wave]
     - [Toxic Orb, Thunder Wave]
     - [Flame Orb, Toxic]
+    - [Life Orb, Trick]
 gender: [m, f]
 happiness: 255
 biddable: true
