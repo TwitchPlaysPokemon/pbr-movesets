@@ -26,8 +26,8 @@ ability: [arena trap]
 moves:
     - [earthquake]
     - [bug bite, bite, quick attack, rock tomb]
-    - [dragon dance, howl]
     - [attract, sand attack]
+    - [dragon dance]
 gender: [m, f]
 happiness: 255
 biddable: True
