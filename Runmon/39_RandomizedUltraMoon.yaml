@@ -1,0 +1,65 @@
+species: Garchomp
+ingamename: "GarWG%chom"
+displayname: "GarWG%chom"
+setname: TPP Randomized Ultra Moon
+tags: [runmon, in-game]
+item: [Null]
+ability: [Insomnia]
+moves:
+    - [Earthquake]
+    - [Aerial Ace]
+    - [Crunch]
+    - [Brick Break]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Impish
+ivs: {hp: 8, atk: 2, def: 21, spA: 26, spD: 0, spe: 25}
+evs: {hp: 71, atk: 135, def: 77, spA: 62, spD: 62, spe: 103}
+---
+species: Walrein
+ingamename: "TorracatNIII"
+displayname: "TorracatNIII"
+setname: TPP Randomized Ultra Moon
+tags: [runmon, in-game]
+item: [Null]
+ability: [Color Change]
+moves:
+    - [Hydro Pump]
+    - [Air Slash]
+    - [Flare Blitz]
+    - [Psychic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 25, atk: 16, def: 23, spA: 8, spD: 25, spe: 23}
+evs: {hp: 44, atk: 146, def: 81, spA: 96, spD: 46, spe: 97}
+---
+species: Charizard
+ingamename: "BCharGizard"
+displayname: "BCharGizard"
+setname: TPP Randomized Ultra Moon
+tags: [runmon, in-game]
+item: [Everstone]
+ability: [Lightningrod]
+moves:
+    - [Shock Wave]
+    - [Sky Attack]
+    - [Heat Wave]
+    - [Meteor Mash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Docile
+ivs: {hp: 21, atk: 21, def: 24, spA: 24, spD: 0, spe: 11}
+evs: {hp: 76, atk: 136, def: 56, spA: 111, spD: 57, spe: 74}
