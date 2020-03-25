@@ -1,0 +1,124 @@
+species: Electrode
+ingamename: BCCLLMDDML
+displayname: BCCLLMDDML
+setname: TPP Gauntled Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Thunderbolt]
+    - [Swift]
+    - [Selfdestruct]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 1, atk: 12, def: 4, spA: 9, spD: 9, spe: 12}
+evs: {hp: 104, atk: 156, def: 124, spA: 140, spD: 140, spe: 152}
+---
+species: Poliwrath
+ingamename: AIIIIH
+displayname: AIIIIH
+gender: [f]
+setname: TPP Gauntled Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Amnesia]
+    - [Hypnosis]
+    - [Ice Beam]
+    - [Surf]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 7, def: 9, spA: 10, spD: 10, spe: 15}
+evs: {hp: 168, atk: 160, def: 172, spA: 160, spD: 0, spe: 192}
+---
+species: Rapidash
+ingamename: J
+displayname: J
+gender: [m]
+setname: TPP Gauntled Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Stomp]
+    - [Fire Blast]
+    - [Body Slam]
+    - [Fire Spin]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 9, atk: 9, def: 0, spA: 15, spD: 15, spe: 4}
+evs: {hp: 116, atk: 132, def: 88, spA: 140, spD: 140, spe: 112}
+---
+species: Dodrio
+ingamename: FJJAA)
+displayname: FJJAA)
+gender: [m]
+setname: TPP Gauntled Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fly]
+    - [Peck]
+    - [Fury Attack]
+    - [Tri Attack]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 6, atk: 8, def: 1, spA: 14, spD: 14, spe: 9}
+evs: {hp: 124, atk: 152, def: 112, spA: 164, spD: 164, spe: 148}
+---
+species: Vileplume
+ingamename: ----
+displayname: ----
+gender: [m]
+setname: TPP Gauntled Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Petal Dance]
+    - [Toxic]
+    - [Stun Spore]
+    - [Solar Beam]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 11, def: 3, spA: 9, spD: 14, spe: 6}
+evs: {hp: 212, atk: 208, def: 184, spA: 192, spD: 252, spe: 176}
+---
+species: Rhydon
+ingamename:  JJI???UUT
+displayname:  JJI???UUT
+gender: [f]
+setname: TPP Gauntled Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Strength]
+    - [Rock Slide]
+    - [Stomp]
+    - [Earthquake]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 7, def: 8, spA: 0, spD: 0, spe: 15}
+evs: {hp: 140, atk: 144, def: 144, spA: 108, spD: 108, spe: 172}
