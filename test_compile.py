@@ -55,7 +55,7 @@ for dir, _, files in os.walk(testdir):
                             for i, char in enumerate(pokeset["ingamename"]):
                                 if char in allowed_characters:
                                     temp += char
-                                elif name_replacements.get(char):
+                                elif char in name_replacements:
                                     temp += name_replacements[char]
                                 else:
                                     temp += fixed_ingamename[i]
