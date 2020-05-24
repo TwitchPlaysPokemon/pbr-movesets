@@ -25,6 +25,10 @@ genders_per_species = defaultdict(set)
 
 illegal_chars = r"[\]^`|<>_{}"
 
+name_replacements = {"ᴹ": "M", "ɴ": "N", "×": "x", "’": "'", "”": "\"", "ᵖ": "P", "ᵏ": "K", " ": " ", "ᴾ": "P"}
+
+allowed_characters = ["\u2640", "\u2642", "â", "É"]
+
 for dir, _, files in os.walk("."):
     for file in files:
         if not (file.endswith(".yaml") or file.endswith(".yml")) or file == outfile or file.startswith("_"):
@@ -45,10 +49,10 @@ for dir, _, files in os.walk("."):
                                 fixed_ingamename = fixed_ingamename.replace(char, "?")
                             temp = ""
                             for i, char in enumerate(pokeset["ingamename"]):
-                                if char == "\u2640":
-                                    temp += "\u2640"
-                                elif char == "\u2642":
-                                    temp += "\u2642"
+                                if char in allowed_characters:
+                                    temp += char
+                                elif char in name_replacements:
+                                    temp += name_replacements[char]
                                 else:
                                     temp += fixed_ingamename[i]
                             fixed_ingamename = temp
