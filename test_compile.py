@@ -25,6 +25,10 @@ genders_per_species = defaultdict(set)
 
 illegal_chars = r"[\]^`|"
 
+name_replacements = {"ᴹ": "M", "ɴ": "N", "×": "x", "’": "'", "”": "\"", "ᵖ": "P", "ᵏ": "K", " ": " ", "ᴾ": "P"}
+
+allowed_characters = ["\u2640", "\u2642", "â", "É"]
+
 testdir = "."
 if len(sys.argv) > 1:
     testdir = sys.argv[1]
@@ -36,7 +40,7 @@ for dir, _, files in os.walk(testdir):
         filepath = os.path.join(dir, file)
         with open(filepath, "r", encoding="utf-8") as f:
             try:
-                contents = list(yaml.load_all(f))
+                contents = list(yaml.load_all(f, Loader=yaml.FullLoader))
                 for pokeset in contents:
                     if not pokeset:
                         print("Skipping empty pokeset in {}".format(filepath))
@@ -49,10 +53,10 @@ for dir, _, files in os.walk(testdir):
                                 fixed_ingamename = fixed_ingamename.replace(char, "?")
                             temp = ""
                             for i, char in enumerate(pokeset["ingamename"]):
-                                if char == "\u2640":
-                                    temp += "\u2640"
-                                elif char == "\u2642":
-                                    temp += "\u2642"
+                                if char in allowed_characters:
+                                    temp += char
+                                elif name_replacements.get(char):
+                                    temp += name_replacements[char]
                                 else:
                                     temp += fixed_ingamename[i]
                             fixed_ingamename = temp
