@@ -121,6 +121,8 @@ moves:
     - [Curse]
     - [Synthesis, Earthquake]
     - [Rock Climb, Earthquake]
+separations:
+    - [Earthquake, Earthquake]
 happiness: 255
 biddable: True
 rarity: 1.0
