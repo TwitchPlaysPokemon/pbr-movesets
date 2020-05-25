@@ -55,7 +55,7 @@ ability: [Skill Link]
 moves:
     - [Strength]
     - [Blast Burn]
-    - [Hidden Power]
+    - [Water Pulse]
     - [Tri Attack]
 gender: [m]
 happiness: 255
@@ -192,7 +192,7 @@ moves:
     - [Strength]
     - [Bonemerang]
     - [Brave Bird]
-    - [Hidden Power]
+    - [Fiery Dance]
 gender: [f]
 happiness: 255
 biddable: True
