@@ -1,0 +1,145 @@
+species: Politoed
+ingamename: "AAAxtux"
+displayname: "AAAxtux"
+gender: [f]
+setname: TPP Gauntlet Crystal
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [null]
+moves:
+    - [Surf]
+    - [Attract]
+    - [Waterfall]
+    - [Whirlpool]
+happiness: 197
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 11, atk: 3, def: 12, spA: 15, spD: 15, spe: 5}
+evs: {hp: 213, atk: 200, def: 226, spA: 220, spD: 220, spe: 192}
+---
+species: Ursaring
+ingamename: "CA.XX"
+displayname: "CA.XX"
+gender: [m]
+setname: TPP Gauntlet Crystal
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [null]
+moves:
+    - [Slash]
+    - [Cut]
+    - [Fury Swipes]
+    - [Strength]
+happiness: 252
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 15, atk: 9, def: 11, spA: 5, spD: 5, spe: 1}
+evs: {hp: 245, atk: 239, def: 240, spA: 208, spD: 208, spe: 204}
+---
+species: Machamp
+ingamename: "JJJJSSS??S"
+displayname: "JJJJSSS??S"
+gender: [m]
+setname: TPP Gauntlet Crystal
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [null]
+moves:
+    - [Strength]
+    - [Karate Chop]
+    - [Vital Throw]
+    - [Cross Chop]
+happiness: 204
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 9, def: 7, spA: 3, spD: 3, spe: 6}
+evs: {hp: 200, atk: 200, def: 194, spA: 160, spD: 160, spe: 180}
+---
+species: Meganium  
+ingamename: "    ZZZZY"
+displayname: "    ZZZZY"
+gender: [m]
+setname: TPP Gauntlet Crystal
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Giga Drain]
+    - [Solarbeam]
+    - [Razor Leaf]
+    - [Body Slam]
+happiness: 218
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 5, def: 7, spA: 8, spD: 8, spe: 11}
+evs: {hp: 235, atk: 216, def: 220, spA: 208, spD: 208, spe: 240}
+---
+species: Entei
+ingamename: "BBBBLLlrk"
+displayname: "BBBBLLlrk"
+setname: TPP Gauntlet Crystal
+tags: [runmon, in-game]
+item: [Focus Band]
+ability: [null]
+moves:
+    - [Flamethrower]
+    - [Roar]
+    - [Fire Blast]
+    - [Fire Spin]
+happiness: 251
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 0, def: 1, spA: 12, spD: 12, spe: 12}
+evs: {hp: 199, atk: 180, def: 184, spA: 222, spD: 222, spe: 235}
+---
+species: Steelix
+ingamename: "ROCKY"
+displayname: "ROCKY"
+gender: [m]
+setname: TPP Gauntlet Crystal
+tags: [runmon, in-game]
+item: [Metal Coat]
+ability: [null]
+moves:
+    - [Iron Tail]
+    - [Strength]
+    - [Earthquake]
+    - [Dragonbreath]
+happiness: 252
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 9, def: 6, spA: 6, spD: 6, spe: 6}
+evs: {hp: 180, atk: 195, def: 180, spA: 177, spD: 177, spe: 180}
+---
+species: Igglybuff
+ingamename: "AAAASSSSSS"
+displayname: "AAAASSSSSS"
+gender: [f]
+setname: TPP Gauntlet Crystal
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Sing]
+    - [Charm]
+    - [Dizzy Punch]
+    - [Pound]
+happiness: 129
+biddable: True
+rarity: 1.0
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 2, def: 10, spA: 10, spD: 10, spe: 10}
+evs: {hp: 10, atk: 18, def: 50, spA: 58, spD: 58, spe: 52}

@@ -1,0 +1,217 @@
+species: Lumineon
+ingamename: "AACm   neg"
+displayname: "AACm   neg"
+gender: [m]
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [Sea Incense]
+ability: [Swift Swim]
+moves:
+    - [Surf (=18)]
+    - [Waterfall]
+    - [Ice Beam]
+    - [Rain Dance]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Docile
+ivs: {hp: 27, atk: 26, def: 15, spA: 26, spD: 24, spe: 15}
+evs: {hp: 31, atk: 150, def: 158, spA: 57, spD: 23, spe: 91}
+---
+species: Altaria
+ingamename: "!!    "
+displayname: "!!    "
+gender: [f]
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [Sky Plate]
+ability: [Natural Cure]
+moves:
+    - [Fly]
+    - [Fire Blast]
+    - [Earthquake]
+    - [Dragon Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Sassy
+ivs: {hp: 6, atk: 16, def: 14, spA: 5, spD: 19, spe: 17}
+evs: {hp: 27, atk: 172, def: 111, spA: 85, spD: 35, spe: 80}
+---
+species: Leafeon
+ingamename: "???') !"
+displayname: "☺☺☺') !"
+gender: [m]
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [null]
+ability: [Leaf Guard]
+moves:
+    - [Razor Leaf]
+    - [Giga Drain]
+    - [Strength]
+    - [Synthesis]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: {hp: 27, atk: 29, def: 26, spA: 30, spD: 13, spe: 18}
+evs: {hp: 50, atk: 111, def: 125, spA: 66, spD: 30, spe: 100}
+---
+species: Weavile
+ingamename: "AAAL"
+displayname: "AAAL"
+gender: [m]
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [Exp. Share]
+ability: [Pressure]
+moves:
+    - [Ice Punch]
+    - [Night Slash]
+    - [Brick Break]
+    - [Shadow Claw]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: False
+nature: Lonely
+ivs: {hp: 0, atk: 25, def: 3, spA: 9, spD: 23, spe: 28}
+evs: {hp: 25, atk: 116, def: 86, spA: 70, spD: 29, spe: 106}
+---
+species: Probopass
+ingamename: "GUUEEEEFFn"
+displayname: "GUUEEEEFFn"
+gender: [m]
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [null]
+ability: [Sturdy]
+moves:
+    - [Thunder Wave]
+    - [Flash Cannon]
+    - [Power Gem]
+    - [Discharge]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Mild
+ivs: {hp: 25, atk: 7, def: 17, spA: 11, spD: 28, spe: 22}
+evs: {hp: 36, atk: 140, def: 100, spA: 58, spD: 22, spe: 132}
+---
+species: Torterra
+ingamename: "BFG"
+displayname: "BFG"
+gender: [m]
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [Razor Claw]
+ability: [Overgrow]
+moves:
+    - [Razor Leaf]
+    - [Curse]
+    - [Synthesis, Earthquake]
+    - [Rock Climb, Earthquake]
+separations:
+    - [Earthquake, Earthquake]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Bashful
+ivs: {hp: 26, atk: 17, def: 0, spA: 24, spD: 15, spe: 22}
+evs: {hp: 36, atk: 103, def: 138, spA: 103, spD: 9, spe: 121}
+---
+species: Dialga
+ingamename: "PMD"
+displayname: "PMD"
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [Adamant Orb]
+ability: [Pressure]
+moves:
+    - [Dragon Pulse]
+    - [Flamethrower]
+    - [Earth Power]
+    - [Strength]
+happiness: 235
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Serious
+ivs: {hp: 16, atk: 26, def: 26, spA: 25, spD: 13, spe: 13}
+evs: {hp: 14, atk: 59, def: 38, spA: 20, spD: 16, spe: 26}
+---
+species: Giratina
+ingamename: "AK"
+displayname: "AK"
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [null]
+ability: [Pressure]
+moves:
+    - [Draco Meteor]
+    - [Shadow Ball]
+    - [Fly]
+    - [Charge Beam]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Calm
+ivs: {hp: 25, atk: 2, def: 18, spA: 2, spD: 16, spe: 17}
+evs: {hp: 25, atk: 137, def: 103, spA: 153, spD: 30, spe: 62}
+---
+species: Palkia
+ingamename: "DD♀♀♀"
+displayname: "DD♀♀♀"
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [null]
+ability: [Pressure]
+moves:
+    - [Spacial Rend]
+    - [Heal Block]
+    - [Earth Power]
+    - [Slash]
+happiness: 9
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Bold
+ivs: {hp: 16, atk: 21, def: 10, spA: 24, spD: 19, spe: 30}
+evs: {hp: 2, atk: 0, def: 0, spA: 0, spD: 0, spe: 2}
+---
+species: Arceus
+ingamename: "A-KKKKKFZZ"
+displayname: "A-KKKKKFZZ"
+setname: TPP Gauntlet Platinum
+tags: [runmon, in-game]
+item: [Zap Plate]
+ability: [Multitype]
+moves:
+    - [Thunderbolt]
+    - [Toxic]
+    - [Refresh]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Jolly
+ivs: {hp: 17, atk: 9, def: 15, spA: 14, spD: 8, spe: 22}
+evs: {hp: 32, atk: 3, def: 40, spA: 10, spD: 20, spe: 10}

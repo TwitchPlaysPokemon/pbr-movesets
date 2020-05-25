@@ -1,0 +1,168 @@
+species: Camerupt
+ingamename: "A 8JT"
+displayname: "A 8JT"
+gender: [f]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Magma Armor]
+moves:
+    - [Earthquake]
+    - [Overheat]
+    - [Strength]
+    - [Rock Smash]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Rash
+ivs: {hp: 16, atk: 21, def: 11, spA: 16, spD: 1, spe: 14}
+evs: {hp: 63, atk: 134, def: 42, spA: 74, spD: 41, spe: 156}
+---
+species: Dustox
+ingamename: "BBJPzztttz"
+displayname: "BBJPzztttz"
+gender: [f]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Shield Dust]
+moves:
+    - [Silver Wind]
+    - [Shadow Ball]
+    - [Moonlight]
+    - [Toxic]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Hardy
+ivs: {hp: 14, atk: 13, def: 13, spA: 6, spD: 14, spe: 1}
+evs: {hp: 63, atk: 134, def: 42, spA: 82, spD: 22, spe: 93}
+---
+species: Sableye
+ingamename: "aabaaa66"
+displayname: "aabaaa66"
+gender: [m]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Keen Eye]
+moves:
+    - [Brick Break]
+    - [Shadow Ball]
+    - [Night Shade]
+    - [Thief]
+happiness: 254
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Relaxed
+ivs: {hp: 11, atk: 3, def: 9, spA: 6, spD: 28, spe: 4}
+evs: {hp: 34, atk: 181, def: 61, spA: 66, spD: 55, spe: 113}
+---
+species: Bellossom
+ingamename: "AAAMMNgavy"
+displayname: "AAAMMNgavy"
+gender: [f]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Chlorophyll]
+moves:
+    - [Sludge Bomb]
+    - [Giga Drain]
+    - [Petal Dance]
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Careful
+ivs: {hp: 20, atk: 6, def: 17, spA: 10, spD: 27, spe: 28}
+evs: {hp: 85, atk: 95, def: 40, spA: 73, spD: 51, spe: 166}
+---
+species: Whiscash
+ingamename: "MMDfll    "
+displayname: "MMDfll    "
+gender: [m]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Oblivious]
+moves:
+    - [Ice Beam]
+    - [Earthquake]
+    - [Waterfall]
+    - [Dive]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Brave
+ivs: {hp: 14, atk: 28, def: 16, spA: 1, spD: 3, spe: 2}
+evs: {hp: 99, atk: 140, def: 76, spA: 39, spD: 56, spe: 100}
+---
+species: Aggron
+ingamename: "ATTMG5555."
+displayname: "ATTMG5555..."
+gender: [f]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Sturdy]
+moves:
+    - [Rollout]
+    - [Iron Tail]
+    - [Earthquake]
+    - [Surf]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Quirky
+ivs: {hp: 27, atk: 29, def: 21, spA: 5, spD: 19, spe: 1}
+evs: {hp: 65, atk: 125, def: 43, spA: 108, spD: 26, spe: 143}
+---
+species: Skarmory
+ingamename: "SKARMORY"
+displayname: "SKARMORY"
+gender: [m]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [null]
+ability: [Sturdy]
+moves:
+    - [Fly]
+    - [Sand Attack]
+    - [Swift]
+    - [Agility]
+happiness: 146
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Calm
+ivs: {hp: 22, atk: 19, def: 3, spA: 21, spD: 9, spe: 18}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Salamence
+ingamename: "A"
+displayname: "A"
+gender: [m]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [Super Potion]
+ability: [Intimidate]
+moves:
+    - [Dragonbreath]
+    - [Focus Energy]
+    - [Ember]
+    - [Fly]
+happiness: 237
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Careful
+ivs: {hp: 1, atk: 17, def: 4, spA: 12, spD: 20, spe: 9}
+evs: {hp: 82, atk: 114, def: 31, spA: 17, spD: 62, spe: 20}
