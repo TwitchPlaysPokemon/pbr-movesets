@@ -119,8 +119,8 @@ ability: [Overgrow]
 moves:
     - [Razor Leaf]
     - [Curse]
-    - [Synthesis]
-    - [Rock Climb]
+    - [Synthesis, Earthquake]
+    - [Rock Climb, Earthquake]
 happiness: 255
 biddable: True
 rarity: 1.0

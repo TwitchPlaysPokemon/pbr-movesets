@@ -82,6 +82,27 @@ nature: Careful
 ivs: {hp: 20, atk: 6, def: 17, spA: 10, spD: 27, spe: 28}
 evs: {hp: 85, atk: 95, def: 40, spA: 73, spD: 51, spe: 166}
 ---
+species: Whiscash
+ingamename: "MMDfll    "
+displayname: "MMDfll    "
+gender: [m]
+setname: TPP Gauntlet Emerald
+tags: [runmon, in-game]
+item: [Heart Mail]
+ability: [Oblivious]
+moves:
+    - [Ice Beam]
+    - [Earthquake]
+    - [Waterfall]
+    - [Dive]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: False
+nature: Brave
+ivs: {hp: 14, atk: 28, def: 16, spA: 1, spD: 3, spe: 2}
+evs: {hp: 99, atk: 140, def: 76, spA: 39, spD: 56, spe: 100}
+---
 species: Aggron
 ingamename: "ATTMG5555."
 displayname: "ATTMG5555..."
