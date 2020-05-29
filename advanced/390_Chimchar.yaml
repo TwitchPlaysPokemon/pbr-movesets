@@ -2,7 +2,7 @@ species: Chimchar
 setname: a-Physical
 tags: [advanced]
 item: [Null, Liechi Berry, Ganlon Berry, Apicot Berry, Passho Berry]
-ability: [Iron Fist]
+ability: [Iron Fist, Blaze]
 nature: Jolly
 ivs: 31
 evs: {hp: 64, atk: 224, def: 0, spA: 0, spD: 0, spe: 220}
@@ -14,6 +14,7 @@ moves:
 combinations:
     - [Passho Berry, Sunny Day]
     - [Liechi Berry, Endure]
+    - [Fire Punch, Iron Fist]
 separations:
     - [Ganlon Berry, Bulk Up]
     - [Apicot Berry, Bulk Up]
