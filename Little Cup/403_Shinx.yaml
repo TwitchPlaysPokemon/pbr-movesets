@@ -7,7 +7,7 @@ moves:
     - [Thunder Fang]
     - [Ice Fang]
     - [Fire Fang, Crunch]
-    - [Thunder Wave, Trick Room]
+    - [Thunder Wave]
 gender: [m, f]
 happiness: 255
 biddable: True
