@@ -1,0 +1,152 @@
+species: Hariyama
+ingamename: LLNEHtDaay
+displayname: LLNEHtDaay
+setname: TPP Mystery Dungeon Randomized Sky
+tags: [runmon, in-game]
+item: [null]
+ability: [Cloud Nine, Marvel Scale]
+moves:
+    - [Heat Wave]
+    - [Acupressure]
+    - [Poison Jab]
+    - [Rolling Kick]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Quiet
+ivs: 31
+evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
+---
+species: Ursaring
+ingamename: -L
+displayname: -L
+setname: TPP Mystery Dungeon Randomized Sky
+tags: [runmon, in-game]
+item: [null]
+ability: [Torrent]
+moves:
+    - [Facade]
+    - [Swords Dance]
+    - [Fire Punch]
+    - [Mist Ball]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Charizard
+ingamename: pepega
+displayname: pepega
+setname: TPP Mystery Dungeon Randomized Sky
+tags: [runmon, in-game]
+item: [null]
+ability: [Snow Warning, Pickup]
+moves:
+    - [Dark Void]
+    - [Perish Song]
+    - [Flamethrower]
+    - [Discharge]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Naive
+ivs: 31
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+---
+species: Salamence
+ingamename: cacaaaaa
+displayname: cacaaaaa
+setname: TPP Mystery Dungeon Randomized Sky
+tags: [runmon, in-game]
+item: [null]
+ability: [Forecast, Gluttony]
+moves:
+    - [Dragon Claw]
+    - [Shadow Claw]
+    - [Flare Blitz]
+    - [Stone Edge]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Quirky
+ivs: 31
+evs: {hp: 0, atk: 124, def: 128, spA: 0, spD: 128, spe: 128}
+---
+species: Grovyle
+ingamename: Grovyle
+displayname: Grovyle
+setname: TPP Mystery Dungeon Randomized Sky
+tags: [runmon, in-game]
+item: [null]
+ability: [Gluttony]
+moves:
+    - [Leaf Blade]
+    - [Dig]
+    - [Quick Attack]
+    - [Absorb]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Naive
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Dusknoir
+ingamename: Dusknoir
+displayname: Dusknoir
+setname: TPP Mystery Dungeon Randomized Sky
+tags: [runmon, in-game]
+item: [null]
+ability: [Solid Rock, Solar Power]
+moves:
+    - [Ice Punch]
+    - [Shadow Sneak]
+    - [Shadow Punch]
+    - [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 128, def: 0, spA: 128, spD: 0, spe: 0}
+---
+species: Celebi
+ingamename: Celebi
+displayname: Celebi
+setname: TPP Mystery Dungeon Randomized Sky
+tags: [runmon, in-game]
+item: [null]
+ability: [Soundproof]
+moves:
+    - [Magical Leaf]
+    - [Recover]
+    - [Heal Bell]
+    - [AncientPower]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Rash
+ivs: 9
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
