@@ -16,9 +16,9 @@ biddable: True
 rarity: 1.0
 ball: [Premier]
 shiny: False
-nature: Jolly
+nature: Quiet
 ivs: 31
-evs: 0
+evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
 ---
 species: Ursaring
 ingamename: -L
@@ -38,7 +38,7 @@ biddable: True
 rarity: 1.0
 ball: [Premier]
 shiny: False
-nature: Naive
+nature: Serious
 ivs: 31
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
 ---
@@ -60,9 +60,9 @@ biddable: True
 rarity: 1.0
 ball: [Premier]
 shiny: False
-nature: Quiet
+nature: Naive
 ivs: 31
-evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
 ---
 species: Salamence
 ingamename: cacaaaaa
@@ -82,9 +82,9 @@ biddable: True
 rarity: 1.0
 ball: [Premier]
 shiny: False
-nature: Quiet
+nature: Quirky
 ivs: 31
-evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+evs: {hp: 0, atk: 124, def: 128, spA: 0, spD: 128, spe: 128}
 ---
 species: Grovyle
 ingamename: Grovyle
@@ -104,9 +104,9 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: False
-nature: Quiet
+nature: Naive
 ivs: 31
-evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Dusknoir
 ingamename: Dusknoir
@@ -126,9 +126,9 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: False
-nature: Quiet
+nature: Brave
 ivs: 31
-evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+evs: {hp: 252, atk: 128, def: 0, spA: 128, spD: 0, spe: 0}
 ---
 species: Celebi
 ingamename: Celebi
@@ -147,6 +147,6 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: True
-nature: Quiet
-ivs: 31
-evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+nature: Rash
+ivs: 9
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
