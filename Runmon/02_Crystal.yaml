@@ -149,3 +149,25 @@ shiny: False
 nature: Serious
 ivs: {hp: 10, atk: 16, def: 18, spA: 30, spD: 30, spe: 24}
 evs: {hp: 156, atk: 176, def: 176, spA: 160, spD: 160, spe: 164}
+---
+species: Togepi
+ingamename: TOGEPI
+displayname: TOGEPI
+setname: TPP Crystal
+tags: [runmon, in-game]
+item: [Null]
+ability: [Null]
+moves:
+    - [Metronome]
+    - [Growl]
+    - [Charm]
+    - [Flash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
