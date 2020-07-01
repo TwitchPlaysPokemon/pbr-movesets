@@ -1,0 +1,65 @@
+species: Luvdisc
+ingamename: "!RR9SY6F9M"
+displayname: "!RR9SY6F9MUR"
+gender: [m]
+setname: TPP Gauntlet X
+tags: [runmon, in-game]
+item: [null]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Hydro Pump]
+    - [Sweet Kiss]
+    - [Take Down]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Quirky
+ivs: {hp: 12, atk: 4, def: 4, spA: 23, spD: 10, spe: 30}
+evs: {hp: 59, atk: 117, def: 43, spA: 101, spD: 26, spe: 80}
+---
+species: Hippopotas
+ingamename: "Hippopotas"
+displayname: "Hippopotas"
+gender: [f]
+setname: TPP Gauntlet X
+tags: [runmon, in-game]
+item: [Soft Sand]
+ability: [Sand Stream]
+moves:
+    - [Dig]
+    - [Sand Attack]
+    - [Bite]
+    - [Yawn]
+happiness: 253
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Naughty
+ivs: {hp: 16, atk: 15, def: 27, spA: 24, spD: 5, spe: 11}
+evs: {hp: 39, atk: 37, def: 13, spA: 12, spD: 5, spe: 11}
+---
+species: Mothim
+ingamename: "Moth"
+displayname: "Moth"
+gender: [m]
+setname: TPP Gauntlet X
+tags: [runmon, in-game]
+item: [Sky Plate]
+ability: [Speed Boost] #Originally Swarm, compensates for lack of Quiver Dance
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Psychic]
+    - [Calm Mind] #Compensates for lack of Quiver Dance
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 6, def: 7, spA: 10, spD: 11, spe: 3}
+evs: {hp: 96, atk: 126, def: 50, spA: 83, spD: 46, spe: 109}
