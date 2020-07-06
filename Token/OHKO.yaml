@@ -79,7 +79,7 @@ moves:
     - [Horn Drill (=255)]
     - [Horn Drill (=255)]
     - [Horn Drill (=255)]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
