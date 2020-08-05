@@ -1,0 +1,19 @@
+species: Walrein
+setname: Shiny
+tags: [advanced,standard]
+item: [Choice Scarf]
+ability: [Serene Grace]
+moves:
+    - [Waterfall]
+    - [Body Slam]
+    - [Trick Room]
+    - [Trick]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Master]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
