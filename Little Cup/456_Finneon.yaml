@@ -14,6 +14,6 @@ biddable: True
 rarity: 1.0
 ball: [Poke]
 nature: Jolly
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 204, def: 0, spA: 44, spD: 0, spe: 232}
 level: 5
