@@ -28,4 +28,4 @@ rarity: 1.0
 ball: [Great]
 nature: Naughty
 ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
-evs: {hp: 84, atk: 84, def: 84, spA: 84, spD: 84, spe: 88}
+evs: {hp: 76, atk: 84, def: 84, spA: 84, spD: 84, spe: 96}
