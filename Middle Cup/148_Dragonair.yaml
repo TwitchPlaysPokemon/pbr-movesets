@@ -13,9 +13,9 @@ happiness: 255
 biddable: True
 rarity: 0.33
 ball: [Ultra]
-nature: Jolly
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 68, atk: 252, def: 36, spA: 0, spD: 12, spe: 140}
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 68, atk: 0, def: 36, spA: 252, spD: 12, spe: 140}
 level: 50
 ---
 species: Dragonair
