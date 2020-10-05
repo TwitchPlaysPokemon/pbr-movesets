@@ -8,7 +8,7 @@ moves:
     - [Flamethrower]
     - [Toxic]
     - [Protect, Snatch]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.6
@@ -27,7 +27,7 @@ moves:
     - [Fire Blast, Thunder]
     - [Calm Mind]
     - [Heal Bell]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.4
