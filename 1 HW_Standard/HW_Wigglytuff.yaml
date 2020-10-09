@@ -20,3 +20,26 @@ nature: Adamant
 ivs: 31
 evs: {hp: 0, atk: 60, def: 0, spA: 0, spD: 0, spe: 176}
 hidden: false
+---
+species: Wigglytuff
+ingamename: Impostor
+displayname: Impostor
+setname: Halloween
+tags: [halloween]
+item: Wide Lens
+ability: Trace
+moves:
+    - [Transform]
+    - [Sucker Punch]
+    - [Horn Drill]
+    - [Disable]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 20, spA: 31, spD: 20, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
