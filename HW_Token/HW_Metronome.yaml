@@ -11,7 +11,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m,f]
-happiness: 255
+happiness: 127
 biddable: True
 rarity: 0.0
 ball: [Dusk]
@@ -34,7 +34,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m,f]
-happiness: 255
+happiness: 127
 biddable: True
 rarity: 0.0
 ball: [Dusk]
@@ -56,7 +56,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
     - [Metronome (=255)]
-happiness: 255
+happiness: 127
 biddable: True
 rarity: 0.0
 ball: [Dusk]
@@ -79,7 +79,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m,f]
-happiness: 255
+happiness: 127
 biddable: True
 rarity: 0.0
 ball: [Dusk]
@@ -102,7 +102,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m,f]
-happiness: 255
+happiness: 127
 biddable: True
 rarity: 0.0
 ball: [Dusk]
@@ -125,7 +125,7 @@ moves:
     - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m,f]
-happiness: 255
+happiness: 127
 biddable: True
 rarity: 0.0
 ball: [Dusk]
@@ -133,4 +133,50 @@ shiny: True
 nature: Serious
 ivs: {hp: 0, atk: 31, def: 6, spA: 31, spD: 6, spe: 31}
 evs: {hp: 0, atk: 128, def: 0, spA: 0, spD: 0, spe: 12}
+hidden: False
+---
+species: Spiritomb
+ingamename: BrainBucks
+displayname: Brain Bucks
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 127
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Hasty
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: False
+---
+species: Froslass
+ingamename: ScalSplosh
+displayname: Scalp Splosh
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+    - [Metronome (=255)]
+gender: [f]
+happiness: 127
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 15, spA: 31, spD: 15, spe: 30}
+evs: {hp: 0, atk: 16, def: 0, spA: 16, spD: 0, spe: 0}
 hidden: False
