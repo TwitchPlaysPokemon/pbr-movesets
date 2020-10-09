@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 100, spe: 0}
 hidden: false
+---
+species: Mothim
+ingamename: Zommoth
+displayname: Zommoth
+setname: Halloween2
+tags: [halloween]
+item: Big Mushroom
+ability: Effect Spore
+moves:
+    - [Bug Buzz]
+    - [Dark Pulse]
+    - [Hyper Beam]
+    - [Body Slam]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 80, atk: 0, def: 0, spA: 0, spD: 0, spe: 12}
+hidden: false
