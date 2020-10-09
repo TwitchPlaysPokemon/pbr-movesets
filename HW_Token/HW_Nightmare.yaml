@@ -8,8 +8,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - [Dark Void]
-    - [Nightmare]
+    - [Sleep Talk]
+    - [Disable]
 gender: [f]
 happiness: 255
 biddable: True
@@ -31,8 +31,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - [Dark Void]
-    - [Nightmare]
+    - [Sleep Talk]
+    - [Disable]
 happiness: 255
 biddable: True
 rarity: 0.0
@@ -53,8 +53,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - [Dark Void]
-    - [Nightmare]
+    - [Sleep Talk]
+    - [Disable]
 form: Defense
 happiness: 255
 biddable: True
@@ -76,8 +76,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - [Dark Void]
-    - [Nightmare]
+    - [Sleep Talk]
+    - [Disable]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -99,8 +99,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - [Dark Void]
-    - [Nightmare]
+    - [Sleep Talk]
+    - [Disable]
 gender: [f]
 happiness: 255
 biddable: True
@@ -122,8 +122,8 @@ ability: Bad Dreams
 moves:
     - [Dark Void]
     - [Nightmare]
-    - [Dark Void]
-    - [Nightmare]
+    - [Sleep Talk]
+    - [Disable]
 happiness: 255
 biddable: True
 rarity: 0.0
@@ -132,4 +132,50 @@ shiny: True
 nature: Bashful
 ivs: {hp: 6, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 108, spA: 0, spD: 104, spe: 0}
+hidden: False
+---
+species: Diglett
+ingamename: burydAlive
+displayname: Buried Alive
+setname: Nightmare
+tags: [nightmare]
+item: Black Sludge
+ability: Bad Dreams
+moves:
+    - [Dark Void]
+    - [Nightmare]
+    - [Sleep Talk]
+    - [Disable]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Bashful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 156, atk: 0, def: 100, spA: 0, spD: 100, spe: 116}
+hidden: False
+---
+species: Tentacruel
+ingamename: Jpn Plot
+displayname: Japan Plot
+setname: Nightmare
+tags: [nightmare]
+item: Sticky Barb
+ability: Bad Dreams
+moves:
+    - [Dark Void]
+    - [Nightmare]
+    - [Sleep Talk]
+    - [Disable]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 44, atk: 0, def: 0, spA: 0, spD: 0, spe: 76}
 hidden: False

@@ -1,0 +1,22 @@
+species: Pelipper
+ingamename: DewfonBoat
+displayname: Dewfon Boat
+setname: Halloween
+tags: [halloween]
+item: Sea Incense
+ability: Truant
+moves:
+    - [Surf]
+    - [Frustration]
+    - [Block]
+    - [Imprison]
+gender: [m]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 56, atk: 180, def: 0, spA: 72, spD: 0, spe: 200}
+hidden: False

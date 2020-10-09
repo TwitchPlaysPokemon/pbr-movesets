@@ -135,3 +135,49 @@ nature: Naughty
 ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 25}
 evs: {hp: 236, atk: 248, def: 160, spA: 0, spD: 0, spe: 0}
 hidden: False
+---
+species: Ralts
+ingamename: Witch
+displayname: Witch
+setname: Shadow Force
+tags: [shadowforce]
+item: Choice Band
+ability: Huge Power
+moves:
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 252, def: 80, spA: 0, spD: 0, spe: 136}
+hidden: False
+---
+species: Kricketot
+ingamename: Demon
+displayname: Demon
+setname: Shadow Force
+tags: [shadowforce]
+item: Choice Band
+ability: Huge Power
+moves:
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+    - [Shadow Force (=255)]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 204}
+hidden: False
