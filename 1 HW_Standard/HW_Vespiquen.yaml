@@ -1,0 +1,22 @@
+species: Vespiquen
+ingamename: Sectonia
+displayname: Queen Sectonia
+setname: Halloween
+tags: [halloween]
+item: King's Rock
+ability: Overgrow
+moves:
+    - [Night Slash]
+    - [Thunder]
+    - [Frenzy Plant]
+    - [Ingrain]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 80, atk: 92, def: 0, spA: 12, spD: 0, spe: 0}
+hidden: False
