@@ -135,3 +135,48 @@ nature: Brave
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 10}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: False
+---
+species: Banette
+ingamename: KEKW
+displayname: KEKW
+setname: Astonish
+tags: [astonish]
+item: Grip Claw
+ability: Serene Grace
+moves:
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Gentle
+ivs: {hp: 0, atk: 31, def: 5, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 56, def: 0, spA: 0, spD: 0, spe: 144}
+hidden: False
+---
+species: Rotom
+ingamename: tppS
+displayname: tppS
+setname: Astonish
+tags: [astonish]
+item: Choice Band
+ability: Serene Grace
+moves:
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+    - [Astonish]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 15}
+evs: {hp: 0, atk: 196, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: False
