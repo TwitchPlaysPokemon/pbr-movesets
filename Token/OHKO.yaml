@@ -4,9 +4,6 @@ item: [Null]
 ability: [Sand Veil]
 moves:
     - [Fissure (=255)]
-    - [Fissure (=255)]
-    - [Fissure (=255)]
-    - [Fissure (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -21,9 +18,6 @@ setname: OHKO
 item: [Null]
 ability: [Shed Skin]
 moves:
-    - [Fissure (=255)]
-    - [Fissure (=255)]
-    - [Fissure (=255)]
     - [Fissure (=255)]
 gender: [m, f]
 happiness: 255
@@ -40,9 +34,6 @@ item: [Null]
 ability: [Ice Body]
 moves:
     - [Sheer Cold (=255)]
-    - [Sheer Cold (=255)]
-    - [Sheer Cold (=255)]
-    - [Sheer Cold (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -57,9 +48,6 @@ setname: OHKO
 item: [Null]
 ability: [Soundproof]
 moves:
-    - [Sheer Cold (=255)]
-    - [Sheer Cold (=255)]
-    - [Sheer Cold (=255)]
     - [Sheer Cold (=255)]
 gender: [m, f]
 happiness: 255
@@ -76,9 +64,6 @@ item: [Null]
 ability: [Rivalry]
 moves:
     - [Horn Drill (=255)]
-    - [Horn Drill (=255)]
-    - [Horn Drill (=255)]
-    - [Horn Drill (=255)]
 gender: [m]
 happiness: 255
 biddable: True
@@ -93,9 +78,6 @@ setname: OHKO
 item: [Null]
 ability: [Water Veil]
 moves:
-    - [Horn Drill (=255)]
-    - [Horn Drill (=255)]
-    - [Horn Drill (=255)]
     - [Horn Drill (=255)]
 gender: [m, f]
 happiness: 255
@@ -112,9 +94,6 @@ item: [Null]
 ability: [Hyper Cutter]
 moves:
     - [Guillotine (=255)]
-    - [Guillotine (=255)]
-    - [Guillotine (=255)]
-    - [Guillotine (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -129,9 +108,6 @@ setname: OHKO
 item: [Null]
 ability: [Hyper Cutter]
 moves:
-    - [Guillotine (=255)]
-    - [Guillotine (=255)]
-    - [Guillotine (=255)]
     - [Guillotine (=255)]
 gender: [m, f]
 happiness: 255
@@ -148,9 +124,6 @@ item: [Null]
 ability: [Shield Dust]
 moves:
     - [Guillotine (=255)]
-    - [Guillotine (=255)]
-    - [Guillotine (=255)]
-    - [Guillotine (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -165,9 +138,6 @@ setname: OHKO
 item: [Null]
 ability: [Keen Eye]
 moves:
-    - [Horn Drill (=255)]
-    - [Horn Drill (=255)]
-    - [Horn Drill (=255)]
     - [Horn Drill (=255)]
 gender: [m, f]
 happiness: 255
@@ -184,9 +154,6 @@ item: [Iron Ball]
 ability: [Ice Body]
 moves:
     - [Sheer Cold (=255)]
-    - [Sheer Cold (=255)]
-    - [Sheer Cold (=255)]
-    - [Sheer Cold (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -201,9 +168,6 @@ setname: OHKO
 item: [Null]
 ability: [Snow Cloak]
 moves:
-    - [Fissure (=255)]
-    - [Fissure (=255)]
-    - [Fissure (=255)]
     - [Fissure (=255)]
 gender: [m, f]
 happiness: 255
