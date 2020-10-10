@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 0}
 evs: {hp: 0, atk: 48, def: 0, spA: 8, spD: 0, spe: 0}
 hidden: false
+---
+species: Ninetales
+ingamename: Kitsune
+displayname: Kitsune
+setname: Halloween2
+tags: [halloween]
+item: Destiny Knot
+ability: Run Away
+moves:
+    - [Spacial Rend]
+    - [Thunderbolt]
+    - [Will-O-Wisp]
+    - [Transform]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lax
+ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 44, spD: 0, spe: 0}
+hidden: false
