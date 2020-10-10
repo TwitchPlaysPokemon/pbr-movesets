@@ -43,3 +43,26 @@ nature: Adamant
 ivs: 31
 evs: {hp: 76, atk: 60, def: 160, spA: 0, spD: 0, spe: 92}
 hidden: false
+---
+species: Kirlia
+ingamename: Badeline
+displayname: Badeline
+setname: Halloween3
+tags: [halloween]
+item: Rawst Berry
+ability: Run Away
+moves:
+    - [Mirror Shot]
+    - [Focus Blast]
+    - [Mirror Move]
+    - [Double Team]
+gender: [f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lax
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 240, spe: 100}
+hidden: false
