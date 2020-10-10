@@ -18,5 +18,28 @@ ball: [Master]
 shiny: True
 nature: Jolly
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
+evs: {hp: 4, atk: 200, def: 0, spA: 0, spD: 0, spe: 4}
+hidden: false
+---
+species: Ambipom
+ingamename:  tppHands 
+displayname:  tppHands 
+setname:  tppHands 
+tags: [halloween]
+item: Mystic Water
+ability: Technician
+moves:
+    - [Bullet Punch]
+    - [Assist]
+    - [Fake Tears]
+    - [Helping Hand]
+gender: [m,f]
+happiness: 40
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Hardy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
 hidden: false
