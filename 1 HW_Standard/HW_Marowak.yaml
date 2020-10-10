@@ -31,7 +31,7 @@ item: Skull Fossil
 ability: Wonder Guard
 moves:
     - [Earthquake (=2)]
-    - [Double-Edge (=1)]
+    - [Double-Edge (=2)]
     - [Perish Song (=1)]
     - [Memento]
 happiness: 255
