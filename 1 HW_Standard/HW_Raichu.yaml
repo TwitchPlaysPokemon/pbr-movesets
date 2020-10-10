@@ -1,0 +1,22 @@
+species: Raichu
+ingamename: Daroach
+displayname: Daroach
+setname: Halloween
+tags: [halloween]
+item: [Null]
+ability: Unburden
+moves:
+    - [Ice Beam]
+    - [Swift]
+    - [Thief]
+    - [Fling]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 100, atk: 252, def: 0, spA: 28, spD: 0, spe: 0}
+hidden: false
