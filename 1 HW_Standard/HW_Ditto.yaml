@@ -38,7 +38,7 @@ biddable: True
 rarity: 1.0
 shiny: True
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 116, atk: 252, def: 136, spA: 0, spD: 136, spe: 156}
+evs: {hp: 212, atk: 252, def: 172, spA: 0, spD: 160, spe: 208}
 nature: Adamant
 hidden: false
 ---
