@@ -30,8 +30,8 @@ tags: [halloween]
 item: Skull Fossil
 ability: Wonder Guard
 moves:
-    - [Bonemerang (=2)]
-    - [Take Down (=1)]
+    - [Earthquake (=2)]
+    - [Double-Edge (=1)]
     - [Perish Song (=1)]
     - [Memento]
 happiness: 255
@@ -39,7 +39,7 @@ gender: [f]
 biddable: True
 rarity: 1.0
 shiny: True
-ivs: {hp: 2, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 88, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 22, atk: 31, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 220, atk: 88, def: 100, spA: 0, spD: 100, spe: 0}
 nature: Hardy
 hidden: false
