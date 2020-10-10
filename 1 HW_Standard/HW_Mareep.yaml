@@ -1,0 +1,22 @@
+species: Mareep
+ingamename: Kracko
+displayname: Kracko
+setname: Halloween
+tags: [halloween]
+item: [Light Ball]
+ability: Levitate
+moves:
+    - [Thunder]
+    - [Aeroblast]
+    - [Weather Ball]
+    - [Rain Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 252, spA: 20, spD: 252, spe: 88}
+hidden: false
