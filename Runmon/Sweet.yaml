@@ -16,6 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: True
+hidden: false
 nature: Serious
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -38,6 +39,7 @@ biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: True
+hidden: false
 nature: Serious
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -60,6 +62,7 @@ biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: True
+hidden: false
 nature: Serious
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -82,6 +85,7 @@ biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: True
+hidden: false
 nature: Serious
 ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

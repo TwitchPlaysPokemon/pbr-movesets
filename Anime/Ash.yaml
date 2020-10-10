@@ -294,6 +294,7 @@ moves:
 gender: [m]
 happiness: 255
 shiny: true
+hidden: false
 biddable: true
 rarity: 1.0
 nature: Mild

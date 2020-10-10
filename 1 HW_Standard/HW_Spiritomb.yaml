@@ -49,7 +49,7 @@ ingamename: Snatcher
 displayname: Snatcher
 setname: Halloween3
 tags: [halloween]
-item: Mail
+item: Mosaic Mail
 ability: Anger Point
 moves:
     - [Tri Attack]

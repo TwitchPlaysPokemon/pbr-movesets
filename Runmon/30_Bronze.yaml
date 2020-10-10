@@ -63,7 +63,8 @@ nature: Serious
 ivs: {hp: 16, atk: 14, def: 20, spA: 31, spD: 19, spe: 20}
 evs: {hp: 62, atk: 66, def: 82, spA: 252, spD: 60, spe: 64}
 level: 100
-shiny: yes
+shiny: True
+hidden: false
 ---
 species: Kangaskhan
 ingamename: LLLLLLLCCC

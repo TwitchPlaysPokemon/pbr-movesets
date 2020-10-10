@@ -37,6 +37,7 @@ biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: True
+hidden: false
 nature: Hasty
 ivs: {hp: 9, atk: 19, def: 3, spA: 4, spD: 26, spe: 28}
 evs: {hp: 70, atk: 117, def: 57, spA: 110, spD: 55, spe: 101}

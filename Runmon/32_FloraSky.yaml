@@ -103,6 +103,7 @@ biddable: True
 rarity: 1.0
 ball: [Master]
 shiny: True
+hidden: False
 nature: Mild
 ivs: {hp: 6, atk: 3, def: 23, spA: 29, spD: 9, spe: 12}
 evs: {hp: 127, atk: 62, def: 72, spA: 53, spD: 36, spe: 160}

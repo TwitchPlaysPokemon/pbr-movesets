@@ -38,6 +38,7 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: True
+hidden: false
 suppressions: [public-shiny]
 nature: Rash
 ivs: 31
@@ -61,6 +62,7 @@ biddable: True
 rarity: 1.0
 ball: [Poke]
 shiny: True
+hidden: false
 suppressions: [public-shiny]
 nature: Lax
 ivs: 31
@@ -84,6 +86,7 @@ biddable: True
 rarity: 1.0
 ball: [Poke]
 shiny: True
+hidden: false
 suppressions: [public-shiny]
 nature: Hardy
 ivs: 31
@@ -215,6 +218,7 @@ biddable: True
 rarity: 1.0
 ball: [Ultra]
 shiny: True
+hidden: false
 suppressions: [public-shiny]
 nature: Bold
 ivs: 31
@@ -260,6 +264,7 @@ biddable: True
 rarity: 1.0
 ball: [Quick]
 shiny: True
+hidden: false
 suppressions: [public-shiny]
 nature: Naughty
 ivs: 31

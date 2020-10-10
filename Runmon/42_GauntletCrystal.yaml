@@ -140,6 +140,7 @@ happiness: 129
 biddable: True
 rarity: 1.0
 shiny: True
+hidden: false
 nature: Serious
 ivs: {hp: 0, atk: 2, def: 10, spA: 10, spD: 10, spe: 10}
 evs: {hp: 10, atk: 18, def: 50, spA: 58, spD: 58, spe: 52}
