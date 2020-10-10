@@ -3,20 +3,20 @@ ingamename: Moroi
 displayname: Moroi
 setname: Halloween
 tags: [halloween]
-item: Flame Orb
+item: Deep Sea Tooth
 ability: No Guard
 moves:
     - [Shadow Force]
-    - [Sucker Punch]
-    - [Taunt]
-    - [Dragon Dance]
+    - [Bite]
+    - [Poison Fang]
+    - [Rest]
 gender: [m,f]
-happiness: 255
+happiness: 1
 biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: True
-nature: Adamant
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 252, def: 140, spA: 0, spD: 140, spe: 252}
+nature: Quiet
+ivs: {hp: 0, atk: 4, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
