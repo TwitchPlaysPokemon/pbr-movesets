@@ -17,5 +17,5 @@ ball: [Timer]
 shiny: True
 nature: Timid
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 160, atk: 0, def: 60, spA: 120, spD: 60, spe: 252}
+evs: {hp: 192, atk: 0, def: 212, spA: 144, spD: 212, spe: 252}
 hidden: false

@@ -1,0 +1,23 @@
+species: Infernape
+ingamename: Dio Brando
+displayname: Dio Brando
+setname: Pokelypse
+tags: ubers
+tags: [pokelypse]
+item: Salac Berry
+ability: Pure Power
+moves:
+    - [Fire Punch]
+    - [Reversal]
+    - [Roar of Time]
+    - [Substitute]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 240, atk: 80, def: 140, spA: 252, spD: 140, spe: 252}
+hidden: false

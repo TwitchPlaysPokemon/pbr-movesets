@@ -7,10 +7,10 @@ tags: [pokelypse]
 item: Focus Sash
 ability: Wonder Guard
 moves:
-    - [Endeavor]
-    - [Dragon Rage]
-    - [U-turn]
-    - [Toxic]
+    - [Endeavor (=4)]
+    - [Dragon Rage (=8)]
+    - [U-turn (=6)]
+    - [Toxic (=8)]
 gender: [m]
 happiness: 255
 biddable: False
