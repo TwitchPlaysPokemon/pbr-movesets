@@ -7,9 +7,6 @@ item: Spooky Plate
 ability: Huge Power
 moves:
     - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -29,9 +26,6 @@ tags: [shadowforce]
 item: Spooky Plate
 ability: Huge Power
 moves:
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
     - [Shadow Force (=255)]
 gender: [m,f]
 happiness: 255
@@ -53,9 +47,6 @@ item: Spooky Plate
 ability: Huge Power
 moves:
     - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -75,9 +66,6 @@ tags: [shadowforce]
 item: Spooky Plate
 ability: Huge Power
 moves:
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
     - [Shadow Force (=255)]
 gender: [m,f]
 happiness: 255
@@ -99,9 +87,6 @@ item: Spooky Plate
 ability: Huge Power
 moves:
     - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -121,9 +106,6 @@ tags: [shadowforce]
 item: Choice Band
 ability: Huge Power
 moves:
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
     - [Shadow Force (=255)]
 gender: [m,f]
 happiness: 255
@@ -145,9 +127,6 @@ item: Choice Band
 ability: Huge Power
 moves:
     - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
 gender: [f]
 happiness: 255
 biddable: True
@@ -167,9 +146,6 @@ tags: [shadowforce]
 item: Choice Band
 ability: Huge Power
 moves:
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
-    - [Shadow Force (=255)]
     - [Shadow Force (=255)]
 gender: [m,f]
 happiness: 255

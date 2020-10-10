@@ -9,9 +9,6 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -29,9 +26,6 @@ nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [f]
 happiness: 255
@@ -51,9 +45,6 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -71,9 +62,6 @@ nature: Serious
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [m]
 happiness: 255
@@ -93,9 +81,6 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -113,9 +98,6 @@ nature: Timid
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [m, f]
 happiness: 255
@@ -135,9 +117,6 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 happiness: 255
 biddable: True
 rarity: 0
@@ -154,9 +133,6 @@ nature: Jolly
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [m, f]
 happiness: 255
@@ -176,9 +152,6 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -196,9 +169,6 @@ nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [m, f]
 happiness: 255
@@ -218,9 +188,6 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -238,9 +205,6 @@ nature: Modest
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [m, f]
 happiness: 255
@@ -260,9 +224,6 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -280,9 +241,6 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [m, f]
 happiness: 255
@@ -302,9 +260,6 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -322,9 +277,6 @@ nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [m, f]
 happiness: 255
@@ -344,9 +296,6 @@ ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
     - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -364,9 +313,6 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 moves:
-    - [Present (=255)]
-    - [Present (=255)]
-    - [Present (=255)]
     - [Present (=255)]
 gender: [m, f]
 happiness: 255

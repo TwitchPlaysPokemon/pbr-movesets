@@ -6,9 +6,6 @@ ability: [Rough Skin]
 item: [Life Orb]
 moves:
     - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
 ivs: {hp: 24, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 nature: Serious
@@ -26,9 +23,6 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Comet Punch]
-    - [Comet Punch]
-    - [Comet Punch]
     - [Comet Punch]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
 ivs: {hp: 31, atk: 4, def: 0, spA: 0, spD: 0, spe: 31}
@@ -48,9 +42,6 @@ ability: [Rough Skin]
 item: [Life Orb]
 moves:
     - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
 evs: {hp: 196, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 4, def: 20, spA: 0, spD: 0, spe: 11}
 nature: Modest
@@ -68,9 +59,6 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
     - [Fury Attack]
 evs: {hp: 196, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 20, def: 0, spA: 0, spD: 0, spe: 0}
@@ -90,9 +78,6 @@ ability: [Rough Skin]
 item: [Life Orb]
 moves:
     - [Comet Punch]
-    - [Comet Punch]
-    - [Comet Punch]
-    - [Comet Punch]
 evs: {hp: 60, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
 ivs: {hp: 31, atk: 4, def: 31, spA: 0, spD: 0, spe: 31}
 nature: Calm
@@ -111,9 +96,6 @@ ability: [Rough Skin]
 item: [Life Orb]
 moves:
     - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
 evs: {hp: 0, atk: 0, def: 36, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 0, atk: 4, def: 31, spA: 0, spD: 0, spe: 11}
 nature: Modest
@@ -131,9 +113,6 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Comet Punch]
-    - [Comet Punch]
-    - [Comet Punch]
     - [Comet Punch]
 evs: {hp: 36, atk: 0, def: 0, spA: 0, spD: 0, spe: 112}
 ivs: {hp: 31, atk: 0, def: 20, spA: 0, spD: 0, spe: 31}
@@ -154,9 +133,6 @@ ability: [Rough Skin]
 item: [Life Orb]
 moves:
     - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 36}
 ivs: {hp: 31, atk: 0, def: 10, spA: 0, spD: 0, spe: 31}
 nature: Modest
@@ -174,9 +150,6 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Comet Punch]
-    - [Comet Punch]
-    - [Comet Punch]
     - [Comet Punch]
 evs: {hp: 36, atk: 0, def: 60, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 1}
@@ -196,9 +169,6 @@ ability: [Rough Skin]
 item: [Life Orb]
 moves:
     - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
 evs: {hp: 36, atk: 0, def: 76, spA: 0, spD: 0, spe: 160}
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}
 nature: Modest
@@ -217,9 +187,6 @@ ability: [Rough Skin]
 item: [Life Orb]
 moves:
     - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
-    - [Fury Attack]
 evs: {hp: 116, atk: 0, def: 36, spA: 0, spD: 0, spe: 160}
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}
 nature: Bold
@@ -237,9 +204,6 @@ setname: Rough Skin
 ability: [Rough Skin]
 item: [Life Orb]
 moves:
-    - [Double Slap]
-    - [Double Slap]
-    - [Double Slap]
     - [Double Slap]
 evs: {hp: 0, atk: 0, def: 36, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}

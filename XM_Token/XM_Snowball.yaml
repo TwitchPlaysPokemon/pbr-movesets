@@ -7,9 +7,6 @@ item: Brightpowder
 ability: Rough Skin
 moves:
     - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -29,9 +26,6 @@ tags: [snowball]
 item: Brightpowder
 ability: Rough Skin
 moves:
-    - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
     - [Ice Ball]
 gender: [f]
 happiness: 255
@@ -53,9 +47,6 @@ item: Brightpowder
 ability: Rough Skin
 moves:
     - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -75,9 +66,6 @@ tags: [snowball]
 item: Brightpowder
 ability: Rough Skin
 moves:
-    - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
     - [Ice Ball]
 gender: [m,f]
 happiness: 255
@@ -99,9 +87,6 @@ item: Brightpowder
 ability: Rough Skin
 moves:
     - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
 gender: [m,f]
 happiness: 255
 biddable: True
@@ -121,9 +106,6 @@ tags: [snowball]
 item: Brightpowder
 ability: Rough Skin
 moves:
-    - [Ice Ball]
-    - [Ice Ball]
-    - [Ice Ball]
     - [Ice Ball]
 gender: [m,f]
 happiness: 255

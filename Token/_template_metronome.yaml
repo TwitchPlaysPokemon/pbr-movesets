@@ -8,9 +8,6 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: , atk: , def: , spA: , spD: , spe: }
 moves:
     - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
 happiness: 255
 biddable: True
 rarity: 0

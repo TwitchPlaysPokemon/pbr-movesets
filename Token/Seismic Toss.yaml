@@ -5,9 +5,6 @@ ability: [Arena Trap]
 item: Leftovers
 moves:
     - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
 ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 1}
 evs: {hp: 76, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 gender: [m, f]
@@ -23,9 +20,6 @@ setname: ST
 ability: [Lightning Rod]
 item: Leftovers
 moves:
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
     - [Seismic Toss]
 ivs: {hp: 30, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
@@ -43,9 +37,6 @@ ability: [Synchronize]
 item: Leftovers
 moves:
     - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
 ivs: {hp: 14, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 240}
 gender: [m, f]
@@ -61,9 +52,6 @@ setname: ST
 ability: [Filter]
 item: Leftovers
 moves:
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
     - [Seismic Toss]
 ivs: {hp: 30, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
@@ -81,9 +69,6 @@ ability: [Synchronize]
 item: Leftovers
 moves:
     - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
 ivs: {hp: 20, atk: 0, def: 0, spA: 0, spD: 0, spe: 11}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 gender: [m, f]
@@ -99,9 +84,6 @@ setname: ST
 ability: [Swift Swim]
 item: Leftovers
 moves:
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
     - [Seismic Toss]
 ivs: {hp: 30, atk: 0, def: 0, spA: 0, spD: 0, spe: 11}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -119,9 +101,6 @@ ability: [Magnet Pull]
 item: Leftovers
 moves:
     - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
 ivs: {hp: 20, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 200}
 happiness: 255
@@ -136,9 +115,6 @@ setname: ST
 ability: [Hyper Cutter]
 item: Leftovers
 moves:
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
     - [Seismic Toss]
 ivs: {hp: 10, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 160}
@@ -156,9 +132,6 @@ ability: [Swift Swim]
 item: Leftovers
 moves:
     - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
 ivs: {hp: 10, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
 gender: [m, f]
@@ -174,9 +147,6 @@ setname: ST
 ability: [Shell Armor]
 item: Leftovers
 moves:
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
     - [Seismic Toss]
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 216}
@@ -194,9 +164,6 @@ ability: [Huge Power]
 item: Leftovers
 moves:
     - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
 ivs: {hp: 10, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
 gender: [m, f]
@@ -212,9 +179,6 @@ setname: ST
 ability: [Rock Head]
 item: Leftovers
 moves:
-    - [Seismic Toss]
-    - [Seismic Toss]
-    - [Seismic Toss]
     - [Seismic Toss]
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

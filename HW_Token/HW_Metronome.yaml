@@ -7,9 +7,6 @@ item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
     - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
 gender: [m,f]
 happiness: 127
 biddable: True
@@ -29,9 +26,6 @@ tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m,f]
 happiness: 127
@@ -53,9 +47,6 @@ item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
     - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
 happiness: 127
 biddable: True
 rarity: 0.0
@@ -74,9 +65,6 @@ tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m,f]
 happiness: 127
@@ -98,9 +86,6 @@ item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
     - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
 gender: [m,f]
 happiness: 127
 biddable: True
@@ -120,9 +105,6 @@ tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [m,f]
 happiness: 127
@@ -144,9 +126,6 @@ item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
     - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
 gender: [m,f]
 happiness: 127
 biddable: True
@@ -166,9 +145,6 @@ tags: [halloweenmetronome]
 item: [Amulet Coin, Skull Fossil]
 ability: Scrappy
 moves:
-    - [Metronome (=255)]
-    - [Metronome (=255)]
-    - [Metronome (=255)]
     - [Metronome (=255)]
 gender: [f]
 happiness: 127

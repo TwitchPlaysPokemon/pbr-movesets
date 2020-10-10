@@ -12,7 +12,6 @@ moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
     - [Swords Dance (=8)]
-    - [Swords Dance (=8)]
 happiness: 128
 biddable: True
 hidden: False
@@ -32,7 +31,6 @@ moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
     - [Swords Dance (=8)]
-    - [Swords Dance (=8)]
 happiness: 128
 biddable: True
 hidden: False
@@ -50,7 +48,6 @@ evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 220}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=8)]
     - [Swords Dance (=8)]
 gender: [f]
 happiness: 128
@@ -70,7 +67,6 @@ evs: {hp: 36, atk: 168, def: 44, spA: 0, spD: 0, spe: 48}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=8)]
     - [Swords Dance (=8)]
 gender: [m]
 happiness: 128
@@ -92,7 +88,6 @@ moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
     - [Swords Dance (=8)]
-    - [Swords Dance (=8)]
 happiness: 128
 biddable: True
 hidden: False
@@ -110,7 +105,6 @@ evs: {hp: 0, atk: 4, def: 0, spA: 0, spD: 0, spe: 0}
 moves:
     - [Sucker Punch (=5)]
     - [Focus Punch (=5)]
-    - [Swords Dance (=8)]
     - [Swords Dance (=8)]
 gender: [m]
 happiness: 128

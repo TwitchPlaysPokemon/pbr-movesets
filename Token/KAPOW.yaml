@@ -5,9 +5,6 @@ ability: [Scrappy]
 item: [Choice Band]
 moves:
     - [Explosion]
-    - [Explosion]
-    - [Explosion]
-    - [Explosion]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 64}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Lonely
@@ -24,9 +21,6 @@ setname: KAPOW
 ability: [Scrappy]
 item: [Choice Band]
 moves:
-    - [Selfdestruct]
-    - [Selfdestruct]
-    - [Selfdestruct]
     - [Selfdestruct]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 64}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
@@ -45,9 +39,6 @@ ability: [Scrappy]
 item: [Choice Band]
 moves:
     - [Explosion]
-    - [Explosion]
-    - [Explosion]
-    - [Explosion]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
 nature: Brave
@@ -64,9 +55,6 @@ setname: KAPOW
 ability: [Scrappy]
 item: [Choice Band]
 moves:
-    - [Selfdestruct]
-    - [Selfdestruct]
-    - [Selfdestruct]
     - [Selfdestruct]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 40}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
@@ -85,9 +73,6 @@ ability: [Scrappy]
 item: [Choice Band]
 moves:
     - [Explosion]
-    - [Explosion]
-    - [Explosion]
-    - [Explosion]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 12}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Brave
@@ -104,9 +89,6 @@ setname: KAPOW
 ability: [Scrappy]
 item: [Choice Band]
 moves:
-    - [Selfdestruct]
-    - [Selfdestruct]
-    - [Selfdestruct]
     - [Selfdestruct]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 192}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
@@ -125,9 +107,6 @@ ability: [Scrappy]
 item: [Choice Band]
 moves:
     - [Explosion]
-    - [Explosion]
-    - [Explosion]
-    - [Explosion]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 28}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Brave
@@ -144,9 +123,6 @@ setname: KAPOW
 ability: [Scrappy]
 item: [Power Band]
 moves:
-    - [Selfdestruct]
-    - [Selfdestruct]
-    - [Selfdestruct]
     - [Selfdestruct]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 192}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
@@ -165,9 +141,6 @@ ability: [Scrappy]
 item: [Choice Band]
 moves:
     - [Explosion]
-    - [Explosion]
-    - [Explosion]
-    - [Explosion]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 144}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
 nature: Lonely
@@ -185,9 +158,6 @@ ability: [Scrappy]
 item: [Power Band]
 moves:
     - [Selfdestruct]
-    - [Selfdestruct]
-    - [Selfdestruct]
-    - [Selfdestruct]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 128}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 nature: Hasty
@@ -203,9 +173,6 @@ setname: KAPOW
 ability: [Scrappy]
 item: [Choice Band]
 moves:
-    - [Explosion]
-    - [Explosion]
-    - [Explosion]
     - [Explosion]
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 136}
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
