@@ -63,6 +63,6 @@ rarity: 1.0
 ball: [Dusk]
 shiny: True
 nature: Lax
-ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 240, spe: 100}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 240, spe: 100}
 hidden: false
