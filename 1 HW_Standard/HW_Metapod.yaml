@@ -18,5 +18,5 @@ ball: [Luxury]
 shiny: True
 nature: Careful
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
 hidden: false

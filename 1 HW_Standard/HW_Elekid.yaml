@@ -16,5 +16,5 @@ ball: [Net]
 shiny: True
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 252, def: 192, spA: 0, spD: 160, spe: 60}
+evs: {hp: 252, atk: 252, def: 232, spA: 0, spD: 240, spe: 60}
 hidden: false
