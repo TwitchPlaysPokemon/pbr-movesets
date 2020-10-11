@@ -1,0 +1,22 @@
+species: Gible
+ingamename: Sir Kibble
+displayname: Sir Kibble
+setname: Halloween
+tags: [halloween]
+item: Metal Coat
+ability: Battle Armor
+moves:
+    - [Bonemerang]
+    - [Air Cutter]
+    - [Fury Cutter]
+    - [Slam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 152, atk: 0, def: 252, spA: 252, spD: 252, spe: 0}
+hidden: false
