@@ -1,0 +1,22 @@
+species: Monferno
+ingamename: Satori
+displayname: Satori
+setname: Halloween
+tags: [halloween]
+item: [Null]
+ability: Forewarn
+moves:
+    - [Earth Power]
+    - [Me First]
+    - [Counter]
+    - [Mirror Coat]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 1}
+evs: {hp: 0, atk: 0, def: 60, spA: 0, spD: 60, spe: 0}
+hidden: false
