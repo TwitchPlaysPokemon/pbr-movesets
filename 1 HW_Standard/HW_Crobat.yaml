@@ -19,3 +19,26 @@ nature: Serious
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
+---
+species: Crobat
+ingamename: Marx
+displayname: Marx
+setname: Halloween2
+tags: [halloween]
+item: [Null]
+ability: Cute Charm
+moves:
+    - [Air Cutter]
+    - [Seed Bomb]
+    - [Phantom Force]
+    - [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
+evs: {hp: 0, atk: 136, def: 0, spA: 176, spD: 0, spe: 0}
+hidden: false
