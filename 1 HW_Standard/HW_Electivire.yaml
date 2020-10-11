@@ -1,0 +1,22 @@
+species: Electivire
+ingamename: Doom Cat
+displayname: Doom Cat
+setname: Halloween
+tags: [halloween]
+item: King's Rock
+ability: Forewarn
+moves:
+    - [Earth Power]
+    - [Water Pulse]
+    - [Howl]
+    - [Softboiled]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 25, spA: 10, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
