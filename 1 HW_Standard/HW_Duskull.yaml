@@ -89,3 +89,26 @@ nature: Adamant
 ivs: 31
 evs: {hp: 76, atk: 252, def: 0, spA: 0, spD: 0, spe: 180}
 hidden: false
+---
+species: Duskull
+ingamename: Zero
+displayname: Zero
+setname: Halloween5
+tags: [halloween]
+item: Life Orb
+ability: Levitate
+moves:
+    - [Energy Ball]
+    - [Body Slam]
+    - [Fake Tears]
+    - [Explosion]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 21, spA: 31, spD: 0, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: false
