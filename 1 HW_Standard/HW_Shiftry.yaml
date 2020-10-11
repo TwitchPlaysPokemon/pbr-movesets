@@ -1,0 +1,22 @@
+species: Shiftry
+ingamename: Tengu
+displayname: Tengu
+setname: Halloween
+tags: [halloween]
+item: [Null]
+ability: Levitate
+moves:
+    - [Fly]
+    - [ExtremeSpeed]
+    - [Whirlwind]
+    - [Attract]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 72, def: 36, spA: 0, spD: 36, spe: 4}
+hidden: false
