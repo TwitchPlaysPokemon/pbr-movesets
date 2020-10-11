@@ -1,0 +1,22 @@
+species: Farfetch'd
+ingamename: Dark Blade
+displayname: Dark Matter Blade
+setname: Halloween
+tags: [halloween]
+item: Stick
+ability: Intimidate
+moves:
+    - [Slash]
+    - [Dark Pulse]
+    - [Ancient Power]
+    - [Swords Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 180, atk: 100, def: 100, spA: 252, spD: 100, spe: 0}
+hidden: false
