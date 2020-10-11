@@ -30,7 +30,7 @@ ability: Cute Charm
 moves:
     - [Air Cutter]
     - [Seed Bomb]
-    - [Phantom Force]
+    - [Shadow Force]
     - [Hyper Beam]
 gender: [m]
 happiness: 255
@@ -40,5 +40,5 @@ ball: [Luxury]
 shiny: True
 nature: Serious
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
-evs: {hp: 0, atk: 136, def: 0, spA: 176, spD: 0, spe: 0}
+evs: {hp: 0, atk: 100, def: 0, spA: 176, spD: 0, spe: 0}
 hidden: false
