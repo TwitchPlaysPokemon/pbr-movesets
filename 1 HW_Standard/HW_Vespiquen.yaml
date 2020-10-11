@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 80, atk: 92, def: 0, spA: 12, spD: 0, spe: 0}
 hidden: False
+---
+species: Vespiquen
+ingamename: Vi
+displayname: Vi
+setname: Halloween2
+tags: [halloween]
+item: Poison Barb
+ability: Scrappy
+moves:
+    - [Bonemerang]
+    - [Fling]
+    - [Recycle]
+    - [Softboiled]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Jolly
+ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 100, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false
