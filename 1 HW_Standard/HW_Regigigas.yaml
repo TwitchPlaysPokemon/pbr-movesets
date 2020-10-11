@@ -30,7 +30,7 @@ ability: Slow Start
 moves:
     - [Earthquake]
     - [Fly]
-    - [Doom Desire]
+    - [Hyper Beam]
     - [Swords Dance]
 happiness: 0
 biddable: True
@@ -38,6 +38,6 @@ rarity: 1.0
 ball: [Dusk]
 shiny: True
 nature: Quiet
-ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 0}
-evs: {hp: 236, atk: 100, def: 0, spA: 172, spD: 0, spe: 0}
+ivs: {hp: 31, atk: 31, def: 0, spA: 19, spD: 0, spe: 0}
+evs: {hp: 236, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
