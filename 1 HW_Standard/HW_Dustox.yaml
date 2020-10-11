@@ -66,3 +66,26 @@ nature: Modest
 ivs: {hp: 31, atk: 31, def: 21, spA: 31, spD: 31, spe: 31}
 evs: {hp: 20, atk: 196, def: 0, spA: 252, spD: 0, spe: 0}
 hidden: false
+---
+species: Dustox
+ingamename: Zommoth
+displayname: Zommoth
+setname: Halloween4
+tags: [halloween]
+item: Big Mushroom
+ability: Effect Spore
+moves:
+    - [Bug Buzz]
+    - [Dark Pulse]
+    - [Hyper Beam]
+    - [Body Slam]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 252, def: 0, spA: 252, spD: 0, spe: 100}
+hidden: false
