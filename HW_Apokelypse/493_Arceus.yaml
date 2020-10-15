@@ -7,9 +7,9 @@ item: [Leftovers]
 ability: Serene Grace
 moves:
     - [Metronome (=40)]
+    - [Assist]
     - [Acupressure]
     - [Confuse Ray]
-    - [Wish]
 happiness: 255
 biddable: True
 rarity: 1.0

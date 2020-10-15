@@ -10,13 +10,13 @@ moves:
     - [Dragon Pulse]
     - [Acupressure]
     - [Wish]
-    - [Refresh]
+    - [Taunt]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
 shiny: True
-nature: Docile
+nature: Timid
 ivs: 31
 evs: 252
 hidden: false
