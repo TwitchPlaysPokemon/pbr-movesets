@@ -22,7 +22,7 @@ evs: {hp: 200, atk: 252, def: 236, spA: 0, spD: 236, spe: 100}
 hidden: false
 ---
 species: Linoone
-ingamename: Rocket
+ingamename: RocketRacc
 displayname: Rocket Raccoon
 setname: Halloween2
 tags: [halloween]
@@ -39,7 +39,7 @@ biddable: True
 rarity: 1.0
 ball: [Luxury]
 shiny: True
-nature: Serious
-ivs: {hp: 0, atk: 0, def: 31, spA: 31, spD: 31, spe: 11}
-evs: {hp: 0, atk: 160, def: 0, spA: 136, spD: 0, spe: 0}
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 252, def: 200, spA: 252, spD: 200, spe: 100}
 hidden: false
