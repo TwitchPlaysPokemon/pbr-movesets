@@ -3,11 +3,11 @@ ingamename: Kasha
 displayname: Kasha
 setname: Halloween
 tags: [halloween]
-item: [Null]
+item: Flame Plate
 ability: Blaze
 moves:
-    - [Flamethrower]
-    - [Scratch]
+    - [Judgment]
+    - [Thunder]
     - [Will-O-Wisp]
     - [Snatch]
 gender: [m,f]
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: True
-nature: Lonely
+nature: Mild
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 100, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 216, spe: 40}
 hidden: false
