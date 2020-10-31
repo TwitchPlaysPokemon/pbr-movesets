@@ -1,0 +1,121 @@
+---
+species: Hippowdon
+setname: PWT-N Autumn
+tags: [in-game, PWT-N Autumn, trainer+N]
+item: [Life Orb]
+ability: [Sand Stream]
+moves:
+- [Stone Edge]
+- [Crunch]
+- [Superpower]
+- [Stealth Rock]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gastrodon
+setname: PWT-N Autumn
+tags: [in-game, PWT-N Autumn, trainer+N]
+item: [Smooth Rock]
+ability: [Storm Drain]
+moves:
+- [Earth Power]
+- [Muddy Water]
+- [Ice Beam]
+- [Sandstorm]
+gender: [m]
+form: West
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cradily
+setname: PWT-N Autumn
+tags: [in-game, PWT-N Autumn, trainer+N]
+item: [Smooth Rock]
+ability: [Suction Cups]
+moves:
+- [Sandstorm]
+- [Giga Drain]
+- [Confuse Ray]
+- [Stockpile]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Armaldo
+setname: PWT-N Autumn
+tags: [in-game, PWT-N Autumn, trainer+N]
+item: [null]
+ability: [Battle Armor]
+moves:
+- [Rock Slide]
+- [X-Scissor]
+- [Aqua Tail]
+- [Rock Polish]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Scizor
+setname: PWT-N Autumn
+tags: [in-game, PWT-N Autumn, trainer+N]
+item: [null]
+ability: [Technician]
+moves:
+- [Bullet Punch]
+- [Double Hit]
+- [Bug Bite]
+- [Aerial Ace]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-N Autumn
+tags: [in-game, PWT-N Autumn, trainer+N]
+item: [null]
+ability: [Solid Rock]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Fire Punch]
+- [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,58 @@
+species: Crawdaunt
+setname: PWT-Cress Tournament
+tags: [in-game, PWT-Cress Tournament, trainer+cress]
+item: [Choice Scarf]
+ability: [Hyper Cutter, Shell Armor]
+moves:
+- [Crunch]
+- [Waterfall]
+- [Brick Break]
+- [Guillotine]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Azumarill
+setname: PWT-Cress Tournament
+tags: [in-game, PWT-Cress Tournament, trainer+cress]
+item: [Choice Band]
+ability: [Thick Fat, Huge Power]
+moves:
+- [Aqua Tail]
+- [Aqua Jet]
+- [Superpower]
+- [Giga Impact]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slowking
+setname: PWT-Cress Tournament
+tags: [in-game, PWT-Cress Tournament, trainer+cress]
+item: [Expert Belt]
+ability: [Oblivious, Own Tempo]
+moves:
+- [Blizzard]
+- [Psychic]
+- [Fire Blast]
+- [Nasty Plot]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

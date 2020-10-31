@@ -1,0 +1,58 @@
+species: Alakazam
+setname: PWT-Caitlin Rematch
+tags: [in-game, PWT-Caitlin Rematch, trainer+caitlin]
+item: [Expert Belt]
+ability: [Synchronize]
+moves:
+- [Shadow Ball]
+- [Focus Blast]
+- [Psychic]
+- [Charge Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Caitlin Rematch
+tags: [in-game, PWT-Caitlin Rematch, trainer+caitlin]
+item: [Muscle Band]
+ability: [Steadfast]
+moves:
+- [Close Combat]
+- [Night Slash]
+- [Leaf Blade]
+- [Psycho Cut]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Caitlin Rematch
+tags: [in-game, PWT-Caitlin Rematch, trainer+caitlin]
+item: [Life Orb]
+ability: [Clear Body]
+moves:
+- [Zen Headbutt]
+- [Bullet Punch]
+- [Earthquake]
+- [Hammer Arm]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

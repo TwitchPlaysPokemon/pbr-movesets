@@ -1,0 +1,99 @@
+---
+species: Politoed
+setname: PWT-N Spring
+tags: [in-game, PWT-N Spring, trainer+N]
+item: [Life Orb]
+ability: [Drizzle]
+moves:
+- [Hydro Pump]
+- [Focus Blast]
+- [Psychic]
+- [Hypnosis]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lanturn
+setname: PWT-N Spring
+tags: [in-game, PWT-N Spring, trainer+N]
+item: [null]
+ability: [Volt Absorb]
+moves:
+- [Thunder]
+- [Signal Beam]
+- [Hydro Pump]
+- [Stockpile]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Omastar
+setname: PWT-N Spring
+tags: [in-game, PWT-N Spring, trainer+N]
+item: [Damp Rock]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Hydro Pump]
+- [Ice Beam]
+- [Earth Power]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kabutops
+setname: PWT-N Spring
+tags: [in-game, PWT-N Spring, trainer+N]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Stone Edge]
+- [Aqua Jet]
+- [X-Scissor]
+- [Low Kick]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-N Spring
+tags: [in-game, PWT-N Spring, trainer+N]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Hydro Pump]
+- [Thunder]
+- [Psychic]
+- [Ice Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

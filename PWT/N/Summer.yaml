@@ -1,0 +1,60 @@
+---
+species: Shiftry
+setname: PWT-N Summer
+tags: [in-game, PWT-N Summer, trainer+N]
+item: [Heat Rock]
+ability: [Chlorophyll]
+moves:
+- [Dark Pulse]
+- [Solar Beam]
+- [Focus Blast]
+- [Sunny Day]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ninjask
+setname: PWT-N Summer
+tags: [in-game, PWT-N Summer, trainer+N]
+item: [Heat Rock]
+ability: [Speed Boost]
+moves:
+- [Sunny Day]
+- [X-Scissor]
+- [Solar Beam]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Leafeon
+setname: PWT-N Summer
+tags: [in-game, PWT-N Summer, trainer+N]
+item: [null]
+ability: [Leaf Guard]
+moves:
+- [Leaf Blade]
+- [X-Scissor]
+- [Attract]
+- [Iron Tail]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

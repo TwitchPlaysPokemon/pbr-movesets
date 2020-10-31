@@ -1,0 +1,80 @@
+---
+species: Abomasnow
+setname: PWT-N Winter
+tags: [in-game, PWT-N Winter, trainer+N]
+item: [Life Orb]
+ability: [Snow Warning]
+moves:
+- [Blizzard]
+- [Wood Hammer]
+- [Earthquake]
+- [Grass Whistle]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mamoswine
+setname: PWT-N Winter
+tags: [in-game, PWT-N Winter, trainer+N]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Earthquake]
+- [Ice Shard]
+- [Blizzard]
+- [Stone Edge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-N Winter
+tags: [in-game, PWT-N Winter, trainer+N]
+item: [Icy Rock]
+ability: [Snow Cloak]
+moves:
+- [Blizzard]
+- [Shadow Ball]
+- [Psychic]
+- [Hail]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glaceon
+setname: PWT-N Winter
+tags: [in-game, PWT-N Winter, trainer+N]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Blizzard]
+- [Shadow Ball]
+- [Signal Beam]
+- [Attract]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
