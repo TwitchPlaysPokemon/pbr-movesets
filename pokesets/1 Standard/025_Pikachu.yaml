@@ -73,3 +73,22 @@ ball: [Poke]
 nature: Docile
 evs: {hp: 0, atk: 0, def: 168, spA: 0, spD: 168, spe: 172}
 ivs: 31
+---
+species: Pikachu
+setname: Smash
+tags: [standard]
+item: [null]
+ability: [Static]
+moves:
+    - [Volt Tackle]
+    - [Skull Bash]
+    - [Quick Attack]
+    - [Thunder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Poke]
+nature: Brave
+evs: {hp: 0, atk: 172, def: 164, spA: 4, spD: 0, spe: 168}
+ivs: 31

@@ -1,0 +1,119 @@
+---
+species: Scizor
+setname: PWT-Adventures Blue
+tags: [in-game, PWT-Adventures Blue, trainer+blue]
+item: [null]
+ability: [Swarm]
+moves:
+- [Slash]
+- [Metal Claw]
+- [False Swipe]
+- [Steel Wing]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Docile
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Adventures Blue
+tags: [in-game, PWT-Adventures Blue, trainer+blue]
+item: [null]
+ability: [Blaze]
+moves:
+- [Fly]
+- [Flamethrower]
+- [Blast Burn]
+- [Reflect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Golduck
+setname: PWT-Adventures Blue
+tags: [in-game, PWT-Adventures Blue, trainer+blue]
+item: [null]
+ability: [Cloud Nine]
+moves:
+- [Surf]
+- [Hydro Pump]
+- [Iron Tail]
+- [Dig]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Adventures Blue
+tags: [in-game, PWT-Adventures Blue, trainer+blue]
+item: [null]
+ability: [Guts]
+moves:
+- [Low Kick]
+- [Seismic Toss]
+- [Hyper Beam]
+- [Slam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bashful
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Porygon2
+setname: PWT-Adventures Blue
+tags: [in-game, PWT-Adventures Blue, trainer+blue]
+item: [Starf Berry]
+ability: [Trace]
+moves:
+- [Tri Attack]
+- [Conversion 2]
+- [Zap Cannon]
+- [Recycle]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Quirky
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+sesetname: PWT-Adventures Blue
+tags: [in-game, PWT-Adventures Blue, trainer+blue]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Dig]
+- [Earth Power]
+- [Rock Wrecker]
+- [Megahorn]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Mild
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

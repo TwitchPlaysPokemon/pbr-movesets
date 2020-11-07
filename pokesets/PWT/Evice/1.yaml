@@ -1,0 +1,120 @@
+---
+species: Slowking
+setname: PWT-Evice
+tags: [in-game, PWT-Evice, trainer+evice]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Shadow Ball]
+- [Psychic]
+- [Water Pulse]
+- [Skill Swap]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Scizor
+setname: PWT-Evice
+tags: [in-game, PWT-Evice, trainer+evice]
+item: [null]
+ability: [Swarm]
+moves:
+- [Metal Claw]
+- [Silver Wind]
+- [Baton Pass]
+- [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Evice
+tags: [in-game, PWT-Evice, trainer+evice]
+item: [null]
+ability: [Guts]
+moves:
+- [Cross Chop]
+- [Rock Slide]
+- [Earthquake]
+- [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Evice
+tags: [in-game, PWT-Evice, trainer+evice]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Dragon Dance]
+- [Double Edge]
+- [Aerial Ace]
+- [Dragon Claw]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Nascour
+tags: [in-game, PWT-Nascour, trainer+nascour]
+item: [null]
+ability: [Truant]
+moves:
+- [Crush Claw]
+- [Aerial Ace]
+- [Earthquake]
+- [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aggron
+setname: PWT-Evice
+tags: [in-game, PWT-Evice, trainer+evice]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Metal Claw]
+- [Earthquake]
+- [Roar]
+- [Double Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
