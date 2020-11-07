@@ -35,3 +35,22 @@ ball: [Repeat]
 nature: Bold
 evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
 ivs: 31
+---
+species: Jigglypuff
+setname: Smash
+tags: [standard]
+item:
+ability: [Cute Charm]
+moves:
+    - [Rollout]
+    - [Pound]
+    - [Sing]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Ultra]
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+ivs: 31

@@ -35,3 +35,22 @@ ball: [Quick]
 nature: Modest
 ivs: 31
 evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Pichu
+setname: Smash
+tags: [standard]
+item: [Life Orb]
+ability: [Static]
+moves:
+    - [Volt Tackle]
+    - [Skull Bash]
+    - [Quick Attack]
+    - [Thunder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.5
+ball: [Poke]
+nature: Lonely
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
