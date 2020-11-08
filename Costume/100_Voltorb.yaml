@@ -1,0 +1,20 @@
+species: Voltorb
+imagename: Wooloo
+displayname: Wooloo
+setname: Costume
+tags: [costume]
+item: [Normal Gem]
+ability: [Run Away]
+moves:
+    - [Defense Curl]
+    - [Take Down]
+    - [Rest]
+    - [Stomp]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Impish
+level: 5
+evs: {hp: 104, atk: 0, def: 252, spA: 0, spD: 0, spe: 152}
+ivs: 31

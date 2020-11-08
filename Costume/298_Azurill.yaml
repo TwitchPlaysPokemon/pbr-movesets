@@ -1,0 +1,21 @@
+species: Azurill
+imagename: Hatenna
+displayname: Hatenna
+setname: Costume
+tags: [costume]
+item: [Psychic Gem]
+ability: [Anticipation]
+moves:
+    - [Psychic]
+    - [Calm Mind]
+    - [Magical Leaf]
+    - [Healing Wish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+nature: Quiet
+level: 5
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}

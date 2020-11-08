@@ -1,0 +1,59 @@
+---
+species: Bronzong
+setname: PWT-Macro Cosmos's
+tags: [in-game, PWT-Macro Cosmos's, trainer+macrocosmos]
+item: [null]
+ability: [Levitate, Heatproof]
+moves:
+- [Extrasensory]
+- [Safeguard]
+- [Iron Defense]
+- [Metal Sound]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mawile
+setname: PWT-Macro Cosmos's
+tags: [in-game, PWT-Macro Cosmos's, trainer+macrocosmos]
+item: [null]
+ability: [Hyper Cutter, Intimidate]
+moves:
+- [Iron Head]
+- [Fake Tears]
+- [Crunch]
+- [Astonish]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Macro Cosmos's
+tags: [in-game, PWT-Macro Cosmos's, trainer+macrocosmos]
+item: [null]
+ability: [Rock Head, Sturdy]
+moves:
+- [Slam]
+- [Screech]
+- [Rock Slide]
+- [Curse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
