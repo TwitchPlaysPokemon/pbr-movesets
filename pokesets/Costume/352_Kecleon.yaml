@@ -1,0 +1,21 @@
+species: Kecleon
+imagename: Sobble
+displayname: Sobble
+setname: Costume
+tags: [Costume]
+item: [Scope Lens]
+ability: [Torrent]
+moves:
+    - [Water Pulse]
+    - [Bind]
+    - [Fake Tears]
+    - [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Timid
+level: 5
+ivs: 31
+evs: {hp: 132, atk: 20, def: 0, spA: 252, spD: 0, spe: 104}

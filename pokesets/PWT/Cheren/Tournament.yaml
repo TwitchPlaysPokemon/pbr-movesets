@@ -1,0 +1,58 @@
+species: Zangoose
+setname: PWT-Cheren Tournament
+tags: [in-game, PWT-Cheren Tournament, trainer+cheren]
+item: [Chople Berry]
+ability: [Immunity]
+moves:
+- [Crush Claw]
+- [Close Combat]
+- [X-Scissor]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lopunny
+setname: PWT-Cheren Tournament
+tags: [in-game, PWT-Cheren Tournament, trainer+cheren]
+item: [Liechi Berry]
+ability: [Cute Charm, Klutz]
+moves:
+- [Dizzy Punch]
+- [Jump Kick]
+- [Ice Punch]
+- [Charm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Castform
+setname: PWT-Cheren Tournament
+tags: [in-game, PWT-Cheren Tournament, trainer+cheren]
+item: [Petaya Berry]
+ability: [Forecast]
+moves:
+- [Weather Ball]
+- [Hydro Pump]
+- [Fire Blast]
+- [Blizzard]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

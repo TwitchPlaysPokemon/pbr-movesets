@@ -1,0 +1,21 @@
+species: Munchlax
+imagename: Impidimp
+displayname: Impidimp
+setname: Costume
+tags: [costume]
+item: [Light Clay]
+ability: [Frisk]
+moves:
+    - [Dark Pulse]
+    - [Assurance]
+    - [Swagger]
+    - [Fake Tears]
+gender: [m, f]
+happiness: 255
+ball: [Dusk]
+biddable: True
+rarity: 1.0
+nature: Impish
+level: 5
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+ivs: 31
