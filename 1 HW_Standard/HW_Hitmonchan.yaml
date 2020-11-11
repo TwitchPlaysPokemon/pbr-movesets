@@ -1,0 +1,21 @@
+species: Hitmonchan
+ingamename: Able
+displayname: SCP-076
+setname: Halloween
+tags: [halloween]
+item: Destiny Knot
+ability: Vital Spirit
+moves:
+    - [Outrage]
+    - [Rage]
+    - [Howl]
+    - [Uproar]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

@@ -20,3 +20,26 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 252, def: 140, spA: 252, spD: 252, spe: 0}
 nature: Serious
 hidden: false
+---
+species: Exeggcute
+ingamename: Falinks
+displayname: Falinks
+setname: Halloween2
+ball: [Premier]
+tags: [halloween]
+item: Leichi Berry
+ability: Battle Armor
+moves:
+    - [Close Combat]
+    - [Bulk Up]
+    - [Megahorn]
+    - [Counter]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 50, atk: 252, def: 252, spA: 100, spD: 90, spe: 100}
+nature: Naughty
+hidden: false
