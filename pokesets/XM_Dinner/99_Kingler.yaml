@@ -10,7 +10,7 @@ moves:
     - [Egg Bomb]
     - [Crabhammer]
     - [Withdraw]
-    - [Milk Drink]
+    - [Flail]
 happiness: 255
 gender: [m,f]
 biddable: True
