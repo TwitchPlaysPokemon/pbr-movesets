@@ -1,0 +1,22 @@
+species: Parasect
+ingamename: MushrmCurry
+displayname: Mushroom Curry
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Big Mushroom
+ability: Storm Drain
+moves:
+    - [Mega Drain]
+    - [Stun Spore]
+    - [Fire Spin]
+    - [Overheat]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 104, spe: 148}
+nature: Lonely
+hidden: false

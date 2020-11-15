@@ -1,0 +1,22 @@
+species: Glalie
+ingamename: Snow Cone
+displayname: Snow Cone
+setname: Dinner
+tags: [dinner]
+item: [Never-Melt Ice]
+ability: [Ice Body]
+moves:
+    - [Ice Ball]
+    - [Lick]
+    - [Sheer Cold]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+hidden: False
