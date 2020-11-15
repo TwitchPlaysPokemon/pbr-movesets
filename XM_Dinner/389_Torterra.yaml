@@ -1,0 +1,22 @@
+species: Torterra
+ingamename: Broccoli
+displayname: Broccoli
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Dive Ball
+ability: Natural Cure
+moves:
+    - [Grass Knot]
+    - [Ingrain]
+    - [Bite]
+    - [Vine Whip]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 64, def: 128, spA: 0, spD: 128, spe: 0}
+nature: Mild
+hidden: false

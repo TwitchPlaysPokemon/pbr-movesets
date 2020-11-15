@@ -1,0 +1,22 @@
+species: Electabuzz
+ingamename: PwtrCrunch
+displayname: Pewter Crunchies
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Lum Berry
+ability: Shed Skin
+moves:
+    - [Thunder Fang]
+    - [Crunch]
+    - [Stockpile]
+    - [Swallow]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 128, spA: 0, spD: 128, spe: 0}
+nature: Hasty
+hidden: false

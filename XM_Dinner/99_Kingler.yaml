@@ -1,0 +1,22 @@
+species: Kingler
+ingamename: Crab
+displayname: Crab
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Quick Claw
+ability: Dry Skin
+moves:
+    - [Egg Bomb]
+    - [Crabhammer]
+    - [Withdraw]
+    - [Milk Drink]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 180, atk: 236, def: 200, spA: 200, spD: 0, spe: 100}
+nature: Relaxes
+hidden: false
