@@ -568,13 +568,13 @@ evs: {hp: 0, atk: 144, def: 0, spA: 252, spD: 0, spe: 112}
 ivs: 31
 tags: [ash, anime]
 ---
-species: Riolu
+species: Lucario
 setname: Ash
-ability: [Swift Swim]
+ability: [Inner Focus]
 item: [null]
 ball: [Poke]
 moves:
-- [Vacuum Wave]
+- [Aura Sphere]
 - [Force Palm]
 - [Double Team]
 - [Reversal]
