@@ -4,12 +4,12 @@ displayname: Scorbunny
 setname: Costume
 tags: [costume]
 item: [Shuca Berry]
-ability: [Mold Breaker]
+ability: [Blaze]
 moves:
-    - [Dragon Claw]
-    - [Iron Tail]
-    - [Aerial Ace]
-    - [Taunt]
+    - [Blaze Kick]
+    - [Agility]
+    - [Bounce]
+    - [Gyro Ball]
 gender: [m, f]
 happiness: 255
 biddable: True
