@@ -4,12 +4,12 @@ displayname: Grookey
 setname: Costume
 tags: [costume]
 item: [Passho Berry]
-ability: [Blaze]
+ability: [Overgrow]
 moves:
-    - [Blaze Kick]
-    - [Agility]
-    - [Bounce]
-    - [Gyro Ball]
+    - [Wood Hammer]
+    - [Grasswhistle]
+    - [Belly Drum]
+    - [Uproar]
 gender: [m, f]
 happiness: 255
 biddable: True
