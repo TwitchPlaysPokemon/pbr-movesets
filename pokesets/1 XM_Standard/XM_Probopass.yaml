@@ -1,0 +1,22 @@
+species: Probopass
+ingamename: SiIva
+displayname: SiIvaGunner
+setname: Christmas
+tags: [christmas]
+item: Thick Club
+ability: Snow Warning
+moves:
+    - [Spacial Rend]
+    - [Stone Edge]
+    - [Grass Whistle]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 31, def: 25, spA: 31, spD: 20, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

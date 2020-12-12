@@ -1,0 +1,149 @@
+---
+species: Umbreon
+setname: Virgil
+ability: [Synchronize]
+item: [Black Glasses]
+ball: [Poke]
+moves:
+- [Flash]
+- [Psychic]
+- [Shadow Ball]
+- [Dark Pulse]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Mild
+evs: {hp: 248, atk: 0, def: 0, spA: 172, spD: 0, spe: 88}
+ivs: 31
+tags: [virgil, anime]
+---
+species: Eevee
+setname: Virgil
+ability: [Adaptability]
+item: [null]
+ball: [Poke]
+moves:
+- [Helping Hand]
+- [Iron Tail]
+- [Protect]
+- [Sand Attack]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lax
+evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [virgil, anime]
+---
+species: Expeon
+setname: Virgil
+ability: [Synchronize]
+item: [Twisted Spoon]
+ball: [Poke]
+moves:
+- [Psychic]
+- [Fake Tears]
+- [Confusion]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 140, atk: 0, def: 252, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [virgil, anime]
+---
+species: Flareon
+setname: Virgil
+ability: [Flash Fire]
+item: [Charcoal]
+ball: [Poke]
+moves:
+- [Flamethrower]
+- [Fire Blast]
+- [Double Team]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bashful
+evs: {hp: 100, atk: 0, def: 0, spA: 252, spD: 0, spe: 156}
+ivs: 31
+tags: [virgil, anime]
+---
+species: Vaporeon
+setname: Virgil
+ability: [Water Absorb]
+item: [Mystic Water]
+ball: [Poke]
+moves:
+- [Bubble Beam]
+- [Shadow Ball]
+- [Hydro Pump]
+- [Aurora Beam]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet
+evs: {hp: 140, atk: 16, def: 0, spA: 252, spD: 24, spe: 76}
+ivs: 31
+tags: [virgil, anime]
+---
+species: Jolteon
+setname: Virgil
+ability: [Volt Absorb]
+item: [Magnet]
+ball: [Poke]
+moves:
+- [Thunderbolt]
+- [Double Team]
+- [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Timid
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [virgil, anime]
+---
+species: Glaceon
+setname: Virgil
+ability: [Snow Cloak]
+item: [Never-Melt Ice]
+ball: [Poke]
+moves:
+- [Hail]
+- [Ice Beam]
+- [Blizzard]
+- [Sand Attack]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Calm
+evs: {hp: 16, atk: 0, def: 0, spA: 252, spD: 144, spe: 96}
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+tags: [virgil, anime]
+---
+species: Leafeon
+setname: Virgil
+ability: [Leaf Guard]
+item: [Miracle Seed]
+ball: [Poke]
+moves:
+- [Sunny Day]
+- [Solar Beam]
+- [Petal Dance]
+- [Sand Attack]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Calm
+evs: {hp: 16, atk: 0, def: 0, spA: 252, spD: 144, spe: 96}
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+tags: [virgil, anime]
