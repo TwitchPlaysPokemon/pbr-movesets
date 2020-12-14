@@ -2,6 +2,7 @@ species: Kyogre
 ingamename: UwU
 displayname: UwU
 setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
 item: [Sitrus Berry]
 ability: [Drizzle]
 moves:
@@ -22,6 +23,7 @@ species: Swampert
 ingamename: BUTT
 displayname: BUTT
 setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
 item: [Soft Sand]
 ability: [Torrent]
 moves:
@@ -43,6 +45,7 @@ species: Zigzagoon
 ingamename: Racc
 displayname: Racc
 setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
 item: [null]
 ability: [Pickup]
 moves:
@@ -64,6 +67,7 @@ species: Tropius
 ingamename: Neck
 displayname: Neck
 setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
 item: [Pecha Berry]
 ability: [Chlorophyll]
 moves:
@@ -85,6 +89,7 @@ species: Lileep
 ingamename: WAH
 displayname: WAH
 setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Suction Cups]
 moves:
@@ -106,6 +111,7 @@ species: Aron
 ingamename: Tiny
 displayname: Tiny
 setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
 item: [Chesto Berry]
 ability: [Sturdy]
 moves:
