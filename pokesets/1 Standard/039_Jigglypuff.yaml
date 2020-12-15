@@ -39,7 +39,7 @@ ivs: 31
 species: Jigglypuff
 setname: Smash
 tags: [standard]
-item:
+item: [null]
 ability: [Cute Charm]
 moves:
     - [Rollout]
