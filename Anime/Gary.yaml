@@ -19,7 +19,7 @@ ivs: 31
 tags: [gary, anime]
 ---
 species: Umbreon
-setname: Harrison
+setname: Gary
 ability: [Synchronize]
 item: [null]
 ball: [Poke]
@@ -57,7 +57,7 @@ ivs: 31
 tags: [gary, anime]
 ---
 species: Arcanine
-setname: Harrison
+setname: Gary
 ability: [Intimidate]
 item: [null]
 ball: [Poke]
@@ -91,10 +91,10 @@ rarity: 1.0
 nature: Relaxed
 evs: {hp: 0, atk: 116, def: 0, spA: 252, spD: 140, spe: 0}
 ivs: 31
-tags: [harrison, anime]
+tags: [gary, anime]
 ---
 species: Golem
-setname: Harrison
+setname: Gary
 ability: [Sturdy]
 item: [null]
 ball: [Poke]
@@ -111,7 +111,7 @@ ivs: 31
 tags: [gary, anime]
 ---
 species: Scizor
-setname: Harrison
+setname: Gary
 ability: [Technician]
 item: [null]
 ball: [Poke]
