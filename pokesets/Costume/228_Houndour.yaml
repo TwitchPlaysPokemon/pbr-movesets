@@ -8,8 +8,8 @@ ability: [Unburden]
 moves:
     - [Night Slash]
     - [Sucker Punch]
-    - [Nasty Plot]
     - [Quick Attack]
+    - [Nasty Plot]
 gender: [m, f]
 happiness: 255
 biddable: True

@@ -6,9 +6,9 @@ tags: [costume]
 item: [Life Orb]
 ability: [Clear Body]
 moves:
-    - [Astonish]
-    - [Quick Attack]
+    - [Draco Meteor]
     - [Bite]
+    - [Quick Attack]
     - [Confuse Ray]
 gender: [m, f]
 happiness: 255
