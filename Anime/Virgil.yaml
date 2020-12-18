@@ -5,10 +5,10 @@ ability: [Synchronize]
 item: [Black Glasses]
 ball: [Poke]
 moves:
-- [Flash]
+- [Dark Pulse]
 - [Psychic]
 - [Shadow Ball]
-- [Dark Pulse]
+- [Flash]
 gender: [m]
 happiness: 255
 biddable: true
@@ -24,10 +24,10 @@ ability: [Adaptability]
 item: [null]
 ball: [Poke]
 moves:
-- [Helping Hand]
 - [Iron Tail]
 - [Protect]
 - [Sand Attack]
+- [Helping Hand]
 gender: [f]
 happiness: 255
 biddable: true
@@ -116,9 +116,9 @@ ability: [Snow Cloak]
 item: [Never-Melt Ice]
 ball: [Poke]
 moves:
-- [Hail]
 - [Ice Beam]
 - [Blizzard]
+- [Hail]
 - [Sand Attack]
 gender: [m]
 happiness: 255
@@ -135,9 +135,9 @@ ability: [Leaf Guard]
 item: [Miracle Seed]
 ball: [Poke]
 moves:
-- [Sunny Day]
 - [Solar Beam]
 - [Petal Dance]
+- [Sunny Day]
 - [Sand Attack]
 gender: [m]
 happiness: 255

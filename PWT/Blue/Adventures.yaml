@@ -15,7 +15,7 @@ biddable: false
 ball: [Poke]
 nature: Docile
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -35,7 +35,7 @@ biddable: false
 ball: [Poke]
 nature: Bold
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -55,7 +55,7 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -75,7 +75,7 @@ biddable: false
 ball: [Poke]
 nature: Bashful
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -94,7 +94,7 @@ biddable: false
 ball: [Poke]
 nature: Quirky
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -114,6 +114,6 @@ biddable: false
 ball: [Poke]
 nature: Mild
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0

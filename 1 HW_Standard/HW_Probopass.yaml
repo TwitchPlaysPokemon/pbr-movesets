@@ -6,8 +6,8 @@ tags: [halloween]
 item: Thick Club
 ability: Snow Warning
 moves:
-    - [Spacial Rend]
     - [Stone Edge]
+    - [Spacial Rend]
     - [Grass Whistle]
     - [Rest]
 gender: [m]

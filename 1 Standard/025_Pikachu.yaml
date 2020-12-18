@@ -80,10 +80,10 @@ tags: [standard]
 item: [null]
 ability: [Static]
 moves:
-    - [Volt Tackle]
+    - [Thunderbolt]
+    - [Thunder]
     - [Skull Bash]
     - [Quick Attack]
-    - [Thunder]
 gender: [m, f]
 happiness: 255
 biddable: True

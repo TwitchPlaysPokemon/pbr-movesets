@@ -37,15 +37,15 @@ ivs: 31
 evs: {hp: 92, atk: 56, def: 100, spA: 200, spD: 32, spe: 28}
 ---
 species: Ivysaur
-setname: Project M
+setname: Smash
 tags: [standard]
 item: [Null]
 ability: [Overgrow]
 moves:
-    - [Synthesis]
+    - [Bullet Seed]
     - [Razor Leaf]
     - [Vine Whip]
-    - [Seed Bomb]
+    - [U-Turn]
 gender: [f]
 happiness: 255
 biddable: True

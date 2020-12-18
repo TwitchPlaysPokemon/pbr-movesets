@@ -1,7 +1,7 @@
 species: Squirtle
 setname: Special
 tags: [standard]
-item: [Null]
+item: [null]
 ability: [Torrent]
 moves:
     - [Hydro Pump]
@@ -20,7 +20,7 @@ ivs: 31
 species: Squirtle
 setname: Physical
 tags: [standard]
-item: [Null]
+item: [null]
 ability: [Rain Dish]
 moves:
     - [Waterfall]
@@ -37,15 +37,15 @@ evs: {hp: 184, atk: 252, def: 36, spA: 0, spD: 36, spe: 0}
 ivs: 31
 ---
 species: Squirtle
-setname: Project M
+setname: Smash
 tags: [standard]
-item: [Null]
+item: [null]
 ability: [Torrent]
 moves:
-    - [Water Gun]
-    - [Withdraw]
     - [Waterfall]
-    - [Bubble]
+    - [Water Gun]
+    - [U-Turn]
+    - [Withdraw]
 gender: [m]
 happiness: 255
 biddable: True

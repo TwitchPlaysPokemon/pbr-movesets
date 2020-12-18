@@ -24,7 +24,7 @@ ability: [Synchronize]
 item: [null]
 ball: [Poke]
 moves:
-- [Psychic]
+- [Bite]
 - [Shadow Ball]
 - [Reflect]
 - [Double Team]
@@ -46,7 +46,7 @@ moves:
 - [Thunder]
 - [Iron Tail]
 - [Protect]
-- [Thunder Punch]
+- [Earth Power]
 gender: [m]
 happiness: 255
 biddable: true
@@ -81,6 +81,7 @@ ability: [Rivalry]
 item: [null]
 ball: [Poke]
 moves:
+- [Poison Fang]
 - [Double Kick]
 - [Rock Smash]
 - [Strength]
