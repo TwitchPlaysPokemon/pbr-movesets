@@ -6,10 +6,10 @@ tags: [Costume]
 item: [Scope Lens]
 ability: [Torrent]
 moves:
-    - [Water Pulse]
+    - [Sucker Punch]
+    - [Surf]
     - [Bind]
     - [Fake Tears]
-    - [Sucker Punch]
 gender: [m, f]
 happiness: 255
 biddable: True

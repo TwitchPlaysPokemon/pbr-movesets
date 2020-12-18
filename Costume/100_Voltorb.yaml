@@ -6,10 +6,10 @@ tags: [costume]
 item: [Normal Gem]
 ability: [Run Away]
 moves:
-    - [Defense Curl]
     - [Take Down]
-    - [Rest]
     - [Stomp]
+    - [Defense Curl]
+    - [Rest]
 happiness: 255
 biddable: True
 rarity: 1.0

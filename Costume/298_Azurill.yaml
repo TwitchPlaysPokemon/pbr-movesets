@@ -7,8 +7,8 @@ item: [Psychic Gem]
 ability: [Anticipation]
 moves:
     - [Psychic]
-    - [Calm Mind]
     - [Magical Leaf]
+    - [Calm Mind]
     - [Healing Wish]
 gender: [m, f]
 happiness: 255

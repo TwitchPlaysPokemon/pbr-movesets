@@ -6,10 +6,10 @@ tags: [costume]
 item: [Leftovers]
 ability: [Keen Eye]
 moves:
-    - [Pluck]
-    - [Taunt]
+    - [Brave Bird]
     - [Drill Peck]
-    - [Fury Attack]
+    - [Swagger]
+    - [Roost]
 gender: [m,f]
 happiness: 255
 ball: [Poke]
