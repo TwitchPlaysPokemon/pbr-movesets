@@ -6,8 +6,8 @@ tags: [halloween]
 item: Iron Ball
 ability: Rock Head
 moves:
-    - [Constrict]
     - [Head Smash]
+    - [Constrict]
     - [Fake Tears]
     - [Gravity]
 gender: [m]

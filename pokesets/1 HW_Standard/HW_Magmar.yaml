@@ -6,10 +6,10 @@ tags: [halloween]
 item: Stick
 ability: Oblivious
 moves:
-    - [Lovely Kiss]
+    - [Leaf Blade]
     - [Sweet Kiss]
+    - [Lovely Kiss]
     - [Heart Swap]
-    - [Psycho Cut]
 gender: [f]
 happiness: 255
 biddable: True

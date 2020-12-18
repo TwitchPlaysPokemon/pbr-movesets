@@ -29,9 +29,9 @@ tags: [halloween]
 item: Protector
 ability: Filter
 moves:
+    - [Rock Slide]
+    - [Will-O-Wisp]
     - [Iron Defense]
-    - [Toxic]
-    - [Body Slam]
     - [Block]
 gender: [m]
 happiness: 255

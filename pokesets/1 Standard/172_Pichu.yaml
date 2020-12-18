@@ -43,9 +43,9 @@ item: [Life Orb]
 ability: [Static]
 moves:
     - [Volt Tackle]
+    - [Thunder]
     - [Skull Bash]
     - [Quick Attack]
-    - [Thunder]
 gender: [m, f]
 happiness: 255
 biddable: True
