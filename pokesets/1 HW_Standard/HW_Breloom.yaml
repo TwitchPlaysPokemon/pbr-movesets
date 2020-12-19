@@ -8,8 +8,8 @@ ability: Intimidate
 moves:
     - [Mach Punch]
     - [Wring Out]
-    - [Sheer Cold]
-    - [Lock On]
+    - [Fissure]
+    - [Shadow Sneak]
 gender: [m]
 happiness: 255
 biddable: True
