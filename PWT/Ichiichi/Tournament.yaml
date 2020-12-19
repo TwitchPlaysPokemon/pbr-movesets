@@ -1,0 +1,58 @@
+species: Zapdos
+setname: PWT-Ichi-Ichi Tournament
+tags: [in-game, PWT-Ichi-Ichi Tournament, trainer+ichiichi]
+item: [Choice Specs]
+ability: [Pressure]
+moves:
+- [Thunderbolt]
+- [Hidden Power]
+- [Heat Wave]
+- [Discharge]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Ichi-Ichi Tournament
+tags: [in-game, PWT-Ichi-Ichi Tournament, trainer+ichiichi]
+item: [Choice Scarf]
+ability: [Sand Veil]
+moves:
+- [Dragon Claw]
+- [Outrage]
+- [Earthquake]
+- [Rock Slide]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Ichi-Ichi Tournament
+tags: [in-game, PWT-Ichi-Ichi Tournament, trainer+ichiichi]
+item: [Life Orb]
+ability: [Snow Warning]
+moves:
+- [Wood Hammer]
+- [Blizzard]
+- [Ice Shard]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

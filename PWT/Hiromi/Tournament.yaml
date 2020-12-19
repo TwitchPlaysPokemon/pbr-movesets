@@ -1,0 +1,58 @@
+species: Gastrodon
+setname: PWT-Hiromi Tournament
+tags: [in-game, PWT-Hiromi Tournament, trainer+hiromi]
+item: [Rindo Berry]
+ability: [Storm Drain]
+moves:
+- [Protect]
+- [Ice Beam]
+- [Earth Power]
+- [Recover]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Hiromi Tournament
+tags: [in-game, PWT-Hiromi Tournament, trainer+hiromi]
+item: [Chople Berry]
+ability: [Sand Stream]
+moves:
+- [Protect]
+- [Rock Slide]
+- [Crunch]
+- [Low Kick]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Hiromi Tournament
+tags: [in-game, PWT-Hiromi Tournament, trainer+hiromi]
+item: [Lum Berry]
+ability: [Clear Body]
+moves:
+- [Zen Headbutt]
+- [Meteor Mash]
+- [Protect]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
