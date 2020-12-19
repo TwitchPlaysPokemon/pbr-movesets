@@ -1,0 +1,59 @@
+species: Heatran
+setname: PWT-Nitesh Tournament
+tags: [in-game, PWT-Nitesh Tournament, trainer+nitesh]
+item: [Shuca Berry]
+ability: [Flash Fire]
+moves:
+- [Heat Wave]
+- [Earth Power]
+- [Hidden Power]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 1, atk: 1, def: 1, spA: 1, spD: 1, spe: 0}
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Nitesh Tournament
+tags: [in-game, PWT-Nitesh Tournament, trainer+nitesh]
+item: [Charti Berry]
+ability: [Intimidate]
+moves:
+- [Thunder Wave]
+- [Ice Fang]
+- [Protect]
+- [Waterfall]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gastrodon
+setname: PWT-Nitesh Tournament
+tags: [in-game, PWT-Nitesh Tournament, trainer+nitesh]
+item: [Rindo Berry]
+ability: [Storm Drain]
+moves:
+- [Ice Beam]
+- [Recover]
+- [Earth Power]
+- [Stockpile]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

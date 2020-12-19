@@ -1,0 +1,120 @@
+---
+species: Kanghaskhan
+setname: PWT-Let's Go Morimoto
+tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Fake Out]
+- [Sucker Punch]
+- [Dizzy Punch]
+- [Outrage]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Let's Go Morimoto
+tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Double Kick]
+- [Flare Blitz]
+- [Superpower]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Let's Go Morimoto
+tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Quick Attack]
+- [Double Kick]
+- [Hydro Pump]
+- [Blizzard]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Let's Go Morimoto
+tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Double Kick]
+- [Thunder]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Let's Go Morimoto
+tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Superpower]
+- [Earthquake]
+- [Poison Jab]
+- [Rock Slide]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Let's Go Morimoto
+tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Dragon Pulse]
+- [Blizzard]
+- [Fire Blast]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
