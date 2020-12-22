@@ -7,9 +7,9 @@ item: [Shuca Berry]
 ability: [Blaze]
 moves:
     - [Blaze Kick]
-    - [Agility]
+    - [Headbutt]
     - [Bounce]
-    - [Gyro Ball]
+    - [Agility]
 gender: [m, f]
 happiness: 255
 biddable: True

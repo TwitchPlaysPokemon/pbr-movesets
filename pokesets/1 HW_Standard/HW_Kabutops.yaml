@@ -24,7 +24,7 @@ hidden: false
 species: Kabutops
 ingamename: SCP-049
 displayname: SCP-049
-setname: Halloween
+setname: Halloween2
 ball: [Dusk]
 tags: [halloween]
 item: Hyper Potion
@@ -34,6 +34,29 @@ moves:
     - [Heal Bell]
     - [Recover]
     - [Twineedle]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 72, spe: 0}
+nature: Serious
+hidden: false
+---
+species: Kabutops
+ingamename: Denji
+displayname: Chainsaw Man
+setname: Halloween3
+ball: [Dusk]
+tags: [halloween]
+item: Quick Claw
+ability: Hyper Cutter
+moves:
+    - [Fury Cutter]
+    - [Psycho Cut]
+    - [Leaf Blade]
+    - [Roar]
 happiness: 255
 gender: [m]
 biddable: True
