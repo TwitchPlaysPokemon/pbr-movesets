@@ -5,18 +5,18 @@ displayname: Pizza Cutter
 setname: Dinner-PizzaCuttr
 tags: [Dinner]
 ball: [Cherish]
-item: Power Herb
+item: BrightPowder
 ability: Water Absorb
 moves:
-    - [Cut]
-    - [Slash]
+    - [X-Scissor]
+    - [Iron Head]
     - [Rollout]
-    - [Sharpen]
+    - [Iron Defense]
 happiness: 255
 biddable: True
 rarity: 1.0
 shiny: True
 ivs: 31
-evs: {hp: 108, atk: 244, def: 0, spA: 30, spD: 0, spe: 0}
-nature: Serious
+evs: {hp: 255, atk: 108, def: 0, spA: 8, spD: 0, spe: 0}
+nature: Adamant
 hidden: false

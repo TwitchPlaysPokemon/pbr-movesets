@@ -4,13 +4,13 @@ displayname: Bone Curry
 setname: Dinner
 tags: [Dinner]
 ball: [Cherish]
-item: Thick Club
+item: Rare Bone
 ability: Flame Body
 moves:
-    - [Bone Club]
+    - [Bonemerang]
     - [Bone Rush]
     - [Overheat]
-    - [Fire Fang]
+    - [Flare Blitz]
 happiness: 255
 gender: [m,f]
 biddable: True

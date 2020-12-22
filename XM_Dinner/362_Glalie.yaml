@@ -18,5 +18,5 @@ rarity: 1.0
 ball: [Cherish]
 nature: Quiet
 ivs: 31
-evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+evs: {hp: 252, atk: 64, def: 64, spA: 0, spD: 128, spe: 0}
 hidden: False
