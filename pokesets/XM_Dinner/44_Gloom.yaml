@@ -30,10 +30,10 @@ ball: [Cherish]
 item: Miracle Seed
 ability: Battle Armor
 moves:
+    - [Overheat]
     - [Seed Bomb]
     - [Giga Drain]
     - [Bulk Up]
-    - [Defense Curl]
 happiness: 255
 gender: [m,f]
 biddable: True
