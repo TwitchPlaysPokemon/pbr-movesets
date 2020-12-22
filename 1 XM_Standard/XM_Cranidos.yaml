@@ -20,3 +20,26 @@ nature: Careful
 ivs: 31
 evs: {hp: 0, atk: 28, def: 240, spA: 0, spD: 240, spe: 0}
 hidden: false
+---
+species: Cranidos
+ingamename: Dino Badge
+displayname: Dino Badge
+setname: Christmas
+tags: [christmas]
+item: Skull Fossil
+ability: Tangled Feet
+moves:
+    - [Outrage]
+    - [Uproar]
+    - [Screech]
+    - [Double Team]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Careful
+ivs: 31
+evs: {hp: 0, atk: 0, def: 240, spA: 28, spD: 240, spe: 0}
+hidden: false

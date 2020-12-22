@@ -7,9 +7,9 @@ item: [Passho Berry]
 ability: [Overgrow]
 moves:
     - [Wood Hammer]
-    - [Grasswhistle]
-    - [Belly Drum]
     - [Uproar]
+    - [Knock Off]
+    - [Screech]
 gender: [m, f]
 happiness: 255
 biddable: True
