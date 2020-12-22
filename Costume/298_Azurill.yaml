@@ -3,7 +3,7 @@ imagename: Hatenna
 displayname: Hatenna
 setname: Costume
 tags: [costume]
-item: [Psychic Gem]
+item: [TwistedSpoon]
 ability: [Anticipation]
 moves:
     - [Psychic]

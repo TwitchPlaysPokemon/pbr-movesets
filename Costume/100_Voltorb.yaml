@@ -3,13 +3,13 @@ imagename: Wooloo
 displayname: Wooloo
 setname: Costume
 tags: [costume]
-item: [Normal Gem]
+item: [Silk Scarf]
 ability: [Run Away]
 moves:
     - [Take Down]
-    - [Stomp]
+    - [Double Kick]
+    - [Payback]
     - [Defense Curl]
-    - [Rest]
 happiness: 255
 biddable: True
 rarity: 1.0
