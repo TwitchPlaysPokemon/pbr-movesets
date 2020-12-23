@@ -1,0 +1,22 @@
+species: Wingull
+ingamename: LilBomber
+displayname: Aerosmith
+setname: Christmas
+tags: [christmas]
+item: [Scope Lens, Zoom Lens]
+ability: [Compound Eyes, Tinted Lens]
+moves:
+    - [Aerial Ace]
+    - [Egg Bomb]
+    - [Poison Sting]
+    - [U-Turn]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 252}
+hidden: false

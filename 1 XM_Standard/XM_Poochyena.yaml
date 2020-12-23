@@ -20,3 +20,26 @@ nature: Jolly
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 hidden: false
+---
+species: Poochyena
+ingamename: Iggy
+displayname: Iggy
+setname: Christmas2
+tags: [christmas]
+item: Soft Sand
+ability: Sand Stream
+moves:
+    - [Bite]
+    - [Sand Tomb]
+    - [Sand Attack]
+    - [Poison Gas]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 160, def: 140, spA: 0, spD: 116, spe: 0}
+hidden: false

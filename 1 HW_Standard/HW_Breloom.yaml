@@ -17,6 +17,6 @@ rarity: 1.0
 ball: [Master]
 shiny: True
 nature: Modest
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 200, atk: 200, def: 200, spA: 252, spD: 200, spe: 200}
+ivs: 25
+evs: {hp: 0, atk: 200, def: 0, spA: 252, spD: 0, spe: 200}
 hidden: false
