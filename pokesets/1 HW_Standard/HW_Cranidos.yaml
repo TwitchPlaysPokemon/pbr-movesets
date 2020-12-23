@@ -7,7 +7,7 @@ item: Skull Fossil
 ability: Tangled Feet
 moves:
     - [Outrage]
-    - [Uproar]
+    - [Hyper Voice]
     - [Screech]
     - [Double Team]
 gender: [m,f]
@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Repeat]
 shiny: True
-nature: Careful
+nature: Modest
 ivs: 31
-evs: {hp: 0, atk: 0, def: 240, spA: 28, spD: 240, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 hidden: false
