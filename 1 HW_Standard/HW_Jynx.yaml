@@ -6,9 +6,9 @@ tags: [halloween]
 item: Smooth Stone
 ability: Sand Veil
 moves:
+    - [Rock Throw]
     - [Sand Tomb]
     - [Sand Attack]
-    - [Rock Throw]
     - [Sandstorm]
 gender: [f]
 happiness: 255

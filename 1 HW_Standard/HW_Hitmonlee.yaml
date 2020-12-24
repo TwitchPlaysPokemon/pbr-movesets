@@ -6,8 +6,8 @@ tags: [halloween]
 item: Metal Coat
 ability: Rough Skin
 moves:
+    - [Gunk Shot]
     - [Toxic]
-    - [Sludge Bomb]
     - [Counter]
     - [Mirror Coat]
 happiness: 255
