@@ -31,15 +31,15 @@ item: Hyper Potion
 ability: Effect Spore
 moves:
     - [Psycho Cut]
-    - [Heal Bell]
-    - [Recover]
     - [Twineedle]
+    - [Recover]
+    - [Heal Bell]
 happiness: 255
 gender: [m]
 biddable: True
 rarity: 1.0
 shiny: True
-ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+ivs: {hp: 15, atk: 15, def: 0, spA: 15, spD: 15, spe: 15}
 evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 72, spe: 0}
 nature: Serious
 hidden: false
@@ -53,8 +53,8 @@ tags: [halloween]
 item: Quick Claw
 ability: Hyper Cutter
 moves:
-    - [Fury Cutter]
     - [Psycho Cut]
+    - [Fury Cutter]
     - [Leaf Blade]
     - [Roar]
 happiness: 255
@@ -62,7 +62,7 @@ gender: [m]
 biddable: True
 rarity: 1.0
 shiny: True
-ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+ivs: 0
 evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 72, spe: 0}
 nature: Serious
 hidden: false

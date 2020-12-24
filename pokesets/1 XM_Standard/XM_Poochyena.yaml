@@ -41,5 +41,5 @@ ball: [Dusk]
 shiny: True
 nature: Serious
 ivs: 31
-evs: {hp: 0, atk: 160, def: 140, spA: 0, spD: 116, spe: 0}
+evs: {hp: 252, atk: 252, def: 140, spA: 0, spD: 116, spe: 252}
 hidden: false

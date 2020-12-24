@@ -1,14 +1,14 @@
 species: Grovyle
 ingamename: Sephiroth
 displayname: Sephiroth
-setname: Christmas
-tags: [christmas]
+setname: Halloween
+tags: [halloween]
 item: Life Orb
 ability: No Guard
 moves:
-    - [Leaf Blade]
+    - [Night Slash]
     - [Draco Meteor]
-    - [Cosmic Power]
+    - [Lava Plume]
     - [Nasty Plot]
 gender: [m]
 happiness: 255
@@ -17,6 +17,6 @@ rarity: 1.0
 ball: [Dusk]
 shiny: True
 nature: Naughty
-ivs: 31
-evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 15
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false

@@ -16,7 +16,7 @@ biddable: True
 rarity: 1.0
 ball: [Repeat]
 shiny: True
-nature: Jolly
+nature: Adamant
 ivs: 31
-evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 252}
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
 hidden: false
