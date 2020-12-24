@@ -121,7 +121,7 @@ def analyze_pokeset(pokeset):
     with warnings.catch_warnings(record=True) as w:
         try:
             pokeset = pokecat.populate_pokeset(pokeset, skip_ev_check=True)
-        except ValueError as ex:
+        except Exception as ex:
             notes.append(Note(
                 Severity.ERROR,
                 str(ex),  # TODO
