@@ -70,7 +70,7 @@ def analyze_file(file_obj):
     pokesets = []
     notes = []
     try:
-        raw_pokesets = list(yaml.load_all(file_obj))
+        raw_pokesets = list(yaml.load_all(file_obj, Loader=yaml.CLoader))
     except yaml.MarkedYAMLError as e:
         notes.append(Note(
             Severity.ERROR,
