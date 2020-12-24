@@ -51,7 +51,7 @@ def analyze_dir(root_dir):
     notes = []
     for dirname, _, filenames in os.walk(root_dir):
         for filename in filenames:
-            filepath = os.path.join(root_dir, dirname, filename)
+            filepath = os.path.join(dirname, filename)
             relpath = os.path.relpath(filepath, root_dir)
             if not filename.endswith((".yaml", ".yml")) or filename.startswith("_"):
                 continue
