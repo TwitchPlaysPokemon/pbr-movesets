@@ -3,12 +3,13 @@ Module for parsing and analyzing all pokeset files within a repository directory
 """
 import logging
 import os
-import pokecat
 import warnings
+from enum import Enum
+from itertools import groupby, chain
+
+import pokecat
 import yaml
 import yaml.scanner
-from collections import defaultdict
-from enum import Enum
 
 logger = logging.getLogger(__name__)
 
@@ -163,19 +164,21 @@ def analyze_pokeset(pokeset):
 def analyze_all_pokesets_integrity(original_pokesets):
     notes = []
     pokesets = []
-    genders_per_species = defaultdict(set)
+    by_species = lambda p: p["species"]["id"]
+    for (species, sets) in groupby(sorted(original_pokesets, key=by_species), key=by_species):
+        sets = list(sets)
+        species_name = sets[0]["species"]["name"]
+        genders = set(chain.from_iterable(p["gender"] for p in sets))
+        if None in genders and len(genders) > 1:
+            notes.append(Note(
+                Severity.ERROR,
+                ("Species #{} {} has both genderless and gendered sets! All sets: {}"
+                 .format(species, species_name, ", ".join("{} (gender: {})"
+                                                          .format(p["setname"], p["gender"]) for p in sets)))
+            ))
     existing_ids = {}
     for pokeset in original_pokesets:
         identifier = (pokeset["species"]["id"], pokeset["setname"])
-        genders_this_species = genders_per_species[pokeset["species"]["id"]]
-        genders_this_species |= set(pokeset["gender"])
-        if None in genders_this_species and len(genders_this_species) > 1:
-            notes.append(Note(
-                Severity.ERROR,
-                ("Starting with this set, that species now has both genderless and gendered sets! "
-                 "Stick to either genderless or gendered per species or PBR might crash!"),
-                identifier
-            ))
         if identifier in existing_ids:
             prev_identifier = existing_ids[id]
             notes.append(Note(
