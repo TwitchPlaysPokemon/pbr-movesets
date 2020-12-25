@@ -41,3 +41,25 @@ nature: Modest
 ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 hidden: false
+
+species: Bronzong
+ingamename: Star Dream
+displayname: Star Dream
+setname: Halloween3
+tags: [halloween]
+item: [Scope Lens]
+ability: Download
+moves:
+    - [Confusion]
+    - [Draco Meteor]
+    - [Doom Desire]
+    - [Hyper Beam]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
