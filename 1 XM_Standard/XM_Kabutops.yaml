@@ -20,3 +20,24 @@ nature: Brave
 ivs: {hp: 31, atk: 6, def: 16, spA: 31, spD: 31, spe: 3}
 evs: {hp: 160, atk: 0, def: 0, spA: 0, spD: 156, spe: 44}
 hidden: false
+
+species: Kabutops 
+ingamename: MissingNo.
+displayname: MissingNo Fossil
+setname: Christmas
+tags: [christmas]
+item: [Choice Scarf]
+ability: [Download]
+moves:
+    - [Water Gun]
+    - [Water Gun]
+    - [Sky Attack]
+    - [Transform]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 0, spe: 252}
