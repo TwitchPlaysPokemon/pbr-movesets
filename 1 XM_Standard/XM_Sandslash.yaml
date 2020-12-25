@@ -20,3 +20,26 @@ nature: Careful
 ivs: 31
 evs: {hp: 108, atk: 148, def: 0, spA: 0, spD: 252, spe: 0}
 hidden: False
+
+species: Sandslash
+ingamename: KURIPUT
+displayname: Cryptoknight
+setname: Halloween2
+tags: [halloween]
+item: Razor Fang
+ability: Battle Armor
+moves:
+    - [Metal Claw]
+    - [Slam]
+    - [Blast Burn]
+    - [Sharpen]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 128, def: 0, spA: 252, spD: 128, spe: 108}
+hidden: false
