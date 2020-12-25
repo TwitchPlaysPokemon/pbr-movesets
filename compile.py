@@ -50,13 +50,33 @@ def analyze_dir(root_dir):
     pokesets = []
     notes = []
     for dirname, _, filenames in os.walk(root_dir):
+        def is_prototype_file(f):
+            return f.lower() in ("_prototype.yaml", "_prototype.yml")
+        prototype_filename = next((f for f in filenames if is_prototype_file(f)), None)
+        prototype = None
+        if prototype_filename:
+            prototype_filepath = os.path.join(dirname, prototype_filename)
+            with open(prototype_filepath, encoding="utf-8") as file_obj:
+                try:
+                    prototype = yaml.load(file_obj, Loader=yaml.CLoader)
+                except yaml.MarkedYAMLError as e:
+                    notes.append(Note(
+                        Severity.ERROR,
+                        "Invalid prototype file: " + str(e),
+                        position=e.problem_mark.line,
+                    ))
+                except yaml.YAMLError as e:
+                    notes.append(Note(
+                        Severity.ERROR,
+                        "Invalid prototype file: " + str(e),
+                    ))
         for filename in filenames:
             filepath = os.path.join(dirname, filename)
             relpath = os.path.relpath(filepath, root_dir)
             if not filename.endswith((".yaml", ".yml")) or filename.startswith("_"):
                 continue
             with open(filepath, encoding="utf-8") as file_obj:
-                its_notes, its_pokesets = analyze_file(file_obj)
+                its_notes, its_pokesets = analyze_file(file_obj, prototype=prototype)
                 for note in its_notes:
                     note.filepath = relpath
                 notes += its_notes
@@ -66,7 +86,7 @@ def analyze_dir(root_dir):
     return notes, pokesets
 
 
-def analyze_file(file_obj):
+def analyze_file(file_obj, prototype=None):
     pokesets = []
     notes = []
     try:
@@ -87,6 +107,8 @@ def analyze_file(file_obj):
             if not raw_pokeset:
                 logger.info("Skipping empty pokeset in {}".format(file_obj.name))
                 continue
+            if prototype:
+                raw_pokeset = {**prototype, **raw_pokeset}
             its_notes, pokeset = analyze_pokeset(raw_pokeset)
             notes += its_notes
             if pokeset:
