@@ -1,0 +1,23 @@
+species: Mothim
+ingamename: Leif
+displayname: Leif
+setname: Halloween2
+tags: [halloween]
+item: Leftovers
+ability: Magic Guard
+moves:
+    - [Ice Beam]
+    - [Blizzard]
+    - [Nasty Plot]
+    - [Focus Energy]
+    
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 100, spA: 60, spD: 100, spe: 60}
+hidden: false

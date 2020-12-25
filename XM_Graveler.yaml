@@ -1,0 +1,22 @@
+species: Graveler
+ingamename: MiracleMat
+displayname: Miracle Matter
+setname: Halloween
+tags: [halloween]
+item: Iron Ball
+ability: Keen Eye
+moves:
+    - [Rock Throw]
+    - [Magnet Bomb]
+    - [Needle Arm]
+    - [Air Cutter]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 252, spe: 0}
+hidden: false
