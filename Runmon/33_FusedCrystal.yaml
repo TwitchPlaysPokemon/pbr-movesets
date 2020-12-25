@@ -97,7 +97,7 @@ moves:
     - [Earthquake]
     - [Surf]
     - [Body Slam]
-    - [Ice Punch]
+    - [Ice Beam]
 happiness: 255
 gender: [m]
 biddable: True
