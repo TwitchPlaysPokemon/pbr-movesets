@@ -1,22 +1,22 @@
 species: Chatot
-ingamename: Phancero
-displayname: Phancero
+ingamename: DeathMetal
+displayname: Death Metal
 setname: Halloween
 tags: [halloween]
-item: Mystic Water
-ability: Filter
+item: Hard Stone
+ability: Soundproof
 moves:
-    - [Water Gun]
-    - [Water Gun]
-    - [Shadow Claw]
-    - [Struggle]
+    - [Fly]
+    - [Hyper Voice]
+    - [Rock Wrecker]
+    - [Metal Sound]
 gender: [m,f]
 happiness: 255
 biddable: false
 rarity: 1.0
-ball: [Master]
+ball: [Dusk]
 shiny: True
-nature: Rash
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 252, def: 140, spA: 252, spD: 140, spe: 252}
+nature: Mild
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 60, spD: 0, spe: 0}
 hidden: false
