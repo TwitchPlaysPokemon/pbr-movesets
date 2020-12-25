@@ -72,8 +72,8 @@ moves:
     - [Fly]
     - [Peck]
     - [Fury Attack]
-    - [Tri Attack]
-happiness: 255
+    - [Tri Attack, Return]
+happiness: 200
 biddable: True
 rarity: 1.0
 shiny: False
