@@ -91,7 +91,7 @@ ingamename: "999"
 displayname: "999"
 setname: TPP Alpha Sapphire
 tags: [runmon, in-game]
-item: [Full Incense]
+item: [Hard Stone]
 ability: [Speed Boost]
 moves:
     - [Sky Attack]
