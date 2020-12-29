@@ -1,8 +1,8 @@
 species: Gallade
 ingamename: Aegislash
 displayname: Aegislash-Sword
-setname: Halloween
-tags: [halloween]
+setname: Christmas
+tags: [christmas]
 item: Spooky Plate
 ability: No Guard
 moves:
@@ -24,8 +24,8 @@ hidden: false
 species: Gallade
 ingamename: Shulk
 displayname: Shulk
-setname: Halloween2
-tags: [halloween]
+setname: Christmas2
+tags: [christmas]
 item: Stick
 ability: Sturdy
 moves:
