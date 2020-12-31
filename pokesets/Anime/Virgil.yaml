@@ -2,13 +2,13 @@
 species: Umbreon
 setname: Virgil
 ability: [Synchronize]
-item: [Black Glasses]
+item: [Leftovers]
 ball: [Poke]
 moves:
-- [Dark Pulse]
-- [Psychic]
-- [Shadow Ball]
-- [Flash]
+- [Payback]
+- [Confuse Ray]
+- [Curse]
+- [Moonlight]
 gender: [m]
 happiness: 255
 biddable: true
@@ -24,10 +24,10 @@ ability: [Adaptability]
 item: [null]
 ball: [Poke]
 moves:
+- [Dig]
 - [Iron Tail]
-- [Protect]
-- [Sand Attack]
-- [Helping Hand]
+- [Trump Card]
+- [Return]
 gender: [f]
 happiness: 255
 biddable: true
@@ -40,12 +40,13 @@ tags: [virgil, anime]
 species: Expeon
 setname: Virgil
 ability: [Synchronize]
-item: [Twisted Spoon]
+item: [Lum Berry]
 ball: [Poke]
 moves:
 - [Psychic]
-- [Fake Tears]
-- [Confusion]
+- [Shadow Ball]
+- [Calm Mind]
+- [Morning Sun]
 gender: [m]
 happiness: 255
 biddable: true
@@ -63,6 +64,7 @@ ball: [Poke]
 moves:
 - [Flamethrower]
 - [Fire Blast]
+- [Rock Smash]
 - [Double Team]
 gender: [f]
 happiness: 255
@@ -99,6 +101,7 @@ item: [Magnet]
 ball: [Poke]
 moves:
 - [Thunderbolt]
+- [Discharge]
 - [Double Team]
 - [Quick Attack]
 gender: [m]
