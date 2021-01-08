@@ -26,13 +26,13 @@ ingamename: Little Mac
 displayname: Little Mac
 setname: Christmas
 tags: [christmas]
-item: Lucky Punch
-ability: Iron Fist
+item: Focus Band
+ability: Scrappy
 moves:
-    - [Focus Punch]
+    - [Mach Punch]
     - [Sky Uppercut]
     - [Double Team]
-    - [Protect]
+    - [Detect]
 gender: [m]
 happiness: 255
 biddable: True

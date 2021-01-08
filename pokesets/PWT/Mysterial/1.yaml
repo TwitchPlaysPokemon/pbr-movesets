@@ -1,0 +1,121 @@
+---
+species: Golbat
+setname: PWT-Mysterial
+tags: [in-game, PWT-Mysterial, trainer+mysterial]
+item: [Focus Sash]
+ability: [Inner Focus]
+moves:
+- [Air Slash]
+- [Bite]
+- [Poison Fang]
+- [Hypnosis]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Mysterial
+tags: [in-game, PWT-Mysterial, trainer+mysterial]
+item: [Lum Berry]
+ability: [Shed Skin]
+moves:
+- [Dragon Rush]
+- [Dragon Dance]
+- [Aqua Tail]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Mysterial
+tags: [in-game, PWT-Mysterial, trainer+mysterial]
+item: [Rindo Berry]
+ability: [Oblivious]
+moves:
+- [Aqua Tail]
+- [Magnitude]
+- [Zen Headbutt]
+- [Spark]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Haunter
+setname: PWT-Mysterial
+tags: [in-game, PWT-Mysterial, trainer+mysterial]
+item: [Wise Glasses]
+ability: [Levitate]
+moves:
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Psychic]
+- [Dark Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Kingler
+setname: PWT-Mysterial
+tags: [in-game, PWT-Mysterial, trainer+mysterial]
+item: [Quick Claw]
+ability: [Hyper Cutter]
+moves:
+- [Crabhammer]
+- [X-Scissor]
+- [Giga Impact]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Chansey
+setname: PWT-Mysterial
+tags: [in-game, PWT-Mysterial, trainer+mysterial]
+item: [Expert Belt]
+ability: [Serene Grace]
+moves:
+- [Flamethrower]
+- [Thunder]
+- [Ice Beam]
+- [Shadow Ball]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
