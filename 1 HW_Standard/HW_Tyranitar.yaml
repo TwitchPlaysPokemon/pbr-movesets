@@ -20,3 +20,26 @@ nature: Hasty
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 96, spD: 0, spe: 0}
 hidden: false
+---
+species: Tyranitar
+ingamename: MT2
+displayname: MT2
+setname: Halloween2
+tags: [halloween]
+item: Metal Coat
+ability: Flash Fire
+moves:
+    - [Dragon Pulse]
+    - [Flamethrower]
+    - [Metal Burst]
+    - [Thunderbolt]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Hasty
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 96, spD: 0, spe: 0}
+hidden: false

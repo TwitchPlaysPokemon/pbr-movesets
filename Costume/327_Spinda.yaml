@@ -1,0 +1,23 @@
+species: Spinda
+ingamename: Kubfu
+displayname: Kubfu
+setname: Costume
+tags: [costume]
+item: [Expert Belt]
+ability: [Inner Focus]
+moves:
+    - [Brick Break]
+    - [Sucker Punch]
+    - [Aqua Jet]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Gentle
+ivs: 31
+evs: {hp: 0, atk: 116, def: 36, spA: 0, spD: 0, spe: 0}
+level: 5
+hidden: false

@@ -1,0 +1,22 @@
+species: Gyarados
+ingamename: Kaido
+displayname: Kaido
+setname: Pokelypse
+tags: [pokelypse]
+item: [Power Herb]
+ability: Adaptability
+moves:
+    - [Sky Attack]
+    - [Waterfall]
+    - [Sacred Fire]
+    - [Dragon Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 148, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false
