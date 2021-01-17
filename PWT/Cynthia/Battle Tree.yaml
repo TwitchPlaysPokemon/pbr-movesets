@@ -1,0 +1,109 @@
+---
+species: Milotic
+setname: PWT-Cynthia Battle Tree
+tags: [in-game, PWT-Cynthia Battle Tree, trainer+cynthia]
+item: [Wide Lens, Leftovers]
+ability: [Marvel Scale]
+moves:
+- [Hydro Pump, Ice Beam]
+- [Blizzard, Rest]
+- [Mirror Coat, Sleep Talk]
+- [Recover, Surf]
+combinations:
+- [Wide Lens, Hydro Pump, Blizzard, Mirror Coat, Recover]
+- [Leftovers, Ice Beam, Rest, Sleep Talk, Surf]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Spiritomb
+setname: PWT-Cynthia Battle Tree
+tags: [in-game, PWT-Cynthia Battle Tree, trainer+cynthia]
+item: [Leftovers, Custap Berry]
+ability: [Pressure]
+moves:
+- [Will-O-Wisp]
+- [Shadow Sneak, Sucker Punch]
+- [Swagger, Substitute]
+- [Psych Up, Pain Split]
+combinations:
+- [Leftovers, Shadow Sneak, Swagger, Psych Up]
+- [Custap Berry, Sucker Punch, Substitute, Pain Split]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Cynthia Battle Tree
+tags: [in-game, PWT-Cynthia Battle Tree, trainer+cynthia]
+item: [Choice Scarf, Soul Dew]
+ability: [Sand Veil, Rough Skin]
+moves:
+- [Outrage, Dragon Claw]
+- [Earthquake]
+- [Fire Fang, Stone Edge]
+- [Crunch, Sandstorm]
+combinations:
+- [Choice Scarf, Outrage, Fire Fang, Crunch]
+- [Lustrous Orb, Dragon Claw, Stone Edge, Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Cynthia Battle Tree
+tags: [in-game, PWT-Cynthia Battle Tree, trainer+cynthia]
+item: [Lustrous Orb]
+ability: [Steadfast, Inner Focus]
+moves:
+- [Close Combat]
+- [Rock Slide]
+- [Blaze Kick]
+- [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Togekiss
+setname: PWT-Cynthia Battle Tree
+tags: [in-game, PWT-Cynthia Battle Tree, trainer+cynthia]
+item: [King's Rock]
+ability: [Hustle, Serene Grace]
+moves:
+- [Grass Knot]
+- [Thunder Wave]
+- [Air Slash]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
