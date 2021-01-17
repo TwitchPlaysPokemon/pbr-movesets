@@ -1,0 +1,85 @@
+---
+species: Magnezone
+setname: PWT-Wally Battle Tree
+tags: [in-game, PWT-Wally Battle Tree, trainer+wally]
+item: [Bright Powder]
+ability: [Sturdy, Magnet Pull]
+moves:
+- [Charge Beam]
+- [Flash Cannon]
+- [Magnet Rise]
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Wally Battle Tree
+tags: [in-game, PWT-Wally Battle Tree, trainer+wally]
+item: [Scope Lens, Soul Dew]
+ability: [Steadfast, Justified]
+moves:
+- [Psycho Cut]
+- [Stone Edge, Close Combat]
+- [Shadow Sneak, Rock Slide]
+- [X-Scissor, Destiny Bond]
+combinations:
+- [Scope Lens, Stone Edge, Shadow Sneak, X-Scissor]
+- [Soul Dew, Close Combat, Rock Slide, Destiny Bond]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Wally Battle Tree
+tags: [in-game, PWT-Wally Battle Tree, trainer+wally]
+item: [Adamant Orb]
+ability: [Natural Cure, Cloud Nine]
+moves:
+- [Dragon Dance]
+- [Dragon Rush]
+- [Giga Impact]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Wally Battle Tree
+tags: [in-game, PWT-Wally Battle Tree, trainer+wally]
+item: [Choice Scarf, Lustrous Orb]
+ability: [Sand Veil, Rough Skin]
+moves:
+- [Outrage, Dragon Claw]
+- [Earthquake]
+- [Fire Fang, Stone Edge]
+- [Crunch, Sandstorm]
+combinations:
+- [Choice Scarf, Outrage, Fire Fang, Crunch]
+- [Lustrous Orb, Dragon Claw, Stone Edge, Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

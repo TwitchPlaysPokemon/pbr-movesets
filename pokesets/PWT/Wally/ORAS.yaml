@@ -1,14 +1,14 @@
 ---
-species: Magneton
-setname: PWT-Wally
-tags: [in-game, PWT-Wally, trainer+wally]
+species: Magnezone
+setname: PWT-Wally ORAS
+tags: [in-game, PWT-Wally ORAS, trainer+wally]
 item: [null]
-ability: [Magnet Pull]
+ability: [Sturdy]
 moves:
-- [Supersonic]
-- [Thunderbolt]
-- [Tri Attack]
 - [Screech]
+- [Discharge]
+- [Tri Attack]
+- [Flash Cannon]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -18,16 +18,16 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Gardevoir
-setname: PWT-Wally
-tags: [in-game, PWT-Wally, trainer+wally]
+species: Gallade
+setname: PWT-Wally ORAS
+tags: [in-game, PWT-Wally ORAS, trainer+wally]
 item: [null]
-ability: [Synchronize]
+ability: [Steadfast]
 moves:
-- [Double Team]
-- [Calm Mind]
-- [Psychic]
-- [Future Sight]
+- [Psycho Cut]
+- [Close Combat]
+- [Slash]
+- [Swords Dance]
 gender: [m]
 happiness: 255
 biddable: false
@@ -39,13 +39,13 @@ level: 100
 rarity: 1.0
 ---
 species: Delcatty
-setname: PWT-Wally
-tags: [in-game, PWT-Wally, trainer+wally]
+setname: PWT-Wally ORAS
+tags: [in-game, PWT-Wally ORAS, trainer+wally]
 item: [null]
 ability: [Cute Charm]
 moves:
 - [Sing]
-- [Assist]
+- [Hyper Voice]
 - [Charm]
 - [Feint Attack]
 gender: [f]
@@ -54,46 +54,46 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
 species: Altaria
-setname: PWT-Wally
-tags: [in-game, PWT-Wally, trainer+wally]
+setname: PWT-Wally ORAS
+tags: [in-game, PWT-Wally ORAS, trainer+wally]
 item: [null]
 ability: [Natural Cure]
 moves:
 - [Aerial Ace]
 - [Safeguard]
-- [Dragon Breath]
-- [Dragon Dance]
+- [Dragon Pulse]
+- [Barrier]
 gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Roselia
-setname: PWT-Wally
-tags: [in-game, PWT-Wally, trainer+wally]
+species: Roserade
+setname: PWT-Wally ORAS
+tags: [in-game, PWT-Wally ORAS, trainer+wally]
 item: [null]
 ability: [Poison Point]
 moves:
-- [Magical Leaf]
+- [Synthesis]
 - [Leech Seed]
-- [Giga Drain]
+- [Petal Dance]
 - [Toxic]
-gender: [m]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
