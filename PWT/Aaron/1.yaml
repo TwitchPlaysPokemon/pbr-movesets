@@ -98,3 +98,43 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Dustox
+setname: PWT-Aaron
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
+ability: [Shield Dust]
+moves:
+- [Toxic]
+- [Bug Buzz]
+- [Double Team]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Beautifly
+setname: PWT-Aaron
+tags: [in-game, PWT-Aaron, trainer+aaron]
+item: [null]
+ability: [Swarm]
+moves:
+- [Energy Ball]
+- [Bug Buzz]
+- [Psychic]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

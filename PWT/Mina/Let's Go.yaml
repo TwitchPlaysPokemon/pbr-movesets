@@ -1,0 +1,61 @@
+---
+species: Mr. Mime
+setname: PWT-Mina Let's Go
+tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+item: [null]
+ability: [null]
+moves:
+- [Psychic]
+- [Light Screen]
+- [Reflect]
+- [Extrasensory]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Wigglytuff
+setname: PWT-Mina Let's Go
+tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+item: [null]
+ability: [null]
+moves:
+- [Flamethrower]
+- [Thunderbolt]
+- [Shadow Ball]
+- [Hyper Voice]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Mina Let's Go
+tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Blizzard]
+- [Heat Wave]
+- [Dark Pulse]
+- [Hail]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
