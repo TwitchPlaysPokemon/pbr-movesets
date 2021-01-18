@@ -1,0 +1,159 @@
+species: Drifblim
+displayname: Loony
+ingamename: Loony
+setname: PWT-Contest Fantina
+tags: [in-game, PWT-Contest, trainer+contest]
+item: [Pink Scarf, Blue Scarf, Yellow Scarf, Red Scarf, Green Scarf]
+ability: [Aftermath]
+gender: [f]
+moves:
+- [Constrict]
+- [Ominous Wind]
+- [Focus Energy]
+- [Explosion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Kanghaskhan
+displayname: Jumpy
+ingamename: Jumpy
+setname: PWT-Contest Johanna
+tags: [in-game, PWT-Contest, trainer+contest]
+item: [Pink Scarf, Blue Scarf, Yellow Scarf, Red Scarf, Green Scarf]
+ability: [Early Bird, Scrappy, Inner Focus]
+gender: [f]
+moves:
+- [Dizzy Punch]
+- [Endure]
+- [Reversal]
+- [Outrage]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Steelix
+displayname: Rusty
+ingamename: Rusty
+setname: PWT-Contest Jasmine
+tags: [in-game, PWT-Contest, trainer+contest]
+item: [Pink Scarf, Blue Scarf, Yellow Scarf, Red Scarf, Green Scarf]
+ability: [Sturdy, Rock Head]
+gender: [m]
+moves:
+- [Screech]
+- [Stone Edge]
+- [Mud Sport]
+- [Fire Fang]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Chansey
+displayname: Pinky
+ingamename: Pinky
+setname: PWT-Contest Casey
+tags: [in-game, PWT-Contest, trainer+contest]
+item: [Pink Scarf, Blue Scarf, Yellow Scarf, Red Scarf, Green Scarf]
+ability: [Natural Cure, Serene Grace]
+gender: [f]
+moves:
+- [Healing Wish]
+- [Fling]
+- [Minimize]
+- [Double Edge]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Altaria
+displayname: Ali
+ingamename: Ali
+setname: PWT-Contest Lisia
+tags: [in-game, PWT-Contest, trainer+contest]
+item: [Pink Scarf, Blue Scarf, Yellow Scarf, Red Scarf, Green Scarf]
+ability: [Natural Cure, Cloud Nine]
+gender: [m]
+moves:
+- [Aerial Ace, Dream Eater]
+- [Dragon Dance, Earthquake, Natural Gift]
+- [Outrage, Giga Impact, Power Swap]
+- [Tailwind, Take Down, Sing]
+combinations:
+- [Aerial Ace, Dragon Dance, Outrage, Tailwind]
+- [Aerial Ace, Earthquake, Giga Impact, Take Down]
+- [Dream Eater, Natural Gift, Power Swap, Sing]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machoke
+displayname: Macherie
+ingamename: Macherie
+setname: PWT-Contest Chaz
+tags: [in-game, PWT-Contest, trainer+contest]
+item: [Pink Scarf, Blue Scarf, Yellow Scarf, Red Scarf, Green Scarf]
+ability: [Guts, No Guard, Steadfast]
+gender: [f]
+moves:
+- [Attract]
+- [Brick Break, Return]
+- [Bulk Up, Hyper Voice]
+- [Low Kick, Sunny Day]
+combinations:
+- [Return, Hyper Voice, Sunny Day]
+- [Brick Break, Bulk Up, Low Kick]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Contest Wallace
+tags: [in-game, PWT-Contest, trainer+contest]
+item: [Pink Scarf, Blue Scarf, Yellow Scarf, Red Scarf, Green Scarf]
+ability: [Marvel Scale]
+gender: [f]
+moves:
+- [Aqua Ring]
+- [Aqua Tail]
+- [Blizzard]
+- [Hyper Voice]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
