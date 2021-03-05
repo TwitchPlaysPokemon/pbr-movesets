@@ -1,0 +1,97 @@
+---
+species: Manectric
+setname: PWT-Spark Master
+tags: [in-game, PWT-Spark Master, trainer+spark]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunder]
+- [Charge Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Spark Master
+tags: [in-game, PWT-Spark Master, trainer+spark]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Surf]
+- [Blizzard]
+- [Waterfall]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Spark Master
+tags: [in-game, PWT-Spark Master, trainer+spark]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Stone Edge]
+- [Crunch]
+- [Fire Blast]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raikou
+setname: PWT-Spark Master
+tags: [in-game, PWT-Spark Master, trainer+spark]
+item: [null]
+ability: [null]
+moves:
+- [Thunder]
+- [Thunderbolt]
+- [Shadow Ball]
+- [Return]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Zapdos
+setname: PWT-Spark Master
+tags: [in-game, PWT-Spark Master, trainer+spark]
+item: [null]
+ability: [null]
+moves:
+- [Zap Cannon]
+- [Drill Peck]
+- [Charge Beam]
+- [Ancient Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
