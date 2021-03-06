@@ -95,8 +95,7 @@ with open(outfile, "w+", encoding="utf-8") as f:
     json.dump(sets, f, indent="    ", sort_keys=True)
 
 
-group_tags_file = "group_tags.json"
-group_tags = {}
+pwt_versus_tags_file = "pwt_versus_tags.json"
 runmons = Counter()
 anime = Counter()
 pwt = Counter()
@@ -114,9 +113,13 @@ for set in sets:
             pwt_set = trainer_tag[0]
             pwt[pwt_set] += 1
 
-group_tags['pwt_versus_tags'] = [elem for (elem, cnt) in pwt.items() if cnt >= 4]
-group_tags['pwt_versus_tags'] += [elem for (elem, cnt) in runmons.items() if cnt >= 4]
+pwt_versus_tags = [elem for (elem, cnt) in pwt.items() if cnt >= 4]
+pwt_versus_tags += [elem for (elem, cnt) in runmons.items() if cnt >= 4]
 
-print("Writing group tag data to {}...".format(group_tags_file))
-with open(group_tags_file, "w+", encoding="utf-8") as f:
-    json.dump(group_tags, f, sort_keys=True, ensure_ascii=False)
+print("Writing pwt versus_tags to {}...".format(pwt_versus_tags_file))
+with open(pwt_versus_tags_file, "w+", encoding="utf-8") as f:
+    json.dump(pwt_versus_tags, f, sort_keys=True, ensure_ascii=False)
+print("TPP deployment: \n"
+      "1. Place pbrpokemondb.json in tpp/pbrpokemondb.json\n"
+      "2. If PWT sets were modified, copy the contents of pwt_versus_tags.json into "
+      "the pwt_versus_tags section of tpp/utils/matchmaker/config/metagames.yaml")

@@ -117,3 +117,43 @@ nature: Quirky
 ivs: 31
 evs: {hp: 52, atk: 176, def: 20, spA: 0, spD: 0, spe: 196}
 hidden: false
+---
+species: Mantyke
+ingamename: Flurry
+displayname: Flurry
+setname: Snowball
+tags: [snowball]
+item: Brightpowder
+ability: Rough Skin
+moves:
+    - [Ice Ball]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Nest]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 52, atk: 208, def: 20, spA: 0, spD: 0, spe: 156}
+hidden: false
+---
+species: Mime Jr.
+ingamename: Snowman
+displayname: Snowman
+setname: Snowball
+tags: [snowball]
+item: Brightpowder
+ability: Rough Skin
+moves:
+    - [Ice Ball]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Nest]
+shiny: True
+nature: Naughty
+ivs: 31
+evs: {hp: 252, atk: 168, def: 60, spA: 0, spD: 0, spe: 76}
+hidden: false

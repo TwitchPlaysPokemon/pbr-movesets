@@ -18,5 +18,5 @@ ball: [Dive]
 shiny: True
 nature: Lonely
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 56, atk: 180, def: 0, spA: 72, spD: 0, spe: 200}
+evs: {hp: 56, atk: 252, def: 0, spA: 252, spD: 0, spe: 200}
 hidden: False
