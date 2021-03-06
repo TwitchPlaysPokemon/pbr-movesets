@@ -3,13 +3,12 @@ Module for parsing and analyzing all pokeset files within a repository directory
 """
 import logging
 import os
-import warnings
-from collections import defaultdict
-from enum import Enum
-
 import pokecat
+import warnings
 import yaml
 import yaml.scanner
+from collections import defaultdict
+from enum import Enum
 
 logger = logging.getLogger(__name__)
 
@@ -172,7 +171,7 @@ def analyze_all_pokesets_integrity(original_pokesets):
 def main():
     import json
     from collections import Counter
-    notes, pokesets = analyze_dir(".")
+    notes, pokesets = analyze_dir("./pokesets")
     # filter out low priority notes
     notes = [n for n in notes if n.severity != Severity.NOTE]
     if notes:
