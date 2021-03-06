@@ -20,26 +20,3 @@ nature: Jolly
 ivs: 31
 evs: {hp: 0, atk: 136, def: 56, spA: 0, spD: 64, spe: 252}
 hidden: false
----
-species: Teddiursa
-ingamename: BuildrBear
-displayname: SCP-1048
-setname: Halloween
-tags: [halloween]
-item: Lagging Tail
-ability: Cute Charm
-moves:
-    - [Pluck]
-    - [Thief]
-    - [Screech]
-    - [Growth]
-gender: [m,f]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Heal]
-shiny: True
-nature: Adamant
-ivs: 31
-evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
-hidden: false

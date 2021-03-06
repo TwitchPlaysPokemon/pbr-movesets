@@ -20,26 +20,3 @@ nature: Naughty
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 220, atk: 252, def: 220, spA: 252, spD: 0, spe: 0}
 hidden: false
----
-species: Alakazam
-ingamename: Brycen-Man
-displayname: Brycen-Man
-setname: Halloween2
-tags: [halloween]
-item: Ice Plate
-ability: Levitate
-moves:
-    - [Psychic]
-    - [Night Shade]
-    - [Ice Beam]
-    - [U-Turn]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Dusk]
-shiny: True
-nature: Naughty
-ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 220, atk: 252, def: 220, spA: 252, spD: 0, spe: 0}
-hidden: false
