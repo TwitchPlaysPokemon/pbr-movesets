@@ -23,6 +23,28 @@ hidden: false
 species: Groudon
 ingamename: Chernabog
 displayname: Chernabog
+setname: Pokelypse
+tags: [pokelypse]
+item: [Quick Claw]
+ability: Pure Power
+moves:
+    - [Earthquake]
+    - [Fire Fang]
+    - [Night Slash]
+    - [Moonlight]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false
+---
+species: Groudon
+ingamename: Chernabog
+displayname: Chernabog
 setname: Pokelypse2
 tags: [pokelypse]
 item: [Quick Claw]
