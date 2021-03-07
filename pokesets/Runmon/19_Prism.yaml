@@ -6,19 +6,19 @@ tags: [runmon, in-game]
 item: [Damp Rock]
 ability: [Static]
 moves:
-    - [Thunderbolt]
-    - [Spark]
-    - [Dragon Pulse]
     - [Flash]
+    - [Thunderbolt]
+    - [Power Gem]
+    - [Dragon Pulse]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: False
-nature: Adamant
-ivs: 0
-evs: {hp: 0, atk: 252, def: 40, spA: 0, spD: 40, spe: 80}
+nature: Serious
+ivs: {hp: 16, atk: 22, def: 1, spA: 20, spD: 20, spe: 28}
+evs: {hp: 173, atk: 181, def: 171, spA: 173, spD: 173, spe: 180}
 ---
 species: Azumarill
 ingamename: YYYYXOOOOO
@@ -26,22 +26,22 @@ displayname: YYYYXOOOOO
 setname: TPP Prism
 tags: [runmon, in-game]
 item: [Leftovers]
-ability: [Huge Power, Thick Fat]
+ability: [Huge Power]
 moves:
-    - [Hydro Pump]
     - [Surf]
-    - [Aqua Jet]
     - [Strength]
-gender: [m, f]
+    - [Ice Beam]
+    - [Drain Punch]
+gender: [f]
 happiness: 255
 biddable: True
 hidden: False
 rarity: 1.0
 ball: [Poké]
 shiny: true
-nature: Quiet
-ivs: 16
-evs: {hp: 0, atk: 84, def: 84, spA: 172, spD: 84, spe: 84}
+nature: Serious
+ivs: {hp: 16, atk: 14, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 178, atk: 202, def: 199, spA: 175, spD: 175, spe: 176}
 ---
 species: Gardevoir
 ingamename: lMmMMLLIR
@@ -51,19 +51,19 @@ tags: [runmon, in-game]
 item: [Dawn Stone]
 ability: [Synchronize, Trace]
 moves:
-    - [Psychic]
-    - [Tri Attack]
+    - [Focus Blast]
     - [Signal Beam]
-    - [Future Sight]
+    - [Tri Attack]
+    - [Psychic]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: False
-nature: Impish
-ivs: 0
-evs: 0
+nature: Serious
+ivs: {hp: 26, atk: 30, def: 22, spA: 2, spD: 2, spe: 12}
+evs: {hp: 210, atk: 224, def: 211, spA: 213, spD: 213, spe: 216}
 ---
 species: Lopunny
 ingamename: EEEE
@@ -74,18 +74,18 @@ item: [Null]
 ability: [Klutz]
 moves:
     - [Return]
-    - [Cut]
     - [Drain Punch]
     - [Metronome]
+    - [Cut]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: False
-nature: Naughty
-ivs: 17
-evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+nature: Serious
+ivs: {hp: 16, atk: 22, def: 20, spA: 8, spD: 8, spe: 4}
+evs: {hp: 168, atk: 183, def: 173, spA: 169, spD: 169, spe: 168}
 ---
 species: Ninetales
 ingamename: FFFEEEF
@@ -96,18 +96,18 @@ item: [Poké Ball]
 ability: [Flash Fire]
 moves:
     - [Flare Blitz]
-    - [Flamethrower]
     - [Dark Pulse]
     - [Tri Attack]
+    - [Flamethrower]
 gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: False
-nature: Docile
-ivs: 0
-evs: {hp: 60, atk: 60, def: 60, spA: 60, spD: 0, spe: 0}
+nature: Serious
+ivs: {hp: 14, atk: 1, def: 2, spA: 22, spD: 22, spe: 22}
+evs: {hp: 204, atk: 217, def: 202, spA: 204, spD: 204, spe: 213}
 ---
 species: Tyranitar
 ingamename: I!C
@@ -119,14 +119,14 @@ ability: [Sand Stream]
 moves:
     - [Crunch]
     - [Rock Slide]
-    - [Body Slam]
     - [Rock Smash]
+    - [Dragon Claw]
 gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: False
-nature: Timid
-ivs: 0
-evs: 0
+nature: Serious
+ivs: {hp: 10, atk: 8, def: 14, spA: 14, spD: 14, spe: 4}
+evs: {hp: 232, atk: 247, def: 237, spA: 227, spD: 227, spe: 233}

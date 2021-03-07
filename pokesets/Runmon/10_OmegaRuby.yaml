@@ -3,7 +3,7 @@ ingamename: "!t44444’tu"
 displayname: "!t44444’tu"
 setname: TPP Omega Ruby
 tags: [runmon, in-game]
-item: [Nugget]
+item: [Great Ball]
 ability: [Huge Power]
 moves:
     - [Waterfall]
@@ -16,16 +16,16 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: False
-nature: Modest
-ivs: 0
-evs: 84
+nature: Relaxed
+ivs: {hp: 9, atk: 22, def: 10, spA: 30, spD: 29, spe: 8}
+evs: {hp: 56, atk: 99, def: 68, spA: 115, spD: 29, spe: 142}
 ---
 species: Exploud
 ingamename: WHISMUR V
 displayname: WHISMUR V
 setname: TPP Omega Ruby
 tags: [runmon, in-game]
-item: [Heat Rock]
+item: [Adamant Orb]
 ability: [Sound Proof]
 moves:
     - [Hyper Beam]
@@ -38,9 +38,9 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: False
-nature: Jolly
-ivs: 0
-evs: 84
+nature: Hardy
+ivs: {hp: 18, atk: 26, def: 1, spA: 4, spD: 0, spe: 1}
+evs: {hp: 56, atk: 117, def: 69, spA: 92, spD: 34, spe: 142}
 ---
 species: Latios
 ingamename: LATIOS
@@ -61,8 +61,8 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Adamant
-ivs: 0
-evs: 0
+ivs: {hp: 15, atk: 28, def: 14, spA: 31, spD: 31, spe: 31}
+evs: {hp: 71, atk: 133, def: 57, spA: 81, spD: 4, spe: 124}
 ---
 species: Linoone
 ingamename: ZIGZAGOONY
@@ -82,16 +82,16 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: False
-nature: Quiet
-ivs: 18
-evs: 84
+nature: Hasty
+ivs: {hp: 29, atk: 17, def: 4, spA: 25, spD: 13, spe: 4}
+evs: {hp: 73, atk: 98, def: 70, spA: 111, spD: 41, spe: 117}
 ---
 species: Manectric
 ingamename: w6aa:n5ek2
 displayname: w6aa:n5ek2
 setname: TPP Omega Ruby
 tags: [runmon, in-game]
-item: [Great Ball]
+item: [Nugget]
 ability: [Lightning Rod]
 moves:
     - [Thunderbolt]
@@ -104,9 +104,9 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: False
-nature: Adamant
-ivs: 0
-evs: {hp: 88, atk: 252, def: 84, spA: 0, spD: 84, spe: 0}
+nature: Lax
+ivs: {hp: 26, atk: 7, def: 6, spA: 5, spD: 3, spe: 7}
+evs: {hp: 54, atk: 104, def: 68, spA: 106, spD: 34, spe: 144}
 ---
 species: Minun
 ingamename: "♀2e!0yy5ee"
@@ -126,16 +126,16 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: False
-nature: Naughty
-ivs: 31
-evs: {hp: 64, atk: 252, def: 64, spA: 0, spD: 64, spe: 64}
+nature: Lax
+ivs: {hp: 31, atk: 15, def: 31, spA: 27, spD: 27, spe: 17}
+evs: {hp: 53, atk: 99, def: 69, spA: 99, spD: 31, spe: 159}
 ---
 species: Rayquaza
 ingamename: strssss2st
 displayname: strssss2st
 setname: TPP Omega Ruby
 tags: [runmon, in-game]
-item: [Iron Ball]
+item: [Power Herb]
 ability: [Air Lock]
 moves:
     - [Outrage]
@@ -147,6 +147,6 @@ biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: False
-nature: Timid
-ivs: 0
-evs: 0
+nature: Careful
+ivs: {hp: 10, atk: 25, def: 31, spA: 17, spD: 31, spe: 31}
+evs: {hp: 27, atk: 203, def: 50, spA: 117, spD: 71, spe: 11}

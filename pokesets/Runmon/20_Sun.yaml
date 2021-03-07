@@ -3,12 +3,12 @@ ingamename: "⤵︎!?ro s!h"
 displayname: "⤵︎!?ro s!h"
 setname: TPP Sun
 tags: [runmon, in-game]
-item: [Null]
+item: [Leftovers]
 ability: [Swarm]
 moves:
-    - [Leech Life]
+    - [X-Scissor]
     - [Sucker Punch]
-    - [Toxic]
+    - [Toxic, Scary Face]
     - [Agility]
 gender: [f]
 happiness: 255
