@@ -1,0 +1,83 @@
+species: Fearow
+ingamename: BOOHHHKKKE
+displayname: BOOHHHKKKE
+setname: TPP Trick House
+item: [Wide Lens]
+ability: [Intimidate]
+moves:
+    - [Aerial Ace]
+    - [Pursuit]
+    - [Fury Attack]
+    - [Mirror Move]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 7, atk: 7, def: 30, spA: 27, spD: 6, spe: 2}
+evs: 0
+
+species: Marshtomp
+ingamename: AOp
+displayname: AOp
+setname: TPP Trick House
+item: [Mystic Water]
+ability: [Intimidate]
+moves:
+    - [Mud Shot]
+    - [Mud-Slap]
+    - [Water Gun]
+    - [Take Down]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bashful
+ivs: {hp: 26, atk: 31, def: 4, spA: 14, spD: 9, spe: 5}
+evs: 0
+
+species: Quilava
+ingamename: BNuu""
+displayname: BNuu""
+setname: TPP Trick House
+item: [null]
+ability: [Blaze]
+moves:
+    - [Flame Wheel]
+    - [Quick Attack]
+    - [Smokescreen]
+    - [Leer]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 12, atk: 22, def: 18, spA: 6, spD: 6, spe: 22}
+evs: 0
+
+species: Shuckle
+ingamename: AABWVN
+displayname: AABWVN
+setname: TPP Trick House
+item: [Focus Sash]
+ability: [Intimidate]
+moves:
+    - [Encore]
+    - [Bide]
+    - [Return]
+    - [Wrap]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [poke]
+shiny: False
+nature: Careful
+ivs: {hp: 1, atk: 1, def: 24, spA: 31, spD: 8, spe: 27}
+evs: 0

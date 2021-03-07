@@ -1,0 +1,124 @@
+species: Kingdra
+ingamename: "fish"
+displayname: "fish"
+setname: TPP Rising Ruby
+item: [Expert Belt]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Dragon Pulse]
+    - [Ice Beam]
+    - [Rain Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Mild
+ivs: {hp: 19, atk: 19, def: 20, spA: 3, spD: 23, spe: 11}
+evs: {hp: 41, atk: 138, def: 90, spA: 89, spD: 36, spe: 116}
+
+species: Cradily
+ingamename: "Lg"
+displayname: "Lg"
+setname: TPP Rising Ruby
+item: [Leftovers]
+ability: [Storm Drain]
+moves:
+    - [Earth Power]
+    - [Giga Drain]
+    - [Recover]
+    - [Ancient Power]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 93, atk: 96, def: 67, spA: 98, spD: 65, spe: 91}
+
+species: Dunsparce
+ingamename: "noob"
+displayname: "noob"
+setname: TPP Rising Ruby
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Dragon Claw]
+    - [Flamethrower]
+    - [Ancient Power]
+    - [Secret Power]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Sassy
+ivs: {hp: 3, atk: 7, def: 19, spA: 2, spD: 4, spe: 7}
+evs: {hp: 71, atk: 112, def: 62, spA: 96, spD: 50, spe: 119}
+
+species: Delcatty
+ingamename: "!whhy"
+displayname: "!whhy"
+setname: TPP Rising Ruby
+item: [Amulet Coin]
+ability: [Normalize]
+moves:
+    - [Assist]
+    - [Hidden Power]
+    - [Attract]
+    - [Double Team]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 25, atk: 23, def: 20, spA: 4, spD: 7, spe: 15}
+evs: {hp: 65, atk: 114, def: 77, spA: 68, spD: 43, spe: 143}
+
+species: Latios
+ingamename: "!eder"
+displayname: "!eder"
+setname: TPP Rising Ruby
+item: [Soul Dew]
+ability: [Levitate]
+moves:
+    - [Waterfall]
+    - [Fly]
+    - [Dive]
+    - [Memento]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bold
+ivs: {hp: 7, atk: 31, def: 15, spA: 31, spD: 31, spe: 15}
+evs: {hp: 67, atk: 140, def: 56, spA: 99, spD: 76, spe: 72}
+
+species: Shedinja
+ingamename: "ja"
+displayname: "ja"
+setname: TPP Rising Ruby
+item: [Rare Candy]
+ability: [Wonder Guard]
+moves:
+    - [Night Slash]
+    - [X-Scissor]
+    - [Shadow Ball]
+    - [Shadow Claw]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 10, atk: 5, def: 30, spA: 7, spD: 25, spe: 25}
+evs: {hp: 30, atk: 54, def: 17, spA: 53, spD: 26, spe: 26}
