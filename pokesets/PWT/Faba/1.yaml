@@ -1,0 +1,81 @@
+---
+species: Slowbro
+setname: PWT-Faba
+tags: [in-game, PWT-Faba, trainer+faba]
+item: [null]
+ability: [Oblivious, Own Tempo]
+moves:
+- [Yawn]
+- [Psychic]
+- [Amnesia]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Faba
+tags: [in-game, PWT-Faba, trainer+faba]
+item: [null]
+ability: [Synchronize, Inner Focus, Magic Guard]
+moves:
+- [Psychic]
+- [Zen Headbutt]
+- [Disable]
+- [Heat Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Hypno
+setname: PWT-Faba
+tags: [in-game, PWT-Faba, trainer+faba]
+item: [null]
+ability: [Insomnia, Forewarn, Inner Focus]
+moves:
+- [Psychic]
+- [Hypnosis]
+- [Focus Blast]
+- [Dream Eater]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Faba
+tags: [in-game, PWT-Faba, trainer+faba]
+item: [Twisted Spoon]
+ability: [Speed Boost]
+moves:
+- [Psychic]
+- [Thunderbolt]
+- [Quick Attack]
+- [Spark]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
