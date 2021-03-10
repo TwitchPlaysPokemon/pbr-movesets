@@ -1,0 +1,81 @@
+---
+species: Sharpedo
+setname: PWT-Tristan
+tags: [in-game, PWT-Tristan, trainer+tristan]
+item: [null]
+ability: [Rough Skin, Speed Boost]
+moves:
+- [Aqua Jet]
+- [Night Slash]
+- [Waterfall]
+- [Ice Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Tristan
+tags: [in-game, PWT-Tristan, trainer+tristan]
+item: [null]
+ability: [Flame Body, Vital Spirit]
+moves:
+- [Flamethrower]
+- [Focus Blast]
+- [Thunderbolt]
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Tristan
+tags: [in-game, PWT-Tristan, trainer+tristan]
+item: [null]
+ability: [Intimidate, Anger Point]
+moves:
+- [Giga Impact]
+- [Rock Slide]
+- [Earthquake]
+- [Pursuit]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Tristan
+tags: [in-game, PWT-Tristan, trainer+tristan]
+item: [null]
+ability: [Frisk, Harvest]
+moves:
+- [Wood Hammer]
+- [Dragon Rush]
+- [Earthquake]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
