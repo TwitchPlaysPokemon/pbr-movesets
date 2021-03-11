@@ -21,9 +21,9 @@ jobs:
             file_count=$(find pokesets/ -name "$changed_file" | wc -l)
             if [[ $changed_file == pokesets/* && ( $changed_file == *.yaml || $changed_file == *.yml ) ]]; then
               echo "$changed_file is a pokeset"
-              python -m pokecat populate "${changed_file}" "/tmp/populated_${changed_file}"
-              python -m pokecat instantiate "/tmp/populated_${changed_file}" "/tmp/instantiated_${changed_file}"
-              comment=$(cat "/tmp/instantiated_${changed_file}" | jq --raw-output '.[] | "\(.setname): \(.stats)"')
+              python -m pokecat populate "${changed_file}" _tmp_populated.yaml
+              python -m pokecat instantiate _tmp_populated.yaml _tmp_instantiated.json
+              comment=$(cat _tmp_instantiated.json | jq --raw-output '.[] | "\(.setname): \(.stats)"')
               echo "test comment: ${comment}."
             else
               echo "$changed_file is not a pokeset"
