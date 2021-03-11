@@ -1,5 +1,5 @@
 name: changes_info
-on: [pull_request]
+on: [ pull_request ]
 
 jobs:
   changes_info:
@@ -21,11 +21,37 @@ jobs:
             file_count=$(find pokesets/ -name "$changed_file" | wc -l)
             if [[ $changed_file == pokesets/* && ( $changed_file == *.yaml || $changed_file == *.yml ) ]]; then
               echo "$changed_file is a pokeset"
-              python -m pokecat populate "${changed_file}" _tmp_populated.yaml
-              python -m pokecat instantiate _tmp_populated.yaml _tmp_instantiated.json
-              comment=$(cat _tmp_instantiated.json | jq --raw-output '.[] | "\(.setname): \(.stats)"')
-              echo "test comment: ${comment}."
+              python -m pokecat populate "${changed_file}" "${changed_file}.populated"
+              python -m pokecat instantiate "${changed_file}.populated" "${changed_file}.instantiated"
+              cat "${changed_file}.instantiated" | jq --raw-output '.[] | "${changed_file}: \(.setname): \(.stats)"' >> _sets_comments.txt
             else
               echo "$changed_file is not a pokeset"
             fi
           done
+      - uses: actions/github-script@v3
+        with:
+          script: |
+            fs = require('fs');
+            fs.readFile('_sets_comments.txt', 'utf8', function(err, data) {
+              if (err) return console.log(err);
+
+              let commentsPerFile = {};
+              for (const line of data.split('\n')) {
+                if (/^\s*$/.test(line)) continue;
+                const parts = data.split(/_(.+)/);
+                const filename = parts[0];
+                const comment = parts[1];
+                if(!(filename in commentsPerFile)) commentsPerFile[filename] = [];
+                commentsPerFile[filename].push(comment);
+              }
+              console.log(commentsPerFile);
+              for (let [filename, comments] of Object.entries(commentsPerFile)) {
+                github.repos.createCommitComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  commit_sha: context.sha,
+                  path: filename
+                  body: comments.join('\n'),
+                });
+              }
+            });
