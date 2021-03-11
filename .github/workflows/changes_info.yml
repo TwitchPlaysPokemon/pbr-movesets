@@ -23,7 +23,7 @@ jobs:
               echo "$changed_file is a pokeset"
               python -m pokecat populate "${changed_file}" "${changed_file}.populated"
               python -m pokecat instantiate "${changed_file}.populated" "${changed_file}.instantiated"
-              cat "${changed_file}.instantiated" | jq --raw-output '.[] | "${changed_file}: \(.setname): \(.stats)"' >> _sets_comments.txt
+              cat "${changed_file}.instantiated" | jq --raw-output ".[] | \"${changed_file}: \(.setname): \(.stats)\"" >> _sets_comments.txt
             else
               echo "$changed_file is not a pokeset"
             fi
@@ -38,9 +38,9 @@ jobs:
               let commentsPerFile = {};
               for (const line of data.split('\n')) {
                 if (/^\s*$/.test(line)) continue;
-                const parts = data.split(/_(.+)/);
-                const filename = parts[0];
-                const comment = parts[1];
+                const parts = data.split(/:(.+)/);
+                const filename = parts[0].trim();
+                const comment = parts[1].trim();
                 if(!(filename in commentsPerFile)) commentsPerFile[filename] = [];
                 commentsPerFile[filename].push(comment);
               }
