@@ -2,7 +2,7 @@ name: changes_info
 on: [pull_request]
 
 jobs:
-  compile:
+  changes_info:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -19,7 +19,7 @@ jobs:
       - run: |
           for changed_file in ${{ steps.files.outputs.added_modified }}; do
             file_count=$(find pokesets/ -name "$changed_file" | wc -l)
-            if [[ $(find pokesets/ -name "$changed_file" | wc -l) -gt 0 && ( $changed_file == *.yaml || $changed_file == *.yml ) ]]; then
+            if [[ $changed_file == pokesets/* && ( $changed_file == *.yaml || $changed_file == *.yml ) ]]; then
               echo "$changed_file is a pokeset"
               python -m pokecat populate "${changed_file}" "/tmp/populated_${changed_file}"
               python -m pokecat instantiate "/tmp/populated_${changed_file}" "/tmp/instantiated_${changed_file}"
