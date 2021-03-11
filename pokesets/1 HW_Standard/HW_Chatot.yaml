@@ -7,7 +7,6 @@ item: Mystic Water
 ability: Filter
 moves:
     - [Water Gun]
-    - [Water Gun]
     - [Shadow Claw]
     - [Struggle]
 gender: [m,f]
