@@ -24,34 +24,20 @@ jobs:
               python -m pokecat populate "${changed_file}" "${changed_file}.populated"
               python -m pokecat instantiate "${changed_file}.populated" "${changed_file}.instantiated"
               cat "${changed_file}.instantiated" | jq --raw-output ".[] | \"${changed_file}: \(.setname): \(.stats)\"" >> _sets_comments.txt
+              cat _sets_comments.txt
             else
               echo "$changed_file is not a pokeset"
             fi
           done
-      - uses: actions/github-script@v3
+      - name: 'Add info comment'
+        uses: actions/github-script@0.3.0
+        if: github.event_name == 'pull_request'
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
+            const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
             fs = require('fs');
             fs.readFile('_sets_comments.txt', 'utf8', function(err, data) {
               if (err) return console.log(err);
-
-              let commentsPerFile = {};
-              for (const line of data.split('\n')) {
-                if (/^\s*$/.test(line)) continue;
-                const parts = data.split(/:(.+)/);
-                const filename = parts[0].trim();
-                const comment = parts[1].trim();
-                if(!(filename in commentsPerFile)) commentsPerFile[filename] = [];
-                commentsPerFile[filename].push(comment);
-              }
-              console.log(commentsPerFile);
-              for (let [filename, comments] of Object.entries(commentsPerFile)) {
-                github.repos.createCommitComment({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  commit_sha: context.sha,
-                  path: filename,
-                  body: comments.join('\n'),
-                });
-              }
-            });
+              github.issues.createComment({ issue_number, owner, repo, body: data });
+            }
