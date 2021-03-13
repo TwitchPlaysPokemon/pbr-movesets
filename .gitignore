@@ -3,6 +3,7 @@
 *.log.*
 .sass-cache
 __pycache__
+venv/
 
 # IDE files
 .pydevproject

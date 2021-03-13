@@ -20,4 +20,4 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 164, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 nature: Hasty
 hidden: false
-suppressions: [public-shiny]
+suppressions: [public-shiny, invalid-evs]

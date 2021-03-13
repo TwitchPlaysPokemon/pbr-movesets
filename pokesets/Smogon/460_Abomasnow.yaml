@@ -15,7 +15,7 @@ rarity: 0.3
 ball: [Poke]
 nature: Hasty
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 164, def: 0, spA: 120, spD: 0, spe: 228}
+evs: {hp: 0, atk: 164, def: 0, spA: 120, spD: 0, spe: 224}
 ---
 species: Abomasnow
 setname: l-Mixed
