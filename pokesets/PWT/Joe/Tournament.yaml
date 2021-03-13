@@ -57,3 +57,23 @@ ivs: {hp: 1, atk: 1, def: 1, spA: 0, spD: 1, spe: 0}
 evs: 0
 level: 100
 rarity: 1.0
+---
+species: Salamence
+setname: PWT-Ray Tournament
+tags: [in-game, PWT-Ray Tournament, trainer+ray]
+item: [Draco Plate]
+ability: [Intimidate]
+moves:
+- [Protect]
+- [Substitute]
+- [Fire Blast]
+- [Draco Meteor]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -56,3 +56,23 @@ ivs: 0
 evs: 0
 level: 100
 rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Ichi-Ichi Tournament
+tags: [in-game, PWT-Ichi-Ichi Tournament, trainer+ichiichi]
+item: [Fist Plate]
+ability: [Intimidate]
+moves:
+- [Fake Out]
+- [Close Combat]
+- [Feint]
+- [Helping Hand]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

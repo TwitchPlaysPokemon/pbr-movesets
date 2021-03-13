@@ -3,7 +3,7 @@ species: Slowbro
 setname: PWT-Faba
 tags: [in-game, PWT-Faba, trainer+faba]
 item: [null]
-ability: [Oblivious, Own Tempo]
+ability: [Own Tempo]
 moves:
 - [Yawn]
 - [Psychic]
@@ -23,7 +23,7 @@ species: Alakazam
 setname: PWT-Faba
 tags: [in-game, PWT-Faba, trainer+faba]
 item: [null]
-ability: [Synchronize, Inner Focus, Magic Guard]
+ability: [Synchronize]
 moves:
 - [Psychic]
 - [Zen Headbutt]
@@ -43,7 +43,7 @@ species: Hypno
 setname: PWT-Faba
 tags: [in-game, PWT-Faba, trainer+faba]
 item: [null]
-ability: [Insomnia, Forewarn, Inner Focus]
+ability: [Insomnia]
 moves:
 - [Psychic]
 - [Hypnosis]
