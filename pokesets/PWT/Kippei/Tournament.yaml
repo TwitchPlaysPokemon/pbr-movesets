@@ -75,3 +75,23 @@ ivs: 0
 evs: 0
 level: 100
 rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Kippei Tournament
+tags: [in-game, PWT-Kippei Tournament, trainer+kippei]
+item: [Dread Plate]
+ability: [Sand Stream]
+moves:
+- [Rock Slide]
+- [Crunch]
+- [Taunt]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -3,7 +3,7 @@ species: Sharpedo
 setname: PWT-Tristan
 tags: [in-game, PWT-Tristan, trainer+tristan]
 item: [null]
-ability: [Rough Skin, Speed Boost]
+ability: [Rough Skin]
 moves:
 - [Aqua Jet]
 - [Night Slash]
@@ -23,7 +23,7 @@ species: Magmortar
 setname: PWT-Tristan
 tags: [in-game, PWT-Tristan, trainer+tristan]
 item: [null]
-ability: [Flame Body, Vital Spirit]
+ability: [Flame Body]
 moves:
 - [Flamethrower]
 - [Focus Blast]
@@ -43,7 +43,7 @@ species: Tauros
 setname: PWT-Tristan
 tags: [in-game, PWT-Tristan, trainer+tristan]
 item: [null]
-ability: [Intimidate, Anger Point]
+ability: [Intimidate]
 moves:
 - [Giga Impact]
 - [Rock Slide]
@@ -62,8 +62,8 @@ rarity: 1.0
 species: Exeggutor
 setname: PWT-Tristan
 tags: [in-game, PWT-Tristan, trainer+tristan]
-item: [null]
-ability: [Frisk, Harvest]
+item: [Dragon Fang]
+ability: [Frisk]
 moves:
 - [Wood Hammer]
 - [Dragon Rush]

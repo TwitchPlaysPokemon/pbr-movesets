@@ -1,14 +1,13 @@
 ---
-species: Raichu
-setname: PWT-Hau
-tags: [in-game, PWT-Hau, trainer+hau]
-item: [Twisted Spoon]
-ability: [Speed Boost]
+species: Weezing
+setname: PWT-Opal
+tags: [in-game, PWT-Opal, trainer+opal]
+item: [null]
+ability: [Levitate]
 moves:
-- [Thunderbolt]
-- [Quick Attack]
-- [Psychic]
-- [Focus Blast]
+- [Sludge]
+- [Silver Wind]
+- [Tackle]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -19,16 +18,16 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Tauros
-setname: PWT-Hau
-tags: [in-game, PWT-Hau, trainer+hau]
+species: Mawile
+setname: PWT-Opal
+tags: [in-game, PWT-Opal, trainer+opal]
 item: [null]
-ability: [Intimidate, Anger Point]
+ability: [Intimidate]
 moves:
-- [Zen Headbutt]
-- [Iron Head]
-- [Earthquake]
-- [Double Edge]
+- [Drain Punch]
+- [Crunch]
+- [Iron Defense]
+- [Astonish]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -39,56 +38,15 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Flareon
-setname: PWT-Hau
-tags: [in-game, PWT-Hau, trainer+hau]
+species: Togekiss
+setname: PWT-Opal
+tags: [in-game, PWT-Opal, trainer+opal]
 item: [null]
-ability: [Flash Fire, Guts]
+ability: [Hustle]
 moves:
-- [Flare Blitz]
-- [Quick Attack]
-- [Charm]
-- [Attract]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
-species: Vaporeon
-setname: PWT-Hau
-tags: [in-game, PWT-Hau, trainer+hau]
-item: [null]
-ability: [Water Absorb, Hydration]
-moves:
-- [Hydro Pump]
-- [Quick Attack]
-- [Charm]
-- [Attract]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
-species: Leafeon
-setname: PWT-Hau
-tags: [in-game, PWT-Hau, trainer+hau]
-item: [null]
-ability: [Leaf Guard, Chlorophyll]
-moves:
-- [Leaf Blade]
-- [Quick Attack]
-- [Charm]
-- [Attract]
+- [Air Slash]
+- [Giga Drain]
+- [Ancient Power]
 gender: [m, f]
 happiness: 255
 biddable: false

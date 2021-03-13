@@ -1,0 +1,83 @@
+---
+species: Electrode
+setname: PWT-Colress Battle Tree
+tags: [in-game, PWT-Colress Battle Tree, trainer+colress]
+item: [Damp Rock]
+ability: [Soundproof, Static]
+moves:
+- [Rain Dance]
+- [Thunder]
+- [Taunt]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Colress Battle Tree
+tags: [in-game, PWT-Colress Battle Tree, trainer+colress]
+item: [Occa Berry, Soul Dew]
+ability: [Clear Body]
+moves:
+- [Earthquake, Zen Headbutt]
+- [Meteor Mash]
+- [Bullet Punch]
+- [Explosion, Brick Break]
+combinations:
+- [Occa Berry, Earthquake, Explosion]
+- [Soul Dew, Zen Headbutt, Brick Break]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Colress Battle Tree
+tags: [in-game, PWT-Colress Battle Tree, trainer+colress]
+item: [Bright Powder]
+ability: [Magnet Pull, Sturdy]
+moves:
+- [Charge Beam]
+- [Flash Cannon]
+- [Magnet Rise]
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Porygon-Z
+setname: PWT-Colress Battle Tree
+tags: [in-game, PWT-Colress Battle Tree, trainer+colress]
+item: [Expert Belt, Adamant Orb]
+ability: [Adaptability, Download]
+moves:
+- [Psychic, Tri Attack]
+- [Ice Beam, Thunderbolt]
+- [Charge Beam, Shadow Ball]
+- [Signal Beam, Recover]
+combinations:
+- [Expert Belt, Psychic, Ice Beam, Charge Beam, Signal Beam]
+- [Adamant Orb, Tri Attack, Thunderbolt, Shadow Ball, Recover]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

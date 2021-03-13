@@ -3,7 +3,7 @@ species: Skarmory
 setname: PWT-Molayne
 tags: [in-game, PWT-Molayne, trainer+molayne]
 item: [null]
-ability: [Keen Eye, Sturdy]
+ability: [Sturdy]
 moves:
 - [Night Slash]
 - [Steel Wing]
@@ -22,7 +22,7 @@ rarity: 1.0
 species: Sandslash
 setname: PWT-Molayne
 tags: [in-game, PWT-Molayne, trainer+molayne]
-item: [NeverMelt Ice]
+item: [NeverMeltIce]
 ability: [Snow Cloak]
 moves:
 - [Ice Fang]
@@ -43,7 +43,7 @@ species: Magnezone
 setname: PWT-Molayne
 tags: [in-game, PWT-Molayne, trainer+molayne]
 item: [null]
-ability: [Magnet Pull, Sturdy]
+ability: [Sturdy]
 moves:
 - [Flash Cannon]
 - [Thunderbolt]

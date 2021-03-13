@@ -3,7 +3,7 @@ species: Magnezone
 setname: PWT-Sophocles
 tags: [in-game, PWT-Sophocles, trainer+sophocles]
 item: [null]
-ability: [Magnet Pull, Sturdy]
+ability: [Sturdy]
 moves:
 - [Flash Cannon]
 - [Discharge]
@@ -22,7 +22,7 @@ species: Electivire
 setname: PWT-Sophocles
 tags: [in-game, PWT-Sophocles, trainer+sophocles]
 item: [null]
-ability: [Motor Drive, Vital Spirit]
+ability: [Motor Drive]
 moves:
 - [Thunder Punch]
 - [Giga Impact]
@@ -42,7 +42,7 @@ species: Golem
 setname: PWT-Sophocles
 tags: [in-game, PWT-Sophocles, trainer+sophocles]
 item: [Magnet]
-ability: [Magnet Pull, Sturdy]
+ability: [Sturdy]
 moves:
 - [Stone Edge]
 - [Body Slam]

@@ -39,35 +39,16 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Muk
-setname: PWT-Archer Let's Go
-tags: [in-game, PWT-Archer Let's Go, trainer+archer]
-item: [null]
-ability: [null]
-moves:
-- [Toxic]
-- [Screech]
-- [Minimize]
-- [Protect]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
 species: Electrode
 setname: PWT-Archer Let's Go
 tags: [in-game, PWT-Archer Let's Go, trainer+archer]
 item: [null]
 ability: [null]
 moves:
-- [Self-Destruct]
-- [Thunderbolt]
-- [Swift]
+- [Thunder]
+- [Feint Attack]
+- [Explosion]
+- [Reflect]
 happiness: 255
 biddable: false
 ball: [Poke]
