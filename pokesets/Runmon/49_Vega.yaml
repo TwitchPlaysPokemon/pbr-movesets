@@ -6,7 +6,7 @@ item: [Choice Band]
 ability: [Static]
 moves:
     - [Volt Tackle]
-    - [Night Slash]
+    - [Crunch]
     - [Brick Break]
     - [Bullet Punch]
 gender: [m]
@@ -29,7 +29,7 @@ moves:
     - [Air Slash]
     - [Tri Attack]
     - [Muddy Water]
-    - [Fly]
+    - [Fly, Metronome]
 gender: [m]
 happiness: 255
 biddable: True
