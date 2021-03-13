@@ -28,7 +28,7 @@ jobs:
               any_changed=true
               python -m pokecat populate "${changed_file}" "${changed_file}.populated"
               python -m pokecat instantiate "${changed_file}.populated" "${changed_file}.instantiated"
-              cat "${changed_file}.instantiated" | jq --raw-output ".[] | \"| `${changed_file}` | \(.setname) | \(.stats.hp) | \(.stats.atk) | \(.stats.def) | \(.stats.spe) | \(.stats.spA) | \(.stats.spD) |\"" >> _sets_comments.md
+              cat "${changed_file}.instantiated" | jq --raw-output ".[] | \"| ${changed_file} | \(.setname) | \(.stats.hp) | \(.stats.atk) | \(.stats.def) | \(.stats.spe) | \(.stats.spA) | \(.stats.spD) |\"" >> _sets_comments.md
               cat _sets_comments.md
             else
               echo "$changed_file is not a pokeset"
