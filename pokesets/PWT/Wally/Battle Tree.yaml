@@ -22,7 +22,7 @@ species: Gallade
 setname: PWT-Wally Battle Tree
 tags: [in-game, PWT-Wally Battle Tree, trainer+wally]
 item: [Scope Lens, Soul Dew]
-ability: [Steadfast, Justified]
+ability: [Steadfast]
 moves:
 - [Psycho Cut]
 - [Stone Edge, Close Combat]
