@@ -3,7 +3,7 @@ ingamename: Sand Witch
 displayname: Sunakake Babaa
 setname: Halloween
 tags: [halloween]
-item: Smooth Stone
+item: Smooth Rock
 ability: Sand Veil
 moves:
     - [Rock Throw]

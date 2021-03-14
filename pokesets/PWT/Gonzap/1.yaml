@@ -23,7 +23,7 @@ species: Shiftry
 setname: PWT-Gonzap
 tags: [in-game, PWT-Gonzap, trainer+gonzap]
 item: [null]
-ability: [Cholorphyll]
+ability: [Chlorophyll]
 moves:
 - [Aerial Ace]
 - [Giga Drain]

@@ -10,6 +10,7 @@ moves:
     - [Rage]
     - [Uproar]
     - [Howl]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

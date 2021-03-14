@@ -37,7 +37,7 @@ evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 0, spe: 0}
 ivs: 31
 tags: [virgil, anime]
 ---
-species: Expeon
+species: Espeon
 setname: Virgil
 ability: [Synchronize]
 item: [Lum Berry]
