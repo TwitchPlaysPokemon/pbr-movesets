@@ -1,5 +1,7 @@
 name: changes_info
-on: [ pull_request_target ]
+on:
+  pull_request_target:
+    types: [ opened, synchronize, reopened, labeled ]
 # SECURITY NOTICE: this workflow MUST NOT execute any of the pull request's code.
 # The entire pull request's code must be treated as passive data.
 # See this blog post for more information: https://securitylab.github.com/research/github-actions-preventing-pwn-requests
@@ -7,6 +9,7 @@ on: [ pull_request_target ]
 jobs:
   changes_info:
     runs-on: ubuntu-latest
+    if: contains(github.event.pull_request.labels.*.name, 'analyze changes')
     steps:
       - uses: actions/checkout@v2
         with:
