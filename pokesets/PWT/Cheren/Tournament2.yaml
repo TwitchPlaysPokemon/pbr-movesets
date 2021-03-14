@@ -42,6 +42,7 @@ setname: PWT-Cheren Tournament2
 tags: [in-game, PWT-Cheren Tournament2, trainer+cheren]
 item: [Lum Berry]
 ability: [Forecast]
+gender: [m, f]
 moves:
 - [Weather Ball]
 - [Ice Beam]

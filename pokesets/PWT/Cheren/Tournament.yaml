@@ -43,6 +43,7 @@ setname: PWT-Cheren Tournament
 tags: [in-game, PWT-Cheren Tournament, trainer+cheren]
 item: [Petaya Berry]
 ability: [Forecast]
+gender: [m, f]
 moves:
 - [Weather Ball]
 - [Hydro Pump]
