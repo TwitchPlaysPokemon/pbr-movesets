@@ -1,11 +1,16 @@
 name: changes_info
-on: [ pull_request ]
+on: [ pull_request_target ]
+# SECURITY NOTICE: this workflow MUST NOT execute any of the pull request's code.
+# The entire pull request's code must be treated as passive data.
+# See this blog post for more information: https://securitylab.github.com/research/github-actions-preventing-pwn-requests
 
 jobs:
   changes_info:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
       - uses: actions/setup-python@v2
         with:
           python-version: '3.x'
@@ -13,7 +18,8 @@ jobs:
       - name: install python dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt
+          # not using a requirements.txt file on purpose. See the security notice at the top of the file.
+          python -m pip install pyyaml git+https://github.com/TwitchPlaysPokemon/pokecat.git
       - id: files
         uses: jitterbit/get-changed-files@v1
         with:
