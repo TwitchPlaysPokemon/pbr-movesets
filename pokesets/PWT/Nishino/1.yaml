@@ -60,7 +60,7 @@ rarity: 1.0
 ---
 species: Clefable
 setname: PWT-Nishino
-tags: [in-game, PWT-Nishino, trainer+nishino]]
+tags: [in-game, PWT-Nishino, trainer+nishino]
 item: [Leftovers]
 ability: [Cute Charm]
 moves:
@@ -80,7 +80,7 @@ rarity: 1.0
 ---
 species: Azumarill
 setname: PWT-Nishino
-tags: [in-game, PWT-Nishino, trainer+nishino]]
+tags: [in-game, PWT-Nishino, trainer+nishino]
 item: [Leftovers]
 ability: [Huge Power]
 moves:
@@ -102,7 +102,7 @@ species: Luvdisc
 displayname: Alomomola
 ingamename: Alomomola
 setname: PWT-Nishino
-tags: [in-game, PWT-Nishino, trainer+nishino]]
+tags: [in-game, PWT-Nishino, trainer+nishino]
 item: [Leftovers]
 ability: [Hydration]
 moves:
