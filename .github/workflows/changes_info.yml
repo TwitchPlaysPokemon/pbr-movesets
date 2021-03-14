@@ -24,7 +24,7 @@ jobs:
           # not using a requirements.txt file on purpose. See the security notice at the top of the file.
           python -m pip install pyyaml git+https://github.com/TwitchPlaysPokemon/pokecat.git
       - id: files
-        uses: jitterbit/get-changed-files@v1
+        uses: mmagician/get-changed-files@v2
         with:
           format: 'csv'
       - run: |
