@@ -46,10 +46,10 @@ item: [null]
 ability: [null]
 gender: [m]
 moves:
-    - [Iron Tail, Poison Jab]
+    - [Iron Tail]
     - [Earthquake, Earth Power]
     - [Megahorn]
-    - [Sludge Wave]
+    - [Poison Jab]
 happiness: 255
 biddable: false
 ball: [Poke]
