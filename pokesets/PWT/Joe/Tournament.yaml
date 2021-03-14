@@ -19,8 +19,8 @@ level: 100
 rarity: 1.0
 ---
 species: Tyranitar
-setname: PWT-Ray Tournament
-tags: [in-game, PWT-Ray Tournament, trainer+ray]
+setname: PWT-Joe Tournament
+tags: [in-game, PWT-Joe Tournament, trainer+Joe]
 item: [Chople Berry]
 ability: [Sand Stream]
 moves:
@@ -59,8 +59,8 @@ level: 100
 rarity: 1.0
 ---
 species: Salamence
-setname: PWT-Ray Tournament
-tags: [in-game, PWT-Ray Tournament, trainer+ray]
+setname: PWT-Joe Tournament
+tags: [in-game, PWT-Joe Tournament, trainer+Joe]
 item: [Draco Plate]
 ability: [Intimidate]
 moves:

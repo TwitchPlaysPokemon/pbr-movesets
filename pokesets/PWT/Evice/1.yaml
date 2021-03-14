@@ -80,8 +80,8 @@ level: 100
 rarity: 1.0
 ---
 species: Slaking
-setname: PWT-Nascour
-tags: [in-game, PWT-Nascour, trainer+nascour]
+setname: PWT-Evice
+tags: [in-game, PWT-Evice, trainer+evice]
 item: [null]
 ability: [Truant]
 moves:
