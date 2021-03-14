@@ -81,9 +81,9 @@ item: [null]
 ability: [Static]
 moves:
     - [Thunderbolt]
-    - [Thunder]
     - [Skull Bash]
     - [Quick Attack]
+    - [Thunder]
 gender: [m, f]
 happiness: 255
 biddable: True

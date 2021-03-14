@@ -42,10 +42,10 @@ tags: [standard]
 item: [null]
 ability: [Torrent]
 moves:
-    - [Waterfall]
     - [Water Gun]
-    - [U-Turn]
     - [Withdraw]
+    - [Waterfall]
+    - [U-Turn]
 gender: [m]
 happiness: 255
 biddable: True

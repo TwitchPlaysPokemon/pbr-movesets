@@ -167,7 +167,7 @@ nature: Sassy
 ivs: 31
 evs: {hp: 248, atk: 196, def: 0, spA: 56, spD: 0, spe: 8}
 tags: [ash, anime]
-  ---
+---
 species: Kingler
 setname: Ash
 ability: [Shell Armor]
@@ -252,7 +252,7 @@ moves:
 - [Hyper Beam]
 - [Dragon Dance]
 - [Dragon Claw]
-- [Dragon Rush]
+- [Wing Attack]
 gender: [m]
 happiness: 255
 biddable: true
@@ -261,7 +261,7 @@ nature: Naughty
 ivs: 31
 evs: {hp: 252, atk: 248, def: 0, spA: 0, spD: 0, spe: 8}
 tags: [ash, anime]
-  ---
+---
 species: Bayleef
 setname: Ash
 ability: [Overgrow]
@@ -586,7 +586,7 @@ nature: Adamant
 evs: {hp: 0, atk: 252, def: 0, spA: 144, spD: 0, spe: 112}
 ivs: 31
 tags: [ash, anime]
-  ---
+---
 species: Gible
 setname: Ash
 ability: [Sand Veil]
