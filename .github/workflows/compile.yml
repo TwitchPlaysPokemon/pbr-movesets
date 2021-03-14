@@ -1,5 +1,5 @@
 name: compile
-on: [push, pull_request]
+on: [ push, pull_request ]
 jobs:
   compile:
     runs-on: ubuntu-latest
@@ -12,7 +12,7 @@ jobs:
       - name: install python dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt
+          python -m pip install pyyaml git+https://github.com/TwitchPlaysPokemon/pokecat.git
       - name: compile pokesets
         run: python compile.py
       - uses: actions/upload-artifact@v2
