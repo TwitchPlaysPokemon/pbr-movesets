@@ -32,9 +32,9 @@ jobs:
           echo "| file | set | species | hp | atk | def | spe | spA | spD |" >> _sets_comments.md
           echo "| --- | --- | --- | --- | --- | --- | --- | --- | --- |" >> _sets_comments.md
           any_changed=false
-          # see https://github.com/jitterbit/get-changed-files#get-all-added-and-modified-files-as-csv
-          mapfile -d ',' -t changed_files < <(printf '%s,' '${{ steps.files.outputs.added_modified }}')
-          for changed_file in "${changed_files[@]}"; do
+          # see https://github.com/mmagician/get-changed-files#get-all-removed-files-as-json
+          readarray -t changed_files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added_modified }}')"
+          for changed_file in ${changed_files[@]}; do
             file_count=$(find pokesets/ -name "$changed_file" | wc -l)
             if [[ $changed_file == pokesets/* && ( $changed_file == *.yaml || $changed_file == *.yml ) ]]; then
               echo "$changed_file is a pokeset"
