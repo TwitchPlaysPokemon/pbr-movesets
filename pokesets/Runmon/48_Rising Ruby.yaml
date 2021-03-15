@@ -18,7 +18,7 @@ shiny: False
 nature: Mild
 ivs: {hp: 19, atk: 19, def: 20, spA: 3, spD: 23, spe: 11}
 evs: {hp: 41, atk: 138, def: 90, spA: 89, spD: 36, spe: 116}
-
+---
 species: Cradily
 ingamename: "Lg"
 displayname: "Lg"
@@ -39,7 +39,7 @@ shiny: False
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 93, atk: 96, def: 67, spA: 98, spD: 65, spe: 91}
-
+---
 species: Dunsparce
 ingamename: "noob"
 displayname: "noob"
@@ -60,7 +60,7 @@ shiny: False
 nature: Sassy
 ivs: {hp: 3, atk: 7, def: 19, spA: 2, spD: 4, spe: 7}
 evs: {hp: 71, atk: 112, def: 62, spA: 96, spD: 50, spe: 119}
-
+---
 species: Delcatty
 ingamename: "!whhy"
 displayname: "!whhy"
@@ -81,7 +81,7 @@ shiny: False
 nature: Adamant
 ivs: {hp: 25, atk: 23, def: 20, spA: 4, spD: 7, spe: 15}
 evs: {hp: 65, atk: 114, def: 77, spA: 68, spD: 43, spe: 143}
-
+---
 species: Latios
 ingamename: "!eder"
 displayname: "!eder"
@@ -102,7 +102,7 @@ shiny: False
 nature: Bold
 ivs: {hp: 7, atk: 31, def: 15, spA: 31, spD: 31, spe: 15}
 evs: {hp: 67, atk: 140, def: 56, spA: 99, spD: 76, spe: 72}
-
+---
 species: Shedinja
 ingamename: "ja"
 displayname: "ja"

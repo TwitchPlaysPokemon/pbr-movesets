@@ -6,7 +6,7 @@ item: [Choice Band]
 ability: [Static]
 moves:
     - [Volt Tackle]
-    - [Crunch]
+    - [Night Slash]
     - [Brick Break]
     - [Bullet Punch]
 gender: [m]
@@ -18,7 +18,7 @@ shiny: False
 nature: Lonely
 ivs: {hp: 0, atk: 19, def: 13, spA: 29, spD: 4, spe: 29}
 evs: {hp: 47, atk: 72, def: 77, spA: 146, spD: 17, spe: 151}
-
+---
 species: TogeKiss
 ingamename: BBCVVIIKKL
 displayname: BBCVVIIKKL
@@ -29,7 +29,7 @@ moves:
     - [Air Slash]
     - [Tri Attack]
     - [Muddy Water]
-    - [Fly, Metronome]
+    - [Fly]
 gender: [m]
 happiness: 255
 biddable: True
@@ -39,7 +39,7 @@ shiny: False
 nature: Jolly
 ivs: {hp: 29, atk: 19, def: 17, spA: 19, spD: 27, spe: 15}
 evs: {hp: 43, atk: 65, def: 81, spA: 154, spD: 26, spe: 141}
-
+---
 species: Walrein
 ingamename: Ballrus
 displayname: Ballrus
@@ -60,7 +60,7 @@ shiny: False
 nature: Quiet
 ivs: {hp: 31, atk: 22, def: 13, spA: 26, spD: 11, spe: 3}
 evs: {hp: 7, atk: 19, def: 46, spA: 50, spD: 8, spe: 60}
-
+---
 species: Duskull
 ingamename: F. SRRLFX
 displayname: F. SRRLFX
@@ -75,6 +75,7 @@ moves:
 gender: [f]
 happiness: 35
 biddable: True
+hidden: false
 rarity: 1.0
 ball: [Ultra]
 shiny: True
