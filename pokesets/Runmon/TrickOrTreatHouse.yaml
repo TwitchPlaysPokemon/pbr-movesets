@@ -18,7 +18,7 @@ shiny: False
 nature: Adamant
 ivs: {hp: 7, atk: 7, def: 30, spA: 27, spD: 6, spe: 2}
 evs: 0
-
+---
 species: Marshtomp
 ingamename: AOp
 displayname: AOp
@@ -39,7 +39,7 @@ shiny: False
 nature: Bashful
 ivs: {hp: 26, atk: 31, def: 4, spA: 14, spD: 9, spe: 5}
 evs: 0
-
+---
 species: Quilava
 ingamename: BNuu""
 displayname: BNuu""
@@ -60,7 +60,7 @@ shiny: False
 nature: Jolly
 ivs: {hp: 12, atk: 22, def: 18, spA: 6, spD: 6, spe: 22}
 evs: 0
-
+---
 species: Shuckle
 ingamename: AABWVN
 displayname: AABWVN
