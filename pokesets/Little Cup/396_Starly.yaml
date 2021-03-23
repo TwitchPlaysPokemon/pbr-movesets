@@ -8,6 +8,8 @@ moves:
     - [Double Edge]
     - [U-Turn]
     - [Quick Attack, Steel Wing, Heat Wave]
+separations:
+    - [Quick Attack, Choice Scarf]
 gender: [m, f]
 happiness: 255
 biddable: True
