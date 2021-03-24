@@ -1,0 +1,22 @@
+species: Gabite
+ingamename: R. Rotten
+displayname: Robbie Rotten
+setname: Christmas
+tags: [christmas]
+item: Nanab Berry
+ability: Color Change
+moves:
+    - [Feint Attack]
+    - [Double Team]
+    - [Spider Web]
+    - [Slack Off]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Lax
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

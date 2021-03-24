@@ -1,0 +1,120 @@
+---
+species: Dusclops
+setname: PWT-Nascour
+tags: [in-game, PWT-Nascour, trainer+nascour]
+item: [null]
+ability: [Pressure]
+moves:
+- [Shadow Ball]
+- [Psychic]
+- [Confuse Ray]
+- [Destiny Bond]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Nascour
+tags: [in-game, PWT-Nascour, trainer+nascour]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Thunderbolt]
+- [Taunt]
+- [Destiny Bond]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Blaziken
+setname: PWT-Nascour
+tags: [in-game, PWT-Nascour, trainer+nascour]
+item: [null]
+ability: [Blaze]
+moves:
+- [Blaze Kick]
+- [Sky Uppercut]
+- [Swagger]
+- [Roar]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Xatu
+setname: PWT-Nascour
+tags: [in-game, PWT-Nascour, trainer+nascour]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Drill Peck]
+- [Giga Drain]
+- [Confuse Ray]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Walrein
+setname: PWT-Nascour
+tags: [in-game, PWT-Nascour, trainer+nascour]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Attract]
+- [Ice Beam]
+- [Body Slam]
+- [Waterfall]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Nascour
+tags: [in-game, PWT-Nascour, trainer+nascour]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Fire Punch]
+- [Light Screen]
+- [Reflect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

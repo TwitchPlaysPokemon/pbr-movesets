@@ -1,0 +1,85 @@
+---
+species: Charizard
+setname: PWT-Leon
+tags: [in-game, PWT-Leon, trainer+leon]
+item: [null]
+ability: [Blaze]
+moves:
+- [Fire Blast]
+- [Air Slash]
+- [Solar Beam]
+- [Ancient Power]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Leon
+tags: [in-game, PWT-Leon, trainer+leon]
+item: [null]
+ability: [Solid Rock]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Megahorn]
+- [Flare Blitz]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+displayname: Mr. Rime
+ingamename: Mr. Rime
+setname: PWT-Leon
+tags: [in-game, PWT-Leon, trainer+leon]
+item: [NeverMeltIce]
+ability: [Tangled Feet]
+moves:
+- [Teeter Dance]
+- [Psychic]
+- [Blizzard]
+- [Thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Poliwrath
+displayname: Seismitoad
+ingamename: Seismitoad
+setname: PWT-Leon
+tags: [in-game, PWT-Leon, trainer+leon]
+item: [Soft Sand]
+ability: [Water Absorb]
+moves:
+- [Toxic]
+- [Drain Punch]
+- [Aqua Jet]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

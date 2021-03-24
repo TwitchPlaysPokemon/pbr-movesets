@@ -1,0 +1,79 @@
+species: Gastrodon
+setname: PWT-Joe Tournament
+tags: [in-game, PWT-Joe Tournament, trainer+joe]
+item: [Rindo Berry]
+ability: [Storm Drain]
+moves:
+- [Earth Power]
+- [Recover]
+- [Muddy Water]
+- [Ice Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Joe Tournament
+tags: [in-game, PWT-Joe Tournament, trainer+Joe]
+item: [Chople Berry]
+ability: [Sand Stream]
+moves:
+- [Rock Slide]
+- [Crunch]
+- [Protect]
+- [Superpower]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Cresselia
+setname: PWT-Joe Tournament
+tags: [in-game, PWT-Joe Tournament, trainer+joe]
+item: [Sitrus Berry]
+ability: [Levitate]
+moves:
+- [Icy Wind]
+- [Psychic]
+- [Hidden Power]
+- [Light Screen]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 1, atk: 1, def: 1, spA: 0, spD: 1, spe: 0}
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Joe Tournament
+tags: [in-game, PWT-Joe Tournament, trainer+Joe]
+item: [Draco Plate]
+ability: [Intimidate]
+moves:
+- [Protect]
+- [Substitute]
+- [Fire Blast]
+- [Draco Meteor]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
