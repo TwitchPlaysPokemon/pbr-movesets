@@ -1,0 +1,208 @@
+species: Manectric
+ingamename: TSanae
+displayname: TSanae
+setname: TPP Puppet Play
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Extrasensory]
+    - [Water Pulse]
+    - [Thunder]
+    - [Heat Wave]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quiet
+ivs: {hp: 21, atk: 2, def: 17, spA: 21, spD: 10, spe: 5}
+evs: {hp: 155, atk: 57, def: 22, spA: 111, spD: 44, spe: 121}
+
+species: Spiritomb
+ingamename: Mima
+displayname: Mima
+setname: TPP Puppet Play
+item: [Exp. Share]
+ability: [Pressure]
+moves:
+    - [Shadow Ball]
+    - [Dark Pulse]
+    - [Shadow Claw]
+    - [Shadow Force]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Naughty
+ivs: {hp: 6, atk: 16, def: 12, spA: 3, spD: 14, spe: 23}
+evs: {hp: 45, atk: 104, def: 10, spA: 224, spD: 69, spe: 58}
+
+species: Articuno
+ingamename: BB
+displayname: BB
+setname: TPP Puppet Play
+item: [Lucky Egg]
+ability: [Speed Boost]
+moves:
+    - [Sheer Cold]
+    - [Ice Punch]
+    - [Air Cutter]
+    - [Surf]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 12, atk: 31, def: 21, spA: 5, spD: 9, spe: 14}
+evs: {hp: 43, atk: 66, def: 24, spA: 134, spD: 101, spe: 142}
+
+species: Scizor
+ingamename: AUUUUABBBB 
+displayname: AUUUUABBBB 
+setname: TPP Puppet Play
+item: [Insect Plate]
+ability: [Intimidate]
+moves:
+    - [Fury Cutter]
+    - [Crunch]
+    - [Night Slash]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bold
+ivs: {hp: 7, atk: 13, def: 24, spA: 10, spD: 3, spe: 9}
+evs: {hp: 73, atk: 71, def: 29, spA: 168, spD: 62, spe: 107}
+
+species: Espeon 
+ingamename: Chauzu
+displayname: Chauzu
+setname: TPP Puppet Play
+item: [Insect Plate]
+ability: [Trace]
+moves:
+    - [Shadow Ball]
+    - [Psychic]
+    - [Signal Beam]
+    - [Dark Pulse]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: 
+ivs: {hp: 18, atk: 10, def: 27, spA: 29, spD: 27, spe: 5}
+evs: {hp: 114, atk: 58, def: 16, spA: 194, spD: 29, spe: 99}
+
+species: Fearow
+ingamename: A
+displayname: A
+setname: TPP Puppet Play
+item: [Pinap Berry]
+ability: [Limber]
+moves:
+    - [Slash]
+    - [Fly]
+    - [Sky Uppercut]
+    - [Roost]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: {hp: 31, atk: 10, def: 20, spA: 11, spD: 29, spe: 20}
+evs: {hp: 153, atk: 70, def: 21, spA: 106, spD: 22, spe: 138}
+
+species: Ludicolo
+ingamename: AAGH
+displayname: AAGH
+setname: TPP Puppet Play
+item: [Leftovers]
+ability: [Torrent]
+moves:
+    - [Flamethrower]
+    - [Ice Beam]
+    - [Giga Drain]
+    - [Earth Power]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Lonely 
+ivs: {hp: 13, atk: 17, def: 23, spA: 31, spD: 0, spe: 25}
+evs: {hp: 10, atk: 39, def: 16, spA: 102, spD: 33, spe: 10}
+
+species: Heatran 
+ingamename: BAKA
+displayname: BALA
+setname: TPP Puppet Play
+item: [null]
+ability: [Drought]
+moves:
+    - [Flamethrower]
+    - [Hyper Beam]
+    - [Solar Beam]
+    - [Thunderbolt]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Naive
+ivs: {hp: 31, atk: 7, def: 0, spA: 1, spD: 24, spe: 24}
+evs: {hp: 15, atk: 16, def: 0, spA: 7, spD: 6, spe: 1}
+
+species: Ampharos
+ingamename: DIku
+displayname: DIku
+setname: TPP Puppet Play
+item: [null]
+ability: [Own Tempo]
+moves:
+    - [Thunderbolt]
+    - [Screech]
+    - [Signal Beam]
+    - [Thunder]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Careful
+ivs: {hp: 17, atk: 5, def: 31, spA: 28, spD: 11, spe: 29}
+evs: 0
+
+species: Scyther
+ingamename: w♂760
+displayname: w♂760 
+setname: TPP Puppet Play
+item: [null]
+ability: [Early Bird]
+moves:
+    - [Tail Whip]
+    - [Focus Energy]
+    - [Bite]
+    - [Howl]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Docile
+ivs: {hp: 0, atk: 11, def: 7, spA: 16, spD: 28, spe: 22}
+evs: 0
