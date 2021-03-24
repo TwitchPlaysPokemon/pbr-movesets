@@ -6,20 +6,16 @@ item: [null]
 ability: [Keen Eye]
 moves:
 - [Shadow Ball]
-- [Double Team, Psychic, Fake Out]
-- [Night Shade, Attract, Power Gem]
+- [Double Team]
+- [Night Shade]
 - [Feint Attack]
-combinations:
-- [Double Team, Night Shade]
-- [Psychic, Attract]
-- [Fake Out, Power Gem]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
@@ -30,7 +26,7 @@ item: [null]
 ability: [Insomnia]
 moves:
 - [Shadow Ball]
-- [Grudge, Spite]
+- [Grudge]
 - [Will-O-Wisp]
 - [Feint Attack]
 gender: [m, f]
@@ -39,7 +35,7 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
@@ -51,19 +47,15 @@ ability: [Insomnia]
 moves:
 - [Shadow Ball]
 - [Psychic]
-- [Thunderbolt, Skill Swap, Grudge]
-- [Facade, Toxic]
-combinations:
-- [Thunderbolt, Facade]
-- [Skill Swap, Toxic]
-- [Grudge, Toxic]
+- [Thunderbolt]
+- [Facade]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
@@ -76,14 +68,14 @@ moves:
 - [Shadow Punch]
 - [Confuse Ray]
 - [Curse]
-- [Protect, Future Sight]
+- [Protect]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
@@ -103,46 +95,6 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
-species: Dusknoir
-setname: PWT-Phoebe
-tags: [in-game, PWT-Phoebe, trainer+phoebe]
-item: [null]
-ability: [Pressure]
-moves:
-- [Shadow Punch]
-- [Fire Punch]
-- [Ice Punch]
-- [Thunder Punch]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
-species: Mismagius
-setname: PWT-Phoebe
-tags: [in-game, PWT-Phoebe, trainer+phoebe]
-item: [null]
-ability: [Levitate]
-moves:
-- [Shadow Ball]
-- [Power Gem]
-- [Thunderbolt]
-- [Pain Split]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

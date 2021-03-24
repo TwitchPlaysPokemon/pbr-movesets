@@ -3,7 +3,7 @@ ingamename: Frost Lich
 displayname: Frost Lich
 setname: Christmas
 tags: [christmas]
-item: NeverMeltIce
+item: Nevermelt Ice
 ability: Snow Warning
 moves:
     - [Ominous Wind]

@@ -1,0 +1,40 @@
+---
+species: Golbat
+setname: PWT-Proton
+tags: [in-game, PWT-Proton, trainer+proton]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Wing Attack]
+- [Confuse Ray]
+- [Leech Life]
+- [Bite]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Proton
+tags: [in-game, PWT-Proton, trainer+proton]
+item: [null]
+ability: [Levitate]
+moves:
+- [Sludge]
+- [Double Hit]
+- [Smokescreen]
+- [Smog]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

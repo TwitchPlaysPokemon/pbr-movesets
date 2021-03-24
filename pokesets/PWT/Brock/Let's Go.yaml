@@ -1,0 +1,36 @@
+---
+species: Geodude
+setname: PWT-Let's Go Brock
+tags: [in-game, PWT-Let's Go Brock, trainer+brock]
+item: [null]
+ability: [null]
+moves:
+- [Tackle]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Onix
+setname: PWT-Let's Go Brock
+tags: [in-game, PWT-Let's Go Brock, trainer+brock]
+item: [null]
+ability: [null]
+moves:
+- [Headbutt]
+- [Bind]
+- [Rock Throw]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,7 +1,5 @@
 ---
 species: Tauros
-displayname: Bouffalant
-ingamename: Bouffalant
 setname: PWT-Norman Tournament2
 tags: [in-game, PWT-Norman Tournament2, trainer+norman]
 item: [Life Orb]
@@ -22,8 +20,6 @@ level: 100
 rarity: 1.0
 ---
 species: Stantler
-displayname: Sawsbuck
-ingamename: Sawsbuck
 setname: PWT-Norman Tournament2
 tags: [in-game, PWT-Norman Tournament2, trainer+norman]
 item: [Chesto Berry]

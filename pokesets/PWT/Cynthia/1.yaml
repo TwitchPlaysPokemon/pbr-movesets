@@ -48,7 +48,7 @@ moves:
 - [Dark Pulse]
 - [Psychic]
 - [Silver Wind]
-- [Ominous Wind, Embargo]
+- [Ominous Wind]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -109,26 +109,6 @@ moves:
 - [Aura Sphere]
 - [Water Pulse]
 - [Psychic]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Gastrodon
-setname: PWT-Cynthia
-tags: [in-game, PWT-Cynthia, trainer+cynthia]
-item: [null]
-ability: [Sticky Hold]
-moves:
-- [Muddy Water]
-- [Earthquake]
-- [Stone Edge]
-- [Sludge Bomb]
 gender: [m, f]
 happiness: 255
 biddable: false

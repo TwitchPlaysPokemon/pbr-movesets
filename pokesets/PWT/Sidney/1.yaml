@@ -5,19 +5,17 @@ tags: [in-game, PWT-Sidney, trainer+sidney]
 item: [null]
 ability: [Chlorophyll]
 moves:
-- [Torment, Fake Out]
+- [Torment]
 - [Double Team]
-- [Swagger, Leaf Blade]
+- [Swagger]
 - [Extrasensory]
-separations:
-- [Leaf Blade, Torment]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
@@ -37,7 +35,7 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
@@ -48,86 +46,15 @@ item: [null]
 ability: [Pressure]
 moves:
 - [Aerial Ace]
-- [Rock Slide, Snatch, Night Slash]
-- [Swords Dance, Psycho Cut]
+- [Rock Slide]
+- [Swords Dance]
 - [Slash]
-combinations:
-- [Psycho Cut, Night Slash]
-separations:
-- [Swords Dance, Night Slash]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
----
-species: Mightyena
-setname: PWT-Sidney
-tags: [in-game, PWT-Sidney, trainer+sidney]
-item: [null]
-ability: [Intimidate]
-moves:
-- [Roar, Swagger]
-- [Double Edge, Take Down]
-- [Sand Attack, Sucker Punch]
-- [Crunch]
-separations:
-- [Sucker Punch, Roar]
-- [Sucker Punch, Double Edge]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
-species: Cacturne
-setname: PWT-Sidney
-tags: [in-game, PWT-Sidney, trainer+sidney]
-item: [null]
-ability: [Sand Veil]
-moves:
-- [Leech Seed]
-- [Feint Attack]
-- [Needle Arm]
-- [Cotton Spore]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
-species: Sharpedo
-setname: PWT-Sidney
-tags: [in-game, PWT-Sidney, trainer+sidney]
-item: [null]
-ability: [Rough Skin]
-moves:
-- [Surf, Aqua Jet]
-- [Crunch]
-- [Slash]
-- [Swagger, Poison Fang]
-combinations:
-- [Surf, Swagger]
-- [Aqua Jet, Poison Fang]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
