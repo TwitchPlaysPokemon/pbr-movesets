@@ -14,7 +14,7 @@ happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0
@@ -34,7 +34,7 @@ happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0
@@ -54,7 +54,7 @@ happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0

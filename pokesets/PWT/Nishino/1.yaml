@@ -8,7 +8,7 @@ moves:
 - [Earthquake]
 - [Blizzard]
 - [Power Whip]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -28,7 +28,7 @@ moves:
 - [Hyper Voice]
 - [Thunderbolt]
 - [Ice Beam]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -48,7 +48,7 @@ moves:
 - [Yawn]
 - [Superpower]
 - [Crunch]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -67,8 +67,8 @@ moves:
 - [Cosmic Power]
 - [Sing]
 - [Metronome]
-- [Psychic]
-gender: [f]
+- [Punishment]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -88,7 +88,7 @@ moves:
 - [Aqua Tail]
 - [Superpower]
 - [Hammer Arm]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -110,7 +110,7 @@ moves:
 - [Toxic]
 - [Protect]
 - [Aqua Jet]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

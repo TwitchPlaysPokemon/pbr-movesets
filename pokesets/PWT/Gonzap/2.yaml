@@ -9,7 +9,7 @@ moves:
 - [Swords Dance]
 - [Aerial Ace]
 - [Brick Break]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -29,7 +29,7 @@ moves:
 - [Bulk Up]
 - [Sky Uppercut]
 - [Iron Tail]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -49,7 +49,7 @@ moves:
 - [Bulk Up]
 - [Shadow Ball]
 - [Brick Break]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -69,7 +69,7 @@ moves:
 - [Swords Dance]
 - [Ancient Power]
 - [Brick Break]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -89,7 +89,7 @@ moves:
 - [Bulk Up]
 - [Submission]
 - [Foresight]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -109,7 +109,7 @@ moves:
 - [Dragon Dance]
 - [Earthquake]
 - [Roar]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

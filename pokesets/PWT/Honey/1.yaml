@@ -49,7 +49,7 @@ moves:
 - [Air Slash]
 - [Aura Sphere]
 - [Heat Wave]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -69,7 +69,7 @@ moves:
 - [Surf]
 - [Ice Beam]
 - [Iron Defense]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -89,7 +89,7 @@ moves:
 - [Earth Power]
 - [Sludge Bomb]
 - [Amnesia]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
