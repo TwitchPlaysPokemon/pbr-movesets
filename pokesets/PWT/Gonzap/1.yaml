@@ -9,7 +9,7 @@ moves:
 - [Crabhammer]
 - [Aerial Ace]
 - [Strength]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -29,7 +29,7 @@ moves:
 - [Giga Drain]
 - [Feint Attack]
 - [Shadow Ball]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -49,7 +49,7 @@ moves:
 - [Submission]
 - [Flail]
 - [Cut]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -69,7 +69,7 @@ moves:
 - [Earthquake]
 - [Foresight]
 - [Reversal]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

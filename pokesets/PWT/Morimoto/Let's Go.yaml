@@ -4,7 +4,7 @@ setname: PWT-Let's Go Morimoto
 tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
 item: [null]
 ability: [null]
-gender: [f]
+gender: [m, f]
 moves:
 - [Fake Out]
 - [Sucker Punch]
@@ -24,7 +24,7 @@ setname: PWT-Let's Go Morimoto
 tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
 item: [null]
 ability: [null]
-gender: [m]
+gender: [m, f]
 moves:
 - [Quick Attack]
 - [Double Kick]
@@ -44,7 +44,7 @@ setname: PWT-Let's Go Morimoto
 tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
 item: [null]
 ability: [null]
-gender: [f]
+gender: [m, f]
 moves:
 - [Quick Attack]
 - [Double Kick]
@@ -64,7 +64,7 @@ setname: PWT-Let's Go Morimoto
 tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
 item: [null]
 ability: [null]
-gender: [m]
+gender: [m, f]
 moves:
 - [Quick Attack]
 - [Double Kick]
@@ -84,7 +84,7 @@ setname: PWT-Let's Go Morimoto
 tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
 item: [null]
 ability: [null]
-gender: [m]
+gender: [m, f]
 moves:
 - [Superpower]
 - [Earthquake]
@@ -104,7 +104,7 @@ setname: PWT-Let's Go Morimoto
 tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
 item: [null]
 ability: [null]
-gender: [m]
+gender: [m, f]
 moves:
 - [Dragon Pulse]
 - [Blizzard]

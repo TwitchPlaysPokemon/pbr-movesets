@@ -8,12 +8,12 @@ moves:
 - [Earth Power]
 - [Hidden Power]
 - [Protect]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: {hp: 1, atk: 1, def: 1, spA: 1, spD: 1, spe: 0}
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 20}
 evs: 0
 level: 100
 rarity: 1.0
@@ -28,12 +28,12 @@ moves:
 - [Ice Fang]
 - [Protect]
 - [Waterfall]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0
@@ -48,12 +48,12 @@ moves:
 - [Recover]
 - [Earth Power]
 - [Stockpile]
-gender: [m]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0
@@ -72,7 +72,7 @@ happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0

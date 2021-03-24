@@ -13,7 +13,7 @@ happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0
@@ -32,7 +32,7 @@ happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0
@@ -51,7 +51,7 @@ happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0
@@ -66,12 +66,12 @@ moves:
 - [Stone Edge]
 - [Giga Impact]
 - [Screech]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 21
 evs: 0
 level: 100
 rarity: 1.0
