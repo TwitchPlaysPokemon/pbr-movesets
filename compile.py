@@ -211,34 +211,7 @@ def main():
     with open(outfile, "w+", encoding="utf-8") as f:
         json.dump(pokesets, f, indent="    ", sort_keys=True)
 
-    pwt_versus_tags_file = "pwt_versus_tags.json"
-    runmons = Counter()
-    anime = Counter()
-    pwt = Counter()
-    for pokeset in pokesets:
-        tags = pokeset['tags']
-        if 'runmon' in tags:
-            trainer_tag = "setname+" + pokeset['setname']
-            runmons[trainer_tag] += 1
-        if 'anime' in tags:
-            trainer_tag = "setname+" + pokeset['setname']
-            anime[trainer_tag] += 1
-        if 'in-game' in tags:
-            trainer_tag = list(filter(lambda tag: 'PWT' in tag, tags))
-            if trainer_tag:
-                pwt_set = trainer_tag[0]
-                pwt[pwt_set] += 1
-
-    pwt_versus_tags = [elem for (elem, cnt) in pwt.items() if cnt >= 4]
-    pwt_versus_tags += [elem for (elem, cnt) in runmons.items() if cnt >= 4]
-
-    print("Writing pwt versus_tags to {}...".format(pwt_versus_tags_file))
-    with open(pwt_versus_tags_file, "w+", encoding="utf-8") as f:
-        json.dump(pwt_versus_tags, f, sort_keys=True, ensure_ascii=False)
-    print("TPP deployment: \n"
-          "1. Place pbrpokemondb.json in tpp/pbrpokemondb.json\n"
-          "2. If PWT sets were modified, copy the contents of pwt_versus_tags.json into "
-          "the pwt_versus_tags section of tpp/utils/matchmaker/config/metagames.yaml")
+    print("TPP deployment: Place pbrpokemondb.json in tpp/pbrpokemondb.json")
 
     if notes:
         # some notes existed, return non-zero exit code to indicate failure
