@@ -1,0 +1,22 @@
+species: Unown
+form: 17
+ingamename: PizzaCuttr
+displayname: Pizza Cutter
+setname: Dinner-PizzaCuttr
+tags: [Dinner]
+ball: [Cherish]
+item: BrightPowder
+ability: Water Absorb
+moves:
+    - [X-Scissor]
+    - [Iron Head]
+    - [Rollout]
+    - [Iron Defense]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 255, atk: 108, def: 0, spA: 8, spD: 0, spe: 0}
+nature: Adamant
+hidden: false

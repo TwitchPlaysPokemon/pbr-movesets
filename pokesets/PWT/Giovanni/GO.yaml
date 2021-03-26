@@ -1,0 +1,100 @@
+---
+species: Persian
+setname: PWT-GO Giovanni
+tags: [in-game, PWT-GO Giovanni, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+    - [Feint Attack]
+    - [Scratch]
+    - [Frustration]
+    - [Power Gem]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Kangaskhan
+setname: PWT-GO Giovanni
+tags: [in-game, PWT-GO Giovanni, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+    - [Mud Slap, Low Kick]
+    - [Crunch]
+    - [Earthquake]
+    - [Outrage]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Nidoking
+setname: PWT-GO Giovanni
+tags: [in-game, PWT-GO Giovanni, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+    - [Iron Tail]
+    - [Earthquake, Earth Power]
+    - [Megahorn]
+    - [Poison Jab]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-GO Giovanni
+tags: [in-game, PWT-GO Giovanni, trainer+giovanni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+    - [Mud Shot]
+    - [Earthquake, Sand Tomb]
+    - [Outrage]
+    - [Fire Blast]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Mewtwo
+setname: PWT-GO Giovanni
+tags: [in-game, PWT-GO Giovanni, trainer+giovanni]
+item: [null]
+ability: [null]
+moves:
+    - [Psycho Cut, Confusion]
+    - [Psychic]
+    - [Flamethrower, Ice Beam]
+    - [Thunderbolt, Focus Blast]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+

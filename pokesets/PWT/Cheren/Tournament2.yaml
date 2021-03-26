@@ -1,0 +1,58 @@
+species: Porygon-Z
+setname: PWT-Cheren Tournament2
+tags: [in-game, PWT-Cheren Tournament2, trainer+cheren]
+item: [Chople Berry]
+ability: [Adaptability, Download]
+moves:
+- [Shadow Ball]
+- [Psychic]
+- [Signal Beam]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lickilicky
+setname: PWT-Cheren Tournament2
+tags: [in-game, PWT-Cheren Tournament2, trainer+cheren]
+item: [Expert Belt]
+ability: [Own Tempo, Oblivious]
+moves:
+- [Hammer Arm]
+- [Power Whip]
+- [Thunder]
+- [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Castform
+setname: PWT-Cheren Tournament2
+tags: [in-game, PWT-Cheren Tournament2, trainer+cheren]
+item: [Lum Berry]
+ability: [Forecast]
+gender: [m, f]
+moves:
+- [Weather Ball]
+- [Ice Beam]
+- [Rain Dance]
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

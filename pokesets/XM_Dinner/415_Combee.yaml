@@ -1,0 +1,22 @@
+species: Combee
+ingamename: Honey
+displayname: Honey
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Occa Berry
+ability: Sticky Hold
+moves:
+    - [Attack Order]
+    - [Sludge Bomb]
+    - [Giga Drain]
+    - [Toxic]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 140, atk: 128, def: 128, spA: 0, spD: 0, spe: 128}
+nature: Docile
+hidden: false

@@ -1,0 +1,21 @@
+species: Meowth
+ingamename: Litten
+displayname: Litten
+setname: Costume
+tags: [costume]
+item: [Figy Berry]
+ability: [Blaze]
+moves:
+    - [Flare Blitz]
+    - [Facade]
+    - [Hidden Power]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+level: 5
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
