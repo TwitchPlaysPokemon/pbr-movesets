@@ -1,0 +1,122 @@
+species: Ludicolo
+ingamename: XXHI
+displayname: XXHI
+setname: TPP Chatty Crystal
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Giga Drain]
+    - [Surf]
+    - [Ice Beam]
+    - [Rain Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 16, def: 20, spA: 28, spD: 28, spe: 26}
+evs: {hp: 224, atk: 252, def: 236, spA: 224, spD: 224, spe: 228}
+---
+species: Chatot
+ingamename: KENYA
+displayname: KENYA
+setname: TPP Chatty Crystal
+item: [Focus Band]
+ability: [null]
+moves:
+    - [Chatter]
+    - [Fly]
+    - [Sing]
+    - [Roost]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 16, def: 18, spA: 24, spD: 24, spe: 18}
+evs: {hp: 184, atk: 194, def: 184, spA: 180, spD: 180, spe: 136}
+---
+species: Unown
+ingamename: PPPPss
+displayname: PPPPss
+setname: TPP Chatty Crystal
+item: [BrightPowder]
+ability: [null]
+moves:
+    - [Hidden Power]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 26, def: 30, spA: 30, spD: 30, spe: 30}
+evs: {hp: 224, atk: 236, def: 230, spA: 224, spD: 224, spe: 236}
+---
+species: Skuntank
+ingamename: ZZZZZ
+displayname: ZZZZZ
+setname: TPP Chatty Crystal
+item: [Leftovers]
+ability: [Null]
+moves:
+    - [Sludge Bomb]
+    - [Flamethrower]
+    - [Thief]
+    - [Toxic]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 28, atk: 2, def: 10, spA: 28, spD: 28, spe: 10}
+evs: {hp: 216, atk: 220, def: 210, spA: 216, spD: 216, spe: 220}
+---
+species: Torterra
+ingamename: VVVVVV
+displayname: VVVVVV
+setname: TPP Chatty Crystal
+item: [Leftovers]
+ability: [Null]
+moves:
+    - [Earthquake]
+    - [Dizzy Punch]
+    - [Curse]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Serious
+ivs: {hp: 16, atk: 30, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 220, atk: 216, def: 220, spA: 210, spD: 210, spe: 210}
+---
+species: Lopunny
+ingamename: MY
+displayname: MY
+setname: TPP Chatty Crystal
+item: [King's Rock]
+ability: [Null]
+moves:
+    - [Headbutt]
+    - [Jump Kick]
+    - [Iron Tail]
+    - [Dig]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 18, def: 8, spA: 30, spD: 30, spe: 14}
+evs: {hp: 134, atk: 124, def: 126, spA: 120, spD: 116, spe: 134}

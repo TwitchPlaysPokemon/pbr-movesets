@@ -104,7 +104,7 @@ shiny: False
 nature: Serious
 ivs: {hp: 2, atk: 1, def: 4, spA: 10, spD: 10, spe: 4}
 evs: {hp: 127, atk: 138, def: 130, spA: 125, spD: 125, spe: 147}
-
+---
 species: Beedrill
 ingamename: "[[........"
 displayname: "[[........"
@@ -116,7 +116,7 @@ moves:
     - [Cut]
     - [Swords Dance]
     - [Double-Edge]
-    - [Giga Impact]
+    - [Hyper Beam]
 gender: [m]
 happiness: 255
 biddable: True
