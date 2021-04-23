@@ -74,7 +74,7 @@ hidden: false
 species: Sandslash
 displayname: Icicle
 ingamename: Icicle
-setname: Christmas2
+setname: Christmas3
 tags: [christmas]
 item: [NeverMeltIce]
 ability: [Rough Skin]
@@ -478,7 +478,7 @@ hidden: false
 species: Kabutops
 displayname: tppDome
 ingamename: tppDome
-setname: Christmas2
+setname: Christmas3
 tags: [christmas]
 item: [Dread Plate]
 ability: [Battle Armor]
@@ -622,7 +622,7 @@ hidden: false
 species: Mantine
 displayname: Santa Ray
 ingamename: Santa Ray
-setname: Christmas
+setname: Christmas2
 tags: [christmas]
 item: [Silk Scarf]
 ability: [Ice Body]
