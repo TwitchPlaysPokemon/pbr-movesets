@@ -27,7 +27,7 @@ tags: [runmon, in-game]
 item: [null]
 ability: [null]
 moves:
-    - [Amnesia]
+    - [Calm Mind]
     - [Hypnosis]
     - [Ice Beam]
     - [Surf]
@@ -72,8 +72,8 @@ moves:
     - [Fly]
     - [Peck]
     - [Fury Attack]
-    - [Tri Attack]
-happiness: 255
+    - [Tri Attack, Return]
+happiness: 200
 biddable: True
 rarity: 1.0
 shiny: False
