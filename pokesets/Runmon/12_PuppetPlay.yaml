@@ -39,7 +39,7 @@ shiny: False
 nature: Naughty
 ivs: {hp: 6, atk: 16, def: 12, spA: 3, spD: 14, spe: 23}
 evs: {hp: 45, atk: 104, def: 10, spA: 224, spD: 69, spe: 58}
-
+---
 species: Articuno
 ingamename: BB
 displayname: BB
@@ -59,7 +59,7 @@ shiny: False
 nature: Relaxed
 ivs: {hp: 12, atk: 31, def: 21, spA: 5, spD: 9, spe: 14}
 evs: {hp: 43, atk: 66, def: 24, spA: 134, spD: 101, spe: 142}
-
+---
 species: Scizor
 ingamename: AUUUUABBBB
 displayname: AUUUUABBBB
@@ -80,7 +80,7 @@ shiny: False
 nature: Bold
 ivs: {hp: 7, atk: 13, def: 24, spA: 10, spD: 3, spe: 9}
 evs: {hp: 73, atk: 71, def: 29, spA: 168, spD: 62, spe: 107}
-
+---
 species: Espeon
 ingamename: Chauzu
 displayname: Chauzu
