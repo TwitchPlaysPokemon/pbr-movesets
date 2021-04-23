@@ -98,7 +98,7 @@ biddable: True
 rarity: 1.0
 ball: [Poke]
 shiny: False
-nature:
+nature: Calm
 ivs: {hp: 18, atk: 10, def: 27, spA: 29, spD: 27, spe: 5}
 evs: {hp: 114, atk: 58, def: 16, spA: 194, spD: 29, spe: 99}
 ---

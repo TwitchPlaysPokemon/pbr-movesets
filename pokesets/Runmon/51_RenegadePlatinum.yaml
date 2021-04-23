@@ -19,8 +19,8 @@ ivs: {hp: 12, atk: 22, def: 23, spA: 4, spD: 5, spe: 21}
 evs: {hp: 83, atk: 111, def: 124, spA: 73, spD: 47, spe: 72}
 ---
 species: Metagross
-ingamename: GPWWERZ!:
-displayname: GPWWERZ!:
+ingamename: "GPWWERZ!:"
+displayname: "GPWWERZ!:"
 setname: TPP Renegade Plat
 item: [Expert Belt]
 ability: [Clear Body]
