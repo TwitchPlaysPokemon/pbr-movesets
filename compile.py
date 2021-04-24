@@ -176,26 +176,24 @@ def analyze_all_pokesets_integrity(original_pokesets):
                  .format(species, species_name, ", ".join("{} (gender: {})"
                                                           .format(p["setname"], p["gender"]) for p in sets)))
             ))
-    existing_ids = {}
+    existing_ids = set()
     for pokeset in original_pokesets:
         identifier = (pokeset["species"]["id"], pokeset["setname"])
         if identifier in existing_ids:
-            prev_identifier = existing_ids[id]
             notes.append(Note(
                 Severity.ERROR,
-                ("combination of species {} ({}) and setname {} already exists ({}), but must be unique!"
-                 .format(identifier[0], pokeset["species"]["name"], identifier[1], prev_identifier)),
+                ("combination of species {} ({}) and setname {} exists multiple times, but must be unique!"
+                 .format(identifier[0], pokeset["species"]["name"], identifier[1])),
                 identifier
             ))
         else:
-            existing_ids[id] = identifier
+            existing_ids.add(identifier)
             pokesets.append(pokeset)
     return notes, pokesets
 
 
 def main():
     import json
-    from collections import Counter
     notes, pokesets = analyze_dir("./pokesets")
     # filter out low priority notes
     notes = [n for n in notes if n.severity != Severity.NOTE]
