@@ -18,12 +18,10 @@ for changed_file in changed_files:
     with open(changed_file) as f:
         raw_sets = list(yaml.load_all(f, Loader=CLoader))
     info_text = "Stats (Not a warning, just for information):\n"
-    info_text += "| file | set | species | hp | atk | def | spe | spA | spD |\n"
-    info_text += "| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n"
     for raw_set in raw_sets:
         pokeset = pokecat.instantiate_pokeset(pokecat.populate_pokeset(raw_set))
         stats = pokeset["stats"]
-        info_text += "| {} | {} | {} | {} | {} | {} | {} | {} |\n".format(
-            pokeset["setname"], pokeset["species"]["name"],
+        info_text += "{} {}: {} hp, {} atk, {} def, {} spe, {} spA, {} spD\n".format(
+            pokeset["species"]["name"], pokeset["setname"],
             stats["hp"], stats["atk"], stats["def"], stats["spe"], stats["spA"], stats["spD"])
     print("::warning file={},line={}::{}".format(changed_file, num_lines, info_text.replace("\n", "%0A")))
