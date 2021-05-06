@@ -1,0 +1,21 @@
+species: Baltoy
+ingamename: F-00
+displayname: F-00
+setname: Halloween
+tags: [halloween]
+item: Metal Coat
+ability: Reckless
+moves:
+    - [Flare Blitz]
+    - [Iron Head]
+    - [Needle Arm]
+    - [Flail]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Relaxed
+ivs: 31
+evs: {hp: 100, atk: 40, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

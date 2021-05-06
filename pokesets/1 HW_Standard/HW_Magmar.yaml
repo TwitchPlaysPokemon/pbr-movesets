@@ -1,0 +1,22 @@
+species: Magmar
+ingamename: Kasane
+displayname: Kasane
+setname: Halloween
+tags: [halloween]
+item: Stick
+ability: Oblivious
+moves:
+    - [Leaf Blade]
+    - [Sweet Kiss]
+    - [Lovely Kiss]
+    - [Heart Swap]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Adamant
+ivs: 5
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 80}
+hidden: false

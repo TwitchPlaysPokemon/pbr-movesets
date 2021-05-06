@@ -1,0 +1,97 @@
+species: Metagross
+setname: PWT-Kippei Tournament
+tags: [in-game, PWT-Kippei Tournament, trainer+kippei]
+item: [Shuca Berry]
+ability: [Clear Body]
+moves:
+- [Meteor Mash]
+- [Zen Headbutt]
+- [Earthquake]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Cresselia
+setname: PWT-Kippei Tournament
+tags: [in-game, PWT-Kippei Tournament, trainer+kippei]
+item: [Sitrus Berry]
+ability: [Levitate]
+moves:
+- [Ice Beam]
+- [Thunder Wave]
+- [Swagger]
+- [Safeguard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Zapdos
+setname: PWT-Kippei Tournament
+tags: [in-game, PWT-Kippei Tournament, trainer+kippei]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+- [Thunderbolt]
+- [Heat Wave]
+- [Tailwind]
+- [Detect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gastrodon
+setname: PWT-Kippei Tournament
+tags: [in-game, PWT-Kippei Tournament, trainer+kippei]
+item: [Rindo Berry]
+ability: [Storm Drain]
+moves:
+- [Earth Power]
+- [Ice Beam]
+- [Recover]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Kippei Tournament
+tags: [in-game, PWT-Kippei Tournament, trainer+kippei]
+item: [Dread Plate]
+ability: [Sand Stream]
+moves:
+- [Rock Slide]
+- [Crunch]
+- [Taunt]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0

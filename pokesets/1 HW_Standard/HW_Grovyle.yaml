@@ -1,0 +1,22 @@
+species: Grovyle
+ingamename: Sephiroth
+displayname: Sephiroth
+setname: Halloween
+tags: [halloween]
+item: Life Orb
+ability: No Guard
+moves:
+    - [Night Slash]
+    - [Draco Meteor]
+    - [Lava Plume]
+    - [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: 15
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

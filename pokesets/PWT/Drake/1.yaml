@@ -5,17 +5,20 @@ tags: [in-game, PWT-Drake, trainer+drake]
 item: [null]
 ability: [Swift Swim]
 moves:
-- [Smokescreen]
-- [Dragon Dance]
+- [Smokescreen, Dragon Pulse]
+- [Dragon Dance, Yawn]
 - [Surf]
-- [Body Slam]
+- [Body Slam, Ice Beam]
+combinations:
+- [Smokescreen, Dragon Dance, Body Slam]
+- [Dragon Pulse, Yawn, Ice Beam]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -28,14 +31,34 @@ moves:
 - [Flamethrower]
 - [Crunch]
 - [Dragonbreath]
-- [Earthquake]
+- [Earthquake, Sand Attack]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flygon
+setname: PWT-Drake-2
+tags: [in-game, PWT-Drake, trainer+drake]
+item: [null]
+ability: [Levitate]
+moves:
+- [Fly]
+- [Dig]
+- [Dragonbreath]
+- [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -45,17 +68,20 @@ tags: [in-game, PWT-Drake, trainer+drake]
 item: [null]
 ability: [Natural Cure]
 moves:
-- [Double Edge]
+- [Double Edge, Take Down]
 - [Dragon Breath]
 - [Dragon Dance]
-- [Aerial Ace]
+- [Aerial Ace, Refresh]
+combinations:
+- [Double Edge, Aerial Ace]
+- [Take Down, Refresh]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -68,14 +94,14 @@ moves:
 - [Rock Tomb]
 - [Dragon Claw]
 - [Protect]
-- [Double Edge]
+- [Double Edge, Crunch]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -85,16 +111,21 @@ tags: [in-game, PWT-Drake, trainer+drake]
 item: [null]
 ability: [Intimidate]
 moves:
-- [Flamethrower]
-- [Dragon Claw]
-- [Rock Slide]
+- [Flamethrower, Dragon Rush]
+- [Dragon Claw, Zen Headbutt]
+- [Rock Slide, Fly, Thunder Fang]
 - [Crunch]
+combinations:
+- [Dragon Rush, Zen Headbutt, Thunder Fang]
+- [Flamethrower, Dragon Claw]
+separations:
+- [Flamethrower, Thunder Fang]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0

@@ -6,9 +6,12 @@ item: [null]
 ability: [Rock Head]
 moves:
 - [Earthquake]
-- [Fire Punch]
-- [Thunder Punch]
+- [Fire Punch, Gyro Ball]
+- [Thunder Punch, Brick Break]
 - [Sandstorm]
+combinations:
+- [Fire Punch, Thunder Punch]
+- [Gyro Ball, Brick Break]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -25,10 +28,13 @@ tags: [in-game, PWT-Bertha, trainer+bertha]
 item: [null]
 ability: [Oblivious]
 moves:
-- [Earth Power]
+- [Earth Power, Fissure]
 - [Aqua Tail]
 - [Zen Headbutt]
-- [Sandstorm]
+- [Sandstorm, Rock Slide]
+combinations:
+- [Fissure, Rock Slide]
+- [Earth Power, Sandstorm]
 happiness: 255
 gender: [m, f]
 biddable: false
@@ -48,7 +54,7 @@ moves:
 - [Earthquake]
 - [Stone Edge]
 - [Crunch]
-- [Yawn]
+- [Yawn, Curse]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -89,6 +95,46 @@ moves:
 - [Ice Fang]
 - [Fire Fang]
 - [Thunder Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Bertha
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
+ability: [Damp]
+moves:
+- [Dig]
+- [Double Team]
+- [Protect]
+- [Sandstorm]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sudowoodo
+setname: PWT-Bertha
+tags: [in-game, PWT-Bertha, trainer+bertha]
+item: [null]
+ability: [Hyper Cutter]
+moves:
+- [Earthquake]
+- [Sucker Punch]
+- [Hammer Arm]
+- [Sandstorm]
 gender: [m, f]
 happiness: 255
 biddable: false

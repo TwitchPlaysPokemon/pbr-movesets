@@ -1,0 +1,101 @@
+---
+species: Raichu
+setname: PWT-Hau
+tags: [in-game, PWT-Hau, trainer+hau]
+item: [Twisted Spoon]
+ability: [Speed Boost]
+moves:
+- [Thunderbolt]
+- [Quick Attack]
+- [Psychic]
+- [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Hau
+tags: [in-game, PWT-Hau, trainer+hau]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Zen Headbutt]
+- [Iron Head]
+- [Earthquake]
+- [Double Edge]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Hau
+tags: [in-game, PWT-Hau, trainer+hau]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Charm]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Hau
+tags: [in-game, PWT-Hau, trainer+hau]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Hydro Pump]
+- [Quick Attack]
+- [Charm]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Leafeon
+setname: PWT-Hau
+tags: [in-game, PWT-Hau, trainer+hau]
+item: [null]
+ability: [Leaf Guard]
+moves:
+- [Leaf Blade]
+- [Quick Attack]
+- [Charm]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

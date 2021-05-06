@@ -7,15 +7,17 @@ ability: [Inner Focus]
 moves:
 - [Light Screen]
 - [Crunch]
-- [Icy Wind]
-- [Ice Beam]
+- [Icy Wind, Hail]
+- [Ice Beam, Ice Shard]
+separations:
+- [Ice Shard, Icy Wind]
 gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -26,7 +28,7 @@ item: [null]
 ability: [Inner Focus]
 moves:
 - [Shadow Ball]
-- [Explosion]
+- [Explosion, Crunch]
 - [Hail]
 - [Ice Beam]
 gender: [m]
@@ -35,7 +37,7 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -45,7 +47,7 @@ tags: [in-game, PWT-Glacia, trainer+glacia]
 item: [null]
 ability: [Thick Fat]
 moves:
-- [Encore]
+- [Encore, Surf]
 - [Body Slam]
 - [Hail]
 - [Ice Ball]
@@ -55,7 +57,7 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -66,7 +68,7 @@ item: [null]
 ability: [Thick Fat]
 moves:
 - [Attract]
-- [Double Edge]
+- [Double Edge, Dive]
 - [Hail]
 - [Blizzard]
 gender: [f]
@@ -75,7 +77,7 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -87,7 +89,7 @@ ability: [Thick Fat]
 moves:
 - [Surf]
 - [Body Slam]
-- [Ice Beam]
+- [Ice Beam, Blizzard]
 - [Sheer Cold]
 gender: [f]
 happiness: 255
@@ -95,6 +97,46 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Glacia
+tags: [in-game, PWT-Glacia, trainer+glacia]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Confuse Ray]
+- [Blizzard]
+- [Hail]
+- [Ominous Wind]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Glacia
+tags: [in-game, PWT-Glacia, trainer+glacia]
+item: [null]
+ability: [Snow Warning]
+moves:
+- [Blizzard]
+- [Wood Hammer]
+- [Ice Shard]
+- [Earthquake]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
 level: 100
 rarity: 1.0

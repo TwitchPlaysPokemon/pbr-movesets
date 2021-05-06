@@ -1,0 +1,131 @@
+---
+species: Blastoise
+setname: Gary
+ability: [Torrent]
+item: [null]
+ball: [Poke]
+moves:
+- [Hydro Pump]
+- [Water Gun]
+- [Hydro Cannon]
+- [Bite]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 4, atk: 0, def: 252, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [gary, anime]
+---
+species: Umbreon
+setname: Gary
+ability: [Synchronize]
+item: [null]
+ball: [Poke]
+moves:
+- [Bite]
+- [Shadow Ball]
+- [Reflect]
+- [Double Team]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 0}
+ivs: 31
+tags: [gary, anime]
+---
+species: Electivire
+setname: Gary
+ability: [Motor Drive]
+item: [null]
+ball: [Poke]
+moves:
+- [Thunder]
+- [Iron Tail]
+- [Protect]
+- [Earth Power]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [gary, anime]
+---
+species: Arcanine
+setname: Gary
+ability: [Intimidate]
+item: [null]
+ball: [Poke]
+moves:
+- [Take Down]
+- [Fire Spin]
+- [Fire Blast]
+- [Flame Wheel]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naughty
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [gary, anime]
+---
+species: Nidoqueen
+setname: Gary
+ability: [Rivalry]
+item: [null]
+ball: [Poke]
+moves:
+- [Poison Fang]
+- [Double Kick]
+- [Rock Smash]
+- [Strength]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Relaxed
+evs: {hp: 0, atk: 116, def: 0, spA: 252, spD: 140, spe: 0}
+ivs: 31
+tags: [gary, anime]
+---
+species: Golem
+setname: Gary
+ability: [Sturdy]
+item: [null]
+ball: [Poke]
+moves:
+- [Magnitude]
+- [Rollout]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Sassy
+evs: {hp: 0, atk: 252, def: 252, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [gary, anime]
+---
+species: Scizor
+setname: Gary
+ability: [Technician]
+item: [null]
+ball: [Poke]
+moves:
+- [Quick Attack]
+- [Metal Claw]
+- [Swift]
+- [Steel Wing]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hasty
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [gary, anime]

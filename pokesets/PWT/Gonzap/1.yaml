@@ -1,0 +1,80 @@
+---
+species: Crawdaunt
+setname: PWT-Gonzap
+tags: [in-game, PWT-Gonzap, trainer+gonzap]
+item: [null]
+ability: [Hyper Cutter]
+moves:
+- [Sludge Bomb]
+- [Crabhammer]
+- [Aerial Ace]
+- [Strength]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Shiftry
+setname: PWT-Gonzap
+tags: [in-game, PWT-Gonzap, trainer+gonzap]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Aerial Ace]
+- [Giga Drain]
+- [Feint Attack]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Pinsir
+setname: PWT-Gonzap
+tags: [in-game, PWT-Gonzap, trainer+gonzap]
+item: [null]
+ability: [Hyper Cutter]
+moves:
+- [Earthquake]
+- [Submission]
+- [Flail]
+- [Cut]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Hariyama
+setname: PWT-Gonzap
+tags: [in-game, PWT-Gonzap, trainer+gonzap]
+item: [null]
+ability: [Guts]
+moves:
+- [Brick Break]
+- [Earthquake]
+- [Foresight]
+- [Reversal]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

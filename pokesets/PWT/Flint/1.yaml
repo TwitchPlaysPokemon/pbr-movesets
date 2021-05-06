@@ -98,3 +98,63 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Steelix
+setname: PWT-Flint
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Fire Fang]
+- [Rock Tomb]
+- [Screech]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Drifblim
+setname: PWT-Flint
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
+ability: [Aftermath]
+moves:
+- [Will-O-Wisp]
+- [Ominous Wind]
+- [Double Team]
+- [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lopunny
+setname: PWT-Flint
+tags: [in-game, PWT-Flint, trainer+flint]
+item: [null]
+ability: [Cute Charm]
+moves:
+- [Fire Punch]
+- [Charm]
+- [Mirror Coat]
+- [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,105 @@
+---
+species: Wigglytuff
+setname: PWT-Adventures Green
+ingamename: Jiggly
+displayname: Jiggly
+tags: [in-game, PWT-Adventures Green, trainer+green]
+item: [null]
+ability: [Cute Charm]
+moves:
+- [Sing]
+- [Double Edge]
+- [Double Slap]
+- [Defense Curl]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Lax
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Granbull
+setname: PWT-Adventures Green
+ingamename: Bulu
+displayname: Bulu
+tags: [in-game, PWT-Adventures Green, trainer+green]
+item: [null]
+ability: [Quick Feet]
+moves:
+- [Scary Face]
+- [Bite]
+- [Charm]
+- [Take Down]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Adventures Green
+ingamename: Blasty
+displayname: Blasty
+tags: [in-game, PWT-Adventures Green, trainer+green]
+item: [null]
+ability: [Torrent]
+moves:
+- [Hydro Pump]
+- [Hydro Cannon]
+- [Mega Punch]
+- [Water Gun]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ditto
+setname: PWT-Adventures Green
+ingamename: Ditty
+displayname: Ditty
+tags: [in-game, PWT-Adventures Green, trainer+green]
+item: [null]
+ability: [Limber]
+moves:
+- [Transform]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Rash
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Clefable
+setname: PWT-Adventures Green
+ingamename: Cleffy
+displayname: Cleffy
+tags: [in-game, PWT-Adventures Green, trainer+green]
+item: [null]
+ability: [Cute Charm]
+moves:
+- [Growl]
+- [Metronome]
+- [Minimize]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Naughty
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,58 @@
+species: Metagross
+setname: PWT-Ray Tournament
+tags: [in-game, PWT-Ray Tournament, trainer+ray]
+item: [Lum Berry]
+ability: [Clear Body]
+moves:
+- [Meteor Mash]
+- [Earthquake]
+- [Zen Headbutt]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Ray Tournament
+tags: [in-game, PWT-Ray Tournament, trainer+ray]
+item: [Chople Berry]
+ability: [Sand Stream]
+moves:
+- [Rock Slide]
+- [Low Kick]
+- [Fire Punch]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Ray Tournament
+tags: [in-game, PWT-Ray Tournament, trainer+ray]
+item: [Haban Berry]
+ability: [Sand Veil]
+moves:
+- [Dragon Claw]
+- [Earthquake]
+- [Substitute]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0

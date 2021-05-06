@@ -1,0 +1,119 @@
+---
+species: Combusken
+setname: PWT-Candela Great
+tags: [in-game, PWT-Candela Great, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Peck]
+- [Ember]
+- [Flamethrower]
+- [Rock Slide]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magcargo
+setname: PWT-Candela Great
+tags: [in-game, PWT-Candela Great, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Rock Throw]
+- [Heat Wave]
+- [Overheat]
+- [Stone Edge]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Castform
+setname: PWT-Candela Great
+tags: [in-game, PWT-Candela Great, trainer+candela]
+item: [null]
+ability: [Forecast]
+gender: [f]
+moves:
+- [Weather Ball]
+- [Energy Ball]
+- [Tackle]
+- [Sunny Day]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Slugma
+setname: PWT-Candela Great
+tags: [in-game, PWT-Candela Great, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Ember]
+- [Rock Throw]
+- [Rock Slide]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vulpix
+setname: PWT-Candela Great
+tags: [in-game, PWT-Candela Great, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Flamethrower]
+- [Body Slam]
+- [Weather Ball]
+- [Return]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charmander
+setname: PWT-Candela Great
+tags: [in-game, PWT-Candela Great, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Ember]
+- [Scratch]
+- [Frustration]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

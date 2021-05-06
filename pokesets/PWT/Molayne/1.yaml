@@ -1,0 +1,99 @@
+---
+species: Skarmory
+setname: PWT-Molayne
+tags: [in-game, PWT-Molayne, trainer+molayne]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Night Slash]
+- [Steel Wing]
+- [Aerial Ace]
+- [Spikes]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Sandslash
+setname: PWT-Molayne
+tags: [in-game, PWT-Molayne, trainer+molayne]
+item: [NeverMeltIce]
+ability: [Snow Cloak]
+moves:
+- [Ice Fang]
+- [Gyro Ball]
+- [Earthquake]
+- [Shadow Claw]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Molayne
+tags: [in-game, PWT-Molayne, trainer+molayne]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Flash Cannon]
+- [Thunderbolt]
+- [Tri Attack]
+- [Screech]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Molayne
+tags: [in-game, PWT-Molayne, trainer+molayne]
+item: [null]
+ability: [Clear Body]
+moves:
+- [Hammer Arm]
+- [Meteor Mash]
+- [Bullet Punch]
+- [Zen Headbutt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dugtrio
+setname: PWT-Molayne
+tags: [in-game, PWT-Molayne, trainer+molayne]
+item: [Metal Coat]
+ability: [Sand Veil]
+moves:
+- [Earthquake]
+- [Iron Head]
+- [Sucker Punch]
+- [Fissure]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

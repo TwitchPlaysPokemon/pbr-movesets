@@ -1,0 +1,141 @@
+---
+species: Flareon
+setname: PWT-Candela Ultra
+tags: [in-game, PWT-Candela Ultra, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Overheat]
+- [Fire Spin]
+- [Flamethrower]
+- [Last Resort]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Typhlosion
+setname: PWT-Candela Ultra
+tags: [in-game, PWT-Candela Ultra, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Blast Burn, Fire Blast]
+- [Solar Beam]
+- [Overheat]
+- [Shadow Claw]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Candela Ultra
+tags: [in-game, PWT-Candela Ultra, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Fire Punch, Fire Blast]
+- [Brick Break, Karate Chop]
+- [Thunderbolt, Psychic]
+- [Return]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Marowak
+setname: PWT-Candela Ultra
+tags: [in-game, PWT-Candela Ultra, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Bone Club]
+- [Flame Wheel]
+- [Rock Smash]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Candela Ultra
+tags: [in-game, PWT-Candela Ultra, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Fire Fang]
+- [Crunch]
+- [Flamethrower]
+- [Return]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Candela Ultra
+tags: [in-game, PWT-Candela Ultra, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Blast Burn, Flamethrower]
+- [Close Combat, Rock Smash]
+- [Solar Beam]
+- [Fire Spin]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Candela Ultra
+tags: [in-game, PWT-Candela Ultra, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Thunder Punch]
+- [Thunder, Thunder Shock]
+- [Ice Punch]
+- [Flamethrower]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

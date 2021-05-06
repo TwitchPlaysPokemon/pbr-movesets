@@ -1,0 +1,101 @@
+---
+species: Quagsire
+setname: PWT-Marlon Tournament2
+tags: [in-game, PWT-Marlon Tournament2, trainer+marlon]
+item: [Rindo Berry]
+ability: [Damp, Water Absorb]
+gender: [m, f]
+moves:
+- [Stone Edge]
+- [Earthquake]
+- [Waterfall]
+- [Counter]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Cloyster
+setname: PWT-Marlon Tournament2
+tags: [in-game, PWT-Marlon Tournament2, trainer+marlon]
+item: [King's Rock]
+ability: [Shell Armor, Skill Link]
+gender: [m, f]
+moves:
+- [Ice Shard]
+- [Icicle Spear]
+- [Rock Blast]
+- [Curse]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Wailord
+setname: PWT-Marlon Tournament2
+tags: [in-game, PWT-Marlon Tournament2, trainer+marlon]
+item: [Choice Scarf]
+ability: [Water Veil, Oblivious]
+gender: [m, f]
+moves:
+- [Water Spout]
+- [Blizzard]
+- [Bounce]
+- [Fissure]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tentacruel
+displayname: Jellicent
+ingamename: Jellicent
+setname: PWT-Marlon Tournament2
+tags: [in-game, PWT-Marlon Tournament2, trainer+marlon]
+item: [Expert Belt]
+ability: [Water Absorb]
+gender: [m, f]
+moves:
+- [Hydro Pump]
+- [Energy Ball]
+- [Shadow Ball]
+- [Psychic]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Marlon Tournament2
+tags: [in-game, PWT-Marlon Tournament2, trainer+marlon]
+item: [Focus Sash]
+ability: [Illuminate, Natural Cure]
+moves:
+- [Thunderbolt]
+- [Reflect]
+- [Brine]
+- [Light Screen]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0

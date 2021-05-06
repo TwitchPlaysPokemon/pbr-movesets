@@ -1,0 +1,60 @@
+---
+species: Magnezone
+setname: PWT-Sophocles
+tags: [in-game, PWT-Sophocles, trainer+sophocles]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Flash Cannon]
+- [Discharge]
+- [Tri Attack]
+- [Reflect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Sophocles
+tags: [in-game, PWT-Sophocles, trainer+sophocles]
+item: [null]
+ability: [Motor Drive]
+moves:
+- [Thunder Punch]
+- [Giga Impact]
+- [Fire Punch]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Sophocles
+tags: [in-game, PWT-Sophocles, trainer+sophocles]
+item: [Magnet]
+ability: [Sturdy]
+moves:
+- [Stone Edge]
+- [Body Slam]
+- [Thunder Punch]
+- [Low Kick]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

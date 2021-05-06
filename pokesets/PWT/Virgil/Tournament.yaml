@@ -1,0 +1,59 @@
+species: Eevee
+setname: PWT-Virgil Tournament
+tags: [in-game, PWT-Virgil Tournament, trainer+virgil]
+item: [Ganlon Berry, Apicot Berry]
+ability: [Adaptability]
+moves:
+- [Dig]
+- [Iron Tail]
+- [Trump Card]
+- [Return]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Umbreon
+setname: PWT-Virgil Tournament
+tags: [in-game, PWT-Virgil Tournament, trainer+virgil]
+item: [Leftovers]
+ability: [Synchronize]
+moves:
+- [Payback]
+- [Confuse Ray]
+- [Curse]
+- [Moonlight]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Virgil Tournament
+tags: [in-game, PWT-Virgil Tournament, trainer+virgil]
+item: [Lum Berry]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Calm Mind]
+- [Morning Sun]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0

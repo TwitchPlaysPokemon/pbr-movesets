@@ -3,11 +3,11 @@ ingamename: Cooling
 displayname: Global Cooling
 setname: Nuke
 tags: [nuke]
-item: [sitrus berry]
-ability: snow warning
+item: [Sitrus Berry]
+ability: Snow Warning
 moves:
-    - [blizzard]
-    - [grass knot]
+    - [Blizzard]
+    - [Grass Knot]
     - [Drain Punch]
     - [Mirror Coat]
 gender: [m, f]

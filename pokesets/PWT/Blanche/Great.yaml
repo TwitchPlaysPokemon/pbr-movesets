@@ -1,0 +1,118 @@
+---
+species: Sneasel
+setname: PWT-Blanche Great
+tags: [in-game, PWT-Blanche Great, trainer+blanche]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Avalanche]
+- [Feint Attack]
+- [Ice Shard]
+- [Frustration]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Sealeo
+setname: PWT-Blanche Great
+tags: [in-game, PWT-Blanche Great, trainer+blanche]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Aurora Beam]
+- [Water Pulse]
+- [Powder Snow]
+- [Body Slam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Castform
+setname: PWT-Blanche Great
+tags: [in-game, PWT-Blanche Great, trainer+blanche]
+item: [null]
+ability: [Forecast]
+gender: [m, f]
+moves:
+- [Weather Ball]
+- [Energy Ball]
+- [Tackle]
+- [Hail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magikarp
+setname: PWT-Blanche Great
+tags: [in-game, PWT-Blanche Great, trainer+blanche]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Return]
+- [Splash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Feebas
+setname: PWT-Blanche Great
+tags: [in-game, PWT-Blanche Great, trainer+blanche]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Tackle]
+- [Mirror Coat]
+- [Splash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Squirtle
+setname: PWT-Blanche Great
+tags: [in-game, PWT-Blanche Great, trainer+blanche]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Aqua Jet]
+- [Water Pulse]
+- [Bubble]
+- [Tackle]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
