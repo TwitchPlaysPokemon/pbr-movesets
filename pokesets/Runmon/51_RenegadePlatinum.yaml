@@ -1,0 +1,128 @@
+species: Manaphy
+ingamename: GAMYPI SSB
+displayname: GAMYPI SSB
+setname: TPP Renegade Plat
+tags: [runmon, in-game]
+item: [Damp Rock]
+ability: [Hydration]
+moves:
+    - [Surf]
+    - [Tail Glow]
+    - [Rest]
+    - [Rain Dance]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Mild
+ivs: {hp: 12, atk: 22, def: 23, spA: 4, spD: 5, spe: 21}
+evs: {hp: 83, atk: 111, def: 124, spA: 73, spD: 47, spe: 72}
+---
+species: Metagross
+ingamename: "GPWWERZ!:"
+displayname: "GPWWERZ!:"
+setname: TPP Renegade Plat
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash]
+    - [Zen Headbutt]
+    - [Earthquake]
+    - [Fly]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 29, atk: 13, def: 3, spA: 19, spD: 13, spe: 22}
+evs: {hp: 71, atk: 115, def: 126, spA: 43, spD: 54, spe: 101}
+---
+species: Magcargo
+ingamename: oouooobbc
+displayname: oouooobbc
+setname: TPP Renegade Plat
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Solid Rock]
+moves:
+    - [Flamethrower]
+    - [Power Gem]
+    - [Iron Defense]
+    - [Recover]
+gender: [f]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: {hp: 17, atk: 28, def: 27, spA: 6, spD: 17, spe: 23}
+evs: {hp: 42, atk: 126, def: 127, spA: 55, spD: 46, spe: 114}
+---
+species: Rotom
+ingamename: JOmJFrOIDe
+displayname: JOmJFrOIDe
+setname: TPP Renegade Plat
+tags: [runmon, in-game]
+item: [Magnet]
+ability: [Levitate]
+moves:
+    - [Blizzard]
+    - [Discharge]
+    - [Shadow Ball]
+    - [Reflect]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quiet
+ivs: {hp: 9, atk: 3, def: 13, spA: 19, spD: 27, spe: 18}
+evs: {hp: 106, atk: 95, def: 130, spA: 38, spD: 35, spe: 106}
+---
+species: Infernape
+ingamename: MONKE
+displayname: MONKE
+setname: TPP Renegade Plat
+tags: [runmon, in-game]
+item: [Life Orb]
+ability: [Blaze]
+moves:
+    - [Close Combat]
+    - [Fire Punch]
+    - [Earthquake, Return]
+    - [Thunder Punch]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: {hp: 24, atk: 11, def: 30, spA: 23, spD: 2, spe: 9}
+evs: {hp: 65, atk: 125, def: 71, spA: 80, spD: 59, spe: 110}
+---
+species: Meganium
+ingamename: STPPBWG
+displayname: STPPBWG
+setname: TPP Renegade Plat
+tags: [runmon, in-game]
+item: [Big Root]
+ability: [Serene Grace]
+moves:
+    - [Giga Drain]
+    - [Dragon Pulse]
+    - [Drain Punch]
+    - [Rock Slide]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: {hp: 22, atk: 28, def: 25, spA: 8, spD: 11, spe: 9}
+evs: {hp: 90, atk: 131, def: 120, spA: 50, spD: 38, spe: 81}

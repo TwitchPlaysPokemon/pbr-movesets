@@ -62,3 +62,27 @@ shiny: False
 nature: Quiet
 ivs: {hp: 7, atk: 25, def: 18, spA: 18, spD: 1, spe: 5}
 evs: {hp: 2, atk: 4, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Girafarig
+ingamename: "TT"
+displayname: "TT"
+setname: TPP Sirius
+gender: [m]
+tags: [runmon, in-game]
+item: [Lax Incense]
+ability: [Inner Focus]
+moves:
+    - [Psychic]
+    - [Secret Power]
+    - [Thunderbolt]
+    - [Crunch]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Calm
+ivs: {hp: 14, atk: 5, def: 13, spA: 2, spD: 16, spe: 22}
+evs: {hp: 21, atk: 141, def: 36, spA: 140, spD: 53, spe: 119}
+
+

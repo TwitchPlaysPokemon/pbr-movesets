@@ -1,0 +1,21 @@
+species: Mantine
+ingamename: MissingNo.
+displayname: MissingNo.
+setname: Christmas
+tags: [christmas]
+item: Splash Plate
+ability: Download
+moves:
+    - [Water Gun]
+    - [Sky Attack]
+    - [Struggle]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
