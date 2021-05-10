@@ -1,0 +1,59 @@
+species: Salamence
+setname: PWT-Iris Rematch
+tags: [in-game, PWT-Iris Rematch, trainer+iris]
+item: [Life Orb]
+ability: [Intimidate]
+moves:
+- [Fire Blast]
+- [Earthquake]
+- [Draco Meteor]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aggron
+setname: PWT-Iris Rematch
+tags: [in-game, PWT-Iris Rematch, trainer+iris]
+item: [Muscle Band]
+ability: [Rock Head]
+moves:
+- [Earthquake]
+- [Double Edge]
+- [Head Smash]
+- [Agility]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lapras
+setname: PWT-Iris Rematch
+tags: [in-game, PWT-Iris Rematch, trainer+iris]
+item: [Zoom Lens]
+ability: [Water Absorb]
+moves:
+- [Hydro Pump]
+- [Blizzard]
+- [Thunder]
+- [Sing]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
