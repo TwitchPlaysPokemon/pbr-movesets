@@ -1,0 +1,59 @@
+species: Gengar
+setname: PWT-Shauntal Rematch
+tags: [in-game, PWT-Shauntal Rematch, trainer+shauntal]
+item: [Expert Belt]
+ability: [Levitate]
+moves:
+- [Shadow Ball]
+- [Focus Blast]
+- [Sludge Bomb]
+- [Dark Pulse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Frosslass
+setname: PWT-Shauntal Rematch
+tags: [in-game, PWT-Shauntal Rematch, trainer+shauntal]
+item: [Wise Glasses]
+ability: [Snow Cloak]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Blizzard]
+- [Ice Shard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Drifblim
+setname: PWT-Shauntal Rematch
+tags: [in-game, PWT-Shauntal Rematch, trainer+shauntal]
+item: [Sky Plate]
+ability: [Unburden]
+moves:
+- [Shadow Ball]
+- [Psychic]
+- [Aerial Ace]
+- [Thunder]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
