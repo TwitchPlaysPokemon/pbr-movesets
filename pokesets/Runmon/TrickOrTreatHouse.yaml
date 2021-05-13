@@ -2,6 +2,7 @@ species: Fearow
 ingamename: BOOHHHKKKE
 displayname: BOOHHHKKKE
 setname: TPP Trick House
+tags: [runmon, in-game]
 item: [Wide Lens]
 ability: [Intimidate]
 moves:
@@ -23,6 +24,7 @@ species: Marshtomp
 ingamename: AOp
 displayname: AOp
 setname: TPP Trick House
+tags: [runmon, in-game]
 item: [Mystic Water]
 ability: [Intimidate]
 moves:
@@ -44,6 +46,7 @@ species: Quilava
 ingamename: BNuu""
 displayname: BNuu""
 setname: TPP Trick House
+tags: [runmon, in-game]
 item: [null]
 ability: [Blaze]
 moves:
@@ -65,6 +68,7 @@ species: Shuckle
 ingamename: AABWVN
 displayname: AABWVN
 setname: TPP Trick House
+tags: [runmon, in-game]
 item: [Focus Sash]
 ability: [Intimidate]
 moves:
