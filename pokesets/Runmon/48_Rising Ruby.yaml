@@ -2,6 +2,7 @@ species: Kingdra
 ingamename: "fish"
 displayname: "fish"
 setname: TPP Rising Ruby
+tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Swift Swim]
 moves:
@@ -23,6 +24,7 @@ species: Cradily
 ingamename: "Lg"
 displayname: "Lg"
 setname: TPP Rising Ruby
+tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Storm Drain]
 moves:
@@ -44,6 +46,7 @@ species: Dunsparce
 ingamename: "noob"
 displayname: "noob"
 setname: TPP Rising Ruby
+tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Serene Grace]
 moves:
@@ -65,6 +68,7 @@ species: Delcatty
 ingamename: "!whhy"
 displayname: "!whhy"
 setname: TPP Rising Ruby
+tags: [runmon, in-game]
 item: [Amulet Coin]
 ability: [Normalize]
 moves:
@@ -86,6 +90,7 @@ species: Latios
 ingamename: "!eder"
 displayname: "!eder"
 setname: TPP Rising Ruby
+tags: [runmon, in-game]
 item: [Soul Dew]
 ability: [Levitate]
 moves:
@@ -107,6 +112,7 @@ species: Shedinja
 ingamename: "ja"
 displayname: "ja"
 setname: TPP Rising Ruby
+tags: [runmon, in-game]
 item: [Rare Candy]
 ability: [Wonder Guard]
 moves:

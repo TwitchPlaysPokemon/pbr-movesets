@@ -2,6 +2,7 @@ species: Ludicolo
 ingamename: XXHI
 displayname: XXHI
 setname: TPP Chatty Crystal
+tags: [runmon, in-game]
 item: [Leftovers]
 ability: [null]
 moves:
@@ -23,6 +24,7 @@ species: Chatot
 ingamename: KENYA
 displayname: KENYA
 setname: TPP Chatty Crystal
+tags: [runmon, in-game]
 item: [Focus Band]
 ability: [null]
 moves:
@@ -41,9 +43,11 @@ ivs: {hp: 12, atk: 16, def: 18, spA: 24, spD: 24, spe: 18}
 evs: {hp: 184, atk: 194, def: 184, spA: 180, spD: 180, spe: 136}
 ---
 species: Unown
+form: 19
 ingamename: PPPPss
 displayname: PPPPss
 setname: TPP Chatty Crystal
+tags: [runmon, in-game]
 item: [BrightPowder]
 ability: [null]
 moves:
@@ -61,6 +65,7 @@ species: Skuntank
 ingamename: ZZZZZ
 displayname: ZZZZZ
 setname: TPP Chatty Crystal
+tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Null]
 moves:
@@ -82,6 +87,7 @@ species: Torterra
 ingamename: VVVVVV
 displayname: VVVVVV
 setname: TPP Chatty Crystal
+tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Null]
 moves:
@@ -104,6 +110,7 @@ species: Lopunny
 ingamename: MY
 displayname: MY
 setname: TPP Chatty Crystal
+tags: [runmon, in-game]
 item: [King's Rock]
 ability: [Null]
 moves:

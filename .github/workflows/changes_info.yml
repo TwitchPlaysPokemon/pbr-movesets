@@ -1,19 +1,11 @@
 name: changes_info
-on:
-  pull_request_target:
-    types: [ opened, synchronize, reopened, labeled ]
-# SECURITY NOTICE: this workflow MUST NOT execute any of the pull request's code.
-# The entire pull request's code must be treated as passive data.
-# See this blog post for more information: https://securitylab.github.com/research/github-actions-preventing-pwn-requests
+on: [ pull_request ]
 
 jobs:
   changes_info:
     runs-on: ubuntu-latest
-    if: contains(github.event.pull_request.labels.*.name, 'analyze changes')
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
       - uses: actions/setup-python@v2
         with:
           python-version: '3.x'
@@ -21,46 +13,9 @@ jobs:
       - name: install python dependencies
         run: |
           python -m pip install --upgrade pip
-          # not using a requirements.txt file on purpose. See the security notice at the top of the file.
           python -m pip install pyyaml git+https://github.com/TwitchPlaysPokemon/pokecat.git
-      - id: files
-        uses: mmagician/get-changed-files@v2
+      - name: determine changed files
+        uses: lots0logs/gh-action-get-changed-files@2.1.4
         with:
-          format: 'csv'
-      - run: |
-          echo -e "Stats:\n" > _sets_comments.md
-          echo "| file | set | species | hp | atk | def | spe | spA | spD |" >> _sets_comments.md
-          echo "| --- | --- | --- | --- | --- | --- | --- | --- | --- |" >> _sets_comments.md
-          any_changed=false
-          # see https://github.com/jitterbit/get-changed-files#get-all-added-and-modified-files-as-csv
-          mapfile -d ',' -t changed_files < <(printf '%s,' '${{ steps.files.outputs.added_modified }}')
-          for changed_file in "${changed_files[@]}"; do
-            file_count=$(find pokesets/ -name "$changed_file" | wc -l)
-            if [[ $changed_file == pokesets/* && ( $changed_file == *.yaml || $changed_file == *.yml ) ]]; then
-              echo "$changed_file is a pokeset"
-              any_changed=true
-              python -m pokecat populate "${changed_file}" "${changed_file}.populated"
-              python -m pokecat instantiate "${changed_file}.populated" "${changed_file}.instantiated"
-              cat "${changed_file}.instantiated" | jq --raw-output ".[] | \"| ${changed_file} | \(.setname) | \(.species.name) | \(.stats.hp) | \(.stats.atk) | \(.stats.def) | \(.stats.spe) | \(.stats.spA) | \(.stats.spD) |\"" >> _sets_comments.md
-              cat _sets_comments.md
-            else
-              echo "$changed_file is not a pokeset"
-            fi
-          done
-          if [ "$any_changed" = false ]; then
-            echo "No sets changed"
-            rm _sets_comments.md
-          fi
-      - name: 'Add info comment'
-        uses: actions/github-script@0.3.0
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const { issue: { number: issue_number }, repo: { owner, repo }  } = context;
-            fs = require('fs');
-            if (fs.existsSync('_sets_comments.md')) {
-              fs.readFile('_sets_comments.md', 'utf8', function(err, data) {
-                if (err) return console.log(err);
-                github.issues.createComment({ issue_number, owner, repo, body: data });
-              });
-            }
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - run: python .github/workflows/analyze_changed_files.py

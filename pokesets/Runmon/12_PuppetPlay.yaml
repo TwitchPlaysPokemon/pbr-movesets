@@ -2,6 +2,7 @@ species: Manectric
 ingamename: TSanae
 displayname: TSanae
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Serene Grace]
 moves:
@@ -23,6 +24,7 @@ species: Spiritomb
 ingamename: Mima
 displayname: Mima
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [Exp. Share]
 ability: [Pressure]
 moves:
@@ -44,6 +46,7 @@ species: Articuno
 ingamename: BB
 displayname: BB
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [Lucky Egg]
 ability: [Speed Boost]
 moves:
@@ -64,6 +67,7 @@ species: Scizor
 ingamename: AUUUUABBBB
 displayname: AUUUUABBBB
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [Insect Plate]
 ability: [Intimidate]
 moves:
@@ -85,6 +89,7 @@ species: Espeon
 ingamename: Chauzu
 displayname: Chauzu
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [Insect Plate]
 ability: [Trace]
 moves:
@@ -98,7 +103,7 @@ biddable: True
 rarity: 1.0
 ball: [Poke]
 shiny: False
-nature:
+nature: Calm
 ivs: {hp: 18, atk: 10, def: 27, spA: 29, spD: 27, spe: 5}
 evs: {hp: 114, atk: 58, def: 16, spA: 194, spD: 29, spe: 99}
 ---
@@ -106,6 +111,7 @@ species: Fearow
 ingamename: A
 displayname: A
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [Pinap Berry]
 ability: [Limber]
 moves:
@@ -127,6 +133,7 @@ species: Ludicolo
 ingamename: AAGH
 displayname: AAGH
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Torrent]
 moves:
@@ -148,6 +155,7 @@ species: Ampharos
 ingamename: DIku
 displayname: DIku
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [null]
 ability: [Own Tempo]
 moves:
@@ -170,6 +178,7 @@ species: Scyther
 ingamename: w♂760
 displayname: w♂760
 setname: TPP Puppet Play
+tags: [runmon, in-game]
 item: [null]
 ability: [Early Bird]
 moves:
