@@ -1,0 +1,175 @@
+species: Gengar
+ingamename: HECTOR
+displayname: HECTOR
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Psychic]
+    - [Thunderbolt]
+    - [Night Shade]
+    - [Metronome]
+gender: [M]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 18, def: 22, spA: 30, spD: 30, spe: 26}
+evs: {hp: 127, atk: 137, def: 139, spA: 134, spD: 134, spe: 133}
+---
+species: Venusaur
+ingamename: ABAAABBBBK
+displayname: ABAAABBBBK
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Razor Leaf]
+    - [Cut]
+    - [Leech Seed]
+    - [Poison Powder]
+gender: [M]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 1, atk: 16, def: 24, spA: 4, spD: 4, spe: 16}
+evs: {hp: 102, atk: 115, def: 113, spA: 104, spD: 104, spe: 119}
+---
+species: Dugtrio
+ingamename: B!♂
+displayname: B!♂
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Dig]
+    - [Slash]
+    - [Sand Attack]
+gender: [M]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 6, atk: 28, def: 28, spA: 6, spD: 6, spe: 18}
+evs: {hp: 85, atk: 92, def: 87, spA: 95, spD: 95, spe: 94}
+---
+species: Blastoise
+ingamename: NN
+displayname: NN
+setname: TPS Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Bite]
+    - [Ice Beam]
+    - [Dig]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 20, atk: 22, def: 24, spA: 4, spD: 4, spe: 14}
+evs: {hp: 120, atk: 135, def: 128, spA: 119, spD: 119, spe: 132}
+---
+species: Dugtrio
+ingamename: A
+displayname: A
+setname: TPS Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Sand Attack]
+    - [Scratch]
+    - [Dig]
+gender: [M]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 20, atk: 22, def: 24, spA: 24, spD: 24, spe: 2}
+evs: {hp: 83, atk: 92, def: 92, spA: 86, spD: 86, spe: 83}
+---
+species: Jolteon
+ingamename: JOLTEON
+displayname: JOLTEON
+setname: TPS Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Thundershock]
+    - [Double Kick]
+    - [Thunder Wave]
+    - [Quick Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 1, def: 2, spA: 10, spD: 10, spe: 14}
+evs: {hp: 65, atk: 72, def: 73, spA: 66, spD: 66, spe: 67}
+---
+species: Nidoking
+ingamename: HA
+displayname: HA
+setname: TPPM Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Horn Drill]
+    - [Surf]
+    - [Ice Beam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 22, def: 30, spA: 16, spD: 16, spe: 24}
+evs: {hp: 130, atk: 142, def: 137, spA: 132, spD: 132, spe: 148}
+---
+species: Jolteon
+ingamename: SPARK
+displayname: SPARK
+setname: TPPM Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Thunder]
+    - [Pin Missile]
+    - [Tackle]
+    - [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 14, def: 26, spA: 22, spD: 22, spe: 28}
+evs: {hp: 84, atk: 87, def: 91, spA: 92, spD: 92, spe: 86}
