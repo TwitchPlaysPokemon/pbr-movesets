@@ -16,7 +16,7 @@ rarity: 0.4
 ball: [Ultra]
 nature: Bold
 ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
-evs: {hp: 248, atk: 0, def: 228, spA: 0, spD: 0, spe: 32}
+evs: {hp: 252, atk: 0, def: 224, spA: 0, spD: 0, spe: 32}
 ---
 species: Zapdos
 setname: u-BatonPass
