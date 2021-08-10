@@ -1,0 +1,207 @@
+species: Wooper
+setname: m-Standard
+displayname: Wooper-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
+gender:
+- m
+- f
+ability:
+- Damp
+- Unaware
+---
+species: Wooper
+setname: m-Shiny
+displayname: Wooper-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
+gender:
+- m
+- f
+ability:
+- Damp
+- Unaware
+shiny: true
+hidden: true
+---
+species: Wooper
+setname: m-High Stats
+displayname: Wooper-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+- no-mixing
+gender:
+- m
+- f
+ability:
+- Damp
+- Unaware
+hidden: false
+---
+species: Wooper
+setname: m-Balanced
+displayname: Wooper-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+- no-mixing
+gender:
+- m
+- f
+ability:
+- Damp
+- Unaware
+hidden: false

@@ -1,0 +1,703 @@
+species: Deoxys
+setname: m-Standard
+displayname: Deoxys-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+ability:
+- Pressure
+---
+species: Deoxys
+setname: m-Shiny
+displayname: Deoxys-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+ability:
+- Pressure
+shiny: true
+hidden: true
+---
+species: Deoxys
+setname: m-High Stats
+displayname: Deoxys-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+ability:
+- Pressure
+hidden: false
+---
+species: Deoxys
+setname: m-Balanced
+displayname: Deoxys-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+ability:
+- Pressure
+hidden: false
+---
+species: Deoxys
+setname: m-Attack
+displayname: Deoxys Attack-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+ability:
+- Pressure
+form: Attack
+---
+species: Deoxys
+setname: m-Attack Shiny
+displayname: Deoxys Attack-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+ability:
+- Pressure
+form: Attack
+shiny: true
+hidden: true
+---
+species: Deoxys
+setname: m-Attack High Stats
+displayname: Deoxys Attack-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+ability:
+- Pressure
+form: Attack
+hidden: false
+---
+species: Deoxys
+setname: m-Attack Balanced
+displayname: Deoxys Attack-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+ability:
+- Pressure
+form: Attack
+hidden: false
+---
+species: Deoxys
+setname: m-Defense
+displayname: Deoxys Defense-M
+ball: Poke
+item: Sticky Barb
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Pressure
+form: Defense
+---
+species: Deoxys
+setname: m-Defense Shiny
+displayname: Deoxys Defense-M
+ball: Poke
+item: Sticky Barb
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Pressure
+form: Defense
+shiny: true
+hidden: true
+---
+species: Deoxys
+setname: m-Defense High Stats
+displayname: Deoxys Defense-M
+ball: Poke
+item: Sticky Barb
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Pressure
+form: Defense
+hidden: false
+---
+species: Deoxys
+setname: m-Defense Balanced
+displayname: Deoxys Defense-M
+ball: Poke
+item: Sticky Barb
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Pressure
+form: Defense
+hidden: false
+---
+species: Deoxys
+setname: m-Speed
+displayname: Deoxys Speed-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+ability:
+- Pressure
+form: Speed
+---
+species: Deoxys
+setname: m-Speed Shiny
+displayname: Deoxys Speed-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+ability:
+- Pressure
+form: Speed
+shiny: true
+hidden: true
+---
+species: Deoxys
+setname: m-Speed High Stats
+displayname: Deoxys Speed-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+ability:
+- Pressure
+form: Speed
+hidden: false
+---
+species: Deoxys
+setname: m-Speed Balanced
+displayname: Deoxys Speed-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+ability:
+- Pressure
+form: Speed
+hidden: false

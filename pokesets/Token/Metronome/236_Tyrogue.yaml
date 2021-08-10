@@ -1,0 +1,199 @@
+species: Tyrogue
+setname: m-Standard
+displayname: Tyrogue-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+ability:
+- Guts
+- Vital Spirit
+---
+species: Tyrogue
+setname: m-Shiny
+displayname: Tyrogue-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+ability:
+- Guts
+- Vital Spirit
+shiny: true
+hidden: true
+---
+species: Tyrogue
+setname: m-High Stats
+displayname: Tyrogue-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+ability:
+- Guts
+- Vital Spirit
+hidden: false
+---
+species: Tyrogue
+setname: m-Balanced
+displayname: Tyrogue-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+ability:
+- Guts
+- Vital Spirit
+hidden: false

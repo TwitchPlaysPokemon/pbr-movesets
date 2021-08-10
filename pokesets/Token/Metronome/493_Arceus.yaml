@@ -1,0 +1,2179 @@
+species: Arceus
+setname: m-Standard
+displayname: Arceus-M
+ball: Poke
+item: Black Sludge
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Shiny
+displayname: Arceus-M
+ball: Poke
+item: Black Sludge
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-High Stats
+displayname: Arceus-M
+ball: Poke
+item: Black Sludge
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Balanced
+displayname: Arceus-M
+ball: Poke
+item: Black Sludge
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Grass
+displayname: Arceus Grass-M
+ball: Poke
+item: Meadow Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Grass Shiny
+displayname: Arceus Grass-M
+ball: Poke
+item: Meadow Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Grass High Stats
+displayname: Arceus Grass-M
+ball: Poke
+item: Meadow Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Grass Balanced
+displayname: Arceus Grass-M
+ball: Poke
+item: Meadow Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Fire
+displayname: Arceus Fire-M
+ball: Poke
+item: Flame Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Fire Shiny
+displayname: Arceus Fire-M
+ball: Poke
+item: Flame Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Fire High Stats
+displayname: Arceus Fire-M
+ball: Poke
+item: Flame Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Fire Balanced
+displayname: Arceus Fire-M
+ball: Poke
+item: Flame Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Water
+displayname: Arceus Water-M
+ball: Poke
+item: Splash Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Water Shiny
+displayname: Arceus Water-M
+ball: Poke
+item: Splash Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Water High Stats
+displayname: Arceus Water-M
+ball: Poke
+item: Splash Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Water Balanced
+displayname: Arceus Water-M
+ball: Poke
+item: Splash Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Flying
+displayname: Arceus Flying-M
+ball: Poke
+item: Sky Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Flying Shiny
+displayname: Arceus Flying-M
+ball: Poke
+item: Sky Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Flying High Stats
+displayname: Arceus Flying-M
+ball: Poke
+item: Sky Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Flying Balanced
+displayname: Arceus Flying-M
+ball: Poke
+item: Sky Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Bug
+displayname: Arceus Bug-M
+ball: Poke
+item: Insect Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Bug Shiny
+displayname: Arceus Bug-M
+ball: Poke
+item: Insect Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Bug High Stats
+displayname: Arceus Bug-M
+ball: Poke
+item: Insect Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Bug Balanced
+displayname: Arceus Bug-M
+ball: Poke
+item: Insect Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Poison
+displayname: Arceus Poison-M
+ball: Poke
+item: Toxic Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Poison Shiny
+displayname: Arceus Poison-M
+ball: Poke
+item: Toxic Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Poison High Stats
+displayname: Arceus Poison-M
+ball: Poke
+item: Toxic Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Poison Balanced
+displayname: Arceus Poison-M
+ball: Poke
+item: Toxic Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Electric
+displayname: Arceus Electric-M
+ball: Poke
+item: Zap Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Electric Shiny
+displayname: Arceus Electric-M
+ball: Poke
+item: Zap Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Electric High Stats
+displayname: Arceus Electric-M
+ball: Poke
+item: Zap Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Electric Balanced
+displayname: Arceus Electric-M
+ball: Poke
+item: Zap Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Psychic
+displayname: Arceus Psychic-M
+ball: Poke
+item: Mind Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Psychic Shiny
+displayname: Arceus Psychic-M
+ball: Poke
+item: Mind Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Psychic High Stats
+displayname: Arceus Psychic-M
+ball: Poke
+item: Mind Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Psychic Balanced
+displayname: Arceus Psychic-M
+ball: Poke
+item: Mind Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Rock
+displayname: Arceus Rock-M
+ball: Poke
+item: Stone Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Rock Shiny
+displayname: Arceus Rock-M
+ball: Poke
+item: Stone Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Rock High Stats
+displayname: Arceus Rock-M
+ball: Poke
+item: Stone Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Rock Balanced
+displayname: Arceus Rock-M
+ball: Poke
+item: Stone Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Ground
+displayname: Arceus Ground-M
+ball: Poke
+item: Earth Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Ground Shiny
+displayname: Arceus Ground-M
+ball: Poke
+item: Earth Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Ground High Stats
+displayname: Arceus Ground-M
+ball: Poke
+item: Earth Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Ground Balanced
+displayname: Arceus Ground-M
+ball: Poke
+item: Earth Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Dark
+displayname: Arceus Dark-M
+ball: Poke
+item: Dread Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Dark Shiny
+displayname: Arceus Dark-M
+ball: Poke
+item: Dread Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Dark High Stats
+displayname: Arceus Dark-M
+ball: Poke
+item: Dread Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Dark Balanced
+displayname: Arceus Dark-M
+ball: Poke
+item: Dread Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Ghost
+displayname: Arceus Ghost-M
+ball: Poke
+item: Spooky Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Ghost Shiny
+displayname: Arceus Ghost-M
+ball: Poke
+item: Spooky Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+- no-mixing
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Ghost High Stats
+displayname: Arceus Ghost-M
+ball: Poke
+item: Spooky Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+- no-mixing
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Ghost Balanced
+displayname: Arceus Ghost-M
+ball: Poke
+item: Spooky Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+- no-mixing
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Steel
+displayname: Arceus Steel-M
+ball: Poke
+item: Iron Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Steel Shiny
+displayname: Arceus Steel-M
+ball: Poke
+item: Iron Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Steel High Stats
+displayname: Arceus Steel-M
+ball: Poke
+item: Iron Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Steel Balanced
+displayname: Arceus Steel-M
+ball: Poke
+item: Iron Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Fighting
+displayname: Arceus Fighting-M
+ball: Poke
+item: Fist Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Fighting Shiny
+displayname: Arceus Fighting-M
+ball: Poke
+item: Fist Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Fighting High Stats
+displayname: Arceus Fighting-M
+ball: Poke
+item: Fist Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Fighting Balanced
+displayname: Arceus Fighting-M
+ball: Poke
+item: Fist Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Ice
+displayname: Arceus Ice-M
+ball: Poke
+item: Icicle Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Ice Shiny
+displayname: Arceus Ice-M
+ball: Poke
+item: Icicle Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Ice High Stats
+displayname: Arceus Ice-M
+ball: Poke
+item: Icicle Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Ice Balanced
+displayname: Arceus Ice-M
+ball: Poke
+item: Icicle Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Dragon
+displayname: Arceus Dragon-M
+ball: Poke
+item: Draco Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+---
+species: Arceus
+setname: m-Dragon Shiny
+displayname: Arceus Dragon-M
+ball: Poke
+item: Draco Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+shiny: true
+hidden: true
+---
+species: Arceus
+setname: m-Dragon High Stats
+displayname: Arceus Dragon-M
+ball: Poke
+item: Draco Plate
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
+---
+species: Arceus
+setname: m-Dragon Balanced
+displayname: Arceus Dragon-M
+ball: Poke
+item: Draco Plate
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+ability:
+- Multitype
+hidden: false
