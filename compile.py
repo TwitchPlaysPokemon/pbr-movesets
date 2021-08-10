@@ -6,6 +6,7 @@ import os
 import warnings
 from enum import Enum
 from itertools import groupby, chain
+from typing import Optional
 
 import pokecat
 import yaml
@@ -47,16 +48,22 @@ class Note:
                 .format(self.severity, self.message, self.pokeset_identifier, self.filepath, self.position))
 
 
+def find_prototype_file(base_dir, rel_path) -> Optional[bytes]:
+    while rel_path:
+        for filename in os.listdir(os.path.join(base_dir, rel_path)):
+            if filename.lower() in ("_prototype.yaml", "_prototype.yml"):
+                return os.path.join(base_dir, rel_path, filename)
+        rel_path = os.path.dirname(rel_path)
+    return None
+
+
 def analyze_dir(root_dir):
     pokesets = []
     notes = []
     for dirname, _, filenames in os.walk(root_dir):
-        def is_prototype_file(f):
-            return f.lower() in ("_prototype.yaml", "_prototype.yml")
-        prototype_filename = next((f for f in filenames if is_prototype_file(f)), None)
+        prototype_filepath = find_prototype_file(root_dir, os.path.relpath(dirname, start=root_dir))
         prototype = None
-        if prototype_filename:
-            prototype_filepath = os.path.join(dirname, prototype_filename)
+        if prototype_filepath:
             with open(prototype_filepath, encoding="utf-8") as file_obj:
                 try:
                     prototype = yaml.load(file_obj, Loader=yaml.CLoader)
