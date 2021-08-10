@@ -1,0 +1,611 @@
+species: Burmy
+setname: m-Plant
+displayname: Burmy Plant-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Plant
+---
+species: Burmy
+setname: m-Plant Shiny
+displayname: Burmy Plant-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Plant
+shiny: true
+hidden: true
+---
+species: Burmy
+setname: m-Plant High Stats
+displayname: Burmy Plant-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Plant
+hidden: false
+---
+species: Burmy
+setname: m-Plant Balanced
+displayname: Burmy Plant-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Plant
+hidden: false
+---
+species: Burmy
+setname: m-Sandy
+displayname: Burmy Sandy-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Sandy
+---
+species: Burmy
+setname: m-Sandy Shiny
+displayname: Burmy Sandy-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Sandy
+shiny: true
+hidden: true
+---
+species: Burmy
+setname: m-Sandy High Stats
+displayname: Burmy Sandy-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Sandy
+hidden: false
+---
+species: Burmy
+setname: m-Sandy Balanced
+displayname: Burmy Sandy-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Sandy
+hidden: false
+---
+species: Burmy
+setname: m-Trash
+displayname: Burmy Trash-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Trash
+---
+species: Burmy
+setname: m-Trash Shiny
+displayname: Burmy Trash-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Trash
+shiny: true
+hidden: true
+---
+species: Burmy
+setname: m-Trash High Stats
+displayname: Burmy Trash-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Trash
+hidden: false
+---
+species: Burmy
+setname: m-Trash Balanced
+displayname: Burmy Trash-M
+ball: Poke
+item:
+- Leftovers
+- Choice Band
+- Choice Specs
+- Expert Belt
+- Shell Bell
+- Wise Glasses
+- Scope Lens
+- Zoom Lens
+- Apicot Berry
+- Ganlon Berry
+- Lansat Berry
+- Liechi Berry
+- Petaya Berry
+- Salac Berry
+- Starf Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Shed Skin
+form: Trash
+hidden: false

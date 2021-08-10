@@ -1,0 +1,5291 @@
+species: Unown
+setname: m-A
+displayname: Unown A-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: A
+---
+species: Unown
+setname: m-A Shiny
+displayname: Unown A-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: A
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-A High Stats
+displayname: Unown A-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: A
+hidden: false
+---
+species: Unown
+setname: m-A Balanced
+displayname: Unown A-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: A
+hidden: false
+---
+species: Unown
+setname: m-B
+displayname: Unown B-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: B
+---
+species: Unown
+setname: m-B Shiny
+displayname: Unown B-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: B
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-B High Stats
+displayname: Unown B-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: B
+hidden: false
+---
+species: Unown
+setname: m-B Balanced
+displayname: Unown B-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: B
+hidden: false
+---
+species: Unown
+setname: m-C
+displayname: Unown C-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: C
+---
+species: Unown
+setname: m-C Shiny
+displayname: Unown C-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: C
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-C High Stats
+displayname: Unown C-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: C
+hidden: false
+---
+species: Unown
+setname: m-C Balanced
+displayname: Unown C-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: C
+hidden: false
+---
+species: Unown
+setname: m-D
+displayname: Unown D-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: D
+---
+species: Unown
+setname: m-D Shiny
+displayname: Unown D-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: D
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-D High Stats
+displayname: Unown D-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: D
+hidden: false
+---
+species: Unown
+setname: m-D Balanced
+displayname: Unown D-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: D
+hidden: false
+---
+species: Unown
+setname: m-F
+displayname: Unown F-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: F
+---
+species: Unown
+setname: m-F Shiny
+displayname: Unown F-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: F
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-F High Stats
+displayname: Unown F-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: F
+hidden: false
+---
+species: Unown
+setname: m-F Balanced
+displayname: Unown F-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: F
+hidden: false
+---
+species: Unown
+setname: m-G
+displayname: Unown G-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: G
+---
+species: Unown
+setname: m-G Shiny
+displayname: Unown G-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: G
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-G High Stats
+displayname: Unown G-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: G
+hidden: false
+---
+species: Unown
+setname: m-G Balanced
+displayname: Unown G-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: G
+hidden: false
+---
+species: Unown
+setname: m-H
+displayname: Unown H-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: H
+---
+species: Unown
+setname: m-H Shiny
+displayname: Unown H-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: H
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-H High Stats
+displayname: Unown H-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: H
+hidden: false
+---
+species: Unown
+setname: m-H Balanced
+displayname: Unown H-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: H
+hidden: false
+---
+species: Unown
+setname: m-I
+displayname: Unown I-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: I
+---
+species: Unown
+setname: m-I Shiny
+displayname: Unown I-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: I
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-I High Stats
+displayname: Unown I-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: I
+hidden: false
+---
+species: Unown
+setname: m-I Balanced
+displayname: Unown I-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: I
+hidden: false
+---
+species: Unown
+setname: m-J
+displayname: Unown J-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: J
+---
+species: Unown
+setname: m-J Shiny
+displayname: Unown J-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: J
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-J High Stats
+displayname: Unown J-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: J
+hidden: false
+---
+species: Unown
+setname: m-J Balanced
+displayname: Unown J-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: J
+hidden: false
+---
+species: Unown
+setname: m-K
+displayname: Unown K-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: K
+---
+species: Unown
+setname: m-K Shiny
+displayname: Unown K-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: K
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-K High Stats
+displayname: Unown K-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: K
+hidden: false
+---
+species: Unown
+setname: m-K Balanced
+displayname: Unown K-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: K
+hidden: false
+---
+species: Unown
+setname: m-L
+displayname: Unown L-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: L
+---
+species: Unown
+setname: m-L Shiny
+displayname: Unown L-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: L
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-L High Stats
+displayname: Unown L-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: L
+hidden: false
+---
+species: Unown
+setname: m-L Balanced
+displayname: Unown L-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: L
+hidden: false
+---
+species: Unown
+setname: m-M
+displayname: Unown M-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: M
+---
+species: Unown
+setname: m-M Shiny
+displayname: Unown M-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: M
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-M High Stats
+displayname: Unown M-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: M
+hidden: false
+---
+species: Unown
+setname: m-M Balanced
+displayname: Unown M-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: M
+hidden: false
+---
+species: Unown
+setname: m-N
+displayname: Unown N-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: N
+---
+species: Unown
+setname: m-N Shiny
+displayname: Unown N-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: N
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-N High Stats
+displayname: Unown N-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: N
+hidden: false
+---
+species: Unown
+setname: m-N Balanced
+displayname: Unown N-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: N
+hidden: false
+---
+species: Unown
+setname: m-O
+displayname: Unown O-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: O
+---
+species: Unown
+setname: m-O Shiny
+displayname: Unown O-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: O
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-O High Stats
+displayname: Unown O-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: O
+hidden: false
+---
+species: Unown
+setname: m-O Balanced
+displayname: Unown O-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: O
+hidden: false
+---
+species: Unown
+setname: m-P
+displayname: Unown P-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: P
+---
+species: Unown
+setname: m-P Shiny
+displayname: Unown P-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: P
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-P High Stats
+displayname: Unown P-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: P
+hidden: false
+---
+species: Unown
+setname: m-P Balanced
+displayname: Unown P-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: P
+hidden: false
+---
+species: Unown
+setname: m-Q
+displayname: Unown Q-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Q
+---
+species: Unown
+setname: m-Q Shiny
+displayname: Unown Q-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Q
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-Q High Stats
+displayname: Unown Q-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Q
+hidden: false
+---
+species: Unown
+setname: m-Q Balanced
+displayname: Unown Q-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Q
+hidden: false
+---
+species: Unown
+setname: m-R
+displayname: Unown R-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: R
+---
+species: Unown
+setname: m-R Shiny
+displayname: Unown R-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: R
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-R High Stats
+displayname: Unown R-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: R
+hidden: false
+---
+species: Unown
+setname: m-R Balanced
+displayname: Unown R-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: R
+hidden: false
+---
+species: Unown
+setname: m-S
+displayname: Unown S-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: S
+---
+species: Unown
+setname: m-S Shiny
+displayname: Unown S-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: S
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-S High Stats
+displayname: Unown S-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: S
+hidden: false
+---
+species: Unown
+setname: m-S Balanced
+displayname: Unown S-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: S
+hidden: false
+---
+species: Unown
+setname: m-T
+displayname: Unown T-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: T
+---
+species: Unown
+setname: m-T Shiny
+displayname: Unown T-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: T
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-T High Stats
+displayname: Unown T-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: T
+hidden: false
+---
+species: Unown
+setname: m-T Balanced
+displayname: Unown T-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: T
+hidden: false
+---
+species: Unown
+setname: m-U
+displayname: Unown U-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: U
+---
+species: Unown
+setname: m-U Shiny
+displayname: Unown U-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: U
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-U High Stats
+displayname: Unown U-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: U
+hidden: false
+---
+species: Unown
+setname: m-U Balanced
+displayname: Unown U-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: U
+hidden: false
+---
+species: Unown
+setname: m-V
+displayname: Unown V-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: V
+---
+species: Unown
+setname: m-V Shiny
+displayname: Unown V-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: V
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-V High Stats
+displayname: Unown V-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: V
+hidden: false
+---
+species: Unown
+setname: m-V Balanced
+displayname: Unown V-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: V
+hidden: false
+---
+species: Unown
+setname: m-W
+displayname: Unown W-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: W
+---
+species: Unown
+setname: m-W Shiny
+displayname: Unown W-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: W
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-W High Stats
+displayname: Unown W-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: W
+hidden: false
+---
+species: Unown
+setname: m-W Balanced
+displayname: Unown W-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: W
+hidden: false
+---
+species: Unown
+setname: m-X
+displayname: Unown X-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: X
+---
+species: Unown
+setname: m-X Shiny
+displayname: Unown X-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: X
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-X High Stats
+displayname: Unown X-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: X
+hidden: false
+---
+species: Unown
+setname: m-X Balanced
+displayname: Unown X-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: X
+hidden: false
+---
+species: Unown
+setname: m-Y
+displayname: Unown Y-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Y
+---
+species: Unown
+setname: m-Y Shiny
+displayname: Unown Y-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Y
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-Y High Stats
+displayname: Unown Y-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Y
+hidden: false
+---
+species: Unown
+setname: m-Y Balanced
+displayname: Unown Y-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Y
+hidden: false
+---
+species: Unown
+setname: m-Z
+displayname: Unown Z-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Z
+---
+species: Unown
+setname: m-Z Shiny
+displayname: Unown Z-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Z
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-Z High Stats
+displayname: Unown Z-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Z
+hidden: false
+---
+species: Unown
+setname: m-Z Balanced
+displayname: Unown Z-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: Z
+hidden: false
+---
+species: Unown
+setname: m-!
+displayname: Unown !-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '!'
+---
+species: Unown
+setname: m-! Shiny
+displayname: Unown !-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '!'
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-! High Stats
+displayname: Unown !-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '!'
+hidden: false
+---
+species: Unown
+setname: m-! Balanced
+displayname: Unown !-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '!'
+hidden: false
+---
+species: Unown
+setname: m-?
+displayname: Unown ?-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '?'
+---
+species: Unown
+setname: m-? Shiny
+displayname: Unown ?-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '?'
+shiny: true
+hidden: true
+---
+species: Unown
+setname: m-? High Stats
+displayname: Unown ?-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '?'
+hidden: false
+---
+species: Unown
+setname: m-? Balanced
+displayname: Unown ?-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- no-mixing
+ability:
+- Levitate
+form: '?'
+hidden: false

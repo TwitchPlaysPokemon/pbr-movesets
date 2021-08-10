@@ -1,0 +1,199 @@
+species: Azumarill
+setname: m-Standard
+displayname: Azumarill-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+gender:
+- m
+- f
+ability:
+- Thick Fat
+---
+species: Azumarill
+setname: m-Shiny
+displayname: Azumarill-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+gender:
+- m
+- f
+ability:
+- Thick Fat
+shiny: true
+hidden: true
+---
+species: Azumarill
+setname: m-High Stats
+displayname: Azumarill-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+gender:
+- m
+- f
+ability:
+- Thick Fat
+hidden: false
+---
+species: Azumarill
+setname: m-Balanced
+displayname: Azumarill-M
+ball: Poke
+item:
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+gender:
+- m
+- f
+ability:
+- Thick Fat
+hidden: false
