@@ -2,7 +2,7 @@ species: Cresselia
 setname: m-Standard
 displayname: Cresselia-M
 ball: Poke
-item: Mago Berry
+item: Sticky Barb
 nature: Brave
 ivs:
   atk: 31
@@ -36,7 +36,7 @@ species: Cresselia
 setname: m-Shiny
 displayname: Cresselia-M
 ball: Poke
-item: Mago Berry
+item: Sticky Barb
 nature: Brave
 ivs:
   atk: 31
@@ -72,7 +72,7 @@ species: Cresselia
 setname: m-High Stats
 displayname: Cresselia-M
 ball: Poke
-item: Mago Berry
+item: Sticky Barb
 nature: Brave
 ivs:
   atk: 31
@@ -107,7 +107,7 @@ species: Cresselia
 setname: m-Balanced
 displayname: Cresselia-M
 ball: Poke
-item: Mago Berry
+item: Sticky Barb
 nature: Brave
 ivs:
   atk: 15
