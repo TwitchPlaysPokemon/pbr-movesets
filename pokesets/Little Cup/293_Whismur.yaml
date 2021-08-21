@@ -4,13 +4,13 @@ tags: [littlecup]
 item: [Life Orb]
 ability: [Soundproof]
 moves:
-    - [hyper voice, double edge]
-    - [fire blast, shadow ball, ice beam]
-    - [thunder punch, fire punch, ice punch]
-    - [hammer arm, crunch, extrasensory]
+    - [Hyper Voice, Double Edge]
+    - [Fire Blast, Shadow Ball, Ice Beam]
+    - [Thunder Punch, Fire Punch, Ice Punch]
+    - [Hammer Arm, Crunch, Extrasensory]
 separations:
-    - [fire punch, fire blast]
-    - [ice punch, ice beam]
+    - [Fire Punch, Fire Blast]
+    - [Ice Punch, Ice Beam]
 gender: [m, f]
 happiness: 255
 biddable: True
