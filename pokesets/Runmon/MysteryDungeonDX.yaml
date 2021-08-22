@@ -1,0 +1,65 @@
+species: Marowak
+ingamename: Mama
+displayname: Mama
+setname: TPP Mystery Dungeon DX
+tags: [runmon, in-game]
+item: [Yellow Scarf]
+ability: [Rock Head]
+moves:
+    - [Blizzard]
+    - [Thunder Punch]
+    - [Feint Attack]
+    - [Bonemerang]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Charizard
+ingamename: Joe
+displayname: Joe
+setname: TPP Mystery Dungeon DX
+tags: [runmon, in-game]
+item: [Yellow Scarf]
+ability: [Blaze]
+moves:
+    - [Dragon Claw]
+    - [Heat Wave]
+    - [Air Slash]
+    - [Flamethrower]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 4, spe: 0}
+---
+species: Linoone
+ingamename: RaccAttack
+displayname: RaccAttack
+setname: TPP Mystery Dungeon DX
+tags: [runmon, in-game]
+item: [null]
+ability: [Quick Feet]
+moves:
+    - [Pin Missile]
+    - [Seed Bomb]
+    - [Fury Swipes]
+    - [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
