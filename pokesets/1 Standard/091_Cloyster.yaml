@@ -2,7 +2,7 @@ species: Cloyster
 setname: Skill Link
 tags: [standard]
 item: [Null]
-ability: [Skill LInk]
+ability: [Skill Link]
 moves:
     - [Surf]
     - [Icicle Spear]
