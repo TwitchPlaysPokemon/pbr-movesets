@@ -308,7 +308,7 @@ evs: {hp: 23, atk: 59, def: 38, spA: 114, spD: 154, spe: 122}
 species: Salamence
 ingamename: ZETA
 displayname: ZETA
-setname: TPP Random Black 2
+setname: TPP Random Black2
 tags: [runmon, in-game]
 item: [Shell Bell]
 ability: [Shed Skin]

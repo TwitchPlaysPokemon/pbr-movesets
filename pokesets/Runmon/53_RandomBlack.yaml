@@ -88,7 +88,7 @@ evs: {hp: 55, atk: 123, def: 67, spA: 89, spD: 68, spe: 108}
 species: Luxray
 ingamename: gn
 displayname: gn
-setname: TPP Random Black
+setname: TPP Random Black-1
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Motor Drive]
