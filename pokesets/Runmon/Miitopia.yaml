@@ -185,6 +185,7 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Heal]
 shiny: True
