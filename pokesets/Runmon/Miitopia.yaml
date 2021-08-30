@@ -1,0 +1,194 @@
+species: Dugtrio
+ingamename: Dig
+displayname: Dig
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Metal Coat]
+ability: [Cute Charm]
+moves:
+    - [Fury Swipes]
+    - [Shadow Claw]
+    - [Thief]
+    - [Growl]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Wooper
+ingamename: This.
+displayname: This.
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Stick]
+ability: [Guts]
+moves:
+    - [Night Slash]
+    - [Wake-Up Slap]
+    - [Detect]
+    - [Follow Me]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
+---
+species: Zigzagoon
+ingamename: Ziggy
+displayname: Ziggy
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Wise Glasses]
+ability: [Download]
+moves:
+    - [Tri Attack]
+    - [Mega Drain]
+    - [Helping Hand]
+    - [Safeguard]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Rash
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
+---
+species: Ditto
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Sticky Barb]
+ability: [Download]
+moves:
+    - [Icicle Spear]
+    - [Giga Drain]
+    - [Confuse Ray]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
+---
+species: Porygon-Z
+ingamename: Sim
+displayname: Sim
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Heart Scale]
+ability: [Soundproof]
+moves:
+    - [Petal Dance, Chatter]
+    - [Sing, Teeter Dance]
+    - [Encore, Feather Dance]
+    - [Lucky Chant]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 4, def: 252, spA: 0, spD: 0, spe: 0}
+---
+species: Rapidash
+ingamename: "qzsds gg "
+displayname: "qzsds gg "
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Destiny Knot]
+ability: [Run Away]
+moves:
+    - [Zen Headbutt]
+    - [Megahorn]
+    - [Heal Bell]
+    - [Howl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Loudred
+ingamename: "La Resitas"
+displayname: "La Resitas"
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Iron Plate]
+ability: [Shell Armor]
+moves:
+    - [Octazooka]
+    - [Flash Cannon]
+    - [Iron Defense]
+    - [Amnesia]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+---
+species: Cubone
+ingamename: sans
+displayname: sans
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Nanab Berry]
+ability: [Trace]
+moves:
+    - [Rock Slide]
+    - [Nightmare]
+    - [Dark Void]
+    - [Fling]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Naughty
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Wobbuffet
+ingamename: AMOGUS
+displayname: AMOGUS
+setname: TPP Miitopia
+tags: [runmon, in-game]
+item: [Thick Club]
+ability: [Magic Guard]
+moves:
+    - [Thunder Bolt]
+    - [Flamethrower]
+    - [Recover]
+    - [Miracle Eye]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Calm
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---

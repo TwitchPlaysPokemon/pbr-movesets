@@ -305,25 +305,3 @@ nature: Rash
 ivs: {hp: 28, atk: 26, def: 7, spA: 24, spD: 30, spe: 9}
 evs: {hp: 23, atk: 59, def: 38, spA: 114, spD: 154, spe: 122}
 ---
-species: Salamence
-ingamename: ZETA
-displayname: ZETA
-setname: TPP Random Black2
-tags: [runmon, in-game]
-item: [Shell Bell]
-ability: [Shed Skin]
-moves:
-    - [Fly]
-    - [Waterfall]
-    - [Pound]
-    - [Flare Blitz]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Master]
-shiny: False
-nature: Adamant
-ivs: {hp: 5, atk: 24, def: 26, spA: 6, spD: 3, spe: 17}
-evs: {hp: 77, atk: 93, def: 38, spA: 85, spD: 50, spe: 50}
----

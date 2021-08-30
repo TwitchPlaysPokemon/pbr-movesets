@@ -1,0 +1,197 @@
+species: Altaria
+ingamename: Cloud
+displayname: Cloud
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Thick Club]
+ability: [Steadfast]
+moves:
+    - [Air Slash]
+    - [Focus Blast]
+    - [Fury Swipes]
+    - [Curse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
+---
+species: Golem
+ingamename: Barre
+displayname: Barre
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Spell Tag]
+ability: [Skill Link]
+moves:
+    - [Rock Blast]
+    - [Bullet Seed]
+    - [Calm Mind]
+    - [Follow Me]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+---
+species: Gardevoir
+ingamename: Aerith
+displayname: Aerith
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Miracle Seed]
+ability: [Serene Grace]
+moves:
+    - [Ominous Wind]
+    - [Doom Desire]
+    - [Wish]
+    - [Heal Bell]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bashful
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
+---
+species: Medicham
+ingamename: Tifa
+displayname: Tifa
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Quick Claw]
+ability: [Scrappy]
+moves:
+    - [Sky Uppercut]
+    - [Seismic Toss]
+    - [Waterfall]
+    - [Focus Energy]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bold
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Luxray
+ingamename: Red XIII
+displayname: Red XIII
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Focus Band]
+ability: [Intimidate]
+moves:
+    - [Thunder Fang]
+    - [Bite]
+    - [Flail]
+    - [Acupressure]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 4, spD: 0, spe: 252}
+---
+species: Scizor
+ingamename: Marisa
+displayname: Marisa
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Poison Barb]
+ability: [Frisk]
+moves:
+    - [Bonemerang]
+    - [Sludge Bomb]
+    - [Shadow Sneak]
+    - [Agility]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: 31
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Skarmory
+ingamename: Vincent
+displayname: Vincent
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Focus Band]
+ability: [Anger Point]
+moves:
+    - [Outrage]
+    - [Flare Blitz]
+    - [Poison Sting]
+    - [Curse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 252, spe: 0}
+---
+species: Farfetch'd
+ingamename: Cid
+displayname: Cid
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Stick]
+ability: [Keen Eye]
+moves:
+    - [Bounce]
+    - [Jump Kick]
+    - [Sludge Bomb]
+    - [Dragon Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: 31
+evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
+---
+species: Skitty 
+ingamename: catJAM
+displayname: catJAM
+setname: TPP Final Fantasy VII
+tags: [runmon, in-game]
+item: [Poke Doll]
+ability: [Soundproof]
+moves:
+    - [Metronome]
+    - [Assist]
+    - [Substitute]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Sassy
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+---

@@ -85,28 +85,6 @@ nature: Docile
 ivs: {hp: 31, atk: 10, def: 3, spA: 6, spD: 5, spe: 3}
 evs: {hp: 55, atk: 123, def: 67, spA: 89, spD: 68, spe: 108}
 ---
-species: Luxray
-ingamename: gn
-displayname: gn
-setname: TPP Random Black-1
-tags: [runmon, in-game]
-item: [Expert Belt]
-ability: [Motor Drive]
-moves:
-    - [Shadow Punch]
-    - [Ice Ball]
-    - [False Swipe]
-    - [Ice Fang]
-gender: [f]
-happiness: 243
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Impish
-ivs: {hp: 22, atk: 19, def: 15, spA: 23, spD: 26, spe: 27}
-evs: {hp: 74, atk: 135, def: 68, spA: 82, spD: 48, spe: 103}
----
 species: Clefable
 ingamename: Aipomone
 displayname: Aipomone
