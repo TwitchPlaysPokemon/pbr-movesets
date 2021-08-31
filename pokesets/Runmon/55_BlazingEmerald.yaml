@@ -93,7 +93,7 @@ ability: [Color Change]
 moves:
     - [Strength]
     - [Shadow Sneak]
-    - [Ice Beam]
+    - [Ice Beam, Thief]
     - [Dig]
 gender: [m]
 happiness: 255
@@ -110,7 +110,7 @@ ingamename: MASTERBAIT
 displayname: MASTERBAIT
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
-item: [Sharp Beak, King's Rock]
+item: [Silk Scarf, King's Rock, Sharp Beak]
 ability: [Adaptability]
 moves:
     - [Hyper Fang, Drill Peck]
@@ -118,8 +118,8 @@ moves:
     - [Poison Fang]
     - [Confuse Ray]
 combinations:
-    - [Sharp Beak, Drill Peck]
-    - [King's Rock, Hyper Fang]
+    - [King's Rock, Drill Peck]
+    - [Silk Scarf, Hyper Fang]
 gender: [f]
 happiness: 255
 biddable: True
@@ -135,7 +135,7 @@ ingamename: GGNN
 displayname: GGNN
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
-item: [Lax Incense]
+item: [Leftovers, Lax Incense]
 ability: [Effect Spore]
 moves:
     - [Leech Seed]
@@ -160,8 +160,8 @@ tags: [runmon, in-game]
 item: [Shell Bell]
 ability: [Snow Cloak]
 moves:
+    - [Surf]
     - [Icicle Spear]
-    - [Return]
     - [Night Slash]
     - [Swords Dance]
 gender: [m]
@@ -184,7 +184,7 @@ ability: [Levitate]
 moves:
     - [Sludge Bomb]
     - [Flamethrower]
-    - [Sucker Punch]
+    - [Crunch]
     - [Explosion]
 gender: [m]
 happiness: 255

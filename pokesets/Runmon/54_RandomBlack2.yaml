@@ -75,7 +75,7 @@ moves:
     - [Wring Out]
     - [Air Cutter]
     - [Surf]
-    - [Curse]
+    - [Calm Mind]
 gender: [m]
 happiness: 251
 biddable: True
@@ -304,4 +304,26 @@ shiny: False
 nature: Rash
 ivs: {hp: 28, atk: 26, def: 7, spA: 24, spD: 30, spe: 9}
 evs: {hp: 23, atk: 59, def: 38, spA: 114, spD: 154, spe: 122}
+---
+species: Breloom
+ingamename: DOAMK
+displayname: DOAMK
+setname: TPP Random Black 2
+tags: [runmon, in-game]
+item: [Exp. Share]
+ability: [Solar Power]
+moves:
+    - [Aqua Tail]
+    - [Poison Jab]
+    - [Pursuit]
+    - [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Gentle
+ivs: {hp: 30, atk: 20, def: 2, spA: 21, spD: 25, spe: 16}
+evs: {hp: 42, atk: 104, def: 42, spA: 152, spD: 93, spe: 77}
 ---
