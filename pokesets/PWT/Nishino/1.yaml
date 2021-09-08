@@ -1,0 +1,59 @@
+species: Lickilicky
+setname: PWT-Nishino
+tags: [in-game, PWT-Nishino, trainer+nishino]
+item: [Leftovers]
+ability: [Own Tempo]
+moves:
+- [Fire Blast]
+- [Earthquake]
+- [Blizzard]
+- [Power Whip]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Wigglytuff
+setname: PWT-Nishino
+tags: [in-game, PWT-Nishino, trainer+nishino]
+item: [Leftovers]
+ability: [Cute Charm]
+moves:
+- [Flamethrower]
+- [Hyper Voice]
+- [Thunderbolt]
+- [Ice Beam]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Nishino
+tags: [in-game, PWT-Nishino, trainer+nishino]
+item: [Leftovers]
+ability: [Thick Fat]
+moves:
+- [Body Slam]
+- [Yawn]
+- [Superpower]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

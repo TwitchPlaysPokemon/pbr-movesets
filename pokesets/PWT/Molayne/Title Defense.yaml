@@ -1,0 +1,59 @@
+---
+species: Skarmory
+setname: PWT-Molayne Title Defense
+tags: [in-game, PWT-Molayne Title Defense Title Defense, trainer+molayne]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Spikes]
+- [Steel Wing]
+- [Aerial Ace]
+- [Night Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Ultra]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Molayne Title Defense
+tags: [in-game, PWT-Molayne Title Defense, trainer+molayne]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Flash Cannon]
+- [Thunderbolt]
+- [Tri Attack]
+- [Screech]
+happiness: 255
+biddable: false
+ball: [Ultra]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Molayne Title Defense
+tags: [in-game, PWT-Molayne Title Defense, trainer+molayne]
+item: [null]
+ability: [Clear Body]
+moves:
+- [Meteor Mash]
+- [Hammer Arm]
+- [Bullet Punch]
+- [Zen Headbutt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

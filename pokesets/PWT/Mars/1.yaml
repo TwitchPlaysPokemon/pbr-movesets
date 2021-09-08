@@ -1,0 +1,59 @@
+---
+species: Bronzong
+setname: PWT-Mars
+tags: [in-game, PWT-Mars, trainer+mars]
+item: [null]
+ability: [Levitate]
+moves:
+- [Gyro Ball]
+- [Extrasensory]
+- [Light Screen]
+- [Confuse Ray]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Mars
+tags: [in-game, PWT-Mars, trainer+mars]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Air Cutter]
+- [Bite]
+- [Poison Fang]
+- [Confuse Ray]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Purugly
+setname: PWT-Mars
+tags: [in-game, PWT-Mars, trainer+mars]
+item: [Sitrus Berry]
+ability: [Thick Fat]
+moves:
+- [Slash]
+- [Shadow Claw]
+- [Aerial Ace]
+- [Hypnosis]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,59 @@
+---
+species: Bronzong
+setname: PWT-Jupiter
+tags: [in-game, PWT-Jupiter, trainer+jupiter]
+item: [null]
+ability: [Levitate]
+moves:
+- [Gyro Ball]
+- [Extrasensory]
+- [Rock Slide]
+- [Reflect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Jupiter
+tags: [in-game, PWT-Jupiter, trainer+jupiter]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Sludge Bomb]
+- [Air Cutter]
+- [Giga Drain]
+- [Mean Look]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Skuntank
+setname: PWT-Jupiter
+tags: [in-game, PWT-Jupiter, trainer+jupiter]
+item: [Sitrus Berry]
+ability: [Stench]
+moves:
+- [Night Slash]
+- [Poison Jab]
+- [Flamethrower]
+- [Smokescreen]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0 

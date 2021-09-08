@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: false
-ball: [Poke]
+ball: [Ultra]
 nature: Lax
 ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 0, spe: 0}
@@ -30,7 +30,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: false
-ball: [Poke]
+ball: [Ultra]
 nature: Serious
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -49,7 +49,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: false
-ball: [Poke]
+ball: [Ultra]
 nature: Serious
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
