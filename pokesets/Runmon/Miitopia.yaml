@@ -1,4 +1,4 @@
-species: Dugtrio
+species: Dugtrio #Alolan Dugtrio with Cat class
 ingamename: Dig
 displayname: Dig
 setname: TPP Miitopia
@@ -20,7 +20,7 @@ nature: Timid
 ivs: 31
 evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
 ---
-species: Wooper
+species: Wooper #This. Wooper with Warrior Class
 ingamename: This.
 displayname: This.
 setname: TPP Miitopia
@@ -42,7 +42,7 @@ nature: Brave
 ivs: 31
 evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
 ---
-species: Zigzagoon
+species: Zigzagoon #Ziggy with Scientist class
 ingamename: Ziggy
 displayname: Ziggy
 setname: TPP Miitopia
@@ -64,7 +64,7 @@ nature: Rash
 ivs: 31
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
 ---
-species: Ditto
+species: Ditto #Ditto with Imp class
 setname: TPP Miitopia
 tags: [runmon, in-game]
 item: [Sticky Barb]
@@ -83,7 +83,7 @@ nature: Relaxed
 ivs: 31
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
 ---
-species: Porygon-Z
+species: Porygon-Z #Sim with Pop Star class
 ingamename: Sim
 displayname: Sim
 setname: TPP Miitopia
@@ -104,7 +104,7 @@ nature: Bold
 ivs: 31
 evs: {hp: 252, atk: 4, def: 252, spA: 0, spD: 0, spe: 0}
 ---
-species: Rapidash
+species: Rapidash #Party's horse
 ingamename: "qzsds gg "
 displayname: "qzsds gg "
 setname: TPP Miitopia
@@ -126,7 +126,7 @@ nature: Serious
 ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
-species: Loudred
+species: Loudred #La Resitas with Tank class
 ingamename: "La Resitas"
 displayname: "La Resitas"
 setname: TPP Miitopia
@@ -148,7 +148,7 @@ nature: Jolly
 ivs: 31
 evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
 ---
-species: Cubone
+species: Cubone #Dark Lord
 ingamename: sans
 displayname: sans
 setname: TPP Miitopia
@@ -170,7 +170,7 @@ nature: Naughty
 ivs: 31
 evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
 ---
-species: Wobbuffet
+species: Wobbuffet #Great Sage
 ingamename: AMOGUS
 displayname: AMOGUS
 setname: TPP Miitopia

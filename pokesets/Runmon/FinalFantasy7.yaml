@@ -21,7 +21,7 @@ ivs: 31
 evs: {hp: 0, atk: 252, def: 4, spA: 252, spD: 0, spe: 0}
 ---
 species: Golem
-ingamename: Barre
+ingamename: Barre #Barret
 displayname: Barre
 setname: TPP Final Fantasy VII
 tags: [runmon, in-game]
@@ -109,7 +109,7 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 252, spA: 4, spD: 0, spe: 252}
 ---
 species: Scizor
-ingamename: Marisa
+ingamename: Marisa #It's what chat named Yuffie
 displayname: Marisa
 setname: TPP Final Fantasy VII
 tags: [runmon, in-game]
@@ -174,8 +174,8 @@ nature: Naughty
 ivs: 31
 evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}
 ---
-species: Skitty 
-ingamename: catJAM
+species: Skitty
+ingamename: catJAM #It's what chat named Cait Sith
 displayname: catJAM
 setname: TPP Final Fantasy VII
 tags: [runmon, in-game]
