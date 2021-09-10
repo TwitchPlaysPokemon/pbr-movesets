@@ -128,4 +128,3 @@ shiny: False
 nature: Brave
 ivs: {hp: 23, atk: 30, def: 1, spA: 29, spD: 29, spe: 16}
 evs: {hp: 37, atk: 148, def: 69, spA: 47, spD: 42, spe: 45}
----

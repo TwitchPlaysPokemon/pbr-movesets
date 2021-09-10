@@ -326,4 +326,3 @@ shiny: False
 nature: Gentle
 ivs: {hp: 30, atk: 20, def: 2, spA: 21, spD: 25, spe: 16}
 evs: {hp: 42, atk: 104, def: 42, spA: 152, spD: 93, spe: 77}
----
