@@ -350,7 +350,7 @@ rarity: 1.0
 ball: [Safari]
 shiny: False
 nature: Brave
-ivs: {hp: 13, atk: 36, def: 30, spA: 26, spD: 26, spe: 26}
+ivs: {hp: 13, atk: 26, def: 30, spA: 26, spD: 26, spe: 26}
 evs: {hp: 21, atk: 231, def: 2, spA: 0, spD: 4, spe: 252}
 ---
 species: Xatu
