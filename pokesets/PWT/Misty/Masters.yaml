@@ -9,7 +9,7 @@ moves:
 - [Amnesia]
 - [Minimize]
 - [Hydro Pump]
-gender: [m, f]
+gender: [None]
 happiness: 255
 biddable: false
 ball: [Poke]
