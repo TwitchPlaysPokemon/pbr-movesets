@@ -1,0 +1,21 @@
+name: changes_info
+on: [ pull_request ]
+
+jobs:
+  changes_info:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - run: sudo apt-get install libyaml-dev
+      - name: install python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pyyaml git+https://github.com/TwitchPlaysPokemon/pokecat.git
+      - name: determine changed files
+        uses: lots0logs/gh-action-get-changed-files@2.1.4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - run: python .github/workflows/analyze_changed_files.py

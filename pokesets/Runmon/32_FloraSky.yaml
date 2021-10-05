@@ -117,8 +117,8 @@ item: [Bloom Mail]
 ability: [Wonder Guard]
 moves:
     - [Lava Plume]
-    - [Shadow Ball]
-    - [Air Cutter]
+    - [Shadow Claw]
+    - [Wing Attack]
     - [Toxic]
 happiness: 255
 biddable: True

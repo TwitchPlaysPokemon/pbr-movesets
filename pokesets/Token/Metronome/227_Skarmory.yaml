@@ -1,0 +1,139 @@
+species: Skarmory
+setname: m-Standard
+displayname: Skarmory-M
+ball: Poke
+item: Iron Ball
+nature: Brave
+ivs:
+  atk: 31
+  def: 0
+  hp: 0
+  spA: 31
+  spD: 0
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Keen Eye
+---
+species: Skarmory
+setname: m-Shiny
+displayname: Skarmory-M
+ball: Poke
+item: Iron Ball
+nature: Brave
+ivs:
+  atk: 31
+  def: 20
+  hp: 20
+  spA: 31
+  spD: 20
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Torment
+happiness: 128
+biddable: false
+rarity: 1.0
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Keen Eye
+shiny: true
+hidden: true
+---
+species: Skarmory
+setname: m-High Stats
+displayname: Skarmory-M
+ball: Poke
+item: Iron Ball
+nature: Brave
+ivs:
+  atk: 31
+  def: 15
+  hp: 15
+  spA: 31
+  spD: 15
+  spe: 31
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Keen Eye
+hidden: false
+---
+species: Skarmory
+setname: m-Balanced
+displayname: Skarmory-M
+ball: Poke
+item: Iron Ball
+nature: Brave
+ivs:
+  atk: 15
+  def: 15
+  hp: 0
+  spA: 15
+  spD: 15
+  spe: 0
+evs:
+  atk: 252
+  def: 0
+  hp: 0
+  spA: 252
+  spD: 0
+  spe: 0
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: false
+rarity: 0.08
+tags:
+- metronome
+- keep-item
+gender:
+- m
+- f
+ability:
+- Keen Eye
+hidden: false

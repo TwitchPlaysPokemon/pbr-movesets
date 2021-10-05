@@ -1,10 +1,9 @@
 
 import os
 import sys
-import logging
 import warnings
-import json
-from collections import defaultdict, Counter
+from collections import defaultdict
+
 try:
     import yaml
 except ImportError:
@@ -29,7 +28,7 @@ name_replacements = {"ᴹ": "M", "ɴ": "N", "×": "x", "’": "'", "”": "\"", 
 
 allowed_characters = ["\u2640", "\u2642", "â", "É"]
 
-testdir = "."
+testdir = "./pokesets"
 if len(sys.argv) > 1:
     testdir = sys.argv[1]
 

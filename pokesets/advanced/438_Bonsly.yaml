@@ -34,4 +34,4 @@ rarity: 0.1
 ball: [Quick]
 nature: Modest
 ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 30}
-evs: {hp: 252, atk: 0, def: 0, spA: 176, spD: 80, spe: 0}
+evs: {hp: 176, atk: 0, def: 0, spA: 252, spD: 80, spe: 0}

@@ -17,8 +17,8 @@ rarity: 1.0
 ball: [Net]
 shiny: False
 nature: Naughty
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 80}
+ivs: {hp: 13, atk: 15, def: 25, spA: 30, spD: 6, spe: 0}
+evs: {hp: 57, atk: 164, def: 34, spA: 75, spD: 26, spe: 154}
 ---
 species: Charizard
 ingamename: "!taj11yyga"
@@ -39,8 +39,8 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Adamant
-ivs: 0
-evs: 0
+ivs: {hp: 29, atk: 17, def: 27, spA: 0, spD: 23, spe: 6}
+evs: {hp: 59, atk: 171, def: 52, spA: 92, spD: 34, spe: 102}
 ---
 species: Garchomp
 ingamename: Ulquiorra
@@ -60,9 +60,9 @@ biddable: True
 rarity: 1.0
 ball: [Ultra]
 shiny: False
-nature: Brave
-ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Bashful
+ivs: {hp: 17, atk: 4, def: 15, spA: 31, spD: 13, spe: 28}
+evs: {hp: 31, atk: 43, def: 15, spA: 31, spD: 13, spe: 28}
 ---
 species: Lapras
 ingamename: "! ♀o?04+6e"
@@ -83,5 +83,5 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Docile
-ivs: 0
-evs: {hp: 0, atk: 180, def: 0, spA: 20, spD: 0, spe: 60}
+ivs: {hp: 31, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
+evs: {hp: 51, atk: 129, def: 61, spA: 74, spD: 49, spe: 146}

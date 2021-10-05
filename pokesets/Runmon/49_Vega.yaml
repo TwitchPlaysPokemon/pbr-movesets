@@ -1,0 +1,88 @@
+species: Raichu
+ingamename: A  Oxxwqw
+displayname: A  Oxxwqw
+setname: TPP Vega
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Static]
+moves:
+    - [Volt Tackle]
+    - [Night Slash]
+    - [Brick Break]
+    - [Bullet Punch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: {hp: 0, atk: 19, def: 13, spA: 29, spD: 4, spe: 29}
+evs: {hp: 47, atk: 72, def: 77, spA: 146, spD: 17, spe: 151}
+---
+species: TogeKiss
+ingamename: BBCVVIIKKL
+displayname: BBCVVIIKKL
+setname: TPP Vega
+tags: [runmon, in-game]
+item: [Sharp Beak]
+ability: [Serene Grace]
+moves:
+    - [Air Slash]
+    - [Tri Attack]
+    - [Muddy Water]
+    - [Fly]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 29, atk: 19, def: 17, spA: 19, spD: 27, spe: 15}
+evs: {hp: 43, atk: 65, def: 81, spA: 154, spD: 26, spe: 141}
+---
+species: Walrein
+ingamename: Ballrus
+displayname: Ballrus
+setname: TPP Vega
+tags: [runmon, in-game]
+item: [Cleanse Tag]
+ability: [Oblivious]
+moves:
+    - [Waterfall]
+    - [Strength]
+    - [Rock Smash]
+    - [Avalanche]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [poke]
+shiny: False
+nature: Quiet
+ivs: {hp: 31, atk: 22, def: 13, spA: 26, spD: 11, spe: 3}
+evs: {hp: 7, atk: 19, def: 46, spA: 50, spD: 8, spe: 60}
+---
+species: Duskull
+ingamename: F. SRRLFX
+displayname: F. SRRLFX
+setname: TPP Vega
+tags: [runmon, in-game]
+item: [null]
+ability: [Levitate]
+moves:
+    - [Pursuit]
+    - [Will-O-Wisp]
+    - [Shadow Claw]
+    - [Mean Look]
+gender: [f]
+happiness: 35
+biddable: True
+hidden: false
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Mild
+ivs: {hp: 11, atk: 29, def: 20, spA: 21, spD: 22, spe: 31}
+evs: 0

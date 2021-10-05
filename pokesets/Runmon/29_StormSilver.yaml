@@ -39,7 +39,6 @@ rarity: 1.0
 ball: [Great]
 shiny: True
 hidden: false
-suppressions: [public-shiny]
 nature: Rash
 ivs: 31
 evs: 0
@@ -63,7 +62,6 @@ rarity: 1.0
 ball: [Poke]
 shiny: True
 hidden: false
-suppressions: [public-shiny]
 nature: Lax
 ivs: 31
 evs: 0
@@ -87,7 +85,6 @@ rarity: 1.0
 ball: [Poke]
 shiny: True
 hidden: false
-suppressions: [public-shiny]
 nature: Hardy
 ivs: 31
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
@@ -219,7 +216,6 @@ rarity: 1.0
 ball: [Ultra]
 shiny: True
 hidden: false
-suppressions: [public-shiny]
 nature: Bold
 ivs: 31
 evs: 0
@@ -265,7 +261,6 @@ rarity: 1.0
 ball: [Quick]
 shiny: True
 hidden: false
-suppressions: [public-shiny]
 nature: Naughty
 ivs: 31
 evs: 252
