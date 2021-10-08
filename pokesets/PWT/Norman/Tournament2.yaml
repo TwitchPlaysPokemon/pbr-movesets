@@ -1,13 +1,13 @@
 ---
-species: Tauros
+species: Tauros #Bouffalant
 displayname: Bouffalant
 ingamename: Bouffalant
 setname: PWT-Norman Tournament2
 tags: [in-game, PWT-Norman Tournament2, trainer+norman]
 item: [Life Orb]
-ability: [Reckless]
+ability: [Reckless] #or Sap Sipper
 moves:
-- [Double Edge]
+- [Double Edge] #Head Charge
 - [Stone Edge]
 - [Megahorn]
 - [Revenge]
@@ -21,17 +21,17 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
 ---
-species: Stantler
+species: Stantler #Sawsbuck
 displayname: Sawsbuck
 ingamename: Sawsbuck
 setname: PWT-Norman Tournament2
 tags: [in-game, PWT-Norman Tournament2, trainer+norman]
 item: [Chesto Berry]
-ability: [Chlorophyll]
+ability: [Chlorophyll] #or Sap Sipper
 moves:
 - [Return]
 - [Swords Dance]
-- [Leaf Blade]
+- [Leaf Blade] #Horn Leech
 - [Rest]
 gender: [m, f]
 happiness: 255
@@ -46,7 +46,7 @@ rarity: 1.0
 species: Slaking
 setname: PWT-Norman Tournament2
 tags: [in-game, PWT-Norman Tournament2, trainer+norman]
-item: [Bright Powder]
+item: [Bright Powder] #Eject Button
 ability: [Truant]
 moves:
 - [Giga Impact]
@@ -92,7 +92,7 @@ moves:
 - [Brave Bird]
 - [Close Combat]
 - [Quick Attack]
-- [Reversal]
+- [Reversal] #Final Gambit
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -106,11 +106,11 @@ rarity: 1.0
 species: Ambipom
 setname: PWT-Norman Tournament2
 tags: [in-game, PWT-Norman Tournament2, trainer+norman]
-item: [Silk Scarf]
+item: [Silk Scarf] #Normal Gem
 ability: [Technician, Pick Up]
 moves:
 - [Return]
-- [Aerial Ace]
+- [Aerial Ace] #Acrobatics
 - [Fake Out]
 - [Fire Punch]
 gender: [m, f]

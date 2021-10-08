@@ -50,7 +50,47 @@ moves:
 - [Zen Headbutt]
 happiness: 255
 biddable: false
-ball: [Poke]
+ball: [Ultra]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Sandslash #Alolan Sand
+setname: PWT-Molayne Title Defense
+tags: [in-game, PWT-Molayne Title Defense, trainer+molayne]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Shadow Claw]
+- [Icicle Spear] #Icicle Crash
+- [Earthquake]
+- [Gyro Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Ultra]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dugtrio #Alolan Dug
+setname: PWT-Molayne Title Defense
+tags: [in-game, PWT-Molayne Title Defense, trainer+molayne]
+item: [null]
+ability: [Tangled Feet] #Tangling Hair
+moves:
+- [Earthquake]
+- [Iron Head]
+- [Sucker Punch]
+- [Fissure]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Ultra]
 nature: Serious
 ivs: 0
 evs: 0

@@ -42,7 +42,7 @@ rarity: 1.0
 species: Spinda
 setname: PWT-Norman Tournament
 tags: [in-game, PWT-Norman Tournament, trainer+norman]
-item: [Black Glasses]
+item: [Black Glasses] #Dark Gem
 ability: [Own Tempo, Tangled Feet]
 moves:
 - [Thrash]
@@ -82,7 +82,7 @@ rarity: 1.0
 species: Castform
 setname: PWT-Norman Tournament
 tags: [in-game, PWT-Norman Tournament, trainer+norman]
-item: [NeverMeltIce]
+item: [NeverMeltIce] #Ice Gem
 ability: [Forecast]
 moves:
 - [Fire Blast]

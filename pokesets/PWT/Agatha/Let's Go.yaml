@@ -84,7 +84,7 @@ gender: [m]
 moves:
 - [Shadow Ball]
 - [Sludge Bomb]
-- [Psybeam]
+- [Psybeam] #Dazzling Gleam
 happiness: 255
 biddable: false
 ball: [Poke]

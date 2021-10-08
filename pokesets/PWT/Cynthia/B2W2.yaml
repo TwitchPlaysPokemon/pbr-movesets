@@ -1,0 +1,120 @@
+---
+species: Milotic
+setname: PWT-Cynthia B2W2
+tags: [in-game, PWT-Cynthia B2W2, trainer+cynthia]
+item: [null]
+ability: [Marvel Scale]
+moves:
+- [Hydro Pump]
+- [Blizzard]
+- [Attract]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glaceon
+setname: PWT-Cynthia B2W2
+tags: [in-game, PWT-Cynthia B2W2, trainer+cynthia]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Ice Beam]
+- [Shadow Ball]
+- [Signal Beam]
+- [Barrier]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Spiritomb
+setname: PWT-Cynthia B2W2
+tags: [in-game, PWT-Cynthia B2W2, trainer+cynthia]
+item: [null]
+ability: [Pressure]
+moves:
+- [Shadow Ball]
+- [Double Team]
+- [Dream Eater]
+- [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Cynthia B2W2
+tags: [in-game, PWT-Cynthia B2W2, trainer+cynthia]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Dragon Rush]
+- [Earthquake]
+- [Stone Edge]
+- [Fire Blast]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Cynthia B2W2
+tags: [in-game, PWT-Cynthia B2W2, trainer+cynthia]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Close Combat]
+- [Flash Cannon]
+- [Psychic]
+- [Extreme Speed]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Togekiss
+setname: PWT-Cynthia B2W2
+tags: [in-game, PWT-Cynthia B2W2, trainer+cynthia]
+item: [null]
+ability: [Serene Grace]
+moves:
+- [Air Slash]
+- [Aura Sphere]
+- [Extreme Speed]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -6,7 +6,7 @@ item: [null]
 ability: [null]
 gender: [f]
 moves:
-- [Giga Drain]
+- [Giga Drain] #For some reason Mega Drain got Giga Drain's properties in Let's Go? WHY
 - [Sludge Bomb]
 - [Reflect]
 - [Power Whip]
@@ -86,7 +86,7 @@ item: [null]
 ability: [null]
 gender: [f]
 moves:
-- [Psychic]
+- [Psychic] #Moonblast
 - [Petal Dance]
 - [Sludge Bomb]
 - [Stun Spore]

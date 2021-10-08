@@ -2,7 +2,7 @@
 species: Glalie
 setname: PWT-Candice Tournament2
 tags: [in-game, PWT-Candice Tournament2, trainer+candice]
-item: [Hard Stone]
+item: [Hard Stone] #Rock Gem
 ability: [Inner Focus, Ice Body]
 moves:
 - [Hail]
@@ -85,9 +85,9 @@ tags: [in-game, PWT-Candice Tournament2, trainer+candice]
 item: [Salac Berry]
 ability: [Oblivious, Snow Cloak]
 moves:
-- [Icicle Spear]
+- [Icicle Spear] #Icicle Crash
 - [Superpower]
-- [Magnitude]
+- [Magnitude] #Bulldoze
 - [Rock Tomb]
 gender: [m, f]
 happiness: 255

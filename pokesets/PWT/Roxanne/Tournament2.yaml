@@ -2,7 +2,7 @@
 species: Golem
 setname: PWT-Roxanne Tournament2
 tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
-item: [Soft Sand]
+item: [Soft Sand] #Ground Gem
 ability: [Rock Head, Sturdy]
 moves:
 - [Focus Punch]
@@ -82,7 +82,7 @@ rarity: 1.0
 species: Probopass
 setname: PWT-Roxanne Tournament2
 tags: [in-game, PWT-Roxanne Tournament2, trainer+roxanne]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Sturdy, Magnet Pull]
 moves:
 - [Pain Split]

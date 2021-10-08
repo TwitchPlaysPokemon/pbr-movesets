@@ -39,7 +39,7 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Meowth
+species: Meowth #not in the actual game, just used to pad out the team
 setname: PWT-Let's Go Jessie & James
 tags: [in-game, PWT-Let's Go Jessie & James, trainer+jessiejames]
 item: [null]

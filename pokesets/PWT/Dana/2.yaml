@@ -5,7 +5,7 @@ tags: [in-game, PWT-Dana2, trainer+dana]
 item: [Charti Berry]
 ability: [Pressure, Snow Cloak]
 moves:
-- [Icy Wind]
+- [Icy Wind] #Frost Breath
 - [Steel Wing]
 - [U-Turn]
 - [Reflect]
@@ -59,7 +59,7 @@ rarity: 1.0
 species: Regirock
 setname: PWT-Dana2
 tags: [in-game, PWT-Dana2, trainer+dana]
-item: [Apicot Berry]
+item: [Apicot Berry] #Luminous Moss
 ability: [Clear Body, Sturdy]
 moves:
 - [Rock Slide]

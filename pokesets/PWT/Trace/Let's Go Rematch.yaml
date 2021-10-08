@@ -29,7 +29,7 @@ moves:
 - [Solar Beam]
 - [Reflect]
 - [Sludge Bomb]
-- [Psychic]
+- [Psychic] #Dazzling Gleam
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -69,7 +69,7 @@ moves:
 - [Flare Blitz]
 - [Quick Attack]
 - [Poison Jab]
-- [Magnitude]
+- [Magnitude] #Drill Run
 happiness: 255
 biddable: false
 ball: [Poke]

@@ -1,0 +1,80 @@
+---
+species: Latios
+setname: PWT-Benga
+tags: [in-game, PWT-Benga, trainer+benga]
+item: [White Herb]
+ability: [Levitate]
+moves:
+- [Draco Meteor]
+- [Psychic]
+- [Icy Wind]
+- [Thunderbolt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Benga
+tags: [in-game, PWT-Benga, trainer+benga]
+item: [Life Orb]
+ability: [Sand Veil]
+moves:
+- [Outrage]
+- [Earthquake]
+- [Fire Blast]
+- [Stone Edge]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Latias
+setname: PWT-Benga
+tags: [in-game, PWT-Benga, trainer+benga]
+item: [White Herb]
+ability: [Levitate]
+moves:
+- [Draco Meteor]
+- [Psychic]
+- [Icy Wind]
+- [Thunderbolt]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Benga
+tags: [in-game, PWT-Benga, trainer+benga]
+item: [Life Orb]
+ability: [Inner Focus]
+moves:
+- [Outrage]
+- [Dragon Dance]
+- [Fire Blast]
+- [Focus Blast]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

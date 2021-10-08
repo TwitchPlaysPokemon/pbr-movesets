@@ -26,10 +26,10 @@ item: [null]
 ability: [null]
 gender: [m]
 moves:
-- [Power Gem]
+- [Power Gem] #Dazzling Gleam
 - [Psychic]
 - [Reflect]
-- [Payback]
+- [Payback] #Foul Play
 happiness: 255
 biddable: false
 ball: [Poke]

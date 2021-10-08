@@ -7,7 +7,7 @@ ability: [Suction Cups]
 moves:
 - [Stone Edge]
 - [Seed Bomb]
-- [Sludge Bomb]
+- [Sludge Bomb] #Sludge Wave
 - [Earth Power]
 gender: [m, f]
 happiness: 255
@@ -28,7 +28,7 @@ moves:
 - [Crush Claw]
 - [X-Scissor]
 - [Stone Edge]
-- [Waterfall]
+- [Waterfall] #Liquidation
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -47,7 +47,7 @@ ability: [Sturdy]
 moves:
 - [Earth Power]
 - [Power Gem]
-- [Psychic]
+- [Psychic] #Dazzling Gleam
 - [Flash Cannon]
 gender: [m, f]
 happiness: 255

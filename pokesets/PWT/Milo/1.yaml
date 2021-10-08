@@ -1,0 +1,80 @@
+---
+species: Shiftry
+setname: PWT-Milo
+tags: [in-game, PWT-Milo, trainer+milo]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Leaf Blade]
+- [Sucker Punch] #Throat Chop
+- [Body Slam]
+- [Fake Out]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Milo
+tags: [in-game, PWT-Milo, trainer+milo]
+item: [null]
+ability: [Rain Dish]
+moves:
+- [Seed Bomb]
+- [Waterfall]
+- [Body Slam]
+- [Fake Out]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Bellossom
+setname: PWT-Milo
+tags: [in-game, PWT-Milo, trainer+milo]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Sunny Day]
+- [Solar Beam]
+- [Sludge Bomb]
+- [Mist Ball] #Moonblast
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Cherrim
+setname: PWT-Milo
+tags: [in-game, PWT-Milo, trainer+milo]
+item: [null]
+ability: [Flower Gift]
+moves:
+- [Sunny Day]
+- [Solar Beam]
+- [Psychic] #Dazzling Gleam
+- [Weather Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,39 @@
+---
+species: Exploud
+setname: PWT-Gabby and Ty ORAS
+tags: [in-game, PWT-Gabby and Ty ORAS, trainer+gabbyty]
+item: [null]
+ability: [Soundproof]
+moves:
+- [Rest]
+- [Crunch]
+- [Sleep Talk]
+- [Hyper Voice]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Gabby and Ty ORAS
+tags: [in-game, PWT-Gabby and Ty ORAS, trainer+gabbyty]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Flash Cannon]
+- [Screech]
+- [Discharge]
+- [Lock-On]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

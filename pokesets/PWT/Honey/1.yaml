@@ -58,3 +58,43 @@ ivs: 0
 evs: 0
 level: 100
 rarity: 1.0
+---
+species: Gallade
+setname: PWT-Honey
+tags: [in-game, PWT-Honey, trainer+honey]
+item: [null]
+ability: [Steadfast]
+moves:
+- [Swords Dance]
+- [Leaf Blade]
+- [Psycho Cut]
+- [Sucker Punch] #originally Throat Chop
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Togekiss
+setname: PWT-Honey
+tags: [in-game, PWT-Honey, trainer+honey]
+item: [null]
+ability: [Hustle]
+moves:
+- [Psychic] #originally Dazzling Gleam
+- [Air Slash]
+- [Aura Sphere]
+- [Heat Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

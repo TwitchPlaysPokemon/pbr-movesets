@@ -1,0 +1,79 @@
+---
+species: Golbat
+setname: PWT-Archer Let's Go
+tags: [in-game, PWT-Archer Let's Go, trainer+archer]
+item: [null]
+ability: [null]
+moves:
+- [Air Slash]
+- [Crunch]
+- [Sludge Bomb]
+- [U-Turn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weezing
+setname: PWT-Archer Let's Go
+tags: [in-game, PWT-Archer Let's Go, trainer+archer]
+item: [null]
+ability: [null]
+moves:
+- [Dark Pulse]
+- [Flamethrower]
+- [Sludge Bomb]
+- [Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Archer Let's Go
+tags: [in-game, PWT-Archer Let's Go, trainer+archer]
+item: [null]
+ability: [null]
+moves:
+- [Thunder]
+- [Feint Attack] #originally Foul Play
+- [Explosion]
+- [Reflect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magmar
+setname: PWT-Archer Let's Go
+tags: [in-game, PWT-Archer Let's Go, trainer+archer]
+item: [null]
+ability: [null]
+moves:
+- [Fire Punch]
+- [Thunder Punch]
+- [Haze] #originally Clear Smog
+- [Brick Break]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -5,8 +5,8 @@ tags: [in-game, PWT-Clair Tournament, trainer+clair]
 item: [Liechi Berry]
 ability: [Inner Focus]
 moves:
-- [Sharpen]
-- [Aeroblast]
+- [Sharpen] #Hone Claws
+- [Aeroblast] #Hurricane
 - [Dragon Rush]
 - [Stone Edge]
 gender: [m, f]
@@ -42,13 +42,13 @@ rarity: 1.0
 species: Altaria
 setname: PWT-Clair Tournament
 tags: [in-game, PWT-Clair Tournament, trainer+clair]
-item: [Charcoal]
+item: [Charcoal] #Fire Gem
 ability: [Natural Cure]
 moves:
 - [Dragonbreath]
 - [Fire Blast]
 - [Perish Song]
-- [Barrier]
+- [Barrier] #Cotton Guard
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -85,7 +85,7 @@ tags: [in-game, PWT-Clair Tournament, trainer+clair]
 item: [Yache Berry]
 ability: [Sand Veil]
 moves:
-- [Dragon Claw]
+- [Dragon Claw] #Dual Chop
 - [Earthquake]
 - [Aqua Tail]
 - [Rock Slide]

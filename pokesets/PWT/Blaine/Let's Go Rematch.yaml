@@ -29,7 +29,7 @@ moves:
 - [Flare Blitz]
 - [Quick Attack]
 - [Megahorn]
-- [Magnitude]
+- [Magnitude] #Drill Run
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -89,7 +89,7 @@ moves:
 - [Flare Blitz]
 - [Outrage]
 - [Crunch]
-- [Zen Headbutt]
+- [Zen Headbutt] #Play Rough
 happiness: 255
 biddable: false
 ball: [Poke]

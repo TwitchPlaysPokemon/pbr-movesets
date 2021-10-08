@@ -7,7 +7,7 @@ ability: [Sturdy, Rock Head]
 moves:
 - [Rock Slide]
 - [Iron Head]
-- [X-Scissor]
+- [X-Scissor] #Steamroller
 - [Rock Polish]
 happiness: 255
 biddable: false

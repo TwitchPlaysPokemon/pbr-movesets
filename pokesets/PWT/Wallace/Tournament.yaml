@@ -81,10 +81,10 @@ rarity: 1.0
 species: Milotic
 setname: PWT-Wallace Tournament
 tags: [in-game, PWT-Wallace Tournament, trainer+wallace]
-item: [Jaboca Berry]
+item: [Jaboca Berry] #Rocky Helmet
 ability: [Marvel Scale]
 moves:
-- [Surf]
+- [Surf] #Scald
 - [Icy Wind]
 - [Rest]
 - [Sleep Talk]

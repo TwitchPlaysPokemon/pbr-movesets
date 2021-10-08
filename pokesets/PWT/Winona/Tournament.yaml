@@ -47,8 +47,8 @@ ability: [Keen Eye]
 moves:
 - [Tail Wind]
 - [Ice Beam]
-- [Aeroblast]
-- [Surf]
+- [Aeroblast] #Hurricane
+- [Surf] #Scald
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -65,7 +65,7 @@ tags: [in-game, PWT-Winona Tournament, trainer+winona]
 item: [Apicot Berry]
 ability: [Natural Cure]
 moves:
-- [Barrier]
+- [Barrier] #Cotton Guard
 - [Dream Eater]
 - [Roost]
 - [Sing]

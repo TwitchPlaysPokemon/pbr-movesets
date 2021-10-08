@@ -25,7 +25,7 @@ tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Apicot Berry]
 ability: [Sturdy]
 moves:
-- [Bug Bite]
+- [Bug Bite] #Struggle Bug
 - [Shadow Ball]
 - [Pain Split]
 - [Stealth Rock]
@@ -65,9 +65,9 @@ tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Sitrus Berry]
 ability: [Sturdy, Gluttony]
 moves:
-- [Bug Bite]
+- [Bug Bite] #Struggle Bug
 - [Shadow Ball]
-- [Power Trick]
+- [Power Trick] #Power Split
 - [Substitute]
 gender: [m, f]
 happiness: 255

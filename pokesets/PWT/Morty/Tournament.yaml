@@ -26,7 +26,7 @@ item: [Ganlon Berry]
 ability: [Keen Eye, Stall]
 moves:
 - [Ominous Wind]
-- [Punishment]
+- [Punishment] #Foul Play
 - [Calm Mind]
 - [Recover]
 gender: [m, f]
@@ -86,7 +86,7 @@ item: [Sitrus Berry]
 ability: [Pressure]
 moves:
 - [Shadow Punch]
-- [Magnitude]
+- [Magnitude] #Bulldoze
 - [Thunder Punch]
 - [Pain Split]
 gender: [m, f]
@@ -102,7 +102,7 @@ rarity: 1.0
 species: Froslass
 setname: PWT-Morty Tournament
 tags: [in-game, PWT-Morty Tournament, trainer+morty]
-item: [NeverMeltIce]
+item: [NeverMeltIce] #Ice Gem
 ability: [Snow Cloak]
 moves:
 - [Confuse Ray]

@@ -58,3 +58,63 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Ninetales
+setname: PWT-N Summer
+tags: [in-game, PWT-N Summer, trainer+N]
+item: [Life Orb]
+ability: [Drought]
+moves:
+- [Fire Blast]
+- [Solar Beam]
+- [Payback] #Foul Play
+- [Confuse Ray]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-N Summer
+tags: [in-game, PWT-N Summer, trainer+N]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Extreme Speed]
+- [Overheat]
+- [Volt Tackle] #Wild Charge
+- [Outrage]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-N Summer
+tags: [in-game, PWT-N Summer, trainer+N]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Megahorn]
+- [Earthquake] #Drill Run
+- [Flare Blitz]
+- [Solar Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

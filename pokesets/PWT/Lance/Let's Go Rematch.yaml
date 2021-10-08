@@ -99,14 +99,14 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Exeggutor
+species: Exeggutor #Alolan Exec
 setname: PWT-Let's Go Lance Rematch
 tags: [in-game, PWT-Let's Go Lance Rematch, trainer+lance]
 item: [null]
 ability: [null]
 gender: [m]
 moves:
-- [Giga Drain]
+- [Giga Drain] #Mega Drain buff
 - [Dragon Pulse]
 - [Hyper Beam]
 - [Psychic]

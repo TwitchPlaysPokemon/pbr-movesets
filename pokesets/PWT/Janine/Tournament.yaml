@@ -8,7 +8,7 @@ moves:
 - [Gunk Shot]
 - [Sucker Punch]
 - [Bulk Up]
-- [Dragon Rush]
+- [Dragon Rush] #Dragon Tail
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -25,7 +25,7 @@ tags: [in-game, PWT-Janine Tournament, trainer+janine]
 item: [Petaya Berry]
 ability: [Shield Dust, Tinted Lens]
 moves:
-- [Calm Mind]
+- [Calm Mind] #Quiver Dance
 - [Bug Buzz]
 - [Giga Drain]
 - [Sludge Bomb]
@@ -45,7 +45,7 @@ tags: [in-game, PWT-Janine Tournament, trainer+janine]
 item: [Apicot Berry]
 ability: [Clear Body, Liquid Ooze]
 moves:
-- [Surf]
+- [Surf] #Scald
 - [Toxic Spikes]
 - [Giga Drain]
 - [Barrier]
@@ -62,7 +62,7 @@ rarity: 1.0
 species: Weezing
 setname: PWT-Janine Tournament
 tags: [in-game, PWT-Janine Tournament, trainer+janine]
-item: [Charcoal]
+item: [Charcoal] #Fire Gem
 ability: [Levitate]
 moves:
 - [Fire Blast]
@@ -86,8 +86,8 @@ item: [Payapa Berry]
 ability: [Swarm, Insomnia]
 moves:
 - [Poison Jab]
-- [Bug Bite]
-- [String Shot]
+- [Bug Bite] #Struggle Bug
+- [String Shot] #Electroweb
 - [Sucker Punch]
 gender: [m, f]
 happiness: 255

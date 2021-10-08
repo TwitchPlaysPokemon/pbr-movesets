@@ -88,7 +88,7 @@ moves:
 - [Double Hit]
 - [Fake Out]
 - [Ice Punch]
-- [Low Kick]
+- [Low Kick] #Low Sweep
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -105,7 +105,7 @@ tags: [in-game, PWT-Whitney Tournament2, trainer+whitney]
 item: [Chople Berry]
 ability: [Cute Charm, Klutz]
 moves:
-- [Role Play]
+- [Role Play] #Entertainment
 - [Encore]
 - [Return]
 - [Low Kick]

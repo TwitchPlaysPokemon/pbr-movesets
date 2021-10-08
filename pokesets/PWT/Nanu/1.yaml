@@ -1,12 +1,12 @@
 ---
-species: Persian
+species: Persian #Alolan Persian
 setname: PWT-Nanu
 tags: [in-game, PWT-Nanu, trainer+nanu]
-item: [Black Glasses]
-ability: [Thick Fat]
+item: [Black Glasses] #Darkinium Z
+ability: [Thick Fat] #Fur Coat
 moves:
 - [Power Gem]
-- [Shadow Ball]
+- [Fake Out] #Assuming this is UM, Persian has Fake Out here
 - [Dark Pulse]
 gender: [m, f]
 happiness: 255

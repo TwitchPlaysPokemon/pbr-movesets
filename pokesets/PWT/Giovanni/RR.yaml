@@ -27,7 +27,7 @@ ability: [Poison Point]
 moves:
 - [Earthquake]
 - [Poison Jab]
-- [Crunch]
+- [Crunch] #Throat Chop
 - [Aqua Tail]
 gender: [m]
 happiness: 255
@@ -65,7 +65,7 @@ tags: [in-game, PWT-Giovanni RR, trainer+giovanni]
 item: [Everstone]
 ability: [Pressure]
 moves:
-- [Zen Headbutt, Psywave]
+- [Zen Headbutt, Psywave] #Psystrike for MegMew2Y
 - [Earthquake, Aura Sphere]
 - [Stone Edge, Psychic]
 - [Drain Punch, Ice Beam]

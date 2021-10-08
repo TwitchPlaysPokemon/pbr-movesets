@@ -6,7 +6,7 @@ item: [null]
 ability: [null]
 gender: [f]
 moves:
-- [Giga Drain]
+- [Giga Drain] #These were all Mega Drain, which for SOME REASON got Giga's properties in Let's Go and nowhere else
 - [Sleep Powder]
 - [Bind]
 happiness: 255
@@ -44,7 +44,7 @@ ability: [null]
 gender: [f]
 moves:
 - [Giga Drain]
-- [Psychic]
+- [Psychic] #Moonblast
 happiness: 255
 biddable: false
 ball: [Poke]

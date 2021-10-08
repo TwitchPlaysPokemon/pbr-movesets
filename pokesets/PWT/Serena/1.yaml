@@ -1,0 +1,116 @@
+---
+species: Absol
+setname: PWT-Serena
+tags: [in-game, PWT-Serena, trainer+serena]
+item: [Moon Stone]
+ability: [Super Luck]
+moves:
+- [Night Slash]
+- [Swords Dance]
+- [Slash]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Serena
+tags: [in-game, PWT-Serena, trainer+serena]
+item: [null]
+ability: [Volt Absorb]
+moves:
+- [Thunder]
+- [Double Kick]
+- [Quick Attack]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Serena
+tags: [in-game, PWT-Serena, trainer+serena]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Fire Blast]
+- [Quick Attack]
+- [Bite]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Serena
+tags: [in-game, PWT-Serena, trainer+serena]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Hydro Pump]
+- [Aurora Beam]
+- [Quick Attack]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Clefable
+setname: PWT-Serena
+tags: [in-game, PWT-Serena, trainer+serena]
+item: [null]
+ability: [Magic Guard]
+moves:
+- [Mist Ball] #originally Moonblast, this has the same properties
+- [Focus Blast]
+- [Meteor Mash]
+- [Sing]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Serena
+tags: [in-game, PWT-Serena, trainer+serena]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Dragon Pulse]
+- [Psychic] #originally Dazzling Gleam
+- [Tickle] #originally Confide, PBR has no Sp. Atk-decreasing moves
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

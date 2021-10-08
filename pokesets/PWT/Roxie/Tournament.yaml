@@ -21,7 +21,7 @@ rarity: 1.0
 species: Crobat
 setname: PWT-Roxie Tournament
 tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
-item: [Mind Plate]
+item: [Mind Plate] #Psychic Gem
 ability: [Inner Focus]
 moves:
 - [Cross Poison]

@@ -2,7 +2,7 @@
 species: Raichu
 setname: PWT-Volkner Tournament
 tags: [in-game, PWT-Volkner Tournament, trainer+volkner]
-item: [Miracle Seed]
+item: [Miracle Seed] #Grass Gem
 ability: [Static]
 moves:
 - [Focus Blast]
@@ -22,12 +22,12 @@ rarity: 1.0
 species: Electrode
 setname: PWT-Volkner Tournament
 tags: [in-game, PWT-Volkner Tournament, trainer+volkner]
-item: [Magnet]
+item: [Magnet] #Electric Gem
 ability: [Soundproof, Static]
 moves:
 - [Taunt]
 - [Torment]
-- [Shock Wave]
+- [Shock Wave] #Electro Ball
 - [Signal Beam]
 happiness: 255
 biddable: false
@@ -66,7 +66,7 @@ ability: [Rivalry, Intimidate]
 moves:
 - [Superpower]
 - [Crunch]
-- [Volt Tackle]
+- [Volt Tackle] #Wild Charge
 - [Thunder Wave]
 gender: [m, f]
 happiness: 255
@@ -85,8 +85,8 @@ item: [Salac Berry]
 ability: [Motor Drive]
 moves:
 - [Brick Break]
-- [Magnitude]
-- [Volt Tackle]
+- [Magnitude] #Bulldoze
+- [Volt Tackle] #Wild Charge
 - [Ice Punch]
 gender: [m, f]
 happiness: 255
@@ -104,7 +104,7 @@ tags: [in-game, PWT-Volkner Tournament, trainer+volkner]
 item: [Colbur Berry]
 ability: [Levitate]
 moves:
-- [Ominous Wind]
+- [Ominous Wind] #Hex
 - [Pain Split]
 - [Discharge]
 - [Will-O-Wisp]

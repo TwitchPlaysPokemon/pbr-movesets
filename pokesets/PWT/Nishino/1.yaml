@@ -57,3 +57,65 @@ ivs: 0
 evs: 0
 level: 100
 rarity: 1.0
+---
+species: Clefable
+setname: PWT-Nishino
+tags: [in-game, PWT-Nishino, trainer+nishino]
+item: [Leftovers]
+ability: [Cute Charm]
+moves:
+- [Cosmic Power]
+- [Sing]
+- [Metronome]
+- [Punishment] #Stored Power - dunno if PBR has an equiv.
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Azumarill
+setname: PWT-Nishino
+tags: [in-game, PWT-Nishino, trainer+nishino]
+item: [Leftovers]
+ability: [Huge Power]
+moves:
+- [Double Edge]
+- [Aqua Tail]
+- [Superpower]
+- [Magnitude] #Bulldoze
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Luvdisc #Alomomola - I mean look at them
+displayname: Alomomola
+ingamename: Alomomola
+setname: PWT-Nishino
+tags: [in-game, PWT-Nishino, trainer+nishino]
+item: [Leftovers]
+ability: [Hydration]
+moves:
+- [Wish]
+- [Toxic]
+- [Protect]
+- [Aqua Jet]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
