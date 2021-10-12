@@ -49,6 +49,7 @@ moves:
 - [Thunder]
 - [Blizzard]
 - [Psychic] #Dazzling Gleam
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
