@@ -1,14 +1,14 @@
 ---
 species: Kangaskhan
-setname: PWT-Let's Go Morimoto
-tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+setname: PWT-Sun/Moon Morimoto
+tags: [in-game, PWT-Sun/Moon Morimoto, trainer+morimoto]
 item: [null]
-ability: [null]
+ability: [Scrappy]
 gender: [f]
 moves:
 - [Fake Out]
-- [Sucker Punch]
 - [Dizzy Punch]
+- [Sucker Punch]
 - [Outrage]
 happiness: 255
 biddable: false
@@ -20,16 +20,16 @@ level: 100
 rarity: 1.0
 ---
 species: Flareon
-setname: PWT-Let's Go Morimoto
-tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+setname: PWT-Sun/Moon Morimoto
+tags: [in-game, PWT-Sun/Moon Morimoto, trainer+morimoto]
 item: [null]
-ability: [null]
+ability: [Flash Fire]
 gender: [m]
 moves:
 - [Quick Attack]
-- [Double Kick]
 - [Flare Blitz]
-- [Superpower]
+- [Tickle] #Baby-Doll Eyes
+- [Will-O-Wisp]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -40,16 +40,16 @@ level: 100
 rarity: 1.0
 ---
 species: Vaporeon
-setname: PWT-Let's Go Morimoto
-tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+setname: PWT-Sun/Moon Morimoto
+tags: [in-game, PWT-Sun/Moon Morimoto, trainer+morimoto]
 item: [null]
-ability: [null]
-gender: [f]
+ability: [Water Absorb]
+gender: [m]
 moves:
 - [Quick Attack]
-- [Double Kick]
 - [Hydro Pump]
-- [Blizzard]
+- [Tickle] #Baby-Doll Eyes
+- [Toxic]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -60,16 +60,16 @@ level: 100
 rarity: 1.0
 ---
 species: Jolteon
-setname: PWT-Let's Go Morimoto
-tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+setname: PWT-Sun/Moon Morimoto
+tags: [in-game, PWT-Sun/Moon Morimoto, trainer+morimoto]
 item: [null]
-ability: [null]
+ability: [Volt Absorb]
 gender: [m]
 moves:
 - [Quick Attack]
-- [Double Kick]
 - [Thunder]
-- [Shadow Ball]
+- [Tickle] #Baby-Doll Eyes
+- [Thunder Wave]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -80,16 +80,16 @@ level: 100
 rarity: 1.0
 ---
 species: Machamp
-setname: PWT-Let's Go Morimoto
-tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+setname: PWT-Sun/Moon Morimoto
+tags: [in-game, PWT-Sun/Moon Morimoto, trainer+morimoto]
 item: [null]
-ability: [null]
+ability: [No Guard]
 gender: [m]
 moves:
-- [Superpower]
-- [Earthquake]
+- [Dynamic Punch]
+- [Stone Edge]
 - [Poison Jab]
-- [Rock Slide]
+- [Dragon Claw] #Dual Chop
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -100,16 +100,16 @@ level: 100
 rarity: 1.0
 ---
 species: Dragonite
-setname: PWT-Let's Go Morimoto
-tags: [in-game, PWT-Let's Go Morimoto, trainer+morimoto]
+setname: PWT-Sun/Moon Morimoto
+tags: [in-game, PWT-Sun/Moon Morimoto, trainer+morimoto]
 item: [null]
-ability: [null]
+ability: [Marvel Scale] #Multiscale
 gender: [m]
 moves:
-- [Dragon Pulse]
-- [Blizzard]
-- [Fire Blast]
+- [Aeroblast] #Hurricane
+- [Draco Meteor]
 - [Thunder]
+- [Blizzard]
 happiness: 255
 biddable: false
 ball: [Poke]

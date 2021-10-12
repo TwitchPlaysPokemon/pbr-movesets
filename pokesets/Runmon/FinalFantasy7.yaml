@@ -53,7 +53,7 @@ moves:
     - [Ominous Wind]
     - [Doom Desire]
     - [Wish]
-    - [Heal Bell]
+    - [Aromatherapy]
 gender: [f]
 happiness: 255
 biddable: True
@@ -130,9 +130,9 @@ nature: Impish
 ivs: 31
 evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
 ---
-species: Skarmory
-ingamename: Vincent
-displayname: Vincent
+species: Skarmory #Vincent
+ingamename: Shadow
+displayname: Shadow
 setname: TPP Final Fantasy VII
 tags: [runmon, in-game]
 item: [Focus Band]

@@ -1,0 +1,60 @@
+---
+species: Gengar
+setname: PWT-USUM Morimoto
+tags: [in-game, PWT-USUM Morimoto, trainer+morimoto]
+item: [null]
+ability: [Levitate] #Cursed Body
+gender: [m]
+moves:
+- [Shadow Ball]
+- [Dark Pulse]
+- [Sludge Bomb]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-USUM Morimoto
+tags: [in-game, PWT-USUM Morimoto, trainer+morimoto]
+item: [null]
+ability: [No Guard]
+gender: [m]
+moves:
+- [Dynamic Punch]
+- [Stone Edge]
+- [Poison Jab]
+- [Dragon Claw] #Dual Chop
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-USUM Morimoto
+tags: [in-game, PWT-USUM Morimoto, trainer+morimoto]
+item: [null]
+ability: [Marvel Scale] #Multiscale
+gender: [m]
+moves:
+- [Aeroblast] #Hurricane
+- [Draco Meteor]
+- [Thunder]
+- [Blizzard]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
