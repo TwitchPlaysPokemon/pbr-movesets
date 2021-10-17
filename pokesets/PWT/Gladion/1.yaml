@@ -1,0 +1,79 @@
+---
+species: Porygon-Z
+setname: PWT-Gladion
+tags: [in-game, PWT-Gladion, trainer+gladion]
+item: [null]
+ability: [Download]
+moves:
+- [Tri Attack]
+- [Dark Pulse]
+- [Ice Beam]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Gladion
+tags: [in-game, PWT-Gladion, trainer+gladion]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Aura Sphere]
+- [Flash Cannon]
+- [Extreme Speed]
+- [Psychic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Gladion
+tags: [in-game, PWT-Gladion, trainer+gladion]
+item: [null]
+ability: [Blaze]
+moves:
+- [Air Slash]
+- [Flamethrower]
+- [Earthquake]
+- [Outrage]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Gladion
+tags: [in-game, PWT-Gladion, trainer+gladion]
+item: [null]
+ability: [Torrent]
+moves:
+- [Surf]
+- [Ice Beam]
+- [Earthquake]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -12,6 +12,9 @@ for changed_file in changed_files:
     if not changed_file.startswith("pokesets/") or os.path.splitext(changed_file)[1].lower() not in (".yml", ".yaml"):
         print("{} is not a pokeset".format(changed_file))
         continue
+    if not os.path.exists(changed_file):
+        print("{} is deleted".format(changed_file))
+        continue
     print("{} is a pokeset".format(changed_file))
     with open(changed_file) as f:
         num_lines = sum(1 for line in f)
