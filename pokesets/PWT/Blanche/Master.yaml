@@ -1,0 +1,97 @@
+---
+species: Lapras
+setname: PWT-Blanche Master
+tags: [in-game, PWT-Blanche Master, trainer+blanche]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Hydro Pump, Surf]
+- [Blizzard, Ice Beam]
+- [Dragon Pulse]
+- [Skull Bash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Blanche Master
+tags: [in-game, PWT-Blanche Master, trainer+blanche]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Earthquake]
+- [Aerial Ace, Wing Attack]
+- [Night Slash]
+- [Fury Cutter]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Suicune
+setname: PWT-Blanche Master
+tags: [in-game, PWT-Blanche Master, trainer+blanche]
+item: [null]
+ability: [null]
+moves:
+- [Hydro Pump, Water Pulse]
+- [Ice Beam, Ice Fang]
+- [Extrasensory]
+- [Hidden Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Blanche Master
+tags: [in-game, PWT-Blanche Master, trainer+blanche]
+item: [null]
+ability: [null]
+moves:
+- [Meteor Mash, Flash Cannon]
+- [Zen Headbutt, Psychic]
+- [Earthquake]
+- [Bullet Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Articuno
+setname: PWT-Blanche Master
+tags: [in-game, PWT-Blanche Master, trainer+blanche]
+item: [null]
+ability: [null]
+moves:
+- [Blizzard]
+- [Ice Beam]
+- [Ancient Power]
+- [Return]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

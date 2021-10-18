@@ -1,0 +1,60 @@
+---
+species: Vileplume
+setname: PWT-Erika Masters
+tags: [in-game, PWT-Erika Masters, trainer+erika]
+item: [null]
+ability: [Chlorophyll, Effect Spore]
+moves:
+- [Energy Ball]
+- [Amnesia] #X Sp. Def
+- [Stun Spore]
+- [Nasty Plot, Iron Defense] #Pour it On!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tangela
+setname: PWT-Erika Masters
+tags: [in-game, PWT-Erika Masters, trainer+erika]
+item: [null]
+ability: [Chlorophyll, Leaf Guard]
+moves:
+- [Absorb]
+- [Toxic]
+- [Whirlpool] #Infestation
+- [Calm Mind] #Tangle with This!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Leafeon
+setname: PWT-Erika Masters
+tags: [in-game, PWT-Erika Masters, trainer+erika]
+item: [null]
+ability: [Leaf Guard, Chlorophyll]
+moves:
+- [Solar Beam] #Solar Blade
+- [Agility] #X Speed
+- [Sunny Day]
+- [Growth] #Soak Up The Sun!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,78 @@
+---
+species: Salamence
+setname: PWT-Candela Master
+tags: [in-game, PWT-Candela Master, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Draco Meteor]
+- [Fire Fang]
+- [Hydro Pump]
+- [Bite, Outrage]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Entei
+setname: PWT-Candela Master
+tags: [in-game, PWT-Candela Master, trainer+candela]
+item: [null]
+ability: [null]
+moves:
+- [Fire Blast]
+- [Overheat, Fire Fang]
+- [Flamethrower, Fire Spin]
+- [Iron Head]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Moltres
+setname: PWT-Candela Master
+tags: [in-game, PWT-Candela Master, trainer+candela]
+item: [null]
+ability: [null]
+moves:
+- [Heat Wave, Overheat]
+- [Wing Attack, Sky Attack]
+- [Fire Spin, Fire Blast]
+- [Ancient Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Candela Master
+tags: [in-game, PWT-Candela Master, trainer+candela]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Blast Burn, Flamethrower]
+- [Close Combat, Rock Smash]
+- [Solar Beam]
+- [Fire Spin]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

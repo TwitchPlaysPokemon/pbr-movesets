@@ -1,6 +1,6 @@
 species: Toxicroak
-setname: PWT-Roxie Tournament2
-tags: [in-game, PWT-Roxie Tournament2, trainer+roxie]
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
 item: [Focus Sash]
 ability: [Anticipation, Dry Skin]
 moves:
@@ -19,8 +19,8 @@ level: 100
 rarity: 1.0
 ---
 species: Crobat
-setname: PWT-Roxie Tournament2
-tags: [in-game, PWT-Roxie Tournament2, trainer+roxie]
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
 item: [Mind Plate] #Psychic Gem
 ability: [Inner Focus]
 moves:
@@ -39,8 +39,8 @@ level: 100
 rarity: 1.0
 ---
 species: Drapion
-setname: PWT-Roxie Tournament2
-tags: [in-game, PWT-Roxie Tournament2, trainer+roxie]
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
 item: [Scope Lens]
 ability: [Battle Armor, Sniper]
 moves:

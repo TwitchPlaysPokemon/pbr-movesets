@@ -1,0 +1,116 @@
+---
+species: Jolteon
+setname: PWT-Spark Ultra
+tags: [in-game, PWT-Spark Ultra, trainer+spark]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunderbolt, Discharge]
+- [Thunder]
+- [Thunder Shock]
+- [Last Resort]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Luxray
+setname: PWT-Spark Ultra
+tags: [in-game, PWT-Spark Ultra, trainer+spark]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Spark]
+- [Crunch]
+- [Hyper Beam]
+- [Hidden Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Spark Ultra
+tags: [in-game, PWT-Spark Ultra, trainer+spark]
+item: [null]
+ability: [null]
+moves:
+- [Zap Cannon]
+- [Spark, Charge Beam]
+- [Flash Cannon]
+- [Mirror Shot]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Spark Ultra
+tags: [in-game, PWT-Spark Ultra, trainer+spark]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunder Punch]
+- [Psychic]
+- [Grass Knot]
+- [Spark]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magneton
+setname: PWT-Spark Ultra
+tags: [in-game, PWT-Spark Ultra, trainer+spark]
+item: [null]
+ability: [null]
+moves:
+- [Zap Cannon]
+- [Spark, Charge Beam]
+- [Flash Cannon]
+- [Mirror Shot]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Manectric
+setname: PWT-Spark Ultra
+tags: [in-game, PWT-Spark Ultra, trainer+spark]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Thunder]
+- [Charge Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
