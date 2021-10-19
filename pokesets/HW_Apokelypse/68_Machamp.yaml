@@ -4,13 +4,13 @@ displayname: Sukuna
 setname: Pokelypse
 tags: ubers
 tags: [pokelypse]
-item: Lagging Tail
+item: Quick Claw
 ability: Vital Spirit
 moves:
-    - [Close Combat]
+    - [Dynamic Punch]
     - [Sucker Punch]
     - [Recover]
-    - [Trick Room]
+    - [Gravity]
 gender: [m]
 happiness: 255
 biddable: True

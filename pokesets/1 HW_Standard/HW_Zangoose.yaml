@@ -1,0 +1,22 @@
+species: Zangoose
+ingamename: Kazuya
+displayname: Kazuya Mishima
+setname: Halloween
+tags: [halloween]
+item: Muscle Band
+ability: Iron Fist
+moves:
+    - [Bullet Punch]
+    - [Vital Throw]
+    - [Charge Beam]
+    - [Curse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Calm
+evs: {hp: 60, atk: 60, def: 60, spA: 60, spD: 60, spe: 60}
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
+hidden: false

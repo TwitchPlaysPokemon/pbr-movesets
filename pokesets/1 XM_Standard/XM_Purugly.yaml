@@ -29,10 +29,10 @@ tags: [christmas]
 item: Leftovers
 ability: Truant
 moves:
-    - [Body Slam]
-    - [Swallow]
-    - [Stockpile]
+    - [Mega Kick]
+    - [Crunch]
     - [Slack Off]
+    - [Stockpile]
 gender: [m]
 happiness: 255
 biddable: True

@@ -35,22 +35,3 @@ ball: [Poke]
 nature: Adamant
 evs: {hp: 184, atk: 252, def: 36, spA: 0, spD: 36, spe: 0}
 ivs: 31
----
-species: Squirtle
-setname: Smash
-tags: [standard]
-item: [null]
-ability: [Torrent]
-moves:
-    - [Water Gun]
-    - [Withdraw]
-    - [Waterfall]
-    - [U-Turn]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 0.44
-ball: [Poke]
-nature: Lax
-evs: {hp: 92, atk: 92, def: 78, spA: 252, spD: 0, spe: 0}
-ivs: 31
