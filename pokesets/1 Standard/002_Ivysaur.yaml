@@ -35,3 +35,22 @@ ball: [Great]
 nature: Naive
 ivs: 31
 evs: {hp: 92, atk: 56, def: 100, spA: 200, spD: 32, spe: 28}
+---
+species: Ivysaur
+setname: Smash
+tags: [standard]
+item: [Null]
+ability: [Overgrow]
+moves:
+    - [Bullet Seed]
+    - [Razor Leaf]
+    - [Vine Whip]
+    - [U-Turn]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.6
+ball: [Poke]
+nature: Jolly
+ivs: 31
+evs: {hp: 100, atk: 252, def: 78, spA: 0, spD: 0, spe: 78}

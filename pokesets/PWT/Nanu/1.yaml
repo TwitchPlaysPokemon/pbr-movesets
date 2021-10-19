@@ -8,6 +8,7 @@ moves:
 - [Power Gem]
 - [Fake Out] #Assuming this is UM, Persian has Fake Out here
 - [Dark Pulse]
+- [Thunderbolt]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -27,6 +28,7 @@ moves:
 - [Power Gem]
 - [Shadow Ball]
 - [Dark Pulse]
+- [Toxic]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -43,9 +45,30 @@ tags: [in-game, PWT-Nanu, trainer+nanu]
 item: [null]
 ability: [Super Luck]
 moves:
-- [Night Slash]
 - [Psycho Cut]
 - [Sucker Punch]
+- [Aerial Ace]
+- [Night Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Nanu
+tags: [in-game, PWT-Nanu, trainer+nanu]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Aerial Ace]
+- [Sucker Punch]
+- [Psychic]
+- [Howl]
 gender: [m, f]
 happiness: 255
 biddable: false

@@ -15,7 +15,7 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -27,15 +27,18 @@ ability: [Sturdy]
 moves:
 - [Earthquake]
 - [Dragon Claw]
-- [Thunder]
-- [Solar Beam]
+- [Thunder, Stone Edge]
+- [Solar Beam, Iron Tail]
+combinations:
+- [Thunder, Solar Beam]
+- [Stone Edge, Iron Tail]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -45,16 +48,19 @@ tags: [in-game, PWT-Steven, trainer+steven]
 item: [null]
 ability: [Levitate]
 moves:
-- [Earthquake]
-- [Ancient Power]
+- [Earthquake, Earth Power]
+- [Ancient Power, Extrasensory]
 - [Light Screen]
 - [Reflect]
+combinations:
+- [Earth Power, Extrasensory]
+- [Earthquake, Ancient Power]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -66,7 +72,7 @@ ability: [Suction Cups]
 moves:
 - [Ancient Power]
 - [Confuse Ray]
-- [Sludge Bomb]
+- [Sludge Bomb, Ingrain]
 - [Giga Drain]
 gender: [m, f]
 happiness: 255
@@ -74,7 +80,7 @@ biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -84,17 +90,20 @@ tags: [in-game, PWT-Steven, trainer+steven]
 item: [null]
 ability: [Battle Armor]
 moves:
-- [Ancient Power]
-- [Slash]
-- [Aerial Ace]
-- [Water Pulse]
+- [Ancient Power, X-Scissor]
+- [Slash, Rock Blast]
+- [Aerial Ace, Metal Claw]
+- [Water Pulse, Crush Claw]
+combinations:
+- [Ancient Power, Slash, Aerial Ace, Water Pulse]
+- [X-Scissor, Rock Blast, Metal Claw, Crush Claw]
 gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
 rarity: 1.0
 ---
@@ -105,14 +114,37 @@ item: [null]
 ability: [Clear Body]
 moves:
 - [Meteor Mash]
-- [Earthquake]
-- [Psychic]
-- [Hyper Beam]
+- [Earthquake, Bullet Punch]
+- [Psychic, Zen Headbutt]
+- [Hyper Beam, Giga Impact]
+combinations:
+- [Bullet Punch, Zen Headbutt, Giga Impact]
+- [Earthquake, Psychic, Hyper Beam]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Steven
+tags: [in-game, PWT-Steven, trainer+steven]
+item: [null]
+ability: [Pressure]
+moves:
+- [Rock Slide]
+- [Ice Fang]
+- [Thunder Fang]
+- [Fire Fang]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
 level: 100
 rarity: 1.0

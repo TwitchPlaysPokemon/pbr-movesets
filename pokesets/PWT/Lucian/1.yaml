@@ -97,3 +97,43 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Medicham
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
+ability: [Pure Power]
+moves:
+- [Drain Punch]
+- [Fire Punch]
+- [Thunder Punch]
+- [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Girafarig
+setname: PWT-Lucian
+tags: [in-game, PWT-Lucian, trainer+lucian]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Double Hit]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

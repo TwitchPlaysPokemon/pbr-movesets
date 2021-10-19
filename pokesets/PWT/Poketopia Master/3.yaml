@@ -1,0 +1,239 @@
+---
+species: Cresselia
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Lum Berry]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Ice Beam]
+- [Calm Mind]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Yache Berry]
+ability: [Sand Veil]
+moves:
+- [Dragon Claw]
+- [Earthquake, Stone Edge]
+- [Aerial Ace]
+- [Brick Break, Protect]
+combinations:
+- [Earthquake, Brick Break]
+- [Stone Edge, Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Scope Lens]
+ability: [Inner Focus]
+moves:
+- [Aura Sphere]
+- [Dark Pulse]
+- [Flash Cannon]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Leftovers]
+ability: [Thick Fat]
+moves:
+- [Body Slam]
+- [Crunch]
+- [Brick Break]
+- [Curse]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Quick Claw]
+ability: [Torrent]
+moves:
+- [Hydro Cannon]
+- [Ice Beam]
+- [Flash Cannon]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Mesprit
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Expert Belt]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Thunderbolt]
+- [Ice Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Palkia
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [White Herb]
+ability: [Pressure]
+moves:
+- [Draco Meteor]
+- [Surf]
+- [Flamethrower]
+- [Ice Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Bright Powder]
+ability: [Blaze]
+moves:
+- [Blast Burn]
+- [Air Slash]
+- [Focus Blast]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Uxie
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Lax Incense]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Calm Mind]
+- [Thunderbolt]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dialga
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Adamant Orb]
+ability: [Pressure]
+moves:
+- [Roar of Time]
+- [Flash Cannon]
+- [Thunderbolt]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Azelf
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Lax Incense]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Flamethrower]
+- [Energy Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Meganium
+setname: "PWT-Pok\xE9topia Master3"
+tags: [in-game, "PWT-Pok\xE9topia Master3", trainer+poketopiamaster]
+item: [Quick Claw]
+ability: [Overgrow]
+moves:
+- [Frenzy Plant]
+- [Ancient Power]
+- [Energy Ball]
+- [Safeguard]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

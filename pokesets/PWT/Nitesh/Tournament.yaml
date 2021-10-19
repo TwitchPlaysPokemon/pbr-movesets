@@ -1,0 +1,78 @@
+species: Heatran
+setname: PWT-Nitesh Tournament
+tags: [in-game, PWT-Nitesh Tournament, trainer+nitesh]
+item: [Shuca Berry]
+ability: [Flash Fire]
+moves:
+- [Heat Wave]
+- [Earth Power]
+- [Hidden Power]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 21, atk: 21, def: 21, spA: 21, spD: 21, spe: 20}
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Nitesh Tournament
+tags: [in-game, PWT-Nitesh Tournament, trainer+nitesh]
+item: [Charti Berry]
+ability: [Intimidate]
+moves:
+- [Thunder Wave]
+- [Ice Fang]
+- [Protect]
+- [Waterfall]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gastrodon
+setname: PWT-Nitesh Tournament
+tags: [in-game, PWT-Nitesh Tournament, trainer+nitesh]
+item: [Rindo Berry]
+ability: [Storm Drain]
+moves:
+- [Ice Beam]
+- [Recover]
+- [Earth Power]
+- [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Nitesh Tournament
+tags: [in-game, PWT-Nitesh Tournament, trainer+nitesh]
+item: [Iron Plate]
+ability: [Clear Body]
+moves:
+- [Meteor Mash]
+- [Zen Headbutt]
+- [Protect]
+- [Bullet Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,22 @@
+species: Yanma
+ingamename: Yanma 1/2
+displayname: Yanma Saotome
+setname: Christmas
+tags: [christmas]
+item: Black Belt
+ability: Rivalry
+moves:
+    - [High Jump Kick]
+    - [Feint Attack]
+    - [U-Turn]
+    - [Attract]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 100, atk: 100, def: 100, spA: 100, spD: 100, spe: 100}
+hidden: False
