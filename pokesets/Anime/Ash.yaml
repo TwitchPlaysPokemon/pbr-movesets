@@ -149,25 +149,6 @@ ivs: 31
 evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 0, spe: 8}
 tags: [ash, anime]
 ---
-species: Gengar
-setname: Ash
-ability: [Levitate]
-item: [null]
-ball: [Poke]
-moves:
-- [Night Shade]
-- [Psychic]
-- [Ice Punch]
-- [Shadow Ball]
-gender: [m]
-happiness: 255
-biddable: true
-rarity: 1.0
-nature: Sassy
-ivs: 31
-evs: {hp: 248, atk: 196, def: 0, spA: 56, spD: 0, spe: 8}
-tags: [ash, anime]
----
 species: Kingler
 setname: Ash
 ability: [Shell Armor]
@@ -241,25 +222,6 @@ rarity: 1.0
 nature: Quiet
 ivs: 31
 evs: {hp: 252, atk: 8, def: 0, spA: 248, spD: 0, spe: 0}
-tags: [ash, anime]
----
-species: Dragonite
-setname: Ash
-ability: [Inner Focus]
-item: [null]
-ball: [Poke]
-moves:
-- [Hyper Beam]
-- [Dragon Dance]
-- [Dragon Claw]
-- [Wing Attack]
-gender: [m]
-happiness: 255
-biddable: true
-rarity: 1.0
-nature: Naughty
-ivs: 31
-evs: {hp: 252, atk: 248, def: 0, spA: 0, spD: 0, spe: 8}
 tags: [ash, anime]
 ---
 species: Bayleef
@@ -565,25 +527,6 @@ biddable: true
 rarity: 1.0
 nature: Hasty
 evs: {hp: 0, atk: 144, def: 0, spA: 252, spD: 0, spe: 112}
-ivs: 31
-tags: [ash, anime]
----
-species: Lucario
-setname: Ash
-ability: [Inner Focus]
-item: [null]
-ball: [Poke]
-moves:
-- [Aura Sphere]
-- [Force Palm]
-- [Double Team]
-- [Metal Claw]
-gender: [m]
-happiness: 255
-biddable: true
-rarity: 1.0
-nature: Adamant
-evs: {hp: 0, atk: 252, def: 0, spA: 144, spD: 0, spe: 112}
 ivs: 31
 tags: [ash, anime]
 ---

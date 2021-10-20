@@ -1,7 +1,7 @@
 species: Squirtle
 setname: Special
 tags: [standard]
-item: [null]
+item: [Null]
 ability: [Torrent]
 moves:
     - [Hydro Pump]
@@ -20,7 +20,7 @@ ivs: 31
 species: Squirtle
 setname: Physical
 tags: [standard]
-item: [null]
+item: [Null]
 ability: [Rain Dish]
 moves:
     - [Waterfall]

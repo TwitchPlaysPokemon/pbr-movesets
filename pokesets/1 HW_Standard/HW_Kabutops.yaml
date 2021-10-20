@@ -1,6 +1,6 @@
 species: Kabutops
 ingamename: JackRipper
-displayname: Jack The Ripper
+displayname: Jack The Ripper 
 setname: Halloween
 ball: [Dusk]
 tags: [halloween]
@@ -19,27 +19,4 @@ shiny: True
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 72, spe: 0}
 nature: Serious
-hidden: false
----
-species: Kabutops
-ingamename: SCP-049
-displayname: SCP-049
-setname: Halloween2
-ball: [Dusk]
-tags: [halloween]
-item: Hyper Potion
-ability: Effect Spore
-moves:
-    - [Psycho Cut]
-    - [Twineedle]
-    - [Recover]
-    - [Heal Bell]
-happiness: 255
-gender: [m]
-biddable: True
-rarity: 1.0
-shiny: True
-ivs: 15
-evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 72, spe: 0}
-nature: Impish
 hidden: false
