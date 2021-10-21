@@ -1,14 +1,12 @@
 ---
-species: Golbat
+species: Zubat
 setname: PWT-Team Skull
 tags: [in-game, PWT-Team Skull, trainer+teamskull]
 item: [null]
 ability: [Inner Focus]
 moves:
-- [Mean Look, Leer, Supersonic]
-- [Absorb, Leech Life, Swift]
-- [Poison Fang]
-- [Steel Wing, Air Cutter]
+- [Leech Life]
+- [Leer]
 gender: [m]
 happiness: 255
 biddable: false
@@ -19,56 +17,14 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Drowzee
-setname: PWT-Team Skull
-tags: [in-game, PWT-Team Skull, trainer+teamskull]
-item: [null]
-ability: [Insomnia, Forewarn]
-moves:
-- [Disable, Meditate]
-- [Confusion, Psybeam]
-- [Headbutt, Pound, Wake-Up Slap]
-- [Poison Gas, Psych Up]
-gender: [m]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Ekans
-setname: PWT-Team Skull
-tags: [in-game, PWT-Team Skull, trainer+teamskull]
-item: [null]
-ability: [Intimidate, Shed Skin]
-moves:
-- [Glare, Spit Up]
-- [Acid]
-- [Bite, Mud Bomb]
-- [Gastro Acid]
-gender: [m]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Haunter
+species: Koffing
 setname: PWT-Team Skull
 tags: [in-game, PWT-Team Skull, trainer+teamskull]
 item: [null]
 ability: [Levitate]
 moves:
-- [Confuse Ray]
-- [Sucker Punch]
-- [Payback]
-- [Shadow Ball]
+- [Poison Gas]
+- [Tackle]
 gender: [m]
 happiness: 255
 biddable: false
@@ -79,36 +35,15 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Houndour
+species: Skuntank
 setname: PWT-Team Skull
 tags: [in-game, PWT-Team Skull, trainer+teamskull]
 item: [null]
-ability: [Early Bird, Flash Fire]
+ability: [Stench]
 moves:
-- [Bite, Feint Attack]
-- [Odor Sleuth, Embargo]
-- [Beat Up]
-- [Fire Fang]
-gender: [m]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Spinarak
-setname: PWT-Team Skull
-tags: [in-game, PWT-Team Skull, trainer+teamskull]
-item: [null]
-ability: [Swarm, Insomnia]
-moves:
-- [Sucker Punch]
-- [Spider Web]
-- [Agility]
-- [Pin Missile, Fury Swipes]
+- [Scratch]
+- [Focus Energy]
+- [Poison Gas]
 gender: [m]
 happiness: 255
 biddable: false

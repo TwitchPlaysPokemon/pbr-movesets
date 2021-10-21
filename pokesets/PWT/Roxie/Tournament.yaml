@@ -1,12 +1,12 @@
-species: Zangoose
-setname: PWT-Cheren Tournament
-tags: [in-game, PWT-Cheren Tournament, trainer+cheren]
-item: [Chople Berry]
-ability: [Immunity]
+species: Toxicroak
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
+item: [Focus Sash]
+ability: [Anticipation, Dry Skin]
 moves:
-- [Crush Claw]
-- [Close Combat]
-- [X-Scissor]
+- [Protect]
+- [Drain Punch]
+- [Poison Jab]
 - [Swords Dance]
 gender: [m, f]
 happiness: 255
@@ -18,16 +18,16 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Lopunny
-setname: PWT-Cheren Tournament
-tags: [in-game, PWT-Cheren Tournament, trainer+cheren]
-item: [Liechi Berry]
-ability: [Cute Charm, Klutz]
+species: Crobat
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
+item: [Mind Plate]
+ability: [Inner Focus]
 moves:
-- [Dizzy Punch]
-- [Jump Kick]
-- [Ice Punch]
-- [Charm]
+- [Cross Poison]
+- [Brave Bird]
+- [Zen Headbutt]
+- [Tailwind]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -38,17 +38,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Castform
-setname: PWT-Cheren Tournament
-tags: [in-game, PWT-Cheren Tournament, trainer+cheren]
-item: [Petaya Berry]
-ability: [Forecast]
-gender: [m, f]
+species: Drapion
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
+item: [Scope Lens]
+ability: [Battle Armor, Sniper]
 moves:
-- [Weather Ball]
-- [Hydro Pump]
-- [Fire Blast]
-- [Blizzard]
+- [Cross Poison]
+- [Night Slash]
+- [Ice Fang]
+- [Protect]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]

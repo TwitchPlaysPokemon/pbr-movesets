@@ -63,7 +63,7 @@ ability: [Air Lock]
 moves:
     - [Sky Attack]
     - [Dragon Claw]
-    - [Earthquake, Hydro Pump]
+    - [Earthquake, Waterfall]
     - [Dragon Dance, Roar]
 happiness: 255
 biddable: True
@@ -81,7 +81,7 @@ ability: [Air Lock]
 moves:
     - [Fly]
     - [Draco Meteor]
-    - [Fire Blast, Earthquake, Hydro Pump]
+    - [Fire Blast, Earthquake]
     - [Extremespeed, Psych Up, Substitute]
 happiness: 255
 biddable: True

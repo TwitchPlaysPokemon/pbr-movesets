@@ -7,7 +7,7 @@ moves:
     - [Low Kick, Flare Blitz]
     - [Protect]
     - [Swords Dance]
-    - [Baton Pass, U-turn]
+    - [Baton Pass]
 combinations:
     - [Flare Blitz, Life Orb]
 gender: [m, f]
@@ -26,7 +26,7 @@ item: [Life Orb]
 ability: [Speed Boost]
 moves:
     - [Flare Blitz]
-    - [Low Kick, Close Combat]
+    - [Low Kick]
     - [Swords Dance, Stone Edge, Hidden Power]
     - [Protect]
 gender: [m, f]
