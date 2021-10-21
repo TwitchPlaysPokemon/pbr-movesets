@@ -20,3 +20,26 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 252, spe: 252}
 nature: Timid
 hidden: false
+---
+species: Gloom
+ingamename: Falaf Bowl
+displayname: Falafel Bowl
+setname: Dinner2
+tags: [Dinner]
+ball: [Cherish]
+item: Miracle Seed
+ability: Battle Armor
+moves:
+    - [Overheat]
+    - [Seed Bomb]
+    - [Giga Drain]
+    - [Bulk Up]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+nature: Mild
+hidden: false
