@@ -6,10 +6,10 @@ tags: [costume]
 item: [Light Clay]
 ability: [Frisk]
 moves:
-    - [Dark Pulse]
     - [Assurance]
-    - [Swagger]
-    - [Fake Tears]
+    - [Thunder Wave]
+    - [Reflect]
+    - [Light Screen]
 gender: [m, f]
 happiness: 255
 ball: [Dusk]
