@@ -40,7 +40,7 @@ tags: [ubers]
 item: [Life Orb, Power Herb, Meadow Plate, White Herb]
 ability: [Pressure]
 moves:
-    - [Overheat, Fire Blast, Fire Spin]
+    - [Overheat, Fire Blast]
     - [Sky Attack, Brave Bird]
     - [Solar Beam, Earthquake, Giga Drain]
     - [Sunny Day, Thunder]
