@@ -109,6 +109,7 @@ moves:
 - [Toxic]
 - [Attract]
 - [Protect]
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
