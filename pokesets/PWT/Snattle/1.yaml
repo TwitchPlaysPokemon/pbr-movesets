@@ -1,0 +1,117 @@
+---
+species: Electrode
+setname: PWT-Snattle
+tags: [in-game, PWT-Snattle, trainer+snattle]
+item: [Leichi Berry]
+ability: [Soundproof]
+moves:
+- [Thunderbolt]
+- [Light Screen]
+- [Endure]
+- [Explosion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Snattle
+tags: [in-game, PWT-Snattle, trainer+snattle]
+item: [Scope Lens]
+ability: [Levitate]
+moves:
+- [Sludge Bomb]
+- [Shadow Ball]
+- [Protect]
+- [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Muk
+setname: PWT-Snattle
+tags: [in-game, PWT-Snattle, trainer+snattle]
+item: [Quick Claw]
+ability: [Sticky Hold]
+moves:
+- [Substitute]
+- [Imprison]
+- [Protect]
+- [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glalie
+setname: PWT-Snattle
+tags: [in-game, PWT-Snattle, trainer+snattle]
+item: [Salac Berry]
+ability: [Inner Focus]
+moves:
+- [Ice Beam]
+- [Shadow Ball]
+- [Endure]
+- [Explosion]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Regirock
+setname: PWT-Snattle
+tags: [in-game, PWT-Snattle, trainer+snattle]
+item: [Lax Incense]
+ability: [Clear Body]
+moves:
+- [Ancient Power]
+- [Earthquake]
+- [Protect]
+- [Explosion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Regice
+setname: PWT-Snattle
+tags: [in-game, PWT-Snattle, trainer+snattle]
+item: [Leftovers]
+ability: [Clear Body]
+moves:
+- [Thunderbolt]
+- [Ice Beam]
+- [Protect]
+- [Explosion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

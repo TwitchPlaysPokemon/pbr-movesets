@@ -1,0 +1,119 @@
+---
+species: Shuckle
+setname: PWT-Lovrina
+tags: [in-game, PWT-Lovrina, trainer+lovrina]
+item: [Chesto Berry]
+ability: [Sturdy]
+moves:
+- [Wrap]
+- [Toxic]
+- [Attract]
+- [Rest]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Lovrina
+tags: [in-game, PWT-Lovrina, trainer+lovrina]
+item: [Lax Incense]
+ability: [Marvel Scale]
+moves:
+- [Wrap]
+- [Toxic]
+- [Attract]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Wobbuffet
+setname: PWT-Lovrina
+tags: [in-game, PWT-Lovrina, trainer+lovrina]
+item: [Lum Berry]
+ability: [Shadow Tag]
+moves:
+- [Counter]
+- [Mirror Coat]
+- [Charm]
+- [Encore]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Blissey
+setname: PWT-Lovrina
+tags: [in-game, PWT-Lovrina, trainer+lovrina]
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+- [Counter]
+- [Seismic Toss]
+- [Attract]
+- [Sing]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Misdreavus
+setname: PWT-Lovrina
+tags: [in-game, PWT-Lovrina, trainer+lovrina]
+item: [Quick Claw]
+ability: [Levitate]
+moves:
+- [Confuse Ray]
+- [Torment]
+- [Attract]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Meganium
+setname: PWT-Lovrina
+tags: [in-game, PWT-Lovrina, trainer+lovrina]
+item: [Bright Powder]
+ability: [Overgrow]
+moves:
+- [Leech Seed]
+- [Toxic]
+- [Attract]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
