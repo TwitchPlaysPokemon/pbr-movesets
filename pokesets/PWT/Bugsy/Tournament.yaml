@@ -45,10 +45,10 @@ tags: [in-game, PWT-Bugsy Tournament, trainer+bugsy]
 item: [Occa Berry]
 ability: [Swarm, Technician]
 moves:
-- [Swords Dance]
+- [X-Scissor]
 - [Aerial Ace]
 - [Bullet Punch]
-- [X-Scissor]
+- [Swords Dance]
 gender: [m, f]
 happiness: 255
 biddable: false
