@@ -81,7 +81,7 @@ ability: [Air Lock]
 moves:
     - [Fly]
     - [Draco Meteor]
-    - [Fire Blast, Earthquake]
+    - [Fire Blast, Earthquake, Hydro Pump]
     - [Extremespeed, Psych Up, Substitute]
 happiness: 255
 biddable: True
