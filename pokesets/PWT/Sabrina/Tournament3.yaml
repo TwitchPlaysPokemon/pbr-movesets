@@ -1,0 +1,59 @@
+---
+species: Mewtwo
+setname: PWT-Sabrina Tournament3
+tags: [in-game, PWT-Sabrina Tournament3, trainer+sabrina]
+item: [Mind Plate] #Psychic Gem
+ability: [Pressure]
+moves:
+- [Extrasensory] #Psystrike
+- [Shadow Ball]
+- [Aura Sphere]
+- [Flamethrower]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Sabrina Tournament3
+tags: [in-game, PWT-Sabrina Tournament3, trainer+sabrina]
+item: [Colbur Berry]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Focus Blast]
+- [Energy Ball]
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Sabrina Tournament3
+tags: [in-game, PWT-Sabrina Tournament3, trainer+sabrina]
+item: [Kasib Berry]
+ability: [Magic Guard]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Calm Mind]
+- [Yawn]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0

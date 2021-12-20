@@ -1,0 +1,59 @@
+---
+species: Lugia
+setname: PWT-Falkner Tournament3
+tags: [in-game, PWT-Falkner Tournament3, trainer+falkner]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+- [Psychic] #Psyshock
+- [Aeroblast]
+- [Calm Mind]
+- [Recover]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Pidgeot
+setname: PWT-Falkner Tournament3
+tags: [in-game, PWT-Falkner Tournament3, trainer+falkner]
+item: [Charti Berry]
+ability: [Tangled Feet]
+moves:
+- [Air Slash]
+- [Tailwind]
+- [Brave Bird]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Noctowl
+setname: PWT-Falkner Tournament3
+tags: [in-game, PWT-Falkner Tournament3, trainer+falkner]
+item: [Yache Berry]
+ability: [Tinted Lens]
+moves:
+- [Hypnosis]
+- [Air Slash]
+- [Reflect]
+- [Heat Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0

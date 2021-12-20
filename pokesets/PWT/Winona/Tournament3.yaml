@@ -1,0 +1,59 @@
+---
+species: Rayquaza
+setname: PWT-Winona Tournament3
+tags: [in-game, PWT-Winona Tournament3, trainer+winona]
+item: [Draco Plate] #Dragon Gem
+ability: [Air Lock]
+moves:
+- [Extreme Speed]
+- [Draco Meteor]
+- [Air Slash]
+- [Flamethrower]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Winona Tournament3
+tags: [in-game, PWT-Winona Tournament3, trainer+winona]
+item: [Yache Berry]
+ability: [Cloud Nine]
+moves:
+- [Barrier] #Cotton Guard
+- [Dragon Pulse]
+- [Ice Beam]
+- [Roost]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tropius
+setname: PWT-Winona Tournament3
+tags: [in-game, PWT-Winona Tournament3, trainer+winona]
+item: [Sitrus Berry]
+ability: [Chlorophyll]
+moves:
+- [Leaf Blade]
+- [Curse]
+- [Synthesis]
+- [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 21
+evs: 0
+level: 100
+rarity: 1.0
