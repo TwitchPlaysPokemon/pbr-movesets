@@ -26,7 +26,7 @@ item: [Life Orb]
 ability: [Speed Boost]
 moves:
     - [Flare Blitz]
-    - [Low Kick]
+    - [Low Kick, Close Combat]
     - [Swords Dance, Stone Edge, Hidden Power]
     - [Protect]
 gender: [m, f]

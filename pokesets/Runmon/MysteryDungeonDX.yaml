@@ -8,7 +8,7 @@ ability: [Rock Head]
 moves:
     - [Blizzard]
     - [Thunder Punch]
-    - [Feint Attack]
+    - [Feint Attack] #Want to say this was Brutal Swing? Might be misremembering tho
     - [Bonemerang]
 gender: [m]
 happiness: 255

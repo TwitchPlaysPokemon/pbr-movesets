@@ -1,0 +1,21 @@
+species: Houndour
+ingamename: Nickit
+displayname: Nickit
+setname: Costume
+tags: [costume]
+item: [Black Glasses]
+ability: [Unburden]
+moves:
+    - [Night Slash]
+    - [Sucker Punch]
+    - [Thief]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+nature: Timid
+level: 5
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 4}
