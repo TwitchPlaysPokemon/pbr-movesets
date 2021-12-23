@@ -1012,7 +1012,7 @@ moves:
 - [Magma Storm]
 - [Sweet Scent]
 - [Sunny Day]
-gender: [m, f]
+gender: f
 happiness: 255
 biddable: true
 ball: [Heal]

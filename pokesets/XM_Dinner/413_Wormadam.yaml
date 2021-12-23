@@ -12,7 +12,7 @@ moves:
     - [Charm]
     - [String Shot]
 happiness: 255
-gender: [m,f]
+gender: f
 biddable: True
 rarity: 1.0
 shiny: True
