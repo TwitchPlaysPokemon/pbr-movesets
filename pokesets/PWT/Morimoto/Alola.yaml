@@ -1,0 +1,120 @@
+---
+species: Kangaskhan
+setname: PWT-Morimoto Alola
+tags: [in-game, PWT-Morimoto Alola, trainer+morimoto]
+item: [null]
+ability: [Scrappy]
+gender: [f]
+moves:
+- [Fake Out]
+- [Dizzy Punch]
+- [Sucker Punch]
+- [Outrage]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Morimoto Alola
+tags: [in-game, PWT-Morimoto Alola, trainer+morimoto]
+item: [null]
+ability: [Flash Fire]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Flare Blitz]
+- [Tickle] #Baby-Doll Eyes
+- [Will-O-Wisp]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Morimoto Alola
+tags: [in-game, PWT-Morimoto Alola, trainer+morimoto]
+item: [null]
+ability: [Water Absorb]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Hydro Pump]
+- [Tickle] #Baby-Doll Eyes
+- [Toxic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Morimoto Alola
+tags: [in-game, PWT-Morimoto Alola, trainer+morimoto]
+item: [null]
+ability: [Volt Absorb]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Thunder]
+- [Tickle] #Baby-Doll Eyes
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Morimoto Alola
+tags: [in-game, PWT-Morimoto Alola, trainer+morimoto]
+item: [null]
+ability: [No Guard]
+gender: [m]
+moves:
+- [Dynamic Punch]
+- [Stone Edge]
+- [Poison Jab]
+- [Dragon Claw] #Dual Chop
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Morimoto Alola
+tags: [in-game, PWT-Morimoto Alola, trainer+morimoto]
+item: [null]
+ability: [Marvel Scale] #Multiscale
+gender: [m]
+moves:
+- [Aeroblast] #Hurricane
+- [Draco Meteor]
+- [Thunder]
+- [Blizzard]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

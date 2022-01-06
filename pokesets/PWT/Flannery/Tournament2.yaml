@@ -8,7 +8,7 @@ moves:
 - [Will-O-Wisp]
 - [Sucker Punch]
 - [Overheat]
-- [Flame Wheel]
+- [Flame Wheel] #Flame Charge
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -27,7 +27,7 @@ ability: [Blaze]
 moves:
 - [Earthquake]
 - [Stone Edge]
-- [Flame Wheel]
+- [Flame Wheel] #Flame Charge
 - [High Jump Kick]
 gender: [m, f]
 happiness: 255
@@ -86,7 +86,7 @@ item: [Shuca Berry]
 ability: [Flame Body]
 moves:
 - [Psychic]
-- [Flame Wheel]
+- [Flame Wheel] #Flame Charge
 - [Thunderbolt]
 - [Fire Blast]
 gender: [m, f]

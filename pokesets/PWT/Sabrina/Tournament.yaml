@@ -5,7 +5,7 @@ tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
 item: [Colbur Berry]
 ability: [Synchronize, Inner Focus]
 moves:
-- [Psychic]
+- [Psychic] #Psyshock
 - [Shadow Ball]
 - [Focus Blast]
 - [Charge Beam]
@@ -67,7 +67,7 @@ ability: [Oblivious, Forewarn]
 moves:
 - [Lovely Kiss]
 - [Dream Eater]
-- [Icy Wind]
+- [Icy Wind] #Frost Breath
 - [Energy Ball]
 gender: [f]
 happiness: 255
@@ -85,7 +85,7 @@ tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
 item: [Petaya Berry]
 ability: [Synchronize]
 moves:
-- [Psychic]
+- [Psychic] #Psyshock
 - [Shadow Ball]
 - [Reflect]
 - [Yawn]
@@ -105,7 +105,7 @@ tags: [in-game, PWT-Sabrina Tournament, trainer+sabrina]
 item: [Ganlon Berry]
 ability: [Oblivious, Own Tempo]
 moves:
-- [Psychic]
+- [Psychic] #Psyshock
 - [Ice Beam]
 - [Calm Mind]
 - [Slack Off]

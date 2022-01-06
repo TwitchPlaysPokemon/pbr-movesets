@@ -65,7 +65,7 @@ item: [Sitrus Berry]
 ability: [Volt Absorb, Illuminate]
 moves:
 - [Thunderbolt]
-- [Surf]
+- [Surf] #Scald
 - [Ice Beam]
 - [Toxic]
 gender: [m, f]

@@ -7,9 +7,9 @@ ability: [Swift Swim, Water Absorb]
 gender: [m, f]
 moves:
 - [Aqua Ring]
-- [Surf]
+- [Surf] #Scald
 - [Air Slash]
-- [Detect]
+- [Detect] #Wide Guard
 happiness: 0
 biddable: false
 ball: [Poke]
@@ -19,17 +19,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Stantler
+species: Stantler #It's legit a Sawsbuck
 displayname: Sawsbuck
 ingamename: Sawsbuck
 setname: PWT-Morgan
 tags: [in-game, PWT-Morgan, trainer+morgan]
 item: [Shell Bell]
-ability: [Chlorophyll]
+ability: [Chlorophyll] #No Sap Sipper in Gen IV
 gender: [m, f]
 moves:
 - [Double Edge]
-- [Giga Drain]
+- [Giga Drain] #Horn Leech
 - [Megahorn]
 - [Leech Seed]
 happiness: 0
@@ -41,7 +41,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Latias
+species: Latias #added the ver. from her second battle (the rest are from the first)
 setname: PWT-Morgan
 tags: [in-game, PWT-Morgan, trainer+morgan]
 item: [Lax Incense]

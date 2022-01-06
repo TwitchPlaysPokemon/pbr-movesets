@@ -46,7 +46,7 @@ item: [Liechi Berry]
 ability: [Intimidate, Technician]
 moves:
 - [Triple Kick]
-- [Earthquake]
+- [Earthquake] #Drill Run
 - [Rock Slide]
 - [Agility]
 gender: [m]
@@ -102,7 +102,7 @@ rarity: 1.0
 species: Medicham
 setname: PWT-Brawly Tournament
 tags: [in-game, PWT-Brawly Tournament, trainer+brawly]
-item: [Twisted Spoon]
+item: [Twisted Spoon] #Psychic Gem
 ability: [Pure Power]
 moves:
 - [Brick Break]

@@ -8,7 +8,7 @@ moves:
 - [Hypnosis]
 - [Focus Blast]
 - [Ice Beam]
-- [Surf]
+- [Surf] #Scald
 gender: [m, f]
 happiness: 255
 biddable: false

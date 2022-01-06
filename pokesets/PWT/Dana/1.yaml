@@ -47,7 +47,7 @@ moves:
 - [Psychic]
 - [Thunderbolt]
 - [Energy Ball]
-- [Flash Cannon]
+- [Flash Cannon] #Dazzling Gleam
 gender: [m, f]
 happiness: 255
 biddable: false

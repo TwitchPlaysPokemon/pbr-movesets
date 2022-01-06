@@ -42,7 +42,7 @@ rarity: 1.0
 species: Bastiodon
 setname: PWT-Byron Tournament2
 tags: [in-game, PWT-Byron Tournament2, trainer+byron]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Sturdy]
 moves:
 - [Metal Burst]

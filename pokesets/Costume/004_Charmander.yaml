@@ -1,0 +1,21 @@
+species: Charmander
+ingamename: Sobble
+displayname: Sobble
+setname: Costume
+tags: [Costume]
+item: [Scope Lens]
+ability: [Torrent]
+moves:
+    - [Sucker Punch]
+    - [Surf]
+    - [Bind]
+    - [Fake Tears]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+nature: Timid
+level: 5
+ivs: 31
+evs: {hp: 132, atk: 20, def: 0, spA: 252, spD: 0, spe: 104}

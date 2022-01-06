@@ -9,7 +9,7 @@ moves:
 - [Slash]
 - [Feint]
 - [Fake Out]
-- [Zen Headbutt]
+- [Zen Headbutt] #Play Rough
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -26,7 +26,7 @@ item: [null]
 ability: [null]
 gender: [m]
 moves:
-- [Magnitude]
+- [Magnitude] #Drill Run
 - [Take Down]
 - [Megahorn]
 - [Rock Throw]

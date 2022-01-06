@@ -45,7 +45,7 @@ tags: [in-game, PWT-Chuck Tournament2, trainer+chuck]
 item: [Life Orb]
 ability: [Limber, Reckless]
 moves:
-- [Magnitude]
+- [Magnitude] #Bulldoze
 - [Fake Out]
 - [High Jump Kick]
 - [Stone Edge]

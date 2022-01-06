@@ -26,7 +26,7 @@ item: [Liechi Berry]
 ability: [Keen Eye]
 moves:
 - [Drill Peck]
-- [Earth Power]
+- [Earth Power] #Drill Run
 - [Heat Wave]
 - [U-Turn]
 gender: [m, f]

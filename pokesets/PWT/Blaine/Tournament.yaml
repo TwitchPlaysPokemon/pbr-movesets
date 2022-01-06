@@ -2,13 +2,13 @@
 species: Charizard
 setname: PWT-Blaine Tournament
 tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
-item: [Dragon Fang]
+item: [Dragon Fang] #Dragon Gem
 ability: [Blaze]
 moves:
-- [Magma Storm]
+- [Magma Storm] #Inferno
 - [Dragon Rush]
 - [Focus Blast]
-- [Sharpen]
+- [Sharpen] #Hone Claws
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -46,7 +46,7 @@ item: [Liechi Berry]
 ability: [Intimidate, Flash Fire]
 moves:
 - [Flare Blitz]
-- [Volt Tackle]
+- [Volt Tackle] #Wild Charge
 - [Close Combat]
 - [Extreme Speed]
 gender: [m, f]
@@ -67,7 +67,7 @@ ability: [Run Away, Flash Fire]
 moves:
 - [Flare Blitz]
 - [Megahorn]
-- [Volt Tackle]
+- [Volt Tackle] #Wild Charge
 - [Hypnosis]
 gender: [m, f]
 happiness: 255
@@ -85,7 +85,7 @@ tags: [in-game, PWT-Blaine Tournament, trainer+blaine]
 item: [Salac Berry]
 ability: [Flash Fire]
 moves:
-- [Flame Wheel]
+- [Flame Wheel] #Flame Charge
 - [Superpower]
 - [Flail]
 - [Yawn]

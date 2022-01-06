@@ -2,7 +2,7 @@
 species: Golem
 setname: PWT-Brock Tournament
 tags: [in-game, PWT-Brock Tournament, trainer+brock]
-item: [Black Glasses]
+item: [Black Glasses] #Dark Gem
 ability: [Sturdy, Rock Head]
 moves:
 - [Stone Edge]
@@ -102,7 +102,7 @@ rarity: 1.0
 species: Relicanth
 setname: PWT-Brock Tournament
 tags: [in-game, PWT-Brock Tournament, trainer+brock]
-item: [Hard Stone]
+item: [Hard Stone] #Rock Gem
 ability: [Swift Swim, Rock Head]
 moves:
 - [Rock Slide]

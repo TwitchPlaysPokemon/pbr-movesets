@@ -22,11 +22,11 @@ rarity: 1.0
 species: Drifblim
 setname: PWT-Fantina Tournament2
 tags: [in-game, PWT-Fantina Tournament2, trainer+fantina]
-item: [Sharp Beak]
+item: [Sharp Beak] #Flying Gem
 ability: [Aftermath]
 moves:
 - [Will-O-Wisp]
-- [Aerial Ace]
+- [Aerial Ace] #Acrobatics
 - [Sucker Punch]
 - [Explosion]
 gender: [m, f]

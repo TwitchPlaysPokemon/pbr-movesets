@@ -102,10 +102,10 @@ rarity: 1.0
 species: Lumineon
 setname: PWT-Crasher Wake Tournament
 tags: [in-game, PWT-Crasher Wake Tournament, trainer+crasherwake]
-item: [NeverMeltIce]
+item: [NeverMeltIce] #Ice Gem
 ability: [Swift Swim, Storm Drain]
 moves:
-- [Surf]
+- [Surf] #Scald
 - [Icy Wind]
 - [U-Turn]
 - [Rain Dance]

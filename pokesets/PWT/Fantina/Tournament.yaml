@@ -2,13 +2,13 @@
 species: Gengar
 setname: PWT-Fantina Tournament
 tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
-item: [Twisted Spoon]
+item: [Twisted Spoon] #Psychic Gem
 ability: [Levitate]
 moves:
 - [Hypnosis]
 - [Dream Eater]
 - [Nightmare]
-- [Ominous Wind]
+- [Ominous Wind] #Hex
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -22,11 +22,11 @@ rarity: 1.0
 species: Drifblim
 setname: PWT-Fantina Tournament
 tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
-item: [Sharp Beak]
+item: [Sharp Beak] #Flying Gem
 ability: [Aftermath]
 moves:
 - [Tail Wind]
-- [Aerial Ace]
+- [Aerial Ace] #Acrobatics
 - [Thunder]
 - [Shadow Ball]
 gender: [m, f]
@@ -102,7 +102,7 @@ rarity: 1.0
 species: Rotom
 setname: PWT-Fantina Tournament
 tags: [in-game, PWT-Fantina Tournament, trainer+fantina]
-item: [Magnet]
+item: [Magnet] #Electric Gem
 ability: [Levitate]
 moves:
 - [Substitute]

@@ -1,0 +1,60 @@
+---
+species: Pidgeot
+setname: PWT-Blue Masters
+tags: [in-game, PWT-Blue Masters, trainer+blue]
+item: [null]
+ability: [Keen Eye, Tangled Feet]
+moves:
+- [Air Slash]
+- [Nasty Plot] #X Sp. Atk
+- [Air Cutter, Aeroblast] #Hurricane
+- [Focus Energy, Double Team] #Smell Ya Later
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Blue Masters
+tags: [in-game, PWT-Blue Masters, trainer+blue]
+item: [null]
+ability: [Torrent, Rain Dish]
+moves:
+- [Water Pulse]
+- [Reflect] #X Defense All
+- [Focus Energy] #To The Top!
+- [Hydro Cannon]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Aerodactyl
+setname: PWT-Blue Masters
+tags: [in-game, PWT-Blue Masters, trainer+blue]
+item: [null]
+ability: [Rock Head, Pressure]
+moves:
+- [Hyper Beam]
+- [Focus Energy, Double Edge] #Dire Hit All+
+- [Ancient Power]
+- [Nasty Plot] #Bonjour!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

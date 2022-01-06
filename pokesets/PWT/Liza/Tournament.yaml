@@ -5,7 +5,7 @@ tags: [in-game, PWT-Liza Tournament, trainer+liza]
 item: [Charti Berry]
 ability: [Synchronize, Early Bird]
 moves:
-- [Psychic]
+- [Psychic] #Psyshock
 - [Thunder Wave]
 - [Tail Wind]
 - [Heat Wave]
@@ -22,7 +22,7 @@ rarity: 1.0
 species: Gardevoir
 setname: PWT-Liza Tournament
 tags: [in-game, PWT-Liza Tournament, trainer+liza]
-item: [Spell Tag]
+item: [Spell Tag] #Ghost Gem
 ability: [Trace, Synchronize]
 moves:
 - [Dream Eater]
@@ -45,7 +45,7 @@ tags: [in-game, PWT-Liza Tournament, trainer+liza]
 item: [Salac Berry]
 ability: [Thick Fat, Own Tempo]
 moves:
-- [Psychic]
+- [Psychic] #Psyshock
 - [Focus Blast]
 - [Power Gem]
 - [Calm Mind]
@@ -85,7 +85,7 @@ item: [Sitrus Berry]
 ability: [Levitate]
 moves:
 - [Zen Headbutt]
-- [Magnitude]
+- [Magnitude] #Bulldoze
 - [Cosmic Power]
 - [Stone Edge]
 happiness: 255

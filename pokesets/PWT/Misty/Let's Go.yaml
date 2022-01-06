@@ -23,7 +23,7 @@ tags: [in-game, PWT-Let's Go Misty, trainer+misty]
 item: [null]
 ability: [null]
 moves:
-- [Surf]
+- [Surf] #Scald
 - [Swift]
 - [Psywave]
 happiness: 255

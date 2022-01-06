@@ -1,14 +1,14 @@
 ---
-species: Mightyena
-setname: PWT-Sydney
-tags: [in-game, PWT-Sydney, trainer+sydney]
+species: Exploud
+setname: PWT-Gabby and Ty ORAS
+tags: [in-game, PWT-Gabby and Ty ORAS, trainer+gabbyty]
 item: [null]
-ability: [Intimidate]
+ability: [Soundproof]
 moves:
-- [Roar]
-- [Double Edge]
-- [Sand Attack]
+- [Rest]
 - [Crunch]
+- [Sleep Talk]
+- [Hyper Voice]
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -19,17 +19,16 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Cacturne
-setname: PWT-Sydney
-tags: [in-game, PWT-Sydney, trainer+sydney]
+species: Magnezone
+setname: PWT-Gabby and Ty ORAS
+tags: [in-game, PWT-Gabby and Ty ORAS, trainer+gabbyty]
 item: [null]
-ability: [Sand Veil]
+ability: [Magnet Pull]
 moves:
-- [Leech Seed]
-- [Feint Attack]
-- [Needle Arm]
-- [Cotton Spore]
-gender: [m, f]
+- [Flash Cannon]
+- [Screech]
+- [Discharge]
+- [Lock-On]
 happiness: 255
 biddable: false
 ball: [Poke]

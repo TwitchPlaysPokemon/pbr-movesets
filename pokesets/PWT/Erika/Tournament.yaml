@@ -22,7 +22,7 @@ rarity: 1.0
 species: Vileplume
 setname: PWT-Erika Tournament
 tags: [in-game, PWT-Erika Tournament, trainer+erika]
-item: [Miracle Seed]
+item: [Miracle Seed] #Grass Gem
 ability: [Chlorophyll]
 moves:
 - [Petal Dance]
@@ -65,7 +65,7 @@ tags: [in-game, PWT-Erika Tournament, trainer+erika]
 item: [Tanga Berry]
 ability: [Chlorophyll]
 moves:
-- [Psychic]
+- [Psychic] #Psyshock
 - [Solar Beam]
 - [Hypnosis]
 - [Sunny Day]
@@ -82,7 +82,7 @@ rarity: 1.0
 species: Bellossom
 setname: PWT-Erika Tournament
 tags: [in-game, PWT-Erika Tournament, trainer+erika]
-item: [Black Belt]
+item: [Black Belt] #Fighting Gem
 ability: [Chlorophyll]
 moves:
 - [Sunny Day]

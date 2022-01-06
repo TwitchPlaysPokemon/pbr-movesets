@@ -25,8 +25,8 @@ tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
 item: [Salac Berry]
 ability: [Shell Armor, Skill Link]
 moves:
-- [Sharpen]
-- [Waterfall]
+- [Sharpen] #Shell Smash
+- [Waterfall] #Razor Shell
 - [Rock Blast]
 - [Icicle Spear]
 gender: [m, f]
@@ -42,7 +42,7 @@ rarity: 1.0
 species: Jynx
 setname: PWT-Pryce Tournament
 tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
-item: [Twisted Spoon]
+item: [Twisted Spoon] #Psychic Gem
 ability: [Oblivious, Forewarn]
 moves:
 - [Focus Blast]
@@ -82,7 +82,7 @@ rarity: 1.0
 species: Weavile
 setname: PWT-Pryce Tournament
 tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
-item: [BlackGlasses]
+item: [BlackGlasses] #Dark Gem
 ability: [Pressure]
 moves:
 - [X-Scissor]
@@ -105,7 +105,7 @@ tags: [in-game, PWT-Pryce Tournament, trainer+pryce]
 item: [Liechi Berry]
 ability: [Oblivious, Snow Cloak]
 moves:
-- [Icicle Spear]
+- [Icicle Spear] #Icicle Crash
 - [Rock Slide]
 - [Earthquake]
 - [Double Edge]

@@ -1,0 +1,59 @@
+---
+species: Mr. Mime
+setname: PWT-Mina Let's Go
+tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+item: [null]
+ability: [null]
+moves:
+- [Psychic]
+- [Light Screen]
+- [Reflect]
+- [Psybeam] #Dazzling Gleam
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Wigglytuff
+setname: PWT-Mina Let's Go
+tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+item: [null]
+ability: [null]
+moves:
+- [Flamethrower]
+- [Thunderbolt]
+- [Shadow Ball]
+- [Psychic] #Dazzling Gleam
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ninetales #Alolan
+setname: PWT-Mina Let's Go
+tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+item: [null]
+ability: [null]
+moves:
+- [Blizzard]
+- [Psychic] #Dazzling Gleam
+- [Dark Pulse]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

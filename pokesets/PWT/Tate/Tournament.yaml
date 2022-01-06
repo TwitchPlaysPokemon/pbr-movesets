@@ -25,7 +25,7 @@ tags: [in-game, PWT-Tate Tournament, trainer+tate]
 item: [Ganlon Berry]
 ability: [Thick Fat, Own Tempo]
 moves:
-- [Psychic]
+- [Psychic] #Psyshock
 - [Sleep Talk (=15)]
 - [Rest (=10)]
 - [Calm Mind (=10)]

@@ -19,7 +19,7 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Marowak
+species: Marowak #Alolan one obviously
 setname: PWT-Let's Go Agatha Rematch
 tags: [in-game, PWT-Let's Go Agatha Rematch, trainer+agatha]
 item: [null]
@@ -108,7 +108,7 @@ gender: [m]
 moves:
 - [Shadow Ball]
 - [Sludge Bomb]
-- [Psybeam]
+- [Psybeam] #Dazzling Gleam
 - [Sucker Punch]
 happiness: 255
 biddable: false

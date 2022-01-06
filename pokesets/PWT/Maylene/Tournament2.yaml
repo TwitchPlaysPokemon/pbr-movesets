@@ -42,7 +42,7 @@ rarity: 1.0
 species: Infernape
 setname: PWT-Maylene Tournament2
 tags: [in-game, PWT-Maylene Tournament2, trainer+maylene]
-item: [Charcoal]
+item: [Charcoal] #Fire Gem
 ability: [Blaze]
 moves:
 - [Close Combat]

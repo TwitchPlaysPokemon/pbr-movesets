@@ -2,7 +2,7 @@
 species: Raichu
 setname: PWT-Lt. Surge Tournament
 tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
-item: [Magnet]
+item: [Magnet] #Electric Gem
 ability: [Static]
 moves:
 - [Thunder Wave]
@@ -66,7 +66,7 @@ ability: [Static]
 moves:
 - [Charge]
 - [Discharge]
-- [Barrier]
+- [Barrier] #Cotton Guard
 - [Power Gem]
 gender: [m, f]
 happiness: 255
@@ -81,7 +81,7 @@ rarity: 1.0
 species: Magnezone
 setname: PWT-Lt. Surge Tournament
 tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Magnet Pull, Sturdy]
 moves:
 - [Discharge]
@@ -103,7 +103,7 @@ tags: [in-game, PWT-Lt. Surge Tournament, trainer+ltsurge]
 item: [Liechi Berry]
 ability: [Motor Drive]
 moves:
-- [Volt Tackle]
+- [Volt Tackle] #Wild Charge
 - [Low Kick]
 - [Rock Tomb]
 - [Fire Punch]

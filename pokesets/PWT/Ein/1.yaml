@@ -1,0 +1,100 @@
+---
+species: Mantine
+setname: PWT-Ein
+tags: [in-game, PWT-Ein, trainer+ein]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Confuse Ray]
+- [Toxic]
+- [Twister]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Ein
+tags: [in-game, PWT-Ein, trainer+ein]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Rock Blast]
+- [Toxic]
+- [Earthquake]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Ein
+tags: [in-game, PWT-Ein, trainer+ein]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Hydro Pump]
+- [Thunder]
+- [Earthquake]
+- [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Ein
+tags: [in-game, PWT-Ein, trainer+ein]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Bite]
+- [Confuse Ray]
+- [Toxic]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Manectric
+setname: PWT-Ein
+tags: [in-game, PWT-Ein, trainer+ein]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Bite]
+- [Thunder]
+- [Toxic]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,101 @@
+---
+species: Crobat #Xerosic's
+setname: PWT-Team Flare
+tags: [in-game, PWT-Team Flare, trainer+teamflare]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [X-Scissor]
+- [Cross Poison]
+- [Steel Wing]
+- [Air Slash]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Mightyena #Aliana's
+setname: PWT-Team Flare
+tags: [in-game, PWT-Team Flare, trainer+teamflare]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Taunt]
+- [Sucker Punch]
+- [Crunch]
+- [Embargo]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Manectric #Celosia's
+setname: PWT-Team Flare
+tags: [in-game, PWT-Team Flare, trainer+teamflare]
+item: [null]
+ability: [Static]
+moves:
+- [Thunderbolt]
+- [Quick Attack]
+- [Flamethrower]
+- [Thunder Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Drapion #Also Celosia's
+setname: PWT-Team Flare
+tags: [in-game, PWT-Team Flare, trainer+teamflare]
+item: [null]
+ability: [Battle Armor]
+moves:
+- [Night Slash]
+- [X-Scissor]
+- [Poison Jab]
+- [Acupressure]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Torkoal #Malva's
+setname: PWT-Team Flare
+tags: [in-game, PWT-Team Flare, trainer+teamflare]
+item: [null]
+ability: [White Smoke]
+moves:
+- [Curse]
+- [Earthquake]
+- [Stone Edge]
+- [Flame Wheel]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---

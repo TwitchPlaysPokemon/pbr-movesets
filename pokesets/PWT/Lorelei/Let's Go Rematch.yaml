@@ -39,7 +39,7 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Sandslash
+species: Sandslash #Alolan Sand
 setname: PWT-Let's Go Lorelei Rematch
 tags: [in-game, PWT-Let's Go Lorelei Rematch, trainer+lorelei]
 item: [null]

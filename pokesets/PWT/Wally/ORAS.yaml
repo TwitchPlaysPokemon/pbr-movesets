@@ -1,0 +1,99 @@
+---
+species: Magnezone
+setname: PWT-ORAS Wally
+tags: [in-game, PWT-ORAS Wally, trainer+wally]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Screech]
+- [Discharge]
+- [Tri Attack]
+- [Flash Cannon]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-ORAS Wally
+tags: [in-game, PWT-ORAS Wally, trainer+wally]
+item: [Dawn Stone]
+ability: [Steadfast]
+moves:
+- [Psycho Cut]
+- [Close Combat]
+- [Slash]
+- [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Delcatty
+setname: PWT-ORAS Wally
+tags: [in-game, PWT-ORAS Wally, trainer+wally]
+item: [null]
+ability: [Cute Charm]
+moves:
+- [Sing]
+- [Hyper Voice] #Disarming Voice
+- [Charm]
+- [Feint Attack]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-ORAS Wally
+tags: [in-game, PWT-ORAS Wally, trainer+wally]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Aerial Ace]
+- [Safeguard]
+- [Dragon Pulse]
+- [Barrier] #Cotton Guard, basically the same
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-ORAS Wally
+tags: [in-game, PWT-ORAS Wally, trainer+wally]
+item: [null]
+ability: [Poison Point]
+moves:
+- [Synthesis]
+- [Leech Seed]
+- [Petal Dance] #Petal Blizzard
+- [Toxic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

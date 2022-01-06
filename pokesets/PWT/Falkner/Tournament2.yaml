@@ -42,12 +42,12 @@ rarity: 1.0
 species: Crobat
 setname: PWT-Falkner Tournament2
 tags: [in-game, PWT-Falkner Tournament2, trainer+falkner]
-item: [Bright Powder]
+item: [Bright Powder] #Red Card
 ability: [Inner Focus]
 moves:
 - [Taunt]
 - [Confuse Ray]
-- [Aerial Ace]
+- [Aerial Ace] #Acrobatics
 - [Super Fang]
 gender: [m, f]
 happiness: 255
@@ -65,8 +65,8 @@ tags: [in-game, PWT-Falkner Tournament2, trainer+falkner]
 item: [Leftovers]
 ability: [Synchronize, Early Bird]
 moves:
-- [Psychic]
-- [Punishment]
+- [Psychic] #Psyshock
+- [Punishment] #Stored Power
 - [Roost]
 - [Calm Mind]
 gender: [m, f]

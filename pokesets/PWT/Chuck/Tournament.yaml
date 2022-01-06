@@ -22,7 +22,7 @@ rarity: 1.0
 species: Poliwrath
 setname: PWT-Chuck Tournament
 tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
-item: [Mystic Water]
+item: [Mystic Water] #Water Gem
 ability: [Water Absorb, Damp]
 moves:
 - [Bulk Up]
@@ -45,10 +45,10 @@ tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
 item: [Payapa Berry]
 ability: [Guts, No Guard]
 moves:
-- [Dragon Claw]
+- [Dragon Claw] #Dual Chop
 - [Rock Slide]
 - [Dynamic Punch]
-- [Magnitude]
+- [Magnitude] #Bulldoze
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -82,7 +82,7 @@ rarity: 1.0
 species: Hitmonchan
 setname: PWT-Chuck Tournament
 tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
-item: [NeverMeltIce]
+item: [NeverMeltIce] #Ice Gem
 ability: [Keen Eye, Iron Fist]
 moves:
 - [Bulk Up]
@@ -102,11 +102,11 @@ rarity: 1.0
 species: Hitmontop
 setname: PWT-Chuck Tournament
 tags: [in-game, PWT-Chuck Tournament, trainer+chuck]
-item: [Soft Sand]
+item: [Soft Sand] #Ground Gem
 ability: [Intimidate, Technician]
 moves:
 - [Bulk Up]
-- [Earthquake]
+- [Earthquake] #Drill Run
 - [Close Combat]
 - [Bullet Punch]
 gender: [m]

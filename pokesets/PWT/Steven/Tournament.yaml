@@ -2,7 +2,7 @@
 species: Aggron
 setname: PWT-Steven Tournament
 tags: [in-game, PWT-Steven Tournament, trainer+steven]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Sturdy, Rock Head]
 moves:
 - [Head Smash]

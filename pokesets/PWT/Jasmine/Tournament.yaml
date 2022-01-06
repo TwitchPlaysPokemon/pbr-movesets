@@ -22,7 +22,7 @@ rarity: 1.0
 species: Steelix
 setname: PWT-Jasmine Tournament
 tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
-item: [Metal Coat]
+item: [Metal Coat] #Steel Gem
 ability: [Rock Head, Sturdy]
 moves:
 - [Curse]
@@ -62,7 +62,7 @@ rarity: 1.0
 species: Mawile
 setname: PWT-Jasmine Tournament
 tags: [in-game, PWT-Jasmine Tournament, trainer+jasmine]
-item: [BlackGlasses]
+item: [BlackGlasses] #Dark Gem
 ability: [Hyper Cutter, Intimidate]
 moves:
 - [Swords Dance]

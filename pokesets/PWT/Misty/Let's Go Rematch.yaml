@@ -6,7 +6,7 @@ item: [null]
 ability: [null]
 gender: [m]
 moves:
-- [Surf]
+- [Surf] #Scald
 - [Psychic]
 - [Ice Beam]
 - [Light Screen]
@@ -66,7 +66,7 @@ item: [null]
 ability: [null]
 moves:
 - [Hydro Pump]
-- [Power Gem]
+- [Power Gem] #Dazzling Gleam
 - [Psychic]
 - [Thunderbolt]
 happiness: 255

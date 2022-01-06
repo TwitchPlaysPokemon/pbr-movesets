@@ -3,7 +3,7 @@ species: Dewgong
 setname: PWT-Pryce Tournament2
 tags: [in-game, PWT-Pryce Tournament2, trainer+pryce]
 item: [Lum Berry]
-ability: [Thick Fat, Ice Body]
+ability: [Thick Fat, Hydration] #No idea why it was Ice Body
 moves:
 - [Dive]
 - [Sheer Cold]
@@ -42,7 +42,7 @@ rarity: 1.0
 species: Jynx
 setname: PWT-Pryce Tournament2
 tags: [in-game, PWT-Pryce Tournament2, trainer+pryce]
-item: [TwistedSpoon]
+item: [TwistedSpoon] #Psychic Gem
 ability: [Oblivious, Forewarn]
 moves:
 - [Focus Blast]
@@ -82,7 +82,7 @@ rarity: 1.0
 species: Weavile
 setname: PWT-Pryce Tournament2
 tags: [in-game, PWT-Pryce Tournament2, trainer+pryce]
-item: [NeverMeltIce]
+item: [NeverMeltIce] #Ice Gem
 ability: [Pressure]
 moves:
 - [Low Kick]

@@ -22,7 +22,7 @@ rarity: 1.0
 species: Wigglytuff
 setname: PWT-Whitney Tournament
 tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
-item: [Silk Scarf]
+item: [Silk Scarf] #Normal Gem
 ability: [Cute Charm]
 moves:
 - [Hyper Voice]
@@ -102,11 +102,11 @@ rarity: 1.0
 species: Ambipom
 setname: PWT-Whitney Tournament
 tags: [in-game, PWT-Whitney Tournament, trainer+whitney]
-item: [Sharp Beak]
+item: [Sharp Beak] #Flying Gem
 ability: [Technician, Pick Up]
 moves:
 - [Double Hit]
-- [Aerial Ace]
+- [Aerial Ace] #Acrobatics
 - [U-Turn]
 - [Low Kick]
 gender: [m, f]

@@ -42,7 +42,7 @@ rarity: 1.0
 species: Cherrim
 setname: PWT-Gardenia Tournament
 tags: [in-game, PWT-Gardenia Tournament, trainer+gardenia]
-item: [Miracle Seed]
+item: [Miracle Seed] #Grass Gem
 ability: [Flower Gift]
 moves:
 - [Giga Drain]

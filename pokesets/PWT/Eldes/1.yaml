@@ -1,0 +1,118 @@
+---
+species: Latios
+setname: PWT-Eldes
+tags: [in-game, PWT-Eldes, trainer+eldes]
+item: [Bright Powder]
+ability: [Levitate]
+moves:
+- [Thunderbolt]
+- [Ice Beam]
+- [Dragon Claw]
+- [Psychic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Latias
+setname: PWT-Eldes
+tags: [in-game, PWT-Eldes, trainer+eldes]
+item: [Scope Lens]
+ability: [Levitate]
+moves:
+- [Thunderbolt]
+- [Waterfall]
+- [Dragon Claw]
+- [Psychic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Eldes
+tags: [in-game, PWT-Eldes, trainer+eldes]
+item: [Lax Incense]
+ability: [Levitate]
+moves:
+- [Thunderbolt]
+- [Psychic]
+- [Fire Punch]
+- [Ice Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Eldes
+tags: [in-game, PWT-Eldes, trainer+eldes]
+item: [Leftovers]
+ability: [Thick Fat]
+moves:
+- [Body Slam]
+- [Earthquake]
+- [Shadow Ball]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Eldes
+tags: [in-game, PWT-Eldes, trainer+eldes]
+item: [Choice Band]
+ability: [Intimidate]
+moves:
+- [Return]
+- [Earthquake]
+- [Iron Tail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Eldes
+tags: [in-game, PWT-Eldes, trainer+eldes]
+item: [Quick Claw]
+ability: [Clear Body]
+moves:
+- [Shadow Ball]
+- [Meteor Mash]
+- [Earthquake]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

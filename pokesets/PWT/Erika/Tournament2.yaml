@@ -46,7 +46,7 @@ item: [Tanga Berry]
 ability: [Chlorophyll]
 moves:
 - [Leaf Storm]
-- [Psycho Cut]
+- [Psycho Cut] #Psyshock
 - [Ancient Power]
 - [Psychic]
 gender: [m, f]

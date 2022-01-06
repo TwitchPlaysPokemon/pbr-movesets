@@ -27,7 +27,7 @@ ability: [Flash Fire]
 moves:
 - [Fire Blast]
 - [Energy Ball]
-- [Psychic]
+- [Psychic] #Psyshock
 - [Will-O-Wisp]
 gender: [m, f]
 happiness: 255
@@ -43,12 +43,12 @@ species: Arcanine
 setname: PWT-Blaine Tournament2
 tags: [in-game, PWT-Blaine Tournament2, trainer+blaine]
 item: [Focus Sash]
-ability: [Intimidate]
+ability: [Intimidate, Flash Fire]
 moves:
 - [Overheat]
 - [Close Combat]
 - [Extreme Speed]
-- [Magnitude]
+- [Magnitude] #Bulldoze
 gender: [m, f]
 happiness: 255
 biddable: false

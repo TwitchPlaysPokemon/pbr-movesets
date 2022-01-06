@@ -1,0 +1,60 @@
+---
+species: Torkoal
+setname: PWT-Kabu
+tags: [in-game, PWT-Kabu, trainer+kabu]
+item: [null]
+ability: [Drought]
+moves:
+- [Lava Plume] #Heat Crash
+- [Stealth Rock]
+- [Body Slam] #Body Press
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ninetales
+setname: PWT-Kabu
+tags: [in-game, PWT-Kabu, trainer+kabu]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Extrasensory]
+- [Fire Blast]
+- [Solar Beam]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Kabu
+tags: [in-game, PWT-Kabu, trainer+kabu]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Extreme Speed]
+- [Flare Blitz]
+- [Take Down] #Play Rough
+- [Iron Head]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
