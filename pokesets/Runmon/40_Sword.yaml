@@ -59,8 +59,8 @@ ivs: {hp: 6, atk: 31, def: 25, spA: 8, spD: 31, spe: 31}
 evs: {hp: 6, atk: 60, def: 23, spA: 20, spD: 18, spe: 18}
 ---
 species: Gardevoir
-ingamename: "Henta1"
-displayname: "Henta1"
+ingamename: "Hentaı"
+displayname: "Hentaı"
 setname: TPP Sword
 tags: [runmon, in-game]
 item: [null]
@@ -73,6 +73,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: True
@@ -136,6 +137,7 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: True
@@ -178,6 +180,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: True
@@ -200,6 +203,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: True
