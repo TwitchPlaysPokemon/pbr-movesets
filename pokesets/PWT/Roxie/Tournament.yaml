@@ -1,0 +1,59 @@
+species: Toxicroak
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
+item: [Focus Sash]
+ability: [Anticipation, Dry Skin]
+moves:
+- [Protect]
+- [Drain Punch]
+- [Poison Jab]
+- [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0 #Maybe check accuracy of these stats later on? B2W2 Tournament sets have IVs, Natures, and EVs if the other Tournament sets are to be believed
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
+item: [Mind Plate] #Psychic Gem
+ability: [Inner Focus]
+moves:
+- [Cross Poison]
+- [Brave Bird]
+- [Zen Headbutt]
+- [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Drapion
+setname: PWT-Roxie Tournament
+tags: [in-game, PWT-Roxie Tournament, trainer+roxie]
+item: [Scope Lens]
+ability: [Battle Armor, Sniper]
+moves:
+- [Cross Poison]
+- [Night Slash]
+- [Ice Fang]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

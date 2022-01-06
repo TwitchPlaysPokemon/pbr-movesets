@@ -1,0 +1,79 @@
+---
+species: Alakazam
+setname: PWT-Anabel Battle Tree
+tags: [in-game, PWT-Anabel Battle Tree, trainer+anabel]
+item: [Soul Dew]
+ability: [Synchronize, Inner Focus]
+moves:
+- [Psychic]
+- [Focus Blast]
+- [Shadow Ball]
+- [Grass Knot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Anabel Battle Tree
+tags: [in-game, PWT-Anabel Battle Tree, trainer+anabel]
+item: [Life Orb]
+ability: [Immunity, Thick Fat]
+moves:
+- [Double Edge]
+- [Earthquake]
+- [Crunch]
+- [Protect]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Raikou
+setname: PWT-Anabel Battle Tree
+tags: [in-game, PWT-Anabel Battle Tree, trainer+anabel]
+item: [Amulet Coin]
+ability: [Pressure, Inner Focus]
+moves:
+- [Charge Beam]
+- [Thunder Wave]
+- [Calm Mind]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Anabel Battle Tree
+tags: [in-game, PWT-Anabel Battle Tree, trainer+anabel]
+item: [Lustrous Orb]
+ability: [Steadfast, Inner Focus]
+moves:
+- [Close Combat]
+- [Rock Slide]
+- [Blaze Kick]
+- [Bullet Punch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

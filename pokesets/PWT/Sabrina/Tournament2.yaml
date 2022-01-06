@@ -45,7 +45,7 @@ tags: [in-game, PWT-Sabrina Tournament2, trainer+sabrina]
 item: [Leftovers]
 ability: [Synchronize]
 moves:
-- [Psycho Cut]
+- [Psycho Cut] #Psyshock
 - [Psychic]
 - [Calm Mind]
 - [Signal Beam]
@@ -67,7 +67,7 @@ ability: [Oblivious, Own Tempo]
 moves:
 - [Psychic]
 - [Shadow Ball]
-- [Surf]
+- [Surf] #Scald
 - [Focus Blast]
 gender: [m, f]
 happiness: 255

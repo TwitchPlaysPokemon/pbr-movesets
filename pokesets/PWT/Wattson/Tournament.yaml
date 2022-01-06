@@ -6,7 +6,7 @@ item: [Liechi Berry]
 ability: [Static]
 moves:
 - [Return]
-- [Volt Tackle]
+- [Volt Tackle] #Wild Charge
 - [Knock Off]
 - [Brick Break]
 gender: [m, f]
@@ -81,12 +81,12 @@ rarity: 1.0
 species: Minun
 setname: PWT-Wattson Tournament
 tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
-item: [Magnet]
+item: [Magnet] #Electric Gem
 ability: [Minus]
 moves:
 - [Fake Tears]
 - [Thunder Wave]
-- [Thunderbolt]
+- [Thunderbolt] #Volt Switch
 - [Charm]
 gender: [m, f]
 happiness: 255
@@ -101,7 +101,7 @@ rarity: 1.0
 species: Magnezone
 setname: PWT-Wattson Tournament
 tags: [in-game, PWT-Wattson Tournament, trainer+wattson]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Sturdy, Magnet Pull]
 moves:
 - [Discharge]

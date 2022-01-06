@@ -48,7 +48,7 @@ moves:
 - [Megahorn]
 - [Blizzard]
 - [Earth Power]
-- [Sludge Bomb]
+- [Sludge Bomb] #Sludge Wave
 gender: [m]
 happiness: 255
 biddable: false
@@ -108,7 +108,7 @@ moves:
 - [Hammer Arm]
 - [Stone Edge]
 - [Megahorn]
-- [Earthquake]
+- [Earthquake] #Drill Run
 gender: [m, f]
 happiness: 255
 biddable: false

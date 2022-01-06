@@ -22,7 +22,7 @@ rarity: 1.0
 species: Banette
 setname: PWT-Morty Tournament2
 tags: [in-game, PWT-Morty Tournament2, trainer+morty]
-item: [Spell Tag]
+item: [Spell Tag] #Ghost Gem
 ability: [Insomnia, Frisk]
 moves:
 - [Shadow Claw]

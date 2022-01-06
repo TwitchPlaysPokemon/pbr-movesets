@@ -22,7 +22,7 @@ rarity: 1.0
 species: Spiritomb
 setname: PWT-Cynthia Tournament
 tags: [in-game, PWT-Cynthia Tournament, trainer+cynthia]
-item: [Jaboca Berry]
+item: [Jaboca Berry] #Rocky Helmet
 ability: [Pressure]
 moves:
 - [Sucker Punch]

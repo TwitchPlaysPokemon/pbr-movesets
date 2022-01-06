@@ -1,0 +1,60 @@
+---
+species: Venusaur
+setname: PWT-Professor Sycamore
+tags: [in-game, PWT-Professor Sycamore, trainer+professorsycamore]
+item: [null]
+ability: [Overgrow]
+moves:
+- [Petal Dance]
+- [Worry Seed]
+- [Synthesis]
+- [Leaf Storm] #originally Petal Blizzard
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Professor Sycamore
+tags: [in-game, PWT-Professor Sycamore, trainer+professorsycamore]
+item: [null]
+ability: [Blaze]
+moves:
+- [Fire Blast] #originally Flame Burst
+- [Wing Attack]
+- [Slash]
+- [Flamethrower]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Professor Sycamore
+tags: [in-game, PWT-Professor Sycamore, trainer+professorsycamore]
+item: [null]
+ability: [Torrent]
+moves:
+- [Water Pulse]
+- [Aqua Tail]
+- [Skull Bash]
+- [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

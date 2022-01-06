@@ -85,7 +85,7 @@ tags: [in-game, PWT-Juan Tournament, trainer+juan]
 item: [Liechi Berry]
 ability: [Swift Swim]
 moves:
-- [Sharpen]
+- [Sharpen] #Shell Smash
 - [Crunch]
 - [Ice Fang]
 - [Aqua Tail]
@@ -105,7 +105,7 @@ tags: [in-game, PWT-Juan Tournament, trainer+juan]
 item: [Petaya Berry]
 ability: [Swift Swim]
 moves:
-- [Growth]
+- [Growth] #Shell Smash
 - [Psychic]
 - [Icy Wind]
 - [Hydro Pump]

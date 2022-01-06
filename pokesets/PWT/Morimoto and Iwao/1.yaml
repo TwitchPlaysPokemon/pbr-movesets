@@ -1,0 +1,120 @@
+---
+species: Kecleon
+setname: PWT-Morimoto and Iwao
+tags: [in-game, PWT-Morimoto and Iwao, trainer+iwao, trainer+morimoto]
+item: [Black Glasses, Spell Tag, Hard Stone, Black Belt] #not in the original, but helps provide the STAB Protean would've done
+ability: [Color Change] #Protean
+moves:
+- [Sucker Punch]
+- [Shadow Claw]
+- [Rock Slide]
+- [Brick Break]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ambipom
+setname: PWT-Morimoto and Iwao
+tags: [in-game, PWT-Morimoto and Iwao, trainer+iwao, trainer+morimoto]
+item: [null]
+ability: [Technician]
+moves:
+- [Double Hit]
+- [Double Kick] #Dual Chop - equiv. power for Technician
+- [U-Turn]
+- [Aerial Ace]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Blissey
+setname: PWT-Morimoto and Iwao
+tags: [in-game, PWT-Morimoto and Iwao, trainer+iwao, trainer+morimoto]
+item: [null]
+ability: [Serene Grace]
+moves:
+- [Fire Blast]
+- [Thunder]
+- [Blizzard]
+- [Psychic] #Dazzling Gleam
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Morimoto and Iwao
+tags: [in-game, PWT-Morimoto and Iwao, trainer+morimoto, trainer+iwao]
+item: [null]
+ability: [Levitate] #Cursed Body
+gender: [m]
+moves:
+- [Shadow Ball]
+- [Dark Pulse]
+- [Sludge Bomb]
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Morimoto and Iwao
+tags: [in-game, PWT-Morimoto and Iwao, trainer+morimoto, trainer+iwao]
+item: [null]
+ability: [No Guard]
+gender: [m]
+moves:
+- [Dynamic Punch]
+- [Stone Edge]
+- [Poison Jab]
+- [Dragon Claw] #Dual Chop
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Morimoto and Iwao
+tags: [in-game, PWT-Morimoto and Iwao, trainer+morimoto, trainer+iwao]
+item: [null]
+ability: [Marvel Scale] #Multiscale
+gender: [m]
+moves:
+- [Aeroblast] #Hurricane
+- [Draco Meteor]
+- [Thunder]
+- [Blizzard]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

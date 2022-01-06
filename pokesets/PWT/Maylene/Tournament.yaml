@@ -42,7 +42,7 @@ rarity: 1.0
 species: Infernape
 setname: PWT-Maylene Tournament
 tags: [in-game, PWT-Maylene Tournament, trainer+maylene]
-item: [Liechi Berry]
+item: [Charcoal] #Fire Gem
 ability: [Blaze]
 moves:
 - [Close Combat]

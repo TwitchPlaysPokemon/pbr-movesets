@@ -22,7 +22,7 @@ rarity: 1.0
 species: Electrode
 setname: PWT-Wattson Tournament2
 tags: [in-game, PWT-Wattson Tournament2, trainer+wattson]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Soundproof, Static]
 moves:
 - [Swagger]
@@ -45,7 +45,7 @@ item: [Expert Belt]
 ability: [Static]
 moves:
 - [Fire Punch]
-- [Magnitude]
+- [Magnitude] #Bulldoze
 - [Thunder Punch]
 - [Brick Break]
 gender: [m, f]
@@ -106,7 +106,7 @@ moves:
 - [Will-O-Wisp]
 - [Hydro Pump]
 - [Thunder]
-- [Ominous Wind]
+- [Ominous Wind] #Hex
 happiness: 255
 biddable: false
 ball: [Poke]

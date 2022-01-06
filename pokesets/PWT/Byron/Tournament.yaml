@@ -26,7 +26,7 @@ item: [Passho Berry]
 ability: [Sturdy, Rock Head]
 moves:
 - [Gyro Ball]
-- [Dragon Rush]
+- [Dragon Rush] #Dragon Tail
 - [Curse]
 - [Stealth Rock]
 gender: [m, f]
@@ -46,7 +46,7 @@ item: [Chople Berry]
 ability: [Sturdy, Rock Head]
 moves:
 - [Iron Head]
-- [Agility]
+- [Agility] #Autotomize
 - [Rock Slide]
 - [Outrage]
 gender: [m, f]
@@ -101,7 +101,7 @@ rarity: 1.0
 species: Magnezone
 setname: PWT-Byron Tournament
 tags: [in-game, PWT-Byron Tournament, trainer+byron]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Magnet Pull, Sturdy]
 moves:
 - [Flash Cannon]

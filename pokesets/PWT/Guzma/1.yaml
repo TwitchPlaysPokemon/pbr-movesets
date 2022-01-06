@@ -5,8 +5,8 @@ tags: [in-game, PWT-Guzma, trainer+guzma]
 item: [null]
 ability: [Mold Breaker]
 moves:
-- [Crunch]
-- [Rock Smash]
+- [Crunch] #Throat Chop
+- [Rock Smash] #Storm Throw
 - [X-Scissor]
 - [Stone Edge]
 gender: [m, f]

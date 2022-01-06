@@ -1,0 +1,60 @@
+---
+species: Drifblim
+setname: PWT-Morty Masters
+tags: [in-game, PWT-Morty Masters, trainer+morty]
+item: [null]
+ability: [Aftermath, Unburden]
+moves:
+- [Shadow Ball]
+- [Focus Energy] #Dire Hit +
+- [Shadow Force] #Phantom Force
+- [Sharpen, Growth] #Pierce the Veil
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mismagius
+setname: PWT-Morty Masters
+tags: [in-game, PWT-Morty Masters, trainer+morty]
+item: [null]
+ability: [Levitate]
+moves:
+- [Astonish]
+- [Recover] #Potion
+- [Confuse Ray]
+- [Cosmic Power] #I See You!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Banette
+setname: PWT-Morty Masters
+tags: [in-game, PWT-Morty Masters, trainer+morty]
+item: [null]
+ability: [Insomnia, Frisk]
+moves:
+- [Shadow Claw, Shadow Sneak]
+- [Focus Energy] #Dire Hit +
+- [Will-O-Wisp]
+- [Bulk Up] #Into the Night!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

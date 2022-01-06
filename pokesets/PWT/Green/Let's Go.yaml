@@ -6,7 +6,7 @@ item: [null]
 ability: [null]
 gender: [f]
 moves:
-- [Psychic]
+- [Psychic] #Moonblast
 - [Light Screen]
 - [Reflect]
 - [Tri Attack]
@@ -68,7 +68,7 @@ gender: [f]
 moves:
 - [Fire Blast]
 - [Dark Pulse]
-- [Payback]
+- [Payback] #Foul Play
 - [Hyper Beam]
 happiness: 255
 biddable: false

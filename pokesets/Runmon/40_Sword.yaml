@@ -1,0 +1,212 @@
+species: Mew
+ingamename: "1111"
+displayname: "1111"
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [Wise Glasses]
+ability: [Synchronize]
+moves:
+    - [Giga Drain]
+    - [Magical Leaf]
+    - [Ancient Power]
+    - [Pay Day]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke] #Wahi didn't provide ball info so all of them are Poke for now
+shiny: False
+nature: Bold
+ivs: {hp: 31, atk: 10, def: 23, spA: 31, spD: 31, spe: 21}
+evs: {hp: 13, atk: 165, def: 134, spA: 55, spD: 57, spe: 86}
+---
+species: Armaldo
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [Rare Candy]
+ability: [Battle Armor]
+moves:
+    - [Crush Claw]
+    - [Rock Blast]
+    - [Protect]
+    - [X-Scissor]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lax
+ivs: {hp: 12, atk: 20, def: 25, spA: 19, spD: 16, spe: 16}
+evs: {hp: 0, atk: 44, def: 18, spA: 0, spD: 18, spe: 10}
+---
+species: Regirock
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [null]
+ability: [Clear Body]
+moves:
+    - [Hyper Beam]
+    - [Stone Edge]
+    - [Hammer Arm]
+    - [Curse]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 6, atk: 31, def: 25, spA: 8, spD: 31, spe: 31}
+evs: {hp: 6, atk: 60, def: 23, spA: 20, spD: 18, spe: 18}
+---
+species: Gardevoir
+ingamename: "Hentaı"
+displayname: "Hentaı"
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [null]
+ability: [Trace]
+moves:
+    - [Future Sight]
+    - [Swift]
+    - [Mist Ball]
+    - [Psychic]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Impish
+ivs: {hp: 9, atk: 31, def: 31, spA: 31, spD: 11, spe: 31}
+evs: {hp: 8, atk: 92, def: 55, spA: 28, spD: 25, spe: 25}
+---
+species: Cradily
+ingamename: "qaaaa"
+displayname: "qaaaa"
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [Big Root]
+ability: [Storm Drain]
+moves:
+    - [Giga Drain]
+    - [Ingrain]
+    - [Protect]
+    - [Leech Seed]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Gentle
+ivs: {hp: 23, atk: 13, def: 14, spA: 0, spD: 16, spe: 26}
+evs: {hp: 4, atk: 78, def: 42, spA: 26, spD: 24, spe: 42}
+---
+species: Porygon-Z
+ingamename: "tppsim"
+displayname: "tppsimulator"
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [Everstone]
+ability: [Adaptability]
+moves:
+    - [Shadow Ball]
+    - [Tri Attack]
+    - [Discharge]
+    - [Conversion]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: 31
+evs: {hp: 4, atk: 0, def: 2, spA: 252, spD: 0, spe: 252}
+---
+species: Charizard
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [Tiny Mushroom]
+ability: [Blaze]
+moves:
+    - [Dragon Dance]
+    - [Flare Blitz]
+    - [Dragon Claw]
+    - [Roost]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 6, spA: 0, spD: 0, spe: 252}
+---
+species: Swampert
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [null]
+ability: [Damp]
+moves:
+    - [Muddy Water]
+    - [Take Down]
+    - [Yawn]
+    - [Water Gun]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 11, spe: 31}
+evs: {hp: 0, atk: 25, def: 32, spA: 12, spD: 11, spe: 36}
+---
+species: Gardevoir
+ingamename: "BlameNanam"
+displayname: "Blame Nanami"
+setname: TPP Sword-2 #might be a variation of the first Garde? Delete if this is too much
+tags: [runmon, in-game]
+item: [Black Glasses]
+ability: [Synchronize]
+moves:
+    - [Giga Drain]
+    - [Swift]
+    - [Mist Ball]
+    - [Psychic]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Impish
+ivs: {hp: 9, atk: 31, def: 31, spA: 31, spD: 11, spe: 31}
+evs: {hp: 48, atk: 99, def: 67, spA: 37, spD: 30, spe: 54}
+---
+species: Gardevoir
+ingamename: "Vore"
+displayname: "Vore"
+setname: TPP Sword-3 #same
+tags: [runmon, in-game]
+item: [Black Glasses]
+ability: [Synchronize]
+moves:
+    - [Giga Drain]
+    - [Swift]
+    - [Mist Ball]
+    - [Psychic]
+gender: [f]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Impish
+ivs: {hp: 9, atk: 31, def: 31, spA: 31, spD: 11, spe: 31}
+evs: {hp: 39, atk: 62, def: 52, spA: 28, spD: 23, spe: 41}

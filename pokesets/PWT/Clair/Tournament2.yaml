@@ -48,7 +48,7 @@ moves:
 - [Toxic]
 - [Fire Blast]
 - [Double Team]
-- [Barrier]
+- [Barrier] #Cotton Guard
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -62,7 +62,7 @@ rarity: 1.0
 species: Salamence
 setname: PWT-Clair Tournament2
 tags: [in-game, PWT-Clair Tournament2, trainer+clair]
-item: [Dragon Fang]
+item: [Dragon Fang] #Dragon Gem
 ability: [Intimidate]
 moves:
 - [Draco Meteor]
@@ -85,7 +85,7 @@ tags: [in-game, PWT-Clair Tournament2, trainer+clair]
 item: [Focus Sash]
 ability: [Sand Veil]
 moves:
-- [Dragon Claw]
+- [Dragon Claw] #Dual Chop
 - [Earthquake]
 - [Fire Fang]
 - [Swords Dance]

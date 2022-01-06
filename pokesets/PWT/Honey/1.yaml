@@ -1,0 +1,100 @@
+---
+species: Blissey
+setname: PWT-Honey
+tags: [in-game, PWT-Honey, trainer+honey]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Blizzard]
+- [Light Screen]
+- [Thunder]
+- [Fire Blast]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Honey
+tags: [in-game, PWT-Honey, trainer+honey]
+item: [null]
+ability: [Torrent]
+moves:
+- [Flash Cannon]
+- [Surf]
+- [Ice Beam]
+- [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Venusaur
+setname: PWT-Honey
+tags: [in-game, PWT-Honey, trainer+honey]
+item: [null]
+ability: [Overgrow]
+moves:
+- [Energy Ball]
+- [Earth Power]
+- [Sludge Bomb]
+- [Amnesia]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Honey
+tags: [in-game, PWT-Honey, trainer+honey]
+item: [null]
+ability: [Steadfast]
+moves:
+- [Swords Dance]
+- [Leaf Blade]
+- [Psycho Cut]
+- [Crunch] #originally Throat Chop
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Togekiss
+setname: PWT-Honey
+tags: [in-game, PWT-Honey, trainer+honey]
+item: [null]
+ability: [Hustle]
+moves:
+- [Psychic] #originally Dazzling Gleam
+- [Air Slash]
+- [Aura Sphere]
+- [Heat Wave]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

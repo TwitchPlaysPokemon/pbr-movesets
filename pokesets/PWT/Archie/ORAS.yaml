@@ -1,0 +1,60 @@
+---
+species: Mightyena
+setname: PWT-ORAS Archie
+tags: [in-game, PWT-ORAS Archie, trainer+archie]
+item: [null]
+ability: [Quick Feet]
+moves:
+- [Scary Face]
+- [Take Down]
+- [Taunt]
+- [Embargo]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sharpedo
+setname: PWT-ORAS Archie
+tags: [in-game, PWT-ORAS Archie, trainer+archie]
+item: [Water Stone]
+ability: [Rough Skin]
+moves:
+- [Scary Face]
+- [Slash]
+- [Poison Fang]
+- [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-ORAS Archie
+tags: [in-game, PWT-ORAS Archie, trainer+archie]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Poison Fang]
+- [Mean Look]
+- [Aerial Ace] #originally Acrobatics
+- [Haze]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

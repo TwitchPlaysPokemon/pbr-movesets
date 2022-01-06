@@ -2,11 +2,11 @@
 species: Raikou
 setname: PWT-Evelyn2
 tags: [in-game, PWT-Evelyn2, trainer+evelyn]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Pressure, Volt Absorb]
 moves:
 - [Thunderbolt]
-- [U-Turn]
+- [U-Turn] #Volt Switch
 - [Shadow Ball]
 - [Protect]
 happiness: 0

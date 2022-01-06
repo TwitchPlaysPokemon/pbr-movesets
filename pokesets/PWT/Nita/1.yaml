@@ -9,7 +9,7 @@ moves:
 - [Hypnosis]
 - [Dream Eater]
 - [Shadow Ball]
-- [Hyper Voice]
+- [Hyper Voice] #Round
 happiness: 0
 biddable: false
 ball: [Poke]
@@ -26,8 +26,8 @@ item: [Shell Bell]
 ability: [Cute Charm]
 gender: [m, f]
 moves:
-- [Confusion]
-- [Hyper Voice]
+- [Confusion] #Disarming Voice
+- [Hyper Voice] #Round
 - [Focus Blast]
 - [Thunderbolt]
 happiness: 0

@@ -107,7 +107,7 @@ ability: [null]
 gender: [m]
 moves:
 - [Sludge Bomb]
-- [Giga Drain]
+- [Giga Drain] #Mega Drain buff
 - [Leech Seed]
 - [Amnesia]
 happiness: 255

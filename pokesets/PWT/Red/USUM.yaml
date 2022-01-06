@@ -69,6 +69,46 @@ moves:
 - [Blizzard]
 - [Ice Shard]
 - [Psychic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-USUM Red
+tags: [in-game, PWT-USUM Red, trainer+red]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Crunch]
+- [Low Kick] #Heavy Slam
+- [Earthquake] #High Horsepower
+- [Body Slam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pikachu
+setname: PWT-USUM Red
+tags: [in-game, PWT-USUM Red, trainer+red]
+item: [Light Ball]
+ability: [Static]
+moves:
+- [Volt Tackle]
+- [Quick Attack]
+- [Light Screen]
+- [Spark] #Nuzzle
 gender: [m]
 happiness: 255
 biddable: false

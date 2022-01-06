@@ -1,0 +1,40 @@
+---
+species: Honchkrow
+setname: PWT-Lysandre
+tags: [in-game, PWT-Lysandre, trainer+lysandre]
+item: [null]
+ability: [Super Luck]
+moves:
+- [Night Slash]
+- [Aerial Ace]
+- [Frustration] #originally Retaliate
+- [Steel Wing]
+gender: [m, f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Lysandre
+tags: [in-game, PWT-Lysandre, trainer+lysandre]
+item: [Water Stone]
+ability: [Intimidate]
+moves:
+- [Aqua Tail]
+- [Earthquake]
+- [Iron Head]
+- [Outrage]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

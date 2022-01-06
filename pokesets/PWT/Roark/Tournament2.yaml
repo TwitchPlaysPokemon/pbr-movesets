@@ -62,7 +62,7 @@ rarity: 1.0
 species: Probopass
 setname: PWT-Roark Tournament2
 tags: [in-game, PWT-Roark Tournament2, trainer+roark]
-item: [Shuca Berry]
+item: [Shuca Berry] #Air Balloon
 ability: [Sturdy, Magnet Pull]
 moves:
 - [Stealth Rock]

@@ -21,3 +21,27 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 196, spA: 0, spD: 0, spe: 36}
 level: 5
 hidden: false
+---
+species: Teddiursa
+ingamename: Kubfu
+displayname: Kubfu
+setname: Costume2
+tags: [costume]
+item: [Expert Belt]
+ability: [Inner Focus]
+moves:
+    - [Brick Break]
+    - [Sucker Punch]
+    - [Aqua Jet]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Gentle
+ivs: 31
+evs: {hp: 0, atk: 116, def: 36, spA: 0, spD: 0, spe: 0}
+level: 5
+hidden: false

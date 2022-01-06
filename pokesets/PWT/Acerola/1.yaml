@@ -1,0 +1,80 @@
+---
+species: Sableye #she uses this in Sun/Moon but not Ultra Sun/Moon
+setname: PWT-Acerola
+tags: [in-game, PWT-Acerola, trainer+acerola]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Shadow Claw]
+- [Zen Headbutt]
+- [Brick Break]
+- [Fake Out]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Ultra]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Drifblim
+setname: PWT-Acerola
+tags: [in-game, PWT-Acerola, trainer+acerola]
+item: [null]
+ability: [Aftermath]
+moves:
+- [Shadow Ball]
+- [Thunderbolt]
+- [Psychic]
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Ultra]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Acerola
+tags: [in-game, PWT-Acerola, trainer+acerola]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Blizzard]
+- [Shadow Ball]
+- [Thunderbolt]
+- [Ice Shard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Ultra]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Banette #from the Ultra games - rematch set
+setname: PWT-Acerola
+tags: [in-game, PWT-Acerola, trainer+acerola]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Shadow Claw]
+- [Sucker Punch]
+- [Wrap] #Infestation
+- [Shadow Sneak]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

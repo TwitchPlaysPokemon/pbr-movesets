@@ -19,11 +19,13 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
 ---
-species: Xatu
+species: Xatu #Sigilyph
+displayname: Sigilyph
+ingamename: Sigilyph
 setname: PWT-Winona Tournament2
 tags: [in-game, PWT-Winona Tournament2, trainer+winona]
 item: [Life Orb]
-ability: [Magic Guard]
+ability: [Magic Guard] #No Wonder Skin
 moves:
 - [Thunder Wave]
 - [Psychic]
@@ -42,7 +44,7 @@ rarity: 1.0
 species: Skarmory
 setname: PWT-Winona Tournament2
 tags: [in-game, PWT-Winona Tournament2, trainer+winona]
-item: [Jaboca Berry]
+item: [Jaboca Berry] #Rock Helmet
 ability: [Keen Eye, Sturdy]
 moves:
 - [Aerial Ace]
@@ -65,7 +67,7 @@ tags: [in-game, PWT-Winona Tournament2, trainer+winona]
 item: [Power Herb]
 ability: [Natural Cure]
 moves:
-- [Barrier]
+- [Barrier] #Cotton Guard
 - [Dragon Dance]
 - [Sky Attack]
 - [Earthquake]
@@ -102,7 +104,7 @@ rarity: 1.0
 species: Honchkrow
 setname: PWT-Winona Tournament2
 tags: [in-game, PWT-Winona Tournament2, trainer+winona]
-item: [Black Glasses]
+item: [Black Glasses] #Dark Gem
 ability: [Insomnia, Super Luck]
 moves:
 - [Drill Peck]

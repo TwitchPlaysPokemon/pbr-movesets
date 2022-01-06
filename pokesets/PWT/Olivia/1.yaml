@@ -7,12 +7,12 @@ ability: [Suction Cups]
 moves:
 - [Stone Edge]
 - [Seed Bomb]
-- [Sludge Bomb]
+- [Sludge Bomb] #Sludge Wave
 - [Earth Power]
 gender: [m, f]
 happiness: 255
 biddable: false
-ball: [Poke]
+ball: [Ultra]
 nature: Serious
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -28,11 +28,11 @@ moves:
 - [Crush Claw]
 - [X-Scissor]
 - [Stone Edge]
-- [Waterfall]
+- [Waterfall] #Liquidation
 gender: [m, f]
 happiness: 255
 biddable: false
-ball: [Poke]
+ball: [Ultra]
 nature: Serious
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -47,12 +47,12 @@ ability: [Sturdy]
 moves:
 - [Earth Power]
 - [Power Gem]
-- [Psychic]
+- [Psychic] #Dazzling Gleam
 - [Flash Cannon]
 gender: [m, f]
 happiness: 255
 biddable: false
-ball: [Poke]
+ball: [Ultra]
 nature: Serious
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

@@ -25,7 +25,7 @@ tags: [in-game, PWT-Janine Tournament2, trainer+janine]
 item: [Wide Lens]
 ability: [Shield Dust, Tinted Lens]
 moves:
-- [Calm Mind]
+- [Calm Mind] #Quiver Dance
 - [Bug Buzz]
 - [Sleep Powder]
 - [Psychic]
@@ -45,7 +45,7 @@ tags: [in-game, PWT-Janine Tournament2, trainer+janine]
 item: [Chesto Berry]
 ability: [Clear Body, Liquid Ooze]
 moves:
-- [Surf]
+- [Surf] #Scald
 - [Sludge Bomb]
 - [Rest]
 - [Ice Beam]
@@ -62,7 +62,7 @@ rarity: 1.0
 species: Weezing
 setname: PWT-Janine Tournament2
 tags: [in-game, PWT-Janine Tournament2, trainer+janine]
-item: [Jaboca Berry]
+item: [Jaboca Berry] #Rocky Helmet
 ability: [Levitate]
 moves:
 - [Thunderbolt]

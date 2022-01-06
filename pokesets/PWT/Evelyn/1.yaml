@@ -9,7 +9,7 @@ moves:
 - [Cross Chop]
 - [Stone Edge]
 - [Earthquake]
-- [Frustration]
+- [Frustration] #Retaliate
 happiness: 0
 biddable: false
 ball: [Poke]
@@ -27,7 +27,7 @@ ability: [Limber, Technician]
 gender: [m, f]
 moves:
 - [Fake Out]
-- [Hyper Voice]
+- [Hyper Voice] #Round
 - [Dark Pulse]
 - [Power Gem]
 happiness: 0
@@ -48,7 +48,7 @@ gender: [m, f]
 moves:
 - [Light Screen]
 - [U-Turn]
-- [Thunderbolt]
+- [Thunderbolt] #Volt Switch
 - [Super Fang]
 happiness: 0
 biddable: false

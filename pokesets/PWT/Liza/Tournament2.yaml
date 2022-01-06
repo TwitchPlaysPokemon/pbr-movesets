@@ -64,7 +64,7 @@ tags: [in-game, PWT-Liza Tournament2, trainer+liza]
 item: [Sitrus Berry]
 ability: [Levitate]
 moves:
-- [Psychic]
+- [Psychic] #Psyshock
 - [Earth Power]
 - [Trick Room]
 - [Ice Beam]
@@ -80,7 +80,7 @@ rarity: 1.0
 species: Bronzong
 setname: PWT-Liza Tournament2
 tags: [in-game, PWT-Liza Tournament2, trainer+liza]
-item: [Jaboca Berry]
+item: [Jaboca Berry] #Rocky Helmet
 ability: [Levitate, Heatproof]
 moves:
 - [Hypnosis]

@@ -9,7 +9,7 @@ moves:
 - [Toxic]
 - [Hydro Pump]
 - [Sludge Bomb]
-- [Giga Drain]
+- [Giga Drain] #it was Mega in the game, but was buffed
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -67,7 +67,7 @@ ability: [null]
 gender: [m]
 moves:
 - [Sludge Bomb]
-- [Giga Drain]
+- [Giga Drain] #Same
 - [Psychic]
 - [Bug Buzz]
 happiness: 255
@@ -88,8 +88,8 @@ gender: [m]
 moves:
 - [Dark Pulse]
 - [Sludge Bomb]
-- [Giga Drain]
-- [Psychic]
+- [Giga Drain] #same
+- [Psychic] #Moonblast
 happiness: 255
 biddable: false
 ball: [Poke]

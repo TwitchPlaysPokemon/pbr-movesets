@@ -7,7 +7,7 @@ ability: [Hyper Cutter, Mold Breaker]
 moves:
 - [Protect]
 - [Guillotine]
-- [Magnitude]
+- [Magnitude] #Bulldoze
 - [X-Scissor]
 gender: [m, f]
 happiness: 255
@@ -26,7 +26,7 @@ item: [Sitrus Berry]
 ability: [Swarm, Technician]
 moves:
 - [Swords Dance]
-- [Aerial Ace]
+- [Aerial Ace] #Acrobatics
 - [Bullet Punch]
 - [U-Turn]
 gender: [m, f]
@@ -42,7 +42,7 @@ rarity: 1.0
 species: Shuckle
 setname: PWT-Bugsy Tournament2
 tags: [in-game, PWT-Bugsy Tournament2, trainer+bugsy]
-item: [Jaboca Berry]
+item: [Jaboca Berry] #Rocky Helmet
 ability: [Sturdy, Gluttony]
 moves:
 - [Stone Edge]

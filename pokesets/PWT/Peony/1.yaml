@@ -1,0 +1,58 @@
+species: Scizor
+setname: PWT-Peony
+tags: [in-game, PWT-Peony, trainer+peony]
+item: [null]
+ability: [Technician]
+moves:
+- [X-Scissor]
+- [Bullet Punch]
+- [Wing Attack]
+- [Double Hit]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Peony
+tags: [in-game, PWT-Peony, trainer+peony]
+item: [null]
+ability: [Heatproof]
+moves:
+- [Extrasensory]
+- [Flash Cannon]
+- [Calm Mind]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aggron
+setname: PWT-Peony
+tags: [in-game, PWT-Peony, trainer+peony]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Body Slam] #originally Body Press
+- [Stone Edge]
+- [Crunch]
+- [Iron Head]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

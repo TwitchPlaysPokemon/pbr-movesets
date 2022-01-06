@@ -7,7 +7,7 @@ ability: [Intimidate, Flash Fire]
 moves:
 - [Flare Blitz]
 - [Close Combat]
-- [Volt Tackle]
+- [Volt Tackle] #Wild Charge
 - [Extreme Speed]
 gender: [m, f]
 happiness: 255

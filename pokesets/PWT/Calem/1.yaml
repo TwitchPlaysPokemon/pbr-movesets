@@ -1,0 +1,116 @@
+---
+species: Absol
+setname: PWT-Calem
+tags: [in-game, PWT-Calem, trainer+calem]
+item: [Moon Stone]
+ability: [Super Luck]
+moves:
+- [Night Slash]
+- [Swords Dance]
+- [Slash]
+- [Quick Attack]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Calem
+tags: [in-game, PWT-Calem, trainer+calem]
+item: [null]
+ability: [Volt Absorb]
+moves:
+- [Thunder]
+- [Double Kick]
+- [Quick Attack]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Calem
+tags: [in-game, PWT-Calem, trainer+calem]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Fire Blast]
+- [Quick Attack]
+- [Bite]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Calem
+tags: [in-game, PWT-Calem, trainer+calem]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Hydro Pump]
+- [Aurora Beam]
+- [Quick Attack]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Clefable
+setname: PWT-Calem
+tags: [in-game, PWT-Calem, trainer+calem]
+item: [null]
+ability: [Magic Guard]
+moves:
+- [Mist Ball] #originally Moonblast, this has the same properties
+- [Focus Blast]
+- [Meteor Mash]
+- [Sing]
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Calem
+tags: [in-game, PWT-Calem, trainer+calem]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Dragon Pulse]
+- [Psychic] #originally Dazzling Gleam
+- [Captivate] #originally Confide, closest PBR equiv.
+happiness: 255
+gender: [m, f]
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
