@@ -1,0 +1,56 @@
+species: Miltank
+ingamename: Milkshake
+displayname: Milkshake
+setname: TPP Sword - Test your Luck
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Scrappy]
+moves:
+    - [Metronome]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Sassy
+ivs: {hp: 30, atk: 31, def: 13, spA: 28, spD: 1, spe: 10}
+evs: {hp: 252, atk: 0, def: 40, spA: 0, spD: 200, spe: 18}
+---
+species: Sableye
+ingamename: "Chaos "
+displayname: "Chaos "
+setname: TPP Sword - Test your Luck
+tags: [runmon, in-game]
+item: [Starf Berry]
+ability: [Keen Eye]
+moves:
+    - [Metronome]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Modest
+ivs: {hp: 31, atk: 13, def: 12, spA: 22, spD: 25, spe: 15}
+evs: {hp: 0, atk: 6, def: 2, spA: 252, spD: 0, spe: 250}
+# ---
+# species: Grimmsnarl
+# ingamename: Shrek
+# displayname: Shrek
+# setname: TPP Sword - Test your Luck
+# tags: [runmon, in-game]
+# item: [Safety Goggles]
+# ability: [Prankster]
+# moves:
+#     - [Metronome]
+# gender: [m]
+# happiness: 255
+# biddable: True
+# rarity: 1.0
+# ball: [Poké]
+# shiny: False
+# nature: Brave
+# ivs: {hp: 11, atk: 21, def: 19, spA: 17, spD: 9, spe: 7}
+# evs: {hp: 100, atk: 252, def: 2, spA: 0, spD: 156, spe: 0}
