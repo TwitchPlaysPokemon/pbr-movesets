@@ -1,0 +1,120 @@
+---
+species: Gyarados
+setname: PWT-Crasher Wake BDSP Rematch
+tags: [in-game, PWT-Crasher Wake BDSP Rematch, trainer+crasherwake]
+item: [Wacan Berry]
+ability: [Intimidate]
+moves:
+- [Aqua Tail]
+- [Stone Edge]
+- [Earthquake]
+- [Dragon Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Crasher Wake BDSP Rematch
+tags: [in-game, PWT-Crasher Wake BDSP Rematch, trainer+crasherwake]
+item: [Sitrus Berry]
+ability: [Swift Swim]
+moves:
+- [Energy Ball]
+- [Hydro Pump]
+- [Substitute]
+- [Teeter Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Floatzel
+setname: PWT-Crasher Wake BDSP Rematch
+tags: [in-game, PWT-Crasher Wake BDSP Rematch, trainer+crasherwake]
+item: [Life Orb]
+ability: [Swift Swim]
+moves:
+- [Aqua Tail]
+- [Brick Break]
+- [Crunch]
+- [Ice Fang]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Politoed
+setname: PWT-Crasher Wake BDSP Rematch
+tags: [in-game, PWT-Crasher Wake BDSP Rematch, trainer+crasherwake]
+item: [Damp Rock]
+ability: [Drizzle]
+moves:
+- [Surf]
+- [Ice Beam]
+- [Focus Blast]
+- [Perish Song]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Kingdra
+setname: PWT-Crasher Wake BDSP Rematch
+tags: [in-game, PWT-Crasher Wake BDSP Rematch, trainer+crasherwake]
+item: [Chesto Berry]
+ability: [Swift Swim]
+moves:
+- [Hydro Pump]
+- [Dragon Pulse]
+- [Ice Beam]
+- [Rest]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Huntail
+setname: PWT-Crasher Wake BDSP Rematch
+tags: [in-game, PWT-Crasher Wake BDSP Rematch, trainer+crasherwake]
+item: [Focus Sash]
+ability: [Swift Swim]
+moves:
+- [Crunch]
+- [Aqua Tail]
+- [Ice Fang]
+- [Growth] #Shell Smash
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,80 @@
+---
+species: Sneasel
+setname: PWT-Candice BDSP
+tags: [in-game, PWT-Candice BDSP, trainer+candice]
+item: [null]
+ability: [Pressure]
+moves:
+- [Feint Attack]
+- [Ice Shard]
+- [Slash]
+- [Aerial Ace]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Piloswine
+setname: PWT-Candice BDSP
+tags: [in-game, PWT-Candice BDSP, trainer+candice]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Hail]
+- [Earthquake]
+- [Stone Edge]
+- [Avalanche]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Candice BDSP
+tags: [in-game, PWT-Candice BDSP, trainer+candice]
+item: [null]
+ability: [Snow Warning]
+moves:
+- [Wood Hammer]
+- [Focus Blast]
+- [Water Pulse]
+- [Avalanche]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Candice BDSP
+tags: [in-game, PWT-Candice BDSP, trainer+candice]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Shadow Ball]
+- [Double Team]
+- [Psychic]
+- [Blizzard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

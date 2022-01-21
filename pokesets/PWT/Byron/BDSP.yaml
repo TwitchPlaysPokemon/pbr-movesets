@@ -1,0 +1,59 @@
+---
+species: Steelix
+setname: PWT-Byron BDSP
+tags: [in-game, PWT-Byron BDSP, trainer+byron]
+item: [Soft Sand]
+ability: [Sturdy]
+moves:
+- [Thunder Fang]
+- [Earthquake]
+- [Sandstorm]
+- [Gyro Ball]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 0, atk: 23, def: 17, spA: 0, spD: 17, spe: 0}
+evs: {hp: 0, atk: 100, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bastiodon
+setname: PWT-Byron BDSP
+tags: [in-game, PWT-Byron BDSP, trainer+byron]
+item: [Sitrus Berry]
+ability: [Sturdy]
+moves:
+- [Iron Defense]
+- [Thunderbolt]
+- [Stone Edge]
+- [Flash Cannon]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 0, atk: 0, def: 17, spA: 23, spD: 17, spe: 0}
+evs: {hp: 0, atk: 0, def: 68, spA: 100, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzor
+setname: PWT-Byron BDSP
+tags: [in-game, PWT-Byron BDSP, trainer+byron]
+item: [null]
+ability: [Levitate]
+moves:
+- [Confuse Ray]
+- [Sandstorm]
+- [Trick Room]
+- [Flash Cannon]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 17, atk: 0, def: 17, spA: 17, spD: 17, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 44, spD: 68, spe: 0}
+level: 100
+rarity: 1.0

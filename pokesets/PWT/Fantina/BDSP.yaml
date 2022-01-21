@@ -1,0 +1,60 @@
+---
+species: Gengar
+setname: PWT-Fantina BDSP
+tags: [in-game, PWT-Fantina BDSP, trainer+fantina]
+item: [Colbur Berry]
+ability: [Effect Spore] #Cursed Body
+moves:
+- [Shadow Claw]
+- [Confuse Ray]
+- [Sludge Bomb]
+- [Psychic] #Dazzling Gleam
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 19, atk: 0, def: 5, spA: 19, spD: 5, spe: 19}
+evs: {hp: 52, atk: 0, def: 4, spA: 76, spD: 4, spe: 68}
+level: 100
+rarity: 1.0
+---
+species: Drifblim
+setname: PWT-Fantina BDSP
+tags: [in-game, PWT-Fantina BDSP, trainer+fantina]
+item: [Zoom Lens]
+ability: [Aftermath]
+moves:
+- [Giga Drain] #Strength Sap
+- [Ominous Wind] #Hex
+- [Fly]
+- [Will-O-Wisp]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 19, atk: 0, def: 5, spA: 19, spD: 5, spe: 19}
+evs: {hp: 52, atk: 0, def: 4, spA: 68, spD: 4, spe: 52}
+level: 100
+rarity: 1.0
+---
+species: Mismagius
+setname: PWT-Fantina BDSP
+tags: [in-game, PWT-Fantina BDSP, trainer+fantina]
+item: [Expert Belt]
+ability: [Levitate]
+moves:
+- [Confuse Ray]
+- [Shadow Force] #Phantom Force
+- [Magical Leaf]
+- [Psychic] #Dazzling Gleam
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 19, atk: 0, def: 5, spA: 19, spD: 5, spe: 19}
+evs: {hp: 44, atk: 0, def: 4, spA: 92, spD: 4, spe: 68}
+level: 100
+rarity: 1.0
