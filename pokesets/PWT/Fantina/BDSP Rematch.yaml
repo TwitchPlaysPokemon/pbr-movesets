@@ -99,7 +99,7 @@ evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Frosslass
+species: Froslass
 setname: PWT-Fantina BDSP Rematch
 tags: [in-game, PWT-Fantina BDSP Rematch, trainer+fantina]
 item: [Focus Sash]
