@@ -1,0 +1,59 @@
+---
+species: Bronzor
+setname: PWT-Jupiter BDSP
+tags: [in-game, PWT-Jupiter BDSP, trainer+jupiter]
+item: [null]
+ability: [Levitate]
+moves:
+- [Confuse Ray]
+- [Payback]
+- [Extrasensory]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Jupiter BDSP
+tags: [in-game, PWT-Jupiter BDSP, trainer+jupiter]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Air Cutter]
+- [Haze]
+- [Giga Drain]
+- [Sludge Bomb]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Skuntank
+setname: PWT-Jupiter BDSP
+tags: [in-game, PWT-Jupiter BDSP, trainer+jupiter]
+item: [Sitrus Berry]
+ability: [Aftermath]
+moves:
+- [Flamethrower]
+- [Poison Gas]
+- [Sludge Bomb] #Belch
+- [Dark Pulse] #Snarl
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
