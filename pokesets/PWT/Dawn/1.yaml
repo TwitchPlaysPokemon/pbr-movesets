@@ -1,6 +1,6 @@
 ---
 species: Wormadam
-setname: PWT-Dawn
+setname: PWT-Dawn Trash
 tags: [in-game, PWT-Dawn, trainer+dawn]
 item: [Leftovers]
 ability: [Anticipation]
@@ -21,7 +21,7 @@ level: 100
 rarity: 1.0
 ---
 species: Wormadam
-setname: PWT-Dawn
+setname: PWT-Dawn Sandy
 tags: [in-game, PWT-Dawn, trainer+dawn]
 item: [Leftovers]
 ability: [Anticipation]
@@ -42,7 +42,7 @@ level: 100
 rarity: 1.0
 ---
 species: Wormadam
-setname: PWT-Dawn
+setname: PWT-Dawn Plant
 tags: [in-game, PWT-Dawn, trainer+dawn]
 item: [White Herb]
 ability: [Magic Guard] #Overcoat
