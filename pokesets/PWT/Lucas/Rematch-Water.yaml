@@ -1,0 +1,118 @@
+---
+species: Gliscor
+setname: PWT-Lucas Rematch-Water
+tags: [in-game, PWT-Lucas Rematch-Water, trainer+lucas]
+item: [Toxic Orb]
+ability: [Poison Heal]
+moves:
+- [Earthquake]
+- [Acrobatics]
+- [Fling]
+- [Roost]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 6, spA: 0, spD: 252, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cradily
+setname: PWT-Lucas Rematch-Water
+tags: [in-game, PWT-Lucas Rematch-Water, trainer+lucas]
+item: [Big Root]
+ability: [Storm Drain]
+moves:
+- [Giga Drain]
+- [Leech Seed]
+- [Ingrain]
+- [Stockpile]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glaceon
+setname: PWT-Lucas Rematch-Water
+tags: [in-game, PWT-Lucas Rematch-Water, trainer+lucas]
+item: [Leftovers]
+ability: [Ice Body]
+moves:
+- [Energy Ball] #Freeze-Dry
+- [Blizzard]
+- [Hail]
+- [Water Pulse]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Rotom
+setname: PWT-Lucas Rematch-Water
+tags: [in-game, PWT-Lucas Rematch-Water, trainer+lucas]
+item: [Choice Specs]
+ability: [Levitate]
+moves:
+- [Overheat]
+- [Thunderbolt]
+- [U-Turn] #Volt Switch
+- [Ominous Wind] #Hex
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Lucas Rematch-Water
+tags: [in-game, PWT-Lucas Rematch-Water, trainer+lucas]
+item: [Life Orb]
+ability: [Intimidate]
+moves:
+- [Hyper Beam]
+- [Blizzard]
+- [Fire Blast]
+- [Thunder]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252} 
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Lucas Rematch-Water
+tags: [in-game, PWT-Lucas Rematch-Water, trainer+lucas]
+item: [Choice Band]
+ability: [Torrent]
+moves:
+- [Aqua Jet]
+- [Waterfall]
+- [Steel Wing]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 6, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

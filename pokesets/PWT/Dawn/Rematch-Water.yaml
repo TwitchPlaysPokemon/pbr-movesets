@@ -1,0 +1,117 @@
+---
+species: Togekiss
+setname: PWT-Dawn Rematch-Water
+tags: [in-game, PWT-Dawn Rematch-Water, trainer+dawn]
+item: [Lum Berry]
+ability: [Serene Grace]
+moves:
+- [Psychic] #Dazzling Gleam
+- [Air Slash]
+- [Aura Sphere]
+- [Thunder Wave]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Bellossom
+setname: PWT-Dawn Rematch-Water
+tags: [in-game, PWT-Dawn Rematch-Water, trainer+dawn]
+item: [Persim Berry]
+ability: [Chlorophyll]
+moves:
+- [Mist Ball] #Moonblast
+- [Petal Dance]
+- [Toxic]
+- [Cosmic Power] #Quiver Dance
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mamoswine
+setname: PWT-Dawn Rematch-Water
+tags: [in-game, PWT-Dawn Rematch-Water, trainer+dawn]
+item: [Life Orb]
+ability: [Thick Fat]
+moves:
+- [Ice Shard]
+- [Earthquake]
+- [Stone Edge]
+- [Avalanche]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Typhlosion
+setname: PWT-Dawn Rematch-Water
+tags: [in-game, PWT-Dawn Rematch-Water, trainer+dawn]
+item: [Choice Scarf]
+ability: [Flash Fire]
+moves:
+- [Eruption]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lopunny
+setname: PWT-Dawn Rematch-Water
+tags: [in-game, PWT-Dawn Rematch-Water, trainer+dawn]
+item: [Lagging Tail]
+ability: [Klutz]
+moves:
+- [High Jump Kick]
+- [Thunder Wave]
+- [Sweet Kiss]
+- [Switcheroo]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 6, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Dawn Rematch-Water
+tags: [in-game, PWT-Dawn Rematch-Water, trainer+dawn]
+item: [Leftovers]
+ability: [Torrent]
+moves:
+- [Hydro Pump]
+- [Flash Cannon]
+- [Ice Beam]
+- [Grass Knot]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0

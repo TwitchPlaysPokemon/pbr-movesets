@@ -1,0 +1,223 @@
+---
+species: Wormadam
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Leftovers]
+ability: [Anticipation]
+moves:
+- [Gyro Ball]
+- [Sucker Punch]
+- [Metal Burst]
+- [Stealth Rock]
+gender: [f]
+form: Trash
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Wormadam
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Leftovers]
+ability: [Anticipation]
+moves:
+- [Bug Bite]
+- [Fissure]
+- [Earthquake]
+- [Double Team]
+gender: [f]
+form: Sandy
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Wormadam
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [White Herb]
+ability: [Magic Guard] #Overcoat
+moves:
+- [Leaf Storm]
+- [Bug Buzz]
+- [Psychic]
+- [Calm Mind] #Quiver Dance
+gender: [f]
+form: Plant
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Life Orb]
+ability: [Rivalry] #Competitive
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Hyper Beam]
+- [Recover]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Focus Sash]
+ability: [Snow Cloak] #Cursed Body
+moves:
+- [Ominous Wind] #Hex
+- [Close Combat] #Frost Breath
+- [Thunderbolt]
+- [Will-O-Wisp]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Expert Belt]
+ability: [Vital Spirit]
+moves:
+- [Fire Blast]
+- [Focus Blast]
+- [Thunderbolt]
+- [Will-O-Wisp]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Clefable
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Sitrus Berry]
+ability: [Unaware]
+moves:
+- [Mist Ball] #Moonblast
+- [Calm Mind]
+- [Moonlight]
+- [Minimize]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tangrowth
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Choice Specs]
+ability: [Natural Cure] #Regenerator
+moves:
+- [Energy Ball]
+- [Sludge Bomb]
+- [Focus Blast]
+- [Hyper Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Torterra
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Yache Berry]
+ability: [Overgrow]
+moves:
+- [Wood Hammer]
+- [Earthquake]
+- [Stone Edge]
+- [Curse]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Expert Belt]
+ability: [Blaze]
+moves:
+- [Flare Blitz]
+- [Close Combat]
+- [Earthquake]
+- [U-Turn]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Dawn
+tags: [in-game, PWT-Dawn, trainer+dawn]
+item: [Leftovers]
+ability: [Torrent]
+moves:
+- [Hydro Pump]
+- [Flash Cannon]
+- [Ice Beam]
+- [Grass Knot]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0

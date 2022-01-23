@@ -1,0 +1,120 @@
+---
+species: Crobat
+setname: PWT-Dawn Rematch-Grass
+tags: [in-game, PWT-Dawn Rematch-Grass, trainer+dawn]
+item: [Sitrus Berry]
+ability: [Inner Focus]
+moves:
+- [Cross Poison]
+- [U-Turn]
+- [Super Fang]
+- [Tailwind]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 128, def: 6, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Dawn Rematch-Grass
+tags: [in-game, PWT-Dawn Rematch-Grass, trainer+dawn]
+item: [Life Orb]
+ability: [Intimidate]
+moves:
+- [Flare Blitz]
+- [Zen Headbutt] #Play Rough
+- [Extreme Speed]
+- [Reversal]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 6, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+setname: PWT-Dawn Rematch-Grass
+tags: [in-game, PWT-Dawn Rematch-Grass, trainer+dawn]
+item: [Leftovers]
+ability: [Filter]
+moves:
+- [Psychic]
+- [Power Whip]
+- [Reflect]
+- [Light Screen]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 6, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Blastoise
+setname: PWT-Dawn Rematch-Grass
+tags: [in-game, PWT-Dawn Rematch-Grass, trainer+dawn]
+item: [Focus Sash]
+ability: [Torrent]
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Focus Blast]
+- [Growth] #Shell Smash
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lickilicky
+setname: PWT-Dawn Rematch-Grass
+tags: [in-game, PWT-Dawn Rematch-Grass, trainer+dawn]
+item: [Expert Belt]
+ability: [Own Tempo]
+moves:
+- [Focus Blast]
+- [Ice Beam]
+- [Fire Blast]
+- [Shadow Ball]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Torterra
+setname: PWT-Dawn Rematch-Grass
+tags: [in-game, PWT-Dawn Rematch-Grass, trainer+dawn]
+item: [Yache Berry]
+ability: [Overgrow]
+moves:
+- [Wood Hammer]
+- [Earthquake]
+- [Stone Edge]
+- [Curse]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

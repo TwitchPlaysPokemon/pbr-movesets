@@ -1,0 +1,119 @@
+---
+species: Dusknoir
+setname: PWT-Lucas Rematch-Grass
+tags: [in-game, PWT-Lucas Rematch-Grass, trainer+lucas]
+item: [Lum Berry]
+ability: [Pressure]
+moves:
+- [Brick Break]
+- [Earthquake]
+- [Trick Room]
+- [Will-O-Wisp]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 6, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Lucas Rematch-Grass
+tags: [in-game, PWT-Lucas Rematch-Grass, trainer+lucas]
+item: [Toxic Orb]
+ability: [Guts]
+moves:
+- [Flare Blitz]
+- [Facade]
+- [Iron Tail]
+- [Will-O-Wisp]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 6, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rampardos
+setname: PWT-Lucas Rematch-Grass
+tags: [in-game, PWT-Lucas Rematch-Grass, trainer+lucas]
+item: [Focus Sash]
+ability: [Mold Breaker]
+moves:
+- [Head Smash]
+- [Earthquake]
+- [Iron Tail]
+- [Zen Headbutt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 6, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rotom
+setname: PWT-Lucas Rematch-Grass
+tags: [in-game, PWT-Lucas Rematch-Grass, trainer+lucas]
+item: [Choice Specs]
+ability: [Levitate]
+moves:
+- [Hydro Pump]
+- [Thunderbolt]
+- [U-Turn] #Volt Switch
+- [Ominous Wind] #Hex
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Dunsparce
+setname: PWT-Lucas Rematch-Grass
+tags: [in-game, PWT-Lucas Rematch-Grass, trainer+lucas]
+item: [King's Rock]
+ability: [Serene Grace]
+moves:
+- [Rock Slide]
+- [Roost]
+- [Bulk Up] #Coil
+- [Glare]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 6, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Torterra
+setname: PWT-Lucas Rematch-Grass
+tags: [in-game, PWT-Lucas Rematch-Grass, trainer+lucas]
+item: [Leftovers]
+ability: [Overgrow]
+moves:
+- [Earthquake]
+- [Synthesis]
+- [Leech Seed]
+- [Curse]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 6, spe: 0}
+level: 100
+rarity: 1.0
