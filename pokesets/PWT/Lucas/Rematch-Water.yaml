@@ -6,7 +6,7 @@ item: [Toxic Orb]
 ability: [Poison Heal]
 moves:
 - [Earthquake]
-- [Acrobatics]
+- [Aerial Ace] #Acrobatics
 - [Fling]
 - [Roost]
 gender: [m]
@@ -94,7 +94,7 @@ biddable: false
 ball: [Poke]
 nature: Modest
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252} 
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 rarity: 1.0
 ---
 species: Empoleon

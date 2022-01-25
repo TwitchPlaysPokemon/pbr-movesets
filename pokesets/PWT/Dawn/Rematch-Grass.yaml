@@ -15,7 +15,7 @@ biddable: false
 ball: [Poke]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 128, atk: 128, def: 6, spA: 0, spD: 0, spe: 252}
+evs: {hp: 128, atk: 0, def: 128, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
 ---
@@ -35,7 +35,7 @@ biddable: false
 ball: [Poke]
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 6, atk: 252, def: 6, spA: 0, spD: 0, spe: 252}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
 ---

@@ -94,7 +94,7 @@ biddable: false
 ball: [Poke]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 6, spe: 252}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 6, spe: 0}
 level: 100
 rarity: 1.0
 ---

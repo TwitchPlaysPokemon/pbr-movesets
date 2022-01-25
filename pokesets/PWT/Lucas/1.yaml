@@ -35,7 +35,7 @@ biddable: false
 ball: [Poke]
 nature: Modest
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 6}
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 2} #original datamined EVs were 252 HP, 128 Def & Sp. Def, 6 Spd. Fixed so it can run properly in PBR
 level: 100
 rarity: 1.0
 ---
