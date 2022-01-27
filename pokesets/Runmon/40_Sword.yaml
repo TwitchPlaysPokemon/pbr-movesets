@@ -168,7 +168,7 @@ evs: {hp: 0, atk: 25, def: 32, spA: 12, spD: 11, spe: 36}
 species: Gardevoir
 ingamename: "BlameNanam"
 displayname: "Blame Nanami"
-setname: TPP Sword-2 #might be a variation of the first Garde? Delete if this is too much
+setname: TPP Sword-2 #somehow different from the first Garde - duplication glitch?
 tags: [runmon, in-game]
 item: [Black Glasses]
 ability: [Synchronize]
