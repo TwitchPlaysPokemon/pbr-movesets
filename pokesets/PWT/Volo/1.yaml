@@ -1,0 +1,137 @@
+---
+species: Spiritomb
+setname: PWT-Volo
+tags: [in-game, PWT-Volo, trainer+volo]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Shadow Ball]
+- [Dark Pulse]
+- [Hypnosis]
+- [Extrasensory]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Volo
+tags: [in-game, PWT-Volo, trainer+volo]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Petal Dance]
+- [Spikes]
+- [Poison Jab]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Volo
+tags: [in-game, PWT-Volo, trainer+volo]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Flare Blitz] #Raging Fury
+- [Crunch]
+- [Rock Slide]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Volo
+tags: [in-game, PWT-Volo, trainer+volo]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Bullet Punch]
+- [Close Combat]
+- [Bulk Up]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Volo
+tags: [in-game, PWT-Volo, trainer+volo]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Earth Power]
+- [Dragon Claw]
+- [Slash]
+- [Iron Head]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Togekiss
+setname: PWT-Volo
+tags: [in-game, PWT-Volo, trainer+volo]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Air Slash]
+- [Calm Mind]
+- [Mist Ball] #Moonblast
+- [Extrasensory]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Giratina
+setname: PWT-Volo
+tags: [in-game, PWT-Volo, trainer+volo]
+item: [null]
+ability: [null]
+moves:
+- [Aura Sphere]
+- [Dragon Claw]
+- [Earth Power]
+- [Shadow Force]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

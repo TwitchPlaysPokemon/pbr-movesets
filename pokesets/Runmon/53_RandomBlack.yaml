@@ -1,0 +1,130 @@
+species: Marowak
+ingamename: Marobonneo
+displayname: Marobonneo
+setname: TPP Random Black
+tags: [runmon, in-game]
+item: [Rare Bone]
+ability: [Ice Body]
+moves:
+    - [Pound]
+    - [Flare Blitz] #Flame Charge
+    - [Mach Punch]
+    - [Spore]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 14, atk: 14, def: 18, spA: 23, spD: 3, spe: 24}
+evs: {hp: 60, atk: 165, def: 89, spA: 68, spD: 36, spe: 92}
+---
+species: Articuno
+ingamename: CREAMY
+displayname: CREAMY
+setname: TPP Random Black
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Drought]
+moves:
+    - [Bug Bite] #Steamroller
+    - [Leech Life]
+    - [Thunder Punch]
+    - [Curse] #Shell Smash
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Mild
+ivs: {hp: 20, atk: 4, def: 21, spA: 8, spD: 8, spe: 13}
+evs: {hp: 54, atk: 146, def: 62, spA: 109, spD: 58, spe: 81}
+---
+species: Luxray
+ingamename: gm
+displayname: gm
+setname: TPP Random Black
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Motor Drive]
+moves:
+    - [Ice Ball]
+    - [Bug Bite] #Steamroller
+    - [Fly]
+    - [Spikes]
+gender: [m]
+happiness: 243
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: False
+nature: Mild
+ivs: {hp: 30, atk: 6, def: 23, spA: 21, spD: 18, spe: 14}
+evs: {hp: 10, atk: 44, def: 20, spA: 20, spD: 12, spe: 31}
+---
+species: Garchomp
+ingamename: HOPIUM
+displayname: HOPIUM
+setname: TPP Random Black
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Plus]
+moves:
+    - [Pound]
+    - [High Jump Kick]
+    - [Shadow Claw]
+    - [Extreme Speed]
+gender: [m]
+happiness: 243
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Docile
+ivs: {hp: 31, atk: 10, def: 3, spA: 6, spD: 5, spe: 3}
+evs: {hp: 55, atk: 123, def: 67, spA: 89, spD: 68, spe: 108}
+---
+species: Clefable
+ingamename: Aipomone
+displayname: Aipomone
+setname: TPP Random Black
+tags: [runmon, in-game]
+item: [null]
+ability: [Inner Focus]
+moves:
+    - [Scratch]
+    - [Magnitude] #Bulldoze
+    - [Twineedle]
+    - [Shadow Sneak]
+gender: [m]
+happiness: 244
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bold
+ivs: {hp: 20, atk: 15, def: 7, spA: 14, spD: 3, spe: 23}
+evs: {hp: 12, atk: 22, def: 18, spA: 14, spD: 9, spe: 19}
+---
+species: Salamence
+ingamename: AAAVB
+displayname: AAAVB
+setname: TPP Random Black
+tags: [runmon, in-game]
+item: [null]
+ability: [Truant]
+moves:
+    - [Trump Card]
+    - [Sludge]
+    - [Fury Cutter]
+    - [Rollout]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 23, atk: 30, def: 1, spA: 29, spD: 29, spe: 16}
+evs: {hp: 37, atk: 148, def: 69, spA: 47, spD: 42, spe: 45}

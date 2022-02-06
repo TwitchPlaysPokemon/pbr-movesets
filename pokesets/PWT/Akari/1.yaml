@@ -1,0 +1,59 @@
+---
+species: Mr. Mime
+setname: PWT-Akari
+tags: [in-game, PWT-Akari, trainer+akari]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Drain Punch]
+- [Zen Headbutt]
+- [Iron Defense]
+- [Hypnosis]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Staraptor
+setname: PWT-Akari
+tags: [in-game, PWT-Akari, trainer+akari]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Brave Bird]
+- [Close Combat]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Pikachu
+setname: PWT-Akari
+tags: [in-game, PWT-Akari, trainer+akari]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Iron Tail]
+- [Volt Tackle]
+- [Zen Headbutt] #Play Rough
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

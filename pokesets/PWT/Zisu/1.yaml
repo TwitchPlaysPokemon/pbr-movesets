@@ -1,0 +1,59 @@
+---
+species: Ambipom
+setname: PWT-Zisu
+tags: [in-game, PWT-Zisu, trainer+zisu]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Fire Punch]
+- [Thunder Punch]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Zisu
+tags: [in-game, PWT-Zisu, trainer+zisu]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Night Slash]
+- [Aerial Ace]
+- [Icy Wind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Luxray
+setname: PWT-Zisu
+tags: [in-game, PWT-Zisu, trainer+zisu]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Volt Tackle] #Wild Charge
+- [Crunch]
+- [Quick Attack]
+- [Zen Headbutt] #Play Rough
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

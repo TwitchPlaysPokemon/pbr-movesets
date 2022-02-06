@@ -1,0 +1,55 @@
+---
+species: Rhyperior
+setname: PWT-Sabi
+tags: [in-game, PWT-Sabi, trainer+sabi]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Rock Slide]
+- [Earthquake] #High Horsepower
+- [Rock Smash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Sabi
+tags: [in-game, PWT-Sabi, trainer+sabi]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Poison Gas]
+- [Flamethrower]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Sabi
+tags: [in-game, PWT-Sabi, trainer+sabi]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Thunder Wave]
+- [Thunder Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,195 @@
+species: Ho-oh
+ingamename: AMMNNNQ
+displayname: AMMNNNQ
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [Charcoal]
+ability: [null]
+moves:
+    - [Fly]
+    - [Fire Blast]
+    - [Rock Smash]
+    - [Psychic]
+happiness: 248
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 13, def: 9, spA: 11, spD: 11, spe: 8}
+evs: {hp: 33, atk: 43, def: 169, spA: 140, spD: 140, spe: 143} #EVs on the API were all in the thousands - cut off the first digit to make them fit
+---
+species: Raichu #Raitora
+ingamename: KLUUUUUUUU
+displayname: KLUUUUUUUU
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [Hard Stone]
+ability: [null]
+moves:
+    - [Thunder Wave]
+    - [Rock Head]
+    - [Thunderbolt]
+    - [Crunch]
+gender: [f]
+happiness: 249
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 3, atk: 6, def: 14, spA: 1, spD: 1, spe: 3}
+evs: {hp: 74, atk: 127, def: 195, spA: 196, spD: 196, spe: 100}
+---
+species: Lanturn #Lurreel
+ingamename: EATSMARILL
+displayname: EATSMARILL
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [null]
+moves:
+    - [Surf]
+    - [Iron Tail]
+    - [Waterfall]
+    - [Whirlpool]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 11, def: 5, spA: 11, spD: 11, spe: 0}
+evs: {hp: 72, atk: 54, def: 99, spA: 82, spD: 82, spe: 95}
+---
+species: Lugia
+ingamename: AAAAAA
+displayname: AAAAAA
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [Amulet Coin]
+ability: [null]
+moves:
+    - [Iron Tail]
+    - [Ancient Power]
+    - [Icy Wind]
+    - [Aeroblast]
+happiness: 112
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 15, def: 9, spA: 10, spD: 10, spe: 10}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Typhlosion #Bruninus
+ingamename: TACO
+displayname: TACO
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [Amulet Coin]
+ability: [null]
+moves:
+    - [Flamethrower]
+    - [Rollout]
+    - [Strength]
+    - [Dynamic Punch]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 1, atk: 4, def: 8, spA: 9, spD: 9, spe: 6}
+evs: {hp: 25, atk: 35, def: 35, spA: 106, spD: 106, spe: 35}
+---
+species: Banette #Phandarin
+ingamename: STITCHES
+displayname: STITCHES
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Body Slam]
+    - [Crunch]
+    - [Shadow Ball]
+    - [Thief]
+gender: [m]
+happiness: 250
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 9, def: 6, spA: 6, spD: 6, spe: 6}
+evs: {hp: 35, atk: 35, def: 35, spA: 107, spD: 107, spe: 84}
+---
+species: Politoed #Polirana
+ingamename: AAAAAAAAAA
+displayname: AAAAAAAAAA
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Hypnosis]
+    - [Doubleslap]
+    - [Perish Song]
+    - [Swagger]
+gender: [f]
+happiness: 100
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 2, def: 9, spA: 14, spD: 14, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Murkrow #Magikrow
+ingamename: KAMEK
+displayname: KAMEK
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [Smoke Ball]
+ability: [null]
+moves:
+    - [Wing Attack]
+    - [Pursuit]
+    - [Steel Wing]
+    - [Fly]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 11, def: 3, spA: 4, spD: 4, spe: 1}
+evs: {hp: 213, atk: 153, def: 90, spA: 59, spD: 59, spe: 100}
+---
+species: Abomasnow #Wearlycan
+ingamename: OBAMA
+displayname: OBAMA
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [Nevermeltice]
+ability: [null]
+moves:
+    - [Ice Punch]
+    - [Blizzard]
+    - [Strength]
+    - [Thunder Punch]
+gender: [m]
+happiness: 253
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 11, def: 15, spA: 14, spD: 14, spe: 11}
+evs: {hp: 78, atk: 142, def: 238, spA: 86, spD: 86, spe: 62}
