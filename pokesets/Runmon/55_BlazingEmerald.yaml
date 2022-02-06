@@ -430,7 +430,7 @@ ability: [Steadfast] #Resolute
 moves:
     - [Rock Slide] #Rubble Rush
     - [Earthquake]
-    - [Rock Slide]
+    - [Rock Smash]
     - [Explosion]
 gender: [m]
 happiness: 250

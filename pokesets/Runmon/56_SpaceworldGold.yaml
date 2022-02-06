@@ -28,7 +28,7 @@ item: [Hard Stone]
 ability: [null]
 moves:
     - [Thunder Wave]
-    - [Rock Head]
+    - [Iron Head] #Rock Head
     - [Thunderbolt]
     - [Crunch]
 gender: [f]
