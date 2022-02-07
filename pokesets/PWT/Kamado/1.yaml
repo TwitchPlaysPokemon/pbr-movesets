@@ -8,7 +8,8 @@ gender: [m, f]
 moves:
 - [Iron Head]
 - [Stone Edge]
-- [Thunder]
+- [Thunder Punch]
+- [Magnitude] #Bulldoze
 happiness: 255
 biddable: false
 ball: [Poke]
