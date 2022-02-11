@@ -68,6 +68,7 @@ moves:
 - [Earthquake]
 - [Take Down]
 - [Protect]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]

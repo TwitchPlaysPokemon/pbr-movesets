@@ -79,7 +79,7 @@ species: Marowak
 setname: PWT-Eldes
 tags: [in-game, PWT-Eldes, trainer+eldes]
 item: [Thick Club]
-ability: [Rock Head,Lighting Rod]
+ability: [Rock Head,Lightning Rod]
 moves:
 - [Earthquake] #Shadow End
 - [Sing] #Shadow Panic

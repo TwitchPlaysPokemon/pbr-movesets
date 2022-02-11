@@ -15,7 +15,7 @@ biddable: false
 ball: [Poke]
 nature: Timid
 ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
-evs: {hp: 255, atk: 0, def: 0, spA: 0, spD: 0, spe: 255}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
 ---
@@ -35,7 +35,7 @@ biddable: false
 ball: [Poke]
 nature: Brave
 ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
-evs: {hp: 55, atk: 255, def: 100, spA: 0, spD: 100, spe: 0}
+evs: {hp: 55, atk: 252, def: 100, spA: 0, spD: 100, spe: 0}
 level: 100
 rarity: 1.0
 ---
@@ -55,7 +55,7 @@ biddable: false
 ball: [Poke]
 nature: Timid
 ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
-evs: {hp: 0, atk: 0, def: 0, spA: 255, spD: 0, spe: 255}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
 ---
@@ -75,7 +75,7 @@ biddable: false
 ball: [Poke]
 nature: Jolly
 ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
-evs: {hp: 0, atk: 255, def: 0, spA: 0, spD: 0, spe: 255}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
 ---
@@ -95,7 +95,7 @@ biddable: false
 ball: [Poke]
 nature: Sassy
 ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
-evs: {hp: 255, atk: 255, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
@@ -115,6 +115,6 @@ biddable: false
 ball: [Poke]
 nature: Jolly
 ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
-evs: {hp: 0, atk: 255, def: 0, spA: 0, spD: 0, spe: 255}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0

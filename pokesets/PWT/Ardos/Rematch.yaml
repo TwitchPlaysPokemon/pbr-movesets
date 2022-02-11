@@ -113,6 +113,6 @@ biddable: false
 ball: [Poke]
 nature: Timid
 ivs: {hp: 27, atk: 27, def: 27, spA: 27, spD: 27, spe: 27}
-evs: {hp: 7, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 level: 100
 rarity: 1.0
