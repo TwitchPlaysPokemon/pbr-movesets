@@ -5,116 +5,96 @@ tags: [in-game, PWT-Gonzap, trainer+gonzap]
 item: [null]
 ability: [Hyper Cutter]
 moves:
-- [Hyper Beam]
-- [Swords Dance]
+- [Sludge Bomb]
+- [Crabhammer]
 - [Aerial Ace]
-- [Brick Break]
+- [Strength]
 gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Breloom
+species: Shiftry
 setname: PWT-Gonzap
 tags: [in-game, PWT-Gonzap, trainer+gonzap]
 item: [null]
-ability: [Effect Spore]
+ability: [Chlorophyll]
 moves:
-- [Hyper Beam]
-- [Bulk Up]
-- [Sky Uppercut]
-- [Iron Tail]
-gender: [f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
-species: Granbull
-setname: PWT-Gonzap
-tags: [in-game, PWT-Gonzap, trainer+gonzap]
-item: [null]
-ability: [Intimidate]
-moves:
-- [Hyper Beam]
-- [Bulk Up]
+- [Aerial Ace]
+- [Giga Drain]
+- [Feint Attack]
 - [Shadow Ball]
-- [Brick Break]
 gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Armaldo
+species: Pinsir
 setname: PWT-Gonzap
 tags: [in-game, PWT-Gonzap, trainer+gonzap]
 item: [null]
-ability: [Battle Armor]
+ability: [Hyper CUtter]
 moves:
-- [Hyper Beam]
-- [Swords Dance]
-- [Ancient Power]
-- [Brick Break]
+- [Earthquake]
+- [Submission]
+- [Flail]
+- [Cut]
 gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Machamp
+species: Hariyama
 setname: PWT-Gonzap
 tags: [in-game, PWT-Gonzap, trainer+gonzap]
 item: [null]
 ability: [Guts]
 moves:
-- [Hyper Beam]
-- [Bulk Up]
-- [Submission]
+- [Brick Break]
+- [Earthquake]
 - [Foresight]
+- [Reversal]
 gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Gyarados
+species: Skarmory
 setname: PWT-Gonzap
 tags: [in-game, PWT-Gonzap, trainer+gonzap]
-item: [null]
-ability: [Intimidate]
+item: [Sharp Beak]
+ability: [Keen Eye,Sturdy]
 moves:
-- [Hyper Beam]
-- [Dragon Dance]
-- [Earthquake]
-- [Roar]
-gender: [m]
+- [Drill Peck] #Shadow Rush
+- [Metal Sound]
+- [Air Cutter]
+- [Steel Wing]
+gender: [m,f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

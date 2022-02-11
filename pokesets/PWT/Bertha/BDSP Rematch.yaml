@@ -1,0 +1,100 @@
+---
+species: Whiscash
+setname: PWT-Bertha BDSP Rematch
+tags: [in-game, PWT-Bertha BDSP Rematch, trainer+bertha]
+item: [Rindo Berry]
+ability: [Hydration]
+moves:
+- [Earthquake]
+- [Ice Beam]
+- [Surf] #Scald
+- [Zen Headbutt]
+happiness: 255
+gender: [f]
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Bertha BDSP Rematch
+tags: [in-game, PWT-Bertha BDSP Rematch, trainer+bertha]
+item: [Sitrus Berry]
+ability: [Hyper Cutter]
+moves:
+- [Earthquake]
+- [Thunder Fang]
+- [Guillotine]
+- [X-Scissor]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Bertha BDSP Rematch
+tags: [in-game, PWT-Bertha BDSP Rematch, trainer+bertha]
+item: [Soft Sand]
+ability: [Sturdy]
+moves:
+- [Rock Polish]
+- [Body Slam] #Heavy Slam
+- [Earthquake]
+- [Stone Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 52, atk: 252, def: 0, spA: 0, spD: 0, spe: 204}
+level: 100
+rarity: 1.0
+---
+species: Hippowdon
+setname: PWT-Bertha BDSP Rematch
+tags: [in-game, PWT-Bertha BDSP Rematch, trainer+bertha]
+item: [Chesto Berry]
+ability: [Sand Stream]
+moves:
+- [Ice Fang]
+- [Earthquake]
+- [Crunch]
+- [Rest]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Bertha BDSP Rematch
+tags: [in-game, PWT-Bertha BDSP Rematch, trainer+bertha]
+item: [Muscle Band]
+ability: [Solid Rock]
+moves:
+- [Earthquake]
+- [Rock Wrecker]
+- [Megahorn]
+- [Thunder Fang]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

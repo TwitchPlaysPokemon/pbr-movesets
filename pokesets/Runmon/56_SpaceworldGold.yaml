@@ -17,7 +17,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 13, atk: 13, def: 9, spA: 11, spD: 11, spe: 8}
-evs: {hp: 33, atk: 43, def: 169, spA: 140, spD: 140, spe: 143} #EVs on the API were all in the thousands - cut off the first digit to make them fit
+evs: {hp: 23, atk: 25, def: 56, spA: 56, spD: 56, spe: 56} #EVs calc'd by sq rt of stat exp
 ---
 species: Raichu #Raitora
 ingamename: KLUUUUUUUU
@@ -28,7 +28,7 @@ item: [Hard Stone]
 ability: [null]
 moves:
     - [Thunder Wave]
-    - [Iron Head] #Rock Head
+    - [Head Smash] #Rock Head
     - [Thunderbolt]
     - [Crunch]
 gender: [f]
@@ -39,7 +39,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 3, atk: 6, def: 14, spA: 1, spD: 1, spe: 3}
-evs: {hp: 74, atk: 127, def: 195, spA: 196, spD: 196, spe: 100}
+evs: {hp: 141, atk: 147, def: 146, spA: 140, spD: 140, spe: 153}
 ---
 species: Lanturn #Lurreel
 ingamename: EATSMARILL
@@ -61,7 +61,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 13, atk: 11, def: 5, spA: 11, spD: 11, spe: 0}
-evs: {hp: 72, atk: 54, def: 99, spA: 82, spD: 82, spe: 95}
+evs: {hp: 164, atk: 175, def: 177, spA: 158, spD: 158, spe: 163}
 ---
 species: Lugia
 ingamename: AAAAAA
@@ -104,7 +104,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 1, atk: 4, def: 8, spA: 9, spD: 9, spe: 6}
-evs: {hp: 25, atk: 35, def: 35, spA: 106, spD: 106, spe: 35}
+evs: {hp: 249, atk: 255, def: 255, spA: 254, spD: 254, spe: 255}
 ---
 species: Banette #Phandarin
 ingamename: STITCHES
@@ -126,7 +126,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 8, atk: 9, def: 6, spA: 6, spD: 6, spe: 6}
-evs: {hp: 35, atk: 35, def: 35, spA: 107, spD: 107, spe: 84}
+evs: {hp: 255, atk: 255, def: 255, spA: 253, spD: 253, spe: 254}
 ---
 species: Politoed #Polirana
 ingamename: AAAAAAAAAA
@@ -170,7 +170,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 14, atk: 11, def: 3, spA: 4, spD: 4, spe: 1}
-evs: {hp: 213, atk: 153, def: 90, spA: 59, spD: 59, spe: 100}
+evs: {hp: 95, atk: 128, def: 97, spA: 100, spD: 100, spe: 99}
 ---
 species: Abomasnow #Wearlycan
 ingamename: OBAMA
@@ -192,4 +192,48 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 14, atk: 11, def: 15, spA: 14, spD: 14, spe: 11}
-evs: {hp: 78, atk: 142, def: 238, spA: 86, spD: 86, spe: 62}
+evs: {hp: 117, atk: 115, def: 119, spA: 102, spD: 102, spe: 107} 
+---
+species: Octillery #Octotank
+ingamename: Octotank
+displayname: Octotank
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Focus Energy]
+    - [Psybeam]
+    - [Aurora Beam]
+    - [Bubblebeam]
+gender: [m]
+happiness: 214
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 1, atk: 12, def: 10, spA: 15, spD: 15, spe: 2}
+evs: {hp: 28, atk: 27, def: 25, spA: 24, spD: 24, spe: 24}
+---
+species: Lapras #Donmarin
+ingamename: CCCGA
+displayname: CCCGA
+setname: TPP Spaceworld Gold Reforged
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Aurora Beam]
+    - [Growl]
+    - [Mist]
+    - [Water Gun]
+gender: [m]
+happiness: 231
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 15, atk: 5, def: 5, spA: 9, spD: 9, spe: 13}
+evs: {hp: 31, atk: 32, def: 34, spA: 32, spD: 32, spe: 50}

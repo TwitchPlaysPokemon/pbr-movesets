@@ -1,120 +1,114 @@
 ---
-species: Salamence
+species: Lairon
 setname: PWT-Gorigan
 tags: [in-game, PWT-Gorigan, trainer+gorigan]
-item: [Bright Powder]
-ability: [Intimidate]
+item: [null]
+ability: [Sturdy]
 moves:
-- [Hydro Pump]
-- [Flamethrower]
-- [Dragon Claw]
-- [Crunch]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Granbull
-setname: PWT-Gorigan
-tags: [in-game, PWT-Gorigan, trainer+gorigan]
-item: [Quick Claw]
-ability: [Intimidate]
-moves:
-- [Return]
-- [Brick Break]
-- [Shadow Ball]
-- [Hyper Beam]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Arcanine
-setname: PWT-Gorigan
-tags: [in-game, PWT-Gorigan, trainer+gorigan]
-item: [White Herb]
-ability: [Intimidate]
-moves:
-- [Extreme Speed]
-- [Overheat]
-- [Crunch]
+- [Take Down]
+- [Earthquake]
+- [Iron Tail]
 - [Protect]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Tauros
+species: Sealeo
 setname: PWT-Gorigan
 tags: [in-game, PWT-Gorigan, trainer+gorigan]
-item: [Chesto Berry]
-ability: [Intimidate]
+item: [null]
+ability: [Thick Fat]
 moves:
-- [Return]
+- [Water Pulse]
 - [Earthquake]
-- [Rest]
-- [Hyper Beam]
-gender: [m]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Hitmontop
-setname: PWT-Gorigan
-tags: [in-game, PWT-Gorigan, trainer+gorigan]
-item: [Leftovers]
-ability: [Intimidate]
-moves:
 - [Body Slam]
-- [Brick Break]
-- [Earthquake]
-- [Detect]
-gender: [m]
+- [Aurora Beam]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Gyarados
+species: Slowking
 setname: PWT-Gorigan
 tags: [in-game, PWT-Gorigan, trainer+gorigan]
-item: [Lum Berry]
-ability: [Intimidate]
+item: [null]
+ability: [Own Tempo]
 moves:
-- [Double Edge]
-- [Icy Wind]
+- [Water Pulse]
 - [Earthquake]
-- [Thunder Wave]
-gender: [m, f]
+- [Confusion]
+- [Headbutt]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
+---
+species: Ursaring
+setname: PWT-Gorigan
+tags: [in-game, PWT-Gorigan, trainer+gorigan]
+item: [null]
+ability: [Guts]
+moves:
+- [Slash]
+- [Earthquake]
+- [Brick Break]
+- [Protect]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Primeape
+setname: PWT-Gorigan
+tags: [in-game, PWT-Gorigan, trainer+gorigan]
+item: [null]
+ability: [Vital Spirit]
+moves:
+- [Cross Chop] #Shadow Rush
+- [Helping Hand] #Shadow Storm
+- [Focus Energy]
+- [Reversal]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Hypno
+setname: PWT-Gorigan
+tags: [in-game, PWT-Gorigan, trainer+gorigan]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Psychic] #Shadow Storm
+- [Baton Pass] #Shadow Down
+- [Meditate]
+- [Shadow Ball]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

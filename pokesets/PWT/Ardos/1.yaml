@@ -1,118 +1,114 @@
 ---
-species: Sceptile
+species: Swellow
 setname: PWT-Ardos
 tags: [in-game, PWT-Ardos, trainer+ardos]
-item: [Scope Lens]
-ability: [Overgrow]
+item: [null]
+ability: [Guts]
 moves:
-- [Leaf Blade]
-- [Dragon Claw]
+- [Sky Attack] #Shadow Break
+- [Baton Pass] #Shadow Sky
+- [Agility] #Shadow Half
+- [Facade] #Shadow Mist
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Alakazam
+setname: PWT-Ardos
+tags: [in-game, PWT-Ardos, trainer+ardos]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Fire Punch]
+- [Ice Punch]
 - [Thunder Punch]
-- [Crunch]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Charizard
-setname: PWT-Ardos
-tags: [in-game, PWT-Ardos, trainer+ardos]
-item: [Bright Powder]
-ability: [Blaze]
-moves:
-- [Fire Blast]
-- [Dragon Claw]
-- [Bite]
-- [Seismic Toss]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Gengar
-setname: PWT-Ardos
-tags: [in-game, PWT-Ardos, trainer+ardos]
-item: [Lax Incense]
-ability: [Levitate]
-moves:
-- [Sludge Bomb]
-- [Shadow Ball]
-- [Brick Break]
-- [Confuse Ray]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Aerodactyl
-setname: PWT-Ardos
-tags: [in-game, PWT-Ardos, trainer+ardos]
-item: [King's Rock]
-ability: [Rock Head]
-moves:
-- [Ancient Power]
-- [Aerial Ace]
-- [Iron Tail]
-- [Double Edge]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Tauros
-setname: PWT-Ardos
-tags: [in-game, PWT-Ardos, trainer+ardos]
-item: [Choice Band]
-ability: [Intimidate]
-moves:
-- [Return]
-- [Earthquake]
-- [Iron Tail]
+- [Psychic]
 gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Starmie
+species: Kingdra
 setname: PWT-Ardos
 tags: [in-game, PWT-Ardos, trainer+ardos]
-item: [Lum Berry]
-ability: [Natural Cure]
+item: [null]
+ability: [Swift Swim]
 moves:
-- [Thunderbolt]
-- [Ice Beam]
-- [Psychic]
 - [Hydro Pump]
+- [Ice Beam]
+- [Dragon Breath]
+- [Double-Edge]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
+---
+species: Heracross
+setname: PWT-Ardos
+tags: [in-game, PWT-Ardos, trainer+ardos]
+item: [null]
+ability: [Swarm]
+moves:
+- [Megahorn]
+- [Brick Break]
+- [Rock Tomb]
+- [Double-Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Electabuzz
+setname: PWT-Ardos
+tags: [in-game, PWT-Ardos, trainer+ardos]
+item: [null]
+ability: [Static]
+moves:
+- [Cross Chop] #Shadow Break
+- [Follow Me] #Shadow Mist
+- [Thunder Wave] #Shadow Half
+- [Thunderbolt] #Shadow Storm
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Electabuzz
+setname: PWT-Ardos
+tags: [in-game, PWT-Ardos, trainer+ardos]
+item: [Leftovers]
+ability: [Immunity,Thick Fat]
+moves:
+- [Fissure] #Shadow End
+- [Refresh] #Shadow Shed
+- [Curse]
+- [Body Slam]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

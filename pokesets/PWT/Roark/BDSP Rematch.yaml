@@ -3,7 +3,7 @@ species: Aerodactyl
 setname: PWT-Roark BDSP Rematch
 tags: [in-game, PWT-Roark BDSP Rematch, trainer+roark]
 item: [Scope Lens]
-ability: [Intimidate] #Unnerve
+ability: [Pressure] #Unnerve
 moves:
 - [Stone Edge]
 - [Roar]

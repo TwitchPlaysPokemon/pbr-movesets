@@ -1,0 +1,112 @@
+---
+species: Dusclops
+setname: PWT-Battlus
+tags: [in-game, PWT-Battlus, trainer+battlus]
+item: [null]
+ability: [Pressure]
+moves:
+- [Imprison]
+- [Shadow Ball]
+- [Ice Beam]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Latias
+setname: PWT-Battlus
+tags: [in-game, PWT-Battlus, trainer+battlus]
+item: [null]
+ability: [Levitate]
+moves:
+- [Calm Mind]
+- [Dragon Claw]
+- [Psychic]
+- [Waterfall]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Latios
+setname: PWT-Battlus
+tags: [in-game, PWT-Battlus, trainer+battlus]
+item: [null]
+ability: [Levitate]
+moves:
+- [Ice Beam]
+- [Thunderbolt]
+- [Dragon Claw]
+- [Psychic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Slaking
+setname: PWT-Battlus
+tags: [in-game, PWT-Battlus, trainer+battlus]
+item: [null]
+ability: [Truant]
+moves:
+- [Earthquake]
+- [Hyper Beam]
+- [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Salamence
+setname: PWT-Battlus
+tags: [in-game, PWT-Battlus, trainer+battlus]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Aerial Ace]
+- [Body Slam]
+- [Fire Blast]
+- [Earthquake]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Metagross
+setname: PWT-Battlus
+tags: [in-game, PWT-Battlus, trainer+battlus]
+item: [null]
+ability: [Clear Body]
+moves:
+- [Earthquake]
+- [Shadow Ball]
+- [Meteor Mash]
+- [Aerial Ace]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

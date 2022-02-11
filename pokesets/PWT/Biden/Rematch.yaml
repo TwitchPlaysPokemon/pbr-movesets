@@ -1,0 +1,114 @@
+---
+species: Jolteon
+setname: PWT-Biden Rematch
+tags: [in-game, PWT-Biden Rematch, trainer+biden]
+item: [Lum Berry]
+ability: [Volt Absorb]
+moves:
+- [Quick Attack]
+- [Bite]
+- [Thunderbolt]
+- [Protect]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 0, atk: 0, def: 0, spA: 252, spD: 6, spe: 252}
+level: 100
+---
+species: Weezing
+setname: PWT-Biden Rematch
+tags: [in-game, PWT-Biden Rematch, trainer+biden]
+item: [Quick Claw]
+ability: [Levitate]
+moves:
+- [Sludge Bomb]
+- [Explosion]
+- [Fire Blast]
+- [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 0, atk: 252, def: 0, spA: 0, spD: 252, spe: 6}
+level: 100
+---
+species: Houndoom
+setname: PWT-Biden Rematch
+tags: [in-game, PWT-Biden Rematch, trainer+biden]
+item: [Salac Berry]
+ability: [Flash Fire]
+moves:
+- [Fire Blast]
+- [Reversal]
+- [Crunch]
+- [Endure]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hasty
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 82, atk: 0, def: 0, spA: 252, spD: 0, spe: 176}
+level: 100
+---
+species: Ninjask
+setname: PWT-Biden Rematch
+tags: [in-game, PWT-Biden Rematch, trainer+biden]
+item: [Bright Powder]
+ability: [Speed Boost]
+moves:
+- [Shadow Ball]
+- [Baton Pass]
+- [Swords Dance]
+- [Protect]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 0, atk: 252, def: 0, spA: 0, spD: 210, spe: 48}
+level: 100
+---
+species: Steelix
+setname: PWT-Biden Rematch
+tags: [in-game, PWT-Biden Rematch, trainer+biden]
+item: [Focus Band]
+ability: [Rock Head]
+moves:
+- [Earthquake]
+- [Double-Edge]
+- [Explosion]
+- [Rock Tomb]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Impish
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 0, atk: 252, def: 0, spA: 0, spD: 252, spe: 6}
+level: 100
+---
+species: Hitmonlee
+setname: PWT-Biden Rematch
+tags: [in-game, PWT-Biden Rematch, trainer+biden]
+item: [Focus Band]
+ability: [Liechi Berry]
+moves:
+- [Earthquake]
+- [Mach Punch]
+- [Reversal]
+- [Endure]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 0, atk: 252, def: 252, spA: 0, spD: 0, spe: 6}
+level: 100

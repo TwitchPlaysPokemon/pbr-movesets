@@ -1,0 +1,120 @@
+---
+species: Sandshrew
+setname: PWT-Justy
+tags: [in-game, PWT-Justy, trainer+justy]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Sandstorm]
+- [Double Team]
+- [Swift]
+- [Dig]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cacnea
+setname: PWT-Justy
+tags: [in-game, PWT-Justy, trainer+justy]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Double Team]
+- [Sandstorm]
+- [Feint Attack]
+- [Needle Arm]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gligar
+setname: PWT-Justy
+tags: [in-game, PWT-Justy, trainer+justy]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Sandstorm]
+- [Double Team]
+- [Aerial Ace]
+- [Dig]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Azumarill
+setname: PWT-Justy
+tags: [in-game, PWT-Justy, trainer+justy]
+item: [null]
+ability: [Huge Power]
+moves:
+- [Double Team]
+- [Light Screen]
+- [Return]
+- [Surf]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sunflora
+setname: PWT-Justy
+tags: [in-game, PWT-Justy, trainer+justy]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Double Team]
+- [Ingrain]
+- [Helping Hand]
+- [Mega Drain]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nosepass
+setname: PWT-Justy
+tags: [in-game, PWT-Justy, trainer+justy]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Double Team]
+- [Magnitude]
+- [Thunder Wave]
+- [Rock Slide]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

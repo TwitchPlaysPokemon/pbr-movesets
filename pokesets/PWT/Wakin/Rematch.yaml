@@ -1,0 +1,113 @@
+---
+species: Swampert
+setname: PWT-Wakin Rematch
+tags: [in-game, PWT-Wakin Rematch, trainer+wakin]
+item: [Leftovers]
+ability: [Torrent]
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Counter]
+- [Mirror Coat]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+---
+species: Sceptile
+setname: PWT-Wakin Rematch
+tags: [in-game, PWT-Wakin Rematch, trainer+wakin]
+item: [Scope Lens]
+ability: [Overgrow]
+moves:
+- [Leaf Blade]
+- [Dragon Claw]
+- [Crunch]
+- [Thunder Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+---
+species: Blaziken
+setname: PWT-Wakin Rematch
+tags: [in-game, PWT-Wakin Rematch, trainer+wakin]
+item: [Salac Berry]
+ability: [Blaze]
+moves:
+- [Fire Blast]
+- [Earthquake]
+- [Reversasl]
+- [Endure]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+---
+species: Gardevoir
+setname: PWT-Wakin Rematch
+tags: [in-game, PWT-Wakin Rematch, trainer+wakin]
+item: [Quick Claw]
+ability: [Trace]
+moves:
+- [Psychic]
+- [Thunderbolt]
+- [Fire Punch]
+- [Destiny Bond]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+level: 100
+---
+species: Swellow
+setname: PWT-Wakin Rematch
+tags: [in-game, PWT-Wakin Rematch, trainer+wakin]
+item: [Choice Band]
+ability: [Guts]
+moves:
+- [Aerial Ace]
+- [Return]
+- [Steel Wing]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+---
+species: Vileplume
+setname: PWT-Wakin Rematch
+tags: [in-game, PWT-Wakin Rematch, trainer+wakin]
+item: [Focus Band]
+ability: [Chlorophyll]
+moves:
+- [Solar Beam]
+- [Sleep Powder]
+- [Sunny Day]
+- [Moonlight]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Careful
+ivs:  {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs:  {hp: 252, atk: 0, def: 0, spA: 6, spD: 0, spe: 252}
+level: 100

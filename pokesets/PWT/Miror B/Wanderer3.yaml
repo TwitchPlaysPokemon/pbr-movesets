@@ -1,0 +1,137 @@
+---
+species: Lombre
+setname: PWT-Miror B. Wanderer3
+tags: [in-game, PWT-Miror B. Wanderer3, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Fake Out]
+- [Waterfall]
+- [Ice Punch]
+- [Thunder Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Miror B. Wanderer3
+tags: [in-game, PWT-Miror B. Wanderer3, trainer+mirorb]
+item: [null]
+ability: [Rain Dish]
+moves:
+- [Leech Seed]
+- [Rain Dance]
+- [Toxic]
+- [Giga Drain]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Miror B. Wanderer3
+tags: [in-game, PWT-Miror B. Wanderer3, trainer+mirorb]
+item: [null]
+ability: [Static]
+moves:
+- [Thunderbolt]
+- [Light Screen]
+- [Screech]
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jumpluff
+setname: PWT-Miror B. Wanderer3
+tags: [in-game, PWT-Miror B. Wanderer3, trainer+mirorb]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Sunny Day]
+- [Sleep Powder]
+- [Solar Beam]
+- [Aerial Ace]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nosepass
+setname: PWT-Miror B. Wanderer3
+tags: [in-game, PWT-Miror B. Wanderer3, trainer+mirorb]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Thunder Wave]
+- [Earthquake]
+- [Rock Slide]
+- [Rest]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sudowoodo
+setname: PWT-Miror B. Wanderer3
+tags: [in-game, PWT-Miror B. Wanderer3, trainer+mirorb]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Low Kick]
+- [Counter]
+- [Strength]
+- [Rock Slide]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Shiftry
+setname: PWT-Miror B. Wanderer3
+tags: [in-game, PWT-Miror B. Wanderer3, trainer+mirorb]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Fake Out]
+- [Solar Beam]
+- [Shadow Ball]
+- [Feint Attack]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

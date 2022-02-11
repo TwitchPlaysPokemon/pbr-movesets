@@ -1,120 +1,76 @@
 ---
-species: Shuckle
+species: Luvdisc
 setname: PWT-Lovrina
 tags: [in-game, PWT-Lovrina, trainer+lovrina]
-item: [Chesto Berry]
-ability: [Sturdy]
+item: [null]
+ability: [Swift Swim]
 moves:
-- [Wrap]
-- [Toxic]
-- [Attract]
-- [Rest]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Milotic
-setname: PWT-Lovrina
-tags: [in-game, PWT-Lovrina, trainer+lovrina]
-item: [Lax Incense]
-ability: [Marvel Scale]
-moves:
-- [Wrap]
-- [Toxic]
-- [Attract]
-- [Confuse Ray]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Wobbuffet
-setname: PWT-Lovrina
-tags: [in-game, PWT-Lovrina, trainer+lovrina]
-item: [Lum Berry]
-ability: [Shadow Tag]
-moves:
-- [Counter]
-- [Mirror Coat]
+- [Water Gun]
+- [Tackle]
 - [Charm]
-- [Encore]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Blissey
-setname: PWT-Lovrina
-tags: [in-game, PWT-Lovrina, trainer+lovrina]
-item: [Leftovers]
-ability: [Serene Grace]
-moves:
-- [Counter]
-- [Seismic Toss]
 - [Attract]
-- [Sing]
 gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Misdreavus
+species: Beautifly
 setname: PWT-Lovrina
 tags: [in-game, PWT-Lovrina, trainer+lovrina]
-item: [Quick Claw]
-ability: [Levitate]
+item: [null]
+ability: [Swarm]
 moves:
-- [Confuse Ray]
-- [Torment]
+- [Gust]
+- [Thief]
+- [Absorb]
 - [Attract]
-- [Protect]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Meganium
+species: Roselia
 setname: PWT-Lovrina
 tags: [in-game, PWT-Lovrina, trainer+lovrina]
-item: [Bright Powder]
-ability: [Overgrow]
+item: [null]
+ability: [Natural Cure]
 moves:
+- [Mega Drain]
+- [Poison Sting]
+- [Pin Missile]
 - [Leech Seed]
-- [Toxic]
-- [Attract]
-- [Protect]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
+---
+species: Delcatty
+setname: PWT-Lovrina
+tags: [in-game, PWT-Lovrina, trainer+lovrina]
+item: [null]
+ability: [Cute Charm]
+moves:
+- [Secret Power] #Shadow Rush
+- [Sweet Kiss] #Shadow Wave
+- [Attract]
+- [Shock Wave]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

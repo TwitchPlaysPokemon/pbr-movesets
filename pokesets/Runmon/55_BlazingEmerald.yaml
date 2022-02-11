@@ -220,8 +220,8 @@ ivs: {hp: 12, atk: 14, def: 7, spA: 31, spD: 13, spe: 5}
 evs: {hp: 95, atk: 121, def: 70, spA: 90, spD: 16, spe: 118}
 ---
 species: Sunflora
-ingamename: NOTSACC
-displayname: NOTSACC
+ingamename: NUTSHACC
+displayname: NUTSHACC
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
@@ -352,8 +352,8 @@ ivs: {hp: 13, atk: 26, def: 30, spA: 26, spD: 26, spe: 26}
 evs: {hp: 21, atk: 231, def: 2, spA: 0, spD: 4, spe: 252}
 ---
 species: Xatu
-ingamename: POOBY
-displayname: POOBY
+ingamename: HOOBA
+displayname: HOOBA
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]

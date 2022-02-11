@@ -1,117 +1,93 @@
 ---
-species: Electrode
+species: Lanturn
 setname: PWT-Snattle
 tags: [in-game, PWT-Snattle, trainer+snattle]
-item: [Liechi Berry]
-ability: [Soundproof]
+item: [null]
+ability: [Illuminate]
 moves:
-- [Thunderbolt]
-- [Light Screen]
-- [Endure]
-- [Explosion]
+- [Water Gun]
+- [Shock Wave]
+- [Facade]
+- [Flail]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Gengar
+species: Quagsire
 setname: PWT-Snattle
 tags: [in-game, PWT-Snattle, trainer+snattle]
-item: [Scope Lens]
+item: [null]
+ability: [Damp]
+moves:
+- [Water Gun]
+- [Ice Punch]
+- [Rock Tomb]
+- [Slam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Lunatone
+setname: PWT-Snattle
+tags: [in-game, PWT-Snattle, trainer+snattle]
+item: [Hard Stone]
 ability: [Levitate]
 moves:
-- [Sludge Bomb]
-- [Shadow Ball]
-- [Protect]
-- [Explosion]
-gender: [m, f]
-happiness: 255
+- [Psychic] #Shadow Wave
+- [Baton Pass] #Shadow Shed
+- [Rain Dance] #Shadow Sky
+- [Rock Tomb]
+happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Muk
+species: Castform
 setname: PWT-Snattle
 tags: [in-game, PWT-Snattle, trainer+snattle]
-item: [Quick Claw]
-ability: [Sticky Hold]
+item: [null]
+ability: [Forecast]
 moves:
-- [Substitute]
-- [Imprison]
-- [Protect]
-- [Explosion]
-gender: [m, f]
+- [Water Pulse]
+- [Shock Wave]
+- [Icy Wind]
+- [Weather Ball]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Glalie
+species: Metang
 setname: PWT-Snattle
 tags: [in-game, PWT-Snattle, trainer+snattle]
-item: [Salac Berry]
-ability: [Inner Focus]
-moves:
-- [Ice Beam]
-- [Shadow Ball]
-- [Endure]
-- [Explosion]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Regirock
-setname: PWT-Snattle
-tags: [in-game, PWT-Snattle, trainer+snattle]
-item: [Lax Incense]
+item: [null]
 ability: [Clear Body]
 moves:
-- [Ancient Power]
-- [Earthquake]
-- [Protect]
-- [Explosion]
+- [Metal Claw]
+- [Thunder Punch]
+- [Confusion]
+- [Scary Face]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
----
-species: Regice
-setname: PWT-Snattle
-tags: [in-game, PWT-Snattle, trainer+snattle]
-item: [Leftovers]
-ability: [Clear Body]
-moves:
-- [Thunderbolt]
-- [Ice Beam]
-- [Protect]
-- [Explosion]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0

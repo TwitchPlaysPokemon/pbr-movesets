@@ -47,7 +47,7 @@ ability: [Natural Cure]
 moves:
 - [Solar Beam]
 - [Sludge Bomb]
-- [Gravity] #Grassy Terrain
+- [Aromatherapy] #Grassy Terrain
 - [Sunny Day]
 gender: [f]
 happiness: 255

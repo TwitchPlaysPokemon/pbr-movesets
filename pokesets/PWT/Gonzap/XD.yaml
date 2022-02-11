@@ -1,0 +1,99 @@
+---
+species: Electrode
+setname: PWT-Gonzap XD
+tags: [in-game, PWT-Gonzap XD, trainer+gonzap]
+item: [null]
+ability: [Static]
+moves:
+- [Sonic Boom]
+- [Spark]
+- [Facade]
+- [Thief]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nuzleaf
+setname: PWT-Gonzap XD
+tags: [in-game, PWT-Gonzap XD, trainer+gonzap]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Fake Out]
+- [Feint Attack]
+- [Aerial Ace]
+- [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Vileplume
+setname: PWT-Gonzap XD
+tags: [in-game, PWT-Gonzap XD, trainer+gonzap]
+item: [null]
+ability: [Chlorlophyll]
+moves:
+- [Sleep Powder]
+- [Giga Drain]
+- [Sweet Scent]
+- [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Gonzap XD
+tags: [in-game, PWT-Gonzap XD, trainer+gonzap]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Water Pulse]
+- [Rock Tomb]
+- [Spark]
+- [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Skarmory
+setname: PWT-Gonzap XD
+tags: [in-game, PWT-Gonzap XD, trainer+gonzap]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Steel Wing]
+- [Swift]
+- [Aerial Ace]
+- [Hyper Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

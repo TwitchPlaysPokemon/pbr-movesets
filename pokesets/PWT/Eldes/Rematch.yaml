@@ -1,0 +1,118 @@
+---
+species: Latios
+setname: PWT-Eldes Rematch
+tags: [in-game, PWT-Eldes Rematch, trainer+eldes]
+item: [Bright Powder]
+ability: [Levitate]
+moves:
+- [Thunderbolt]
+- [Ice Beam]
+- [Dragon Claw]
+- [Psychic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 28, atk: 28, def: 28, spA: 28, spD: 28, spe: 28}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Latias
+setname: PWT-Eldes Rematch
+tags: [in-game, PWT-Eldes Rematch, trainer+eldes]
+item: [Scope Lens]
+ability: [Levitate]
+moves:
+- [Thunderbolt]
+- [Waterfall]
+- [Dragon Claw]
+- [Psychic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 28, atk: 28, def: 28, spA: 28, spD: 28, spe: 28}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Eldes Rematch
+tags: [in-game, PWT-Eldes Rematch, trainer+eldes]
+item: [Lax Incense]
+ability: [Levitate]
+moves:
+- [Thunderbolt]
+- [Psychic]
+- [Fire Punch]
+- [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 28, atk: 28, def: 28, spA: 28, spD: 28, spe: 28}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Eldes Rematch
+tags: [in-game, PWT-Eldes Rematch, trainer+eldes]
+item: [Leftovers]
+ability: [Thick Fat]
+moves:
+- [Body Slam]
+- [Earthquake]
+- [Shadow Ball]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 28, atk: 28, def: 28, spA: 28, spD: 28, spe: 28}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Eldes Rematch
+tags: [in-game, PWT-Eldes Rematch, trainer+eldes]
+item: [Choice Band]
+ability: [Intimidate]
+moves:
+- [Return]
+- [Earthquake]
+- [Iron Tail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 28, atk: 28, def: 28, spA: 28, spD: 28, spe: 28}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Eldes Rematch
+tags: [in-game, PWT-Eldes Rematch, trainer+eldes]
+item: [Quick Claw]
+ability: [Clear Body]
+moves:
+- [Shadow Ball]
+- [Meteor Mash]
+- [Earthquake]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 28, atk: 28, def: 28, spA: 28, spD: 28, spe: 28}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
