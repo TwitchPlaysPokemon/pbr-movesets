@@ -128,3 +128,25 @@ shiny: False
 nature: Brave
 ivs: {hp: 23, atk: 30, def: 1, spA: 29, spD: 29, spe: 16}
 evs: {hp: 37, atk: 148, def: 69, spA: 47, spD: 42, spe: 45}
+---
+species: Luxray
+ingamename: gn
+displayname: gn
+setname: TPP Random Black-2
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Motor Drive]
+moves:
+    - [Shadow Punch]
+    - [Ice Ball]
+    - [False Swipe]
+    - [Ice Fang]
+gender: [f]
+happiness: 243
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: {hp: 22, atk: 19, def: 15, spA: 23, spD: 26, spe: 27}
+evs: {hp: 74, atk: 135, def: 68, spA: 82, spD: 48, spe: 103}
