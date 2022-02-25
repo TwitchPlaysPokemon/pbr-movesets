@@ -1,13 +1,13 @@
 species: Marowak
 ingamename: Marobonneo
 displayname: Marobonneo
-setname: TPP Random Black
+setname: TPP Randomized Black
 tags: [runmon, in-game]
 item: [Rare Bone]
 ability: [Ice Body]
 moves:
     - [Pound]
-    - [Flare Blitz] #Flame Charge
+    - [Flame Wheel] #Flame Charge
     - [Mach Punch]
     - [Spore]
 gender: [m]
@@ -23,7 +23,7 @@ evs: {hp: 60, atk: 165, def: 89, spA: 68, spD: 36, spe: 92}
 species: Articuno
 ingamename: CREAMY
 displayname: CREAMY
-setname: TPP Random Black
+setname: TPP Randomized Black
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Drought]
@@ -44,7 +44,7 @@ evs: {hp: 54, atk: 146, def: 62, spA: 109, spD: 58, spe: 81}
 species: Luxray
 ingamename: gm
 displayname: gm
-setname: TPP Random Black
+setname: TPP Randomized Black
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Motor Drive]
@@ -66,7 +66,7 @@ evs: {hp: 10, atk: 44, def: 20, spA: 20, spD: 12, spe: 31}
 species: Garchomp
 ingamename: HOPIUM
 displayname: HOPIUM
-setname: TPP Random Black
+setname: TPP Randomized Black
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Plus]
@@ -88,7 +88,7 @@ evs: {hp: 55, atk: 123, def: 67, spA: 89, spD: 68, spe: 108}
 species: Clefable
 ingamename: Aipomone
 displayname: Aipomone
-setname: TPP Random Black
+setname: TPP Randomized Black
 tags: [runmon, in-game]
 item: [null]
 ability: [Inner Focus]
@@ -110,7 +110,7 @@ evs: {hp: 12, atk: 22, def: 18, spA: 14, spD: 9, spe: 19}
 species: Salamence
 ingamename: AAAVB
 displayname: AAAVB
-setname: TPP Random Black
+setname: TPP Randomized Black
 tags: [runmon, in-game]
 item: [null]
 ability: [Truant]
@@ -132,7 +132,7 @@ evs: {hp: 37, atk: 148, def: 69, spA: 47, spD: 42, spe: 45}
 species: Luxray
 ingamename: gn
 displayname: gn
-setname: TPP Random Black-2
+setname: TPP Randomized Black-2
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Motor Drive]

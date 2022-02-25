@@ -529,8 +529,8 @@ ivs: {hp: 3, atk: 21, def: 12, spA: 14, spD: 25, spe: 19}
 evs: {hp: 127, atk: 18, def: 179, spA: 165, spD: 14, spe: 7}
 ---
 species: Ludicolo
-ingamename: PUTIN
-displayname: PUTIN
+ingamename: POOTA
+displayname: POOTA
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
