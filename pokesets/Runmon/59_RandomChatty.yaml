@@ -6,10 +6,10 @@ tags: [runmon, in-game]
 item: [Sharp Beak]
 ability: [null]
 moves:
-    - [Chatter]
+    - [Chatter, Metronome]
     - [Fly]
     - [Swords Dance]
-    - [Flase Swipe]
+    - [False Swipe]
 gender: [m]
 happiness: 253
 biddable: True
@@ -31,7 +31,7 @@ moves:
     - [Dragon Dance]
     - [Dragon Claw]
     - [Thunderbolt]
-    - [Hi Jump Kick]
+    - [High Jump Kick]
 gender: [m]
 happiness: 141
 biddable: True
@@ -71,7 +71,7 @@ tags: [runmon, in-game]
 item: [Mystic Water]
 ability: [null]
 moves:
-    - [Surf, Flamethrower] #Scald 
+    - [Surf, Flamethrower] #Scald
     - [Strength]
     - [Whirlpool]
     - [Waterfall]
