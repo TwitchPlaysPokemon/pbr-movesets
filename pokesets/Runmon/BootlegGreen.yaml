@@ -30,14 +30,14 @@ moves:
     - [Strength]
     - [Double Team]
 happiness: 255
-gender: [m]
+gender: [f]
 biddable: True
 rarity: 1.0
 ball: [Poké]
 shiny: False
-nature: Serious
+nature: Careful
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 5, atk: 6, def: 5, spA: 4, spD: 4, spe: 7}
 ---
 species: Charizard
 ingamename: CUCKO

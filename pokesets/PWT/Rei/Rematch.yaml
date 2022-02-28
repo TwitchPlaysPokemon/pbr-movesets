@@ -1,0 +1,140 @@
+---
+species: Clefairy
+setname: PWT-Rei Rematch
+tags: [in-game, PWT-Rei Rematch, trainer+rei]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Flamethrower]
+- [Mist Ball] #Moonblast
+- [Shadow Ball]
+- [Calm Mind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Mr. Mime
+setname: PWT-Rei Rematch
+tags: [in-game, PWT-Rei Rematch, trainer+rei]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Energy Ball]
+- [Psychic]
+- [Hypnosis]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Staraptor
+setname: PWT-Rei Rematch
+tags: [in-game, PWT-Rei Rematch, trainer+rei]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Brave Bird]
+- [Close Combat]
+- [Roost]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Pikachu
+setname: PWT-Rei Rematch
+tags: [in-game, PWT-Rei Rematch, trainer+rei]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Iron Tail]
+- [Volt Tackle]
+- [Zen Headbutt] #Play Rough
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Rei Rematch
+tags: [in-game, PWT-Rei Rematch, trainer+rei]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Flash Cannon]
+- [Hydro Pump]
+- [Ice Beam]
+- [Tickle] #Baby-Doll Eyes
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Torterra
+setname: PWT-Rei Rematch
+tags: [in-game, PWT-Rei Rematch, trainer+rei]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Earthquake] #Headlong Rush
+- [Leaf Blade]
+- [Iron Head]
+- [Stone Edge]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Rei Rematch
+tags: [in-game, PWT-Rei Rematch, trainer+rei]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Flare Blitz] #Raging Fury
+- [Bulk Up]
+- [Close Combat]
+- [Thunder Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,15 +1,15 @@
 ---
-species: Rhyperior
-setname: PWT-Sabi
-tags: [in-game, PWT-Sabi, trainer+sabi]
+species: Bidoof
+setname: PWT-Ress
+tags: [in-game, PWT-Ress, trainer+ress]
 item: [null]
 ability: [null]
 gender: [m, f]
 moves:
-- [Stone Edge]
-- [Earthquake] #High Horsepower
-- [Rock Smash]
-- [Megahorn]
+- [Thunderbolt]
+- [Ice Beam]
+- [Shadow Ball]
+- [Swift]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -19,17 +19,17 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Magmortar
-setname: PWT-Sabi
-tags: [in-game, PWT-Sabi, trainer+sabi]
+species: Starly
+setname: PWT-Ress
+tags: [in-game, PWT-Ress, trainer+ress]
 item: [null]
 ability: [null]
 gender: [m, f]
 moves:
-- [Poison Gas]
-- [Flamethrower]
-- [Rock Slide]
-- [Psychic]
+- [Quick Attack]
+- [Air Slash]
+- [Roost]
+- [Ominous Wind]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -39,16 +39,16 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Electivire
-setname: PWT-Sabi
-tags: [in-game, PWT-Sabi, trainer+sabi]
+species: Shinx
+setname: PWT-Ress
+tags: [in-game, PWT-Ress, trainer+ress]
 item: [null]
 ability: [null]
 gender: [m, f]
 moves:
-- [Thunder Wave]
-- [Thunder Punch]
-- [Ice Punch]
+- [Fire Fang]
+- [Zen Headbutt] #Play Rough
+- [Crunch]
 - [Iron Tail]
 happiness: 255
 biddable: false
