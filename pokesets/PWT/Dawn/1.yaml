@@ -89,7 +89,7 @@ item: [Focus Sash]
 ability: [Snow Cloak] #Cursed Body
 moves:
 - [Ominous Wind] #Hex
-- [Close Combat] #Frost Breath
+- [Icy Wind] #Frost Breath
 - [Thunderbolt]
 - [Will-O-Wisp]
 gender: [f]

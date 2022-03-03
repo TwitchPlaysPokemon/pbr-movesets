@@ -4,7 +4,7 @@ setname: PWT-Akari Rematch
 tags: [in-game, PWT-Akari Rematch, trainer+akari]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [f]
 moves:
 - [Flamethrower]
 - [Mist Ball] #Moonblast
@@ -24,7 +24,7 @@ setname: PWT-Akari Rematch
 tags: [in-game, PWT-Akari Rematch, trainer+akari]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [m]
 moves:
 - [Energy Ball]
 - [Psychic]
@@ -44,7 +44,7 @@ setname: PWT-Akari Rematch
 tags: [in-game, PWT-Akari Rematch, trainer+akari]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [f]
 moves:
 - [Quick Attack]
 - [Brave Bird]
@@ -64,7 +64,7 @@ setname: PWT-Akari Rematch
 tags: [in-game, PWT-Akari Rematch, trainer+akari]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [m]
 moves:
 - [Quick Attack]
 - [Iron Tail]
@@ -84,7 +84,7 @@ setname: PWT-Akari Rematch
 tags: [in-game, PWT-Akari Rematch, trainer+akari]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [m]
 moves:
 - [Flash Cannon]
 - [Hydro Pump]
@@ -104,7 +104,7 @@ setname: PWT-Akari Rematch
 tags: [in-game, PWT-Akari Rematch, trainer+akari]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [m]
 moves:
 - [Earthquake] #Headlong Rush
 - [Leaf Blade]
@@ -124,7 +124,7 @@ setname: PWT-Akari Rematch
 tags: [in-game, PWT-Akari Rematch, trainer+akari]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [m]
 moves:
 - [Flare Blitz] #Raging Fury
 - [Bulk Up]

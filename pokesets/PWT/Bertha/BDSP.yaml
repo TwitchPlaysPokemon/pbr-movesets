@@ -46,7 +46,7 @@ item: [Soft Sand]
 ability: [Sturdy]
 moves:
 - [Rock Polish]
-- [Body Slam] #Heavy Slam
+- [Low Kick] #Heavy Slam
 - [Earthquake]
 - [Stone Edge]
 gender: [f]

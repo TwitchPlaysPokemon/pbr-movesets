@@ -4,7 +4,7 @@ setname: PWT-Rei
 tags: [in-game, PWT-Rei, trainer+rei]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [m]
 moves:
 - [Drain Punch]
 - [Zen Headbutt]
@@ -24,7 +24,7 @@ setname: PWT-Rei
 tags: [in-game, PWT-Rei, trainer+rei]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [f]
 moves:
 - [Quick Attack]
 - [Brave Bird]
@@ -43,7 +43,7 @@ setname: PWT-Rei
 tags: [in-game, PWT-Rei, trainer+rei]
 item: [null]
 ability: [null]
-gender: [m, f]
+gender: [m]
 moves:
 - [Quick Attack]
 - [Iron Tail]

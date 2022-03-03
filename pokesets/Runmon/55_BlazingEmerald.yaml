@@ -220,8 +220,6 @@ ivs: {hp: 12, atk: 14, def: 7, spA: 31, spD: 13, spe: 5}
 evs: {hp: 95, atk: 121, def: 70, spA: 90, spD: 16, spe: 118}
 ---
 species: Sunflora
-ingamename: NUTSHACC
-displayname: NUTSHACC
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
@@ -243,8 +241,6 @@ ivs: {hp: 9, atk: 30, def: 28, spA: 31, spD: 1, spe: 29}
 evs: {hp: 0, atk: 18, def: 0, spA: 252, spD: 6, spe: 234}
 ---
 species: Crawdaunt
-ingamename: CROCK
-displayname: CROCK
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
@@ -265,8 +261,6 @@ ivs: {hp: 18, atk: 26, def: 26, spA: 7, spD: 21, spe: 24}
 evs: {hp: 12, atk: 252, def: 96, spA: 0, spD: 0, spe: 150}
 ---
 species: Luxray
-ingamename: BUSSY
-displayname: BUSSY
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
@@ -308,8 +302,6 @@ ivs: {hp: 26, atk: 5, def: 7, spA: 13, spD: 11, spe: 14}
 evs: {hp: 0, atk: 10, def: 2, spA: 242, spD: 4, spe: 252}
 ---
 species: Kabutops
-ingamename: PINGAS
-displayname: PINGAS
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [Great Ball]
@@ -352,8 +344,6 @@ ivs: {hp: 13, atk: 26, def: 30, spA: 26, spD: 26, spe: 26}
 evs: {hp: 21, atk: 231, def: 2, spA: 0, spD: 4, spe: 252}
 ---
 species: Xatu
-ingamename: HOOBA
-displayname: HOOBA
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
@@ -419,8 +409,6 @@ ivs: {hp: 5, atk: 9, def: 15, spA: 18, spD: 2, spe: 30}
 evs: {hp: 132, atk: 79, def: 84, spA: 114, spD: 61, spe: 40}
 --- #final team (the only one still available on the API)
 species: Golem
-ingamename: ANGUS
-displayname: ANGUS
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [Hard Stone]
@@ -441,8 +429,6 @@ ivs: {hp: 6, atk: 18, def: 13, spA: 18, spD: 24, spe: 14}
 evs: {hp: 138, atk: 156, def: 178, spA: 23, spD: 8, spe: 7}
 ---
 species: Blissey
-ingamename: BUM SPONGE
-displayname: BUM SPONGE
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
@@ -463,8 +449,6 @@ ivs: {hp: 0, atk: 29, def: 4, spA: 20, spD: 11, spe: 4}
 evs: {hp: 38, atk: 0, def: 174, spA: 141, spD: 0, spe: 0}
 ---
 species: Pelipper
-ingamename: "Blue Bawls"
-displayname: "Blue Bawls"
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
@@ -507,8 +491,6 @@ ivs: {hp: 10, atk: 2, def: 25, spA: 4, spD: 27, spe: 8}
 evs: {hp: 142, atk: 18, def: 160, spA: 165, spD: 14, spe: 11}
 ---
 species: Sunflora
-ingamename: LUVNUTSHAC
-displayname: LUVNUTSHAC
 setname: TPP Blazing Emerald-2
 tags: [runmon, in-game]
 item: [null]
@@ -529,8 +511,6 @@ ivs: {hp: 3, atk: 21, def: 12, spA: 14, spD: 25, spe: 19}
 evs: {hp: 127, atk: 18, def: 179, spA: 165, spD: 14, spe: 7}
 ---
 species: Ludicolo
-ingamename: POOTA
-displayname: POOTA
 setname: TPP Blazing Emerald
 tags: [runmon, in-game]
 item: [null]
