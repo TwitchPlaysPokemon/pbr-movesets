@@ -1,0 +1,60 @@
+---
+species: Skuntank
+setname: PWT-Melli Tenacity
+tags: [in-game, PWT-Melli Tenacity, trainer+melli]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Sludge Bomb]
+- [Night Slash]
+- [Flamethrower]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Melli Tenacity
+tags: [in-game, PWT-Melli Tenacity, trainer+melli]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Hypnosis]
+- [Air Slash]
+- [Leech Life]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Drapion
+setname: PWT-Melli Tenacity
+tags: [in-game, PWT-Melli Tenacity, trainer+melli]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Sludge] #Venoshock
+- [Thunder Fang]
+- [Rock Smash]
+- [Ice Fang]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0

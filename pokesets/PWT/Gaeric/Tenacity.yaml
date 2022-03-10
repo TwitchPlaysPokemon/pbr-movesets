@@ -1,0 +1,40 @@
+---
+species: Glalie
+setname: PWT-Gaeric Tenacity
+tags: [in-game, PWT-Gaeric Tenacity, trainer+gaeric]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Blizzard]
+- [Crunch]
+- [Magnitude] #Bulldoze
+- [Iron Head]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Gaeric Tenacity
+tags: [in-game, PWT-Gaeric Tenacity, trainer+gaeric]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Ice Fang]
+- [Shadow Ball]
+- [Thunderbolt]
+- [Water Pulse]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
