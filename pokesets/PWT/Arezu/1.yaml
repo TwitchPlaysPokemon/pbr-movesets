@@ -27,7 +27,7 @@ gender: [m, f]
 moves:
 - [Slash]
 - [Night Slash]
-- [Play Rough]
+- [Zen Headbutt] #Play Rough
 - [Aerial Ace]
 happiness: 255
 biddable: false
