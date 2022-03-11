@@ -51,7 +51,7 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-shiny: True
+shiny: False #True
 hidden: False
 nature: Serious
 ivs: 0
