@@ -84,6 +84,7 @@ moves:
     - [Sand Tomb]
     - [Spit Up]
     - [Swallow]
+<<<<<<< Updated upstream
     - [Stock Pile]
 gender: [m, f]
 happiness: 255
@@ -92,3 +93,13 @@ rarity: 0.05
 nature: Hasty
 evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 128, spe: 252}
 ivs: 0
+=======
+    - [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+nature: Hasty
+evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 128, spe: 252}
+ivs: 0
+>>>>>>> Stashed changes
