@@ -4,7 +4,7 @@ displayname: Wyrdeer
 setname: Halloween
 tags: [halloween]
 item: Twisted Spoon
-ability: Intimidate, Frisk
+ability: [Intimidate, Frisk]
 moves:
     - [Zen Headbutt]
     - [Skull Bash]

@@ -26,19 +26,11 @@ ability: [Sand Stream]
 moves:
     - [Earth Power]
     - [Spit Up]
-<<<<<<< Updated upstream
-    - [Stock Pile]
-    - [Slack Off]
-gender: [m, f]
-happiness: 255
-biddable: False
-=======
     - [Stockpile]
     - [Slack Off]
 gender: [m, f]
 happiness: 255
 biddable: True
->>>>>>> Stashed changes
 rarity: 0.4
 nature: Modest
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
@@ -57,16 +49,8 @@ moves:
     - [Slack Off]
 gender: [m, f]
 happiness: 255
-<<<<<<< Updated upstream
-biddable: True
-rarity: 0.2
-nature: Serious
-evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 164, spe: 92}
-ivs: 31
-=======
 biddable: False
 rarity: 0.2
 nature: Serious
 evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 164, spe: 92}
 ivs: 31
->>>>>>> Stashed changes

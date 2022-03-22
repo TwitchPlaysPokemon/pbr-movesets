@@ -4,7 +4,7 @@ displayname: Overqwil
 setname: Halloween
 tags: [halloween]
 item: Poison Barb
-ability: Poison Point, Swift Swim, Intimidate
+ability: [Poison Point, Swift Swim, Intimidate]
 moves:
     - [Poison Jab]
     - [Dark Pulse]

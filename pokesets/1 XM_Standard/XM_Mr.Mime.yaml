@@ -27,7 +27,7 @@ displayname: Mr. Rime
 setname: Christmas2
 tags: [christmas]
 item: Icicle Plate
-ability: Tangled Feet, Ice Body
+ability: [Tangled Feet, Ice Body]
 moves:
     - [Icy Wind]
     - [Confusion]

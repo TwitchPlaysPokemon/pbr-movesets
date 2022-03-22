@@ -50,7 +50,7 @@ displayname: Sirfetch'd
 setname: Christmas3
 tags: [christmas]
 item: Stick
-ability: Steadfast, Scrappy
+ability: [Steadfast, Scrappy]
 moves:
     - [Leaf Blade]
     - [Brick Break]

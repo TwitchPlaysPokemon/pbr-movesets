@@ -4,7 +4,7 @@ displayname: Sneasler
 setname: Christmas
 tags: [christmas]
 item: Razor Claw, Black Belt, Toxic Plate
-ability: Pressure, Poison Point
+ability: [Pressure, Poison Point]
 moves:
     - [Poison Jab]
     - [Drain Punch]

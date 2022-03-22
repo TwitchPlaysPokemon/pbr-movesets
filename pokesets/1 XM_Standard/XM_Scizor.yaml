@@ -27,7 +27,7 @@ displayname: Kleavor
 setname: Christmas2
 tags: [christmas]
 item: Protector
-ability: Swarm, Steadfast
+ability: [Swarm, Steadfast]
 moves:
     - [Stone Edge]
     - [X-Scissor]
