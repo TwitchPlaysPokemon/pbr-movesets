@@ -26,7 +26,7 @@ ingamename: SDS Sloth
 displayname: SDS Sloth
 setname: Halloween2
 tags: [halloween]
-item: Lax incense
+item: Lax Incense
 ability: Slow Start
 moves:
     - [Snore]

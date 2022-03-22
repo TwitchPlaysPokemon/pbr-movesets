@@ -1,0 +1,22 @@
+species: Flaaffy
+ingamename: CindyLou
+displayname: Cindy Lou Who
+setname: Christmas
+tags: [christmas]
+item: Poké Doll
+ability: Early Bird
+moves:
+    - [Spark]
+    - [Headbutt]
+    - [Bounce]
+    - [Metronome]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 124, atk: 128, def: 128, spA: 0, spD: 128, spe: 0}
+hidden: false

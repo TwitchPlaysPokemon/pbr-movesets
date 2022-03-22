@@ -20,7 +20,7 @@ nature: Brave
 ivs: 31
 evs: {hp: 68, atk: 0, def: 96, spA: 196, spD: 84, spe: 0}
 hidden: false
-
+---
 species: Farfetch'd
 ingamename: Dark Blade
 displayname: Dark Matter Blade
@@ -42,4 +42,27 @@ shiny: True
 nature: Quiet
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 200, atk: 252, def: 200, spA: 252, spD: 200, spe: 0}
+hidden: false
+---
+species: Farfetch'd
+ingamename: Sirfetch'd
+displayname: Sirfetch'd
+setname: Christmas3
+tags: [christmas]
+item: Stick
+ability: Steadfast, Scrappy
+moves:
+    - [Leaf Blade]
+    - [Brick Break]
+    - [Detect]
+    - [Iron Defense]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 192, atk: 48, def: 48, spA: 0, spD: 36, spe: 184}
 hidden: false

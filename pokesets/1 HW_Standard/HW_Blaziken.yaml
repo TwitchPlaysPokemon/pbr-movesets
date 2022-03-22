@@ -10,7 +10,7 @@ moves:
     - [Gunk Shot]
     - [Role Play]
     - [Flash]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0

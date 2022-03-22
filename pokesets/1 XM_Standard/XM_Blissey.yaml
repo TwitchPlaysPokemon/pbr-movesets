@@ -20,3 +20,26 @@ nature: Naughty
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 10, spe: 31}
 evs: {hp: 60, atk: 236, def: 40, spA: 120, spD: 0, spe: 0}
 hidden: false
+---
+species: Blissey
+ingamename: Xmas 2011
+displayname: Xmas 2011
+setname: Christmas2
+tags: [christmas]
+item: Silk Scarf
+ability: Shadow Tag
+moves:
+    - [Pound]
+    - [Astonish]
+    - [Growl, Leer]
+    - [Refresh]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
+hidden: false

@@ -75,7 +75,7 @@ ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Latias
-setname: Overpowered
+setname: Mega
 tags: [standard]
 item: [Black Sludge]
 ability: [Levitate]

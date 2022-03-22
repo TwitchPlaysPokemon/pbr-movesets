@@ -86,7 +86,7 @@ moves:
     - [Magic Coat]
 gender: [m, f]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.1
 ball: [Net]
 nature: Relaxed

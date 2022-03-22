@@ -1,0 +1,21 @@
+species: Stantler
+ingamename: Wyrdeer
+displayname: Wyrdeer
+setname: Halloween
+tags: [halloween]
+item: Twisted Spoon
+ability: Intimidate, Frisk
+moves:
+    - [Zen Headbutt]
+    - [Skull Bash]
+    - [Thunderbolt]
+    - [Hypnosis]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
+evs: {hp: 44, atk: 156, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

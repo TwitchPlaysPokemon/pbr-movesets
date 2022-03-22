@@ -1,0 +1,22 @@
+species: Corsola
+ingamename: Cursola
+displayname: Cursola
+setname: Halloween
+tags: [halloween]
+item: Spell Tag
+ability: Aftermath
+moves:
+    - [Shadow Ball]
+    - [Power Gem]
+    - [Mirror Coat]
+    - [Perish Song]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Net]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: 84
+hidden: false

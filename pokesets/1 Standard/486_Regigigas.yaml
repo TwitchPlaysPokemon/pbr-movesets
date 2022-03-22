@@ -27,7 +27,7 @@ moves:
     - [Fling]
     - [Earthquake]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.25
 ball: [Repeat]
 nature: Serious

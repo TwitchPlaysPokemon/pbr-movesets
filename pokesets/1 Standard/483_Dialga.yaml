@@ -53,7 +53,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 3, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Dialga
-setname: Overpowered
+setname: Origin
 tags: [standard]
 item: [Null]
 ability: [Pressure]

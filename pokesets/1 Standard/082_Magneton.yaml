@@ -45,7 +45,7 @@ moves:
     - [Sleep Talk]
     - [Rest]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.25
 ball: [Heal]
 nature: Naive

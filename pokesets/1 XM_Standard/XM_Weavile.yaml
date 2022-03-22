@@ -1,0 +1,22 @@
+species: Weavile
+ingamename: Sneasler
+displayname: Sneasler
+setname: Christmas
+tags: [christmas]
+item: Razor Claw, Black Belt, Toxic Plate
+ability: Pressure, Poison Point
+moves:
+    - [Poison Jab]
+    - [Drain Punch]
+    - [Rock Climb]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 200, spD: 0, spe: 0}
+hidden: false
