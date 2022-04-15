@@ -1,7 +1,7 @@
 ---
 species: Alakazam
-setname: PWT-Ingo Rematch
-tags: [in-game, PWT-Ingo Rematch, trainer+ingo]
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
 item: [null]
 ability: [null]
 gender: [m, f]
@@ -20,8 +20,8 @@ level: 100
 rarity: 1.0
 ---
 species: Tangrowth
-setname: PWT-Ingo Rematch
-tags: [in-game, PWT-Ingo Rematch, trainer+ingo]
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
 item: [null]
 ability: [null]
 gender: [m, f]
@@ -39,8 +39,8 @@ level: 100
 rarity: 1.0
 ---
 species: Probopass
-setname: PWT-Ingo Rematch
-tags: [in-game, PWT-Ingo Rematch, trainer+ingo]
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
 item: [null]
 ability: [null]
 gender: [m, f]
@@ -58,8 +58,8 @@ level: 100
 rarity: 1.0
 ---
 species: Machamp
-setname: PWT-Ingo Rematch
-tags: [in-game, PWT-Ingo Rematch, trainer+ingo]
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
 item: [null]
 ability: [null]
 gender: [m, f]
@@ -78,8 +78,8 @@ level: 100
 rarity: 1.0
 ---
 species: Magnezone
-setname: PWT-Ingo Rematch
-tags: [in-game, PWT-Ingo Rematch, trainer+ingo]
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
 item: [null]
 ability: [null]
 moves:
@@ -97,8 +97,8 @@ level: 100
 rarity: 1.0
 ---
 species: Gliscor
-setname: PWT-Ingo Rematch
-tags: [in-game, PWT-Ingo Rematch, trainer+ingo]
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
 item: [null]
 ability: [null]
 gender: [m, f]

@@ -1,7 +1,7 @@
 ---
 species: Machoke
-setname: PWT-Ingo
-tags: [in-game, PWT-Ingo, trainer+ingo]
+setname: PWT-Warden Ingo
+tags: [in-game, PWT-Warden Ingo, trainer+ingo]
 item: [null]
 ability: [null]
 gender: [m, f]
@@ -20,8 +20,8 @@ level: 100
 rarity: 1.0
 ---
 species: Tangela
-setname: PWT-Ingo
-tags: [in-game, PWT-Ingo, trainer+ingo]
+setname: PWT-Warden Ingo
+tags: [in-game, PWT-Warden Ingo, trainer+ingo]
 item: [null]
 ability: [null]
 gender: [m, f]
@@ -39,8 +39,8 @@ level: 100
 rarity: 1.0
 ---
 species: Gliscor
-setname: PWT-Ingo
-tags: [in-game, PWT-Ingo, trainer+ingo]
+setname: PWT-Warden Ingo
+tags: [in-game, PWT-Warden Ingo, trainer+ingo]
 item: [null]
 ability: [null]
 gender: [m, f]

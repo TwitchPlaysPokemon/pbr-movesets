@@ -1,0 +1,151 @@
+species: Lucario #Buuhan
+ingamename: Dad???
+displayname: Dad???
+setname: TPP DBZ Team Training
+tags: [runmon, in-game]
+item: [Exp Share] #Turtle Suit
+ability: [Clear Body]
+moves:
+    - [Dragon Rush]
+    - [Quick Attack] #Dash Attack
+    - [Fire Blast] #Energy Shot
+    - [Recover] #Heal
+happiness: 207
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Quirky
+ivs: {hp: 17, atk: 13, def: 15, spA: 14, spD: 12, spe: 15}
+evs: {hp: 74, atk: 98, def: 27, spA: 156, spD: 100, spe: 55}
+---
+species: Mewtwo #Golden Frieza
+ingamename: Cogexx
+displayname: Cogexx
+setname: TPP DBZ Team Training
+tags: [runmon, in-game]
+item: [Amulet Coin]
+ability: [Battle Armor] #Parry
+moves:
+    - [Dark Pulse] #Death Beam
+    - [Aura Sphere] #Ki Blast
+    - [Hyper Voice] #Kiai
+    - [Nasty Plot] #Hyper Mode
+happiness: 186
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Modest
+ivs: {hp: 30, atk: 4, def: 6, spA: 14, spD: 1, spe: 30}
+evs: {hp: 23, atk: 32, def: 5, spA: 50, spD: 44, spe: 26}
+---
+species: Breloom #Super Piccolo
+ingamename: Sp Piccolo
+displayname: Sp Piccolo
+setname: TPP DBZ Team Training
+tags: [runmon, in-game]
+item: [Null]
+ability: [Natural Cure]
+moves:
+    - [Rolling Kick] #Kick
+    - [Solar Beam] #Makankōsappō
+    - [Bulk Up] #Giant Form
+    - [Synthesis] #Saisei
+happiness: 208
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Timid
+ivs: {hp: 30, atk: 28, def: 8, spA: 10, spD: 24, spe: 20}
+evs: {hp: 8, atk: 13, def: 5, spA: 27, spD: 2, spe: 14}
+---
+species: Scizor #C-13
+ingamename: BI
+displayname: BI
+setname: TPP DBZ Team Training
+tags: [runmon, in-game]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Strength]
+    - [Fly]
+    - [Mach Punch, Rock Smash] #Punch
+    - [Defense Curl] #Guard
+happiness: 188
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Bashful
+ivs: {hp: 23, atk: 26, def: 22, spA: 10, spD: 3, spe: 23}
+evs: {hp: 2, atk: 7, def: 2, spA: 7, spD: 5, spe: 6}
+---
+species: Heracross #Imperfect Cell
+ingamename: Lube
+displayname: Lube
+setname: TPP DBZ Team Training
+tags: [runmon, in-game]
+item: [Null]
+ability: [Shed Skin]
+moves:
+    - [Hyper Beam] #Kamehameha
+    - [Giga Drain] #Absorption
+    - [Solar Beam] #Makankōsappō
+    - [Synthesis] #Saisei
+happiness: 156
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Rash
+ivs: {hp: 12, atk: 31, def: 8, spA: 2, spD: 20, spe: 14}
+evs: {hp: 5, atk: 3, def: 1, spA: 8, spD: 13, spe: 2}
+---
+species: Cacturne #Garlic 2
+ingamename: Garlic 2
+displayname: Garlic 2
+setname: TPP DBZ Team Training
+tags: [runmon, in-game]
+item: [Null]
+ability: [Arena Trap] #Dead Zone
+moves:
+    - [Energy Ball]
+    - [Aurora Beam] #Eye Beam
+    - [Aura Sphere] #Ki Blast
+    - [Leer] #Guard Break
+happiness: 122
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Jolly
+ivs: {hp: 20, atk: 22, def: 25, spA: 17, spD: 28, spe: 13}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Magnemite #Bioman
+ingamename: MAC
+displayname: MAC
+setname: TPP DBZ Team Training
+tags: [runmon, in-game]
+item: [Null]
+ability: [Run Away]
+moves:
+    - [Headbutt]
+    - [Cut]
+    - [Scratch]
+    - [Agility] #Speed Up
+happiness: 138
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Lonely
+ivs: {hp: 13, atk: 17, def: 22, spA: 11, spD: 31, spe: 5}
+evs: {hp: 0, atk: 2, def: 1, spA: 4, spD: 5, spe: 2}
