@@ -1,0 +1,40 @@
+---
+species: Dusknoir
+setname: PWT-Allister
+tags: [in-game, PWT-Allister, trainer+allister]
+item: [null]
+ability: [Pressure]
+moves:
+- [Shadow Punch]
+- [Fire Punch]
+- [Ice Punch]
+- [Disable]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Allister
+tags: [in-game, PWT-Allister, trainer+allister]
+item: [null]
+ability: [Levitate] #Cursed Body
+moves:
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Dark Pulse]
+- [Hypnosis]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
