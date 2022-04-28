@@ -19,7 +19,7 @@ nature: Serious
 ivs: {hp: 9, atk: 13, def: 8, spA: 7, spD: 7, spe: 4}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
-species: Mespirit
+species: Mesprit
 ingamename: SPRITILIN
 displayname: SPRITILIN
 setname: TPP Rerandomized Sanqui Red
@@ -116,6 +116,7 @@ moves:
     - [Mist Ball] #Moonblast
     - [Night Slash]
     - [Low Kick]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
