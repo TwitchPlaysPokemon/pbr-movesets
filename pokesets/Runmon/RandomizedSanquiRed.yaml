@@ -105,8 +105,8 @@ ivs: {hp: 3, atk: 14, def: 2, spA: 5, spD: 5, spe: 13}
 evs: {hp: 77, atk: 62, def: 62, spA: 58, spD: 58, spe: 55}
 ---
 species: Sharpedo
-ingamename: "ZOOMX[PKMN]"
-displayname: "ZOOMX[ᵖKᴹɴ]" #this has that whole "small letters" thing in the PKMN section but I couldn't do it
+ingamename: "ZOOMXPKMN"
+displayname: "ZOOMX[ᴾkᴹɴ]"
 setname: TPP Randomized Sanqui Red
 tags: [runmon, in-game]
 item: [null]

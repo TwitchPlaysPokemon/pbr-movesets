@@ -192,7 +192,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 14, atk: 11, def: 15, spA: 14, spD: 14, spe: 11}
-evs: {hp: 117, atk: 115, def: 119, spA: 102, spD: 102, spe: 107} 
+evs: {hp: 117, atk: 115, def: 119, spA: 102, spD: 102, spe: 107}
 ---
 species: Octillery #Octotank
 ingamename: Octotank
