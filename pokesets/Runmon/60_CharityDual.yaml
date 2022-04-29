@@ -18,7 +18,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 9, atk: 13, def: 12, spA: 13, spD: 13, spe: 2}
-evs: {hp: 137, atk: 157, def: 155, spA: 142, spD: 142, spe: 163}
+evs: {hp: 143, atk: 163, def: 160, spA: 149, spD: 149, spe: 168}
 ---
 species: Mew
 ingamename: :LAYLA
@@ -29,7 +29,7 @@ item: [null]
 ability: [null]
 moves:
     - [Psychic]
-    - [Thunder]
+    - [Thunder, Cut]
     - [Fly]
     - [Transform]
 happiness: 255
@@ -39,7 +39,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 6, atk: 12, def: 3, spA: 14, spD: 14, spe: 1}
-evs: {hp: 98, atk: 87, def: 85, spA: 85, spD: 85, spe: 82}
+evs: {hp: 107, atk: 98, def: 95, spA: 95, spD: 95, spe: 92}
 ---
 species: Jynx
 ingamename: LOLA
@@ -61,7 +61,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 0, atk: 12, def: 0, spA: 12, spD: 12, spe: 0}
-evs: {hp: 92, atk: 102, def: 94, spA: 99, spD: 99, spe: 95}
+evs: {hp: 99, atk: 110, def: 102, spA: 106, spD: 106, spe: 102}
 ---
 species: Seaking
 ingamename: T IHG
@@ -83,7 +83,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 1, atk: 8, def: 10, spA: 7, spD: 7, spe: 10}
-evs: {hp: 89, atk: 111, def: 96, spA: 94, spD: 94, spe: 110}
+evs: {hp: 93, atk: 114, def: 100, spA: 97, spD: 97, spe: 113}
 ---
 species: Kangaskhan
 ingamename: ROO
@@ -105,7 +105,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 7, atk: 6, def: 11, spA: 1, spD: 1, spe: 9}
-evs: {hp: 116, atk: 122, def: 122, spA: 122, spD: 122, spe: 127}
+evs: {hp: 125, atk: 131, def: 134, spA: 132, spD: 132, spe: 137}
 ---
 species: Nidoking
 ingamename: MUTTB
@@ -115,7 +115,7 @@ tags: [runmon, in-game]
 item: [null]
 ability: [null]
 moves:
-    - [Earthquake]
+    - [Earthquake, Surf]
     - [Blizzard]
     - [Water Gun]
     - [Bide]
@@ -127,7 +127,29 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 6, atk: 6, def: 3, spA: 2, spD: 2, spe: 3}
-evs: {hp: 102, atk: 114, def: 112, spA: 108, spD: 108, spe: 113}
+evs: {hp: 110, atk: 123, def: 121, spA: 116, spD: 116, spe: 119}
+---
+species: Charizard
+ingamename: "W)))):;;;;"
+displayname: "W)))):;;;;"
+setname: TPP Charity Dual - Corvus Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fire Blast]
+    - [Seismic Toss]
+    - [Cut]
+    - [Fissure]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 13, def: 11, spA: 7, spD: 7, spe: 4}
+evs: {hp: 81, atk: 91, def: 87, spA: 89, spD: 89, spe: 96}
 ---
 species: Farfetch'd
 ingamename: DUX
@@ -149,7 +171,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 5, atk: 12, def: 13, spA: 1, spD: 1, spe: 6}
-evs: {hp: 122, atk: 123, def: 116, spA: 113, spD: 113, spe: 138}
+evs: {hp: 131, atk: 133, def: 125, spA: 122, spD: 122, spe: 145}
 ---
 species: Raichu
 ingamename: STTUy
@@ -171,7 +193,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 0, atk: 4, def: 8, spA: 12, spD: 12, spe: 12}
-evs: {hp: 134, atk: 133, def: 145, spA: 133, spD: 133, spe: 136}
+evs: {hp: 146, atk: 145, def: 156, spA: 162, spD: 162, spe: 147}
 ---
 species: Tangela
 ingamename: ")UMM SA"
@@ -193,7 +215,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 5, atk: 10, def: 13, spA: 15, spD: 15, spe: 0}
-evs: {hp: 103, atk: 102, def: 109, spA: 106, spD: 106, spe: 122}
+evs: {hp: 113, atk: 114, def: 125, spA: 117, spD: 117, spe: 132}
 ---
 species: Blastoise
 ingamename: "xMNMNMNMN"
@@ -215,7 +237,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 14, atk: 11, def: 3, spA: 8, spD: 8, spe: 11}
-evs: {hp: 103, atk: 115, def: 112, spA: 146, spD: 146, spe: 113}
+evs: {hp: 110, atk: 124, def: 121, spA: 159, spD: 159, spe: 141}
 ---
 species: Nidoking
 ingamename: MNOPQE;
@@ -237,7 +259,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 5, atk: 8, def: 1, spA: 7, spD: 7, spe: 4}
-evs: {hp: 106, atk: 118, def: 117, spA: 117, spD: 117, spe: 123}
+evs: {hp: 111, atk: 123, def: 122, spA: 124, spD: 124, spe: 129}
 ---
 species: Alakazam
 ingamename: LAB
@@ -259,4 +281,25 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 0, atk: 10, def: 10, spA: 14, spD: 14, spe: 0}
-evs: {hp: 110, atk: 120, def: 117, spA: 116, spD: 116, spe: 116}
+evs: {hp: 118, atk: 129, def: 126, spA: 126, spD: 126, spe: 126}
+---
+species: Porygon
+ingamename: BAAKA
+displayname: BAAKA
+setname: TPP Charity Dual - Greene Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Hyper Beam]
+    - [Blizzard]
+    - [Double Team]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 11, def: 7, spA: 2, spD: 2, spe: 12}
+evs: {hp: 40, atk: 43, def: 49, spA: 44, spD: 44, spe: 43}
