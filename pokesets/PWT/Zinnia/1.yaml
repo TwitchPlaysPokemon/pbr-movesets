@@ -1,0 +1,59 @@
+---
+species: Salamence
+setname: PWT-Zinnia
+tags: [in-game, PWT-Zinnia, trainer+zinnia]
+item: [Everstone]
+ability: [Intimidate]
+gender: [m]
+moves:
+- [Dragon Claw]
+- [Crunch]
+- [Fire Fang]
+- [Thunder Fang]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Zinnia
+tags: [in-game, PWT-Zinnia, trainer+zinnia]
+item: [null]
+ability: [Natural Cure]
+gender: [f]
+moves:
+- [Dragon Pulse]
+- [Mist Ball] #Moonblast
+- [Flamethrower]
+- [Hyper Voice]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Whismur
+displayname: Aster
+ingamename: Aster
+setname: PWT-Zinnia
+tags: [in-game, PWT-Zinnia, trainer+zinnia]
+item: [null]
+ability: [Soundproof]
+gender: [f]
+moves:
+- [Hyper Voice (=1)]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
