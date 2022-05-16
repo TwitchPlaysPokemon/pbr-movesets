@@ -1,0 +1,39 @@
+species: Pikachu
+setname: TPPMD Gates to Infinity
+tags: [runmon, in-game]
+item: [Green Scarf]
+ability: [Static]
+moves:
+    - [Quick Attack]
+    - [Thundershock]
+    - [Thunder Wave]
+    - [Energy Ball] #Electro Ball
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: 0
+---
+species: Dunsparce
+setname: TPPMD Gates to Infinity
+tags: [runmon, in-game]
+item: [Green Scarf]
+ability: [Serene Grace]
+moves:
+    - [Yawn]
+    - [Screech]
+    - [Rollout]
+    - [Ancient Power]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Lax
+ivs: 31
+evs: 0
