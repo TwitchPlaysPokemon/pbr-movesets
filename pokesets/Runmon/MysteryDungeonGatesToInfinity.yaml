@@ -47,7 +47,7 @@ moves:
     - [Quick Attack]
     - [Pursuit]
     - [Confuse Ray]
-    - [Faint Attack]
+    - [Feint Attack]
 gender: [f]
 happiness: 255
 biddable: True
