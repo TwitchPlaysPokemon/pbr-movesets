@@ -25,8 +25,8 @@ item: [Green Scarf]
 ability: [Synchronize]
 moves:
     - [Quick Attack]
-    - [Swift]
     - [Confusion]
+    - [Swift]
     - [Psybeam]
 gender: [f]
 happiness: 255
@@ -47,7 +47,7 @@ moves:
     - [Quick Attack]
     - [Pursuit]
     - [Confuse Ray]
-    - [Sand Attack]
+    - [Faint Attack]
 gender: [f]
 happiness: 255
 biddable: True
