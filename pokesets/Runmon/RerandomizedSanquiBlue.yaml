@@ -18,7 +18,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 13, atk: 15, def: 11, spA: 13, spD: 13, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 144, atk: 149, def: 143, spA: 152, spD: 152, spe: 137}
 ---
 species: Gardevoir
 ingamename: "BCELKKU)::"
@@ -40,7 +40,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 5, atk: 6, def: 13, spA: 3, spD: 3, spe: 10}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 94, atk: 95, def: 92, spA: 97, spD: 97, spe: 91}
 ---
 species: Entei
 ingamename: TriHard
@@ -61,7 +61,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 13, atk: 3, def: 11, spA: 5, spD: 5, spe: 6}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 104, atk: 92, def: 88, spA: 96, spD: 96, spe: 87}
 ---
 species: Staraptor
 ingamename: SCREEEE
@@ -83,7 +83,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 4, atk: 8, def: 5, spA: 12, spD: 12, spe: 14}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 80, atk: 92, def: 74, spA: 96, spD: 96, spe: 74}
 ---
 species: Heracross
 ingamename: ELV
@@ -193,4 +193,4 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 4, atk: 2, def: 15, spA: 6, spD: 6, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 71, atk: 72, def: 64, spA: 72, spD: 72, spe: 62}

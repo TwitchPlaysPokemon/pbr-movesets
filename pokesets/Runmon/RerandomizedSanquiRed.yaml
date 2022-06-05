@@ -17,7 +17,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 9, atk: 13, def: 8, spA: 7, spD: 7, spe: 4}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 78, atk: 77, def: 74, spA: 75, spD: 75, spe: 75}
 ---
 species: Mesprit
 ingamename: SPRITILIN
@@ -38,7 +38,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 4, atk: 2, def: 9, spA: 4, spD: 4, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 98, atk: 104, def: 100, spA: 99, spD: 99, spe: 97}
 ---
 species: Gengar
 ingamename: PINK
@@ -48,9 +48,9 @@ tags: [runmon, in-game]
 item: [null]
 ability: [null]
 moves:
-    - [Bite]
+    - [Flamethrower]
     - [Crabhammer]
-    - [Petal Dance]
+    - [Bite]
     - [Sing]
 happiness: 255
 gender: [m]
@@ -60,7 +60,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 15, atk: 15, def: 7, spA: 7, spD: 7, spe: 3}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 85, atk: 84, def: 82, spA: 81, spD: 81, spe: 75}
 ---
 species: Mewtwo
 ingamename: WEHTWO
@@ -70,10 +70,10 @@ tags: [runmon, in-game]
 item: [null]
 ability: [null]
 moves:
-    - [Fly]
-    - [Megahorn]
-    - [Dark Pulse]
     - [Psychic]
+    - [Ice Beam]
+    - [Dark Pulse]
+    - [Fly]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -81,7 +81,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 6, atk: 10, def: 9, spA: 10, spD: 10, spe: 5}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 97, atk: 101, def: 100, spA: 99, spD: 99, spe: 94}
 ---
 species: Mew
 ingamename: WEM
@@ -94,7 +94,7 @@ moves:
     - [Body Slam]
     - [Jump Kick]
     - [Cut]
-    - [Bullet Seed]
+    - [Recover]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -102,7 +102,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 15, atk: 7, def: 15, spA: 15, spD: 15, spe: 3}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 102, atk: 99, def: 95, spA: 98, spD: 98, spe: 95}
 ---
 species: Cresselia
 ingamename: CROISSANT
@@ -114,8 +114,8 @@ ability: [null]
 moves:
     - [Surf]
     - [Mist Ball] #Moonblast
+    - [Thunder Punch]
     - [Night Slash]
-    - [Low Kick]
 gender: [f]
 happiness: 255
 biddable: True
@@ -124,7 +124,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 2, atk: 2, def: 0, spA: 2, spD: 2, spe: 5}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 91, atk: 90, def: 86, spA: 89, spD: 89, spe: 85}
 ---
 species: Tentacool
 ingamename: POGCHAMP
