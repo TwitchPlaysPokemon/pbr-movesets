@@ -218,7 +218,7 @@ nature: Lax
 ivs: 31
 evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
 ---
-pecies: Suicune
+species: Suicune
 ingamename: Suikou
 displayname: Suikou
 setname: TPPMD Let's Go! Tempest Adventure Squad
