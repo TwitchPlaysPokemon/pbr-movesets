@@ -6,10 +6,10 @@ tags: [runmon, in-game]
 item: [Blue Scarf]
 ability: [Damp]
 moves:
-    - [Water Pulse]
     - [Brine]
+    - [Ice Beam]
     - [Psychic]
-    - [Fury Swipes]
+    - [Water Pulse]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -26,9 +26,9 @@ displayname: Manke
 setname: TPPMD Go For It! Radiant Adventure Squad
 tags: [runmon, in-game]
 item: [White Herb] #Twist Band
-ability: [Anger Point, Vital Spirit]
+ability: [Vital Spirit]
 moves:
-    - [Low Kick]
+    - [Rock Slide]
     - [Covet]
     - [Fury Swipes]
     - [Karate Chop]
@@ -48,7 +48,7 @@ displayname: PŸÿBi
 setname: TPPMD Go For It! Radiant Adventure Squad
 tags: [runmon, in-game]
 item: [Blue Scarf]
-ability: [Static, Lightning Rod]
+ability: [Static]
 moves:
     - [Thunder Shock]
     - [Thunder]
@@ -70,7 +70,7 @@ displayname: Shroomi
 setname: TPPMD Go For It! Radiant Adventure Squad
 tags: [runmon, in-game]
 item: [Blue Scarf]
-ability: [Poison Heal, Effect Spore, Quick Feet]
+ability: [Effect Spore]
 moves:
     - [Stun Spore]
     - [Absorb]
@@ -114,7 +114,7 @@ displayname: Budlight
 setname: TPPMD Go For It! Radiant Adventure Squad
 tags: [runmon, in-game]
 item: [Blue Scarf]
-ability: [Natural Cure, Poison Point, Leaf Guard]
+ability: [Poison Point]
 moves:
     - [Growth]
     - [Mega Drain]
@@ -137,14 +137,14 @@ displayname: Busweiser
 setname: TPPMD Go For It! Radiant Adventure Squad
 tags: [runmon, in-game]
 item: [Blue Scarf]
-ability: [Natural Cure, Poison Point, Technician]
+ability: [Technician]
 moves:
     - [Energy Ball]
     - [Sludge Bomb]
     - [Mega Drain]
-    - [Weather Ball]
+    - [Frustration]
 gender: [m, f]
-happiness: 0
+happiness: 105
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -162,10 +162,10 @@ tags: [runmon, in-game]
 item: [Blue Scarf]
 ability: [Pressure]
 moves:
+    - [Thunder]
     - [Bite]
     - [Thunder Shock]
     - [Quick Attack]
-    - [Spark]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -181,11 +181,11 @@ displayname: Snoozums
 setname: TPPMD Go For It! Radiant Adventure Squad
 tags: [runmon, in-game]
 item: [Sitrus Berry] #Had to use Recycle for something
-ability: [Insomnia, Forewarn, Inner Focus]
+ability: [Inner Focus]
 moves:
-    - [Hypnosis]
-    - [Pound]
     - [Confusion]
+    - [Headbutt]
+    - [Hidden Power]
     - [Recycle]
 gender: [m, f]
 happiness: 255
@@ -205,10 +205,10 @@ tags: [runmon, in-game]
 item: [Yellow Scarf]
 ability: [Pressure]
 moves:
-    - [Flamethrower]
     - [Fire Blast]
-    - [Bite]
+    - [Flamethrower]
     - [Stone Edge]
+    - [Bite]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -223,7 +223,7 @@ ingamename: Suikou
 displayname: Suikou
 setname: TPPMD Let's Go! Tempest Adventure Squad
 tags: [runmon, in-game]
-item: [Yellow Scarf]
+item: [Red Scarf]
 ability: [Pressure]
 moves:
     - [Brine]
