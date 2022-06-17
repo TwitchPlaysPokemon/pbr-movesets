@@ -9,9 +9,9 @@ moves:
     - [Thunderbolt]
     - [Discharge]
     - [Dragon Pulse]
-    - [Thunder Wave]
+    - [Protect]
 gender: [f]
-happiness: 253
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Great]
@@ -31,7 +31,7 @@ moves:
     - [Encore]
     - [Protect]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -49,11 +49,11 @@ item: [Charcoal]
 ability: [Flash Fire]
 moves:
     - [Eruption]
-    - [Earth Power]
     - [Flamethrower]
-    - [Sunny Day]
+    - [Earth Power]
+    - [Focus Blast]
 gender: [m]
-happiness: 251
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Great]
@@ -70,9 +70,9 @@ tags: [runmon, in-game]
 item: [Brightpowder]
 ability: [Synchronize]
 moves:
-    - [Silver Wind] #Dazzling Gleam
-    - [Aura Sphere]
     - [Psychic]
+    - [Shadow Ball]
+    - [Silver Wind] #Dazzling Gleam
     - [Morning Sun]
 gender: [f]
 happiness: 255
@@ -92,7 +92,7 @@ tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Synchronize]
 moves:
-    - [Toxic]
+    - [Helping Hand]
     - [Dark Pulse] #Snarl
     - [Crunch]
     - [Moonlight]
