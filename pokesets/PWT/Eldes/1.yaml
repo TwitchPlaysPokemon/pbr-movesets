@@ -1,118 +1,114 @@
 ---
-species: Latios
+species: Ninjask
 setname: PWT-Eldes
 tags: [in-game, PWT-Eldes, trainer+eldes]
-item: [Bright Powder]
-ability: [Levitate]
+item: [null]
+ability: [Speed Boost]
 moves:
-- [Thunderbolt]
-- [Ice Beam]
-- [Dragon Claw]
-- [Psychic]
-gender: [m]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Latias
-setname: PWT-Eldes
-tags: [in-game, PWT-Eldes, trainer+eldes]
-item: [Scope Lens]
-ability: [Levitate]
-moves:
-- [Thunderbolt]
-- [Waterfall]
-- [Dragon Claw]
-- [Psychic]
+- [Silver Wind]
+- [Aerial Ace]
+- [Dig]
+- [Protect]
 gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Gengar
+species: Manectric
 setname: PWT-Eldes
 tags: [in-game, PWT-Eldes, trainer+eldes]
-item: [Lax Incense]
-ability: [Levitate]
+item: [null]
+ability: [Static,Lightning Rod]
 moves:
-- [Thunderbolt]
-- [Psychic]
-- [Fire Punch]
-- [Ice Punch]
-gender: [m, f]
-happiness: 255
+- [Thunder] #Shadow End
+- [Refresh] #Shadow Mist
+- [Rain Dance] #Shadow Sky
+- [Bite]
+gender: [m,f]
+happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Snorlax
+species: Salamence
 setname: PWT-Eldes
 tags: [in-game, PWT-Eldes, trainer+eldes]
-item: [Leftovers]
-ability: [Thick Fat]
-moves:
-- [Body Slam]
-- [Earthquake]
-- [Shadow Ball]
-- [Protect]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Tauros
-setname: PWT-Eldes
-tags: [in-game, PWT-Eldes, trainer+eldes]
-item: [Choice Band]
+item: [null]
 ability: [Intimidate]
 moves:
-- [Return]
-- [Earthquake]
-- [Iron Tail]
+- [Dragon Claw] #Shadow Rush
+- [Refresh] #Shadow Hold
+- [Dragon Dance]
+- [Aerial Ace]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Flygon
+setname: PWT-Eldes
+tags: [in-game, PWT-Eldes, trainer+eldes]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Crunch]
+- [Dragon Breath]
+- [Flamethrower]
+- [Double-Edge]
 gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
 ---
-species: Metagross
+species: Marowak
 setname: PWT-Eldes
 tags: [in-game, PWT-Eldes, trainer+eldes]
-item: [Quick Claw]
-ability: [Clear Body]
+item: [Thick Club]
+ability: [Rock Head,Lightning Rod]
 moves:
-- [Shadow Ball]
-- [Meteor Mash]
-- [Earthquake]
-- [Protect]
-happiness: 255
+- [Earthquake] #Shadow End
+- [Sing] #Shadow Panic
+- [Swords Dance]
+- [Rock Slide]
+gender: [m,f]
+happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 level: 100
-rarity: 1.0
+---
+species: Lapras
+setname: PWT-Eldes
+tags: [in-game, PWT-Eldes, trainer+eldes]
+item: [null]
+ability: [Water Absorb,Shell Armor]
+moves:
+- [Hydro Pump] #Shadow Storm
+- [Heal Bell] #Shadow Shed
+- [Rain Dance] #Shadow Sky
+- [Blizzard]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

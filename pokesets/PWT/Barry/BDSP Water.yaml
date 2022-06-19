@@ -1,0 +1,120 @@
+---
+species: Rapidash
+setname: PWT-Barry BDSP Water
+tags: [in-game, PWT-Barry BDSP Water, trainer+barry]
+item: [Expert Belt]
+ability: [Flash Fire]
+moves:
+- [Iron Head] #Smart Strike
+- [Megahorn]
+- [Poison Jab]
+- [Flare Blitz]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 7
+evs: {hp: 60, atk: 132, def: 52, spA: 0, spD: 52, spe: 212}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Barry BDSP Water
+tags: [in-game, PWT-Barry BDSP Water, trainer+barry]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Covet]
+- [Yawn]
+- [Crunch]
+- [Earthquake] #High Horsepower
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 9
+evs: {hp: 100, atk: 156, def: 160, spA: 0, spD: 92, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Barry BDSP Water
+tags: [in-game, PWT-Barry BDSP Water, trainer+barry]
+item: [null]
+ability: [Swarm]
+moves:
+- [Megahorn]
+- [Swords Dance]
+- [Rock Slide]
+- [Close Combat]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 9
+evs: {hp: 44, atk: 124, def: 44, spA: 0, spD: 44, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Barry BDSP Water
+tags: [in-game, PWT-Barry BDSP Water, trainer+barry]
+item: [Quick Claw]
+ability: [Torrent]
+moves:
+- [Aqua Jet]
+- [Grass Knot]
+- [Surf]
+- [Flash Cannon]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 11
+evs: {hp: 52, atk: 0, def: 52, spA: 188, spD: 52, spe: 164}
+level: 100
+rarity: 1.0
+---
+species: Staraptor
+setname: PWT-Barry BDSP Water
+tags: [in-game, PWT-Barry BDSP Water, trainer+barry]
+item: [Focus Sash]
+ability: [Intimidate]
+moves:
+- [Close Combat]
+- [Pluck]
+- [Rain Dance]
+- [U-Turn]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 5
+evs: {hp: 60, atk: 132, def: 36, spA: 0, spD: 36, spe: 244}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Barry BDSP Water
+tags: [in-game, PWT-Barry BDSP Water, trainer+barry]
+item: [Black Sludge]
+ability: [Natural Cure]
+moves:
+- [Sludge Bomb]
+- [Giga Drain]
+- [Stun Spore]
+- [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 6
+evs: {hp: 40, atk: 0, def: 40, spA: 136, spD: 40, spe: 248}
+level: 100
+rarity: 1.0

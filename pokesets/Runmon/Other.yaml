@@ -42,3 +42,23 @@ hidden: false
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+---
+species: Pikachu
+setname: TPPok\xE9Park Wii
+tags: [runmon, in-game]
+item: [Null]
+ability: [Scrappy]
+moves:
+    - [Thunder Bolt]
+    - [Quick Attack]
+    - [Iron Tail]
+    - [Extreme Speed, Vine Whip, Aqua Jet, Rock Smash, Protect, Knock Off, Aerial Ace] #based off the minigames
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}

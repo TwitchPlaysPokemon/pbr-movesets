@@ -1,0 +1,136 @@
+---
+species: Lugia
+setname: PWT-Greevil
+tags: [in-game, PWT-Greevil, trainer+greevil]
+item: [null]
+ability: [Pressure]
+moves:
+- [Psycho Boost] #Shadow Blast
+- [Feather Dance] #Shadow Shed
+- [Earthquake] #Shadow Down
+- [Hydro Pump] #Shadow Storm
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Greevil
+tags: [in-game, PWT-Greevil, trainer+greevil]
+item: [null]
+ability: [Lightning Rod,Rock Head]
+moves:
+- [Megahorn] #Shadow End
+- [Helping Hand] #Shadow Down
+- [Scary Face] #Shadow Panic
+- [Earthquake] #Shadow Hold
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Moltres
+setname: PWT-Greevil
+tags: [in-game, PWT-Greevil, trainer+greevil]
+item: [null]
+ability: [Pressure]
+moves:
+- [Extrasensory] #Shadow Fire
+- [Morning Sun] #Shadow Shed
+- [Will-O-Wisp] #Shadow Hold
+- [Flamethrower] #Shadow Rush
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Greevil
+tags: [in-game, PWT-Greevil, trainer+greevil]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Psychic] #Shadow Storm
+- [Refresh] #Shadow Shed
+- [Hypnosis] #Shadow Hold
+- [Ancient Power] #Shadow End
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Greevil
+tags: [in-game, PWT-Greevil, trainer+greevil]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Earthquake] #Shadow Rush
+- [Refresh] #Shadow Hold
+- [Tail Whip] #Shadow Shed
+- [Body Slam] #Shadow Sky
+gender: [m]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Articuno
+setname: PWT-Greevil
+tags: [in-game, PWT-Greevil, trainer+greevil]
+item: [null]
+ability: [Pressure]
+moves:
+- [Extrasensory] #Shadow Chill
+- [Heal Bell] #Shadow Shed
+- [Haze] #Shadow Sky
+- [Ice Beam] #Shadow Rush
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Zapdos
+setname: PWT-Greevil
+tags: [in-game, PWT-Greevil, trainer+greevil]
+item: [null]
+ability: [Pressure]
+moves:
+- [Extrasensory] #Shadow Chill
+- [Baton Pass] #Shadow Shed
+- [Metal Sound] #Shadow Sky
+- [Thunderbolt] #Shadow Rush
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

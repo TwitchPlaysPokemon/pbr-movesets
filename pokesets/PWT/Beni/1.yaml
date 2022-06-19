@@ -1,0 +1,82 @@
+---
+species: Mismagius
+setname: PWT-Beni
+tags: [in-game, PWT-Beni, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Shadow Ball]
+- [Power Gem]
+- [Extrasensory]
+- [Hypnosis]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weavile
+displayname: Sneasler
+ingamename: Sneasler
+setname: PWT-Beni
+tags: [in-game, PWT-Beni, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Poison Jab] #Dire Claw
+- [Close Combat]
+- [Quick Attack]
+- [Shadow Claw]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Beni
+tags: [in-game, PWT-Beni, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Calm Mind]
+- [Hyper Voice] #Dazzling Gleam
+- [Psychic]
+- [Flamethrower] #Mystical Fire
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Beni
+tags: [in-game, PWT-Beni, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Swords Dance]
+- [Drain Punch]
+- [Psycho Cut]
+- [Thunder Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

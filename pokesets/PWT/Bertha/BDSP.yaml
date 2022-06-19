@@ -1,0 +1,100 @@
+---
+species: Quagsire
+setname: PWT-Bertha BDSP
+tags: [in-game, PWT-Bertha BDSP, trainer+bertha]
+item: [Leftovers]
+ability: [Lightningrod]
+moves:
+- [Recover]
+- [Toxic]
+- [Earthquake]
+- [Surf]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Impish
+ivs: {hp: 23, atk: 31, def: 31, spA: 0, spD: 13, spe: 31}
+evs: {hp: 12, atk: 0, def: 252, spA: 12, spD: 12, spe: 12}
+level: 100
+rarity: 1.0
+---
+species: Sudowoodo
+setname: PWT-Bertha BDSP
+tags: [in-game, PWT-Bertha BDSP, trainer+bertha]
+item: [Sitrus Berry]
+ability: [Rock Head]
+moves:
+- [Double Edge]
+- [Head Smash]
+- [Sucker Punch]
+- [Low Kick]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 21, atk: 31, def: 31, spA: 0, spD: 11, spe: 31}
+evs: {hp: 0, atk: 252, def: 12, spA: 0, spD: 12, spe: 12}
+level: 100
+rarity: 1.0
+---
+species: Golem
+setname: PWT-Bertha BDSP
+tags: [in-game, PWT-Bertha BDSP, trainer+bertha]
+item: [Soft Sand]
+ability: [Sturdy]
+moves:
+- [Rock Polish]
+- [Low Kick] #Heavy Slam
+- [Earthquake]
+- [Stone Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 31, def: 21, spA: 0, spD: 21, spe: 31}
+evs: {hp: 12, atk: 60, def: 12, spA: 0, spD: 12, spe: 204}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Bertha BDSP
+tags: [in-game, PWT-Bertha BDSP, trainer+bertha]
+item: [Rindo Berry]
+ability: [Hydration]
+moves:
+- [Magnitude] #Bulldoze
+- [Ice Beam]
+- [Sludge Bomb] #Belch
+- [Hydro Pump]
+happiness: 255
+gender: [f]
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 21, atk: 31, def: 21, spA: 31, spD: 21, spe: 0}
+evs: {hp: 12, atk: 12, def: 12, spA: 252, spD: 12, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hippowdon
+setname: PWT-Bertha BDSP
+tags: [in-game, PWT-Bertha BDSP, trainer+bertha]
+item: [Chesto Berry]
+ability: [Sand Stream]
+moves:
+- [Ice Fang]
+- [Earthquake]
+- [Crunch]
+- [Rest]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 12, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

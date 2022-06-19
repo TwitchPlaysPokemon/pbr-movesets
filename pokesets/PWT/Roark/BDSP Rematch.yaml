@@ -1,0 +1,117 @@
+---
+species: Aerodactyl
+setname: PWT-Roark BDSP Rematch
+tags: [in-game, PWT-Roark BDSP Rematch, trainer+roark]
+item: [Scope Lens]
+ability: [Pressure] #Unnerve
+moves:
+- [Stone Edge]
+- [Roar]
+- [Roost]
+- [Stealth Rock]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Roark BDSP Rematch
+tags: [in-game, PWT-Roark BDSP Rematch, trainer+roark]
+item: [Smooth Rock]
+ability: [Sand Stream]
+moves:
+- [Crunch]
+- [Stone Edge]
+- [Roar]
+- [Stealth Rock]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 8, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rampardos
+setname: PWT-Roark BDSP Rematch
+tags: [in-game, PWT-Roark BDSP Rematch, trainer+roark]
+item: [Life Orb]
+ability: [Reckless] #Sheer Force
+moves:
+- [Stone Edge]
+- [Iron Tail]
+- [Zen Headbutt]
+- [Head Smash]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 32, atk: 252, def: 216, spA: 0, spD: 8, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Probopass
+setname: PWT-Roark BDSP Rematch
+tags: [in-game, PWT-Roark BDSP Rematch, trainer+roark]
+item: [Focus Sash]
+ability: [Sand Veil] #Sand Force
+moves:
+- [Power Gem]
+- [Flash Cannon]
+- [Body Slam] #Body Press
+- [Discharge]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 0, spe: 4}
+level: 100
+rarity: 1.0
+gender: [m]
+---
+species: Armaldo
+setname: PWT-Roark BDSP Rematch
+tags: [in-game, PWT-Roark BDSP Rematch, trainer+roark]
+item: [Sitrus Berry]
+ability: [Swift Swim]
+moves:
+- [Stone Edge]
+- [X-Scissor]
+- [Brine]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 8, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+gender: [m]
+---
+species: Relicanth
+setname: PWT-Roark BDSP Rematch
+tags: [in-game, PWT-Roark BDSP Rematch, trainer+roark]
+item: [Choice Band]
+ability: [Rock Head]
+moves:
+- [Head Smash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 80, spA: 0, spD: 176, spe: 0}
+level: 100
+rarity: 1.0
+gender: [m]

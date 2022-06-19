@@ -1,0 +1,180 @@
+---
+species: Mothim
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [Focus Sash]
+ability: [Tinted Lens]
+moves:
+- [Bug Buzz]
+- [Air Slash]
+- [Energy Ball]
+- [Calm Mind] #Quiver Dance
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [Flame Orb]
+ability: [Marvel Scale]
+moves:
+- [Surf] #Scald
+- [Substitute]
+- [Calm Mind]
+- [Recover]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 2} #original datamined EVs were 252 HP, 128 Def & Sp. Def, 6 Spd. Fixed so it can run properly in PBR
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [Life Orb]
+ability: [Steadfast] #Justified
+moves:
+- [Psycho Cut]
+- [Close Combat]
+- [Stone Edge]
+- [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [Expert Belt]
+ability: [Vital Spirit]
+moves:
+- [Fire Blast]
+- [Thunderbolt]
+- [Focus Blast]
+- [Will-O-Wisp]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Clefable
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [Sitrus Berry]
+ability: [Unaware]
+moves:
+- [Mist Ball] #Moonblast
+- [Calm Mind]
+- [Moonlight]
+- [Minimize]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tangrowth
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [Lum Berry]
+ability: [Natural Cure] #Regenerator
+moves:
+- [Power Whip]
+- [Earthquake]
+- [Rock Slide]
+- [Brick Break]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Torterra
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [Leftovers]
+ability: [Overgrow]
+moves:
+- [Earthquake]
+- [Synthesis]
+- [Leech Seed]
+- [Curse]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [White Herb]
+ability: [Blaze]
+moves:
+- [Earthquake]
+- [Close Combat]
+- [Flare Blitz]
+- [Aerial Ace] #Acrobatics
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Lucas
+tags: [in-game, PWT-Lucas, trainer+lucas]
+item: [Choice Band]
+ability: [Torrent]
+moves:
+- [Aqua Jet]
+- [Waterfall]
+- [Steel Wing]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 6, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,120 @@
+---
+species: Honchkrow
+setname: PWT-Dawn Rematch-Fire
+tags: [in-game, PWT-Dawn Rematch-Fire, trainer+dawn]
+item: [Scope Lens]
+ability: [Super Luck]
+moves:
+- [Sucker Punch]
+- [Night Slash]
+- [Taunt]
+- [Roost]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Gorebyss
+setname: PWT-Dawn Rematch-Fire
+tags: [in-game, PWT-Dawn Rematch-Fire, trainer+dawn]
+item: [Wiki Berry]
+ability: [Swift Swim]
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Baton Pass]
+- [Calm Mind] #Shell Smash
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Dawn Rematch-Fire
+tags: [in-game, PWT-Dawn Rematch-Fire, trainer+dawn]
+item: [Focus Sash]
+ability: [Snow Cloak] #Cursed Body
+moves:
+- [Ominous Wind] #Hex
+- [Icy Wind] #Frost Breath
+- [Thunderbolt]
+- [Will-O-Wisp]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Sceptile
+setname: PWT-Dawn Rematch-Fire
+tags: [in-game, PWT-Dawn Rematch-Fire, trainer+dawn]
+item: [White Herb]
+ability: [Unburden]
+moves:
+- [Leaf Blade]
+- [Earthquake]
+- [Leaf Storm]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Ambipom
+setname: PWT-Dawn Rematch-Fire
+tags: [in-game, PWT-Dawn Rematch-Fire, trainer+dawn]
+item: [Life Orb]
+ability: [Technician]
+moves:
+- [Double Hit]
+- [Fake Out]
+- [Double Kick] #Dual Chop
+- [U-Turn]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Dawn Rematch-Fire
+tags: [in-game, PWT-Dawn Rematch-Fire, trainer+dawn]
+item: [Expert Belt]
+ability: [Blaze]
+moves:
+- [Flare Blitz]
+- [Close Combat]
+- [Earthquake]
+- [U-Turn]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -8,7 +8,7 @@ gender: [m, f]
 moves:
 - [Avalanche]
 - [Feint Attack]
-- [Ice Shard]
+- [Ice Shard, Ice Punch]
 - [Frustration]
 happiness: 0
 biddable: false
@@ -27,7 +27,7 @@ ability: [null]
 gender: [m, f]
 moves:
 - [Aurora Beam]
-- [Water Pulse]
+- [Water Pulse, Water Gun]
 - [Powder Snow]
 - [Body Slam]
 happiness: 255
@@ -103,7 +103,7 @@ item: [null]
 ability: [null]
 gender: [m, f]
 moves:
-- [Aqua Jet]
+- [Aqua Jet, Aqua Tail]
 - [Water Pulse]
 - [Bubble]
 - [Tackle]

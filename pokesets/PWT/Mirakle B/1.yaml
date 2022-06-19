@@ -1,0 +1,99 @@
+---
+species: Seaking
+setname: PWT-Mirakle B.
+tags: [in-game, PWT-Mirakle B., trainer+mirakleb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Waterfall]
+- [Horn Attack]
+- [Flail]
+- [Protect]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Linoone
+setname: PWT-Mirakle B
+tags: [in-game, PWT-Mirakle B., trainer+mirakleb]
+item: [null]
+ability: [Pickup]
+moves:
+- [Headbutt]
+- [Roar]
+- [Protect]
+- [Flail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electrode
+setname: PWT-Mirakle B
+tags: [in-game, PWT-Mirakle B., trainer+mirakleb]
+item: [null]
+ability: [Static]
+moves:
+- [Explosion]
+- [Spark]
+- [Light Screen]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sandslash
+setname: PWT-Mirakle B
+tags: [in-game, PWT-Mirakle B., trainer+mirakleb]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Protect]
+- [Flail]
+- [Slash]
+- [Aerial Ace]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sudowoodo
+setname: PWT-Mirakle B
+tags: [in-game, PWT-Mirakle B., trainer+mirakleb]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Flail]
+- [Mimic]
+- [Self-Destruct]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

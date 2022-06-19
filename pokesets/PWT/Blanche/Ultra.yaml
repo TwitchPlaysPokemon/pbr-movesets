@@ -7,8 +7,8 @@ ability: [null]
 gender: [m, f]
 moves:
 - [Avalanche]
-- [Icy Wind]
-- [Ice Beam]
+- [Icy Wind, Water Pulse]
+- [Ice Beam, Ice Shard]
 - [Last Resort]
 happiness: 255
 biddable: false
@@ -26,7 +26,7 @@ item: [null]
 ability: [null]
 gender: [m, f]
 moves:
-- [Hydro Pump, Hydro Cannon]
+- [Hydro Pump, Hydro Cannon, Waterfall]
 - [Blizzard, Flash Cannon]
 - [Drill Peck]
 - [Metal Claw]
@@ -48,7 +48,7 @@ gender: [m, f]
 moves:
 - [Avalanche]
 - [Stone Edge]
-- [Mud Slap]
+- [Mud Slap, Powder Snow]
 - [Ancient Power]
 happiness: 255
 biddable: false
@@ -59,7 +59,7 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Ninetales
+species: Ninetales #Alolan
 setname: PWT-Blanche Ultra
 tags: [in-game, PWT-Blanche Ultra, trainer+blanche]
 item: [null]
@@ -68,7 +68,7 @@ gender: [m, f]
 moves:
 - [Blizzard]
 - [Feint Attack]
-- [Ice Beam]
+- [Ice Beam, Powder Snow]
 - [Charm]
 happiness: 255
 biddable: false
@@ -106,8 +106,8 @@ item: [null]
 ability: [null]
 gender: [m, f]
 moves:
-- [Hydro Pump, Surf]
-- [Blizzard, Ice Beam]
+- [Hydro Pump, Surf, Water Gun]
+- [Blizzard, Ice Beam, Ice Shard]
 - [Dragon Pulse]
 - [Skull Bash]
 happiness: 255

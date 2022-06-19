@@ -1,0 +1,60 @@
+---
+species: Mawile
+setname: PWT-Bede
+tags: [in-game, PWT-Bede, trainer+bede]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Iron Head]
+- [Fake Tears]
+- [Crunch]
+- [Zen Headbutt] #Play Rough
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Bede
+tags: [in-game, PWT-Bede, trainer+bede]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Shadow Ball]
+- [Energy Ball]
+- [Psychic]
+- [Icy Wind] #Dazzling Gleam
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rapidash #Galarian
+setname: PWT-Bede
+tags: [in-game, PWT-Bede, trainer+bede]
+item: [null]
+ability: [Immunity] #Pastel Veil
+moves:
+- [Zen Headbutt]
+- [Iron Tail] #Smart Strike
+- [Heat Wave] #Dazzling Gleam
+- [Dig] #Drill Run
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

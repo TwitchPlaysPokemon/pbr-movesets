@@ -1,0 +1,114 @@
+---
+species: Slowking
+setname: PWT-Gorigan2
+tags: [in-game, PWT-Gorigan2, trainer+gorigan]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Water Pulse]
+- [Ice Beam]
+- [Earthquake]
+- [Psychic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Ursaring
+setname: PWT-Gorigan2
+tags: [in-game, PWT-Gorigan2, trainer+gorigan]
+item: [null]
+ability: [Guts]
+moves:
+- [Slash]
+- [Brick Break]
+- [Earthquake]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Aggron
+setname: PWT-Gorigan2
+tags: [in-game, PWT-Gorigan2, trainer+gorigan]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Iron Tail]
+- [Double-Edge]
+- [Earthquake]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Walrein
+setname: PWT-Gorigan2
+tags: [in-game, PWT-Gorigan2, trainer+gorigan]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Waterfall]
+- [Ice Beam]
+- [Earthquake]
+- [Double-Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Poliwrath
+setname: PWT-Gorigan2
+tags: [in-game, PWT-Gorigan2, trainer+gorigan]
+item: [null]
+ability: [Water Absorb,Damp]
+moves:
+- [Hydro Pump] #Shadow Storm
+- [Helping Hand] #Shadow Rush
+- [Rain Dance] #Shadow Sky
+- [Brick Break]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Mr. Mime
+setname: PWT-Gorigan2
+tags: [in-game, PWT-Gorigan2, trainer+gorigan]
+item: [null]
+ability: [Soundproof]
+moves:
+- [Psychic] #Shadow Storm
+- [Follow Me] #Shadow Shed
+- [Encore]
+- [Thunder Punch]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

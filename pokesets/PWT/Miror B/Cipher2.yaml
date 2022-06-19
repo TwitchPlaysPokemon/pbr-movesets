@@ -1,0 +1,100 @@
+---
+species: Ludicolo
+setname: PWT-Miror B. Cipher2
+tags: [in-game, PWT-Miror B. Cipher2, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Waterfall]
+- [Giga Drain]
+- [Ice Beam]
+- [Rain Dance]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Miror B. Cipher2-2
+tags: [in-game, PWT-Miror B. Cipher2, trainer+mirorb]
+item: [null]
+ability: [Rain Dish]
+moves:
+- [Dive]
+- [Leech Seed]
+- [Giga Drain]
+- [Rain Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Loudred
+setname: PWT-Miror B. Cipher2
+tags: [in-game, PWT-Miror B. Cipher2, trainer+mirorb]
+item: [null]
+ability: [Soundproof]
+moves:
+- [Take Down]
+- [Earthquake]
+- [Shadow Ball]
+- [Extrasensory]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Golduck
+setname: PWT-Miror B. Cipher2
+tags: [in-game, PWT-Miror B. Cipher2, trainer+mirorb]
+item: [null]
+ability: [Damp]
+moves:
+- [Surf]
+- [Psychic]
+- [Ice Beam]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Armaldo
+setname: PWT-Miror B. Cipher2
+tags: [in-game, PWT-Miror B. Cipher2, trainer+mirorb]
+item: [null]
+ability: [Battle Armor]
+moves:
+- [Aerial Ace]
+- [Rock Slide]
+- [Slash]
+- [Fury Cutter]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

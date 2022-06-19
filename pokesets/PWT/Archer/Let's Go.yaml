@@ -1,7 +1,7 @@
 ---
 species: Golbat
-setname: PWT-Archer Let's Go
-tags: [in-game, PWT-Archer Let's Go, trainer+archer]
+setname: PWT-Let's Go Archer
+tags: [in-game, PWT-Let's Go Archer, trainer+archer]
 item: [null]
 ability: [null]
 moves:
@@ -20,8 +20,8 @@ level: 100
 rarity: 1.0
 ---
 species: Weezing
-setname: PWT-Archer Let's Go
-tags: [in-game, PWT-Archer Let's Go, trainer+archer]
+setname: PWT-Let's Go Archer
+tags: [in-game, PWT-Let's Go Archer, trainer+archer]
 item: [null]
 ability: [null]
 moves:
@@ -40,8 +40,8 @@ level: 100
 rarity: 1.0
 ---
 species: Electrode
-setname: PWT-Archer Let's Go
-tags: [in-game, PWT-Archer Let's Go, trainer+archer]
+setname: PWT-Let's Go Archer
+tags: [in-game, PWT-Let's Go Archer, trainer+archer]
 item: [null]
 ability: [null]
 moves:
@@ -59,8 +59,8 @@ level: 100
 rarity: 1.0
 ---
 species: Magmar
-setname: PWT-Archer Let's Go
-tags: [in-game, PWT-Archer Let's Go, trainer+archer]
+setname: PWT-Let's Go Archer
+tags: [in-game, PWT-Let's Go Archer, trainer+archer]
 item: [null]
 ability: [null]
 moves:

@@ -1,0 +1,121 @@
+---
+species: Spiritomb
+setname: PWT-Cynthia BDSP
+tags: [in-game, PWT-Cynthia BDSP, trainer+cynthia]
+item: [Sitrus Berry]
+ability: [Pressure]
+moves:
+- [Shadow Ball]
+- [Dark Pulse]
+- [Psychic]
+- [Sucker Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: 6, def: 0, spA: 252, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Cynthia BDSP
+tags: [in-game, PWT-Cynthia BDSP, trainer+cynthia]
+item: [Expert Belt]
+ability: [Poison Point]
+moves:
+- [Psychic] #Dazzling Gleam
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Energy Ball]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 52, atk: 0, def: 0, spA: 252, spD: 0, spe: 204}
+level: 100
+rarity: 1.0
+---
+species: Gastrodon
+setname: PWT-Cynthia BDSP
+tags: [in-game, PWT-Cynthia BDSP, trainer+cynthia]
+item: [Leftovers]
+ability: [Storm Drain]
+moves:
+- [Surf] #Scald
+- [Earthquake]
+- [Sludge Bomb]
+- [Rock Tomb]
+gender: [f]
+form: West
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 6, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Cynthia BDSP
+tags: [in-game, PWT-Cynthia BDSP, trainer+cynthia]
+item: [Wise Glasses]
+ability: [Inner Focus]
+moves:
+- [Aura Sphere]
+- [Dragon Pulse]
+- [Flash Cannon]
+- [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 52, atk: 0, def: 0, spA: 252, spD: 0, spe: 204}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Cynthia BDSP
+tags: [in-game, PWT-Cynthia BDSP, trainer+cynthia]
+item: [Flame Orb]
+ability: [Marvel Scale]
+moves:
+- [Recover]
+- [Mirror Coat]
+- [Ice Beam]
+- [Surf] #Scald
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 6, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Cynthia BDSP
+tags: [in-game, PWT-Cynthia BDSP, trainer+cynthia]
+item: [Yache Berry]
+ability: [Rough Skin]
+moves:
+- [Dragon Claw]
+- [Earthquake]
+- [Swords Dance]
+- [Poison Jab]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 52, atk: 252, def: 0, spA: 0, spD: 0, spe: 204}
+level: 100
+rarity: 1.0

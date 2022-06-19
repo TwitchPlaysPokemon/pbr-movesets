@@ -1,0 +1,120 @@
+---
+species: Ninetales
+setname: PWT-Flint BDSP Rematch2
+tags: [in-game, PWT-Flint BDSP Rematch2, trainer+flint]
+item: [Heat Rock]
+ability: [Drought]
+moves:
+- [Flamethrower]
+- [Solar Beam]
+- [Hypnosis]
+- [Nasty Plot]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Flint BDSP Rematch2
+tags: [in-game, PWT-Flint BDSP Rematch2, trainer+flint]
+item: [Wise Glasses]
+ability: [Pressure] #Unnerve
+moves:
+- [Flamethrower]
+- [Dark Pulse]
+- [Destiny Bond]
+- [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Flint BDSP Rematch2
+tags: [in-game, PWT-Flint BDSP Rematch2, trainer+flint]
+item: [Wide Lens]
+ability: [Flame Body]
+moves:
+- [Flare Blitz]
+- [Iron Tail]
+- [Poison Jab]
+- [Hypnosis]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Flint BDSP Rematch2
+tags: [in-game, PWT-Flint BDSP Rematch2, trainer+flint]
+item: [Focus Sash]
+ability: [Iron Fist]
+moves:
+- [Fire Punch]
+- [Thunder Punch]
+- [Close Combat]
+- [Mach Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Flint BDSP Rematch2
+tags: [in-game, PWT-Flint BDSP Rematch2, trainer+flint]
+item: [Shuca Berry]
+ability: [Intimidate]
+moves:
+- [Flare Blitz]
+- [Zen Headbutt] #Play Rough
+- [Close COmbat]
+- [Extreme Speed]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Flint BDSP Rematch2
+tags: [in-game, PWT-Flint BDSP Rematch2, trainer+flint]
+item: [Sitrus Berry]
+ability: [Flame Body]
+moves:
+- [Fire Blast]
+- [Thunderbolt]
+- [Focus Blast]
+- [Psychic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

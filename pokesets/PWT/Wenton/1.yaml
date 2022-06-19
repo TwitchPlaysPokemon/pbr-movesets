@@ -1,0 +1,56 @@
+---
+species: Mothim
+setname: PWT-Wenton
+tags: [in-game, PWT-Wenton, trainer+wenton]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Air Slash]
+- [Bug Buzz]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Wenton
+tags: [in-game, PWT-Wenton, trainer+wenton]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Double-Edge]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gastrodon
+setname: PWT-Wenton
+tags: [in-game, PWT-Wenton, trainer+wenton]
+item: [null]
+ability: [null]
+gender: [m, f]
+form: East
+moves:
+- [Hydro Pump]
+- [Earth Power]
+- [Sludge Bomb]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

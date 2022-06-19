@@ -65,9 +65,9 @@ item: [null]
 ability: [null]
 moves:
 - [Thunderbolt, Discharge]
-- [Spark]
+- [Spark, Thunder Shock]
 - [Magnet Bomb]
-- [Return]
+- [Frustration]
 happiness: 0
 biddable: false
 ball: [Poke]
@@ -87,8 +87,8 @@ moves:
 - [Thunderbolt, Discharge]
 - [Thunder Shock]
 - [Body Slam]
-- [Return]
-happiness: 0
+- [Return, Tackle]
+happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
@@ -106,7 +106,7 @@ gender: [m]
 moves:
 - [Thunderbolt, Discharge]
 - [Surf, Thunder]
-- [Quick Attack]
+- [Quick Attack, Thunder Shock]
 - [Present]
 happiness: 0
 biddable: false

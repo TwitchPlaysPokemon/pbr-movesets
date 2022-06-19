@@ -1,0 +1,101 @@
+---
+species: Roserade
+setname: PWT-Beni Tenacity
+tags: [in-game, PWT-Beni Tenacity, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Sludge] #Venoshock
+- [Petal Dance]
+- [Extrasensory] #Dazzling Gleam
+- [Stun Spore]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Beni Tenacity
+tags: [in-game, PWT-Beni Tenacity, trainer+beni]
+item: [null]
+ability: [null]
+moves:
+- [Flash Cannon]
+- [Thunder]
+- [Thunder Wave]
+- [Hyper Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weavile
+displayname: Sneasler
+ingamename: Sneasler
+setname: PWT-Beni Tenacity
+tags: [in-game, PWT-Beni Tenacity, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Poison Jab] #Dire Claw
+- [Bulk Up]
+- [Shadow Claw]
+- [X-Scissor]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Beni Tenacity
+tags: [in-game, PWT-Beni Tenacity, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Calm Mind]
+- [Psychic]
+- [Mist Ball] #Moonblast
+- [Recover]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Beni Tenacity
+tags: [in-game, PWT-Beni Tenacity, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Bulk Up]
+- [Drain Punch]
+- [Psycho Cut]
+- [Leaf Blade]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,150 @@
+species: Chatot
+ingamename: "KENYA"
+displayname: "KENYA"
+setname: TPP Randomized Chatty Crystal
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Chatter, Nature Power, Metronome] #Closest to CC's Chatter
+    - [Fly]
+    - [Crunch]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 14, def: 14, spA: 14, spD: 14, spe: 9}
+evs: {hp: 169, atk: 181, def: 171, spA: 171, spD: 171, spe: 170}
+---
+species: Flygon
+ingamename: "Altbcuu"
+displayname: "Altbcuu"
+setname: TPP Randomized Chatty Crystal
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Dragon Dance]
+    - [Dragon Claw]
+    - [Thunderbolt]
+    - [High Jump Kick]
+gender: [m]
+happiness: 141
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 15, def: 3, spA: 12, spD: 12, spe: 6}
+evs: {hp: 56, atk: 58, def: 55, spA: 55, spD: 55, spe: 57}
+---
+species: Moltres
+ingamename: "QQQ II"
+displayname: "QQQ II"
+setname: TPP Randomized Chatty Crystal
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Heat Wave]
+    - [Calm Mind] #Quiver Dance
+    - [Synthesis]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 9, def: 7, spA: 4, spD: 4, spe: 11}
+evs: {hp: 208, atk: 214, def: 213, spA: 207, spD: 207, spe: 204}
+---
+species: Floatzel
+ingamename: "IIIHHH"
+displayname: "IIIHHH"
+setname: TPP Randomized Chatty Crystal
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [null]
+moves:
+    - [Surf, Flamethrower] #Scald
+    - [Strength]
+    - [Whirlpool]
+    - [Waterfall]
+gender: [m]
+happiness: 226
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 13, def: 1, spA: 9, spD: 9, spe: 10}
+evs: {hp: 92, atk: 97, def: 91, spA: 91, spD: 91, spe: 93}
+---
+species: Ditto
+ingamename: "iD"
+displayname: "iD"
+setname: TPP Randomized Chatty Crystal
+tags: [runmon, in-game]
+item: [Metal Powder]
+ability: [null]
+moves:
+    - [Transform]
+    - [Hidden Power]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Serious
+ivs: {hp: 8, atk: 15, def: 10, spA: 10, spD: 10, spe: 10}
+evs: {hp: 204, atk: 210, def: 213, spA: 211, spD: 211, spe: 207}
+---
+species: Salamence
+ingamename: "Z-SSq"
+displayname: "Z-SSq"
+setname: TPP Randomized Chatty Crystal
+tags: [runmon, in-game]
+item: [Scope Lens]
+ability: [null]
+moves:
+    - [Aeroblast]
+    - [Dig] #Drill Run
+    - [Flash Cannon]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 4, def: 9, spA: 8, spD: 8, spe: 8}
+evs: {hp: 215, atk: 216, def: 208, spA: 210, spD: 210, spe: 208}
+---
+species: Milotic
+ingamename: "JRQM"
+displayname: "JRQM"
+setname: TPP Randomized Chatty Crystal
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Surf]
+    - [Flamethrower]
+    - [Grass Knot]
+    - [Milk Drink]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 11, def: 1, spA: 9, spD: 9, spe: 4}
+evs: {hp: 187, atk: 179, def: 188, spA: 206, spD: 206, spe: 181}

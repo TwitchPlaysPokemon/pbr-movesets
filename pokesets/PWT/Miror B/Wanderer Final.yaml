@@ -1,0 +1,120 @@
+---
+species: Ludicolo
+setname: PWT-Miror B. Wanderer Final
+tags: [in-game, PWT-Miror B. Wanderer Final, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Hydro Pump]
+- [Giga Drain]
+- [Fake Out]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Miror B. Wanderer Final-2
+tags: [in-game, PWT-Miror B. Wanderer Final, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Hydro Pump]
+- [Giga Drain]
+- [Counter]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Miror B. Wanderer Final-3
+tags: [in-game, PWT-Miror B. Wanderer Final, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Waterfall]
+- [Giga Drain]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Miror B. Wanderer Final-4
+tags: [in-game, PWT-Miror B. Wanderer Final, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Thunder Punch]
+- [Ice Punch]
+- [Fire Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Miror B. Wanderer Final-5
+tags: [in-game, PWT-Miror B. Wanderer Final, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Hydro Pump]
+- [Giga Drain]
+- [Seismic Toss]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Miror B. Wanderer Final
+tags: [in-game, PWT-Miror B. Wanderer Final, trainer+mirorb]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Hyper Beam] #Shadow Down
+- [Heal Bell] #Shadow Rush
+- [Dragon Dance] #Shadow Shed
+- [Earthquake] #Shadow Storm
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

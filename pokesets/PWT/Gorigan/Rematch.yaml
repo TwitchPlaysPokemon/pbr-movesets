@@ -1,0 +1,120 @@
+---
+species: Salamence
+setname: PWT-Gorigan Rematch
+tags: [in-game, PWT-Gorigan Rematch, trainer+gorigan]
+item: [Bright Powder]
+ability: [Intimidate]
+moves:
+- [Hydro Pump]
+- [Flamethrower]
+- [Dragon Claw]
+- [Crunch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Granbull
+setname: PWT-Gorigan Rematch
+tags: [in-game, PWT-Gorigan Rematch, trainer+gorigan]
+item: [Quick Claw]
+ability: [Intimidate]
+moves:
+- [Return]
+- [Brick Break]
+- [Shadow Ball]
+- [Hyper Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 55, atk: 252, def: 100, spA: 0, spD: 100, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Gorigan Rematch
+tags: [in-game, PWT-Gorigan Rematch, trainer+gorigan]
+item: [White Herb]
+ability: [Intimidate]
+moves:
+- [Extreme Speed]
+- [Overheat]
+- [Crunch]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Gorigan Rematch
+tags: [in-game, PWT-Gorigan Rematch, trainer+gorigan]
+item: [Chesto Berry]
+ability: [Intimidate]
+moves:
+- [Return]
+- [Earthquake]
+- [Rest]
+- [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hitmontop
+setname: PWT-Gorigan Rematch
+tags: [in-game, PWT-Gorigan Rematch, trainer+gorigan]
+item: [Leftovers]
+ability: [Intimidate]
+moves:
+- [Body Slam]
+- [Brick Break]
+- [Earthquake]
+- [Detect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Sassy
+ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Gorigan Rematch
+tags: [in-game, PWT-Gorigan Rematch, trainer+gorigan]
+item: [Lum Berry]
+ability: [Intimidate]
+moves:
+- [Double Edge]
+- [Icy Wind]
+- [Earthquake]
+- [Thunder Wave]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 24, atk: 24, def: 24, spA: 24, spD: 24, spe: 24}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

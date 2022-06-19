@@ -1,0 +1,80 @@
+---
+species: Alakazam
+setname: PWT-Avery
+tags: [in-game, PWT-Avery, trainer+avery]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Tri Attack]
+- [Reflect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rapidash #Galarian Rapidash
+setname: PWT-Avery
+tags: [in-game, PWT-Avery, trainer+avery]
+item: [null]
+ability: [Run Away]
+moves:
+- [Psychic]
+- [Heat Wave] #Mystical Fire
+- [Quick Attack]
+- [Psybeam] #Dazzling Gleam
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slowbro #Galarian Slowbro
+setname: PWT-Avery
+tags: [in-game, PWT-Avery, trainer+avery]
+item: [Quick Claw]
+ability: [Own Tempo] #Quick Draw - emulated with item
+moves:
+- [Surf] #Scald
+- [Sludge Bomb] #Shell Side Arm
+- [Focus Blast]
+- [Psychic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slowking #Galarian Slowking
+setname: PWT-Avery
+tags: [in-game, PWT-Avery, trainer+avery]
+item: [null]
+ability: [Own Tempo] #Curious Medicine
+moves:
+- [Surf] #Scald
+- [Extrasensory] #Eerie Spell
+- [Power Gem]
+- [Blizzard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,111 @@
+---
+species: Metang
+setname: PWT-Snattle2
+tags: [in-game, PWT-Snattle2, trainer+snattle]
+item: [null]
+ability: [Clear Body]
+moves:
+- [Metal Claw]
+- [Psychic]
+- [Ice Punch]
+- [Thunder Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Quagsire
+setname: PWT-Snattle2
+tags: [in-game, PWT-Snattle2, trainer+snattle]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Waterfall]
+- [Mud Shot]
+- [Brick Break]
+- [Body Slam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Scizor
+setname: PWT-Snattle2
+tags: [in-game, PWT-Snattle2, trainer+snattle]
+item: [null]
+ability: [Swarm]
+moves:
+- [Silver Wind]
+- [Steel Wing]
+- [Aerial Ace]
+- [Slash]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Solrock
+setname: PWT-Snattle2
+tags: [in-game, PWT-Snattle2, trainer+snattle]
+item: [null]
+ability: [Levitate]
+moves:
+- [Psychic] #Shadow Rave
+- [Baton Pass] #Shadow Sky
+- [Sunny Day] #Shadow Panic
+- [Cosmic Power]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Castform
+setname: PWT-Snattle2
+tags: [in-game, PWT-Snattle2, trainer+snattle]
+item: [null]
+ability: [Forecast]
+moves:
+- [Thunderbolt]
+- [Water Pulse]
+- [Flamethrower]
+- [Weather Ball]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Starmie
+setname: PWT-Snattle2
+tags: [in-game, PWT-Snattle2, trainer+snattle]
+item: [null]
+ability: [Natural Cure,Illuminate]
+moves:
+- [Waterfall] #Shadow Storm
+- [Refresh] #Shadow Mist
+- [Ice Beam] #Shadow Break
+- [Recover]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

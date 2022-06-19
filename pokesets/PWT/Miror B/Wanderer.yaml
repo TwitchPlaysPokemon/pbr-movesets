@@ -1,15 +1,15 @@
 ---
-species: Ludicolo
-setname: PWT-Miror B Wanderer
-tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+species: Lombre
+setname: PWT-Miror B. Wanderer-1
+tags: [in-game, PWT-Miror B. Wanderer, trainer+mirorb]
 item: [null]
 ability: [Swift Swim]
 moves:
 - [Rain Dance]
-- [Hydro Pump]
-- [Giga Drain]
-- [Fake Out]
-gender: [m, f]
+- [Water Gun]
+- [Mega Drain]
+- [Astonish]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -19,17 +19,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Ludicolo
-setname: PWT-Miror B Wanderer-2
-tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+species: Lombre
+setname: PWT-Miror B. Wanderer-2
+tags: [in-game, PWT-Miror B. Wanderer, trainer+mirorb]
 item: [null]
 ability: [Swift Swim]
 moves:
-- [Rain Dance]
-- [Hydro Pump]
-- [Giga Drain]
-- [Counter]
-gender: [m, f]
+- [Growl]
+- [Water Gun]
+- [Mega Drain]
+- [Astonish]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -39,37 +39,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Ludicolo
-setname: PWT-Miror B Wanderer-3
-tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+species: Lombre
+setname: PWT-Miror B. Wanderer-3
+tags: [in-game, PWT-Miror B. Wanderer, trainer+mirorb]
 item: [null]
 ability: [Swift Swim]
 moves:
 - [Rain Dance]
-- [Waterfall]
-- [Giga Drain]
-- [Brick Break]
-gender: [m, f]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
----
-species: Ludicolo
-setname: PWT-Miror B Wanderer-4
-tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
-item: [null]
-ability: [Swift Swim]
-moves:
-- [Rain Dance]
-- [Thunder Punch]
-- [Ice Punch]
+- [Water Gun]
+- [Mega Drain]
 - [Fire Punch]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -79,17 +59,35 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
+species: Nosepass
+setname: PWT-Miror B. Wanderer
+tags: [in-game, PWT-Miror B. Wanderer, trainer+mirorb]
+item: [null]
+ability: [Sturdy,Magnet Pull]
+moves:
+- [Thunderbolt] #Shadow Mist
+- [Helping Hand] #Shadow Wave
+- [Thunder Wave]
+- [ROck Slide]
+gender: [m, f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
 species: Ludicolo
-setname: PWT-Miror B Wanderer-5
-tags: [in-game, PWT-Miror B Wanderer, trainer+mirorb]
+setname: PWT-Miror B. Wanderer
+tags: [in-game, PWT-Miror B. Wanderer, trainer+mirorb]
 item: [null]
 ability: [Swift Swim]
 moves:
 - [Rain Dance]
-- [Hydro Pump]
-- [Giga Drain]
-- [Seismic Toss]
-gender: [m, f]
+- [Water Gun]
+- [Mega Drain]
+- [Astonish]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]

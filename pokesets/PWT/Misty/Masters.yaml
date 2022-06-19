@@ -6,8 +6,8 @@ item: [null]
 ability: [Illuminate, Natural Cure]
 moves:
 - [Bubble Beam]
-- [Amnesia]
-- [Minimize]
+- [Amnesia] #X Sp. Def All
+- [Minimize] #Catch Us If You Can!
 - [Hydro Pump]
 gender: [null]
 happiness: 255
@@ -26,9 +26,9 @@ item: [null]
 ability: [Damp, Cloud Nine]
 moves:
 - [Water Gun]
-- [Recover]
-- [Refresh]
-- [Cosmic Power]
+- [Recover] #Potion
+- [Refresh] #Full Heal
+- [Cosmic Power] #Duck and Cover!
 gender: [m, f]
 happiness: 255
 biddable: false
@@ -48,7 +48,7 @@ moves:
 - [Water Gun]
 - [Mist]
 - [Haze]
-- [Iron Defense]
+- [Iron Defense] #Go with the Flow!
 gender: [m, f]
 happiness: 255
 biddable: false

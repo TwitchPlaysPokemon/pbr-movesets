@@ -1,0 +1,120 @@
+---
+species: Raichu
+setname: PWT-Volkner BDSP Rematch
+tags: [in-game, PWT-Volkner BDSP Rematch, trainer+volkner]
+item: [Choice Scarf]
+ability: [Lightning Rod]
+moves:
+- [Thunder]
+- [Surf]
+- [Focus Blast]
+- [U-Turn] #Volt Switch
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Volkner BDSP Rematch
+tags: [in-game, PWT-Volkner BDSP Rematch, trainer+volkner]
+item: [Toxic Orb]
+ability: [Quick Feet]
+moves:
+- [Thunder]
+- [Reflect]
+- [Shadow Ball]
+- [U-Turn] #Volt Switch
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lanturn
+setname: PWT-Volkner BDSP Rematch
+tags: [in-game, PWT-Volkner BDSP Rematch, trainer+volkner]
+item: [Expert Belt]
+ability: [Volt Absorb]
+moves:
+- [Thunder]
+- [Surf]
+- [Ice Beam]
+- [U-Turn] #Volt Switch
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Luxray
+setname: PWT-Volkner BDSP Rematch
+tags: [in-game, PWT-Volkner BDSP Rematch, trainer+volkner]
+item: [Focus Sash]
+ability: [Intimidate]
+moves:
+- [Ice Fang]
+- [Zen Headbutt] #Play Rough
+- [Thunder Fang] #Volt Switch
+- [Rain Dance] #Electric Terrain
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Volkner BDSP Rematch
+tags: [in-game, PWT-Volkner BDSP Rematch, trainer+volkner]
+item: [Life Orb]
+ability: [Motor Drive]
+moves:
+- [Thunder]
+- [Flamethrower]
+- [Cross Chop]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Mild
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pelipper
+setname: PWT-Volkner BDSP Rematch
+tags: [in-game, PWT-Volkner BDSP Rematch, trainer+volkner]
+item: [Damp Rock]
+ability: [Drizzle]
+moves:
+- [Hydro Pump]
+- [Aeroblast] #Hurricane
+- [Ice Beam]
+- [U-Turn] #Volt Switch
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 220, atk: 0, def: 0, spA: 252, spD: 36, spe: 0}
+level: 100
+rarity: 1.0

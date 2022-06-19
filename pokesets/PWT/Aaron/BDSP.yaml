@@ -1,0 +1,100 @@
+---
+species: Dustox
+setname: PWT-Aaron BDSP
+tags: [in-game, PWT-Aaron BDSP, trainer+aaron]
+item: [Black Sludge]
+ability: [Shield Dust]
+moves:
+- [Toxic]
+- [Bug Buzz]
+- [Moonlight]
+- [Light Screen]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 21, spA: 21, spD: 21, spe: 31}
+evs: {hp: 252, atk: 0, def: 12, spA: 12, spD: 12, spe: 12}
+level: 100
+rarity: 1.0
+---
+species: Beautifly
+setname: PWT-Aaron BDSP
+tags: [in-game, PWT-Aaron BDSP, trainer+aaron]
+item: [Wise Glasses]
+ability: [Swarm]
+moves:
+- [Bug Buzz]
+- [Shadow Ball]
+- [Psychic]
+- [Calm Mind] #Quiver Dance
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 21, atk: 0, def: 21, spA: 31, spD: 21, spe: 31}
+evs: {hp: 12, atk: 0, def: 12, spA: 60, spD: 12, spe: 204}
+level: 100
+rarity: 1.0
+---
+species: Vespiquen
+setname: PWT-Aaron BDSP
+tags: [in-game, PWT-Aaron BDSP, trainer+aaron]
+item: [Sitrus Berry]
+ability: [Pressure] #Unnerve
+moves:
+- [Wing Attack] #Acrobatics
+- [Attack Order]
+- [Aerial Ace]
+- [Defend Order]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Aaron BDSP
+tags: [in-game, PWT-Aaron BDSP, trainer+aaron]
+item: [Flame Orb]
+ability: [Guts]
+moves:
+- [Earthquake]
+- [Rock Slide]
+- [Facade]
+- [Brick Break]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 21, atk: 31, def: 21, spA: 0, spD: 21, spe: 31}
+evs: {hp: 12, atk: 60, def: 12, spA: 0, spD: 12, spe: 204}
+level: 100
+rarity: 1.0
+---
+species: Drapion
+setname: PWT-Aaron BDSP
+tags: [in-game, PWT-Aaron BDSP, trainer+aaron]
+item: [Scope Lens]
+ability: [Sniper]
+moves:
+- [Cross Poison]
+- [Night Slash]
+- [Earthquake]
+- [X-Scissor]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 10, atk: 60, def: 0, spA: 0, spD: 0, spe: 204}
+level: 100
+rarity: 1.0

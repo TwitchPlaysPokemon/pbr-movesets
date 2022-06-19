@@ -1,0 +1,37 @@
+---
+species: Glalie
+setname: PWT-Gaeric
+tags: [in-game, PWT-Gaeric, trainer+gaeric]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Ice Shard]
+- [Crunch]
+- [Icicle Spear] #Icicle Crash
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Gaeric
+tags: [in-game, PWT-Gaeric, trainer+gaeric]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Powder Snow]
+- [Ominous Wind] #Hex
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

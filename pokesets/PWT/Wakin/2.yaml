@@ -1,0 +1,95 @@
+---
+species: Gloom
+setname: PWT-Wakin2-1
+tags: [in-game, PWT-Wakin2, trainer+wakin]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Giga Drain]
+- [Acid]
+- [Sweet Scent]
+- [Cut]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Gloom
+setname: PWT-Wakin2-2
+tags: [in-game, PWT-Wakin2, trainer+wakin]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Acid]
+- [Sleep Powder]
+- [Cut]
+- [Razor Leaf]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Mantine
+setname: PWT-Wakin2
+tags: [in-game, PWT-Wakin2, trainer+wakin]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Aerial Ace]
+- [Bubble Beam]
+- [Supersonic]
+- [Take Down]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Forretress
+setname: PWT-Wakin2
+tags: [in-game, PWT-Wakin2, trainer+wakin]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Spikes]
+- [Body Slam]
+- [Pin Missile]
+- [Dig]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Grumpig
+setname: PWT-Wakin2
+tags: [in-game, PWT-Wakin2, trainer+wakin]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Taunt]
+- [Shock Wave]
+- [Light Screen]
+- [Psybeam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
