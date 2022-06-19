@@ -9,7 +9,7 @@ moves:
     - [Thunderbolt]
     - [Discharge]
     - [Dragon Pulse]
-    - [Protect]
+    - [Protect, Thunder Wave]
 gender: [f]
 happiness: 255
 biddable: True
@@ -23,13 +23,16 @@ evs: {hp: 67, atk: 125, def: 78, spA: 69, spD: 70, spe: 101}
 species: Plusle
 setname: TPP Grand Colosseum
 tags: [runmon, in-game]
-item: [Brightpowder]
+item: [Brightpowder, Focus Band]
 ability: [Plus]
 moves:
     - [Discharge]
     - [Mist Ball] #Moonblast
     - [Encore]
-    - [Protect]
+    - [Protect, Skill Swap]
+combinations:
+    - [Brightpowder, Protect]
+    - [Focus Band, Skill Swap]
 gender: [m]
 happiness: 255
 biddable: True
@@ -45,7 +48,7 @@ ingamename: W RR
 displayname: W RR
 setname: TPP Grand Colosseum
 tags: [runmon, in-game]
-item: [Charcoal]
+item: [Charcoal, Salac Berry]
 ability: [Flash Fire]
 moves:
     - [Eruption]
@@ -67,13 +70,16 @@ ingamename: XO
 displayname: XO
 setname: TPP Grand Colosseum
 tags: [runmon, in-game]
-item: [Brightpowder]
+item: [Brightpowder, Petaya Berry]
 ability: [Synchronize]
 moves:
     - [Psychic]
-    - [Shadow Ball]
+    - [Shadow Ball, Calm Mind]
     - [Silver Wind] #Dazzling Gleam
     - [Morning Sun]
+combinations:
+    - [Brightpowder, Shadow Ball]
+    - [Petaya Berry, Calm Mind]
 gender: [f]
 happiness: 255
 biddable: True
@@ -92,10 +98,13 @@ tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Synchronize]
 moves:
-    - [Helping Hand]
-    - [Dark Pulse] #Snarl
+    - [Helping Hand, Toxic]
+    - [Dark Pulse, Protect] #Snarl
     - [Crunch]
     - [Moonlight]
+combinations:
+    - [Helping Hand, Dark Pulse]
+    - [Toxic, Protect]
 gender: [m]
 happiness: 255
 biddable: True
@@ -111,7 +120,7 @@ ingamename: FF
 displayname: FF
 setname: TPP Grand Colosseum
 tags: [runmon, in-game]
-item: [Miracle Seed]
+item: [Miracle Seed, Brightpowder]
 ability: [Thick Fat]
 moves:
     - [Leaf Blade]
