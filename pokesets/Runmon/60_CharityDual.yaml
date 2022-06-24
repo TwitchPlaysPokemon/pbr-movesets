@@ -241,7 +241,7 @@ evs: {hp: 110, atk: 124, def: 121, spA: 159, spD: 159, spe: 141}
 ---
 species: Nidoking
 ingamename: MNOPQE;
-displayname: displayname
+displayname: MNOPQE;
 setname: TPP Charity Dual - Greene Red
 tags: [runmon, in-game]
 item: [null]

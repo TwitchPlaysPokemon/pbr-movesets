@@ -18,8 +18,8 @@ ivs: {hp: 11, atk: 7, def: 10, spA: 13, spD: 13, spe: 3}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Charizard
-ingamename: "_"
-displayname: "_"
+ingamename: " "
+displayname: " "
 setname: TPP Bootleg Green
 tags: [runmon, in-game]
 item: [Null]
