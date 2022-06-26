@@ -301,7 +301,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-ball: ["Pok\xE9"]
+ball: ["Poké"]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
@@ -442,7 +442,7 @@ moves:
 - [Withdraw]
 happiness: 255
 biddable: true
-ball: ["Pok\xE9"]
+ball: ["Poké"]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
@@ -538,7 +538,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: true
-ball: ["Pok\xE9"]
+ball: ["Poké"]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}
@@ -657,7 +657,7 @@ moves:
 - [Fly]
 happiness: 255
 biddable: true
-ball: ["Pok\xE9"]
+ball: ["Poké"]
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 85, spe: 85}

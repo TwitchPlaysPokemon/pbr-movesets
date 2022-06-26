@@ -1,7 +1,7 @@
 ---
 species: Mewtwo
-setname: "PWT-Pok\xE9topia Master2"
-tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master2"
+tags: [in-game, "PWT-Pokétopia Master2", trainer+poketopiamaster]
 item: [Bright Powder]
 ability: [Pressure]
 moves:
@@ -19,8 +19,8 @@ level: 100
 rarity: 1.0
 ---
 species: Lugia
-setname: "PWT-Pok\xE9topia Master2"
-tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master2"
+tags: [in-game, "PWT-Pokétopia Master2", trainer+poketopiamaster]
 item: [Leftovers]
 ability: [Pressure]
 moves:
@@ -38,8 +38,8 @@ level: 100
 rarity: 1.0
 ---
 species: Latios
-setname: "PWT-Pok\xE9topia Master2"
-tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master2"
+tags: [in-game, "PWT-Pokétopia Master2", trainer+poketopiamaster]
 item: [Soul Dew]
 ability: [Levitate]
 moves:
@@ -58,8 +58,8 @@ level: 100
 rarity: 1.0
 ---
 species: Kyogre
-setname: "PWT-Pok\xE9topia Master2"
-tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master2"
+tags: [in-game, "PWT-Pokétopia Master2", trainer+poketopiamaster]
 item: [Choice Scarf]
 ability: [Drizzle]
 moves:
@@ -77,8 +77,8 @@ level: 100
 rarity: 1.0
 ---
 species: Groudon
-setname: "PWT-Pok\xE9topia Master2"
-tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master2"
+tags: [in-game, "PWT-Pokétopia Master2", trainer+poketopiamaster]
 item: [Quick Claw]
 ability: [Drought]
 moves:
@@ -96,8 +96,8 @@ level: 100
 rarity: 1.0
 ---
 species: Cresselia
-setname: "PWT-Pok\xE9topia Master2"
-tags: [in-game, "PWT-Pok\xE9topia Master2", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master2"
+tags: [in-game, "PWT-Pokétopia Master2", trainer+poketopiamaster]
 item: [Chesto Berry]
 ability: [Levitate]
 moves:
