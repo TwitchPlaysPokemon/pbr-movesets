@@ -1,0 +1,152 @@
+species: Cradily
+ingamename: "CLAW"
+displayname: "CLAW"
+setname: TPP XG Remix
+tags: [runmon, in-game]
+item: [Life Orb] #Aura Filter
+ability: [Storm Drain]
+moves:
+    - [Giga Drain] #Energy Drain
+    - [Judgment] #Divine Judgment
+    - [Toxic]
+    - [Synthesis]
+gender: [m]
+happiness: 205
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Hardy
+ivs: {hp: 31, atk: 21, def: 24, spA: 21, spD: 22, spe: 13}
+evs: {hp: 37, atk: 51, def: 35, spA: 33, spD: 33, spe: 36}
+---
+species: Seviper
+ingamename: "mmmoooy z"
+displayname: "mmmoooy z"
+setname: TPP XG Remix
+tags: [runmon, in-game]
+item: [Life Orb] #Aura Filter
+ability: [Poison Point] #Poison Touch
+moves:
+    - [Earthquake]
+    - [Poison Jab] #Acid Jab
+    - [Body Slam] #X Rush
+    - [Acid Armor] #Solidify
+gender: [f]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Rash
+ivs: {hp: 30, atk: 7, def: 23, spA: 0, spD: 28, spe: 21}
+evs: {hp: 62, atk: 148, def: 57, spA: 105, spD: 62, spe: 76}
+---
+species: Porygon2
+ingamename: "AQ??HHHHGF"
+displayname: "AQ??HHHHGF"
+setname: TPP XG Remix
+tags: [runmon, in-game]
+item: [Starf Berry] #Eviolite
+ability: [Trace]
+moves:
+    - [Ice Beam] #Freeze Beam
+    - [Flamethrower]
+    - [Tri Attack] #Elemental Spell
+    - [Hyper Beam] #Laserbeam
+happiness: 241
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: {hp: 2, atk: 6, def: 5, spA: 8, spD: 31, spe: 29}
+evs: {hp: 71, atk: 133, def: 73, spA: 80, spD: 88, spe: 65}
+---
+species: Umbreon #Spectreon
+ingamename: "RC"
+displayname: "RC"
+setname: TPP XG Remix
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Serene Grace] #Pure Heart
+moves:
+    - [Solar Beam] #Ray of Light
+    - [Hyper Beam] #Laserbeam
+    - [Thunder Wave] #Static Wave
+    - [Recover] #White Magic
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Mild
+ivs: {hp: 15, atk: 16, def: 15, spA: 23, spD: 13, spe: 31}
+evs: {hp: 34, atk: 181, def: 43, spA: 84, spD: 77, spe: 91}
+---
+species: Salamence
+ingamename: "Olympace"
+displayname: "Olympace"
+setname: TPP XG Remix
+tags: [runmon, in-game]
+item: [Life Orb] #Aura Filter
+ability: [Rivalry] #Moxie
+moves:
+    - [Dragon Rush] #Dragon Smash
+    - [Sky Attack] #Sunlight Overdrive
+    - [Crunch] #Beast Fang
+    - [U-Turn] #Fight and Flight
+gender: [f]
+happiness: 253
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Rash
+ivs: {hp: 12, atk: 7, def: 25, spA: 7, spD: 28, spe: 20}
+evs: {hp: 58, atk: 134, def: 59, spA: 80, spD: 72, spe: 56}
+---
+species: Armaldo #Amberdillo
+ingamename: "root"
+displayname: "root"
+setname: TPP XG Remix
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Pure Power] #Tough Claws
+moves:
+    - [Fury Cutter] #Mantis Strike
+    - [Metal Claw] #Diamond Slash
+    - [Shadow Sneak] #Spectral Jaw
+    - [Night Slash] #Shadow Slash
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 12, atk: 21, def: 13, spA: 20, spD: 18, spe: 13}
+evs: {hp: 52, atk: 155, def: 57, spA: 82, spD: 74, spe: 90}
+---
+species: Kingler #Anchclaw
+ingamename: "UUZh"
+displayname: "UUZh"
+setname: TPP XG Remix
+tags: [runmon, in-game]
+item: [Focus Sash]
+ability: [Adaptability]
+moves:
+    - [Aqua Jet]
+    - [Bullet Punch]
+    - [Sucker Punch]
+    - [Psych Up]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quiet
+ivs: {hp: 23, atk: 29, def: 2, spA: 15, spD: 0, spe: 23}
+evs: {hp: 42, atk: 192, def: 54, spA: 92, spD: 79, spe: 51}
