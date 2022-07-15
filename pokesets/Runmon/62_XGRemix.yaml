@@ -68,7 +68,7 @@ ingamename: "RC"
 displayname: "RC"
 setname: TPP XG Remix
 tags: [runmon, in-game]
-item: [Jacoba Berry] #Rocky Helmet
+item: [Jaboca Berry] #Rocky Helmet
 ability: [Super Luck]
 moves:
     - [Hyper Beam] #Laserbeam
