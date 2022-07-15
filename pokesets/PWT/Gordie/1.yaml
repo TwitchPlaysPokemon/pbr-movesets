@@ -1,0 +1,40 @@
+---
+species: Shuckle
+setname: PWT-Gordie
+tags: [in-game, PWT-Gordie, trainer+gordie]
+item: [null]
+ability: [Sturdy, Gluttony] #Contrary
+moves:
+- [Spikes] #Sticky Web
+- [Stealth Rock]
+- [Gastro Acid]
+- [Rock Tomb]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Gordie
+tags: [in-game, PWT-Gordie, trainer+gordie]
+item: [null]
+ability: [Sand Stream]
+moves:
+- [Crunch]
+- [Stone Edge] 
+- [Low Kick] #Body Press
+- [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
