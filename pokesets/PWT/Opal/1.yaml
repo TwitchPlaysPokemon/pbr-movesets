@@ -1,0 +1,58 @@
+---
+species: Weezing #Galarian
+setname: PWT-Opal
+tags: [in-game, PWT-Opal, trainer+opal]
+item: [null]
+ability: [Levitate]
+moves:
+- [Sludge]
+- [Icy Wind] #Fairy Wind
+- [Tackle]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mawile
+setname: PWT-Opal
+tags: [in-game, PWT-Opal, trainer+opal]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Drain Punch] #Draining Kiss
+- [Crunch]
+- [Iron Defense]
+- [Astonish]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Togekiss
+setname: PWT-Opal
+tags: [in-game, PWT-Opal, trainer+opal]
+item: [null]
+ability: [Hustle]
+moves:
+- [Air Slash]
+- [Giga Drain] #Draining Kiss
+- [Ancient Power]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

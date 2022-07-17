@@ -1,7 +1,7 @@
 ---
 species: Golbat
-setname: "PWT-Pok\xE9topia Master"
-tags: [in-game, "PWT-Pok\xE9topia Master", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Focus Sash]
 ability: [Inner Focus]
 moves:
@@ -20,8 +20,8 @@ level: 100
 rarity: 1.0
 ---
 species: Haunter
-setname: "PWT-Pok\xE9topia Master"
-tags: [in-game, "PWT-Pok\xE9topia Master", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Wise Glasses]
 ability: [Levitate]
 moves:
@@ -40,8 +40,8 @@ level: 100
 rarity: 1.0
 ---
 species: Kingler
-setname: "PWT-Pok\xE9topia Master"
-tags: [in-game, "PWT-Pok\xE9topia Master", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Quick Claw]
 ability: [Hyper Cutter]
 moves:
@@ -60,8 +60,8 @@ level: 100
 rarity: 1.0
 ---
 species: Chansey
-setname: "PWT-Pok\xE9topia Master"
-tags: [in-game, "PWT-Pok\xE9topia Master", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Expert Belt]
 ability: [Serene Grace]
 moves:
@@ -80,8 +80,8 @@ level: 100
 rarity: 1.0
 ---
 species: Dragonair
-setname: "PWT-Pok\xE9topia Master"
-tags: [in-game, "PWT-Pok\xE9topia Master", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Lum Berry]
 ability: [Shed Skin]
 moves:
@@ -100,8 +100,8 @@ level: 100
 rarity: 1.0
 ---
 species: Whiscash
-setname: "PWT-Pok\xE9topia Master"
-tags: [in-game, "PWT-Pok\xE9topia Master", trainer+poketopiamaster]
+setname: "PWT-Pokétopia Master"
+tags: [in-game, "PWT-Pokétopia Master", trainer+poketopiamaster]
 item: [Rindo Berry]
 ability: [Oblivious]
 moves:

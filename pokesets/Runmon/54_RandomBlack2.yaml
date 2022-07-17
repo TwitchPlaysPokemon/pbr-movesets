@@ -197,7 +197,7 @@ ivs: {hp: 20, atk: 16, def: 30, spA: 30, spD: 13, spe: 6}
 evs: {hp: 19, atk: 24, def: 11, spA: 16, spD: 25, spe: 21}
 ---
 species: Lunatone
-ingamename: "Lun⑾"
+ingamename: "Lun(11)"
 displayname: "Lun⑾"
 setname: TPP Randomized Black 2
 tags: [runmon, in-game]
