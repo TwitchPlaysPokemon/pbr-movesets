@@ -68,7 +68,7 @@ ingamename: "IIIHHH"
 displayname: "IIIHHH"
 setname: TPP Randomized Chatty Crystal
 tags: [runmon, in-game]
-item: [Mystic Water]
+item: [null]
 ability: [null]
 moves:
     - [Surf, Flamethrower] #Scald
@@ -143,7 +143,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Ultra]
 shiny: False
 nature: Serious
 ivs: {hp: 13, atk: 11, def: 1, spA: 9, spD: 9, spe: 4}

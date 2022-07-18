@@ -1,0 +1,22 @@
+species: PKMNname
+ingamename: "ingamename"
+displayname: "Piiiv"
+setname: TPP Randomized TriHard Emerald
+tags: [runmon, in-game]
+item: [items]
+ability: [ability]
+moves:
+    - [move1]
+    - [move2]
+    - [move3]
+    - [move4]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [ball]
+shiny: False
+nature: nature
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---

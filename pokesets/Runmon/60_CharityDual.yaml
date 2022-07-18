@@ -35,7 +35,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Great]
 shiny: False
 nature: Serious
 ivs: {hp: 6, atk: 12, def: 3, spA: 14, spD: 14, spe: 1}
@@ -79,7 +79,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Great]
 shiny: False
 nature: Serious
 ivs: {hp: 1, atk: 8, def: 10, spA: 7, spD: 7, spe: 10}
@@ -101,7 +101,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Safari]
 shiny: False
 nature: Serious
 ivs: {hp: 7, atk: 6, def: 11, spA: 1, spD: 1, spe: 9}
@@ -211,7 +211,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Safari]
 shiny: False
 nature: Serious
 ivs: {hp: 5, atk: 10, def: 13, spA: 15, spD: 15, spe: 0}
@@ -241,7 +241,7 @@ evs: {hp: 110, atk: 124, def: 121, spA: 159, spD: 159, spe: 141}
 ---
 species: Nidoking
 ingamename: MNOPQE;
-displayname: displayname
+displayname: MNOPQE;
 setname: TPP Charity Dual - Greene Red
 tags: [runmon, in-game]
 item: [null]
@@ -277,7 +277,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Great]
 shiny: False
 nature: Serious
 ivs: {hp: 0, atk: 10, def: 10, spA: 14, spD: 14, spe: 0}

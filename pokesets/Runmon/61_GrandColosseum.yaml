@@ -27,7 +27,7 @@ item: [Brightpowder, Focus Band]
 ability: [Plus]
 moves:
     - [Discharge]
-    - [Mist Ball] #Moonblast
+    - [Dragon Pulse] #Moonblast
     - [Encore]
     - [Protect, Skill Swap]
 combinations:
@@ -74,8 +74,8 @@ item: [Brightpowder, Petaya Berry]
 ability: [Synchronize]
 moves:
     - [Psychic]
+    - [Signal Beam] #Dazzling Gleam
     - [Shadow Ball, Calm Mind]
-    - [Silver Wind] #Dazzling Gleam
     - [Morning Sun]
 combinations:
     - [Brightpowder, Shadow Ball]
@@ -98,12 +98,12 @@ tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Synchronize]
 moves:
-    - [Helping Hand, Toxic]
-    - [Dark Pulse, Protect] #Snarl
     - [Crunch]
+    - [Dark Pulse, Toxic] #Snarl
+    - [Helping Hand, Protect]
     - [Moonlight]
 combinations:
-    - [Helping Hand, Dark Pulse]
+    - [Dark Pulse, Helping Hand]
     - [Toxic, Protect]
 gender: [m]
 happiness: 255
@@ -128,7 +128,7 @@ moves:
     - [Dragon Dance]
     - [Roost]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Great]
