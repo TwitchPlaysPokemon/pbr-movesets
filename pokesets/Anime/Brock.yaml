@@ -36,23 +36,6 @@ evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 tags: [brock, anime]
 ---
-species: Chansey
-setname: Brock
-ability: [Serene Grace]
-item: [null]
-ball: [Poke]
-moves:
-- [Secret Power]
-- [Softboiled (=5)]
-gender: [f]
-happiness: 255
-biddable: true
-rarity: 1.0
-nature: Relaxed
-evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
-ivs: 31
-tags: [brock, anime]
----
 species: Crobat
 setname: Brock
 ability: [Inner Focus]
@@ -126,6 +109,24 @@ rarity: 1.0
 nature: Sassy
 evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+tags: [brock, anime]
+---
+species: Blissey
+setname: Brock
+ability: [Serene Grace]
+item: [null]
+ball: [Poke]
+moves:
+- [Secret Power]
+- [Mega Punch]
+- [Softboiled (=3)]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Relaxed
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+ivs: 31
 tags: [brock, anime]
 ---
 species: Marshtomp

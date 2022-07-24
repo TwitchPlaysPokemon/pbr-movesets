@@ -16,3 +16,22 @@ ball: [Master]
 nature: Quiet
 ivs: 0
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+---
+species: Moltres
+setname: Shiny-2
+tags: [advanced,standard]
+item: [Razor Claw]
+ability: [Anger Point]
+moves:
+    - [Sucker Punch]
+    - [Drill Peck]
+    - [Taunt]
+    - [Trick]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Master]
+nature: Timid
+ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}

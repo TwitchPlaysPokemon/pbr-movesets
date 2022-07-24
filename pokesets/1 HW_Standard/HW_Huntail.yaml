@@ -1,0 +1,22 @@
+species: Huntail
+ingamename: Ittanmomen
+displayname: Ittan-momen
+setname: Halloween
+ball: [Dusk]
+tags: [halloween]
+item: Reaper Cloth
+ability: Limber
+moves:
+    - [Fly]
+    - [Shadow Sneak]
+    - [Wring Out]
+    - [Cotton Spore]
+happiness: 255
+gender: [m, f]
+biddable: True
+rarity: 1.0
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 10, spA: 31, spD: 31, spe: 31}
+evs: {hp: 108, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: false

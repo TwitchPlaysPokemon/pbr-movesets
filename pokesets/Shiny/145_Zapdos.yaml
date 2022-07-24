@@ -1,0 +1,18 @@
+species: Zapdos
+setname: Shiny
+tags: [advanced,standard]
+item: [Black Belt]
+ability: [Technician]
+moves:
+    - [Triple Kick]
+    - [Aerial Ace]
+    - [Quick Attack]
+    - [Agility]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Master]
+nature: Hasty
+ivs: 0
+evs: 0

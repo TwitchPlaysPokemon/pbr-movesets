@@ -1,0 +1,21 @@
+species: Lunatone
+ingamename: Lunacy
+displayname: Lunacy
+setname: Pokelypse
+tags: [pokelypse]
+item: [Focus Sash]
+ability: Speed Boost
+moves:
+    - [Explosion]
+    - [Cosmic Power]
+    - [Acupressure]
+    - [Baton Pass]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: 252
+hidden: false

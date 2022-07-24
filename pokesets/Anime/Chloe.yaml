@@ -1,0 +1,17 @@
+species: Eevee
+setname: Chloe
+ability: [Adaptability]
+item: [null]
+moves:
+    - [Return]
+    - [Bubble Beam, Spark, Flame Wheel, Confusion, Dark Pulse, Razor Leaf, Ice Beam]
+    - [Assist]
+    - [Copycat]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+nature: Naive
+evs: {hp: 100, atk: 100, def: 108, spA: 0, spD: 100, spe: 100}
+ivs: 31
+tags: [chloe, anime]

@@ -1,0 +1,22 @@
+species: Meditite
+ingamename: KonakiJiji
+displayname: Konaki-jiji
+setname: Halloween
+tags: [halloween]
+item: Grip Claw
+ability: Rock Head
+moves:
+    - [Head Smash]
+    - [Fire Spin]
+    - [Fake Tears]
+    - [Gravity]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+hidden: false

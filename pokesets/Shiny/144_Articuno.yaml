@@ -1,0 +1,18 @@
+species: Articuno
+setname: Shiny
+tags: [advanced,standard]
+item: [Mind Plate]
+ability: [Bad Dreams]
+moves:
+    - [Dream Eater]
+    - [Air Slash]
+    - [Calm Mind]
+    - [Hypnosis]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Master]
+nature: Naughty
+ivs: 0
+evs: 0

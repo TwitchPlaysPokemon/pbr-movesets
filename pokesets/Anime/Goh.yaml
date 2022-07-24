@@ -1,0 +1,73 @@
+---
+species: Pinsir
+setname: Goh
+ability: [Swarm]
+item: [Destiny Knot]
+ball: [Poke]
+moves:
+- [X-Scissor]
+- [Rock Tomb]
+- [Vicegrip]
+- [Charm]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+ivs: 31
+evs: {hp: 56, atk: 252, def: 0, spA: 0, spD: 96, spe: 104}
+tags: [goh, anime]
+---
+species: Magikarp
+setname: Goh
+ability: [Huge Power]
+item: [Iron Ball]
+ball: [Poke]
+moves:
+- [Body Slam]
+- [Bounce]
+- [Splash]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+ivs: 31
+tags: [goh, anime]
+---
+species: Scizor
+setname: Goh
+ability: [Swarm]
+item: [Metal Coat]
+ball: [Poke]
+moves:
+- [Metal Claw]
+- [X-Scissor]
+- [Air Slash]
+- [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
+ivs: 31
+tags: [goh, anime]
+---
+species: Suicune
+setname: Goh
+ability: [Pressure]
+item: [Mystic Water]
+ball: [Poke]
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Rain Dance]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Gentle
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 252}
+ivs: 31
+tags: [goh, anime]
