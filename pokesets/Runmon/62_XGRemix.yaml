@@ -3,8 +3,8 @@ ingamename: "CLAW"
 displayname: "CLAW"
 setname: TPP XG Remix
 tags: [runmon, in-game]
-item: [Leftovers]
-ability: [Storm Drain]
+item: [Toxic Orb]
+ability: [Poison Heal]
 moves:
     - [Giga Drain] #Energy Drain
     - [Payback] #Foul Play
