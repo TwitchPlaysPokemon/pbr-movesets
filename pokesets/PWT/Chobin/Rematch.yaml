@@ -43,10 +43,10 @@ tags: [in-game, PWT-Chobin Rematch, trainer+chobin]
 item: [Scope Lens]
 ability: [Early Bird]
 moves:
-- [Aerial Ace]
 - [Return]
 - [Earthquake]
-- [Brick Break]
+- [Shadow Ball]
+- [Protect]
 gender: [f]
 happiness: 255
 biddable: false
@@ -62,10 +62,10 @@ tags: [in-game, PWT-Chobin Rematch, trainer+chobin]
 item: [Lum Berry]
 ability: [Soundproof]
 moves:
-- [Aerial Ace]
-- [Return]
-- [Earthquake]
-- [Brick Break]
+- [Fake Out]
+- [Psychic]
+- [Psych Up]
+- [Baton Pass]
 gender: [f]
 happiness: 255
 biddable: false
