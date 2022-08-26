@@ -9,7 +9,6 @@ moves:
 - [Psychic]
 - [Double Team] #Nowhere to Hide!
 - [Shadow Ball]
-gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
