@@ -177,7 +177,7 @@ ingamename: ♂♂♂♂♂♂♂♂♂♂
 displayname: ♂♂♂♂♂♂♂♂♂♂
 setname: TPP DBZ Team Training
 tags: [runmon, in-game]
-item: [Exp Share] #Turtle Suit
+item: [Exp. Share] #Turtle Suit
 ability: [Huge Power]
 moves:
     - [Mega Kick] #Dynamitekick
@@ -194,7 +194,7 @@ nature: Bashful
 ivs: {hp: 19, atk: 12, def: 18, spA: 19, spD: 8, spe: 19}
 evs: {hp: 20, atk: 42, def: 4, spA: 61, spD: 14, spe: 3}
 ---
-species: Mighteyana #Champa
+species: Mightyena #Champa
 ingamename: PogCCC
 displayname: PogCCC
 setname: TPP DBZ Team Training
