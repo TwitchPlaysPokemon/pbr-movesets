@@ -249,11 +249,11 @@ ability: [Inner Focus]
 item: [null]
 ball: [Poke]
 moves:
-- [Hyper Beam]
-- [Dragon Dance]
 - [Dragon Claw]
+- [Draco Meteor]
 - [Air Cutter] #Hurricane
-gender: [m]
+- [Dragon Dance]
+gender: [f]
 happiness: 255
 biddable: true
 rarity: 1.0
