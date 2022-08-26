@@ -80,7 +80,8 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
-shiny: False
+shiny: True
+hidden: False
 nature: Mild
 ivs: {hp: 15, atk: 16, def: 15, spA: 23, spD: 13, spe: 31}
 evs: {hp: 34, atk: 181, def: 43, spA: 84, spD: 77, spe: 91}

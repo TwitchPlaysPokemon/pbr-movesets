@@ -1,0 +1,81 @@
+---
+species: Garchomp
+setname: PWT-Cynthia Masters
+tags: [in-game, PWT-Cynthia Masters, trainer+cynthia]
+item: [Dusk Stone]
+ability: [Sand Veil, Rough Skin]
+moves:
+- [Thrash] #Stomping Tantrum
+- [Swords Dance] #X Attack
+- [Earthquake]
+- [Agility] #This Match is Too Fun!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gastrodon
+setname: PWT-Cynthia Masters
+tags: [in-game, PWT-Cynthia Masters, trainer+cynthia]
+item: [null]
+ability: [Sticky Hold, Storm Drain]
+moves:
+- [Earthquake]
+- [Meditate] #Dire Hit All+
+- [Rock Tomb]
+- [Amnesia] #Don't Worry!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Giratina
+setname: PWT-Cynthia Masters
+tags: [in-game, PWT-Cynthia Masters, trainer+cynthia]
+item: [null]
+ability: [Pressure]
+moves:
+- [Shadow Ball]
+- [Gravity] #Ghost Wish
+- [Shadow Force]
+- [Swords Dance, Nasty Plot] #Show Me Your Secrets!
+happiness: 255
+biddable: false
+shiny: False #True
+hidden: False
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Cynthia Masters
+tags: [in-game, PWT-Cynthia Masters, trainer+cynthia]
+item: [Everstone]
+ability: [Steadfast, Inner Focus]
+moves:
+- [Vacuum Wave]
+- [Milk Drink] #Potion
+- [Aura Sphere]
+- [Cosmic Power] #It Won't End Here
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

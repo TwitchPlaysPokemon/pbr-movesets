@@ -2,7 +2,7 @@
 species: Metagross
 setname: PWT-Steven Masters
 tags: [in-game, PWT-Steven Masters, trainer+steven]
-item: [null]
+item: [Hard Stone]
 ability: [Clear Body]
 moves:
 - [Meteor Mash, Bullet Punch]
@@ -52,6 +52,27 @@ happiness: 255
 biddable: false
 ball: [Poke]
 shiny: False #True
+hidden: False
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Deoxys
+setname: PWT-Steven Masters
+tags: [in-game, PWT-Steven Masters, trainer+steven]
+item: [null]
+ability: [Pressure] #okay so in Masters Deoxys can choose one form to start as and then its moveset changes as a result. Can't do that in PBR, so I just combined their movesets
+moves:
+- [Psycho Boost]
+- [Recover, Protect]
+- [Zen Headbutt]
+- [Cosmic Power, Iron Defense, Double Team]
+happiness: 255
+biddable: false
+ball: [Poke]
+shiny: False
 hidden: False
 nature: Serious
 ivs: 0

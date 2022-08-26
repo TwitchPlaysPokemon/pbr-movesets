@@ -1,0 +1,60 @@
+---
+species: Charizard
+setname: PWT-Red Masters
+tags: [in-game, PWT-Red Masters, trainer+red]
+item: [Fire Stone]
+ability: [Blaze, Solar Power]
+moves:
+- [Heat Wave]
+- [Focus Energy] #Dire Hit+
+- [Blast Burn]
+- [Nasty Plot] #My Destiny!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Red Masters
+tags: [in-game, PWT-Red Masters, trainer+red]
+item: [null]
+ability: [Immunity, Thick Fat, Gluttony]
+moves:
+- [Body Slam]
+- [Recover] #Mini Potion All
+- [Rock Smash]
+- [Helping Hand] #You And Me!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pikachu
+setname: PWT-Red Masters
+tags: [in-game, PWT-Red Masters, trainer+red]
+item: [null]
+ability: [Static, Lightning Rod]
+moves:
+- [Thunder Shock]
+- [Rain Dance] #Electric Terrain
+- [Volt Tackle]
+- [Swords Dance] #Spark of Victory!
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

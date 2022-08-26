@@ -2,7 +2,7 @@
 species: Pidgeot
 setname: PWT-Blue Masters
 tags: [in-game, PWT-Blue Masters, trainer+blue]
-item: [null]
+item: [Everstone]
 ability: [Keen Eye, Tangled Feet]
 moves:
 - [Air Slash]
@@ -22,7 +22,7 @@ rarity: 1.0
 species: Blastoise
 setname: PWT-Blue Masters
 tags: [in-game, PWT-Blue Masters, trainer+blue]
-item: [null]
+item: [Water Stone]
 ability: [Torrent, Rain Dish]
 moves:
 - [Water Pulse]
@@ -42,7 +42,7 @@ rarity: 1.0
 species: Aerodactyl
 setname: PWT-Blue Masters
 tags: [in-game, PWT-Blue Masters, trainer+blue]
-item: [null]
+item: [Old Amber] #they're all Mega Stones, I just wanted to be cute
 ability: [Rock Head, Pressure]
 moves:
 - [Hyper Beam]
@@ -69,6 +69,26 @@ moves:
 - [Nasty Plot] #X Sp. Atk
 - [Hyper Beam]
 - [Acupressure] #Can't Be Beat!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Blue Masters
+tags: [in-game, PWT-Blue Masters, trainer+blue]
+item: [null]
+ability: [Chlorophyll, Frisk]
+moves:
+- [Seed Bomb]
+- [Swords Dance] #X Attack All
+- [Stomp]
+- [Defense Curl] #Know What That Means!?
 gender: [m, f]
 happiness: 255
 biddable: false
