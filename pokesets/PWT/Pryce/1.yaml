@@ -42,7 +42,7 @@ rarity: 1.0
 species: Piloswine
 setname: PWT-Pryce
 tags: [in-game, PWT-Pryce, trainer+pryce]
-item: [null]
+item: [Sitrus Berry]
 ability: [Snow Cloak]
 moves:
 - [Blizzard]

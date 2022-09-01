@@ -22,7 +22,7 @@ rarity: 1.0
 species: Onix
 setname: PWT-Brock2 Rematch
 tags: [in-game, PWT-Brock2 Rematch, trainer+brock]
-item: [null]
+item: [Sitrus Berry]
 ability: [Sturdy]
 moves:
 - [Stealth Rock]
@@ -82,7 +82,7 @@ rarity: 1.0
 species: Relicanth
 setname: PWT-Brock2 Rematch
 tags: [in-game, PWT-Brock2 Rematch, trainer+brock]
-item: [null]
+item: [Lum Berry]
 ability: [Rock Head]
 moves:
 - [Head Smash]

@@ -2,7 +2,7 @@
 species: Venomoth
 setname: PWT-Janine
 tags: [in-game, PWT-Janine, trainer+janine]
-item: [null]
+item: [Sitrus Berry]
 ability: [Tinted Lens]
 moves:
 - [Double Team]

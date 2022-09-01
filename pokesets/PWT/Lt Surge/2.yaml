@@ -78,7 +78,7 @@ level: 100
 species: Electabuzz
 setname: PWT-Lt. Surge2
 tags: [in-game, PWT-Lt. Surge2, trainer+ltsurge]
-item: [null]
+item: [Sitrus Berry]
 ability: [Static]
 moves:
 - [Quick Attack]

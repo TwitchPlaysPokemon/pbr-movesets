@@ -40,7 +40,7 @@ rarity: 1.0
 species: Steelix
 setname: PWT-Jasmine
 tags: [in-game, PWT-Jasmine, trainer+jasmine]
-item: [null]
+item: [Sitrus Berry]
 ability: [Sturdy]
 moves:
 - [Iron Tail]

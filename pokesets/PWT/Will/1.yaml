@@ -82,12 +82,12 @@ rarity: 1.0
 species: Xatu
 setname: PWT-Will-2
 tags: [in-game, PWT-Will, trainer+will]
-item: [null]
+item: [Sitrus Berry]
 ability: [Early Bird]
 moves:
-- [Confuse Ray]
-- [Ominous Wind]
 - [Aerial Ace]
+- [Ominous Wind]
+- [Confuse Ray]
 - [Psychic]
 gender: [m, f]
 happiness: 255

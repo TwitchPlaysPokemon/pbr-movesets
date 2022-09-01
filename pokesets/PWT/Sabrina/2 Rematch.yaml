@@ -102,7 +102,7 @@ rarity: 1.0
 species: Gallade
 setname: PWT-Sabrina2 Rematch
 tags: [in-game, PWT-Sabrina2 Rematch, trainer+sabrina]
-item: [null]
+item: [Sitrus Berry]
 ability: [Steadfast]
 moves:
 - [Stone Edge]

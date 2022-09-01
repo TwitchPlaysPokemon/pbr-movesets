@@ -102,7 +102,7 @@ rarity: 1.0
 species: Dragonite
 setname: PWT-Lance Champion-3
 tags: [in-game, PWT-Lance Champion, trainer+lance]
-item: [null]
+item: [Sitrus Berry]
 ability: [Inner Focus]
 moves:
 - [Outrage]

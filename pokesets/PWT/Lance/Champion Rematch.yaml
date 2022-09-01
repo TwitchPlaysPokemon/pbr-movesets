@@ -42,7 +42,7 @@ rarity: 1.0
 species: Dragonite
 setname: PWT-Lance Champion Rematch
 tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
-item: [null]
+item: [Sitrus Berry]
 ability: [Inner Focus]
 moves:
 - [Draco Meteor]
@@ -82,7 +82,7 @@ rarity: 1.0
 species: Salamence
 setname: PWT-Lance Champion Rematch
 tags: [in-game, PWT-Lance Champion Rematch, trainer+lance]
-item: [null]
+item: [Lum Berry]
 ability: [Intimidate]
 moves:
 - [Dragon Claw]

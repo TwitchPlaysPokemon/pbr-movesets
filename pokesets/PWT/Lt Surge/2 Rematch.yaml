@@ -99,7 +99,7 @@ rarity: 1.0
 species: Electivire
 setname: PWT-Lt. Surge2 Rematch
 tags: [in-game, PWT-Lt. Surge2 Rematch, trainer+ltsurge]
-item: [null]
+item: [Sitrus Berry]
 ability: [Motor Drive]
 moves:
 - [Thunderbolt]

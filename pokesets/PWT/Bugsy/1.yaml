@@ -36,7 +36,7 @@ rarity: 1.0
 species: Scyther
 setname: PWT-Bugsy
 tags: [in-game, PWT-Bugsy, trainer+bugsy]
-item: [null]
+item: [Sitrus Berry]
 ability: [Technician]
 moves:
 - [U-Turn]

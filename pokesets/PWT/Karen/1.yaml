@@ -82,7 +82,7 @@ rarity: 1.0
 species: Houndoom
 setname: PWT-Karen
 tags: [in-game, PWT-Karen, trainer+karen]
-item: [null]
+item: [Sitrus Berry]
 ability: [Flash Fire]
 moves:
 - [Nasty Plot]

@@ -82,7 +82,7 @@ rarity: 1.0
 species: Dragonite
 setname: PWT-Clair Rematch
 tags: [in-game, PWT-Clair Rematch, trainer+clair]
-item: [null]
+item: [Sitrus Berry]
 ability: [Inner Focus]
 moves:
 - [Dragon Breath]

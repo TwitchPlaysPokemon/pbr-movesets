@@ -2,7 +2,7 @@
 species: Machamp
 setname: PWT-Bruno2
 tags: [in-game, PWT-Bruno2, trainer+bruno]
-item: [null]
+item: [Sitrus Berry]
 ability: [No Guard]
 moves:
 - [Revenge]

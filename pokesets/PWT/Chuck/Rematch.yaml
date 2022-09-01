@@ -22,7 +22,7 @@ rarity: 1.0
 species: Poliwrath
 setname: PWT-Chuck Rematch
 tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
-item: [null]
+item: [Sitrus Berry]
 ability: [Water Absorb]
 moves:
 - [Substitute]
@@ -102,7 +102,7 @@ rarity: 1.0
 species: Medicham
 setname: PWT-Chuck Rematch
 tags: [in-game, PWT-Chuck Rematch, trainer+chuck]
-item: [null]
+item: [Sitrus Berry]
 ability: [Pure Power]
 moves:
 - [Attract]

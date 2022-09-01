@@ -82,7 +82,7 @@ rarity: 1.0
 species: Lapras
 setname: PWT-Lorelei
 tags: [in-game, PWT-Lorelei, trainer+lorelei]
-item: [null]
+item: [Sitrus Berry]
 ability: [Water Absorb]
 moves:
 - [Body Slam]

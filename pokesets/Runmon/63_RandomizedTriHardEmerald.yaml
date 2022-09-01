@@ -13,7 +13,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Naughty
 ivs: {hp: 1, atk: 14, def: 29, spA: 26, spD: 19, spe: 6}
@@ -35,7 +35,7 @@ gender: [m]
 happiness: 254
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Adamant
 ivs: {hp: 30, atk: 6, def: 13, spA: 21, spD: 14, spe: 23}
@@ -57,7 +57,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Hardy
 ivs: {hp: 21, atk: 2, def: 1, spA: 31, spD: 28, spe: 4}
@@ -79,7 +79,7 @@ gender: [f]
 happiness: 254
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Timid
 ivs: {hp: 16, atk: 23, def: 19, spA: 26, spD: 23, spe: 0}
@@ -101,7 +101,7 @@ gender: [f]
 happiness: 254
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Quiet
 ivs: {hp: 24, atk: 12, def: 6, spA: 4, spD: 11, spe: 1}
@@ -123,7 +123,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Timid
 ivs: {hp: 27, atk: 5, def: 1, spA: 2, spD: 25, spe: 1}
@@ -145,7 +145,7 @@ gender: [f]
 happiness: 254
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Quirky
 ivs: {hp: 23, atk: 15, def: 5, spA: 13, spD: 30, spe: 15}
@@ -167,7 +167,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Modest
 ivs: {hp: 5, atk: 14, def: 17, spA: 3, spD: 20, spe: 31}
@@ -189,7 +189,7 @@ gender: [f]
 happiness: 203
 biddable: True
 rarity: 1.0
-ball: [Repeat]
+ball: [Poke]
 shiny: False
 nature: Hasty
 ivs: {hp: 4, atk: 4, def: 4, spA: 5, spD: 4, spe: 5}
@@ -210,7 +210,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Master]
+ball: [Ultra]
 shiny: False
 nature: Docile
 ivs: {hp: 21, atk: 1, def: 0, spA: 3, spD: 23, spe: 13}
@@ -232,7 +232,7 @@ gender: [f]
 happiness: 175
 biddable: True
 rarity: 1.0
-ball: [Safari]
+ball: [Master]
 shiny: False
 nature: Calm
 ivs: {hp: 25, atk: 12, def: 11, spA: 1, spD: 1, spe: 31}
