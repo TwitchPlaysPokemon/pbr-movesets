@@ -26,11 +26,11 @@ ability: [Sand Stream]
 moves:
     - [Earth Power]
     - [Spit Up]
-    - [Stockpile]
+    - [Stock Pile]
     - [Slack Off]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.4
 nature: Modest
 evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
@@ -49,7 +49,7 @@ moves:
     - [Slack Off]
 gender: [m, f]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.2
 nature: Serious
 evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 164, spe: 92}

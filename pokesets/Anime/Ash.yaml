@@ -151,13 +151,13 @@ tags: [ash, anime]
 ---
 species: Gengar
 setname: Ash
-ability: [Levitate]
+ability: [Levitate] #Cursed Body
 item: [null]
 ball: [Poke]
 moves:
-- [Night Shade]
-- [Psychic]
-- [Ice Punch]
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Psychic] #Dazzling Gleam
 - [Will-O-Wisp]
 gender: [m]
 happiness: 255
