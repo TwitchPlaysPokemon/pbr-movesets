@@ -1,0 +1,120 @@
+---
+species: Spiritomb
+setname: PWT-Morimoto Sinnoh
+tags: [in-game, PWT-Morimoto Sinnoh, trainer+morimoto]
+item: [Sitrus Berry]
+ability: [Pressure] #Infiltrator
+gender: [m]
+moves:
+- [Shadow Ball]
+- [Dark Pulse]
+- [Will-O-Wisp]
+- [Destiny Bond]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Quiet
+ivs: 30
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Morimoto Sinnoh
+tags: [in-game, PWT-Morimoto Sinnoh, trainer+morimoto]
+item: [Iapapa Berry]
+ability: [Flash Fire]
+gender: [m]
+moves:
+- [Flare Blitz]
+- [Superpower]
+- [Quick Attack]
+- [Will-O-Wisp]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 30
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Morimoto Sinnoh
+tags: [in-game, PWT-Morimoto Sinnoh, trainer+morimoto]
+item: [Wiki Berry]
+ability: [Water Absorb]
+gender: [m]
+moves:
+- [Hydro Pump]
+- [Acid Armor]
+- [Ice Beam]
+- [Quick Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Calm
+ivs: 30
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 252, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Morimoto Sinnoh
+tags: [in-game, PWT-Morimoto Sinnoh, trainer+morimoto]
+item: [Lum Berry]
+ability: [Volt Absorb]
+gender: [m]
+moves:
+- [Thunderbolt]
+- [Shadow Ball]
+- [Thunder Wave]
+- [U-Turn] #Volt Switch
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 30
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Ambipom
+setname: PWT-Morimoto Sinnoh
+tags: [in-game, PWT-Morimoto Sinnoh, trainer+morimoto]
+item: [King's Rock]
+ability: [Technician]
+gender: [m]
+moves:
+- [Fake Out]
+- [Fling]
+- [Double Hit]
+- [Ice Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 30
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Hippowdon
+setname: PWT-Morimoto Sinnoh
+tags: [in-game, PWT-Morimoto Sinnoh, trainer+morimoto]
+item: [Leftovers]
+ability: [Sand Stream]
+gender: [m]
+moves:
+- [Earthquake]
+- [Stealth Rock]
+- [Yawn]
+- [Rock Tomb]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Impish
+ivs: 30
+evs: {hp: 252, atk: 6, def: 252, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

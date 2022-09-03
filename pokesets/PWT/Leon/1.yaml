@@ -1,0 +1,40 @@
+---
+species: Charizard
+setname: PWT-Leon
+tags: [in-game, PWT-Leon, trainer+leon]
+item: [null]
+ability: [Blaze]
+moves:
+- [Fire Blast]
+- [Air Slash]
+- [Solar Beam]
+- [Ancient Power]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Leon
+tags: [in-game, PWT-Leon, trainer+leon]
+item: [null]
+ability: [Solid Rock]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Megahorn]
+- [Flare Blitz] #Heat Crash
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

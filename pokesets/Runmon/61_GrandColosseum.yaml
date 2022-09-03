@@ -1,0 +1,138 @@
+species: Ampharos
+ingamename: "4 X‥PP"
+displayname: "4 X‥PP"
+setname: TPP Grand Colosseum
+tags: [runmon, in-game]
+item: [Magnet]
+ability: [Minus]
+moves:
+    - [Thunderbolt]
+    - [Discharge]
+    - [Dragon Pulse]
+    - [Protect, Thunder Wave]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Mild
+ivs: 31
+evs: {hp: 67, atk: 125, def: 78, spA: 69, spD: 70, spe: 101}
+---
+species: Plusle
+setname: TPP Grand Colosseum
+tags: [runmon, in-game]
+item: [Brightpowder, Focus Band]
+ability: [Plus]
+moves:
+    - [Discharge]
+    - [Mist Ball] #Moonblast
+    - [Encore]
+    - [Protect, Skill Swap]
+combinations:
+    - [Brightpowder, Protect]
+    - [Focus Band, Skill Swap]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: {hp: 0, atk: 17, def: 11, spA: 20, spD: 28, spe: 15}
+evs: {hp: 58, atk: 126, def: 78, spA: 87, spD: 82, spe: 79}
+---
+species: Typhlosion
+ingamename: W RR
+displayname: W RR
+setname: TPP Grand Colosseum
+tags: [runmon, in-game]
+item: [Charcoal, Salac Berry]
+ability: [Flash Fire]
+moves:
+    - [Eruption]
+    - [Flamethrower]
+    - [Earth Power]
+    - [Focus Blast]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Lax
+ivs: 31
+evs: {hp: 66, atk: 120, def: 88, spA: 91, spD: 53, spe: 92}
+---
+species: Espeon
+ingamename: XO
+displayname: XO
+setname: TPP Grand Colosseum
+tags: [runmon, in-game]
+item: [Brightpowder, Petaya Berry]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Shadow Ball, Calm Mind]
+    - [Silver Wind] #Dazzling Gleam
+    - [Morning Sun]
+combinations:
+    - [Brightpowder, Shadow Ball]
+    - [Petaya Berry, Calm Mind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Docile
+ivs: {hp: 8, atk: 16, def: 1, spA: 28, spD: 17, spe: 20}
+evs: {hp: 66, atk: 99, def: 80, spA: 77, spD: 85, spe: 103}
+---
+species: Umbreon
+ingamename: WOOMY
+displayname: WOOMY
+setname: TPP Grand Colosseum
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Synchronize]
+moves:
+    - [Helping Hand, Toxic]
+    - [Dark Pulse, Protect] #Snarl
+    - [Crunch]
+    - [Moonlight]
+combinations:
+    - [Helping Hand, Dark Pulse]
+    - [Toxic, Protect]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: {hp: 9, atk: 9, def: 27, spA: 10, spD: 8, spe: 25}
+evs: {hp: 74, atk: 88, def: 73, spA: 89, spD: 102, spe: 84}
+---
+species: Tropius
+ingamename: FF
+displayname: FF
+setname: TPP Grand Colosseum
+tags: [runmon, in-game]
+item: [Miracle Seed, Brightpowder]
+ability: [Thick Fat]
+moves:
+    - [Leaf Blade]
+    - [Wing Attack] #Dual Wingbeat
+    - [Dragon Dance]
+    - [Roost]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 32, atk: 72, def: 136, spA: 71, spD: 120, spe: 79}

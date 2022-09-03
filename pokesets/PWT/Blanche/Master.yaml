@@ -6,8 +6,8 @@ item: [null]
 ability: [null]
 gender: [m, f]
 moves:
-- [Hydro Pump, Surf]
-- [Blizzard, Ice Beam]
+- [Hydro Pump, Surf, Water Gun]
+- [Blizzard, Ice Beam, Ice Shard]
 - [Dragon Pulse]
 - [Skull Bash]
 happiness: 255
@@ -26,10 +26,10 @@ item: [null]
 ability: [null]
 gender: [m, f]
 moves:
-- [Earthquake]
+- [Earthquake, Sand Tomb]
 - [Aerial Ace, Wing Attack]
 - [Night Slash]
-- [Fury Cutter]
+- [Fury Cutter, Return]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -45,10 +45,10 @@ tags: [in-game, PWT-Blanche Master, trainer+blanche]
 item: [null]
 ability: [null]
 moves:
-- [Hydro Pump, Water Pulse]
+- [Hydro Pump, Water Pulse, Bubble Beam]
 - [Ice Beam, Ice Fang]
 - [Extrasensory]
-- [Hidden Power]
+- [Hidden Power, Return]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -67,7 +67,7 @@ moves:
 - [Meteor Mash, Flash Cannon]
 - [Zen Headbutt, Psychic]
 - [Earthquake]
-- [Bullet Punch]
+- [Bullet Punch, Return]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -83,8 +83,8 @@ tags: [in-game, PWT-Blanche Master, trainer+blanche]
 item: [null]
 ability: [null]
 moves:
-- [Blizzard]
-- [Ice Beam]
+- [Blizzard, Ice Shard]
+- [Ice Beam, Icy Wind]
 - [Ancient Power]
 - [Return]
 happiness: 255

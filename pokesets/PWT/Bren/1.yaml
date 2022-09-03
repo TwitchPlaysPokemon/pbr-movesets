@@ -1,0 +1,39 @@
+---
+species: Wormadam
+setname: PWT-Bren
+tags: [in-game, PWT-Bren, trainer+bren]
+item: [null]
+ability: [null]
+gender: [f]
+form: Plant
+moves:
+- [Energy Ball]
+- [Bug Buzz]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gastrodon
+setname: PWT-Bren
+tags: [in-game, PWT-Bren, trainer+bren]
+item: [null]
+ability: [null]
+gender: [m, f]
+form: West
+moves:
+- [Hydro Pump]
+- [Earth Power]
+- [Ice Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,59 @@
+---
+species: Machoke
+setname: PWT-Warden Ingo
+tags: [in-game, PWT-Warden Ingo, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Bullet Punch]
+- [Bulk Up]
+- [Double Edge]
+- [Rock Smash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tangela
+setname: PWT-Warden Ingo
+tags: [in-game, PWT-Warden Ingo, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Stun Spore]
+- [Energy Ball]
+- [Ancient Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Warden Ingo
+tags: [in-game, PWT-Warden Ingo, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Aerial Ace]
+- [Mud Bomb]
+- [Poison Jab]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

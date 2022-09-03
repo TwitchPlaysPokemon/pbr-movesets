@@ -1,0 +1,56 @@
+---
+species: Munchlax
+setname: PWT-Mai
+tags: [in-game, PWT-Mai, trainer+mai]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Giga Impact]
+- [Zen Headbutt]
+- [Earthquake] #High Horsepower
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Mai
+tags: [in-game, PWT-Mai, trainer+mai]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Poison Jab]
+- [Ice Shard]
+- [Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Mai
+tags: [in-game, PWT-Mai, trainer+mai]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Air Slash]
+- [Cross Poison]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

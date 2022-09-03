@@ -1,0 +1,95 @@
+---
+species: Gardevoir
+setname: PWT-Lovrina2
+tags: [in-game, PWT-Lovrina2, trainer+lovrina]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Thunder Punch]
+- [Psychic]
+- [Ice Punch]
+- [Attract]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Gorebyss
+setname: PWT-Lovrina2
+tags: [in-game, PWT-Lovrina2, trainer+lovrina]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Water Pulse]
+- [Ice Beam]
+- [Attract]
+- [Confusion]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Roselia
+setname: PWT-Lovrina2
+tags: [in-game, PWT-Lovrina2, trainer+lovrina]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Leech Seed]
+- [Magical Leaf]
+- [Attract]
+- [Pin Missile]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Farfetch'd
+setname: PWT-Lovrina2
+tags: [in-game, PWT-Lovrina2, trainer+lovrina]
+item: [Stick]
+ability: [Keen Eye,Inner Focus]
+moves:
+- [Slash] #Shadow Break
+- [Baton Pass] #Shadow Panic
+- [Swords Dance] #Shadow Sky
+- [Aerial Ace]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Altaria
+setname: PWT-Lovrina2
+tags: [in-game, PWT-Lovrina2, trainer+lovrina]
+item: [Dragon Fang]
+ability: [Natural Cure]
+moves:
+- [Dragon Breath] #Shadow Break
+- [Heal Bell] #Shadow Mist
+- [Solar Beam] #Shadow Rave
+- [Aerial Ace]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

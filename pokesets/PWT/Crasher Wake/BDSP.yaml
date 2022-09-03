@@ -1,0 +1,60 @@
+---
+species: Gyarados
+setname: PWT-Crasher Wake BDSP
+tags: [in-game, PWT-Crasher Wake BDSP, trainer+crasherwake]
+item: [Wide Lens]
+ability: [Intimidate]
+moves:
+- [Brine]
+- [Ice Fang]
+- [Crunch]
+- [Flail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 16, atk: 16, def: 0, spA: 0, spD: 0, spe: 16}
+evs: {hp: 40, atk: 56, def: 0, spA: 0, spD: 0, spe: 40}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Crasher Wake BDSP
+tags: [in-game, PWT-Crasher Wake BDSP, trainer+crasherwake]
+item: [Damp Rock]
+ability: [Damp]
+moves:
+- [Rain Dance]
+- [Haze]
+- [Mud Shot]
+- [Surf] #Scald
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 16, atk: 16, def: 5, spA: 16, spD: 5, spe: 0}
+evs: {hp: 40, atk: 40, def: 4, spA: 56, spD: 4, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Floatzel
+setname: PWT-Crasher Wake BDSP
+tags: [in-game, PWT-Crasher Wake BDSP, trainer+crasherwake]
+item: [Sitrus Berry]
+ability: [Swift Swim]
+moves:
+- [Brine]
+- [Ice Fang]
+- [Bite]
+- [Aqua Jet]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 0, atk: 17, def: 0, spA: 17, spD: 0, spe: 17}
+evs: {hp: 0, atk: 84, def: 0, spA: 20, spD: 0, spe: 84}
+level: 100
+rarity: 1.0

@@ -1,14 +1,14 @@
 ---
-species: Claydol
+species: Metang
 setname: PWT-Dakim
 tags: [in-game, PWT-Dakim, trainer+dakim]
 item: [null]
-ability: [Levitate]
+ability: [Clear Body]
 moves:
+- [Metal Claw]
 - [Psychic]
 - [Earthquake]
-- [Sunny Day]
-- [Solar Beam]
+- [Protect]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -18,17 +18,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Flygon
+species: Golem
 setname: PWT-Dakim
 tags: [in-game, PWT-Dakim, trainer+dakim]
 item: [null]
-ability: [Levitate]
+ability: [Rock Head]
 moves:
-- [Fire Blast]
+- [Rock Throw]
 - [Earthquake]
-- [Sunny Day]
-- [Solar Beam]
-gender: [m, f]
+- [Double-Edge]
+- [Protect]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -38,17 +38,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Swampert
+species: Marshtomp
 setname: PWT-Dakim
 tags: [in-game, PWT-Dakim, trainer+dakim]
 item: [null]
 ability: [Torrent]
 moves:
 - [Muddy Water]
-- [Earthquake]
-- [Ice Beam]
-- [Protect]
-gender: [m, f]
+- [Mud Shot]
+- [Stomp]
+- [Mud Slap]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -58,16 +58,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Solrock
+species: Camerupt
 setname: PWT-Dakim
 tags: [in-game, PWT-Dakim, trainer+dakim]
 item: [null]
-ability: [Levitate]
+ability: [Magma Armor]
 moves:
-- [Rock Slide]
+- [Flamethrower]
 - [Earthquake]
-- [Sunny Day]
-- [Explosion]
+- [Take Down]
+- [Protect]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -77,18 +78,17 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Houndoom
+species: Entei
 setname: PWT-Dakim
 tags: [in-game, PWT-Dakim, trainer+dakim]
 item: [null]
-ability: [Early Bird]
+ability: [Pressure]
 moves:
-- [Protect]
+- [Sunny Day] #Shadow Rush
+- [Leer]
+- [Bite]
 - [Fire Blast]
-- [Sunny Day]
-- [Solar Beam]
-gender: [m, f]
-happiness: 255
+happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious

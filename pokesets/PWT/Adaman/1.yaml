@@ -1,0 +1,57 @@
+---
+species: Leafeon
+setname: PWT-Adaman
+tags: [in-game, PWT-Adaman, trainer+adaman]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Tickle] #Baby-Doll Eyes
+- [Leaf Blade]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Umbreon
+setname: PWT-Adaman
+tags: [in-game, PWT-Adaman, trainer+adaman]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Tickle] #Baby-Doll Eyes
+- [Dark Pulse]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Adaman
+tags: [in-game, PWT-Adaman, trainer+adaman]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Tickle] #Baby-Doll Eyes
+- [Aqua Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

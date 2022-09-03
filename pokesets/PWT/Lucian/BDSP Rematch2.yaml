@@ -1,0 +1,118 @@
+species: Mr. Mime
+setname: PWT-Lucian BDSP Rematch2
+tags: [in-game, PWT-Lucian BDSP Rematch2, trainer+lucian]
+item: [Light Clay]
+ability: [Filter]
+moves:
+- [Light Screen]
+- [Reflect]
+- [Psychic]
+- [Icy Wind] #Dazzling Gleam
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Lucian BDSP Rematch2
+tags: [in-game, PWT-Lucian BDSP Rematch2, trainer+lucian]
+item: [Mental Herb]
+ability: [Synchronize] #Magic Bounce
+moves:
+- [Psychic]
+- [Hyper Voice] #Dazzling Gleam
+- [Shadow Ball]
+- [Light Screen]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Lucian BDSP Rematch2
+tags: [in-game, PWT-Lucian BDSP Rematch2, trainer+lucian]
+item: [Muscle Band]
+ability: [Levitate]
+moves:
+- [Gyro Ball]
+- [Earthquake]
+- [Payback]
+- [Rock Slide]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Lucian BDSP Rematch2
+tags: [in-game, PWT-Lucian BDSP Rematch2, trainer+lucian]
+item: [Life Orb]
+ability: [Magic Guard]
+moves:
+- [Nasty Plot]
+- [Psychic]
+- [Heat Wave] #Dazzling Gleam
+- [Shock Wave]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Lucian BDSP Rematch2
+tags: [in-game, PWT-Lucian BDSP Rematch2, trainer+lucian]
+item: [Leftovers]
+ability: [Natural Cure] #Regenrator
+moves:
+- [Surf] #Scald
+- [Psychic]
+- [Flamethrower]
+- [Slack Off]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 252, spA: 6, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Lucian BDSP Rematch2
+tags: [in-game, PWT-Lucian BDSP Rematch2, trainer+lucian]
+item: [Sitrus Berry]
+ability: [Steadfast] #Justified
+moves:
+- [Close Combat]
+- [Psycho Cut]
+- [Poison Jab]
+- [Shadow Sneak]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,98 @@
+species: Mr. Mime
+setname: PWT-Lucian BDSP
+tags: [in-game, PWT-Lucian BDSP, trainer+lucian]
+item: [Light Clay]
+ability: [Filter]
+moves:
+- [Light Screen]
+- [Reflect]
+- [Psychic]
+- [Icy Wind] #Dazzling Gleam
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 12, spA: 12, spD: 12, spe: 12}
+level: 100
+rarity: 1.0
+---
+species: Girafarig
+setname: PWT-Lucian BDSP
+tags: [in-game, PWT-Lucian BDSP, trainer+lucian]
+item: [Mental Herb]
+ability: [Water Absorb] #Sap Sipper
+moves:
+- [Light Screen]
+- [Psychic]
+- [Thunderbolt]
+- [Trick Room]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 0, def: 12, spA: 12, spD: 12, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Lucian BDSP
+tags: [in-game, PWT-Lucian BDSP, trainer+lucian]
+item: [Muscle Band]
+ability: [Pure Power]
+moves:
+- [Zen Headbutt]
+- [High Jump Kick]
+- [Thunder Punch]
+- [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Lucian BDSP
+tags: [in-game, PWT-Lucian BDSP, trainer+lucian]
+item: [Life Orb]
+ability: [Magic Guard]
+moves:
+- [Nasty Plot]
+- [Psychic]
+- [Future Sight]
+- [Shock Wave]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Lucian BDSP
+tags: [in-game, PWT-Lucian BDSP, trainer+lucian]
+item: [Sitrus Berry]
+ability: [Levitate]
+moves:
+- [Gyro Ball]
+- [Earthquake]
+- [Payback]
+- [Trick Room]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 12, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,15 +1,15 @@
 ---
 species: Ludicolo
-setname: PWT-Miror B Cipher
-tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+setname: PWT-Miror B. Cipher
+tags: [in-game, PWT-Miror B. Cipher, trainer+mirorb]
 item: [null]
 ability: [Swift Swim]
 moves:
-- [Hydro Pump]
-- [Giga Drain]
+- [Razor Leaf]
 - [Ice Beam]
+- [Astonish]
 - [Rain Dance]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -20,16 +20,16 @@ level: 100
 rarity: 1.0
 ---
 species: Ludicolo
-setname: PWT-Miror B Cipher-2
-tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+setname: PWT-Miror B. Cipher-2
+tags: [in-game, PWT-Miror B. Cipher, trainer+mirorb]
 item: [null]
 ability: [Swift Swim]
 moves:
+- [Absorb]
+- [Water Gun]
+- [Astonish]
 - [Rain Dance]
-- [Giga Drain]
-- [Hydro Pump]
-- [Nature Power]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -40,16 +40,16 @@ level: 100
 rarity: 1.0
 ---
 species: Ludicolo
-setname: PWT-Miror B Cipher-3
-tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+setname: PWT-Miror B. Cipher-3
+tags: [in-game, PWT-Miror B. Cipher, trainer+mirorb]
 item: [null]
-ability: [Swift Swim]
+ability: [Rain Dish]
 moves:
-- [Rain Dance]
-- [Giga Drain]
-- [Dive]
+- [Mega Drain]
 - [Leech Seed]
-gender: [m, f]
+- [Rain Dance]
+- [Dive]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -59,38 +59,36 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Exploud
-setname: PWT-Miror B Cipher
-tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
+species: Ludicolo
+setname: PWT-Miror B. Cipher-4
+tags: [in-game, PWT-Miror B. Cipher, trainer+mirorb]
 item: [null]
-ability: [Soundproof]
+ability: [Rain Dish]
 moves:
-- [Shadow Ball]
-- [Extrasensory]
-- [Take Down]
-- [Earthquake]
-gender: [m, f]
+- [Mega Drain]
+- [Water Gun]
+- [Fury Swipes]
+- [Rain Dance]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
 ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-level: 100
-rarity: 1.0
 ---
-species: Armaldo
-setname: PWT-Miror B Cipher
-tags: [in-game, PWT-Miror B Cipher, trainer+mirorb]
-item: [null]
-ability: [Battle Armor]
+species: Sudowoodo
+setname: PWT-Miror B. Cipher
+tags: [in-game, PWT-Miror B. Cipher, trainer+mirorb]
+item: [Hard Stone]
+ability: [Sturdy, Rock Head]
 moves:
-- [Aerial Ace]
+- [Flail] #Shadow Rush
+- [Block]
+- [Low Kick]
 - [Rock Slide]
-- [Metal Claw]
-- [Strength]
 gender: [m, f]
-happiness: 255
+happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious

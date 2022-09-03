@@ -1,0 +1,117 @@
+---
+species: Alakazam
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Blizzard] #Dazzling Gleam
+- [Tri Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Tangrowth
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Sleep Powder]
+- [Energy Ball]
+- [Ancient Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Probopass
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Power Gem]
+- [Earth Power]
+- [Flash Cannon]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Bullet Punch]
+- [Ice Punch]
+- [Fire Punch]
+- [Close Combat]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
+item: [null]
+ability: [null]
+moves:
+- [Thunder]
+- [Tri Attack]
+- [Flash Cannon]
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Warden Ingo Rematch
+tags: [in-game, PWT-Warden Ingo Rematch, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Aerial Ace]
+- [Stone Edge]
+- [X-Scissor]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

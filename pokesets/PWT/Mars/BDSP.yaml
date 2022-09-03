@@ -1,0 +1,59 @@
+---
+species: Bronzor
+setname: PWT-Mars BDSP
+tags: [in-game, PWT-Mars BDSP, trainer+mars]
+item: [null]
+ability: [Levitate]
+moves:
+- [Confuse Ray]
+- [Payback]
+- [Gyro Ball]
+- [Reflect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Sassy
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Golbat
+setname: PWT-Mars BDSP
+tags: [in-game, PWT-Mars BDSP, trainer+mars]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Poison Fang]
+- [Bite]
+- [Haze]
+- [U-Turn]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Purugly
+setname: PWT-Mars BDSP
+tags: [in-game, PWT-Mars BDSP, trainer+mars]
+item: [Sitrus Berry]
+ability: [Thick Fat]
+moves:
+- [Aerial Ace]
+- [Body Slam]
+- [Dig]
+- [U-Turn]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0

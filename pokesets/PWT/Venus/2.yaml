@@ -1,0 +1,100 @@
+---
+species: Bellossom
+setname: PWT-Venus2
+tags: [in-game, PWT-Venus2, trainer+venus]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Attract]
+- [Stun Spore]
+- [Sludge Bomb]
+- [Giga Drain]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Misdreavus
+setname: PWT-Venus2
+tags: [in-game, PWT-Venus2, trainer+venus]
+item: [null]
+ability: [Levitate]
+moves:
+- [Attract]
+- [Confuse Ray]
+- [Psychic]
+- [Taunt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Venus2
+tags: [in-game, PWT-Venus2, trainer+venus]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder Wave]
+- [Attract]
+- [Sweet Kiss]
+- [Thunderbolt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Wigglytuff
+setname: PWT-Venus2
+tags: [in-game, PWT-Venus2, trainer+venus]
+item: [null]
+ability: [Cute Charm]
+moves:
+- [Attract]
+- [Body Slam]
+- [Sweet Kiss]
+- [Flamethrower]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Venus2
+tags: [in-game, PWT-Venus2, trainer+venus]
+item: [null]
+ability: [Marvel Scale]
+moves:
+- [Surf]
+- [Blizzard]
+- [Attract]
+- [Confuse Ray]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

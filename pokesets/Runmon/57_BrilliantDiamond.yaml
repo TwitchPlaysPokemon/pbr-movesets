@@ -1,0 +1,274 @@
+species: Houndoom
+ingamename: "££puuuuyyn"
+displayname: "££puuuuyyn"
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Metronome]
+ability: [Early Bird]
+moves:
+    - [Flamethrower]
+    - [Fire Blast]
+    - [Payback]
+    - [Dark Pulse] #Snarl
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke] #Wahi didn't provide ball info so all of them are Poke for now
+shiny: False
+nature: Naughty
+ivs: {hp: 29, atk: 31, def: 29, spA: 4, spD: 25, spe: 27}
+evs: {hp: 46, atk: 85, def: 89, spA: 66, spD: 32, spe: 192}
+---
+species: Manaphy
+ingamename: "112drfic"
+displayname: "112drfic"
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Hydration]
+moves:
+    - [Surf] #Scald
+    - [Ice Beam]
+    - [Tail Glow]
+    - [Grass Knot]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: {hp: 13, atk: 31, def: 30, spA: 31, spD: 31, spe: 31}
+evs: {hp: 42, atk: 76, def: 107, spA: 61, spD: 30, spe: 194}
+---
+species: Drapion
+ingamename: "1"
+displayname: "1"
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Razor Claw]
+ability: [Battle Armor]
+moves:
+    - [Poison Jab]
+    - [Bug Bite]
+    - [Sludge] #Venoshock
+    - [Night Slash]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 16, atk: 29, def: 19, spA: 20, spD: 22, spe: 8}
+evs: {hp: 47, atk: 87, def: 100, spA: 73, spD: 27, spe: 176}
+---
+species: Gardevoir
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Mind Plate]
+ability: [Trace]
+moves:
+    - [Hyper Voice] #Dazzling Gleam
+    - [Psychic]
+    - [Thunderbolt]
+    - [Focus Blast]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: {hp: 18, atk: 25, def: 21, spA: 1, spD: 19, spe: 11}
+evs: {hp: 46, atk: 85, def: 98, spA: 72, spD: 31, spe: 178}
+---
+species: Toxicroak
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Black Glasses]
+ability: [Dry Skin]
+moves:
+    - [Drain Punch]
+    - [Sludge Bomb]
+    - [Sucker Punch]
+    - [Rock Smash]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 30, atk: 21, def: 11, spA: 22, spD: 19, spe: 27}
+evs: {hp: 38, atk: 84, def: 96, spA: 77, spD: 29, spe: 186}
+---
+species: Pikachu
+ingamename: "££££££££xS"
+displayname: "££££££££xS"
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [null]
+ability: [Static]
+moves:
+    - [Thief]
+    - [Surf]
+    - [Dig]
+    - [Thunderbolt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 9, atk: 19, def: 11, spA: 25, spD: 30, spe: 13}
+evs: {hp: 36, atk: 69, def: 81, spA: 65, spD: 22, spe: 237}
+---
+species: Garchomp
+ingamename: "?¿{{"
+displayname: "?¿{{"
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [null]
+ability: [Sand Veil]
+moves:
+    - [Dig]
+    - [Dragon Claw]
+    - [Earthquake] #Bulldoze
+    - [Dragon Breath]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: {hp: 11, atk: 29, def: 21, spA: 7, spD: 15, spe: 3}
+evs: {hp: 36, atk: 124, def: 86, spA: 52, spD: 34, spe: 56}
+---
+species: Giratina
+ingamename: Tina
+displayname: Tina
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Adamant Orb] #Griseous, it was Origin
+ability: [Levitate]
+moves:
+    - [Shadow Force]
+    - [Dragon Claw]
+    - [Earthquake]
+    - [Aura Sphere]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 238, atk: 252, def: 4, spA: 0, spD: 12, spe: 4}
+---
+species: Cacturne
+ingamename: Cookie
+displayname: Cookie
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Sand Veil]
+moves:
+    - [Dark Pulse]
+    - [Giga Drain]
+    - [Leech Seed]
+    - [Protect] #Spiky Shield
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 16, def: 9, spA: 22, spD: 22, spe: 18}
+evs: {hp: 98, atk: 0, def: 0, spA: 160, spD: 0, spe: 252}
+---
+species: Togekiss
+ingamename: "Eggie MKII"
+displayname: "Eggie Mk-II"
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Air Slash]
+    - [Hyper Voice] #Dazzling Gleam
+    - [Roost]
+    - [Flamethrower]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bold
+ivs: {hp: 31, atk: 20, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 49, atk: 99, def: 85, spA: 98, spD: 29, spe: 150}
+---
+species: Lugia
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Pressure] #Multiscale
+moves:
+    - [Hydro Pump]
+    - [Recover]
+    - [Aeroblast]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Hasty
+ivs: {hp: 5, atk: 31, def: 7, spA: 31, spD: 31, spe: 19}
+evs: {hp: 16, atk: 118, def: 89, spA: 145, spD: 29, spe: 39}
+---
+species: Giratina
+setname: TPP Brilliant Diamond-2 #Different from other Giratina by IVs IG
+tags: [runmon, in-game]
+item: [Lustrous Orb] #Griseous, it was ANOTHER Origin Gira
+ability: [Levitate]
+moves:
+    - [Shadow Force]
+    - [Dragon Claw]
+    - [Earthquake]
+    - [Shadow Sneak]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 31, atk: 8, def: 31, spA: 11, spD: 31, spe: 21}
+evs: {hp: 238, atk: 252, def: 4, spA: 0, spD: 12, spe: 4}
+---
+species: Munchlax
+ingamename: Papper
+displayname: Papper
+setname: TPP Brilliant Diamond
+tags: [runmon, in-game]
+item: [Everstone]
+ability: [Thick Fat]
+moves:
+    - [Belly Drum]
+    - [Amnesia]
+    - [Metronome]
+    - [Flail]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bashful
+ivs: {hp: 9, atk: 6, def: 28, spA: 22, spD: 20, spe: 12}
+evs: {hp: 10, atk: 59, def: 39, spA: 34, spD: 21, spe: 10}

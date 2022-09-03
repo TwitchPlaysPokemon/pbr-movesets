@@ -1,0 +1,40 @@
+---
+species: Mamoswine
+setname: PWT-Lian Tenacity
+tags: [in-game, PWT-Lian Tenacity, trainer+lian]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Earthquake] #High Horsepower
+- [Icicle Spear] #Icicle Crash
+- [Stealth Rock]
+- [Stone Edge]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Lian Tenacity
+tags: [in-game, PWT-Lian Tenacity, trainer+lian]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Mud Bomb]
+- [Zen Headbutt]
+- [Aqua Tail]
+- [Aerial Ace]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0

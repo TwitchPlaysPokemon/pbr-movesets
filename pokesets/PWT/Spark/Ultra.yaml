@@ -7,7 +7,7 @@ ability: [null]
 gender: [m]
 moves:
 - [Thunderbolt, Discharge]
-- [Thunder]
+- [Thunder, Zap Cannon]
 - [Thunder Shock]
 - [Last Resort]
 happiness: 255
@@ -48,7 +48,7 @@ moves:
 - [Zap Cannon]
 - [Spark, Charge Beam]
 - [Flash Cannon]
-- [Mirror Shot]
+- [Mirror Shot, Return]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -58,14 +58,14 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Raichu
+species: Raichu #Alolan
 setname: PWT-Spark Ultra
 tags: [in-game, PWT-Spark Ultra, trainer+spark]
 item: [null]
 ability: [null]
 gender: [m]
 moves:
-- [Thunder Punch]
+- [Thunder Punch, Thunder Shock]
 - [Psychic]
 - [Grass Knot]
 - [Spark]
@@ -84,11 +84,11 @@ tags: [in-game, PWT-Spark Ultra, trainer+spark]
 item: [null]
 ability: [null]
 moves:
-- [Zap Cannon]
-- [Spark, Charge Beam]
+- [Zap Cannon, Discharge]
+- [Spark, Charge Beam, Thunder Shock]
 - [Flash Cannon]
-- [Mirror Shot]
-happiness: 255
+- [Mirror Shot, Frustration]
+happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious
@@ -104,8 +104,10 @@ item: [null]
 ability: [null]
 gender: [m]
 moves:
+- [Thunder Fang, Return]
 - [Thunder]
 - [Charge Beam]
+- [Overheat]
 happiness: 255
 biddable: false
 ball: [Poke]

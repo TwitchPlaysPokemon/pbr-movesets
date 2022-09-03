@@ -1,0 +1,80 @@
+---
+species: Raichu
+setname: PWT-Volkner BDSP
+tags: [in-game, PWT-Volkner BDSP, trainer+volkner]
+item: [Shuca Berry]
+ability: [Static]
+moves:
+- [Spark] #Nuzzle
+- [U-Turn] #Volt Switch
+- [Surf]
+- [Charge Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 11, atk: 0, def: 11, spA: 28, spD: 11, spe: 28}
+evs: {hp: 12, atk: 0, def: 12, spA: 160, spD: 12, spe: 160}
+level: 100
+rarity: 1.0
+---
+species: Ambipom
+setname: PWT-Volkner BDSP
+tags: [in-game, PWT-Volkner BDSP, trainer+volkner]
+item: [Chople Berry]
+ability: [Technician]
+moves:
+- [Fake Out]
+- [Thunderbolt]
+- [Double Hit]
+- [Last Resort]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Naive
+ivs: {hp: 11, atk: 20, def: 11, spA: 28, spD: 11, spe: 28}
+evs: {hp: 12, atk: 80, def: 12, spA: 80, spD: 12, spe: 160}
+level: 100
+rarity: 1.0
+---
+species: Octillery
+setname: PWT-Volkner BDSP
+tags: [in-game, PWT-Volkner BDSP, trainer+volkner]
+item: [Expert Belt]
+ability: [Sniper]
+moves:
+- [Octazooka]
+- [Focus Energy]
+- [Aurora Beam]
+- [Charge Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 11, atk: 0, def: 11, spA: 28, spD: 11, spe: 28}
+evs: {hp: 12, atk: 0, def: 12, spA: 160, spD: 12, spe: 160}
+level: 100
+rarity: 1.0
+---
+species: Luxray
+setname: PWT-Volkner BDSP
+tags: [in-game, PWT-Volkner BDSP, trainer+volkner]
+item: [Sitrus Berry]
+ability: [Intimidate]
+moves:
+- [Thunder Fang]
+- [Ice Fang]
+- [Crunch]
+- [Iron Tail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 15, atk: 28, def: 15, spA: 0, spD: 0, spe: 30}
+evs: {hp: 28, atk: 60, def: 28, spA: 0, spD: 0, spe: 200}
+level: 100
+rarity: 1.0

@@ -1,0 +1,114 @@
+---
+species: Armaldo
+setname: PWT-Fein
+tags: [in-game, PWT-Fein, trainer+fein]
+item: [null]
+ability: [Battle Armor]
+moves:
+- [Aerial Ace]
+- [Rock Blast]
+- [Earthquake]
+- [Slash]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Milotic
+setname: PWT-Fein
+tags: [in-game, PWT-Fein, trainer+fein]
+item: [null]
+ability: [Marvel Scale]
+moves:
+- [Hydro Pump]
+- [Ice Beam]
+- [Dragon Breath]
+- [Safeguard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Manectric
+setname: PWT-Fein
+tags: [in-game, PWT-Fein, trainer+fein]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Thunder Wave]
+- [Thunderbolt]
+- [Protect]
+- [Crunch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Houndoom
+setname: PWT-Fein
+tags: [in-game, PWT-Fein, trainer+fein]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Flamethrower]
+- [Reversal]
+- [Protect]
+- [Crunch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Gyarados
+setname: PWT-Fein
+tags: [in-game, PWT-Fein, trainer+fein]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Earthquake]
+- [Strength]
+- [Roar]
+- [Hydro Pump]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Togetic
+setname: PWT-Fein
+tags: [in-game, PWT-Fein, trainer+fein]
+item: [null]
+ability: [Hustle,Serene Grace]
+moves:
+- [Metronome] #Shadow Rush
+- [Charm]
+- [Sweet Kiss]
+- [Yawn]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

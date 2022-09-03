@@ -1,0 +1,120 @@
+---
+species: Hitmontop
+setname: PWT-Maylene BDSP Rematch
+tags: [in-game, PWT-Maylene BDSP Rematch, trainer+maylene]
+item: [Expert Belt]
+ability: [Intimidate]
+moves:
+- [Close Combat]
+- [Stone Edge]
+- [Sucker Punch]
+- [Brick Break]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Breloom
+setname: PWT-Maylene BDSP Rematch
+tags: [in-game, PWT-Maylene BDSP Rematch, trainer+maylene]
+item: [Life Orb]
+ability: [Technician]
+moves:
+- [Bullet Seed]
+- [Mach Punch]
+- [Rock Tomb]
+- [Force Palm]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Maylene BDSP Rematch
+tags: [in-game, PWT-Maylene BDSP Rematch, trainer+maylene]
+item: [Choice Band]
+ability: [Pure Power]
+moves:
+- [High Jump Kick]
+- [Zen Headbutt]
+- [Fire Punch]
+- [Thunder Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Maylene BDSP Rematch
+tags: [in-game, PWT-Maylene BDSP Rematch, trainer+maylene]
+item: [Focus Sash]
+ability: [Steadfast] #Justified
+moves:
+- [Aura Sphere]
+- [Flash Cannon]
+- [Water Pulse]
+- [Vacuum Wave]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Maylene BDSP Rematch
+tags: [in-game, PWT-Maylene BDSP Rematch, trainer+maylene]
+item: [White Herb]
+ability: [Blaze]
+moves:
+- [Flare Blitz]
+- [Close Combat]
+- [Aerial Ace] #Acrobatics
+- [Overheat]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Lonely
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Maylene BDSP Rematch
+tags: [in-game, PWT-Maylene BDSP Rematch, trainer+maylene]
+item: [Flame Orb]
+ability: [Guts]
+moves:
+- [Megahorn]
+- [Close Combat]
+- [Facade]
+- [Stone Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,114 @@
+---
+species: Scizor
+setname: PWT-Chobin Rematch
+tags: [in-game, PWT-Chobin Rematch, trainer+chobin]
+item: [Lax Incense]
+ability: [Swarm]
+moves:
+- [Silver Wind]
+- [Aerial Ace]
+- [Return]
+- [Steel Wing]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 150, spe: 108}
+level: 100
+---
+species: Dragonite
+setname: PWT-Chobin Rematch
+tags: [in-game, PWT-Chobin Rematch, trainer+chobin]
+item: [Leftovers]
+ability: [Inner Focus]
+moves:
+- [Aerial Ace]
+- [Return]
+- [Earthquake]
+- [Brick Break]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 6}
+level: 100
+---
+species: Kangaskhan
+setname: PWT-Chobin Rematch
+tags: [in-game, PWT-Chobin Rematch, trainer+chobin]
+item: [Scope Lens]
+ability: [Early Bird]
+moves:
+- [Aerial Ace]
+- [Return]
+- [Earthquake]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+---
+species: Mr. Mime
+setname: PWT-Chobin Rematch
+tags: [in-game, PWT-Chobin Rematch, trainer+chobin]
+item: [Lum Berry]
+ability: [Soundproof]
+moves:
+- [Aerial Ace]
+- [Return]
+- [Earthquake]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Calm
+ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 6}
+level: 100
+---
+species: Marowak
+setname: PWT-Chobin Rematch
+tags: [in-game, PWT-Chobin Rematch, trainer+chobin]
+item: [Thick Club]
+ability: [Rock Head]
+moves:
+- [Ancient Power]
+- [Aerial Ace]
+- [Double-Edge]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Careful
+ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 6}
+level: 100
+---
+species: Ninjask
+setname: PWT-Chobin Rematch
+tags: [in-game, PWT-Chobin Rematch, trainer+chobin]
+item: [White Herb]
+ability: [Speed Boost]
+moves:
+- [Swords Dance]
+- [Silver Wind]
+- [Baton Pass]
+- [Protect]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Careful
+ivs: {hp: 25, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 6}
+level: 100

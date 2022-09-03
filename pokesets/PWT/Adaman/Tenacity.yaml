@@ -1,0 +1,60 @@
+---
+species: Leafeon
+setname: PWT-Adaman Tenacity
+tags: [in-game, PWT-Adaman Tenacity, trainer+adaman]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [X-Scissor]
+- [Calm Mind]
+- [Leaf Blade]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Umbreon
+setname: PWT-Adaman Tenacity
+tags: [in-game, PWT-Adaman Tenacity, trainer+adaman]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Psychic]
+- [Dark Pulse]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Adaman Tenacity
+tags: [in-game, PWT-Adaman Tenacity, trainer+adaman]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Tickle] #Baby-Doll Eyes
+- [Aqua Tail]
+- [Ice Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0

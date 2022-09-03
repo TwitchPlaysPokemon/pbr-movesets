@@ -87,8 +87,8 @@ ivs: {hp: 25, atk: 23, def: 20, spA: 4, spD: 7, spe: 15}
 evs: {hp: 65, atk: 114, def: 77, spA: 68, spD: 43, spe: 143}
 ---
 species: Latios
-ingamename: "!eder"
-displayname: "!eder"
+ingamename: "!edr"
+displayname: "!edr"
 setname: TPP Rising Ruby
 tags: [runmon, in-game]
 item: [Soul Dew]

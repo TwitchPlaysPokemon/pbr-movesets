@@ -1,0 +1,76 @@
+---
+species: Sunflora
+setname: PWT-Chobin
+tags: [in-game, PWT-Chobin, trainer+chobin]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Petal Dance]
+- [Sunny Day]
+- [Bullet Seed]
+- [Ingrain]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Gyarados
+setname: PWT-Chobin
+tags: [in-game, PWT-Chobin, trainer+chobin]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Twister]
+- [Leer]
+- [Dragon Rage]
+- [Bite]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Skiploom
+setname: PWT-Chobin
+tags: [in-game, PWT-Chobin, trainer+chobin]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Mega Drain]
+- [Cotton Spore]
+- [Leech Seed]
+- [Sleep Powder]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Tropius
+setname: PWT-Chobin
+tags: [in-game, PWT-Chobin, trainer+chobin]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Body Slam]
+- [Magical Leaf]
+- [Whirlwind]
+- [Sweet Scent]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

@@ -1,0 +1,76 @@
+---
+species: Smeargle
+setname: PWT-Biden-1
+tags: [in-game, PWT-Biden, trainer+biden]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Sweet Scent]
+- [Defense Curl]
+- [Ice Ball]
+- [Rollout]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Smeargle
+setname: PWT-Biden-2
+tags: [in-game, PWT-Biden, trainer+biden]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Thrash]
+- [Petal Dance]
+- [Outrage]
+- [Teeter Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Smeargle
+setname: PWT-Biden-3
+tags: [in-game, PWT-Biden, trainer+biden]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Destiny Bond]
+- [Focus Punch]
+- [Spore]
+- [Dream Eater]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Smeargle
+setname: PWT-Biden-4
+tags: [in-game, PWT-Biden, trainer+biden]
+item: [null]
+ability: [Own Tempo]
+moves:
+- [Sketch] #Shadow Rush
+- [Tail Whip]
+- [Double Slap]
+- [Iron Tail]
+gender: [m,f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

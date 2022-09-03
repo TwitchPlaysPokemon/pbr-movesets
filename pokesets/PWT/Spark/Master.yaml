@@ -6,8 +6,10 @@ item: [null]
 ability: [null]
 gender: [m]
 moves:
+- [Thunder Fang, Return]
 - [Thunder]
 - [Charge Beam]
+- [Overheat]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -45,10 +47,10 @@ ability: [null]
 gender: [m]
 moves:
 - [Stone Edge]
-- [Crunch]
+- [Crunch, Bite, Frustration]
 - [Fire Blast]
 - [Iron Tail]
-happiness: 255
+happiness: 0
 biddable: false
 ball: [Poke]
 nature: Serious
@@ -64,7 +66,7 @@ item: [null]
 ability: [null]
 moves:
 - [Thunder]
-- [Thunderbolt]
+- [Thunderbolt, Thunder Shock]
 - [Shadow Ball]
 - [Return]
 happiness: 255
@@ -82,9 +84,9 @@ tags: [in-game, PWT-Spark Master, trainer+spark]
 item: [null]
 ability: [null]
 moves:
-- [Zap Cannon]
-- [Drill Peck]
-- [Charge Beam]
+- [Zap Cannon, Thunderbolt, Thunder]
+- [Drill Peck, Return]
+- [Charge Beam, Thunder Shock]
 - [Ancient Power]
 happiness: 255
 biddable: false

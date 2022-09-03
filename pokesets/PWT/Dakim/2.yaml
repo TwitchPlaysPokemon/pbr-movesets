@@ -1,0 +1,99 @@
+---
+species: Claydol
+setname: PWT-Dakim2
+tags: [in-game, PWT-Dakim2, trainer+dakim]
+item: [null]
+ability: [Levitate]
+moves:
+- [Psychic]
+- [Earthquake]
+- [Sunny Day]
+- [Solar Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Forretress
+setname: PWT-Dakim2
+tags: [in-game, PWT-Dakim2, trainer+dakim]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Protect]
+- [Earthquake]
+- [Explosion]
+- [Double-Edge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Flygon
+setname: PWT-Dakim2
+tags: [in-game, PWT-Dakim2, trainer+dakim]
+item: [null]
+ability: [Levitate]
+moves:
+- [Flamethrower]
+- [Earthquake]
+- [Sunny Day]
+- [Solar Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Whiscash
+setname: PWT-Dakim2
+tags: [in-game, PWT-Dakim2, trainer+dakim]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Protect]
+- [Earthquake]
+- [Waterfall]
+- [Ice Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Dakim2
+tags: [in-game, PWT-Dakim2, trainer+dakim]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Protect]
+- [Fire Blast]
+- [Sunny Day]
+- [Solar Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

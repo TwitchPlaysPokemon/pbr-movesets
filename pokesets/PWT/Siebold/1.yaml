@@ -1,0 +1,39 @@
+---
+species: Gyarados
+setname: PWT-Siebold
+tags: [in-game, PWT-Siebold, trainer+siebold]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Waterfall]
+- [Ice Fang]
+- [Earthquake]
+- [Dragon Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Siebold
+tags: [in-game, PWT-Siebold, trainer+siebold]
+item: [null]
+ability: [Illuminate]
+moves:
+- [Icy Wind] #Dazzling Gleam
+- [Psychic]
+- [Surf]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

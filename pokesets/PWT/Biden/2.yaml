@@ -1,0 +1,76 @@
+---
+species: Oddish
+setname: PWT-Biden2
+tags: [in-game, PWT-Biden2, trainer+biden]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Cut]
+- [Sweet Scent]
+- [Acid]
+- [Absorb]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Crobat
+setname: PWT-Biden2
+tags: [in-game, PWT-Biden2, trainer+biden]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Screech]
+- [Bite]
+- [Astonish]
+- [Taunt]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Torkoal
+setname: PWT-Biden2
+tags: [in-game, PWT-Biden2, trainer+biden]
+item: [null]
+ability: [White Smoke]
+moves:
+- [Ember]
+- [Fire Spin]
+- [Smokescreen]
+- [Rock Slide]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Bellossom
+setname: PWT-Biden2
+tags: [in-game, PWT-Biden2, trainer+biden]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Magical Leaf]
+- [Sweet Scent]
+- [Cut]
+- [Giga Drain]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

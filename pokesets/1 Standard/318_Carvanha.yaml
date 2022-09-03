@@ -18,7 +18,7 @@ evs: {hp: 44, atk: 16, def: 252, spA: 0, spD: 184, spe: 12}
 ivs: 31
 ---
 species: Carvanha
-setname: s-Rough Skin
+setname: Rough Skin
 ball: [Dive]
 tags: [standard]
 item: [Null]

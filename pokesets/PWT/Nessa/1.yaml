@@ -1,0 +1,60 @@
+---
+species: Pelipper
+setname: PWT-Nessa
+tags: [in-game, PWT-Nessa, trainer+nessa]
+item: [null]
+ability: [Drizzle]
+moves:
+- [Roost]
+- [Air Slash] #Hurricane
+- [Water Pulse]
+- [Tailwind]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+setname: PWT-Nessa
+tags: [in-game, PWT-Nessa, trainer+nessa]
+item: [null]
+ability: [Damp]
+moves:
+- [Earthquake]
+- [Surf] #Scald
+- [Ice Punch]
+- [Toxic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Seaking #technically in her second rematch only and not in the Champion tournament, but whatever
+setname: PWT-Nessa
+tags: [in-game, PWT-Nessa, trainer+nessa]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Iron Head] #Smart Strike
+- [Megahorn]
+- [Aqua Ring]
+- [Waterfall]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,100 @@
+---
+species: Blissey
+setname: PWT-Venus Rematch
+tags: [in-game, PWT-Venus Rematch, trainer+venus]
+item: [null]
+ability: [Serene Grace]
+moves:
+- [Attract]
+- [Water Pulse]
+- [Flamethrower]
+- [Psychic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dusclops
+setname: PWT-Venus Rematch
+tags: [in-game, PWT-Venus Rematch, trainer+venus]
+item: [null]
+ability: [Pressure]
+moves:
+- [Attract]
+- [Confuse Ray]
+- [Will-O-Wisp]
+- [Shadow Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Venus Rematch
+tags: [in-game, PWT-Venus Rematch, trainer+venus]
+item: [null]
+ability: [Static]
+moves:
+- [Thunderbolt]
+- [Attract]
+- [Thunder Wave]
+- [Sweet Kiss]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Meganium
+setname: PWT-Venus Rematch
+tags: [in-game, PWT-Venus Rematch, trainer+venus]
+item: [null]
+ability: [Overgrow]
+moves:
+- [Leech Seed]
+- [Giga Drain]
+- [Attract]
+- [Ingrain]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Venus Rematch
+tags: [in-game, PWT-Venus Rematch, trainer+venus]
+item: [null]
+ability: [Marvel Scale]
+moves:
+- [Attract]
+- [Ice Beam]
+- [Confuse Ray]
+- [Hydro Pump]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

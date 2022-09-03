@@ -1,0 +1,240 @@
+species: Golduck
+ingamename: Pso
+displayname: Pso
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [Blue Scarf]
+ability: [Damp]
+moves:
+    - [Brine]
+    - [Ice Beam]
+    - [Psychic]
+    - [Water Pulse]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Mankey
+ingamename: Manke
+displayname: Manke
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [White Herb] #Twist Band
+ability: [Vital Spirit]
+moves:
+    - [Rock Slide]
+    - [Covet]
+    - [Fury Swipes]
+    - [Karate Chop]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Pichu
+ingamename: PŸÿBi
+displayname: PŸÿBi
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [Blue Scarf]
+ability: [Static]
+moves:
+    - [Thunder Shock]
+    - [Thunder]
+    - [Sweet Kiss]
+    - [Thunder Wave]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: 31
+evs: {hp: 128, atk: 0, def: 0, spA: 252, spD: 0, spe: 128}
+---
+species: Shroomish
+ingamename: Shroomi
+displayname: Shroomi
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [Blue Scarf]
+ability: [Effect Spore]
+moves:
+    - [Stun Spore]
+    - [Absorb]
+    - [Leech Seed]
+    - [Tackle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quiet
+ivs: 31
+evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
+---
+species: Togetic
+ingamename: Topop
+displayname: Topop
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [Blue Scarf]
+ability: [Serene Grace]
+moves:
+    - [Aerial Ace]
+    - [Flamethrower]
+    - [Water Pulse]
+    - [Wish]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Budew
+ingamename: Budlight
+displayname: Budlight
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [Blue Scarf]
+ability: [Poison Point]
+moves:
+    - [Growth]
+    - [Mega Drain]
+    - [Energy Ball]
+    - [Sludge Bomb]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Naughty
+ivs: 31
+evs: {hp: 252, atk: 0, def: 4, spA: 252, spD: 0, spe: 0}
+---
+species: Roserade
+ingamename: Budweiser
+displayname: Busweiser
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [Blue Scarf]
+ability: [Technician]
+moves:
+    - [Energy Ball]
+    - [Sludge Bomb]
+    - [Mega Drain]
+    - [Frustration]
+gender: [m, f]
+happiness: 105
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Lax
+ivs: 31
+evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
+---
+species: Raikou
+ingamename: Raitei
+displayname: Raitei
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [Blue Scarf]
+ability: [Pressure]
+moves:
+    - [Thunder]
+    - [Bite]
+    - [Thunder Shock]
+    - [Quick Attack]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+---
+species: Drowzee
+ingamename: Snoozums
+displayname: Snoozums
+setname: TPPMD Go For It! Radiant Adventure Squad
+tags: [runmon, in-game]
+item: [Sitrus Berry] #Had to use Recycle for something
+ability: [Inner Focus]
+moves:
+    - [Confusion]
+    - [Headbutt]
+    - [Hidden Power]
+    - [Recycle]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 4, spe: 0}
+---
+species: Entei
+ingamename: Encune
+displayname: Encune
+setname: TPPMD Keep Going! Wildfire Adventure Squad
+tags: [runmon, in-game]
+item: [Yellow Scarf]
+ability: [Pressure]
+moves:
+    - [Fire Blast]
+    - [Flamethrower]
+    - [Stone Edge]
+    - [Bite]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lax
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
+---
+species: Suicune
+ingamename: Suikou
+displayname: Suikou
+setname: TPPMD Let's Go! Tempest Adventure Squad
+tags: [runmon, in-game]
+item: [Red Scarf]
+ability: [Pressure]
+moves:
+    - [Brine]
+    - [Ice Beam]
+    - [Calm Mind]
+    - [Rain Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}

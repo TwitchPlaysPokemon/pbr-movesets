@@ -1,0 +1,120 @@
+---
+species: Gengar
+setname: PWT-Fantina BDSP Rematch
+tags: [in-game, PWT-Fantina BDSP Rematch, trainer+fantina]
+item: [Life Orb]
+ability: [Effect Spore] #Cursed Body
+moves:
+- [Ominous Wind] #Hex
+- [Sludge Bomb]
+- [Focus Blast]
+- [Toxic]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Banette
+setname: PWT-Fantina BDSP Rematch
+tags: [in-game, PWT-Fantina BDSP Rematch, trainer+fantina]
+item: [Iron Ball]
+ability: [Unburden] #Cursed Body
+moves:
+- [Shadow Sneak]
+- [Sucker Punch]
+- [Snatch, Payback] #Snatch was prior to ver. 1.3
+- [Trick]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 244, atk: 252, def: 0, spA: 0, spD: 0, spe: 12}
+level: 100
+rarity: 1.0
+---
+species: Drifblim
+setname: PWT-Fantina BDSP Rematch
+tags: [in-game, PWT-Fantina BDSP Rematch, trainer+fantina]
+item: [Flame Orb]
+ability: [Magic Guard] #Flare Boost
+moves:
+- [Shadow Ball]
+- [Thunderbolt]
+- [Psychic]
+- [Giga Drain] #Strength Sap
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Mismagius
+setname: PWT-Fantina BDSP Rematch
+tags: [in-game, PWT-Fantina BDSP Rematch, trainer+fantina]
+item: [Expert Belt]
+ability: [Levitate]
+moves:
+- [Shadow Ball]
+- [Energy Ball]
+- [Flamethrower] #Mystical Fire
+- [Psychic] #Dazzling Gleam
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Dusknoir
+setname: PWT-Fantina BDSP Rematch
+tags: [in-game, PWT-Fantina BDSP Rematch, trainer+fantina]
+item: [Sitrus Berry]
+ability: [Pressure]
+moves:
+- [Shadow Sneak]
+- [Earthquake]
+- [Will-O-Wisp]
+- [Confuse Ray]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Fantina BDSP Rematch
+tags: [in-game, PWT-Fantina BDSP Rematch, trainer+fantina]
+item: [Focus Sash]
+ability: [Snow Cloak] #Cursed Body
+moves:
+- [Ominous Wind] #Hex
+- [Icy Wind] #Frost Breath
+- [Will-O-Wisp]
+- [Destiny Bond]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
