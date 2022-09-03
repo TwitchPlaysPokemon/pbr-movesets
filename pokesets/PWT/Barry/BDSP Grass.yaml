@@ -1,0 +1,120 @@
+---
+species: Floatzel
+setname: PWT-Barry BDSP Grass
+tags: [in-game, PWT-Barry BDSP Grass, trainer+barry]
+item: [Quick Claw]
+ability: [Swift Swim]
+moves:
+- [Ice Fang]
+- [Crunch]
+- [Swift]
+- [Waterfall]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 6
+evs: {hp: 40, atk: 136, def: 40, spA: 0, spD: 40, spe: 248}
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Barry BDSP Grass
+tags: [in-game, PWT-Barry BDSP Grass, trainer+barry]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Covet]
+- [Yawn]
+- [Crunch]
+- [Earthquake] #High Horsepower
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 9
+evs: {hp: 100, atk: 156, def: 160, spA: 0, spD: 92, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Barry BDSP Grass
+tags: [in-game, PWT-Barry BDSP Grass, trainer+barry]
+item: [null]
+ability: [Swarm]
+moves:
+- [Megahorn]
+- [Swords Dance]
+- [Rock Slide]
+- [Close Combat]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 9
+evs: {hp: 44, atk: 124, def: 44, spA: 0, spD: 44, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Torterra
+setname: PWT-Barry BDSP Grass
+tags: [in-game, PWT-Barry BDSP Grass, trainer+barry]
+item: [Leftovers]
+ability: [Overgrow]
+moves:
+- [Earthquake]
+- [Wood Hammer]
+- [Roar]
+- [Stealth Rock]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Careful
+ivs: 11
+evs: {hp: 164, atk: 116, def: 52, spA: 52, spD: 124, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Staraptor
+setname: PWT-Barry BDSP Grass
+tags: [in-game, PWT-Barry BDSP Grass, trainer+barry]
+item: [Focus Sash]
+ability: [Intimidate]
+moves:
+- [Close Combat]
+- [Pluck]
+- [Sunny Day]
+- [U-Turn]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 5
+evs: {hp: 60, atk: 132, def: 36, spA: 0, spD: 36, spe: 244}
+level: 100
+rarity: 1.0
+---
+species: Rapidash
+setname: PWT-Barry BDSP Grass
+tags: [in-game, PWT-Barry BDSP Grass, trainer+barry]
+item: [Expert Belt]
+ability: [Flash Fire]
+moves:
+- [Iron Head] #Smart Strike
+- [Megahorn]
+- [Poison Jab]
+- [Flare Blitz]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 7
+evs: {hp: 60, atk: 132, def: 52, spA: 0, spD: 52, spe: 212}
+level: 100
+rarity: 1.0

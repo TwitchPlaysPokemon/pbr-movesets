@@ -1,0 +1,40 @@
+---
+species: Probopass
+setname: PWT-Wikstrom
+tags: [in-game, PWT-Wikstrom, trainer+wikstrom]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Earth Power]
+- [Power Gem]
+- [Discharge]
+- [Flash Cannon]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Scizor
+setname: PWT-Wikstrom
+tags: [in-game, PWT-Wikstrom, trainer+wikstrom]
+item: [null]
+ability: [Technician]
+moves:
+- [Bullet Punch]
+- [X-Scissor]
+- [Iron Head]
+- [Night Slash]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

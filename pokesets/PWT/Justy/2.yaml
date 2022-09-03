@@ -1,0 +1,80 @@
+---
+species: Sandslash
+setname: PWT-Justy2
+tags: [in-game, PWT-Justy2, trainer+justy]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Double Team]
+- [Sandstorm]
+- [Dig]
+- [Slash]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cacnea
+setname: PWT-Justy2
+tags: [in-game, PWT-Justy2, trainer+justy]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Double Team]
+- [Substitute]
+- [Needle Arm]
+- [Feint Attack]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gligar
+setname: PWT-Justy2
+tags: [in-game, PWT-Justy2, trainer+justy]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Double Team]
+- [Substitute]
+- [Slash]
+- [Dig]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nosepass
+setname: PWT-Justy2
+tags: [in-game, PWT-Justy2, trainer+justy]
+item: [null]
+ability: [Magnet Pull]
+moves:
+- [Double Team]
+- [Sandstorm]
+- [Rock Tomb]
+- [Shock Wave]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

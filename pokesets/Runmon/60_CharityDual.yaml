@@ -1,0 +1,305 @@
+species: Sandslash
+ingamename: SKJJ
+displayname: SKJJ
+setname: TPP Charity Dual - Corvus Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Dig]
+    - [Rock Slide]
+    - [Slash]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 9, atk: 13, def: 12, spA: 13, spD: 13, spe: 2}
+evs: {hp: 143, atk: 163, def: 160, spA: 149, spD: 149, spe: 168}
+---
+species: Mew
+ingamename: :LAYLA
+displayname: :LAYLA
+setname: TPP Charity Dual - Corvus Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Psychic]
+    - [Thunder, Cut]
+    - [Fly]
+    - [Transform]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 6, atk: 12, def: 3, spA: 14, spD: 14, spe: 1}
+evs: {hp: 107, atk: 98, def: 95, spA: 95, spD: 95, spe: 92}
+---
+species: Jynx
+ingamename: LOLA
+displayname: LOLA
+setname: TPP Charity Dual - Corvus Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Blizzard]
+    - [Psychic]
+    - [Lovely Kiss]
+    - [Metronome]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 12, def: 0, spA: 12, spD: 12, spe: 0}
+evs: {hp: 99, atk: 110, def: 102, spA: 106, spD: 106, spe: 102}
+---
+species: Seaking
+ingamename: T IHG
+displayname: T IHG
+setname: TPP Charity Dual - Corvus Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Hyper Beam]
+    - [Mimic]
+    - [Toxic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 1, atk: 8, def: 10, spA: 7, spD: 7, spe: 10}
+evs: {hp: 93, atk: 114, def: 100, spA: 97, spD: 97, spe: 113}
+---
+species: Kangaskhan
+ingamename: ROO
+displayname: ROO
+setname: TPP Charity Dual - Corvus Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Strength]
+    - [Thunderbolt]
+    - [Double Team]
+    - [Rest]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 7, atk: 6, def: 11, spA: 1, spD: 1, spe: 9}
+evs: {hp: 125, atk: 131, def: 134, spA: 132, spD: 132, spe: 137}
+---
+species: Nidoking
+ingamename: MUTTB
+displayname: MUTTB
+setname: TPP Charity Dual - Corvus Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake, Surf]
+    - [Blizzard]
+    - [Water Gun]
+    - [Bide]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 6, atk: 6, def: 3, spA: 2, spD: 2, spe: 3}
+evs: {hp: 110, atk: 123, def: 121, spA: 116, spD: 116, spe: 119}
+---
+species: Charizard
+ingamename: "W)))):;;;;"
+displayname: "W)))):;;;;"
+setname: TPP Charity Dual - Corvus Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fire Blast]
+    - [Seismic Toss]
+    - [Cut]
+    - [Fissure]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 13, def: 11, spA: 7, spD: 7, spe: 4}
+evs: {hp: 81, atk: 91, def: 87, spA: 89, spD: 89, spe: 96}
+---
+species: Farfetch'd
+ingamename: DUX
+displayname: DUX
+setname: TPP Charity Dual - Greene Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fly]
+    - [Slash]
+    - [Cut]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 5, atk: 12, def: 13, spA: 1, spD: 1, spe: 6}
+evs: {hp: 131, atk: 133, def: 125, spA: 122, spD: 122, spe: 145}
+---
+species: Raichu
+ingamename: STTUy
+displayname: STTUy
+setname: TPP Charity Dual - Greene Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Thunderbolt]
+    - [Swift]
+    - [Double Team]
+    - [Thunder Wave]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 4, def: 8, spA: 12, spD: 12, spe: 12}
+evs: {hp: 146, atk: 145, def: 156, spA: 162, spD: 162, spe: 147}
+---
+species: Tangela
+ingamename: ")UMM SA"
+displayname: ")UMM SA"
+setname: TPP Charity Dual - Greene Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Mega Drain]
+    - [Bind]
+    - [Stun Spore]
+    - [Toxic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 5, atk: 10, def: 13, spA: 15, spD: 15, spe: 0}
+evs: {hp: 113, atk: 114, def: 125, spA: 117, spD: 117, spe: 132}
+---
+species: Blastoise
+ingamename: "xMNMNMNMN"
+displayname: "xᴹɴᴹɴᴹɴᴹɴᴹɴᴹɴᴹɴᴹɴᴹɴ"
+setname: TPP Charity Dual - Greene Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Dig]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 11, def: 3, spA: 8, spD: 8, spe: 11}
+evs: {hp: 110, atk: 124, def: 121, spA: 159, spD: 159, spe: 141}
+---
+species: Nidoking
+ingamename: MNOPQE;
+displayname: MNOPQE;
+setname: TPP Charity Dual - Greene Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Strength]
+    - [Rock Slide]
+    - [Horn Drill]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 5, atk: 8, def: 1, spA: 7, spD: 7, spe: 4}
+evs: {hp: 111, atk: 123, def: 122, spA: 124, spD: 124, spe: 129}
+---
+species: Alakazam
+ingamename: LAB
+displayname: LAB
+setname: TPP Charity Dual - Greene Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Psychic]
+    - [Seismic Toss]
+    - [Reflect]
+    - [Metronome]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 10, def: 10, spA: 14, spD: 14, spe: 0}
+evs: {hp: 118, atk: 129, def: 126, spA: 126, spD: 126, spe: 126}
+---
+species: Porygon
+ingamename: BAAKA
+displayname: BAAKA
+setname: TPP Charity Dual - Greene Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Hyper Beam]
+    - [Blizzard]
+    - [Double Team]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 11, def: 7, spA: 2, spD: 2, spe: 12}
+evs: {hp: 40, atk: 43, def: 49, spA: 44, spD: 44, spe: 43}

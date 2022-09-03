@@ -1,0 +1,117 @@
+---
+species: Lombre
+setname: PWT-Miror B. Wanderer2
+tags: [in-game, PWT-Miror B. Wanderer2, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Fake Out]
+- [Razor Leaf]
+- [Nature Power]
+- [Growl]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ludicolo
+setname: PWT-Miror B. Wanderer2
+tags: [in-game, PWT-Miror B. Wanderer2, trainer+mirorb]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Leech Seed]
+- [Absorb]
+- [Nature Power]
+- [Growl]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Voltorb
+setname: PWT-Miror B. Wanderer2
+tags: [in-game, PWT-Miror B. Wanderer2, trainer+mirorb]
+item: [null]
+ability: [Static]
+moves:
+- [Shock Wave]
+- [Sonic Boom]
+- [Screech]
+- [Tackle]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hoppip
+setname: PWT-Miror B. Wanderer2
+tags: [in-game, PWT-Miror B. Wanderer2, trainer+mirorb]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Bullet Seed]
+- [Leech Seed]
+- [Sleep Powder]
+- [Tail Whip]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sudowoodo
+setname: PWT-Miror B. Wanderer2
+tags: [in-game, PWT-Miror B. Wanderer2, trainer+mirorb]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Rock Throw]
+- [Low Kick]
+- [Mimic]
+- [Flail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nuzleaf
+setname: PWT-Miror B. Wanderer2
+tags: [in-game, PWT-Miror B. Wanderer2, trainer+mirorb]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Fake Out]
+- [Bullet Seed]
+- [Growth]
+- [Nature Power]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

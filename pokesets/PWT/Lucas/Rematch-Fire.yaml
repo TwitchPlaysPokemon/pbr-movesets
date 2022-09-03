@@ -1,0 +1,118 @@
+---
+species: Absol
+setname: PWT-Lucas Rematch-Fire
+tags: [in-game, PWT-Lucas Rematch-Fire, trainer+lucas]
+item: [Razor Claw]
+ability: [Super Luck]
+moves:
+- [Megahorn]
+- [Psycho Cut]
+- [Stone Edge]
+- [Night Slash]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Kabutops
+setname: PWT-Lucas Rematch-Fire
+tags: [in-game, PWT-Lucas Rematch-Fire, trainer+lucas]
+item: [Focus Sash]
+ability: [Shell Armor] #Weak Armor
+moves:
+- [Rock Slide]
+- [Waterfall] #Liquidation
+- [Leech Life]
+- [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Lucas Rematch-Fire
+tags: [in-game, PWT-Lucas Rematch-Fire, trainer+lucas]
+item: [Life Orb]
+ability: [Synchronize] #Magic Bounce
+moves:
+- [Psychic]
+- [Thunder] #Psyshock
+- [Grass Knot]
+- [Blizzard] #Dazzling Gleam
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rotom
+setname: PWT-Lucas Rematch-Fire
+tags: [in-game, PWT-Lucas Rematch-Fire, trainer+lucas]
+item: [Choice Specs]
+ability: [Levitate]
+moves:
+- [Leaf Storm]
+- [Thunderbolt]
+- [U-Turn] #Volt Switch
+- [Ominous Wind] #Hex
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Porygon-Z
+setname: PWT-Lucas Rematch-Fire
+tags: [in-game, PWT-Lucas Rematch-Fire, trainer+lucas]
+item: [Silk Scarf]
+ability: [Adaptability]
+moves:
+- [Tri Attack]
+- [Hyper Beam]
+- [Thunder Wave]
+- [Dark Pulse]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252} #Dunno why Attack was given 252 here.
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Lucas Rematch-Fire
+tags: [in-game, PWT-Lucas Rematch-Fire, trainer+lucas]
+item: [White Herb]
+ability: [Blaze]
+moves:
+- [Earthquake]
+- [Close Combat]
+- [Flare Blitz]
+- [Aerial Ace] #Acrobatics
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

@@ -1,0 +1,118 @@
+species: Blastoise
+setname: PWT-Gonzap XD Rematch
+tags: [in-game, PWT-Gonzap XD Rematch, trainer+gonzap]
+item: [Leftovers]
+ability: [Torrent]
+moves:
+- [Hydro Cannon]
+- [Ice Beam]
+- [Yawn]
+- [Roar]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Gonzap XD Rematch
+tags: [in-game, PWT-Gonzap XD Rematch, trainer+gonzap]
+item: [Choice Band]
+ability: [Truant]
+moves:
+- [Earthquake]
+- [Shadow Ball]
+- [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Skarmory
+setname: PWT-Gonzap XD Rematch
+tags: [in-game, PWT-Gonzap XD Rematch, trainer+gonzap]
+item: [Lax Incense]
+ability: [Keen Eye]
+moves:
+- [Drill Peck]
+- [Attract]
+- [Sand Attack]
+- [Roar]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 252, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Gonzap XD Rematch
+tags: [in-game, PWT-Gonzap XD Rematch, trainer+gonzap]
+item: [Scope Lens]
+ability: [Intimidate]
+moves:
+- [Aerial Ace]
+- [Brick Break]
+- [Earthquake]
+- [Hyper Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Gonzap XD Rematch
+tags: [in-game, PWT-Gonzap XD Rematch, trainer+gonzap]
+item: [Bright Powder]
+ability: [Blaze]
+moves:
+- [Blast Burn]
+- [Dragon Claw]
+- [Bite]
+- [Roar]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Venusaur
+setname: PWT-Gonzap XD Rematch
+tags: [in-game, PWT-Gonzap XD Rematch, trainer+gonzap]
+item: [Lum Berry]
+ability: [Overgrow]
+moves:
+- [Frenzy Plant]
+- [Light Screen]
+- [Sleep Powder]
+- [Roar]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 26, atk: 26, def: 26, spA: 26, spD: 26, spe: 26}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0

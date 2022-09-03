@@ -58,3 +58,23 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Blue Masters
+tags: [in-game, PWT-Blue Masters, trainer+blue]
+item: [null]
+ability: [Intimidate, Flash Fire]
+moves:
+- [Swift]
+- [Nasty Plot] #X Sp. Atk
+- [Hyper Beam]
+- [Acupressure] #Can't Be Beat!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

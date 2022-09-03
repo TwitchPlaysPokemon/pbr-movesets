@@ -1,0 +1,57 @@
+---
+species: Glaceon
+setname: PWT-Irida
+tags: [in-game, PWT-Irida, trainer+irida]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Quick Attack]
+- [Tickle] #Baby-Doll Eyes
+- [Ice Beam]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Irida
+tags: [in-game, PWT-Irida, trainer+irida]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Tickle] #Baby-Doll Eyes
+- [Psychic]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Irida
+tags: [in-game, PWT-Irida, trainer+irida]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Tickle] #Baby-Doll Eyes
+- [Flamethrower]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

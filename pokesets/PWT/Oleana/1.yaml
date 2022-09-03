@@ -1,0 +1,40 @@
+---
+species: Froslass
+setname: PWT-Oleana
+tags: [in-game, PWT-Oleana, trainer+oleana]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Ominous Wind] #Hex
+- [Icy Wind]
+- [Will-O-Wisp]
+- [Double Team]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Milotic
+setname: PWT-Oleana
+tags: [in-game, PWT-Oleana, trainer+oleana]
+item: [null]
+ability: [Rivalry] #Competitive
+moves:
+- [Surf]
+- [Safeguard]
+- [Aqua Ring]
+- [Recover]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

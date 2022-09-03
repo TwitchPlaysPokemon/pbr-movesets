@@ -1,0 +1,99 @@
+---
+species: Crobat
+setname: PWT-Ein2
+tags: [in-game, PWT-Ein2, trainer+ein]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Protect]
+- [Toxic]
+- [Fly]
+- [Bite]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pelipper
+setname: PWT-Ein2
+tags: [in-game, PWT-Ein2, trainer+ein]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Rain Dance]
+- [Toxic]
+- [Fly]
+- [Surf]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Ein2
+tags: [in-game, PWT-Ein2, trainer+ein]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Dig]
+- [Rock Slide]
+- [Protect]
+- [Toxic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Ein2
+tags: [in-game, PWT-Ein2, trainer+ein]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Thunder]
+- [Psychic]
+- [Rain Dance]
+- [Hydro Pump]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Manectric
+setname: PWT-Ein2
+tags: [in-game, PWT-Ein2, trainer+ein]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Thunder]
+- [Bite]
+- [Toxic]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

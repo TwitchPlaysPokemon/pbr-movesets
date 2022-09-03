@@ -1,0 +1,43 @@
+species: Rampardos
+ingamename: " "
+displayname: " "
+setname: TPP Randomized Sanqui Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [High Jump Kick]
+    - [Thunder]
+    - [Rock Blast]
+    - [Recover]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 9, def: 14, spA: 10, spD: 10, spe: 15}
+evs: {hp: 84, atk: 85, def: 89, spA: 85, spD: 85, spe: 78}
+---
+species: Marshtomp
+ingamename: QHI??????
+displayname: QHI??????
+setname: TPP Randomized Sanqui Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Fire Punch]
+    - [Fly]
+    - [Cut]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 11, atk: 13, def: 6, spA: 5, spD: 5, spe: 5}
+evs: {hp: 58, atk: 63, def: 64, spA: 58, spD: 58, spe: 58}

@@ -1,0 +1,60 @@
+---
+species: Turtwig
+setname: PWT-Gardenia BDSP
+tags: [in-game, PWT-Gardenia BDSP, trainer+gardenia]
+item: [Miracle Seed]
+ability: [Shell Armor]
+moves:
+- [Grass Knot]
+- [Razor Leaf]
+- [Reflect]
+- [Growth, Howl] #Work Up
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Gardenia BDSP
+tags: [in-game, PWT-Gardenia BDSP, trainer+gardenia]
+item: [Sitrus Berry]
+ability: [Technician]
+moves:
+- [Grass Knot]
+- [Petal Dance] #Petal Blizzard
+- [Poison Sting]
+- [Stun Spore]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 0, atk: 15, def: 0, spA: 15, spD: 0, spe: 15}
+evs: {hp: 0, atk: 36, def: 0, spA: 36, spD: 0, spe: 36}
+level: 100
+rarity: 1.0
+---
+species: Cherubi
+setname: PWT-Gardenia BDSP
+tags: [in-game, PWT-Gardenia BDSP, trainer+gardenia]
+item: [null]
+ability: [Chlorophyll]
+moves:
+- [Grass Knot]
+- [Growth]
+- [Psychic] #Dazzling Gleam
+- [Safeguard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -9,7 +9,7 @@ moves:
 - [Psychic]
 - [Water Pulse]
 - [Skill Swap]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -29,7 +29,7 @@ moves:
 - [Silver Wind]
 - [Baton Pass]
 - [Swords Dance]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -49,7 +49,7 @@ moves:
 - [Rock Slide]
 - [Earthquake]
 - [Bulk Up]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -69,7 +69,7 @@ moves:
 - [Double Edge]
 - [Aerial Ace]
 - [Dragon Claw]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -89,7 +89,7 @@ moves:
 - [Aerial Ace]
 - [Earthquake]
 - [Bulk Up]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -109,7 +109,7 @@ moves:
 - [Earthquake]
 - [Roar]
 - [Double Edge]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -117,4 +117,22 @@ nature: Serious
 ivs: 0
 evs: 0
 level: 100
-rarity: 1.0
+---
+species: Tyranitar
+setname: PWT-Evice
+tags: [in-game, PWT-Evice, trainer+evice]
+item: [Nugget]
+ability: [Rock Head]
+moves:
+- [Crunch] #Shadow Rush
+- [Thunder]
+- [Rock Slide]
+- [Blizzard]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

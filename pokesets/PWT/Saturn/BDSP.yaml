@@ -1,0 +1,59 @@
+---
+species: Bronzor
+setname: PWT-Saturn BDSP
+tags: [in-game, PWT-Saturn BDSP, trainer+saturn]
+item: [null]
+ability: [Levitate]
+moves:
+- [Confuse Ray]
+- [Payback]
+- [Gyro Ball]
+- [Extrasensory]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Kadabra
+setname: PWT-Saturn BDSP
+tags: [in-game, PWT-Saturn BDSP, trainer+saturn]
+item: [Damp Rock]
+ability: [Inner Focus]
+moves:
+- [Kinesis]
+- [Reflect]
+- [Psychic]
+- [Rain Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Relaxed
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Saturn BDSP
+tags: [in-game, PWT-Saturn BDSP, trainer+saturn]
+item: [null]
+ability: [Dry Skin]
+moves:
+- [Mud Slap]
+- [Toxic]
+- [Thief]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,59 @@
+---
+species: Meganium
+setname: PWT-Lyra Masters
+tags: [in-game, PWT-Lyra Masters, trainer+lyra]
+item: [null]
+ability: [Overgrow, Leaf Guard]
+moves:
+- [Energy Ball, Leaf Storm]
+- [Focus Energy] #Dire Hit All
+- [Growth] #Sunny Side Up!
+- [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jigglypuff
+setname: PWT-Lyra Masters
+tags: [in-game, PWT-Lyra Masters, trainer+lyra]
+item: [null]
+ability: [Cute Charm]
+moves:
+- [Signal Beam, Hyper Voice] #Dazzling Gleam
+- [Focus Energy] #Dire Hit+
+- [Zen Headbutt] #Play Rough
+- [Bulk Up, Calm Mind] #Solo Act!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Celebi
+setname: PWT-Lyra Masters
+tags: [in-game, PWT-Lyra Masters, trainer+lyra]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Wood Hammer] #Grassy Glide
+- [Focus Energy] #Dire Hit All+
+- [Sunny Day, Magical Leaf] #Grassy Terrain
+- [Meditate, Nasty Plot, Synthesis] #Voice of the Forest!
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,113 @@
+---
+species: Manectric
+setname: PWT-Greevil Rematch
+tags: [in-game, PWT-Greevil Rematch, trainer+greevil]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Thunderbolt]
+- [Crunch]
+- [Quick Attack]
+- [Iron Tail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Swellow
+setname: PWT-Greevil Rematch
+tags: [in-game, PWT-Greevil Rematch, trainer+greevil]
+item: [null]
+ability: [Guts]
+moves:
+- [Aerial Ace]
+- [Steel Wing]
+- [Facade]
+- [Mud Slap]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Starmie
+setname: PWT-Greevil Rematch
+tags: [in-game, PWT-Greevil Rematch, trainer+greevil]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Psychic]
+- [Thunderbolt]
+- [Ice Beam]
+- [Swift]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Granbull
+setname: PWT-Greevil Rematch
+tags: [in-game, PWT-Greevil Rematch, trainer+greevil]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Earthquake]
+- [Shadow Ball]
+- [Brick Break]
+- [Double-Edge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Altaria
+setname: PWT-Greevil Rematch
+tags: [in-game, PWT-Greevil Rematch, trainer+greevil]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Dragon Breath]
+- [Earthquake]
+- [Aerial Ace]
+- [Steel Wing]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Aerodactyl
+setname: PWT-Greevil Rematch
+tags: [in-game, PWT-Greevil Rematch, trainer+greevil]
+item: [null]
+ability: [Rock Head]
+moves:
+- [Earthquake]
+- [Ancient Power]
+- [Aerial Ace]
+- [Double-Edge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

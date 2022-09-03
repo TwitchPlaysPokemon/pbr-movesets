@@ -1,0 +1,113 @@
+---
+species: Claydol
+setname: PWT-Somek
+tags: [in-game, PWT-Somek, trainer+battlus]
+item: [null]
+ability: [Levitate]
+moves:
+- [Ancient Power]
+- [Earthquake]
+- [Psychic]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Pinsir
+setname: PWT-Somek
+tags: [in-game, PWT-Somek, trainer+battlus]
+item: [null]
+ability: [Hyper Cutter]
+moves:
+- [Revenge]
+- [Seismic Toss]
+- [Earthquake]
+- [Rock Tomb]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Crobat
+setname: PWT-Somek
+tags: [in-game, PWT-Somek, trainer+battlus]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Aerial Ace]
+- [Shadow Ball]
+- [Sludge Bomb]
+- [Steel Wing]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Gligar
+setname: PWT-Somek
+tags: [in-game, PWT-Somek, trainer+battlus]
+item: [null]
+ability: [Hyper Cutter]
+moves:
+- [Slash]
+- [Earthquake]
+- [Rock Tomb]
+- [Aerial Ace]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Flygon
+setname: PWT-Somek
+tags: [in-game, PWT-Somek, trainer+battlus]
+item: [null]
+ability: [Levitate]
+moves:
+- [Crunch]
+- [Dragon Claw]
+- [Earthquake]
+- [Flamethrower]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Gyarados
+setname: PWT-Somek
+tags: [in-game, PWT-Somek, trainer+battlus]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Hyper Beam]
+- [Dragon Dance]
+- [Hydro Pump]
+- [Earthquake]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

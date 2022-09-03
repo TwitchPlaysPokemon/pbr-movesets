@@ -1,0 +1,60 @@
+---
+species: Bidoof
+setname: PWT-Ress
+tags: [in-game, PWT-Ress, trainer+ress]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Thunderbolt]
+- [Ice Beam]
+- [Shadow Ball]
+- [Swift]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Starly
+setname: PWT-Ress
+tags: [in-game, PWT-Ress, trainer+ress]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Air Slash]
+- [Roost]
+- [Ominous Wind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 176, def: 0, spA: 252, spD: 0, spe: 80}
+level: 100
+rarity: 1.0
+---
+species: Shinx
+setname: PWT-Ress
+tags: [in-game, PWT-Ress, trainer+ress]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Fire Fang]
+- [Zen Headbutt] #Play Rough
+- [Crunch]
+- [Iron Tail]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

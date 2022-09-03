@@ -1,0 +1,60 @@
+---
+species: Glaceon
+setname: PWT-Irida Tenacity
+tags: [in-game, PWT-Irida Tenacity, trainer+irida]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Water Pulse]
+- [Calm Mind]
+- [Ice Beam]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Espeon
+setname: PWT-Irida Tenacity
+tags: [in-game, PWT-Irida Tenacity, trainer+irida]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Tickle] #Baby-Doll Eyes
+- [Psychic]
+- [Silver Wind] #Dazzling Gleam
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Irida Tenacity
+tags: [in-game, PWT-Irida Tenacity, trainer+irida]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Quick Attack]
+- [Iron Tail]
+- [Flamethrower]
+- [Rock Smash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0

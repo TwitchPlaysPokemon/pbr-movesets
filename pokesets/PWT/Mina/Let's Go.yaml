@@ -1,7 +1,7 @@
 ---
 species: Mr. Mime
-setname: PWT-Mina Let's Go
-tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+setname: PWT-Let's Go Mina
+tags: [in-game, PWT-Let's Go Mina, trainer+mina]
 item: [null]
 ability: [null]
 moves:
@@ -20,8 +20,8 @@ level: 100
 rarity: 1.0
 ---
 species: Wigglytuff
-setname: PWT-Mina Let's Go
-tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+setname: PWT-Let's Go Mina
+tags: [in-game, PWT-Let's Go Mina, trainer+mina]
 item: [null]
 ability: [null]
 moves:
@@ -40,8 +40,8 @@ level: 100
 rarity: 1.0
 ---
 species: Ninetales #Alolan
-setname: PWT-Mina Let's Go
-tags: [in-game, PWT-Mina Let's Go, trainer+mina]
+setname: PWT-Let's Go Mina
+tags: [in-game, PWT-Let's Go Mina, trainer+mina]
 item: [null]
 ability: [null]
 moves:

@@ -1,0 +1,100 @@
+---
+species: Rapidash
+setname: PWT-Flint BDSP
+tags: [in-game, PWT-Flint BDSP, trainer+flint]
+item: [Wide Lens]
+ability: [Flame Body]
+moves:
+- [Flare Blitz] #Flame Charge
+- [Iron Tail]
+- [Poison Jab]
+- [Hypnosis]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 25, atk: 31, def: 25, spA: 0, spD: 25, spe: 31}
+evs: {hp: 12, atk: 60, def: 12, spA: 0, spD: 12, spe: 204}
+level: 100
+rarity: 1.0
+---
+species: Steelix
+setname: PWT-Flint BDSP
+tags: [in-game, PWT-Flint BDSP, trainer+flint]
+item: [Life Orb]
+ability: [Rivalry] #Sheer Force
+moves:
+- [Thunder Fang]
+- [Fire Fang]
+- [Iron Tail]
+- [Crunch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 12, atk: 252, def: 0, spA: 12, spD: 12, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Drifblim
+setname: PWT-Flint BDSP
+tags: [in-game, PWT-Flint BDSP, trainer+flint]
+item: [Sitrus Berry]
+ability: [Unburden]
+moves:
+- [Ominous Wind] #Strength Sap
+- [Minimize]
+- [Baton Pass]
+- [Will-O-Wisp]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 12, atk: 60, def: 12, spA: 0, spD: 12, spe: 204}
+level: 100
+rarity: 1.0
+---
+species: Lopunny
+setname: PWT-Flint BDSP
+tags: [in-game, PWT-Flint BDSP, trainer+flint]
+item: [Leftovers]
+ability: [Cute Charm]
+moves:
+- [Mirror Coat]
+- [High Jump Kick]
+- [Quick Attack]
+- [Fire Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Infernape
+setname: PWT-Flint BDSP
+tags: [in-game, PWT-Flint BDSP, trainer+flint]
+item: [Focus Sash]
+ability: [Iron Fist]
+moves:
+- [Fire Punch]
+- [Thunder Punch]
+- [Close Combat]
+- [Mach Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 12, atk: 60, def: 0, spA: 0, spD: 0, spe: 204}
+level: 100
+rarity: 1.0

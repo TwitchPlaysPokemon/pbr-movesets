@@ -1,0 +1,60 @@
+---
+species: Machoke
+setname: PWT-Maylene BDSP
+tags: [in-game, PWT-Maylene BDSP BDSP, trainer+maylene]
+item: [Expert Belt]
+ability: [Guts]
+moves:
+- [Low Kick] #Low Sweep
+- [Knock Off]
+- [Rock Tomb]
+- [Magnitude] #Bulldoze
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 15, atk: 15, def: 0, spA: 0, spD: 0, spe: 15}
+evs: {hp: 36, atk: 52, def: 0, spA: 0, spD: 0, spe: 36}
+level: 100
+rarity: 1.0
+---
+species: Meditite
+setname: PWT-Maylene BDSP
+tags: [in-game, PWT-Maylene BDSP, trainer+maylene]
+item: [Light Clay]
+ability: [Pure Power]
+moves:
+- [Drain Punch]
+- [Light Screen]
+- [Flash]
+- [Bulk Up]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Naive
+ivs: {hp: 15, atk: 15, def: 0, spA: 0, spD: 0, spe: 15}
+evs: {hp: 36, atk: 52, def: 0, spA: 0, spD: 0, spe: 36}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Maylene BDSP
+tags: [in-game, PWT-Maylene BDSP, trainer+maylene]
+item: [Big Root]
+ability: [Steadfast]
+moves:
+- [Drain Punch]
+- [Screech]
+- [Metal Claw]
+- [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 0, atk: 15, def: 15, spA: 0, spD: 0, spe: 15}
+evs: {hp: 0, atk: 68, def: 68, spA: 0, spD: 0, spe: 68}
+level: 100
+rarity: 1.0

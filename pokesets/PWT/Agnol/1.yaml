@@ -1,0 +1,113 @@
+---
+species: Skarmory
+setname: PWT-Agnol
+tags: [in-game, PWT-Agnol, trainer+agnol]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Steel Wing]
+- [Drill Peck]
+- [Sand Attack]
+- [Return]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Girafarig
+setname: PWT-Agnol
+tags: [in-game, PWT-Agnol, trainer+agnol]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Return]
+- [Psychic]
+- [Light Screen]
+- [Thunderbolt]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Sableye
+setname: PWT-Agnol
+tags: [in-game, PWT-Agnol, trainer+agnol]
+item: [null]
+ability: [Keen Eye]
+moves:
+- [Feint Attack]
+- [Shadow Ball]
+- [Aerial Ace]
+- [Confuse Ray]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Kingdra
+setname: PWT-Agnol
+tags: [in-game, PWT-Agnol, trainer+agnol]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Hydro Pump]
+- [DragonBreath]
+- [Ice Beam]
+- [Attract]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Shedinja
+setname: PWT-Agnol
+tags: [in-game, PWT-Agnol, trainer+agnol]
+item: [null]
+ability: [Wonder Guard]
+moves:
+- [Silver Wind]
+- [Shadow Ball]
+- [Confuse Ray]
+- [Dig]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Shuckle
+setname: PWT-Agnol
+tags: [in-game, PWT-Agnol, trainer+agnol]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Safeguard] #Shadow Rush
+- [Encore]
+- [Rest]
+- [Bide]
+gender: [m,f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

@@ -1,0 +1,59 @@
+species: Dunsparce
+setname: TPPMD Gates to Infinity
+tags: [runmon, in-game]
+item: [Green Scarf]
+ability: [Serene Grace]
+moves:
+    - [Yawn]
+    - [Screech]
+    - [Rollout]
+    - [Ancient Power]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Lax
+ivs: 31
+evs: 0
+---
+species: Espeon
+setname: TPPMD Gates to Infinity
+tags: [runmon, in-game]
+item: [Green Scarf]
+ability: [Synchronize]
+moves:
+    - [Quick Attack]
+    - [Confusion]
+    - [Swift]
+    - [Psybeam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Calm
+ivs: 31
+evs: 0
+---
+species: Umbreon
+setname: TPPMD Gates to Infinity
+tags: [runmon, in-game]
+item: [Green Scarf]
+ability: [Synchronize]
+moves:
+    - [Quick Attack]
+    - [Pursuit]
+    - [Confuse Ray]
+    - [Feint Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hasty
+ivs: 31
+evs: 0

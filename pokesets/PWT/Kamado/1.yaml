@@ -1,0 +1,80 @@
+---
+species: Golem
+setname: PWT-Kamado
+tags: [in-game, PWT-Kamado, trainer+kamado]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Iron Head]
+- [Stone Edge]
+- [Thunder Punch]
+- [Magnitude] #Bulldoze
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Clefable
+setname: PWT-Kamado
+tags: [in-game, PWT-Kamado, trainer+kamado]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Giga Drain] #Draining Kiss
+- [Psychic]
+- [Calm Mind]
+- [Water Pulse]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Kamado
+tags: [in-game, PWT-Kamado, trainer+kamado]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Close Combat]
+- [Swords Dance]
+- [Pin Missile]
+- [Aerial Ace]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Kamado
+tags: [in-game, PWT-Kamado, trainer+kamado]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Zen Headbutt]
+- [Earthquake] #High Horsepower
+- [Giga Impact]
+- [Fire Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

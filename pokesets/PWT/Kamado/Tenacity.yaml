@@ -1,0 +1,102 @@
+---
+species: Golem
+setname: PWT-Kamado Tenacity
+tags: [in-game, PWT-Kamado Tenacity, trainer+kamado]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Iron Head]
+- [Stone Edge]
+- [Thunder Punch]
+- [Earth Power]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Kamado Tenacity
+tags: [in-game, PWT-Kamado Tenacity, trainer+kamado]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Close Combat]
+- [Megahorn]
+- [Aerial Ace]
+- [Swords Dance]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Probopass
+setname: PWT-Kamado Tenacity
+tags: [in-game, PWT-Kamado Tenacity, trainer+kamado]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Stone Edge]
+- [Iron Head]
+- [Stealth Rock]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Ursaring
+displayname: Ursaluna
+ingamename: Ursaluna
+setname: PWT-Beni Tenacity
+tags: [in-game, PWT-Beni Tenacity, trainer+beni]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Zen Headbutt] #Play Rough
+- [Charm] #Baby-Doll Eyes
+- [Dig] #Headlong Rush
+- [Ice Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Snorlax
+setname: PWT-Kamado Tenacity
+tags: [in-game, PWT-Kamado Tenacity, trainer+kamado]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Zen Headbutt]
+- [Earthquake] #High Horsepower
+- [Giga Impact]
+- [Fire Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0

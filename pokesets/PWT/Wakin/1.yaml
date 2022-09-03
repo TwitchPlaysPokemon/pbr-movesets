@@ -1,0 +1,34 @@
+---
+species: Corphish
+setname: PWT-Wakin
+tags: [in-game, PWT-Wakin, trainer+wakin]
+item: [null]
+ability: [Shell Armor]
+moves:
+- [Vice Grip]
+- [Bubble]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Koffing
+setname: PWT-Wakin
+tags: [in-game, PWT-Wakin, trainer+wakin]
+item: [null]
+ability: [Shell Armor]
+moves:
+- [Tackle]
+- [Poison Gas]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

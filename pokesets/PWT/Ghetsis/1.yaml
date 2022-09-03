@@ -1,0 +1,40 @@
+---
+species: Drapion
+setname: PWT-Ghetsis
+tags: [in-game, PWT-Ghetsis, trainer+ghetsis]
+item: [null]
+ability: [Sniper]
+moves:
+- [Night Slash]
+- [Earthquake]
+- [Poison Fang]
+- [X-Scissor]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Ghetsis
+tags: [in-game, PWT-Ghetsis, trainer+ghetsis]
+item: [null]
+ability: [Anticipation]
+moves:
+- [Brick Break]
+- [Shadow Ball]
+- [Sucker Punch]
+- [Poison Jab]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

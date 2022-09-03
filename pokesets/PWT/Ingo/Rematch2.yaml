@@ -1,0 +1,119 @@
+---
+species: Alakazam
+setname: PWT-Warden Ingo Rematch2
+tags: [in-game, PWT-Warden Ingo Rematch2, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Psychic]
+- [Shadow Ball]
+- [Blizzard] #Dazzling Gleam
+- [Calm Mind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Tangrowth
+setname: PWT-Warden Ingo Rematch2
+tags: [in-game, PWT-Warden Ingo Rematch2, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Sleep Powder]
+- [Energy Ball]
+- [Ancient Power]
+- [Sludge Bomb]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Probopass
+setname: PWT-Warden Ingo Rematch2
+tags: [in-game, PWT-Warden Ingo Rematch2, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Power Gem]
+- [Earth Power]
+- [Flash Cannon]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Warden Ingo Rematch2
+tags: [in-game, PWT-Warden Ingo Rematch2, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Bullet Punch]
+- [Ice Punch]
+- [Fire Punch]
+- [Close Combat]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 252, def: 252, spA: 0, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Magnezone
+setname: PWT-Warden Ingo Rematch2
+tags: [in-game, PWT-Warden Ingo Rematch2, trainer+ingo]
+item: [null]
+ability: [null]
+moves:
+- [Thunder]
+- [Tri Attack]
+- [Flash Cannon]
+- [Thunder Wave]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Warden Ingo Rematch2
+tags: [in-game, PWT-Warden Ingo Rematch2, trainer+ingo]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Aerial Ace]
+- [Stone Edge]
+- [X-Scissor]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 252, spe: 6}
+level: 100
+rarity: 1.0

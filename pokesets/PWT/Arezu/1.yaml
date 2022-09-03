@@ -1,0 +1,39 @@
+---
+species: Bronzong
+setname: PWT-Arezu Tenacity
+tags: [in-game, PWT-Arezu Tenacity, trainer+arezu]
+item: [null]
+ability: [null]
+moves:
+- [Ominous Wind] #Hex
+- [Psychic]
+- [Hypnosis]
+- [Flash Cannon]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Purugly
+setname: PWT-Arezu Tenacity
+tags: [in-game, PWT-Arezu Tenacity, trainer+arezu]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Slash]
+- [Night Slash]
+- [Zen Headbutt] #Play Rough
+- [Aerial Ace]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 31
+evs: 0
+level: 100
+rarity: 1.0

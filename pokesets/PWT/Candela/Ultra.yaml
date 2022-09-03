@@ -6,9 +6,9 @@ item: [null]
 ability: [null]
 gender: [f]
 moves:
-- [Overheat]
-- [Fire Spin]
-- [Flamethrower]
+- [Overheat, Fire Blast]
+- [Fire Spin, Ember, Heat Wave]
+- [Flamethrower, Superpower]
 - [Last Resort]
 happiness: 255
 biddable: false
@@ -28,7 +28,7 @@ gender: [f]
 moves:
 - [Blast Burn, Fire Blast]
 - [Solar Beam]
-- [Overheat]
+- [Overheat, Ember]
 - [Shadow Claw]
 happiness: 255
 biddable: false
@@ -46,7 +46,7 @@ item: [null]
 ability: [null]
 gender: [f]
 moves:
-- [Fire Punch, Fire Blast]
+- [Fire Punch, Fire Blast, Fire Spin]
 - [Brick Break, Karate Chop]
 - [Thunderbolt, Psychic]
 - [Return]
@@ -59,7 +59,7 @@ evs: 0
 level: 100
 rarity: 1.0
 ---
-species: Marowak
+species: Marowak #Alolan
 setname: PWT-Candela Ultra
 tags: [in-game, PWT-Candela Ultra, trainer+candela]
 item: [null]
@@ -67,7 +67,7 @@ ability: [null]
 gender: [f]
 moves:
 - [Bone Club]
-- [Flame Wheel]
+- [Flame Wheel, Fire Spin, Fire Blast]
 - [Rock Smash]
 - [Shadow Ball]
 happiness: 255
@@ -88,7 +88,7 @@ gender: [f]
 moves:
 - [Fire Fang]
 - [Crunch]
-- [Flamethrower]
+- [Flamethrower, Fire Blast]
 - [Return]
 happiness: 255
 biddable: false
@@ -110,26 +110,6 @@ moves:
 - [Close Combat, Rock Smash]
 - [Solar Beam]
 - [Fire Spin]
-happiness: 255
-biddable: false
-ball: [Poke]
-nature: Serious
-ivs: 0
-evs: 0
-level: 100
-rarity: 1.0
----
-species: Electivire
-setname: PWT-Candela Ultra
-tags: [in-game, PWT-Candela Ultra, trainer+candela]
-item: [null]
-ability: [null]
-gender: [f]
-moves:
-- [Thunder Punch]
-- [Thunder, Thunder Shock]
-- [Ice Punch]
-- [Flamethrower]
 happiness: 255
 biddable: false
 ball: [Poke]

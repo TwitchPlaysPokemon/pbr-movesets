@@ -1,0 +1,60 @@
+---
+species: Swampert
+setname: PWT-May Masters
+tags: [in-game, PWT-May Masters, trainer+may]
+item: [null]
+ability: [Torrent, Damp, Swift Swim]
+moves:
+- [Muddy Water]
+- [Rain Dance]
+- [Earth Power]
+- [Nasty Plot] #Ready For This?
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lopunny
+setname: PWT-May Masters
+tags: [in-game, PWT-May Masters, trainer+may]
+item: [null]
+ability: [Cute Charm, Klutz, Limber, Scrappy]
+moves:
+- [Headbutt]
+- [Recover] #Potion
+- [High Jump Kick, Defense Curl] #X Defense All
+- [Bounce] #Hippity Hoppity!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Latias
+setname: PWT-May Masters
+tags: [in-game, PWT-May Masters, trainer+may]
+item: [null]
+ability: [Levitate]
+moves:
+- [Mist Ball]
+- [Gravity] #Psychic Wish
+- [Nasty Plot] #X Sp. Atk All
+- [Cosmic Power] #Best Friends!
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

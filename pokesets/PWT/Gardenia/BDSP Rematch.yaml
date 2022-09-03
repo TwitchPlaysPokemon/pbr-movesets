@@ -1,0 +1,117 @@
+---
+species: Jumpluff
+setname: PWT-Gardenia BDSP Rematch
+tags: [in-game, PWT-Gardenia BDSP Rematch, trainer+gardenia]
+item: [Heat Rock]
+ability: [Chlorophyll]
+moves:
+- [Giga Drain]
+- [Sleep Powder]
+- [Leech Seed]
+- [Sunny Day]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 76, atk: 0, def: 44, spA: 128, spD: 8, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Torterra
+setname: PWT-Gardenia BDSP Rematch
+tags: [in-game, PWT-Gardenia BDSP Rematch, trainer+gardenia]
+item: [Life Orb]
+ability: [Overgrow]
+moves:
+- [Wood Hammer]
+- [Earthquake]
+- [Stone Edge]
+- [Iron Tail]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Gardenia BDSP Rematch
+tags: [in-game, PWT-Gardenia BDSP Rematch, trainer+gardenia]
+item: [Power Herb]
+ability: [Natural Cure]
+moves:
+- [Solar Beam]
+- [Sludge Bomb]
+- [Aromatherapy] #Grassy Terrain
+- [Sunny Day]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Cherrim
+setname: PWT-Gardenia BDSP Rematch
+tags: [in-game, PWT-Gardenia BDSP Rematch, trainer+gardenia]
+item: [Focus Sash]
+ability: [Flower Gift]
+moves:
+- [Petal Dance] #Petal Blizzard
+- [Solar Beam]
+- [Growth]
+- [Sunny Day]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Mild
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 6}
+level: 100
+rarity: 1.0
+---
+species: Breloom
+setname: PWT-Gardenia BDSP Rematch
+tags: [in-game, PWT-Gardenia BDSP Rematch, trainer+gardenia]
+item: [Toxic Orb]
+ability: [Poison Heal]
+moves:
+- [Focus Punch]
+- [Leech Seed]
+- [Substitute]
+- [Spore]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 31
+evs: {hp: 120, atk: 138, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Sunflora
+setname: PWT-Gardenia BDSP Rematch
+tags: [in-game, PWT-Gardenia BDSP Rematch, trainer+gardenia]
+item: [Choice Scarf]
+ability: [Solar Power]
+moves:
+- [Solar Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+level: 100
+rarity: 1.0

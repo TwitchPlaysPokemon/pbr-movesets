@@ -1,0 +1,80 @@
+---
+species: Gyarados
+setname: PWT-Cyrus BDSP
+tags: [in-game, PWT-Cyrus BDSP, trainer+cyrus]
+item: [Wacan Berry]
+ability: [Intimidate]
+moves:
+- [Ice Fang]
+- [Waterfall]
+- [Crunch]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crobat
+setname: PWT-Cyrus BDSP
+tags: [in-game, PWT-Cyrus BDSP, trainer+cyrus]
+item: [Quick Claw]
+ability: [Mold Breaker] #Infiltrator
+moves:
+- [Cross Poison]
+- [Tailwind]
+- [Air Cutter]
+- [U-Turn]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Cyrus BDSP
+tags: [in-game, PWT-Cyrus BDSP, trainer+cyrus]
+item: [Scope Lens]
+ability: [Super Luck]
+moves:
+- [Air Cutter]
+- [Night Slash]
+- [Steel Wing]
+- [Defog]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Weavile
+setname: PWT-Cyrus BDSP
+tags: [in-game, PWT-Cyrus BDSP, trainer+cyrus]
+item: [Chople Berry]
+ability: [Frisk] #Pickpocket
+moves:
+- [Metal Claw]
+- [Fling, Thief] #Normally is Fling, but given the Infiltrator strategy Thief is the best I can do
+- [Dig]
+- [Aerial Ace]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 15, atk: 0, def: 15, spA: 0, spD: 15, spe: 0}
+evs: {hp: 68, atk: 0, def: 68, spA: 0, spD: 68, spe: 0}
+level: 100
+rarity: 1.0

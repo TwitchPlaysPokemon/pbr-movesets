@@ -1,0 +1,106 @@
+---
+species: Pichu
+setname: PWT-Eagun-1
+tags: [in-game, PWT-Eagun, trainer+eagun]
+item: [null]
+ability: [Static]
+moves:
+- [Rain Dance]
+- [Thunderbolt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Pichu
+setname: PWT-Eagun-2
+tags: [in-game, PWT-Eagun, trainer+eagun]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder Wave]
+- [Thunder]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Pikachu
+setname: PWT-Eagun-1
+tags: [in-game, PWT-Eagun, trainer+eagun]
+item: [Light Ball]
+ability: [Static]
+moves:
+- [Thunder]
+- [Thunder Wave]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Pikachu
+setname: PWT-Eagun-2
+tags: [in-game, PWT-Eagun, trainer+eagun]
+item: [Light Ball]
+ability: [Static]
+moves:
+- [Volt Tackle]
+- [Rain Dance]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Raichu
+setname: PWT-Eagun-1
+tags: [in-game, PWT-Eagun, trainer+eagun]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder]
+- [Thunder Wave]
+- [Brick Break]
+- [Counter]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Raichu
+setname: PWT-Eagun-2
+tags: [in-game, PWT-Eagun, trainer+eagun]
+item: [null]
+ability: [Static]
+moves:
+- [Volt Tackle]
+- [Rain Dance]
+- [Brick Break]
+- [Counter]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

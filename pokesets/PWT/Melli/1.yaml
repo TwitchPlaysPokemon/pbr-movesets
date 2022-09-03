@@ -1,0 +1,55 @@
+---
+species: Skuntank
+setname: PWT-Melli
+tags: [in-game, PWT-Melli, trainer+melli]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Poison Jab]
+- [Night Slash]
+- [Flamethrower]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Zubat
+setname: PWT-Melli
+tags: [in-game, PWT-Melli, trainer+melli]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Hypnosis]
+- [Gust]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Skorupi
+setname: PWT-Melli
+tags: [in-game, PWT-Melli, trainer+melli]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Sludge] #Venoshock
+- [Bite]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

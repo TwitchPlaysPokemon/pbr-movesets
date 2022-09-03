@@ -26,8 +26,8 @@ item: [null]
 ability: [null]
 gender: [f]
 moves:
-- [Rock Throw]
-- [Heat Wave]
+- [Rock Throw, Rock Tomb]
+- [Heat Wave, Ember]
 - [Overheat]
 - [Stone Edge]
 happiness: 255
@@ -87,8 +87,8 @@ gender: [f]
 moves:
 - [Flamethrower]
 - [Body Slam]
-- [Weather Ball]
-- [Return]
+- [Weather Ball, Ember]
+- [Return, Quick Attack]
 happiness: 255
 biddable: false
 ball: [Poke]
@@ -105,7 +105,7 @@ item: [null]
 ability: [null]
 gender: [f]
 moves:
-- [Ember]
+- [Ember, Flamethrower]
 - [Scratch]
 - [Frustration]
 happiness: 0

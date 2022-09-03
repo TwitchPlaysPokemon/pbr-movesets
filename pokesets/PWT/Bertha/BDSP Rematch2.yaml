@@ -1,0 +1,120 @@
+---
+species: Whiscash
+setname: PWT-Bertha BDSP Rematch2
+tags: [in-game, PWT-Bertha BDSP Rematch2, trainer+bertha]
+item: [Rindo Berry]
+ability: [Hydration]
+moves:
+- [Earthquake]
+- [Ice Beam]
+- [Surf] #Scald
+- [Zen Headbutt]
+happiness: 255
+gender: [f]
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Bertha BDSP Rematch2
+tags: [in-game, PWT-Bertha BDSP Rematch2, trainer+bertha]
+item: [Sitrus Berry]
+ability: [Hyper Cutter]
+moves:
+- [Earthquake]
+- [Thunder Fang]
+- [Guillotine]
+- [X-Scissor]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nidoking
+setname: PWT-Bertha BDSP Rematch2
+tags: [in-game, PWT-Bertha BDSP Rematch2, trainer+bertha]
+item: [Life Orb]
+ability: [Adaptability] #Sheer Force
+moves:
+- [Sludge Bomb]
+- [Earth Power]
+- [Thunderbolt]
+- [Ice Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hippowdon
+setname: PWT-Bertha BDSP Rematch2
+tags: [in-game, PWT-Bertha BDSP Rematch2, trainer+bertha]
+item: [Chesto Berry]
+ability: [Sand Stream]
+moves:
+- [Ice Fang]
+- [Earthquake]
+- [Crunch]
+- [Rest]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mamoswine
+setname: PWT-Bertha BDSP Rematch2
+tags: [in-game, PWT-Bertha BDSP Rematch2, trainer+bertha]
+item: [Nevermeltice]
+ability: [Thick Fat]
+moves:
+- [Earthquake]
+- [Icicle Spear]
+- [Ice Shard]
+- [Double Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Rhyperior
+setname: PWT-Bertha BDSP Rematch2
+tags: [in-game, PWT-Bertha BDSP Rematch2, trainer+bertha]
+item: [Muscle Band]
+ability: [Solid Rock]
+moves:
+- [Earthquake]
+- [Rock Wrecker]
+- [Megahorn]
+- [Thunder Fang]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 6, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
