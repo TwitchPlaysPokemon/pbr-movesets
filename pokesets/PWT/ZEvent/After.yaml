@@ -1,0 +1,130 @@
+species: Venusaur
+ingamename: FLORIZARRE
+displayname: FLORIZARRE
+setname: ZPP LeafGreen After
+tags: [in-game, PWT-ZEvent-After, trainer+zevent]
+item: [Antidote]
+ability: [Overgrow]
+moves:
+    - [Giga Drain]
+    - [Growth]
+    - [Synthesis]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Modest
+ivs: {hp: 13, atk: 2, def: 2, spA: 29, spD: 7, spe: 29}
+evs: {hp: 58, atk: 65, def: 117, spA: 43, spD: 9, spe: 158}
+---
+species: Pidgeot
+ingamename: AAAAAAAA
+displayname: AAAAAAAA
+setname: ZPP LeafGreen After
+tags: [in-game, PWT-ZEvent-After, trainer+zevent]
+item: [Poké Ball]
+ability: [Keen Eye]
+moves:
+    - [Fly]
+    - [Aerial Ace]
+    - [Steel Wing]
+    - [Quick Attack]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Naive
+ivs: {hp: 22, atk: 8, def: 19, spA: 8, spD: 8, spe: 7}
+evs: {hp: 22, atk: 94, def: 46, spA: 51, spD: 30, spe: 120}
+---
+species: Jolteon
+ingamename: A
+displayname: A
+setname: ZPP LeafGreen After
+tags: [in-game, PWT-ZEvent-After, trainer+zevent]
+item: [null]
+ability: [Volt Absorb]
+moves:
+    - [Thunder]
+    - [Dig]
+    - [Thunder Wave]
+    - [Quick Attack]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Impish
+ivs: {hp: 22, atk: 13, def: 19, spA: 31, spD: 12, spe: 27}
+evs: {hp: 10, atk: 39, def: 49, spA: 45, spD: 43, spe: 76}
+---
+species: Lapras
+ingamename: FLOP
+displayname: FLOP
+setname: ZPP LeafGreen After
+tags: [in-game, PWT-ZEvent-After, trainer+zevent]
+item: [null]
+ability: [Water Absorb]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Water Pulse]
+    - [Psychic]
+gender: [m]
+happiness: 224
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Naive
+ivs: {hp: 19, atk: 5, def: 11, spA: 16, spD: 27, spe: 16}
+evs: {hp: 12, atk: 82, def: 78, spA: 11, spD: 9, spe: 63}
+---
+species: Snorlax
+ingamename: BIDE
+displayname: BIDE
+setname: ZPP LeafGreen After
+tags: [in-game, PWT-ZEvent-After, trainer+zevent]
+item: [null]
+ability: [Immunity]
+moves:
+    - [Body Slam]
+    - [Earthquake]
+    - [Rock Tomb]
+    - [Snore]
+gender: [m]
+happiness: 177
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Docile
+ivs: {hp: 10, atk: 5, def: 5, spA: 6, spD: 15, spe: 0}
+evs: {hp: 9, atk: 12, def: 7, spA: 12, spD: 4, spe: 22}
+---
+species: Sandshrew
+ingamename: SABELETTE
+displayname: SABELETTE
+setname: ZPP LeafGreen After
+tags: [in-game, PWT-ZEvent-After, trainer+zevent]
+item: [null]
+ability: [Sand Veil]
+moves:
+    - [Scratch]
+    - [Sand Attack]
+    - [Cut]
+    - [Strength]
+gender: [m]
+happiness: 146
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Docile
+ivs: {hp: 14, atk: 30, def: 15, spA: 26, spD: 21, spe: 18}
+evs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 0, spe: 1}
