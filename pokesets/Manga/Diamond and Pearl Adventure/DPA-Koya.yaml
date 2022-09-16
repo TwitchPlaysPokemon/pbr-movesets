@@ -30,7 +30,6 @@ moves:
 - [Hammer Arm]
 - [Earthquake]
 - [Light Screen]
-gender: [m,f]
 happiness: 255
 biddable: true
 rarity: 1.0

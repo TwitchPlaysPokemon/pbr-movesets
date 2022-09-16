@@ -78,7 +78,7 @@ happiness: 255
 biddable: true
 rarity: 1.0
 nature: null
-evs: {hp: 0, atk: 252, def: 0, spA: , spD: 4, spe: 252}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 ivs: 31
 tags: [DPA-Hareta, manga]
 ---
@@ -98,7 +98,7 @@ happiness: 255
 biddable: true
 rarity: 1.0
 nature: null
-evs: {hp: 252, atk: 4, def: 0, spA: , spD: 0, spe: 252}
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
 ivs: 31
 tags: [DPA-Hareta, manga]
 ---

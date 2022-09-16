@@ -61,27 +61,6 @@ evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
 ivs: 31
 tags: [PS-Gold, manga]
 ---
-species: Typhlosion
-setname: PS-Gold
-ingamename: Exbo
-displayname: Exbo
-ability: [Blaze]
-item: [null]
-ball: [Poke]
-moves:
-- [Smokescreen]
-- [Flame Wheel]
-- [Flamethrower]
-- [Blast Burn]
-gender: [m]
-happiness: 255
-biddable: true
-rarity: 1.0
-nature: Impish
-evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
-ivs: 31
-tags: [PS-Gold, manga]
----
 species: Sunflora
 setname: PS-Gold
 ingamename: Sunbo
