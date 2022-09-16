@@ -1,0 +1,100 @@
+species: Yanmega
+setname: PS-Mars
+ingamename: Yanmega
+displayname: Yanmega
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Slash]
+- [U-turn]
+- [Bug Buzz]
+- [Bug Bite]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Mars, manga]
+---
+species: Sableye
+setname: PS-Jupiter
+ingamename: Sableye
+displayname: Sableye
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Shadow Sneak]
+- [Feint Attack]
+- [Punishment]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+ivs: 31
+tags: [PS-Jupiter, manga]
+---
+species: Abra
+setname: PS-Saturn
+ingamename: Abra
+displayname: Abra
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Teleport]
+- [Fire Punch]
+- [Ice Punch]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Saturn, manga]
+---
+species: Octillery
+setname: PS-Saturn
+ingamename: Octillery
+displayname: Octillery
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Octazooka]
+- [Gunk Shot]
+- [Blizzard]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Saturn, manga]
+---
+species: Heatran 
+setname: PS-Charon
+ingamename: Heatran
+displayname: Heatran
+ability: [Flash Fire]
+item: [null]
+ball: [Poke]
+moves:
+- [Magma Storm]
+- [Fire Spin]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+ivs: 31
+tags: [PS-Charon, manga]
+---

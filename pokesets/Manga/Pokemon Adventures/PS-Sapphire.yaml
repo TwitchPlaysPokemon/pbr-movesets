@@ -1,0 +1,143 @@
+species: Aggron
+setname: PS-Sapphire
+ingamename: Rono
+displayname: Rono
+ability: [Sturdy]
+item: [null]
+ball: [Poke]
+moves:
+- [Iron Tail]
+- [Iron Defense]
+- [Aerial Ace]
+- [Metal Burst]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naughty
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+ivs: 31
+tags: [PS-Sapphire, manga]
+---
+species: Blaziken
+setname: PS-Sapphire
+ingamename: Chic
+displayname: Chic
+ability: [Blaze]
+item: [null]
+ball: [Poke]
+moves:
+- [Double Team]
+- [Blaze Kick]
+- [Sky Uppercut]
+- [Blast Burn]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naughty
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Sapphire, manga]
+---
+species: Tropius
+setname: PS-Sapphire
+ingamename: Troppy
+displayname: Troppy
+ability: [Chlorophyll]
+item: [null]
+ball: [Poke]
+moves:
+- [Fly]
+- [Magical Leaf]
+- [Solar Beam]
+- [Aerial Ace]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Calm
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Sapphire, manga]
+---
+species: Donphan
+setname: PS-Sapphire
+ingamename: Phado
+displayname: Phado
+ability: [Sturdy]
+item: [null]
+ball: [Poke]
+moves:
+- [Rollout]
+- [Rock Tomb]
+- [Facade]
+- [Giga Impact]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Calm
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+ivs: 31
+tags: [PS-Sapphire, manga]
+---
+species: Wailord
+setname: PS-Sapphire
+ingamename: Lorry
+displayname: Lorry
+ability: [Oblivious]
+item: [null]
+ball: [Poke]
+moves:
+- [Surf]
+- [Water Spout]
+- [Dive]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Calm
+evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Sapphire, manga]
+---
+species: Relicanth
+setname: PS-Sapphire
+ingamename: Relly
+displayname: Relly
+ability: [Rock Head]
+item: [null]
+ball: [Poke]
+moves:
+- [Dive]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hardy
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [PS-Sapphire, manga]
+---
+species: Minun
+setname: PS-Sapphire
+ingamename: Minun
+displayname: Minun
+ability: [Minus]
+item: [null]
+ball: [Poke]
+moves:
+- [Double Team]
+- [Spark]
+- [Helping Hand]
+- [Shock Wave]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Sapphire, manga]
+---

@@ -1,0 +1,164 @@
+species: Scizor
+setname: PS-Blue
+ingamename: Scizor
+displayname: Scizor
+ability: [Swarm]
+item: [null]
+ball: [Poke]
+moves:
+- [Slash]
+- [Metal Claw]
+- [False Swipe]
+- [Steel Wing]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Docile
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+ivs: 31
+tags: [PS-Blue, manga]
+---
+species: Charizard
+setname: PS-Blue
+ingamename: Charizard
+displayname: Charizard
+ability: [Blaze]
+item: [null]
+ball: [Poke]
+moves:
+- [Fly]
+- [Flamethrower]
+- [Fire Punch]
+- [Blast Burn]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bold
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Blue, manga]
+---
+species: Golduck
+setname: PS-Blue
+ingamename: Golduck
+displayname: Golduck
+ability: [Cloud Nine]
+item: [null]
+ball: [Poke]
+moves:
+- [Surf]
+- [Hydro Pump]
+- [Iron Tail]
+- [Dig]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Blue, manga]
+---
+species: Machamp
+setname: PS-Blue
+ingamename: Machamp
+displayname: Machamp
+ability: [Guts]
+item: [null]
+ball: [Poke]
+moves:
+- [Low Kick]
+- [Focus Energy]
+- [Seismic Toss]
+- [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bashful
+evs: {hp: 248, atk: 8, def: 0, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [PS-Blue, manga]
+---
+species: Porygon2
+setname: PS-Blue
+ingamename: Porygon2
+displayname: Porygon2
+ability: [Trace]
+item: [Salac Berry]
+ball: [Poke]
+moves:
+- [Tri Attack]
+- [Conversion 2]
+- [Zap Cannon]
+- [Recycle]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quirky
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Blue, manga]
+---
+species: Rhyperior
+setname: PS-Blue
+ingamename: Rhyperior
+displayname: Rhyperior
+ability: [Lightningrod]
+item: [null]
+ball: [Poke]
+moves:
+- [Dig]
+- [Megahorn]
+- [Earth Power]
+- [Rock Wrecker]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Mild
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Blue, manga]
+---
+species: Ninetales
+setname: PS-Blue
+ingamename: Ninetales
+displayname: Ninetales
+ability: [Flash Fire]
+item: [null]
+ball: [Poke]
+moves:
+- [Flamethrower]
+- [Fire Blast]
+- [Fire Spin]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Blue, manga]
+---
+species: Pidgeot
+setname: PS-Blue
+ingamename: Pidgeot
+displayname: Pidgeot
+ability: [Keen Eye]
+item: [null]
+ball: [Poke]
+moves:
+- [Wing Attack]
+- [Feather Dance]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hardy
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Blue, manga]
+---

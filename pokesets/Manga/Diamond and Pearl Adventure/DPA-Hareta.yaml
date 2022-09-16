@@ -1,0 +1,104 @@
+species: Empoleon
+setname: DPA-Hareta
+ingamename: Empoleon
+displayname: Empoleon
+ability: [Torrent]
+item: [null]
+ball: [Poke]
+moves:
+- [Surf]
+- [Rain Dance]
+- [Aqua Jet]
+- [Defog]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [DPA-Hareta, manga]
+---
+species: Luxray
+setname: DPA-Hareta
+ingamename: Luxray
+displayname: Luxray
+ability: [Intimidate]
+item: [null]
+ball: [Poke]
+moves:
+- [Bite]
+- [Charge]
+- [Thunder Fang]
+- [Discharge]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+ivs: 31
+tags: [DPA-Hareta, manga]
+---
+species: Misdreavus
+setname: DPA-Hareta
+ingamename: Misdreavus
+displayname: Misdreavus
+ability: [Levitate]
+item: [null]
+ball: [Poke]
+moves:
+- [Spite]
+- [Astonish]
+- [Shadow Ball]
+- [Skill Swap]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [DPA-Hareta, manga]
+---
+species: Lucario
+setname: DPA-Hareta
+ingamename: Lucario
+displayname: Lucario
+ability: [Steadfast]
+item: [null]
+ball: [Poke]
+moves:
+- [Force Palm]
+- [Quick Attack]
+- [Focus Punch]
+- [Close Combat]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 252, def: 0, spA: , spD: 4, spe: 252}
+ivs: 31
+tags: [DPA-Hareta, manga]
+---
+species: Minun
+setname: DPA-Hareta
+ingamename: Minun
+displayname: Minun
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Charm]
+- [Thunder Wave]
+- [Sing]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 4, def: 0, spA: , spD: 0, spe: 252}
+ivs: 31
+tags: [DPA-Hareta, manga]
+---

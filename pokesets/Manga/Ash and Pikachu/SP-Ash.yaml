@@ -1,0 +1,42 @@
+species: Pikachu
+setname: SP-Ash
+ingamename: Pikachu
+displayname: Pikachu
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Thunderbolt]
+- [Quick Attack]
+- [Iron Tail]
+- [Volt Tackle]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [SP-Ash, manga]
+---
+species: Grovyle
+setname: SP-Ash
+ingamename: Grovyle
+displayname: Grovyle
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Pound]
+- [Quick Attack]
+- [Bullet Seed]
+- [Leaf Blade]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [SP-Ash, manga]
+---

@@ -1,0 +1,20 @@
+species: Absol
+setname: PS-Y
+ingamename: Solsol
+displayname: Solsol
+ability: [Super Luck]
+item: [null]
+ball: [Poke]
+moves:
+- [Psycho Cut]
+- [Night Slash]
+- [Iron Tail]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bold
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Y, manga]
+---

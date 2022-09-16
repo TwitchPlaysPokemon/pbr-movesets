@@ -1,0 +1,79 @@
+species: Clefairy
+setname: PM-Red
+ingamename: Clefairy
+displayname: Blockhead Clefairy
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Minimize, Barrier, Light Screen, Reflect, Flash, Double Team, Teleport]
+- [Transform]
+- [Metronome]
+- [Rest, Sing, Hypnosis, Follow Me, Tackle, Pound, Headbutt, Rage, Double Slap, Mega Punch]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+tags: [PM-Red, manga]
+---
+species: Pikachu
+setname: PM-Red
+ingamename: Pikachu
+displayname: Pikachu
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Thunderbolt]
+- [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [PM-Red, manga]
+---
+species: Tyrogue
+setname: PM-Red
+ingamename: Tyrogue
+displayname: Tyrogue
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Rock Smash]
+- [Double Team]
+- [Mach Punch]
+- [Tackle]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [PM-Red, manga]
+---
+species: Togepi
+setname: PM-Red
+ingamename: Togepi
+displayname: Togepi
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Double-Edge]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [PM-Red, manga]
+---

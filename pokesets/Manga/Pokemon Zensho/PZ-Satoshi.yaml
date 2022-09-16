@@ -1,0 +1,20 @@
+species: Charizard
+setname: PZ-Satoshi
+ingamename: Charizard
+displayname: Charizard
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Tackle]
+- [Slash]
+- [Glare] # Paralyzing Gaze
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [PZ-Satoshi, manga]
+---

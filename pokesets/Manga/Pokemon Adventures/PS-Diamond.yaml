@@ -1,0 +1,139 @@
+species: Munchlax
+setname: PS-Diamond
+ingamename: Lax
+displayname: Lax
+ability: [Pickup]
+item: [Iron Ball]
+ball: [Poke]
+moves:
+- [Tackle]
+- [Fling]
+- [Rollout]
+- [Lick]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Impish
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [PS-Diamond, manga]
+---
+species: Torterra
+setname: PS-Diamond
+ingamename: Tru
+displayname: Tru
+ability: [Overgrow]
+item: [null]
+ball: [Poke]
+moves:
+- [Razor Leaf]
+- [Earthquake]
+- [Wood Hammer]
+- [Crunch]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Relaxed
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [PS-Diamond, manga]
+---
+species: Bastiodon
+setname: PS-Diamond
+ingamename: Don
+displayname: Don
+ability: [Sturdy]
+item: [null]
+ball: [Poke]
+moves:
+- [Iron Tail]
+- [Metal Burst]
+- [Iron Defense]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Careful
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [PS-Diamond, manga]
+---
+species: Lickilicky
+setname: PS-Diamond
+ingamename: Kit
+displayname: Kit
+ability: [Own Tempo]
+item: [null]
+ball: [Poke]
+moves:
+- [Slam]
+- [Power Whip]
+- [Wring Out]
+- [Me First]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bold
+evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Diamond, manga]
+---
+species: Mamoswine
+setname: PS-Diamond
+ingamename: Moo
+displayname: Moo
+ability: [Thick Fat]
+item: [null]
+ball: [Poke]
+moves:
+- [Ice Fang]
+- [Blizzard]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hardy
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Diamond, manga]
+---
+species: Regigigas
+setname: PS-Diamond
+ingamename: Reg
+displayname: Reg
+ability: [Slow Start]
+item: [null]
+ball: [Poke]
+moves:
+- [Crush Grip]
+- [Rock Slide]
+- [Icy Wind]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lax
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Diamond, manga]
+---
+species: Unown
+setname: PS-Diamond
+ingamename: Flaky
+displayname: Flaky
+ability: [Levitate]
+item: [null]
+ball: [Poke]
+moves:
+- [Hidden Power]
+form: 3
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Relaxed
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 30}
+tags: [PS-Diamond, manga]
+---

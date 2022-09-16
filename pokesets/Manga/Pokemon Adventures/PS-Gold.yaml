@@ -1,0 +1,185 @@
+species: Ambipom
+setname: PS-Gold
+ingamename: Aibo
+displayname: Aibo
+ability: [Technician]
+item: [null]
+ball: [Poke]
+moves:
+- [Double Team]
+- [Agility]
+- [Baton Pass]
+- [Double Hit]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Gold, manga]
+---
+species: Politoed
+setname: PS-Gold
+ingamename: Polibo
+displayname: Polibo
+ability: [Water Absorb]
+item: [null]
+ball: [Poke]
+moves:
+- [Water Gun]
+- [Perish Song]
+- [Brick Break]
+- [Bounce]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet
+evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Gold, manga]
+---
+species: Typhlosion
+setname: PS-Gold
+ingamename: Exbo
+displayname: Exbo
+ability: [Blaze]
+item: [null]
+ball: [Poke]
+moves:
+- [Smokescreen]
+- [Flame Wheel]
+- [Flamethrower]
+- [Blast Burn]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Impish
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Gold, manga]
+---
+species: Typhlosion
+setname: PS-Gold
+ingamename: Exbo
+displayname: Exbo
+ability: [Blaze]
+item: [null]
+ball: [Poke]
+moves:
+- [Smokescreen]
+- [Flame Wheel]
+- [Flamethrower]
+- [Blast Burn]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Impish
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Gold, manga]
+---
+species: Sunflora
+setname: PS-Gold
+ingamename: Sunbo
+displayname: Sunbo
+ability: [Chlorophyll]
+item: [null]
+ball: [Poke]
+moves:
+- [Growth]
+- [Sunny Day]
+- [Giga Drain]
+- [Solar Beam]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Gold, manga]
+---
+species: Sudowoodo
+setname: PS-Gold
+ingamename: Sudobo
+displayname: Sudobo
+ability: [Sturdy]
+item: [null]
+ball: [Poke]
+moves:
+- [Mimic]
+- [Low Kick]
+- [Flail]
+- [Rock Tomb]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+ivs: 31
+tags: [PS-Gold, manga]
+---
+species: Togekiss
+setname: PS-Gold
+ingamename: Togebo
+displayname: Togebo
+ability: [Hustle]
+item: [null]
+ball: [Poke]
+moves:
+- [Double-Edge]
+- [Metronome]
+- [Growl]
+- [Charm]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naughty
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Gold, manga]
+---
+species: Pichu
+setname: PS-Gold
+ingamename: Pibu
+displayname: Pibu
+ability: [Static]
+item: [null]
+ball: [Poke]
+moves:
+- [Flash]
+- [Volt Tackle]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naughty
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [PS-Gold, manga]
+---
+species: Mantine
+setname: PS-Gold
+ingamename: Tibo
+displayname: Tibo
+ability: [Water Absorb]
+item: [null]
+ball: [Poke]
+moves:
+- [Water Gun]
+- [Fly]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Calm
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Gold, manga]
+---

@@ -1,0 +1,97 @@
+species: Kangaskhan
+setname: PS-X
+ingamename: Kanga
+displayname: Kanga
+ability: [Scrappy]
+item: [null]
+ball: [Poke]
+moves:
+- [Thunderbolt]
+- [Mega Punch]
+- [Outrage]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bold
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-X, manga]
+---
+species: Charizard
+setname: PS-X
+ingamename: Salamè
+displayname: Salamè
+ability: [Blaze]
+item: [null]
+ball: [Poke]
+moves:
+- [Ember]
+- [Flare Blitz]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lonely 
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-X, manga]
+---
+species: Manectric
+setname: PS-X
+ingamename: Élec
+displayname: Élec
+ability: [Intimidate] # Mega-Manectric
+item: [null]
+ball: [Poke]
+moves:
+- [Discharge]
+- [Thunder]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naughty 
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-X, manga]
+---
+species: Gengar
+setname: PS-X
+ingamename: Garma
+displayname: Garma
+ability: [Shadow Tag] # Mega-Gengar
+item: [null]
+ball: [Poke]
+moves:
+- [Shadow Punch]
+- [Confuse Ray]
+- [Dark Pulse]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quirky 
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-X, manga]
+---
+species: Pinsir
+setname: PS-X
+ingamename: Rute
+displayname: Rute
+ability: [Hyper Cutter]
+item: [null]
+ball: [Poke]
+moves:
+- [Feint]
+- [Superpower]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet 
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-X, manga]
+---
