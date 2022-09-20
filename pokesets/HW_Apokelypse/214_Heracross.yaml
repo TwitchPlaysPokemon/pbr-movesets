@@ -1,0 +1,23 @@
+species: Heracross
+ingamename: TANGYBUG
+displayname: TANGYBUG
+setname: Pokelypse
+tags: ubers
+tags: [pokelypse]
+item: Lum Berry
+ability: Compound Eyes
+moves:
+    - [Megahorn]
+    - [Cross Chop]
+    - [Shadow Force]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 99, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
+hidden: false

@@ -575,9 +575,9 @@ item: [null]
 ball: [Poke]
 moves:
 - [Aura Sphere]
-- [Force Palm]
-- [Double Team]
-- [Iron Tail] #Steel Beam
+- [Bullet Punch]
+- [Reversal]
+- [Flash Cannon] #Steel Beam
 gender: [m]
 happiness: 255
 biddable: true
