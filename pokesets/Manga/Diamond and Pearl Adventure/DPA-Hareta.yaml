@@ -6,10 +6,10 @@ ability: [Torrent]
 item: [null]
 ball: [Poke]
 moves:
+- [Drill Peck]
 - [Surf]
-- [Rain Dance]
+- [Rain Dance, Defog]
 - [Aqua Jet]
-- [Defog]
 gender: [m,f]
 happiness: 255
 biddable: true
@@ -54,7 +54,7 @@ moves:
 - [Skill Swap]
 gender: [m,f]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: null
 evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
@@ -75,7 +75,7 @@ moves:
 - [Close Combat]
 gender: [m,f]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: null
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
@@ -95,7 +95,7 @@ moves:
 - [Sing]
 gender: [m,f]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: null
 evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}

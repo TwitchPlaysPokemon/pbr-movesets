@@ -27,7 +27,7 @@ ability: [null]
 item: [null]
 ball: [Poke]
 moves:
-- [Teleport]
+- [Teleport, Reflect]
 - [Secret Power]
 - [Hypnosis]
 - [Dream Eater]

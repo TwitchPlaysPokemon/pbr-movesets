@@ -12,7 +12,7 @@ moves:
 - [Defense Curl]
 gender: [f]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Lax
 evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}

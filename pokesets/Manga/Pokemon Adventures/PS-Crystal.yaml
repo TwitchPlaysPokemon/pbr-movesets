@@ -52,7 +52,7 @@ moves:
 - [Bone Rush]
 gender: [m]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Lonely
 evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
@@ -67,10 +67,10 @@ ability: [Iron Fist]
 item: [null]
 ball: [Poke]
 moves:
-- [Bonemerang]
-- [Bone Club]
-- [False Swipe]
-- [Bone Rush]
+- [Mach Punch]
+- [Mega Punch]
+- [Sky Uppercut]
+- [Bullet Punch]
 gender: [m]
 happiness: 255
 biddable: true
@@ -174,7 +174,7 @@ moves:
 - [Rest]
 gender: [f]
 happiness: 140
-biddable: true
+biddable: false
 rarity: 1.0
 nature: null
 evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}

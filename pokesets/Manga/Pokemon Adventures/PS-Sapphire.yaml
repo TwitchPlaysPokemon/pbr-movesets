@@ -95,7 +95,7 @@ moves:
 - [Dive]
 gender: [m]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Calm
 evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
@@ -113,7 +113,7 @@ moves:
 - [Dive]
 gender: [m]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Hardy
 evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
@@ -134,7 +134,7 @@ moves:
 - [Shock Wave]
 gender: [f]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Naive
 evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}

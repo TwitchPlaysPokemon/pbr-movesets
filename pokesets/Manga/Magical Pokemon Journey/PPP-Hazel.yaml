@@ -10,7 +10,7 @@ moves:
 - [Charm]
 gender: [m]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Lax
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
@@ -52,7 +52,7 @@ moves:
 - [Body Slam]
 gender: [f]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: null
 evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}

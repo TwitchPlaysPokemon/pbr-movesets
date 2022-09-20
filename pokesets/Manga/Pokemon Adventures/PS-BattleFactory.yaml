@@ -33,7 +33,7 @@ moves:
 - [Guillotine]
 gender: [f]
 happiness: 70
-biddable: true
+biddable: false
 rarity: 1.0
 nature: null
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}

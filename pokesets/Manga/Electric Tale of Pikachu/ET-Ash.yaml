@@ -32,7 +32,7 @@ moves:
 - [Psychic]
 gender: [m]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: null
 evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}

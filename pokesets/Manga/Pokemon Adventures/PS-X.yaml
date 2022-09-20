@@ -30,7 +30,7 @@ moves:
 - [Flare Blitz]
 gender: [m]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Lonely 
 evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
@@ -49,7 +49,7 @@ moves:
 - [Thunder]
 gender: [m]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Naughty 
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}

@@ -31,7 +31,7 @@ moves:
 - [Psychic]
 - [Recover]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: Quiet
 evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}
@@ -70,7 +70,7 @@ moves:
 - [Light Screen]
 - [Psycho Boost]
 happiness: 255
-biddable: true
+biddable: false
 rarity: 1.0
 nature: null
 evs: {hp: 248, atk: 0, def: 0, spA: 8, spD: 0, spe: 252}
