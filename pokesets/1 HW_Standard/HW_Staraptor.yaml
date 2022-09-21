@@ -11,6 +11,7 @@ moves:
     - [Wing Attack]
     - [Poison Sting]
 happiness: 255
+gender: [m, f]
 biddable: True
 rarity: 1.0
 ball: [Dusk]
