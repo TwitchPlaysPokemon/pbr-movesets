@@ -2,7 +2,7 @@
 species: Charizard
 setname: Alain
 ability: [Blaze]
-item: [null]
+item: [Everstone]
 ball: [Poke]
 moves:
 - [Flamethrower]
