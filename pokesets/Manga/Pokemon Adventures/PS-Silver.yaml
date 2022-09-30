@@ -98,7 +98,7 @@ moves:
 gender: [m]
 happiness: 255
 biddable: true
-hidden: False
+hidden: false
 rarity: 1.0
 nature: Sassy
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
