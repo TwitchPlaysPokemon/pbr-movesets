@@ -6,10 +6,10 @@ tags: [runmon, in-game]
 item: [null]
 ability: [null] #[Frisk]
 moves:
-    - [Extrasensory]
-    - [Magnitude] #Bulldoze
-    - [Skull Bash] #Psyshield Bash
-    - [Calm Mind]
+    - [Double-Edge]
+    - [Psychic]
+    - [Earthquake] #High Horsepower
+    - [Shadow Ball]
 gender: [m]
 happiness: 255
 biddable: True
@@ -58,7 +58,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Great]
 shiny: False
 nature: Serious
 ivs: {hp: 3, atk: 0, def: 0, spA: 17, spD: 0, spe: 4}
@@ -101,7 +101,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Ultra]
 shiny: False
 nature: Modest
 ivs: {hp: 22, atk: 0, def: 0, spA: 18, spD: 0, spe: 0}
@@ -189,7 +189,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Cherish] #looks most similar to Origin Ball
 shiny: False
 nature: Serious
 ivs: {hp: 0, atk: 0, def: 13, spA: 0, spD: 26, spe: 11}
@@ -232,7 +232,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Dive] #looks most similar to Jet Ball
 shiny: False
 nature: Naughty
 ivs: {hp: 0, atk: 13, def: 4, spA: 0, spD: 9, spe: 0}
@@ -247,14 +247,14 @@ item: [null]
 ability: [null] #[Pressure]
 moves:
     - [Close Combat]
-    - [Cross Poison] #Dire Claw
+    - [Poison Jab]
+    - [X-Scissor]
     - [False Swipe]
-    - [Swords Dance]
 gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Great]
 shiny: False
 nature: Quiet
 ivs: {hp: 26, atk: 3, def: 14, spA: 7, spD: 7, spe: 7}
@@ -290,7 +290,7 @@ ability: [null]
 moves:
     - [Psychic]
     - [Shadow Ball]
-    - [Silver Wind] #Dazzling Gleam
+    - [Signal Beam] #Dazzling Gleam
     - [Calm Mind]
 gender: [f]
 happiness: 255
