@@ -1,0 +1,80 @@
+species: Ninetales
+setname: CBF-Enta
+ingamename: Ninetales
+displayname: Ninetales
+ability: [Flash Fire]
+item: [null]
+ball: [Poke]
+moves:
+- [Fire Spin]
+- [Hyper Beam]
+- [Substitute]
+- [Return]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [CBF-Enta, manga]
+---
+species: Illumise
+setname: CBF-Enta
+ingamename: Illumise
+displayname: Illumise
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Double Team]
+- [Baton Pass]
+- [Silver Wind]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [CBF-Enta, manga]
+---
+species: Feebas
+setname: CBF-Enta
+ingamename: Feebas
+displayname: Feebas
+ability: [Swift Swim]
+item: [null]
+ball: [Poke]
+moves:
+- [Blizzard]
+- [Hydro Pump]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [CBF-Enta, manga]
+---
+species: Zangoose
+setname: CBF-Enta
+ingamename: Zangoose
+displayname: Zangoose
+ability: [Immunity]
+item: [null]
+ball: [Poke]
+moves:
+- [Detect]
+- [Counter]
+- [Crush Claw]
+gender: [m,f]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [CBF-Enta, manga]
+---

@@ -1,0 +1,42 @@
+species: Magmortar
+setname: P7-Rocco
+ingamename: Magmortar
+displayname: Magmortar
+ability: [Flame Body]
+item: [null]
+ball: [Poke]
+moves:
+- [Flamethrower]
+- [Fire Punch]
+- [Smokescreen]
+- [Smog]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [P7-Rocco, manga]
+---
+species: Gardevoir
+setname: P7-Rocco
+ingamename: Gardevoir
+displayname: Gardevoir
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Teleport, Reflect]
+- [Secret Power]
+- [Hypnosis]
+- [Dream Eater]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [P7-Rocco, manga]
+---

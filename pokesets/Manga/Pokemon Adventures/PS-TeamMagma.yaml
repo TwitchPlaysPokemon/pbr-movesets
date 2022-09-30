@@ -1,0 +1,42 @@
+species: Ninetales
+setname: PS-Courtney
+ingamename: Ninetales
+displayname: Ninetales
+ability: [Flash Fire]
+item: [null]
+ball: [Poke]
+moves:
+- [Fire Spin]
+- [Hyper Beam]
+- [Flamethrower]
+- [Sunny Day]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Courtney, manga]
+---
+species: Torkoal
+setname: PS-Tabitha
+ingamename: Torkoal
+displayname: Torkoal
+ability: [White Smoke]
+item: [Figy Berry]
+ball: [Poke]
+moves:
+- [Yawn]
+- [Heat Wave]
+- [Smog]
+- [Body Slam]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 248, atk: 8, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Tabitha, manga]
+---

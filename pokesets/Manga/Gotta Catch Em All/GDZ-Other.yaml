@@ -1,0 +1,19 @@
+species: Mewtwo
+setname: GDZ-Shu's Father
+ingamename: Mewtwo
+displayname: Mewtwo
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Swift]
+- [Psychic]
+- [Hyper Beam]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+ivs: 31
+tags: [GDZ-Shu Father, manga]
+---

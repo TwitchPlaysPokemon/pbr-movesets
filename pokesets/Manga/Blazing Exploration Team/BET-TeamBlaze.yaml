@@ -1,0 +1,39 @@
+species: Chimchar
+setname: BET-Team Blaze
+ingamename: Hono
+displayname: Honō
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Scratch]
+- [Taunt]
+- [Flamethrower]
+- [Fire Spin]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: null
+evs: {hp: 248, atk: 8, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [BET-Team Blaze, manga]
+---
+species: Totodile
+setname: BET-Team Blaze
+ingamename: Totodile
+displayname: Totodile
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Water Gun]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: null
+evs: {hp: 248, atk: 0, def: 252, spA: 8, spD: 0, spe: 0}
+ivs: 31
+tags: [BET-Team Blaze, manga]
+---
