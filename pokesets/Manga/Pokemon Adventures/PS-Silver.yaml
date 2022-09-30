@@ -104,6 +104,7 @@ nature: Sassy
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
 ivs: 31
 tags: [PS-Silver, manga]
+suppressions: [public-shiny]
 ---
 species: Kingdra 
 setname: PS-Silver
