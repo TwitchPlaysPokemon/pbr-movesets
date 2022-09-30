@@ -20,7 +20,7 @@ nature: Quiet
 ivs: 31
 evs: {hp: 0, atk: 128, def: 192, spA: 0, spD: 188, spe: 0}
 hidden: false
-
+---
 species: Wigglytuff
 ingamename: Impostor
 displayname: Impostor
@@ -65,4 +65,27 @@ shiny: True
 nature: Serious
 ivs: {hp: 0, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Wigglytuff
+ingamename: Mythra
+displayname: Mythra
+setname: Christmas4
+tags: [christmas]
+item: Stardust
+ability: Steadfast
+moves:
+    - [Comet Punch]
+    - [Judgment]
+    - [Foresight]
+    - [Light Screen]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 128, def: 192, spA: 0, spD: 188, spe: 0}
 hidden: false

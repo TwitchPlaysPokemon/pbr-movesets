@@ -10,7 +10,7 @@ moves:
     - [Destiny Bond]
 gender: [m, f]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 1.0
 ball: [Heal]
 nature: Bold

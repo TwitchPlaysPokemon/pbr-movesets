@@ -48,7 +48,7 @@ moves:
     - [Swagger]
 gender: [m]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.2
 ball: [Timer]
 nature: Mild

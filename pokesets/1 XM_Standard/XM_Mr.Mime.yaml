@@ -20,3 +20,26 @@ nature: Brave
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 10, spe: 31}
 evs: {hp: 32, atk: 244, def: 196, spA: 0, spD: 0, spe: 36}
 hidden: false
+---
+species: Mr. Mime
+ingamename: Mr. Rime
+displayname: Mr. Rime
+setname: Christmas2
+tags: [christmas]
+item: Icicle Plate
+ability: [Tangled Feet, Ice Body]
+moves:
+    - [Icy Wind]
+    - [Confusion]
+    - [Brick Break]
+    - [Teeter Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 10, spe: 31}
+evs: {hp: 116, atk: 152, def: 20, spA: 136, spD: 0, spe: 84}
+hidden: false

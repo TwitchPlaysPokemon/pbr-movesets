@@ -43,3 +43,26 @@ nature: Modest
 ivs: {hp: 31, atk: 0, def: 30, spA: 31, spD: 31, spe: 0}
 evs: {hp: 64, atk: 0, def: 0, spA: 0, spD: 176, spe: 0}
 hidden: False
+---
+species: Ursaring
+ingamename: Ursaluna
+displayname: Ursaluna
+setname: Christmas3
+tags: [christmas]
+item: Soft Sand
+ability: Guts
+moves:
+    - [Dig]
+    - [Slash]
+    - [Bulk Up]
+    - [Odor Sleuth]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Calm
+ivs: 5
+evs: 84
+hidden: False

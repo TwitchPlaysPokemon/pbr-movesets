@@ -64,7 +64,7 @@ moves:
     - [Curse]
     - [Sunny Day]
 happiness: 255
-biddable: false
+biddable: False
 rarity: 0
 nature: Naughty
 evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
@@ -82,7 +82,7 @@ moves:
     - [Spite]
     - [Endure]
 happiness: 255
-biddable: false
+biddable: False
 rarity: 0
 nature: Timid
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
@@ -100,7 +100,7 @@ moves:
     - [Will-O-Wisp]
     - [Baton Pass]
 happiness: 255
-biddable: false
+biddable: False
 rarity: 0
 nature: Lonely
 evs: {hp: 0, atk: 68, def: 0, spA: 188, spD: 0, spe: 252}

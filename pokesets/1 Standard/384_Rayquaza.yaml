@@ -71,9 +71,9 @@ ivs: 0
 evs: 0
 ---
 species: Rayquaza
-setname: Overpowered
+setname: Mega
 tags: [standard]
-item: [Null]
+item: [Everstone]
 ability: [Air Lock]
 moves:
     - [Fly]

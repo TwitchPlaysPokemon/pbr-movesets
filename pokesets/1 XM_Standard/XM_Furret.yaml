@@ -1,0 +1,22 @@
+species: Furret
+ingamename: Fur Coat
+displayname: Fur Coat
+setname: Christmas
+tags: [christmas]
+item: Fluffy Tail
+ability: Snow Cloak
+moves:
+    - [Fire Punch]
+    - [Metronome]
+    - [Conversion]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: True
+nature: Serious
+ivs: 31
+evs: {hp: 88, atk: 0, def: 84, spA: 252, spD: 84, spe: 0}
+hidden: false

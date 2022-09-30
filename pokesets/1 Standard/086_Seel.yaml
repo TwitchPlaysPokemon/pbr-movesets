@@ -48,7 +48,7 @@ moves:
     - [Rest]
 gender: [m, f]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.2
 ball: [Timer]
 nature: Quiet

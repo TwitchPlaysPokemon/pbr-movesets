@@ -105,7 +105,7 @@ moves:
     - [Metal Sound]
 gender: [m, f]
 happiness: 255
-biddable: True
+biddable: False
 rarity: 0.05
 ball: [Master]
 nature: Adamant

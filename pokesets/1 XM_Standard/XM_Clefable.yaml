@@ -20,3 +20,26 @@ nature: Modest
 ivs: 31
 evs: {hp: 0, atk: 128, def: 0, spA: 128, spD: 128, spe: 124}
 hidden: false
+---
+species: Clefable
+ingamename: Pyra
+displayname: Pyra
+setname: Christmas2
+tags: [christmas]
+item: Charcoal
+ability: Reckless
+moves:
+    - [Flare Blitz]
+    - [Take Down]
+    - [Charm]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 128, def: 128, spA: 0, spD: 128, spe: 124}
+hidden: false

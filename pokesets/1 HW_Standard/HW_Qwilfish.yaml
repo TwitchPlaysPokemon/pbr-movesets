@@ -1,0 +1,22 @@
+species: Qwilfish
+ingamename: Overqwil
+displayname: Overqwil
+setname: Halloween
+tags: [halloween]
+item: Poison Barb
+ability: [Poison Point, Swift Swim, Intimidate]
+moves:
+    - [Poison Jab]
+    - [Dark Pulse]
+    - [Pin Missile]
+    - [Self-Destruct]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 16, atk: 52, def: 16, spA: 252, spD: 128, spe: 44}
+hidden: false

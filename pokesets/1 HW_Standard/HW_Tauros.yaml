@@ -1,0 +1,22 @@
+species: Tauros
+ingamename: Bonnacon
+displayname: Bonnacon
+setname: Halloween
+ball: [Ultra]
+tags: [halloween]
+item: Energy Root
+ability: Stench
+moves:
+    - [Muddy Water]
+    - [Mud Slap]
+    - [U-Turn]
+    - [Will-O-Wisp]
+happiness: 255
+gender: [m]
+biddable: True
+rarity: 1.0
+shiny: True
+nature: Hasty
+evs: {hp: 48, atk: 4, def: 0, spA: 208, spD: 200, spe: 32}
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 0}
+hidden: false

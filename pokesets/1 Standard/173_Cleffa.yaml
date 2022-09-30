@@ -29,7 +29,7 @@ moves:
     - [Soft-Boiled]
 gender: [m, f]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.4
 ball: [Timer]
 nature: Calm

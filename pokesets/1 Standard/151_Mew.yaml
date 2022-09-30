@@ -81,7 +81,7 @@ moves:
     - [Mimic]
     - [Role Play]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.04
 ball: [Repeat]
 nature: Serious
@@ -243,7 +243,7 @@ moves:
     - [Vacuum Wave]
     - [Magic Coat]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.04
 ball: [Quick]
 nature: Rash
@@ -387,7 +387,7 @@ moves:
     - [Hypnosis]
     - [Taunt]
 happiness: 255
-biddable: False
+biddable: True
 rarity: 0.04
 ball: [Timer]
 nature: Hardy

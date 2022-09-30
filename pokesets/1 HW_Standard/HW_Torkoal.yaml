@@ -1,0 +1,22 @@
+species: Torkoal
+ingamename: Tarasque
+displayname: Tarasque
+setname: Halloween
+ball: [Luxury]
+tags: [halloween]
+item: Dragon Fang
+ability: Shell Armor
+moves:
+    - [Poison Tail]
+    - [Dragon Breath]
+    - [Withdraw]
+    - [Leer]
+happiness: 255
+gender: [m, f]
+biddable: True
+rarity: 1.0
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 112, spe: 0}
+hidden: false

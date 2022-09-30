@@ -1,0 +1,23 @@
+species: Feraligatr
+ingamename: SCP-682
+displayname: SCP-682
+setname: Pokelypse
+tags: ubers
+tags: [pokelypse]
+item: Toxic Orb
+ability: Poison Heal
+moves:
+    - [Superpower]
+    - [Psycho Boost]
+    - [Substitute]
+    - [Heart Swap]
+gender: [m]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Serious
+ivs: 31
+evs: 252
+hidden: false

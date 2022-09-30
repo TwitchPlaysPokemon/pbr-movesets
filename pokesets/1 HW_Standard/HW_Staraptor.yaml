@@ -1,0 +1,22 @@
+species: Staraptor
+ingamename: Cockatrice
+displayname: Cockatrice
+setname: Halloween
+tags: [halloween]
+item: Dragon Scale
+ability: Poison Point
+moves:
+    - [Glare]
+    - [Bite]
+    - [Wing Attack]
+    - [Poison Sting]
+happiness: 255
+gender: [m, f]
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 4, atk: 36, def: 0, spA: 0, spD: 0, spe: 40}
+hidden: false
