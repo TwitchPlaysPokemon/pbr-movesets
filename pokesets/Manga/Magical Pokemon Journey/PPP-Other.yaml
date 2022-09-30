@@ -1,0 +1,57 @@
+species: Marill
+setname: PPP-Apricot
+ingamename: Marimaru
+displayname: Marimaru
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Toxic]
+- [Bubble Beam]
+- [Ice Beam]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious # Unknown
+evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}
+ivs: 31
+tags: [PPP-Apricot, manga]
+---
+species: Ditto
+setname: PPP-Other
+ingamename: M. Ditto
+displayname: Master Ditto
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Transform]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hardy # Unknown
+evs: {hp: 248, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [PPP-Other, manga]
+---
+species: Torchic
+setname: CCP-Haruka
+ingamename: Torchic
+displayname: Torchic
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Ember]
+- [Sand Attack]
+- [Frustration]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [CCP-Haruka, manga]
+---

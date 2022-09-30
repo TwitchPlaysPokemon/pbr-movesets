@@ -1,0 +1,77 @@
+species: Bronzong
+setname: DPA-Saturn
+ingamename: Bronzong
+displayname: Bronzong
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Solar Beam]
+- [Gyro Ball]
+- [Reflect]
+- [Earthquake]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bashful # Unknown
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+ivs: 31
+tags: [DPA-Saturn, manga]
+---
+species: Gallade
+setname: DPA-Saturn
+ingamename: Gallade
+displayname: Gallade
+ability: [Steadfast]
+item: [null]
+ball: [Poke]
+moves:
+- [Fury Cutter]
+- [Leaf Blade]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quirky # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [DPA-Saturn, manga]
+---
+species: Graveler
+setname: DPA-B-2
+ingamename: Graveler
+displayname: Graveler
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Rollout]
+- [Rock Slide]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hardy # Unknown
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [DPA-B-2, manga]
+---
+species: Drapion
+setname: DPA-B-2
+ingamename: Drapion
+displayname: Drapion
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Fire Fang]
+- [Bite]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Docile # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [DPA-B-2, manga]
+---

@@ -1,0 +1,79 @@
+species: Forretress
+setname: PS-Carr
+ingamename: Forretress
+displayname: Forretress
+ability: [Sturdy]
+item: [null]
+ball: [Poke]
+moves:
+- [Explosion]
+- [Double-Edge]
+- [Spikes]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Docile # Unknown
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+ivs: 31
+tags: [PS-Carr, manga]
+---
+species: Shuckle
+setname: PS-Orm
+ingamename: Shuckle
+displayname: Shuckle
+ability: [Sturdy]
+item: [null]
+ball: [Poke]
+moves:
+- [Wrap]
+- [Bide]
+- [Toxic]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious # Unknown
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+ivs: 31
+tags: [PS-Orm, manga]
+---
+species: Banette 
+setname: PS-Sird
+ingamename: Banette
+displayname: Banette
+ability: [Frisk]
+item: [null]
+ball: [Poke]
+moves:
+- [Shadow Ball]
+- [Snatch]
+- [Double-Edge]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bashful # Unknown
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Sird, manga]
+---
+species: Darkrai 
+setname: PS-Sird
+ingamename: Darkrai
+displayname: Darkrai
+ability: [Bad Dreams]
+item: [null]
+ball: [Poke]
+moves:
+- [Dark Pulse]
+- [Hypnosis]
+- [Dark Void]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quirky # Unknown
+evs: {hp: 248, atk: 8, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Sird, manga]
+---

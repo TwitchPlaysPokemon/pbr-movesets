@@ -1,0 +1,41 @@
+species: Infernape
+setname: DPA-Mitsumi
+ingamename: Infernape
+displayname: Infernape
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Focus Blast]
+- [Close Combat]
+- [Overheat]
+- [Flare Blitz]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Docile # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [DPA-Mitsumi, manga]
+---
+species: Leafeon
+setname: DPA-Mitsumi
+ingamename: Leafeon
+displayname: Leafeon
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Sunny Day]
+- [Leaf Blade]
+- [Solar Beam]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [DPA-Mitsumi, manga]
+---
