@@ -42,7 +42,7 @@ rarity: 1.0
 species: Bellossom
 setname: PWT-Erika2
 tags: [in-game, PWT-Erika2, trainer+erika]
-item: [null]
+item: [Sitrus Berry]
 ability: [Chlorophyll]
 moves:
 - [Sunny Day]

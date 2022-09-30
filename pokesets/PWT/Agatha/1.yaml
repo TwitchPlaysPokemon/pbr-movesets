@@ -82,7 +82,7 @@ rarity: 1.0
 species: Gengar
 setname: PWT-Agatha-2
 tags: [in-game, PWT-Agatha, trainer+agatha]
-item: [null]
+item: [Sitrus Berry]
 ability: [Levitate]
 moves:
 - [Shadow Ball]

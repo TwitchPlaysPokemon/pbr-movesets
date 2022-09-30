@@ -22,7 +22,7 @@ rarity: 1.0
 species: Starmie
 setname: PWT-Misty2
 tags: [in-game, PWT-Misty2, trainer+misty]
-item: [null]
+item: [Sitrus Berry]
 ability: [Natural Cure]
 moves:
 - [Water Pulse]

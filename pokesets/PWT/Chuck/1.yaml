@@ -22,7 +22,7 @@ rarity: 1.0
 species: Poliwrath
 setname: PWT-Chuck
 tags: [in-game, PWT-Chuck, trainer+chuck]
-item: [null]
+item: [Sitrus Berry]
 ability: [Water Absorb]
 moves:
 - [Hypnosis]

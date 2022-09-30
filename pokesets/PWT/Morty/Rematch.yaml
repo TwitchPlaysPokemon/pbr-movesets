@@ -62,7 +62,7 @@ rarity: 1.0
 species: Drifblim
 setname: PWT-Morty Rematch
 tags: [in-game, PWT-Morty Rematch, trainer+morty]
-item: [null]
+item: [Sitrus Berry]
 ability: [Unburden]
 moves:
 - [Shadow Ball]

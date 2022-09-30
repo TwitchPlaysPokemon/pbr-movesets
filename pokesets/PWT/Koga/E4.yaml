@@ -62,7 +62,7 @@ rarity: 1.0
 species: Crobat
 setname: PWT-Koga E4
 tags: [in-game, PWT-Koga E4, trainer+koga]
-item: [null]
+item: [Sitrus Berry]
 ability: [Inner Focus]
 moves:
 - [Quick Attack]

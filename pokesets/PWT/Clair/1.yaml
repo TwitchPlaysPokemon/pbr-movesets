@@ -62,7 +62,7 @@ rarity: 1.0
 species: Kingdra
 setname: PWT-Clair
 tags: [in-game, PWT-Clair, trainer+clair]
-item: [null]
+item: [Sitrus Berry]
 ability: [Sniper]
 moves:
 - [Hydro Pump]

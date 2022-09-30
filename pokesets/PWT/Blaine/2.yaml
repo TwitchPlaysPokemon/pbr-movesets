@@ -2,7 +2,7 @@
 species: Rapidash
 setname: PWT-Blaine2
 tags: [in-game, PWT-Blaine2, trainer+blaine]
-item: [null]
+item: [White Herb]
 ability: [Flash Fire]
 moves:
 - [Quick Attack]
@@ -22,7 +22,7 @@ rarity: 1.0
 species: Magmar
 setname: PWT-Blaine2
 tags: [in-game, PWT-Blaine2, trainer+blaine]
-item: [null]
+item: [White Herb]
 ability: [Flame Body]
 moves:
 - [Thunder Punch]
@@ -39,10 +39,10 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Slugma
+species: Magcargo
 setname: PWT-Blaine2
 tags: [in-game, PWT-Blaine2, trainer+blaine]
-item: [null]
+item: [White Herb]
 ability: [Flame Body]
 moves:
 - [Overheat]

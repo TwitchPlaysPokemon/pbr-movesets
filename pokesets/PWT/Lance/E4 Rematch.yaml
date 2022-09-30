@@ -42,7 +42,7 @@ rarity: 1.0
 species: Dragonite
 setname: PWT-Lance E4 Rematch
 tags: [in-game, PWT-Lance E4 Rematch, trainer+lance]
-item: [null]
+item: [Persim Berry]
 ability: [Inner Focus]
 moves:
 - [Hyper Beam]

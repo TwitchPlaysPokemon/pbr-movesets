@@ -1,0 +1,40 @@
+---
+species: Sceptile
+setname: PWT-Brendan Masters
+tags: [in-game, PWT-Brendan Masters, trainer+brendan]
+item: [null]
+ability: [Overgrow, Unburden]
+moves:
+- [Bullet Seed, Leaf Blade]
+- [Focus Energy] #Dire Hit +
+- [Leaf Storm]
+- [Nasty Plot, Swords Dance] #No Turning Back!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Latios
+setname: PWT-Brendan Masters
+tags: [in-game, PWT-Brendan Masters, trainer+brendan]
+item: [Everstone]
+ability: [Levitate]
+moves:
+- [Dragon Breath, Draco Meteor]
+- [Recover] #Potion
+- [Luster Purge]
+- [Calm Mind] #Flying Free!
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

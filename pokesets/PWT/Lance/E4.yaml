@@ -82,7 +82,7 @@ rarity: 1.0
 species: Dragonite
 setname: PWT-Lance E4
 tags: [in-game, PWT-Lance E4, trainer+lance]
-item: [null]
+item: [Sitrus Berry]
 ability: [Inner Focus]
 moves:
 - [Safeguard]

@@ -2,7 +2,7 @@
 species: Blastoise
 setname: PWT-Blue Champion
 tags: [in-game, PWT-Blue Champion, trainer+blue]
-item: [null]
+item: [Sitrus Berry]
 ability: [Torrent]
 moves:
 - [Hydro Pump]

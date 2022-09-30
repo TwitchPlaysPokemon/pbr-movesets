@@ -82,7 +82,7 @@ rarity: 1.0
 species: Mamoswine
 setname: PWT-Pryce Rematch
 tags: [in-game, PWT-Pryce Rematch, trainer+pryce]
-item: [null]
+item: [Sitrus Berry]
 ability: [Snow Cloak]
 moves:
 - [Earthquake]

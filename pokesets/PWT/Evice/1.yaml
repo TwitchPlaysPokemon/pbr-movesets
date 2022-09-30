@@ -122,7 +122,7 @@ species: Tyranitar
 setname: PWT-Evice
 tags: [in-game, PWT-Evice, trainer+evice]
 item: [Nugget]
-ability: [Rock Head]
+ability: [Sand Stream]
 moves:
 - [Crunch] #Shadow Rush
 - [Thunder]

@@ -42,7 +42,7 @@ rarity: 1.0
 species: Banette
 setname: PWT-Morty Masters
 tags: [in-game, PWT-Morty Masters, trainer+morty]
-item: [null]
+item: [Dusk Stone]
 ability: [Insomnia, Frisk]
 moves:
 - [Shadow Claw, Shadow Sneak]

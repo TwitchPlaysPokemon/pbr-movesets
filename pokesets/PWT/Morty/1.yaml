@@ -62,7 +62,7 @@ rarity: 1.0
 species: Gengar
 setname: PWT-Morty
 tags: [in-game, PWT-Morty, trainer+morty]
-item: [null]
+item: [Sitrus Berry]
 ability: [Levitate]
 moves:
 - [Hypnosis]

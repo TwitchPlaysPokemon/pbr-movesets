@@ -2,7 +2,7 @@
 species: Pidgeot
 setname: PWT-Blue Gym Rematch
 tags: [in-game, PWT-Blue Gym Rematch, trainer+blue]
-item: [null]
+item: [Sitrus Berry]
 ability: [Tangled Feet]
 moves:
 - [Return]

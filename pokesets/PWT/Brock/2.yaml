@@ -22,7 +22,7 @@ rarity: 1.0
 species: Onix
 setname: PWT-Brock2
 tags: [in-game, PWT-Brock2, trainer+brock]
-item: [null]
+item: [Sitrus Berry]
 ability: [Sturdy]
 moves:
 - [Screech]

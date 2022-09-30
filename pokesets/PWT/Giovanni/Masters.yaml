@@ -1,0 +1,59 @@
+---
+species: Mewtwo
+setname: PWT-Giovanni Masters
+tags: [in-game, PWT-Giovanni Masters, trainer+giovanni]
+item: [Everstone]
+ability: [Pressure]
+moves:
+- [Confusion]
+- [Psychic]
+- [Double Team] #Nowhere to Hide!
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nidoking
+setname: PWT-Giovanni Masters
+tags: [in-game, PWT-Giovanni Masters, trainer+giovanni]
+item: [null]
+ability: [Poison Point, Rivalry]
+moves:
+- [Mega Kick]
+- [Iron Tail]
+- [Poison Jab]
+- [Swords Dance] #World of Pain!
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Persian
+setname: PWT-Giovanni Masters
+tags: [in-game, PWT-Giovanni Masters, trainer+giovanni]
+item: [null]
+ability: [Limber, Technician]
+moves:
+- [Slash]
+- [Focus Energy] #Dire Hit All +
+- [Bite]
+- [Swords Dance] #Enough!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

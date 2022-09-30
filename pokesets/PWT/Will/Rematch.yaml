@@ -42,7 +42,7 @@ rarity: 1.0
 species: Xatu
 setname: PWT-Will Rematch
 tags: [in-game, PWT-Will Rematch, trainer+will]
-item: [null]
+item: [Sitrus Berry]
 ability: [Early Bird]
 moves:
 - [Confuse Ray]

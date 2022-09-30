@@ -2,7 +2,7 @@
 species: Blastoise
 setname: PWT-Blue Champion Rematch
 tags: [in-game, PWT-Blue Champion Rematch, trainer+blue]
-item: [null]
+item: [Sitrus Berry]
 ability: [Torrent]
 moves:
 - [Hydro Pump]

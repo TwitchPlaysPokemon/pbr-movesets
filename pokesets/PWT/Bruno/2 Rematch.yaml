@@ -82,7 +82,7 @@ rarity: 1.0
 species: Hariyama
 setname: PWT-Bruno2 Rematch
 tags: [in-game, PWT-Bruno2 Rematch, trainer+bruno]
-item: [null]
+item: [Sitrus Berry]
 ability: [Guts]
 moves:
 - [Bulk Up]

@@ -22,7 +22,7 @@ rarity: 1.0
 species: Scizor
 setname: PWT-Bugsy Rematch
 tags: [in-game, PWT-Bugsy Rematch, trainer+bugsy]
-item: [null]
+item: [Sitrus Berry]
 ability: [Technician]
 moves:
 - [X-Scissor]
@@ -81,7 +81,7 @@ rarity: 1.0
 species: Vespiquen
 setname: PWT-Bugsy Rematch
 tags: [in-game, PWT-Bugsy Rematch, trainer+bugsy]
-item: [null]
+item: [Sitrus Berry]
 ability: [Pressure]
 moves:
 - [Attack Order]
