@@ -1,0 +1,58 @@
+species: Sneasel
+setname: GB-Black
+ingamename: Sneasel
+displayname: Sneasel
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Fury Swipes]
+gender: [m,f]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Hardy # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [GB-Black, manga]
+---
+species: Gyarados
+setname: GB-Black
+ingamename: Gyarados
+displayname: Gyarados
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Dragon Rage]
+- [Thrash]
+- [Hydro Pump]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Docile # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [GB-Black, manga]
+---
+species: Xatu
+setname: GB-Black
+ingamename: Xatu
+displayname: Xatu
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Double Team]
+- [Peck]
+- [Psychic]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [GB-Black, manga]
+---

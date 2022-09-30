@@ -1,0 +1,102 @@
+species: Rapidash
+setname: PS-Platinum
+ingamename: Rapidash
+displayname: Rapidash
+ability: [Flash Fire]
+item: [null]
+ball: [Poke]
+moves:
+- [Flamethrower]
+- [Protect]
+- [Rest]
+- [Fire Blast]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Modest
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Platinum, manga]
+---
+species: Empoleon
+setname: PS-Platinum
+ingamename: Empoleon
+displayname: Empoleon
+ability: [Torrent]
+item: [null]
+ball: [Poke]
+moves:
+- [Blizzard]
+- [Aqua Jet]
+- [Hydro Pump]
+- [Drill Peck]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious
+evs: {hp: 252, atk: 4, def: 0, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [PS-Platinum, manga]
+---
+species: Lopunny
+setname: PS-Platinum
+ingamename: Lopunny
+displayname: Lopunny
+ability: [Cute Charm]
+item: [null]
+ball: [Poke]
+moves:
+- [Jump Kick]
+- [Healing Wish]
+- [Focus Blast]
+- [Dizzy Punch]
+gender: [f]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Naive
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Platinum, manga]
+---
+species: Froslass
+setname: PS-Platinum
+ingamename: Froslass
+displayname: Froslass
+ability: [Snow Cloak]
+item: [null]
+ball: [Great]
+moves:
+- [Blizzard]
+- [Wake-Up Slap]
+- [Ice Shard]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PS-Platinum, manga]
+---
+species: Pachirisu
+setname: PS-Platinum
+ingamename: Pachirisu
+displayname: Pachirisu
+ability: [Run Away]
+item: [null]
+ball: [Great]
+moves:
+- [Captivate]
+- [Last Resort]
+gender: [f]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Quirky
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [PS-Platinum, manga]
+---

@@ -1,0 +1,41 @@
+species: Infernape
+setname: PBK-Yu
+ingamename: Infernape
+displayname: Infernape
+ability: [Blaze]
+item: [null]
+ball: [Poke]
+moves:
+- [Flare Blitz]
+- [Grass Knot]
+- [Earthquake]
+- [Giga Impact]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quirky # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [PBK-Yu, manga]
+---
+species: Shaymin
+setname: PBK-Yu
+ingamename: Shaymin
+displayname: Shaymin
+ability: [Natural Cure] # In-game data
+item: [Micle Berry]
+ball: [Cherish] # In-game data
+moves:
+- [Leaf Storm]
+- [Aromatherapy] # In-game data
+- [Substitute] # In-game data
+- [Energy Ball] # In-game data
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hardy # Unknown
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+ivs: 31
+tags: [PBK-Yu, manga]
+---

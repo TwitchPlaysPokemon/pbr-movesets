@@ -1,0 +1,103 @@
+species: Croconaw
+setname: GB-Gold
+ingamename: Croconaw
+displayname: Croconaw
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Bite]
+- [Water Gun]
+- [Slash]
+- [Tri Attack]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quirky # Unknown
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+ivs: 31
+tags: [GB-Gold, manga]
+---
+species: Pidgeotto
+setname: GB-Gold
+ingamename: Pidgeotto
+displayname: Pidgeotto
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Gust]
+- [Peck]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Hardy # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [GB-Gold, manga]
+---
+species: Pikachu
+setname: GB-Gold
+ingamename: Pikachu
+displayname: Pikachu
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Headbutt]
+- [Agility]
+- [Thunderbolt]
+- [Tri Attack]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Docile # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [GB-Gold, manga]
+---
+species: Elekid
+setname: GB-Gold
+ingamename: Elekid
+displayname: Elekid
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Thunder Shock]
+- [Quick Attack]
+- [Thunder Punch]
+- [Protect]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Serious # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [GB-Gold, manga]
+---
+species: Bayleef
+setname: GB-Gold
+ingamename: Bayleef
+displayname: Bayleef
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Vine Whip]
+- [Stomp]
+- [Reflect]
+- [Synthesis]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Bashful # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [GB-Gold, manga]
+---

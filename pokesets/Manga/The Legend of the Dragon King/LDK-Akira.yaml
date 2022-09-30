@@ -1,0 +1,21 @@
+species: Charizard 
+setname: LDK-Akira
+ingamename: Charizard 
+displayname: Charizard 
+ability: [null]
+item: [null]
+ball: [Poke]
+moves:
+- [Solar Beam]
+- [Dragon Claw]
+- [Flare Blitz]
+- [Swords Dance]
+gender: [m,f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Docile # Unknown
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [LDK-Akira, manga]
+---
