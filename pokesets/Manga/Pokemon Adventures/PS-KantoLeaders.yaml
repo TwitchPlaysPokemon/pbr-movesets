@@ -10,6 +10,7 @@ moves:
 - [Bind]
 - [Absorb]
 - [Growth]
+gender: [m,f]
 happiness: 255
 biddable: true
 rarity: 1.0

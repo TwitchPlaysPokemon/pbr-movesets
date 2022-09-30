@@ -10,6 +10,7 @@ moves:
 - [Present]
 - [Headbutt]
 - [Blizzard]
+gender: [m,f]
 happiness: 255
 biddable: true
 rarity: 1.0
@@ -30,6 +31,7 @@ moves:
 - [Flamethrower]
 - [Iron Tail]
 - [Feint Attack]
+gender: [m,f]
 happiness: 255
 biddable: true
 rarity: 1.0
