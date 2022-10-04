@@ -20,3 +20,26 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 220, spA: 0, spD: 200, spe: 0}
 hidden: false
+---
+species: Jigglypuff
+ingamename: Kirby
+displayname: Kirby
+setname: Halloween2
+tags: [halloween]
+item: Leftovers
+ability: Cute Charm
+moves:
+    - [Hammer Arm]
+    - [Slash]
+    - [Flare Blitz]
+    - [Transform]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 220, spA: 0, spD: 200, spe: 0}
+hidden: false
