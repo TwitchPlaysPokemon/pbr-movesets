@@ -7,8 +7,26 @@ moves:
     - [Transform]
 happiness: 128
 biddable: True
-rarity: 1.0
+rarity: .95
 ball: [Repeat]
 nature: Timid
 evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 0, spe: 252}
 ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
+---
+species: Ditto
+setname: Rage Glitch
+tags: [standard]
+item: [Metal Powder]
+ability: [Limber]
+moves:
+    - [Fly]
+    - [Dragon Claw]
+    - [Rage]
+    - [Protect]
+happiness: 128
+biddable: True
+rarity: .05
+ball: [Premier]
+nature: Adamant
+evs: {hp: 150, atk: 152, def: 53, spA: 0, spD: 53, spe: 100}
+ivs: {hp: 31, atk: 31, def: 30, spA: 30, spD: 31, spe: 30}
