@@ -21,7 +21,7 @@ species: Sentret
 setname: Random
 tags: [standard]
 item: [Lum Berry]
-ability: [Download]
+ability: [Download, Clear Body]
 moves:
     - [Metronome]
     - [Assist]
