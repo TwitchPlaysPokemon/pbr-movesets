@@ -1,0 +1,21 @@
+species: Beldum
+ingamename: Sinistea
+displayname: Sinistea
+setname: Halloween
+tags: [halloween]
+item: Old Gateau
+ability: White Smoke
+moves:
+    - [Shadow Ball]
+    - [Giga Drain]
+    - [Mist]
+    - [Sweet Scent]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+hidden: false

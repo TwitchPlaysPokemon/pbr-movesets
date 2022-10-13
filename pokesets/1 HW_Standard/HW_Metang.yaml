@@ -1,0 +1,21 @@
+species: Metang
+ingamename: Polteageist
+displayname: Polteagist
+setname: Halloween
+tags: [halloween]
+item: Bitter Root
+ability: Flame Body
+moves:
+    - [Shadow Ball]
+    - [Surf]
+    - [Flamethrower]
+    - [Aromatherapy]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Quiet
+ivs: 31
+evs: 85
+hidden: false
