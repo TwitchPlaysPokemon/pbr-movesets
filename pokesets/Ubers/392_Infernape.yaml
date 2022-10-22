@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.3
 ball: [Poké]
 nature: Naive
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
@@ -30,7 +30,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.3
 ball: [Poké]
 nature: Timid
 ivs: {hp: 31, atk: 30, def: 30, spA: 31, spD: 31, spe: 31}
@@ -49,8 +49,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.2
+rarity: 0.3
 ball: [Poké]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Infernape
+setname: u-BlastBurn
+tags: [ubers]
+item: [Leppa Berry]
+ability: [Blaze]
+moves:
+    - [Blast Burn]
+    - [Earthquake]
+    - [Will-O-Wisp]
+    - [Slack Off]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Ultra]
+nature: Gentle
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}

@@ -73,7 +73,7 @@ evs: 0
 species: Rayquaza
 setname: Mega
 tags: [standard]
-item: [Everstone]
+item: [null]
 ability: [Air Lock]
 moves:
     - [Fly]

@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.6
+rarity: 0.5
 ball: [Dusk]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
@@ -35,3 +35,22 @@ ball: [Dusk]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 248, atk: 0, def: 0, spA: 0, spD: 208, spe: 52}
+---
+species: Gliscor
+setname: u-Storm
+tags: [ubers]
+item: [Life Orb]
+ability: [Sand Veil]
+moves:
+    - [Earthquake]
+    - [Night Slash]
+    - [U-Turn]
+    - [Defog]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Luxury]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}

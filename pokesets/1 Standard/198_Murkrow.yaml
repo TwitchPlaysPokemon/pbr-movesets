@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.5
+rarity: 0.4
 ball: [Dusk]
 nature: Timid
 ivs: 31
@@ -30,8 +30,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.5
+rarity: 0.4
 ball: [Dusk]
 nature: Serious
 ivs: 31
 evs: {hp: 100, atk: 108, def: 100, spA: 0, spD: 100, spe: 100}
+---
+species: Murkrow
+setname: Perish Song
+tags: [standard]
+item: [Metronome]
+ability: [Super Luck]
+moves:
+    - [Brave Bird]
+    - [Sucker Punch]
+    - [Pursuit]
+    - [Perish Song]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.4
+ball: [Great]
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}

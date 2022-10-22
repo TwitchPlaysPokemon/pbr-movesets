@@ -13,7 +13,7 @@ separations:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.6
+rarity: 0.4
 ball: [Dive]
 nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
@@ -32,8 +32,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.3
 ball: [Dive]
 nature: Careful
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 152, spA: 0, spD: 96, spe: 8}
+---
+species: Gyarados
+setname: u-Retaliation
+tags: [ubers]
+item: [Occa Berry]
+ability: [Intimidate]
+moves:
+    - [Brine]
+    - [Avalanche]
+    - [Flail]
+    - [Natural Gift]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Net]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 224, def: 0, spA: 32, spD: 0, spe: 0}

@@ -18,3 +18,24 @@ ball: [Master]
 nature: Quiet
 ivs: {hp: 31, atk: 31, def: 31, spA: 13, spD: 31, spe: 19}
 evs: {hp: 252, atk: 16, def: 40, spA: 28, spD: 40, spe: 24}
+---
+species: Girafarig
+ingamename: Farigiraf
+displayname: Farigiraf
+setname: Christmas2
+tags: [christmas]
+item: Sitrus Berry
+ability: Battle Armor
+moves:
+    - [Zen Headbutt]
+    - [Swift]
+    - [Recycle] #Cud Chew
+    - [Detect] #Armor Tail
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+nature: Quiet
+ivs: 29
+evs: 84
