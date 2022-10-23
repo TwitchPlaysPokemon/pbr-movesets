@@ -3,7 +3,7 @@ ingamename: Polteagist
 displayname: Polteageist
 setname: Halloween
 tags: [halloween]
-item: Bitter Root
+item: Energy Root
 ability: Flame Body
 moves:
     - [Shadow Ball]
