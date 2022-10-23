@@ -51,8 +51,8 @@ item: [Mago Berry]
 ability: [Gluttony]
 moves:
     - [Extreme Speed]
-    - [Zen Headbutt] #Play Rough
-    - [Karate Chop] #Storm Throw
+    - [Shadow Claw]
+    - [Brick Break] #Storm Throw
     - [Belly Drum]
 gender: [m]
 happiness: 255
@@ -63,70 +63,6 @@ shiny: False
 nature: Hasty
 ivs: {hp: 21, atk: 8, def: 29, spA: 11, spD: 22, spe: 4}
 evs: {hp: 86, atk: 178, def: 58, spA: 63, spD: 23, spe: 102}
----
-species: Pichu
-ingamename: "Picute"
-displayname: "Picute"
-setname: TPP Star
-tags: [runmon, in-game]
-item: [null]
-ability: [Static]
-moves:
-    - [Thunder Shock]
-    - [Charm]
-gender: [f]
-happiness: 70
-biddable: True
-rarity: 1.0
-ball: [Ultra]
-shiny: False
-nature: Serious
-ivs: {hp: 9, atk: 15, def: 18, spA: 10, spD: 19, spe: 29}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
----
-species: Linoone
-ingamename: "Rigby"
-displayname: "Rigby"
-setname: TPP Star-2
-tags: [runmon, in-game]
-item: [null]
-ability: [Gluttony]
-moves:
-    - [Slash]
-    - [Headbutt]
-    - [Shadow Ball]
-    - [Covet]
-gender: [m]
-happiness: 217
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Lax
-ivs: {hp: 4, atk: 29, def: 25, spA: 10, spD: 2, spe: 26}
-evs: {hp: 26, atk: 34, def: 8, spA: 30, spD: 20, spe: 33}
----
-species: Blaziken
-ingamename: "Tor"
-displayname: "Tor"
-setname: TPP Star
-tags: [runmon, in-game]
-item: [null]
-ability: [Blaze]
-moves:
-    - [Focus Energy]
-    - [Growl]
-    - [Ember]
-    - [Sand Attack]
-gender: [m]
-happiness: 233
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Jolly
-ivs: {hp: 19, atk: 0, def: 9, spA: 20, spD: 31, spe: 25}
-evs: {hp: 29, atk: 20, def: 7, spA: 17, spD: 4, spe: 35}
 ---
 species: Arcanine
 ingamename: "tppWoweee"
@@ -150,34 +86,12 @@ nature: Mild
 ivs: {hp: 21, atk: 8, def: 31, spA: 11, spD: 15, spe: 12}
 evs: {hp: 31, atk: 34, def: 11, spA: 25, spD: 24, spe: 28}
 ---
-species: Bonsly
-ingamename: "Faker"
-displayname: "Faker"
-setname: TPP Star
-tags: [runmon, in-game]
-item: [null]
-ability: [Rock Head]
-moves:
-    - [Copycat]
-    - [Flail]
-    - [Low Kick]
-    - [Rock Throw]
-gender: [m]
-happiness: 70
-biddable: True
-rarity: 1.0
-ball: [Great]
-shiny: False
-nature: Timid
-ivs: {hp: 8, atk: 25, def: 20, spA: 25, spD: 21, spe: 28}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
----
 species: Gastrodon
 ingamename: "ELECTRODE"
 displayname: "ELECTRODE"
 setname: TPP Star
 tags: [runmon, in-game]
-item: [Sitrus Berry]
+item: [Light Clay]
 ability: [Soundproof]
 moves:
     - [Muddy Water]
@@ -202,9 +116,9 @@ tags: [runmon, in-game]
 item: [Flame Plate]
 ability: [Drought]
 moves:
+    - [Solar Beam]
     - [Fire Blast] #Blue Flare
-    - [Icy Wind] #Dazzling Gleam
-    - [Morning Sun]
+    - [Dragon Pulse] #Dazzling Gleam
     - [Calm Mind] #Quiver Dance
 gender: [m]
 happiness: 255
