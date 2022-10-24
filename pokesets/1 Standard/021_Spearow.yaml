@@ -11,8 +11,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: .75
 ball: [Nest]
 nature: Adamant
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+---
+species: Spearow
+setname: Special
+tags: [standard]
+item: [Power Herb]
+ability: [Sniper]
+moves:
+    - [Air Slash]
+    - [Chatter]
+    - [Razor Wind]
+    - [Feather Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: .25
+ball: [Nest]
+nature: Modest
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 ivs: 31
