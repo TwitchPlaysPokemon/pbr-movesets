@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.5
+rarity: 0.25
 ball: [Dive]
 nature: Modest
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
@@ -54,3 +54,22 @@ ball: [Great]
 nature: Quiet
 ivs: {hp: 11, atk: 11, def: 11, spA: 31, spD: 11, spe: 11}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 28}
+---
+species: Octillery
+setname: Focus Band
+tags: [standard]
+item: [Focus Band]
+ability: [Suction Cups]
+moves:
+    - [Dive]
+    - [Gunk Shot]
+    - [Endure]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Net]
+nature: Careful
+ivs: 31
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}

@@ -88,8 +88,26 @@ combinations:
     - [Draco Meteor, Grass Knot]
 happiness: 255
 biddable: True
-rarity: 0.2
+rarity: 0.1
 ball: [Cherish]
 nature: Mild
 ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
 evs: {hp: 0, atk: 132, def: 0, spA: 160, spD: 0, spe: 216}
+---
+species: Jirachi
+setname: u-Premonition
+tags: [ubers]
+item: [Draco Plate]
+ability: [Serene Grace]
+moves:
+    - [Doom Desire]
+    - [Future Sight]
+    - [Thunder]
+    - [Draco Meteor]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Luxury]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}

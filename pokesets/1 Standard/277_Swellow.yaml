@@ -12,7 +12,7 @@ moves:
 gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.35
+rarity: 0.3
 nature: Sassy
 evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 108, spe: 100}
 ivs: 23
@@ -50,7 +50,26 @@ moves:
 gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 0.35
+rarity: 0.3
 nature: Quiet
 evs: {hp: 84, atk: 84, def: 84, spA: 172, spD: 84, spe: 0}
 ivs: 31
+---
+species: Swellow
+setname: Assault
+tags: [standard]
+item: [Power Herb]
+ability: [Guts]
+moves:
+    - [Sky Attack]
+    - [Endeavor]
+    - [U-Turn]
+    - [Tailwind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 0.1
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+ball: [Premier]

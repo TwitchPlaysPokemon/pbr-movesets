@@ -19,3 +19,5 @@ nature: Timid
 level: 5
 ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 252, spe: 4}
+shiny: True
+hidden: False

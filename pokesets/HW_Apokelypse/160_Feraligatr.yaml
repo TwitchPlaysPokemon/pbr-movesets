@@ -7,10 +7,10 @@ tags: [pokelypse]
 item: Toxic Orb
 ability: Poison Heal
 moves:
-    - [Superpower]
+    - [Gunk Shot]
+    - [Fire Fang]
     - [Psycho Boost]
-    - [Substitute]
-    - [Heart Swap]
+    - [Copycat]
 gender: [m]
 happiness: 0
 biddable: True

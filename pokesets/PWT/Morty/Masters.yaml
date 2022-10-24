@@ -71,8 +71,9 @@ moves:
 - [Stockpile] #Believe!
 happiness: 255
 biddable: false
-shiny: False #True
+shiny: True
 hidden: False
+suppressions: [public-shiny]
 ball: [Poke]
 nature: Serious
 ivs: 0

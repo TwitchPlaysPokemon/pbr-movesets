@@ -1,0 +1,131 @@
+species: Wailord
+ingamename: "BNMNRNSKH"
+displayname: "BBNMNRRNNSKH"
+setname: TPP Star
+tags: [runmon, in-game]
+item: [null]
+ability: [Water Veil]
+moves:
+    - [Surf] #Scald
+    - [Brine]
+    - [Amnesia]
+    - [Rollout]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: {hp: 26, atk: 19, def: 30, spA: 22, spD: 1, spe: 18}
+evs: {hp: 47, atk: 120, def: 49, spA: 73, spD: 47, spe: 111}
+---
+species: Eevee #Spookeon
+ingamename: "ATAAPYYMMI"
+displayname: "ATTAAAPYYMMI"
+setname: TPP Star
+tags: [runmon, in-game]
+item: [null]
+ability: [Intimidate]
+moves:
+    - [Mud Bomb]
+    - [Thief]
+    - [Will-O-Wisp]
+    - [Ominous Wind]
+gender: [m]
+happiness: 216
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 15, atk: 15, def: 23, spA: 5, spD: 20, spe: 20}
+evs: {hp: 12, atk: 27, def: 20, spA: 31, spD: 8, spe: 50}
+---
+species: Linoone
+ingamename: "HYPERRACC"
+displayname: "HYPERRACC"
+setname: TPP Star
+tags: [runmon, in-game]
+item: [Mago Berry]
+ability: [Gluttony]
+moves:
+    - [Extreme Speed]
+    - [Shadow Claw]
+    - [Brick Break] #Storm Throw
+    - [Belly Drum]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hasty
+ivs: {hp: 21, atk: 8, def: 29, spA: 11, spD: 22, spe: 4}
+evs: {hp: 86, atk: 178, def: 58, spA: 63, spD: 23, spe: 102}
+---
+species: Arcanine
+ingamename: "tppWoweee"
+displayname: "tppWoweee"
+setname: TPP Star
+tags: [runmon, in-game]
+item: [null]
+ability: [Flash Fire]
+moves:
+    - [Extreme Speed]
+    - [Roar]
+    - [Ember]
+    - [Flare Blitz] #Flame Charge
+gender: [m]
+happiness: 206
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Mild
+ivs: {hp: 21, atk: 8, def: 31, spA: 11, spD: 15, spe: 12}
+evs: {hp: 31, atk: 34, def: 11, spA: 25, spD: 24, spe: 28}
+---
+species: Gastrodon
+ingamename: "ELECTRODE"
+displayname: "ELECTRODE"
+setname: TPP Star
+tags: [runmon, in-game]
+item: [Light Clay]
+ability: [Soundproof]
+moves:
+    - [Muddy Water]
+    - [Thunderbolt]
+    - [Light Screen]
+    - [Recover]
+gender: [f]
+happiness: 244
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Bold
+ivs: {hp: 22, atk: 21, def: 2, spA: 7, spD: 27, spe: 13}
+evs: {hp: 18, atk: 73, def: 49, spA: 125, spD: 33, spe: 131}
+---
+species: Cherrim
+ingamename: "AMPPLMANTE"
+displayname: "AMPPLMANTE"
+setname: TPP Star
+tags: [runmon, in-game]
+item: [Flame Plate]
+ability: [Drought]
+moves:
+    - [Solar Beam]
+    - [Fire Blast] #Blue Flare
+    - [Dragon Pulse] #Dazzling Gleam
+    - [Calm Mind] #Quiver Dance
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 18, atk: 16, def: 30, spA: 16, spD: 19, spe: 29}
+evs: {hp: 19, atk: 91, def: 61, spA: 152, spD: 40, spe: 147}
