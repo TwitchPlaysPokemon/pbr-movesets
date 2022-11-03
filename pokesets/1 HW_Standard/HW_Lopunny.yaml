@@ -20,3 +20,26 @@ nature: Adamant
 ivs: {hp: 0, atk: 31, def: 20, spA: 31, spD: 20, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 116}
 hidden: false
+---
+species: Lopunny
+ingamename: Bayonetta
+displayname: Bayonetta
+setname: Halloween2
+tags: [halloween]
+item: BlackGlasses
+ability: Keen Eye
+moves:
+    - [Bullet Punch]
+    - [Blaze Kick]
+    - [Punishment]
+    - [Sweet Kiss]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 20, spA: 31, spD: 20, spe: 20}
+evs: {hp: 0, atk: 255, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
