@@ -13,10 +13,33 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: .5
 ball: [Dusk]
 shiny: True
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 220, spA: 0, spD: 200, spe: 0}
+hidden: false
+---
+species: Jynx
+ingamename: Trixie
+displayname: Trixie Mattel
+setname: Halloween2
+tags: [halloween]
+item: [Pink Scarf]
+ability: Trace
+moves:
+    - [Aurora Beam]
+    - [Mimic]
+    - [Sing]
+    - [Ice Ball]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: .5
+ball: [Heal]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 100, def: 220, spA: 152, spD: 200, spe: 0}
 hidden: false
