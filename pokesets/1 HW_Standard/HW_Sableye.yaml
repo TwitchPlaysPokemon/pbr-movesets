@@ -90,7 +90,7 @@ ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 80, spe: 36}
 hidden: false
 ---
-species: Spiritomb
+species: Sableye
 ingamename: Omen
 displayname: Bad Omen
 setname: Halloween5
