@@ -89,3 +89,26 @@ nature: Timid
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 80, spe: 36}
 hidden: false
+---
+species: Spiritomb
+ingamename: Omen
+displayname: Bad Omen
+setname: Halloween5
+tags: [halloween]
+item: Toxic Orb
+ability: Wonder Guard
+moves:
+    - [Last Resort (=2)]
+    - [Recover]
+    - [Pain Split]
+    - [Perish Song]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 31}
+evs: {hp: 252, atk: 100, def: 0, spA: 0, spD: 0, spe: 152}
+hidden: false
