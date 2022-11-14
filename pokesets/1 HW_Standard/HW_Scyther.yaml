@@ -20,3 +20,26 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 60, atk: 180, def: 60, spA: 252, spD: 0, spe: 100}
 nature: Mild
 hidden: false
+---
+species: Scyther
+ingamename: Freddie
+displayname: Freddie Kreuger
+setname: Halloween2
+ball: [Dusk]
+tags: [halloween]
+item: Ghost Plate
+ability: Bad Dreams
+moves:
+    - [Shadow Ball]
+    - [Slash]
+    - [Dream Eater]
+    - [Dark Void]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 60, atk: 180, def: 60, spA: 252, spD: 0, spe: 100}
+nature: Mild
+hidden: false
