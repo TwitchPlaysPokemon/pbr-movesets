@@ -1,0 +1,23 @@
+species: Grimer
+ingamename: Meltan
+displayname: Meltan
+setname: Costume
+tags: [costume]
+item: [Metal Coat]
+ability: [Magnet Pull]
+moves:
+    - [Flash Cannon]
+    - [Thunderbolt]
+    - [Headbutt]
+    - [Acid Armor]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Luxury]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 200, atk: 0, def: 40, spA: 200, spD: 40, spe: 0}
+level: 5
+hidden: false

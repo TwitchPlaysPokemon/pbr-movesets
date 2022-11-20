@@ -1,0 +1,23 @@
+species: Cacnea
+ingamename: Cetoddle
+displayname: Cetoddle
+setname: Costume
+tags: [costume]
+item: [Nevermelt Ice]
+ability: [Thick Fat]
+moves:
+    - [Avalanche]
+    - [Bounce]
+    - [Flail]
+    - [Endure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 40, atk: 240, def: 120, spA: 0, spD: 120, spe: 0}
+level: 5
+hidden: false

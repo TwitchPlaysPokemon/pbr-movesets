@@ -1,0 +1,22 @@
+species: Sableye
+ingamename: Tethered
+displayname: The Tethered
+setname: Pokelypse
+tags: [pokelypse]
+item: [Life Orb]
+ability: Wonder Guard
+moves:
+    - [Transform]
+    - [Leech Seed (=1)]
+    - [Stealth Rock (=1)]
+    - [Toxic Spikes (=2)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [master]
+shiny: True
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 208, spD: 252, spe: 0}
+hidden: false

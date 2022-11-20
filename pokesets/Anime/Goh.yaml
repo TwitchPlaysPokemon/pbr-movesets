@@ -1,4 +1,22 @@
 ---
+species: Dewgong
+setname: Goh
+ability: [Hydration]
+item: [null]
+ball: [Poke]
+moves:
+- [Icy Wind]
+- [Surf]
+- [Attract]
+gender: [m, f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lax
+ivs: 31
+evs: {hp: 56, atk: 0, def: 0, spA: 252, spD: 96, spe: 104}
+tags: [goh, anime]
+---
 species: Pinsir
 setname: Goh
 ability: [Swarm]
@@ -9,7 +27,7 @@ moves:
 - [Rock Tomb]
 - [Vicegrip]
 - [Charm]
-gender: [f]
+gender: [m, f]
 happiness: 255
 biddable: true
 rarity: 1.0

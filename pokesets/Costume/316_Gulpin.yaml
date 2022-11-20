@@ -1,0 +1,23 @@
+species: Gulpin
+ingamename: Tadbulb
+displayname: Tadbulb
+setname: Costume
+tags: [costume]
+item: [Magnet]
+ability: [Own Tempo]
+moves:
+    - [Discharge]
+    - [Weather Ball]
+    - [Charge]
+    - [Rain Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 252, spA: 172, spD: 252, spe: 0}
+level: 5
+hidden: false

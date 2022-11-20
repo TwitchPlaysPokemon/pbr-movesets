@@ -1,0 +1,22 @@
+species: Whismur
+ingamename: Pumbloom
+displayname: Pumbloom
+setname: Halloween
+tags: [halloween]
+item: Cheri Berry
+ability: Effect Spore
+moves:
+    - [Rollout]
+    - [Spore]
+    - [Sludge]
+    - [Giga Drain]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
