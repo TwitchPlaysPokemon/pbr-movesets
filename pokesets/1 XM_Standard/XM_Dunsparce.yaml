@@ -4,7 +4,7 @@ displayname: Dudunsparce
 setname: Christmas
 tags: [christmas]
 item: Growth Mulch
-ability: Serene Grace, Run Away
+ability: [Serene Grace, Run Away]
 moves:
     - [Double Edge]
     - [Dragon Rush]
