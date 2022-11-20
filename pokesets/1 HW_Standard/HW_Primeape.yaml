@@ -27,7 +27,7 @@ displayname: Annihilape
 setname: Halloween2
 tags: [halloween]
 item: Expert Belt
-ability: Vital Spirit, Inner Focus
+ability: [Vital Spirit, Inner Focus]
 moves:
     - [Cross Chop]
     - [Shadow Punch]
