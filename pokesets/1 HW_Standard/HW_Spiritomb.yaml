@@ -13,7 +13,7 @@ moves:
 gender: [m,f]
 happiness: 255
 biddable: false
-rarity: 1.0
+rarity: 1
 ball: [Dusk]
 shiny: True
 nature: Quiet
@@ -36,7 +36,7 @@ moves:
 gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 1
 ball: [Dusk]
 shiny: True
 nature: Serious
@@ -59,7 +59,7 @@ moves:
 gender: [m,f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 1
 ball: [Poké]
 shiny: True
 nature: Serious
