@@ -1,0 +1,22 @@
+species: Dunsparce
+ingamename: Dudunsprce
+displayname: Dudunsparce
+setname: Christmas
+tags: [christmas]
+item: Growth Mulch
+ability: [Serene Grace, Run Away]
+moves:
+    - [Double Edge]
+    - [Dragon Rush]
+    - [Drill Peck]
+    - [Endeavor]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 48, atk: 60, def: 200, spA: 0, spD: 200, spe: 0}
+hidden: false

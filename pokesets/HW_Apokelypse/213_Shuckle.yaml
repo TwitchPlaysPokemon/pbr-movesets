@@ -1,0 +1,23 @@
+species: Shuckle
+ingamename: GreatATuin
+displayname: "Great A'Tuin"
+setname: Pokelypse
+tags: ubers
+tags: [pokelypse]
+item: Starf Berry
+ability: Technician
+moves:
+    - [Aqua Jet]
+    - [Shadow Sneak]
+    - [Power Trick]
+    - [Cosmic Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Relaxed
+ivs: {hp: 0, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+hidden: false

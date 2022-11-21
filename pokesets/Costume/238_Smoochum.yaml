@@ -1,0 +1,23 @@
+species: Smoochum
+ingamename: Capsakid
+displayname: Capsakid
+setname: Costume
+tags: [costume]
+item: [Figy Berry]
+ability: [Chlorophyll]
+moves:
+    - [Seed Bomb]
+    - [Zen Headbutt]
+    - [Worry Seed]
+    - [Sunny Day]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 240, def: 160, spA: 0, spD: 80, spe: 0}
+level: 5
+hidden: false

@@ -7,8 +7,8 @@ item: Energy Root
 ability: Flame Body
 moves:
     - [Shadow Ball]
-    - [Surf]
-    - [Flamethrower]
+    - [Sucker Punch]
+    - [Giga Drain]
     - [Aromatherapy]
 happiness: 255
 biddable: True
@@ -17,5 +17,5 @@ ball: [Luxury]
 shiny: True
 nature: Quiet
 ivs: 31
-evs: 85
+evs: {hp: 44, atk: 0, def: 180, spA: 252, spD: 180, spe: 0}
 hidden: false

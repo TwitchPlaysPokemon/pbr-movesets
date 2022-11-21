@@ -1,0 +1,22 @@
+species: Porygon
+ingamename: Nacli
+displayname: Nacli
+setname: Costume
+tags: [costume]
+item: [Soft Sand]
+ability: [Natural Cure]
+moves:
+    - [Rock Slide]
+    - [Earthquake]
+    - [Stealth Rock]
+    - [Sandstorm]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Bashful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 240, atk: 120, def: 40, spA: 0, spD: 80, spe: 40}
+level: 5
+hidden: false

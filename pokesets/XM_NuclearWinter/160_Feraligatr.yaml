@@ -1,9 +1,8 @@
 species: Feraligatr
 ingamename: SCP-682
 displayname: SCP-682
-setname: Pokelypse
-tags: ubers
-tags: [pokelypse]
+setname: Nuke
+tags: [nuke]
 item: Toxic Orb
 ability: Poison Heal
 moves:
