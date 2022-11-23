@@ -29,6 +29,7 @@ moves:
 - [Sucker Punch]
 - [Curse]
 - [Will-O-Wisp]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
