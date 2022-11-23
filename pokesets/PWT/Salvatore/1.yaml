@@ -1,0 +1,80 @@
+---
+species: Honchkrow
+setname: PWT-Salvatore
+tags: [in-game, PWT-Salvatore, trainer+salvatore]
+item: [null]
+ability: [Super Luck]
+moves:
+- [Sucker Punch]
+- [Aeroblast] #Hurricane
+- [Psychic]
+- [Heat Wave]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Persian
+setname: PWT-Salvatore
+tags: [in-game, PWT-Salvatore, trainer+salvatore]
+item: [null]
+ability: [Technician]
+moves:
+- [Fake Out]
+- [Dark Pulse] #Snarl
+- [Aerial Ace]
+- [Zen Headbutt] #Play Rough
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glaceon
+setname: PWT-Salvatore
+tags: [in-game, PWT-Salvatore, trainer+salvatore]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Blizzard] #Freeze-Dry
+- [Mud Shot]
+- [Charm] #Baby-Doll Eyes
+- [Ice Shard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Salvatore
+tags: [in-game, PWT-Salvatore, trainer+salvatore]
+item: [null]
+ability: [Static]
+moves:
+- [Thunder]
+- [Grass Knot]
+- [Focus Blast]
+- [Quick Attack]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

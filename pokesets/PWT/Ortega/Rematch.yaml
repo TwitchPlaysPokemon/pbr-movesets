@@ -1,0 +1,40 @@
+---
+species: Azumarill
+setname: PWT-Ortega Rematch
+tags: [in-game, PWT-Ortega Rematch, trainer+ortega]
+item: [null]
+ability: [Huge Power]
+moves:
+- [Aqua Tail]
+- [Zen Headbutt] #Play Rough
+- [Ice Punch]
+- [Brick Break]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Luxury]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Wigglytuff
+setname: PWT-Ortega Rematch
+tags: [in-game, PWT-Ortega Rematch, trainer+ortega]
+item: [null]
+ability: [Cute Charm]
+moves:
+- [Body Slam]
+- [Zen Headbutt] #Play Rough
+- [Fire Punch]
+- [Thunder Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Luxury]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

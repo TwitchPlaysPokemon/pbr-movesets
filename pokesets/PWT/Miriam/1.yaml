@@ -1,0 +1,62 @@
+---
+species: Hypno
+setname: PWT-Miriam
+tags: [in-game, PWT-Miriam, trainer+miriam]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Hypnosis]
+- [Zen Headbutt]
+- [Drain Punch]
+- [Reflect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Stantler
+displayname: Sawsbuck
+ingamename: Sawsbuck
+setname: PWT-Miriam
+tags: [in-game, PWT-Miriam, trainer+miriam]
+item: [null]
+ability: [Water Absorb] #Sap Sipper
+moves:
+- [Leaf Blade] #Horn Leech
+- [Megahorn]
+- [Zen Headbutt]
+- [Double Edge] #Play Rough
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Glalie
+setname: PWT-Miriam
+tags: [in-game, PWT-Miriam, trainer+miriam]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Ice Shard]
+- [Crunch]
+- [Blizzard] #Freeze-Dry
+- [Iron Head]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

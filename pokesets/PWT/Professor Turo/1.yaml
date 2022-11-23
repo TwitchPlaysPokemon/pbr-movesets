@@ -1,0 +1,88 @@
+---
+species: Delibird
+displayname: "Iron Bundle"
+ingamename: "IronBundle"
+setname: PWT-Professor Turo
+tags: [in-game, PWT-Professor Turo, trainer+professorturo]
+item: [null]
+ability: [Motor Drive] #Quark Drive
+moves:
+- [Drill Peck]
+- [water Pulse]
+- [Ice Punch] #Freeze-Dry
+- [Hail] #Snowscape
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Hardy
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hariyama
+displayname: "Iron Hands"
+ingamename: "Iron Hands"
+setname: PWT-Professor Turo
+tags: [in-game, PWT-Professor Turo, trainer+professorturo]
+item: [null]
+ability: [Volt Absorb] #Quark Drive
+moves:
+- [Thunder Punch]
+- [Drain Punch]
+- [Iron Head]
+- [Fake Out]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Hardy
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tyranitar
+displayname: "Iron Thorns"
+ingamename: "IronThorns"
+setname: PWT-Professor Turo
+tags: [in-game, PWT-Professor Turo, trainer+professorturo]
+item: [null]
+ability: [Static] #Quark Drive
+moves:
+- [Thunder Punch]
+- [Brick Break]
+- [Stone Edge]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Hardy
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gallade
+displayname: "Iron Valiant"
+ingamename: "IronValant"
+setname: PWT-Professor Turo
+tags: [in-game, PWT-Professor Turo, trainer+professorturo]
+item: [Liechi Berry] #Booster Energy
+ability: [Volt Absorb] #Quark Drive
+moves:
+- [Psycho Cut]
+- [Brick Break]
+- [Dragon Rush] #Spirit Break
+- [Poison Jab]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Hardy
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

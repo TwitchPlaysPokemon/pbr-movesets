@@ -7,8 +7,8 @@ item: [Black Glasses]
 ability: [Unburden]
 moves:
     - [Night Slash]
-    - [Sucker Punch]
-    - [Thief]
+    - [Facade]
+    - [Dig]
     - [Endure]
 gender: [m, f]
 happiness: 255

@@ -1,0 +1,40 @@
+---
+species: Skuntank
+setname: PWT-Atticus Rematch
+tags: [in-game, PWT-Atticus Rematch, trainer+atticus]
+item: [null]
+ability: [Stench]
+moves:
+- [Sucker Punch]
+- [Toxic]
+- [Gunk Shot] #Venoshock
+- [Flamethrower]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Repeat]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Muk
+setname: PWT-Atticus Rematch
+tags: [in-game, PWT-Atticus Rematch, trainer+atticus]
+item: [null]
+ability: [Stench]
+moves:
+- [Sludge Bomb] #Sludge Wave
+- [Minimize]
+- [Drain Punch]
+- [Acid Armor]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Repeat]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

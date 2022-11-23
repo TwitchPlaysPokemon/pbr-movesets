@@ -1,0 +1,60 @@
+---
+species: Torkoal
+setname: PWT-Mela Rematch
+tags: [in-game, PWT-Mela Rematch, trainer+mela]
+item: [null]
+ability: [Drought]
+moves:
+- [Iron Head] #Body Press
+- [Yawn]
+- [Flare Blitz]
+- [Stone Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Quick]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Mela Rematch
+tags: [in-game, PWT-Mela Rematch, trainer+mela]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Fire Blast]
+- [Dark Pulse]
+- [Sludge Bomb]
+- [Thunder Fang]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Quick]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Arcanine
+setname: PWT-Mela Rematch
+tags: [in-game, PWT-Mela Rematch, trainer+mela]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Flare Blitz]
+- [Extreme Speed]
+- [Close Combat]
+- [Overheat]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Quick]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

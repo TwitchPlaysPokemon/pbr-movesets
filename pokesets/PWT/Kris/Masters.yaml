@@ -1,0 +1,59 @@
+---
+species: Feraligatr
+setname: PWT-Kris Masters
+tags: [in-game, PWT-Kris Masters, trainer+kris]
+item: [null]
+ability: [Torrent]
+moves:
+- [Waterfall, Aqua Tail]
+- [Swords Dance] #X Attack
+- [Mega Kick]
+- [Agility] #Pick Up The Pace!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Suicune
+setname: PWT-Kris Masters
+tags: [in-game, PWT-Kris Masters, trainer+kris]
+item: [null]
+ability: [Pressure, Inner Focus]
+moves:
+- [Brine, Surf]
+- [Milk Drink] #Mini Potion All+
+- [Rain Dance]
+- [Tail Glow, Focus Energy] #Spring of Knowledge!
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Kris Masters
+tags: [in-game, PWT-Kris Masters, trainer+kris]
+item: [null]
+ability: [Volt Absorb, Quick Feet]
+moves:
+- [Thunder Shock]
+- [Thunder Wave]
+- [Discharge]
+- [Nasty Plot, Focus Energy] #Reviewed and Ready!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,42 @@
+---
+species: Dugtrio
+displayname: Wugtrio
+ingamename: Wugtrio
+setname: PWT-Kofu Rematch
+tags: [in-game, PWT-Kofu Rematch, trainer+kofu]
+item: [null]
+ability: [Dry Skin] #Gooey
+moves:
+- [Dive] #Triple Dive
+- [Night Slash] #Throat Chop
+- [Sucker Punch]
+- [Earthquake] #Stomping Tantrum
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pelipper
+setname: PWT-Kofu Rematch
+tags: [in-game, PWT-Kofu Rematch, trainer+kofu]
+item: [null]
+ability: [Drizzle]
+moves:
+- [Aeroblast] #Hurricane
+- [Blizzard]
+- [Surf]
+- [Quick Attack]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

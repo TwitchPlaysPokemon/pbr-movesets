@@ -1,0 +1,21 @@
+---
+species: Dugtrio
+displayname: Wugtrio
+ingamename: Wugtrio
+setname: PWT-Kofu
+tags: [in-game, PWT-Kofu, trainer+kofu]
+item: [null]
+ability: [Dry Skin] #Gooey
+moves:
+- [Mud Slap]
+- [Water Pulse]
+- [Headbutt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

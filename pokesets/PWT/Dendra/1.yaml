@@ -1,0 +1,80 @@
+---
+species: Tauros
+setname: PWT-Dendra
+tags: [in-game, PWT-Dendra, trainer+dendra]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Flare Blitz] #Raging Bull
+- [Close Combat]
+- [Earthquake]
+- [Zen Headbutt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Tauros
+setname: PWT-Dendra-2
+tags: [in-game, PWT-Dendra, trainer+dendra]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Waterfall] #Raging Bull
+- [Close Combat]
+- [Rock Slide]
+- [Aqua Jet]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Dendra
+tags: [in-game, PWT-Dendra, trainer+dendra]
+item: [null]
+ability: [Pure Power]
+moves:
+- [Submission] #Axe Kick
+- [Zen Headbutt]
+- [Ice Punch]
+- [Thunder Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Hariyama
+setname: PWT-Dendra
+tags: [in-game, PWT-Dendra, trainer+dendra]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Close Combat]
+- [Stone Edge]
+- [Earthquake]
+- [Iron Head] #Heavy Slam
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

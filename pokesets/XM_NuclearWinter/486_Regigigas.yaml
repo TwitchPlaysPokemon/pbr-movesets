@@ -1,6 +1,6 @@
 species: Regigigas
 ingamename: TheChosen1
-displayname: TheChosen1
+displayname: The Chosen One
 setname: Nuke
 tags: [nuke]
 item: [King's Rock]
@@ -12,7 +12,7 @@ moves:
     - [Focus Energy]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [Master]
 shiny: True
 nature: Jolly
@@ -34,7 +34,7 @@ moves:
     - [Dark Void]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [master]
 shiny: True
 nature: Lonely

@@ -1,0 +1,100 @@
+---
+species: Vaporeon
+setname: PWT-Penny
+tags: [in-game, PWT-Penny, trainer+penny]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Hydro Pump]
+- [Quick Attack]
+- [Charm] #Baby-Doll Eyes
+- [Aurora Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Jolteon
+setname: PWT-Penny
+tags: [in-game, PWT-Penny, trainer+penny]
+item: [null]
+ability: [Quick Feet]
+moves:
+- [Thunder]
+- [Quick Attack]
+- [Charm] #Baby-Doll Eyes
+- [Pin Missile]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Flareon
+setname: PWT-Penny
+tags: [in-game, PWT-Penny, trainer+penny]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Flare Blitz]
+- [Quick Attack]
+- [Charm] #Baby-Doll Eyes
+- [Fire Spin]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Leafeon
+setname: PWT-Penny
+tags: [in-game, PWT-Penny, trainer+penny]
+item: [null]
+ability: [Leaf Guard]
+moves:
+- [Leaf Blade]
+- [Quick Attack]
+- [Charm] #Baby-Doll Eyes
+- [X-Scissor]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Umbreon
+setname: PWT-Penny
+tags: [in-game, PWT-Penny, trainer+penny]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Dark Pulse]
+- [Quick Attack]
+- [Charm] #Baby-Doll Eyes
+- [Psychic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

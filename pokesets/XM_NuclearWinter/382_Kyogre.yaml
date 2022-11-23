@@ -12,7 +12,7 @@ moves:
     - [U-Turn]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [Dusk]
 shiny: True
 nature: Modest
@@ -34,7 +34,7 @@ moves:
     - [Rain Dance]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [master]
 shiny: True
 nature: Modest
