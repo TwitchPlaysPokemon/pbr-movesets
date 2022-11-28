@@ -1,0 +1,22 @@
+species: Slowking
+ingamename: DoctorWho
+displayname: Doctor Who
+setname: Halloween
+ball: [Timer]
+tags: [Halloween]
+item: Spooky Plate
+ability: [Natural Cure]
+moves:
+    - [Roar of Time]
+    - [Future Sight]
+    - [Healing Wish]
+    - [Recover]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+nature: Mild
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 120, def: 0, spA: 160, spD: 140, spe: 0}
+hidden: false

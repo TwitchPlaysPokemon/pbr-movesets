@@ -11,8 +11,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: .75
 ball: [Repeat]
 nature: Adamant
 ivs: 31
 evs: {hp: 148, atk: 252, def: 16, spA: 0, spD: 0, spe: 92}
+---
+species: Sentret
+setname: Random
+tags: [standard]
+item: [Lum Berry]
+ability: [Download, Clear Body]
+moves:
+    - [Metronome]
+    - [Assist]
+    - [Sleep Talk]
+    - [Acupressure]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: .25
+ball: [Luxury]
+nature: Hardy
+ivs: 31
+evs: {hp: 148, atk: 126, def: 8, spA: 126, spD: 8, spe: 92}

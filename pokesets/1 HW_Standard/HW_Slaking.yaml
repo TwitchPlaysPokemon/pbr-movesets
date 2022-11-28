@@ -43,3 +43,26 @@ nature: Mild
 ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 60, spD: 0, spe: 100}
 hidden: false
+---
+species: Slaking
+ingamename: Cannon
+displayname: Glass Cannon
+setname: Halloween3
+tags: [halloween]
+item: Iapapa Berry
+ability: Huge Power
+moves:
+    - [Beat Up]
+    - [Fury Swipes]
+    - [Double Edge (=1)]
+    - [Belly Drum]
+gender: [m,f]
+happiness: 255
+biddable: false
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Lonely
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 100}
+hidden: false

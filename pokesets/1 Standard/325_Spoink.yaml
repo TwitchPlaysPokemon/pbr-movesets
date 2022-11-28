@@ -11,8 +11,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: .75
 ball: [Luxury]
 nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 36, atk: 0, def: 108, spA: 164, spD: 0, spe: 200}
+---
+species: Spoink
+setname: Physical
+tags: [standard]
+item: [Null]
+ability: [Own Tempo]
+moves:
+    - [Bounce]
+    - [Body Slam]
+    - [Zen Headbutt]
+    - [Reflect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: .25
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 36, atk: 164, def: 108, spA: 0, spD: 0, spe: 200}

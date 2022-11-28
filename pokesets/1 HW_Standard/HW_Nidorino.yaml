@@ -1,0 +1,22 @@
+species: Nidorino
+ingamename: Sonic
+displayname: Sonic the Hedgehog
+setname: Halloween
+tags: [halloween]
+item: Leftovers
+ability: Speed Boost
+moves:
+    - [Extreme Speed]
+    - [Rollout]
+    - [Mach Punch]
+    - [Defense Curl]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 68, atk: 244, def: 92, spA: 0, spD: 0, spe: 0}
+hidden: false

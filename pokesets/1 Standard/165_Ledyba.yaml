@@ -11,8 +11,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: .75
 ball: [Nest]
 nature: Modest
 ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
 evs: {hp: 156, atk: 0, def: 40, spA: 252, spD: 0, spe: 60}
+---
+species: Ledyba
+setname: Physical
+tags: [standard]
+item: [Salac Berry]
+ability: [Swarm]
+moves:
+    - [Attack Order]
+    - [Fly, Bounce]
+    - [Agility, Defend Order]
+    - [Baton Pass]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: .25
+ball: [Nest]
+nature: Adamant
+ivs: {hp: 31, atk: 2, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 156, atk: 252, def: 40, spA: 0, spD: 0, spe: 60}
