@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 31, atk: 0, def: 0, spA: 31, spD: 10, spe: 31}
 evs: {hp: 80, atk: 0, def: 0, spA: 180, spD: 0, spe: 0}
 hidden: false
+---
+species: Persian
+ingamename: "Chien-Pao"
+displayname: "Chien-Pao"
+setname: Halloween2
+tags: [halloween]
+item: Dragon Fang
+ability: Ice Body
+moves:
+    - [Ice Fang]
+    - [Crunch]
+    - [Swords Dance]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 0, spA: 0, spD: 10, spe: 31}
+evs: {hp: 80, atk: 80, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

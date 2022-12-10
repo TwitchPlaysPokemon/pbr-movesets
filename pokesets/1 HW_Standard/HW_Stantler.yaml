@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 20}
 evs: {hp: 44, atk: 156, def: 0, spA: 252, spD: 0, spe: 0}
 hidden: false
+---
+species: Stantler
+ingamename: "Ting-Lu"
+displayname: "Ting-Lu"
+setname: Halloween2
+tags: [halloween]
+item: Black Flute
+ability: Sand Veil
+moves:
+    - [Earthquake]
+    - [Payback]
+    - [Take Down]
+    - [Sandstorm]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 44, atk: 156, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

@@ -1,0 +1,22 @@
+species: Magcargo
+ingamename: "Wo-Chien"
+displayname: "Wo-Chien"
+setname: Halloween
+tags: [halloween]
+item: Meadow Plate
+ability: Intimidate
+moves:
+    - [Leaf Storm]
+    - [Dark Pulse]
+    - [Super Fang]
+    - [Leech Seed]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Calm
+ivs: 31
+evs: {hp: 124, atk: 0, def: 128, spA: 128, spD: 128, spe: 0}
+hidden: false
