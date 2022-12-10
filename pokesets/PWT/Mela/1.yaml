@@ -1,0 +1,18 @@
+---
+species: Torkoal
+setname: PWT-Mela
+tags: [in-game, PWT-Mela, trainer+mela]
+item: [null]
+ability: [Drought]
+moves:
+- [Flame Wheel]
+- [Sludge] #Clear Smog
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Quick]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

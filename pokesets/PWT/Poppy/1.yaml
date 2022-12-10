@@ -1,0 +1,38 @@
+---
+species: Magnezone
+setname: PWT-Poppy
+tags: [in-game, PWT-Poppy, trainer+poppy]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Discharge]
+- [Flash Cannon]
+- [Light Screen]
+- [Tri Attack]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Bronzong
+setname: PWT-Poppy
+tags: [in-game, PWT-Poppy, trainer+poppy]
+item: [null]
+ability: [Levitate]
+moves:
+- [Iron Head]
+- [Zen Headbutt]
+- [Rock Blast]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

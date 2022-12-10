@@ -1,0 +1,60 @@
+---
+species: Forretress
+setname: PWT-Katy Rematch
+tags: [in-game, PWT-Katy Rematch, trainer+katy]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Bug Bite]
+- [Gyro Ball]
+- [Curse]
+- [Stone Edge]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Katy Rematch
+tags: [in-game, PWT-Katy Rematch, trainer+katy]
+item: [null]
+ability: [Swarm]
+moves:
+- [Megahorn]
+- [Close Combat]
+- [Stone Edge]
+- [Night Slash]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ursaring
+setname: PWT-Katy Rematch
+tags: [in-game, PWT-Katy Rematch, trainer+katy]
+item: [null]
+ability: [Guts]
+moves:
+- [Fury Cutter]
+- [Earthquake] #High Horsepower
+- [Double Edge] #Play Rough
+- [Crunch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,87 @@
+---
+species: Jigglypuff
+displayname: "Scream Tail"
+ingamename: "ScreamTail"
+setname: PWT-Professor Sada
+tags: [in-game, PWT-Professor Sada, trainer+professorsada]
+item: [null]
+ability: [Flower Gift] #Protosynthesis
+moves:
+- [Double Edge] #Play Rough
+- [Drain Punch]
+- [Ice Punch]
+- [Zen Headbutt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Hardy
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Misdreavus
+displayname: "Flutter Mane"
+ingamename: "FluterMane"
+setname: PWT-Professor Sada
+tags: [in-game, PWT-Professor Sada, trainer+professorsada]
+item: [null]
+ability: [Solar Power] #Protosynthesis
+moves:
+- [Power Gem]
+- [Heat Wave] #Mystical Fire
+- [Shadow Ball]
+- [Thunderbolt]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Hardy
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magneton
+displayname: "Sandy Shocks"
+ingamename: "SandyShock"
+setname: PWT-Professor Sada
+tags: [in-game, PWT-Professor Sada, trainer+professorsada]
+item: [null]
+ability: [Solar Power] #Protosynthesis
+moves:
+- [Discharge]
+- [Earth Power]
+- [Flash Cannon]
+- [Power Gem]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Hardy
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Salamence
+displayname: "Roaring Moon"
+ingamename: "RoarinMoon"
+setname: PWT-Professor Sada
+tags: [in-game, PWT-Professor Sada, trainer+professorsada]
+item: [Liechi Berry] #Booster Energy
+ability: [Flower Gift] #Protosynthesis
+moves:
+- [Dragon Claw]
+- [Night Slash]
+- [Stone Edge]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Hardy
+ivs: 30
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

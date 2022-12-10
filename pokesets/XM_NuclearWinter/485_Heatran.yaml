@@ -1,6 +1,6 @@
 species: Heatran
 ingamename: SuprVolcno
-displayname: SuprVolcno
+displayname: Super Volcano
 setname: Nuke
 tags: [nuke]
 item: [Leftovers]
@@ -13,7 +13,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [Dusk]
 shiny: True
 nature: Timid
@@ -36,7 +36,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [master]
 shiny: True
 nature: Hasty

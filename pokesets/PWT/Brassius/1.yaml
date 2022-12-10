@@ -1,0 +1,18 @@
+---
+species: Sudowoodo
+setname: PWT-Brassius
+tags: [in-game, PWT-Brassius, trainer+brassius]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Razor Leaf] #Trailblaze
+- [Rock Throw]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,40 @@
+---
+species: Cacturne
+setname: PWT-Giacomo Rematch
+tags: [in-game, PWT-Giacomo Rematch, trainer+giacomo]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Bullet Seed]
+- [Sucker Punch]
+- [Protect] #Spiky Shield
+- [Thunder Punch]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Timer]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Honchkrow
+setname: PWT-Giacomo Rematch
+tags: [in-game, PWT-Giacomo Rematch, trainer+giacomo]
+item: [null]
+ability: [Insomnia]
+moves:
+- [Aeroblast] #Hurricane
+- [Dark Pulse]
+- [Psychic]
+- [Tailwind]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Timer]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

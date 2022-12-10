@@ -1,0 +1,82 @@
+---
+species: Pachirisu
+setname: PWT-Saguaro
+tags: [in-game, PWT-Saguaro, trainer+saguaro]
+item: [null]
+ability: [Run Away]
+moves:
+- [Super Fang]
+- [Spark] #Nuzzle
+- [Quick Attack]
+- [Thunder]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Luvdisc
+displayname: Alomomola
+ingamename: Alomomola
+setname: PWT-Saguaro
+tags: [in-game, PWT-Saguaro, trainer+saguaro]
+item: [null]
+ability: [Hydration]
+moves:
+- [Light Screen]
+- [Aqua Jet]
+- [Waterfall] #Liquidation
+- [Body Slam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Saguaro
+tags: [in-game, PWT-Saguaro, trainer+saguaro]
+item: [null]
+ability: [Snow Cloak]
+moves:
+- [Blizzard]
+- [Ominous Wind] #Hex
+- [Will-O-Wisp]
+- [Ice Shard]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Vespiquen
+setname: PWT-Saguaro
+tags: [in-game, PWT-Saguaro, trainer+saguaro]
+item: [null]
+ability: [Pressure]
+moves:
+- [Attack Order]
+- [Power Gem]
+- [Air Slash]
+- [Sludge Bomb]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

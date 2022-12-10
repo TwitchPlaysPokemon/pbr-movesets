@@ -12,7 +12,7 @@ moves:
     - [Earthquake]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [Dusk]
 shiny: True
 nature: Serious
@@ -34,7 +34,7 @@ moves:
     - [Roost]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.5
 ball: [master]
 shiny: True
 nature: Mild

@@ -1,0 +1,60 @@
+---
+species: Abomasnow
+setname: PWT-Clavell
+tags: [in-game, PWT-Clavell, trainer+clavell]
+item: [null]
+ability: [Snow Warning]
+moves:
+- [Light Screen, Reflect] #Aurora Veil
+- [Blizzard]
+- [Wood Hammer]
+- [Ice Shard]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Clavell
+tags: [in-game, PWT-Clavell, trainer+clavell]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Aqua Tail]
+- [Crunch]
+- [Stone Edge]
+- [Earthquake]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Houndoom
+setname: PWT-Clavell
+tags: [in-game, PWT-Clavell, trainer+clavell]
+item: [null]
+ability: [Flash Fire]
+moves:
+- [Dark Pulse]
+- [Fire Blast]
+- [Sludge Bomb]
+- [Thunder Fang]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

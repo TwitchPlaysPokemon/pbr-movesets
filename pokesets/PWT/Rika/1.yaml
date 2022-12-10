@@ -1,0 +1,102 @@
+---
+species: Whiscash
+setname: PWT-Rika
+tags: [in-game, PWT-Rika, trainer+rika]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Muddy Water]
+- [Earth Power]
+- [Blizzard]
+- [Future Sight]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Camerupt
+setname: PWT-Rika
+tags: [in-game, PWT-Rika, trainer+rika]
+item: [null]
+ability: [Magma Armor]
+moves:
+- [Earth Power]
+- [Fire Blast]
+- [Flash Cannon]
+- [Yawn]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Donphan
+setname: PWT-Rika
+tags: [in-game, PWT-Rika, trainer+rika]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Iron Head]
+- [Poison Jab]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dugtrio
+setname: PWT-Rika
+tags: [in-game, PWT-Rika, trainer+rika]
+item: [null]
+ability: [Sand Veil]
+moves:
+- [Earthquake]
+- [Rock Slide]
+- [Sucker Punch]
+- [Sandstorm]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Quagsire
+displayname: Clodsire
+ingamename: Clodsire
+setname: PWT-Rika
+tags: [in-game, PWT-Rika, trainer+rika]
+item: [null]
+ability: [Water Absorb]
+moves:
+- [Earthquake]
+- [Waterfall] #Liquidation
+- [Toxic]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

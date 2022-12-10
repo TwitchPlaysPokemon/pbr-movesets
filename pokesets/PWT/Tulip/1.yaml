@@ -1,0 +1,40 @@
+---
+species: Girafarig
+displayname: "Farigiraf"
+ingamename: "Farigiraf"
+setname: PWT-Tulip
+tags: [in-game, PWT-Tulip, trainer+tulip]
+item: [null]
+ability: [Battle Armor] #Armor Tail
+moves:
+- [Crunch]
+- [Zen Headbutt]
+- [Reflect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Tulip
+tags: [in-game, PWT-Tulip, trainer+tulip]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Psychic]
+- [Icy Wind] #Dazzling Gleam
+- [Energy Ball]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

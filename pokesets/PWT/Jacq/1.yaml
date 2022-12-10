@@ -1,0 +1,82 @@
+---
+species: Arcanine
+setname: PWT-Jacq
+tags: [in-game, PWT-Jacq, trainer+jacq]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Flare Blitz]
+- [Zen Headbutt] #Play Rough
+- [Close Combat]
+- [Psycho Cut] #Psychic Fangs
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Swalot
+setname: PWT-Jacq
+tags: [in-game, PWT-Jacq, trainer+jacq]
+item: [null]
+ability: [Liquid Ooze]
+moves:
+- [Fire Punch]
+- [Toxic]
+- [Ice Punch]
+- [Protect]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slowbro
+setname: PWT-Jacq
+tags: [in-game, PWT-Jacq, trainer+jacq]
+item: [null]
+ability: [Oblivious]
+moves:
+- [Psychic]
+- [Surf]
+- [Flamethrower]
+- [Light Screen]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Girafarig
+displayname: Farigiraf
+ingamename: Farigiraf
+setname: PWT-Jacq
+tags: [in-game, PWT-Jacq, trainer+jacq]
+item: [null]
+ability: [Battle Armor] #Armor Tail
+moves:
+- [Psychic]
+- [Thunderbolt]
+- [Energy Ball]
+- [Shadow Ball]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -1,0 +1,100 @@
+---
+species: Seviper
+setname: PWT-Raifort
+tags: [in-game, PWT-Raifort, trainer+raifort]
+item: [null]
+ability: [Shed Skin]
+moves:
+- [Glare]
+- [Gunk Shot]
+- [Psycho Cut] #Psychic Fangs
+- [Crunch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Grumpig
+setname: PWT-Raifort
+tags: [in-game, PWT-Raifort, trainer+raifort]
+item: [null]
+ability: [Thick Fat]
+moves:
+- [Psychic]
+- [Power Gem]
+- [Flash Cannon]
+- [Earth Power]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lumineon
+setname: PWT-Raifort
+tags: [in-game, PWT-Raifort, trainer+raifort]
+item: [null]
+ability: [Swift Swim]
+moves:
+- [Dragon Pulse] #Dazzling Gleam
+- [Whirlpool]
+- [Air Slash]
+- [Ice Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Scizor
+setname: PWT-Raifort
+tags: [in-game, PWT-Raifort, trainer+raifort]
+item: [null]
+ability: [Technician]
+moves:
+- [X-Scissor]
+- [Aerial Ace]
+- [Thief]
+- [Bullet Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Raifort
+tags: [in-game, PWT-Raifort, trainer+raifort]
+item: [null]
+ability: [Levitate] #Cursed Body
+moves:
+- [Shadow Ball]
+- [Sucker Punch]
+- [Sludge Bomb]
+- [Fire Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

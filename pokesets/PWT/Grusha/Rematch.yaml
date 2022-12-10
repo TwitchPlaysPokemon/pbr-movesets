@@ -1,0 +1,40 @@
+---
+species: Weavile
+setname: PWT-Grusha Rematch
+tags: [in-game, PWT-Grusha Rematch, trainer+grusha]
+item: [null]
+ability: [Pressure]
+moves:
+- [Night Slash]
+- [Ice Punch]
+- [Shadow Claw]
+- [X-Scissor]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Grusha Rematch
+tags: [in-game, PWT-Grusha Rematch, trainer+grusha]
+item: [null]
+ability: [Natural Cure]
+moves:
+- [Ice Beam]
+- [Dragon Pulse]
+- [Mist Ball] #Moonblast
+- [Aeroblast] #Hurricane
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

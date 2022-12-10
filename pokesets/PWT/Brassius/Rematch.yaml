@@ -1,0 +1,40 @@
+---
+species: Breloom
+setname: PWT-Brassius Rematch
+tags: [in-game, PWT-Brassius Rematch, trainer+brassius]
+item: [null]
+ability: [Effect Spore]
+moves:
+- [Mach Punch]
+- [Seed Bomb]
+- [Spore]
+- [Thunder Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sudowoodo
+setname: PWT-Brassius Rematch
+tags: [in-game, PWT-Brassius Rematch, trainer+brassius]
+item: [null]
+ability: [Sturdy]
+moves:
+- [Wood Hammer] #Trailblaze
+- [Stone Edge]
+- [Fire Punch]
+- [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

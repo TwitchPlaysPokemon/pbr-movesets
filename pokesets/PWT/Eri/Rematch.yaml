@@ -1,0 +1,82 @@
+---
+species: Primeape
+setname: PWT-Eri Rematch-2
+tags: [in-game, PWT-Eri Rematch, trainer+eri]
+item: [null]
+ability: [Vital Spirit]
+moves:
+- [Gunk Shot]
+- [Earthquake] #Stomping Tantrum
+- [Cross Chop]
+- [Rock Slide]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Heal]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Eri Rematch
+tags: [in-game, PWT-Eri Rematch, trainer+eri]
+item: [null]
+ability: [Anticipation]
+moves:
+- [Poison Jab]
+- [Brick Break]
+- [Sucker Punch]
+- [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Heal]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Eri Rematch
+tags: [in-game, PWT-Eri Rematch, trainer+eri]
+item: [null]
+ability: [Steadfast]
+moves:
+- [Dragon Pulse]
+- [Aura Sphere]
+- [Dark Pulse]
+- [Extreme Speed]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Heal]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Primeape
+displayname: Annihilape
+ingamename: Annihilape
+setname: PWT-Eri Rematch
+tags: [in-game, PWT-Eri Rematch, trainer+eri]
+item: [null]
+ability: [Vital Spirit]
+moves:
+- [Shadow Punch] #Rage Fist
+- [Close Combat]
+- [Ice Punch]
+- [Gunk Shot]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Heal]
+nature: Hardy
+ivs: 25
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
