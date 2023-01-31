@@ -17,6 +17,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
+suppressions: [invalid-evs]
 ivs: {hp: 18, atk: 26, def: 16, spA: 6, spD: 6, spe: 8}
 evs: {hp: 179, atk: 148, def: 184, spA: 194, spD: 194, spe: 174}
 ---
@@ -39,6 +40,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
+suppressions: [invalid-evs]
 ivs: {hp: 8, atk: 12, def: 30, spA: 1, spD: 1, spe: 1}
 evs: {hp: 72, atk: 78, def: 80, spA: 87, spD: 87, spe: 83}
 ---
@@ -61,6 +63,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
+suppressions: [invalid-evs]
 ivs: {hp: 12, atk: 1, def: 22, spA: 1, spD: 1, spe: 10}
 evs: {hp: 112, atk: 138, def: 133, spA: 116, spD: 116, spe: 130}
 ---
@@ -83,6 +86,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
+suppressions: [invalid-evs]
 ivs: {hp: 8, atk: 12, def: 18, spA: 1, spD: 1, spe: 28}
 evs: {hp: 109, atk: 108, def: 112, spA: 105, spD: 105, spe: 119}
 ---
@@ -105,6 +109,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
+suppressions: [invalid-evs]
 ivs: {hp: 4, atk: 1, def: 12, spA: 20, spD: 20, spe: 22}
 evs: {hp: 131, atk: 153, def: 148, spA: 160, spD: 160, spe: 151}
 ---
@@ -126,6 +131,7 @@ rarity: 1.0
 ball: [Master]
 shiny: False
 nature: Serious
+suppressions: [invalid-evs]
 ivs: {hp: 26, atk: 22, def: 10, spA: 6, spD: 6, spe: 1}
 evs: {hp: 42, atk: 48, def: 43, spA: 46, spD: 46, spe: 48}
 ---
@@ -148,5 +154,6 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
+suppressions: [invalid-evs]
 ivs: {hp: 24, atk: 26, def: 14, spA: 1, spD: 1, spe: 16}
 evs: {hp: 100, atk: 113, def: 105, spA: 112, spD: 112, spe: 118}
