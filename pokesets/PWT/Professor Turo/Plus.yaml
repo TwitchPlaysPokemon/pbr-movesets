@@ -1,0 +1,120 @@
+---
+species: Slaking
+setname: PWT-Professor Turo+
+tags: [in-game, PWT-Professor Turo+, trainer+professorturo]
+item: [null]
+ability: [Early Bird] #As far as we can guess without the raw files
+moves:
+- [Psychic]
+- [Twister] #Dragon Tail, but I'm not giving Dragon Rush to a 325 ATK Slaking w/o Truant
+- [Blizzard] #Freeze-Dry
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Professor Turo+-2
+tags: [in-game, PWT-Professor Turo+, trainer+professorturo]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Psychic]
+- [Twister]
+- [Blizzard]
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Professor Turo+-3
+tags: [in-game, PWT-Professor Turo+, trainer+professorturo]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Psychic]
+- [Twister]
+- [Blizzard]
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Professor Turo+-4
+tags: [in-game, PWT-Professor Turo+, trainer+professorturo]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Psychic]
+- [Twister]
+- [Blizzard]
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Professor Turo+-5
+tags: [in-game, PWT-Professor Turo+, trainer+professorturo]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Psychic]
+- [Twister]
+- [Blizzard]
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Slaking
+setname: PWT-Professor Turo+-6
+tags: [in-game, PWT-Professor Turo+, trainer+professorturo]
+item: [null]
+ability: [Early Bird]
+moves:
+- [Psychic]
+- [Twister]
+- [Blizzard]
+- [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Master]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

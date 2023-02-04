@@ -37,6 +37,8 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Dusk]
+shiny: True
 nature: Serious
 ivs: 31
 evs: {hp: 0, atk: 0, def: 0, spA: 128, spD: 0, spe: 252}
+hidden: false

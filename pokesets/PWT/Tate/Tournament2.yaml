@@ -86,7 +86,7 @@ moves:
 - [Close Combat]
 - [Night Slash]
 - [Ice Punch]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]

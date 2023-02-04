@@ -77,7 +77,7 @@ moves:
 - [Brick Break]
 - [Dragon Rush] #Spirit Break
 - [Poison Jab]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: false
 ball: [Master]

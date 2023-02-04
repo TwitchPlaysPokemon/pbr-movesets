@@ -15,9 +15,11 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
+shiny: True
 nature: Quiet
 ivs: {hp: 31, atk: 31, def: 31, spA: 13, spD: 31, spe: 19}
 evs: {hp: 252, atk: 16, def: 40, spA: 28, spD: 40, spe: 24}
+hidden: false
 ---
 species: Girafarig
 ingamename: Farigiraf
@@ -36,6 +38,8 @@ happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Premier]
+shiny: True
 nature: Quiet
 ivs: 29
 evs: 84
+hidden: false

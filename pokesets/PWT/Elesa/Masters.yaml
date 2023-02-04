@@ -1,0 +1,39 @@
+---
+species: Rotom
+setname: PWT-Elesa Masters
+tags: [in-game, PWT-Elesa Masters, trainer+elesa]
+item: [null]
+ability: [Levitate]
+moves:
+- [Thundershock, Thunderbolt]
+- [Nasty Plot] #X Sp. Atk All
+- [Acupressure] #Breathtaking!
+- [Thunder]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Togetic
+setname: PWT-Elesa Masters
+tags: [in-game, PWT-Elesa Masters, trainer+elesa]
+item: [null]
+ability: [Hustle, Serene Grace, Super Luck]
+moves:
+- [Metronome]
+- [Focus Energy] #Dire Hit+
+- [Fly]
+- [Swords Dance, Nasty Plot] #Delivering Delight!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
