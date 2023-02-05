@@ -1,0 +1,22 @@
+species: Xatu
+ingamename: Melia
+displayname: Melia Antiqua
+setname: Halloween
+tags: [halloween]
+item: Zap Plate
+ability: Serene Grace
+moves:
+    - [Aqua Ring]
+    - [Charge Beam]
+    - [Luster Purge]
+    - [High Jump Kick]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Mild
+ivs: {hp: 0, atk: 15, def: 0, spA: 25, spD: 20, spe: 0}
+evs: {hp: 0, atk: 100, def: 0, spA: 200, spD: 0, spe: 0}
+hidden: false
