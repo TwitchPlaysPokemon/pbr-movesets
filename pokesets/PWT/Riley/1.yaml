@@ -13,8 +13,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Mild
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -33,8 +33,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Naughty
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -53,8 +53,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Quiet
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -72,8 +72,8 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Bashful
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -81,19 +81,19 @@ rarity: 1.0
 species: Lucario
 setname: PWT-Riley
 tags: [in-game, PWT-Riley, trainer+riley]
-item: [null]
+item: [Sitrus Berry]
 ability: [Steadfast]
 moves:
 - [Close Combat]
-- [Earthquake]
+- [Blaze Kick]
 - [Extreme Speed]
 - [Bone Rush]
 gender: [m]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Rash
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

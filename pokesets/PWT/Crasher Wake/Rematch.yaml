@@ -13,8 +13,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Impish
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -33,8 +33,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Careful
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -42,7 +42,7 @@ rarity: 1.0
 species: Ludicolo
 setname: PWT-Crasher Wake Rematch
 tags: [in-game, PWT-Crasher Wake Rematch, trainer+crasherwake]
-item: [null]
+item: [Sitrus Berry]
 ability: [Swift Swim]
 moves:
 - [Surf]
@@ -53,8 +53,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Jolly
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -73,8 +73,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Hasty
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -93,8 +93,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Modest
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

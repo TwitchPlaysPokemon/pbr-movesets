@@ -14,7 +14,7 @@ happiness: 255
 biddable: false
 ball: [Poke]
 nature: Serious
-ivs: 0
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -33,8 +33,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Adamant
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -42,7 +42,7 @@ rarity: 1.0
 species: Aggron
 setname: PWT-Byron Rematch
 tags: [in-game, PWT-Byron Rematch, trainer+byron]
-item: [null]
+item: [Sitrus Berry]
 ability: [Sturdy]
 moves:
 - [Metal Burst]
@@ -53,8 +53,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Impish
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -73,8 +73,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Brave
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -92,8 +92,8 @@ moves:
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Jolly
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
