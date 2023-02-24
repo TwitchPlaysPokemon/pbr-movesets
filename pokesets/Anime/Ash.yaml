@@ -187,6 +187,27 @@ ivs: 31
 evs: {hp: 0, atk: 32, def: 224, spA: 0, spD: 0, spe: 252}
 tags: [ash, anime]
 ---
+species: Mr. Mime
+displayname: Mimey
+ingamename: Mimey
+setname: Ash
+ability: [Filter]
+item: [Light Clay]
+ball: [Poke]
+moves:
+- [Psychic]
+- [Focus Punch]
+- [Reflect]
+- [Light Screen]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+tags: [ash, anime]
+---
 species: Tauros
 setname: Ash
 ability: [Intimidate]
@@ -395,6 +416,25 @@ rarity: 1.0
 nature: Modest
 evs: {hp: 8, atk: 0, def: 0, spA: 252, spD: 0, spe: 248}
 ivs: {hp: 31, atk: 22, def: 31, spA: 31, spD: 31, spe: 31}
+tags: [ash, anime]
+---
+species: Larvitar
+setname: Ash
+ability: [Guts]
+item: [Dread Plate]
+ball: [Poke]
+moves:
+- [Bite]
+- [Dig]
+- [Hidden Power]
+- [Harden]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quiet
+evs: {hp: 0, atk: 248, def: 0, spA: 252, spD: 0, spe: 8}
+ivs: {hp: 31, atk: 27, def: 30, spA: 31, spD: 30, spe: 30}
 tags: [ash, anime]
 ---
 species: Sceptile

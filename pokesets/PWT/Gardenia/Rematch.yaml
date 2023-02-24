@@ -13,8 +13,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Bashful
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -33,8 +33,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Calm
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -53,8 +53,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Hardy
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -62,7 +62,7 @@ rarity: 1.0
 species: Roserade
 setname: PWT-Gardenia Rematch
 tags: [in-game, PWT-Gardenia Rematch, trainer+gardenia]
-item: [null]
+item: [Sitrus Berry]
 ability: [Natural Cure]
 moves:
 - [Sludge Bomb]
@@ -73,8 +73,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Adamant
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -93,8 +93,8 @@ gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Calm
+ivs: 24
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

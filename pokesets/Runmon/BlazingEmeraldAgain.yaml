@@ -1,0 +1,175 @@
+species: Farfetch'd #Mallar'ki
+ingamename: Artoria
+displayname: Artoria
+setname: TPP Blazing Emerald Again
+tags: [runmon, in-game]
+item: [Sharp Beak]
+ability: [Hyper Cutter] #Resolute is later gen Sturdy which has no equivalent in Gen 4, so it gets its other ability from most of the run instead.
+moves:
+    - [Fly]
+    - [Sky Uppercut]
+    - [Leaf Blade]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Bold
+ivs: {hp: 12, atk: 30, def: 30, spA: 26, spD: 13, spe: 27}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Zangoose #Zangaro
+ingamename: AGG
+displayname: AGG
+setname: TPP Blazing Emerald Again
+tags: [runmon, in-game]
+item: [Blackglasses]
+ability: [Quick Feet] #Lithe
+moves:
+    - [Return]
+    - [Earthquake]
+    - [Night Slash]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Sassy
+ivs: {hp: 4, atk: 12, def: 14, spA: 15, spD: 29, spe: 9}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Quagsire
+ingamename: OOP
+displayname: OOP
+setname: TPP Blazing Emerald Again
+tags: [runmon, in-game]
+item: [Soft Sand]
+ability: [Marvel Scale] #Tenacious has no straight Gen 4 equivalent.
+moves:
+    - [Earthquake]
+    - [Dive]
+    - [Toxic]
+    - [Slack Off]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Rash
+ivs: {hp: 31, atk: 25, def: 30, spA: 15, spD: 30, spe: 11}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 6, spe: 0}
+---
+species: Clefable
+ingamename: Hope
+displayname: Hope
+setname: TPP Blazing Emerald Again
+tags: [runmon, in-game]
+item: [Lax Incense]
+ability: [Cute Charm]
+moves:
+    - [Hyper Voice] #Draining Kiss
+    - [Calm Mind]
+    - [Toxic]
+    - [Moonlight]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 22, atk: 26, def: 28, spA: 13, spD: 28, spe: 14}
+evs: {hp: 0, atk: 0, def: 126, spA: 252, spD: 126, spe: 0}
+---
+species: Seviper #Silviper
+ingamename: QR
+displayname: QR
+setname: TPP Blazing Emerald Again
+tags: [runmon, in-game]
+item: [Shell Bell]
+ability: [Adaptability] #Strong Jaw
+moves:
+    - [Poison Tail]
+    - [Earthquake]
+    - [Crunch]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Relaxed
+ivs: {hp: 12, atk: 7, def: 13, spA: 13, spD: 12, spe: 9}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 6}
+---
+species: Dunsparce #Drasparath
+ingamename: Zooey
+displayname: Zooey
+setname: TPP Blazing Emerald Again
+tags: [runmon, in-game]
+item: [Magnet]
+ability: [Adaptability] #Air Control
+moves:
+    - [Thunderbolt]
+    - [Dragon Pulse]
+    - [Tri Attack]
+    - [Flamethrower]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: {hp: 21, atk: 9, def: 24, spA: 5, spD: 29, spe: 1}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Beautifly
+ingamename: Beautox
+displayname: Beautox
+setname: TPP Blazing Emerald Again
+tags: [runmon, in-game]
+item: [null]
+ability: [Swarm]
+moves:
+    - [Signal Beam]
+    - [Psychic]
+    - [Energy Ball]
+    - [Stun Spore]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 25, atk: 19, def: 4, spA: 31, spD: 1, spe: 11}
+evs: {hp: 49, atk: 50, def: 34, spA: 52, spD: 56, spe: 22}
+---
+species: Mightyena
+ingamename: Eustace
+displayname: Eustace
+setname: TPP Blazing Emerald Again
+tags: [runmon, in-game]
+item: [null]
+ability: [Adaptability] #Strong Jaw
+moves:
+    - [Take Down]
+    - [Howl]
+    - [Crunch]
+    - [Bite]
+gender: [m]
+happiness: 224
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Calm
+ivs: {hp: 22, atk: 29, def: 19, spA: 18, spD: 1, spe: 11}
+evs: {hp: 37, atk: 43, def: 26, spA: 86, spD: 23, spe: 54}

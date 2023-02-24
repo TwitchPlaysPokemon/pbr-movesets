@@ -13,8 +13,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Adamant
+ivs: 30
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -33,8 +33,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Sassy
+ivs: 30
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -53,8 +53,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Mild
+ivs: 30
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -62,7 +62,7 @@ rarity: 1.0
 species: Garchomp
 setname: PWT-Cynthia
 tags: [in-game, PWT-Cynthia, trainer+cynthia]
-item: [null]
+item: [Sitrus Berry]
 ability: [Sand Veil]
 moves:
 - [Dragon Rush]
@@ -73,8 +73,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Bold
+ivs: 30
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -93,8 +93,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Naughty
+ivs: 30
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -113,8 +113,8 @@ gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Serious
-ivs: 0
+nature: Docile
+ivs: 30
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0

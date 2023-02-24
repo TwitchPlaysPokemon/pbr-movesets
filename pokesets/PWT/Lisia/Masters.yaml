@@ -1,0 +1,47 @@
+---
+species: Altaria
+displayname: Ali
+ingamename: Ali
+setname: PWT-Lisia Masters
+tags: [in-game, PWT-Lisia Masters, trainer+lisia]
+item: [Soul Dew]
+ability: [Natural Cure, Cloud Nine]
+moves:
+- [Twister, Dragon Pulse]
+- [Defog]
+- [Follow Me] #Spotlight, Please!
+- [Draco Meteor] #Moonblast
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Rapidash #Galarian
+displayname: Dashie
+ingamename: Dashie
+setname: PWT-Lisia Masters
+tags: [in-game, PWT-Lisia Masters, trainer+lisia]
+item: [null]
+ability: [Run Away, Anticipation, Immunity] #Pastel Veil
+moves:
+- [Quick Attack]
+- [Focus Energy] #Dire Hit+
+- [Giga Impact]
+- [Dragon Dance] #A Battle Spectacular!
+gender: [m]
+happiness: 255
+biddable: false
+shiny: True
+hidden: False
+suppressions: [public-shiny]
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

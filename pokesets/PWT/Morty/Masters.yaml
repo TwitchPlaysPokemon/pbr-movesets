@@ -80,3 +80,23 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Gastly
+setname: PWT-Morty Masters
+tags: [in-game, PWT-Morty Masters, trainer+morty]
+item: [null]
+ability: [Levitate]
+moves:
+- [Ominous Wind]
+- [Nasty Plot] #X Sp. Atk All
+- [Aromatherapy] #Full Heal
+- [Minimize] #See the Unseen!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

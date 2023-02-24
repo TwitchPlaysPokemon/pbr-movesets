@@ -1,0 +1,43 @@
+species: Lucario
+ingamename: Sora
+displayname: Sora
+setname: TPP Volt White 2 Redux
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Steadfast]
+moves:
+    - [Aura Sphere]
+    - [Flash Cannon]
+    - [Dark Pulse]
+    - [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 1, atk: 28, def: 10, spA: 9, spD: 7, spe: 10}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Qwilfish
+ingamename: KILLFISH
+displayname: KILLFISH
+setname: TPP Volt White 2 Redux
+tags: [runmon, in-game]
+item: [Black Sludge]
+ability: [Intimidate]
+moves:
+    - [Gunk Shot]
+    - [Dive]
+    - [Acupressure]
+    - [Spikes]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Careful
+ivs: {hp: 26, atk: 3, def: 27, spA: 19, spD: 11, spe: 20}
+evs: {hp: 6, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
