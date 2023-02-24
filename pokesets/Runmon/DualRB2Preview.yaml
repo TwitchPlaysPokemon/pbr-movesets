@@ -17,7 +17,6 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-suppressions: [invalid-evs]
 ivs: {hp: 12, atk: 16, def: 2, spA: 1, spD: 1, spe: 30}
 evs: {hp: 110, atk: 115, def: 117, spA: 110, spD: 110, spe: 111}
 ---
@@ -40,7 +39,6 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-suppressions: [invalid-evs]
 ivs: {hp: 12, atk: 1, def: 14, spA: 28, spD: 28, spe: 18}
 evs: {hp: 98, atk: 111, def: 112, spA: 99, spD: 99, spe: 119}
 ---
@@ -63,7 +61,6 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-suppressions: [invalid-evs]
 ivs: {hp: 1, atk: 1, def: 20, spA: 4, spD: 4, spe: 20}
 evs: {hp: 78, atk: 86, def: 94, spA: 92, spD: 92, spe: 91}
 ---
@@ -86,7 +83,6 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-suppressions: [invalid-evs]
 ivs: {hp: 16, atk: 22, def: 1, spA: 1, spD: 1, spe: 24}
 evs: {hp: 109, atk: 120, def: 116, spA: 123, spD: 123, spe: 131}
 ---
@@ -109,13 +105,12 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-suppressions: [invalid-evs]
 ivs: {hp: 1, atk: 8, def: 1, spA: 28, spD: 28, spe: 8}
 evs: {hp: 102, atk: 113, def: 109, spA: 89, spD: 89, spe: 99}
 ---
 species: Fearow
 ingamename: T()
-displayname: T()
+displayname:
 setname: TPP Dual Blue 2 Preview
 tags: [runmon, in-game]
 item: [null]
@@ -132,7 +127,6 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-suppressions: [invalid-evs]
 ivs: {hp: 28, atk: 6, def: 2, spA: 28, spD: 28, spe: 22}
 evs: {hp: 73, atk: 79, def: 76, spA: 78, spD: 78, spe: 71}
 ---
@@ -154,6 +148,5 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-suppressions: [invalid-evs]
 ivs: {hp: 10, atk: 8, def: 14, spA: 26, spD: 26, spe: 4}
 evs: {hp: 11, atk: 12, def: 10, spA: 12, spD: 12, spe: 9}
