@@ -173,3 +173,25 @@ shiny: False
 nature: Lax
 ivs: {hp: 14, atk: 13, def: 4, spA: 7, spD: 14, spe: 10}
 evs: {hp: 10, atk: 67, def: 10, spA: 23, spD: 42, spe: 24}
+---
+species: Glalie #Quarcier
+ingamename: 99' ♂♂♂♂♂♂
+displayname: 99' ♂♂♂♂♂♂
+setname: TPP XG Remix
+tags: [runmon, in-game]
+item: [NeverMeltIce]
+ability: [Battle Armor]
+moves:
+    - [Ice Beam]
+    - [Rock Slide]
+    - [Double-Edge]
+    - [Ice Shard]
+gender: [m]
+happiness: 206
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: {hp: 10, atk: 11, def: 1, spA: 11, spD: 3, spe: 31}
+evs: {hp: 14, atk: 29, def: 25, spA: 9, spD: 28, spe: 51}

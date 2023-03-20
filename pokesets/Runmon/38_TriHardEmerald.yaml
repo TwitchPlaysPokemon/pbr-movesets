@@ -30,7 +30,7 @@ ability: [Static]
 moves:
     - [Hidden Power]
     - [Thunderbolt]
-    - [Bite]
+    - [Dark Pulse]
     - [Thunder]
 gender: [f]
 happiness: 255
@@ -152,67 +152,6 @@ nature: Naive
 ivs: {hp: 25, atk: 2, def: 17, spA: 26, spD: 31, spe: 6}
 evs: {hp: 35, atk: 37, def: 9, spA: 21, spD: 26, spe: 38}
 ---
-species: Lotad
-ingamename: "F --"
-displayname: "F --"
-setname: TPP TriHard Emerald
-tags: [runmon, in-game]
-item: [Null]
-ability: [Swift Swim]
-moves:
-    - [Growl]
-    - [Astonish]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 0.1
-ball: [Poke]
-shiny: False
-nature: Naive
-ivs: {hp: 6, atk: 0, def: 12, spA: 20, spD: 31, spe: 5}
-evs: {hp: 0, atk: 1, def: 0, spA: 0, spD: 0, spe: 0}
----
-species: Wurmple
-ingamename: "Kkek"
-displayname: "Kkek"
-setname: TPP TriHard Emerald
-tags: [runmon, in-game]
-item: [Null]
-ability: [Shield Dust]
-moves:
-    - [String Shot]
-    - [Poison Sting]
-    - [Tackle]
-gender: [f]
-happiness: 255
-biddable: True
-rarity: 0.1
-ball: [Poke]
-shiny: False
-nature: Naive
-ivs: {hp: 0, atk: 1, def: 12, spA: 2, spD: 2, spe: 3}
-evs: {hp: 0, atk: 1, def: 1, spA: 0, spD: 1, spe: 3}
----
-species: Shroomish
-ingamename: "Xxwww ,yyy"
-displayname: "Xxwww ,yyy"
-setname: TPP TriHard Emerald
-tags: [runmon, in-game]
-item: [Null]
-ability: [Effect Spore]
-moves:
-    - [Absorb]
-    - [Tackle]
-gender: [f]
-happiness: 255
-biddable: True
-rarity: 0.1
-ball: [Poke]
-shiny: False
-nature: Serious
-ivs: {hp: 14, atk: 31, def: 6, spA: 25, spD: 24, spe: 16}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
----
 species: Regice
 ingamename: "Vnnnmmmhht"
 displayname: "Vnnnmmmhht"
@@ -256,7 +195,7 @@ nature: Careful
 ivs: {hp: 27, atk: 7, def: 9, spA: 27, spD: 18, spe: 12}
 evs: {hp: 182, atk: 8, def: 112, spA: 26, spD: 17, spe: 165}
 ---
-species: Tentacool
+species: Tentacool #comedy incarnate
 ingamename: "tttttt"
 displayname: "tttttt"
 setname: TPP TriHard Emerald

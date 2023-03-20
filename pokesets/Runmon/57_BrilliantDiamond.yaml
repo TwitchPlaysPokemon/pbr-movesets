@@ -250,25 +250,3 @@ shiny: False
 nature: Brave
 ivs: {hp: 31, atk: 8, def: 31, spA: 11, spD: 31, spe: 21}
 evs: {hp: 238, atk: 252, def: 4, spA: 0, spD: 12, spe: 4}
----
-species: Munchlax
-ingamename: Papper
-displayname: Papper
-setname: TPP Brilliant Diamond
-tags: [runmon, in-game]
-item: [Everstone]
-ability: [Thick Fat]
-moves:
-    - [Belly Drum]
-    - [Amnesia]
-    - [Metronome]
-    - [Flail]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Bashful
-ivs: {hp: 9, atk: 6, def: 28, spA: 22, spD: 20, spe: 12}
-evs: {hp: 10, atk: 59, def: 39, spA: 34, spD: 21, spe: 10}

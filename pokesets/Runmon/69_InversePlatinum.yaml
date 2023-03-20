@@ -1,0 +1,216 @@
+species: Roserade
+ingamename: O ☺R0BAA4B
+displayname: O ☺R0BAA4B
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Rose Incense]
+ability: [Natural Cure]
+moves:
+    - [Sludge Bomb]
+    - [Giga Drain]
+    - [Hidden Power]
+    - [Growth]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: {hp: 29, atk: 5, def: 18, spA: 7, spD: 6, spe: 28}
+evs: {hp: 61, atk: 92, def: 95, spA: 110, spD: 21, spe: 131}
+---
+species: Floatzel
+ingamename: ♛☽↗↗☽
+displayname: ♛☽↗↗☽
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Crunch]
+    - [Secret Power, Ice Fang]
+    - [Rain Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: {hp: 15, atk: 8, def: 16, spA: 27, spD: 22, spe: 20}
+evs: {hp: 76, atk: 114, def: 74, spA: 89, spD: 832, spe: 125}
+---
+species: Medicham
+ingamename: Crshoigtd
+displayname: Crshoigtd
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Wide Lens]
+ability: [Pure Power]
+moves:
+    - [Hi Jump Kick]
+    - [Zen Headbutt]
+    - [Return]
+    - [Thunder Punch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: {hp: 13, atk: 12, def: 5, spA: 0, spD: 28, spe: 4}
+evs: {hp: 74, atk: 89, def: 75, spA: 109, spD: 29, spe: 113}
+---
+species: Scyther
+ingamename: NCZEUSELET
+displayname: NCZEUSELET
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [Technician]
+moves:
+    - [Aerial Ace]
+    - [X-Scissor]
+    - [Rock Smash]
+    - [Roost]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Relaxed
+ivs: {hp: 12, atk: 25, def: 19, spA: 9, spD: 28, spe: 6}
+evs: {hp: 57, atk: 88, def: 73, spA: 37, spD: 27, spe: 159}
+---
+species: Lickilicky
+ingamename: "E #!? %☺("
+displayname: "E #!? %☺("
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [Own Tempo]
+moves:
+    - [Return]
+    - [Brick Break]
+    - [Explosion]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 25, atk: 24, def: 28, spa: 3, spD: 3, spe: 25}
+evs: {hp: 97, atk: 64, def: 93, spA: 71, spD: 23, spe: 92}
+---
+species: Rhyperior
+ingamename: ;aozbbpp
+displayname: ;aozbbpp
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Rock Head]
+moves:
+    - [Earthquake]
+    - [Stone Edge, Rock Wrecker]
+    - [Focus Punch]
+    - [Attract]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 11, atk: 15, def: 26, spA: 2, spD: 6, spe: 3}
+evs: {hp: 85, atk: 113, def: 149, spA: 40, spD: 36, spe: 87}
+---
+species: Porgon-Z
+ingamename: PEOK
+displayname: PEOK
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Choice Specs]
+ability: [Adaptability]
+moves:
+    - [Tri-Attack]
+    - [Hyper Beam]
+    - [Shadow Ball]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 24, atk: 15, def: 31, spA: 8, spD: 20, spe: 18}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 2, spe: 252}
+---
+species: Azelf
+ingamename: SPOON
+displayname: SPOON
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Lum Berry]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Signal Beam]
+    - [Taunt]
+    - [Nasty Plot]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Serious
+ivs: {hp: 25, atk: 19, def: 0, spA: 25, spD: 19, spe: 6}
+evs: {hp: 4, atk: 1, def: 0, spA: 253, spD: 0, spe: 252}
+---
+species: Zapdos
+ingamename: VOLTJA
+displayname: VOLTJA
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Wise Glasses]
+ability: [Pressure]
+moves:
+    - [Thunderbolt]
+    - [Heat Wave]
+    - [U-Turn]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Rash
+ivs: {hp: 31, atk: 1, def: 1, spA: 6, spD: 27, spe: 25}
+evs: {hp: 4, atk: 2, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Steelix
+ingamename: PEELIX
+displayname: PEELIX
+setname: TPP Inverse Platinum
+tags: [runmon, in-game]
+item: [Chesto Berry]
+ability: [Rock Head]
+moves:
+    - [Gyro Ball]
+    - [Fire Fang]
+    - [Curse]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 27, atk: 17, def: 24, spA: 8, spD: 13, spe: 16}
+evs: {hp: 100, atk: 100, def: 100, spA: 0, spD: 100, spe: 0}

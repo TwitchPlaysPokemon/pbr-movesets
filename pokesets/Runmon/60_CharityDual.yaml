@@ -17,7 +17,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 9, atk: 13, def: 12, spA: 13, spD: 13, spe: 2}
+ivs: {hp: 18, atk: 26, def: 24, spA: 26, spD: 26, spe: 4}
 evs: {hp: 143, atk: 163, def: 160, spA: 149, spD: 149, spe: 168}
 ---
 species: Mew
@@ -38,7 +38,7 @@ rarity: 1.0
 ball: [Great]
 shiny: False
 nature: Serious
-ivs: {hp: 6, atk: 12, def: 3, spA: 14, spD: 14, spe: 1}
+ivs: {hp: 12, atk: 14, def: 6, spA: 28, spD: 28, spe: 2}
 evs: {hp: 107, atk: 98, def: 95, spA: 95, spD: 95, spe: 92}
 ---
 species: Jynx
@@ -60,7 +60,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 0, atk: 12, def: 0, spA: 12, spD: 12, spe: 0}
+ivs: {hp: 0, atk: 24, def: 0, spA: 24, spD: 24, spe: 0}
 evs: {hp: 99, atk: 110, def: 102, spA: 106, spD: 106, spe: 102}
 ---
 species: Seaking
@@ -82,7 +82,7 @@ rarity: 1.0
 ball: [Great]
 shiny: False
 nature: Serious
-ivs: {hp: 1, atk: 8, def: 10, spA: 7, spD: 7, spe: 10}
+ivs: {hp: 2, atk: 16, def: 20, spA: 14, spD: 14, spe: 20}
 evs: {hp: 93, atk: 114, def: 100, spA: 97, spD: 97, spe: 113}
 ---
 species: Kangaskhan
@@ -104,7 +104,7 @@ rarity: 1.0
 ball: [Safari]
 shiny: False
 nature: Serious
-ivs: {hp: 7, atk: 6, def: 11, spA: 1, spD: 1, spe: 9}
+ivs: {hp: 14, atk: 12, def: 22, spA: 2, spD: 2, spe: 18}
 evs: {hp: 125, atk: 131, def: 134, spA: 132, spD: 132, spe: 137}
 ---
 species: Nidoking
@@ -126,7 +126,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 6, atk: 6, def: 3, spA: 2, spD: 2, spe: 3}
+ivs: {hp: 12, atk: 12, def: 6, spA: 4, spD: 4, spe: 6}
 evs: {hp: 110, atk: 123, def: 121, spA: 116, spD: 116, spe: 119}
 ---
 species: Charizard
@@ -148,7 +148,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 13, atk: 13, def: 11, spA: 7, spD: 7, spe: 4}
+ivs: {hp: 26, atk: 26, def: 22, spA: 14, spD: 14, spe: 8}
 evs: {hp: 81, atk: 91, def: 87, spA: 89, spD: 89, spe: 96}
 ---
 species: Farfetch'd
@@ -170,7 +170,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 5, atk: 12, def: 13, spA: 1, spD: 1, spe: 6}
+ivs: {hp: 10, atk: 24, def: 26, spA: 2, spD: 2, spe: 12}
 evs: {hp: 131, atk: 133, def: 125, spA: 122, spD: 122, spe: 145}
 ---
 species: Raichu
@@ -192,7 +192,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 0, atk: 4, def: 8, spA: 12, spD: 12, spe: 12}
+ivs: {hp: 0, atk: 8, def: 16, spA: 24, spD: 24, spe: 24}
 evs: {hp: 146, atk: 145, def: 156, spA: 162, spD: 162, spe: 147}
 ---
 species: Tangela
@@ -214,7 +214,7 @@ rarity: 1.0
 ball: [Safari]
 shiny: False
 nature: Serious
-ivs: {hp: 5, atk: 10, def: 13, spA: 15, spD: 15, spe: 0}
+ivs: {hp: 10, atk: 20, def: 26, spA: 30, spD: 30, spe: 0}
 evs: {hp: 113, atk: 114, def: 125, spA: 117, spD: 117, spe: 132}
 ---
 species: Blastoise
@@ -236,7 +236,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 14, atk: 11, def: 3, spA: 8, spD: 8, spe: 11}
+ivs: {hp: 28, atk: 22, def: 6, spA: 16, spD: 16, spe: 22}
 evs: {hp: 110, atk: 124, def: 121, spA: 159, spD: 159, spe: 141}
 ---
 species: Nidoking
@@ -258,7 +258,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 5, atk: 8, def: 1, spA: 7, spD: 7, spe: 4}
+ivs: {hp: 10, atk: 16, def: 2, spA: 14, spD: 14, spe: 8}
 evs: {hp: 111, atk: 123, def: 122, spA: 124, spD: 124, spe: 129}
 ---
 species: Alakazam
@@ -280,7 +280,7 @@ rarity: 1.0
 ball: [Great]
 shiny: False
 nature: Serious
-ivs: {hp: 0, atk: 10, def: 10, spA: 14, spD: 14, spe: 0}
+ivs: {hp: 0, atk: 20, def: 20, spA: 28, spD: 28, spe: 0}
 evs: {hp: 118, atk: 129, def: 126, spA: 126, spD: 126, spe: 126}
 ---
 species: Porygon
@@ -301,5 +301,5 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 12, atk: 11, def: 7, spA: 2, spD: 2, spe: 12}
+ivs: {hp: 124, atk: 22, def: 14, spA: 4, spD: 4, spe: 24}
 evs: {hp: 40, atk: 43, def: 49, spA: 44, spD: 44, spe: 43}

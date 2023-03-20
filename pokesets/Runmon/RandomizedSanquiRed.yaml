@@ -16,7 +16,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 7, atk: 12, def: 7, spA: 7, spD: 7, spe: 1}
+ivs: {hp: 14, atk: 24, def: 4, spA: 14, spD: 14, spe: 2}
 evs: {hp: 106, atk: 115, def: 110, spA: 110, spD: 110, spe: 106}
 ---
 species: Marowak
@@ -38,7 +38,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 2, atk: 12, def: 2, spA: 2, spD: 2, spe: 1}
+ivs: {hp: 4, atk: 24, def: 4, spA: 4, spD: 4, spe: 2}
 evs: {hp: 55, atk: 63, def: 56, spA: 53, spD: 53, spe: 78}
 ---
 species: Jirachi #it was Diancie but I couldn't resist
@@ -59,7 +59,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 14, atk: 11, def: 7, spA: 2, spD: 2, spe: 1}
+ivs: {hp: 28, atk: 22, def: 14, spA: 4, spD: 4, spe: 2}
 evs: {hp: 64, atk: 68, def: 68, spA: 66, spD: 66, spe: 58}
 ---
 species: Shaymin
@@ -80,7 +80,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 10, atk: 13, def: 6, spA: 6, spD: 6, spe: 13}
+ivs: {hp: 20, atk: 26, def: 12, spA: 12, spD: 12, spe: 26}
 evs: {hp: 88, atk: 81, def: 78, spA: 74, spD: 74, spe: 75}
 ---
 species: Regirock
@@ -101,7 +101,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 3, atk: 14, def: 2, spA: 5, spD: 5, spe: 13}
+ivs: {hp: 6, atk: 28, def: 4, spA: 10, spD: 10, spe: 26}
 evs: {hp: 77, atk: 62, def: 62, spA: 58, spD: 58, spe: 55}
 ---
 species: Sharpedo
@@ -123,5 +123,5 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 11, atk: 15, def: 8, spA: 1, spD: 1, spe: 9}
+ivs: {hp: 22, atk: 30, def: 16, spA: 2, spD: 2, spe: 18}
 evs: {hp: 54, atk: 58, def: 54, spA: 52, spD: 52, spe: 53}
