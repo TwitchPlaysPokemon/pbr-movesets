@@ -32,7 +32,6 @@ moves:
     - [Poison Jab]
     - [Earthquake]
     - [Thunderbolt]
-gender: [m, f]
 happiness: 170
 biddable: True
 rarity: 1.0

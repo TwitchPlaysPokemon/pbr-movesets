@@ -301,5 +301,5 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 124, atk: 22, def: 14, spA: 4, spD: 4, spe: 24}
+ivs: {hp: 24, atk: 22, def: 14, spA: 4, spD: 4, spe: 24}
 evs: {hp: 40, atk: 43, def: 49, spA: 44, spD: 44, spe: 43}

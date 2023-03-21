@@ -105,7 +105,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Adamant
-ivs: {hp: 25, atk: 24, def: 28, spa: 3, spD: 3, spe: 25}
+ivs: {hp: 25, atk: 24, def: 28, spA: 3, spD: 3, spe: 25}
 evs: {hp: 97, atk: 64, def: 93, spA: 71, spD: 23, spe: 92}
 ---
 species: Rhyperior
@@ -130,7 +130,7 @@ nature: Adamant
 ivs: {hp: 11, atk: 15, def: 26, spA: 2, spD: 6, spe: 3}
 evs: {hp: 85, atk: 113, def: 149, spA: 40, spD: 36, spe: 87}
 ---
-species: Porgon-Z
+species: Porygon-Z
 ingamename: PEOK
 displayname: PEOK
 setname: TPP Inverse Platinum
@@ -209,6 +209,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
+hidden: false
 ball: [Dusk]
 shiny: True
 nature: Serious
