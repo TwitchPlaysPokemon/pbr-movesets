@@ -17,7 +17,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 10, atk: 9, def: 14, spA: 10, spD: 10, spe: 15}
+ivs: {hp: 20, atk: 18, def: 28, spA: 20, spD: 20, spe: 30}
 evs: {hp: 84, atk: 85, def: 89, spA: 85, spD: 85, spe: 78}
 ---
 species: Marshtomp
@@ -39,5 +39,5 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 11, atk: 13, def: 6, spA: 5, spD: 5, spe: 5}
+ivs: {hp: 22, atk: 26, def: 12, spA: 10, spD: 10, spe: 10}
 evs: {hp: 58, atk: 63, def: 64, spA: 58, spD: 58, spe: 58}
