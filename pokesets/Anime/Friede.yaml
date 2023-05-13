@@ -1,0 +1,37 @@
+---
+species: Charizard
+setname: Friede
+ability: [Blaze]
+item: [null]
+ball: [Poke]
+moves:
+- [Flamethrower]
+- [Dragon Claw]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Lonely
+ivs: 31
+evs: {hp: 4, atk: 204, def: 0, spA: 204, spD: 0, spe: 96}
+tags: [friede, anime]
+---
+species: Pikachu
+ingamename: Cap.Pikachu
+displayname: Captain Pikachu
+setname: Friede
+ability: [Lightning Rod]
+item: [Light Ball]
+ball: [Poke]
+moves:
+- [Volt Tackle]
+- [Thunder Punch]
+- [Double Team]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+ivs: 31
+evs: {hp: 12, atk: 176, def: 0, spA: 136, spD: 0, spe: 184}
+tags: [friede, anime]

@@ -1,0 +1,19 @@
+species: Ditto
+setname: Christmas-Miitopia
+tags: [Christmas]
+item: [Sticky Barb]
+ability: [Download]
+moves:
+    - [Icicle Spear]
+    - [Giga Drain]
+    - [Confuse Ray]
+    - [Trick]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Relaxed
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}

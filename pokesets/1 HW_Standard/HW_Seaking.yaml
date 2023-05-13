@@ -1,0 +1,21 @@
+species: Seaking #Koish
+ingamename: pokemon
+displayname: pokemon
+setname: Halloween-Temtem
+tags: [halloween]
+item: Occa Berry
+ability: Adaptability #Synergy Adept
+moves:
+    - [Bubblebeam] #Bubbles
+    - [Wake-Up Slap] #Finbeat
+    - [Water Spout] #Ice Cubes
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Brave
+ivs: {hp: 16, atk: 5, def: 3, spA: 30, spD: 3, spe: 10}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false

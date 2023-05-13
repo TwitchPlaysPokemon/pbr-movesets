@@ -20,3 +20,26 @@ nature: Rash
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 15, spe: 31}
 evs: {hp: 40, atk: 160, def: 0, spA: 224, spD: 0, spe: 40}
 hidden: false
+---
+species: Golduck #Platimous
+ingamename: stanley pa
+displayname: stanley pa
+setname: Halloween-Temtem
+tags: [halloween]
+item: Wave Incense #Bait
+ability: Marvel Scale #Zen
+moves:
+    - [Aqua Tail] #Water Blade
+    - [Toxic] #Toxin Shower
+    - [Sludge Bomb] #Noxious Bomb
+    - [Surf] #Tsunami
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Rash
+ivs: {hp: 10, atk: 30, def: 5, spA: 31, spD: 9, spe: 21}
+evs: {hp: 187, atk: 130, def: 166, spA: 116, spD: 39, spe: 194}
+hidden: false

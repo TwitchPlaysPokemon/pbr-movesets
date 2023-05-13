@@ -1,0 +1,22 @@
+species: Loudred
+ingamename: "La Resitas"
+displayname: "La Resitas"
+setname: Christmas-Miitopia
+tags: [Christmas]
+item: [Iron Plate]
+ability: [Shell Armor]
+moves:
+    - [Octazooka]
+    - [Flash Cannon]
+    - [Iron Defense]
+    - [Amnesia]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}

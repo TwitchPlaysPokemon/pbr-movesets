@@ -1,0 +1,22 @@
+species: Zigzagoon
+ingamename: Ziggy
+displayname: Ziggy
+setname: Christmas-Miitopia
+tags: [Christmas]
+item: [Wise Glasses]
+ability: [Download]
+moves:
+    - [Tri Attack]
+    - [Mega Drain]
+    - [Helping Hand]
+    - [Safeguard]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Rash
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
