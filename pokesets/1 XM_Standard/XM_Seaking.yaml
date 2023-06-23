@@ -1,0 +1,22 @@
+species: Seaking
+displayname: Grayson
+ingamename: Grayson
+setname: Christmas
+tags: [christmas]
+item: [Heat Rock] // It has a heater
+ability: [Truant]
+moves:
+    - [Bubble] // It's a fish
+    - [Follow Me] // It moves, the character follows
+    - [Endeavor] // It sure tries
+    - [Rest, Memento] // "The fish is just sleeping"
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 252, spe: 0}
+hidden: false
