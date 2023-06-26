@@ -3,13 +3,13 @@ displayname: Grayson
 ingamename: Grayson
 setname: Christmas
 tags: [christmas]
-item: [Heat Rock] // It has a heater
+item: [Heat Rock] # It has a heater
 ability: [Truant]
 moves:
-    - [Bubble] // It's a fish
-    - [Follow Me] // It moves, the character follows
-    - [Endeavor] // It sure tries
-    - [Rest, Memento] // "The fish is just sleeping"
+    - [Bubble] # It's a fish
+    - [Follow Me] # It moves, the character follows
+    - [Endeavor] # It sure tries
+    - [Rest, Memento] # "The fish is just sleeping"
 gender: [m]
 happiness: 255
 biddable: True
