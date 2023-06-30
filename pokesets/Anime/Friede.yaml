@@ -17,7 +17,7 @@ evs: {hp: 4, atk: 204, def: 0, spA: 204, spD: 0, spe: 96}
 tags: [friede, anime]
 ---
 species: Pikachu
-ingamename: Cap.Pikachu
+ingamename: Cap
 displayname: Captain Pikachu
 setname: Friede
 ability: [Lightning Rod]
