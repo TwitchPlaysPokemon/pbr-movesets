@@ -29,6 +29,7 @@ moves:
 - [Nasty Plot] #X Sp. Atk
 - [Sludge Bomb] #Sludge Wave
 - [Focus Energy, Disable] #Shut Your Gob!
+gender: [m, f]
 happiness: 255
 biddable: false
 ball: [Poke]
