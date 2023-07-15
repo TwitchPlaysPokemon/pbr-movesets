@@ -1,0 +1,58 @@
+---
+species: Mawile
+setname: PWT-Marnie Masters
+tags: [in-game, PWT-Marnie Masters, trainer+marnie]
+item: [Everstone]
+ability: [Intimidate, Hyper Cutter, Huge Power]
+moves:
+- [Growl]
+- [Gravity] #Steel Wish
+- [Iron Head]
+- [Sharpen, Iron Defense] #Shout It Out!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Toxicroak
+setname: PWT-Marnie Masters
+tags: [in-game, PWT-Marnie Masters, trainer+marnie]
+item: [null]
+ability: [Anticipation, Dry Skin]
+moves:
+- [Mud Slap]
+- [Nasty Plot] #X Sp. Atk
+- [Sludge Bomb] #Sludge Wave
+- [Focus Energy, Disable] #Shut Your Gob!
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Moltres #Galarian
+setname: PWT-Marnie Masters
+tags: [in-game, PWT-Marnie Masters, trainer+marnie]
+item: [null]
+ability: [Pressure, Flame Body]
+moves:
+- [Dark Pulse] #Fiery Wrath
+- [Protect]
+- [Swift] #B Fiery Wrath
+- [Nasty Plot, Agility, Double Team] #Triumphant Spirit
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

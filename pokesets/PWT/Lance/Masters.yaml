@@ -1,0 +1,60 @@
+---
+species: Dragonite
+setname: PWT-Lance Masters
+tags: [in-game, PWT-Lance Masters, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Dragon Claw, Outrage]
+- [Milk Drink] #Potion
+- [Hyper Beam]
+- [Belly Drum] #Now or Never!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Lance Masters
+tags: [in-game, PWT-Lance Masters, trainer+lance]
+item: [null]
+ability: [Intimidate]
+moves:
+- [Bounce]
+- [Recover] #Potion
+- [Hyper Beam]
+- [Dragon Dance] #Superior Might!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Lance Masters
+tags: [in-game, PWT-Lance Masters, trainer+lance]
+item: [null]
+ability: [Shed Skin, Marvel Scale]
+moves:
+- [Thunder Wave]
+- [Focus Energy, Helping Hand] #Dire Hit All+
+- [Hyper Beam]
+- [Nasty Plot, Agility] #Heart of Justice!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

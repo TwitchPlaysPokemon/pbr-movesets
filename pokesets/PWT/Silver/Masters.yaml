@@ -1,0 +1,59 @@
+---
+species: Feraligatr
+setname: PWT-Silver Masters
+tags: [in-game, PWT-Silver Masters, trainer+silver]
+item: [null]
+ability: [Torrent]
+moves:
+- [Waterfall]
+- [Ice Punch]
+- [Double Edge] #Liquidation
+- [Dragon Dance] #You'll See!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ho-oh
+setname: PWT-Silver Masters
+tags: [in-game, PWT-Silver Masters, trainer+silver]
+item: [null]
+ability: [Pressure]
+moves:
+- [Overheat]
+- [Solar Beam]
+- [Double Team] #I'll Show You!
+- [Sacred Fire]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sneasel
+setname: PWT-Silver Masters
+tags: [in-game, PWT-Silver Masters, trainer+silver]
+item: [null]
+ability: [Inner Focus, Keen Eye]
+moves:
+- [Icicle Spear] #Triple Axel
+- [Agility] #X Speed+
+- [Triple Kick] #B Triple Axel
+- [Swords Dance] #I Won't Leave YOu!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

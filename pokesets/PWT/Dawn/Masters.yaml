@@ -1,0 +1,61 @@
+---
+species: Torterra
+setname: PWT-Dawn Masters
+tags: [in-game, PWT-Dawn Masters, trainer+dawn]
+item: [null]
+ability: [Overgrow, Shell Armor]
+moves:
+- [Razor Leaf, Wood Hammer]
+- [Withdraw] #X Defense All
+- [Aromatherapy] #Good As New!
+- [Seed Bomb]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Cresselia
+setname: PWT-Dawn Masters
+tags: [in-game, PWT-Dawn Masters, trainer+dawn]
+item: [null]
+ability: [Levitate]
+moves:
+- [Confusion]
+- [Moonlight]
+- [Dragon Pulse] #Moonblast
+- [Cosmic Power, Lunar Dance] #Sweet Dreams!
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Wormadam
+setname: PWT-Dawn Masters
+tags: [in-game, PWT-Dawn Masters, trainer+dawn]
+item: [null]
+ability: [Anticipation]
+moves:
+- [Bug Buzz] #Struggle Bug
+- [Growth] #X Sp. Atk All+
+- [Giga Drain]
+- [Amnesia, Agility] #Big Stretch!
+gender: [f]
+form: Plant
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
