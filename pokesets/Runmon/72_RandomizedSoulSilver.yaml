@@ -67,7 +67,7 @@ evs: {hp: 37, atk: 42, def: 29, spA: 31, spD: 23, spe: 56}
 species: Lapras
 ingamename: DYUHEN6EQP
 displayname: DYUHEN6EQP
-setname: TPP Randomized Soul Silver
+setname: TPP Randomized Soul Silver 1
 tags: [runmon, in-game]
 item: [Wise Glasses]
 ability: [Hydration]
@@ -82,6 +82,7 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: True
+hidden: false
 nature: Gentle
 ivs: {hp: 16, atk: 11, def: 2, spA: 0, spD: 9, spe: 5}
 evs: {hp: 51, atk: 152, def: 88, spA: 84, spD: 52, spe: 83}
@@ -89,7 +90,7 @@ evs: {hp: 51, atk: 152, def: 88, spA: 84, spD: 52, spe: 83}
 species: Lapras
 ingamename: FFFBBai
 displayname: FFFBBai
-setname: TPP Randomized Soul Silver
+setname: TPP Randomized Soul Silver 2
 tags: [runmon, in-game]
 item: [Wise Glasses]
 ability: [Minus]
@@ -111,7 +112,7 @@ evs: {hp: 53, atk: 71, def: 37, spA: 47, spD: 21, spe: 96}
 species: Deoxys
 ingamename:  ?.,,
 displayname:  ?.,,
-setname: TPP Randomized Soul Silver
+setname: TPP Randomized Soul Silver 1
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Dry Skin]
@@ -132,7 +133,7 @@ evs: {hp: 51, atk: 151, def: 83, spA: 72, spD: 45, spe: 108}
 species: Deoxys
 ingamename: WSPPACE DX
 displayname: WSPPACE DX
-setname: TPP Randomized Soul Silver
+setname: TPP Randomized Soul Silver 2
 tags: [runmon, in-game]
 item: [Life Orb]
 ability: [Dry Skin]

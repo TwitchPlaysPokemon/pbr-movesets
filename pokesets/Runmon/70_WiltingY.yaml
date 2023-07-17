@@ -1,7 +1,7 @@
 species: Magmortar
 ingamename: Magboo
 displayname: Magboo
-setname: TPP Wilting Y
+setname: TPP Wilting Y 1
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Sniper]
@@ -23,7 +23,7 @@ evs: {hp: 69, atk: 132, def: 63, spA: 76, spD: 70, spe: 100}
 species: Magmortar
 ingamename: Magtwo
 displayname: Magtwo
-setname: TPP Wilting Y
+setname: TPP Wilting Y 2
 tags: [runmon, in-game]
 item: [Choice Scarf]
 ability: [Sniper]

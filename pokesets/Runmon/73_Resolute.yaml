@@ -81,6 +81,7 @@ biddable: True
 rarity: 1.0
 ball: [Ultra]
 shiny: True
+hidden: false
 nature: Naughty
 ivs: {hp: 27, atk: 20, def: 27, spA: 5, spD: 25, spe: 28}
 evs: {hp: 111, atk: 64, def: 52, spA: 68, spD: 41, spe: 103}
