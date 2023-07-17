@@ -1,0 +1,86 @@
+species: Wobbufett
+ingamename: GG
+displayname: GG
+setname: TPP Victory Fire
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Shadow Tag]
+moves:
+    - [Counter]
+    - [Mirror Coat]
+    - [Safeguard]
+    - [Destiny Bond]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Sassy
+ivs: {hp: 10, atk: 21, def: 2, spA: 30, spD: 8, spe: 17}
+evs: {hp: 10, atk: 137, def: 51, spA: 129, spD: 43, spe: 118}
+---
+species: Magnezone
+ingamename: o
+displayname: o
+setname: TPP Victory Fire
+tags: [runmon, in-game]
+item: [Smoke Ball]
+ability: [Sturdy]
+moves:
+    - [Thunder]
+    - [Thunderbolt]
+    - [Hidden Power]
+    - [Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 26, atk: 21, def: 0, spA: 12, spD: 1, spe: 23}
+evs: {hp: 32, atk: 136, def: 62, spA: 104, spD: 47, spe: 129}
+---
+species: Forretress
+ingamename: ABCDDKKLLS
+displayname: ABCDDKKLLS
+setname: TPP Victory Fire
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Sturdy]
+moves:
+    - [Explosion]
+    - [Spikes]
+    - [Reflect]
+    - [Light Screen]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Naive
+ivs: {hp: 3, atk: 5, def: 28, spA: 26, spD: 20, spe: 30}
+evs: {hp: 30, atk: 116, def: 50, spA: 109, spD: 40, spe: 100}
+---
+species: Banette
+ingamename: ADeqkjjj
+displayname: ADeqkjjj
+setname: TPP Victory Fire
+tags: [runmon, in-game]
+item: [null]
+ability: [Insomnia]
+moves:
+    - [Flash]
+    - [Return]
+    - [Will-O-Wisp]
+    - [Shadow Claw]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Relaxed
+ivs: {hp: 13, atk: 13, def: 9, spA: 26, spD: 23, spe: 4}
+evs: {hp: 27, atk: 145, def: 63, spA: 112, spD: 57, spe: 106}

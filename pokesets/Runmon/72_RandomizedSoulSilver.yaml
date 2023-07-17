@@ -1,0 +1,172 @@
+species: Masquerain
+ingamename: OO LEXMMQE
+displayname: OO LEXMMQE
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Focus Sash, Choice Band, Choice Scarf]
+ability: [Huge Power]
+moves:
+    - [Brave Bird]
+    - [X-Scissor]
+    - [Meteor Mash]
+    - [Waterfall]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Lonely
+ivs: {hp: 29, atk: 18, def: 9, spA: 12, spD: 22, spe: 18}
+evs: {hp: 54, atk: 195, def: 86, spA: 55, spD: 31, spe: 89}
+---
+species: Machamp
+ingamename: A.       6
+displayname: A.       6
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Big Root]
+ability: [Simple]
+moves:
+    - [Drain Punch]
+    - [Attack Order]
+    - [Waterfall]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quiet
+ivs: {hp: 2, atk: 17, def: 25, spA: 30, spD: 12, spe: 21}
+evs: {hp: 61, atk: 255, def: 49, spA: 52, spD: 40, spe: 53}
+---
+species: Absol
+ingamename: Oe
+displayname: Oe
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Muscle Band]
+ability: [Snow Warning]
+moves:
+    - [Dark Pulse]
+    - [Fly]
+    - [Ice Punch]
+    - [Pluck]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Docile
+ivs: {hp: 18, atk: 22, def: 12, spA: 14, spD: 15, spe: 21}
+evs: {hp: 37, atk: 42, def: 29, spA: 31, spD: 23, spe: 56}
+---
+species: Lapras
+ingamename: DYUHEN6EQP
+displayname: DYUHEN6EQP
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Wise Glasses]
+ability: [Hydration]
+moves:
+    - [Surf]
+    - [Icicle Spear]
+    - [Lava Plume]
+    - [Fly]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Gentle
+ivs: {hp: 16, atk: 11, def: 2, spA: 0, spD: 9, spe: 5}
+evs: {hp: 51, atk: 152, def: 88, spA: 84, spD: 52, spe: 83}
+---
+species: Lapras
+ingamename: FFFBBai
+displayname: FFFBBai
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Wise Glasses]
+ability: [Minus]
+moves:
+    - [Surf]
+    - [Leaf Storm]
+    - [Aura Sphere]
+    - [Lava Plume]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Careful
+ivs: {hp: 3, atk: 15, def: 1, spA: 10, spD: 30, spe: 2}
+evs: {hp: 53, atk: 71, def: 37, spA: 47, spD: 21, spe: 96}
+---
+species: Deoxys
+ingamename:  ?.,,
+displayname:  ?.,,
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Dry Skin]
+moves:
+    - [Extrasensory]
+    - [Air Slash]
+    - [Calm Mind]
+    - [Milk Drink]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quirky
+ivs: {hp: 16, atk: 23, def: 29, spA: 12, spD: 20, spe: 6}
+evs: {hp: 51, atk: 151, def: 83, spA: 72, spD: 45, spe: 108}
+---
+species: Deoxys
+ingamename: WSPPACE DX
+displayname: WSPPACE DX
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Life Orb]
+ability: [Dry Skin]
+moves:
+    - [Psychic]
+    - [Spacial Rend]
+    - [Aeroblast]
+    - [Earth Power]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Mild
+ivs: {hp: 19, atk: 8, def: 6, spA: 10, spD: 19, spe: 6}
+evs: {hp: 43, atk: 152, def: 73, spA: 124, spD: 49, spe: 69}
+---
+species: Rotom
+ingamename: TOJIKO
+displayname: TOJIKO
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Drizzle]
+moves:
+    - [Thunder]
+    - [Ice Beam]
+    - [Tail Glow]
+    - [Spore]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Mild
+ivs: {hp: 2, atk: 18, def: 14, spA: 27, spD: 25, spe: 17}
+evs: {hp: 33, atk: 149, def: 74, spA: 78, spD: 49, spe: 127}
