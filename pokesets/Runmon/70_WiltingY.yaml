@@ -1,7 +1,7 @@
 species: Magmortar
 ingamename: Magboo
 displayname: Magboo
-setname: TPP Wilting Y 1
+setname: TPP Wilting Y-1
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Sniper]
@@ -23,7 +23,7 @@ evs: {hp: 69, atk: 132, def: 63, spA: 76, spD: 70, spe: 100}
 species: Magmortar
 ingamename: Magtwo
 displayname: Magtwo
-setname: TPP Wilting Y 2
+setname: TPP Wilting Y-2
 tags: [runmon, in-game]
 item: [Choice Scarf]
 ability: [Sniper]
@@ -47,13 +47,16 @@ ingamename: EleSHha!A
 displayname: EleSHha!A
 setname: TPP Wilting Y
 tags: [runmon, in-game]
-item: [Expert Belt]
+item: [Choice Band, Expert Belt]
 ability: [Motor Drive]
 moves:
     - [Volt Tackle]
     - [Close Combat]
-    - [Ice Punch]
-    - [Fire Punch]
+    - [Earthquake, Ice Punch]
+    - [Rock Slide, Fire Punch]
+combinations:
+    - [Choice Band, Earthquake, Rock Slide]
+    - [Expert Belt, Ice Punch, Fire Punch]
 gender: [m]
 happiness: 255
 biddable: True
@@ -116,10 +119,10 @@ tags: [runmon, in-game]
 item: [Hard Stone]
 ability: [Adaptability]
 moves:
-    - [Return]
     - [X-Scissor]
+    - [Return]
     - [Close Combat]
-    - [Protect]
+    - [Swords Dance]
 gender: [f]
 happiness: 255
 biddable: True
