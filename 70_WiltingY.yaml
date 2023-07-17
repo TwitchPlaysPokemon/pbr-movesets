@@ -1,0 +1,131 @@
+species: Magmortar
+ingamename: Magboo
+displayname: Magboo
+setname: TPP Wilting Y
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Sniper]
+moves:
+    - [Flamethrower]
+    - [Thunderbolt]
+    - [Aura Sphere]
+    - [Dark Pulse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 10, spe: 20}
+evs: {hp: 69, atk: 132, def: 63, spA: 76, spD: 70, spe: 100}
+---
+species: Magmortar
+ingamename: Magtwo
+displayname: Magtwo
+setname: TPP Wilting Y
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Sniper]
+moves:
+   - [Flamethrower]
+   - [Thunderbolt]
+   - [Aura Sphere]
+   - [Dark Pulse]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Brave
+ivs: {hp: 17, atk: 23, def: 31, spA: 31, spD: 26, spe: 31}
+evs: {hp: 121, atk: 121, def: 56, spA: 78, spD: 85, spe: 49}
+---
+species: Electivire
+ingamename: EleSHha!A
+displayname: EleSHha!A
+setname: TPP Wilting Y
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Motor Drive]
+moves:
+    - [Volt Tackle]
+    - [Close Combat]
+    - [Ice Punch]
+    - [Fire Punch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: {hp: 31, atk: 6, def: 12, spA: 31, spD: 22, spe: 31}
+evs: {hp: 74, atk: 139, def: 60, spA: 71, spD: 61, spe: 105}
+---
+species: Dodrio
+ingamename: Dodries
+displayname: Dodries
+setname: TPP Wilting Y
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [Adaptability]
+moves:
+    - [Return]
+    - [Fly]
+    - [Jump Kick]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quirky
+ivs: {hp: 17, atk: 17, def: 19, spA: 18, spD: 3, spe: 18}
+evs: {hp: 61, atk: 155, def: 74, spA: 56, spD: 48, spe: 116}
+---
+species: Aerodactyl
+ingamename: AMBER6
+displayname: AMBER6
+setname: TPP Wilting Y
+tags: [runmon, in-game]
+item: [Hard Stone]
+ability: [Rock Head]
+moves:
+    - [Brave Bird]
+    - [Rock Slide]
+    - [Dragon Claw]
+    - [Substitute]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Docile
+ivs: {hp: 29, atk: 7, def: 24, spA: 30, spD: 16, spe: 25}
+evs: {hp: 78, atk: 117, def: 63, spA: 75, spD: 45, spe: 132}
+---
+species: Pinsir
+ingamename: PIKACHU
+displayname: PIKACHU
+setname: TPP Wilting Y
+tags: [runmon, in-game]
+item: [Hard Stone]
+ability: [Adaptability]
+moves:
+    - [Return]
+    - [X-Scissor]
+    - [Close Combat]
+    - [Protect]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Naughty
+ivs: {hp: 14, atk: 28, def: 31, spA: 16, spD: 24, spe: 3}
+evs: {hp: 57, atk: 137, def: 92, spA: 68, spD: 57, spe: 99}

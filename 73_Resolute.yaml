@@ -1,0 +1,130 @@
+species: Carnivine
+ingamename: Crawler
+displayname: Crawler
+setname: TPP Resolute
+tags: [runmon, in-game]
+item: [Quick Claw]
+ability: [Levitate]
+moves:
+    - [Giga Drain]
+    - [Sludge Bomb]
+    - [Dig]
+    - [Growth]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Hardy
+ivs: {hp: 11, atk: 21, def: 25, spA: 19, spD: 31, spe: 14}
+evs: {hp: 48, atk: 97, def: 59, spA: 59, spD: 63, spe: 184}
+---
+species: Rampardos
+ingamename: Nyyx
+displayname: Nyyx
+setname: TPP Resolute
+tags: [runmon, in-game]
+item: [Hard Stone, Quick Claw]
+ability: [Battle Armor]
+moves:
+    - [Rock Tomb]
+    - [Superpower]
+    - [Earthquake]
+    - [Rock Climb]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Gentle
+ivs: {hp: 9, atk: 18, def: 0, spA: 29, spD: 15, spe: 18}
+evs: {hp: 22, atk: 116, def: 71, spA: 88, spD: 53, spe: 99}
+---
+species: Mawile
+ingamename: AMTT///KK
+displayname: AMTT///KK
+setname: TPP Resolute
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Huge Power]
+moves:
+    - [Iron Defense]
+    - [Facade]
+    - [Rock Tomb]
+    - [Brick Break]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Quiet
+ivs: {hp: 8, atk: 8, def: 4, spA: 16, spD: 9, spe: 14}
+evs: {hp: 22, atk: 131, def: 81, spA: 92, spD: 53, spe: 110}
+---
+species: Rayquaza
+ingamename: QUAZAR
+displayname: QUAZAR
+setname: TPP Resolute
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Air Lock]
+moves:
+    - [Outrage]
+    - [Fly]
+    - [Dive]
+    - [Dragon Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+hidden: false
+nature: Naughty
+ivs: {hp: 27, atk: 20, def: 27, spA: 5, spD: 25, spe: 28}
+evs: {hp: 111, atk: 64, def: 52, spA: 68, spD: 41, spe: 103}
+---
+species: Regigigas
+ingamename: GMM
+displayname: GMM
+setname: TPP Resolute
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Clear Body]
+moves:
+    - [Return]
+    - [Earthquake]
+    - [Waterfall]
+    - [Explosion]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Bashful
+ivs: {hp: 30, atk: 4, def: 14, spA: 30, spD: 18, spe: 17}
+evs: {hp: 23, atk: 140, def: 78, spA: 90, spD: 59, spe: 110}
+---
+species: Heatran
+ingamename: AIEK
+displayname: AIEK
+setname: TPP Resolute
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Fire Blast]
+    - [Toxic]
+    - [Protect]
+    - [Rest]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Careful
+ivs: {hp: 14, atk: 13, def: 0, spA: 16, spD: 2, spe: 25}
+evs: {hp: 30, atk: 104, def: 72, spA: 93, spD: 63, spe: 128}
