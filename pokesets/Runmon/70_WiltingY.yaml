@@ -43,8 +43,8 @@ ivs: {hp: 17, atk: 23, def: 31, spA: 31, spD: 26, spe: 31}
 evs: {hp: 121, atk: 121, def: 56, spA: 78, spD: 85, spe: 49}
 ---
 species: Electivire
-ingamename: EleSHha!A♂♂
-displayname: EleSHha!A♂♂
+ingamename: EleSHha!A
+displayname: EleSHha!A
 setname: TPP Wilting Y
 tags: [runmon, in-game]
 item: [Expert Belt]
