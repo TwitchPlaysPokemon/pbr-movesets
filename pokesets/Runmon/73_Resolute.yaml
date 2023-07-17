@@ -60,7 +60,7 @@ biddable: True
 rarity: 1.0
 ball: [Ultra]
 shiny: False
-nature:
+nature: Quiet
 ivs: {hp: 8, atk: 8, def: 4, spA: 16, spD: 9, spe: 14}
 evs: {hp: 22, atk: 131, def: 81, spA: 92, spD: 53, spe: 110}
 ---
