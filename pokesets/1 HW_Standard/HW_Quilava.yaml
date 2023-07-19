@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 140, atk: 252, def: 0, spA: 32, spD: 0, spe: 44}
 hidden: false
+---
+species: Quilava #Anahir
+ingamename: Entei
+displayname: Entei
+setname: Halloween-Temtem
+tags: [halloween]
+item: Flame Plate #Fire Chip
+ability: Natural Cure #Self-Care
+moves:
+    - [Fire Spin] #Chains Hit
+    - [Eruption] #Meteor Swarm
+    - [Leaf Blade] #Grass Blade
+    - [Crunch] #Crystal Bite
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Serious
+ivs: {hp: 10, atk: 11, def: 31, spA: 15, spD: 31, spe: 12}
+evs: {hp: 206, atk: 174, def: 144, spA: 141, spD: 53, spe: 179}
+hidden: false

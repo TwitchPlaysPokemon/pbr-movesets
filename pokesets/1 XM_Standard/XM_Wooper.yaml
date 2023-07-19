@@ -1,0 +1,22 @@
+species: Wooper
+ingamename: This.
+displayname: This.
+setname: Christmas-Miitopia
+tags: [christmas]
+item: [Stick]
+ability: [Guts]
+moves:
+    - [Night Slash]
+    - [Wake-Up Slap]
+    - [Detect]
+    - [Follow Me]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 252, spe: 0}

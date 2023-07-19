@@ -1,0 +1,22 @@
+species: Cubone
+ingamename: sans
+displayname: sans
+setname: Christmas-Miitopia
+tags: [Christmas]
+item: [Nanab Berry]
+ability: [Trace]
+moves:
+    - [Rock Slide]
+    - [Nightmare]
+    - [Dark Void]
+    - [Fling]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+hidden: False
+nature: Naughty
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}

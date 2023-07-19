@@ -20,3 +20,26 @@ nature: Relaxed
 ivs: {hp: 31, atk: 14, def: 12, spA: 31, spD: 6, spe: 24}
 evs: {hp: 92, atk: 44, def: 84, spA: 0, spD: 64, spe: 0}
 hidden: False
+---
+species: Rapidash
+ingamename: "qzsds gg "
+displayname: "qzsds gg "
+setname: Christmas-Miitopia
+tags: [Christmas]
+item: [Destiny Knot]
+ability: [Run Away]
+moves:
+    - [Zen Headbutt]
+    - [Megahorn]
+    - [Heal Bell]
+    - [Howl]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Serious
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

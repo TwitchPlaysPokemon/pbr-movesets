@@ -20,3 +20,26 @@ nature: Naughty
 ivs: {hp: 31, atk: 14, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 40, atk: 44, def: 120, spA: 96, spD: 144, spe: 16}
 hidden: false
+---
+species: Dugtrio
+ingamename: Dig
+displayname: Dig
+setname: Christmas-Miitopia
+tags: [christmas]
+item: [Metal Coat]
+ability: [Cute Charm]
+moves:
+    - [Fury Swipes]
+    - [Shadow Claw]
+    - [Thief]
+    - [Growl]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: False
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}

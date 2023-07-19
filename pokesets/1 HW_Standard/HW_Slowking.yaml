@@ -20,3 +20,26 @@ nature: Mild
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 120, def: 0, spA: 160, spD: 140, spe: 0}
 hidden: false
+---
+species: Slowking #Nagaise
+ingamename: Xenoblade
+displayname: Xenoblade
+setname: Halloween-Temtem
+tags: [Halloween]
+item: Wacan Berry #Rock Shield
+ability: [Storm Drain] #Water Custodian
+moves:
+    - [Extrasensory] #Energy Manipulation
+    - [Hypnosis]
+    - [Magnet Bomb] #Beta Burst
+    - [Hydro Pump] #Nagaise's Fury
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+shiny: True
+ball: [Poke]
+nature: Mild
+ivs: {hp: 10, atk: 11, def: 15, spA: 24, spD: 23, spe: 22}
+evs: {hp: 219, atk: 178, def: 117, spA: 106, spD: 181, spe: 187}
+hidden: false

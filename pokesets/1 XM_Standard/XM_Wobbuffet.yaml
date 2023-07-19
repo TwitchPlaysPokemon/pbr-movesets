@@ -20,3 +20,26 @@ nature: Quiet
 ivs: 31
 evs: {hp: 0, atk: 252, def: 40, spA: 176, spD: 40, spe: 0}
 hidden: false
+---
+species: Wobbuffet
+ingamename: AMOGUS
+displayname: AMOGUS
+setname: Christmas-Miitopia
+tags: [Christmas]
+item: [Thick Club]
+ability: [Magic Guard]
+moves:
+    - [Thunder Bolt]
+    - [Flamethrower]
+    - [Recover]
+    - [Miracle Eye]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+hidden: False
+nature: Calm
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
