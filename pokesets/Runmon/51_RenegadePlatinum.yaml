@@ -1,7 +1,7 @@
 species: Manaphy
 ingamename: GAMYPI SSB
 displayname: GAMYPI SSB
-setname: TPP Renegade Plat
+setname: TPP Renegade Platinum
 tags: [runmon, in-game]
 item: [Damp Rock]
 ability: [Hydration]
@@ -22,7 +22,7 @@ evs: {hp: 83, atk: 111, def: 124, spA: 73, spD: 47, spe: 72}
 species: Metagross
 ingamename: "GPWWERZ!:"
 displayname: "GPWWERZ!:"
-setname: TPP Renegade Plat
+setname: TPP Renegade Platinum
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Clear Body]
@@ -43,7 +43,7 @@ evs: {hp: 71, atk: 115, def: 126, spA: 43, spD: 54, spe: 101}
 species: Magcargo
 ingamename: oouooobbc
 displayname: oouooobbc
-setname: TPP Renegade Plat
+setname: TPP Renegade Platinum
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Solid Rock]
@@ -65,7 +65,7 @@ evs: {hp: 42, atk: 126, def: 127, spA: 55, spD: 46, spe: 114}
 species: Rotom
 ingamename: JOmJFrOIDe
 displayname: JOmJFrOIDe
-setname: TPP Renegade Plat
+setname: TPP Renegade Platinum
 tags: [runmon, in-game]
 item: [Magnet]
 ability: [Levitate]
@@ -86,7 +86,7 @@ evs: {hp: 106, atk: 95, def: 130, spA: 38, spD: 35, spe: 106}
 species: Infernape
 ingamename: MONKE
 displayname: MONKE
-setname: TPP Renegade Plat
+setname: TPP Renegade Platinum
 tags: [runmon, in-game]
 item: [Life Orb]
 ability: [Blaze]
@@ -108,7 +108,7 @@ evs: {hp: 65, atk: 125, def: 71, spA: 80, spD: 59, spe: 110}
 species: Meganium
 ingamename: STPPBWG
 displayname: STPPBWG
-setname: TPP Renegade Plat
+setname: TPP Renegade Platinum
 tags: [runmon, in-game]
 item: [Big Root]
 ability: [Serene Grace]

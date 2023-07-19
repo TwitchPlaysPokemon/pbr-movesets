@@ -1,0 +1,129 @@
+species: Starmie
+ingamename: AHNNNN
+displayname: AHNNNN
+setname: TPP Nova Red
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Drizzle]
+moves:
+    - [Surf]
+    - [Thunder]
+    - [Giga Drain]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: {hp: 29, atk: 18, def: 23, spA: 14, spD: 11, spe: 11}
+evs: {hp: 56, atk: 112, def: 67, spA: 61, spD: 98, spe: 116}
+---
+species: Charizard
+ingamename: C.Dukemon
+displayname: C.Dukemon
+setname: TPP Nova Red
+tags: [runmon, in-game]
+item: [Charcoal]
+ability: [Pressure]
+moves:
+    - [Fire Punch]
+    - [Dragon Claw]
+    - [Brick Break]
+    - [Earthquake]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: False
+nature: Bashful
+ivs: {hp: 11, atk: 9, def: 5, spA: 10, spD: 16, spe: 29}
+evs: {hp: 89, atk: 113, def: 48, spA: 61, spD: 107, spe: 84}
+---
+species: Raikou
+ingamename: loser
+displayname: loser
+setname: TPP Nova Run
+tags: [runmon, in-game]
+item: [Amulet Coin]
+ability: [Air Lock]
+moves:
+    - [Outrage]
+    - [Thunderbolt]
+    - [Psychic]
+    - [Earthquake]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Adamant
+ivs: {hp: 2, atk: 6, def: 20, spA: 6, spD: 30, spe: 9}
+evs: {hp: 25, atk: 94, def: 52, spA: 11, spD: 64, spe: 28}
+---
+species: Crobat
+ingamename: VIA.
+displayname: VIA.
+setname: TPP Nova Red
+tags: [runmon, in-game]
+item: [Black Sludge]
+ability: [Quick Feet]
+moves:
+    - [Poison Jab]
+    - [Giga Drain]
+    - [Aeroblast]
+    - [Shadow Ball]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Bashful
+ivs: {hp: 10, atk: 30, def: 18, spA: 0, spD: 15, spe: 24}
+evs: {hp: 110, atk: 88, def: 54, spA: 105, spD: 113, spe: 40}
+---
+species: Togekiss
+ingamename: NIA
+displayname: NIA
+setname: TPP Nova Red
+tags: [runmon, in-game]
+item: [Choice Specs]
+ability: [Cute Charm]
+moves:
+    - [Fly]
+    - [Hyper Voice]
+    - [Thunderbolt]
+    - [Psychic]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Quirky
+ivs: {hp: 21, atk: 23, def: 29, spA: 22, spD: 12, spe: 9}
+evs: {hp: 109, atk: 85, def: 61, spA: 96, spD: 84, spe: 75}
+---
+species: Heatran
+ingamename: AOLLR
+displayname: AOLLR
+setname: TPP Nova Red
+tags: [runmon, in-game]
+item: [Metal Coat]
+ability: [Blaze]
+moves:
+    - [Brick Break]
+    - [Flash Cannon]
+    - [Fire Blast]
+    - [Blast Burn]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: {hp: 30, atk: 1, def: 20, spA: 13, spD: 11, spe: 13}
+evs: {hp: 100, atk: 123, def: 49, spA: 96, spD: 79, spe: 63}
