@@ -19,7 +19,7 @@ shiny: False
 nature: Serious
 ivs: {hp: 16, atk: 18, def: 12, spA: 12, spD: 12, spe: 12}
 evs: {hp: 133, atk: 140, def: 143, spA: 151, spD: 151, spe: 119}
-
+---
 species: Granbull
 ingamename: Granbull
 displayname: Granbull
