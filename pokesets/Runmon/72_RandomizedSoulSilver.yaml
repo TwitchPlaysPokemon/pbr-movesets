@@ -173,3 +173,25 @@ shiny: False
 nature: Mild
 ivs: {hp: 2, atk: 18, def: 14, spA: 27, spD: 25, spe: 17}
 evs: {hp: 33, atk: 149, def: 74, spA: 78, spD: 49, spe: 127}
+---
+species: Rapidash
+ingamename: HHeatrans
+displayname: HHeatrans
+setname: TPP Randomized Soul Silver
+tags: [runmon, in-game]
+item: [Wide Lens, Choice Scarf, Focus Sash]
+ability: [Pure Power]
+moves:
+    - [Sacred Fire]
+    - [Power Whip]
+    - [Waterfall]
+    - [Icicle Spear]
+gender: [m]
+happiness: 222
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hasty
+ivs: {hp: 4, atk: 24, def: 5, spA: 14, spD: 29, spe: 19}
+evs: {hp: 2, atk: 252, def: 12, spA: 0, spD: 0, spe: 244}
