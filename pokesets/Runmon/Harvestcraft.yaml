@@ -4,7 +4,7 @@ displayname: twitch
 setname: TPP Harvestcraft
 tags: [runmon, in-game]
 item: [Lansat Berry]
-ability: [Run Away]
+ability: [Trace]
 moves:
     - [Psychic]
     - [Giga Drain]
