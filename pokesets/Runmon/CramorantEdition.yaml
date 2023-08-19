@@ -1,0 +1,87 @@
+species: Clefable
+ingamename: BB(?------
+displayname: BB(?------
+setname: TPP Cramorant Edition
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Tri-Attack]
+    - [Ice Beam]
+    - [Psychic]
+    - [Bubblebeam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 20, def: 24, spA: 26, spD: 26, spe: 1}
+evs: {hp: 108, atk: 106, def: 102, spA: 99, spD: 99, spe: 105}
+---
+species: Golem
+ingamename: AL
+displayname: AL
+setname: TPP Cramorant Edition
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Body Slam]
+    - [Explosion]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 6, def: 8, spA: 26, spD: 26, spe: 22}
+evs: {hp: 116, atk: 125, def: 122, spA: 117, spD: 117, spe: 121}
+---
+species: Weezing
+ingamename: P..]XXMMJJ
+displayname: P..}XXMMJJ
+setname: TPP Cramorant Edition
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Sludge]
+    - [Thunderbolt]
+    - [Double Team]
+    - [Rest]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 2, def: 12, spA: 10, spD: 10, spe: 20}
+evs: {hp: 95, atk: 101, def: 122, spA: 101, spD: 10, spe: 100}
+---
+species: Magmar
+ingamename: BOOBER
+displayname: BOOBER
+setname: TPP Cramorant Edition
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Flamethrower]
+    - [Hyper Beam]
+    - [Psywave]
+    - [Metronome]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 30, def: 10, spA: 26, spD: 26, spe: 6}
+evs: {hp: 81, atk: 81, def: 81, spA: 102, spD: 102, spe: 120}

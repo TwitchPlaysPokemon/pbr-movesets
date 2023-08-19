@@ -132,3 +132,26 @@ shiny: False
 nature: Naughty
 ivs: {hp: 14, atk: 28, def: 31, spA: 16, spD: 24, spe: 3}
 evs: {hp: 57, atk: 137, def: 92, spA: 68, spD: 57, spe: 99}
+---
+species: Sceptile
+ingamename: shoykohGs
+displayname: shoykohGs
+setname: TPP Wilting Y
+tags: [runmon, in-game]
+item: [Yache Berry]
+ability: [Unburden]
+moves:
+    - [Leaf Blade]
+    - [Earthquake]
+    - [Hidden Power]
+    - [Swords Dance]
+gender: [m]
+happiness: 198
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+hidden: false
+nature: Jolly
+ivs: {hp: 12, atk: 24, def: 6, spA: 25, spD: 27, spe: 1}
+evs: {hp: 32, atk: 104, def: 12, spA: 28, spD: 13, spe: 100}
