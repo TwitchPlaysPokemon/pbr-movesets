@@ -57,3 +57,23 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Rhydon
+setname: PWT-Giovanni Masters
+tags: [in-game, PWT-Giovanni Masters, trainer+giovanni]
+item: [null]
+ability: [Lightning Rod, Rock Head, Reckless]
+moves:
+- [Earthquake]
+- [Icy Wind]
+- [Surf]
+- [Howl, Nasty Plot] #Do Not Defy Me!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

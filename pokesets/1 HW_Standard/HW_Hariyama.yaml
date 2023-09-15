@@ -1,0 +1,22 @@
+species: Hariyama
+ingamename: Iron Hands
+displayname: Iron Hands
+setname: Halloween
+ball: [Luxury]
+tags: [halloween]
+item: Electrizer
+ability: Iron Fist
+moves:
+    - [Thunder Punch]
+    - [Arm Thrust]
+    - [Charge]
+    - [Detect]
+happiness: 255
+gender: [m, f]
+biddable: True
+rarity: 1.0
+shiny: True
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 120}
+hidden: false

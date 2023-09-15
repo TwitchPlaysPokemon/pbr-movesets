@@ -1,0 +1,19 @@
+species: Electrode
+setname: Shiny
+tags: [advanced,standard]
+item: [Big Root]
+ability: [Soundproof]
+moves:
+    - [Seed Bomb]
+    - [Volt Tackle]
+    - [Conversion]
+    - [Leech Seed]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Luxury]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 15, spA: 31, spD: 15, spe: 14}
+evs: {hp: 152, atk: 220, def: 136, spA: 0, spD: 0, spe: 0}
+

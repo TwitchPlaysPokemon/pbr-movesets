@@ -1,0 +1,19 @@
+species: Tauros
+setname: Shiny
+tags: [advanced,standard]
+item: [Sitrus Berry]
+ability: [Intimidate]
+moves:
+    - [Close Combat]
+    - [Flare Blitz, Waterfall]
+    - [Curse]
+    - [Refresh]
+gender: [m]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Luxury]
+nature: Safari
+ivs: 31
+evs: {hp: 20, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

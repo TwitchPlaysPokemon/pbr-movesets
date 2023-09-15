@@ -20,3 +20,26 @@ nature: Brave
 ivs: {hp: 31, atk: 26, def: 31, spA: 31, spD: 31, spe: 14}
 evs: {hp: 140, atk: 124, def: 96, spA: 0, spD: 0, spe: 0}
 hidden: false
+---
+species: Misdreavus
+ingamename: FluterMane
+displayname: Flutter Mane
+setname: Christmas
+tags: [christmas]
+item: Icicle Plate
+ability: Flower Gift
+moves:
+    - [Shadow Ball]
+    - [Dragon Pulse]
+    - [Charm]
+    - [Memento]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 180, atk: 0, def: 32, spA: 96, spD: 0, spe: 80}
+hidden: false

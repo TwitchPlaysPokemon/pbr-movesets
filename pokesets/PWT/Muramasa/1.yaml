@@ -1,0 +1,60 @@
+---
+species: Gengar
+setname: PWT-Muramasa
+tags: [in-game, PWT-Muramasa, trainer+muramasa]
+item: [Focus Sash]
+ability: [Levitate] #Cursed Body
+moves:
+- [Toxic Spikes]
+- [Sludge Bomb]
+- [Ominous Wind] #Hex
+- [Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Crawdaunt
+setname: PWT-Muramasa
+tags: [in-game, PWT-Muramasa, trainer+muramasa]
+item: [null] 
+ability: [Hyper Cutter]
+moves:
+- [Knock Off]
+- [Crabhammer]
+- [Aqua Jet]
+- [Swift]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dusclops
+setname: PWT-Muramasa
+tags: [in-game, PWT-Muramasa, trainer+muramasa]
+item: [Starf Berry] #Eviolite
+ability: [Pressure]
+moves:
+- [Pain Split]
+- [Shadow Ball]
+- [Shadow Sneak]
+- [Payback]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

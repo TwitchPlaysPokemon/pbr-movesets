@@ -1,0 +1,100 @@
+---
+species: Shiftry
+setname: PWT-Kieran
+tags: [in-game, PWT-Kieran, trainer+kieran]
+item: [Foxus Sash]
+ability: [Chlorophyll] #Wind Rider
+moves:
+- [Fake Out]
+- [Tailwind]
+- [Leaf Blade]
+- [Dark Pulse]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Yanmega
+setname: PWT-Kieran
+tags: [in-game, PWT-Kieran, trainer+kieran]
+item: [Ganlon Berry] #Kee Berry
+ability: [Tinted Lens]
+moves:
+- [Bug Buzz]
+- [Air Slash]
+- [Ancient Power]
+- [Psychic]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Probopass
+setname: PWT-Kieran
+tags: [in-game, PWT-Kieran, trainer+kieran]
+item: [Petaya Berry]
+ability: [Sturdy]
+moves:
+- [Power Gem]
+- [Low Kick] #Body Press
+- [Zap Cannon]
+- [Flash Cannon]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Poliwrath
+setname: PWT-Kieran
+tags: [in-game, PWT-Kieran, trainer+kieran]
+item: [Sitrus Berry]
+ability: [Water Absorb]
+moves:
+- [Close Combat]
+- [Belly Drum]
+- [Waterfall] #Liquidation
+- [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 20
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gliscor
+setname: PWT-Kieran
+tags: [in-game, PWT-Kieran, trainer+kieran]
+item: [Yache Berry]
+ability: [Hyper Cutter]
+moves:
+- [Earthquake]
+- [Rock Tomb]
+- [Drill Peck] #Dual Wingbeat
+- [X-Scissor]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Hardy
+ivs: 25
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
