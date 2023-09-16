@@ -13,7 +13,7 @@ happiness: 255
 shiny: True
 biddable: False
 hidden: True
-ball: [Luxury]
-nature: Safari
+ball: [Safari]
+nature: Lax
 ivs: 31
 evs: {hp: 20, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

@@ -4,7 +4,7 @@ displayname: Iron Hands
 setname: Halloween
 ball: [Luxury]
 tags: [halloween]
-item: Electrizer
+item: Electirizer
 ability: Iron Fist
 moves:
     - [Thunder Punch]

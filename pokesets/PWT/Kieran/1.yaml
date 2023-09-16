@@ -2,7 +2,7 @@
 species: Shiftry
 setname: PWT-Kieran
 tags: [in-game, PWT-Kieran, trainer+kieran]
-item: [Foxus Sash]
+item: [Focus Sash]
 ability: [Chlorophyll] #Wind Rider
 moves:
 - [Fake Out]
