@@ -29,7 +29,7 @@ item: [Magnet]
 ability: [null]
 moves:
     - [Thunderbolt]
-    - [Flamethrower] #Fire Punch
+    - [Flamethrower]
     - [Light Screen]
     - [Thunder Wave]
 gender: [m]
@@ -73,7 +73,7 @@ item: [King's Rock]
 ability: [null]
 moves:
     - [Psychic]
-    - [Dark Pulse] #Bite
+    - [Dark Pulse]
     - [Flash]
     - [Morning Sun]
 gender: [m]

@@ -17,7 +17,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 13, atk: 15, def: 11, spA: 13, spD: 13, spe: 0}
+ivs: {hp: 26, atk: 30, def: 22, spA: 26, spD: 26, spe: 0}
 evs: {hp: 144, atk: 149, def: 143, spA: 152, spD: 152, spe: 137}
 ---
 species: Gardevoir
@@ -39,7 +39,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 5, atk: 6, def: 13, spA: 3, spD: 3, spe: 10}
+ivs: {hp: 10, atk: 12, def: 26, spA: 6, spD: 6, spe: 20}
 evs: {hp: 94, atk: 95, def: 92, spA: 97, spD: 97, spe: 91}
 ---
 species: Entei
@@ -60,7 +60,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 13, atk: 3, def: 11, spA: 5, spD: 5, spe: 6}
+ivs: {hp: 26, atk: 6, def: 22, spA: 10, spD: 10, spe: 12}
 evs: {hp: 104, atk: 92, def: 88, spA: 96, spD: 96, spe: 87}
 ---
 species: Staraptor
@@ -82,7 +82,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 4, atk: 8, def: 5, spA: 12, spD: 12, spe: 14}
+ivs: {hp: 8, atk: 16, def: 10, spA: 24, spD: 24, spe: 28}
 evs: {hp: 80, atk: 92, def: 74, spA: 96, spD: 96, spe: 74}
 ---
 species: Heracross
@@ -104,7 +104,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 11, atk: 5, def: 14, spA: 9, spD: 9, spe: 7}
+ivs: {hp: 22, atk: 10, def: 28, spA: 18, spD: 18, spe: 14}
 evs: {hp: 75, atk: 57, def: 53, spA: 56, spD: 56, spe: 52}
 ---
 species: Dustox
@@ -126,7 +126,7 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 5, atk: 0, def: 5, spA: 5, spD: 5, spe: 4}
+ivs: {hp: 10, atk: 0, def: 10, spA: 10, spD: 10, spe: 8}
 evs: {hp: 44, atk: 44, def: 46, spA: 46, spD: 46, spe: 42}
 ---
 species: Hariyama
@@ -148,30 +148,8 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 10, atk: 1, def: 2, spA: 8, spD: 8, spe: 15}
+ivs: {hp: 20, atk: 2, def: 4, spA: 16, spD: 16, spe: 30}
 evs: {hp: 23, atk: 22, def: 21, spA: 23, spD: 23, spe: 22}
----
-species: Weavile
-ingamename: Weavile
-displayname: Weavile
-setname: TPP Rerandomized Sanqui Blue
-tags: [runmon, in-game]
-item: [null]
-ability: [null]
-moves:
-    - [Vicegrip]
-    - [Strength]
-    - [Mach Punch]
-    - [Night Shade]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poké]
-shiny: False
-nature: Serious
-ivs: {hp: 0, atk: 2, def: 2, spA: 4, spD: 4, spe: 0}
-evs: {hp: 14, atk: 14, def: 13, spA: 15, spD: 15, spe: 14}
 ---
 species: Purugly
 ingamename: OP CAT
@@ -192,5 +170,5 @@ rarity: 1.0
 ball: [Poké]
 shiny: False
 nature: Serious
-ivs: {hp: 4, atk: 2, def: 15, spA: 6, spD: 6, spe: 0}
+ivs: {hp: 8, atk: 4, def: 30, spA: 12, spD: 12, spe: 0}
 evs: {hp: 71, atk: 72, def: 64, spA: 72, spD: 72, spe: 62}

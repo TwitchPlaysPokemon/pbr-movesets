@@ -298,7 +298,7 @@ ball: [Poké]
 shiny: False
 nature: Serious
 ivs: {hp: 20, atk: 10, def: 4, spA: 24, spD: 24, spe: 14}
-evs: {hp: 248, atk: 252, def: 252, spA: 92, spD: 252, spe: 252}
+evs: {hp: 248, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 ---
 species: Venomoth
 ingamename: RRRRIIIIH
