@@ -8,7 +8,7 @@ ability: [null]
 moves:
     - [Fly]
     - [Wing Attack]
-    - [Hyper Beam]
+    - [Giga Impact]
     - [Swift]
 gender: [m]
 happiness: 255
@@ -116,7 +116,7 @@ moves:
     - [Cut]
     - [Swords Dance]
     - [Double-Edge]
-    - [Hyper Beam]
+    - [Giga Impact]
 gender: [m]
 happiness: 255
 biddable: True

@@ -41,3 +41,25 @@ shiny: False
 nature: Careful
 ivs: {hp: 26, atk: 3, def: 27, spA: 19, spD: 11, spe: 20}
 evs: {hp: 6, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
+---
+species: Volbeat
+ingamename: Stu) ;?,54
+displayname: Stu) ;?,54
+setname: TPP Volt White 2 Redux
+tags: [runmon, in-game]
+item: [Bright Powder]
+ability: [Swarm]
+moves:
+    - [Bug Buzz]
+    - [Thunderbolt]
+    - [Tail Glow]
+    - [Baton Pass]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Impish
+ivs: {hp: 31, atk: 7, def: 6, spA: 12, spD: 4, spe: 25}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

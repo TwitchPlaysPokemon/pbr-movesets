@@ -117,10 +117,10 @@ item: [Awakening]
 ability: [Water Absorb]
 nature: Quiet
 moves:
-    - Surf
-    - Water Pulse
-    - Blizzard
-    - Aurora Beam
+    - [Surf]
+    - [Water Pulse]
+    - [Blizzard]
+    - [Aurora Beam]
 gender: [f]
 happiness: 255
 shiny: False
