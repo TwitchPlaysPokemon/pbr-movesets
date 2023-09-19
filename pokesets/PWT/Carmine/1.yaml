@@ -9,12 +9,12 @@ moves:
 - [Howl]
 - [Sucker Punch]
 - [Ice Fang] #Play Rough
-gender: [m,f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Hardy
-ivs: 20
+nature: Adamant
+ivs: 25
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
@@ -29,12 +29,12 @@ moves:
 - [Extrasensory]
 - [Will-O-Wisp]
 - [Disable]
-gender: [m,f]
+gender: [f]
 happiness: 255
 biddable: false
 ball: [Poke]
-nature: Hardy
-ivs: 20
+nature: Timid
+ivs: 25
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
