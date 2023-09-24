@@ -1,0 +1,23 @@
+species: Grumpig
+ingamename: Dark Beast Ganon
+displayname: "Dark Beast Ganon"
+setname: Pokelypse
+tags: ubers
+tags: [pokelypse]
+item: Enigma Berry
+ability: Wonder Guard
+moves:
+    - [Dark Pulse]
+    - [Hyper Beam]
+    - [Dark Void]
+    - [Calm Mind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 0}
+hidden: false
