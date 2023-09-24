@@ -1,0 +1,22 @@
+species: Deoxys
+ingamename: Windblight
+displayname: Windblight
+setname: Pokelypse
+tags: [pokelypse]
+item: [Power Herb]
+ability: Serene Grace
+moves:
+    - [Air Slash]
+    - [Sky Attack]
+    - [U-Turn]
+    - [Tailwind]
+form: Speed
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 0}
+hidden: false
