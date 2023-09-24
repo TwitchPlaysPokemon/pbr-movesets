@@ -43,3 +43,27 @@ nature: Rash
 ivs: 31
 evs: {hp: 60, atk: 0, def: 64, spA: 252, spD: 68, spe: 64}
 hidden: false
+---
+species: Jigglypuff
+ingamename: ScreamTail
+displayname: Scream Tail
+setname: Christmas-P
+tags: [christmas]
+item: Dome Fossil
+ability: Solar Power
+moves:
+    - [Psychic]
+    - [Hyper Voice]
+    - [Ancient Power]
+    - [Sunny Day]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Rash
+ivs: 31
+evs: {hp: 60, atk: 0, def: 64, spA: 252, spD: 68, spe: 64}
+hidden: false
+

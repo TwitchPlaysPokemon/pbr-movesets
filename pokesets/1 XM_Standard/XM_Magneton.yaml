@@ -1,0 +1,21 @@
+species: Magneton
+ingamename: SandyShock
+displayname: Sandy Shocks
+setname: Christmas
+tags: [christmas]
+item: Earth Plate
+ability: Solar Power
+moves:
+    - [Earth Power]
+    - [Charge Beam]
+    - [Solar Beam]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Hardy
+evs: {hp: 172, atk: 84, def: 84, spA: 84, spD: 84, spe: 84}
+ivs: 11
+hidden: false

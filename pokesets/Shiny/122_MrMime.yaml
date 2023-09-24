@@ -1,0 +1,19 @@
+species: Mr. Mime
+setname: Shiny
+tags: [advanced,standard]
+item: [Light Clay]
+ability: [Ice Body]
+moves:
+    - [Blizzard]
+    - [Psychic]
+    - [Light Screen, Reflect]
+    - [Hail]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Luxury]
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 4}
