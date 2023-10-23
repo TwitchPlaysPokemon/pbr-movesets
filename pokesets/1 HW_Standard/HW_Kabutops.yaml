@@ -1,22 +1,22 @@
 species: Kabutops
-ingamename: JackRipper
-displayname: Jack The Ripper 
+ingamename: Ferryman
+displayname: Ferryman
 setname: Halloween
-ball: [Dusk]
 tags: [halloween]
-item: Reaper Cloth
-ability: Hyper Cutter
+item: Silk Scarf
+ability: Pressure
 moves:
-    - [Night Slash]
-    - [Slash]
-    - [Fury Cutter]
-    - [Guillotine]
-happiness: 255
+    - [Aqua Jet]
+    - [Double Kick]
+    - [Pay Day]
+    - [Taunt]
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
+ball: [Dusk]
 shiny: True
-ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
-evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 72, spe: 0}
 nature: Serious
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 90, atk: 50, def: 0, spA: 252, spD: 0, spe: 128}
 hidden: false
