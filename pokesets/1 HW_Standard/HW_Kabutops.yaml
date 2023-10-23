@@ -1,6 +1,6 @@
 species: Kabutops
 ingamename: JackRipper
-displayname: Jack The Ripper 
+displayname: Jack The Ripper
 setname: Halloween
 ball: [Dusk]
 tags: [halloween]
@@ -19,4 +19,27 @@ shiny: True
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 200, def: 0, spA: 0, spD: 72, spe: 0}
 nature: Serious
+hidden: false
+---
+species: Kabutops
+ingamename: Ferryman
+displayname: Ferryman
+setname: Halloween-2
+tags: [halloween]
+item: Silk Scarf
+ability: Pressure
+moves:
+    - [Aqua Jet]
+    - [Double Kick]
+    - [Pay Day]
+    - [Taunt]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
+evs: {hp: 90, atk: 50, def: 0, spA: 252, spD: 0, spe: 128}
 hidden: false
