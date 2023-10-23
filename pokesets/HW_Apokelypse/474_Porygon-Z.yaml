@@ -1,0 +1,42 @@
+species: Porygon-Z
+ingamename: SpamtonNEO
+displayname: Spamton NEO
+setname: Pokelypse
+tags: [pokelypse]
+item: [Salac Berry]
+ability: Simple
+moves:
+    - [Hyper Voice]
+    - [Thunderbolt]
+    - [Overheat]
+    - [Nasty Plot]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 252}
+---
+species: Porygon-Z
+ingamename: V1
+displayname: V1
+setname: Pokelypse
+tags: [pokelypse]
+item: [Life Orb]
+ability: Huge Power
+moves:
+    - [Extreme Speed]
+    - [Drain Punch]
+    - [Thunder]
+    - [Pay Day]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Hardy
+ivs: 31
+evs: 252
+hidden: false
