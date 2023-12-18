@@ -1,5 +1,5 @@
 name: changes_info
-on: [ pull_request ]
+on: [ pull_request, workflow_dispatch ]
 
 jobs:
   changes_info:
