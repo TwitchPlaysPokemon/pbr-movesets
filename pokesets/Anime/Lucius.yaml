@@ -1,0 +1,59 @@
+---
+species: Rayquaza
+setname: Lucius
+ability: [Simple]
+item: [Muscle Band]
+ball: [Luxury]
+moves:
+- [Draco Meteor]
+- [Superpower]
+- [Roar]
+happiness: 0
+shiny: true
+hidden: false
+biddable: true
+rarity: 1.0
+nature: Rash
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 31
+tags: [lucius, anime]
+suppressions: [public-shiny]
+---
+species: Moltres #Galarian
+setname: Lucius
+ability: [Flame Body]
+item: [Dread Plate]
+ball: [Luxury]
+moves:
+- [Dark Pulse]
+- [Air Slash]
+- [Nasty Plot]
+happiness: 100
+shiny: true
+hidden: false
+biddable: true
+rarity: 1.0
+nature: Naughty
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+ivs: 31
+tags: [lucius, anime]
+suppressions: [public-shiny]
+---
+species: Lapras 
+setname: Lucius
+ability: [Razor Skin]
+item: [Leftovers]
+ball: [Luxury]
+moves:
+- [Ice Beam]
+- [Thief]
+- [Mist]
+- [Nasty Plot]
+happiness: 100
+gender: [f]
+biddable: true
+rarity: 1.0
+nature: Modest
+ivs: 31
+evs: {hp: 24, atk: 0, def: 176, spA: 252, spD: 56, spe: 0}
+tags: [lucius, anime]

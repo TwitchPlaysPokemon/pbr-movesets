@@ -1,0 +1,99 @@
+---
+species: Skarmory
+setname: PWT-Amarys
+tags: [in-game, PWT-Amarys, trainer+amarys]
+item: [Jacoba Berry] #Rocky Helmet
+ability: [Sturdy]
+moves:
+- [Stealth Rock]
+- [Wing Attack] #Dual Wingbeat
+- [Low Kick] #Body Press
+- [Whirlwind]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 252, spA: 0, spD: 0, spe: 12}
+level: 100
+rarity: 1.0
+---
+species: Dugtrio #Alolan
+setname: PWT-Amarys
+tags: [in-game, PWT-Amarys, trainer+amarys]
+item: [Focus Sash]
+ability: [Tangled Feet] #Tangling Hair
+moves:
+- [Earthquake]
+- [Sucker Punch]
+- [Iron Head]
+- [Stone Edge]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Scizor
+setname: PWT-Amarys
+tags: [in-game, PWT-Amarys, trainer+amarys]
+item: [Occa Berry]
+ability: [Technician]
+moves:
+- [Bullet Punch]
+- [Agility] #Trailblaze
+- [Bug Bite] #Pounce
+- [Aerial Ace]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 244, atk: 252, def: 0, spA: 0, spD: 0, spe: 12}
+level: 100
+rarity: 1.0
+---
+species: Empoleon
+setname: PWT-Amarys
+tags: [in-game, PWT-Amarys, trainer+amarys]
+item: [Mystic Water]
+ability: [Torrent]
+moves:
+- [Ice Beam]
+- [Hydro Pump]
+- [Flash Cannon]
+- [Grass Knot]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 244, atk: 0, def: 0, spA: 252, spD: 0, spe: 12}
+level: 100
+rarity: 1.0
+---
+species: Metagross
+setname: PWT-Amarys
+tags: [in-game, PWT-Amarys, trainer+amarys]
+item: [Expert Belt]
+ability: [Clear Body]
+moves:
+- [Iron Head] #Hard Press
+- [Ice Punch]
+- [Zen Headbutt]
+- [Brick Break]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+level: 100
+rarity: 1.0

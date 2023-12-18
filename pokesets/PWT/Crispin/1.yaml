@@ -1,0 +1,99 @@
+---
+species: Rotom #Oven
+setname: PWT-Crispin
+tags: [in-game, PWT-Crispin, trainer+crispin]
+item: [Jacoba Berry] #Rocky Helmet
+ability: [Levitate]
+moves:
+- [Will-O-Wisp]
+- [Overheat]
+- [Thunderbolt]
+- [Ominous Wind] #Hex
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 0, spA: 12, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Exeggutor
+setname: PWT-Crispin
+tags: [in-game, PWT-Crispin, trainer+crispin]
+item: [Sitrus Berry]
+ability: [Chlorophyll] #Harvest
+moves:
+- [Leech Seed]
+- [Psychic] #Psyshock
+- [Protect]
+- [Solar Beam]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Calm
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 100, spA: 0, spD: 156, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Camerupt
+setname: PWT-Crispin
+tags: [in-game, PWT-Crispin, trainer+crispin]
+item: [Expert Belty]
+ability: [Solid Rock]
+moves:
+- [Earth Power]
+- [Heat Wave] 
+- [Ancient Power]
+- [Zen Headbutt]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 164, atk: 0, def: 108, spA: 0, spD: 236, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magmortar
+setname: PWT-Crispin
+tags: [in-game, PWT-Crispin, trainer+crispin]
+item: [Passho Berry]
+ability: [Flame Body]
+moves:
+- [Psychic]
+- [Thunderbolt]
+- [Heat Wave]
+- [Sunny Day]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Timid
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 164, atk: 0, def: 0, spA: 252, spD: 0, spe: 92}
+level: 100
+rarity: 1.0
+---
+species: Blaziken
+setname: PWT-Crispin
+tags: [in-game, PWT-Crispin, trainer+crispin]
+item: [Starf Berry] #Assault Vest
+ability: [Speed Boost]
+moves:
+- [Stone Edge]
+- [Focus Blast]
+- [Flare Blitz] #Temper Flare
+- [Shadow Claw]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 228, atk: 252, def: 12, spA: 0, spD: 12, spe: 4}
+level: 100
+rarity: 1.0
