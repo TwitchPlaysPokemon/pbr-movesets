@@ -2,7 +2,7 @@
 species: Rotom #Oven
 setname: PWT-Crispin
 tags: [in-game, PWT-Crispin, trainer+crispin]
-item: [Jacoba Berry] #Rocky Helmet
+item: [Jaboca Berry] #Rocky Helmet
 ability: [Levitate]
 moves:
 - [Will-O-Wisp]
@@ -41,7 +41,7 @@ rarity: 1.0
 species: Camerupt
 setname: PWT-Crispin
 tags: [in-game, PWT-Crispin, trainer+crispin]
-item: [Expert Belty]
+item: [Expert Belt]
 ability: [Solid Rock]
 moves:
 - [Earth Power]
