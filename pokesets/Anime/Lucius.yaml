@@ -41,7 +41,7 @@ suppressions: [public-shiny]
 ---
 species: Lapras 
 setname: Lucius
-ability: [Razor Skin]
+ability: [Rough Skin]
 item: [Leftovers]
 ball: [Luxury]
 moves:
