@@ -156,3 +156,43 @@ nature: Serious
 ivs: {hp: 0, atk: 31, def: 15, spA: 31, spD: 15, spe: 30}
 evs: {hp: 0, atk: 16, def: 0, spA: 16, spD: 0, spe: 0}
 hidden: False
+---
+species: Misdreavus
+ingamename: BonceBones
+displayname: Bonce Bones
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 127
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 15, atk: 31, def: 31, spA: 25, spD: 25, spe: 24}
+evs: {hp: 0, atk: 96, def: 96, spA: 0, spD: 0, spe: 0}
+hidden: False
+---
+species: Drifloon
+ingamename: Mug Moolah
+displayname: Mug Moolah
+setname: HMetronome
+tags: [halloweenmetronome]
+item: [Amulet Coin, Skull Fossil]
+ability: Scrappy
+moves:
+    - [Metronome (=255)]
+gender: [m,f]
+happiness: 127
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 15, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 136, def: 184, spA: 196, spD: 144, spe: 92}
+hidden: False
