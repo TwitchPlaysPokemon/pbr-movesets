@@ -10,7 +10,7 @@ moves:
     - [Flash Cannon]
     - [Conversion]
     - [Metal Sound]
-gender: [m,f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

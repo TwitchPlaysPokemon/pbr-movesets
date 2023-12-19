@@ -29,7 +29,7 @@ tags: [halloween]
 item: Protector
 ability: Filter
 moves:
-    - [Rock Throw]
+    - [Rock Slide]
     - [Will-O-Wisp]
     - [Stockpile]
     - [Block]
@@ -40,6 +40,6 @@ rarity: 1.0
 ball: [Dusk]
 shiny: True
 nature: Relaxed
-ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 31, spe: 0}
+ivs: {hp: 31, atk: 10, def: 31, spA: 0, spD: 31, spe: 0}
 evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
 hidden: false
