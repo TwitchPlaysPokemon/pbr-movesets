@@ -20,9 +20,9 @@ nature: Adamant
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 hidden: false
-
+---
 species: Deoxys
-ingamename: Thunderblight
+ingamename: Thndrblight
 displayname: Thunderblight
 setname: Pokelypse
 tags: [pokelypse]
