@@ -19,17 +19,17 @@ nature: Mild
 ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
-
+---
 species: Shaymin
 ingamename: Flowerblight
-displayname: Flowerblight
+displayname: Flwrblight
 setname: Halloween
 tags: [halloween]
-item: Persim Berry
+item: Pomeg Berry
 ability: Flower Gift
 moves:
     - [Petal Dance]
-    - [Outrage]
+    - [Rage]
     - [Guillotine]
     - [Growth]
 happiness: 255
