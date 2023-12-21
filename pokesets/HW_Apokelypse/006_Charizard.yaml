@@ -1,0 +1,21 @@
+species: Charizard
+ingamename: Yharon
+displayname: Yharon
+setname: Pokelypse
+tags: [pokelypse]
+item: [Life Orb]
+ability: Magic Guard
+moves:
+    - [Magma Storm]
+    - [Brave Bird]
+    - [Head Smash]
+    - [Dragon Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Lonely
+ivs: 31
+evs: 252

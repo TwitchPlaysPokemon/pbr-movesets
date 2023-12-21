@@ -8,7 +8,8 @@ moves:
 - [Zen Headbutt] #Foul Play
 - [Magnet Rise]
 - [Discharge]
-- [Rain Dance] #Electric Terrain
+- [Rain Dance, Sucker Punch] #Electric Terrain
+#note: I've seen conflicting reports on what the last move is. Some places have Electric Terrain, others Sucker Punch. Maybe it changed during a patch or something?
 happiness: 255
 biddable: false
 ball: [Poke]

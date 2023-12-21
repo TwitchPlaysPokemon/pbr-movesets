@@ -2,11 +2,13 @@
 species: Charizard
 setname: Friede
 ability: [Blaze]
-item: [null]
+item: [Dread Plate]
 ball: [Poke]
 moves:
 - [Flamethrower]
 - [Dragon Claw]
+- [Dark Pulse]
+- [Conversion]
 gender: [m]
 happiness: 255
 biddable: true
@@ -27,6 +29,7 @@ moves:
 - [Volt Tackle]
 - [Thunder Punch]
 - [Double Team]
+- [Bounce]
 gender: [m]
 happiness: 255
 biddable: true

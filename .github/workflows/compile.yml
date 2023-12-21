@@ -1,5 +1,5 @@
 name: compile
-on: [ push, pull_request ]
+on: [ push, pull_request, workflow_dispatch ]
 jobs:
   compile:
     runs-on: ubuntu-latest
@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.8.15'
       - run: sudo apt-get install libyaml-dev
       - name: install python dependencies
         run: |

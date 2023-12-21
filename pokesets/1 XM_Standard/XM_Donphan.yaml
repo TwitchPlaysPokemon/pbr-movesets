@@ -1,0 +1,22 @@
+species: Donphan
+ingamename: IronTreads
+displayname: Iron Treads
+setname: Christmas
+tags: [christmas]
+item: Metal Coat
+ability: Lightning Rod
+moves:
+    - [Dig]
+    - [Iron Head]
+    - [Spark]
+    - [Rain Dance]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Serious
+ivs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 20, spe: 0}
+evs: 0
+hidden: false

@@ -1,0 +1,79 @@
+---
+species: Eevee
+setname: PWT-Leaf Masters
+tags: [in-game, PWT-Leaf Masters, trainer+leaf]
+item: [null]
+ability: [Run Away, Adaptability, Anticipation]
+moves:
+- [Tackle]
+- [Milk Drink] #Potion
+- [Iron Tail]
+- [Belly Drum] #Let's Go!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Venusaur
+setname: PWT-Leaf Masters
+tags: [in-game, PWT-Leaf Masters, trainer+leaf]
+item: [Leaf Stone]
+ability: [Overgrow, Chlorophyll, Thick Fat]
+moves:
+- [Razor Leaf]
+- [Synthesis] #Potion
+- [Ingrain] #Mega Healing!
+- [Frenzy Plant]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Clefable
+setname: PWT-Leaf Masters
+tags: [in-game, PWT-Leaf Masters, trainer+leaf]
+item: [null]
+ability: [Cute Charm, Magic Guard, Unaware]
+moves:
+- [Metronome]
+- [Moonlight]
+- [Hyper Voice] #Disarming Voice
+- [Acupressure] #Hit 'Em With Love!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Moltres
+setname: PWT-Leaf Masters
+tags: [in-game, PWT-Leaf Masters, trainer+leaf]
+item: [null]
+ability: [Pressure, Flame Body]
+moves:
+- [Leer, Fire Blast]
+- [Morning Sun] #Potion
+- [Flare Blitz]
+- [Sunny Day] #Glory of the Flame!
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

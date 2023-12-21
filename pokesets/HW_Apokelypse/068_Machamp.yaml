@@ -1,0 +1,23 @@
+species: Machamp
+ingamename: Sukuna
+displayname: Ryomen Sukuna
+setname: Pokelypse
+tags: ubers
+tags: [pokelypse]
+item: Razor Claw
+ability: Sniper
+moves:
+    - [Cross Chop]
+    - [Night Slash]
+    - [Stone Edge]
+    - [Magic Coat]
+gender: [m]
+happiness: 30
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+hidden: false

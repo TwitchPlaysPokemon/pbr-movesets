@@ -1,0 +1,18 @@
+species: Spiritomb
+ingamename: Kingmadio
+displayname: Kingmadio
+setname: TPP Snakewood DX
+tags: [pokelypse]
+item: [null]
+ability: Wonder Guard
+moves:
+    - [Teleport]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: false
+nature: Serious
+ivs: {hp: 4, atk: 18, def: 1, spA: 9, spD: 26, spe: 27}
+evs: 0
