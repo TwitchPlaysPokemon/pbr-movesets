@@ -1,0 +1,22 @@
+species: Donphan
+ingamename: Great Tusk
+displayname: Great Tusk
+setname: Halloween
+tags: [halloween]
+item: Rare Bone
+ability: Drought
+moves:
+    - [Bone Rush]
+    - [Brick Break]
+    - [Rapid Spin]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Adamant
+ivs: {hp: 0, atk: 20, def: 0, spA: 0, spD: 20, spe: 0}
+evs: 0
+hidden: false

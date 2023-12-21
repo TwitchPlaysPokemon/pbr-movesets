@@ -1,0 +1,23 @@
+species: Gengar
+ingamename: SatoruGojo
+displayname: Satoru Gojo
+setname: Pokelypse
+tags: ubers
+tags: [pokelypse]
+item: Wise Glasses
+ability: Normalize
+moves:
+    - [Aeroblast]
+    - [Spacial Rend]
+    - [Magic Coat]
+    - [Skill Swap]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 0, atk: 0, def: 100, spA: 252, spD: 100, spe: 252}
+hidden: false

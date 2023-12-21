@@ -1,6 +1,6 @@
 species: Arceus
-ingamename:  tppPray 
-displayname:  tppPray 
+ingamename:  tppPray
+displayname:  tppPray
 setname: Pokelypse
 tags: [pokelypse]
 item: [Leftovers]
@@ -19,3 +19,24 @@ nature: Serious
 ivs: 31
 evs: 252
 hidden: false
+---
+species: Arceus
+ingamename: MinosPrime
+displayname: Minos Prime
+setname: Pokelypse-2
+tags: [pokelypse]
+item: [Fist Plate]
+ability: Multitype
+moves:
+    - [High Jump Kick]
+    - [Earthquake]
+    - [Extreme Speed]
+    - [Ice Punch]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 130, atk: 252, def: 100, spA: 0, spD: 100, spe: 252}

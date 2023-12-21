@@ -1,0 +1,19 @@
+species: Arcanine
+setname: Shiny
+tags: [advanced,standard]
+item: [Smooth Rock]
+ability: [Rock Head]
+moves:
+    - [Flare Blitz]
+    - [Head Smash]
+    - [Conversion]
+    - [Sandstorm]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Premier]
+nature: Docile
+ivs: 20
+evs: {hp: 0, atk: 0, def: 16, spA: 0, spD: 72, spe: 0}

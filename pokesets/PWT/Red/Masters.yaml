@@ -58,3 +58,22 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Articuno
+setname: PWT-Red Masters
+tags: [in-game, PWT-Red Masters, trainer+red]
+item: [null]
+ability: [Pressure, Snow Cloak]
+moves:
+- [Blizzard]
+- [Protect]
+- [Ice Beam]
+- [Hail] #Glory of the Winning Path!
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
