@@ -20,3 +20,29 @@ nature: Naughty
 ivs: {hp: 31, atk: 0, def: 31, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 88}
 hidden: false
+---
+species: Gardevoir
+ingamename: IronValant
+displayname: Iron Valiant
+setname: Christmas-P
+tags: [christmas]
+item: Iron Ball
+ability: Download
+moves:
+    - [Close Combat, Dragon Rush]
+    - [Hyper Voice, Aura Sphere]
+    - [Future Sight]
+    - [Confuse Ray]
+combinations:
+    - [Close Combat, Hyper Voice] #so one fighting and fairy move each
+    - [Dragon Rush, Aura Sphere] #one phys, one spec.
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
