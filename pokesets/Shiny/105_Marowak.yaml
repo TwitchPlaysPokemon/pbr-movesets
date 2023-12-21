@@ -1,0 +1,19 @@
+species: Marowak
+setname: Shiny
+tags: [advanced,standard]
+item: [Spooky Plate]
+ability: [Flame Body]
+moves:
+    - [Shadow Claw]
+    - [Flare Blitz]
+    - [Frustration]
+    - [Conversion]
+gender: [m, f]
+happiness: 30
+shiny: True
+biddable: False
+hidden: True
+ball: [Dusk]
+nature: Brave
+ivs: 31
+evs: {hp: 0, atk: 164, def: 0, spA: 0, spD: 0, spe: 104}

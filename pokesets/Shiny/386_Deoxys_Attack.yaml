@@ -14,3 +14,23 @@ ball: [Cherish]
 nature: Adamant
 ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Deoxys
+setname: Shiny-2
+tags: [advanced,standard]
+item: [Life Orb]
+ability: [Pure Power]
+moves:
+    - [Constrict]
+    - [Poison Sting]
+    - [Lick]
+    - [Belly Drum]
+form: Attack
+happiness: 255  
+shiny: True
+biddable: False
+hidden: True
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

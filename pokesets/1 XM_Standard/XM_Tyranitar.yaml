@@ -1,0 +1,22 @@
+species: Tyranitar
+ingamename: IronThorns
+displayname: Iron Thorns
+setname: Christmas
+tags: [christmas]
+item: Zap Plate
+ability: Volt Absorb
+moves:
+    - [Volt Tackle]
+    - [Stone Edge]
+    - [Pin Missile]
+    - [Conversion 2]
+happiness: 255
+biddable: True
+rarity: 1.0
+gender: [m,f]
+ball: [Premier]
+shiny: True
+nature: Modest
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: False

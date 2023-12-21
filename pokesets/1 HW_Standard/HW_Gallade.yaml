@@ -10,7 +10,7 @@ moves:
     - [Flash Cannon]
     - [Conversion]
     - [Metal Sound]
-gender: [m,f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -42,4 +42,30 @@ shiny: True
 nature: Rash
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 64, spA: 252, spD: 0, spe: 252}
+hidden: false
+---
+species: Gallade
+ingamename: IronValant
+displayname: Iron Valiant
+setname: Halloween-P
+tags: [halloween]
+item: Iron Ball
+ability: Download
+moves:
+    - [Close Combat, Dragon Rush]
+    - [Hyper Voice, Aura Sphere]
+    - [Future Sight]
+    - [Confuse Ray]
+combinations:
+    - [Close Combat, Hyper Voice] #so one fighting and fairy move each
+    - [Dragon Rush, Aura Sphere] #one phys, one spec.
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Naughty
+ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false

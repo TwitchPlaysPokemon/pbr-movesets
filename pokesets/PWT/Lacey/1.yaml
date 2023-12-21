@@ -1,0 +1,79 @@
+---
+species: Granbull
+setname: PWT-Lacey
+tags: [in-game, PWT-Lacey, trainer+lacey]
+item: [Expert Belt]
+ability: [Intimidate]
+moves:
+- [Dragon Rush] #Play Rough
+- [Fire Punch]
+- [Ice Punch]
+- [Earthquake] #Stomping Tantrum
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
+level: 100
+rarity: 1.0
+---
+species: Slowbro #Galarian
+setname: PWT-Lacey
+tags: [in-game, PWT-Lacey, trainer+lacey]
+item: [Sitrus Berry]
+ability: [Speed Boost] #Quick Draw
+moves:
+- [Sludge Bomb] #Shell Side Arm
+- [Psychic]
+- [Flamethrower]
+- [Ice Beam]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Quiet
+ivs: 31
+evs: {hp: 228, atk: 0, def: 164, spA: 0, spD: 116, spe: 0}
+level: 100
+rarity: 1.0
+---
+#they're from a prior battle, but they count imo
+species: Plusle
+setname: PWT-Lacey
+tags: [in-game, PWT-Lacey, trainer+lacey]
+item: [null]
+ability: [Lightning Rod]
+moves:
+- [Discharge]
+- [Hyper Voice] #Alluring Voice
+- [Grass Knot]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 30, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Minun
+setname: PWT-Lacey
+tags: [in-game, PWT-Lacey, trainer+lacey]
+item: [null]
+ability: [Volt Absorb]
+moves:
+- [Discharge]
+- [Helping Hand]
+- [Swift]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Bold
+ivs: {hp: 30, atk: 25, def: 25, spA: 25, spD: 25, spe: 25}
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

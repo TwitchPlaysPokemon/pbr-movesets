@@ -1,0 +1,80 @@
+---
+species: Kingdra
+setname: PWT-Drayton
+tags: [in-game, PWT-Drayton, trainer+drayton]
+item: [Expert Belt]
+ability: [Swift Swim]
+moves:
+- [Rain Dance]
+- [Ice Beam]
+- [Hydro Pump]
+- [Aeroblast] #Hurricane
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 100, spD: 0, spe: 156}
+level: 100
+rarity: 1.0
+---
+species: Flygon
+setname: PWT-Drayton
+tags: [in-game, PWT-Drayton, trainer+drayton]
+item: [Life Orb]
+ability: [Levitate]
+moves:
+- [Earthquake]
+- [Stone Edge]
+- [Fire Punch]
+- [Dragon Claw] #Breaking Swipe
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Jolly
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Drayton
+tags: [in-game, PWT-Drayton, trainer+drayton]
+item: [Yache Berry]
+ability: [Marvel Scale] #Multiscale
+moves:
+- [Extreme Speed]
+- [Thunder Punch]
+- [Ice Punch] #Ice Spinner
+- [Tailwind]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 244, atk: 0, def: 156, spA: 0, spD: 108, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Sceptile
+setname: PWT-Drayton
+tags: [in-game, PWT-Drayton, trainer+drayton]
+item: [Liechi Berry] #Weakness Policy
+ability: [Unburden]
+moves:
+- [Dragon Dance] #Dragon Cheer
+- [Leaf Storm]
+- [X-Scissor]
+- [Aerial Ace] #Acrobatics
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Adamant
+ivs: 31
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+level: 100
+rarity: 1.0
