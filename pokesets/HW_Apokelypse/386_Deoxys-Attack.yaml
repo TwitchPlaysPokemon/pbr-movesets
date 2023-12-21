@@ -22,7 +22,7 @@ evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 hidden: false
 ---
 species: Deoxys
-ingamename: Thndrblight
+ingamename: Thndrblght
 displayname: Thunderblight
 setname: Pokelypse
 tags: [pokelypse]
