@@ -1,0 +1,176 @@
+species: Azumarill #Azombarill
+ingamename: F4
+displayname: F4
+setname: TPP Snakewood DX
+tags: [runmon, in-game]
+item: [Shell Bell]
+ability: [Huge Power]
+moves:
+    - [Waterfall]
+    - [Rollout]
+    - [Rock Smash]
+    - [Yawn]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lax
+ivs: {hp: 2, atk: 0, def: 19, spA: 24, spD: 19, spe: 6}
+evs: {hp: 68, atk: 103, def: 103, spA: 106, spD: 32, spe: 98}
+===
+species: Lugia #Scar Lugia
+ingamename: ADDDDJl..
+displayname: ADDDDJl..
+setname: TPP Snakewood DX
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Fly]
+    - [Ice Beam]
+    - [Toxic]
+    - [Recover]
+gender: [null]
+happiness: 255
+biddable: True
+rarity: 1.0 
+ball: [Poke]
+shiny: False
+nature: Bashful
+ivs: {hp: 29, atk: 10, def: 12, spA: 13, spD: 6, spe: 16}
+evs: {hp: 86, atk: 76, def: 69, spA: 104, spD: 32, spe: 133}
+===
+species: Gengar #Gengaze
+ingamename: Bacevy
+displayname: Bacevy
+setname: TPP Snakewood DX
+tags: [runmon, in-game]
+item: [Magnet]
+ability: [Levitate]
+moves:
+    - [Discharge]
+    - [Ice Punch]
+    - [Hypnosis]
+    - [Curse]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: {hp: 26, atk: 18, def: 9, spA: 29, spD: 9, spe: 5}
+evs: {hp: 105, atk: 88, def: 83, spA: 59, spD: 45, spe: 130}
+===
+species: Celebi
+ingamename: Alt
+displayname: Alt
+setname: TPP Snakewood DX
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Natural Cure]
+moves:
+    - [Psychic]
+    - [Eruption]
+    - [Water Spout]
+    - [Softboiled]
+gender: [null]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: {hp: 18, atk: 8, def: 11, spA: 14, spD: 20, spe: 18}
+evs: {hp: 136, atk: 87, def: 114, spA: 66, spD: 22, spe: 85}
+===
+species: Linoone #Dragoone
+ingamename: AABJJQQQQR
+displayname: AABJJQQQQR
+setname: Twitch Plays Snakewood DX
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [Pickup]
+moves: 
+    - [Slash]
+    - [Outrage]
+    - [Fly]
+    - [Dive]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: {hp: 30, atk: 23, def: 1, spA: 18, spD: 15, spe: 8}
+evs: {hp: 76, atk: 132, def: 128, spA: 66, spD: 19, spe: 89}
+===
+species: Linoone #Dragoone; this is the shiny one
+ingamename: UOI71aa
+displayname: UOI71aa
+setname: TPP Snakewood DX
+tags: [runmon, in-game]
+item: [null] 
+ability: [Pickup]
+moves: 
+    - [Slash]
+    - [Outrage]
+    - [Earthquake]
+    - [Dive]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+hidden: false
+nature: Lax
+ivs: {hp: 3, atk: 12, def: 30, spA: 30, spD: 21, spe: 15}
+evs: {hp: 84, atk: 140, def: 28, spA: 75, spD: 23, spe: 83}
+===
+species: Murkrow #Dirtkrow; consider this a bonus set since it did very different things compared to scar lugia
+ingamename: ADDDDJl..
+displayname: ADDDDJl..
+setname: TPP Snakewood DX
+tags: [runmon, in-game]
+item: [Exp. Share]
+ability: [Air Lock]
+moves:
+    - [Fly]
+    - [Feint Attack]
+    - [Night Shade]
+    - [Haze]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bashful
+ivs: {hp: 29, atk: 10, def: 12, spA: 13, spD: 6, spe: 16}
+evs: {hp: 86, atk: 76, def: 69, spA: 104, spD: 32, spe: 133}
+===
+species: Lucario #DO THE IMPOSSIBLE
+ingamename: TOkf
+displayname: TOkf
+setname: TPP Snakewood DX
+tags: [runmon, in-game]
+item: [Soft Sand]
+ability: [Intimidate] 
+moves:
+    - [Cross Chop]
+    - [Earthquake]
+    - [Ice Punch]
+    - [Thunder Punch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: False
+nature: Naughty
+ivs: {hp: 27, atk: 1, def: 6, spA: 31, spD: 14, spe: 25}
+evs: {hp: 66, atk: 157, def: 11, spA: 50, spD: 46, spe: 49}
