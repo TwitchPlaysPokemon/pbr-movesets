@@ -61,7 +61,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Adamant
-ivs: {hp: 21, atk: 25, def: 9, spD: 23, spe: 26}
+ivs: {hp: 21, atk: 25, def: 9, spA: 31, spD: 23, spe: 26}
 evs: {hp: 5, atk: 253, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Latias
