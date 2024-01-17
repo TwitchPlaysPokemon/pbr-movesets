@@ -1,0 +1,106 @@
+species: Groudon
+ingamename: UUps vv
+displayname: UUps vv
+setname: TPP Mega Power
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Water Absorb]
+moves:
+    - [Earthquake]
+    - [Fire Punch]
+    - [Rock Tomb]
+    - [Bulk Up]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: {hp: 12, atk: 26, def: 29, spA: 26, spD: 16, spe: 2}
+evs: {hp: 43, atk: 123, def: 49, spA: 78, spD: 74, spe: 143}
+---
+species: Abomasnow
+ingamename: Joe
+displayname: Joe
+setname: TPP Mega Power
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Thick Fat]
+moves:
+    - [Ice Beam]
+    - [Razor Leaf]
+    - [Earthquake]
+    - [Hidden Power]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Hardy
+ivs: {hp: 20, atk: 23, def: 15, spA: 23, spD: 15, spe: 26}
+evs: {hp: 63, atk: 102, def: 36, spA: 122, spD: 101, spe: 86}
+---
+species: Raikou
+ingamename: ELEC CHAIR
+displayname: ELEC CHAIR
+setname: TPP Mega Power
+tags: [runmon, in-game]
+item: [Lax Incense]
+ability: [Pressure]
+moves:
+    - [Thunderbolt]
+    - [Hyper Beam]
+    - [Calm Mind]
+    - [Substitute]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Sassy
+ivs: {hp: 22, atk: 27, def: 6, spA: 21, spD: 9, spe: 18}
+evs: {hp: 20, atk: 0, def: 0, spA: 255, spD: 0, spe: 235}
+---
+species: Houndoom
+ingamename: GHKK
+displayname: GHKK
+setname: TPP Ultra Mega Power
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Drought]
+moves:
+    - [Flamethrower]
+    - [Dark Pulse]
+    - [Solar Beam]
+    - [Sludge Bomb]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Mild
+ivs: {hp: 14, atk: 13, def: 25, spA: 8, spD: 19, spe: 2}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Suicune
+ingamename: "!!!!!!"
+displayname: "!!!!!!"
+setname: TPP Ultra Mega Power
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Surf]
+    - [Sleep Talk]
+    - [Calm Mind]
+    - [Rest]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quirky
+ivs: {hp: 26, atk: 29, def: 27, spA: 15, spD: 18, spe: 10}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
