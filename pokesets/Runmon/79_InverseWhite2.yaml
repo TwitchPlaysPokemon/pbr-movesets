@@ -19,7 +19,7 @@ shiny: False
 nature: Impish
 ivs: {hp: 16, atk: 23, def: 27, spA: 22, spD: 28, spe: 14}
 evs: {hp: 66, atk: 254, def: 49, spA: 0, spD: 32, spe: 109}
-===
+---
 species: Octillery
 ingamename: WAR
 displayname: WAR
@@ -41,7 +41,7 @@ shiny: False
 nature: Naughty
 ivs: {hp: 28, atk: 1, def: 8, spA: 24, spD: 18, spe: 25}
 evs: {hp: 35, atk: 51, def: 28, spA: 107, spD: 24, spe: 255}
-===
+---
 species: Cloyster
 ingamename: Gungnir
 displayname: Gungnir
@@ -63,7 +63,7 @@ shiny: False
 nature: Adamant
 ivs: {hp: 21, atk: 25, def: 9, spD: 23, spe: 26}
 evs: {hp: 5, atk: 253, def: 0, spA: 0, spD: 0, spe: 252}
-===
+---
 species: Latias
 ingamename: Bianca
 displayname: Bianca
