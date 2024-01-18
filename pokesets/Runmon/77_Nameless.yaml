@@ -1,0 +1,89 @@
+species: Lopunny
+ingamename: AAGG3“  ”‘
+displayname: AAGG3“  ”‘
+setname: TPP Nameless
+tags: [runmon, in-game]
+item: [Hard Stone]
+ability: [Limber]
+moves:
+    - [Return]
+    - [Close Combat]
+    - [Ice Punch]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quirky
+ivs: 31
+evs: {hp: 54, atk: 161, def: 55, spA: 73, spD: 53, spe: 114}
+---
+species: Glaceon
+ingamename: GJ h‘bccc
+displayname: GJ h‘bccc
+setname: TPP Nameless
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Ice Beam]
+    - [Water Pulse]
+    - [Sheer Cold]
+    - [Calm Mind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: false
+nature: Lonely
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Exeggutor
+ingamename: v
+displayname: v
+setname: TPP Nameless
+tags: [runmon, in-game]
+item: [Bright Powder]
+ability: [Chlorophyll]
+moves:
+    - [Energy Ball]
+    - [Dragon Pulse]
+    - [Sludge Bomb]
+    - [Sleep Powder]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+hidden: false
+nature: Mild
+ivs: 31
+evs: {hp: 28, atk: 171, def: 90, spA: 84, spD: 58, spe: 79}
+---
+species: Palkia
+ingamename: Uranus
+displayname: Uranus
+setname: TPP Nameless
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Dragon Claw]
+    - [Waterfall]
+    - [Earthquake]
+    - [Bulk Up]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+hidden: false
+nature: Impish
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 2, spD: 4, spe: 252}

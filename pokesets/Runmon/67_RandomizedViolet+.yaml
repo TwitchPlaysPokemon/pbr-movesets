@@ -1,0 +1,87 @@
+species: Quagsire #Clodsire
+ingamename: ":u6708:"
+displayname: ":u6708:"
+setname: TPP Rando Violet+
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Compound Eyes]
+moves:
+    - [Megahorn]
+    - [Sucker Punch]
+    - [Aqua Jet]
+    - [Transform]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: 31
+evs: {hp: 54, atk: 179, def: 59, spA: 92, spD: 39, spe: 87}
+---
+species: Delibird #Iron Bundle
+ingamename: Delibot
+displayname: Delibot
+setname: TPP Rando Violet+
+tags: [runmon, in-game]
+item: [Wide Lens]
+ability: [Download]
+moves:
+    - [Blizzard]
+    - [Surf]
+    - [Psybeam]
+    - [Ancient Power]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: 31
+evs: {hp: 67, atk: 176, def: 45, spA: 76, spD: 35, spe: 110}
+---
+species: Luxray
+ingamename: Iron Sight
+displayname: Iron Sight
+setname: TPP Rando Violet+
+tags: [runmon, in-game]
+item: [Muscle Band]
+ability: [Download]
+moves:
+    - [Earthquake]
+    - [Fly]
+    - [Crunch]
+    - [Aqua Jet]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True 
+hidden: false
+nature: Naughty
+ivs: 31
+evs: {hp: 67, atk: 153, def: 55, spA: 98, spD: 41, spe: 96}
+---
+species: Arceus
+ingamename: Odio
+displayname: Odio
+setname: TPP Rando Violet+
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Chlorophyll]
+moves:
+    - [Earthquake]
+    - [Rock Slide]
+    - [Sucker Punch]
+    - [Swords Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: 31
+evs: {hp: 40, atk: 214, def: 21, spA: 90, spD: 62, spe: 83}
