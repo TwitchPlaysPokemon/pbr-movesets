@@ -32,7 +32,7 @@ moves:
     - [Thunderbolt]
     - [Energy Ball]
     - [Nasty Plot]
-gender: [F]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -132,7 +132,7 @@ evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 species: Entei
 ingamename: Entei
 displayname: Entei
-setname: TPP Scarlet
+setname: TPP Scarlet 2
 tags: [runmon, in-game]
 item: [Choice Band]
 ability: [Inner Focus]
@@ -151,9 +151,9 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 14, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 6, spe: 252}
 ---
-species: Dragouwee
-ingamename: Dragonair
-displayname: Dragonair
+species: Dragonair
+ingamename: Dragouwee
+displayname: Dragouwee
 setname: TPP Scarlet
 tags: [runmon, in-game]
 item: [Flame Orb]
@@ -174,9 +174,9 @@ nature: Bold
 ivs: {hp: 31, atk: 5, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 0, spe: 0}
 ---
-species: TyreeEguEe
-ingamename: Hitmonlee
-displayname: Hitmonlee
+species: Hitmonlee
+ingamename: TyreeEguEe
+displayname: TyreeEguEe
 setname: TPP Scarlet
 tags: [runmon, in-game]
 item: [Chilan Berry]
