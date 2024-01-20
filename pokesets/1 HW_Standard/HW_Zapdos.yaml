@@ -10,7 +10,6 @@ moves:
     - [Air Cutter] #Tornado
     - [Sludge Bomb] #Noxious Bomb
     - [Discharge] #Electric Storm
-gender: [m]
 happiness: 255
 biddable: true
 rarity: 1.0
