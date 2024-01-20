@@ -42,7 +42,7 @@ ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
 ---
-species: Quilava #Anahir
+species: Entei #Anahir
 ingamename: Entei
 displayname: Entei
 setname: Halloween-Temtem
@@ -54,7 +54,6 @@ moves:
     - [Eruption] #Meteor Swarm
     - [Leaf Blade] #Grass Blade
     - [Crunch] #Crystal Bite
-gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
