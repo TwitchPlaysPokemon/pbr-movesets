@@ -25,14 +25,14 @@ species: Dugtrio
 ingamename: Dig
 displayname: Dig
 setname: Christmas-Miitopia
-tags: [christmas]
+tags: [christmas, runmon, in-game]
 item: [Metal Coat]
 ability: [Cute Charm]
 moves:
     - [Fury Swipes]
     - [Shadow Claw]
     - [Thief]
-    - [Growl]
+    - [Swords Dance]
 gender: [f]
 happiness: 255
 biddable: True
