@@ -17,26 +17,3 @@ nature: Serious
 ivs: {hp: 26, atk: 1, def: 31, spA: 31, spD: 1, spe: 11}
 evs: {hp: 0, atk: 0, def: 200, spA: 160, spD: 0, spe: 0}
 hidden: false
----
-species: Beedrill #Gazuma
-ingamename: sxc
-displayname: sxc
-setname: Halloween-Temtem
-tags: [halloween]
-item: Magnet #Lightning Rod
-ability: Motor Drive #Fast Charge
-moves:
-    - [Zap Cannon] #DC Beam
-    - [Air Cutter] #Tornado
-    - [Sludge Bomb] #Noxious Bomb
-    - [Discharge] #Electric Storm
-gender: [m]
-happiness: 255
-biddable: False
-rarity: 1.0
-ball: [Heal]
-shiny: Poke
-nature: Serious
-ivs: {hp: 14, atk: 20, def: 8, spA: 2, spD: 17, spe: 31}
-evs: {hp: 178, atk: 143, def: 93, spA: 182, spD: 93, spe: 216}
-hidden: false
