@@ -47,7 +47,7 @@ ingamename: Gungnir
 displayname: Gungnir
 setname: TPP Inverse White 2
 tags: [runmon, in-game]
-item: [Icicle Plate]
+item: [Icicle Plate, Focus Sash]
 ability: [Skill Link]
 moves:
     - [Dive]
@@ -67,7 +67,7 @@ evs: {hp: 5, atk: 253, def: 0, spA: 0, spD: 0, spe: 252}
 species: Latias
 ingamename: Bianca
 displayname: Bianca
-setname: Twitch Plays Inverse White 2
+setname: TPP Inverse White 2
 tags: [runmon, in-game]
 item: [Soul Dew, Leftovers]
 ability: [Levitate]

@@ -62,6 +62,52 @@ nature: Sassy
 ivs: {hp: 22, atk: 27, def: 6, spA: 21, spD: 9, spe: 18}
 evs: {hp: 20, atk: 0, def: 0, spA: 255, spD: 0, spe: 235}
 ---
+species: Delcatty
+ingamename: WOW
+displayname: WOW
+setname: TPP Mega Power
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Cute Charm]
+moves:
+    - [Secret Power]
+    - [Double Team]
+    - [Rest]
+    - [Substitute]
+gender: [f]
+happiness: 77
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+hidden: false
+nature: Gentle
+ivs: {hp: 26, atk: 16, def: 16, spA: 6, spD: 4, spe: 5}
+evs: {hp: 60, atk: 1, def: 0, spA: 198, spD: 232, spe: 0}
+---
+species: Arcanine
+ingamename: SYNTU
+displayname: SYNTU
+setname: TPP Mega Power
+tags: [runmon, in-game]
+item: [Sitrus Berry]
+ability: [Intimidate]
+moves:
+    - [Overheat]
+    - [Thief]
+    - [Leer]
+    - [Helping Hand]
+gender: [m]
+happiness: 81
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: false
+nature: Jolly
+ivs: {hp: 1, atk: 3, def: 0, spA: 3, spD: 0, spe: 10}
+evs: {hp: 0, atk: 195, def: 189, spA: 160, spD: 17, spe: 17}
+---
 species: Houndoom
 ingamename: GHKK
 displayname: GHKK
