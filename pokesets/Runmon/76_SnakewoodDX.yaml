@@ -1,3 +1,25 @@
+species: Koffing
+ingamename: LR
+displayname: LR
+setname: TPP Snakewood DX
+tags: [runmon, in-game]
+item: [Member Card]
+ability: [Levitate]
+moves:
+    - [Sludge]
+    - [Hidden Power]
+    - [Self-Destruct]
+    - [Poison Gas]
+gender: [m]
+happiness: 216
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quirky
+ivs: {hp: 24, atk: 19, def: 30, spA: 11, spD: 27, spe: 1}
+evs: {hp: 35, atk: 18, def: 20, spA: 41, spD: 20, spe: 74}
+---
 species: Azumarill #Azombarill
 ingamename: F4
 displayname: F4
@@ -89,7 +111,7 @@ evs: {hp: 136, atk: 87, def: 114, spA: 66, spD: 22, spe: 85}
 species: Linoone #Dragoone
 ingamename: AABJJQQQQR
 displayname: AABJJQQQQR
-setname: Twitch Plays Snakewood DX
+setname: TPP Snakewood DX
 tags: [runmon, in-game]
 item: [King's Rock]
 ability: [Pickup]
@@ -111,7 +133,7 @@ evs: {hp: 76, atk: 132, def: 128, spA: 66, spD: 19, spe: 89}
 species: Linoone #Dragoone; this is the shiny one
 ingamename: UOI71aa
 displayname: UOI71aa
-setname: TPP Snakewood DX
+setname: TPP Snakewood DX 2
 tags: [runmon, in-game]
 item: [null] 
 ability: [Pickup]
