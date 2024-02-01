@@ -277,6 +277,6 @@ biddable: True
 rarity: 1.0
 ball: [Master]
 shiny: False
-nature: Poke
+nature: Serious
 ivs: {hp: 24, atk: 10, def: 22, spA: 16, spD: 16, spe: 12}
 evs: {hp: 46, atk: 167, def: 167, spA: 166, spD: 166, spe: 166}
