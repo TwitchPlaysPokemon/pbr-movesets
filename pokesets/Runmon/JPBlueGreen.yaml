@@ -153,7 +153,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 species: Venusaur
 ingamename: チツネ
 displayname: チツネ
-setname: TPP Green
+setname: TPP JP Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -175,7 +175,7 @@ evs: {hp: 81, atk: 169, def: 168, spA: 163, spD: 163, spe: 162}
 species: Butterfree
 ingamename: ツヌチニ
 displayname: ツヌチニ
-setname: TPP Green
+setname: TPP JP Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -197,7 +197,7 @@ evs: {hp: 36, atk: 42, def: 164, spA: 164, spD: 164, spe: 166}
 species: Fearow
 ingamename: カカロット
 displayname: カカロット
-setname: TPP Green
+setname: TPP JP Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -219,7 +219,7 @@ evs: {hp: 34, atk: 164, def: 164, spA: 164, spD: 164, spe: 164}
 species: Gyarados
 ingamename: ララムメス
 displayname: ララムメス
-setname: TPP Green
+setname: TPP JP Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -241,7 +241,7 @@ evs: {hp: 44, atk: 50, def: 166, spA: 167, spD: 167, spe: 167}
 species: Omastar
 ingamename: アカセネヌ
 displayname: アカセネヌ
-setname: TPP Green
+setname: TPP JP Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -263,7 +263,7 @@ evs: {hp: 24, atk: 28, def: 162, spA: 162, spD: 162, spe: 162}
 species: Mewtwo
 ingamename: サカケイル
 displayname: サカケイル
-setname: TPP Green
+setname: TPP JP Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
