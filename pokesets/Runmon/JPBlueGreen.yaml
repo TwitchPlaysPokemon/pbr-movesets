@@ -1,0 +1,282 @@
+species: Blastoise
+ingamename: アキカカカ
+displayname: アキカカカ
+setname: TPP JP Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Seismic Toss]
+    - [Fissure]
+    - [Bide]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 8, def: 14, spA: 6, spD: 6, spe: 30}
+evs: {hp: 104, atk: 116, def: 115, spA: 99, spD: 99, spe: 110}
+---
+species: Parasect
+ingamename: ホイイイシ
+displayname: ホイイイシ
+setname: TPP JP Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Body Slam]
+    - [Dig]
+    - [Spore]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 30, def: 8, spA: 30, spD: 30, spe: 6}
+evs: {hp: 88, atk: 98, def: 97, spA: 94, spD: 94, spe: 101}
+---
+species: Arcanine
+ingamename: ミムフヌへ
+displayname: ミムフヌへ
+setname: TPP JP Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fire Blast]
+    - [Jump Kick]
+    - [Skull Bash]
+    - [Toxic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 10, def: 18, spA: 10, spD: 10, spe: 26}
+evs: {hp: 65, atk: 71, def: 66, spA: 67, spD: 67, spe: 71}
+---
+species: Marowak
+ingamename: ムハハチタ
+displayname: ムハハチタ
+setname: TPP JP Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Earthquake]
+    - [Mega Kick]
+    - [Bubble Beam]
+    - [Counter]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 2, def: 24, spA: 2, spD: 2, spe: 4}
+evs: {hp: 53, atk: 59, def: 60, spA: 60, spD: 60, spe: 75}
+---
+species: Zapdos
+ingamename: シタサスヒ
+displayname: シタサスヒ
+setname: TPP JP Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Thunderbolt]
+    - [Razor Wind]
+    - [Mimic]
+    - [Whirlwind]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 24, def: 24, spA: 24, spD: 24, spe: 26}
+evs: {hp: 74, atk: 76, def: 78, spA: 81, spD: 81, spe: 90}
+---
+species: Zapdos
+ingamename: シタサスヒ
+displayname: シタサスヒ
+setname: TPP JP Blue-2
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Thunderbolt]
+    - [Fly]
+    - [Earthquake]
+    - [Swords Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 24, def: 24, spA: 24, spD: 24, spe: 26}
+evs: {hp: 77, atk: 81, def: 81, spA: 84, spD: 84, spe: 94}
+---
+species: Pidgey
+ingamename: " "
+displayname: " "
+setname: TPP JP Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Struggle]
+    - [Psychic]
+    - [Metronome]
+    - [Horn Drill]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 10, def: 22, spA: 14, spD: 14, spe: 26}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Venusaur
+ingamename: チツネ
+displayname: チツネ
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Razor Leaf]
+    - [Body Slam]
+    - [Sleep Powder]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 20, def: 18, spA: 2, spD: 2, spe: 6}
+evs: {hp: 81, atk: 169, def: 168, spA: 163, spD: 163, spe: 162}
+---
+species: Butterfree
+ingamename: ツヌチニ
+displayname: ツヌチニ
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Psychic]
+    - [Mega Drain]
+    - [Sleep Powder]
+    - [Double Team]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 14, def: 30, spA: 30, spD: 30, spe: 6}
+evs: {hp: 36, atk: 42, def: 164, spA: 164, spD: 164, spe: 166}
+---
+species: Fearow
+ingamename: カカロット
+displayname: カカロット
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fly]
+    - [Giga Impact]
+    - [Swift]
+    - [Mimic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 2, def: 14, spA: 24, spD: 24, spe: 0}
+evs: {hp: 34, atk: 164, def: 164, spA: 164, spD: 164, spe: 164}
+---
+species: Gyarados
+ingamename: ララムメス
+displayname: ララムメス
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Reflect]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 10, def: 20, spA: 10, spD: 10, spe: 8}
+evs: {hp: 44, atk: 50, def: 166, spA: 167, spD: 167, spe: 167}
+---
+species: Omastar
+ingamename: アカセネヌ
+displayname: アカセネヌ
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Seismic Toss]
+    - [Horn Drill]
+    - [Reflect]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 24, def: 12, spA: 12, spD: 12, spe: 28}
+evs: {hp: 24, atk: 28, def: 162, spA: 162, spD: 162, spe: 162}
+---
+species: Mewtwo
+ingamename: サカケイル
+displayname: サカケイル
+setname: TPP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Psychic]
+    - [Water Gun]
+    - [Metronome]
+    - [Self-Destruct]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Poke
+ivs: {hp: 24, atk: 10, def: 22, spA: 16, spD: 16, spe: 12}
+evs: {hp: 46, atk: 167, def: 167, spA: 166, spD: 166, spe: 166}
