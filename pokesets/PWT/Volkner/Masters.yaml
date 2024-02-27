@@ -1,0 +1,60 @@
+---
+species: Luxray
+setname: PWT-Volkner Masters
+tags: [in-game, PWT-Volkner Masters, trainer+volkner]
+item: [null]
+ability: [Rivalry, Intimidate, Guts]
+moves:
+- [Thunder Fang]
+- [Rain Dance] #Electric Terrain
+- [Howl] #Make Some Sparks!
+- [Volt Tackle] #Wild Charge
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Electivire
+setname: PWT-Volkner Masters
+tags: [in-game, PWT-Volkner Masters, trainer+volkner]
+item: [null]
+ability: [Motor Drive, Vital Spirit]
+moves:
+- [Discharge]
+- [Nasty Plot] #X Sp. Atk
+- [Thunder]
+- [Agility] #It's Electric!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Raichu
+setname: PWT-Volkner Masters
+tags: [in-game, PWT-Volkner Masters, trainer+volkner]
+item: [null]
+ability: [Static, Lightning Rod]
+moves:
+- [Discharge]
+- [Focus Energy] #Dire Hit+
+- [Surf]
+- [Charge] #Fully Charged!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
