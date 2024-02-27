@@ -110,7 +110,7 @@ evs: {hp: 102, atk: 113, def: 109, spA: 89, spD: 89, spe: 99}
 ---
 species: Fearow
 ingamename: T()
-displayname:
+displayname: T()
 setname: TPP Dual Blue 2 Preview
 tags: [runmon, in-game]
 item: [null]
