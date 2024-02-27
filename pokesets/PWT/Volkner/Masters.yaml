@@ -3,7 +3,7 @@ species: Luxray
 setname: PWT-Volkner Masters
 tags: [in-game, PWT-Volkner Masters, trainer+volkner]
 item: [null]
-ability: [Rivalry, Indimidate, Guts]
+ability: [Rivalry, Intimidate, Guts]
 moves:
 - [Thunder Fang]
 - [Rain Dance] #Electric Terrain
@@ -23,7 +23,7 @@ species: Electivire
 setname: PWT-Volkner Masters
 tags: [in-game, PWT-Volkner Masters, trainer+volkner]
 item: [null]
-ability: [Motor Drive, Wild Spirit]
+ability: [Motor Drive, Vital Spirit]
 moves:
 - [Discharge]
 - [Nasty Plot] #X Sp. Atk
