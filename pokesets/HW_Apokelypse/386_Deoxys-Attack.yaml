@@ -20,3 +20,26 @@ nature: Adamant
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
 hidden: false
+---
+species: Deoxys
+ingamename: Thndrblght
+displayname: Thunderblight
+setname: Pokelypse-2
+tags: [pokelypse]
+item: [Focus Sash]
+ability: Speed Boost
+moves:
+    - [Psycho Cut]
+    - [Thunderbolt]
+    - [Magnet Bomb]
+    - [Double Team]
+form: Attack
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 251, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+hidden: false

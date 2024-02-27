@@ -24,7 +24,7 @@ species: Porygon-Z
 ingamename: tppsim
 displayname: tppsimulator
 setname: Christmas2
-tags: [christmas]
+tags: [christmas, runmon, in-game]
 item: Dubious Disc
 ability: Synchronize
 moves:
@@ -46,7 +46,7 @@ species: Porygon-Z
 ingamename: Sim
 displayname: Sim
 setname: Christmas-Miitopia
-tags: [Christmas]
+tags: [Christmas, runmon, in-game]
 item: [Heart Scale]
 ability: [Soundproof]
 moves:
