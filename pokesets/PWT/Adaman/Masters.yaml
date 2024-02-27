@@ -1,0 +1,60 @@
+---
+species: Leafeon
+setname: PWT-Adaman Masters
+tags: [in-game, PWT-Adaman Masters, trainer+adaman]
+item: [null]
+ability: [Leaf Guard, Chlorophyll]
+moves:
+- [Leaf Blade]
+- [Synthesis]
+- [Razor Leaf]
+- [Bulk Up] #No Time Like the Present!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Vaporeon
+setname: PWT-Adaman Masters
+tags: [in-game, PWT-Adaman Masters, trainer+adaman]
+item: [null]
+ability: [Water Absorb, Hydration]
+moves:
+- [Bubble Beam]
+- [Withdraw] #X Defense All
+- [Protect]
+- [Calm Mind] #A Sight to See!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ursaring #Ursaluna
+setname: PWT-Adaman Masters
+tags: [in-game, PWT-Adaman Masters, trainer+adaman]
+item: [Flame Orb]
+ability: [Guts]
+moves:
+- [Facade]
+- [Softboiled] #Potion
+- [Reversal, Earthquake] #Hazy Headlong Rush
+- [Swords Dance] #Times Are Changing!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
