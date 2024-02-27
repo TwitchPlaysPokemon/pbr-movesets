@@ -61,7 +61,7 @@ rarity: 1.0
 species: Tyranitar
 setname: PWT-Silver Masters
 tags: [in-game, PWT-Silver Masters, trainer+silver]
-item: [null]
+item: [Everstone] #Tyranitarite
 ability: [Sand Stream]
 moves:
 - [Stone Edge]
