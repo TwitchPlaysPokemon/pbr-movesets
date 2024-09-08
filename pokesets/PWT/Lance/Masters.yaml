@@ -59,7 +59,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
 ---
-species: Dragonair
+species: Kingdra
 setname: PWT-Lance Masters
 tags: [in-game, PWT-Lance Masters, trainer+lance]
 item: [null]
