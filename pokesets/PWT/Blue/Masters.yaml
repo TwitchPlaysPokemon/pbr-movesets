@@ -117,3 +117,43 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Charizard
+setname: PWT-Blue Masters
+tags: [in-game, PWT-Blue Masters, trainer+blue]
+item: [null]
+ability: [Blaze, Solar Power]
+moves:
+- [Heat Wave]
+- [Flare Blitz]
+- [Blast Burn]
+- [Sunny Day] #Can't Fool Me!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Alakazam
+setname: PWT-Blue Masters
+tags: [in-game, PWT-Blue Masters, trainer+blue]
+item: [null]
+ability: [Synchronize, Inner Focus, Magic Guard]
+moves:
+- [Thunder Wave]
+- [Focus Energy] #Dire Hit+
+- [Psychic]
+- [Nasty Plot] #That All You Got?
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

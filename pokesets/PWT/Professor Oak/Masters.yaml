@@ -1,0 +1,60 @@
+---
+species: Mew
+setname: PWT-Professor Oak Masters
+tags: [in-game, PWT-Professor Oak Masters, trainer+professoroak]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Swift]
+- [Agility] #X Speed
+- [Psychic]
+- [Acupressure] #A World of Dreams!
+gender: [null]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mew
+setname: PWT-Professor Oak Masters-2
+tags: [in-game, PWT-Professor Oak Masters, trainer+professoroak]
+item: [null]
+ability: [Synchronize]
+moves:
+- [Fire Blast]
+- [Thunder] 
+- [Psychic] 
+- [Blizzard]
+gender: [null]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Nidorino
+setname: PWT-Professor Oak Masters
+tags: [in-game, PWT-Professor Oak Masters, trainer+professoroak]
+item: [null]
+ability: [Poison Point, Rivalry, Hustle]
+moves:
+- [Poison Sting]
+- [Wish] #Mini Potion All
+- [Protect]
+- [Amnesia] #Dreams and Adventures!
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

@@ -58,3 +58,43 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Dragonair
+setname: PWT-Lance Masters
+tags: [in-game, PWT-Lance Masters, trainer+lance]
+item: [null]
+ability: [Swift Swim, Sniper, Damp]
+moves:
+- [Dragon Breath]
+- [Aqua Ring] #Potion
+- [Hyper Beam]
+- [Nasty Plot] #Ready to Lose?
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Dragonite
+setname: PWT-Lance Masters-2
+tags: [in-game, PWT-Lance Masters, trainer+lance]
+item: [null]
+ability: [Inner Focus]
+moves:
+- [Hyper Beam]
+- [Giga Impact]
+- [Outrage]
+- [Swords Dance, Nasty Plot] #Let's Get Serious!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

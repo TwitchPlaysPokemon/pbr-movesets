@@ -1,0 +1,59 @@
+---
+species: Steelix
+setname: PWT-Jasmine Masters
+tags: [in-game, PWT-Jasmine Masters, trainer+jasmine]
+item: [null]
+ability: [Rock Head, Sturdy]
+moves:
+- [Gyro Ball]
+- [Reflect] #X Defense All
+- [Safeguard] #Clang!
+- [Iron Tail]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Ampharos
+setname: PWT-Jasmine Masters
+tags: [in-game, PWT-Jasmine Masters, trainer+jasmine]
+item: [Thunder Stone]
+ability: [Static, Plus]
+moves:
+- [Thunder Shock]
+- [Acupressure] #Super Effective ↑
+- [Slack Off] #Potion
+- [Cosmic Power] #Comforting Light!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Magnemite
+setname: PWT-Jasmine Masters
+tags: [in-game, PWT-Jasmine Masters, trainer+jasmine]
+item: [null]
+ability: [Magnet Pull, Sturdy]
+moves:
+- [Thunder Shock]
+- [Screech]
+- [Gyro Ball]
+- [Curse] #Heart of Steel!
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
