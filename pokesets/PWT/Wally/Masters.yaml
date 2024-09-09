@@ -1,0 +1,83 @@
+---
+species: Gallade
+setname: PWT-Wally Masters
+tags: [in-game, PWT-Wally Masters, trainer+wally]
+item: [Dawn Stone]
+ability: [Steadfast]
+moves:
+- [Low Kick, Close Combat]
+- [Mind Reader] #Dire Hit
+- [Focus Blast]
+- [Swords Dance, Nasty Plot] #Here I Come!
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Wally Masters
+tags: [in-game, PWT-Wally Masters, trainer+wally]
+item: [Shiny Stone]
+ability: [Synchronize, Trace]
+moves:
+- [Hyper Voice] #Disarming Voice
+- [Wish] #Fairy Wish
+- [Psychic] #Dazzling Gleam
+- [Nasty Plot] #I Won't Fall Behind!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+shiny: True
+hidden: False
+suppressions: [public-shiny]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Delcatty
+setname: PWT-Wally Masters
+tags: [in-game, PWT-Wally Masters, trainer+wally]
+item: [null]
+ability: [Cute Charm, Normalize]
+moves:
+- [Tackle]
+- [Slack Off] #Mini Potion All
+- [Growl]
+- [Stockpile] #Let's Win For Sure!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Altaria
+setname: PWT-Wally Masters
+tags: [in-game, PWT-Wally Masters, trainer+wally]
+item: [null]
+ability: [Natural Cure, Cloud Nine]
+moves:
+- [Dragon Claw]
+- [Focus Energy] #Dire Hit +
+- [Dragon Breath] 
+- [Swords Dance, Nasty Plot] #Please Watch Me!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

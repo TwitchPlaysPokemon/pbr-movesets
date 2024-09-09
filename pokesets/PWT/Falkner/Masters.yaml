@@ -1,0 +1,60 @@
+---
+species: Swellow
+setname: PWT-Falkner Masters
+tags: [in-game, PWT-Falkner Masters, trainer+falkner]
+item: [null]
+ability: [Guts, Scrappy]
+moves:
+- [Air Slash, Aerial Ace]
+- [Focus Energy] #Dire Hit All
+- [Fly]
+- [Dragon Dance] #Soar!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Pidgeot
+setname: PWT-Falkner Masters
+tags: [in-game, PWT-Falkner Masters, trainer+falkner]
+item: [null]
+ability: [Keen Eye, Tangled Feet]
+moves:
+- [Air Cutter]
+- [Defog]
+- [Mud Slap]
+- [Nasty Plot, Agility] #Real Power!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Noctowl
+setname: PWT-Falkner Masters
+tags: [in-game, PWT-Falkner Masters, trainer+falkner]
+item: [null]
+ability: [Insomnia, Keen Eye, TInted Lens]
+moves:
+- [Air Cutter]
+- [Moonlight] #Potion
+- [Hypnosis]
+- [Defend Order] #We Can Still Fly!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
