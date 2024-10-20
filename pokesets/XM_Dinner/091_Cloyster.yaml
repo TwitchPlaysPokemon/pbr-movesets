@@ -1,0 +1,22 @@
+species: Cloyster
+ingamename: Rolled Oysters
+displayname: ROysters
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Stone Plate
+ability: Sticky Hold
+moves:
+  - [Rollout]
+  - [Smelling Salts]
+  - [Softboiled]
+  - [Defense Curl]
+happiness: 255
+gender: [m, f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: { hp: 252, atk: 4, def: 252, spA: 0, spD: 0, spe: 0 }
+nature: Careful
+hidden: false
