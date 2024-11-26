@@ -15,7 +15,7 @@ jobs:
           python -m pip install pyyaml git+https://github.com/TwitchPlaysPokemon/pokecat.git
       - name: compile pokesets
         run: python compile.py
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: pbrpokemondb.json
           path: pbrpokemondb.json
