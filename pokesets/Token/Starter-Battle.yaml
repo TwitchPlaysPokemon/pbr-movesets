@@ -103,3 +103,544 @@ moves:
 gender: [m, f]
 rarity: 1.0
 ball: [Ultra]
+---
+species: Squirtle
+displayname: "Squirtle-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 44, atk: 0, def: 106, spA: 252, spD: 106, spe: 0}
+moves:
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Toxic]
+    - [Protect]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+---
+species: Wartortle
+displayname: "Wartortle-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Rain Dish]
+nature: Brave
+ivs: 31
+evs: {hp: 44, atk: 252, def: 106, spA: 0, spD: 106, spe: 0}
+moves:
+    - [Aqua Tail]
+    - [Iron Tail]
+    - [Protect]
+    - [Rain Dance]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+---
+species: Blastoise
+displayname: "Blastoise-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Mild
+ivs: 31
+evs: {hp: 44, atk: 100, def: 106, spA: 152, spD: 106, spe: 0}
+moves:
+    - [Water Gun]
+    - [Bite]
+    - [Whirlpool]
+    - [Tail Whip]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+---
+species: Chikorita
+displayname: "Chikorita-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Overgrow]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 30}
+evs: {hp: 44, atk: 0, def: 106, spA: 252, spD: 106, spe: 0}
+moves:
+    - [Energy Ball]
+    - [Hidden Power]
+    - [Synthesis]
+    - [Light Screen]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+---
+species: Bayleef
+displayname: "Bayleef-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Leaf Guard]
+nature: Brave
+ivs: 31
+evs: {hp: 44, atk: 100, def: 106, spA: 152, spD: 106, spe: 0}
+moves:
+    - [Magical Leaf]
+    - [Razor Leaf]
+    - [Body Slam]
+    - [Sunny Day]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+---
+species: Meganium
+displayname: "Meganium-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Overgrow]
+nature: Naughty
+ivs: 31
+evs: {hp: 44, atk: 200, def: 106, spA: 52, spD: 106, spe: 0}
+moves:
+    - [Bullet Seed]
+    - [Tackle]
+    - [Safeguard]
+    - [Flash]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+---
+species: Cyndaquil
+displayname: "Cyndaquil-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Blaze]
+nature: Modest
+ivs: 31
+evs: {hp: 44, atk: 0, def: 106, spA: 252, spD: 16, spe: 90}
+moves:
+    - [Eruption]
+    - [Flamethrower]
+    - [Will-O-Wisp]
+    - [Substitute]
+gender: [m, f]
+rarity: 1.0
+ball: [Repeat]
+---
+species: Quilava
+displayname: "Quilava-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Flash Fire]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 106, spA: 0, spD: 90, spe: 16}
+moves:
+    - [Double-Edge]
+    - [Flame Wheel]
+    - [Rollout]
+    - [SmokeScreen]
+gender: [m, f]
+rarity: 1.0
+ball: [Repeat]
+---
+species: Typhlosion
+displayname: "Typhlosion-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Blaze]
+nature: Naive
+ivs: 31
+evs: {hp: 44, atk: 100, def: 106, spA: 152, spD: 70, spe: 36}
+moves:
+    - [Ember]
+    - [Rock Smash]
+    - [Tackle]
+    - [Leer]
+gender: [m, f]
+rarity: 1.0
+ball: [Repeat]
+---
+species: Totodile
+displayname: "Totodile-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 16, spA: 0, spD: 106, spe: 90}
+moves:
+    - [Aqua Tail]
+    - [Ice Punch]
+    - [Superpower]
+    - [Dragon Dance]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+---
+species: Croconaw
+displayname: "Croconaw-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Sassy
+ivs: 31
+evs: {hp: 44, atk: 100, def: 106, spA: 152, spD: 106, spe: 0}
+moves:
+    - [Surf]
+    - [Ice Fang]
+    - [Slash]
+    - [Screech]
+gender: [m, f]
+rarity: 1.0
+ball: [Great]
+---
+species: Feraligatr
+displayname: "Feraligatr-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Rash
+ivs: 31
+evs: {hp: 44, atk: 0, def: 106, spA: 252, spD: 106, spe: 0}
+moves:
+    - [Water Gun]
+    - [Whirlpool]
+    - [Icy Wind]
+    - [Spite]
+gender: [m, f]
+rarity: 1.0
+ball: [Great]
+---
+species: Treecko
+displayname: "Treecko-S"
+setname: Token
+tags: [starterbattle]
+item: [Oran Berry]
+ability: [Unburden]
+nature: Modest
+ivs: 31
+evs: {hp: 44, atk: 0, def: 106, spA: 252, spD: 16, spe: 90}
+moves:
+    - [Leaf Storm]
+    - [Energy Ball]
+    - [Leech Seed]
+    - [Synthesis]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+---
+species: Grovyle
+displayname: "Grovyle-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Overgrow]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 80, spA: 0, spD: 80, spe: 52}
+moves:
+    - [Leaf Blade]
+    - [Crunch]
+    - [Crush Claw]
+    - [Detect]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+---
+species: Sceptile
+displayname: "Sceptile-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Overgrow]
+nature: Naive
+ivs: 31
+evs: {hp: 44, atk: 152, def: 106, spA: 100, spD: 70, spe: 36}
+moves:
+    - [Absorb]
+    - [Quick Attack]
+    - [Fury Cutter]
+    - [Leer]
+gender: [m, f]
+rarity: 1.0
+ball: [Nest]
+---
+species: Torchic
+displayname: "Torchic-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Speed Boost]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 44, atk: 0, def: 146, spA: 252, spD: 66, spe: 0}
+moves:
+    - [Fire Blast]
+    - [Heat Wave]
+    - [Hidden Power]
+    - [Swagger]
+gender: [m, f]
+rarity: 1.0
+ball: [Poke]
+---
+species: Combusken
+displayname: "Combusken-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Blaze]
+nature: Serious
+ivs: 31
+evs: {hp: 44, atk: 152, def: 80, spA: 152, spD: 80, spe: 0}
+moves:
+    - [Flamethrower]
+    - [Sky Uppercut]
+    - [Thunder Punch]
+    - [Mirror Move]
+gender: [m, f]
+rarity: 1.0
+ball: [Poke]
+---
+species: Blaziken
+displayname: "Blaziken-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Blaze]
+nature: Jolly
+ivs: 31
+evs: {hp: 44, atk: 252, def: 80, spA: 0, spD: 80, spe: 52}
+moves:
+    - [Low Kick]
+    - [Peck]
+    - [Ember]
+    - [Sand Attack]
+gender: [m, f]
+rarity: 1.0
+ball: [Poke]
+---
+species: Mudkip
+displayname: "Mudkip-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 106, spA: 0, spD: 106, spe: 0}
+moves:
+    - [Aqua Tail]
+    - [Ice Ball]
+    - [Double Edge]
+    - [Endeavor]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+---
+species: Marshtomp
+displayname: "Marshtomp-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Damp]
+nature: Quiet
+ivs: 31
+evs: {hp: 44, atk: 100, def: 106, spA: 152, spD: 106, spe: 0}
+moves:
+    - [Earthquake]
+    - [Muddy Water]
+    - [Dynamic Punch]
+    - [Bide]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+---
+species: Swampert
+displayname: "Swampert-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 44, atk: 0, def: 106, spA: 252, spD: 106, spe: 0}
+moves:
+    - [Water Gun]
+    - [Whirlpool]
+    - [Mud Slap]
+    - [Growl]
+gender: [m, f]
+rarity: 1.0
+ball: [Net]
+---
+species: Turtwig
+displayname: "Turtwig-S"
+setname: Token
+tags: [starterbattle]
+item: [Muscle Band]
+ability: [Shell Armor]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 68, spA: 0, spD: 144, spe: 0}
+moves:
+    - [Seed Bomb]
+    - [Double-Edge]
+    - [Crunch]
+    - [Stockpile]
+gender: [m, f]
+rarity: 1.0
+ball: [Safari]
+---
+species: Grotle
+displayname: "Grotle-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Overgrow]
+nature: Calm
+ivs: 31
+evs: {hp: 44, atk: 100, def: 80, spA: 152, spD: 132, spe: 0}
+moves:
+    - [Leaf Storm]
+    - [Body Slam]
+    - [Superpower]
+    - [Leech Seed]
+gender: [m, f]
+rarity: 1.0
+ball: [Safari]
+---
+species: Torterra
+displayname: "Torterra-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Overgrow]
+nature: Modest
+ivs: 31
+evs: {hp: 44, atk: 0, def: 68, spA: 252, spD: 144, spe: 0}
+moves:
+    - [Mega Drain]
+    - [Grass Knot]
+    - [Worry Seed]
+    - [Withdraw]
+gender: [m, f]
+rarity: 1.0
+ball: [Safari]
+---
+species: Chimchar
+displayname: "Chimchar-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Iron Fist]
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 252, spD: 0, spe: 4}
+moves:
+    - [Fire Blast]
+    - [Thunder Punch]
+    - [Slack Off]
+    - [Taunt]
+gender: [m, f]
+rarity: 1.0
+ball: [Repeat]
+---
+species: Monferno
+displayname: "Monferno-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Blaze]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 106, spA: 0, spD: 106, spe: 0}
+moves:
+    - [Close Combat]
+    - [Fire Punch]
+    - [Mach Punch]
+    - [Bulk Up]
+gender: [m, f]
+rarity: 1.0
+ball: [Repeat]
+---
+species: Infernape
+displayname: "Infernape-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Blaze]
+nature: Timid
+ivs: 31
+evs: {hp: 44, atk: 0, def: 80, spA: 252, spD: 80, spe: 52}
+moves:
+    - [Ember]
+    - [Vacuum Wave]
+    - [Fire Spin]
+    - [Mud Slap]
+gender: [m, f]
+rarity: 1.0
+ball: [Repeat]
+---
+species: Piplup
+displayname: "Piplup-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Modest
+ivs: 31
+evs: {hp: 96, atk: 0, def: 80, spA: 252, spD: 80, spe: 0}
+moves:
+    - [Hydro Pump]
+    - [Blizzard]
+    - [Yawn]
+    - [Aqua ring]
+gender: [m, f]
+rarity: 1.0
+ball: [Dive]
+---
+species: Prinplup
+displayname: "Prinplup-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Adamant
+ivs: 31
+evs: {hp: 44, atk: 252, def: 116, spA: 0, spD: 96, spe: 0}
+moves:
+    - [Dive]
+    - [Drill Peck]
+    - [Facade]
+    - [Rock Smash]
+gender: [m, f]
+rarity: 1.0
+ball: [Quick]
+---
+species: Empoleon
+displayname: "Empoleon-S"
+setname: Token
+tags: [starterbattle]
+item: [Null]
+ability: [Torrent]
+nature: Impish
+ivs: 31
+evs: {hp: 44, atk: 152, def: 136, spA: 100, spD: 76, spe: 0}
+moves:
+    - [Metal Claw]
+    - [Aqua Jet]
+    - [Bubble]
+    - [Growl]
+gender: [m, f]
+rarity: 1.0
+ball: [Ultra]
+---
