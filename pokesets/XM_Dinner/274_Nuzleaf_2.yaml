@@ -4,8 +4,8 @@ displayname: Chestnut
 setname: Dinner
 tags: [Dinner]
 ball: [Cherish]
-item: Shed Skin
-ability: 
+item: Charcoal
+ability: Shed Skin
 moves:
     - [Crunch]
     - [Iron Defense]
