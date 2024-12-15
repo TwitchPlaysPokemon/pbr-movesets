@@ -1,0 +1,22 @@
+species: Bronzor
+ingamename: PickleSlice
+displayname: Pickle Slice
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Sitrus Berry
+ability: Static
+moves:
+    - [Brine]
+    - [Smelling Salts]
+    - [Acid]
+    - [Bite]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 128, atk: 192, def: 0, spA: 188, spD: 0, spe: 0}
+nature: Sassy
+hidden: false
