@@ -1,0 +1,22 @@
+species: JIgglypuff
+ingamename: Jawbreaker
+displayname: Jawbreaker
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Razor Fang
+ability: Shell Armor
+moves:
+    - [Lick]
+    - [Crunch]
+    - [Agility]
+    - [Protect]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 64, spA: 0, spD: 64, spe: 128}
+nature: Adamant
+hidden: false
