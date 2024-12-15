@@ -12,7 +12,7 @@ moves:
     - [Acid]
     - [Bite]
 happiness: 255
-gender: [m,f]
+gender: [None]
 biddable: True
 rarity: 1.0
 shiny: True
