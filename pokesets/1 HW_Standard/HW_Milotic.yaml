@@ -1,0 +1,45 @@
+species: Milotic
+ingamename: Lamia
+displayname: Lamia
+setname: Halloween Physical
+tags: [halloween]
+ball: [Dusk]
+item: Razor Fang
+ability: Insomnia
+moves:
+  - [Poison Fang]
+  - [Crunch]
+  - [Dragon Dance]
+  - [Conversion]
+happiness: 0
+gender: [f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: { hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31 }
+evs: { hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0 }
+nature: Adamant
+hidden: false
+---
+species: Milotic
+ingamename: Lamia
+displayname: Lamia
+setname: Halloween Special
+tags: [halloween]
+ball: [Dusk]
+item: Dread Plate
+ability: Insomnia
+moves:
+  - [Judgment]
+  - [Sludge Bomb]
+  - [Gastro Acid]
+  - [Conversion]
+happiness: 0
+gender: [f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: { hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31 }
+evs: { hp: 244, atk: 0, def: 96, spA: 169, spD: 0, spe: 0 }
+nature: Quiet
+hidden: false
