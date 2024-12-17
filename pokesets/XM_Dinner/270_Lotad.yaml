@@ -1,0 +1,22 @@
+species: Lotad
+ingamename: LettuceWrp
+displayname: Lettuce Wrap
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Tamato Berry
+ability: Hydration
+moves:
+    - [Wrap]
+    - [Stockpile]
+    - [Bite]
+    - [Swallow]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 64, spA: 0, spD: 64, spe: 128}
+nature: Jolly
+hidden: false

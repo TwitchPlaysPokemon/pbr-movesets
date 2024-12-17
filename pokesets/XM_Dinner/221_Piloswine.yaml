@@ -1,0 +1,22 @@
+species: Piloswine
+ingamename: Omurice
+displayname: Omurice
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Lucky Egg
+ability: Serene Grace
+moves:
+    - [Bounce]
+    - [Twister]
+    - [Ember]
+    - [Soft-Boiled]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 128, atk: 252, def: 0, spA: 128, spD: 0, spe: 0}
+nature: Brave
+hidden: false
