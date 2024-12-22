@@ -1,0 +1,22 @@
+species: Bronzong
+ingamename: RomaLetUs
+displayname: Romaine Lettuce
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Sitrus Berry
+ability: Leaf Guard
+moves:
+    - [Water Gun]
+    - [Smelling Salts]
+    - [Acid]
+    - [Razor Leaf]
+happiness: 255
+gender: [Null]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 128, atk: 192, def: 0, spA: 188, spD: 0, spe: 0}
+nature: Sassy
+hidden: false

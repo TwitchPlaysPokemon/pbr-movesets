@@ -1,0 +1,22 @@
+species: Gorebyss
+ingamename: EgDropSoup
+displayname: Egg Drop Soup
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Lucky Egg
+ability: Flame Body
+moves:
+    - [Brine]
+    - [Ember]
+    - [Egg Bomb]
+    - [Soft-Boiled]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 64, spA: 128, spD: 64, spe: 0}
+nature: Hasty
+hidden: false
