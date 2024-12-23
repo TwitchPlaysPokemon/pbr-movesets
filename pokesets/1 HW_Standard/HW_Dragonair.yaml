@@ -24,8 +24,8 @@ hidden: false
 species: Dragonair
 ingamename: Naydra
 displayname: Naydra
-setname: Halloween
-tags: [halloween-1]
+setname: Halloween-1
+tags: [halloween]
 item: Dragon Scale
 ability: Snow Cloak
 moves:
@@ -47,8 +47,8 @@ hidden: false
 species: Dragonair
 ingamename: Dinraal
 displayname: Dinraal
-setname: Halloween
-tags: [halloween-2]
+setname: Halloween-2
+tags: [halloween]
 item: Dragon Scale
 ability: Flame Body
 moves:
@@ -70,8 +70,8 @@ hidden: false
 species: Dragonair
 ingamename: LightDrgn
 displayname: Light Dragon
-setname: Halloween
-tags: [halloween-3]
+setname: Halloween-3
+tags: [halloween]
 item: TM20
 ability: Static
 moves:
