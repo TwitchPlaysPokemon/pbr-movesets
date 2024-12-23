@@ -1,0 +1,22 @@
+species: Deoxys
+ingamename: Waterblight
+displayname: Watrblight
+setname: Pokelypse-1
+tags: [pokelypse]
+item: [Muscle Band]
+ability: Drizzle
+moves:
+    - [Icicle Spear]
+    - [Ice Shard]
+    - [Waterfall]
+    - [Psycho Cut]
+form: Normal
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 100, atk: 252, def: 252, spA: 0, spD: 0, spe: 100}
+hidden: false
