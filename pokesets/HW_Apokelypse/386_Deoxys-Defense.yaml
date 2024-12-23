@@ -1,0 +1,22 @@
+species: Deoxys
+ingamename: Fireblight
+displayname: Fireblight
+setname: Pokelypse-3
+tags: [pokelypse]
+item: [Leftovers]
+ability: Flame Body
+moves:
+    - [Lava Plume]
+    - [Recover]
+    - [Protect]
+    - [Will-o-Wisp]
+form: Defense
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 252, atk: 0, def: 100, spA: 252, spD: 252, spe: 0}
+hidden: false
