@@ -1,0 +1,91 @@
+species: Dragonair
+ingamename: Farosh
+displayname: Farosh
+setname: Halloween
+tags: [halloween]
+item: Dragon Scale
+ability: Static
+moves:
+    - [Waterfall]
+    - [Thunderbolt]
+    - [Fly]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 50, atk: 0, def: 0, spA: 0, spD: 0, spe: 50}
+hidden: false
+---
+species: Dragonair
+ingamename: Naydra
+displayname: Naydra
+setname: Halloween-1
+tags: [halloween]
+item: Dragon Scale
+ability: Snow Cloak
+moves:
+    - [Dragon Pulse]
+    - [Ice Beam]
+    - [Fly]
+    - [Calm Mind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 50, spD: 50, spe: 0}
+hidden: false
+---
+species: Dragonair
+ingamename: Dinraal
+displayname: Dinraal
+setname: Halloween-2
+tags: [halloween]
+item: Dragon Scale
+ability: Flame Body
+moves:
+    - [Flare Blitz]
+    - [Dragon Rush]
+    - [Fly]
+    - [Bulk Up]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Lonely
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 50, def: 50, spA: 0, spD: 0, spe: 0}
+hidden: false
+---
+species: Dragonair
+ingamename: LightDrgn
+displayname: Light Dragon
+setname: Halloween-3
+tags: [halloween]
+item: TM20
+ability: Static
+moves:
+    - [Fly]
+    - [Amnesia]
+    - [Fake Tears]
+    - [Wish]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 100, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
