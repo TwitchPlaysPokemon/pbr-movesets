@@ -21,3 +21,27 @@ ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 36, def: 0, spA: 0, spD: 0, spe: 116}
 level: 5
 hidden: false
+------
+species: Trapinch
+ingamename: Durant
+displayname: Durant
+setname: Costume
+tags: [costume]
+item: [Iron Plate]
+ability: [Swarm]
+moves:
+    - [Iron Head]
+    - [X-Scissor]
+    - [Dig]
+    - [Iron Defense]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Nest]
+shiny: True
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 6, spA: 0, spD: 0, spe: 252}
+level: 5
+hidden: false
