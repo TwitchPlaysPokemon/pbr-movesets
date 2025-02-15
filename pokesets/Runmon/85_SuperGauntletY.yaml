@@ -3,7 +3,7 @@ ingamename: Tsuku
 displayname: Tsuku
 setname: TPP Super Gauntlet Y
 tags: [runmon, in-game]
-item: {Leftovers]
+item: [Leftovers]
 ability: [Levitate]
 moves:
     - [Overheat]

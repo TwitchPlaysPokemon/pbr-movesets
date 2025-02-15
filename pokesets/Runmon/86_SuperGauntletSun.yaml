@@ -57,6 +57,7 @@ moves:
 gender: [m]
 happiness: 115
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Quick]
 shiny: True
@@ -79,6 +80,7 @@ moves:
 gender: [f]
 happiness: 112
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Quick]
 shiny: True
@@ -91,7 +93,7 @@ ingamename: Crimson
 displayname: Crimson
 setname: TPP Super Gauntlet Sun
 tags: [runmon, in-game]
-item: [Pink Bow] #Fairium Z
+item: [Silk Scarf] #Fairium Z
 ability: [Technician]
 moves:
     - [Uproar] #Boomburst
@@ -113,7 +115,7 @@ ingamename: Mystery
 displayname: Mystery
 setname: TPP Super Gauntlet Sun
 tags: [runmon, in-game]
-item: [Dragon Claw] #Dragonium Z
+item: [Dragon Scale] #Dragonium Z
 ability: [Swift Swim]
 moves:
     - [Draco Meteor]
@@ -167,6 +169,7 @@ moves:
 gender: [f]
 happiness: 160
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Quick]
 shiny: True
@@ -186,6 +189,7 @@ moves:
 gender: [m]
 happiness: 219
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Master]
 shiny: True
@@ -208,6 +212,7 @@ moves:
 gender: [m]
 happiness: 212
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Quick]
 shiny: True

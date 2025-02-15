@@ -13,6 +13,7 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Dive]
 shiny: True
@@ -42,7 +43,7 @@ ivs: {hp: 30, atk: 31, def: 31, spA: 31, spD: 25, spe: 9}
 evs: 0
 ---
 species: Dialga
-ingamename: GoodByGTSsmk
+ingamename: GoodByeGTS
 displayname: GoodByGTSsmk
 setname: TPP Super Gauntlet Ultra Moon
 tags: [runmon, in-game]
@@ -84,7 +85,7 @@ ivs: {hp: 27, atk: 16, def: 16, spA: 1, spD: 26, spe: 2}
 evs: {hp: 118, atk: 19, def: 14, spA: 12, spD: 0, spe: 2}
 ---
 species: Totodile
-ingamename: "HEE-HO MIJO"
+ingamename: "HEE-HOMIJO"
 displayname: "HEE-HO MIJO"
 setname: TPP Super Gauntlet Ultra Moon
 tags: [runmon, in-game]

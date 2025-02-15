@@ -122,6 +122,7 @@ moves:
 gender: [m]
 happiness: 202
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: True
