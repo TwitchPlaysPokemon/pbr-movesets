@@ -12,10 +12,10 @@ moves:
     - [Psychic] #MOMENTS
 gender: [m]
 happiness: 77
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Ultra]
-shiny: False
+shiny: false
 nature: Sassy
 ivs: 20
 evs: 7
@@ -33,10 +33,10 @@ moves:
     - [High Jump Kick] #TRIP
     - [Aeroblast] #GO MY WAY!!
 happiness: 77
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Ultra]
-shiny: False
+shiny: false
 nature: Sassy
 ivs: 20
 evs: 7
@@ -55,10 +55,10 @@ moves:
     - [Hyper Beam] #MONORAIL
 gender: [m]
 happiness: 77
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Ultra]
-shiny: False
+shiny: false
 nature: Sassy
 ivs: 20
 evs: 7
@@ -77,10 +77,10 @@ moves:
     - [Fly] #SUPERMAN
 gender: [m]
 happiness: 77
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Ultra]
-shiny: False
+shiny: false
 nature: Sassy
 ivs: 20
 evs: 7
@@ -99,10 +99,10 @@ moves:
     - [Crunch] #VORE
 gender: [f]
 happiness: 77
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Ultra]
-shiny: False
+shiny: false
 nature: Sassy
 ivs: 20
 evs: 7

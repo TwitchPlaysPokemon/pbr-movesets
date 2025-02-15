@@ -11,10 +11,10 @@ moves:
     - [Hail]
     - [Minimize] #smol
 happiness: 12
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Master]
-shiny: False
+shiny: false
 nature: Modest
 ivs: {hp: 15, atk: 8, def: 18, spA: 25, spD: 20, spe: 19}
 evs: {hp: 126, atk: 44, def: 33, spA: 131, spD: 124, spe: 52}
@@ -32,10 +32,10 @@ moves:
     - [Tri Attack] #HOLY TRINITY
     - [Revenge]
 happiness: 72
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Poké]
-shiny: False
+shiny: false
 nature: Sassy
 ivs: 30
 evs: {hp: 78, atk: 174, def: 15, spA: 214, spD: 7, spe: 22}
@@ -54,10 +54,10 @@ moves:
     - [Body Slam]
 gender: [m]
 happiness: 70
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Ultra]
-shiny: False
+shiny: false
 nature: Sassy
 ivs: 30
 evs: {hp: 203, atk: 79, def: 49, spA: 77, spD: 53, spe: 49}
@@ -76,10 +76,10 @@ moves:
     - [Haze] #ICE COLD G
 gender: [m]
 happiness: 9
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Nest]
-shiny: False
+shiny: false
 nature: Naughty
 ivs: {hp: 15, atk: 5, def: 2, spA: 29, spD: 28, spe: 21}
 evs: {hp: 43, atk: 120, def: 111, spA: 129, spD: 28, spe: 79}
@@ -98,10 +98,10 @@ moves:
     - [Swords Dance]
 gender: [m]
 happiness: 0
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Luxury]
-shiny: False
+shiny: false
 nature: Bashful
 ivs: {hp: 13, atk: 25, def: 22, spA: 29, spD: 19, spe: 20}
 evs: {hp: 89, atk: 157, def: 44, spA: 41, spD: 162, spe: 17}
@@ -120,10 +120,10 @@ moves:
     - [Flamethrower] #RED LANTERN
 gender: [m]
 happiness: 0
-biddable: True
+biddable: false
 rarity: 1.0
 ball: [Poké]
-shiny: False
+shiny: false
 nature: Adamant
 ivs: {hp: 19, atk: 26, def: 16, spA: 24, spD: 17, spe: 10}
 evs: {hp: 68, atk: 158, def: 153, spA: 21, spD: 16, spe: 94}
