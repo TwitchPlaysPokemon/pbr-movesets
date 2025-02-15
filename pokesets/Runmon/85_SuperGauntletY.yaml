@@ -64,6 +64,8 @@ ivs: {hp: 31, atk: 23, def: 31, spA: 13, spD: 6, spe: 31}
 evs: 0
 ---
 species: Gardevoir
+ingamename: Gardevoir
+displayname: Gardevoir
 setname: TPP Super Gauntlet Y
 tags: [runmon, in-game]
 item: [Everstone] #Gardevoirite
