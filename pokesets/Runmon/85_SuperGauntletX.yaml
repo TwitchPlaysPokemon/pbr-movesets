@@ -1,12 +1,12 @@
 species: Granbull
-ingamename: "AA77N25?? =o"
+ingamename: "AA77N25?=o"
 displayname: "AA77N25?? =o"
 setname: TPP Super Gauntlet X
 tags: [runmon, in-game]
 item: [Black Belt, Quick Claw]
 ability: [Quick Feet]
 moves:
-    - [Dragon Rush] #Play Rough
+    - [Dragon Claw] #Play Rough
     - [Close Combat]
     - [Sleep Talk]
     - [Rest]
@@ -25,11 +25,11 @@ ingamename: Shania
 displayname: Shania
 setname: TPP Super Gauntlet X
 tags: [runmon, in-game]
-item: [Hard Stone] #Mawilite
-ability: [Intimidate]
+item: [Everstone] #Mawilite
+ability: [Intimidate, Huge Power]
 moves:
     - [Iron Head]
-    - [Dragon Rush] #Play Rough
+    - [Dragon Claw] #Play Rough
     - [Sucker Punch]
     - [Swords Dance]
 gender: [f]

@@ -25,12 +25,12 @@ ingamename: "C‰rrpfffh."
 displayname: "C‰rrpfffh."
 setname: TPP Super Gauntlet Colosseum
 tags: [runmon, in-game]
-item: [null]
+item: [Choice Band]
 ability: [Sand Veil]
 moves:
     - [Earthquake]
     - [Aerial Ace]
-    - [Sludge Bomb]
+    - [Poison Jab] #Sludge Bomb (it was physical in Colo)
     - [Slash]
 gender: [m]
 happiness: 255

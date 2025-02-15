@@ -96,7 +96,7 @@ tags: [runmon, in-game]
 item: [Silk Scarf] #Fairium Z
 ability: [Technician]
 moves:
-    - [Uproar] #Boomburst
+    - [Uproar, Hyper Voice] #Boomburst
     - [Dragon Pulse] #Core Enforcer
     - [Spore]
     - [Calm Mind] #Geomancy
@@ -115,7 +115,7 @@ ingamename: Mystery
 displayname: Mystery
 setname: TPP Super Gauntlet Sun
 tags: [runmon, in-game]
-item: [Dragon Scale] #Dragonium Z
+item: [Dragon Fang] #Dragonium Z
 ability: [Swift Swim]
 moves:
     - [Draco Meteor]
@@ -140,7 +140,7 @@ tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Natural Cure]
 moves:
-    - [Brine] #Scald
+    - [Surf] #Scald
     - [Power Gem]
     - [Calm Mind]
     - [Recover]

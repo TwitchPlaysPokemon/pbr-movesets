@@ -51,7 +51,7 @@ item: [Magnet]
 ability: [Volt Absorb]
 moves:
     - [Thunderbolt]
-    - [Bite]
+    - [Dark Pulse] #Bite - Dark was Special in XD
     - [Thunder Wave]
     - [Protect]
 gender: [f]
@@ -118,7 +118,7 @@ ability: [Inner Focus]
 moves:
     - [Wing Attack]
     - [Poison Fang]
-    - [Shadow Ball]
+    - [Shadow Ball, Shadow Claw] #Ghost was physical in XD, but both of Crobat's attack stats are high so I'm making thise one a coin flip
     - [Giga Drain]
 gender: [m]
 happiness: 255

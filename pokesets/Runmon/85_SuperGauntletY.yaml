@@ -65,7 +65,7 @@ evs: 0
 species: Gardevoir
 setname: TPP Super Gauntlet Y
 tags: [runmon, in-game]
-item: [Dawn Stone] #Gardevoirite
+item: [Everstone] #Gardevoirite
 ability: [Synchronize]
 moves:
     - [Calm Mind]

@@ -3,7 +3,7 @@ ingamename: Baldboy
 displayname: Baldboy
 setname: TPP Super Gauntlet White 2
 tags: [runmon, in-game]
-item: [Twisted Spoon]
+item: [Twisted Spoon, Leftovers]
 ability: [Levitate]
 moves:
     - [Psychic]
@@ -68,7 +68,7 @@ ingamename: OMORI
 displayname: OMORI
 setname: TPP Super Gauntlet White 2
 tags: [runmon, in-game]
-item: [null]
+item: [Leftovers]
 ability: [Synchronize] #Magic Bounce
 moves:
     - [Psychic]
@@ -90,7 +90,7 @@ ingamename: Hera
 displayname: Hera  
 setname: TPP Super Gauntlet White 2
 tags: [runmon, in-game]
-item: [Choice Scarf]
+item: [Choice Scarf, Flame Orb]
 ability: [Guts]
 moves:
     - [Megahorn]
