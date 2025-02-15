@@ -34,6 +34,7 @@ moves:
 gender: [m]
 happiness: 173
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Ultra]
 shiny: True
@@ -75,6 +76,7 @@ moves:
 gender: [f]
 happiness: 218
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: True
@@ -97,6 +99,7 @@ moves:
 gender: [f]
 happiness: 218
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Ultra]
 shiny: True
@@ -119,6 +122,7 @@ moves:
 gender: [m]
 happiness: 108
 biddable: True
+hidden: False
 rarity: 1.0
 ball: [Ultra]
 shiny: True
