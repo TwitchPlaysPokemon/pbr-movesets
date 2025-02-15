@@ -80,7 +80,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 tags: [lucius, anime]
 ---
 species: Entei 
-ingamename: GougingFire
+ingamename: GouginFire
 displayname: Gouging Fire
 setname: Lucius
 ability: [Solar Power] #Prosynthesis
