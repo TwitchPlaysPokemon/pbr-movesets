@@ -87,8 +87,8 @@ ivs: {hp: 20, atk: 20, def: 20, spA: 31, spD: 20, spe: 31}
 evs: {hp: 34, atk: 25, def: 14, spA: 17, spD: 13, spe: 17}
 ---
 species: Tyranitar
-ingamename: YES
-displayname: YES
+ingamename: "YES"
+displayname: "YES"
 setname: TPP Super Gauntlet Y
 tags: [runmon, in-game]
 item: [null]
@@ -110,8 +110,8 @@ ivs: {hp: 31, atk: 25, def: 31, spA: 9, spD: 29, spe: 30}
 evs: {hp: 65, atk: 78, def: 31, spA: 29, spD: 22, spe: 24}
 ---
 species: Venusaur
-ingamename: BAM
-displayname: BAM
+ingamename: "BAM"
+displayname: "BAM"
 setname: TPP Super Gauntlet Y
 tags: [runmon, in-game]
 item: [null]

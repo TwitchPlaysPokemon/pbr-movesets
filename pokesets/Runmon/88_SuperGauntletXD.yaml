@@ -109,8 +109,8 @@ ivs: {hp: 30, atk: 25, def: 30, spA: 30, spD: 26, spe: 19}
 evs: {hp: 93, atk: 90, def: 58, spA: 82, spD: 80, spe: 107}
 ---
 species: Crobat
-ingamename: Something
-displayname: Something
+ingamename: "Something"
+displayname: "Something"
 setname: TPP Super Gauntlet XD
 tags: [runmon, in-game]
 item: [Sharp Beak]
