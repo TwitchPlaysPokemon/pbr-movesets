@@ -1,0 +1,216 @@
+species: Ninetales
+ingamename: Shiron
+displayname: Shiron
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Icy Rock]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Dragon Pulse] #Dazzling Gleam
+    - [Calm Mind]
+    - [Light Screen, Reflect] #Aurora Veil
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick] #Fast
+shiny: False
+nature: Timid
+ivs: {hp: 31, atk: 5, def: 7, spA: 23, spD: 31, spe: 0}
+evs: {hp: 33, atk: 0, def: 0, spA: 252, spD: 0, spe: 225}
+---
+species: Flygon
+ingamename: Audacity
+displayname: Audacity
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Bright Powder]
+ability: [Levitate]
+moves:
+    - [Earthquake]
+    - [Crunch]
+    - [Dragon Dance]
+    - [Roost]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Naive
+ivs: {hp: 1, atk: 10, def: 23, spA: 23, spD: 27, spe: 24}
+evs: {hp: 53, atk: 146, def: 75, spA: 88, spD: 17, spe: 131}
+---
+species: Hippowdon
+ingamename: Mustard
+displayname: Mustard
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Sand Stream]
+moves:
+    - [Dig]
+    - [Toxic]
+    - [Attract]
+    - [Rest]
+gender: [m]
+happiness: 115
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 6, def: 14, spA: 31, spD: 31, spe: 10}
+evs: {hp: 250, atk: 8, def: 252, spA: 0, spD: 0, spe: 0}
+---
+species: Hippowdon
+ingamename: Ketchup
+displayname: Ketchup
+setname: TPP Super Gauntlet Sun-2
+tags: [runmon, in-game]
+item: [Destiny Knot]
+ability: [Sand Stream]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Ice Fang]
+    - [Yawn]
+gender: [f]
+happiness: 112
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Quirky
+ivs: {hp: 31, atk: 4, def: 18, spA: 31, spD: 15, spe: 31}
+evs: {hp: 0, atk: 252, def: 6, spA: 0, spD: 252, spe: 0}
+---
+species: Smeargle
+ingamename: Crimson
+displayname: Crimson
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Pink Bow] #Fairium Z
+ability: [Technician]
+moves:
+    - [Uproar] #Boomburst
+    - [Dragon Pulse] #Core Enforcer
+    - [Spore]
+    - [Calm Mind] #Geomancy
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Rash
+ivs: {hp: 30, atk: 23, def: 21, spA: 0, spD: 13, spe: 29}
+evs: {hp: 65, atk: 128, def: 64, spA: 43, spD: 20, spe: 190}
+---
+species: Kingdra
+ingamename: Mystery
+displayname: Mystery
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Dragon Claw] #Dragonium Z
+ability: [Swift Swim]
+moves:
+    - [Draco Meteor]
+    - [Surf]
+    - [Ice Beam]
+    - [Substitute]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Modest
+ivs: {hp: 18, atk: 27, def: 25, spA: 31, spD: 8, spe: 17}
+evs: {hp: 0, atk: 2, def: 0, spA: 252, spD: 4, spe: 252}
+---
+species: Corsola
+ingamename: Idoply
+displayname: Idoply
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Natural Cure]
+moves:
+    - [Brine] #Scald
+    - [Power Gem]
+    - [Calm Mind]
+    - [Recover]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: False
+nature: Brave
+ivs: {hp: 9, atk: 17, def: 13, spA: 17, spD: 7, spe: 5}
+evs: {hp: 252, atk: 9, def: 161, spA: 34, spD: 34, spe: 20}
+---
+species: Slowbro
+ingamename: Azura
+displayname: Azura
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Oblivious]
+moves:
+    - [Dream Eater]
+    - [Yawn]
+    - [Calm Mind]
+    - [Slack Off]
+gender: [f]
+happiness: 160
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Hardy
+ivs: {hp: 4, atk: 14, def: 4, spA: 31, spD: 31, spe: 7}
+evs: {hp: 252, atk: 0, def: 252, spA: 2, spD: 4, spe: 0}
+---
+species: Seaking
+ingamename: Gamer
+displayname: Gamer
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Water Veil]
+moves:
+    - [Horn Drill]
+gender: [m]
+happiness: 219
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: True
+nature: Timid
+ivs: {hp: 31, atk: 19, def: 31, spA: 31, spD: 12, spe: 31}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 219, spe: 0}
+---
+species: Pelipper
+ingamename: Shai
+displayname: Shai
+setname: TPP Super Gauntlet Sun
+tags: [runmon, in-game]
+item: [Damp Rock]
+ability: [Drizzle]
+moves:
+    - [Aeroblast] #Hurricane
+    - [Surf] #Scald
+    - [U-Turn]
+    - [Roost]
+gender: [m]
+happiness: 212
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Rash
+ivs: {hp: 1, atk: 13, def: 20, spA: 30, spD: 10, spe: 12}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 5, spe: 1}

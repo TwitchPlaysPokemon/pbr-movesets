@@ -1,0 +1,130 @@
+species: Claydol
+ingamename: Baldboy
+displayname: Baldboy
+setname: TPP Super Gauntlet White 2
+tags: [runmon, in-game]
+item: [Twisted Spoon]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Earth Power]
+    - [Calm Mind]
+    - [Trick Room]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Mild
+ivs: {hp: 1, atk: 7, def: 3, spA: 20, spD: 29, spe: 6}
+evs: {hp: 39, atk: 217, def: 66, spA: 62, spD: 25, spe: 101}
+---
+species: Roserade
+ingamename: "karl marx"
+displayname: "karl marx"
+setname: TPP Super Gauntlet White 2
+tags: [runmon, in-game]
+item: [null]
+ability: [Natural Cure]
+moves:
+    - [Mega Drain]
+    - [Leech Seed]
+    - [Magical Leaf]
+    - [Grass Whistle]
+gender: [m]
+happiness: 70
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Lax
+ivs: {hp: 3, atk: 11, def: 1, spA: 22, spD: 22, spe: 30}
+evs: 0
+---
+species: Clefairy
+ingamename: pipi
+displayname: pipi
+setname: TPP Super Gauntlet White 2
+tags: [runmon, in-game]
+item: [null]
+ability: [Magic Guard]
+moves:
+    - [Ice Beam]
+    - [Cosmic Power]
+    - [Moonlight]
+    - [Gravity]
+gender: [f]
+happiness: 78
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Rash
+ivs: {hp: 12, atk: 19, def: 21, spA: 15, spD: 18, spe: 20}
+evs: {hp: 0, atk: 6, def: 6, spA: 0, spD: 0, spe: 14}
+---
+species: Espeon
+ingamename: OMORI
+displayname: OMORI
+setname: TPP Super Gauntlet White 2
+tags: [runmon, in-game]
+item: [null]
+ability: [Synchronize] #Magic Bounce
+moves:
+    - [Psychic]
+    - [Shadow Ball]
+    - [Grass Knot]
+    - [Calm Mind]
+gender: [m]
+happiness: 93
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: {hp: 4, atk: 8, def: 3, spA: 31, spD: 11, spe: 2}
+evs: {hp: 0, atk: 0, def: 0, spA: 255, spD: 0, spe: 255}
+---
+species: Heracross
+ingamename: Hera  
+displayname: Hera  
+setname: TPP Super Gauntlet White 2
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Guts]
+moves:
+    - [Megahorn]
+    - [Brick Break]
+    - [Stone Edge]
+    - [Shadow Claw]
+gender: [f]
+happiness: 208
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Serious
+ivs: {hp: 13, atk: 22, def: 13, spA: 21, spD: 4, spe: 18}
+evs: {hp: 0, atk: 155, def: 0, spA: 0, spD: 100, spe: 255}
+---
+species: Garchomp
+ingamename: Vergil  
+displayname: Vergil  
+setname: TPP Super Gauntlet White 2
+tags: [runmon, in-game]
+item: [Lum Berry]
+ability: [Sand Veil]
+moves:
+    - [Earthquake]
+    - [Dragon Claw]
+    - [Rock Slide]
+    - [Swords Dance]
+gender: [m]
+happiness: 202
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Hasty
+ivs: {hp: 27, atk: 31, def: 7, spA: 18, spD: 8, spe: 26}
+evs: {hp: 10, atk: 155, def: 90, spA: 0, spD: 0, spe: 255}

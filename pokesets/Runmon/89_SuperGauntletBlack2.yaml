@@ -1,0 +1,104 @@
+species: Tyranitar
+ingamename: Pear
+displayname: Pear
+setname: TPP Super Gauntlet Black 2
+tags: [runmon, in-game]
+item: [Lum Berry]
+ability: [Sand Stream]
+moves:
+    - [Crunch]
+    - [Earthquake]
+    - [Ice Punch]
+    - [Dragon Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 11, atk: 7, def: 11, spA: 29, spD: 22, spe: 24}
+evs: {hp: 170, atk: 164, def: 92, spA: 0, spD: 40, spe: 24}
+---
+species: Starmie
+ingamename: Orion
+displayname: Orion
+setname: TPP Super Gauntlet Black 2
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Iluminate]
+moves:
+    - [Surf]
+    - [Psychic]
+    - [Minimize]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Hardy
+ivs: {hp: 8, atk: 7, def: 25, spA: 5, spD: 13, spe: 8}
+evs: {hp: 63, atk: 154, def: 58, spA: 57, spD: 79, spe: 99}
+---
+species: Yanmega
+ingamename: Griffinfly
+displayname: Griffinfly
+setname: TPP Super Gauntlet Black 2
+tags: [runmon, in-game]
+item: [Sky Plate] #Flying Gem
+ability: [Tinted Lens]
+moves:
+    - [Bug Buzz]
+    - [Air Slash]
+    - [Giga Drain]
+    - [Hidden Power]
+gender: [m]
+happiness: 96
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: False
+nature: Modest
+ivs: {hp: 8, atk: 20, def: 8, spA: 23, spD: 13, spe: 21}
+evs: {hp: 4, atk: 0, def: 0, spA: 230, spD: 0, spe: 255}
+---
+species: Stantler #Sawsbuck
+ingamename: Elias
+displayname: Elias
+setname: TPP Super Gauntlet Black 2
+tags: [runmon, in-game]
+item: [Big Root]
+ability: [Serene Grace]
+moves:
+    - [Return]
+    - [Drain Punch] #Horn Leech
+    - [Jump Kick]
+    - [Bounce]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: {hp: 4, atk: 10, def: 28, spA: 17, spD: 25, spe: 25}
+evs: {hp: 40, atk: 161, def: 57, spA: 55, spD: 57, spe: 140}
+---
+species: Ditto
+ingamename: BabaWaHere  
+displayname: BabaWaHere  
+setname: TPP Super Gauntlet Black 2
+tags: [runmon, in-game]
+item: [Quick Powder]
+ability: [Limber]
+moves:
+    - [Transform]
+happiness: 74
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Docile
+ivs: {hp: 7, atk: 31, def: 10, spA: 28, spD: 5, spe: 24}
+evs: 0

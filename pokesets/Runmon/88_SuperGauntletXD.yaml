@@ -1,0 +1,131 @@
+species: Dusclops
+ingamename: WingG
+displayname: WingG
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Leftovers, Focus Band]
+ability: [Pressure]
+moves:
+    - [Shadow Ball]
+    - [Icy Wind, Curse]
+    - [Will-O-Wisp]
+    - [Helping Hand]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 8, atk: 3, def: 17, spA: 0, spD: 9, spe: 1}
+evs: {hp: 81, atk: 76, def: 66, spA: 74, spD: 106, spe: 107}
+---
+species: Forretress
+ingamename: WURM
+displayname: WURM
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Quick Claw, Leftovers]
+ability: [Sturdy]
+moves:
+    - [Pin Missile]
+    - [Counter]
+    - [Light Screen]
+    - [Explosion]
+gender: [f]
+happiness: 253
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Impish
+ivs: {hp: 28, atk: 2, def: 4, spA: 0, spD: 4, spe: 7}
+evs: {hp: 67, atk: 116, def: 55, spA: 76, spD: 93, spe: 103}
+---
+species: Jolteon
+ingamename: MORDRED
+displayname: MORDRED
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Magnet]
+ability: [Volt Absorb]
+moves:
+    - [Thunderbolt]
+    - [Bite]
+    - [Thunder Wave]
+    - [Protect]
+gender: [f]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: {hp: 21, atk: 6, def: 29, spA: 7, spD: 11, spe: 23}
+evs: {hp: 92, atk: 92, def: 67, spA: 88, spD: 75, spe: 96}
+---
+species: Roselia
+ingamename: BB
+displayname: BB
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Miracle Seed]
+ability: [Natural Cure]
+moves:
+    - [Giga Drain]
+    - [Toxic]
+    - [Leech Seed]
+    - [Synthesis]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Bashful
+ivs: {hp: 26, atk: 15, def: 29, spA: 17, spD: 19, spe: 25}
+evs: {hp: 90, atk: 77, def: 71, spA: 86, spD: 73, spe: 113}
+---
+species: Piloswine
+ingamename: Piggieoo55  
+displayname: Piggieoo55  
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [NeverMeltIce]
+ability: [Oblivious]
+moves:
+    - [Earthquake]
+    - [Ice Beam]
+    - [Ancient Power]
+    - [Charm]
+gender: [f]
+happiness: 252
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Modest
+ivs: {hp: 30, atk: 25, def: 30, spA: 30, spD: 26, spe: 19}
+evs: {hp: 93, atk: 90, def: 58, spA: 82, spD: 80, spe: 107}
+---
+species: Crobat
+ingamename: Something
+displayname: Something
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Sharp Beak]
+ability: [Inner Focus]
+moves:
+    - [Wing Attack]
+    - [Poison Fang]
+    - [Shadow Ball]
+    - [Giga Drain]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bold
+ivs: {hp: 27, atk: 8, def: 25, spA: 15, spD: 2, spe: 2}
+evs: {hp: 59, atk: 103, def: 66, spA: 82, spD: 88, spe: 112}
