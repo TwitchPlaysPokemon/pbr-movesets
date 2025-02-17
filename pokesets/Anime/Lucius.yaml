@@ -57,3 +57,44 @@ nature: Modest
 ivs: 31
 evs: {hp: 24, atk: 0, def: 176, spA: 252, spD: 56, spe: 0}
 tags: [lucius, anime]
+---
+species: Scizor 
+ingamename: Kleavor
+displayname: Kleavor
+setname: Lucius
+ability: [Rock Head]
+item: [Protector]
+ball: [Luxury]
+moves:
+- [Stone Edge]
+- [X-Scissor]
+- [Stealth Rock]
+- [Sharpen]
+happiness: 100
+gender: [m]
+biddable: true
+rarity: 1.0
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 10, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
+tags: [lucius, anime]
+---
+species: Entei 
+ingamename: GouginFire
+displayname: Gouging Fire
+setname: Lucius
+ability: [Solar Power] #Prosynthesis
+item: [Heat Rock]
+ball: [Luxury]
+moves:
+- [Fire Fang]
+- [Dragon Pulse]
+- [Protect] #Burning Bulwark
+- [Sunny Day]
+happiness: 100
+biddable: true
+rarity: 1.0
+nature: Lax
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 15, spD: 0, spe: 0}
+tags: [lucius, anime]

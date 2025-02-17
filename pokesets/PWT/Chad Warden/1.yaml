@@ -1,0 +1,129 @@
+species: Regice
+ingamename: NOZOMI
+displayname: NOZOMI
+setname: Chad Warden
+tags: [in-game, PWT-ChadWarden, trainer+chadwarden]
+item: [NeverMeltIce]
+ability: [Clear Body] #HALATION
+moves:
+    - [Blizzard] #TODOKETE
+    - [Sing]
+    - [Hail]
+    - [Minimize] #smol
+happiness: 12
+biddable: false
+rarity: 1.0
+ball: [Master]
+shiny: false
+nature: Modest
+ivs: {hp: 15, atk: 8, def: 18, spA: 25, spD: 20, spe: 19}
+evs: {hp: 126, atk: 44, def: 33, spA: 131, spD: 124, spe: 52}
+---
+species: Regirock
+ingamename: "GRAND DAD"
+displayname: "GRAND DAD"
+setname: Chad Warden
+tags: [in-game, PWT-ChadWarden, trainer+chadwarden]
+item: [Sitrus Berry]
+ability: [Sand Stream] #FLINTSTREAM!?
+moves:
+    - [Ancient Power] #FLEENSTONES
+    - [Bone Club]
+    - [Tri Attack] #HOLY TRINITY
+    - [Revenge]
+happiness: 72
+biddable: false
+rarity: 1.0
+ball: [Poké]
+shiny: false
+nature: Sassy
+ivs: 30
+evs: {hp: 78, atk: 174, def: 15, spA: 214, spD: 7, spe: 22}
+---
+species: Sneasel
+ingamename: "LOUD NIGRA"
+displayname: "LOUD NIGRA"
+setname: Chad Warden
+tags: [in-game, PWT-ChadWarden, trainer+chadwarden]
+item: [Leftovers]
+ability: [Soundproof]
+moves:
+    - [Hyper Voice] #AAAAAAAAAAAA
+    - [Roar]
+    - [Mud Shot]
+    - [Body Slam]
+gender: [m]
+happiness: 70
+biddable: false
+rarity: 1.0
+ball: [Ultra]
+shiny: false
+nature: Sassy
+ivs: 30
+evs: {hp: 203, atk: 79, def: 49, spA: 77, spD: 53, spe: 49}
+---
+species: Vileplume
+ingamename: snop
+displayname: snop
+setname: Chad Warden
+tags: [in-game, PWT-ChadWarden, trainer+chadwarden]
+item: [Miracle Seed] #WEED
+ability: [Blaze]
+moves:
+    - [Blast Burn] #BLAZE IT
+    - [Smokescreen] #SMOKE
+    - [Razor Leaf] #WEED LEAVES
+    - [Haze] #ICE COLD G
+gender: [m]
+happiness: 9
+biddable: false
+rarity: 1.0
+ball: [Nest]
+shiny: false
+nature: Naughty
+ivs: {hp: 15, atk: 5, def: 2, spA: 29, spD: 28, spe: 21}
+evs: {hp: 43, atk: 120, def: 111, spA: 129, spD: 28, spe: 79}
+---
+species: Ursaring
+ingamename: CHIP
+displayname: CHIP
+setname: Chad Warden
+tags: [in-game, PWT-ChadWarden, trainer+chadwarden]
+item: [Black Belt]
+ability: [Rough Skin] #RIPPER
+moves:
+    - [Metal Claw] #RIPPER
+    - [Pay Day] #CHEAP
+    - [Spikes]
+    - [Swords Dance]
+gender: [m]
+happiness: 0
+biddable: false
+rarity: 1.0
+ball: [Luxury]
+shiny: false
+nature: Bashful
+ivs: {hp: 13, atk: 25, def: 22, spA: 29, spD: 19, spe: 20}
+evs: {hp: 89, atk: 157, def: 44, spA: 41, spD: 162, spe: 17}
+---
+species: Blaziken
+ingamename: "ANGRY JOE"
+displayname: "ANGRY JOE"
+setname: Chad Warden
+tags: [in-game, PWT-ChadWarden, trainer+chadwarden]
+item: [King's Rock]
+ability: [Drought] #4 HOURS
+moves:
+    - [Uproar]
+    - [Fire Punch] #FIERY JOE
+    - [Karate Chop]
+    - [Flamethrower] #RED LANTERN
+gender: [m]
+happiness: 0
+biddable: false
+rarity: 1.0
+ball: [Poké]
+shiny: false
+nature: Adamant
+ivs: {hp: 19, atk: 26, def: 16, spA: 24, spD: 17, spe: 10}
+evs: {hp: 68, atk: 158, def: 153, spA: 21, spD: 16, spe: 94}
