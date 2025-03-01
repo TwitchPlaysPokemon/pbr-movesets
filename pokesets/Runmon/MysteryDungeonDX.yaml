@@ -63,3 +63,25 @@ shiny: False
 nature: Serious
 ivs: 31
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
+---
+species: Gardevoir
+ingamename: GameCube
+displayname: GameCube
+setname: TPP Mystery Dungeon DX
+tags: [runmon, in-game]
+item: [null]
+ability: [Synchronize]
+moves:
+    - [Dragon Pulse] #Moonblast
+    - [Wish]
+    - [Calm Mind]
+    - [Signal Beam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
