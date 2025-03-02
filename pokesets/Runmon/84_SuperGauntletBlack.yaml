@@ -1,0 +1,64 @@
+species: Omastar
+ingamename: "Dome?"
+displayname: "Dome?"
+setname: TPP Super Gauntlet Black
+tags: [runmon, in-game]
+item: [Shell Bell]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Ancient Power]
+    - [Ice Beam]
+    - [Calm Mind] #Shell Smash
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Rash
+ivs: {hp: 4, atk: 28, def: 26, spA: 13, spD: 15, spe: 19}
+evs: {hp: 34, atk: 173, def: 44, spA: 85, spD: 12, spe: 65}
+---
+species: Venomoth
+ingamename: motf
+displayname: motf
+setname: TPP Super Gauntlet Black
+tags: [runmon, in-game]
+item: [Black Sludge]
+ability: [Tinted Lens]
+moves:
+    - [Bug Buzz]
+    - [Psychic]
+    - [Sleep Powder]
+    - [Calm Mind] #Quiver Dance
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Lax
+ivs: {hp: 31, atk: 6, def: 11, spA: 10, spD: 21, spe: 9}
+evs: {hp: 34, atk: 103, def: 46, spA: 77, spD: 15, spe: 34}
+---
+species: Celebi
+ingamename: "CELEBI"
+displayname: "CELEBI"
+setname: TPP Super Gauntlet Black
+tags: [runmon, in-game]
+item: [Jaboca Berry]
+ability: [Natural Cure]
+moves:
+    - [Leaf Storm]
+    - [Recover]
+    - [Nasty Plot]
+    - [Healing Wish]
+happiness: 74
+biddable: True
+rarity: 1.0
+ball: [Premier] #Cherish
+shiny: False
+nature: Bashful
+ivs: {hp: 10, atk: 30, def: 15, spA: 11, spD: 20, spe: 11}
+evs: 0
