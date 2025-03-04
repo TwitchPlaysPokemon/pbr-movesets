@@ -1,0 +1,63 @@
+species: Armaldo
+ingamename: "AnnieRUOK"
+displayname: "AnnieRUOK"
+setname: TPP Super Gauntlet White
+tags: [runmon, in-game]
+item: [null]
+ability: [Battle Armor]
+moves:
+    - [Mud Sport]
+    - [Fury Cutter]
+    - [Metal Claw]
+    - [Protect]
+gender: [m]
+happiness: 148
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: {hp: 18, atk: 11, def: 28, spA: 12, spD: 26, spe: 15}
+evs: {hp: 29, atk: 11, def: 8, spA: 14, spD: 2, spe: 0}
+---
+species: Kabutops
+ingamename: "Helix?"
+displayname: "Helix?"
+setname: TPP Super Gauntlet Black
+tags: [runmon, in-game]
+item: [null]
+ability: [Battle Armor]
+moves:
+    - [Mega Drain]
+    - [Dive]
+    - [Slash]
+    - [Surf]
+gender: [m]
+happiness: 208
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 7, atk: 13, def: 22, spA: 23, spD: 8, spe: 15}
+evs: {hp: 15, atk: 9, def: 10, spA: 4, spD: 0, spe: 4}
+---
+species: Giratina
+setname: TPP Super Gauntlet White
+tags: [runmon, in-game]
+item: [Dragon Fang]
+ability: [Pressure]
+moves:
+    - [Dragon Pulse]
+    - [Shadow Ball]
+    - [Aura Sphere]
+    - [Calm Mind]
+happiness: 47
+biddable: True
+rarity: 1.0
+ball: [Premier] #Cherish
+shiny: True
+hidden: False
+nature: Lonely
+ivs: {hp: 24, atk: 23, def: 9, spA: 17, spD: 19, spe: 3}
+evs: {hp: 6, atk: 22, def: 9, spA: 5, spD: 8, spe: 4}
