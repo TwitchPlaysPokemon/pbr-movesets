@@ -1,0 +1,152 @@
+species: Spinda
+ingamename: QQOO
+displayname: QQOO
+setname: TPP Super Gauntlet Sapphire
+tags: [runmon, in-game]
+item: [Quick Claw]
+ability: [Own Tempo]
+moves:
+    - [Return]
+    - [Psychic]
+    - [Shadow Ball]
+    - [Hypnosis]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 27, def: 31, spA: 1, spD: 25, spe: 19}
+evs: {hp: 108, atk: 113, def: 37, spA: 89, spD: 19, spe: 144}
+---
+species: Pelipper
+ingamename: "  e   sa"
+displayname: "  e   sa"
+setname: TPP Super Gauntlet Sapphire
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [Keen Eye]
+moves:
+    - [Surf]
+    - [Fly]
+    - [Toxic]
+    - [Rain Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Hasty
+ivs: {hp: 4, atk: 3, def: 23, spA: 9, spD: 13, spe: 15}
+evs: {hp: 110, atk: 101, def: 84, spA: 65, spD: 31, spe: 119}
+---
+species: Chimecho
+ingamename: ALLlkkjjj8
+displayname: ALLlkkjjj8
+setname: TPP Super Gauntlet Sapphire
+tags: [runmon, in-game]
+item: [Lax Incense]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Hidden Power]
+    - [Yawn]
+    - [Calm Mind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Naughty
+ivs: {hp: 7, atk: 0, def: 28, spA: 11, spD: 27, spe: 23}
+evs: {hp: 64, atk: 77, def: 56, spA: 37, spD: 37, spe: 122}
+---
+species: Huntail
+ingamename: hhn!!!
+displayname: hhn!!!
+setname: TPP Super Gauntlet Sapphire
+tags: [runmon, in-game]
+item: [Sea Incense]
+ability: [Swift Swim]
+moves:
+    - [Waterfall]
+    - [Crunch]
+    - [Snatch]
+    - [Baton Pass]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Calm
+ivs: {hp: 17, atk: 15, def: 1, spA: 1, spD: 18, spe: 14}
+evs: {hp: 65, atk: 79, def: 47, spA: 45, spD: 19, spe: 255}
+---
+species: Slaking
+ingamename: "BHHJVX    "
+displayname: "BHHJVX    "
+setname: TPP Super Gauntlet Sapphire
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [Truant]
+moves:
+    - [Hyper Beam]
+    - [Brick Break]
+    - [Feint Attack]
+    - [Slack Off]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Brave
+ivs: {hp: 27, atk: 16, def: 11, spA: 3, spD: 26, spe: 11}
+evs: {hp: 120, atk: 128, def: 41, spA: 59, spD: 27, spe: 135}
+---
+species: Registeel
+ingamename: Fe
+displayname: Fe
+setname: TPP Super Gauntlet Sapphire
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Clear Body]
+moves:
+    - [Metal Claw]
+    - [Earthquake]
+    - [Curse]
+    - [Rest]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Sassy
+ivs: {hp: 12, atk: 10, def: 7, spA: 23, spD: 3, spe: 16}
+evs: {hp: 117, atk: 129, def: 42, spA: 53, spD: 57, spe: 112}
+---
+species: Sceptile
+ingamename: UUK
+displayname: UUK
+setname: TPP Super Gauntlet Sapphire
+tags: [runmon, in-game]
+item: [Miracle Seed]
+ability: [Overgrow]
+moves:
+    - [Leaf Blade]
+    - [Giga Drain]
+    - [Dig]
+    - [Slam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Calm
+ivs: {hp: 15, atk: 25, def: 1, spA: 11, spD: 24, spe: 7}
+evs: {hp: 69, atk: 54, def: 21, spA: 35, spD: 27, spe: 69}

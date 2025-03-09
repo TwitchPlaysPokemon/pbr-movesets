@@ -19,8 +19,7 @@ shiny: False
 nature: Hardy
 ivs: {hp: 18, atk: 2, def: 14, spA: 26, spD: 12, spe: 21}
 evs: {hp: 48, atk: 83, def: 59, spA: 124, spD: 31, spe: 92}
- 
- 
+---
 species: Bastiodon
 ingamename: AEGIS
 displayname: AEGIS
@@ -42,8 +41,7 @@ shiny: False
 nature: Hardy
 ivs: {hp: 7, atk: 3, def: 29, spA: 6, spD: 22, spe: 4}
 evs: {hp: 96, atk: 81, def: 98, spA: 49, spD: 84, spe: 102}
- 
- 
+--- 
 species: Noctowl
 ingamename: HHEHEE
 displayname: HHEHEE
@@ -65,8 +63,7 @@ shiny: False
 nature: Docile
 ivs: {hp: 22, atk: 28, def: 17, spA: 30, spD: 10, spe: 25}
 evs: {hp: 40, atk: 100, def: 75, spA: 120, spD: 61, spe: 114}
- 
- 
+--- 
 species: Pachirisu
 ingamename: NpICHAA
 displayname: NpICHAA
@@ -88,8 +85,7 @@ shiny: False
 nature: Naughty
 ivs: {hp: 26, atk: 8, def: 31, spA: 13, spD: 11, spe: 13}
 evs: {hp: 87, atk: 63, def: 84, spA: 101, spD: 45, spe: 130}
- 
- 
+--- 
 species: Empoleon
 ingamename: UH)
 displayname: UH)
@@ -111,8 +107,7 @@ shiny: False
 nature: Docile
 ivs: {hp: 31, atk: 11, def: 15, spA: 27, spD: 15, spe: 12}
 evs: {hp: 51, atk: 101, def: 136, spA: 94, spD: 26, spe: 102}
- 
- 
+--- 
 species: Uxie
 ingamename: KNIFE
 displayname: KNIFE
@@ -134,8 +129,7 @@ shiny: False
 nature: Timid
 ivs: {hp: 30, atk: 15, def: 13, spA: 3, spD: 0, spe: 16}
 evs: {hp: 102, atk: 6, def: 100, spA: 102, spD: 100, spe: 100}
- 
- 
+--- 
 species: Arceus
 ingamename: SOLARIS
 displayname: SOLARIS
