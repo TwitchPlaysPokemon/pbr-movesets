@@ -1,0 +1,22 @@
+species: Doduo
+ingamename: ChknFt
+displayname: Chicken Feet
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Focus Sash
+ability: Dry Skin
+moves:
+    - [Mega Kick]
+    - [Stomp]
+    - [Blaze Kick]
+    - [Double Kick]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 64, spA: 0, spD: 64, spe: 128}
+nature: Jolly
+hidden: false

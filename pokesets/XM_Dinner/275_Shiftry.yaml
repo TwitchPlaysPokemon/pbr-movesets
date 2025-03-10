@@ -1,0 +1,22 @@
+species: Shiftry
+ingamename: Kale
+displayname: Kale
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Leaf Stone
+ability: Rough Skin
+moves:
+    - [Wring Out]
+    - [Razor Leaf]
+    - [Brine]
+    - [Sand Attack]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 64, spA: 128, spD: 64, spe: 0}
+nature: Hardy
+hidden: false

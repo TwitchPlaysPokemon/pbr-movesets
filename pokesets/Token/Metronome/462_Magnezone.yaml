@@ -2,9 +2,23 @@ species: Magnezone
 setname: m-Standard
 displayname: Magnezone-M
 ball: Poke
-item:
-- Black Sludge
-- Sticky Barb
+item: 
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
 nature: Brave
 ivs:
   atk: 31
@@ -35,9 +49,6 @@ species: Magnezone
 setname: m-Shiny
 displayname: Magnezone-M
 ball: Poke
-item:
-- Black Sludge
-- Sticky Barb
 nature: Brave
 ivs:
   atk: 31
@@ -54,6 +65,7 @@ evs:
   spD: 0
   spe: 0
 moves:
+- - Metronome (=255)
 - - Torment
 happiness: 128
 biddable: false
@@ -70,9 +82,23 @@ species: Magnezone
 setname: m-High Stats
 displayname: Magnezone-M
 ball: Poke
-item:
-- Black Sludge
-- Sticky Barb
+item: 
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
 nature: Brave
 ivs:
   atk: 31
@@ -104,9 +130,23 @@ species: Magnezone
 setname: m-Balanced
 displayname: Magnezone-M
 ball: Poke
-item:
-- Black Sludge
-- Sticky Barb
+item: 
+- Bluk Berry
+- Nanab Berry
+- Wepear Berry
+- Pinap Berry
+- Pomeg Berry
+- Kelpsy Berry
+- Qualot Berry
+- Hondew Berry
+- Grepa Berry
+- Tamato Berry
+- Cornn Berry
+- Magost Berry
+- Rabuta Berry
+- Nomel Berry
+- Spelon Berry
+- Pamtre Berry
 nature: Brave
 ivs:
   atk: 15

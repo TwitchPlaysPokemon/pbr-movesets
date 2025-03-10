@@ -296,3 +296,23 @@ nature: Serious
 ivs: 31
 evs: {hp: 0, atk: 40, def: 0, spA: 120, spD: 0, spe: 0}
 hidden: false
+---
+species: Milotic
+ingamename: Pride
+displayname: Pride
+setname: c-Metronome
+tags: [christmasmetronome]
+item: Stone Plate
+ability: Color Change
+moves:
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Heal]
+shiny: True
+nature: Naughty
+ivs: {hp: 0, atk: 31, def: 31, spA: 0, spD: 0, spe: 31}
+evs: {hp: 0, atk: 40, def: 0, spA: 0, spD: 0, spe: 0}
+hidden: false
