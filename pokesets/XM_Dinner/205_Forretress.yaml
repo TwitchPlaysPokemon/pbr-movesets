@@ -1,0 +1,22 @@
+species: Forretress
+ingamename: Ice-Cream
+displayname: Ice-Cream
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: NeverMeltIce
+ability: Thick Fat
+moves:
+    - [Ice Beam]
+    - [Lick]
+    - [Stockpile]
+    - [Swallow]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 136, atk: 0, def: 0, spA: 76, spD: 64, spe: 0}
+nature: Mild
+hidden: false
