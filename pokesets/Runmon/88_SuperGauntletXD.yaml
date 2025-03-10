@@ -135,7 +135,7 @@ ingamename: ARYYYYYYYY
 displayname: ARYYYYYYYY  
 setname: TPP Super Gauntlet XD
 tags: [runmon, in-game]
-item: [Quick Claw]
+item: [Quick Claw, Soul Dew]
 ability: [Levitate]
 moves:
     - [Psychic]
@@ -157,7 +157,7 @@ ingamename: vvvjj
 displayname: vvvjj  
 setname: TPP Super Gauntlet XD
 tags: [runmon, in-game]
-item: [BrightPowder]
+item: [BrightPowder, Soul Dew]
 ability: [Levitate]
 moves:
     - [Psychic]

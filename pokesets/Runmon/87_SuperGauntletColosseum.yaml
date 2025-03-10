@@ -148,3 +148,22 @@ shiny: False
 nature: Quirky
 ivs: {hp: 16, atk: 18, def: 21, spA: 29, spD: 7, spe: 29}
 evs: {hp: 26, atk: 37, def: 14, spA: 52, spD: 24, spe: 29}
+---
+species: Ho-oh
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Cheri Berry]
+ability: [Pressure]
+moves:
+    - [Sacred Fire]
+    - [Solar Beam]
+    - [Hidden Power]
+    - [Light Screen]
+happiness: 70
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Quiet
+ivs: {hp: 19, atk: 29, def: 11, spA: 4, spD: 14, spe: 27}
+evs: {hp: 0, atk: 0, def: 0, spA: 255, spD: 0, spe: 251}
