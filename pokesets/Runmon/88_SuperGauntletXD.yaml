@@ -116,8 +116,8 @@ tags: [runmon, in-game]
 item: [Sharp Beak]
 ability: [Inner Focus]
 moves:
-    - [Wing Attack]
-    - [Poison Fang]
+    - [Wing Attack, Aerial Ace]
+    - [Poison Fang, Sludge Bomb] #Poison was special in XD, but see below
     - [Shadow Ball, Shadow Claw] #Ghost was physical in XD, but both of Crobat's attack stats are high so I'm making thise one a coin flip
     - [Giga Drain]
 gender: [m]
@@ -129,3 +129,112 @@ shiny: False
 nature: Bold
 ivs: {hp: 27, atk: 8, def: 25, spA: 15, spD: 2, spe: 2}
 evs: {hp: 59, atk: 103, def: 66, spA: 82, spD: 88, spe: 112}
+---
+species: Latios
+ingamename: ARYYYYYYYY  
+displayname: ARYYYYYYYY  
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Quick Claw, Soul Dew]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Dragon Claw]
+    - [Thunderbolt]
+    - [Protect]
+gender: [m]
+happiness: 76
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Bashful
+ivs: {hp: 11, atk: 5, def: 17, spA: 13, spD: 12, spe: 3}
+evs: {hp: 4, atk: 5, def: 0, spA: 250, spD: 1, spe: 250}
+---
+species: Latias
+ingamename: vvvjj  
+displayname: vvvjj  
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [BrightPowder, Soul Dew]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Recover]
+gender: [f]
+happiness: 71
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Rash
+ivs: {hp: 14, atk: 12, def: 1, spA: 15, spD: 28, spe: 24}
+evs: {hp: 97, atk: 1, def: 0, spA: 255, spD: 0, spe: 157}
+---
+species: Snorlax
+ingamename: BIDE  
+displayname: BIDE  
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Lum Berry]
+ability: [Thick Fat]
+moves:
+    - [Body Slam]
+    - [Shadow Claw] #Shadow Ball, Ghost was physical etc etc
+    - [Self-Destruct]
+    - [Curse]
+gender: [m]
+happiness: 80
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: False
+nature: Relaxed
+ivs: {hp: 31, atk: 21, def: 29, spA: 2, spD: 11, spe: 9}
+evs: {hp: 236, atk: 28, def: 246, spA: 0, spD: 0, spe: 0}
+---
+species: Metagross
+ingamename: "Fh  Ddcy/o"  
+displayname: "Fh  Ddcy/o"  
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Clear Body]
+moves:
+    - [Meteor Mash]
+    - [Poison Jab] #Sludge Bomb, Poison was physical etc etc
+    - [Shadow Claw] #Shadow Ball
+    - [Brick Break]
+happiness: 76
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Sassy
+ivs: {hp: 25, atk: 26, def: 26, spA: 24, spD: 2, spe: 24}
+evs: {hp: 4, atk: 252, def: 2, spA: 0, spD: 0, spe: 252}
+---
+species: Hitmonlee
+ingamename: Mettaton  
+displayname: Mettaton  
+setname: TPP Super Gauntlet XD
+tags: [runmon, in-game]
+item: [Black Belt]
+ability: [Limber]
+moves:
+    - [High Jump Kick]
+    - [Refresh]
+    - [Mind Reader]
+    - [Mega Kick]
+gender: [m]
+happiness: 140
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Quiet
+ivs: {hp: 4, atk: 25, def: 14, spA: 20, spD: 3, spe: 24}
+evs: 0

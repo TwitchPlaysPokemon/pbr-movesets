@@ -1,0 +1,154 @@
+species: Gengar
+ingamename: MIMAR
+displayname: MIMAR
+setname: TPP Super Gauntlet Diamond
+tags: [runmon, in-game]
+item: [Life Orb]
+ability: [Levitate]
+moves:
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Giga Drain]
+    - [Destiny Bond]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Calm
+ivs: {hp: 31, atk: 28, def: 21, spA: 13, spD: 3, spe: 16}
+evs: {hp: 26, atk: 72, def: 99, spA: 111, spD: 70, spe: 132}
+--- 
+species: Gastrodon
+ingamename: ABLOOO
+displayname: ABLOOO
+setname: TPP Super Gauntlet Diamond
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Sticky Hold]
+moves:
+    - [Earthquake]
+    - [Surf]
+    - [Toxic]
+    - [Recover]
+gender: [f]
+form: east
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Brave
+ivs: {hp: 19, atk: 7, def: 23, spA: 23, spD: 20, spe: 23}
+evs: {hp: 73, atk: 113, def: 125, spA: 47, spD: 28, spe: 124}
+---
+species: Girafarig
+ingamename: ANNA
+displayname: ANNA
+setname: TPP Super Gauntlet Diamond
+tags: [runmon, in-game]
+item: [Light Clay]
+ability: [Inner Focus]
+moves:
+    - [Psychic]
+    - [Light Screen]
+    - [Substitute]
+    - [Baton Pass]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Sassy
+ivs: {hp: 3, atk: 2, def: 14, spA: 6, spD: 21, spe: 6}
+evs: {hp: 21, atk: 75, def: 82, spA: 199, spD: 24, spe: 109}
+--- 
+species: Raichu
+ingamename: GOROCHU
+displayname: GOROCHU
+setname: TPP Super Gauntlet Diamond
+tags: [runmon, in-game]
+item: [Meadow Plate]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Focus Blast]
+    - [Grass Knot]
+    - [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Naive
+ivs: {hp: 18, atk: 23, def: 27, spA: 25, spD: 19, spe: 11}
+evs: {hp: 58, atk: 94, def: 54, spA: 169, spD: 49, spe: 86}
+--- 
+species: Infernape
+ingamename: p2WE♀L
+displayname: p2WE♀L
+setname: TPP Super Gauntlet Diamond
+tags: [runmon, in-game]
+item: [Shell Bell]
+ability: [Blaze]
+moves:
+    - [Focus Blast]
+    - [Flamethrower]
+    - [Calm Mind]
+    - [Substitute]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Quirky
+ivs: {hp: 20, atk: 18, def: 27, spA: 29, spD: 26, spe: 21}
+evs: {hp: 65, atk: 74, def: 123, spA: 84, spD: 47, spe: 117}
+--- 
+species: Honchkrow
+ingamename: W CCMNOE(
+displayname: W CCMNOE(
+setname: TPP Super Gauntlet Diamond
+tags: [runmon, in-game]
+item: [Black Glasses]
+ability: [Super Luck]
+moves:
+    - [Fly]
+    - [Night Slash]
+    - [Sucker Punch]
+    - [Roost]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Adamant
+ivs: {hp: 16, atk: 15, def: 7, spA: 23, spD: 4, spe: 27}
+evs: {hp: 112, atk: 160, def: 58, spA: 33, spD: 118, spe: 29}
+--- 
+species: Arceus
+ingamename: "AG XO⑽; "  #this doesn't feel correct but i can't check
+displayname: "AG XO⑽; " 
+setname: TPP Super Gauntlet Diamond
+tags: [runmon, in-game]
+item: [Insect Plate]
+ability: [Multitype]
+moves:
+    - [X-Scissor]
+    - [Ice Beam]
+    - [Earth Power]
+    - [Recover]
+gender: [null]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: False
+nature: Bashful
+ivs: {hp: 22, atk: 28, def: 22, spA: 24, spD: 30, spe: 5}
+evs: {hp: 102, atk: 100, def: 8, spA: 105, spD: 3, spe: 72}

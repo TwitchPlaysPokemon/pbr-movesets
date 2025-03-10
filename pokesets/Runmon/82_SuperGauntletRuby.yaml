@@ -1,0 +1,173 @@
+species: Blaziken
+ingamename: WKKIII
+displayname: WKKIII
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Black Belt]
+ability: [Blaze]
+moves:
+    - [Flamethrower]
+    - [Brick Break]
+    - [Earthquake]
+    - [Bulk Up]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Impish
+ivs: {hp: 7, atk: 21, def: 20, spA: 2, spD: 12, spe: 6}
+evs: {hp: 101, atk: 96, def: 57, spA: 87, spD: 28, spe: 141}
+---
+species: Zangoose
+ingamename: GGGUUvo
+displayname: GGGUUvo
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [Immunity]
+moves:
+    - [Return]
+    - [Shadow Claw] #Shadow Ball, changed because Ghost was physical in Gen 3
+    - [Dig]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Quiet
+ivs: {hp: 17, atk: 23, def: 31, spA: 30, spD: 19, spe: 9}
+evs: {hp: 76, atk: 101, def: 30, spA: 56, spD: 48, spe: 199}
+---
+species: Minun
+ingamename: bnnuy
+displayname: bnnuy
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Magnet, Leftovers]
+ability: [Minus]
+moves:
+    - [Thunderbolt]
+    - [Charm]
+    - [Thunder Wave]
+    - [Encore]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 13, def: 4, spA: 9, spD: 4, spe: 26}
+evs: {hp: 105, atk: 64, def: 25, spA: 61, spD: 32, spe: 106}
+---
+species: Shiftry
+ingamename: IRPWWC
+displayname: IRPWWC
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Chlorophyll]
+moves:
+    - [Giga Drain]
+    - [Feint Attack]
+    - [Nature Power]
+    - [Double Team]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Lonely
+ivs: {hp: 3, atk: 1, def: 14, spA: 28, spD: 4, spe: 10}
+evs: {hp: 84, atk: 76, def: 73, spA: 84, spD: 65, spe: 83}
+---
+species: Gorebyss
+ingamename: "nnut⑬’’98D"
+displayname: "nnut⑬’’98D"
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Psychic]
+    - [Rain Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Lax
+ivs: {hp: 7, atk: 7, def: 4, spA: 23, spD: 2, spe: 13}
+evs: {hp: 59, atk: 77, def: 37, spA: 54, spD: 35, spe: 85}
+---
+species: Grumpig
+ingamename: reyn
+displayname: reyn
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Amulet Coin, Lax Incense]
+ability: [Thick Fat]
+moves:
+    - [Psychic]
+    - [Shock Wave]
+    - [Calm Mind]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Bashful
+ivs: {hp: 17, atk: 9, def: 4, spA: 6, spD: 17, spe: 13}
+evs: {hp: 91, atk: 61, def: 70, spA: 83, spD: 35, spe: 69}
+---
+species: Shedinja
+ingamename: Ha lef
+displayname: Ha lef
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [null]
+ability: [Wonder Guard]
+moves:
+    - [Leech Life]
+    - [Toxic]
+    - [Sand Attack]
+    - [Double Team]
+happiness: 152
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Lax
+ivs: {hp: 24, atk: 7, def: 25, spA: 10, spD: 18, spe: 25}
+evs: {hp: 15, atk: 0, def: 0, spA: 17, spD: 2, spe: 9}
+---
+species: Groudon
+ingamename: CC,
+displayname: CC,
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Drought]
+moves:
+    - [Earthquake]
+    - [Return]
+    - [Iron Tail]
+    - [Rock Slide] #Ancient Power - Rock was physical in gen 3 
+happiness: 70
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 19, def: 7, spA: 31, spD: 25, spe: 7}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 251}

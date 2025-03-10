@@ -57,7 +57,7 @@ moves:
 happiness: 74
 biddable: True
 rarity: 1.0
-ball: [Premier] #Cherish
+ball: [Cherish]
 shiny: False
 nature: Bashful
 ivs: {hp: 10, atk: 30, def: 15, spA: 11, spD: 20, spe: 11}

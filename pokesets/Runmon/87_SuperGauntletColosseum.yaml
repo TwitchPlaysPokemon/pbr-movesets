@@ -87,17 +87,17 @@ ivs: {hp: 10, atk: 0, def: 28, spA: 29, spD: 31, spe: 21}
 evs: {hp: 78, atk: 104, def: 72, spA: 102, spD: 60, spe: 94}
 ---
 species: Suicune
-ingamename: LMCXXX  
-displayname: LMCXXX  
+ingamename: "LMCXXX  "
+displayname: "LMCXXX  "
 setname: TPP Super Gauntlet Colosseum
 tags: [runmon, in-game]
-item: [Mystic Water]
+item: [Mystic Water, Leftovers]
 ability: [Pressure]
 moves:
-    - [Surf]
+    - [Surf, Hydro Pump]
     - [Ice Beam]
     - [Reflect]
-    - [Rain Dance]
+    - [Rain Dance, Calm Mind]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -128,3 +128,42 @@ shiny: False
 nature: Jolly
 ivs: {hp: 8, atk: 3, def: 3, spA: 31, spD: 21, spe: 21}
 evs: {hp: 87, atk: 164, def: 68, spA: 75, spD: 50, spe: 66}
+---
+species: Plusle
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [null]
+ability: [Plus]
+moves:
+    - [Thunder]
+    - [Agility]
+    - [Helping Hand]
+    - [Baton Pass]
+gender: [f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quirky
+ivs: {hp: 16, atk: 18, def: 21, spA: 29, spD: 7, spe: 29}
+evs: {hp: 26, atk: 37, def: 14, spA: 52, spD: 24, spe: 29}
+---
+species: Ho-oh
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Cheri Berry]
+ability: [Pressure]
+moves:
+    - [Sacred Fire]
+    - [Solar Beam]
+    - [Hidden Power]
+    - [Light Screen]
+happiness: 70
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Quiet
+ivs: {hp: 19, atk: 29, def: 11, spA: 4, spD: 14, spe: 27}
+evs: {hp: 0, atk: 0, def: 0, spA: 255, spD: 0, spe: 251}
