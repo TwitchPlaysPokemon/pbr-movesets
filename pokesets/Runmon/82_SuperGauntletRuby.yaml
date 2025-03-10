@@ -29,7 +29,7 @@ item: [Silk Scarf]
 ability: [Immunity]
 moves:
     - [Return]
-    - [Shadow Ball]
+    - [Shadow Claw] #Shadow Ball, changed because Ghost was physical in Gen 3
     - [Dig]
     - [Swords Dance]
 gender: [f]
@@ -47,7 +47,7 @@ ingamename: bnnuy
 displayname: bnnuy
 setname: TPP Super Gauntlet Ruby
 tags: [runmon, in-game]
-item: [Magnet]
+item: [Magnet, Leftovers]
 ability: [Minus]
 moves:
     - [Thunderbolt]
@@ -113,7 +113,7 @@ ingamename: reyn
 displayname: reyn
 setname: TPP Super Gauntlet Ruby
 tags: [runmon, in-game]
-item: [Amulet Coin]
+item: [Amulet Coin, Lax Incense]
 ability: [Thick Fat]
 moves:
     - [Psychic]
@@ -151,3 +151,42 @@ nature: Lax
 ivs: {hp: 24, atk: 7, def: 25, spA: 10, spD: 18, spe: 25}
 evs: {hp: 15, atk: 0, def: 0, spA: 17, spD: 2, spe: 9}
 ---
+species: Ho-oh
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Cheri Berry]
+ability: [Pressure]
+moves:
+    - [Fire Blast] #Sacred Fire - Fire was special in  Gen 3 and physical in Gen 4
+    - [Solar Beam]
+    - [Hidden Power]
+    - [Light Screen]
+happiness: 70
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Quiet
+ivs: {hp: 19, atk: 29, def: 11, spA: 4, spD: 14, spe: 27}
+evs: {hp: 0, atk: 0, def: 0, spA: 255, spD: 0, spe: 251}
+---
+species: Groudon
+ingamename: CC,
+displayname: CC,
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Drought]
+moves:
+    - [Earthquake]
+    - [Return]
+    - [Iron Tail]
+    - [Rock Slide] #Ancient Power - Rock was physical in gen 3 
+happiness: 70
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 19, def: 7, spA: 31, spD: 25, spe: 7}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 251}

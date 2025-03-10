@@ -30,7 +30,7 @@ ability: [Keen Eye]
 moves:
     - [Surf]
     - [Fly]
-    - [Toxic]
+    - [Toxic, Shock Wave]
     - [Rain Dance]
 gender: [f]
 happiness: 255
@@ -94,7 +94,7 @@ tags: [runmon, in-game]
 item: [Silk Scarf]
 ability: [Truant]
 moves:
-    - [Hyper Beam]
+    - [Giga Impact] #Hyper Beam (Normal was Physical in Gen 3)
     - [Brick Break]
     - [Feint Attack]
     - [Slack Off]

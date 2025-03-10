@@ -1,4 +1,4 @@
-species: Misdreavus
+species: Mismagius
 ingamename: Queen
 displayname: Queen
 setname: TPP Super Gauntlet Pearl
@@ -25,7 +25,7 @@ ingamename: AEGIS
 displayname: AEGIS
 setname: TPP Super Gauntlet Pearl
 tags: [runmon, in-game]
-item: [leftovers]
+item: [Leftovers]
 ability: [Sturdy]
 moves:
     - [Dig]

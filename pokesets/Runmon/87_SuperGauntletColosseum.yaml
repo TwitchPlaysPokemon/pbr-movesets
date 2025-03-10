@@ -128,3 +128,44 @@ shiny: False
 nature: Jolly
 ivs: {hp: 8, atk: 3, def: 3, spA: 31, spD: 21, spe: 21}
 evs: {hp: 87, atk: 164, def: 68, spA: 75, spD: 50, spe: 66}
+---
+species: Suicune
+ingamename: "LMCXXX  "
+displayname: "LMCXXX  "
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Reflect]
+    - [Calm Mind]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Hardy
+ivs: {hp: 30, atk: 2, def: 20, spA: 14, spD: 1, spe: 4}
+evs: {hp: 85, atk: 108, def: 72, spA: 86, spD: 69, spe: 90}
+---
+species: Plusle
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [null]
+ability: [Plus]
+moves:
+    - [Thunder]
+    - [Agility]
+    - [Helping Hand]
+    - [Baton Pass]
+gender: [f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quirky
+ivs: {hp: 16, atk: 18, def: 21, spA: 29, spD: 7, spe: 29}
+evs: {hp: 26, atk: 37, def: 14, spA: 52, spD: 24, spe: 29}
