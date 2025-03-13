@@ -1,0 +1,174 @@
+species: Blaziken
+ingamename: くけけVt
+displayname: くけけVt
+setname: TPP JP Sapphire
+tags: [runmon, in-game]
+item: [Charcoal]
+ability: [Blaze]
+moves:
+    - [Blaze Kick]
+    - [Sky Uppercut]
+    - [Overheat]
+    - [Return]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 1, atk: 0, def: 2, spA: 12, spD: 26, spe: 10}
+evs: {hp: 106, atk: 123, def: 58, spA: 81, spD: 30, spe: 112}
+---
+species: Swalot
+ingamename: エスはハフ
+displayname: エスはハフ
+setname: TPP JP Sapphire
+tags: [runmon, in-game]
+item: [Quick Claw]
+ability: [Sticky Hold]
+moves:
+    - [Sludge Bomb]
+    - [Ice Beam]
+    - [Toxic]
+    - [Encore]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hardy
+ivs: {hp: 9, atk: 3, def: 29, spA: 25, spD: 20, spe: 12}
+evs: {hp: 74, atk: 68, def: 39, spA: 93, spD: 62, spe: 129}
+---
+species: Lunatone
+ingamename: オソミマオ
+displayname: オソミマオ
+setname: TPP JP Sapphire
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Levitate]
+moves:
+    - [Psychic]
+    - [Ice Beam]
+    - [Hypnosis]
+    - [Calm Mind]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Sassy
+ivs: {hp: 22, atk: 30, def: 23, spA: 19, spD: 9, spe: 13}
+evs: {hp: 47, atk: 64, def: 27, spA: 22, spD: 27, spe: 79}
+---
+species: Donphan
+ingamename: くいやふに
+displayname: くいやふに
+setname: TPP JP Sapphire
+tags: [runmon, in-game]
+item: [Soft Sand]
+ability: [Sturdy]
+moves:
+    - [Earthquake]
+    - [Rollout]
+    - [Secret Power]
+    - [Defense Curl]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Adamant
+ivs: {hp: 29, atk: 28, def: 2, spA: 10, spD: 27, spe: 17}
+evs: {hp: 32, atk: 54, def: 36, spA: 56, spD: 28, spe: 57}
+---
+species: Dusclops
+ingamename: サンズ
+displayname: サンズ
+setname: TPP JP Sapphire
+tags: [runmon, in-game]
+item: [Lax Incense]
+ability: [Pressure]
+moves:
+    - [Shadow Claw] #Shadow Ball
+    - [Will-O-Wisp]
+    - [Double Team]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: False
+nature: Relaxed
+ivs: {hp: 18, atk: 28, def: 30, spA: 11, spD: 3, spe: 31}
+evs: {hp: 18, atk: 51, def: 29, spA: 21, spD: 38, spe: 57}
+---
+species: Lanturn
+ingamename: イシスハマ
+displayname: イシスハマ
+setname: TPP JP Sapphire
+tags: [runmon, in-game]
+item: [Magnet]
+ability: [Illuminate]
+moves:
+    - [Thunderbolt]
+    - [Surf]
+    - [Blizzard]
+    - [Confuse Ray]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Mild
+ivs: {hp: 19, atk: 30, def: 19, spA: 20, spD: 22, spe: 20}
+evs: {hp: 54, atk: 51, def: 40, spA: 5, spD: 17, spe: 90}
+---
+species: Beautifly
+ingamename: カシさうい
+displayname: カシさうい
+setname: TPP JP Sapphire
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [Swarm]
+moves:
+    - [Silver Wind]
+    - [Aerial Ace]
+    - [Stun Spore]
+    - [Morning Sun]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 14, def: 31, spA: 30, spD: 25, spe: 19}
+evs: {hp: 62, atk: 82, def: 51, spA: 66, spD: 31, spe: 90}
+---
+species: Golbat
+ingamename: MAIL
+displayname: MAIL
+setname: TPP JP Sapphire
+tags: [runmon, in-game]
+item: [null]
+ability: [Inner Focus]
+moves:
+    - [Wing Attack]
+    - [Poison Fang]
+    - [Bite]
+    - [Thief]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: False
+nature: Lonely
+ivs: {hp: 9, atk: 0, def: 26, spA: 18, spD: 11, spe: 16}
+evs: {hp: 7, atk: 0, def: 0, spA: 6, spD: 0, spe: 0}
