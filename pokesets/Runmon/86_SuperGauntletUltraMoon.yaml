@@ -1,0 +1,173 @@
+species: Sandslash
+ingamename: Coldsteel
+displayname: Coldsteel
+setname: TPP Super Gauntlet Ultra Moon
+tags: [runmon, in-game]
+item: [Lax Incense]
+ability: [Snow Cloak]
+moves:
+    - [Iron Head]
+    - [Avalanche] #Icicle Crash
+    - [Earthquake]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Quirky
+ivs: {hp: 1, atk: 31, def: 31, spA: 31, spD: 22, spe: 31}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Uxie
+ingamename: Mandoline
+displayname: Mandoline
+setname: TPP Super Gauntlet Ultra Moon
+tags: [runmon, in-game]
+item: [null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Yawn]
+    - [Amnesia]
+    - [Swift]
+happiness: 140
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Calm
+ivs: {hp: 30, atk: 31, def: 31, spA: 31, spD: 25, spe: 9}
+evs: 0
+---
+species: Dialga
+ingamename: GoodByeGTS
+displayname: GoodByGTSsmk
+setname: TPP Super Gauntlet Ultra Moon
+tags: [runmon, in-game]
+item: [null]
+ability: [Pressure]
+moves:
+    - [Stealth Rock]
+    - [Draco Meteor]
+    - [Flash Cannon]
+    - [Thunder]
+happiness: 0
+biddable: True
+hidden: False
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 244, atk: 0, def: 0, spA: 252, spD: 0, spe: 12}
+---
+species: Metagross
+ingamename: LENOVO
+displayname: LENOVO
+setname: TPP Super Gauntlet Ultra Moon
+tags: [runmon, in-game]
+item: [null]
+ability: [Clear Body]
+moves:
+    - [Take Down]
+    - [Confusion]
+    - [Meteor Mash]
+    - [Zen Headbutt]
+happiness: 159
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Rash
+ivs: {hp: 27, atk: 16, def: 16, spA: 1, spD: 26, spe: 2}
+evs: {hp: 118, atk: 19, def: 14, spA: 12, spD: 0, spe: 2}
+---
+species: Totodile
+ingamename: "HEE-HOMIJO"
+displayname: "HEE-HO MIJO"
+setname: TPP Super Gauntlet Ultra Moon
+tags: [runmon, in-game]
+item: [null]
+ability: [Torrent]
+moves:
+    - [Scratch]
+    - [Leer]
+    - [Metal Claw]
+gender: [m]
+happiness: 70
+biddable: True
+hidden: false
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Docile
+ivs: {hp: 10, atk: 18, def: 2, spA: 30, spD: 7, spe: 29}
+evs: 0
+---
+species: Shelgon
+ingamename: Bacon
+displayname: Bacon
+setname: TPP Super Gauntlet Ultra Moon
+tags: [runmon, in-game]
+item: [null]
+ability: [Rock Head]
+moves:
+    - [Protect]
+    - [Bite]
+    - [Dragon Breath]
+    - [Headbutt]
+gender: [f]
+happiness: 135
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Docile
+ivs: {hp: 7, atk: 29, def: 29, spA: 21, spD: 17, spe: 13}
+evs: {hp: 14, atk: 50, def: 53, spA: 16, spD: 23, spe: 20}
+---
+species: Crobat
+ingamename: AMD
+displayname: AMD
+setname: TPP Super Gauntlet Ultra Moon
+tags: [runmon, in-game]
+item: [null]
+ability: [Inner Focus]
+moves:
+    - [Mean Look]
+    - [Leech Life]
+    - [Air Slash]
+    - [Cross Poison]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Timid
+ivs: {hp: 24, atk: 2, def: 9, spA: 23, spD: 13, spe: 15}
+evs: {hp: 132, atk: 13, def: 0, spA: 10, spD: 0, spe: 4}
+---
+species: Mesprit
+ingamename: Fork
+displayname: Fork
+setname: TPP Super Gauntlet Ultra Moon
+tags: [runmon, in-game]
+item: [null]
+ability: [Levitate]
+moves:
+    - [Extrasensory]
+    - [Charm]
+    - [Future Sight]
+    - [Swift]
+happiness: 140
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Hasty
+ivs: {hp: 18, atk: 31, def: 31, spA: 31, spD: 6, spe: 1}
+evs: 0

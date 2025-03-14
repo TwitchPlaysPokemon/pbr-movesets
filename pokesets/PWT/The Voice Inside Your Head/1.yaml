@@ -1,0 +1,108 @@
+species: Tauros
+ingamename: PETER
+displayname: PETER
+setname: The Voice
+tags: [in-game, PWT-Voice, trainer+voice]
+item: [Choice Band]
+ability: [Intimidate] #FUNNY MOMENTS
+moves:
+    - [Explosion] #FAMILY
+    - [Self-Destruct] #GUY
+    - [Eruption] #FUNNY
+    - [Psychic] #MOMENTS
+gender: [m]
+happiness: 77
+biddable: false
+rarity: 1.0
+ball: [Ultra]
+shiny: false
+nature: Sassy
+ivs: 20
+evs: 7
+---
+species: Lugia
+ingamename: HARUKA
+displayname: HARUKA
+setname: The Voice
+tags: [in-game, PWT-Voice, trainer+voice]
+item: [Lum Berry]
+ability: [Marvel Scale]
+moves:
+    - [Sing]
+    - [Supersonic] #MIC FEEDBACK
+    - [High Jump Kick] #TRIP
+    - [Aeroblast] #GO MY WAY!!
+happiness: 77
+biddable: false
+rarity: 1.0
+ball: [Ultra]
+shiny: false
+nature: Sassy
+ivs: 20
+evs: 7
+---
+species: Snorlax
+ingamename: HOMER
+displayname: HOMER
+setname: The Voice
+tags: [in-game, PWT-Voice, trainer+voice]
+item: [Leftovers]
+ability: [Thick Fat]
+moves:
+    - [Recover] #DUFF BEER
+    - [Earthquake] #MR PLOW
+    - [Dragon Dance] #DONUT DANCE
+    - [Hyper Beam] #MONORAIL
+gender: [m]
+happiness: 77
+biddable: false
+rarity: 1.0
+ball: [Ultra]
+shiny: false
+nature: Sassy
+ivs: 20
+evs: 7
+---
+species: Steelix
+ingamename: solja
+displayname: solja
+setname: The Voice
+tags: [in-game, PWT-Voice, trainer+voice]
+item: [Bright Powder]
+ability: [Rock Head]
+moves:
+    - [Meteor Mash] #GOTTA PUNCH
+    - [Teeter Dance] #CRANK DAT
+    - [Belly Drum] #STEEL DRUM
+    - [Fly] #SUPERMAN
+gender: [m]
+happiness: 77
+biddable: false
+rarity: 1.0
+ball: [Ultra]
+shiny: false
+nature: Sassy
+ivs: 20
+evs: 7
+---
+species: Dragonite
+ingamename: RESHIRAM
+displayname: RESHIRAM
+setname: The Voice
+tags: [in-game, PWT-Voice, trainer+voice]
+item: [Sitrus Berry]
+ability: [Flash Fire]
+moves:
+    - [Sacred Fire]
+    - [Outrage]
+    - [Milk Drink] #(REDACTED)
+    - [Crunch] #VORE
+gender: [f]
+happiness: 77
+biddable: false
+rarity: 1.0
+ball: [Ultra]
+shiny: false
+nature: Sassy
+ivs: 20
+evs: 7

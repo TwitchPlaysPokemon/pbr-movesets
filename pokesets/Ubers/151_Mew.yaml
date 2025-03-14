@@ -63,7 +63,7 @@ separations:
     - [Zap Cannon, Thunder Punch]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.2
 ball: [Premier]
 nature: Serious
 ivs: {hp: 29, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
@@ -81,7 +81,7 @@ moves:
     - [Trick]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.2
 ball: [Premier]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
@@ -104,3 +104,21 @@ ball: [Premier]
 nature: Bold
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 240, atk: 0, def: 72, spA: 0, spD: 140, spe: 56}
+---
+species: Mew
+setname: u-Specs
+tags: [ubers]
+item: [Choice Specs]
+ability: [Synchronize]
+moves:
+    - [Hyper Beam]
+    - [Frenzy Plant]
+    - [Blast Burn]
+    - [Hydro Cannon]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Premier]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}

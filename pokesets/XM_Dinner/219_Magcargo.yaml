@@ -1,0 +1,22 @@
+species: Magcargo
+ingamename: Abalone
+displayname: Abalone
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Hard Stone
+ability: Shell Armor
+moves:
+    - [Stone Edge]
+    - [Surf]
+    - [Dive]
+    - [Rest]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 128, def: 64, spA: 252, spD: 64, spe: 0}
+nature: Timid
+hidden: false

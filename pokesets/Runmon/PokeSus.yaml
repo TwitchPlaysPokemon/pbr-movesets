@@ -1,0 +1,131 @@
+species: Meganium
+ingamename: Sussynium
+displayname: Sussynium
+setname: TPP PokéSus
+tags: [runmon, in-game]
+item: [Miracle Seed]
+ability: [null]
+moves:
+    - [Razor Leaf]
+    - [Body Slam]
+    - [Reflect]
+    - [Synthesis]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 16, def: 24, spA: 24, spD: 24, spe: 22}
+evs: {hp: 142, atk: 158, def: 154, spA: 138, spD: 138, spe: 150}
+---
+species: Togetic
+ingamename: Omelette
+displayname: Omelette
+setname: TPP PokéSus
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Fly]
+    - [Fire Blast]
+    - [Psychic]
+    - [Toxic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 22, atk: 14, def: 1, spA: 10, spD: 10, spe: 26}
+evs: {hp: 150, atk: 158, def: 138, spA: 126, spD: 126, spe: 142}
+---
+species: Sudowoodo
+ingamename: Jestah
+displayname: Jestah
+setname: TPP PokéSus
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [null]
+moves:
+    - [Rock Slide]
+    - [Earthquake]
+    - [Low Kick]
+    - [Curse]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 10, def: 4, spA: 31, spD: 31, spe: 16}
+evs: {hp: 134, atk: 146, def: 146, spA: 130, spD: 130, spe: 142}
+---
+species: Magmar
+ingamename: Leon
+displayname: Leon
+setname: TPP PokéSus
+tags: [runmon, in-game]
+item: [Charcoal]
+ability: [null]
+moves:
+    - [Flamethrower]
+    - [Dynamic Punch]
+    - [Thunder Punch]
+    - [Confuse Ray]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 16, atk: 10, def: 12, spA: 28, spD: 28, spe: 4}
+evs: {hp: 130, atk: 142, def: 142, spA: 134, spD: 134, spe: 146}
+---
+species: Lanturn
+ingamename: Neon
+displayname: Neon
+setname: TPP PokéSus
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [null]
+moves:
+    - [Thunder]
+    - [Surf]
+    - [Thunder Wave]
+    - [Attract, Flash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 1, atk: 28, def: 20, spA: 4, spD: 4, spe: 8}
+evs: {hp: 142, atk: 166, def: 158, spA: 146, spD: 146, spe: 154}
+---
+species: Miltank
+ingamename: SusCream
+displayname: SusCream
+setname: TPP PokéSus
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [null]
+moves:
+    - [Body Slam]
+    - [Iron Tail]
+    - [Rollout]
+    - [Milk Drink]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 22, def: 1, spA: 26, spD: 26, spe: 16}
+evs: {hp: 150, atk: 178, def: 158, spA: 154, spD: 154, spe: 158}

@@ -1,0 +1,80 @@
+species: Quilava
+ingamename: iMLKKJIHJ
+displayname: iMLKKJIHJ
+setname: TPP Super Mystery Dungeon
+tags: [runmon, in-game]
+item: [Red Scarf]
+ability: [Blaze]
+moves:
+    - [Flamethrower]
+    - [Heat Wave, Quick Attack]
+    - [Flame Wheel]
+    - [Double Kick]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Ampharos
+setname: TPP Super Mystery Dungeon
+tags: [runmon, in-game]
+item: [null]
+ability: [Static]
+moves:
+    - [Thunderbolt]
+    - [Power Gem]
+    - [Dragon Pulse, Fire Punch]
+    - [Discharge]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 4, spe: 0}
+---
+species: Lapras
+setname: TPP Super Mystery Dungeon
+tags: [runmon, in-game]
+item: [null]
+ability: [Water Absorb, Shell Armor]
+moves:
+    - [Water Pulse]
+    - [Body Slam]
+    - [Ice Beam]
+    - [Brine]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
+---
+species: Mew
+setname: TPP Super Mystery Dungeon
+tags: [runmon, in-game]
+item: [null]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Pound]
+    - [Barrier]
+    - [Mega Punch]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: 31
+evs: {hp: 0, atk: 126, def: 126, spA: 126, spD: 126, spe: 4}

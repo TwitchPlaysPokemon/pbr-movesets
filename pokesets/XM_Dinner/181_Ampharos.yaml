@@ -1,0 +1,22 @@
+species: Ampharos
+ingamename: Mutton
+displayname: Mutton
+setname: Dinner
+tags: [Dinner]
+ball: [Cherish]
+item: Oran Berry
+ability: Thick Fat
+moves:
+    - [Flamethrower]
+    - [Bone Rush]
+    - [Milk Drink]
+    - [Karate Chop]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 0, atk: 252, def: 64, spA: 128, spD: 64, spe: 0}
+nature: Brave
+hidden: false

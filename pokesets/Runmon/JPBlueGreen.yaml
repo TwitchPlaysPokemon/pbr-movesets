@@ -148,7 +148,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 30, atk: 10, def: 22, spA: 14, spD: 14, spe: 26}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: 0
 ---
 species: Venusaur
 ingamename: チツネ
@@ -172,6 +172,27 @@ nature: Serious
 ivs: {hp: 14, atk: 20, def: 18, spA: 2, spD: 2, spe: 6}
 evs: {hp: 81, atk: 169, def: 168, spA: 163, spD: 163, spe: 162}
 ---
+species: Mewtwo
+ingamename: サカケイル
+displayname: サカケイル
+setname: TPP JP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Psychic]
+    - [Water Gun]
+    - [Metronome]
+    - [Self-Destruct]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 10, def: 22, spA: 16, spD: 16, spe: 12}
+evs: {hp: 46, atk: 167, def: 167, spA: 166, spD: 166, spe: 166}
+---
 species: Butterfree
 ingamename: ツヌチニ
 displayname: ツヌチニ
@@ -193,28 +214,6 @@ shiny: False
 nature: Serious
 ivs: {hp: 26, atk: 14, def: 30, spA: 30, spD: 30, spe: 6}
 evs: {hp: 36, atk: 42, def: 164, spA: 164, spD: 164, spe: 166}
----
-species: Fearow
-ingamename: カカロット
-displayname: カカロット
-setname: TPP JP Green
-tags: [runmon, in-game]
-item: [null]
-ability: [null]
-moves:
-    - [Fly]
-    - [Giga Impact]
-    - [Swift]
-    - [Mimic]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Serious
-ivs: {hp: 24, atk: 2, def: 14, spA: 24, spD: 24, spe: 0}
-evs: {hp: 34, atk: 164, def: 164, spA: 164, spD: 164, spe: 164}
 ---
 species: Gyarados
 ingamename: ララムメス
@@ -238,6 +237,28 @@ nature: Serious
 ivs: {hp: 18, atk: 10, def: 20, spA: 10, spD: 10, spe: 8}
 evs: {hp: 44, atk: 50, def: 166, spA: 167, spD: 167, spe: 167}
 ---
+species: Fearow
+ingamename: カカロット
+displayname: カカロット
+setname: TPP JP Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fly]
+    - [Giga Impact] #Hyper Beam
+    - [Swift]
+    - [Mimic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 2, def: 14, spA: 24, spD: 24, spe: 0}
+evs: {hp: 34, atk: 164, def: 164, spA: 164, spD: 164, spe: 164}
+---
 species: Omastar
 ingamename: アカセネヌ
 displayname: アカセネヌ
@@ -259,24 +280,3 @@ shiny: False
 nature: Serious
 ivs: {hp: 0, atk: 24, def: 12, spA: 12, spD: 12, spe: 28}
 evs: {hp: 24, atk: 28, def: 162, spA: 162, spD: 162, spe: 162}
----
-species: Mewtwo
-ingamename: サカケイル
-displayname: サカケイル
-setname: TPP JP Green
-tags: [runmon, in-game]
-item: [null]
-ability: [null]
-moves:
-    - [Psychic]
-    - [Water Gun]
-    - [Metronome]
-    - [Self-Destruct]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Master]
-shiny: False
-nature: Serious
-ivs: {hp: 24, atk: 10, def: 22, spA: 16, spD: 16, spe: 12}
-evs: {hp: 46, atk: 167, def: 167, spA: 166, spD: 166, spe: 166}

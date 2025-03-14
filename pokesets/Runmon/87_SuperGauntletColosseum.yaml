@@ -1,0 +1,169 @@
+species: Altaria
+ingamename: "UK♂♂♂"
+displayname: "UK♂♂♂"
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [Dragon Fang]
+ability: [Natural Cure]
+moves:
+    - [Fly]
+    - [Dragon Claw]
+    - [Sing]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Bold
+ivs: {hp: 14, atk: 13, def: 18, spA: 20, spD: 24, spe: 30}
+evs: {hp: 101, atk: 125, def: 52, spA: 88, spD: 62, spe: 82}
+---
+species: Gligar
+ingamename: "C‰rrpfffh."
+displayname: "C‰rrpfffh."
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Sand Veil]
+moves:
+    - [Earthquake]
+    - [Aerial Ace]
+    - [Poison Jab] #Sludge Bomb (it was physical in Colo)
+    - [Slash]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Docile
+ivs: {hp: 31, atk: 15, def: 0, spA: 20, spD: 4, spe: 26}
+evs: {hp: 67, atk: 125, def: 59, spA: 94, spD: 61, spe: 104}
+---
+species: Mantine
+ingamename: "opr ii"
+displayname: "opr ii"
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Blizzard]
+    - [Protect]
+    - [Rain Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Mild
+ivs: {hp: 5, atk: 20, def: 27, spA: 27, spD: 20, spe: 10}
+evs: {hp: 67, atk: 111, def: 84, spA: 86, spD: 77, spe: 85}
+---
+species: Stantler
+ingamename: WQSShfffzz
+displayname: WQSShfffzz
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [Intimidate]
+moves:
+    - [Return]
+    - [Thunder]
+    - [Psychic]
+    - [Calm Mind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Bold
+ivs: {hp: 10, atk: 0, def: 28, spA: 29, spD: 31, spe: 21}
+evs: {hp: 78, atk: 104, def: 72, spA: 102, spD: 60, spe: 94}
+---
+species: Suicune
+ingamename: "LMCXXX  "
+displayname: "LMCXXX  "
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [Mystic Water, Leftovers]
+ability: [Pressure]
+moves:
+    - [Surf, Hydro Pump]
+    - [Ice Beam]
+    - [Reflect]
+    - [Rain Dance, Calm Mind]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Hardy
+ivs: {hp: 30, atk: 2, def: 20, spA: 14, spD: 1, spe: 4}
+evs: {hp: 85, atk: 108, def: 72, spA: 86, spD: 69, spe: 90}
+---
+species: Hitmontop
+ingamename: Uppy
+displayname: Uppy
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [Black Belt]
+ability: [Intimidate]
+moves:
+    - [Brick Break]
+    - [Toxic]
+    - [Attract]
+    - [Protect]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Jolly
+ivs: {hp: 8, atk: 3, def: 3, spA: 31, spD: 21, spe: 21}
+evs: {hp: 87, atk: 164, def: 68, spA: 75, spD: 50, spe: 66}
+---
+species: Plusle
+setname: TPP Super Gauntlet Colosseum
+tags: [runmon, in-game]
+item: [null]
+ability: [Plus]
+moves:
+    - [Thunder]
+    - [Agility]
+    - [Helping Hand]
+    - [Baton Pass]
+gender: [f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quirky
+ivs: {hp: 16, atk: 18, def: 21, spA: 29, spD: 7, spe: 29}
+evs: {hp: 26, atk: 37, def: 14, spA: 52, spD: 24, spe: 29}
+---
+species: Ho-oh
+setname: TPP Super Gauntlet Ruby
+tags: [runmon, in-game]
+item: [Cheri Berry]
+ability: [Pressure]
+moves:
+    - [Sacred Fire]
+    - [Solar Beam]
+    - [Hidden Power]
+    - [Light Screen]
+happiness: 70
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Quiet
+ivs: {hp: 19, atk: 29, def: 11, spA: 4, spD: 14, spe: 27}
+evs: {hp: 0, atk: 0, def: 0, spA: 255, spD: 0, spe: 251}

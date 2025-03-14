@@ -7,40 +7,18 @@ item: [Miracle Seed]
 ability: [Overgrow]
 moves:
     - [Leaf Blade]
-    - [Dynamicpunch]
+    - [Dynamic Punch]
     - [Dragon Claw]
     - [Aerial Ace]
 gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke] 
+ball: [Poke]
 shiny: False
 nature: Calm
 ivs: {hp: 13, atk: 24, def: 19, spA: 15, spD: 18, spe: 21}
 evs: {hp: 86, atk: 98, def: 69, spA: 94, spD: 35, spe: 128}
----
-species: Shedinja
-ingamename: tppHP
-displayname: tppHP
-setname: TPP PokéSus 2
-tags: [runmon, in-game]
-item: [Focus Band]
-ability: [Wonder Guard]
-moves:
-    - [Shadow Claw]
-    - [Return]
-    - [Swords Dance]
-    - [Sunny Day]
-gender: [null]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Great] 
-shiny: False
-nature: Docile
-ivs: {hp: 11, atk: 22, def: 2, spA: 1, spD: 30, spe: 17}
-evs: {hp: 60, atk: 136, def: 76, spA: 74, spD: 59, spe: 93}
 ---
 species: Camerupt
 ingamename: JERMA
@@ -50,8 +28,8 @@ tags: [runmon, in-game]
 item: [Soft Sand]
 ability: [Magma Armor]
 moves:
-    - [Earthquake]
     - [Fire Blast]
+    - [Earthquake]
     - [Rollout]
     - [Substitute]
 gender: [m]
@@ -62,7 +40,7 @@ ball: [Poke]
 shiny: False
 nature: Lax
 ivs: {hp: 27, atk: 5, def: 31, spA: 16, spD: 8, spe: 13}
-evs: {hp: 78, atk: 89, def: 35, spA: 88, spD: 41, spe: 85}
+evs: {hp: 81, atk: 102, def: 35, spA: 92, spD: 41, spe: 88}
 ---
 species: Skarmory
 ingamename: SK
@@ -86,18 +64,39 @@ nature: Modest
 ivs: {hp: 29, atk: 18, def: 0, spA: 10, spD: 31, spe: 26}
 evs: {hp: 85, atk: 139, def: 53, spA: 78, spD: 70, spe: 85}
 ---
+species: Shedinja
+ingamename: tppHP
+displayname: tppHP
+setname: TPP PokéSus 2
+tags: [runmon, in-game]
+item: [Focus Band]
+ability: [Wonder Guard]
+moves:
+    - [Shadow Claw] #Shadow Ball
+    - [Return]
+    - [Swords Dance]
+    - [Sunny Day]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Docile
+ivs: {hp: 11, atk: 22, def: 2, spA: 1, spD: 30, spe: 17}
+evs: {hp: 60, atk: 136, def: 76, spA: 74, spD: 59, spe: 93}
+---
 species: Sharpedo
 ingamename: SORD
 displayname: SORD
 setname: TPP PokéSus 2
 tags: [runmon, in-game]
-item: [Blackglasses]
+item: [Black Glasses]
 ability: [Rough Skin]
 moves:
-    - [Dark Pulse]
     - [Surf]
-    - [Hyper Beam]
+    - [Dark Pulse] #Crunch
     - [Blizzard]
+    - [Hyper Beam]
 gender: [f]
 happiness: 255
 biddable: True
@@ -106,7 +105,7 @@ ball: [Ultra]
 shiny: False
 nature: Modest
 ivs: {hp: 9, atk: 28, def: 4, spA: 23, spD: 10, spe: 7}
-evs: {hp: 33, atk: 138, def: 64, spA: 31, spD: 79, spe: 60}
+evs: {hp: 33, atk: 138, def: 64, spA: 33, spD: 79, spe: 61}
 ---
 species: Relicanth
 ingamename: SUSHI
@@ -118,7 +117,7 @@ ability: [Rock Head]
 moves:
     - [Waterfall]
     - [Rock Tomb]
-    - [Double Edge]
+    - [Double-Edge]
     - [Earthquake]
 gender: [m]
 happiness: 255
@@ -128,4 +127,4 @@ ball: [Poke]
 shiny: False
 nature: Relaxed
 ivs: {hp: 15, atk: 23, def: 6, spA: 26, spD: 1, spe: 30}
-evs: {hp: 51, atk: 77, def: 27, spA: 8, spD: 42, spe: 43}
+evs: {hp: 51, atk: 78, def: 27, spA: 8, spD: 42, spe: 45}

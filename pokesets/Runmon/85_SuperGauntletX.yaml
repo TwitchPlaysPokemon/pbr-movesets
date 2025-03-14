@@ -1,0 +1,65 @@
+species: Granbull
+ingamename: "AA77N25?=o"
+displayname: "AA77N25?? =o"
+setname: TPP Super Gauntlet X
+tags: [runmon, in-game]
+item: [Black Belt, Quick Claw]
+ability: [Quick Feet]
+moves:
+    - [Dragon Claw] #Play Rough
+    - [Close Combat]
+    - [Sleep Talk]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 21, def: 5, spA: 5, spD: 5, spe: 21}
+evs: {hp: 17, atk: 252, def: 0, spA: 21, spD: 20, spe: 200}
+---
+species: Mawile
+ingamename: Shania
+displayname: Shania
+setname: TPP Super Gauntlet X
+tags: [runmon, in-game]
+item: [Everstone] #Mawilite
+ability: [Intimidate, Huge Power]
+moves:
+    - [Iron Head]
+    - [Dragon Claw] #Play Rough
+    - [Sucker Punch]
+    - [Swords Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 29, def: 16, spA: 19, spD: 22, spe: 2}
+evs: {hp: 24, atk: 252, def: 0, spA: 65, spD: 16, spe: 153}
+---
+species: Azumarill
+ingamename: "!!mmog44"
+displayname: "!!mmog44"
+setname: TPP Super Gauntlet X
+tags: [runmon, in-game]
+item: [null]
+ability: [Huge Power]
+moves:
+    - [Surf]
+    - [Waterfall]
+    - [Strength]
+    - [Rock Smash]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hasty
+ivs: {hp: 6, atk: 31, def: 4, spA: 8, spD: 31, spe: 31}
+evs: {hp: 8, atk: 16, def: 11, spA: 12, spD: 11, spe: 28}
