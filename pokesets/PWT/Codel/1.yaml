@@ -1,0 +1,108 @@
+---
+species: Dusclops
+setname: PWT-Codel
+tags: [in-game, PWT-Codel, trainer-codel]
+item: [Leftovers]
+ability: [Pressure]
+moves:
+- [Imprison]
+- [Protect]
+- [Earthquake]
+- [Shadow Ball]
+gender: [m]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Golem
+setname: PWT-Codel
+tags: [in-game, PWT-Codel, trainer-codel]
+item: [Quick Claw]
+ability: [Rock Head]
+moves:
+- [Explosion]
+- [Rock Blast]
+- [Earthquake]
+- [Protect]
+gender: [f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Electrode
+setname: PWT-Codel
+tags: [in-game, PWT-Codel, trainer-codel]
+item: [Choice Band]
+ability: [Soundproof]
+moves:
+- [Explosion]
+- [Thunderbolt]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Regirock
+setname: PWT-Codel
+tags: [in-game, PWT-Codel, trainer-codel]
+item: [White Herb]
+ability: [Clear Body]
+moves:
+- [Explosion]
+- [Superpower]
+- [Ancient Power]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Regice
+setname: PWT-Codel
+tags: [in-game, PWT-Codel, trainer-codel]
+item: [Lax Incense]
+ability: [Clear Body]
+moves:
+- [Explosion]
+- [Ice Beam]
+- [Thunderbolt]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+---
+species: Registeel
+setname: PWT-Codel
+tags: [in-game, PWT-Codel, trainer-codel]
+item: [Bright Powder]
+ability: [Clear Body]
+moves:
+- [Explosion]
+- [Superpower]
+- [Brick Break]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100

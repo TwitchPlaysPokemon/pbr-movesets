@@ -79,3 +79,23 @@ ivs: 0
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 level: 100
 rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Cynthia Masters-2
+tags: [in-game, PWT-Cynthia Masters, trainer+cynthia]
+item: [Dusk Stone]
+ability: [Sand Veil, Rough Skin]
+moves:
+- [Sand Tomb]
+- [Sandstorm]
+- [Earthquake]
+- [Ingrain] #Greatest Battle!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

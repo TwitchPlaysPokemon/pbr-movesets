@@ -1,0 +1,60 @@
+---
+species: Empoleon
+setname: PWT-Barry Masters
+tags: [in-game, PWT-Barry Masters, trainer+barry]
+item: [null]
+ability: [Torrent]
+moves:
+- [Bubble]
+- [Heal Bell] #Full Heal
+- [Bubble Beam]
+- [Agility] #No Hesitation!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Barry Masters
+tags: [in-game, PWT-Barry Masters, trainer+barry]
+item: [null]
+ability: [Natural Cure, Poison Point, Technician]
+moves:
+- [Absorb]
+- [Synthesis]
+- [Stun Spore]
+- [Defend Order] #THUD!!!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Heracross
+setname: PWT-Barry Masters
+tags: [in-game, PWT-Barry Masters, trainer+barry]
+item: [Everstone]
+ability: [Swarm, Guts, Skill Link]
+moves:
+- [Pin Missile]
+- [Close Combat]
+- [Megahorn] #Spiral Megahorn
+- [Swords Dance, Focus Energy] #Going Ahead!
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
