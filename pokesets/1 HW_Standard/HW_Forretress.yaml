@@ -31,7 +31,7 @@ ability: [Shell Armor, Speed Boost]
 moves:
     - [Rollout, Gyro Ball]
     - [Discharge]
-    - [Withdraw, Shell Smash]
+    - [Withdraw]
     - [Protect]
 gender: [m,f]
 happiness: 0

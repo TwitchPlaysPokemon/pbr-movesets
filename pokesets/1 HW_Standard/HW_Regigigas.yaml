@@ -43,28 +43,6 @@ evs: {hp: 236, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
 ---
 species: Regigigas
-ingamename: VoidTermin
-displayname: Void Termina
-setname: Halloween2
-tags: [halloween]
-item: Black Sludge
-ability: Slow Start
-moves:
-    - [Earthquake]
-    - [Fly]
-    - [Hyper Beam]
-    - [Swords Dance]
-happiness: 0
-biddable: True
-rarity: 1.0
-ball: [Dusk]
-shiny: True
-nature: Quiet
-ivs: {hp: 31, atk: 31, def: 0, spA: 19, spD: 0, spe: 0}
-evs: {hp: 236, atk: 100, def: 0, spA: 0, spD: 0, spe: 0}
-hidden: false
----
-species: Regigigas
 ingamename: Kolossus
 displayname: Kolossus
 setname: Halloween-XANA
