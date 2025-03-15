@@ -20,3 +20,27 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 220, atk: 52, def: 40, spA: 52, spD: 40, spe: 52}
 hidden: false
+---
+species: Sharpedo
+ingamename: Shark
+displayname: Shark
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Swift Swim]
+moves:
+    - [Octazooka]
+    - [Aqua Tail]
+    - [Bite]
+    - [Dive]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Lonely
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+hidden: false
+---

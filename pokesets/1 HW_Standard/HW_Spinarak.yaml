@@ -43,3 +43,27 @@ nature: Brave
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 16, atk: 252, def: 120, spA: 0, spD: 120, spe: 0}
 hidden: false
+---
+species: Spinarak
+ingamename: Kankrelat
+displayname: Kankrelat
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Swarm, Klutz]
+moves:
+    - [Charge Beam]
+    - [Feint]
+    - [Double Team]
+    - [Agility]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Mild
+ivs: 31
+evs: {hp: 0, atk: 4, def: 0, spA: 252, spD: 0, spe: 252}
+hidden: false
+---

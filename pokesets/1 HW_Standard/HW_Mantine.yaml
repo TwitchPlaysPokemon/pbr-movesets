@@ -20,3 +20,27 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
 evs: {hp: 60, atk: 252, def: 0, spA: 0, spD: 0, spe: 60}
 hidden: false
+---
+species: Mantine
+ingamename: Manta
+displayname: Manta
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Serene Grace]
+moves:
+    - [Charge Beam]
+    - [Signal Beam]
+    - [Magnet Bomb]
+    - [Fly, Dive]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Rash
+ivs: 31
+evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 0, spe: 252}
+hidden: false
+---

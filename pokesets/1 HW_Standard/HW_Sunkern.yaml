@@ -1,0 +1,229 @@
+species: Sunkern
+displayname: Red Pikmin
+ingamename: RedPik
+setname: Halloween-Rd
+tags: [halloween]
+item: [Liechi Berry]
+ability: [Flash Fire]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Fury Attack]
+    - [Ember]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Lonely
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
+hidden: False
+---
+species: Sunkern
+displayname: Yellow Pikmin
+ingamename: YellowPik
+setname: Halloween-Ye
+tags: [halloween]
+item: [Cheri Berry]
+ability: [Lightningrod]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Bounce]
+    - [Spark]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
+hidden: False
+---
+species: Sunkern
+displayname: Blue Pikmin
+ingamename: BluePik
+setname: Halloween-Bl
+tags: [halloween]
+item: [Passho Berry]
+ability: [Storm Drain]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Fling]
+    - [Dive]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+hidden: False
+---
+species: Sunkern
+displayname: Purple Pikmin
+ingamename: PurplePik
+setname: Halloween-Pr
+tags: [halloween]
+item: [Lansat Berry]
+ability: [Huge Power]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Body Slam]
+    - [Stomp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+hidden: False
+---
+species: Sunkern
+displayname: White Pikmin
+ingamename: WhitePik
+setname: Halloween-Wh
+tags: [halloween]
+item: [Salac Berry]
+ability: [Immunity]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Dig]
+    - [Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+hidden: False
+---
+species: Sunkern
+displayname: Rock Pikmin
+ingamename: RockPik
+setname: Halloween-Rk
+tags: [halloween]
+item: [Chilan Berry]
+ability: [Rock Head]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Head Smash]
+    - [Rock Smash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+hidden: False
+---
+species: Sunkern
+displayname: Winged Pikmin
+ingamename: WingedPik
+setname: Halloween-Wg
+tags: [halloween]
+item: [Chilan Berry]
+ability: [Levitate]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Fly]
+    - [Tailwind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Calm
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+hidden: False
+---
+species: Sunkern
+displayname: Ice Pikmin
+ingamename: IcePik
+setname: Halloween-Ic
+tags: [halloween]
+item: [Yache Berry]
+ability: [Snow Cloak]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Powder Snow]
+    - [Sheer Cold]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
+hidden: False
+---
+species: Sunkern
+displayname: Glow Pikmin
+ingamename: GlowPik
+setname: Halloween-Gl
+tags: [halloween]
+item: [Lum Berry]
+ability: [Illuminate]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Flash Cannon]
+    - [Teleport]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Lonely
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
+hidden: False
+---
+species: Sunkern
+displayname: Mushroom Pikmin
+ingamename: ShroomPik
+setname: Halloween-Sh
+tags: [halloween]
+item: [TinyMushroom]
+ability: [Klutz]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Thrash]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+hidden: False
+---

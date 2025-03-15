@@ -20,3 +20,27 @@ nature: Naughty
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 252, def: 200, spA: 0, spD: 200, spe: 0}
 hidden: false
+---
+species: Ninjask
+ingamename: Hornet
+displayname: Hornet
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Limber]
+moves:
+    - [Charge Beam]
+    - [Gunk Shot]
+    - [Fly]
+    - [Double Team, Agility]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Hasty
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+hidden: false
+---
