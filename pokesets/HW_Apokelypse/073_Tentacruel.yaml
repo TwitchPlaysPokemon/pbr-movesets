@@ -1,0 +1,23 @@
+species: Tentacruel
+ingamename: Scyphozoa
+displayname: Scyphozoa
+setname: Halloween-XANA
+tags: [pokelypse]
+item: Dubious Disc
+ability: Levitate
+moves:
+    - [Giga Drain]
+    - [Extrasensory]
+    - [Amnesia, Confuse Ray]
+    - [Endure, Recover]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Sassy
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 252, spD: 252, spe: 0}
+hidden: false
+---

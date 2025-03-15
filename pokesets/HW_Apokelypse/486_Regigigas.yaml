@@ -19,3 +19,26 @@ nature: Jolly
 ivs: 31
 evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
 hidden: false
+---
+species: Regigigas
+ingamename: Kolossus
+displayname: Kolossus
+setname: Pokelypse-XANA
+tags: [pokelypse]
+item: Dubious Disc
+ability: Magma Armor
+moves:
+    - [Stomp]
+    - [Giga Impact]
+    - [Night Slash]
+    - [Endure]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
+hidden: false
+---

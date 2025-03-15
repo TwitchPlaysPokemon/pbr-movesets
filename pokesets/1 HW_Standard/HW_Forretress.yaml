@@ -20,3 +20,27 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 168, spe: 0}
 hidden: false
+---
+species: Forretress
+ingamename: Megatank
+displayname: Megatank
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Shell Armor, Speed Boost]
+moves:
+    - [Rollout, Gyro Ball]
+    - [Discharge]
+    - [Withdraw, Shell Smash]
+    - [Protect]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Rash
+ivs: 31
+evs: {hp: 0, atk: 4, def: 252, spA: 0, spD: 0, spe: 252}
+hidden: false
+---

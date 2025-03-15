@@ -43,3 +43,27 @@ nature: Modest
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 108, spD: 0, spe: 0}
 hidden: false
+---
+species: Scizor
+ingamename: Tarantula
+displayname: Tarantula
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Limber, Sniper]
+moves:
+    - [Charge Beam]
+    - [Zap Cannon, Flash Cannon]
+    - [Lock-On]
+    - [Camouflage, Agility]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}
+hidden: false
+---

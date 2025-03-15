@@ -63,3 +63,26 @@ nature: Quirky
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 148, atk: 252, def: 148, spA: 252, spD: 148, spe: 0}
 hidden: false
+---
+species: Ditto
+ingamename: PolyClone
+displayname: Polymorphic Clone
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: Huge Power
+moves:
+    - [Transform]
+    - [Shadow Sneak]
+    - [Spark]
+    - [Torment]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 248, atk: 8, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false
+---
