@@ -1,0 +1,23 @@
+species: Wurmple
+ingamename: Party Hat
+displayname: Party Hat Wurmple
+setname: Christmas
+tags: [christmas]
+item: Stardust
+ability: [Vital Spirit, Own Tempo]
+moves:
+    - [Bug Buzz]
+    - [Uproar]
+    - [Teeter Dance]
+    - [Encore]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: True
+nature: Modest
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 4, spe: 0}
+hidden: false
+---
