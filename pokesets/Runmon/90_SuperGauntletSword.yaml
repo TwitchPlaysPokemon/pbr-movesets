@@ -21,8 +21,8 @@ ivs: 31
 evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 ---
 species: Slowbro
-ingamename: 'aaaZzzzz
-displayname: 'aaaZzzzzzz
+ingamename: aaaZzzzz
+displayname: aaaZzzzzzz
 setname: TPP Super Gauntlet Sword
 tags: [runmon, in-game]
 item: [Leftovers]
