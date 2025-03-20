@@ -1,7 +1,7 @@
 species: Feraligatr
 ingamename: "'u2E!☂☂☂M☂"
 displayname: "'u2E!☂☂☂M☂"
-setname: TPP Black 2
+setname: TPP Blaze Black 2
 tags: [runmon, in-game]
 item: [Max Repel]
 ability: [Torrent]
@@ -14,7 +14,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Relaxed
 ivs: {hp: 4, atk: 11, def: 9, spA: 23, spD: 16, spe: 30}
@@ -23,9 +23,9 @@ evs: {hp: 97, atk: 112, def: 96, spA: 49, spD: 33, spe: 123}
 species: Sceptile
 ingamename: "AEEEEOPM.J"
 displayname: "AEEEEOPM.J"
-setname: TPP Black 2
+setname: TPP Blaze Black 2
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Overgrow]
 moves:
     - [Energy Ball]
@@ -36,7 +36,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Mild
 ivs: {hp: 16, atk: 12, def: 8, spA: 14, spD: 29, spe: 7}

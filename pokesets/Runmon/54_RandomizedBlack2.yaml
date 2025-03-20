@@ -1,7 +1,7 @@
 species: Tauros
 ingamename: GAY
 displayname: GAY
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Silk Scarf]
 ability: [Normalize]
@@ -11,7 +11,7 @@ moves:
     - [U-Turn]
     - [Heal Order]
 gender: [m]
-happiness: 253
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -23,7 +23,7 @@ evs: {hp: 21, atk: 255, def: 40, spA: 68, spD: 54, spe: 72}
 species: Salamence
 ingamename: CACA
 displayname: CACA
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Jaboca Berry] #Rocky Helmet
 ability: [Natural Cure] #Regenerator
@@ -33,7 +33,7 @@ moves:
     - [Pound]
     - [Fly]
 gender: [m]
-happiness: 252
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -45,7 +45,7 @@ evs: {hp: 145, atk: 110, def: 119, spA: 44, spD: 44, spe: 48}
 species: Magcargo
 ingamename: FreeDom
 displayname: FreeDom
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Jaboca Berry] #Rocky Helmet
 ability: [Wonder Guard]
@@ -55,7 +55,7 @@ moves:
     - [Acupressure] #Quiver Dance
     - [Heal Order]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -67,7 +67,7 @@ evs: {hp: 46, atk: 67, def: 42, spA: 132, spD: 99, spe: 124}
 species: Lanturn
 ingamename: TRANS
 displayname: TRANS
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Wise Glasses]
 ability: [Hustle] #Moody
@@ -77,7 +77,7 @@ moves:
     - [Surf] #Scald
     - [Calm Mind] #Quiver Dance
 gender: [m]
-happiness: 251
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -89,7 +89,7 @@ evs: {hp: 19, atk: 58, def: 152, spA: 142, spD: 42, spe: 97}
 species: Meganium
 ingamename: u
 displayname: u
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Miracle Seed]
 ability: [Shadow Tag]
@@ -111,7 +111,7 @@ evs: {hp: 66, atk: 101, def: 23, spA: 118, spD: 85, spe: 117}
 species: Infernape
 ingamename: "00k"
 displayname: "00k"
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Black Belt]
 ability: [Stench]
@@ -121,7 +121,7 @@ moves:
     - [Attack Order]
     - [Waterfall] #Razor Shell
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -133,7 +133,7 @@ evs: {hp: 53, atk: 92, def: 26, spA: 113, spD: 94, spe: 132}
 species: Torterra
 ingamename: fj
 displayname: fj
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Shell Bell]
 ability: [Minus]
@@ -143,7 +143,7 @@ moves:
     - [Pound]
     - [Flame Wheel] #Flame Charge
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -155,7 +155,7 @@ evs: {hp: 70, atk: 84, def: 21, spA: 130, spD: 91, spe: 114}
 species: Kricketune
 ingamename: "ucrdq  2sl"
 displayname: "ucrdq  2sl"
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Lucky Egg]
 ability: [Tangled Feet] #Telepathy
@@ -165,7 +165,7 @@ moves:
     - [Needle Arm]
     - [Doom Desire]
 gender: [f]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -177,7 +177,7 @@ evs: {hp: 44, atk: 38, def: 11, spA: 57, spD: 46, spe: 49}
 species: Mawile
 ingamename: i
 displayname: i
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Jaboca Berry] #Rocky Helmet
 ability: [Frisk] #Pickpocket
@@ -187,7 +187,7 @@ moves:
     - [Strength]
     - [Fly]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -199,7 +199,7 @@ evs: {hp: 19, atk: 24, def: 11, spA: 16, spD: 25, spe: 21}
 species: Lunatone
 ingamename: "Lun(11)"
 displayname: "Lun⑾"
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Mind Plate]
 ability: [Wonder Guard]
@@ -208,7 +208,7 @@ moves:
     - [Aurora Beam]
     - [Calm Mind] #Quiver Dance
     - [Roost]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -220,7 +220,7 @@ evs: {hp: 7, atk: 14, def: 3, spA: 13, spD: 12, spe: 17}
 species: Cranidos #it was a Deino but I had to put this
 ingamename: "420BBLAZE"
 displayname: "420BBLAZE"
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [null]
 ability: [Liquid Ooze]
@@ -229,7 +229,7 @@ moves:
     - [Surf (=1)]
     - [Conversion 2 (=1)]
 gender: [m]
-happiness: 211
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -241,7 +241,7 @@ evs: {hp: 2, atk: 9, def: 1, spA: 7, spD: 1, spe: 9}
 species: Charizard
 ingamename: CharizarPP
 displayname: CharizarPP
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Wise Glasses]
 ability: [Cute Charm]
@@ -251,7 +251,7 @@ moves:
     - [Icy Wind] #Glaciate
     - [Shadow Claw]
 gender: [m]
-happiness: 249
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -263,7 +263,7 @@ evs: {hp: 23, atk: 59, def: 38, spA: 114, spD: 154, spe: 122}
 species: Breloom
 ingamename: DOAMK
 displayname: DOAMK
-setname: TPP Randomized Black 2
+setname: TPP Rando Black 2
 tags: [runmon, in-game]
 item: [Exp. Share]
 ability: [Solar Power]

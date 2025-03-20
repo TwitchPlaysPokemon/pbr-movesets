@@ -1,7 +1,7 @@
 species: Entei
 ingamename: "S aggor"
 displayname: "S aggor"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [Charcoal]
 ability: [Soundproof]
@@ -22,7 +22,7 @@ evs: {hp: 78, atk: 108, def: 78, spA: 69, spD: 67, spe: 110}
 species: Skitty
 ingamename: "vvu"
 displayname: "vvu"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [Silk Scarf]
 ability: [Pure Power]
@@ -32,7 +32,7 @@ moves:
     - [Mach Punch]
     - [Dragon Dance]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -44,7 +44,7 @@ evs: {hp: 41, atk: 63, def: 39, spA: 44, spD: 34, spe: 89}
 species: Jolteon
 ingamename: "rr"
 displayname: "rr"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [Magnet]
 ability: [Rough Skin]
@@ -66,7 +66,7 @@ evs: {hp: 73, atk: 135, def: 102, spA: 67, spD: 49, spe: 84}
 species: Swellow
 ingamename: "Rr ixz"
 displayname: "Rr ixz"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [null]
 ability: [Guts]
@@ -76,7 +76,7 @@ moves:
     - [Aerial Ace]
     - [Softboiled]
 gender: [f]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -88,7 +88,7 @@ evs: {hp: 64, atk: 85, def: 46, spA: 68, spD: 51, spe: 98}
 species: Nidoqueen
 ingamename: "Lllccci"
 displayname: "Lllccci"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [null]
 ability: [Blaze]
@@ -98,7 +98,7 @@ moves:
     - [Leaf Blade]
     - [Rock Slide]
 gender: [f]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -110,7 +110,7 @@ evs: {hp: 50, atk: 97, def: 69, spA: 61, spD: 49, spe: 108}
 species: Slowbro
 ingamename: "Fl"
 displayname: "Fl"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [Shell Bell]
 ability: [Insomnia]
@@ -132,7 +132,7 @@ evs: {hp: 71, atk: 114, def: 70, spA: 82, spD: 61, spe: 112}
 species: Kingdra
 ingamename: "nuyfll6?"
 displayname: "nuyfll6?"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [null]
 ability: [Run Away]
@@ -142,7 +142,7 @@ moves:
     - [Psychic]
     - [Morning Sun]
 gender: [f]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -154,7 +154,7 @@ evs: {hp: 59, atk: 114, def: 61, spA: 78, spD: 62, spe: 81}
 species: Donphan
 ingamename: "Jjpppsz"
 displayname: "Jjpppsz"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [Soft Sand]
 ability: [Water Absorb] #Earth Rise
@@ -176,7 +176,7 @@ evs: {hp: 61, atk: 105, def: 69, spA: 77, spD: 34, spe: 66}
 species: Mawile
 ingamename: "CAESAR"
 displayname: "CAESAR"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [null]
 ability: [Minus]
@@ -186,7 +186,7 @@ moves:
     - [Dragon Dance]
     - [Spore]
 gender: [f]
-happiness: 203
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -198,7 +198,7 @@ evs: {hp: 38, atk: 69, def: 28, spA: 30, spD: 29, spe: 71}
 species: Moltres
 ingamename: ",,zzzzyy y"
 displayname: ",,zzzzyy y"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [Sitrus Berry]
 ability: [Blaze]
@@ -219,7 +219,7 @@ evs: {hp: 67, atk: 104, def: 36, spA: 55, spD: 51, spe: 100}
 species: Latias
 ingamename: "99EXQBHM"
 displayname: "99EXQBHM"
-setname: TPP Randomized TriHard
+setname: TPP Rando TriHard Emerald
 tags: [runmon, in-game]
 item: [Sitrus Berry]
 ability: [Flame Body]
@@ -229,7 +229,7 @@ moves:
     - [Spore]
     - [Blizzard]
 gender: [f]
-happiness: 175
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]

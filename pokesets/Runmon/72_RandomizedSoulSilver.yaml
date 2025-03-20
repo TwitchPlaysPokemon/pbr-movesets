@@ -1,7 +1,7 @@
 species: Masquerain
 ingamename: OO LEXMMQE
 displayname: OO LEXMMQE
-setname: TPP Randomized Soul Silver
+setname: TPP Rando SoulSilver
 tags: [runmon, in-game]
 item: [Focus Sash, Choice Band, Choice Scarf]
 ability: [Huge Power]
@@ -23,7 +23,7 @@ evs: {hp: 54, atk: 195, def: 86, spA: 55, spD: 31, spe: 89}
 species: Machamp
 ingamename: A.       6
 displayname: A.       6
-setname: TPP Randomized Soul Silver
+setname: TPP Rando SoulSilver
 tags: [runmon, in-game]
 item: [Big Root]
 ability: [Simple]
@@ -45,7 +45,7 @@ evs: {hp: 61, atk: 255, def: 49, spA: 52, spD: 40, spe: 53}
 species: Absol
 ingamename: Oe
 displayname: Oe
-setname: TPP Randomized Soul Silver
+setname: TPP Rando SoulSilver
 tags: [runmon, in-game]
 item: [Muscle Band]
 ability: [Snow Warning]
@@ -67,7 +67,7 @@ evs: {hp: 37, atk: 42, def: 29, spA: 31, spD: 23, spe: 56}
 species: Lapras
 ingamename: DYUHEN6EQP
 displayname: DYUHEN6EQP
-setname: TPP Randomized Soul Silver-1
+setname: TPP Rando SoulSilver
 tags: [runmon, in-game]
 item: [Wise Glasses]
 ability: [Hydration]
@@ -82,7 +82,7 @@ biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: True
-hidden: false
+hidden: False
 nature: Gentle
 ivs: {hp: 16, atk: 11, def: 2, spA: 0, spD: 9, spe: 5}
 evs: {hp: 51, atk: 152, def: 88, spA: 84, spD: 52, spe: 83}
@@ -90,7 +90,7 @@ evs: {hp: 51, atk: 152, def: 88, spA: 84, spD: 52, spe: 83}
 species: Lapras
 ingamename: FFFBBai
 displayname: FFFBBai
-setname: TPP Randomized Soul Silver-2
+setname: TPP Rando SoulSilver-2
 tags: [runmon, in-game]
 item: [Wise Glasses]
 ability: [Minus]
@@ -112,7 +112,7 @@ evs: {hp: 53, atk: 71, def: 37, spA: 47, spD: 21, spe: 96}
 species: Deoxys
 ingamename:  ?.,,
 displayname:  ?.,,
-setname: TPP Randomized Soul Silver-1
+setname: TPP Rando SoulSilver
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Dry Skin]
@@ -134,7 +134,7 @@ evs: {hp: 51, atk: 151, def: 83, spA: 72, spD: 45, spe: 108}
 species: Deoxys
 ingamename: WSPPACE DX
 displayname: WSPPACE DX
-setname: TPP Randomized Soul Silver-2
+setname: TPP Rando SoulSilver-2
 tags: [runmon, in-game]
 item: [Life Orb]
 ability: [Dry Skin]
@@ -156,7 +156,7 @@ evs: {hp: 43, atk: 152, def: 73, spA: 124, spD: 49, spe: 69}
 species: Rotom
 ingamename: TOJIKO
 displayname: TOJIKO
-setname: TPP Randomized Soul Silver
+setname: TPP Rando SoulSilver
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Drizzle]
@@ -165,7 +165,7 @@ moves:
     - [Ice Beam]
     - [Tail Glow]
     - [Spore]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Master]
@@ -177,7 +177,7 @@ evs: {hp: 33, atk: 149, def: 74, spA: 78, spD: 49, spe: 127}
 species: Rapidash
 ingamename: HHeatrans
 displayname: HHeatrans
-setname: TPP Randomized Soul Silver
+setname: TPP Rando SoulSilver
 tags: [runmon, in-game]
 item: [Wide Lens, Choice Scarf, Focus Sash]
 ability: [Pure Power]
@@ -187,7 +187,7 @@ moves:
     - [Waterfall]
     - [Icicle Spear]
 gender: [m]
-happiness: 222
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Great]

@@ -1,10 +1,10 @@
 species: Alakazam
 ingamename: VVDDD-
 displayname: VVDDD-
-setname: TPP Dual BlueRed
+setname: TPP Dual Blue
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Psychic]
     - [Confusion]
@@ -24,10 +24,10 @@ evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 species: Arbok
 ingamename: A
 displayname: A
-setname: TPP Dual BlueRed
+setname: TPP Dual Blue
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Poison Sting]
     - [Earthquake]
@@ -43,13 +43,101 @@ nature: Serious
 ivs: {hp: 26, atk: 14, def: 26, spA: 10, spD: 10, spe: 8}
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 ---
+species: Clefable
+ingamename: OOXXXXXWVT
+displayname: OOXXXXXWVT
+setname: TPP Dual Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fire Blast]
+    - [Thunderbolt]
+    - [Solar Beam]
+    - [Bubble Beam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 16, def: 10, spA: 6, spD: 6, spe: 20}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 212, spe: 252}
+---
+species: Lapras
+ingamename: ZZZZMNMNMN
+displayname: ZZZZᴹɴᴹɴᴹɴᴹɴᴹɴᴹɴ
+setname: TPP Dual Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Blizzard]
+    - [Ice Beam]
+    - [Surf]
+    - [Body Slam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 16, def: 2, spA: 18, spD: 18, spe: 0}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+---
+species: Persian
+ingamename: CCLLUU)))
+displayname: CCLLUU)))
+setname: TPP Dual Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Slash]
+    - [Bite]
+    - [Thunder]
+    - [Fury Swipes]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 30, def: 26, spA: 4, spD: 4, spe: 8}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+---
+species: Venusaur
+ingamename: UUUVVX;:UL
+displayname: UUUVVX;:UL
+setname: TPP Dual Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Solar Beam]
+    - [Vine Whip]
+    - [Cut]
+    - [Sleep Powder]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 24, atk: 30, def: 26, spA: 4, spD: 4, spe: 8}
+evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+---
 species: Beedrill
 ingamename: ?!♂♂♀AAABa
 displayname: ?!♂♂♀AAABa
-setname: TPP Dual BlueRed
+setname: TPP Dual Red
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Twineedle]
     - [Cut]
@@ -68,10 +156,10 @@ evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 species: Charizard
 ingamename: A
 displayname: A
-setname: TPP Dual BlueRed
+setname: TPP Dual Red
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Flamethrower]
     - [Slash]
@@ -87,35 +175,13 @@ nature: Serious
 ivs: {hp: 22, atk: 6, def: 4, spA: 30, spD: 30, spe: 22}
 evs: {hp: 252, atk: 252, def: 252, spA: 60, spD: 252, spe: 252}
 ---
-species: Clefable
-ingamename: OOXXXXXWVT
-displayname: OOXXXXXWVT
-setname: TPP Dual BlueRed
-tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
-moves:
-    - [Fire Blast]
-    - [Thunderbolt]
-    - [Solar Beam]
-    - [Bubble Beam]
-gender: [f]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Serious
-ivs: {hp: 2, atk: 16, def: 10, spA: 6, spD: 6, spe: 20}
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 212, spe: 252}
----
 species: Dugtrio
 ingamename: DDDDDDDDDD
 displayname: DDDDDDDDDD
-setname: TPP Dual BlueRed
+setname: TPP Dual Red
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Earthquake]
     - [Dig]
@@ -131,35 +197,13 @@ nature: Serious
 ivs: {hp: 0, atk: 28, def: 16, spA: 31, spD: 0, spe: 28}
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 216, spe: 252}
 ---
-species: Lapras
-ingamename: ZZZZMNMNMN
-displayname: ZZZZᴹɴᴹɴᴹɴᴹɴᴹɴᴹɴ
-setname: TPP Dual BlueRed
-tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
-moves:
-    - [Blizzard]
-    - [Ice Beam]
-    - [Surf]
-    - [Body Slam]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Serious
-ivs: {hp: 10, atk: 16, def: 2, spA: 18, spD: 18, spe: 0}
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
----
 species: Nidoqueen
 ingamename: MLLLULVVSS
 displayname: MLLLULVVSS
-setname: TPP Dual BlueRed
+setname: TPP Dual Red
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Earthquake]
     - [Blizzard]
@@ -175,35 +219,13 @@ nature: Serious
 ivs: {hp: 22, atk: 10, def: 28, spA: 28, spD: 28, spe: 26}
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 172, spe: 252}
 ---
-species: Persian
-ingamename: CCLLUU)))
-displayname: CCLLUU)))
-setname: TPP Dual BlueRed
-tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
-moves:
-    - [Slash]
-    - [Bite]
-    - [Thunder]
-    - [Fury Swipes]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Serious
-ivs: {hp: 24, atk: 30, def: 26, spA: 4, spD: 4, spe: 8}
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
----
 species: Raichu
 ingamename: QPPQQRRQPj
 displayname: QPPQQRRQPj
-setname: TPP Dual BlueRed
+setname: TPP Dual Red
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Thunder]
     - [Mega Kick]
@@ -222,10 +244,10 @@ evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
 species: Tauros
 ingamename: -??CCCAAA-
 displayname: -??CCCAAA-
-setname: TPP Dual BlueRed
+setname: TPP Dual Red
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Stomp]
     - [Strength]
@@ -239,26 +261,4 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 0, atk: 2, def: 0, spA: 24, spD: 24, spe: 20}
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
----
-species: Venusaur
-ingamename: UUUVVX;:UL
-displayname: UUUVVX;:UL
-setname: TPP Dual BlueRed
-tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
-moves:
-    - [Solar Beam]
-    - [Vine Whip]
-    - [Cut]
-    - [Sleep Powder]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Serious
-ivs: {hp: 24, atk: 30, def: 26, spA: 4, spD: 4, spe: 8}
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}

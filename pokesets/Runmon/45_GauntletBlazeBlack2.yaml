@@ -1,8 +1,7 @@
 species: Milotic
 ingamename: "TRSNNEAESK"
 displayname: "TRSNNEAESK"
-gender: [m]
-setname: TPP Gauntlet Black 2
+setname: TPP Gauntlet BB2
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Marvel Scale]
@@ -11,10 +10,11 @@ moves:
     - [Ice Beam]
     - [Toxic]
     - [Recover]
-happiness: 253
+gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Hasty
 ivs: {hp: 0, atk: 30, def: 25, spA: 30, spD: 7, spe: 30}
@@ -23,7 +23,7 @@ evs: {hp: 56, atk: 123, def: 97, spA: 102, spD: 67, spe: 65}
 species: Porygon-Z
 ingamename: "APSEPIEMG"
 displayname: "APSEPIEMG"
-setname: TPP Gauntlet Black 2
+setname: TPP Gauntlet BB2
 tags: [runmon, in-game]
 item: [Wise Glasses]
 ability: [Adaptability, Download]
@@ -32,12 +32,12 @@ moves:
     - [Ice Beam]
     - [Discharge]
     - [Shadow Ball]
-happiness: 253
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: True
-hidden: false
+hidden: False
 nature: Hasty
 ivs: {hp: 9, atk: 19, def: 3, spA: 4, spD: 26, spe: 28}
 evs: {hp: 70, atk: 117, def: 57, spA: 110, spD: 55, spe: 101}
@@ -45,7 +45,7 @@ evs: {hp: 70, atk: 117, def: 57, spA: 110, spD: 55, spe: 101}
 species: Darkrai
 ingamename: "??w"
 displayname: "??w"
-setname: TPP Gauntlet Black 2
+setname: TPP Gauntlet BB2
 tags: [runmon, in-game]
 item: [Focus Band]
 ability: [Bad Dreams]
@@ -54,10 +54,10 @@ moves:
     - [Thunderbolt, Psychic]
     - [Dark Void]
     - [Nasty Plot]
-happiness: 233
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Bashful
 ivs: {hp: 2, atk: 25, def: 24, spA: 12, spD: 11, spe: 27}
@@ -66,8 +66,7 @@ evs: {hp: 64, atk: 137, def: 60, spA: 119, spD: 63, spe: 67}
 species: Dusknoir
 ingamename: "lierO 6"
 displayname: "lierO 6"
-gender: [m]
-setname: TPP Gauntlet Black 2
+setname: TPP Gauntlet BB2
 tags: [runmon, in-game]
 item: [Grass Mail]
 ability: [Pressure]
@@ -76,6 +75,7 @@ moves:
     - [Sucker Punch]
     - [Strength]
     - [Will-O-Wisp]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0

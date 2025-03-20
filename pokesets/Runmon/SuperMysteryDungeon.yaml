@@ -1,7 +1,7 @@
 species: Quilava
 ingamename: iMLKKJIHJ
 displayname: iMLKKJIHJ
-setname: TPP Super Mystery Dungeon
+setname: TPP Super MD
 tags: [runmon, in-game]
 item: [Red Scarf]
 ability: [Blaze]
@@ -21,7 +21,7 @@ ivs: 31
 evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
 ---
 species: Ampharos
-setname: TPP Super Mystery Dungeon
+setname: TPP Super MD
 tags: [runmon, in-game]
 item: [null]
 ability: [Static]
@@ -41,7 +41,7 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 4, spe: 0}
 ---
 species: Lapras
-setname: TPP Super Mystery Dungeon
+setname: TPP Super MD
 tags: [runmon, in-game]
 item: [null]
 ability: [Water Absorb, Shell Armor]
@@ -61,7 +61,7 @@ ivs: 31
 evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
 ---
 species: Mew
-setname: TPP Super Mystery Dungeon
+setname: TPP Super MD
 tags: [runmon, in-game]
 item: [null]
 ability: [Synchronize]
