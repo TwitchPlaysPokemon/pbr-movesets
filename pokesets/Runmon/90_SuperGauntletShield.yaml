@@ -39,8 +39,8 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Jolly
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: {hp: 17, atk: 22, def: 6, spA: 29, spD: 31, spe: 21}
+evs: {hp: 46, atk: 132, def: 116, spA: 75, spD: 55, spe: 86}
 ---
 species: Zapdos
 ingamename: jU88iKiqu
@@ -72,7 +72,7 @@ item: [Wide Lens]
 ability: [Pressure] # Competitive 
 moves:
     - [Ice Beam] # Freezing Glare
-    - [Hurricane]
+    - [Aeroblast] # Hurricane
     - [U-Turn]
     - [Light Screen]
 happiness: 255

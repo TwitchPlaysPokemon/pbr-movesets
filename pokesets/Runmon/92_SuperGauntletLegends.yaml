@@ -172,8 +172,8 @@ rarity: 1.0
 ball: [Master]
 shiny: False
 nature: Modest
-ivs: {hp: , atk: , def: , spA: , spD: , spe: }
-evs: {hp: , atk: , def: , spA: , spD: , spe: }
+ivs: {hp: 12, atk: 19, def: 27, spA: 29, spD: 25, spe: 12}
+evs: {hp: 12, atk: 85, def: 35, spA: 71, spD: 51, spe: 33}
 ---
 species: Gastrodon
 ingamename: ABLOOO
