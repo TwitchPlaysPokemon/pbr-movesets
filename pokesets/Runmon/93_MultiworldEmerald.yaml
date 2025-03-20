@@ -1,0 +1,413 @@
+species: Ampharos
+ingamename: BCD
+displayname: BCD
+setname: TPP Multiworld Emerald
+tags: [runmon, in-game]
+item: [Never-Melt Ice]
+ability: [Rain Dish]
+moves:
+    - [Thunder]
+    - [Ice Beam]
+    - [Surf]
+    - [Giga Drain]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 20, atk: 29, def: 10, spA: 13, spD: 2, spe: 21}
+evs: {hp: 97, atk: 170, def: 62, spA: 58, spD: 51, spe: 72}
+---
+species: Ninetales
+ingamename: AW
+displayname: AW
+setname: TPP Multiworld Emerald
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Drizzle]
+moves:
+    - [Weather Ball]
+    - [Thunderbolt]
+    - [Spore]
+    - [Calm Mind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hasty
+ivs: {hp: 25, atk: 3, def: 13, spA: 6, spD: 24, spe: 19}
+evs: {hp: 116, atk: 111, def: 70, spA: 63, spD: 60, spe: 90}
+---
+species: Muk
+ingamename: UUVVOP
+displayname: UUVVOP
+setname: TPP Multiworld Emerald
+tags: [runmon, in-game]
+item: [Quick Claw]
+ability: [Hyper Cutter]
+moves:
+    - [Dragon Pulse] #Dragon Claw
+    - [Spore]
+    - [Calm Mind]
+    - [Recover]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hardy
+ivs: {hp: 26, atk: 22, def: 28, spA: 6, spD: 24, spe: 18}
+evs: {hp: 78, atk: 53, def: 36, spA: 45, spD: 25, spe: 86}
+---
+species: Ledian
+ingamename: Lea
+displayname: Lea
+setname: TPP Multiworld Emerald
+tags: [runmon, in-game]
+item: [Silver Powder]
+ability: [Pure Power]
+moves:
+    - [Twineedle]
+    - [Bonemerang]
+    - [Swords Dance]
+    - [Transform]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Brave
+ivs: {hp: 25, atk: 20, def: 0, spA: 4, spD: 16, spe: 15}
+evs: {hp: 62, atk: 55, def: 68, spA: 42, spD: 34, spe: 76}
+---
+species: Chimecho
+ingamename: Hells Bel
+displayname: Hells Bel
+setname: TPP Multiworld Emerald
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Assist]
+    - [Wish]
+    - [Explosion]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: {hp: 31, atk: 13, def: 15, spA: 22, spD: 8, spe: 31}
+evs: {hp: 64, atk: 26, def: 17, spA: 36, spD: 31, spe: 59}
+---
+species: Mew
+ingamename: CRR
+displayname: CRR
+setname: TPP Multiworld Emerald
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [Suction Cups]
+moves:
+    - [Thunder]
+    - [Tri Attack]
+    - [Rock Slide]
+    - [Dragon Dance]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Jolly
+ivs: {hp: 13, atk: 13, def: 26, spA: 11, spD: 1, spe: 9}
+evs: {hp: 81, atk: 66, def: 36, spA: 32, spD: 36, spe: 54}
+---
+species: Beautifly
+ingamename: SIIJKK
+displayname: SIIJKK
+setname: TPS Multiworld Emerald
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [Liquid Ooze]
+moves:
+    - [Surf]
+    - [Flamethrower] #Fire Punch
+    - [Luster Purge]
+    - [Icy Wind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 27, atk: 1, def: 26, spA: 30, spD: 0, spe: 9}
+evs: {hp: 112, atk: 85, def: 74, spA: 57, spD: 68, spe: 114}
+---
+species: Golduck
+ingamename: DEF
+displayname: DEF
+setname: TPS Multiworld Emerald
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [Keen Eye]
+moves:
+    - [Crabhammer]
+    - [Ice Beam]
+    - [Dragon Claw]
+    - [Night Shade]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hardy
+ivs: {hp: 5, atk: 0, def: 13, spA: 10, spD: 5, spe: 9}
+evs: {hp: 85, atk: 53, def: 18, spA: 33, spD: 55, spe: 112}
+---
+species: Deoxys
+ingamename: Mew?
+displayname: Mew?
+setname: TPS Multiworld Emerald
+tags: [runmon, in-game]
+item: [Charcoal]
+ability: [Blaze]
+moves:
+    - [Sacred Fire]
+    - [Waterfall]
+    - [Brick Break]
+    - [Extreme Speed]
+form: Speed
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Brave
+ivs: {hp: 10, atk: 26, def: 9, spA: 2, spD: 27, spe: 21}
+evs: {hp: 131, atk: 110, def: 35, spA: 36, spD: 82, spe: 87}
+---
+species: Latias
+ingamename: Huwg
+displayname: Huwg
+setname: TPS Multiworld Emerald
+tags: [runmon, in-game]
+item: [Soul Dew]
+ability: [Trace]
+moves:
+    - [Mist Ball]
+    - [Surf]
+    - [Tri Attack]
+    - [Soft-Boiled]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Jolly
+ivs: {hp: 8, atk: 19, def: 13, spA: 26, spD: 0, spe: 0}
+evs: {hp: 25, atk: 37, def: 22, spA: 31, spD: 11, spe: 30}
+---
+species: Kyogre
+ingamename: Mocha
+displayname: Mocha
+setname: TPS Multiworld Emerald
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Chlorophyll]
+moves:
+    - [Surf]
+    - [Sludge Bomb]
+    - [Shadow Ball]
+    - [Mist Ball]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Brave
+ivs: {hp: 4, atk: 31, def: 23, spA: 24, spD: 18, spe: 19}
+evs: {hp: 45, atk: 66, def: 37, spA: 53, spD: 49, spe: 50}
+---
+species: Jigglypuff
+ingamename: Pudding
+displayname: Pudding
+setname: TPS Multiworld Emerald
+tags: [runmon, in-game]
+item: [Exp. Share]
+ability: [Plus]
+moves:
+    - [Fly]
+    - [Dive]
+    - [Aurora Beam]
+    - [Bulk Up]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Lax
+ivs: {hp: 0, atk: 24, def: 24, spA: 11, spD: 17, spe: 2}
+evs: {hp: 14, atk: 33, def: 14, spA: 28, spD: 34, spe: 23}
+---
+species: Slaking
+ingamename: UNO
+displayname: UNO
+setname: T2P Multiworld Emerald
+tags: [runmon, in-game]
+item: [Lax Incense]
+ability: [Air Lock]
+moves:
+    - [Meteor Mash]
+    - [Fire Punch]
+    - [Yawn]
+    - [Milk Drink]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 23, atk: 3, def: 3, spA: 5, spD: 24, spe: 17}
+evs: {hp: 125, atk: 137, def: 57, spA: 54, spD: 63, spe: 74}
+---
+species: Beautifly
+ingamename: NAPPY
+displayname: NAPPY
+setname: T2P Multiworld Emerald
+tags: [runmon, in-game]
+item: [Sea Incense]
+ability: [Pickup]
+moves:
+    - [Surf]
+    - [Thunder]
+    - [Ice Beam] #Ice Punch
+    - [Spore]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Rash
+ivs: {hp: 0, atk: 5, def: 15, spA: 3, spD: 3, spe: 5}
+evs: {hp: 58, atk: 68, def: 35, spA: 62, spD: 28, spe: 61}
+---
+species: Venomoth
+ingamename: kQQPJ
+displayname: kQQPJ
+setname: T2P Multiworld Emerald
+tags: [runmon, in-game]
+item: [Magnet]
+ability: [Synchronize]
+moves:
+    - [Thunderbolt]
+    - [Dive]
+    - [Bonemerang]
+    - [Milk Drink]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Docile
+ivs: {hp: 14, atk: 0, def: 25, spA: 5, spD: 18, spe: 8}
+evs: {hp: 66, atk: 72, def: 46, spA: 73, spD: 47, spe: 79}
+---
+species: Murkrow
+ingamename: BRAY
+displayname: BRAY
+setname: T2P Multiworld Emerald
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [Serene Grace]
+moves:
+    - [Bounce]
+    - [Cross Chop]
+    - [Extreme Speed]
+    - [Belly Drum]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Naughty
+ivs: {hp: 20, atk: 9, def: 21, spA: 22, spD: 6, spe: 31}
+evs: {hp: 59, atk: 64, def: 35, spA: 41, spD: 49, spe: 74}
+---
+species: Electrode
+ingamename: CUBE
+displayname: CUBE
+setname: T2P Multiworld Emerald
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [Rain Dish]
+moves:
+    - [Volt Tackle]
+    - [Surf]
+    - [Extrasensory]
+    - [Spore]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Hardy
+ivs: {hp: 19, atk: 12, def: 31, spA: 23, spD: 15, spe: 14}
+evs: {hp: 49, atk: 73, def: 40, spA: 32, spD: 43, spe: 78}
+---
+species: Ho-Oh
+ingamename: BIOMUT
+displayname: BIOMUT
+setname: T2P Multiworld Emerald
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Soundproof]
+moves:
+    - [Heat Wave]
+    - [Psycho Boost]
+    - [Superpower]
+    - [Waterfall]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Hardy
+ivs: {hp: 0, atk: 10, def: 5, spA: 14, spD: 8, spe: 11}
+evs: {hp: 66, atk: 45, def: 23, spA: 29, spD: 47, spe: 61}
+---
+species: Wurmple
+ingamename: HEAT
+displayname: HEAT
+setname: T2P Multiworld Emerald
+tags: [runmon, in-game]
+item: [Charcoal]
+ability: [Cloud Nine]
+moves:
+    - [Sacred Fire]
+    - [Fly]
+    - [Waterfall]
+    - [Strength]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Naive
+ivs: {hp: 24, atk: 13, def: 24, spA: 21, spD: 18, spe: 6}
+evs: {hp: 0, atk: 1, def: 1, spA: 1, spD: 0, spe: 0}

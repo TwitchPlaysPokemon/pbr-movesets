@@ -1,7 +1,7 @@
 species: Marowak
 ingamename: Mama
 displayname: Mama
-setname: TPP Mystery Dungeon DX
+setname: TPPMD DX
 tags: [runmon, in-game]
 item: [Yellow Scarf]
 ability: [Rock Head]
@@ -23,7 +23,7 @@ evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
 species: Charizard
 ingamename: Joe
 displayname: Joe
-setname: TPP Mystery Dungeon DX
+setname: TPPMD DX
 tags: [runmon, in-game]
 item: [Yellow Scarf]
 ability: [Blaze]
@@ -45,7 +45,7 @@ evs: {hp: 0, atk: 0, def: 252, spA: 252, spD: 4, spe: 0}
 species: Linoone
 ingamename: RaccAttack
 displayname: RaccAttack
-setname: TPP Mystery Dungeon DX
+setname: TPPMD DX
 tags: [runmon, in-game]
 item: [null]
 ability: [Quick Feet]
@@ -67,7 +67,7 @@ evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 252, spe: 0}
 species: Gardevoir
 ingamename: GameCube
 displayname: GameCube
-setname: TPP Mystery Dungeon DX
+setname: TPPMD DX
 tags: [runmon, in-game]
 item: [null]
 ability: [Synchronize]

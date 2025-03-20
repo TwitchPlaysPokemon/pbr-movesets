@@ -1,7 +1,7 @@
 species: Rampardos
 ingamename: " "
 displayname: " "
-setname: TPP Randomized Sanqui Blue
+setname: TPP Rando Sanqui Blue
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -14,7 +14,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 20, atk: 18, def: 28, spA: 20, spD: 20, spe: 30}
@@ -23,7 +23,7 @@ evs: {hp: 84, atk: 85, def: 89, spA: 85, spD: 85, spe: 78}
 species: Marshtomp
 ingamename: QHI??????
 displayname: QHI??????
-setname: TPP Randomized Sanqui Blue
+setname: TPP Rando Sanqui Blue
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -36,7 +36,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 22, atk: 26, def: 12, spA: 10, spD: 10, spe: 10}

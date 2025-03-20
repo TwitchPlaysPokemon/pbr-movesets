@@ -1,7 +1,7 @@
 species: Bastiodon
 ingamename: BASTIODON
 displayname: BASTIODON
-setname: TPP HeartGold
+setname: TPP Rando HeartGold
 tags: [runmon, in-game]
 item: [Splash Plate]
 ability: [Soundproof]
@@ -23,9 +23,9 @@ evs: {hp: 44, atk: 137, def: 64, spA: 44, spD: 11, spe: 210}
 species: Groudon
 ingamename: KENYA
 displayname: KENYA
-setname: TPP HeartGold
+setname: TPP Rando HeartGold
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Water Absorb]
 moves:
     - [Sand Tomb]
@@ -35,7 +35,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Hasty
 ivs: 0
@@ -44,9 +44,9 @@ evs: {hp: 0, atk: 252, def: 0, spA: 60, spD: 0, spe: 0}
 species: Omastar
 ingamename: OMASTAR
 displayname: OMASTAR
-setname: TPP HeartGold
+setname: TPP Rando HeartGold
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Thick Fat]
 moves:
     - [Water Spout]
@@ -66,9 +66,9 @@ evs: {hp: 65, atk: 81, def: 175, spA: 102, spD: 30, spe: 57}
 species: Rampardos
 ingamename: 6 â¦'j
 displayname: 6 â¦'j
-setname: TPP HeartGold
+setname: TPP Rando HeartGold
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Flame Body]
 moves:
     - [Magnitude]
@@ -88,9 +88,9 @@ evs: {hp: 46, atk: 154, def: 72, spA: 119, spD: 19, spe: 100}
 species: Sudowoodo
 ingamename: A
 displayname: A
-setname: TPP HeartGold
+setname: TPP Rando HeartGold
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Sniper]
 moves:
     - [Rock Wrecker]
@@ -110,9 +110,9 @@ evs: {hp: 90, atk: 120, def: 52, spA: 71, spD: 43, spe: 134}
 species: Vibrava
 ingamename: ","
 displayname: ","
-setname: TPP HeartGold
+setname: TPP Rando HeartGold
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Arena Trap]
 moves:
     - [Magnitude]
@@ -123,7 +123,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Impish
 ivs: {hp: 25, atk: 16, def: 11, spA: 16, spD: 20, spe: 16}
@@ -132,7 +132,7 @@ evs: {hp: 109, atk: 116, def: 64, spA: 81, spD: 39, spe: 101}
 species: Xatu
 ingamename: xrr♂ ♦
 displayname: xrr♂ ♦
-setname: TPP HeartGold
+setname: TPP Rando HeartGold
 tags: [runmon, in-game]
 item: [Nugget]
 ability: [Hustle]
@@ -144,10 +144,10 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: True
+hidden: False
 nature: Bashful
 ivs: {hp: 18, atk: 12, def: 15, spA: 8, spD: 15, spe: 30}
 evs: {hp: 97, atk: 127, def: 73, spA: 87, spD: 24, spe: 102}
