@@ -1,0 +1,22 @@
+species: Claydol
+displayname: X.A.N.A.
+ingamename: X.A.N.A.
+setname: Pokelypse-XANA
+tags: [pokelypse]
+item: [Dubious Disc]
+ability: Wonder Guard
+moves:
+    - [Discharge]
+    - [Attack Order]
+    - [Shadow Sneak, Nasty Plot]
+    - [Conversion, Conversion 2, Disable]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+hidden: False
+---

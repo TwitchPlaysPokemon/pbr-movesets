@@ -1,7 +1,7 @@
 species: Gengar
 ingamename: HECTOR
 displayname: HECTOR
-setname: TPP Green
+setname: TPP RGB Race Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -23,7 +23,7 @@ evs: {hp: 127, atk: 137, def: 139, spA: 134, spD: 134, spe: 133}
 species: Venusaur
 ingamename: ABAAABBBBK
 displayname: ABAAABBBBK
-setname: TPP Green
+setname: TPP RGB Race Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -45,7 +45,7 @@ evs: {hp: 102, atk: 115, def: 113, spA: 104, spD: 104, spe: 119}
 species: Dugtrio
 ingamename: B!♂
 displayname: B!♂
-setname: TPP Green
+setname: TPP RGB Race Green
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -67,7 +67,7 @@ evs: {hp: 85, atk: 92, def: 87, spA: 95, spD: 95, spe: 94}
 species: Blastoise
 ingamename: NN
 displayname: NN
-setname: TPS Red
+setname: TPS RGB Race Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -89,7 +89,7 @@ evs: {hp: 120, atk: 135, def: 128, spA: 119, spD: 119, spe: 132}
 species: Dugtrio
 ingamename: A
 displayname: A
-setname: TPS Red
+setname: TPS RGB Race Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -111,7 +111,7 @@ evs: {hp: 83, atk: 92, def: 92, spA: 86, spD: 86, spe: 83}
 species: Jolteon
 ingamename: JOLTEON
 displayname: JOLTEON
-setname: TPS Red
+setname: TPS RGB Race Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -133,7 +133,7 @@ evs: {hp: 65, atk: 72, def: 73, spA: 66, spD: 66, spe: 67}
 species: Nidoking
 ingamename: HA
 displayname: HA
-setname: TPPM Blue
+setname: TPPM RGB Race Blue
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -155,7 +155,7 @@ evs: {hp: 130, atk: 142, def: 137, spA: 132, spD: 132, spe: 148}
 species: Jolteon
 ingamename: SPARK
 displayname: SPARK
-setname: TPPM Blue
+setname: TPPM RGB Race Blue
 tags: [runmon, in-game]
 item: [null]
 ability: [null]

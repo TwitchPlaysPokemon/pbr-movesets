@@ -1,7 +1,7 @@
 species: Hariyama
 ingamename: LLNEHtDaay
 displayname: LLNEHtDaay
-setname: TPP Mystery Dungeon Randomized Sky
+setname: TPPMD Rando Sky
 tags: [runmon, in-game]
 item: [null]
 ability: [Cloud Nine, Marvel Scale]
@@ -23,7 +23,7 @@ evs: {hp: 0, atk: 0, def: 128, spA: 252, spD: 128, spe: 0}
 species: Ursaring
 ingamename: -L
 displayname: -L
-setname: TPP Mystery Dungeon Randomized Sky
+setname: TPPMD Rando Sky
 tags: [runmon, in-game]
 item: [null]
 ability: [Torrent]
@@ -45,7 +45,7 @@ evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
 species: Charizard
 ingamename: pepega
 displayname: pepega
-setname: TPP Mystery Dungeon Randomized Sky
+setname: TPPMD Rando Sky
 tags: [runmon, in-game]
 item: [null]
 ability: [Snow Warning, Pickup]
@@ -67,7 +67,7 @@ evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
 species: Salamence
 ingamename: cacaaaaa
 displayname: cacaaaaa
-setname: TPP Mystery Dungeon Randomized Sky
+setname: TPPMD Rando Sky
 tags: [runmon, in-game]
 item: [null]
 ability: [Forecast, Gluttony]
@@ -89,7 +89,7 @@ evs: {hp: 0, atk: 124, def: 128, spA: 0, spD: 128, spe: 128}
 species: Grovyle
 ingamename: Grovyle
 displayname: Grovyle
-setname: TPP Mystery Dungeon Randomized Sky
+setname: TPPMD Rando Sky
 tags: [runmon, in-game]
 item: [null]
 ability: [Gluttony]
@@ -111,7 +111,7 @@ evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
 species: Dusknoir
 ingamename: Dusknoir
 displayname: Dusknoir
-setname: TPP Mystery Dungeon Randomized Sky
+setname: TPPMD Rando Sky
 tags: [runmon, in-game]
 item: [null]
 ability: [Solid Rock, Solar Power]
@@ -133,7 +133,7 @@ evs: {hp: 252, atk: 128, def: 0, spA: 128, spD: 0, spe: 0}
 species: Celebi
 ingamename: Celebi
 displayname: Celebi
-setname: TPP Mystery Dungeon Randomized Sky
+setname: TPPMD Rando Sky
 tags: [runmon, in-game]
 item: [null]
 ability: [Soundproof]
@@ -147,7 +147,7 @@ biddable: True
 rarity: 1.0
 ball: [Dusk]
 shiny: True
-hidden: false
+hidden: False
 nature: Rash
 ivs: 9
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}

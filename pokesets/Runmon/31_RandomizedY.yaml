@@ -1,7 +1,7 @@
 species: Claydol
 ingamename: "!! 777"
 displayname: "!! 777"
-setname: TPP Randomized Y
+setname: TPP Rando Y
 tags: [runmon, in-game]
 item: [TinyMushroom]
 ability: [Oblivious]
@@ -13,7 +13,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Gentle
 ivs: {hp: 23, atk: 8, def: 4, spA: 9, spD: 10, spe: 11}
@@ -22,7 +22,7 @@ evs: {hp: 76, atk: 144, def: 65, spA: 87, spD: 46, spe: 92}
 species: Gallade
 ingamename: Yugi
 displayname: Yugi
-setname: TPP Randomized Y
+setname: TPP Rando Y
 tags: [runmon, in-game]
 item: [Super Repel]
 ability: [Arena Trap]
@@ -44,7 +44,7 @@ evs: {hp: 36, atk: 182, def: 58, spA: 132, spD: 56, spe: 46}
 species: Lapras
 ingamename: vmcfflnocp
 displayname: "!!vmcfflnocp"
-setname: TPP Randomized Y
+setname: TPP Rando Y
 tags: [runmon, in-game]
 item: [Lum Berry]
 ability: [Steadfast]
@@ -57,7 +57,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Hardy
 ivs: {hp: 1, atk: 15, def: 15, spA: 5, spD: 14, spe: 2}
@@ -66,7 +66,7 @@ evs: {hp: 62, atk: 110, def: 75, spA: 109, spD: 60, spe: 94}
 species: Lapras
 ingamename: OODDIS
 displayname: OODDIS
-setname: TPP Randomized Y-2
+setname: TPP Rando Y-2
 tags: [runmon, in-game]
 item: [Lum Berry]
 ability: [Water Absorb]
@@ -79,7 +79,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Docile
 ivs: {hp: 31, atk: 20, def: 20, spA: 20, spD: 20, spe: 20}
@@ -88,9 +88,9 @@ evs: {hp: 101, atk: 95, def: 70, spA: 100, spD: 50, spe: 94}
 species: Ludicolo
 ingamename: Ludicolo
 displayname: Ludicolo
-setname: TPP Randomized Y
+setname: TPP Rando Y
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Quick Feet]
 moves:
     - [False Swipe]
@@ -110,9 +110,9 @@ evs: {hp: 55, atk: 130, def: 91, spA: 96, spD: 54, spe: 84}
 species: Machamp
 ingamename: Grov
 displayname: Grov
-setname: TPP Randomized Y
+setname: TPP Rando Y
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Battle Armor]
 moves:
     - [Stun Spore]
@@ -132,9 +132,9 @@ evs: {hp: 50, atk: 162, def: 63, spA: 112, spD: 65, spe: 58}
 species: Staraptor
 ingamename: Purrloind
 displayname: Purrloind
-setname: TPP Randomized Y
+setname: TPP Rando Y
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Tangled Feet]
 moves:
     - [Fly]
@@ -145,7 +145,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Modest
 ivs: {hp: 16, atk: 10, def: 23, spA: 24, spD: 26, spe: 25}
@@ -154,7 +154,7 @@ evs: {hp: 100, atk: 101, def: 72, spA: 99, spD: 39, spe: 99}
 species: Torterra
 ingamename: Meowthhhuj
 displayname: Meowthhhujeq
-setname: TPP Randomized Y
+setname: TPP Rando Y
 tags: [runmon, in-game]
 item: [Earth Plate]
 ability: [Rock Head]
@@ -176,7 +176,7 @@ evs: {hp: 92, atk: 99, def: 59, spA: 106, spD: 56, spe: 98}
 species: Weezing
 ingamename: Weezing
 displayname: Weezing
-setname: TPP Randomized Y
+setname: TPP Rando Y
 tags: [runmon, in-game]
 item: [Awakening]
 ability: [Download]

@@ -1,7 +1,7 @@
 species: Absol
 ingamename: Absol
 displayname: Absol
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 item: [Dread Plate]
 ability: [Minus]
@@ -13,7 +13,6 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: False
@@ -24,7 +23,7 @@ evs: {hp: 42, atk: 188, def: 47, spA: 88, spD: 69, spe: 76}
 species: Articuno
 ingamename: Articun
 displayname: Articun
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 item: [Honey, Mind Plate]
 ability: [Chlorophyll]
@@ -37,7 +36,6 @@ combinations:
     - [Mind Plate, Judgment, Cut]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Premier]
 shiny: False
@@ -48,7 +46,7 @@ evs: {hp: 41, atk: 161, def: 111, spA: 39, spD: 76, spe: 29}
 species: Blastoise
 ingamename: OLLEEVvv
 displayname: OLLEEVvv
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Skill Link]
@@ -60,7 +58,6 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: False
@@ -71,7 +68,7 @@ evs: {hp: 71, atk: 119, def: 63, spA: 83, spD: 94, spe: 80}
 species: Charizard
 ingamename: gqvvvqqolq
 displayname: gqvvvqqolq
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 ability: [Suction Cups]
 item: [X Speed]
@@ -83,7 +80,6 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: False
@@ -94,7 +90,7 @@ evs: {hp: 75, atk: 165, def: 47, spA: 99, spD: 59, spe: 63}
 species: Floatzel
 ingamename: GD LREd
 displayname: GD LREd
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 item: [Grass Mail]
 ability: [Drizzle]
@@ -106,7 +102,6 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: False
@@ -117,7 +112,7 @@ evs: {hp: 47, atk: 121, def: 80, spA: 82, spD: 53, spe: 127}
 species: Cresselia
 ingamename: Dragonairy
 displayname: Dragonairy
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 item: [Lucky Egg]
 ability: [Sturdy]
@@ -129,7 +124,6 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Dusk]
 shiny: False
@@ -140,7 +134,7 @@ evs: {hp: 36, atk: 154, def: 106, spA: 86, spD: 87, spe: 41}
 species: Jynx
 ingamename: Cottone.♪'
 displayname: Cottone.♪'
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 ability: [Download]
 moves:
@@ -151,7 +145,6 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: False
@@ -162,7 +155,7 @@ evs: {hp: 48, atk: 87, def: 38, spA: 19, spD: 22, spe: 78}
 species: Kyogre
 ingamename: VigorothQY
 displayname: VigorothQY
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Pure Power]
@@ -173,7 +166,6 @@ moves:
     - [Softboiled]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Luxury]
 shiny: False
@@ -184,7 +176,7 @@ evs: {hp: 25, atk: 86, def: 97, spA: 36, spD: 60, spe: 33}
 species: Mightyena
 ingamename: ♦ ♂♂♂~ ♪
 displayname: ♦ ♂♂♂~ ♪
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 ability: [Arena Trap]
 item: [Star Piece]
@@ -196,7 +188,6 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: False
@@ -207,7 +198,7 @@ evs: {hp: 90, atk: 113, def: 38, spA: 33, spD: 22, spe: 121}
 species: Pidgeot
 ingamename: Gothori♥%♛
 displayname: Gothori♥%♛
-setname: TPP White 2
+setname: TPP Rando White 2
 tags: [runmon, in-game]
 ability: [Synchronize]
 moves:
@@ -218,7 +209,6 @@ moves:
 gender: [m]
 happiness: 255
 biddable: True
-hidden: False
 rarity: 1.0
 ball: [Poke]
 shiny: False

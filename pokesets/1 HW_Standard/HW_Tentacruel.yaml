@@ -43,3 +43,27 @@ nature: Naughty
 ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 188, def: 68, spA: 252, spD: 0, spe: 0}
 hidden: false
+---
+species: Tentacruel
+ingamename: Scyphozoa
+displayname: Scyphozoa
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: Levitate
+moves:
+    - [Giga Drain]
+    - [Wrap, Confusion]
+    - [Amnesia, Confuse Ray, Heart Swap]
+    - [Endure, Recover]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+nature: Sassy
+ivs: 31
+evs: {hp: 252, atk: 0, def: 16, spA: 0, spD: 240, spe: 0}
+hidden: false
+---

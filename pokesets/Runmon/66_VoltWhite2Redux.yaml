@@ -1,7 +1,7 @@
 species: Lucario
 ingamename: Sora
 displayname: Sora
-setname: TPP Volt White 2 Redux
+setname: TPP VW2 Redux
 tags: [runmon, in-game]
 item: [Expert Belt]
 ability: [Steadfast]
@@ -23,7 +23,7 @@ evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
 species: Qwilfish
 ingamename: KILLFISH
 displayname: KILLFISH
-setname: TPP Volt White 2 Redux
+setname: TPP VW2 Redux
 tags: [runmon, in-game]
 item: [Black Sludge]
 ability: [Intimidate]
@@ -45,7 +45,7 @@ evs: {hp: 6, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
 species: Volbeat
 ingamename: Stu) ;?,54
 displayname: Stu) ;?,54
-setname: TPP Volt White 2 Redux
+setname: TPP VW2 Redux
 tags: [runmon, in-game]
 item: [Bright Powder]
 ability: [Swarm]

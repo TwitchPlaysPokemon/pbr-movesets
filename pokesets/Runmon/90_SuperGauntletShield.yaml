@@ -1,0 +1,85 @@
+species: Hitmonchan
+ingamename: ¢¢
+displayname: ¢¢
+setname: TPP Super Gauntlet Shield
+tags: [runmon, in-game]
+item: [Life Orb]
+ability: [Iron Fist]
+moves:
+    - [Close Combat]
+    - [Drain Punch]
+    - [Thunder Punch]
+    - [Ice Punch]
+gender: [m]
+happiness: 170
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 3, atk: 1, def: 23, spA: 16, spD: 19, spe: 20}
+evs: {hp: 52, atk: 114, def: 85, spA: 80, spD: 57, spe: 122}
+---
+species: Hippowdon
+ingamename: Mayo
+displayname: Mayo
+setname: TPP Super Gauntlet Shield
+tags: [runmon, in-game]
+item: [Soft Sand]
+ability: [Sand Stream]
+moves:
+    - [Earthquake]
+    - [Ice Fang]
+    - [Yawn]
+    - [Slack Off]
+gender: [f]
+happiness: 161
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 17, atk: 22, def: 6, spA: 29, spD: 31, spe: 21}
+evs: {hp: 46, atk: 132, def: 116, spA: 75, spD: 55, spe: 86}
+---
+species: Zapdos
+ingamename: jU88iKiqu
+displayname: jU88iKiqu
+setname: TPP Super Gauntlet Shield
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Pressure] #Defiant
+moves:
+    - [Thunder Punch] # Thunderous Kick
+    - [Drill Peck]
+    - [Crunch] # Throat Chop
+    - [U-Turn]
+happiness: 252
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Naughty
+ivs: {hp: 31, atk: 6, def: 31, spA: 31, spD: 11, spe: 7}
+evs: {hp: 43, atk: 87, def: 79, spA: 183, spD: 47, spe: 71}
+---
+species: Articuno
+ingamename: Merlin
+displayname: Merlin
+setname: TPP Super Gauntlet Shield
+tags: [runmon, in-game]
+item: [Wide Lens]
+ability: [Pressure] # Competitive 
+moves:
+    - [Ice Beam] # Freezing Glare
+    - [Aeroblast] # Hurricane
+    - [U-Turn]
+    - [Light Screen]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Hasty
+ivs: {hp: 7, atk: 31, def: 23, spA: 31, spD: 31, spe: 9}
+evs: {hp: 32, atk: 69, def: 75, spA: 232, spD: 45, spe: 57}

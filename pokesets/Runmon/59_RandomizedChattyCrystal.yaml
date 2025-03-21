@@ -1,7 +1,7 @@
 species: Chatot
 ingamename: "KENYA"
 displayname: "KENYA"
-setname: TPP Randomized Chatty Crystal
+setname: TPP Rando Chatty Crystal
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [null]
@@ -23,7 +23,7 @@ evs: {hp: 169, atk: 181, def: 171, spA: 171, spD: 171, spe: 170}
 species: Flygon
 ingamename: "Altbcuu"
 displayname: "Altbcuu"
-setname: TPP Randomized Chatty Crystal
+setname: TPP Rando Chatty Crystal
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -33,7 +33,7 @@ moves:
     - [Thunderbolt]
     - [High Jump Kick]
 gender: [m]
-happiness: 141
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -45,7 +45,7 @@ evs: {hp: 56, atk: 58, def: 55, spA: 55, spD: 55, spe: 57}
 species: Moltres
 ingamename: "QQQ II"
 displayname: "QQQ II"
-setname: TPP Randomized Chatty Crystal
+setname: TPP Rando Chatty Crystal
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [null]
@@ -66,7 +66,7 @@ evs: {hp: 208, atk: 214, def: 213, spA: 207, spD: 207, spe: 204}
 species: Floatzel
 ingamename: "IIIHHH"
 displayname: "IIIHHH"
-setname: TPP Randomized Chatty Crystal
+setname: TPP Rando Chatty Crystal
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -76,7 +76,7 @@ moves:
     - [Whirlpool]
     - [Waterfall]
 gender: [m]
-happiness: 226
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -88,14 +88,14 @@ evs: {hp: 92, atk: 97, def: 91, spA: 91, spD: 91, spe: 93}
 species: Ditto
 ingamename: "iD"
 displayname: "iD"
-setname: TPP Randomized Chatty Crystal
+setname: TPP Rando Chatty Crystal
 tags: [runmon, in-game]
 item: [Metal Powder]
 ability: [null]
 moves:
     - [Transform]
     - [Hidden Power]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -108,7 +108,7 @@ evs: {hp: 204, atk: 210, def: 213, spA: 211, spD: 211, spe: 207}
 species: Salamence
 ingamename: "Z-SSq"
 displayname: "Z-SSq"
-setname: TPP Randomized Chatty Crystal
+setname: TPP Rando Chatty Crystal
 tags: [runmon, in-game]
 item: [Scope Lens]
 ability: [null]
@@ -130,7 +130,7 @@ evs: {hp: 215, atk: 216, def: 208, spA: 210, spD: 210, spe: 208}
 species: Milotic
 ingamename: "JRQM"
 displayname: "JRQM"
-setname: TPP Randomized Chatty Crystal
+setname: TPP Rando Chatty Crystal
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [null]

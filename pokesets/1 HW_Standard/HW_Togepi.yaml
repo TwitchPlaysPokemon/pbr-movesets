@@ -20,3 +20,27 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 220, atk: 252, def: 160, spA: 0, spD: 160, spe: 252}
 hidden: false
+---
+species: Togepi
+ingamename: Huevo Malo
+displayname: El Huevo Malo
+setname: Halloween0
+tags: [halloween]
+item: Rabuta Berry
+ability: Effect Spore
+moves:
+    - [Metronome]
+    - [Role Play]
+    - [Toxic Spikes]
+    - [Heal Order]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Quirky
+ivs: 0
+evs: 0
+hidden: false
+---
