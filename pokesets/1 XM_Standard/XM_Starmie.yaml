@@ -20,7 +20,7 @@ ivs: {hp: 22, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 96, atk: 76, def: 72, spA: 76, spD: 100, spe: 8}
 hidden: False
 ---
-species: Starmine
+species: Starmie
 ingamename: Cyrus
 displayname: Cyrus Albright
 setname: Christmas2
@@ -32,7 +32,7 @@ moves:
     - [Blizzard]
     - [Thunder]
     - [Tri Attack]
-gender: [m]
+gender: []
 happiness: 255
 biddable: True
 rarity: 1.0
