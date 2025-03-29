@@ -66,3 +66,26 @@ nature: Serious
 ivs: 0
 evs: {hp: 0, atk: 0, def: 60, spA: 0, spD: 60, spe: 216}
 hidden: false
+---
+species: Ursaring
+ingamename: Osvald
+displayname: Osvald V. Vanstein
+setname: Halloween4
+tags: [halloween]
+item: [Choice Specs]
+ability: [Forewarn]
+moves:
+    - [Flamethrower]
+    - [Icy Wind]
+    - [Thunderbolt]
+    - [Hyper Beam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 16, spA: 31, spD: 24, spe: 8}
+evs: {hp: 0, atk: 0, def: 68, spA: 252, spD: 16, spe: 28}
+hidden: false
