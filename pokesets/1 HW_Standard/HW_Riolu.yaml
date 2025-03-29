@@ -18,3 +18,26 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 252, spA: 0, spD: 252, spe: 252}
 hidden: false
+---
+species: Riolu
+ingamename: Ochette
+displayname: Ochette
+setname: Halloween2
+tags: [halloween]
+item: [Master Ball]
+ability: [Keen Eye]
+moves:
+    - [Crunch]
+    - [Dragon Claw]
+    - [Howl]
+    - [String Shot]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Naughty
+ivs: {hp: 16, atk: 31, def: 8, spA: 8, spD: 0, spe: 16}
+evs: {hp: 92, atk: 252, def: 124, spA: 40, spD: 0, spe: 0}
+hidden: false
