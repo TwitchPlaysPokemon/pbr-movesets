@@ -20,3 +20,26 @@ nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 64, atk: 0, def: 64, spA: 252, spD: 64, spe: 64}
 hidden: false
+---
+species: Altaria
+ingamename: Temenos
+displayname: Temenos Mistral
+setname: Halloween2
+tags: [halloween]
+item: [Stone Plate]
+ability: [Intimidate]
+moves:
+    - [Judgment]
+    - [Moonlight]
+    - [Light Screen]
+    - [Explosion]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Sassy
+ivs: {hp: 0, atk: 31, def: 24, spA: 31, spD: 31, spe: 0}
+evs: {hp: 0, atk: 0, def: 72, spA: 184, spD: 252, spe: 0}
+hidden: false
