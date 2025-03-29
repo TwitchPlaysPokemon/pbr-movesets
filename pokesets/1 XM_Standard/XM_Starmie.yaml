@@ -32,7 +32,6 @@ moves:
     - [Blizzard]
     - [Thunder]
     - [Tri Attack]
-gender: [None]
 happiness: 255
 biddable: True
 rarity: 1.0
