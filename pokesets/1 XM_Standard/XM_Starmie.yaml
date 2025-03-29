@@ -25,14 +25,14 @@ ingamename: Cyrus
 displayname: Cyrus Albright
 setname: Christmas2
 tags: [christmas]
-item: [Cleanse Tag]
-ability: [Oblivious]
+item: Cleanse Tag
+ability: Oblivious
 moves:
     - [Fire Blast]
     - [Blizzard]
     - [Thunder]
     - [Tri Attack]
-gender: []
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -40,5 +40,5 @@ ball: [Great]
 shiny: False
 nature: Modest
 ivs: {hp: 0, atk: 0, def: 8, spA: 31, spD: 24, spe: 8}
-evs: {hp: 0, atk: 0, def: 50, spA: 252, spD: 156, spe: 50}
+evs: {hp: 0, atk: 0, def: 50, spA: 200, spD: 156, spe: 50}
 hidden: false
