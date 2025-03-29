@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 0, atk: 40, def: 60, spA: 252, spD: 60, spe: 0}
 hidden: false
+---
+species: Seviper
+ingamename: Throné
+displayname: Throné Anguis
+setname: Halloween2
+tags: [halloween]
+item: [Quick Claw]
+ability: [Download]
+moves:
+    - [Extreme Speed]
+    - [Night Slash]
+    - [Agility]
+    - [Screech]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Naughty
+ivs: {hp: 16, atk: 24, def: 8, spA: 8, spD: 0, spe: 31}
+evs: {hp: 76, atk: 152, def: 52, spA: 52, spD: 0, spe: 176}
+hidden: false
