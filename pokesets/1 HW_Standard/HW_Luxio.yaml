@@ -20,7 +20,7 @@ nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 180, atk: 0, def: 128, spA: 72, spD: 128, spe: 0}
 hidden: false
-----
+---
 species: Luxio
 ingamename: Not Found
 displayname: Set Not Found
@@ -43,4 +43,4 @@ nature: Adamant
 ivs: 31
 evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
 hidden: false
-----
+---

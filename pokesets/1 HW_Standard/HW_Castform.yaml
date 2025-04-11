@@ -52,10 +52,10 @@ tags: [halloween]
 item: Sky Plate
 ability: [Plus, Minus]
 moves:
-    - [Aeroblast, Blizzard, ExtremeSpeed, Double Hit, Mirror Shot, Poison Tail, Razor Wind, Rock Climb, Sludge Wave, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball]
-    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Wave, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
-    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Wave, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
-    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Wave, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
+    - [Aeroblast, Blizzard, ExtremeSpeed, Double Hit, Mirror Shot, Poison Tail, Razor Wind, Rock Climb, Sludge Bomb, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball]
+    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Bomb, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
+    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Bomb, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
+    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Bomb, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
 separations:
     - [Aeroblast, Aeroblast] # Gale
     - [Agility, Agility] # Fleet
@@ -76,7 +76,7 @@ separations:
     - [Rock Climb, Rock Climb] # Sirocco
     - [Roost, Roost] # Breath
     - [Sleep Powder, Sleep Powder] # Waft
-    - [Sludge Wave, Sludge Wave] # Simoom
+    - [Sludge Bomb, Sludge Bomb] # Simoom
     - [Sweet Scent, Sweet Scent] # Wisp
     - [Tailwind, Tailwind] # Zephyr
     - [Thunderbolt, Thunderbolt] # Bolt
