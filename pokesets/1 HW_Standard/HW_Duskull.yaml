@@ -112,3 +112,50 @@ nature: Mild
 ivs: {hp: 31, atk: 31, def: 21, spA: 31, spD: 0, spe: 31}
 evs: {hp: 252, atk: 252, def: 0, spA: 252, spD: 0, spe: 252}
 hidden: false
+---
+species: Duskull
+ingamename: Mars 
+displayname: Mars Djinn 
+setname: Halloween-GS
+tags: [halloween]
+item: Flame Plate
+ability: [Plus, Minus]
+moves:
+    - [Acid, Discharge, DragonBreath, Dragon Rage, Eruption, Flame Wheel, Lava Plume, Luster Purge, Mirror Shot, Psywave, Spark]
+    - [Acid, Agility, Counter, Discharge, Disable, DragonBreath, Dragon Rage, Eruption, Flame Wheel, Focus Energy, Howl, Lava Plume, Luster Purge, Mirror Shot, Power Trick, Protect, Psywave, Reflect, Spark, Spite, Swords Dance, Wish]
+    - [Acid, Agility, Counter, Discharge, Disable, DragonBreath, Dragon Rage, Eruption, Flame Wheel, Focus Energy, Howl, Lava Plume, Luster Purge, Mirror Shot, Power Trick, Protect, Psywave, Reflect, Spark, Spite, Swords Dance, Wish]
+    - [Acid, Agility, Counter, Discharge, Disable, DragonBreath, Dragon Rage, Eruption, Flame Wheel, Focus Energy, Howl, Lava Plume, Luster Purge, Mirror Shot, Power Trick, Protect, Psywave, Reflect, Spark, Spite, Swords Dance, Wish]
+separations:
+    - [Acid, Acid] # Lava
+    - [Agility, Agility] # Coal
+    - [Counter, Counter] # Reflux
+    - [Discharge, Discharge] # Chili
+    - [Disable, Disable] # Brand
+    - [DragonBreath, DragonBreath] # Pepper
+    - [Dragon Rage, Dragon Rage] # Torch
+    - [Eruption, Eruption] # Wrath
+    - [Flame Wheel, Flame Wheel] # Cannon
+    - [Focus Energy, Focus Energy] # Ember, Flare
+    - [Howl, Howl] # Kindle, Stoke
+    - [Lava Plume, Lava Plume] # Fury
+    - [Luster Purge, Luster Purge] # Sizzle
+    - [Mirror Shot, Mirror Shot] # Fever, Shine, Glare
+    - [Power Trick, Power Trick] # Aurora
+    - [Protect, Protect] # Flash
+    - [Psywave, Psywave] # Core
+    - [Reflect, Reflect] # Corona
+    - [Spark, Spark] # Scorch, Char
+    - [Spite, Spite] # Fugue
+    - [Swords Dance, Swords Dance] # Forge
+    - [Wish, Wish] # Spark, Tinder, Cinder, Glow
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Relaxed
+ivs: 31
+evs: {hp: 252, atk: 4, def: 40, spA: 0, spD: 128, spe: 40}
+hidden: false
+---

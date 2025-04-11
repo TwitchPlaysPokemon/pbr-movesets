@@ -1,0 +1,23 @@
+species: Vulpix
+ingamename: TailsDoll
+displayname: Tails Doll
+setname: Halloween
+tags: [halloween]
+item: Life Orb
+ability: Levitate
+moves:
+    - [ExtremeSpeed]
+    - [Giga Drain]
+    - [Thunder Wave]
+    - [Curse]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Sassy
+ivs: 31
+evs: {hp: 248, atk: 8, def: 0, spA: 0, spD: 252, spe: 0}
+hidden: false
+----

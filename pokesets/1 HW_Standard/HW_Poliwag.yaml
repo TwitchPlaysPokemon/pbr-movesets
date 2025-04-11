@@ -1,0 +1,23 @@
+species: Poliwag
+ingamename: Plankton 
+displayname: Plankton 
+setname: ElectroHalloween
+tags: [halloween]
+item: Zoom Lens
+ability: Swift Swim
+moves:
+    - [Chatter, Bounce]
+    - [Sing]
+    - [Mimic]
+    - [Aqua Ring]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Quirky
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 8, def: 120, spA: 8, spD: 120, spe: 0}
+hidden: false
+---

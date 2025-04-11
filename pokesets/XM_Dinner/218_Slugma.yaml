@@ -20,3 +20,26 @@ ivs: 31
 evs: {hp: 128, atk: 252, def: 252, spA: 0, spD: 252, spe: 0}
 nature: Brave
 hidden: false
+---
+species: Slugma
+ingamename: Gloubiblga
+displayname: Gloubi-boulga
+setname: Dinner-GB
+tags: [Dinner]
+ball: [Premier]
+item: [Nanab Berry, Rawst Berry, Occa Berry, Damp Mulch, Gooey Mulch]
+ability: Stench
+moves:
+    - [Sludge]
+    - [Confusion]
+    - [Heat Wave]
+    - [Acid Armor, Gastro Acid]
+happiness: 255
+gender: [m,f]
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: 31
+evs: {hp: 248, atk: 0, def: 0, spA: 252, spD: 8, spe: 0}
+nature: Modest
+hidden: false

@@ -20,3 +20,53 @@ nature: Brave
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 0}
 hidden: false
+---
+species: Seedot
+ingamename: Venus 
+displayname: Venus Djinn 
+setname: Halloween-GS
+tags: [halloween]
+item: Earth Plate
+ability: [Plus, Minus]
+moves:
+    - [Beat Up, Bonemerang, Constrict, Earth Power, Force Palm, Giga Drain, Iron Tail, Mega Drain, Payback, Poison Jab, Strength]
+    - [Aromatherapy, Barrier, Beat Up, Bonemerang, Constrict, Earth Power, Force Palm, Giga Drain, Gravity, Iron Defense, Iron Tail, Glare, Mega Drain, Payback, Perish Song, Poison Jab, Protect, Recover, Sand-Attack, Strength, Stun Spore, Swagger, Synthesis, Wish, Withdraw]
+    - [Aromatherapy, Barrier, Beat Up, Bonemerang, Constrict, Earth Power, Force Palm, Giga Drain, Gravity, Iron Defense, Iron Tail, Glare, Mega Drain, Payback, Perish Song, Poison Jab, Protect, Recover, Sand-Attack, Strength, Stun Spore, Swagger, Synthesis, Wish, Withdraw]
+    - [Aromatherapy, Barrier, Beat Up, Bonemerang, Constrict, Earth Power, Force Palm, Giga Drain, Gravity, Iron Defense, Iron Tail, Glare, Mega Drain, Payback, Perish Song, Poison Jab, Protect, Recover, Sand-Attack, Strength, Stun Spore, Swagger, Synthesis, Wish, Withdraw]
+separations:
+    - [Aromatherapy, Aromatherapy] # Salt, Clover
+    - [Barrier, Barrier] # Granite, Bark
+    - [Beat Up, Beat Up] # Meld, Chain
+    - [Bonemerang, Bonemerang] # Echo
+    - [Constrict, Constrict] # Vine
+    - [Earth Power, Earth Power] # Geode
+    - [Force Palm, Force Palm] # Magnet
+    - [Giga Drain, Giga Drain] # Sap, Furrow
+    - [Gravity, Gravity] # Ground
+    - [Iron Defense, Iron Defense] # Iron, Brick
+    - [Iron Tail, Iron Tail] # Pewter
+    - [Glare, Glare] # Ivy
+    - [Mega Drain, Mega Drain] # Steel
+    - [Payback, Payback] # Mold
+    - [Perish Song, Perish Song] # Hemlock
+    - [Poison Jab, Poison Jab] # Bane
+    - [Protect, Protect] # Chasm
+    - [Recover, Recover] # Crystal
+    - [Sand-Attack, Sand-Attack] # Mud
+    - [Strength, Strength] # Flint
+    - [Stun Spore, Stun Spore] # Petra
+    - [Swagger, Swagger] # Gears
+    - [Synthesis, Synthesis] # Flower, Garland
+    - [Wish, Wish] # Quartz
+    - [Withdraw, Withdraw] # Buckle
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Relaxed
+ivs: 31
+evs: {hp: 252, atk: 4, def: 68, spA: 0, spD: 176, spe: 0}
+hidden: false
+---
