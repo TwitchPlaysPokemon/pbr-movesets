@@ -43,3 +43,27 @@ nature: Naughty
 ivs: {hp: 16, atk: 24, def: 8, spA: 8, spD: 0, spe: 31}
 evs: {hp: 76, atk: 152, def: 52, spA: 52, spD: 0, spe: 176}
 hidden: false
+---
+species: Seviper
+ingamename: Slytherin
+displayname: Slytherin 
+setname: Halloween-993
+tags: [halloween]
+item: Amulet Coin
+ability: Rivalry
+moves:
+    - [Hidden Power]
+    - [Nasty Plot]
+    - [Feint Attack]
+    - [Glare]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Mild
+ivs: {hp: 31, atk: 30, def: 30, spA: 30, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
