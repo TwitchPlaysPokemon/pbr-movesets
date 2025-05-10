@@ -50,7 +50,7 @@ hidden: false
 species: Gardevoir
 ingamename: Ophilia
 displayname: Ophilia Clement
-setname: Christmas2
+setname: Christmas-OT
 tags: [christmas]
 item: [Helix Fossil]
 ability: [Illuminate]
@@ -66,6 +66,6 @@ rarity: 1.0
 ball: [Premier]
 shiny: False
 nature: Sassy
-ivs: {hp: 8, atk: 16, def: 24, spA: 24, spD: 31, spe: 0}
-evs: {hp: 10, atk: 10, def: 36, spA: 200, spD: 252, spe: 0}
+ivs: {hp: 8, atk: 16, def: 24, spA: 20, spD: 24, spe: 0}
+evs: {hp: 10, atk: 10, def: 36, spA: 150, spD: 200, spe: 0}
 hidden: false
