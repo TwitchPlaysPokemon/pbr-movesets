@@ -1,0 +1,19 @@
+species: Lucario
+setname: PWT-Cameron Tournament
+tags: [in-game, PWT-Cameron Tournament, trainer+cameron]
+item: [Lum Berry]
+ability: [Inner Focus]
+moves:
+- [Roar] #Circle Throw
+- [Force Palm]
+- [Aura Sphere]
+- [Copycat]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 16
+evs: {hp: 0, atk: 100, def: 0, spA: 100, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

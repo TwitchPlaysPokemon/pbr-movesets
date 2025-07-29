@@ -8,7 +8,7 @@ moves:
     - [Rollout]
     - [Defense Curl]
     - [Aromatherapy, Sweet Kiss]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.5
@@ -28,7 +28,7 @@ moves:
     - [Zen Headbutt]
     - [Fire blast, ice beam, water pulse]
     - [thunder wave]
-gender: [m, f]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 0.5
