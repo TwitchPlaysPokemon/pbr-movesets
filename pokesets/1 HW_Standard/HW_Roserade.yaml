@@ -28,7 +28,17 @@ setname: Christmas-OT
 tags: [christmas]
 item: [Razor Fang]
 ability: [Limber]
-@@ -42,4 +42,4 @@
+moves:
+    - [Dark Pulse]
+    - [Counter]
+    - [Attract]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
 nature: Hasty
 ivs: {hp: 8, atk: 8, def: 0, spA: 19, spD: 0, spe: 31}
 evs: {hp: 36, atk: 36, def: 0, spA: 184, spD: 0, spe: 252}
