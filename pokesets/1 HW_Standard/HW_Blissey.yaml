@@ -24,13 +24,13 @@ hidden: false
 species: Blissey
 ingamename: Castti
 displayname: Castti Florenz
-setname: Halloween2
+setname: Halloween-OT
 tags: [halloween]
-item: [White Herb]
+item: [Yache Berry]
 ability: [Natural Cure]
 moves:
     - [Natural Gift]
-    - [Cross Poison]
+    - [Sludge Bomb]
     - [Recycle]
     - [Helping Hand]
 gender: [f]
