@@ -20,3 +20,49 @@ nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 144, atk: 0, def: 144, spA: 252, spD: 200, spe: 252}
 hidden: false
+---
+species: Snorunt
+ingamename: Mercury 
+displayname: Mercury Djinn 
+setname: Halloween-GS
+tags: [halloween]
+item: Splash Plate
+ability: [Plus, Minus]
+moves:
+    - [Acid, Aurora Beam, Avalanche, Brine, Bubble Beam, Crush Claw, Muddy Water, Octazooka, Powder Snow]
+    - [Agility, Acid, Aqua Ring, Aurora Beam, Avalanche, Brine, Bubble Beam, Crush Claw, Defense Curl, Disable, Heal Bell, Light Screen, Mist, Muddy Water, Octazooka, Powder Snow, Power Trick, Recover, Sheer Cold, Withdraw, Wish]
+    - [Agility, Acid, Aqua Ring, Aurora Beam, Avalanche, Brine, Bubble Beam, Crush Claw, Defense Curl, Disable, Heal Bell, Light Screen, Mist, Muddy Water, Octazooka, Powder Snow, Power Trick, Recover, Sheer Cold, Withdraw, Wish]
+    - [Agility, Acid, Aqua Ring, Aurora Beam, Avalanche, Brine, Bubble Beam, Crush Claw, Defense Curl, Disable, Heal Bell, Light Screen, Mist, Muddy Water, Octazooka, Powder Snow, Power Trick, Recover, Sheer Cold, Withdraw, Wish]
+separations:
+    - [Agility, Agility] # Torrent
+    - [Acid, Acid] # Sour
+    - [Aqua Ring, Aqua Ring] # Spritz, Surge, Coral
+    - [Aurora Beam, Aurora Beam] # Sleet, Chill, Gel
+    - [Avalanche, Avalanche] # Hail
+    - [Brine, Brine] # Geyser
+    - [Bubble Beam, Bubble Beam] # Foam
+    - [Crush Claw, Crush Claw] # Claw, Pincer
+    - [Defense Curl, Defense Curl] # Shade
+    - [Disable, Disable] # Rime
+    - [Heal Bell, Heal Bell] # Tonic, Dewdrop
+    - [Light Screen, Light Screen] # Mellow
+    - [Mist, Mist] # Steam
+    - [Muddy Water, Muddy Water] # Spout
+    - [Octazooka, Octazooka] # Fog
+    - [Powder Snow, Powder Snow] # Mist
+    - [Power Trick, Power Trick] # Eddy
+    - [Recover, Recover] # Fizz, Spring
+    - [Sheer Cold, Sheer Cold] # Serac
+    - [Withdraw, Withdraw] # Shell
+    - [Wish, Wish] # Dew, Balm, Teardrop
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Sassy
+ivs: 31
+evs: {hp: 248, atk: 4, def: 0, spA: 4, spD: 252, spe: 0}
+hidden: false
+---

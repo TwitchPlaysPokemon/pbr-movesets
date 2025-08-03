@@ -1,0 +1,22 @@
+species: Empoleon
+ingamename: Olberic
+displayname: Olberic Eisenberg
+setname: Christmas
+tags: [christmas]
+item: [Chople Berry]
+ability: [Scrappy]
+moves:
+    - [Slash]
+    - [Spike Cannon]
+    - [Follow Me]
+    - [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 0}
+evs: {hp: 100, atk: 252, def: 100, spA: 0, spD: 0, spe: 56}
+hidden: false

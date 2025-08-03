@@ -1,0 +1,22 @@
+species: Houndoom
+ingamename: Therion
+displayname: Therion
+setname: Christmas
+tags: [christmas]
+item: [Reaper Cloth]
+ability: [Frisk]
+moves:
+    - [Facade]
+    - [Fire Fang]
+    - [Leech Life]
+    - [Spite]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Naive
+ivs: {hp: 16, atk: 24, def: 8, spA: 8, spD: 0, spe: 24}
+evs: {hp: 112, atk: 152, def: 36, spA: 36, spD: 0, spe: 172}
+hidden: false

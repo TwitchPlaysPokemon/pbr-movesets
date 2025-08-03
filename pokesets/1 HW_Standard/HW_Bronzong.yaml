@@ -63,3 +63,26 @@ nature: Modest
 ivs: {hp: 0, atk: 0, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 0}
 hidden: false
+---
+species: Bronzong
+ingamename: Dalek
+displayname: Dalek
+setname: Hallwhoween
+tags: [halloween]
+item: [Scope Lens]
+ability: Battle Armor
+moves:
+    - [Charge Beam, Flash Cannon]
+    - [Flamethrower, Crush Grip]
+    - [Magnet Bomb, Self-Destruct]
+    - [Magnet Rise]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+nature: Quiet
+ivs: 31
+evs: {hp: 252, atk: 4, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false
+---

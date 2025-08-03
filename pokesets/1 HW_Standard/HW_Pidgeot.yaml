@@ -1,0 +1,23 @@
+species: Pidgeot
+ingamename: Ravenclaw
+displayname: Ravenclaw 
+setname: Halloween-993
+tags: [halloween]
+item: King's Rock
+ability: Own Tempo
+moves:
+    - [Hidden Power]
+    - [Calm Mind]
+    - [Chatter]
+    - [Future Sight]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Timid
+ivs: {hp: 30, atk: 30, def: 30, spA: 30, spD: 30, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
+hidden: false
+---
