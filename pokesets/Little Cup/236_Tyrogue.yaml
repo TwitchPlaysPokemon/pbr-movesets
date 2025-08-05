@@ -8,7 +8,7 @@ moves:
     - [mach punch]
     - [bullet punch, rock slide]
     - [bulk up]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.4
@@ -31,7 +31,7 @@ moves:
 separations:
     - [mach punch, facade]
     - [mach punch, earthquake]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.3
@@ -53,7 +53,7 @@ moves:
     - [attract, captivate, double team, mimic, swagger, toxic, role play, counter, substitute]
 combinations:
     - [focus sash, counter]
-gender: [m, f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 0.3

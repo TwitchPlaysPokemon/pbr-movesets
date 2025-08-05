@@ -1,0 +1,21 @@
+---
+species: Lucario
+setname: Roy
+ability: [Inner Focus]
+item: [Shiny Stone]
+ball: [Poke]
+moves:
+- [Close Combat]
+- [Metal Claw]
+- [Flash Cannon]
+gender: [m]
+happiness: 255
+shiny: true
+hidden: false
+biddable: true
+rarity: 1.0
+nature: Serious
+evs: {hp: 0, atk: 252, def: 0, spA: 144, spD: 0, spe: 112}
+ivs: 25
+tags: [roy, anime]
+suppressions: [public-shiny]
