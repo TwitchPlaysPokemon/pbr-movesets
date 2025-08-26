@@ -42,6 +42,7 @@ shiny: True
 nature: Naughty
 ivs: {hp: 4, atk: 8, def: 3, spA: 4, spD: 22, spe: 11} # Estimate
 evs: {hp: 25, atk: 155, def: 59, spA: 72, spD: 67, spe: 131} # Estimate
+suppressions: [public-shiny]
 ---
 species: Fearow
 ingamename: "Piou Piou"
