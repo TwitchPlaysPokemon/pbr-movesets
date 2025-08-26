@@ -62,7 +62,7 @@ ball: [Poké]
 shiny: False
 nature: Hasty
 ivs: {hp: 15, atk: 20, def: 15, spA: 20, spD: 20, spe: 20}
-evs: {hp: 16, atk: 9, def: 7 spA: 26, spD: 15, spe: 11} # Estimate
+evs: {hp: 16, atk: 9, def: 7, spA: 26, spD: 15, spe: 11} # Estimate
 ---
 species: Nidoqueen
 ingamename: "JDG♀"
