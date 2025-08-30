@@ -69,3 +69,26 @@ nature: Naughty
 ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
+---
+species: Gallade
+ingamename: Hikari
+displayname: Hikari Ku
+setname: Halloween-OT
+tags: [halloween]
+item: [King's Rock]
+ability: [Trace]
+moves:
+    - [Counter]
+    - [Punishment]
+    - [Slash]
+    - [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 0, spe: 16}
+evs: {hp: 128, atk: 252, def: 128, spA: 0, spD: 0, spe: 0}
+hidden: false

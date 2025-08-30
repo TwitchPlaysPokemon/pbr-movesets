@@ -1,7 +1,7 @@
 species: Palkia
 ingamename: SPOT
 displayname: SPOT
-setname: TPP Rerandomized Sanqui Red
+setname: TPP Rerando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -13,7 +13,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 18, atk: 26, def: 8, spA: 14, spD: 14, spe: 8}
@@ -22,7 +22,7 @@ evs: {hp: 78, atk: 77, def: 74, spA: 75, spD: 75, spe: 75}
 species: Mesprit
 ingamename: SPRITILIN
 displayname: SPRITILIN
-setname: TPP Rerandomized Sanqui Red
+setname: TPP Rerando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -34,7 +34,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 4, atk: 2, def: 9, spA: 4, spD: 4, spe: 0}
@@ -43,7 +43,7 @@ evs: {hp: 98, atk: 104, def: 100, spA: 99, spD: 99, spe: 97}
 species: Gengar
 ingamename: PINK
 displayname: PINK
-setname: TPP Rerandomized Sanqui Red
+setname: TPP Rerando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -56,7 +56,7 @@ happiness: 255
 gender: [m]
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 30, atk: 30, def: 14, spA: 14, spD: 14, spe: 6}
@@ -65,7 +65,7 @@ evs: {hp: 85, atk: 84, def: 82, spA: 81, spD: 81, spe: 75}
 species: Mewtwo
 ingamename: WEHTWO
 displayname: WEHTWO
-setname: TPP Rerandomized Sanqui Red
+setname: TPP Rerando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -77,7 +77,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 12, atk: 20, def: 18, spA: 20, spD: 20, spe: 10}
@@ -86,7 +86,7 @@ evs: {hp: 97, atk: 101, def: 100, spA: 99, spD: 99, spe: 94}
 species: Mew
 ingamename: WEM
 displayname: WEM
-setname: TPP Rerandomized Sanqui Red
+setname: TPP Rerando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -98,7 +98,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 30, atk: 14, def: 30, spA: 30, spD: 30, spe: 6}
@@ -107,7 +107,7 @@ evs: {hp: 102, atk: 99, def: 95, spA: 98, spD: 98, spe: 95}
 species: Cresselia
 ingamename: CROISSANT
 displayname: CROISSANT
-setname: TPP Rerandomized Sanqui Red
+setname: TPP Rerando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -120,7 +120,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 4, atk: 4, def: 0, spA: 4, spD: 4, spe: 10}
@@ -129,7 +129,7 @@ evs: {hp: 91, atk: 90, def: 86, spA: 89, spD: 89, spe: 85}
 species: Wooper
 ingamename: This.
 displayname: This.
-setname: TPP Rerandomized Sanqui Red
+setname: TPP Rerando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -142,7 +142,7 @@ happiness: 255
 gender: [f]
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 12, atk: 8, def: 14, spA: 16, spD: 16, spe: 14}

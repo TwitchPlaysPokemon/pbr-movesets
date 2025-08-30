@@ -1,0 +1,22 @@
+species: Bayleef
+ingamename: Alfyn
+displayname: Alfyn Greengrass
+setname: Christmas-OT
+tags: [christmas]
+item: [Lum Berry]
+ability: [Poison Point]
+moves:
+    - [Powder Snow]
+    - [Flail]
+    - [Synthesis]
+    - [Refresh]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: False
+nature: Brave
+ivs: {hp: 24, atk: 16, def: 16, spA: 8, spD: 8, spe: 0}
+evs: {hp: 220, atk: 148, def: 116, spA: 12, spD: 12, spe: 0}
+hidden: false

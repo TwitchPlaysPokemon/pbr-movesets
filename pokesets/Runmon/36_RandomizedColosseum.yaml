@@ -1,7 +1,7 @@
 species: Persian
 ingamename: "\""
 displayname: "\""
-setname: TPP Randomized Colosseum
+setname: TPP Rando Colosseum
 tags: [runmon, in-game]
 item: [Blackglasses]
 ability: [Drought]
@@ -23,7 +23,7 @@ evs: {hp: 99, atk: 95, def: 80, spA: 66, spD: 94, spe: 76}
 species: Slaking
 ingamename: MW
 displayname: MW
-setname: TPP Randomized Colosseum
+setname: TPP Rando Colosseum
 tags: [runmon, in-game]
 item: [Black Belt]
 ability: [Pure Power]
@@ -45,7 +45,7 @@ evs: {hp: 86, atk: 93, def: 61, spA: 99, spD: 75, spe: 96}
 species: Ho-Oh
 ingamename: Ho-Oh
 displayname: Ho-Oh
-setname: TPP Randomized Colosseum
+setname: TPP Rando Colosseum
 tags: [runmon, in-game]
 item: [Sun Stone]
 ability: [Damp]
@@ -57,7 +57,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [great]
+ball: [Great]
 shiny: False
 nature: Hardy
 ivs: 31
@@ -66,7 +66,7 @@ evs: {hp: 60, atk: 112, def: 100, spA: 73, spD: 70, spe: 95}
 species: Octillery
 ingamename: AAO
 displayname: AAO
-setname: TPP Randomized Colosseum
+setname: TPP Rando Colosseum
 tags: [runmon, in-game]
 item: [Mystic Water]
 ability: [Cloud Nine]
@@ -88,9 +88,9 @@ evs: {hp: 96, atk: 115, def: 76, spA: 81, spD: 77, spe: 72}
 species: Walrein
 ingamename: Walrein
 displayname: Walrein
-setname: TPP Randomized Colosseum
+setname: TPP Rando Colosseum
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
     - [Brick Break]

@@ -19,3 +19,25 @@ nature: Adamant
 ivs: {hp: 22, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 96, atk: 76, def: 72, spA: 76, spD: 100, spe: 8}
 hidden: False
+---
+species: Starmie
+ingamename: Cyrus
+displayname: Cyrus Albright
+setname: Christmas-OT
+tags: [christmas]
+item: Cleanse Tag
+ability: Oblivious
+moves:
+    - [Fire Blast]
+    - [Blizzard]
+    - [Thunder]
+    - [Tri Attack]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Modest
+ivs: {hp: 0, atk: 0, def: 8, spA: 31, spD: 24, spe: 8}
+evs: {hp: 0, atk: 0, def: 50, spA: 225, spD: 156, spe: 50}
+hidden: false

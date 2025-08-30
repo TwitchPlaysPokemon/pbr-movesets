@@ -1,7 +1,7 @@
-species: Ho-oh
+species: Ho-Oh
 ingamename: AMMNNNQ
 displayname: AMMNNNQ
-setname: TPP Spaceworld Gold Reforged
+setname: TPP SW Gold Reforged
 tags: [runmon, in-game]
 item: [Charcoal]
 ability: [null]
@@ -10,19 +10,19 @@ moves:
     - [Fire Blast]
     - [Rock Smash]
     - [Psychic]
-happiness: 248
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 26, atk: 26, def: 18, spA: 22, spD: 2, spe: 22}
-evs: {hp: 23, atk: 25, def: 56, spA: 56, spD: 56, spe: 56} #EVs calc'd by sq rt of stat exp
+evs: {hp: 23, atk: 25, def: 56, spA: 56, spD: 56, spe: 56}
 ---
 species: Raichu #Raitora
 ingamename: KLUUUUUUUU
 displayname: KLUUUUUUUU
-setname: TPP Spaceworld Gold Reforged
+setname: TPP SW Gold Reforged
 tags: [runmon, in-game]
 item: [Hard Stone]
 ability: [null]
@@ -32,7 +32,7 @@ moves:
     - [Thunderbolt]
     - [Crunch]
 gender: [f]
-happiness: 249
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -44,7 +44,7 @@ evs: {hp: 141, atk: 147, def: 146, spA: 140, spD: 140, spe: 153}
 species: Huntail #Lurreel
 ingamename: EATSMARILL
 displayname: EATSMARILL
-setname: TPP Spaceworld Gold Reforged
+setname: TPP SW Gold Reforged
 tags: [runmon, in-game]
 item: [Mystic Water]
 ability: [null]
@@ -54,7 +54,7 @@ moves:
     - [Waterfall]
     - [Whirlpool]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -66,7 +66,7 @@ evs: {hp: 164, atk: 175, def: 177, spA: 158, spD: 158, spe: 163}
 species: Typhlosion #Bruninus
 ingamename: TACO
 displayname: TACO
-setname: TPP Spaceworld Gold Reforged
+setname: TPP SW Gold Reforged
 tags: [runmon, in-game]
 item: [Amulet Coin]
 ability: [null]
@@ -76,7 +76,7 @@ moves:
     - [Strength]
     - [Dynamic Punch]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -88,7 +88,7 @@ evs: {hp: 249, atk: 255, def: 255, spA: 254, spD: 254, spe: 255}
 species: Banette #Phandarin
 ingamename: STITCHES
 displayname: STITCHES
-setname: TPP Spaceworld Gold Reforged
+setname: TPP SW Gold Reforged
 tags: [runmon, in-game]
 item: [Leftovers]
 ability: [null]
@@ -98,7 +98,7 @@ moves:
     - [Shadow Claw]
     - [Thief]
 gender: [m]
-happiness: 250
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -110,7 +110,7 @@ evs: {hp: 255, atk: 255, def: 255, spA: 253, spD: 253, spe: 254}
 species: Murkrow #Magikrow
 ingamename: KAMEK
 displayname: KAMEK
-setname: TPP Spaceworld Gold Reforged
+setname: TPP SW Gold Reforged
 tags: [runmon, in-game]
 item: [Smoke Ball]
 ability: [null]
@@ -132,7 +132,7 @@ evs: {hp: 95, atk: 128, def: 97, spA: 100, spD: 100, spe: 99}
 species: Abomasnow #Wearlycan
 ingamename: OBAMA
 displayname: OBAMA
-setname: TPP Spaceworld Gold Reforged
+setname: TPP SW Gold Reforged
 tags: [runmon, in-game]
 item: [Nevermeltice]
 ability: [null]
@@ -142,7 +142,7 @@ moves:
     - [Strength]
     - [Thunder Punch]
 gender: [m]
-happiness: 253
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]

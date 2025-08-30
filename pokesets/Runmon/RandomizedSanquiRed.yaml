@@ -1,7 +1,7 @@
 species: Lugia
 ingamename: SUSGIA
 displayname: SUSGIA
-setname: TPP Randomized Sanqui Red
+setname: TPP Rando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -13,7 +13,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 14, atk: 24, def: 4, spA: 14, spD: 14, spe: 2}
@@ -22,7 +22,7 @@ evs: {hp: 106, atk: 115, def: 110, spA: 110, spD: 110, spe: 106}
 species: Marowak
 ingamename: COPIUM
 displayname: COPIUM
-setname: TPP Randomized Sanqui Red
+setname: TPP Rando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -35,7 +35,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 4, atk: 24, def: 4, spA: 4, spD: 4, spe: 2}
@@ -44,7 +44,7 @@ evs: {hp: 55, atk: 63, def: 56, spA: 53, spD: 53, spe: 78}
 species: Jirachi #it was Diancie but I couldn't resist
 ingamename: IMPOSTCIE
 displayname: IMPOSTCIE
-setname: TPP Randomized Sanqui Red
+setname: TPP Rando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -56,7 +56,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 28, atk: 22, def: 14, spA: 4, spD: 4, spe: 2}
@@ -65,7 +65,7 @@ evs: {hp: 64, atk: 68, def: 68, spA: 66, spD: 66, spe: 58}
 species: Shaymin
 ingamename: Cute
 displayname: Cute
-setname: TPP Randomized Sanqui Red
+setname: TPP Rando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -77,7 +77,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 20, atk: 26, def: 12, spA: 12, spD: 12, spe: 26}
@@ -86,7 +86,7 @@ evs: {hp: 88, atk: 81, def: 78, spA: 74, spD: 74, spe: 75}
 species: Regirock
 ingamename: CREWROCK
 displayname: CREWROCK
-setname: TPP Randomized Sanqui Red
+setname: TPP Rando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -98,7 +98,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 6, atk: 28, def: 4, spA: 10, spD: 10, spe: 26}
@@ -107,7 +107,7 @@ evs: {hp: 77, atk: 62, def: 62, spA: 58, spD: 58, spe: 55}
 species: Sharpedo
 ingamename: "ZOOMXPKMN"
 displayname: "ZOOMX[ᴾkᴹɴ]"
-setname: TPP Randomized Sanqui Red
+setname: TPP Rando Sanqui Red
 tags: [runmon, in-game]
 item: [null]
 ability: [null]
@@ -120,7 +120,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 22, atk: 30, def: 16, spA: 2, spD: 2, spe: 18}

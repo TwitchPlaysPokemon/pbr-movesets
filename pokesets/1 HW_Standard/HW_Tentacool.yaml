@@ -20,3 +20,27 @@ nature: Timid
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 0, spe: 31}
 evs: {hp: 252, atk: 0, def: 200, spA: 252, spD: 0, spe: 152}
 hidden: false
+---
+species: Tentacool
+ingamename: Kalamar
+displayname: Kalamar
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Arena Trap]
+moves:
+    - [Horn Drill]
+    - [Horn Attack]
+    - [ViceGrip]
+    - [Dive]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+hidden: false
+---

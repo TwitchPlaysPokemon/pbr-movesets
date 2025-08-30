@@ -2,9 +2,9 @@
 species: Leafeon
 ingamename: Leafeom
 displayname: Leafeom
-setname: TPP Moon
+setname: TPP Waning Moon
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Chlorophyll]
 moves:
     - [Giga Drain]
@@ -15,7 +15,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Quiet
 ivs: {hp: 19, atk: 28, def: 29, spA: 2, spD: 23, spe: 17}
@@ -24,9 +24,9 @@ evs: {hp: 17, atk: 54, def: 26, spA: 1, spD: 25, spe: 46}
 species: Linoone
 ingamename: "k6'~MMCMQ"
 displayname: "k6'~MMCMQ"
-setname: TPP Moon
+setname: TPP Waning Moon
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Gluttony]
 moves:
     - [Double-Edge]
@@ -37,7 +37,7 @@ gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Naughty
 ivs: {hp: 2, atk: 19, def: 17, spA: 24, spD: 29, spe: 28}
@@ -46,9 +46,9 @@ evs: {hp: 63, atk: 95, def: 38, spA: 34, spD: 53, spe: 168}
 species: Staraptor
 ingamename: "Staravia♀l"
 displayname: "Staravia♀l"
-setname: TPP Moon
+setname: TPP Waning Moon
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Intimidate]
 moves:
     - [Brave Bird]
@@ -59,7 +59,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Quirky
 ivs: {hp: 3, atk: 4, def: 3, spA: 9, spD: 27, spe: 1}
