@@ -370,7 +370,7 @@ moves:
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Heavy]
+ball: [Poke] # Heavy
 shiny: False
 nature: Timid
 ivs: 31
