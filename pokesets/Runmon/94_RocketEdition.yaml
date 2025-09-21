@@ -1,0 +1,130 @@
+species: Raticate
+ingamename: ppppohbb,
+displayname: ppppohbb,
+setname: TPP FR Rocket Edition
+tags: [runmon, in-game]
+item: [King's Rock]
+ability: [Guts]
+moves:
+    - [Return]
+    - [Crunch]
+    - [Dig]
+    - [Swords Dance]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: {hp: 14, atk: 13, def: 4, spA: 24, spD: 11, spe: 19}
+evs: {hp: 21, atk: 119, def: 90, spA: 68, spD: 47, spe: 91}
+---
+species: Flareon
+ingamename: S IIvoocb
+displayname: S IIvoocb
+setname: TPP FR Rocket Edition
+tags: [runmon, in-game]
+item: [Charcoal]
+ability: [Guts]
+moves:
+    - [Flare Blitz]
+    - [Dig]
+    - [Protect]
+    - [Wish]
+gender: [m]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hardy
+ivs: {hp: 6, atk: 9, def: 21, spA: 0, spD: 18, spe: 5}
+evs: {hp: 37, atk: 142, def: 76, spA: 65, spD: 43, spe: 104}
+---
+species: Gyarados
+ingamename: JOE
+displayname: JOE
+setname: TPP FR Rocket Edition
+tags: [runmon, in-game]
+item: [Mystic Water]
+ability: [Intimidate]
+moves:
+    - [Aqua Tail]
+    - [Ice Fang]
+    - [Dragon Dance]
+    - [Substitute]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Quiet
+ivs: {hp: 24, atk: 2, def: 27, spA: 25, spD: 23, spe: 21}
+evs: {hp: 20, atk: 108, def: 98, spA: 58, spD: 16, spe: 82}
+---
+species: Crobat
+ingamename: BAKE
+displayname: BAKE
+setname: TPP FR Rocket Edition
+tags: [runmon, in-game]
+item: [null]
+ability: [Inner Focus]
+moves:
+    - [Fly]
+    - [Cross Poison]
+    - [Brave Bird]
+    - [Thief]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: {hp: 6, atk: 20, def: 9, spA: 16, spD: 23, spe: 13}
+evs: {hp: 14, atk: 113, def: 26, spA: 71, spD: 46, spe: 61}
+---
+species: Magneton
+ingamename: Guhn??
+displayname: Guhn??
+setname: TPP FR Rocket Edition
+tags: [runmon, in-game]
+item: [Everstone]
+ability: [Magnet Pull]
+moves:
+    - [Discharge]
+    - [Flash Cannon]
+    - [Tri Attack]
+    - [Thunder Wave]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Brave
+ivs: {hp: 7, atk: 16, def: 22, spA: 14, spD: 26, spe: 4}
+evs: {hp: 42, atk: 121, def: 77, spA: 34, spD: 52, spe: 73}
+---
+species: Togekiss #MissingNo
+ingamename: MMMMMC, fA
+displayname: MMMMMC, fA
+setname: TPP FR Rocket Edition
+tags: [runmon, in-game]
+item: [Quick Claw]
+ability: [Trace]
+moves:
+    - [Aeroblast]
+    - [Ice Beam] # Super Glitch
+    - [Psychic]
+    - [Calm Mind]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Adamant
+ivs: {hp: 18, atk: 0, def: 24, spA: 7, spD: 7, spe: 20}
+evs: {hp: 4, atk: 14, def: 6, spA: 16, spD: 17, spe: 12}

@@ -43,3 +43,27 @@ nature: Naughty
 ivs: {hp: 0, atk: 31, def: 20, spA: 31, spD: 20, spe: 20}
 evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
+---
+species: Lopunny
+ingamename: Nancy
+displayname: Nancy Archer
+setname: Halloween-50ft
+tags: [halloween]
+item: Silk Scarf
+ability: Huge Power
+moves:
+    - [Growth]
+    - [Stomp]
+    - [Hammer Arm]
+    - [Payback]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Luxury]
+shiny: True
+nature: Jolly
+ivs: 31
+evs: {hp: 248, atk: 252, def: 4, spA: 0, spD: 4, spe: 0}
+hidden: false
+---

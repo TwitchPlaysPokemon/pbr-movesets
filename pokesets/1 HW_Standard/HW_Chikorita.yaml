@@ -1,0 +1,23 @@
+species: Chikorita
+displayname: Bulbmin
+ingamename: Bulbmin
+setname: Halloween
+tags: [halloween]
+item: [Lum Berry]
+ability: [Thick Fat]
+moves:
+    - [Vine Whip]
+    - [Attack Order]
+    - [Bite]
+    - [Amnesia]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 4, spe: 0}
+hidden: False
+---

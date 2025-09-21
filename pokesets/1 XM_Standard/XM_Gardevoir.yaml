@@ -46,3 +46,26 @@ nature: Naughty
 ivs: {hp: 31, atk: 0, def: 0, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
+---
+species: Gardevoir
+ingamename: Ophilia
+displayname: Ophilia Clement
+setname: Christmas-OT
+tags: [christmas]
+item: [Helix Fossil]
+ability: [Illuminate]
+moves:
+    - [Mirror Coat]
+    - [Sacred Fire]
+    - [Recover]
+    - [Light Screen]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Sassy
+ivs: {hp: 8, atk: 16, def: 24, spA: 20, spD: 24, spe: 0}
+evs: {hp: 10, atk: 10, def: 36, spA: 150, spD: 200, spe: 0}
+hidden: false

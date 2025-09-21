@@ -20,3 +20,26 @@ nature: Adamant
 ivs: {hp: 31, atk: 31, def: 31, spA: 1, spD: 11, spe: 14}
 evs: {hp: 108, atk: 120, def: 96, spA: 0, spD: 0, spe: 36}
 hidden: false
+---
+species: Roserade
+ingamename: Primrose
+displayname: Primrose Azelhart
+setname: Christmas2
+tags: [christmas]
+item: [Razor Fang]
+ability: [Limber]
+moves:
+    - [Dark Pulse]
+    - [Counter]
+    - [Attract]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Hasty
+ivs: {hp: 8, atk: 8, def: 0, spA: 19, spD: 0, spe: 31}
+evs: {hp: 36, atk: 36, def: 0, spA: 184, spD: 0, spe: 252}
+hidden: false

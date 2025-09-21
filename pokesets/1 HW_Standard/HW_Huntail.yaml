@@ -20,3 +20,27 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 10, spA: 31, spD: 31, spe: 31}
 evs: {hp: 108, atk: 220, def: 0, spA: 252, spD: 0, spe: 252}
 hidden: false
+---
+species: Huntail
+ingamename: Kongre
+displayname: Kongre
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Swift Swim]
+moves:
+    - [Charge Beam]
+    - [Glare]
+    - [Crunch]
+    - [Dive]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Naive
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+hidden: false
+---

@@ -20,3 +20,26 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 80, atk: 252, def: 0, spA: 60, spD: 0, spe: 160}
 hidden: false
+---
+species: Honchkrow
+ingamename: Partitio
+displayname: Partitio Yellowil
+setname: Halloween-OT
+tags: [halloween]
+item: [Amulet Coin]
+ability: [Anger Point]
+moves:
+    - [Ember]
+    - [Sucker Punch]
+    - [Double Team]
+    - [Rest]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Hardy
+ivs: {hp: 15, atk: 15, def: 15, spA: 15, spD: 15, spe: 15}
+evs: {hp: 85, atk: 85, def: 85, spA: 85, spD: 84, spe: 84}
+hidden: false

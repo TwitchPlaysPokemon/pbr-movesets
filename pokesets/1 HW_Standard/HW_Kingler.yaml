@@ -1,0 +1,23 @@
+species: Kingler
+ingamename: Krab
+displayname: Krab
+setname: Halloween-XANA
+tags: [halloween]
+item: Dubious Disc
+ability: [Shell Armor, Limber]
+moves:
+    - [Charge Beam]
+    - [Thunder]
+    - [Crush Claw]
+    - [Rock Climb]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+nature: Naive
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+hidden: false
+---

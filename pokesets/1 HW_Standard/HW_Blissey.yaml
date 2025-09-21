@@ -20,3 +20,26 @@ nature: Naughty
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 60, atk: 236, def: 40, spA: 120, spD: 0, spe: 0}
 hidden: false
+---
+species: Blissey
+ingamename: Castti
+displayname: Castti Florenz
+setname: Halloween-OT
+tags: [halloween]
+item: [Yache Berry]
+ability: [Natural Cure]
+moves:
+    - [Natural Gift]
+    - [Sludge Bomb]
+    - [Recycle]
+    - [Helping Hand]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: False
+nature: Naive
+ivs: {hp: 0, atk: 24, def: 31, spA: 8, spD: 8, spe: 0}
+evs: {hp: 0, atk: 251, def: 204, spA: 32, spD: 20, spe: 0}
+hidden: false
