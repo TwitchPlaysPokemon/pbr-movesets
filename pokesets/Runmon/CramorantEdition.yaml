@@ -1,3 +1,25 @@
+species: Clefable
+ingamename: BB(?------
+displayname: BB(?------
+setname: TPP Cramorant Edition
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Tri-Attack]
+    - [Ice Beam]
+    - [Psychic]
+    - [Bubblebeam]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Serious
+ivs: {hp: 2, atk: 20, def: 24, spA: 26, spD: 26, spe: 1}
+evs: {hp: 108, atk: 106, def: 102, spA: 99, spD: 99, spe: 105}
+---
 species: Golem
 ingamename: AL
 displayname: AL
@@ -20,31 +42,9 @@ nature: Serious
 ivs: {hp: 22, atk: 6, def: 8, spA: 26, spD: 26, spe: 22}
 evs: {hp: 116, atk: 125, def: 122, spA: 117, spD: 117, spe: 121}
 ---
-species: Clefable
-ingamename: BB(?------
-displayname: BB(?------
-setname: TPP Cramorant Edition
-tags: [runmon, in-game]
-item: [null]
-ability: [null]
-moves:
-    - [Tri Attack]
-    - [Ice Beam]
-    - [Psychic]
-    - [Bubble Beam]
-gender: [f]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Safari]
-shiny: False
-nature: Serious
-ivs: {hp: 2, atk: 20, def: 24, spA: 26, spD: 26, spe: 0}
-evs: {hp: 108, atk: 106, def: 102, spA: 100, spD: 100, spe: 105}
----
 species: Weezing
-ingamename: P..)XXMMJJ
-displayname: P..]XXMMJJ
+ingamename: P..]XXMMJJ
+displayname: P..}XXMMJJ
 setname: TPP Cramorant Edition
 tags: [runmon, in-game]
 item: [null]
@@ -62,7 +62,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 18, atk: 2, def: 12, spA: 10, spD: 10, spe: 20}
-evs: {hp: 96, atk: 101, def: 122, spA: 101, spD: 101, spe: 100}
+evs: {hp: 95, atk: 101, def: 122, spA: 101, spD: 10, spe: 100}
 ---
 species: Magmar
 ingamename: BOOBER

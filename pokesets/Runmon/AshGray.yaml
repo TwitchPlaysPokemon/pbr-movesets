@@ -1,131 +1,131 @@
-species: Raichu
-ingamename: MACHU
-displayname: MACHU
-setname: TPP AshGray
+species: Bulbasaur
+ingamename: DICK
+displayname: DICK
+setname: TPP Ash Gray
 tags: [runmon, in-game]
-item: [Light Ball]
-ability: [Static]
+item: [Null]
+ability: [Overgrow]
 moves:
-    - [Thunderbolt]
-    - [Dig]
-    - [Quick Attack]
-    - [Thunder Wave]
-gender: [m]
+    - [Tackle]
+    - [Growl]
+    - [Leech Seed]
+    - [Vine Whip]
 happiness: 255
+gender: [m]
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Poké]
 shiny: False
-nature: Timid
-ivs: {hp: 6, atk: 10, def: 3, spA: 25, spD: 16, spe: 16}
-evs: {hp: 7, atk: 11, def: 22, spA: 7, spD: 1, spe: 25}
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
 species: Butterfree
 ingamename: CC
 displayname: CC
-setname: TPP AshGray
+setname: TPP Ash Gray
 tags: [runmon, in-game]
-item: [Yellow Scarf]
-ability: [Compound Eyes]
+item: [Null]
+ability: [Compoundeyes]
 moves:
     - [Gust]
-    - [Supersonic]
+    - [String Shot]
     - [Poison Powder]
     - [Sleep Powder]
-gender: [f]
 happiness: 255
+gender: [f]
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Poké]
 shiny: False
-nature: Calm
-ivs: {hp: 14, atk: 6, def: 25, spA: 1, spD: 6, spe: 15}
-evs: {hp: 8, atk: 3, def: 10, spA: 1, spD: 1, spe: 8}
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
-species: Pidgeot
+species: Charmander
+ingamename: BAK
+displayname: BAK
+setname: TPP Ash Gray
+tags: [runmon, in-game]
+item: [Null]
+ability: [Blaze]
+moves:
+    - [Scratch]
+    - [Growl]
+    - [Ember]
+    - [Metal Claw]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Pidgeotto
 ingamename: PLEB
 displayname: PLEB
-setname: TPP AshGray
+setname: TPP Ash Gray
 tags: [runmon, in-game]
-item: [Premier Ball]
+item: [Null]
 ability: [Keen Eye]
 moves:
     - [Wing Attack]
     - [Sand Attack]
     - [Gust]
     - [Quick Attack]
-gender: [f]
 happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Hardy
-ivs: {hp: 22, atk: 0, def: 19, spA: 3, spD: 22, spe: 2}
-evs: {hp: 28, atk: 39, def: 12, spA: 10, spD: 7, spe: 54}
----
-species: Bulbasaur
-ingamename: DICK
-displayname: DICK
-setname: TPP AshGray
-tags: [runmon, in-game]
-item: [Everstone]
-ability: [Overgrow]
-moves:
-    - [Seed Bomb]
-    - [Synthesis]
-    - [Leech Seed]
-    - [Vine Whip]
 gender: [m]
-happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Poké]
 shiny: False
-nature: Timid
-ivs: {hp: 4, atk: 25, def: 6, spA: 14, spD: 21, spe: 23}
-evs: {hp: 14, atk: 19, def: 16, spA: 3, spD: 4, spe: 24}
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
-species: Charmeleon
-ingamename: BAK
-displayname: BAK
-setname: TPP AshGray
+species: Pikachu
+ingamename: MACHU
+displayname: MACHU
+setname: TPP Ash Gray
 tags: [runmon, in-game]
-item: [Lucky Egg]
-ability: [Blaze]
+item: [Null]
+ability: [Static]
 moves:
-    - [Flamethrower]
-    - [Dig]
-    - [Ember]
-    - [Smokescreen]
-gender: [f]
+    - [Thunderbolt]
+    - [Growl]
+    - [Quick Attack]
+    - [Thunder Wave]
 happiness: 255
+gender: [m]
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Poké]
 shiny: False
-nature: Quirky
-ivs: {hp: 6, atk: 28, def: 17, spA: 20, spD: 24, spe: 14}
-evs: {hp: 2, atk: 9, def: 14, spA: 1, spD: 6, spe: 11}
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 ---
-species: Blastoise
+species: Squirtle
 ingamename: CUM
 displayname: CUM
-setname: TPP AshGray
+setname: TPP Ash Gray
 tags: [runmon, in-game]
-item: [Exp. Share]
+item: [Null]
 ability: [Torrent]
 moves:
-    - [Bubble Beam]
-    - [Bite]
+    - [Tackle]
+    - [Tail Whip]
     - [Bubble]
     - [Withdraw]
-gender: [m]
 happiness: 255
+gender: [m]
 biddable: True
 rarity: 1.0
-ball: [Poke]
+ball: [Poké]
 shiny: False
-nature: Quiet
-ivs: {hp: 11, atk: 18, def: 26, spA: 7, spD: 25, spe: 22}
-evs: {hp: 24, atk: 52, def: 30, spA: 10, spD: 14, spe: 51}
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
