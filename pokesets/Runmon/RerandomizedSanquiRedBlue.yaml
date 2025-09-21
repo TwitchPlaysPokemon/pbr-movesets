@@ -43,8 +43,8 @@ ivs: {hp: 8, atk: 16, def: 10, spA: 24, spD: 24, spe: 28}
 evs: {hp: 80, atk: 92, def: 74, spA: 96, spD: 96, spe: 74}
 ---
 species: Gardevoir
-ingamename: BCELKKU)::
-displayname: BCELKKU)::
+ingamename: "BCELKKU)::"
+displayname: "BCELKKU)::"
 setname: TPP Rerando Sanqui Blue
 tags: [runmon, in-game]
 item: [null]
