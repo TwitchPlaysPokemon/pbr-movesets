@@ -1,24 +1,3 @@
-species: Kyogre
-ingamename: UwU
-displayname: UwU
-setname: TPP Lightning Sapphire
-tags: [runmon, in-game]
-item: [Sitrus Berry]
-ability: [Drizzle]
-moves:
-    - [Surf]
-    - [Ice Beam]
-    - [Calm Mind]
-    - [Thunder]
-happiness: 108
-biddable: True
-rarity: 1.0
-ball: [Master]
-shiny: False
-nature: Sassy
-ivs: {hp: 19, atk: 10, def: 6, spA: 3, spD: 0, spe: 14}
-evs: {hp: 40, atk: 37, def: 24, spA: 32, spD: 26, spe: 41}
----
 species: Swampert
 ingamename: BUTT
 displayname: BUTT
@@ -35,7 +14,7 @@ gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Brave
 ivs: {hp: 9, atk: 12, def: 31, spA: 25, spD: 15, spe: 25}
@@ -54,58 +33,14 @@ moves:
     - [Cut]
     - [Tail Whip]
 gender: [f]
-happiness: 181
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Lonely
 ivs: {hp: 12, atk: 31, def: 12, spA: 19, spD: 22, spe: 4}
 evs: {hp: 0, atk: 2, def: 1, spA: 0, spD: 1, spe: 2}
----
-species: Tropius
-ingamename: Neck
-displayname: Neck
-setname: TPP Lightning Sapphire
-tags: [runmon, in-game]
-item: [Pecha Berry]
-ability: [Chlorophyll]
-moves:
-    - [Fly]
-    - [Razor Leaf]
-    - [Flash]
-    - [Sweet Scent]
-gender: [f]
-happiness: 140
-biddable: True
-rarity: 1.0
-ball: [Great]
-shiny: False
-nature: Quirky
-ivs: {hp: 24, atk: 17, def: 18, spA: 2, spD: 3, spe: 22}
-evs: 0
----
-species: Lileep
-ingamename: WAH
-displayname: WAH
-setname: TPP Lightning Sapphire
-tags: [runmon, in-game]
-item: [Leftovers]
-ability: [Suction Cups]
-moves:
-    - [Giga Drain]
-    - [Protect]
-    - [Toxic]
-    - [Ingrain]
-gender: [m]
-happiness: 143
-biddable: True
-rarity: 1.0
-ball: [Poké]
-shiny: False
-nature: Sassy
-ivs: {hp: 2, atk: 6, def: 5, spA: 1, spD: 30, spe: 28}
-evs: {hp: 7, atk: 2, def: 0, spA: 7, spD: 0, spe: 0}
 ---
 species: Aron
 ingamename: Tiny
@@ -120,7 +55,7 @@ moves:
     - [Mud-Slap]
     - [Headbutt]
 gender: [m]
-happiness: 142
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Great]
@@ -128,3 +63,68 @@ shiny: False
 nature: Brave
 ivs: {hp: 12, atk: 5, def: 31, spA: 19, spD: 22, spe: 15}
 evs: {hp: 7, atk: 5, def: 2, spA: 5, spD: 3, spe: 3}
+---
+species: Lileep
+ingamename: WAH
+displayname: WAH
+setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Suction Cups]
+moves:
+    - [Giga Drain]
+    - [Protect]
+    - [Toxic]
+    - [Ingrain]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Sassy
+ivs: {hp: 2, atk: 6, def: 5, spA: 1, spD: 30, spe: 28}
+evs: {hp: 7, atk: 2, def: 0, spA: 6, spD: 0, spe: 0}
+---
+species: Tropius
+ingamename: Neck
+displayname: Neck
+setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
+item: [Pecha Berry]
+ability: [Chlorophyll]
+moves:
+    - [Fly]
+    - [Razor Leaf]
+    - [Flash]
+    - [Sweet Scent]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Quirky
+ivs: {hp: 24, atk: 17, def: 18, spA: 2, spD: 3, spe: 22}
+evs: 0
+---
+species: Kyogre
+ingamename: UwU
+displayname: UwU
+setname: TPP Lightning Sapphire
+tags: [runmon, in-game]
+item: [Sitrus Berry]
+ability: [Drizzle]
+moves:
+    - [Surf]
+    - [Ice Beam]
+    - [Calm Mind]
+    - [Thunder]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Sassy
+ivs: {hp: 19, atk: 10, def: 6, spA: 3, spD: 0, spe: 14}
+evs: {hp: 40, atk: 37, def: 24, spA: 32, spD: 26, spe: 41}

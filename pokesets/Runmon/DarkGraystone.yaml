@@ -1,0 +1,62 @@
+species: Wooper
+ingamename: RIGHT
+displayname: RIGHT
+setname: TPP Dark Graystone
+tags: [runmon, in-game]
+item: [Mystic Water] #No item/ability originally
+ability: [Technician]
+moves:
+    - [Water Gun]
+    - [Tail Whip]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 10, def: 6, spA: 14, spD: 14, spe: 2}
+evs: {hp: 26, atk: 26, def: 30, spA: 22, spD: 22, spe: 26}
+---
+species: Kingler
+ingamename: Cookie
+displayname: Cookie
+setname: TPP Dark Graystone
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Crabhammer]
+    - [Stomp]
+    - [Guillotine]
+    - [Protect]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 30, def: 20, spA: 14, spD: 14, spe: 16}
+evs: {hp: 34, atk: 34, def: 34, spA: 30, spD: 30, spe: 34}
+---
+species: Celebi
+ingamename: FUTA
+displayname: FUTA
+setname: TPP Dark Graystone
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Leech Seed]
+    - [Confusion]
+    - [Recover]
+    - [Heal Bell]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Serious
+ivs: {hp: 0, atk: 0, def: 8, spA: 0, spD: 0, spe: 28}
+evs: 0

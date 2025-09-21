@@ -1,85 +1,82 @@
 species: Vaporeon
-ingamename: Vaporeon
-displayname: Vaporeon
 setname: TPP Conquest
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Water Absorb]
 moves:
     - [Hydro Pump]
-    - [Quick Attack]
-gender: [m]
+    - [Quick Attack] #Its move as an Eevee
+gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
-nature: Adamant
-ivs: {hp: 0, atk: 31, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Serious
+ivs: 31
+evs: {hp: 4, atk: 252, def: 252, spA: 0, spD: 0, spe: 0}
 ---
 species: Pikachu
-ingamename: Pikachu
 displayname: Detective Pikachu
-setname: TPP Detective Pikachu
+setname: TP Detective Pikachu
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Unaware, Oblivious]
 moves:
+    - [Thunderbolt, Close Combat, Fly, Rollout]
     - [Chatter]
-    - [Fly, Rollout, Close Combat, Thunderbolt]
-    - [Scary Face, Swagger, Double Team, Taunt]
+    - [Swagger, Taunt, Scary Face, Double Team]
     - [Amnesia]
 combinations:
     - [Unaware, Swagger]
-happiness: 255
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
-shiny: True
-hidden: false
-nature: Adamant
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
----
-species: Pikachu
-setname: TPPokéPark Wii
-tags: [runmon, in-game]
-item: [Null]
-ability: [Scrappy]
-moves:
-    - [Thunder Bolt]
-    - [Quick Attack]
-    - [Iron Tail]
-    - [Extreme Speed, Vine Whip, Aqua Jet, Rock Smash, Protect, Knock Off, Aerial Ace] #based off the minigames
-happiness: 255
-gender: [m]
-biddable: True
-rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
-evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+ivs: 31
+evs: 252
 ---
 species: Scyther
 ingamename: PBRWhen
+displayname: PBRWhen
 setname: TPP Stadium 2 Intermission
 tags: [runmon, in-game]
-item: [Sitrus Berry]
-ability: [Null]
+item: [Sitrus Berry] #Gold Berry
+ability: [null]
 moves:
     - [Quick Attack]
     - [Leer]
     - [Headbutt]
-    - [Hidden Power] #special here but not in gen 2, should it be changed?
-happiness: 255
+    - [Rock Smash] #Hidden Power Fighting
 gender: [f]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 4, atk: 8, def: 0, spA: 12, spD: 12, spe: 6}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0} 
+evs: 0
+---
+species: Pikachu
+setname: TP PokéPark Wii
+tags: [runmon, in-game]
+item: [null]
+ability: [Scrappy]
+moves:
+    - [Thunderbolt]
+    - [Iron Tail]
+    - [Quick Attack] #Dash
+    - [Extreme Speed, Vine Whip, Aqua Jet, Protect, Knock Off, Rock Smash, Aerial Ace] #Based on the Attractions
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: 252

@@ -1,113 +1,116 @@
-species: Abra
-ingamename: BR
-displayname: BR
-setname: TPP Bootleg Green
-tags: [runmon, in-game]
-item: [Choice Band]
-ability: [Huge Power]
-moves:
-    - [Teleport (=1)]
-happiness: 255
-gender: [m]
-biddable: True
-rarity: 1.0
-ball: [Poké]
-shiny: False
-nature: Naughty
-ivs: {hp: 11, atk: 7, def: 10, spA: 13, spD: 13, spe: 3}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
----
 species: Charizard
 ingamename: " "
 displayname: " "
 setname: TPP Bootleg Green
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Cut]
     - [Take Down]
     - [Strength]
     - [Double Team]
-happiness: 255
 gender: [f]
-biddable: True
-rarity: 1.0
-ball: [Poké]
-shiny: False
-nature: Careful
-ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
-evs: {hp: 5, atk: 6, def: 5, spA: 4, spD: 4, spe: 7}
----
-species: Charizard
-ingamename: CUCKO
-displayname: CUCKO
-setname: TPP Bootleg Green-2
-tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
-moves:
-    - [Peck]
-    - [Growl]
-    - [Fly]
 happiness: 255
-gender: [m]
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
-nature: Lonely
-ivs: {hp: 15, atk: 11, def: 1, spA: 11, spD: 11, spe: 11}
-evs: {hp: 9, atk: 8, def: 8, spA: 10, spD: 10, spe: 8}
+nature: Serious
+ivs: 0
+evs: {hp: 5, atk: 6, def: 5, spA: 4, spD: 4, spe: 8}
 ---
 species: Flareon
 ingamename: GG
 displayname: GG
 setname: TPP Bootleg Green
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Tackle]
     - [Sand Attack]
-happiness: 255
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
-nature: Calm
-ivs: {hp: 8, atk: 7, def: 2, spA: 0, spD: 0, spe: 6}
-evs: {hp: 7, atk: 9, def: 7, spA: 7, spD: 7, spe: 9}
+nature: Serious
+ivs: {hp: 16, atk: 14, def: 4, spA: 0, spD: 0, spe: 12}
+evs: {hp: 8, atk: 9, def: 8, spA: 8, spD: 8, spe: 9}
 ---
 species: Jolteon
 ingamename: SUNRA
 displayname: SUNRA
 setname: TPP Bootleg Green
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Tackle]
     - [Sand Attack]
     - [Thunder Wave]
-happiness: 255
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
-nature: Naive
-ivs: {hp: 4, atk: 10, def: 15, spA: 14, spD: 14, spe: 0}
-evs: {hp: 4, atk: 4, def: 3, spA: 3, spD: 3, spe: 5}
+nature: Serious
+ivs: {hp: 8, atk: 20, def: 30, spA: 28, spD: 28, spe: 0}
+evs: {hp: 4, atk: 4, def: 4, spA: 4, spD: 4, spe: 5}
+---
+species: Vaporeon
+ingamename: WEEB
+displayname: WEEB
+setname: TPP Bootleg Green
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Hydro Pump]
+    - [Ice Beam]
+    - [Blizzard]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 0, def: 6, spA: 14, spD: 14, spe: 6}
+evs: {hp: 122, atk: 133, def: 126, spA: 124, spD: 124, spe: 132}
+---
+species: Charizard
+ingamename: CUCKO
+displayname: CUCKO
+setname: TPP Bootleg Green-2
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Peck]
+    - [Growl]
+    - [Fly]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 22, def: 2, spA: 22, spD: 22, spe: 22}
+evs: {hp: 9, atk: 8, def: 8, spA: 10, spD: 10, spe: 8}
 ---
 species: Mewtwo
 ingamename: MOM
 displayname: MOM
 setname: TPP Bootleg Green
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [null]
+ability: [null]
 moves:
     - [Thunderbolt]
     - [Psychic]
@@ -118,28 +121,25 @@ biddable: True
 rarity: 1.0
 ball: [Master]
 shiny: False
-nature: Brave
-ivs: {hp: 5, atk: 10, def: 7, spA: 15, spD: 15, spe: 6}
-evs: {hp: 48, atk: 48, def: 47, spA: 50, spD: 50, spe: 47}
+nature: Serious
+ivs: {hp: 10, atk: 20, def: 14, spA: 30, spD: 30, spe: 12}
+evs: {hp: 48, atk: 48, def: 48, spA: 50, spD: 50, spe: 48}
 ---
-species: Vaporeon
-ingamename: WEEB
-displayname: WEEB
+species: Abra
+ingamename: BR
+displayname: BR
 setname: TPP Bootleg Green
 tags: [runmon, in-game]
-item: [Null]
-ability: [Null]
+item: [Choice Band] #No item/ability originally
+ability: [Pure Power]
 moves:
-    - [Surf]
-    - [Hydro Pump]
-    - [Ice Beam]
-    - [Blizzard]
+    - [Teleport (=1)]
+gender: [m]
 happiness: 255
-gender: [f]
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
-nature: Gentle
-ivs: {hp: 7, atk: 0, def: 3, spA: 7, spD: 7, spe: 3}
-evs: {hp: 122, atk: 133, def: 126, spA: 123, spD: 123, spe: 131}
+nature: Serious
+ivs: {hp: 22, atk: 14, def: 20, spA: 26, spD: 26, spe: 6}
+evs: 0
