@@ -1,0 +1,22 @@
+species: Bellossom
+ingamename: Agnea
+displayname: Agnea Bristarni
+setname: Halloween-OT
+tags: [halloween]
+item: [Razz Berry]
+ability: [Klutz]
+moves:
+    - [Metronome]
+    - [Petal Dance]
+    - [Mega Kick]
+    - [Tailwind]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: False
+nature: Hasty
+ivs: {hp: 0, atk: 8, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 8, def: 0, spA: 24, spD: 0, spe: 252}
+hidden: false

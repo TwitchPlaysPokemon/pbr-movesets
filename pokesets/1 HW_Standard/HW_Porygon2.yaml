@@ -1,0 +1,22 @@
+species: Porygon2
+ingamename: Sukapon
+displayname: Sukapon
+setname: Halloween
+tags: [halloween]
+item: Nomel Berry
+ability: [Limber, Simple]
+moves:
+    - [Chatter]
+    - [Rapid Spin, Rollout]
+    - [Headbutt, Jump Kick]
+    - [Seismic Toss, Vital Throw]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 4, spD: 0, spe: 0}
+hidden: false
+---

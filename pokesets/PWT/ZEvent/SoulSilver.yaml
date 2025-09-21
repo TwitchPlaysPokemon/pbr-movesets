@@ -1,0 +1,178 @@
+species: Feraligatr
+ingamename: "......"
+displayname: "......"
+setname: ZPP SoulSilver
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [Mystic Water]
+ability: [Torrent]
+moves:
+    - [Crunch]
+    - [Waterfall]
+    - [Ice Fang]
+    - [Surf]
+gender: [m]
+happiness: 255 # Unknown
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Naughty
+ivs: {hp: 26, atk: 18, def: 1, spA: 29, spD: 0, spe: 25} # Estimate
+evs: {hp: 65, atk: 91, def: 77, spA: 79, spD: 38, spe: 160} # Estimate
+---
+species: Gyarados
+ingamename: "MICHEL"
+displayname: "MICHEL"
+setname: ZPP SoulSilver
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [Exp. Share]
+ability: [Intimidate]
+moves:
+    - [Waterfall]
+    - [Bite]
+    - [Earthquake]
+    - [Ice Fang]
+gender: [f]
+happiness: 255 # Unknown
+hidden: False
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+nature: Naughty
+ivs: {hp: 4, atk: 8, def: 3, spA: 4, spD: 22, spe: 11} # Estimate
+evs: {hp: 25, atk: 155, def: 59, spA: 72, spD: 67, spe: 131} # Estimate
+suppressions: [public-shiny]
+---
+species: Fearow
+ingamename: "Piou Piou"
+displayname: "Piou Piou"
+setname: ZPP SoulSilver
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [Grass Mail]
+ability: [Keen Eye]
+moves:
+    - [Aerial Ace]
+    - [Fly]
+    - [Pursuit]
+    - [Leer]
+gender: [f]
+happiness: 255 # Unknown
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Hasty
+ivs: {hp: 15, atk: 20, def: 15, spA: 20, spD: 20, spe: 20}
+evs: {hp: 16, atk: 9, def: 7, spA: 26, spD: 15, spe: 11} # Estimate
+---
+species: Nidoqueen
+ingamename: "JDG♀"
+displayname: "JDG♀"
+setname: ZPP SoulSilver
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [null]
+ability: [Poison Point]
+moves:
+    - [Cut]
+    - [Scratch]
+    - [Strength]
+    - [Fury Swipes]
+gender: [f]
+happiness: 255 # Unknown
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Naive
+ivs: {hp: 28, atk: 6, def: 14, spA: 28, spD: 21, spe: 2} # Estimate
+evs: {hp: 24, atk: 20, def: 36, spA: 52, spD: 24, spe: 85} # Estimate
+---
+species: Lugia
+ingamename: "MV"
+displayname: "MV"
+setname: ZPP SoulSilver
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [null]
+ability: [Pressure]
+moves:
+    - [Extrasensory]
+    - [Surf]
+    - [Dragon Pulse]
+    - [Aeroblast]
+gender: [null]
+happiness: 255 # Unknown
+biddable: True
+rarity: 1.0
+ball: [Master]
+shiny: False
+nature: Calm
+ivs: {hp: 26, atk: 8, def: 15, spA: 21, spD: 30, spe: 18} # Estimate
+evs: {hp: 4, atk: 97, def: 26, spA: 56, spD: 34, spe: 26} # Estimate
+---
+species: Quagsire
+ingamename: "AAAAAAK"
+displayname: "AAAAAAK"
+setname: ZPP SoulSilver
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [null]
+ability: [Water Absorb]
+moves:
+    - [Tail Whip]
+    - [Mud Sport]
+    - [Mud Shot]
+    - [Slam]
+gender: [m]
+happiness: 255 # Unknown
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Docile # Unknown
+ivs: {hp: 2, atk: 1, def: 5, spA: 17, spD: 22, spe: 11} # Very rough estimate
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Tentacool
+ingamename: "KK"
+displayname: "KK"
+setname: ZPP SoulSilver
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [null]
+ability: [Liquid Ooze]
+moves:
+    - [Toxic Spikes]
+    - [Acid]
+    - [Whirlpool]
+    - [BubbleBeam]
+gender: [m]
+happiness: 255 # Unknown
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Brave
+ivs: {hp: 22, atk: 2, def: 30, spA: 17, spD: 17, spe: 2} # Very rough estimate
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Shuckle
+ingamename: "Nessie"
+displayname: "Nessie"
+setname: ZPP SoulSilver
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [null]
+ability: [Gluttony]
+moves:
+    - [Constrict]
+    - [Bide]
+    - [Encore]
+    - [Safeguard]
+gender: [m]
+happiness: 255 # Unknown
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Relaxed
+ivs: {hp: 15, atk: 20, def: 15, spA: 20, spD: 20, spe: 20}
+evs: {hp: 0, atk: 0, def: 2, spA: 0, spD: 0, spe: 0} # Estimate
+---

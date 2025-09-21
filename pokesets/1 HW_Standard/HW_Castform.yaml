@@ -43,3 +43,55 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 100, atk: 100, def: 0, spA: 100, spD: 0, spe: 0}
 hidden: false
+---
+species: Castform
+ingamename: Jupiter 
+displayname: Jupiter Djinn 
+setname: Halloween-GS
+tags: [halloween]
+item: Sky Plate
+ability: [Plus, Minus]
+moves:
+    - [Aeroblast, Blizzard, ExtremeSpeed, Double Hit, Mirror Shot, Poison Tail, Razor Wind, Rock Climb, Sludge Bomb, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball]
+    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Bomb, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
+    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Bomb, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
+    - [Aeroblast, Agility, Blizzard, Detect, Disable, ExtremeSpeed, Fake Out, Double Hit, Focus Energy, Helping Hand, Light Screen, Mirror Shot, Odor Sleuth, Perish Song, Poison Tail, Razor Wind, Rock Climb, Roost, Sleep Powder, Sludge Bomb, Sweet Scent, Tailwind, Thunderbolt, ThunderPunch, ThunderShock, Weather Ball, Wish]
+separations:
+    - [Aeroblast, Aeroblast] # Gale
+    - [Agility, Agility] # Fleet
+    - [Blizzard, Blizzard] # Vortex
+    - [Detect, Detect] # Haze, Lull
+    - [Disable, Disable] # Luff
+    - [ExtremeSpeed, ExtremeSpeed] # Swift
+    - [Fake Out, Fake Out] # Doldrum
+    - [Double Hit, Double Hit] # Gust
+    - [Focus Energy, Focus Energy] # Ether
+    - [Helping Hand, Helping Hand] # Kite
+    - [Light Screen, Light Screen] # Breeze
+    - [Mirror Shot, Mirror Shot] # Smog
+    - [Odor Sleuth, Odor Sleuth] # Aroma
+    - [Perish Song, Perish Song] # Gasp
+    - [Poison Tail, Poison Tail] # Wheeze
+    - [Razor Wind, Razor Wind] # Whorl
+    - [Rock Climb, Rock Climb] # Sirocco
+    - [Roost, Roost] # Breath
+    - [Sleep Powder, Sleep Powder] # Waft
+    - [Sludge Bomb, Sludge Bomb] # Simoom
+    - [Sweet Scent, Sweet Scent] # Wisp
+    - [Tailwind, Tailwind] # Zephyr
+    - [Thunderbolt, Thunderbolt] # Bolt
+    - [ThunderPunch, ThunderPunch] # Squall
+    - [ThunderShock, ThunderShock] # Blitz
+    - [Weather Ball, Weather Ball] # Puff
+    - [Wish, Wish] # Jolt
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Repeat]
+shiny: True
+nature: Hasty
+ivs: 31
+evs: {hp: 248, atk: 0, def: 0, spA: 8, spD: 0, spe: 252}
+hidden: false
+---

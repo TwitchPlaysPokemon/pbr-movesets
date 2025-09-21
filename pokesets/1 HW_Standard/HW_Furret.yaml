@@ -1,0 +1,23 @@
+species: Furret
+ingamename: Hufflepuff
+displayname: Hufflepuff 
+setname: Halloween-993
+tags: [halloween]
+item: Berry Juice
+ability: Steadfast
+moves:
+    - [Hidden Power]
+    - [Bide]
+    - [Stockpile]
+    - [Leech Seed]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 31, spA: 30, spD: 30, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
+hidden: false
+---

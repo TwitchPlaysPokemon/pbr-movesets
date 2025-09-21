@@ -43,3 +43,26 @@ nature: Adamant
 ivs: 31
 evs: {hp: 56, atk: 252, def: 56, spA: 0, spD: 56, spe: 88}
 hidden: false
+---
+species: Meowth
+ingamename: Tressa
+displayname: Tressa Colzione
+setname: Christmas-OT
+tags: [christmas]
+item: [Focus Sash]
+ability: [Pickup]
+moves:
+    - [Pay Day]
+    - [Air Cutter]
+    - [Double Team]
+    - [Rest]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [luxury]
+shiny: False
+nature: Quirky
+ivs: {hp: 15, atk: 20, def: 20, spA: 15, spD: 15, spe: 15}
+evs: {hp: 84, atk: 86, def: 86, spA: 84, spD: 84, spe: 84}
+hidden: false

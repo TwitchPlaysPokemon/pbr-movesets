@@ -1,0 +1,321 @@
+species: Pikachu
+setname: WSJ-Luffy #One Piece
+ability: [Gluttony]
+item: [Liechi Berry]
+ball: [Poke]
+moves:
+- [Thunder Punch]
+- [Bounce]
+- [Flare Blitz]
+- [Swagger]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [WSJ-Luffy, manga]
+---
+species: Totodile
+setname: WSJ-Chinatsu #Blue Box
+ability: [Cute Charm]
+item: [Light Ball]
+ball: [Poke]
+moves:
+- [Waterfall]
+- [Aerial Ace]
+- [Fling]
+- [Sweet Kiss]
+gender: [f]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Gentle
+evs: {hp: 4, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+ivs: 31
+tags: [WSJ-Chinatsu, manga]
+---
+species: Blaziken
+setname: WSJ-Roboco #Me and Roboco
+ability: [Speed Boost]
+item: [Everstone]
+ball: [Poke]
+moves:
+- [Rolling Kick]
+- [Metal Claw]
+- [Magnet Rise]
+- [Curse]
+gender: [f]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Quirky
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+ivs: 31
+tags: [WSJ-Roboco, manga]
+---
+species: Chikorita
+setname: WSJ-Sakamoto #Sakamoto Days
+ability: [Thick Fat]
+item: [Expert Belt]
+ball: [Poke]
+moves:
+- [Wood Hammer]
+- [Close Combat]
+- [Bullet Punch]
+- [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Adamant
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+ivs: 31
+tags: [WSJ-Sakamoto, manga]
+---
+species: Gallade
+setname: WSJ-Ichi #Ichi the Witch
+ability: [Inner Focus]
+item: [Everstone]
+ball: [Poke]
+moves:
+- [Psycho Cut]
+- [Leaf Blade]
+- [Thunder Punch, Icy Wind, Spider Web, Dark Void]
+- [Magic Coat]
+gender: [m]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Rash
+evs: {hp: 0, atk: 40, def: 150, spA: 40, spD: 150, spe: 0}
+ivs: 31
+tags: [WSJ-Ichi, manga]
+---
+species: Wobbuffet
+setname: WSJ-Akane #Akane-Banashi
+ability: [Intimidate]
+item: [Sky Plate]
+ball: [Poke]
+moves:
+- [Chatter]
+- [Hyper Voice]
+- [Flatter]
+- [Encore]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Sassy
+evs: {hp: 4, atk: 0, def: 252, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [WSJ-Akane, manga]
+---
+species: Clefairy
+setname: WSJ-Nico #Witch Watch
+ability: [Magic Guard]
+item: [Stick]
+ball: [Poke]
+moves:
+- [Magical Leaf]
+- [Metronome]
+- [Amnesia]
+- [Charm]
+gender: [f]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Sassy
+evs: {hp: 4, atk: 0, def: 252, spA: 252, spD: 0, spe: 0}
+ivs: 31
+tags: [WSJ-Nico, manga]
+---
+species: Eevee
+setname: WSJ-Tokiyuki #The Elusive Samurai
+ability: [Simple]
+item: [Brightpowder]
+ball: [Poke]
+moves:
+- [False Swipe]
+- [Beat Up]
+- [Double Team]
+- [Swords Dance]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Hasty
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [WSJ-Tokiyuki, manga]
+---
+species: Absol
+setname: WSJ-Gakuro #Nue's Exorcist
+ability: [Magic Guard]
+item: [Dusk Stone]
+ball: [Poke]
+moves:
+- [Night Slash]
+- [Judgment]
+- [Worry Seed]
+- [Attract]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Timid
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [WSJ-Gakuro, manga]
+---
+species: Rotom
+setname: WSJ-Himari #Hima-Ten!
+ability: [Clear Body]
+item: [Silk Scarf]
+ball: [Poke]
+moves:
+- [Surf]
+- [Thunderbolt]
+- [Lovely Kiss]
+- [Refresh]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Bold
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 4}
+ivs: 31
+tags: [WSJ-Himari, manga]
+---
+species: Gengar
+setname: WSJ-Kiyoshi #Ultimate Exorcist Kiyoshi
+ability: [Shadow Tag]
+item: [Dusk Stone]
+ball: [Poke]
+moves:
+- [Cross Chop]
+- [Judgment]
+- [Focus Energy]
+- [Defog]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Quiet
+evs: {hp: 4, atk: 140, def: 0, spA: 140, spD: 120, spe: 4}
+ivs: 31
+tags: [WSJ-Kiyoshi, manga]
+---
+species: Houndoom
+setname: WSJ-Juzo #Kill Blue
+ability: [Solar Power]
+item: [Fire Stone]
+ball: [Poke]
+moves:
+- [Dragon Pulse]
+- [Energy Ball, Surf]
+- [Growth]
+- [Sunny Day]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Serious
+evs: {hp: 4, atk: 0, def: 0, spA: 120, spD: 120, spe: 4}
+ivs: 31
+tags: [WSJ-Kiyoshi, manga]
+---
+species: Charizard
+setname: WSJ-Otr #Otr of the Flame
+ability: [Adaptability]
+item: [Everstone]
+ball: [Poke]
+moves:
+- [Flare Blitz]
+- [Leaf Blade]
+- [Swords Dance]
+- [Sunny Day]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Brave
+evs: {hp: 4, atk: 140, def: 120, spA: 0, spD: 120, spe: 4}
+ivs: 31
+tags: [WSJ-Otr, manga]
+---
+species: Garchomp
+setname: WSJ-Nagiharu #Harukaze Mound
+ability: [Sand Veil]
+item: [Dawn Stone]
+ball: [Poke]
+moves:
+- [Force Palm]
+- [Rock Blast]
+- [Vital Throw]
+- [Seismic Toss]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Calm
+evs: {hp: 4, atk: 140, def: 0, spA: 140, spD: 120, spe: 4}
+ivs: 31
+tags: [WSJ-Nagiharu, manga]
+---
+species: Gyarados
+setname: WSJ-Kou #Kaedegami
+ability: [Mold Breaker]
+item: [Water Stone]
+ball: [Poke]
+moves:
+- [Air Slash]
+- [Aqua Jet]
+- [Captivate]
+- [Snatch]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Bashful
+evs: {hp: 4, atk: 140, def: 0, spA: 140, spD: 120, spe: 4}
+ivs: 31
+tags: [WSJ-Kou, manga]
+---
+species: Rapidash
+setname: WSJ-Nobunaga #Ekiden Bros
+ability: [Speed Boost]
+item: [Focus Band]
+ball: [Poke]
+moves:
+- [Extreme Speed]
+- [Fire Fang]
+- [Helping Hand]
+- [Follow Me]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Naive
+evs: {hp: 0, atk: 252, def: 252, spA: 0, spD: 0, spe: 4}
+ivs: 31
+tags: [WSJ-Nobunaga, manga]
+---
+species: Meowth
+setname: WSJ-Taira #Ping-Pong Peril
+ability: [Skill Link]
+item: [King's Rock]
+ball: [Poke]
+moves:
+- [Barrage]
+- [Vacuum Wave]
+- [Rock Throw]
+- [Reflect]
+gender: [m]
+happiness: 255
+biddable: false
+rarity: 1.0
+nature: Bold
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+ivs: 31
+tags: [WSJ-Kiyoshi, manga]
