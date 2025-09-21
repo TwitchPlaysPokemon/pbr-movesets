@@ -18,7 +18,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 8, atk: 16, def: 14, spA: 4, spD: 4, spe: 8}
-evs: {hp: 174, atk: 190, def: 190, spA: 170, spD: 170, spe: 170}
+evs: {hp: 149, atk: 162, def: 161, spA: 141, spD: 141, spe: 141}
 ---
 species: Ampharos
 ingamename: LUMINARY
@@ -28,19 +28,19 @@ tags: [runmon, in-game]
 item: [Magnet]
 ability: [null]
 moves:
-    - [Thunderbolt] #Thunder Punch
-    - [Flamethrower] #Fire Punch
+    - [Thunderbolt]
+    - [Flamethrower]
     - [Light Screen]
     - [Thunder Wave]
 gender: [m]
-happiness: 255
+happiness: 254
 biddable: True
 rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 2, atk: 24, def: 16, spA: 26, spD: 26, spe: 0}
-evs: {hp: 112, atk: 116, def: 116, spA: 112, spD: 112, spe: 112}
+evs: {hp: 111, atk: 116, def: 115, spA: 112, spD: 112, spe: 112}
 ---
 species: Heracross
 ingamename: YUUGI
@@ -55,14 +55,14 @@ moves:
     - [Reversal]
     - [Endure]
 gender: [f]
-happiness: 255
+happiness: 254
 biddable: True
 rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 12, atk: 8, def: 6, spA: 24, spD: 24, spe: 14}
-evs: {hp: 136, atk: 144, def: 137, spA: 136, spD: 136, spe: 145}
+evs: {hp: 135, atk: 142, def: 137, spA: 136, spD: 136, spe: 145}
 ---
 species: Espeon
 ingamename: SUNNY
@@ -73,7 +73,7 @@ item: [King's Rock]
 ability: [null]
 moves:
     - [Psychic]
-    - [Dark Pulse] #Bite
+    - [Dark Pulse]
     - [Flash]
     - [Morning Sun]
 gender: [m]
@@ -84,7 +84,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 28, atk: 10, def: 14, spA: 24, spD: 24, spe: 22}
-evs: {hp: 126, atk: 136, def: 132, spA: 146, spD: 146, spe: 137}
+evs: {hp: 126, atk: 135, def: 131, spA: 146, spD: 146, spe: 137}
 ---
 species: Skarmory
 ingamename: JAVELIN
@@ -99,13 +99,13 @@ moves:
     - [Sleep Talk]
     - [Rest]
 gender: [m]
-happiness: 255
+happiness: 246
 biddable: True
 rarity: 1.0
 ball: [Great]
 shiny: False
 nature: Serious
-ivs: {hp: 6, atk: 16, def: 0, spA: 22, spD: 22, spe: 26}
+ivs: {hp: 6, atk: 16, def: 1, spA: 22, spD: 22, spe: 26}
 evs: {hp: 97, atk: 105, def: 105, spA: 98, spD: 98, spe: 97}
 ---
 species: Celebi
@@ -120,11 +120,11 @@ moves:
     - [Giga Drain]
     - [Rock Slide]
     - [Mimic]
-happiness: 255
+happiness: 254
 biddable: True
 rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 14, atk: 12, def: 22, spA: 22, spD: 22, spe: 2}
-evs: {hp: 110, atk: 124, def: 121, spA: 113, spD: 113, spe: 120}
+ivs: {hp: 14, atk: 12, def: 22, spA: 12, spD: 12, spe: 2}
+evs: {hp: 110, atk: 122, def: 121, spA: 113, spD: 113, spe: 120}

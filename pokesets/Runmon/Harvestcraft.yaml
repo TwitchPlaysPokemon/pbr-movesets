@@ -1,17 +1,17 @@
 species: Gardevoir
 ingamename: twitch
 displayname: twitch
-setname: TPP HarvestCraft
+setname: TPP Harvestcraft
 tags: [runmon, in-game]
-item: [Lansat Berry] #Spinach
+item: [Lansat Berry]
 ability: [Trace]
 moves:
     - [Psychic]
-    - [Giga Drain] #Draining Kiss
+    - [Giga Drain]
     - [Magical Leaf]
     - [Teleport]
 gender: [f]
-happiness: 255
+happiness: 235
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -20,10 +20,54 @@ nature: Sassy
 ivs: {hp: 29, atk: 18, def: 17, spA: 7, spD: 4, spe: 3}
 evs: {hp: 45, atk: 55, def: 60, spA: 56, spD: 54, spe: 129}
 ---
+species: Dugtrio
+ingamename: BIG BINGUS
+displayname: BIG BINGUS
+setname: TPP Harvestcraft
+tags: [runmon, in-game]
+item: [Liechi Berry]
+ability: [Sand Veil]
+moves:
+    - [Rock Tomb]
+    - [Magnitude]
+    - [Tri-Attack]
+    - [Astonish]
+gender: [m]
+happiness: 94
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: {hp: 10, atk: 16, def: 2, spA: 1, spD: 8, spe: 18}
+evs: {hp: 8, atk: 4, def: 17, spA: 6, spD: 5, spe: 42}
+---
+species: Vileplume
+ingamename: W
+displayname: W
+setname: TPP Harvestcraft
+tags: [runmon, in-game]
+item: [Lum Berry]
+ability: [Chlorophyll]
+moves:
+    - [Giga Drain]
+    - [Acid]
+    - [Stun Spore]
+    - [Moonlight]
+gender: [f]
+happiness: 243
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: {hp: 19, atk: 8, def: 19, spA: 4, spD: 11, spe: 17}
+evs: {hp: 54, atk: 45, def: 47, spA: 64, spD: 51, spe: 104}
+---
 species: Gyarados
 ingamename: FEESH
 displayname: FEESH
-setname: TPP HarvestCraft
+setname: TPP Harvestcraft
 tags: [runmon, in-game]
 item: [Lum Berry]
 ability: [Intimidate]
@@ -39,59 +83,15 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Relaxed
-ivs: {hp: 5, atk: 28, def: 20, spA: 6, spD: 12, spe: 3}
-evs: {hp: 54, atk: 34, def: 64, spA: 47, spD: 32, spe: 209}
----
-species: Vileplume
-ingamename: W
-displayname: W
-setname: TPP HarvestCraft
-tags: [runmon, in-game]
-item: [Lum Berry]
-ability: [Chlorophyll]
-moves:
-    - [Giga Drain]
-    - [Acid]
-    - [Stun Spore]
-    - [Moonlight]
-gender: [f]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Naughty
-ivs: {hp: 19, atk: 8, def: 19, spA: 4, spD: 11, spe: 17}
-evs: {hp: 54, atk: 45, def: 47, spA: 64, spD: 51, spe: 104}
----
-species: Dugtrio
-ingamename: BIG BINGUS
-displayname: BIG BINGUS
-setname: TPP HarvestCraft
-tags: [runmon, in-game]
-item: [Liechi Berry] #Red Shroom
-ability: [Sand Veil]
-moves:
-    - [Magnitude]
-    - [Rock Tomb] #Bulldoze
-    - [Tri Attack]
-    - [Astonish]
-gender: [m]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke]
-shiny: False
-nature: Naughty
-ivs: {hp: 10, atk: 16, def: 2, spA: 1, spD: 8, spe: 18}
-evs: {hp: 8, atk: 4, def: 17, spA: 6, spD: 5, spe: 42}
+ivs: {hp: 5, atk: 28, def: 30, spA: 6, spD: 12, spe: 3}
+evs: {hp: 54, atk: 34, def: 64, spA: 47, spD: 47, spe: 209}
 ---
 species: Latios
 ingamename: Bagel
 displayname: Bagel
-setname: TPP HarvestCraft
+setname: TPP Harvestcraft
 tags: [runmon, in-game]
-item: [Petaya Berry] #Potato
+item: [Petaya Berry]
 ability: [Levitate]
 moves:
     - [Psychic]
@@ -99,11 +99,11 @@ moves:
     - [Dragon Dance]
     - [Recover]
 gender: [m]
-happiness: 255
+happiness: 125
 biddable: True
 rarity: 1.0
 ball: [Master]
 shiny: False
 nature: Gentle
 ivs: {hp: 4, atk: 20, def: 17, spA: 15, spD: 0, spe: 0}
-evs: {hp: 10, atk: 14, def: 8, spA: 29, spD: 11, spe: 15}
+evs: {hp: 10, atk: 12, def: 8, spA: 29, spD: 11, spe: 15}

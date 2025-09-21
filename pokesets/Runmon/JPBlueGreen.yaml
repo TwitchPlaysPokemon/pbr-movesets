@@ -10,7 +10,7 @@ moves:
     - [Seismic Toss]
     - [Fissure]
     - [Bide]
-gender: [m]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -18,7 +18,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 14, atk: 8, def: 14, spA: 6, spD: 6, spe: 30}
-evs: {hp: 104, atk: 116, def: 116, spA: 100, spD: 100, spe: 110}
+evs: {hp: 104, atk: 116, def: 115, spA: 99, spD: 99, spe: 110}
 ---
 species: Parasect
 ingamename: ホイイイシ
@@ -62,7 +62,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 30, atk: 10, def: 18, spA: 10, spD: 10, spe: 26}
-evs: {hp: 65, atk: 72, def: 66, spA: 68, spD: 68, spe: 72}
+evs: {hp: 65, atk: 71, def: 66, spA: 67, spD: 67, spe: 71}
 ---
 species: Marowak
 ingamename: ムハハチタ
@@ -76,7 +76,7 @@ moves:
     - [Mega Kick]
     - [Bubble Beam]
     - [Counter]
-gender: [f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -84,7 +84,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 18, atk: 2, def: 24, spA: 2, spD: 2, spe: 4}
-evs: {hp: 53, atk: 60, def: 60, spA: 60, spD: 60, spe: 76}
+evs: {hp: 53, atk: 59, def: 60, spA: 60, spD: 60, spe: 75}
 ---
 species: Zapdos
 ingamename: シタサスヒ
@@ -126,7 +126,7 @@ ball: [Master]
 shiny: False
 nature: Serious
 ivs: {hp: 4, atk: 24, def: 24, spA: 24, spD: 24, spe: 26}
-evs: {hp: 80, atk: 84, def: 84, spA: 84, spD: 84, spe: 96}
+evs: {hp: 77, atk: 81, def: 81, spA: 84, spD: 84, spe: 94}
 ---
 species: Pidgey
 ingamename: " "
@@ -136,11 +136,11 @@ tags: [runmon, in-game]
 item: [null]
 ability: [null]
 moves:
-    - [Horn Drill]
+    - [Struggle]
     - [Psychic]
     - [Metronome]
-    - [Struggle]
-gender: [f]
+    - [Horn Drill]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -170,7 +170,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 14, atk: 20, def: 18, spA: 2, spD: 2, spe: 6}
-evs: {hp: 81, atk: 169, def: 168, spA: 164, spD: 164, spe: 162}
+evs: {hp: 81, atk: 169, def: 168, spA: 163, spD: 163, spe: 162}
 ---
 species: Mewtwo
 ingamename: サカケイル
@@ -191,7 +191,7 @@ ball: [Ultra]
 shiny: False
 nature: Serious
 ivs: {hp: 24, atk: 10, def: 22, spA: 16, spD: 16, spe: 12}
-evs: {hp: 46, atk: 168, def: 168, spA: 166, spD: 166, spe: 166}
+evs: {hp: 46, atk: 167, def: 167, spA: 166, spD: 166, spe: 166}
 ---
 species: Butterfree
 ingamename: ツヌチニ
@@ -212,7 +212,7 @@ rarity: 1.0
 ball: [Poke]
 shiny: False
 nature: Serious
-ivs: {hp: 26, atk: 14, def: 30, spA: 30, spD: 30, spe: 8}
+ivs: {hp: 26, atk: 14, def: 30, spA: 30, spD: 30, spe: 6}
 evs: {hp: 36, atk: 42, def: 164, spA: 164, spD: 164, spe: 166}
 ---
 species: Gyarados
@@ -227,7 +227,7 @@ moves:
     - [Thunderbolt]
     - [Ice Beam]
     - [Reflect]
-gender: [f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -235,7 +235,7 @@ ball: [Poke]
 shiny: False
 nature: Serious
 ivs: {hp: 18, atk: 10, def: 20, spA: 10, spD: 10, spe: 8}
-evs: {hp: 44, atk: 50, def: 166, spA: 168, spD: 168, spe: 168}
+evs: {hp: 44, atk: 50, def: 166, spA: 167, spD: 167, spe: 167}
 ---
 species: Fearow
 ingamename: カカロット
@@ -249,7 +249,7 @@ moves:
     - [Giga Impact] #Hyper Beam
     - [Swift]
     - [Mimic]
-gender: [f]
+gender: [m]
 happiness: 255
 biddable: True
 rarity: 1.0
@@ -271,7 +271,7 @@ moves:
     - [Seismic Toss]
     - [Horn Drill]
     - [Reflect]
-gender: [m]
+gender: [f]
 happiness: 255
 biddable: True
 rarity: 1.0
