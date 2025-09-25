@@ -1,0 +1,377 @@
+species: Beedrill
+ingamename: GigaChad
+displayname: GigaChad
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Hard Stone] # Beedrillite
+ability: [Adaptability]
+moves:
+    - [Poison Jab]
+    - [Attack Order] # Fell Stinger
+    - [Earthquake] # Drill Run
+    - [U-Turn]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari] # Park
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Butterfree
+ingamename: Cyaniris
+displayname: Cyaniris
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Compound Eyes]
+moves:
+    - [Fire Spin] #Infestation
+    - [Nightmare]
+    - [Sleep Powder]
+    - [Substitute]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+hidden: false
+nature: Timid
+ivs: {hp: 16, atk: 20, def: 10, spA: 22, spD: 0, spe: 6}
+evs: {hp: 252, atk: 0, def: 0, spA: 6, spD: 0, spe: 252}
+---
+species: Gengar
+ingamename: A♂
+displayname: A♂
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [null]
+ability: [Levitate]
+moves:
+    - [Mean Look]
+    - [Hypnosis]
+    - [Night Shade]
+    - [Shadow Ball]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Mild
+ivs: {hp: 31, atk: 22, def: 8, spA: 20, spD: 16, spe: 26}
+evs: {hp: 252, atk: 3, def: 252, spA: 1, spD: 0, spe: 2}
+---
+species: Gyarados
+ingamename: Aaghhii
+displayname: Aaghhii
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Hard Stone] # Gyaradosite
+ability: [Intimidate]
+moves:
+    - [Waterfall]
+    - [Crunch]
+    - [Earthquake]
+    - [Dragon Dance]
+gender: [f]
+happiness: 254
+biddable: True
+rarity: 1.0
+ball: [Heal]
+shiny: True
+hidden: false
+nature: Jolly
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 6, spe: 252}
+---
+species: Dragonite
+ingamename: Lazuli
+displayname: Lazuli
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Enigma Berry] # Weakness Policy
+ability: [Marvel Scale] #Multiscale
+moves:
+    - [Outrage]
+    - [Ice Punch, Earthquake]
+    - [ExtremeSpeed]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari] # Park
+shiny: True
+hidden: false
+nature: Adamant
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Quagsire
+ingamename: Cindy
+displayname: Cindy
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Unaware]
+moves:
+    - [Surf] #Scald
+    - [Brick Break]
+    - [Toxic]
+    - [Recover]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+hidden: false
+nature: Relaxed
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 6, spD: 0, spe: 0}
+---
+species: Magcargo
+ingamename: Boiler
+displayname: Boiler
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Water Absorb] #Evaporate
+moves:
+    - [Magma Storm]
+    - [Earth Power]
+    - [Will-O-Wisp]
+    - [Recover]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari] # Park
+shiny: True
+hidden: false
+nature: Bold
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 6, spD: 252, spe: 0}
+---
+species: Tyranitar
+ingamename: Auudx
+displayname: Auudx
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Hard Stone] # Tyranitarite
+ability: [Sand Stream]
+moves:
+    - [Crunch]
+    - [Rock Slide]
+    - [Earthquake]
+    - [Ice Punch]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 152, atk: 252, def: 0, spA: 0, spD: 0, spe: 106}
+---
+species: Gardevoir
+ingamename: Gardevoir
+displayname: Gardevoir
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [null]
+ability: [Trace]
+moves:
+    - [Psychic]
+    - [Dragon Pulse] # Moonblast
+    - [Thunderbolt]
+    - [Energy Ball]
+gender: [f]
+happiness: 236
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Modest
+ivs: {hp: 5, atk: 10, def: 20, spA: 28, spD: 2, spe: 22}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Shedinja
+ingamename: Edd
+displayname: Edd
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Blackglasses] # Safety Goggles
+ability: [Wonder Guard]
+moves:
+    - [X-Scissor]
+    - [Shadow Claw]
+    - [Dig]
+    - [Will-O-Wisp]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: 31
+evs: {hp: 0, atk: 252, def: 0, spA: 6, spD: 0, spe: 252}
+---
+species: Absol
+ingamename: Nocc 
+displayname: Nocc
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Razor Claw]
+ability: [Super Luck]
+moves:
+    - [Night Slash]
+    - [Aerial Ace]
+    - [Knock Off]
+    - [Thunder Wave]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Lucario
+ingamename: A 99
+displayname: A 99
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Hard Stone] # Lucarionite
+ability: [Adaptability]
+moves:
+    - [Aura Sphere]
+    - [Flash Cannon]
+    - [Dark Pulse]
+    - [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Togekiss
+ingamename: Tag
+displayname: Tag
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Serene Grace]
+moves:
+    - [Dragon Pulse] # Moonblast
+    - [Air Slash]
+    - [Nasty Plot]
+    - [Morning Sun]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 6, spD: 0, spe: 252}
+---
+species: Magmortar
+ingamename: Maggtrois
+displayname: Maggtrois
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Expert Belt]
+ability: [Flame Body]
+moves:
+    - [Flamethrower]
+    - [Thunderbolt]
+    - [Psychic]
+    - [Will-O-Wisp]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Modest
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Electivire
+ingamename: Ppppppop“O
+displayname: Ppppppop“O
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Starf Berry] # Kee Berry
+ability: [Volt Absorb] # Motor Drive
+moves:
+    - [Thunder Punch] # Plasma Fists
+    - [Fire Punch]
+    - [Ice Punch]
+    - [Natural Gift]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: True
+hidden: false
+nature: Adamant
+ivs: 31
+evs: {hp: 0, atk: 252, def: 6, spA: 0, spD: 0, spe: 252}
+---
+species: Weavile
+ingamename: Rs      z
+displayname: Rs      z
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Focus Sash, Life Orb]
+ability: [Pressure]
+moves:
+    - [Ice Punch] # Triple Axel
+    - [Night Slash]
+    - [Brick Break, Poison Jab]
+    - [Ice Shard]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Adamant
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Arceus
+ingamename: HAND
+displayname: HAND
+setname: TPP Unbound
+tags: [runmon, in-game]
+item: [Iron Plate, Dread Plate, Toxic Plate, Insect Plate, Splash Plate, Earth Plate]
+ability: [Multitype]
+moves:
+    - [Judgment]
+    - [Ice Beam, Flamethrower, Dark Pulse, Energy Ball, Thunderbolt]
+    - [Calm Mind]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke] # Heavy
+shiny: False
+nature: Timid
+ivs: 31
+evs: {hp: 252, atk: 0, def: 0, spA: 6, spD: 0, spe: 252}
