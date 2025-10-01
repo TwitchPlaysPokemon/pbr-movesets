@@ -1,0 +1,22 @@
+species: Jolteon
+ingamename: Ochette
+displayname: Ochette
+setname: Halloween-OT
+tags: [halloween]
+item: [Master Ball]
+ability: [Keen Eye]
+moves:
+    - [Thunder Fang]
+    - [Dragon Claw]
+    - [Howl]
+    - [String Shot]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+nature: Naughty
+ivs: {hp: 16, atk: 31, def: 8, spA: 8, spD: 0, spe: 16}
+evs: {hp: 92, atk: 252, def: 124, spA: 40, spD: 0, spe: 0}
+hidden: false
+shiny: False
