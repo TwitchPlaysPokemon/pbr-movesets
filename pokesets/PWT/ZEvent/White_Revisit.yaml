@@ -1,0 +1,44 @@
+species: Rotom
+ingamename: "Triphaset"
+displayname: "Triphaset"
+setname: ZPP Blanc Revisit
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [Lucky Egg]
+ability: [Levitate]
+moves:
+    - [Discharge]
+    - [Thunderbolt]
+    - [Shadow Ball]
+    - [Leaf Storm]
+happiness: 251
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Gentle
+ivs: {hp: 20, atk: 20, def: 20, spA: 20, spD: 31, spe: 20}
+evs: {hp: 19, atk: 25, def: 13, spA: 102, spD: 8, spe: 202}
+---
+species: Sandshrew
+ingamename: "ADOU MÙIÈ"
+displayname: "ADOU MÙIÈ"
+setname: ZPP Blanc Revisit
+tags: [in-game, PWT-ZEvent, trainer+zevent]
+item: [null]
+ability: [Sand Veil]
+moves:
+    - [Fury Cutter]
+    - [Sand Tomb]
+    - [Slash]
+    - [Gyro Ball]
+gender: [m]
+happiness: 72
+hidden: False
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Mild
+ivs: {hp: 3, atk: 1, def: 5, spA: 0, spD: 0, spe: 22}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
