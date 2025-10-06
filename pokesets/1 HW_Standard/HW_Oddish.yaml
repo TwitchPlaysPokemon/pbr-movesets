@@ -11,6 +11,7 @@ moves:
     - [Tackle, Razor Wind]
     - [Mega Punch]
     - [Swords Dance]
+gender: [m,f]
 happiness: 0
 biddable: True
 rarity: 1.0
