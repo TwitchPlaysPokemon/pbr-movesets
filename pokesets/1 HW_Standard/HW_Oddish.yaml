@@ -1,0 +1,23 @@
+species: Oddish
+ingamename: "ゥ$ 4MN ゥ"
+displayname: "ゥ$ 4ᴹɴ ゥ"
+setname: Halloween-FC
+ball: [Poke]
+tags: [halloween]
+item: [null]
+ability: [null]
+moves:
+    - [Absorb]
+    - [Tackle, Razor Wind]
+    - [Mega Punch]
+    - [Swords Dance]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+shiny: True
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 4, spD: 0, spe: 252}
+nature: Lonely
+hidden: false
+---
