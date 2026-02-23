@@ -1,7 +1,7 @@
 species: Venusaur
 ingamename: FLORIZARRE
 displayname: FLORIZARRE
-setname: ZPP LeafGreen
+setname: ZPP Vert Feuille
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [Antidote]
 ability: [Overgrow]
@@ -23,7 +23,7 @@ evs: {hp: 55, atk: 58, def: 110, spA: 31, spD: 9, spe: 152}
 species: Pidgeot
 ingamename: AAAAAAAA
 displayname: AAAAAAAA
-setname: ZPP LeafGreen
+setname: ZPP Vert Feuille
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [Poké Ball]
 ability: [Keen Eye]
@@ -45,7 +45,7 @@ evs: {hp: 20, atk: 69, def: 45, spA: 38, spD: 28, spe: 120}
 species: Jolteon
 ingamename: A
 displayname: A
-setname: ZPP LeafGreen
+setname: ZPP Vert Feuille
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [null]
 ability: [Volt Absorb]
@@ -67,7 +67,7 @@ evs: {hp: 8, atk: 33, def: 44, spA: 37, spD: 34, spe: 70}
 species: Lapras
 ingamename: FLOP
 displayname: FLOP
-setname: ZPP LeafGreen
+setname: ZPP Vert Feuille
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [null]
 ability: [Water Absorb]
@@ -89,7 +89,7 @@ evs: {hp: 1, atk: 14, def: 0, spA: 0, spD: 3, spe: 16}
 species: Snorlax
 ingamename: BIDE
 displayname: BIDE
-setname: ZPP LeafGreen
+setname: ZPP Vert Feuille
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [null]
 ability: [Immunity]
@@ -111,7 +111,7 @@ evs: {hp: 0, atk: 0, def: 1, spA: 3, spD: 0, spe: 2}
 species: Sandshrew
 ingamename: SABELETTE
 displayname: SABELETTE
-setname: ZPP LeafGreen
+setname: ZPP Vert Feuille
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [null]
 ability: [Sand Veil]
@@ -132,7 +132,7 @@ evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 1}
 species: Rattata
 ingamename: LVCRYYBBB
 displayname: LVCRYYBBB
-setname: ZPP LeafGreen
+setname: ZPP Vert Feuille
 tags: [in-game, PWT-ZEvent, trainer+zevent]
 item: [null]
 ability: [Guts]

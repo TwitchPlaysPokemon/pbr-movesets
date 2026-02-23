@@ -20,3 +20,27 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 84, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
 hidden: false
+---
+species: Carnivine
+ingamename: Audrey II
+displayname: Audrey II
+setname: HalloweenII
+tags: [halloween]
+item: [Growth Mulch, Star Piece]
+ability: Gluttony
+moves:
+    - [Frenzy Plant]
+    - [Crunch]
+    - [Growth]
+    - [Sing]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 252, def: 0, spA: 8, spD: 0, spe: 0}
+hidden: false
+---
