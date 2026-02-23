@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.3
 ball: [Luxury]
 nature: Docile
 ivs: 16
@@ -49,8 +49,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.3
 ball: [Heal]
 nature: Timid
 ivs: 31
 evs: {hp: 48, atk: 0, def: 0, spA: 0, spD: 0, spe: 152}
+---
+species: Chimecho
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Simple]
+moves:
+    - [Extrasensory]
+    - [Hyper Voice]
+    - [Flash Cannon]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Master]
+nature: Timid
+ivs: 31
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}

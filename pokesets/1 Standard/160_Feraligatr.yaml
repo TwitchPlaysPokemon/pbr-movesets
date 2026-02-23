@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.33
+rarity: 0.25
 ball: [Ultra]
 nature: Modest
 ivs: 4
@@ -30,7 +30,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.33
+rarity: 0.25
 ball: [Ultra]
 nature: Modest
 ivs: 11
@@ -49,8 +49,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.33
+rarity: 0.25
 ball: [Ultra]
 nature: Lonely
 ivs: 31
 evs: {hp: 96, atk: 236, def: 0, spA: 120, spD: 0, spe: 56}
+---
+species: Feraligatr
+setname: Mega
+tags: [standard]
+item: [Water Stone]
+ability: [Anger Point]
+moves:
+    - [Waterfall]
+    - [Outrage]
+    - [Ice Fang]
+    - [Crunch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Dive]
+nature: Modest
+ivs: 11
+evs: 0

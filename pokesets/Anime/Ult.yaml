@@ -1,0 +1,38 @@
+---
+species: Sableye
+setname: Ult
+ability: [Magic Guard]
+item: [Dusk Stone]
+ball: [Poke]
+moves:
+- [Shadow Sneak]
+- [Crunch] #Throat Chop
+- [Power Gem]
+- [Confuse Ray]
+gender: [m]
+happiness: 255
+hidden: false
+biddable: true
+rarity: 1.0
+nature: Jolly
+evs: {hp: 0, atk: 252, def: 0, spA: 144, spD: 0, spe: 112}
+ivs: 31
+tags: [ult, anime]
+---
+species: Dragonite
+setname: Ult
+ability: [Marvel Scale]
+item: [Everstone]
+ball: [Dusk]
+moves:
+- [Dragon Rush]
+- [Hyper Beam]
+gender: [m]
+happiness: 255
+hidden: false
+biddable: true
+rarity: 1.0
+nature: Naive
+evs: {hp: 0, atk: 252, def: 0, spA: 144, spD: 0, spe: 112}
+ivs: 25
+tags: [ult, anime]

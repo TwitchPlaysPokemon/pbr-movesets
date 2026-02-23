@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.66
+rarity: 0.33
 ball: [Ultra]
 nature: Quiet
 evs: {hp: 0, atk: 0, def: 84, spA: 252, spD: 84, spe: 88}
@@ -30,8 +30,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 1.0
+rarity: 0.33
 ball: [Safari]
 nature: Brave
 evs: {hp: 136, atk: 252, def: 44, spA: 0, spD: 44, spe: 32}
+ivs: 31
+---
+species: Victreebel
+setname: Mega
+tags: [standard]
+item: [Leaf Stone]
+ability: [Aftermath]
+moves:
+    - [Sludge Bomb]
+    - [Spit Up, Bounce]
+    - [Swallow]
+    - [Stockpile]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.33
+ball: [Ultra]
+nature: Jolly
+evs: {hp: 252, atk: 0, def: 0, spA: 252, spD: 0, spe: 32}
 ivs: 31

@@ -30,7 +30,7 @@ moves:
 gender: [f]
 happiness: 255
 biddable: True
-rarity: 0.25
+rarity: 0.20
 ball: [Premier]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 14}
@@ -92,3 +92,22 @@ ball: [Dive]
 nature: Modest
 ivs: 20
 evs: {hp: 0, atk: 0, def: 0, spA: 188, spD: 0, spe: 0}
+---
+species: Froslass
+setname: Mega
+tags: [standard]
+item: [Dusk Stone]
+ability: [Snow Warning]
+moves:
+    - [Blizzard]
+    - [Shadow Ball]
+    - [Nasty Plot]
+    - [Grudge]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Poké]
+nature: Naughty
+ivs: 15
+evs: 70

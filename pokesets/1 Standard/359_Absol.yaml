@@ -49,7 +49,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.2
 ball: [Timer]
 nature: Timid
 ivs: 31
@@ -84,6 +84,25 @@ moves:
     - [Superpower]
     - [Aerial Ace]
     - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Master]
+nature: Timid
+ivs: {hp: 5, atk: 5, def: 5, spA: 31, spD: 5, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 136, spD: 0, spe: 224}
+---
+species: Absol
+setname: Mega-Z
+tags: [standard]
+item: [Everstone]
+ability: [Magic Guard]
+moves:
+    - [Night Slash]
+    - [Shadow Force]
+    - [Quick Attack]
+    - [Belly Drum]
 gender: [m, f]
 happiness: 255
 biddable: True

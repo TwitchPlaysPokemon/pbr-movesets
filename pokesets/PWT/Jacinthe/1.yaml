@@ -1,0 +1,60 @@
+---
+species: Mawile
+setname: PWT-Jacinthe
+tags: [in-game, PWT-Jacinthe, trainer+jacinthe]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Dragon Rush] #Play Rough
+- [Iron Head]
+- [Crunch]
+- [Fire Fang]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gardevoir
+setname: PWT-Jacinthe
+tags: [in-game, PWT-Jacinthe, trainer+jacinthe]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Dragon Pulse] #Moonblast
+- [Heat Wave] #Mystic Fire
+- [Psychic]
+- [Calm Mind]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Clefable
+setname: PWT-Jacinthe
+tags: [in-game, PWT-Jacinthe, trainer+jacinthe]
+item: [Dawn Stone] #Clefablite
+ability: [Levitate] 
+gender: [m, f]
+moves:
+- [Air Slash]
+- [Dragon Pulse] #Moonblast
+- [Heat Wave] #Mystical Fire
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

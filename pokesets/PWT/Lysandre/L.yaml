@@ -1,0 +1,40 @@
+---
+species: Sableye
+setname: PWT-L
+tags: [in-game, PWT-Lysandre, trainer+lysandre]
+item: [null]
+ability: [null]
+moves:
+- [Will-O-Wisp]
+- [Night Slash]
+- [Shadow Claw]
+- [Confuse Ray]
+gender: [m, f]
+happiness: 0
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-L
+tags: [in-game, PWT-Lysandre, trainer+lysandre]
+item: [Water Stone] #Gyaradosite
+ability: [null]
+moves:
+- [Crunch]
+- [Waterfall]
+- [Ice Fang]
+- [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -1,0 +1,40 @@
+---
+species: Altaria
+setname: PWT-Lebanne
+tags: [in-game, PWT-Lebanne, trainer+lebanne]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Barrier] #Cotton Guard
+- [Fire Spin]
+- [Aeroblast] #Hurricane
+- [Dragon Breath]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Garchomp
+setname: PWT-Lebanne
+tags: [in-game, PWT-Lebanne, trainer+lebanne]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Earthquake]
+- [Swords Dance]
+- [Dragon Claw]
+- [Iron Head]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

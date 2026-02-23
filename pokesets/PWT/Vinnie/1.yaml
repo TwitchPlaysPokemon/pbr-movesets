@@ -1,0 +1,80 @@
+---
+species: Houndoom
+setname: PWT-Vinnie
+tags: [in-game, PWT-Vinnie, trainer+vinnie]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Flamethrower]
+- [Fire Spin]
+- [Dark Pulse] #Snarl
+- [Sludge Bomb]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Sharpedo
+setname: PWT-Vinnie
+tags: [in-game, PWT-Vinnie, trainer+vinnie]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Whirlpool]
+- [Aqua Jet]
+- [Night Slash]
+- [Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Glalie
+setname: PWT-Vinnie
+tags: [in-game, PWT-Vinnie, trainer+vinnie]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Blizzard] #Freeze-Dry
+- [Earthquake]
+- [Ice Beam]
+- [Iron Head]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lopunny
+setname: PWT-Vinnie
+tags: [in-game, PWT-Vinnie, trainer+vinnie]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Protect]
+- [Dynamic Punch]
+- [Giga Drain] #Draining Kiss
+- [Bounce]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

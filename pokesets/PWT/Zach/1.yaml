@@ -1,0 +1,60 @@
+---
+species: Slowpoke
+setname: PWT-Zach
+tags: [in-game, PWT-Zach, trainer+zach]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Water Gun]
+- [Growl]
+- [Tackle] 
+- [Confusion]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Pidgey
+setname: PWT-Zach
+tags: [in-game, PWT-Zach, trainer+zach]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Tackle]
+- [Growl]
+- [Gust]
+- [Aerial Ace]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Pikachu
+setname: PWT-Zach
+tags: [in-game, PWT-Zach, trainer+zach]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Quick Attack]
+- [Swift]
+- [Thunder Wave]
+- [Thunder Shock]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

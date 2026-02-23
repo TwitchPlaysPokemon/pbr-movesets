@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.25
+rarity: 0.2
 ball: [Ultra]
 nature: Adamant
 ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
@@ -110,4 +110,23 @@ rarity: 0.05
 ball: [Master]
 nature: Adamant
 ivs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 3, spe: 0}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Heatran
+setname: Mega
+tags: [standard]
+item: [Fire Stone]
+ability: [Drought]
+moves:
+    - [Overheat]
+    - [Solar Beam]
+    - [Growth]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Master]
+nature: Adamant
+ivs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}

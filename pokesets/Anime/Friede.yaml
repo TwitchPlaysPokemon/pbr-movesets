@@ -38,3 +38,21 @@ nature: Naive
 ivs: 31
 evs: {hp: 12, atk: 176, def: 0, spA: 136, spD: 0, spe: 184}
 tags: [friede, anime]
+---
+species: Starmie
+ingamename: Cap
+displayname: Instructor Starmie
+setname: Friede
+ability: [Pure Power]
+item: [Water Stone]
+ball: [Poke]
+moves:
+- [Aqua Jet]
+- [Copycat]
+happiness: 255
+biddable: true
+rarity: 1.0
+nature: Naive
+ivs: 31
+evs: {hp: 12, atk: 176, def: 0, spA: 136, spD: 0, spe: 184}
+tags: [friede, anime]

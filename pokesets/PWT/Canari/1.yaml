@@ -1,0 +1,40 @@
+---
+species: Ampharos
+setname: PWT-Canari
+tags: [in-game, PWT-Canari, trainer+canari]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Dragon Breath] #Dazzling Gleam
+- [Thunder]
+- [Power Gem]
+- [Ice Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Manectric
+setname: PWT-Canari
+tags: [in-game, PWT-Canari, trainer+canari]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Dark Pulse] #Snarl
+- [Flamethrower]
+- [Thunderbolt]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

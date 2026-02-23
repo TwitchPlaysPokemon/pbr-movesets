@@ -54,3 +54,22 @@ ball: [Premier]
 nature: Mild
 ivs: {hp: 20, atk: 31, def: 0, spA: 31, spD: 31, spe: 0}
 evs: {hp: 0, atk: 20, def: 0, spA: 252, spD: 60, spe: 0}
+---
+species: Skarmory
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Keen Eye]
+moves:
+    - [Brave Bird]
+    - [Steel Wing]
+    - [Head Smash]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.3
+ball: [Ultra]
+nature: Hasty
+ivs: {hp: 15, atk: 20, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 76, def: 0, spA: 0, spD: 0, spe: 116}

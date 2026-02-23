@@ -50,7 +50,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.15
+rarity: 0.1
 nature: Adamant
 evs: 0
 ivs: {hp: 22, atk: 22, def: 22, spA: 2, spD: 23, spe: 18}
@@ -110,6 +110,25 @@ biddable: True
 rarity: 0.05
 nature: Serious
 evs: 0
+ivs: 31
+---
+species: Lucario
+setname: Mega-Z
+ball: [Ultra]
+tags: [standard]
+item: [Life Orb]
+ability: [Adaptability]
+moves:
+    - [Bullet Punch]
+    - [Arm Thrust]
+    - [Double Edge]
+    - [Belly Drum]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+nature: Serious
+evs: 5
 ivs: 31
 ---
 species: Lucario

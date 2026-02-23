@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.5
+rarity: 0.45
 ball: [Ultra]
 nature: Modest
 evs: 0
@@ -54,3 +54,22 @@ ball: [Master]
 nature: Modest
 evs: 0
 ivs: 0
+---
+species: Dragonite
+setname: Mega
+tags: [standard]
+item: [Sun Stone]
+ability: [Inner Focus]
+moves:
+    - [Air Cutter]
+    - [Dragon Breath]
+    - [Heal Bell]
+    - [Defog]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.05
+ball: [Luxury]
+nature: Modest
+evs: 0
+ivs: 31

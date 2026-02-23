@@ -1,0 +1,60 @@
+---
+species: Manectric
+setname: PWT-Urbain2
+tags: [in-game, PWT-Urbain, trainer+urbain]
+item: [Thunder Stone] #Manectrite
+ability: [Adaptability]
+gender: [m, f]
+moves:
+- [Dark Pulse] #Snarl
+- [Thunder]
+- [Overheat]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Meganium
+setname: PWT-Urbain2
+tags: [in-game, PWT-Urbain, trainer+urbain]
+item: [Leaf Stone] #Meganiumite
+ability: [Thick Fat]
+gender: [m, f]
+moves:
+- [Frenzy Plant]
+- [Earth Power]
+- [Icy Wind] #Dazzling Gleam
+- [Giga Drain]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Feraligatr
+setname: PWT-Urbain2
+tags: [in-game, PWT-Urbain, trainer+urbain]
+item: [Water Stone] #Feraligite
+ability: [Anger Point]
+gender: [m, f]
+moves:
+- [Outrage]
+- [Waterfall] #Liquidation
+- [Swords Dance]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

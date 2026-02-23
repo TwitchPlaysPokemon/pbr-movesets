@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.33
+rarity: 0.25
 ball: [Ultra]
 nature: Brave
 ivs: 5
@@ -30,7 +30,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.33
+rarity: 0.25
 ball: [Ultra]
 nature: Quiet
 ivs: {hp: 2, atk: 2, def: 3, spA: 2, spD: 2, spe: 3}
@@ -49,8 +49,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.33
+rarity: 0.25
 ball: [Ultra]
 nature: Adamant
 ivs: 0
 evs: 84
+---
+species: Meganium
+setname: Mega
+tags: [standard]
+item: [Leaf Stone]
+ability: [Solar Power]
+moves:
+    - [Solar Beam]
+    - [Dragon Breath]
+    - [Growth]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Poke]
+nature: Quiet
+ivs: {hp: 2, atk: 2, def: 3, spA: 0, spD: 2, spe: 3}
+evs: 70
