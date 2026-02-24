@@ -316,7 +316,7 @@ displayname: Ppppppop“O
 setname: TPP Unbound
 tags: [runmon, in-game]
 item: [Starf Berry] # Kee Berry
-ability: [Volt Absorb] # Motor Drive
+ability: [Motor Drive]
 moves:
     - [Thunder Punch] # Plasma Fists
     - [Fire Punch]
@@ -354,24 +354,3 @@ shiny: False
 nature: Adamant
 ivs: 31
 evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
----
-species: Arceus
-ingamename: HAND
-displayname: HAND
-setname: TPP Unbound
-tags: [runmon, in-game]
-item: [Iron Plate, Dread Plate, Toxic Plate, Insect Plate, Splash Plate, Earth Plate]
-ability: [Multitype]
-moves:
-    - [Judgment]
-    - [Ice Beam, Flamethrower, Dark Pulse, Energy Ball, Thunderbolt]
-    - [Calm Mind]
-    - [Recover]
-happiness: 255
-biddable: True
-rarity: 1.0
-ball: [Poke] # Heavy
-shiny: False
-nature: Timid
-ivs: 31
-evs: {hp: 252, atk: 0, def: 0, spA: 6, spD: 0, spe: 252}
