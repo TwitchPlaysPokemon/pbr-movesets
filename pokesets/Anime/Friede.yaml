@@ -40,7 +40,7 @@ evs: {hp: 12, atk: 176, def: 0, spA: 136, spD: 0, spe: 184}
 tags: [friede, anime]
 ---
 species: Starmie
-ingamename: Cap
+ingamename: InstStarmi
 displayname: Instructor Starmie
 setname: Friede
 ability: [Pure Power]

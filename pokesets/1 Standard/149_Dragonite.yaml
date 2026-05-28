@@ -59,7 +59,7 @@ species: Dragonite
 setname: Mega
 tags: [standard]
 item: [Sun Stone]
-ability: [Inner Focus]
+ability: [Filter]
 moves:
     - [Air Cutter]
     - [Dragon Breath]

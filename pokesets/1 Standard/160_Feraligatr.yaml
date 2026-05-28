@@ -59,17 +59,17 @@ species: Feraligatr
 setname: Mega
 tags: [standard]
 item: [Water Stone]
-ability: [Anger Point]
+ability: [Adaptability]
 moves:
     - [Waterfall]
     - [Outrage]
     - [Ice Fang]
-    - [Crunch]
+    - [Conversion]
 gender: [m, f]
 happiness: 255
 biddable: True
 rarity: 0.25
 ball: [Dive]
 nature: Modest
-ivs: 11
+ivs: 10
 evs: 0

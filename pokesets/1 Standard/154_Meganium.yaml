@@ -59,12 +59,12 @@ species: Meganium
 setname: Mega
 tags: [standard]
 item: [Leaf Stone]
-ability: [Solar Power]
+ability: [Drought]
 moves:
     - [Solar Beam]
-    - [Dragon Breath]
+    - [Dragon Breath, Heat Wave]
     - [Growth]
-    - [Sunny Day]
+    - [Synthesis]
 gender: [m, f]
 happiness: 255
 biddable: True

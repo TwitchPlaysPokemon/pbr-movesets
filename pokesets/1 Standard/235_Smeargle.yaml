@@ -68,8 +68,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.25
+rarity: 0.24
 ball: [Quick]
 nature: Adamant
+ivs: 31
+evs: {hp: 252, atk: 136, def: 60, spA: 0, spD: 60, spe: 0}
+---
+species: Smeargle
+setname: Smearguru
+tags: [standard]
+item: [Null]
+ability: [Serene Grace]
+moves:
+    - [Metronome]
+    - [Assist]
+    - [Copycat]
+    - [Sketch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.01
+ball: [Poke]
+nature: Naive
 ivs: 31
 evs: {hp: 252, atk: 136, def: 60, spA: 0, spD: 60, spe: 0}
