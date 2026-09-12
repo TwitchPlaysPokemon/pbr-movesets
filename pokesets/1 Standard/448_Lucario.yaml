@@ -116,8 +116,8 @@ species: Lucario
 setname: Mega-Z
 ball: [Ultra]
 tags: [standard]
-item: [Life Orb]
-ability: [Adaptability]
+item: [Sitrus Berry]
+ability: [Shell Armor] #Aura Guard - not many good defensive abilities here
 moves:
     - [Bullet Punch]
     - [Arm Thrust]
