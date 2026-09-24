@@ -1,5 +1,5 @@
 species: Blastoise
-ingamename: アキカカカ
+ingamename: "アキカカカ"
 displayname: アキカカカ
 setname: TPP JP Blue
 tags: [runmon, in-game]
@@ -21,7 +21,7 @@ ivs: {hp: 14, atk: 8, def: 14, spA: 6, spD: 6, spe: 30}
 evs: {hp: 104, atk: 116, def: 116, spA: 100, spD: 100, spe: 110}
 ---
 species: Parasect
-ingamename: ホイイイシ
+ingamename: "ホイイイシ"
 displayname: ホイイイシ
 setname: TPP JP Blue
 tags: [runmon, in-game]
@@ -43,7 +43,7 @@ ivs: {hp: 22, atk: 30, def: 8, spA: 30, spD: 30, spe: 6}
 evs: {hp: 88, atk: 98, def: 97, spA: 94, spD: 94, spe: 101}
 ---
 species: Arcanine
-ingamename: ミムフヌへ
+ingamename: "ミムフヌへ"
 displayname: ミムフヌへ
 setname: TPP JP Blue
 tags: [runmon, in-game]
@@ -65,7 +65,7 @@ ivs: {hp: 30, atk: 10, def: 18, spA: 10, spD: 10, spe: 26}
 evs: {hp: 65, atk: 72, def: 66, spA: 68, spD: 68, spe: 72}
 ---
 species: Marowak
-ingamename: ムハハチタ
+ingamename: "ムハハチタ"
 displayname: ムハハチタ
 setname: TPP JP Blue
 tags: [runmon, in-game]
@@ -87,7 +87,7 @@ ivs: {hp: 18, atk: 2, def: 24, spA: 2, spD: 2, spe: 4}
 evs: {hp: 53, atk: 60, def: 60, spA: 60, spD: 60, spe: 76}
 ---
 species: Zapdos
-ingamename: シタサスヒ
+ingamename: "シタサスヒ"
 displayname: シタサスヒ
 setname: TPP JP Blue
 tags: [runmon, in-game]
@@ -108,7 +108,7 @@ ivs: {hp: 4, atk: 24, def: 24, spA: 24, spD: 24, spe: 26}
 evs: {hp: 74, atk: 76, def: 78, spA: 81, spD: 81, spe: 90}
 ---
 species: Zapdos
-ingamename: シタサスヒ
+ingamename: "シタサスヒ"
 displayname: シタサスヒ
 setname: TPP JP Blue-2
 tags: [runmon, in-game]
@@ -151,7 +151,7 @@ ivs: {hp: 30, atk: 10, def: 22, spA: 14, spD: 14, spe: 26}
 evs: 0
 ---
 species: Venusaur
-ingamename: チツネ
+ingamename: "チツネ"
 displayname: チツネ
 setname: TPP JP Green
 tags: [runmon, in-game]
@@ -173,7 +173,7 @@ ivs: {hp: 14, atk: 20, def: 18, spA: 2, spD: 2, spe: 6}
 evs: {hp: 81, atk: 169, def: 168, spA: 164, spD: 164, spe: 162}
 ---
 species: Mewtwo
-ingamename: サカケイル
+ingamename: "サカケイル"
 displayname: サカケイル
 setname: TPP JP Green
 tags: [runmon, in-game]
@@ -194,7 +194,7 @@ ivs: {hp: 24, atk: 10, def: 22, spA: 16, spD: 16, spe: 12}
 evs: {hp: 46, atk: 168, def: 168, spA: 166, spD: 166, spe: 166}
 ---
 species: Butterfree
-ingamename: ツヌチニ
+ingamename: "ツヌチニ"
 displayname: ツヌチニ
 setname: TPP JP Green
 tags: [runmon, in-game]
@@ -216,7 +216,7 @@ ivs: {hp: 26, atk: 14, def: 30, spA: 30, spD: 30, spe: 8}
 evs: {hp: 36, atk: 42, def: 164, spA: 164, spD: 164, spe: 166}
 ---
 species: Gyarados
-ingamename: ララムメス
+ingamename: "ララムメス"
 displayname: ララムメス
 setname: TPP JP Green
 tags: [runmon, in-game]
@@ -238,7 +238,7 @@ ivs: {hp: 18, atk: 10, def: 20, spA: 10, spD: 10, spe: 8}
 evs: {hp: 44, atk: 50, def: 166, spA: 168, spD: 168, spe: 168}
 ---
 species: Fearow
-ingamename: カカロット
+ingamename: "カカロット"
 displayname: カカロット
 setname: TPP JP Green
 tags: [runmon, in-game]
@@ -260,7 +260,7 @@ ivs: {hp: 24, atk: 2, def: 14, spA: 24, spD: 24, spe: 0}
 evs: {hp: 34, atk: 164, def: 164, spA: 164, spD: 164, spe: 164}
 ---
 species: Omastar
-ingamename: アカセネヌ
+ingamename: "アカセネヌ"
 displayname: アカセネヌ
 setname: TPP JP Green
 tags: [runmon, in-game]
