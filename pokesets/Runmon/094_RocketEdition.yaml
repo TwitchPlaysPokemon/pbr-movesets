@@ -1,7 +1,7 @@
 species: Raticate
 ingamename: ppppohbb,
 displayname: ppppohbb,
-setname: TPP FR Rocket Edition
+setname: TPP Rocket Edition
 tags: [runmon, in-game]
 item: [King's Rock]
 ability: [Guts]
@@ -11,7 +11,7 @@ moves:
     - [Dig]
     - [Swords Dance]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -23,7 +23,7 @@ evs: {hp: 21, atk: 119, def: 90, spA: 68, spD: 47, spe: 91}
 species: Flareon
 ingamename: S IIvoocb
 displayname: S IIvoocb
-setname: TPP FR Rocket Edition
+setname: TPP Rocket Edition
 tags: [runmon, in-game]
 item: [Charcoal]
 ability: [Guts]
@@ -33,7 +33,7 @@ moves:
     - [Protect]
     - [Wish]
 gender: [m]
-happiness: 254
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Poke]
@@ -45,7 +45,7 @@ evs: {hp: 37, atk: 142, def: 76, spA: 65, spD: 43, spe: 104}
 species: Gyarados
 ingamename: JOE
 displayname: JOE
-setname: TPP FR Rocket Edition
+setname: TPP Rocket Edition
 tags: [runmon, in-game]
 item: [Mystic Water]
 ability: [Intimidate]
@@ -67,14 +67,14 @@ evs: {hp: 20, atk: 108, def: 98, spA: 58, spD: 16, spe: 82}
 species: Crobat
 ingamename: BAKE
 displayname: BAKE
-setname: TPP FR Rocket Edition
+setname: TPP Rocket Edition
 tags: [runmon, in-game]
 item: [null]
-ability: [Inner Focus]
+ability: [Inner Focus] #Infiltrator
 moves:
     - [Fly]
     - [Cross Poison]
-    - [Brave Bird]
+    - [Brave Bird] #Acrobatics
     - [Thief]
 gender: [m]
 happiness: 255
@@ -89,10 +89,10 @@ evs: {hp: 14, atk: 113, def: 26, spA: 71, spD: 46, spe: 61}
 species: Magneton
 ingamename: Guhn??
 displayname: Guhn??
-setname: TPP FR Rocket Edition
+setname: TPP Rocket Edition
 tags: [runmon, in-game]
-item: [Everstone]
-ability: [Magnet Pull]
+item: [Ganlon Berry, Apicot Berry] #Eviolite
+ability: [Adaptability] #Analytic
 moves:
     - [Discharge]
     - [Flash Cannon]
@@ -107,16 +107,16 @@ nature: Brave
 ivs: {hp: 7, atk: 16, def: 22, spA: 14, spD: 26, spe: 4}
 evs: {hp: 42, atk: 121, def: 77, spA: 34, spD: 52, spe: 73}
 ---
-species: Togekiss #MissingNo
+species: Togekiss #MissingNo.
 ingamename: MMMMMC, fA
 displayname: MMMMMC, fA
-setname: TPP FR Rocket Edition
+setname: TPP Rocket Edition
 tags: [runmon, in-game]
 item: [Quick Claw]
 ability: [Trace]
 moves:
     - [Aeroblast]
-    - [Ice Beam] # Super Glitch
+    - [Ice Beam] #Super Glitch
     - [Psychic]
     - [Calm Mind]
 gender: [m]
@@ -126,5 +126,5 @@ rarity: 1.0
 ball: [Master]
 shiny: False
 nature: Adamant
-ivs: {hp: 18, atk: 0, def: 24, spA: 7, spD: 7, spe: 20}
+ivs: {hp: 18, atk: 0, def: 24, spA: 7, spD: 20, spe: 7}
 evs: {hp: 4, atk: 14, def: 6, spA: 16, spD: 17, spe: 12}

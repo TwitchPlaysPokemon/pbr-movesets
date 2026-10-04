@@ -6,7 +6,7 @@ tags: [runmon, in-game]
 item: [Leftovers]
 ability: [Cute Charm]
 moves:
-    - [Hyper Voice] #Draining Kiss
+    - [Hyper Voice, Giga Drain] #Draining Kiss
     - [Toxic]
     - [Calm Mind]
     - [Moonlight]
