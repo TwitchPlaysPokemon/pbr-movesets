@@ -99,3 +99,22 @@ shiny: False
 nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 252, def: 252, spA: 252, spD: 252, spe: 252}
+---
+species: Ditto
+setname: TPP Pokopia
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Strength, Headbutt, Cut, Surf, Waterfall, Dive]
+    - [Fly, Rollout, Water Gun, Vine Whip, Rock Smash] #Glide, Leafage
+    - [Stockpile, Camouflage, Magnet Rise]
+    - [Mimic, Transform]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: 31
+evs: 252
