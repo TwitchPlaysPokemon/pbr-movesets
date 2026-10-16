@@ -3,11 +3,11 @@ ingamename: GreatATuin
 displayname: "Great A'Tuin"
 setname: Nuke
 tags: [nuke]
-item: Starf Berry
-ability: Technician
+item: Focus Sash
+ability: Pure Power
 moves:
-    - [Aqua Jet]
-    - [Shadow Sneak]
+    - [Extreme Speed]
+    - [Ice Shard]
     - [Power Trick]
     - [Cosmic Power]
 gender: [m, f]
