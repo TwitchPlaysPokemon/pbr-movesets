@@ -79,6 +79,7 @@ moves:
     - [Fire Spin]
     - [Lave Plume]
     - [Calm Mind]
+gender: [m,f]
 happiness: 255
 biddable: True
 rarity: 1
