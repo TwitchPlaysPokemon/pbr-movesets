@@ -318,8 +318,8 @@ evs: {hp: 0, atk: 40, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
 ---
 species: Mismagius
-ingamename: Walpurgis' Night
-displayname: Walpurgis
+ingamename: Walpurgis
+displayname: Walpurgis' Night
 setname: c-Metronome
 tags: [christmasmetronome]
 item: Charcoal
