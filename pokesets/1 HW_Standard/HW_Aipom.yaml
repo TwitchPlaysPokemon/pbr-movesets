@@ -20,3 +20,27 @@ nature: Modest
 ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 60, spA: 252, spD: 60, spe: 200}
 hidden: false
+---
+species: Aipom
+ingamename: MonkeyPaw
+displayname: Monkey's Paw
+setname: Halloween3
+tags: [halloween]
+item: Spell Tag
+ability: Forewarn
+moves:
+    - [Doom Desire]
+    - [Wish]
+    - [Curse]
+    - [Punishment]
+gender: [m,f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
+hidden: false
+---

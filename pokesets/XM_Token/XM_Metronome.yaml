@@ -316,3 +316,24 @@ nature: Naughty
 ivs: {hp: 0, atk: 31, def: 31, spA: 0, spD: 0, spe: 31}
 evs: {hp: 0, atk: 40, def: 0, spA: 0, spD: 0, spe: 0}
 hidden: false
+---
+species: Mismagius
+ingamename: Walpurgis
+displayname: Walpurgis' Night
+setname: c-Metronome
+tags: [christmasmetronome]
+item: Charcoal
+ability: Intimidate
+moves:
+    - [Metronome (=255)]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.0
+ball: [Dusk]
+shiny: True
+nature: Quirky
+ivs: {hp: 31, atk: 31, def: 31, spA: 4, spD: 4, spe: 0}
+evs: {hp: 0, atk: 110, def: 70, spA: 0, spD: 0, spe: 0}
+hidden: false
+---

@@ -66,3 +66,27 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
 evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
 hidden: false
+---
+species: Spiritomb
+ingamename: Hexaghost
+displayname: Hexaghost
+setname: Halloween6
+tags: [halloween]
+item: [Nugget, Moon Stone]
+ability: [Slow Start]
+moves:
+    - [Double Hit]
+    - [Fire Spin]
+    - [Lava Plume]
+    - [Calm Mind]
+gender: [m,f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+shiny: True
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 0, def: 8, spA: 252, spD: 0, spe: 0}
+hidden: false
+---
