@@ -27,12 +27,12 @@ displayname: Ken Masters
 setname: Christmas
 tags: [christmas]
 item: Focus Sash
-ability: Defiant
+ability: Justified
 moves:
     - [Flare Blitz]
     - [Bullet Punch]
     - [Seismic Toss]
-    - [Reversal]
+    - [Detect]
 gender: [m]
 happiness: 255
 biddable: True
