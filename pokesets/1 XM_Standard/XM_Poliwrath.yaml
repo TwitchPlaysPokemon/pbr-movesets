@@ -1,0 +1,23 @@
+species: Poliwrath
+ingamename: E. Honda 
+displayname: E. Honda 
+setname: Christmas
+tags: [christmas]
+item: Shoal Salt
+ability: Thick Fat
+moves:
+    - [Arm Thrust]
+    - [Skull Bash]
+    - [Iron Head]
+    - [Belly Drum]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: True
+nature: Quirky
+ivs: {hp: 31, atk: 20, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 252, atk: 8, def: 120, spA: 8, spD: 120, spe: 0}
+hidden: false
+---

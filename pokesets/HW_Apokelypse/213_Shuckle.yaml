@@ -4,10 +4,10 @@ displayname: "Great A'Tuin"
 setname: Pokelypse
 tags: ubers
 tags: [pokelypse]
-item: Starf Berry
-ability: Technician
+item: Focus Sash
+ability: Pure Power
 moves:
-    - [Aqua Jet]
+    - [Extreme Speed]
     - [Shadow Sneak]
     - [Power Trick]
     - [Cosmic Power]

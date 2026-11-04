@@ -1,0 +1,22 @@
+species: Carvanha
+ingamename: Cap'nClark
+displayname: Captain Clark
+setname: Halloween
+tags: [halloween]
+item: Rare Bone
+ability: Intimidate
+moves:
+    - [Crunch]
+    - [Secret Power]
+    - [Confuse Ray]
+    - [Mimic]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dive]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 220, atk: 52, def: 40, spA: 52, spD: 40, spe: 52}
+hidden: false
