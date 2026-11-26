@@ -1,0 +1,60 @@
+---
+species: Banette
+setname: PWT-Gwynn
+tags: [in-game, PWT-Gwynn, trainer+gwynn]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Shadow Force] #Phantom Force
+- [Shadow Claw]
+- [Knock Off]
+- [Heal Block]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gengar
+setname: PWT-Gwynn
+tags: [in-game, PWT-Gwynn, trainer+gwynn]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Shadow Ball]
+- [Icy Wind] #Dazzling Gleam
+- [Sludge Bomb]
+- [Hypnosis]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Froslass
+setname: PWT-Gwynn
+tags: [in-game, PWT-Gwynn, trainer+gwynn]
+item: [null]
+ability: [null]
+gender: [f]
+moves:
+- [Shadow Ball]
+- [Ice Beam]
+- [Water Pulse]
+- [Heal Block]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

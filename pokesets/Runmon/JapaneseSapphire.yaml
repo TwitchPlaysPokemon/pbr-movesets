@@ -1,5 +1,5 @@
 species: Blaziken
-ingamename: くけけVt
+ingamename: "くけけVt"
 displayname: くけけVt
 setname: TPP JP Sapphire
 tags: [runmon, in-game]
@@ -21,7 +21,7 @@ ivs: {hp: 1, atk: 0, def: 2, spA: 12, spD: 26, spe: 10}
 evs: {hp: 106, atk: 123, def: 58, spA: 81, spD: 30, spe: 112}
 ---
 species: Swalot
-ingamename: エスはハフ
+ingamename: "エスはハフ"
 displayname: エスはハフ
 setname: TPP JP Sapphire
 tags: [runmon, in-game]
@@ -43,7 +43,7 @@ ivs: {hp: 9, atk: 3, def: 29, spA: 25, spD: 20, spe: 12}
 evs: {hp: 74, atk: 68, def: 39, spA: 93, spD: 62, spe: 129}
 ---
 species: Lunatone
-ingamename: オソミマオ
+ingamename: "オソミマオ"
 displayname: オソミマオ
 setname: TPP JP Sapphire
 tags: [runmon, in-game]
@@ -64,7 +64,7 @@ ivs: {hp: 22, atk: 30, def: 23, spA: 19, spD: 9, spe: 13}
 evs: {hp: 47, atk: 64, def: 27, spA: 22, spD: 27, spe: 79}
 ---
 species: Donphan
-ingamename: くいやふに
+ingamename: "くいやふに"
 displayname: くいやふに
 setname: TPP JP Sapphire
 tags: [runmon, in-game]
@@ -86,7 +86,7 @@ ivs: {hp: 29, atk: 28, def: 2, spA: 10, spD: 27, spe: 17}
 evs: {hp: 32, atk: 54, def: 36, spA: 56, spD: 28, spe: 57}
 ---
 species: Dusclops
-ingamename: サンズ
+ingamename: "サンズ"
 displayname: サンズ
 setname: TPP JP Sapphire
 tags: [runmon, in-game]
@@ -108,7 +108,7 @@ ivs: {hp: 18, atk: 28, def: 30, spA: 11, spD: 3, spe: 31}
 evs: {hp: 18, atk: 51, def: 29, spA: 21, spD: 38, spe: 57}
 ---
 species: Lanturn
-ingamename: イシスハマ
+ingamename: "イシスハマ"
 displayname: イシスハマ
 setname: TPP JP Sapphire
 tags: [runmon, in-game]
@@ -130,7 +130,7 @@ ivs: {hp: 19, atk: 30, def: 19, spA: 20, spD: 22, spe: 20}
 evs: {hp: 54, atk: 51, def: 40, spA: 5, spD: 17, spe: 90}
 ---
 species: Beautifly
-ingamename: カシさうい
+ingamename: "カシさうい"
 displayname: カシさうい
 setname: TPP JP Sapphire
 tags: [runmon, in-game]

@@ -49,7 +49,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.2
 ball: [Heal]
 nature: Modest
 evs: {hp: 0, atk: 0, def: 0, spA: 80, spD: 252, spe: 0}
@@ -73,3 +73,22 @@ ball: [Timer]
 nature: Brave
 evs: {hp: 16, atk: 44, def: 32, spA: 0, spD: 0, spe: 0}
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+---
+species: Staraptor
+setname: Mega
+tags: [standard]
+item: [Everstone]
+ability: [Intimidate]
+moves:
+    - [Skull Bash]
+    - [Dynamic Punch]
+    - [Wing Attack]
+    - [Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Premier]
+nature: Timid
+evs: {hp: 40, atk: 40, def: 40, spA: 0, spD: 40, spe: 0}
+ivs: 0

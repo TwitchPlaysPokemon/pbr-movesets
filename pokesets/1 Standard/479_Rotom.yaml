@@ -46,7 +46,7 @@ moves:
     - [Thunder Wave]
 happiness: 255
 biddable: True
-rarity: 0.2
+rarity: 0.19
 ball: [Dusk]
 nature: Quiet
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
@@ -140,4 +140,22 @@ rarity: 0.05
 ball: [Cherish]
 nature: Sassy
 ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 31}
+evs: {hp: 36, atk: 0, def: 236, spA: 80, spD: 156, spe: 0}
+---
+species: Rotom
+setname: Stereo
+tags: [standard]
+item: [Mosaic Mail]
+ability: [Levitate]
+moves:
+    - [Zap Cannon]
+    - [Hyper Voice]
+    - [Hidden Power]
+    - [Metal Sound]
+happiness: 255
+biddable: True
+rarity: 0.01
+ball: [Luxury]
+nature: Naive
+ivs: {hp: 31, atk: 31, def: 30, spA: 31, spD: 30, spe: 30}
 evs: {hp: 36, atk: 0, def: 236, spA: 80, spD: 156, spe: 0}

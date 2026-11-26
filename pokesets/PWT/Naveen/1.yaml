@@ -1,0 +1,40 @@
+---
+species: Ariados
+setname: PWT-Naveen
+tags: [in-game, PWT-Naveen, trainer+naveen]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Megahorn]
+- [Poison Jab]
+- [Spider Web] #Sticky Web
+- [Leech Life]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Sableye
+setname: PWT-Naveen
+tags: [in-game, PWT-Naveen, trainer+naveen]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Shadow Claw]
+- [Zen Headbutt]
+- [Confuse Ray]
+- [Power Gem]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

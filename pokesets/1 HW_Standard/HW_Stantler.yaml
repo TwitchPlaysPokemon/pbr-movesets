@@ -43,3 +43,26 @@ nature: Serious
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
 evs: {hp: 44, atk: 156, def: 0, spA: 252, spD: 0, spe: 0}
 hidden: false
+---
+species: Stantler
+ingamename: Noelle
+displayname: Noelle
+setname: Halloween3
+tags: [halloween]
+item: Life Orb
+ability: Serene Grace
+moves:
+    - [Ice Beam]
+    - [Sheer Cold]
+    - [Dive]
+    - [Hypnosis]
+gender: [f]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Serious
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 0}
+evs: {hp: 44, atk: 156, def: 0, spA: 252, spD: 0, spe: 0}
+hidden: false

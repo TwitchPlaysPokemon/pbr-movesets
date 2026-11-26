@@ -1,0 +1,80 @@
+---
+species: Heracross
+setname: PWT-Ivor
+tags: [in-game, PWT-Ivor, trainer+ivor]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Stone Edge]
+- [Megahorn]
+- [Bulk Up]
+- [Close Combat]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Ivor
+tags: [in-game, PWT-Ivor, trainer+ivor]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Zen Headbutt]
+- [Dynamic Punch]
+- [Protect]
+- [Ice Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Machamp
+setname: PWT-Ivor
+tags: [in-game, PWT-Ivor, trainer+ivor]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Earthquake]
+- [Close Combat]
+- [Poison Jab]
+- [Bulk Up]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gallade
+setname: PWT-Ivor
+tags: [in-game, PWT-Ivor, trainer+ivor]
+item: [null]
+ability: [null]
+gender: [m]
+moves:
+- [Psycho Cut]
+- [Leaf Blade]
+- [Stone Edge]
+- [Fire Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

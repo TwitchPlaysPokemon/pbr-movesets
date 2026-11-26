@@ -20,3 +20,26 @@ nature: Jolly
 ivs: 31
 evs: {hp: 0, atk: 136, def: 56, spA: 0, spD: 64, spe: 252}
 hidden: false
+---
+species: Teddiursa
+ingamename: Bear
+displayname: Baron Bailey
+setname: Halloween2
+tags: [halloween]
+item: Destiny Knot
+ability: Run Away
+moves:
+    - [Gunk Shot]
+    - [Frustration]
+    - [Sweet Kiss]
+    - [Wish]
+gender: [m]
+happiness: 0
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+nature: Naive
+ivs: 31
+evs: {hp: 0, atk: 136, def: 56, spA: 0, spD: 64, spe: 252}
+hidden: false

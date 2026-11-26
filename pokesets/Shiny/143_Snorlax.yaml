@@ -1,0 +1,19 @@
+species: Snorlax
+setname: Shiny
+tags: [advanced,standard]
+item: [Iron Ball]
+ability: [Insomnia]
+moves:
+    - [Quick Attack]
+    - [Fling]
+    - [Dragon Dance]
+    - [Recycle]
+gender: [m, f]
+happiness: 255
+shiny: True
+biddable: False
+hidden: True
+ball: [Ultra]
+nature: Brave
+ivs: {hp: 31, atk: 31, def: 20, spA: 0, spD: 20, spe: 0}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 0, spe: 0}

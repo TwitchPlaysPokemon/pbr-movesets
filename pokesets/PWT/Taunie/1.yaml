@@ -1,0 +1,60 @@
+---
+species: Manectric
+setname: PWT-Taunie
+tags: [in-game, PWT-Taunie, trainer+taunie]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Dark Pulse] #Snarl
+- [Thunder]
+- [Overheat]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Meganium
+setname: PWT-Taunie
+tags: [in-game, PWT-Taunie, trainer+taunie]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Leech Seed]
+- [Earth Power]
+- [Icy Wind] #Dazzling Gleam
+- [Giga Drain]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Feraligatr
+setname: PWT-Taunie
+tags: [in-game, PWT-Taunie, trainer+taunie]
+item: [Water Stone] #Feraligite
+ability: [Anger Point]
+gender: [m, f]
+moves:
+- [Dragon Claw] #Breaking Swipe
+- [Waterfall] #Liquidation
+- [Ice Fang]
+- [Magnitude] #Bulldoze
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

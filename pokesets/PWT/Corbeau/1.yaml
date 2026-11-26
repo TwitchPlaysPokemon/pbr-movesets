@@ -1,0 +1,60 @@
+---
+species: Arbok
+setname: PWT-Corbeau
+tags: [in-game, PWT-Corbeau, trainer+corbeau]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Poison Jab]
+- [Fire Fang]
+- [Toxic]
+- [Leech Life]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Roserade
+setname: PWT-Corbeau
+tags: [in-game, PWT-Corbeau, trainer+corbeau]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Giga Drain]
+- [Synthesis]
+- [Sludge Bomb]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Gyarados
+setname: PWT-Corbeau
+tags: [in-game, PWT-Corbeau, trainer+corbeau]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Crunch]
+- [Waterfall]
+- [Ice Fang]
+- [Bounce]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

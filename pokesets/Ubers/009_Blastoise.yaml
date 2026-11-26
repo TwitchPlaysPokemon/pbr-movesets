@@ -1,0 +1,18 @@
+species: Blastoise
+setname: u-Mega
+tags: [ubers]
+item: [Choice Specs]
+ability: [Adaptability]
+moves:
+    - [Water Pulse]
+    - [Dark Pulse]
+    - [Aura Sphere]
+    - [Dragon Pulse]
+gender: [m, f]
+happiness: 255
+biddable: False
+rarity: 1
+ball: [Dive]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 0, def: 232, spA: 252, spD: 232, spe: 252}

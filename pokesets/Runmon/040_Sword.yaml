@@ -210,3 +210,41 @@ shiny: True
 nature: Impish
 ivs: {hp: 9, atk: 31, def: 31, spA: 31, spD: 11, spe: 31}
 evs: {hp: 39, atk: 62, def: 52, spA: 28, spD: 23, spe: 41}
+---
+species: Miltank
+ingamename: Milkshake
+displayname: Milkshake
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Scrappy]
+moves:
+    - [Metronome]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Sassy
+ivs: 31 # {hp: 30, atk: 31, def: 13, spA: 28, spD: 1, spe: 10}
+evs: {hp: 252, atk: 0, def: 40, spA: 0, spD: 200, spe: 18}
+---
+species: Sableye
+ingamename: "Chaos "
+displayname: "Chaos "
+setname: TPP Sword
+tags: [runmon, in-game]
+item: [Starf Berry]
+ability: [Keen Eye]
+moves:
+    - [Metronome]
+happiness: 255
+gender: [f]
+biddable: True
+rarity: 1.0
+ball: [Poké]
+shiny: False
+nature: Modest
+ivs: 31 # {hp: 31, atk: 13, def: 12, spA: 22, spD: 25, spe: 15}
+evs: {hp: 0, atk: 6, def: 2, spA: 252, spD: 0, spe: 250}

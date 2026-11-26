@@ -1,0 +1,21 @@
+species: Regirock
+ingamename: Zangief
+displayname: Zangief
+setname: Christmas
+tags: [christmas]
+item: Macho Brace
+ability: Guts
+moves:
+    - [Crush Grip]
+    - [Punishment]
+    - [Seismic Toss]
+    - [Bulk Up]
+happiness: 255
+biddable: False
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+nature: Naughty
+ivs: {hp: 0, atk: 0, def: 31, spA: 31, spD: 0, spe: 31}
+evs: {hp: 0, atk: 0, def: 252, spA: 0, spD: 252, spe: 0}
+hidden: False

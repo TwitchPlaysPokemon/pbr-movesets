@@ -1,0 +1,80 @@
+---
+species: Crobat
+setname: PWT-Emma
+tags: [in-game, PWT-Emma, trainer+emma]
+item: [null]
+ability: [Inner Focus]
+gender: [m]
+moves:
+- [Mean Look]
+- [Poison Fang]
+- [Haze]
+- [Air Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Persian
+setname: PWT-Emma
+tags: [in-game, PWT-Emma, trainer+emma]
+item: [null]
+ability: [Limber]
+gender: [f]
+moves:
+- [Assurance]
+- [Captivate]
+- [Night Slash]
+- [Feint]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Mawile
+setname: PWT-Emma
+tags: [in-game, PWT-Emma, trainer+emma]
+item: [null]
+ability: [Hyper Cutter]
+gender: [f]
+moves:
+- [Swallow]
+- [Spit Up]
+- [Iron Head]
+- [Dragon Rush, Stockpile] #Normally this is Play Rough, but in the last battle she used Mawile it doesn't even have Stockpile wtf? At least now it's only half-useless
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Granbull
+setname: PWT-Emma
+tags: [in-game, PWT-Emma, trainer+emma]
+item: [null]
+ability: [Intimidate]
+gender: [m]
+moves:
+- [Rage]
+- [Dragon Rush] #Play Rough
+- [Payback]
+- [Crunch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0

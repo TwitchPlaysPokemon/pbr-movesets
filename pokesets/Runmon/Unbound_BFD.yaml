@@ -1,0 +1,131 @@
+species: Phanpy
+ingamename: "Phanpy"
+displayname: "Phanpy"
+setname: TPP Unbound BFD
+tags: [runmon, in-game]
+item: [Ganlon Berry, Apicot Berry] # Eviolite
+ability: [Pickup]
+moves:
+    - [Earthquake]
+    - [Ice Shard]
+    - [Knock Off]
+    - [Stealth Rock]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra] # Heavy
+shiny: False
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 116, atk: 116, def: 196, spA: 0, spD: 36, spe: 44}
+---
+species: Eevee
+ingamename: "Eevee"
+displayname: "Eevee"
+setname: TPP Unbound BFD
+tags: [runmon, in-game]
+item: [Ganlon Berry, Apicot Berry] # Eviolite
+ability: [Adaptability]
+moves:
+    - [Return]
+    - [Protect]
+    - [Wish]
+    - [Baton Pass]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: False
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 236, atk: 0, def: 196, spA: 0, spD: 76, spe: 0}
+---
+species: Ponyta
+ingamename: "Ponyta"
+displayname: "Ponyta"
+setname: TPP Unbound BFD
+tags: [runmon, in-game]
+item: [null]
+ability: [Flash Fire]
+moves:
+    - [Flare Blitz]
+    - [Volt Tackle] # Wild Charge
+    - [Will-O-Wisp]
+    - [Morning Sun]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: False
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 4, atk: 76, def: 156, spA: 0, spD: 76, spe: 196}
+---
+species: Nidorina
+ingamename: "Joe"
+displayname: "Joe"
+setname: TPP Unbound BFD
+tags: [runmon, in-game]
+item: [Poison Barb] # Poisonium Z
+ability: [Poison Point]
+moves:
+    - [Poison Jab]
+    - [Return]
+    - [Magnitude] # Bad Tantrum (Stomping Tantrum)
+    - [Sucker Punch]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Mewtwo
+ingamename: "G"
+displayname: "G"
+setname: TPP Unbound BFD
+tags: [runmon, in-game]
+item: [Petaya Berry] # Mewtwonite Y
+ability: [Pressure] # Unnerve
+moves:
+    - [Psychic] # Psystrike
+    - [Ice Beam]
+    - [Shadow Ball]
+    - [Protect]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra] # Heavy
+shiny: False
+nature: Modest
+ivs: {hp: 31, atk: 0, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Zangoose
+ingamename: "Iiiii"
+displayname: "Iiiii"
+setname: TPP Unbound BFD
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Adaptability] # Tough Claws
+moves:
+    - [Double-Edge]
+    - [Close Combat]
+    - [Crunch] # Throat Chop
+    - [Reversal] # Final Gambit
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk] # Moon
+shiny: False
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 0, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---

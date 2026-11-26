@@ -1,156 +1,91 @@
-species: Lucario #Buuhan
-ingamename: Dad???
-displayname: Dad???
-setname: TPP DBZ Team Training
-tags: [runmon, in-game]
-item: [Exp. Share, King's Rock] #Turtle Suit, Z-Sword
-ability: [Clear Body]
-moves:
-    - [Dragon Rush]
-    - [Quick Attack] #Dash Attack
-    - [Fire Blast, Hyper Beam] #Energy Shot, Kamehameha
-    - [Recover] #Heal
-happiness: 207
-gender: [m]
-biddable: True
-rarity: 1.0
-ball: [Poké]
-shiny: False
-nature: Quirky
-ivs: {hp: 17, atk: 13, def: 15, spA: 14, spD: 12, spe: 15}
-evs: {hp: 74, atk: 98, def: 27, spA: 156, spD: 100, spe: 55}
----
-species: Mewtwo #Golden Frieza
-ingamename: Cogexx
-displayname: Cogexx
-setname: TPP DBZ Team Training
-tags: [runmon, in-game]
-item: [Amulet Coin, Blackglasses]
-ability: [Battle Armor] #Parry
-moves:
-    - [Dark Pulse] #Death Beam
-    - [Aura Sphere] #Ki Blast
-    - [Hyper Voice] #Kiai
-    - [Nasty Plot] #Hyper Mode
-happiness: 186
-biddable: True
-rarity: 1.0
-ball: [Poké]
-shiny: False
-nature: Modest
-ivs: {hp: 30, atk: 4, def: 6, spA: 14, spD: 1, spe: 30}
-evs: {hp: 23, atk: 32, def: 5, spA: 50, spD: 44, spe: 26}
----
 species: Breloom #Super Piccolo
-ingamename: Sp Piccolo
-displayname: Sp Piccolo
+ingamename: SP PICCOLO
+displayname: SP PICCOLO
 setname: TPP DBZ Team Training
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Natural Cure]
 moves:
-    - [Rolling Kick] #Kick
-    - [Solar Beam] #Makankōsappō
+    - [Double Kick] #Kick
+    - [Sheer Cold] #Makankōsappō (Special Beam Cannon)
     - [Bulk Up] #Giant Form
-    - [Synthesis] #Saisei
-happiness: 208
+    - [Recover] #Saisei (Regeneration)
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Timid
 ivs: {hp: 30, atk: 28, def: 8, spA: 10, spD: 24, spe: 20}
 evs: {hp: 8, atk: 13, def: 5, spA: 27, spD: 2, spe: 14}
 ---
-species: Scizor #C-13
-ingamename: BI
-displayname: BI
-setname: TPP DBZ Team Training
-tags: [runmon, in-game]
-item: [Null]
-ability: [Own Tempo]
-moves:
-    - [Strength]
-    - [Fly]
-    - [Mach Punch, Rock Smash] #Punch
-    - [Defense Curl] #Guard
-happiness: 188
-gender: [m]
-biddable: True
-rarity: 1.0
-ball: [Poké]
-shiny: False
-nature: Bashful
-ivs: {hp: 23, atk: 26, def: 22, spA: 10, spD: 3, spe: 23}
-evs: {hp: 2, atk: 7, def: 2, spA: 7, spD: 5, spe: 6}
----
-species: Heracross #Imperfect Cell
+species: Heracross #2nd Form Cell
 ingamename: Lube
 displayname: Lube
 setname: TPP DBZ Team Training
 tags: [runmon, in-game]
-item: [Null]
+item: [null]
 ability: [Shed Skin]
 moves:
-    - [Hyper Beam] #Kamehameha
-    - [Giga Drain] #Absorption
-    - [Solar Beam] #Makankōsappō
-    - [Synthesis] #Saisei
-happiness: 156
+    - [Flamethrower] #Kamehameha
+    - [Leech Life] #Absorption
+    - [Sheer Cold] #Makankōsappō (Special Beam Cannon)
+    - [Recover] #Saisei (Regeneration)
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Rash
 ivs: {hp: 12, atk: 31, def: 8, spA: 2, spD: 20, spe: 14}
 evs: {hp: 5, atk: 3, def: 1, spA: 8, spD: 13, spe: 2}
 ---
-species: Cacturne #Garlic 2
-ingamename: Garlic 2
-displayname: Garlic 2
+species: Lucario #Super Buu (Gohan absorbed)
+ingamename: Dad???
+displayname: Dad???
 setname: TPP DBZ Team Training
 tags: [runmon, in-game]
-item: [Null]
-ability: [Arena Trap] #Dead Zone
+item: [King's Rock] #Z-Sword
+ability: [Clear Body]
 moves:
-    - [Energy Ball]
-    - [Aurora Beam] #Eye Beam
-    - [Aura Sphere] #Ki Blast
-    - [Leer] #Guard Break
-happiness: 122
+    - [Sky Uppercut] #Dragon Rush
+    - [Extreme Speed] #Dash Attack
+    - [Flamethrower] #Kamehameha
+    - [Milk Drink] #Heal
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Ultra]
+ball: [Poke]
 shiny: False
-nature: Jolly
-ivs: {hp: 20, atk: 22, def: 25, spA: 17, spD: 28, spe: 13}
-evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+nature: Quirky
+ivs: {hp: 17, atk: 13, def: 15, spA: 14, spD: 12, spe: 15}
+evs: {hp: 74, atk: 98, def: 27, spA: 156, spD: 100, spe: 55}
 ---
-species: Magnemite #Bioman
-ingamename: MAC
-displayname: MAC
+species: Darkrai #Golden Frieza
+ingamename: Cogexx
+displayname: Cogexx
 setname: TPP DBZ Team Training
 tags: [runmon, in-game]
-item: [Null]
-ability: [Run Away]
+item: [Black Glasses]
+ability: [Battle Armor] #Parry
 moves:
-    - [Headbutt]
-    - [Cut]
-    - [Scratch]
-    - [Agility] #Speed Up
-happiness: 138
+    - [Dark Pulse] #Death Beam
+    - [Flamethrower] #Ki Blast
+    - [Psybeam, Agility] #Kiai, Speed Up
+    - [Nasty Plot] #Hyper Mode
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
-nature: Lonely
-ivs: {hp: 13, atk: 17, def: 22, spA: 11, spD: 31, spe: 5}
-evs: {hp: 0, atk: 2, def: 1, spA: 4, spD: 5, spe: 2}
+nature: Modest
+ivs: {hp: 30, atk: 4, def: 6, spA: 14, spD: 1, spe: 30}
+evs: {hp: 47, atk: 95, def: 14, spA: 128, spD: 70, spe: 44}
 ---
-species: Primeape #SS4 Gogeta
+species: Infernape #Super Saiyan 4 Gogeta
 ingamename: GRunvt
 displayname: GRunvt
 setname: TPP DBZ Team Training
@@ -158,67 +93,66 @@ tags: [runmon, in-game]
 item: [Exp. Share]
 ability: [Huge Power]
 moves:
-    - [Double Team] #Zanzoken
+    - [Double Team] #Zanzōken (Afterimage)
     - [Strength]
-    - [Solar Beam] #Genkidama
-    - [Meteor Mash] #Energy Punch
-happiness: 217
+    - [Blast Burn] #Final Kamehameha
+    - [Brick Break] #Energy Punch
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Poké]
+ball: [Poke]
 shiny: False
 nature: Lax
 ivs: {hp: 13, atk: 22, def: 17, spA: 16, spD: 22, spe: 15}
-evs: {hp: 38, atk: 99, def: 17, spA: 118, spD: 34, spe: 18}
+evs: {hp: 60, atk: 154, def: 25, spA: 193, spD: 56, spe: 22}
 ---
-species: Infernape #Lb Jiren
+species: Blaziken #Limit Breaker Jiren
 ingamename: ♂♂♂♂♂♂♂♂♂♂
 displayname: ♂♂♂♂♂♂♂♂♂♂
 setname: TPP DBZ Team Training
 tags: [runmon, in-game]
-item: [Exp. Share] #Turtle Suit
+item: [Lucky Egg] #Turtle Suit
 ability: [Huge Power]
 moves:
-    - [Mega Kick] #Dynamitekick
+    - [High Jump Kick] #Dynamite Kick
     - [Overheat] #Power Impact
     - [Nasty Plot] #Hyper Mode
     - [Strength]
-happiness: 121
 gender: [m]
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Ultra]
 shiny: False
 nature: Bashful
 ivs: {hp: 19, atk: 12, def: 18, spA: 19, spD: 8, spe: 19}
-evs: {hp: 20, atk: 42, def: 4, spA: 61, spD: 14, spe: 3}
+evs: {hp: 37, atk: 79, def: 9, spA: 121, spD: 27, spe: 7}
 ---
-species: Mightyena #Champa
-ingamename: PogCCC
-displayname: PogCCC
+species: Rayquaza #Super Shenron
+ingamename: AAAAAAAaag
+displayname: AAAAAAAaag
 setname: TPP DBZ Team Training
 tags: [runmon, in-game]
-item: [Silk Scarf] #Nyoibo
-ability: [Huge Power]
+item: [null]
+ability: [Intimidate]
 moves:
-    - [Take Down] #Boar Attack
-    - [Thrash] #Wrath
-    - [Sacred Fire] #Supernova
-    - [Dark Pulse] #Hakai Ball
-happiness: 111
-gender: [m]
+    - [Hyper Fang] #Crunch
+    - [Nasty Plot] #Wish
+    - [Milk Drink] #Heal
+    - [Draco Meteor] #Dragon Beam
+happiness: 255
 biddable: True
 rarity: 1.0
-ball: [Ultra]
+ball: [Master]
 shiny: False
 nature: Hardy
-ivs: {hp: 30, atk: 5, def: 31, spA: 24, spD: 9, spe: 0}
-evs: {hp: 0, atk: 0, def: 0, spA: 2, spD: 2, spe: 0}
+ivs: {hp: 25, atk: 3, def: 5, spA: 18, spD: 22, spe: 3}
+evs: 0
 ---
-species: Mew #Zeno
-ingamename: PogCCC
-displayname: PogCCC
+species: Porygon2 #Zeno
+ingamename: GGGMMMMMMN
+displayname: GGGMMMMMMN
 setname: TPP DBZ Team Training
 tags: [runmon, in-game]
 item: [Quick Claw] #Battle Boots
@@ -227,13 +161,12 @@ moves:
     - [Swift]
     - [Hidden Power]
     - [Dark Pulse] #Hakai Ball
-    - [Fissure] #Hakai
-happiness: 111
+    - [Sheer Cold] #Hakai
+happiness: 255
 biddable: True
 rarity: 1.0
 ball: [Ultra]
-shiny: True
-hidden: False
+shiny: False
 nature: Adamant
 ivs: {hp: 19, atk: 11, def: 29, spA: 18, spD: 6, spe: 1}
-evs: {hp: 10, atk: 12, def: 0, spA: 5, spD: 1, spe: 1}
+evs: {hp: 16, atk: 30, def: 1, spA: 20, spD: 8, spe: 1}

@@ -1,0 +1,304 @@
+species: Seaking
+ingamename: NOyyyy♀
+displayname: NOyyyy♀
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Wave Incense]
+ability: [Water Veil]
+moves:
+    - [Waterfall]
+    - [Megahorn]
+    - [Poison Jab]
+    - [Horn Drill]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naive
+ivs: {hp: 4, atk: 27, def: 18, spA: 28, spD: 8, spe: 23}
+evs: {hp: 47, atk: 98, def: 121, spA: 66, spD: 31, spe: 147}
+---
+species: Togetic
+ingamename: STimoon
+displayname: STimoon
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Shell Bell]
+ability: [Serene Grace]
+moves:
+    - [Fly]
+    - [Extrasensory]
+    - [Yawn]
+    - [Wish]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: {hp: 20, atk: 25, def: 10, spA: 2, spD: 22, spe: 29}
+evs: {hp: 40, atk: 58, def: 62, spA: 82, spD: 44, spe: 122}
+---
+species: Pichu #Spiky-eared
+ingamename: ZCIHUDO
+displayname: ZCIHUDO
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Zap Plate]
+ability: [Static]
+moves:
+    - [Volt Tackle]
+    - [Return]
+    - [Iron Tail]
+    - [Pain Split]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Naughty
+ivs: {hp: 29, atk: 1, def: 13, spA: 18, spD: 15, spe: 10}
+evs: {hp: 4, atk: 253, def: 1, spA: 0, spD: 0, spe: 252}
+---
+species: Mr. Mime
+ingamename: MEME
+displayname: MEME
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Odd Incense]
+ability: [Filter]
+moves:
+    - [Psychic]
+    - [Surf]
+    - [Acupressure]
+    - [Baton Pass]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Safari]
+shiny: False
+nature: Naive
+ivs: {hp: 18, atk: 11, def: 22, spA: 15, spD: 29, spe: 15}
+evs: {hp: 35, atk: 103, def: 100, spA: 82, spD: 52, spe: 138}
+---
+species: Tangrowth
+ingamename: AH TIStt
+displayname: AH TIStt
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Big Root]
+ability: [Leaf Guard]
+moves:
+    - [Giga Drain]
+    - [Ancient Power]
+    - [Leech Seed]
+    - [Sleep Powder]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Modest
+ivs: {hp: 5, atk: 24, def: 18, spA: 17, spD: 21, spe: 29}
+evs: {hp: 14, atk: 43, def: 135, spA: 255, spD: 22, spe: 41}
+---
+species: Mamoswine
+ingamename: OINKMON
+displayname: OINKMON
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Muscle Band]
+ability: [Snow Cloak]
+moves:
+    - [Earthquake]
+    - [Ice Fang]
+    - [Rock Climb]
+    - [Ice Shard]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Adamant
+ivs: {hp: 5, atk: 22, def: 2, spA: 9, spD: 23, spe: 27}
+evs: {hp: 18, atk: 87, def: 184, spA: 63, spD: 10, spe: 148}
+---
+species: Togekiss
+ingamename: STimoon
+displayname: STimoon
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Shell Bell]
+ability: [Serene Grace]
+moves:
+    - [Air Slash]
+    - [Extrasensory]
+    - [Yawn]
+    - [Wish]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Lonely
+ivs: {hp: 20, atk: 25, def: 10, spA: 2, spD: 22, spe: 29}
+evs: {hp: 49, atk: 81, def: 76, spA: 106, spD: 50, spe: 148}
+---
+species: Jirachi
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Wise Glasses]
+ability: [Serene Grace]
+moves:
+    - [Psychic]
+    - [Iron Head]
+    - [Draco Meteor]
+    - [Thunder]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: False
+nature: Lax
+ivs: {hp: 11, atk: 14, def: 31, spA: 16, spD: 0, spe: 26}
+evs: {hp: 29, atk: 104, def: 74, spA: 67, spD: 149, spe: 87}
+---
+species: Blissey
+ingamename: Tamago
+displayname: Tamago
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Natural Cure]
+moves:
+    - [Seismic Toss]
+    - [Thunder Wave]
+    - [Heal Bell]
+    - [Soft-Boiled]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Careful
+ivs: {hp: 27, atk: 8, def: 28, spA: 28, spD: 27, spe: 6}
+evs: {hp: 252, atk: 0, def: 254, spA: 0, spD: 0, spe: 4}
+---
+species: Froslass
+ingamename: SnowGrave
+displayname: SnowGrave
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Focus Sash]
+ability: [Snow Cloak]
+moves:
+    - [Ice Beam]
+    - [Shadow Ball]
+    - [Thunderbolt]
+    - [Destiny Bond]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Timid
+ivs: {hp: 18, atk: 15, def: 14, spA: 24, spD: 8, spe: 31}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Salamence
+ingamename: Scourge
+displayname: Scourge
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Lum Berry]
+ability: [Intimidate]
+moves:
+    - [Outrage]
+    - [Earthquake]
+    - [Substitute]
+    - [Dragon Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Adamant
+ivs: {hp: 24, atk: 22, def: 18, spA: 15, spD: 14, spe: 21}
+evs: {hp: 4, atk: 254, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Moltres
+ingamename: OGI
+displayname: OGI
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Wide Lens]
+ability: [Pressure]
+moves:
+    - [Heat Wave]
+    - [Flamethrower]
+    - [Air Slash]
+    - [Ancient Power]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Naive
+ivs: {hp: 21, atk: 8, def: 20, spA: 29, spD: 4, spe: 26}
+evs: {hp: 44, atk: 190, def: 151, spA: 75, spD: 48, spe: 2}
+---
+species: Meganium
+ingamename: "A:    !?#'"
+displayname: "A:    !?#'"
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Overgrow]
+moves:
+    - [Frenzy Plant]
+    - [Ancient Power]
+    - [Mud-Slap]
+    - [Magic Coat]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Hasty
+ivs: {hp: 14, atk: 7, def: 21, spA: 23, spD: 5, spe: 12}
+evs: {hp: 100, atk: 3, def: 100, spA: 107, spD: 100, spe: 100}
+---
+species: Psyduck
+ingamename: AWQU  YA
+displayname: AWQU  YA
+setname: TPP HeartGold
+tags: [runmon, in-game]
+item: [Bright Powder]
+ability: [Damp]
+moves:
+    - [Waterfall]
+    - [Focus Punch]
+    - [Swagger]
+    - [Substitute]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: True
+hidden: False
+nature: Naughty
+ivs: {hp: 9, atk: 18, def: 16, spA: 1, spD: 20, spe: 3}
+evs: {hp: 100, atk: 110, def: 100, spA: 0, spD: 100, spe: 100}

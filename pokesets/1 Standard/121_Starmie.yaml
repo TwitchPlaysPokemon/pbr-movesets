@@ -10,7 +10,7 @@ moves:
     - [Rapid Spin]
 happiness: 255
 biddable: True
-rarity: 0.5
+rarity: 0.25
 ball: [Net]
 nature: Adamant
 evs: {hp: 40, atk: 200, def: 40, spA: 80, spD: 40, spe: 40}
@@ -51,3 +51,21 @@ ball: [Safari]
 nature: Modest
 evs: 0
 ivs: 31
+---
+species: Starmie
+setname: Mega
+tags: [standard]
+item: [Water Stone]
+ability: [Huge Power]
+moves:
+    - [Aqua Jet]
+    - [Rolling Kick]
+    - [Rapid Spin]
+    - [Mimic]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Brave
+evs: {hp: 0, atk: 240, def: 40, spA: 80, spD: 40, spe: 0}
+ivs: 0

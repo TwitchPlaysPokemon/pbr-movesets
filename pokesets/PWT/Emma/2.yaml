@@ -1,0 +1,100 @@
+---
+species: Ampharos
+setname: PWT-Emma2
+tags: [in-game, PWT-Emma2, trainer+emma]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Thunder]
+- [Power Gem]
+- [Dragon Pulse]
+- [Light Screen]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Mawile
+setname: PWT-Emma2
+tags: [in-game, PWT-Emma2, trainer+emma]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Dragon Rush] #Play Rough
+- [Dynamic Punch]
+- [Crunch]
+- [Iron Head]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lopunny
+setname: PWT-Emma2
+tags: [in-game, PWT-Emma2, trainer+emma]
+item: [null]
+ability: [null] 
+gender: [m, f]
+moves:
+- [Fire Punch]
+- [Ice Punch]
+- [Thunder Punch]
+- [Metal Claw] #Power-Up Punch
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Abomasnow
+setname: PWT-Emma2
+tags: [in-game, PWT-Emma2, trainer+emma]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Ice Punch]
+- [Leech Seed]
+- [Leaf Storm]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Emma2
+tags: [in-game, PWT-Emma2, trainer+emma]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Bullet Punch]
+- [Extreme Speed]
+- [Mach Punch] #Power-Up Punch
+- [Stone Edge]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

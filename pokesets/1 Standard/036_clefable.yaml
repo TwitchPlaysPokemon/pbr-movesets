@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.35
+rarity: 0.25
 ball: [Heal]
 nature: Jolly
 evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
@@ -30,7 +30,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.3
+rarity: 0.25
 ball: [Dusk]
 nature: Modest
 evs: {hp: 0, atk: 172, def: 84, spA: 252, spD: 0, spe: 0}
@@ -49,8 +49,28 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.35
+rarity: 0.25
 ball: [Timer]
 nature: Impish
 evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
 ivs: 5
+---
+species: Clefable
+setname: Mega
+tags: [standard]
+item: [Moon Stone]
+ability: [Levitate]
+moves:
+    - [Hyper Voice]
+    - [Air Slash]
+    - [Dragon Pulse]
+    - [Gravity]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.25
+ball: [Ultra]
+nature: Jolly
+evs: {hp: 100, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
+ivs: 5
+---

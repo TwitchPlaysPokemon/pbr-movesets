@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.6
+rarity: 0.5
 ball: [Quick]
 nature: Careful
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
@@ -30,8 +30,27 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.3
 ball: [Quick]
 nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 172, spA: 0, spD: 0, spe: 84}
+---
+species: Skarmory
+setname: u-Mega
+tags: [ubers]
+item: [Flame Orb]
+ability: [Guts]
+moves:
+    - [Brave Bird]
+    - [Facade]
+    - [Rest]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.1
+ball: [Quick]
+nature: Lonely
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 252, atk: 0, def: 172, spA: 0, spD: 0, spe: 84}

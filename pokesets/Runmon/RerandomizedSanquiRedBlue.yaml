@@ -1,0 +1,236 @@
+species: Butterfree
+ingamename: P
+displayname: P
+setname: TPP Rerando Sanqui Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Fly]
+    - [Surf]
+    - [Thunderbolt]
+    - [Sleep Powder]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 30, def: 22, spA: 26, spD: 26, spe: 0}
+evs: {hp: 144, atk: 149, def: 144, spA: 152, spD: 152, spe: 137}
+---
+species: Staraptor
+ingamename: SCREEEE
+displayname: SCREEEE
+setname: TPP Rerando Sanqui Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Double-Edge]
+    - [Outrage]
+    - [Thunder Punch]
+    - [Signal Beam]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 16, def: 10, spA: 24, spD: 24, spe: 28}
+evs: {hp: 80, atk: 92, def: 74, spA: 96, spD: 96, spe: 74}
+---
+species: Gardevoir
+ingamename: "BCELKKU)::"
+displayname: "BCELKKU)::"
+setname: TPP Rerando Sanqui Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Dark Pulse]
+    - [Ice Beam] #Ice Punch
+    - [Calm Mind] #Amnesia
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 10, atk: 12, def: 26, spA: 6, spD: 6, spe: 20}
+evs: {hp: 94, atk: 96, def: 92, spA: 97, spD: 97, spe: 92}
+---
+species: Entei
+ingamename: TriHard
+displayname: TriHard
+setname: TPP Rerando Sanqui Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Strength]
+    - [Shadow Ball]
+    - [Magnitude] #Bulldoze
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 26, atk: 6, def: 22, spA: 10, spD: 10, spe: 12}
+evs: {hp: 104, atk: 92, def: 88, spA: 96, spD: 96, spe: 88}
+---
+species: Purugly
+ingamename: OP CAT
+displayname: OP CAT
+setname: TPP Rerando Sanqui Blue
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Strength]
+    - [Rock Slide]
+    - [Sludge]
+    - [Roost]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 4, def: 30, spA: 12, spD: 12, spe: 0}
+evs: {hp: 72, atk: 72, def: 64, spA: 72, spD: 72, spe: 62}
+---
+species: Mew
+ingamename: WEM
+displayname: WEM
+setname: TPP Rerando Sanqui Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Body Slam]
+    - [Jump Kick]
+    - [Cut]
+    - [Recover]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 14, def: 30, spA: 30, spD: 30, spe: 6}
+evs: {hp: 102, atk: 100, def: 96, spA: 98, spD: 98, spe: 96}
+---
+species: Gengar
+ingamename: PINK
+displayname: PINK
+setname: TPP Rerando Sanqui Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Flamethrower]
+    - [Surf] #Crabhammer
+    - [Dark Pulse] #Bite
+    - [Sing]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 30, atk: 30, def: 14, spA: 14, spD: 14, spe: 6}
+evs: {hp: 85, atk: 84, def: 82, spA: 81, spD: 81, spe: 76}
+---
+species: Mewtwo
+ingamename: WEHTWO
+displayname: WEHTWO
+setname: TPP Rerando Sanqui Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Psychic]
+    - [Ice Beam]
+    - [Dark Pulse]
+    - [Fly]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 12, atk: 20, def: 18, spA: 20, spD: 20, spe: 10}
+evs: {hp: 97, atk: 101, def: 100, spA: 100, spD: 100, spe: 94}
+---
+species: Mesprit
+ingamename: SPRITILIN
+displayname: SPRITILIN
+setname: TPP Rerando Sanqui Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Strength]
+    - [Drain Punch]
+    - [Swords Dance]
+    - [Sleep Powder]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 8, atk: 4, def: 18, spA: 8, spD: 8, spe: 0}
+evs: {hp: 98, atk: 104, def: 100, spA: 100, spD: 100, spe: 97}
+---
+species: Palkia
+ingamename: SPOT
+displayname: SPOT
+setname: TPP Rerando Sanqui Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Dragon Breath] #Play Rough
+    - [Aurora Beam]
+    - [Giga Drain] #Horn Leech
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 18, atk: 26, def: 16, spA: 14, spD: 14, spe: 8}
+evs: {hp: 78, atk: 77, def: 74, spA: 76, spD: 76, spe: 76}
+---
+species: Cresselia
+ingamename: CROISSANT
+displayname: CROISSANT
+setname: TPP Rerando Sanqui Red
+tags: [runmon, in-game]
+item: [null]
+ability: [null]
+moves:
+    - [Surf]
+    - [Bug Buzz] #Moonblast
+    - [Thunder Punch]
+    - [Night Slash]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Serious
+ivs: {hp: 4, atk: 4, def: 0, spA: 4, spD: 4, spe: 10}
+evs: {hp: 92, atk: 90, def: 86, spA: 89, spD: 89, spe: 85}

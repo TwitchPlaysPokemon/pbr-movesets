@@ -1,0 +1,80 @@
+---
+species: Steelix
+setname: PWT-Philippe
+tags: [in-game, PWT-Philippe, trainer+philippe]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Stone Edge]
+- [Body Slam] #Heavy Slam
+- [Stealth Rock]
+- [Dragon Claw] #Breaking Swipe
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Scizor
+setname: PWT-Philippe
+tags: [in-game, PWT-Philippe, trainer+philippe]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Protect]
+- [Iron Head]
+- [X-Scissor]
+- [Air Slash]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Aggron
+setname: PWT-Philippe
+tags: [in-game, PWT-Philippe, trainer+philippe]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Iron Tail]
+- [Rock Slide]
+- [Earthquake]
+- [Ice Punch]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Skarmory
+setname: PWT-Philippe
+tags: [in-game, PWT-Philippe, trainer+philippe]
+item: [null] #Skarmorite
+ability: [null]
+gender: [m, f]
+moves:
+- [Dig] #Drill Run
+- [Night Slash]
+- [Steel Wing]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

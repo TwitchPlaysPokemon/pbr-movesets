@@ -1,0 +1,197 @@
+species: Crawdaunt
+ingamename: Pppm33
+displayname: Pppm33
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Sea Incense]
+ability: [Adaptability]
+moves:
+    - [Waterfall]
+    - [Knock Off]
+    - [Sacred Fire] #Mustard Gas/Burning Mist
+    - [Aqua Jet]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious
+ivs: {hp: 14, atk: 3, def: 13, spA: 11, spD: 27, spe: 6}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Rapidash #Galarian
+ingamename: Oo223D
+displayname: Oo223D
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Leftovers] #Gobstopper
+ability: [Immunity] #Pastel Veil
+moves:
+    - [Psycho Cut]
+    - [Dragon Pulse] #Dazzling Gleam
+    - [Megahorn]
+    - [Morning Sun]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious #Hasty
+ivs: {hp: 16, atk: 15, def: 25, spA: 28, spD: 10, spe: 21}
+evs: {hp: 0, atk: 252, def: 0, spA: 58, spD: 0, spe: 200}
+---
+species: Arcanine #Hisuian
+ingamename: Aaaa……VVWW
+displayname: Aaaa………VVWW
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Shuca Berry] #Air Balloon
+ability: [Rock Head]
+moves:
+    - [Flare Blitz]
+    - [Head Smash]
+    - [Rock Slide]
+    - [Extreme Speed]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Serious #Calm
+ivs: {hp: 28, atk: 16, def: 13, spA: 22, spD: 14, spe: 11}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Illumise
+ingamename: Ffyyyxrrrr
+displayname: Ffyyyxrrrrrr
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Speed Boost] #Prankster
+moves:
+    - [Bug Buzz, Toxic]
+    - [Charm]
+    - [Encore]
+    - [Moonlight]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Calm
+ivs: {hp: 17, atk: 14, def: 10, spA: 10, spD: 15, spe: 30}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 6, spe: 0}
+---
+species: Ambipom
+ingamename: Gghbtunmgj
+displayname: Gghbttunnmgj
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Silk Scarf] #Loaded Dice
+ability: [Technician]
+moves:
+    - [Fake Out]
+    - [Double Hit] #Tail Slap
+    - [Dig]
+    - [Beat Up]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Serious #Rash
+ivs: {hp: 4, atk: 13, def: 24, spA: 14, spD: 14, spe: 26}
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Quagsire #Clodsire
+ingamename: k
+displayname: k
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Leftovers] #Black Sludge
+ability: [Water Absorb]
+moves:
+    - [Earthquake]
+    - [Poison Jab]
+    - [Toxic]
+    - [Recover]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Great]
+shiny: False
+nature: Careful
+ivs: {hp: 11, atk: 31, def: 29, spA: 16, spD: 9, spe: 25}
+evs: {hp: 252, atk: 252, def: 6, spA: 0, spD: 0, spe: 0}
+---
+species: Delcatty
+ingamename: Cc
+displayname: Cc
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Silk Scarf]
+ability: [Cute Charm]
+moves:
+    - [Return]
+    - [Zen Headbutt] #Play Rough
+    - [Dig]
+    - [Charm]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Jolly
+ivs: {hp: 22, atk: 20, def: 21, spA: 16, spD: 22, spe: 27}
+evs: {hp: 55, atk: 122, def: 52, spA: 89, spD: 39, spe: 94}
+---
+species: Luvdisc
+ingamename: vi7772
+displayname: vi7772
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Focus Sash]
+ability: [Swift Swim]
+moves:
+    - [Surf]
+    - [Dive]
+    - [Wish]
+    - [Rain Dance]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Premier]
+shiny: False
+nature: Gentle
+ivs: {hp: 25, atk: 12, def: 12, spA: 17, spD: 29, spe: 11}
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Blaziken
+ingamename: p
+displayname: p
+setname: TPP Anniversary Emerald
+tags: [runmon, in-game]
+item: [Reaper Cloth] #Covert Cloak
+ability: [Speed Boost]
+moves:
+    - [Reversal]
+    - [Aerial Ace]
+    - [Bulk Up]
+    - [Endure]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Bashful
+ivs: {hp: 4, atk: 5, def: 24, spA: 28, spD: 28, spe: 10}
+evs: {hp: 172, atk: 177, def: 57, spA: 0, spD: 44, spe: 60}

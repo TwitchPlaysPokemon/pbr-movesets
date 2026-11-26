@@ -1,0 +1,60 @@
+---
+species: Tyranitar
+setname: PWT-Grisham
+tags: [in-game, PWT-Grisham, trainer+grisham]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Stone Edge]
+- [Ice Punch]
+- [Crunch]
+- [Earthquake]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Salamence
+setname: PWT-Grisham
+tags: [in-game, PWT-Grisham, trainer+grisham]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Aerial Ace]
+- [Earthquake]
+- [Fire Fang]
+- [Draco Meteor]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Charizard
+setname: PWT-Grisham
+tags: [in-game, PWT-Grisham, trainer+grisham]
+item: [Fire Stone] #Charizardite X
+ability: [null] 
+gender: [m, f]
+moves:
+- [Flare Blitz]
+- [Air Slash]
+- [Dragon Rush]
+- [Protect]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

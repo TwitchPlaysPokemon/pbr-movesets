@@ -1,0 +1,270 @@
+species: Delibird
+ingamename: Dprbird9p
+displayname: Dprbird9p
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Icicle Plate]
+ability: [Technician] #Refrigerate
+moves:
+    - [Drill Peck]
+    - [Ice Punch] #Return
+    - [Ice Shard] #Extreme Speed
+    - [Brick Break]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: False
+nature: Naughty
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Sunflora
+ingamename: HAHA!
+displayname: HAHA!
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Flame Plate] #Normalium Z
+ability: [Drought]
+moves:
+    - [Seed Flare]
+    - [Weather Ball]
+    - [Sludge Bomb]
+    - [Synthesis]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Heal] #Love
+shiny: True
+hidden: False
+nature: Quirky
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Kyogre
+ingamename: logre
+displayname: logre
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Lustrous Orb] #Blue Orb
+ability: [Drizzle]
+moves:
+    - [Water Spout]
+    - [Surf] #Origin Pulse
+    - [Thunder]
+    - [Ice Beam]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: False
+nature: Bashful
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Swellow
+ingamename: Zephyr
+displayname: Zephyr
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Choice Band]
+ability: [Guts]
+moves:
+    - [Brave Bird]
+    - [Facade]
+    - [Extreme Speed]
+    - [U-turn]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Ultra]
+shiny: True
+hidden: False
+nature: Timid
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Quagsire
+ingamename: Marshmallo
+displayname: Marshmallow
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Unaware]
+moves:
+    - [Muddy Water]
+    - [Swagger]
+    - [Attract]
+    - [Recover]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+hidden: False
+nature: Naive
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 6, spD: 0, spe: 0}
+---
+species: Milotic
+ingamename: Nyla
+displayname: Nyla
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Flame Orb]
+ability: [Marvel Scale]
+moves:
+    - [Surf] #Scald
+    - [Ice Beam]
+    - [Calm Mind]
+    - [Recover]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Timer]
+shiny: True
+hidden: False
+nature: Brave
+ivs: 31
+evs: {hp: 252, atk: 0, def: 252, spA: 6, spD: 0, spe: 0}
+---
+species: Shiftry
+ingamename: Nuzzles
+displayname: Nuzzles
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Wise Glasses]
+ability: [Chlorophyll]
+moves:
+    - [Dark Pulse]
+    - [Grass Knot]
+    - [Heat Wave]
+    - [Nasty Plot]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Quick]
+shiny: True
+hidden: False
+nature: Calm
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Flygon
+ingamename: Greensmith
+displayname: Greensmith
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Leftovers]
+ability: [Tinted Lens]
+moves:
+    - [Dig]
+    - [Fly]
+    - [Whirlwind] #Dragon Tail
+    - [Sleep Talk]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+hidden: False
+nature: Mild
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Flareon
+ingamename: Kneecaps
+displayname: Kneecaps
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Choice Scarf]
+ability: [Flash Fire]
+moves:
+    - [Blaze Kick]
+    - [Volt Tackle] #Wild Charge
+    - [Dig]
+    - [Rock Slide]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Cherish]
+shiny: True
+hidden: False
+nature: Docile
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Pidgeot
+ingamename: IHHHSIJJ9
+displayname: IHHHSIJJ9
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Everstone] #Pidgeotite
+ability: [No Guard]
+moves:
+    - [Aeroblast] #Hurricane
+    - [Focus Blast]
+    - [Heat Wave]
+    - [Roost]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Calm
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Gardevoir
+ingamename: Ralgjjjtsr
+displayname: Ralgjjjtsr
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Odd Incense]
+ability: [Trace]
+moves:
+    - [Psychic]
+    - [Flamethrower] #Mystical Fire
+    - [Calm Mind]
+    - [Wish]
+gender: [f]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Poke]
+shiny: False
+nature: Docile
+ivs: 31
+evs: {hp: 6, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Hitmonlee
+ingamename: Sanji
+displayname: Sanji
+setname: TPP Photonic Sun
+tags: [runmon, in-game]
+item: [Wide Lens]
+ability: [Reckless]
+moves:
+    - [High Jump Kick]
+    - [Mega Kick]
+    - [Blaze Kick]
+    - [Bulk Up]
+gender: [m]
+happiness: 255
+biddable: True
+rarity: 1.0
+ball: [Dusk]
+shiny: True
+hidden: False
+nature: Serious
+ivs: 31
+evs: {hp: 6, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}

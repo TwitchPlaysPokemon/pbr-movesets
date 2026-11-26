@@ -1,0 +1,39 @@
+---
+species: Vaporeon
+setname: PWT-Lida
+tags: [in-game, PWT-Lida, trainer+lida]
+item: [null]
+ability: [null]
+gender: [m, f]
+moves:
+- [Aqua Ring]
+- [Blizzard]
+- [Surf]
+- [Shadow Ball]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0
+---
+species: Starmie
+setname: PWT-Lida
+tags: [in-game, PWT-Lida, trainer+lida]
+item: [Water Stone]
+ability: [Pure Power]
+moves:
+- [Zen Headbutt]
+- [Waterfall] #Liquidation
+- [Bulk Up]
+- [Blizzard]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: 0
+level: 100
+rarity: 1.0

@@ -11,7 +11,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.2
 ball: [Ultra]
 nature: Impish
 evs: {hp: 172, atk: 0, def: 128, spA: 0, spD: 128, spe: 80}
@@ -30,7 +30,7 @@ moves:
 gender: [m, f]
 happiness: 255
 biddable: True
-rarity: 0.4
+rarity: 0.2
 ball: [Heal]
 nature: Bold
 evs: {hp: 108, atk: 0, def: 100, spA: 100, spD: 100, spe: 100}
@@ -52,5 +52,43 @@ biddable: True
 rarity: 0.2
 ball: [Dive]
 nature: Docile
+evs: 85
+ivs: 9
+---
+species: Raichu
+setname: Mega X
+tags: [standard]
+item: [Thunder Stone]
+ability: [Thick Fat]
+moves:
+    - [Thunderpunch]
+    - [Rolling Kick]
+    - [Bulk Up]
+    - [Magnet Rise]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Adamant
+evs: 85
+ivs: 9
+---
+species: Raichu
+setname: Mega Y
+tags: [standard]
+item: [Thunder Stone]
+ability: [Motor Drive]
+moves:
+    - [Discharge]
+    - [Flash Cannon]
+    - [Surf]
+    - [Nasty Plot]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 0.2
+ball: [Ultra]
+nature: Adamant
 evs: 85
 ivs: 9

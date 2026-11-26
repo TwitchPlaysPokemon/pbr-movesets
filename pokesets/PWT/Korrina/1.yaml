@@ -1,0 +1,60 @@
+---
+species: Gallade
+setname: PWT-Korrina
+tags: [in-game, PWT-Korrina, trainer+korrina]
+item: [Dawn Stone] #Galladite
+ability: [null]
+gender: [m]
+moves:
+- [Dynamic Punch] #Sacred Sword
+- [Close Combat]
+- [Bulk Up]
+- [Psycho Cut]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Medicham
+setname: PWT-Korrina
+tags: [in-game, PWT-Korrina, trainer+korrina]
+item: [null] #Medichamite
+ability: [Pure Power]
+gender: [m,f]
+moves:
+- [Zen Headbutt]
+- [Dynamic Punch]
+- [Ice Punch]
+- [Recover]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
+---
+species: Lucario
+setname: PWT-Korrina
+tags: [in-game, PWT-Korrina, trainer+korrina]
+item: [Everstone] #Lucarionite Z
+ability: [null]
+gender: [m,f]
+moves:
+- [Focus Blast]
+- [Hyper Beam]
+- [Detect]
+- [Flash Cannon]
+happiness: 255
+biddable: false
+ball: [Poke]
+nature: Serious
+ivs: 0
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+level: 100
+rarity: 1.0
