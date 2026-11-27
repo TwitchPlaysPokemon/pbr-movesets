@@ -1,0 +1,30 @@
+species: Bad Egg
+setname: m-Standard
+displayname: Bad Egg-M
+ball: Cherish
+item:
+- Enigma Berry
+nature: Brave
+ivs:
+  atk: 31
+  def: 31
+  hp: 31
+  spA: 31
+  spD: 31
+  spe: 31
+evs:
+  atk: 252
+  def: 252
+  hp: 252
+  spA: 252
+  spD: 252
+  spe: 252
+moves:
+- - Metronome (=255)
+happiness: 128
+biddable: true
+rarity: 1.0
+tags:
+- metronome
+ability:
+- null
